@@ -61,9 +61,18 @@ async def dispatch_gemini(
     # We use generate_content_async. 
     # If the user passes large contexts, they should ideally be in context caching, 
     # but for now we pass them in the prompt.
+    # Configure safety settings to bypass filters for legal fact patterns
+    safety_settings = [
+        types.SafetySetting(category="HARM_CATEGORY_HATE_SPEECH", threshold="BLOCK_NONE"),
+        types.SafetySetting(category="HARM_CATEGORY_DANGEROUS_CONTENT", threshold="BLOCK_NONE"),
+        types.SafetySetting(category="HARM_CATEGORY_HARASSMENT", threshold="BLOCK_NONE"),
+        types.SafetySetting(category="HARM_CATEGORY_SEXUALLY_EXPLICIT", threshold="BLOCK_NONE"),
+    ]
+
     config = types.GenerateContentConfig(
         system_instruction=system_instruction if system_instruction else None,
         response_mime_type=response_mime_type,
+        safety_settings=safety_settings,
     )
 
     response = await client.aio.models.generate_content(
