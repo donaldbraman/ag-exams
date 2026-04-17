@@ -568,3 +568,38 @@ async def write_file(path: str, content: str) -> str:
     full_path.parent.mkdir(parents=True, exist_ok=True)
     full_path.write_text(content)
     return str(full_path)
+
+
+import shutil
+import subprocess
+
+@activity.defn
+async def wipe_directory(path: str) -> bool:
+    """Delete the specified directory if it exists."""
+    full_path = REPO_ROOT / path
+    if full_path.exists() and full_path.is_dir():
+        shutil.rmtree(full_path)
+        return True
+    return False
+
+@activity.defn
+async def commit_run_to_git(output_dir: str, scenario_name: str) -> str:
+    """Auto-commit the generated artifacts to Git."""
+    full_path = REPO_ROOT / output_dir
+    if not full_path.exists():
+        return "Directory does not exist"
+        
+    try:
+        # Add the specific directory
+        subprocess.run(["git", "add", str(full_path)], cwd=REPO_ROOT, check=True, capture_output=True)
+        
+        # Commit
+        msg = f"Auto-commit: Exam pipeline run for scenario {scenario_name}"
+        result = subprocess.run(["git", "commit", "-m", msg], cwd=REPO_ROOT, check=True, capture_output=True, text=True)
+        return result.stdout
+    except subprocess.CalledProcessError as e:
+        # If there's nothing to commit, it will exit with an error. We can catch that.
+        if "nothing to commit" in e.stdout or "working tree clean" in e.stdout:
+            return "Nothing new to commit."
+        activity.logger.warning(f"Git commit failed: {e.stderr}")
+        return f"Git commit failed: {e.stderr}"

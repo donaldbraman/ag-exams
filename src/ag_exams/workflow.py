@@ -33,6 +33,8 @@ with workflow.unsafe.imports_passed_through():
         write_artifact,
         write_file,
         write_fix_guidance,
+        wipe_directory,
+        commit_run_to_git,
     )
     from ag_exams.coverage import CoverageTracker
     from ag_exams.models import SCENARIO_MAP, ExamConfig, ExamResult
@@ -189,6 +191,14 @@ class BuildFinalExam:
 
         self._update_coverage(tracker, package_json)
 
+        # Auto-commit to Git at the very end
+        git_result = await workflow.execute_activity(
+            commit_run_to_git,
+            args=[config.output_dir, scenario_name],
+            start_to_close_timeout=timedelta(minutes=1),
+        )
+        workflow.logger.info(f"Git auto-commit result: {git_result}")
+
         return {
             "name": scenario_name,
             "converged": converged,
@@ -339,6 +349,13 @@ class BuildFinalExam:
         chapters: list[int] = scenario.chapters  # type: ignore[attr-defined]
         scenario_name: str = scenario.name  # type: ignore[attr-defined]
         questions_dir = f"{config.output_dir}/{scenario_name}-questions"
+
+        # Auto-wipe questions dir before initial writer invocation
+        await workflow.execute_activity(
+            wipe_directory,
+            args=[questions_dir],
+            start_to_close_timeout=timedelta(seconds=30),
+        )
 
         # Initial writer invocation
         self._status["phase"] = "question-writing"

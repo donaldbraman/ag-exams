@@ -28,6 +28,8 @@ from ag_exams.activities import (
     write_artifact,
     write_file,
     write_fix_guidance,
+    wipe_directory,
+    commit_run_to_git,
 )
 from ag_exams.workflow import BuildFinalExam
 
@@ -64,6 +66,8 @@ async def main() -> None:
             write_artifact,
             write_file,
             write_fix_guidance,
+            wipe_directory,
+            commit_run_to_git,
         ],
         activity_executor=activity_executor,
         max_concurrent_activities=5,
