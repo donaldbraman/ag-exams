@@ -189,6 +189,7 @@ async def dispatch_architect(
         prompt,
         model=cfg.model,
         use_diskcache=cfg.cache,
+        response_mime_type="application/json",
     )
     # Validate JSON structure
     try:
@@ -225,6 +226,7 @@ async def dispatch_critic(
         prompt,
         model=cfg.model,
         use_diskcache=cfg.cache,
+        response_mime_type="application/json",
     )
     # Check for convergence signal
     try:
@@ -279,6 +281,7 @@ async def dispatch_question_writer(
             prompt,
             model=cfg.model,
             use_diskcache=cfg.cache,
+            response_mime_type="application/json",
         )
         
         # Parse the JSON and write files
