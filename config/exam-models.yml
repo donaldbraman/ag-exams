@@ -1,0 +1,34 @@
+stages:
+  architect:
+    model: "gemini-3.1-pro-preview"
+    cache: true
+  critic:
+    model: "gemini-3.1-pro-preview"
+    cache: true
+  question_writer:
+    model: "gemini-3-flash-preview"
+    cache: false
+  grounding:
+    model: "gemini-3-flash-preview"
+    cache: true
+  grounding_per_q:
+    model: "gemini-3-flash-preview"
+    cache: true
+  adversarial:
+    model: "gemini-3.1-pro-preview"
+    cache: true
+  ambiguity_audit:
+    model: "gemini-3.1-pro-preview"
+    cache: true
+  ambiguity_audit_per_q:
+    model: "gemini-3.1-pro-preview"
+    cache: true
+  argument_pass_sonnet:
+    model: "gemini-3-flash-preview"
+    cache: true
+  argument_pass_opus:
+    model: "gemini-3.1-pro-preview"
+    cache: true
+  blind_take:
+    model: "gemini-3-flash-preview"
+    cache: false

@@ -1,0 +1,29 @@
+[project]
+name = "ag-exams"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "auth-utils",
+    "discovery",
+    "diskcache>=5.6.3",
+    "google-api-python-client>=2.194.0",
+    "httpx>=0.28.1",
+    "pin-citer",
+    "pydantic>=2.13.2",
+    "pyyaml>=6.0.3",
+    "rich>=15.0.0",
+    "temporalio>=1.26.0",
+    "tenacity>=9.1.4",
+    "typer>=0.24.1",
+    "zotero-tools",
+    "zothein",
+]
+
+[tool.uv.sources]
+auth-utils = { path = "../auth-utils", editable = true }
+discovery = { path = "../discovery", editable = true }
+zotero-tools = { path = "../zotero-tools", editable = true }
+zothein = { path = "../zothein", editable = true }
+pin-citer = { path = "../pin-citer", editable = true }
