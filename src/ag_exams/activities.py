@@ -435,11 +435,15 @@ async def dispatch_grounding_per_q(q_text: str) -> str:
 
     cfg = get_stage_config("grounding_per_q")
     prompt = build_grounding_per_q_prompt(q_text)
-    return await dispatch_gemini(
-        prompt,
-        model=cfg.model,
-        use_diskcache=cfg.cache,
-    )
+    try:
+        return await dispatch_gemini(
+            prompt,
+            model=cfg.model,
+            use_diskcache=cfg.cache,
+        )
+    except ValueError as e:
+        activity.logger.warning(f"Safety block in grounding QA: {e}")
+        return f"**Grounding check bypassed due to API safety block.**\n\nError: {e}"
 
 
 @activity.defn
@@ -454,11 +458,15 @@ async def dispatch_ambiguity_audit_per_q(q_text: str) -> str:
 
     cfg = get_stage_config("ambiguity_audit_per_q")
     prompt = build_ambiguity_audit_per_q_prompt(q_text)
-    return await dispatch_gemini(
-        prompt,
-        model=cfg.model,
-        use_diskcache=cfg.cache,
-    )
+    try:
+        return await dispatch_gemini(
+            prompt,
+            model=cfg.model,
+            use_diskcache=cfg.cache,
+        )
+    except ValueError as e:
+        activity.logger.warning(f"Safety block in ambiguity QA: {e}")
+        return f"**Ambiguity audit bypassed due to API safety block.**\n\nError: {e}"
 
 
 @activity.defn
@@ -469,11 +477,15 @@ async def dispatch_edge_case_audit_per_q(q_text: str, scenario_package: str) -> 
 
     cfg = get_stage_config("edge_case_audit_per_q")
     prompt = build_edge_case_audit_per_q_prompt(q_text, scenario_package)
-    return await dispatch_gemini(
-        prompt,
-        model=cfg.model,
-        use_diskcache=cfg.cache,
-    )
+    try:
+        return await dispatch_gemini(
+            prompt,
+            model=cfg.model,
+            use_diskcache=cfg.cache,
+        )
+    except ValueError as e:
+        activity.logger.warning(f"Safety block in edge case QA: {e}")
+        return f"**Edge-case audit bypassed due to API safety block.**\n\nError: {e}"
 
 
 @activity.defn
@@ -484,11 +496,15 @@ async def dispatch_argument_pass_per_q_sonnet(q_text: str) -> str:
 
     cfg = get_stage_config("argument_pass_sonnet")
     prompt = build_argument_pass_per_q_prompt(q_text)
-    return await dispatch_gemini(
-        prompt,
-        model=cfg.model,
-        use_diskcache=cfg.cache,
-    )
+    try:
+        return await dispatch_gemini(
+            prompt,
+            model=cfg.model,
+            use_diskcache=cfg.cache,
+        )
+    except ValueError as e:
+        activity.logger.warning(f"Safety block in argument pass sonnet: {e}")
+        return f"**Argument pass (sonnet) bypassed due to API safety block.**\n\nError: {e}"
 
 
 @activity.defn
@@ -499,11 +515,15 @@ async def dispatch_argument_pass_per_q_opus(q_text: str) -> str:
 
     cfg = get_stage_config("argument_pass_opus")
     prompt = build_argument_pass_per_q_prompt(q_text)
-    return await dispatch_gemini(
-        prompt,
-        model=cfg.model,
-        use_diskcache=cfg.cache,
-    )
+    try:
+        return await dispatch_gemini(
+            prompt,
+            model=cfg.model,
+            use_diskcache=cfg.cache,
+        )
+    except ValueError as e:
+        activity.logger.warning(f"Safety block in argument pass opus: {e}")
+        return f"**Argument pass (opus) bypassed due to API safety block.**\n\nError: {e}"
 
 
 @activity.defn

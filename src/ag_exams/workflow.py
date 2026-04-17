@@ -316,7 +316,7 @@ class BuildScenarioWorkflow:
         GROUNDING-FAIL also triggers regeneration. Convergence = all checks CLEAN/GROUNDED.
         """
         writer_retry = RetryPolicy(maximum_attempts=2, initial_interval=timedelta(seconds=10))
-        qa_retry = RetryPolicy(maximum_attempts=2, initial_interval=timedelta(seconds=5))
+        qa_retry = RetryPolicy(maximum_attempts=4, initial_interval=timedelta(seconds=5))
         chapters: list[int] = scenario.chapters  # type: ignore[attr-defined]
         scenario_name: str = scenario.name  # type: ignore[attr-defined]
         questions_dir = f"{config.output_dir}/{scenario_name}-questions"
