@@ -15,6 +15,7 @@ with workflow.unsafe.imports_passed_through():
     from ag_exams.activities import (
         delete_q_file,
         dispatch_ambiguity_audit_per_q,
+        dispatch_edge_case_audit_per_q,
         dispatch_architect,
         dispatch_argument_pass_per_q_opus,
         dispatch_argument_pass_per_q_sonnet,
@@ -24,6 +25,7 @@ with workflow.unsafe.imports_passed_through():
         dispatch_question_writer,
         extract_argument_pass_verdict,
         extract_audit_verdict,
+        extract_edge_case_verdict,
         extract_grounding_verdict,
         list_q_files,
         read_existing_package,
@@ -407,6 +409,14 @@ class BuildFinalExam:
                 )
                 qa_tasks.append(
                     workflow.execute_activity(
+                        dispatch_edge_case_audit_per_q,
+                        args=[q_text, package_json or ""],
+                        start_to_close_timeout=timedelta(minutes=12),
+                        retry_policy=qa_retry,
+                    )
+                )
+                qa_tasks.append(
+                    workflow.execute_activity(
                         dispatch_argument_pass_per_q_sonnet,
                         args=[q_text],
                         start_to_close_timeout=timedelta(minutes=12),
@@ -424,18 +434,19 @@ class BuildFinalExam:
 
             results = await asyncio.gather(*qa_tasks)
 
-            # Group by Q (4 results per Q, in order)
+            # Group by Q (5 results per Q, in order)
             per_q_results = []
             for i, q_path in enumerate(q_paths):
-                base = i * 4
+                base = i * 5
                 per_q_results.append(
                     {
                         "path": q_path,
                         "q_text": q_texts[i],
                         "grounding": results[base],
                         "audit": results[base + 1],
-                        "argpass_sonnet": results[base + 2],
-                        "argpass_opus": results[base + 3],
+                        "edge_case": results[base + 2],
+                        "argpass_sonnet": results[base + 3],
+                        "argpass_opus": results[base + 4],
                     }
                 )
             final_per_q_results = per_q_results
@@ -448,6 +459,7 @@ class BuildFinalExam:
                 for suffix, content in [
                     ("grounded", pr["grounding"]),
                     ("audit", pr["audit"]),
+                    ("edge-case", pr["edge_case"]),
                     ("argpass-sonnet", pr["argpass_sonnet"]),
                     ("argpass-opus", pr["argpass_opus"]),
                 ]:
@@ -471,6 +483,9 @@ class BuildFinalExam:
                 a = extract_audit_verdict(pr["audit"])
                 if a in ("MUST FIX", "SHOULD FIX"):
                     reasons.append(("audit", pr["audit"]))
+                e = extract_edge_case_verdict(pr["edge_case"])
+                if e in ("MUST FIX", "SHOULD FIX"):
+                    reasons.append(("edge-case", pr["edge_case"]))
                 s = extract_argument_pass_verdict(pr["argpass_sonnet"])
                 if s in ("MUST FIX", "SHOULD FIX"):
                     reasons.append(("argpass-sonnet", pr["argpass_sonnet"]))
@@ -633,15 +648,16 @@ class BuildFinalExam:
         # Per-Q verdicts table
         lines.append("## Per-Q Verdicts")
         lines.append("")
-        lines.append("| Q | Grounding | Audit | Sonnet argpass | Opus argpass |")
-        lines.append("|---|---|---|---|---|")
+        lines.append("| Q | Grounding | Audit | Edge Case | Sonnet argpass | Opus argpass |")
+        lines.append("|---|---|---|---|---|---|")
         for pr in per_q_results:
             q_stem = PurePosixPath(pr["path"]).stem
             g = extract_grounding_verdict(pr["grounding"])
             a = extract_audit_verdict(pr["audit"])
+            e = extract_edge_case_verdict(pr["edge_case"])
             s = extract_argument_pass_verdict(pr["argpass_sonnet"])
             o = extract_argument_pass_verdict(pr["argpass_opus"])
-            lines.append(f"| {q_stem} | {g} | {a} | {s} | {o} |")
+            lines.append(f"| {q_stem} | {g} | {a} | {e} | {s} | {o} |")
         lines.append("")
 
         # Flagged items needing professor review
@@ -655,7 +671,8 @@ class BuildFinalExam:
                     lines.append(f"- Flagged by: **{source}**")
                 lines.append(
                     f"- Full QA artifacts: `{q_stem}-grounded.md`, "
-                    f"`{q_stem}-audit.md`, `{q_stem}-argpass-sonnet.md`, "
+                    f"`{q_stem}-audit.md`, `{q_stem}-edge-case.md`, "
+                    f"`{q_stem}-argpass-sonnet.md`, "
                     f"`{q_stem}-argpass-opus.md`"
                 )
                 lines.append("")

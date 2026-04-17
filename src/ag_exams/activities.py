@@ -9,7 +9,7 @@ from pathlib import Path
 
 from temporalio import activity
 
-REPO_ROOT = Path(__file__).resolve().parents[3]
+REPO_ROOT = Path(__file__).resolve().parents[2]
 
 
 # ---------------------------------------------------------------------------
@@ -106,6 +106,12 @@ def extract_audit_verdict(q_text: str) -> str:
     return m.group(1) if m else "MISSING"
 
 
+def extract_edge_case_verdict(q_text: str) -> str:
+    """Return 'CLEAN' | 'SHOULD FIX' | 'MUST FIX' | 'MISSING'."""
+    m = re.search(r"<!--\s*edge-case-audit:\s*(MUST FIX|SHOULD FIX|CLEAN)", q_text)
+    return m.group(1) if m else "MISSING"
+
+
 def extract_argument_pass_verdict(q_text: str) -> str:
     """Return 'CLEAN' | 'SHOULD FIX' | 'MUST FIX' | 'MISSING'."""
     m = re.search(r"<!--\s*argument-pass:\s*(MUST FIX|SHOULD FIX|CLEAN)", q_text)
@@ -125,6 +131,9 @@ def is_q_flagged(q_text: str) -> tuple[bool, list[str]]:
     audit = extract_audit_verdict(q_text)
     if audit in ("MUST FIX", "SHOULD FIX"):
         reasons.append(f"audit: {audit}")
+    edge_case = extract_edge_case_verdict(q_text)
+    if edge_case in ("MUST FIX", "SHOULD FIX"):
+        reasons.append(f"edge-case: {edge_case}")
     argpass = extract_argument_pass_verdict(q_text)
     if argpass in ("MUST FIX", "SHOULD FIX"):
         reasons.append(f"argument-pass: {argpass}")
@@ -421,6 +430,21 @@ async def dispatch_ambiguity_audit_per_q(q_text: str) -> str:
 
     cfg = get_stage_config("ambiguity_audit_per_q")
     prompt = build_ambiguity_audit_per_q_prompt(q_text)
+    return await dispatch_gemini(
+        prompt,
+        model=cfg.model,
+        use_diskcache=cfg.cache,
+    )
+
+
+@activity.defn
+async def dispatch_edge_case_audit_per_q(q_text: str, scenario_package: str) -> str:
+    """3-check Edge-Case audit on one Q. Checks for booby traps and cross-Q spoilers."""
+    from ag_exams.model_config import get_stage_config
+    from ag_exams.prompts import build_edge_case_audit_per_q_prompt
+
+    cfg = get_stage_config("edge_case_audit_per_q")
+    prompt = build_edge_case_audit_per_q_prompt(q_text, scenario_package)
     return await dispatch_gemini(
         prompt,
         model=cfg.model,

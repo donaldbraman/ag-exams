@@ -907,6 +907,65 @@ Output the complete Q (verbatim) with the audit block appended at the end.
 """
 
 
+def build_edge_case_audit_per_q_prompt(q_text: str, scenario_package: str) -> str:
+    """Three-check deep legal reasoning audit for Edge Cases on a SINGLE Q.
+
+    Checks for Fact Pattern Booby Traps, Cross-Doctrine Clashes, and
+    Cross-Question Spoilers. Uses the full scenario package as context to catch
+    spoilers from other questions.
+    """
+    return f"""You are a specialized Edge-Case Auditor for criminal law exam questions. \
+Your sole job is to catch deep legal reasoning traps that structural QA might miss. \
+You must hunt for scenarios where the given facts inadvertently trigger unintended \
+defenses, or where questions spoil one another.
+
+## The Full Scenario Package (For Context)
+Review this to understand what facts other questions rely on or establish:
+{scenario_package}
+
+## The Target Question to Audit
+{q_text}
+
+## The Three Edge-Case Checks
+
+1. **Fact Pattern Booby Traps**: Scan the Target Question and the stem for extreme modifiers \
+(e.g., "only key", "triple-normal dose", "completely physically impossible"). \
+Do these extreme adjectives inadvertently trigger an un-tested limiting doctrine \
+(like independent superseding cause, physical impossibility, or involuntary act) \
+that destroys the intended legal outcome of this specific question?
+
+2. **Cross-Doctrine Clashes**: Does the defendant's underlying conduct simultaneously \
+trigger a distinct limiting doctrine (e.g., Legal Wrong Doctrine, Merger, Wharton's Rule, \
+or grading exceptions) that would override the tested doctrine and alter the ultimate legal conclusion?
+
+3. **Cross-Question Spoilers**: Read the Full Scenario Package context. Does the premise, \
+fact establishment, or forced legal conclusion of *another* question in this package \
+spoil, conflict with, or alter the correct legal analysis of the Target Question? \
+(e.g., if Q1 tests a rule in a vacuum, but Q12 establishes a 10-year penalty that overrides it).
+
+## Output
+
+Append ONE of the following blocks to the bottom of the Q as-is. Do NOT \
+rewrite the Q itself; append only the audit block.
+
+```
+<!-- edge-case-audit: <VERDICT>
+1. Fact Pattern Booby Traps: <finding or "pass">
+2. Cross-Doctrine Clashes: <finding or "pass">
+3. Cross-Question Spoilers: <finding or "pass">
+Recommended fix: <concrete edit, if applicable>
+-->
+```
+
+Where VERDICT is:
+- **CLEAN** — all checks pass.
+- **SHOULD FIX** — there is a mild clash or edge case that makes the answer debatable, but not entirely broken.
+- **MUST FIX** — an extreme fact, clashing doctrine, or spoiler from another question makes the marked answer legally incorrect or introduces a second completely valid answer.
+
+Output the complete Q (verbatim) with the edge-case-audit block appended at the end.
+"""
+
+
 def build_argument_pass_per_q_prompt(q_text: str) -> str:
     """5-per-option argument pass for a SINGLE Q.
 
