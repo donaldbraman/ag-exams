@@ -88,14 +88,19 @@ async def process_rewrite(sem, q_name, original_question, scenario_text, reasons
     cfg = get_stage_config("question_writer")
     
     async with sem:
-        try:
-            print(f"Rewriting {q_name}...")
-            result = await dispatch_gemini(prompt, model=cfg.model, use_diskcache=False)
-            print(f"Finished rewriting {q_name}")
-            return q_name, result
-        except Exception as e:
-            print(f"Error rewriting {q_name}: {e}")
-            return q_name, original_question # fallback
+        for attempt in range(2):
+            try:
+                print(f"Rewriting {q_name} (Attempt {attempt+1})...")
+                result = await dispatch_gemini(prompt, model=cfg.model, use_diskcache=False)
+                print(f"Finished rewriting {q_name}")
+                return q_name, result
+            except Exception as e:
+                if "empty or blocked" in str(e).lower() and attempt == 0:
+                    print(f"Safety block on {q_name}. Self-healing retry...")
+                    prompt += "\n\nCRITICAL INSTRUCTION: Your previous attempt to respond was blocked by safety filters. Please try again. To avoid safety blocks, abstract away any graphic, violent, sexual, or sensitive details in your question text. Focus purely on the legal doctrine."
+                else:
+                    print(f"Error rewriting {q_name}: {e}")
+                    return q_name, original_question # fallback
 
 async def main():
     qa_path = "qa_results.md"

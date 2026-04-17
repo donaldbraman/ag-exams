@@ -17,33 +17,42 @@ from ag_exams.prompts import (
     build_argument_pass_per_q_prompt,
 )
 
-async def dispatch_with_sem(sem, prompt, model, use_diskcache):
+async def dispatch_with_sem(sem, prompt, model, use_diskcache, audit_type=None):
     async with sem:
-        try:
-            return await dispatch_gemini(prompt, model=model, use_diskcache=use_diskcache)
-        except Exception as e:
-            return f"Error: {e}"
+        for attempt in range(2):
+            try:
+                return await dispatch_gemini(prompt, model=model, use_diskcache=use_diskcache)
+            except Exception as e:
+                if "empty or blocked" in str(e).lower() and attempt == 0:
+                    print(f"Safety block on {audit_type}. Self-healing retry...")
+                    prompt += "\n\nCRITICAL INSTRUCTION: Your previous attempt to respond was blocked by safety filters. Please try again. To avoid safety blocks, abstract away any graphic, violent, sexual, or sensitive details in your reasoning. Focus purely on the legal doctrine and structural analysis."
+                else:
+                    if audit_type == "grounding":
+                        return f"<!-- grounding: GROUNDING-FAIL -->\n\n**Safety Block Triggered.**\n\nError: {e}"
+                    elif audit_type:
+                        return f"<!-- {audit_type}: MUST FIX -->\n\n**Safety Block Triggered.**\n\nError: {e}"
+                    return f"Error: {e}"
 
 async def process_question(sem, q_text, scenario_text, q_name):
     # 1. Grounding
     cfg_gr = get_stage_config("grounding_per_q")
-    t1 = dispatch_with_sem(sem, build_grounding_per_q_prompt(q_text), cfg_gr.model, cfg_gr.cache)
+    t1 = dispatch_with_sem(sem, build_grounding_per_q_prompt(q_text), cfg_gr.model, cfg_gr.cache, "grounding")
     
     # 2. Ambiguity
     cfg_am = get_stage_config("ambiguity_audit_per_q")
-    t2 = dispatch_with_sem(sem, build_ambiguity_audit_per_q_prompt(q_text), cfg_am.model, cfg_am.cache)
+    t2 = dispatch_with_sem(sem, build_ambiguity_audit_per_q_prompt(q_text), cfg_am.model, cfg_am.cache, "audit")
     
     # 3. Edge Case
     cfg_ec = get_stage_config("edge_case_audit_per_q")
-    t3 = dispatch_with_sem(sem, build_edge_case_audit_per_q_prompt(q_text, scenario_text), cfg_ec.model, cfg_ec.cache)
+    t3 = dispatch_with_sem(sem, build_edge_case_audit_per_q_prompt(q_text, scenario_text), cfg_ec.model, cfg_ec.cache, "edge-case-audit")
     
     # 4. Arg Pass Sonnet
     cfg_son = get_stage_config("argument_pass_sonnet")
-    t4 = dispatch_with_sem(sem, build_argument_pass_per_q_prompt(q_text), cfg_son.model, cfg_son.cache)
+    t4 = dispatch_with_sem(sem, build_argument_pass_per_q_prompt(q_text), cfg_son.model, cfg_son.cache, "argument-pass")
     
     # 5. Arg Pass Opus
     cfg_op = get_stage_config("argument_pass_opus")
-    t5 = dispatch_with_sem(sem, build_argument_pass_per_q_prompt(q_text), cfg_op.model, cfg_op.cache)
+    t5 = dispatch_with_sem(sem, build_argument_pass_per_q_prompt(q_text), cfg_op.model, cfg_op.cache, "argument-pass")
     
     res = await asyncio.gather(t1, t2, t3, t4, t5)
     print(f"Finished processing {q_name}")
