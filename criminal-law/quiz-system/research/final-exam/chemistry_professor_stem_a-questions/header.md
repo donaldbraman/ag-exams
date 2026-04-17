@@ -1,17 +1,18 @@
-# Scenario: Toxic Synthesis
+## Scenario: The Chemist's Bargain
 
 ### Facts
 
-1. Arthur Pendelton and his former graduate student, Silas Vance, spent three weeks working together in a rented commercial warehouse to synthesize and package a Schedule I synthetic cathinone.
-2. Due to an error in a purification step, the inaugural batch contained a highly toxic chemical byproduct.
-3. Based on a miscalibrated spectrometry machine, Arthur honestly and genuinely believed the batch was 99% pure and completely free of toxic byproducts.
-4. Arthur explicitly told Silas the batch was "perfectly safe and pure," and Silas genuinely believed him.
-5. In a motel room, Silas sold two grams of the stimulant to Julian for $200.
-6. Wanting to observe the drug's effects, Arthur encouraged Julian to try it, and Julian voluntarily snorted a line of the stimulant while Arthur and Silas watched.
-7. Within two minutes, Julian collapsed to the floor, convulsing and clutching his chest.
-8. Silas pulled out his cell phone and stated, "He's dying, I'm calling 911."
-9. Arthur knocked the phone out of Silas's hand, shattering it, and stated: "If the ambulance comes, the police come. I lose my treatment money. It's just a bad reaction, he will sleep it off."
-10. Arthur and Silas immediately left the motel room, and Arthur locked the door from the outside to ensure no one could easily enter.
-11. Silas verbally protested Arthur's actions, but panicked and drove their getaway car away from the motel to avoid getting caught.
-12. Julian died from acute cardiac arrhythmia. The medical examiner established that standard anti-arrhythmia medication would have provided a 95% chance of survival if paramedics had been called when Julian collapsed.
-13. After fleeing, Arthur placed the remaining 50 grams of the drug in the trunk of Silas's car. Silas kept the only set of car keys and knew the drugs were in the trunk, but he refused to distribute any more of it.
+1. Arthur Pendelton, a 55-year-old tenured chemistry professor, received a terminal liver cancer diagnosis. Desperate for experimental treatment funding, he partnered with his former graduate student, Silas Vance.
+2. Arthur synthesized 500 grams of a chemical that is actually a Schedule I controlled substance. However, Arthur knew the exact molecular structure he was synthesizing, but misread the regulatory database, genuinely believing the structure was an unscheduled, fully legal designer supplement (a "nootropic").
+3. Silas did not participate in the synthesis but purchased the specialized glassware, knowing exactly what Arthur would use it for, in exchange for a 20% cut of the sales.
+4. Arthur and Silas met a buyer, Julian Reed, in a motel room. The 500 grams were in Arthur's backpack. During the transaction, Silas freely reached into Arthur's backpack to take two grams of the substance to give to Julian.
+5. Julian voluntarily ingested the two grams. Minutes later, Julian collapsed to the floor and began convulsing violently.
+6. Silas pulled out his cell phone and stated, "He's dying, I'm calling 911."
+7. Arthur knocked the phone out of Silas's hand and stepped on it, shattering the screen. Arthur said, "If the ambulance comes, the police come. I lose my job and my treatment money. It's just a bad reaction, he will sleep it off." Arthur genuinely believed Julian would recover.
+8. Arthur then told Silas, "We're leaving." Silas protested but ultimately followed Arthur out of the room.
+9. Arthur locked the motel room door from the outside as they left. The motel room did not have a landline telephone or any other method for Julian to summon assistance.
+10. The medical examiner concluded that Julian died from acute cardiac arrhythmia caused by the substance. The ME established that if paramedics had been called when Julian collapsed, standard anti-arrhythmia medication would have provided a 95% chance of survival.
+
+### Stem 1: The Prosecutor's Memo
+
+We are moving forward with homicide and distribution charges against Arthur Pendelton and Silas Vance. The defense has submitted a memo arguing that Arthur's genuine belief he was making a legal supplement shields him from the distribution charges, that Julian caused his own death by choosing to ingest the drug, and that Arthur lacked the mens rea for murder because he genuinely didn't know Julian was in mortal danger. Furthermore, Silas's attorney claims Silas withdrew from the conspiracy when he tried to call 911 and shouldn't be liable for the murder. Evaluate these defenses and the viability of our felony murder, inchoate, and unintentional homicide theories.

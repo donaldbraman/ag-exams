@@ -73,6 +73,8 @@ async def dispatch_gemini(
     )
     
     result = response.text
+    if not result:
+        raise ValueError("Model returned empty or blocked response.")
 
     import time
     try:
