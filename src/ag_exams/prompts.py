@@ -296,7 +296,7 @@ def build_question_writer_prompt(
     statutes: str,
     questions_dir: str,
     header_path: str,
-) -> str:
+) -> tuple[str, str]:
     """Build the full prompt for the exam-question-writer agent.
 
     Uses the one-file-per-Q resumable pattern: writer emits each question as
@@ -310,14 +310,10 @@ def build_question_writer_prompt(
     exclusions_block = _load_exam_exclusions()
     exclusions_section = f"\n{exclusions_block}\n" if exclusions_block else ""
 
-    return f"""You are the exam question writer. Transform the converged scenario \
+    system_instruction = f"""You are the exam question writer. Transform the converged scenario \
 package into publication-quality multiple-choice exam questions.
 
 {body}
-
-## Converged Scenario Package
-
-{scenario_package}
 
 ## Federal Statutes (provided to students on the exam)
 
@@ -333,32 +329,31 @@ package into publication-quality multiple-choice exam questions.
 
 {_MAPS_USAGE_INSTRUCTIONS}
 {exclusions_section}
-## Output Protocol — JSON Response
+## Output Protocol — Markdown Output
 
-Since you do not have direct file-system access, you must output your questions \
-as a single JSON object. The Python orchestrator will parse this and write the \
-files to disk on your behalf.
+Output your questions in pure Markdown. Separate each file using exactly this delimiter format:
 
-Your output MUST be a valid JSON object matching this exact structure:
+---FILE: header.md---
+# Scenario Header
 
-```json
-{{
-  "header_content": "# Scenario Header\\n\\nThe fact pattern...",
-  "questions": [
-    {{
-      "q_num": 1,
-      "content": "**Q1.** What is the crime?\\n\\n(a) Option...\\n\\n**Answer:** (a)\\n\\n**Explanation:** ...\\n\\n**Tags:** ...\\n\\n**Grounding:** ..."
-    }}
-  ]
-}}
-```
+The fact pattern...
 
-Do NOT emit prose outside the JSON. Do NOT wrap the JSON in Markdown code blocks \
-if it would cause parsing errors (just emit the raw JSON, or ensure the code block \
-is strictly formatted).
+---FILE: q01.md---
+**Q1.** What is the crime?
 
-**Count discipline**: produce ONE object in the `questions` array per stub in the \
-scenario package. If the package lists 10 stubs, emit 10 questions and STOP.
+(a) Option...
+
+**Answer:** (a)
+
+**Explanation:** ...
+
+**Tags:** ...
+
+**Grounding:** ...
+
+Do NOT wrap the entire output in JSON or Markdown code blocks. Just emit the raw file delimiters and content.
+
+**Count discipline**: produce one `---FILE: qNN.md---` block per stub in the scenario package. If the package lists 10 stubs, emit 10 question blocks and STOP.
 
 ## Per-Question Format Rules (applies to the `content` string)
 
@@ -399,6 +394,14 @@ line (e.g., `(b) <option text> <!-- correct -->`).
 - Tags: one line.
 - Grounding: one line.
 """
+
+    contents = f"""## Converged Scenario Package
+
+{scenario_package}
+"""
+
+    return system_instruction, contents
+
 
 
 def build_grounding_prompt(questions_text: str, chapter_paths: list[str]) -> str:

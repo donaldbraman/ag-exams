@@ -263,7 +263,7 @@ async def dispatch_question_writer(
     questions_dir.mkdir(parents=True, exist_ok=True)
     header_path = questions_dir / "header.md"
 
-    prompt = build_question_writer_prompt(
+    system_instruction, prompt = build_question_writer_prompt(
         scenario_package,
         chapters,
         statutes,
@@ -277,30 +277,27 @@ async def dispatch_question_writer(
 
     cfg = get_stage_config("question_writer")
     try:
-        result_json = await dispatch_gemini(
+        result_text = await dispatch_gemini(
             prompt,
+            system_instruction=system_instruction,
             model=cfg.model,
             use_diskcache=cfg.cache,
-            response_mime_type="application/json",
+            response_mime_type="text/plain",
         )
         
-        # Parse the JSON and write files
-        parsed = json.loads(_extract_json(result_json))
-        
-        # Write header
-        if "header_content" in parsed:
-            header_path.write_text(parsed["header_content"])
-            
-        # Write questions
-        for q in parsed.get("questions", []):
-            q_num = q.get("q_num")
-            content = q.get("content")
-            if q_num is not None and content:
-                q_file = questions_dir / f"q{q_num:02d}.md"
+        # Parse the Markdown output using regex
+        file_blocks = re.split(r"---FILE:\s*(.+?)\s*---", result_text)
+        for i in range(1, len(file_blocks), 2):
+            filename = file_blocks[i].strip()
+            content = file_blocks[i+1].strip()
+            if filename == "header.md":
+                header_path.write_text(content)
+            elif filename.startswith("q") and filename.endswith(".md"):
+                q_file = questions_dir / filename
                 q_file.write_text(content)
                 
     except Exception as e:
-        activity.logger.warning(f"question-writer failed or returned invalid JSON: {e}")
+        activity.logger.warning(f"question-writer failed: {e}")
         raise  # Let Temporal retry
 
     # Run structural validator per q file. Delete any that fail — Option A's
