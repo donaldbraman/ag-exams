@@ -155,7 +155,7 @@ async def get_status(workflow_id: str) -> None:
 
 def _parse_start_args(args: list[str]) -> ExamConfig:
     """Parse CLI arguments for the start command into an ExamConfig."""
-    scenarios: list[str] = ["all"]
+    scenarios: list[str] = []
     dry_run = False
     skip_grounding = False
     skip_adversarial = False
@@ -165,7 +165,7 @@ def _parse_start_args(args: list[str]) -> ExamConfig:
     i = 0
     while i < len(args):
         if args[i] == "--scenario" and i + 1 < len(args):
-            scenarios = [args[i + 1]]
+            scenarios.append(args[i + 1])
             i += 2
         elif args[i] == "--output-dir" and i + 1 < len(args):
             output_dir = args[i + 1]
@@ -183,8 +183,11 @@ def _parse_start_args(args: list[str]) -> ExamConfig:
             reuse_whiteboard = True
             i += 1
         else:
-            scenarios = [args[i]]
+            scenarios.append(args[i])
             i += 1
+
+    if not scenarios:
+        scenarios = ["all"]
 
     return ExamConfig(
         scenarios=scenarios,
