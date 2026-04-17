@@ -8,3 +8,248 @@ Executing workflow: exam-chemistry_professor_stem_a-1776460128
 Note: If the workflow pauses for human review, run in another terminal:
   uv run python -m ag_exams.cli approve exam-chemistry_professor_stem_a-1776460128
 
+Completing activity as failed ({'activity_id': '41', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 1, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-duty_omission-019d9d3f-91e8-7055-a6bb-ded5adf240c1', 'workflow_run_id': '019d9d3f-920d-7687-b332-702943647542', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+Completing activity as failed ({'activity_id': '46', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 1, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-duty_omission-019d9d3f-91e8-7055-a6bb-ded5adf240c1', 'workflow_run_id': '019d9d3f-920d-7687-b332-702943647542', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+Completing activity as failed ({'activity_id': '56', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 1, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-duty_omission-019d9d3f-91e8-7055-a6bb-ded5adf240c1', 'workflow_run_id': '019d9d3f-920d-7687-b332-702943647542', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+Completing activity as failed ({'activity_id': '76', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 2, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-duty_omission-019d9d3f-91e8-7055-a6bb-ded5adf240c1', 'workflow_run_id': '019d9d3f-920d-7687-b332-702943647542', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+[2m2026-04-17T21:15:18.120787Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESQGJ1aWxkLXNjZW5hcmlvLXNlbGZfZGVmZW5zZS0wMTlkOWQzZi05MWU4LTcwNTUtYTZiYi1kZWQ1YWRmMjQwYzEaJDAxOWQ5ZDNmLTkyMDctNzcyYi04MGZjLWU2YTMxODA5ZjYyMCBNKAEyAjE5QglyZWFkX2ZpbGVKCAgBEL35QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+Completing activity as failed ({'activity_id': '41', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 2, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-duty_omission-019d9d3f-91e8-7055-a6bb-ded5adf240c1', 'workflow_run_id': '019d9d3f-920d-7687-b332-702943647542', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+[2m2026-04-17T21:15:22.842595Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESQWJ1aWxkLXNjZW5hcmlvLWR1dHlfb21pc3Npb24tMDE5ZDlkM2YtOTFlOC03MDU1LWE2YmItZGVkNWFkZjI0MGMxGiQwMTlkOWQzZi05MjBkLTc2ODctYjMzMi03MDI5NDM2NDc1NDIghQEoAjICNDFCHmRpc3BhdGNoX2FtYmlndWl0eV9hdWRpdF9wZXJfcUoICAEQ/vhAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+Completing activity as failed ({'activity_id': '18', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 1, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-chemistry_professor_stem_a-019d9d46-6293-740f-99ba-0005a58437ee', 'workflow_run_id': '019d9d46-62b2-7bee-812e-6dab63103231', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+[2m2026-04-17T21:15:47.865556Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESQWJ1aWxkLXNjZW5hcmlvLWR1dHlfb21pc3Npb24tMDE5ZDlkM2YtOTFlOC03MDU1LWE2YmItZGVkNWFkZjI0MGMxGiQwMTlkOWQzZi05MjBkLTc2ODctYjMzMi03MDI5NDM2NDc1NDIglwEoATICNTlCIWRpc3BhdGNoX2FyZ3VtZW50X3Bhc3NfcGVyX3Ffb3B1c0oICAEQqfdAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:15:51.504635Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESQWJ1aWxkLXNjZW5hcmlvLWR1dHlfb21pc3Npb24tMDE5ZDlkM2YtOTFlOC03MDU1LWE2YmItZGVkNWFkZjI0MGMxGiQwMTlkOWQzZi05MjBkLTc2ODctYjMzMi03MDI5NDM2NDc1NDIgjQEoATICNDlCIWRpc3BhdGNoX2FyZ3VtZW50X3Bhc3NfcGVyX3Ffb3B1c0oICAEQ1vhAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+Completing activity as failed ({'activity_id': '23', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 1, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-chemistry_professor_stem_a-019d9d46-6293-740f-99ba-0005a58437ee', 'workflow_run_id': '019d9d46-62b2-7bee-812e-6dab63103231', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+[2m2026-04-17T21:15:58.397514Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESQWJ1aWxkLXNjZW5hcmlvLWR1dHlfb21pc3Npb24tMDE5ZDlkM2YtOTFlOC03MDU1LWE2YmItZGVkNWFkZjI0MGMxGiQwMTlkOWQzZi05MjBkLTc2ODctYjMzMi03MDI5NDM2NDc1NDIgnAEoATICNjRCIWRpc3BhdGNoX2FyZ3VtZW50X3Bhc3NfcGVyX3Ffb3B1c0oICAEQnPdAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+Completing activity as failed ({'activity_id': '58', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 1, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-chemistry_professor_stem_a-019d9d46-6293-740f-99ba-0005a58437ee', 'workflow_run_id': '019d9d46-62b2-7bee-812e-6dab63103231', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+Tearing down ephemeral worker...
+temporalio.exceptions.ApplicationError: ValueError: Model returned empty or blocked response.
+
+The above exception was the direct cause of the following exception:
+
+temporalio.exceptions.ActivityError: Activity task failed
+
+The above exception was the direct cause of the following exception:
+
+temporalio.exceptions.ChildWorkflowError: Child Workflow execution failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/__main__.py", line 5, in <module>
+    main()
+    ~~~~^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/cli.py", line 227, in main
+    asyncio.run(start_exam(config))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.13/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.13/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.13/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/cli.py", line 49, in start_exam
+    result = await client.execute_workflow(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/client.py", line 810, in execute_workflow
+    return await (
+           ^^^^^^^
+    ...<30 lines>...
+    ).result()
+    ^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/client.py", line 3015, in result
+    raise WorkflowFailureError(
+    ...<3 lines>...
+    )
+temporalio.client.WorkflowFailureError: Workflow execution failed

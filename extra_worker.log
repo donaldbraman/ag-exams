@@ -1,0 +1,285 @@
+Exam pipeline worker started, listening on: exam-pipeline
+Completing activity as failed ({'activity_id': '73', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 1, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-chemistry_professor_stem_a-019d9d46-6293-740f-99ba-0005a58437ee', 'workflow_run_id': '019d9d46-62b2-7bee-812e-6dab63103231', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+Completing activity as failed ({'activity_id': '53', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 1, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-chemistry_professor_stem_a-019d9d46-6293-740f-99ba-0005a58437ee', 'workflow_run_id': '019d9d46-62b2-7bee-812e-6dab63103231', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+Completing activity as failed ({'activity_id': '18', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 2, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-chemistry_professor_stem_a-019d9d46-6293-740f-99ba-0005a58437ee', 'workflow_run_id': '019d9d46-62b2-7bee-812e-6dab63103231', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+Completing activity as failed ({'activity_id': '63', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 1, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-chemistry_professor_stem_a-019d9d46-6293-740f-99ba-0005a58437ee', 'workflow_run_id': '019d9d46-62b2-7bee-812e-6dab63103231', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+[2m2026-04-17T21:16:54.022425Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIJcBKAEyAjYzQh5kaXNwYXRjaF9hbWJpZ3VpdHlfYXVkaXRfcGVyX3FKCAgBEMH8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+Completing activity as failed ({'activity_id': '23', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 2, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-chemistry_professor_stem_a-019d9d46-6293-740f-99ba-0005a58437ee', 'workflow_run_id': '019d9d46-62b2-7bee-812e-6dab63103231', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+[2m2026-04-17T21:16:54.232218Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIG8oAjICMjNCHmRpc3BhdGNoX2FtYmlndWl0eV9hdWRpdF9wZXJfcUoICAEQ1PxAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:16:54.277332Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIJYBKAEyAjYyQhhkaXNwYXRjaF9ncm91bmRpbmdfcGVyX3FKCAgBEMj8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+Completing activity as failed ({'activity_id': '43', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 1, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-chemistry_professor_stem_a-019d9d46-6293-740f-99ba-0005a58437ee', 'workflow_run_id': '019d9d46-62b2-7bee-812e-6dab63103231', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+[2m2026-04-17T21:16:54.350886Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIIMBKAEyAjQzQh5kaXNwYXRjaF9hbWJpZ3VpdHlfYXVkaXRfcGVyX3FKCAgBEMn8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+Completing activity as failed ({'activity_id': '38', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 1, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-chemistry_professor_stem_a-019d9d46-6293-740f-99ba-0005a58437ee', 'workflow_run_id': '019d9d46-62b2-7bee-812e-6dab63103231', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+[2m2026-04-17T21:16:54.603871Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIH4oATICMzhCHmRpc3BhdGNoX2FtYmlndWl0eV9hdWRpdF9wZXJfcUoICAEQxPxAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+Completing activity as failed ({'activity_id': '68', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 1, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-chemistry_professor_stem_a-019d9d46-6293-740f-99ba-0005a58437ee', 'workflow_run_id': '019d9d46-62b2-7bee-812e-6dab63103231', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+[2m2026-04-17T21:16:55.257660Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIJwBKAEyAjY4Qh5kaXNwYXRjaF9hbWJpZ3VpdHlfYXVkaXRfcGVyX3FKCAgBELn8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:16:56.743351Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIGkoATICMTdCGGRpc3BhdGNoX2dyb3VuZGluZ19wZXJfcUoICAEQsfxAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:16:56.886023Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIJEBKAEyAjU3QhhkaXNwYXRjaF9ncm91bmRpbmdfcGVyX3FKCAgBEL38QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:16:57.162074Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIIwBKAEyAjUyQhhkaXNwYXRjaF9ncm91bmRpbmdfcGVyX3FKCAgBELj8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:16:58.743568Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIHooATICMzRCHmRpc3BhdGNoX2VkZ2VfY2FzZV9hdWRpdF9wZXJfcUoICAEQr/xAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:16:59.024121Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIJMBKAEyAjU5Qh5kaXNwYXRjaF9lZGdlX2Nhc2VfYXVkaXRfcGVyX3FKCAgBEKz8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+Completing activity as failed ({'activity_id': '28', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 1, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-chemistry_professor_stem_a-019d9d46-6293-740f-99ba-0005a58437ee', 'workflow_run_id': '019d9d46-62b2-7bee-812e-6dab63103231', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+[2m2026-04-17T21:16:59.158732Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIHQoATICMjhCHmRpc3BhdGNoX2FtYmlndWl0eV9hdWRpdF9wZXJfcUoICAEQyvxAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:16:59.958674Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIH0oATICMzdCGGRpc3BhdGNoX2dyb3VuZGluZ19wZXJfcUoICAEQs/xAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+Completing activity as failed ({'activity_id': '58', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 2, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-chemistry_professor_stem_a-019d9d46-6293-740f-99ba-0005a58437ee', 'workflow_run_id': '019d9d46-62b2-7bee-812e-6dab63103231', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+[2m2026-04-17T21:17:00.136045Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIJIBKAIyAjU4Qh5kaXNwYXRjaF9hbWJpZ3VpdHlfYXVkaXRfcGVyX3FKCAgBEN/8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:00.251968Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIHUoATICMjlCHmRpc3BhdGNoX2VkZ2VfY2FzZV9hdWRpdF9wZXJfcUoICAEQx/xAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:01.691157Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIKABKAEyAjcyQhhkaXNwYXRjaF9ncm91bmRpbmdfcGVyX3FKCAgBENv8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:02.721970Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIIcBKAEyAjQ3QhhkaXNwYXRjaF9ncm91bmRpbmdfcGVyX3FKCAgBELT8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:03.159115Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIHgoATICMzJCGGRpc3BhdGNoX2dyb3VuZGluZ19wZXJfcUoICAEQ0fxAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:03.808512Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIJQBKAEyAjYwQiNkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX3Nvbm5ldEoICAEQt/xAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:04.438680Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIIIBKAEyAjQyQhhkaXNwYXRjaF9ncm91bmRpbmdfcGVyX3FKCAgBELL8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:04.509287Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIJkBKAEyAjY1QiNkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX3Nvbm5ldEoICAEQ2vxAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:04.864025Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIIQBKAEyAjQ0Qh5kaXNwYXRjaF9lZGdlX2Nhc2VfYXVkaXRfcGVyX3FKCAgBELv8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:05.001265Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIHsoATICMzVCI2Rpc3BhdGNoX2FyZ3VtZW50X3Bhc3NfcGVyX3Ffc29ubmV0SggIARC+/EAYAQ==) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:05.279676Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIJgBKAEyAjY0Qh5kaXNwYXRjaF9lZGdlX2Nhc2VfYXVkaXRfcGVyX3FKCAgBELz8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:09.437614Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIIUBKAEyAjQ1QiNkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX3Nvbm5ldEoICAEQy/xAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:10.937658Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIJ0BKAEyAjY5Qh5kaXNwYXRjaF9lZGdlX2Nhc2VfYXVkaXRfcGVyX3FKCAgBEL/8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:14.414259Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIJUBKAEyAjYxQiFkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX29wdXNKCAgBEM38QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:14.689834Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIIsBKAEyAjUxQiFkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX29wdXNKCAgBEK78QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:14.701463Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIJoBKAEyAjY2QiFkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX29wdXNKCAgBEMz8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:14.905229Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIHYoATICMzBCI2Rpc3BhdGNoX2FyZ3VtZW50X3Bhc3NfcGVyX3Ffc29ubmV0SggIARDP/EAYAQ==) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:15.894609Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIIYBKAEyAjQ2QiFkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX29wdXNKCAgBELX8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:16.781944Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxII8BKAEyAjU1QiNkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX3Nvbm5ldEoICAEQ3fxAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:17.589468Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIKMBKAEyAjc1QiNkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX3Nvbm5ldEoICAEQ3PxAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:17.913107Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIIEBKAEyAjQxQiFkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX29wdXNKCAgBELr8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:19.356904Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIJ4BKAEyAjcwQiNkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX3Nvbm5ldEoICAEQ0PxAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:19.884876Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIHcoATICMzFCIWRpc3BhdGNoX2FyZ3VtZW50X3Bhc3NfcGVyX3Ffb3B1c0oICAEQzvxAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:20.511649Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIJsBKAEyAjY3QhhkaXNwYXRjaF9ncm91bmRpbmdfcGVyX3FKCAgBEN78QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:21.202817Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIIkBKAEyAjQ5Qh5kaXNwYXRjaF9lZGdlX2Nhc2VfYXVkaXRfcGVyX3FKCAgBEML8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:21.603137Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxII4BKAEyAjU0Qh5kaXNwYXRjaF9lZGdlX2Nhc2VfYXVkaXRfcGVyX3FKCAgBEMD8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:25.894327Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIJ8BKAEyAjcxQiFkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX29wdXNKCAgBEMP8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:30.765752Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIKQBKAEyAjc2QiFkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX29wdXNKCAgBEK38QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:30.952289Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIJABKAEyAjU2QiFkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX29wdXNKCAgBENb8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:48.843202Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIKIBKAEyAjc0Qh5kaXNwYXRjaF9lZGdlX2Nhc2VfYXVkaXRfcGVyX3FKCAgBEMb8QBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-17T21:17:55.699952Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGMyOS01ZjQ3LTc5MGMtYjAwZS04ZGU4MWNjZDJmYzESTmJ1aWxkLXNjZW5hcmlvLWNoZW1pc3RyeV9wcm9mZXNzb3Jfc3RlbV9hLTAxOWQ5ZDQ2LTYyOTMtNzQwZi05OWJhLTAwMDVhNTg0MzdlZRokMDE5ZDlkNDYtNjJiMi03YmVlLTgxMmUtNmRhYjYzMTAzMjMxIIoBKAEyAjUwQiNkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX3Nvbm5ldEoICAEQ1/xAGAE=) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }

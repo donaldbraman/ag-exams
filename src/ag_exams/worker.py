@@ -40,7 +40,7 @@ async def main() -> None:
     """Start the exam pipeline worker."""
     client = await Client.connect("localhost:7233")
 
-    activity_executor = concurrent.futures.ThreadPoolExecutor(max_workers=10)
+    activity_executor = concurrent.futures.ThreadPoolExecutor(max_workers=100)
 
     worker = Worker(
         client,
@@ -70,7 +70,7 @@ async def main() -> None:
             commit_run_to_git,
         ],
         activity_executor=activity_executor,
-        max_concurrent_activities=5,
+        max_concurrent_activities=100,
     )
 
     print(f"Exam pipeline worker started, listening on: {TASK_QUEUE}")

@@ -8,3 +8,75 @@ Executing workflow: exam-duty_omission-self_defense-1776459682
 Note: If the workflow pauses for human review, run in another terminal:
   uv run python -m ag_exams.cli approve exam-duty_omission-self_defense-1776459682
 
+Completing activity as failed ({'activity_id': '76', 'activity_type': 'dispatch_ambiguity_audit_per_q', 'attempt': 1, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-duty_omission-019d9d3f-91e8-7055-a6bb-ded5adf240c1', 'workflow_run_id': '019d9d3f-920d-7687-b332-702943647542', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 457, in dispatch_ambiguity_audit_per_q
+    return await dispatch_gemini(
+           ^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 86, in dispatch_gemini
+    raise ValueError("Model returned empty or blocked response.")
+ValueError: Model returned empty or blocked response.
+Tearing down ephemeral worker...
+temporalio.exceptions.ApplicationError: ValueError: Model returned empty or blocked response.
+
+The above exception was the direct cause of the following exception:
+
+temporalio.exceptions.ActivityError: Activity task failed
+
+The above exception was the direct cause of the following exception:
+
+temporalio.exceptions.ChildWorkflowError: Child Workflow execution failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/__main__.py", line 5, in <module>
+    main()
+    ~~~~^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/cli.py", line 226, in main
+    config = _parse_start_args(sys.argv[2:])
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.13/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.13/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/opt/homebrew/Cellar/python@3.13/3.13.13/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/src/ag_exams/cli.py", line 49, in start_exam
+    result = await client.execute_workflow(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/client.py", line 810, in execute_workflow
+    return await (
+           ^^^^^^^
+    ...<30 lines>...
+    ).result()
+    ^^^^^^^^^^
+  File "/Users/donaldbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/client.py", line 3015, in result
+    raise WorkflowFailureError(
+    ...<3 lines>...
+    )
+temporalio.client.WorkflowFailureError: Workflow execution failed
