@@ -12,7 +12,7 @@ from ag_exams.model_config import get_stage_config
 from ag_exams.gemini_client import dispatch_gemini
 
 FIX_PROMPT = """You are a master criminal law exam question writer. 
-The QA pipeline has flagged the following question with 'MUST FIX' errors.
+The QA pipeline has flagged the following question with 'MUST FIX' or 'SHOULD FIX' errors.
 
 Your job is to rewrite the question to fix the specific issues raised in the QA feedback.
 Do NOT change the core doctrine tested unless necessary to fix the issue. 
@@ -24,7 +24,7 @@ Ensure the distractors have explicit falsifiable errors and the correct answer i
 ## Original Question
 {original_question}
 
-## QA Feedback (MUST FIX Issues)
+## QA Feedback (Issues to Fix)
 {feedback}
 
 ## Formatting Rules
@@ -55,23 +55,23 @@ def extract_qa_blocks(text):
     q_sections = re.split(r"## (Q\d+)\n", text)[1:]
     return {q_sections[i]: q_sections[i+1] for i in range(0, len(q_sections), 2)}
 
-def extract_must_fix_reasons(qa_text):
+def extract_fix_reasons(qa_text):
     reasons = []
     # Ambiguity
     am_match = re.search(r"### Ambiguity Audit.*?(?=### Edge Case Audit)", qa_text, re.DOTALL)
-    if am_match and "MUST FIX" in am_match.group(0):
+    if am_match and re.search(r"(MUST FIX|SHOULD FIX)", am_match.group(0)):
         reasons.append(("Ambiguity Audit", am_match.group(0).strip()))
         
     ec_match = re.search(r"### Edge Case Audit.*?(?=### Argument Pass)", qa_text, re.DOTALL)
-    if ec_match and "MUST FIX" in ec_match.group(0):
+    if ec_match and re.search(r"(MUST FIX|SHOULD FIX)", ec_match.group(0)):
         reasons.append(("Edge Case Audit", ec_match.group(0).strip()))
         
     son_match = re.search(r"### Argument Pass \(Sonnet\).*?(?=### Argument Pass \(Opus\))", qa_text, re.DOTALL)
-    if son_match and "MUST FIX" in son_match.group(0):
+    if son_match and re.search(r"(MUST FIX|SHOULD FIX)", son_match.group(0)):
         reasons.append(("Argument Pass (Sonnet)", son_match.group(0).strip()))
         
     op_match = re.search(r"### Argument Pass \(Opus\).*?(?=\Z|---)", qa_text, re.DOTALL)
-    if op_match and "MUST FIX" in op_match.group(0):
+    if op_match and re.search(r"(MUST FIX|SHOULD FIX)", op_match.group(0)):
         reasons.append(("Argument Pass (Opus)", op_match.group(0).strip()))
         
     return reasons
@@ -103,9 +103,9 @@ async def process_rewrite(sem, q_name, original_question, scenario_text, reasons
                     return q_name, original_question # fallback
 
 async def main():
-    qa_path = "qa_results.md"
-    quiz_path = "quiz-5-final.md"
-    out_path = "quiz-5-fixed.md"
+    qa_path = "qa_results_round3.md"
+    quiz_path = "quiz-5-fixed.md"
+    out_path = "quiz-5-fixed-v2.md"
     
     qa_text = Path(qa_path).read_text(encoding="utf-8")
     quiz_text = Path(quiz_path).read_text(encoding="utf-8")
@@ -134,9 +134,9 @@ async def main():
         q_num_match = re.search(r"\*\*Q(\d+)\.\*\*", q_text)
         q_name = f"Q{q_num_match.group(1).zfill(2)}" if q_num_match else f"Q{str(idx).zfill(2)}"
         
-        # Check if MUST FIX
+        # Check if MUST FIX or SHOULD FIX
         qa_block = qa_dict.get(q_name, "")
-        reasons = extract_must_fix_reasons(qa_block)
+        reasons = extract_fix_reasons(qa_block)
         
         if reasons:
             must_fix_tasks.append(process_rewrite(sem, q_name, q_text, scenario_text, reasons))
@@ -145,10 +145,10 @@ async def main():
             q_data.append({"name": q_name, "original": q_text, "rewrite": False})
             
     if not must_fix_tasks:
-        print("No MUST FIX questions found.")
+        print("No questions found needing fixes.")
         return
         
-    print(f"Found {len(must_fix_tasks)} MUST FIX questions. Starting rewrites...")
+    print(f"Found {len(must_fix_tasks)} questions needing fixes. Starting rewrites...")
     results = await asyncio.gather(*must_fix_tasks)
     rewrite_dict = dict(results)
     
