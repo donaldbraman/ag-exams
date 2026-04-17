@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "chapter": 19,
+    "title": "Conspiracy",
+    "source_file": "19-conspiracy.qmd",
+    "source_hash": "539a463958941e6731c0083429ec93ef6e86fa77887ad8a382ba52fbc36b9368",
+    "model": "gemini-3-flash-preview",
+    "approach": "gemini-3pass-md",
+    "elapsed_seconds": 104.0,
+    "pass_times": [
+      45.7,
+      58.3
+    ],
+    "note": "Markdown output saved separately; JSON conversion deferred"
+  },
+  "doctrines": [],
+  "cases": [],
+  "statutes": [],
+  "blocks": [],
+  "hypo_seeds": [],
+  "_markdown_file": "/Users/donaldbraman/Documents/GitHub/write-assist/criminal-law/quiz-system/research/chapter-maps/eval/chapter-19-gemini-3pass-md.md",
+  "_heading_count": 31,
+  "_markdown_chars": 25209
+}

@@ -1,0 +1,771 @@
+{
+  "meta": {
+    "chapter": 19,
+    "title": "Conspiracy",
+    "source_file": "19-conspiracy.qmd",
+    "source_hash": "539a463958941e6731c0083429ec93ef6e86fa77887ad8a382ba52fbc36b9368",
+    "generated_at": "2024-05-14T12:00:00Z",
+    "model": "gemini-3-flash-preview",
+    "approach": "gemini-3pass",
+    "elapsed_seconds": 91.9,
+    "pass_times": [
+      36.1,
+      31.2,
+      24.6
+    ]
+  },
+  "doctrines": [
+    {
+      "key": "overt-act-requirement",
+      "rule": "Most jurisdictions require at least one conspirator to perform an act in pursuance of the conspiracy, though the act itself may be legal and trivial.",
+      "split": "Required by 18 U.S.C. § 371 and MPC (for lower-level felonies); not required by MPC for 1st/2nd degree felonies.",
+      "levers": [
+        "severity of the target crime",
+        "nature of the act (legal vs. illegal)"
+      ],
+      "traps": [
+        "Students choose acquittal because the defendant's act was legal (like buying a plane ticket) because they confuse the minimal overt act requirement with the 'substantial step' requirement in attempt."
+      ],
+      "cases": [
+        "Hyde v. United States"
+      ],
+      "hypo_seeds": [
+        "Two people agree to rob a bank; one of them checks out a library book on 'Bank Security Systems' but takes no other action.",
+        "Conspirators agree to a fraud scheme; the only act taken is a single phone call to a potential victim that goes to voicemail."
+      ],
+      "lines": [
+        [
+          44,
+          44
+        ],
+        [
+          50,
+          50
+        ],
+        [
+          61,
+          62
+        ]
+      ],
+      "block_count": 3,
+      "cross_chapter": [
+        "substantial-step-test (Ch. 17)"
+      ],
+      "exam_lens": "prosecution"
+    },
+    {
+      "key": "bilateral-vs-unilateral-conspiracy",
+      "rule": "The bilateral approach requires two or more genuine criminal minds, while the unilateral approach permits conviction if the defendant believed they were agreeing, even if the other party is a government agent.",
+      "split": "Traditional jurisdictions (bilateral) vs. MPC/Reformed codes (unilateral).",
+      "levers": [
+        "status of the co-conspirator as an undercover agent",
+        "defendant's subjective belief in the agreement"
+      ],
+      "traps": [
+        "Students choose acquittal for a defendant who agrees with an informant in an MPC jurisdiction because they confuse the lack of a 'group danger' with a lack of individual culpability."
+      ],
+      "cases": [
+        "State v. Pacheco",
+        "Garcia v. State",
+        "United States v. Valigura"
+      ],
+      "hypo_seeds": [
+        "A woman pays an undercover detective $200 and provides her husband's schedule to have him killed; the detective never intends to do it.",
+        "A defendant agrees with a confidential informant to buy drugs, but the informant is working for the DEA to reduce his own sentence."
+      ],
+      "lines": [
+        [
+          63,
+          74
+        ],
+        [
+          442,
+          447
+        ]
+      ],
+      "block_count": 2,
+      "cross_chapter": [
+        "entrapment (Ch. 17)"
+      ],
+      "exam_lens": "both"
+    },
+    {
+      "key": "specific-intent-to-target-elements",
+      "rule": "To be convicted of conspiracy, a defendant must specifically intend that every element of the target offense be accomplished, even if the target offense itself is a general intent or strict liability crime.",
+      "split": "The Pond majority (specific intent for all elements) vs. Pond dissent (intent matching the substantive crime).",
+      "levers": [
+        "presence of aggravating factors like weapon use",
+        "defendant's knowledge of specific plan details"
+      ],
+      "traps": [
+        "Students choose conviction for conspiracy to commit armed robbery based on a general agreement to rob because they confuse the mens rea of the substantive crime with the heightened specific intent requirement of conspiracy."
+      ],
+      "cases": [
+        "State v. Pond"
+      ],
+      "hypo_seeds": [
+        "A defendant agrees to help 'scare' a victim; his partner, unknown to the defendant, brings a real gun and uses it.",
+        "Parties agree to sell drugs; the statute has an enhancement for selling within 1500 feet of a school, but the defendant didn't know the location was near a school."
+      ],
+      "lines": [
+        [
+          75,
+          78
+        ],
+        [
+          84,
+          121
+        ],
+        [
+          134,
+          137
+        ]
+      ],
+      "block_count": 3,
+      "cross_chapter": [],
+      "exam_lens": "defense"
+    },
+    {
+      "key": "supplier-intent-inference",
+      "rule": "A supplier's intent to participate in a conspiracy can be inferred from knowledge of criminal use if they have a stake in the venture or if the crime is of an aggravated nature.",
+      "split": null,
+      "levers": [
+        "inflated prices",
+        "share in proceeds",
+        "gravity of the crime (felony vs. misdemeanor)",
+        "volume of business/specialized services"
+      ],
+      "traps": [
+        "Students choose conviction for a merchant who sells legal goods to a known criminal because they confuse mere knowledge of criminal use with the legal requirement of purpose/intent."
+      ],
+      "cases": [
+        "People v. Lauria",
+        "United States v. Falcone"
+      ],
+      "hypo_seeds": [
+        "A chemical supplier sells precursor agents to a known meth cook at 3x the market price.",
+        "A landlord rents a storefront to a group he knows is running an illegal gambling ring but charges standard market rent.",
+        "A seller provides high-grade explosives to someone who mentions they plan to blow up a bridge."
+      ],
+      "lines": [
+        [
+          146,
+          193
+        ],
+        [
+          214,
+          225
+        ]
+      ],
+      "block_count": 2,
+      "cross_chapter": [],
+      "exam_lens": "both"
+    },
+    {
+      "key": "pinkerton-liability",
+      "rule": "A conspirator is vicariously liable for the substantive crimes committed by co-conspirators if the acts were in furtherance of the conspiracy and were reasonably foreseeable.",
+      "split": "Followed in federal and some state courts; rejected by the MPC and most reformed state codes.",
+      "levers": [
+        "foreseeability of the specific crime",
+        "scope of the initial agreement",
+        "affirmative withdrawal"
+      ],
+      "traps": [
+        "Students choose conviction for a minor conspirator for an unrelated crime by a partner because they confuse 'any crime committed by a partner' with the 'reasonably foreseeable and in furtherance' limitation.",
+        "Students choose conviction in an MPC jurisdiction because they confuse conspiracy membership with accomplice liability."
+      ],
+      "cases": [
+        "Pinkerton v. United States"
+      ],
+      "hypo_seeds": [
+        "A steals a car for a bank robbery conspiracy; B, who only agreed to be the lookout at the bank, is charged with the car theft.",
+        "During a drug deal, one conspirator unexpectedly shoots a rival; the other conspirators are charged with murder under Pinkerton."
+      ],
+      "lines": [
+        [
+          19,
+          28
+        ],
+        [
+          243,
+          270
+        ],
+        [
+          284,
+          298
+        ],
+        [
+          300,
+          306
+        ]
+      ],
+      "block_count": 4,
+      "cross_chapter": [
+        "accomplice-liability (Ch. 18)"
+      ],
+      "exam_lens": "prosecution"
+    },
+    {
+      "key": "agreement-inference-from-conduct",
+      "rule": "An agreement to commit a crime need not be express or written and may be inferred from coordinated conduct that has no plausible innocent explanation.",
+      "split": null,
+      "levers": [
+        "spikes in communication around critical events",
+        "flow of money between parties",
+        "coordinated physical movements/cell tower data",
+        "mutual awareness of invited concerted action"
+      ],
+      "traps": [
+        "Students choose no conspiracy because there is no 'meeting of the minds' conversation because they confuse the evidentiary requirement of proof with the formal requirement of an agreement.",
+        "Students choose acquittal for peripheral actors because they confuse a lack of direct contact with a lack of agreement."
+      ],
+      "cases": [
+        "Interstate Circuit v. United States",
+        "United States v. Alvarez"
+      ],
+      "hypo_seeds": [
+        "Four separate tech companies receive a letter from a major retailer suggesting a price floor; all four implement the floor within 48 hours without replying to the letter.",
+        "A defendant is seen nodding and smiling while others discuss a drug offload, then helps unload 'household appliances' from the same plane.",
+        "Phone records show a 'chain' of calls from an organizer to a middleman to a shooter immediately before and after a crime."
+      ],
+      "lines": [
+        [
+          315,
+          318
+        ],
+        [
+          333,
+          343
+        ],
+        [
+          379,
+          386
+        ]
+      ],
+      "block_count": 3,
+      "cross_chapter": [],
+      "exam_lens": "prosecution"
+    },
+    {
+      "key": "wheel-conspiracy-rim-requirement",
+      "rule": "A single 'wheel' conspiracy requires a 'rim'—evidence that the various 'spokes' (participants) knew of each other and had a community of interest in a single larger enterprise.",
+      "split": null,
+      "levers": [
+        "mutual awareness between participants",
+        "interdependence of the various transactions",
+        "common goal vs. individual goals"
+      ],
+      "traps": [
+        "Students choose a single conspiracy for multiple independent actors because they confuse having a common central contact (the hub) with having a common agreement among all parties (the rim)."
+      ],
+      "cases": [
+        "Kotteakos v. United States"
+      ],
+      "hypo_seeds": [
+        "A corrupt doctor writes fraudulent prescriptions for 50 different patients who do not know each other.",
+        "A drug wholesaler supplies ten different street gangs who are actually in competition with one another."
+      ],
+      "lines": [
+        [
+          346,
+          377
+        ]
+      ],
+      "block_count": 1,
+      "cross_chapter": [],
+      "exam_lens": "defense"
+    },
+    {
+      "key": "buyer-seller-exception",
+      "rule": "A simple agreement to buy or sell drugs for personal use does not constitute a conspiracy unless there is evidence of a shared purpose to further distribution.",
+      "split": null,
+      "levers": [
+        "prolonged course of dealing",
+        "use of coded language",
+        "fronting/credit arrangements"
+      ],
+      "traps": [
+        "Students choose conviction for a one-time drug buyer because they confuse the agreement to buy with the agreement to join a distribution enterprise."
+      ],
+      "cases": [
+        "United States v. Pauling"
+      ],
+      "hypo_seeds": [
+        "A buyer purchases a small amount of cocaine for a party; the seller is a major distributor.",
+        "A dealer 'fronts' a kilo of heroin to a buyer, expecting payment only after the buyer resells the product."
+      ],
+      "lines": [
+        [
+          393,
+          396
+        ]
+      ],
+      "block_count": 1,
+      "cross_chapter": [],
+      "exam_lens": "defense"
+    },
+    {
+      "key": "whartons-rule",
+      "rule": "An agreement to commit a crime that by definition requires two participants (e.g., bigamy, bribery) cannot be prosecuted as a conspiracy unless more than the minimum number of required persons participate.",
+      "split": "Judicial presumption that can be overridden by legislative intent.",
+      "levers": [
+        "number of participants",
+        "statutory definition of the target crime"
+      ],
+      "traps": [
+        "Students choose conviction for two people for conspiracy to commit adultery because they confuse the existence of an agreement with the legal availability of a conspiracy charge for bilateral crimes."
+      ],
+      "cases": [
+        "Iannelli v. United States"
+      ],
+      "hypo_seeds": [
+        "A man and a woman agree to commit bigamy; they are the only two involved.",
+        "A businessman and a politician agree to a bribe, but the businessman's assistant also helps coordinate the payment."
+      ],
+      "lines": [
+        [
+          397,
+          402
+        ]
+      ],
+      "block_count": 1,
+      "cross_chapter": [],
+      "exam_lens": "defense"
+    },
+    {
+      "key": "legislative-exemption-gebardi-principle",
+      "rule": "If a legislature defines a crime to exempt or protect a specific class of participants, members of that class cannot be prosecuted for conspiracy to commit that crime.",
+      "split": null,
+      "levers": [
+        "legislative intent to protect a victim class",
+        "statutory exclusion of a party from the substantive offense"
+      ],
+      "traps": [
+        "Students choose conviction for a protected party (like a victim of statutory rape) for conspiracy because they confuse voluntary participation with legal liability for the agreement."
+      ],
+      "cases": [
+        "Gebardi v. United States"
+      ],
+      "hypo_seeds": [
+        "A woman voluntarily agrees to be transported across state lines for an immoral purpose under the Mann Act.",
+        "A minor agrees to purchase alcohol from an adult in a jurisdiction where the statute only punishes the seller."
+      ],
+      "lines": [
+        [
+          403,
+          408
+        ]
+      ],
+      "block_count": 1,
+      "cross_chapter": [],
+      "exam_lens": "defense"
+    }
+  ],
+  "cases": [
+    {
+      "name": "State v. Pond",
+      "lines": [
+        79,
+        121
+      ],
+      "holding": "A defendant must specifically intend that every element of the planned offense be accomplished to be convicted of conspiracy, even for elements that do not require specific intent for the substantive crime.",
+      "facts_summary": "Defendant acted as a lookout for a robbery. His co-conspirators gestured as if they had a weapon. The court held the jury must find the defendant specifically intended the use of a weapon to convict him of conspiracy to commit second-degree robbery.",
+      "doctrines": [
+        "specific-intent-to-target-elements"
+      ]
+    },
+    {
+      "name": "People v. Lauria",
+      "lines": [
+        150,
+        193
+      ],
+      "holding": "A supplier's knowledge of a customer's criminal activity is insufficient for conspiracy unless the supplier has a stake in the venture or the crime is of an aggravated nature.",
+      "facts_summary": "An answering service owner knew prostitutes used his service but charged normal rates and did not share in their profits. Prostitution was a misdemeanor.",
+      "doctrines": [
+        "supplier-intent-inference"
+      ]
+    },
+    {
+      "name": "Pinkerton v. United States",
+      "lines": [
+        247,
+        270
+      ],
+      "holding": "A conspirator is liable for substantive offenses committed by a co-conspirator in furtherance of the conspiracy that are reasonably foreseeable.",
+      "facts_summary": "Two brothers conspired to violate the tax code. One brother committed substantive offenses while the other was in prison. The imprisoned brother was held liable for the substantive crimes.",
+      "doctrines": [
+        "pinkerton-liability"
+      ]
+    },
+    {
+      "name": "Interstate Circuit v. United States",
+      "lines": [
+        319,
+        344
+      ],
+      "holding": "Agreement can be inferred where competitors, knowing concerted action is invited and essential to success, adhere to a common scheme.",
+      "facts_summary": "Film distributors received a letter naming all of them as addressees and simultaneously changed their business practices to match the letter's demands.",
+      "doctrines": [
+        "agreement-inference-from-conduct"
+      ]
+    },
+    {
+      "name": "Kotteakos v. United States",
+      "lines": [
+        346,
+        377
+      ],
+      "holding": "Proof of multiple separate conspiracies involving a common central figure does not support a conviction for a single general conspiracy without evidence of a common plan linking the participants.",
+      "facts_summary": "A loan broker helped various unrelated borrowers obtain fraudulent loans; the borrowers had no knowledge of or interest in each other's success.",
+      "doctrines": [
+        "wheel-conspiracy-rim-requirement"
+      ]
+    },
+    {
+      "name": "United States v. Alvarez",
+      "lines": [
+        379,
+        386
+      ],
+      "holding": "Mere presence at the scene of a crime or knowledge that a crime is being committed is insufficient to establish participation in a conspiracy.",
+      "facts_summary": "Defendant was present during a drug transaction but there was insufficient evidence he agreed to join the conspiracy.",
+      "doctrines": [
+        "agreement-inference-from-conduct"
+      ]
+    },
+    {
+      "name": "United States v. Pauling",
+      "lines": [
+        393,
+        396
+      ],
+      "holding": "A buyer-seller relationship alone does not establish a conspiracy to distribute drugs.",
+      "facts_summary": "Evidence of a single drug purchase without further evidence of shared distribution intent.",
+      "doctrines": [
+        "buyer-seller-exception"
+      ]
+    },
+    {
+      "name": "Iannelli v. United States",
+      "lines": [
+        397,
+        402
+      ],
+      "holding": "Wharton's Rule prevents conspiracy prosecution for crimes requiring two people unless more than the minimum number participate.",
+      "facts_summary": "Prosecution for conspiracy to violate gambling laws.",
+      "doctrines": [
+        "whartons-rule"
+      ]
+    },
+    {
+      "name": "Gebardi v. United States",
+      "lines": [
+        403,
+        408
+      ],
+      "holding": "A person whom the legislature intended to protect by the definition of a crime cannot be a conspirator to that crime.",
+      "facts_summary": "A woman transported in violation of the Mann Act could not be a co-conspirator.",
+      "doctrines": [
+        "legislative-exemption-gebardi-principle"
+      ]
+    },
+    {
+      "name": "Hyde v. United States",
+      "lines": [
+        61,
+        62
+      ],
+      "holding": "An overt act by one conspirator is sufficient to establish the offense for all members of the conspiracy.",
+      "facts_summary": "Discussion of the overt act requirement in federal law.",
+      "doctrines": [
+        "overt-act-requirement"
+      ]
+    },
+    {
+      "name": "State v. Pacheco",
+      "lines": [
+        63,
+        74
+      ],
+      "holding": "Adherence to the bilateral view of conspiracy requires two genuine conspirators.",
+      "facts_summary": "Defendant agreed with an undercover agent; conviction overturned in a bilateral jurisdiction.",
+      "doctrines": [
+        "bilateral-vs-unilateral-conspiracy"
+      ]
+    },
+    {
+      "name": "Garcia v. State",
+      "lines": [
+        63,
+        74
+      ],
+      "holding": "Adoption of the unilateral approach to conspiracy.",
+      "facts_summary": "Defendant convicted despite co-conspirator being an informant.",
+      "doctrines": [
+        "bilateral-vs-unilateral-conspiracy"
+      ]
+    },
+    {
+      "name": "United States v. Valigura",
+      "lines": [
+        442,
+        447
+      ],
+      "holding": "Discussion of unilateral conspiracy in the context of government stings.",
+      "facts_summary": "Defendant agreed with government agents to commit a crime.",
+      "doctrines": [
+        "bilateral-vs-unilateral-conspiracy"
+      ]
+    },
+    {
+      "name": "United States v. Falcone",
+      "lines": [
+        214,
+        225
+      ],
+      "holding": "Selling standard goods with knowledge of their illegal use does not make the seller a conspirator.",
+      "facts_summary": "Suppliers of sugar and yeast to bootleggers.",
+      "doctrines": [
+        "supplier-intent-inference"
+      ]
+    }
+  ],
+  "statutes": [
+    {
+      "citation": "MPC Section 5.03",
+      "lines": [
+        36,
+        45
+      ]
+    },
+    {
+      "citation": "18 U.S.C. Section 371",
+      "lines": [
+        48,
+        53
+      ]
+    },
+    {
+      "citation": "General Statutes Section 53a-48(a)",
+      "lines": [
+        105,
+        106
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "lines": [
+        1,
+        8
+      ],
+      "type": "introduction",
+      "doctrines": [
+        "pinkerton-liability"
+      ],
+      "summary": "Overview of conspiracy's power and the Pinkerton doctrine."
+    },
+    {
+      "lines": [
+        9,
+        32
+      ],
+      "type": "case",
+      "doctrines": [
+        "agreement-inference-from-conduct",
+        "pinkerton-liability"
+      ],
+      "summary": "The Dan Markel case study illustrating inference of agreement and scope of liability."
+    },
+    {
+      "lines": [
+        33,
+        53
+      ],
+      "type": "statute",
+      "doctrines": [
+        "overt-act-requirement"
+      ],
+      "summary": "MPC and Federal conspiracy statutes."
+    },
+    {
+      "lines": [
+        55,
+        62
+      ],
+      "type": "doctrine-exposition",
+      "doctrines": [
+        "overt-act-requirement"
+      ],
+      "summary": "Basic elements: agreement, intent, and the minimal overt act requirement."
+    },
+    {
+      "lines": [
+        63,
+        74
+      ],
+      "type": "doctrine-exposition",
+      "doctrines": [
+        "bilateral-vs-unilateral-conspiracy"
+      ],
+      "summary": "The split between bilateral and unilateral approaches to agreement."
+    },
+    {
+      "lines": [
+        75,
+        132
+      ],
+      "type": "case",
+      "doctrines": [
+        "specific-intent-to-target-elements"
+      ],
+      "summary": "State v. Pond and the requirement of specific intent for all target elements."
+    },
+    {
+      "lines": [
+        134,
+        144
+      ],
+      "type": "doctrine-exposition",
+      "doctrines": [
+        "specific-intent-to-target-elements"
+      ],
+      "summary": "Note on general intent and discussion of the Pond principle."
+    },
+    {
+      "lines": [
+        146,
+        193
+      ],
+      "type": "case",
+      "doctrines": [
+        "supplier-intent-inference"
+      ],
+      "summary": "People v. Lauria and the knowledge vs. purpose distinction for suppliers."
+    },
+    {
+      "lines": [
+        195,
+        242
+      ],
+      "type": "hypothetical",
+      "doctrines": [
+        "supplier-intent-inference"
+      ],
+      "summary": "Application of Lauria to social media and Silk Road."
+    },
+    {
+      "lines": [
+        243,
+        282
+      ],
+      "type": "case",
+      "doctrines": [
+        "pinkerton-liability"
+      ],
+      "summary": "Pinkerton v. United States and vicarious liability."
+    },
+    {
+      "lines": [
+        284,
+        314
+      ],
+      "type": "hypothetical",
+      "doctrines": [
+        "pinkerton-liability"
+      ],
+      "summary": "Modern application and MPC rejection of Pinkerton."
+    },
+    {
+      "lines": [
+        315,
+        344
+      ],
+      "type": "case",
+      "doctrines": [
+        "agreement-inference-from-conduct"
+      ],
+      "summary": "Interstate Circuit and inferring agreement from coordinated conduct."
+    },
+    {
+      "lines": [
+        346,
+        377
+      ],
+      "type": "case",
+      "doctrines": [
+        "wheel-conspiracy-rim-requirement"
+      ],
+      "summary": "Kotteakos and the 'rim' requirement for single conspiracies."
+    },
+    {
+      "lines": [
+        379,
+        392
+      ],
+      "type": "case",
+      "doctrines": [
+        "agreement-inference-from-conduct"
+      ],
+      "summary": "United States v. Alvarez and the limits of inference."
+    },
+    {
+      "lines": [
+        393,
+        396
+      ],
+      "type": "doctrine-exposition",
+      "doctrines": [
+        "buyer-seller-exception"
+      ],
+      "summary": "The buyer-seller exception in drug cases."
+    },
+    {
+      "lines": [
+        397,
+        408
+      ],
+      "type": "doctrine-exposition",
+      "doctrines": [
+        "whartons-rule",
+        "legislative-exemption-gebardi-principle"
+      ],
+      "summary": "Structural limits: Wharton's Rule and the Gebardi principle."
+    },
+    {
+      "lines": [
+        409,
+        440
+      ],
+      "type": "policy",
+      "doctrines": [
+        "agreement-inference-from-conduct"
+      ],
+      "summary": "Corporate conspiracy and the Purdue Pharma case."
+    },
+    {
+      "lines": [
+        441,
+        460
+      ],
+      "type": "policy",
+      "doctrines": [
+        "bilateral-vs-unilateral-conspiracy"
+      ],
+      "summary": "Drug stings and manufactured conspiracy."
+    },
+    {
+      "lines": [
+        461,
+        513
+      ],
+      "type": "policy",
+      "doctrines": [
+        "bilateral-vs-unilateral-conspiracy",
+        "pinkerton-liability"
+      ],
+      "summary": "System architecture, forfeiture, and the interaction of conspiracy rules."
+    }
+  ]
+}
