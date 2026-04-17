@@ -1,17 +1,17 @@
-**Q11.** Consider the effect of Dr. Davis administering the wrong blood type. Under standard proximate cause principles, does the doctor's error relieve Alex of homicide liability for the fatal result?
+**Q11.** Assume the prosecution seeks to hold Alex liable for Blake's death based on the initial shooting. Alex argues that Dr. Davis's blood transfusion error breaks the chain of proximate causation. What is the standard legal framework for evaluating Alex's argument?
 
-(a) Yes, because a severe violation of standard hospital protocols is generally considered an independent, abnormal intervening cause that breaks the chain of causation. <!-- correct -->
-(b) Yes, because any medical treatment that demonstrably accelerates a victim's death automatically supersedes the initial injury as the primary legal cause.
-(c) No, because emergency room doctors are agents of the state, and their actions cannot break the chain of causation in criminal homicide prosecutions.
-(d) No, because medical malpractice, regardless of its severity or departure from protocols, is legally considered a dependent intervening cause that is always foreseeable.
-(e) No, because Alex's original gunshot wound was the factual but-for cause of Blake needing medical attention in the emergency room in the first place.
+(a) Medical malpractice breaks the causal chain only if the attending physician possessed a subjective criminal intent to harm the vulnerable patient.
+(b) Any intervening medical error immediately severs proximate causation because the original defendant has entirely lost physical control over the victim's body.
+(c) Ordinary medical negligence does not break the chain, but gross negligence or severe protocol violations may constitute an independent intervening cause. <!-- correct -->
+(d) Medical intervention is always classified as a dependent intervening cause regardless of how egregiously the treating physician deviates from standard care.
+(e) The causal chain is legally broken if the prosecution fails to prove that the defendant specifically foresaw the exact medical error.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct because while ordinary medical negligence is a foreseeable dependent intervening cause, gross negligence or a severe violation of protocols (Fact 11) constitutes an independent intervening cause that breaks the chain of proximate causation. (b) is incorrect because ordinary medical treatments that accidentally accelerate death do not automatically break the causal chain. (c) is incorrect because doctors' status as state agents (if applicable) is irrelevant to proximate causation analysis. (d) is incorrect because the law distinguishes between ordinary malpractice (foreseeable/dependent) and gross negligence (unforeseeable/independent). (e) is incorrect because establishing but-for causation is not sufficient to establish proximate causation when an independent intervening cause occurs.
+**Explanation:** Under proximate cause principles, subsequent medical treatment is generally considered a foreseeable, dependent intervening cause that does not break the causal chain connecting the defendant's act to the death. However, if the medical error is highly extraordinary, grossly negligent, or involves a severe violation of standard protocols (like administering the wrong blood type without checking a chart), a court may classify it as an independent superseding cause that relieves the defendant of homicide liability. (a) is wrong because gross negligence can break the chain; subjective intent to harm is not required. (b) is wrong because ordinary medical negligence does not break the chain. (d) is wrong because the rule is not absolute; extreme medical errors can sever proximate cause. (e) is wrong because the specific mechanism of medical error does not need to be precisely foreseen.
 
-**Tags:** chapters: [8], topics: [proximate cause, independent intervening cause, gross negligence], difficulty: medium, cognitive: application
+**Tags:** chapters: [8], topics: [causation, proximate-cause, independent-intervening-cause], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 8, Dependent vs. independent intervening cause.
+**Grounding:** Chapter 8, dependent-vs-independent-intervening-cause
 
-<!-- grounding: GROUNDED — Proximate Cause, Ch 8, Refinement `dependent-vs-independent-intervening-cause`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — dependent vs independent intervening cause, Ch 8, Refinement `dependent-vs-independent-intervening-cause`. Rule paraphrased accurately. -->

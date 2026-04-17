@@ -1,17 +1,17 @@
-**Q12.** Consider the prosecutor's decision to charge First-Degree Murder with a 25-year mandatory minimum firearm enhancement, while offering a 5-year plea deal for manslaughter. Under prevailing law, what is the legal status of this charging strategy?
+**Q12.** The prosecutor leverages the 25-year mandatory minimum for the firearm enhancement to offer Alex a 5-year plea deal for manslaughter. Under prevailing constitutional doctrine and standard prosecutorial practices, how is this strategy viewed?
 
-(a) It is unconstitutional, because a mandatory minimum enhancement cannot legally be used exclusively as coercive leverage to induce a guilty plea from a defendant.
-(b) It is unconstitutional, because the extreme 20-year disparity between the trial exposure and the plea offer explicitly violates the substantive Due Process clause.
-(c) It is constitutional, because the prosecutor's action falls squarely within the historically accepted operation of the trial penalty and broad executive charging discretion. <!-- correct -->
-(d) It is constitutional, because the Eighth Amendment prohibits judges, but not prosecutors, from enforcing mandatory minimum sentences against defendants in criminal proceedings.
-(e) It is unconstitutional, because the prosecutor is imposing an impermissible and explicit financial tax on the defendant's Sixth Amendment right to a jury trial.
+(a) It is strictly unconstitutional because it violates the Eighth Amendment's prohibition on cruel and unusual punishment by threatening decades in prison.
+(b) It is unconstitutional because the extreme mathematical disparity between the plea offer and the trial penalty constitutes vindictive prosecution as a matter of law.
+(c) It is a permissible exercise of executive discretion, reflecting the transfer of sentencing power from judges to prosecutors under mandatory minimum regimes. <!-- correct -->
+(d) It is a legally permissible use of the trial penalty, provided the trial judge formally pre-approves the plea offer during a preliminary hearing.
+(e) It is an impermissible circumvention of the jury's fact-finding role, as the prosecutor is unilaterally resolving structural elements of the charged offense.
 
 **Answer:** (c)
 
-**Explanation:** (c) is correct because prosecutors have extremely broad discretion to charge offenses carrying mandatory minimums and to use the threat of those sentences (the "trial penalty") to negotiate plea deals, as affirmed by the Supreme Court (Fact 13). (a) is incorrect because using mandatory minimums as leverage to induce pleas is a routine and legally permissible practice under Bordenkircher v. Hayes. (b) is incorrect because courts have repeatedly upheld massive disparities between plea offers and trial exposures without finding Due Process violations. (d) is incorrect because the Eighth Amendment applies to the state as a whole, but it does not forbid mandatory minimums in this context. (e) is incorrect because while the trial penalty chills the Sixth Amendment right to trial, the Supreme Court has ruled it is not an unconstitutional burden.
+**Explanation:** Prosecutorial discretion is presumptively valid. The U.S. Supreme Court has consistently upheld the constitutionality of the "trial penalty"—where prosecutors threaten severe mandatory sentences (like a 25-to-life firearm enhancement) to leverage much lower plea deals (like 5 years). This reflects a structural reality of modern criminal law: mandatory minimums have transferred sentencing power from judges to prosecutors, allowing prosecutors to dictate outcomes through charging decisions. (a) is wrong because the Supreme Court has generally rejected Eighth Amendment challenges to severe mandatory sentences used in plea bargaining. (b) is wrong because a large disparity between a plea offer and a trial penalty is not considered legally vindictive. (d) is wrong because judges generally do not formally pre-approve the prosecutor's initial plea offers. (e) is wrong because plea bargaining is explicitly constitutional and not viewed as an impermissible circumvention of the jury's role.
 
-**Tags:** chapters: [6], topics: [prosecutorial discretion, mandatory minimums, trial penalty], difficulty: easy, cognitive: recall
+**Tags:** chapters: [6], topics: [prosecutors, mandatory-minimums, trial-penalty], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 6, Prosecutorial discretion, plea-bargaining trial penalty, and mandatory minimums power transfer.
+**Grounding:** Chapter 6, mandatory-minimums-power-transfer; plea-bargaining-trial-penalty
 
-<!-- grounding: GROUNDED — trial penalty/prosecutorial discretion, Ch 6, Refinement `plea-bargaining-trial-penalty`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — trial penalty/mandatory minimums power transfer, Ch 6, Refinement `plea-bargaining-trial-penalty`, `mandatory-minimums-power-transfer`. Rule paraphrased accurately. -->

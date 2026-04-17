@@ -1,17 +1,17 @@
-**Q3.** Assume Alex is charged with assault and claims self-defense. In a standard jurisdiction, does the initial aggressor rule completely bar Alex from claiming self-defense?
+**Q3.** Assume the prosecution argues Alex is barred from claiming self-defense because he was the initial aggressor. What is Alex's strongest legal response to this argument?
 
-(a) Yes, because entering another person's property while holding a deadly weapon automatically designates the trespasser as the initial physical aggressor.
-(b) Yes, because his initial text message to Chris demonstrated a premeditated plan to intentionally provoke a violent physical confrontation.
-(c) No, because Alex merely held the bat at his side and did not provoke a physical conflict with the unlawful use of force. <!-- correct -->
-(d) No, because Blake's aggressive verbal insult to Alex constituted the first legally recognized act of violence in the confrontation.
-(e) No, because Alex dropped the baseball bat before drawing his handgun, which legally constituted a clear communication of withdrawal.
+(a) He legally abandoned his initial aggression when he dropped his baseball bat onto the grass upon seeing the victim's jacket.
+(b) His actions constituted mere trespass and were not a use or imminent threat of physical force that started a fight. <!-- correct -->
+(c) The initial aggressor doctrine only applies when the defendant employs a weapon that is strictly classified as a firearm.
+(d) Blake's verbal insult constituted an independent superseding provocation that reset the entire initial aggressor self-defense analysis from the beginning.
+(e) He successfully communicated his intent to withdraw from the confrontation by remaining completely silent while Blake yelled at him.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** (c) is correct because being an initial aggressor generally requires starting a fight through the unlawful use or threat of physical force; standing with a bat at one's side (Fact 4) does not automatically meet this threshold. (a) is incorrect because trespassing with a weapon is not universally categorized as initiating a physical conflict without an accompanying threat. (b) is incorrect because subjective plans do not make one an initial aggressor without translating into aggressive physical acts. (d) is incorrect because "mere words" (Fact 5) do not constitute physical aggression. (e) is incorrect because dropping the bat did not communicate withdrawal from an active fight, as the physical fight had not yet started.
+**Explanation:** The initial aggressor doctrine bars a person who starts a physical fight from claiming self-defense. However, mere trespass or verbal arguments generally do not make someone an initial aggressor for self-defense purposes; the doctrine requires an actual use or imminent threat of physical force. Standing with a bat down at one's side is strong grounds to argue he did not trigger the initial aggressor bar. (a) is wrong because dropping the bat is a factual detail, but the strongest legal argument is that he never triggered the aggressor bar to begin with. (c) is wrong because initial aggressor principles apply to any physical force or weapon, not just firearms. (d) is wrong because words alone generally do not constitute provocation or justify physical force in self-defense. (e) is wrong because remaining silent does not constitute a legally recognized communication of withdrawal from a physical conflict.
 
-**Tags:** chapters: [22], topics: [initial aggressor, self-defense], difficulty: medium, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, initial-aggressor], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22, Initial Aggressor Bar.
+**Grounding:** Chapter 22, initial-aggressor-bar
 
 <!-- grounding: GROUNDED — Initial Aggressor Bar, Ch 22, Refinement `initial-aggressor-bar`. Rule paraphrased accurately. -->

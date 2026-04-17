@@ -1,22 +1,22 @@
-**Q6.** Assume the jurisdiction recognizes imperfect self-defense. If the jury concludes that Alex genuinely believed deadly force was necessary, but that a reasonable person would not have reached that conclusion, what is the legal result?
+**Q6.** Assume a jury finds that Alex honestly believed Blake was drawing a gun, but that this belief was objectively unreasonable. In a jurisdiction that recognizes imperfect self-defense (like California), what is the legal effect of this finding?
 
-(a) Alex is guilty of murder because an unreasonable belief fails the objective prong of the self-defense justification and leaves malice intact.
-(b) Alex is entirely acquitted of all homicide charges because his deeply held honest belief negates the mens rea required for criminal liability.
-(c) Alex is guilty of voluntary manslaughter because his honest but unreasonable belief negates the malice element required for a murder conviction. <!-- correct -->
-(d) Alex is guilty of involuntary manslaughter because his failure to accurately perceive the nature of the threat constitutes gross criminal negligence.
-(e) Alex is guilty of second-degree murder because imperfect self-defense acts only as a mitigating factor at sentencing rather than a substantive legal defense.
+(a) Alex is acquitted of all homicide charges because his genuine, honest fear completely satisfies the legal justification of true self-defense.
+(b) Alex is convicted of first-degree murder because an unreasonable belief provides absolutely no doctrinal relief in any justification or excuse defense.
+(c) Alex is convicted of involuntary manslaughter because his entirely unreasonable belief constitutes a gross deviation from the objective standard of care.
+(d) Alex is convicted of voluntary manslaughter because his honestly held belief negates the specific malice element required for a murder conviction. <!-- correct -->
+(e) Alex is completely excused from criminal liability because an honest mistake of fact negates the voluntary act requirement of the underlying offense.
 
-**Answer:** (c)
+**Answer:** (d)
 
-**Explanation:** (c) is correct because imperfect self-defense applies when a defendant honestly but unreasonably believes deadly force is necessary, negating malice and reducing murder to voluntary manslaughter (Fact 7). (a) is incorrect because in an imperfect self-defense jurisdiction, an unreasonable belief does not result in a murder conviction. (b) is incorrect because an unreasonable belief is only a partial defense; it does not excuse the homicide entirely. (d) is incorrect because imperfect self-defense reduces the charge to voluntary, not involuntary, manslaughter. (e) is incorrect because imperfect self-defense is a substantive partial defense that changes the grading of the conviction, not just a sentencing mitigator.
+**Explanation:** In jurisdictions that recognize imperfect self-defense, a defendant who honestly but unreasonably believes deadly force is necessary is entitled to a partial defense. The honest belief negates malice aforethought, which reduces the charge from murder to voluntary manslaughter. (a) is wrong because perfect self-defense requires an objectively reasonable belief; an unreasonable belief cannot yield a full acquittal. (b) is wrong because while most states reject imperfect self-defense entirely, the prompt specifies a jurisdiction that formally recognizes it. (c) is wrong because imperfect self-defense specifically reduces murder to voluntary manslaughter by negating malice, not to involuntary manslaughter. (e) is wrong because a mistake of fact negates a mental state (mens rea), not the voluntary act requirement (actus reus), and unreasonable mistakes do not fully excuse intentional homicides.
 
-**Tags:** chapters: [22], topics: [imperfect self-defense, voluntary manslaughter], difficulty: medium, cognitive: recall
+**Tags:** chapters: [22], topics: [self-defense, imperfect-self-defense, homicide-grading], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 22, Imperfect self-defense.
+**Grounding:** Chapter 22, imperfect-self-defense
 
 <!-- edge-case-audit: MUST FIX
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: The options affirmatively state that Alex "is guilty of" a completed homicide (murder or manslaughter). Because Q7 and Q8 specifically test whether the 45-minute delay or the hospital's severe medical error (a potential independent superseding cause) breaks the chain of proximate causation, Q6 either spoils those questions (by giving away that causation is satisfied) or is legally incorrect (if the gross medical error breaks the chain, limiting Alex to attempt charges).
-Recommended fix: Modify the question stem to isolate the doctrine by assuming causation is satisfied (e.g., "Assuming Alex's actions are found to be the legal cause of Blake's death...") or alter the options to reflect the grading effect rather than a final conviction (e.g., "Alex's homicide liability is reduced to voluntary manslaughter...").
+2. Cross-Doctrine Clashes: The Initial Aggressor rule. Alex armed himself with a bat and trespassed to "scare" Blake, making him the initial aggressor. In jurisdictions like California, an initial aggressor cannot claim imperfect self-defense unless they first attempt to withdraw. Therefore, under these specific facts, his honest but unreasonable belief would NOT reduce the charge, making (d) factually incorrect in context.
+3. Cross-Question Spoilers: Q2 explicitly tests the Initial Aggressor Bar. A student who correctly applies Q2 will know Alex is an initial aggressor, realize imperfect self-defense is barred, and likely select (b) instead of the intended answer (d).
+Recommended fix: Add a stipulative caveat to the prompt: "Assume for this question that Alex's defense is not barred by the initial aggressor rule." Additionally, consider changing the phrasing in the options from "Alex is convicted of..." to "The finding negates malice, which generally reduces the offense to..." to avoid predicting the ultimate outcome when omission-murder theories (from his 45-minute delay) still linger.
 -->

@@ -1,22 +1,22 @@
-**Q4.** Assume that, whether or not Alex was the initial aggressor, the jurisdiction strictly enforces a duty to retreat before using deadly force. Does Alex's use of force violate the retreat requirement?
+**Q4.** Assume the jurisdiction imposes a traditional duty to retreat before using deadly force. Does Alex's self-defense claim survive the retreat requirement?
 
-(a) Yes, because Alex was outside his own home and the facts establish he had an unobstructed path to safely retreat to the street. <!-- correct -->
-(b) Yes, because an individual engaged in an active property dispute must always return to their own dwelling before deploying a firearm.
-(c) No, because the universally recognized castle doctrine applies to any location within a residential neighborhood where property lines are contested.
-(d) No, because a person facing an objectively imminent threat of deadly force from a firearm is never legally required to attempt a retreat.
-(e) No, because Blake's rapid motion toward his jacket pocket made it factually impossible for Alex to retreat with complete personal safety.
+(a) Yes, because the castle doctrine extends to any location where the defendant has a colorable property interest or boundary dispute.
+(b) Yes, because the duty to retreat is never triggered when the attacker is reasonably suspected of reaching for a concealed firearm.
+(c) No, because Alex was standing in Blake's yard rather than his own home and had an unobstructed path to public safety. <!-- correct -->
+(d) No, because the duty to retreat strictly requires an initial aggressor to flee even when retreat poses a significant mortal risk.
+(e) No, because a defendant who is armed with a permitted handgun statutorily forfeits the right to invoke any self-defense justification.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct because in retreat jurisdictions, a defendant must retreat before using deadly force if a safe escape is possible; Alex had an unobstructed path to the street (Fact 7). (b) is incorrect because the law requires attempting any safe retreat, not specifically returning to one's dwelling. (c) is incorrect because the castle doctrine is limited to one's own home (and sometimes yard), not a neighbor's yard (Fact 4). (d) is incorrect because the duty to retreat expressly applies even to deadly threats if a safe retreat exists. (e) is incorrect because the facts explicitly state Alex had an unobstructed path to safely run away (Fact 7).
+**Explanation:** In a retreat jurisdiction, a defendant must retreat before using deadly force if a safe retreat is available. The "castle doctrine" exception applies only in the defendant's own home, not in a neighbor's yard, and Alex had an unobstructed path to safely retreat to the street. (a) is wrong because the castle doctrine is universally limited to one's own home or curtilage, not disputed property boundaries. (b) is wrong because the duty to retreat explicitly applies to deadly force threats, provided a safe escape is actually possible. (d) is wrong because even initial aggressors are not required to retreat if doing so is demonstrably unsafe (though here Alex may not be an aggressor). (e) is wrong because lawful possession of a firearm does not automatically strip a defendant of the right to claim self-defense.
 
-**Tags:** chapters: [22], topics: [duty to retreat, self-defense, castle doctrine], difficulty: easy, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, duty-to-retreat, castle-doctrine], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 22, Duty to retreat and Castle doctrine scope.
+**Grounding:** Chapter 22, duty-to-retreat-general; castle-doctrine-scope
 
-<!-- edge-case-audit: SHOULD FIX
-1. Fact Pattern Booby Traps: finding: There is a classic doctrinal tension between Fact 7 ("safely run back") and Fact 6/7 (Alex subjectively believes a gun is being drawn). Under both the MPC (§ 3.04(2)(b)(ii)) and many common-law formulations, the duty to retreat only triggers if the defendant *knows* (or reasonably should know) that retreat can be made with complete safety. If a defendant subjectively believes a gun is being drawn, they typically do not "know" retreat is safe, because one cannot outrun a bullet. Top students may rightfully argue that (a) fails to account for Alex's subjective belief regarding the safety of the retreat. 
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The facts establish Alex subjectively believed Blake was drawing a firearm. The traditional duty to retreat only applies if the defender *knows* they can retreat in complete safety. Because one cannot safely outrun a bullet, a defender facing a perceived firearm does not know they can safely retreat across an "unobstructed path" (which actually becomes a fatal funnel). This means the retreat requirement is not triggered, making Option (c) legally incorrect (his claim would fail on other grounds, such as unreasonableness or being the initial aggressor, but it *survives* the retreat requirement).
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: Clarify that the jurisdiction uses an objective standard for the safety of retreat in the prompt, or gently tweak (a) to read: "Yes, because the incident occurred outside Alex's home and the facts objectively establish he had an unobstructed path to safely retreat." This ensures students know to rely on the objective safety stipulation rather than Alex's subjective belief about the gun.
+Recommended fix: Add an assumption to the question stem: "Assume for this question that Alex subjectively knew he could retreat in complete safety before Blake could draw his weapon."
 -->

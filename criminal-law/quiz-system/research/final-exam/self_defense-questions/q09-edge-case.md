@@ -1,18 +1,18 @@
-**Q9.** Assume Alex is evaluated for criminal liability concerning his failure to call 911 while Blake bled on the lawn. Did Alex have a legal duty to assist or summon help for Blake?
+**Q9.** Assume it is established that Alex is not guilty of any homicide offense based on the act of shooting Blake because the initial shot was justified by self-defense. The prosecution instead charges Alex with a homicide offense based on his failure to call 911. Under the traditional categories of omission liability, what is the basis for Alex's legal duty to act?
 
-(a) Yes, because neighbors involved in an ongoing property dispute inherently share a special status relationship that imposes a legal duty of affirmative care.
-(b) No, because Alex successfully retreated to his own home, thereby legally terminating any temporary duty to rescue that might have arisen in the yard.
-(c) No, because the law generally does not impose a duty to rescue unless there is a formal contractual relationship established between the two parties.
-(d) Yes, because Alex created the peril by shooting Blake, thereby imposing an affirmative legal duty to act to prevent further harm. <!-- correct -->
-(e) No, because Alex's extreme panic and severe depression effectively rendered him mentally incapable of forming the required mens rea for an omission offense.
+(a) He assumed a voluntary duty to care for Blake by intentionally crossing the property line and entering into Blake's front yard.
+(b) He created the peril that placed Blake in severe danger of physical death by shooting him in the chest with a handgun. <!-- correct -->
+(c) He breached a statutory duty imposed on all citizens to formally report violent felonies to local emergency dispatch services immediately upon occurrence.
+(d) He established a special relationship with Blake through their shared physical property boundary and their ongoing civil legal dispute regarding the property.
+(e) He possessed an implied contractual obligation to mitigate any physical damages stemming directly from their ongoing and intensely bitter civil lawsuit proceedings.
 
-**Answer:** (d)
+**Answer:** (b)
 
-**Explanation:** (d) is correct because under omission doctrine, a person who creates the peril—even if doing so in self-defense—has an affirmative legal duty to summon aid or prevent further harm (Fact 7). (a) is incorrect because being neighbors does not qualify as a recognized status relationship (like parent-child) that creates a duty. (b) is incorrect because retreating to safety (Fact 9) does not extinguish a duty created by causing the injury. (c) is incorrect because the "creation of peril" category is a distinct, non-contractual exception to the general no-duty-to-rescue rule. (e) is incorrect because panic (Fact 9) does not legally dissolve a behavioral duty to act, though it might affect a specific intent inquiry.
+**Explanation:** Generally, criminal law imposes no legal duty to rescue or summon aid. However, there are five recognized exceptions. One exception is the "creation of peril" category: when a person's actions create the danger that puts another person at risk of harm, they incur a legal duty to take reasonable steps to rescue or seek help, regardless of whether the initial act was justified, accidental, or criminal. By shooting Blake, Alex created the peril. (a) is wrong because crossing a property line does not constitute a voluntary assumption of care for the property owner. (c) is wrong because standard criminal law does not impose a universal statutory duty on all citizens to report felonies. (d) and (e) are wrong because neighbors and civil litigants do not fall within the recognized special status or contractual relationships that create a legal duty to act.
 
-**Tags:** chapters: [9], topics: [omission, creation of peril, duty to rescue], difficulty: easy, cognitive: application
+**Tags:** chapters: [9], topics: [omissions, legal-duty, creation-of-peril], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 9, Creation of peril category.
+**Grounding:** Chapter 9, creation-of-peril-category
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
