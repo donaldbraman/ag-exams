@@ -74,6 +74,22 @@ async def dispatch_gemini(
     
     result = response.text
 
+    import time
+    try:
+        prompt_tokens = response.usage_metadata.prompt_token_count if response.usage_metadata else 0
+        output_tokens = response.usage_metadata.candidates_token_count if response.usage_metadata else 0
+        
+        metrics_line = json.dumps({
+            "timestamp": time.time(),
+            "model": model,
+            "prompt_tokens": prompt_tokens,
+            "output_tokens": output_tokens,
+        })
+        with open(CACHE_DIR / "metrics.jsonl", "a") as f:
+            f.write(metrics_line + "\n")
+    except Exception as e:
+        logger.warning(f"Failed to log metrics: {e}")
+
     if use_diskcache:
         _cache.set(cache_key, result)
 

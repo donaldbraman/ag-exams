@@ -342,15 +342,15 @@ files to disk on your behalf.
 Your output MUST be a valid JSON object matching this exact structure:
 
 ```json
-{
+{{
   "header_content": "# Scenario Header\\n\\nThe fact pattern...",
   "questions": [
-    {
+    {{
       "q_num": 1,
       "content": "**Q1.** What is the crime?\\n\\n(a) Option...\\n\\n**Answer:** (a)\\n\\n**Explanation:** ...\\n\\n**Tags:** ...\\n\\n**Grounding:** ..."
-    }
+    }}
   ]
-}
+}}
 ```
 
 Do NOT emit prose outside the JSON. Do NOT wrap the JSON in Markdown code blocks \

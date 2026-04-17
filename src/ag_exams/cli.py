@@ -16,8 +16,10 @@ TASK_QUEUE = "exam-pipeline"
 
 async def start_exam(config: ExamConfig) -> str:
     """Start a BuildFinalExam workflow and return the workflow ID."""
+    import json
     import subprocess
     import time
+    from pathlib import Path
     
     print("Starting ephemeral Temporal worker...")
     worker_proc = subprocess.Popen(
@@ -42,6 +44,7 @@ async def start_exam(config: ExamConfig) -> str:
         print(f"  uv run python -m ag_exams.cli approve {workflow_id}")
         print()
         
+        start_time = time.time()
         # We use execute_workflow to block until the workflow finishes or fails
         result = await client.execute_workflow(
             BuildFinalExam.run,
@@ -54,12 +57,83 @@ async def start_exam(config: ExamConfig) -> str:
 
         print(f"Workflow {workflow_id} completed successfully.")
         print(f"Result: {result}")
+        
+        # Generate metrics report
+        end_time = time.time()
+        _generate_metrics_report(start_time, end_time, config, workflow_id)
+        
         return workflow_id
         
     finally:
         print("Tearing down ephemeral worker...")
         worker_proc.terminate()
         worker_proc.wait()
+
+
+def _generate_metrics_report(start_time: float, end_time: float, config: ExamConfig, workflow_id: str) -> None:
+    """Aggregate token usage from the metrics log and generate a cost report."""
+    import json
+    from pathlib import Path
+    
+    elapsed_seconds = end_time - start_time
+    minutes, seconds = divmod(elapsed_seconds, 60)
+    
+    metrics_path = Path.home() / ".cache" / "ag-exams" / "metrics.jsonl"
+    repo_root = Path(__file__).resolve().parents[3]
+    report_path = repo_root / config.output_dir / f"{workflow_id}-metrics.md"
+    
+    model_usage: dict[str, dict[str, int]] = {}
+    
+    if metrics_path.exists():
+        with open(metrics_path, "r") as f:
+            for line in f:
+                if not line.strip():
+                    continue
+                try:
+                    data = json.loads(line)
+                    ts = data.get("timestamp", 0)
+                    if ts >= start_time:
+                        m = data.get("model", "unknown")
+                        if m not in model_usage:
+                            model_usage[m] = {"prompt": 0, "output": 0}
+                        model_usage[m]["prompt"] += data.get("prompt_tokens", 0)
+                        model_usage[m]["output"] += data.get("output_tokens", 0)
+                except json.JSONDecodeError:
+                    continue
+                    
+    total_cost = 0.0
+    report_lines = [
+        f"# Pipeline Execution Metrics: {workflow_id}",
+        "",
+        f"**Total Execution Time:** {int(minutes)}m {int(seconds)}s",
+        "",
+        "## Model Token Usage and Cost",
+        "| Model | Input Tokens | Output Tokens | Est. Cost ($) |",
+        "|---|---|---|---|"
+    ]
+    
+    for m, usage in model_usage.items():
+        # Pricing logic
+        cost = 0.0
+        p_tok = usage["prompt"]
+        o_tok = usage["output"]
+        
+        if "pro" in m.lower():
+            cost = (p_tok / 1_000_000 * 1.25) + (o_tok / 1_000_000 * 5.00)
+        elif "flash" in m.lower():
+            cost = (p_tok / 1_000_000 * 0.075) + (o_tok / 1_000_000 * 0.30)
+            
+        total_cost += cost
+        report_lines.append(f"| `{m}` | {p_tok:,} | {o_tok:,} | ${cost:.4f} |")
+        
+    report_lines.extend([
+        "",
+        f"**Total Estimated API Cost:** ${total_cost:.4f}"
+    ])
+    
+    report_path.parent.mkdir(parents=True, exist_ok=True)
+    report_path.write_text("\\n".join(report_lines))
+    print(f"Metrics report written to {report_path}")
 
 
 
