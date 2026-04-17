@@ -1,18 +1,18 @@
-**Q12.** Assume Alex is prosecuted under the National Firearms Act for possessing an unregistered machine gun. How does the public welfare offense doctrine apply to his lack of knowledge about the gun's internal defect?
+**Q12.** Alex is charged under the National Firearms Act (NFA) with possessing an unregistered fully automatic machine gun. Does the public welfare offense doctrine eliminate the requirement that the prosecution prove he knew the gun was fully automatic?
 
-(a) He cannot be convicted if he was unaware of the fully automatic capability, because the severe felony penalty prevents the statute from being treated as a strict-liability public welfare offense. <!-- correct -->
-(b) He may be convicted regardless of his personal knowledge, because firearms are inherently dangerous items that automatically qualify for strict liability under the standard public welfare offense doctrine.
-(c) He cannot be convicted if he was unaware of the fully automatic capability, because the Second Amendment categorically prohibits the imposition of any mens rea requirements for general firearm possession.
-(d) He may be convicted regardless of his personal knowledge, because federal law imposes a continuous strict duty on gun owners to have their weapons professionally inspected for hidden internal defects.
-(e) He cannot be convicted if he was unaware of the fully automatic capability, because the responsible corporate officer doctrine legally limits any strict liability solely to designated corporate executives.
+(a) Yes, because firearms are highly dangerous items that place owners on notice of strict regulation, creating a pure strict liability offense.
+(b) No, because under the Supreme Court's precedent, the severe felony penalties of the NFA require proof that Alex knew of the automatic features. <!-- correct -->
+(c) Yes, because Alex voluntarily chose to purchase the weapon initially, completely satisfying the voluntary act requirement for public welfare offenses.
+(d) No, because public welfare offenses strictly apply only to corporate defendants and cannot be applied to individuals possessing standard firearms.
+(e) Yes, because his genuine ignorance of the internal firing defect is considered a mistake of law, which never provides a valid defense.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct based on the Supreme Court's ruling in *Staples v. United States*. Although a machine gun is highly dangerous, the Court held that the severe felony penalty associated with the National Firearms Act prevents it from being classified as a true public welfare offense. Consequently, the government cannot rely on strict liability and must prove that the defendant actually knew of the features that brought the weapon under the statute. (b) is wrong because *Staples* explicitly rejected the argument that firearms automatically qualify for strict liability regardless of severe penalties. (c) is wrong because the Second Amendment does not constitutionally mandate or prohibit mens rea requirements; this is a statutory interpretation issue under criminal law doctrine. (d) is wrong because there is no federal criminal doctrine imposing a strict continuous duty for civilian gun owners to conduct professional internal defect inspections. (e) is wrong because the responsible corporate officer doctrine applies strictly to regulatory violations by corporate executives and has no bearing on individual firearm possession cases.
+**Explanation:** The public welfare offense doctrine generally dispenses with mens rea for regulatory offenses involving dangerous items with minor penalties. However, in Staples v. United States, the Supreme Court held that because the National Firearms Act carries severe felony penalties (up to 10 years imprisonment), it is not a pure public welfare offense. Therefore, the prosecution must prove the defendant knew the specific features that made the weapon a statutory firearm (i.e., fully automatic). Option (a) fails because Staples expressly rejected this reasoning for severe felony statutes. Option (c) fails because strict liability still requires assessing whether the statute eliminated mens rea entirely, which Staples determined the NFA did not. Option (d) fails because the public welfare doctrine can apply to individuals (e.g., Dotterweich). Option (e) fails because ignorance of a gun's physical firing capabilities is a mistake of fact, not a mistake of law.
 
-**Tags:** chapters: [11], topics: [public welfare offenses, strict liability, mens rea], difficulty: hard, cognitive: application
+**Tags:** chapters: [11], topics: [public welfare offenses, Staples mens rea limit, strict liability], difficulty: advanced, cognitive: application
 
-**Grounding:** Chapter 11 - Public Welfare Offenses (*Staples v. United States* and the limitation that severe penalties generally preclude strict liability).
+**Grounding:** Chapter 11; Staples v. United States and public welfare offense limits
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

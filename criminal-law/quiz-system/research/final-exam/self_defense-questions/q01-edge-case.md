@@ -1,18 +1,18 @@
-**Q1.** What is Chris's liability for the completed conspiracy charge based on his actions during the walk to Blake's house?
+**Q1.** Does Chris have a valid withdrawal defense to the initial charge of conspiracy?
 
-(a) Guilty of conspiracy, because the crime was complete upon the agreement and the overt act, rendering his subsequent withdrawal legally irrelevant to that charge. <!-- correct -->
-(b) Not guilty of conspiracy, because his statement "I'm going home" combined with dropping the bat constituted a clear and effective communication of his withdrawal.
-(c) Not guilty of conspiracy, because he abandoned the criminal enterprise before any physical harm occurred to the victim or any property was damaged.
-(d) Guilty of conspiracy, because he failed to thwart the success of the conspiracy or effectively report Alex's planned attack to law enforcement authorities.
-(e) Guilty of conspiracy, because the bilateral agreement requirement strictly demands that both parties remain committed until the target offense is attempted or completed.
+(a) Not guilty, because he clearly communicated his withdrawal to Alex before the target offense was committed.
+(b) Guilty, because the crime of conspiracy was complete as soon as they agreed and committed the overt act. <!-- correct -->
+(c) Not guilty, because he thwarted the success of the conspiracy by leaving before reaching the house.
+(d) Guilty, because dropping the bat and walking away silently was not a clear communication of intent to withdraw.
+(e) Not guilty, because mere preparation in grabbing a baseball bat is insufficient to constitute an overt act.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct because the crime of conspiracy is complete the moment an agreement is made and an overt act (grabbing bats and walking) is committed. While a valid withdrawal cuts off liability for future substantive crimes, it is not a defense to the already-completed conspiracy charge itself. (b) is wrong because withdrawal is a defense to future Pinkerton liability, not the completed conspiracy. (c) is wrong because conspiracy does not require actual harm or property damage to be completed. (d) is wrong because thwarting the conspiracy is a requirement for the MPC renunciation defense, which is distinct from traditional withdrawal. (e) is wrong because the bilateral agreement doctrine requires mutual assent at the time of the agreement, not continuous commitment until the end.
+**Explanation:** The crime of conspiracy requires only an agreement and an overt act. Once Alex and Chris agreed to the plan and grabbed their bats, the conspiracy was complete. Withdrawal is not a defense to the completed crime of conspiracy itself; it only protects the withdrawing party from liability for future substantive crimes committed by co-conspirators. Option (a) fails because withdrawal cannot retroactively erase a completed conspiracy. Option (c) fails because Chris did not thwart the conspiracy's success, which is required for an MPC renunciation defense. Option (d) fails because the crime was already complete, making his communication method legally irrelevant to the conspiracy charge itself. Option (e) fails because grabbing bats and walking toward the victim easily satisfies the minimal overt act requirement.
 
-**Tags:** chapters: [19], topics: [conspiracy, withdrawal], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, withdrawal, overt act], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - Conspiracy (Withdrawal cuts off future liability but is not a defense to the completed conspiracy charge).
+**Grounding:** Chapter 19; Withdrawal rules and overt act threshold
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

@@ -1,22 +1,22 @@
-**Q4.** Assume that, whether or not Alex's belief in the need for deadly force was reasonable, the prosecution argues he was the initial aggressor. Which of the following best analyzes this claim?
+**Q4.** Assume the jurisdiction applies traditional self-defense rules. Can Alex successfully claim self-defense?
 
-(a) He is barred from claiming self-defense, because he initiated the deadly confrontation and dropping the bat to draw a firearm did not clearly communicate a withdrawal. 
-(b) He is permitted to claim self-defense, because dropping his initial weapon to completely free his hands constituted a sufficient physical withdrawal to revive his defensive rights.
-(c) He is barred from claiming self-defense, because an initial aggressor's right to self-defense can only be revived if they physically flee the scene entirely before the victim reacts.
-(d) He is permitted to claim self-defense, because the victim's extreme verbal insult concerning his deceased wife reset the confrontation, thereby making the victim the new initial aggressor.
-(e) He is barred from claiming self-defense, because the initial aggressor doctrine inherently imposes strict criminal liability for any subsequent harm regardless of the victim's actions.
+(a) Yes, because Blake's act of reaching into his jacket elevated the confrontation, reviving Alex's right to self-defense.
+(b) No, because Alex was the initial aggressor and never clearly communicated a withdrawal from the violent confrontation. <!-- correct -->
+(c) Yes, because dropping the baseball bat constituted a physical withdrawal that revived his right to use defensive force.
+(d) No, because mere words and an aggressive challenge can never make someone an initial aggressor under common law.
+(e) Yes, because he reasonably believed Blake was drawing a concealed weapon after Blake issued a severe verbal threat.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct because a person who starts a fight (especially with a deadly weapon like a bat) cannot claim self-defense unless they withdraw and clearly communicate that withdrawal. Alex dropping his bat merely to draw a firearm while keeping his eyes locked aggressively on Blake was a tactical escalation, not a clear communication of withdrawal, meaning the initial aggressor bar remains in effect. (b) is wrong because physically dropping a weapon does not revive self-defense rights if it is done to deploy another weapon without communicating withdrawal. (c) is wrong because revival requires clear communication of withdrawal, but does not absolutely demand fleeing the scene entirely in all jurisdictions. (d) is wrong because words alone generally do not constitute physical aggression capable of resetting who the initial aggressor is. (e) is wrong because initial aggressors can theoretically regain their self-defense rights through effective withdrawal, making it not a strict liability regime.
+**Explanation:** An initial aggressor is a person who starts a physical confrontation. Initial aggressors cannot claim self-defense unless they withdraw from the conflict and clearly communicate that withdrawal to the other party. By stepping onto Blake's lawn armed with a bat and yelling for him, Alex started the confrontation. Dropping the bat while keeping his eyes locked aggressively did not clearly communicate withdrawal. Option (a) fails because an initial aggressor's right to self-defense does not automatically revive unless the victim responds to non-deadly provocation with sudden, disproportionate deadly force. Option (c) fails because withdrawal requires clear communication, not just discarding a weapon while remaining aggressive. Option (d) fails because an armed trespass combined with an aggressive challenge makes one an initial aggressor. Option (e) fails because the initial aggressor bar prevents raising reasonable belief as a defense entirely.
 
-**Tags:** chapters: [22], topics: [self-defense, initial aggressor], difficulty: medium, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, initial aggressor], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 22 - Self-Defense (Initial aggressor bar and the requirements for communicating withdrawal).
+**Grounding:** Chapter 22; Initial aggressor bar and withdrawal
 
-<!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The facts state Alex stepped onto the lawn "holding the bat" and yelled for Blake to come out. Because he did not swing or raise the bat, a student could reasonably argue this was a non-deadly provocation (a simple trespass or non-deadly assault). If Alex is a non-deadly aggressor, Blake's perceived act of drawing a concealed firearm constitutes a sudden escalation to deadly force. Under traditional common law rules, this sudden escalation revives a non-deadly aggressor's right to self-defense without requiring them to clearly communicate withdrawal. This makes Option (a) a highly credible answer and Option (b) legally inaccurate for this fact pattern, as the strict requirement to communicate withdrawal applies to deadly initial aggressors. 
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+Recommended fix: Modify the facts in the context to ensure Alex is unequivocally a deadly initial aggressor (e.g., "Alex steps onto the lawn, raises the bat over his head, and threatens to kill Blake"). Alternatively, amend option (b) to explicitly rely on him being a deadly initial aggressor.
 -->

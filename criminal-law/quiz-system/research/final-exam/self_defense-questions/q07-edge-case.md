@@ -1,22 +1,22 @@
-**Q7.** Assume the case is brought in California, and that the jury finds Alex's belief that Blake was drawing a weapon was honest but completely unreasonable. What is the effect of this finding?
+**Q7.** Assume that, whether or not Alex was the initial aggressor, it is established that his belief in the need for deadly force was genuine yet objectively unreasonable. Under California's imperfect self-defense doctrine, what is the outcome?
 
-(a) He is guilty of voluntary manslaughter, because his honest but unreasonable belief in the need for deadly force negates the malice element under the imperfect self-defense doctrine. <!-- correct -->
-(b) He is guilty of murder, because California law explicitly dictates that an unreasonable belief in the need for deadly physical force provides no defensive mitigation or benefit whatsoever.
-(c) He is guilty of involuntary manslaughter, because his honest but unreasonable belief demonstrates gross criminal negligence rather than an intentional and premeditated killing.
-(d) He is fully acquitted of all homicide charges, because his genuine fear of the victim fully satisfies the subjective element required for a complete legal justification defense.
-(e) He is guilty of voluntary manslaughter, because the imperfect self-defense doctrine acts as a complete excuse that entirely removes the actus reus element of the homicide charge.
+(a) Alex is guilty of murder, because an objectively unreasonable belief provides no recognized legal defense to an intentional homicide.
+(b) Alex is completely acquitted, because his genuine belief fully satisfies the subjective prong of the state's self-defense requirements.
+(c) Alex is guilty of voluntary manslaughter, because his honest belief legally negates the malice required for a murder conviction. <!-- correct -->
+(d) Alex is guilty of involuntary manslaughter, because his unreasonable belief constitutes a form of gross criminal negligence under the law.
+(e) Alex is guilty of second-degree murder, because his genuine belief eliminates premeditation but does not negate the underlying malice.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct because California explicitly recognizes the doctrine of imperfect self-defense. If a defendant has an honest but completely unreasonable belief in the need to use deadly force, that honest belief negates the element of malice aforethought. Because malice is negated, the homicide charge is reduced from murder to voluntary manslaughter. (b) is wrong because it describes the majority all-or-nothing rule, whereas California recognizes imperfect self-defense as a partial mitigation. (c) is wrong because imperfect self-defense mitigates the crime to voluntary manslaughter (an intentional but non-malicious killing), not involuntary manslaughter. (d) is wrong because imperfect self-defense is a partial defense that mitigates grading; it does not provide a complete justification resulting in acquittal. (e) is wrong because imperfect self-defense negates the mental state (mens rea) of malice; it does not remove the physical actus reus of the crime.
+**Explanation:** In California, a defendant who holds an honest (genuine) but objectively unreasonable belief that deadly force is necessary is entitled to imperfect self-defense. This partial defense legally negates malice—the mental state that distinguishes murder from manslaughter. Consequently, the charge is reduced from murder to voluntary manslaughter. Option (a) fails because California explicitly recognizes genuine but unreasonable beliefs as a partial defense, unlike pure all-or-nothing jurisdictions. Option (b) fails because a completely unreasonable belief cannot fully satisfy the objective prong required for a complete acquittal. Option (d) fails because imperfect self-defense reduces the charge specifically to voluntary manslaughter, not involuntary manslaughter. Option (e) fails because imperfect self-defense directly negates malice, making a second-degree murder conviction legally improper.
 
-**Tags:** chapters: [22], topics: [self-defense, imperfect self-defense], difficulty: medium, cognitive: application
+**Tags:** chapters: [22], topics: [imperfect self-defense, malice, voluntary manslaughter], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 22 - Self-Defense (California's imperfect self-defense doctrine negating malice).
+**Grounding:** Chapter 22; People v. Schuller and California imperfect self-defense doctrine
 
 <!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: Under California law, imperfect self-defense is not available to a defendant who is the initial aggressor and creates the circumstances justifying the adversary's use of force. Because Alex approached Blake's house with a baseball bat and called him out, he is an initial aggressor. This legally bars him from imperfect self-defense, rendering (a) legally incorrect as applied to these facts.
-3. Cross-Question Spoilers: Q4 explicitly tests the Initial Aggressor bar for Alex. Since students will have established that Alex is an initial aggressor, they will rightfully conclude that his imperfect self-defense claim in Q7 is blocked, ruining the question's premise.
-Recommended fix: Add a stipulation to the prompt bypassing the initial aggressor issue: "Assume the case is brought in California, that the judge determines Alex is not barred as an initial aggressor, and that the jury finds..."
+1. Fact Pattern Booby Traps: The phrase "whether or not Alex was the initial aggressor" introduces a legal flaw. Under California law, the initial aggressor doctrine DOES limit imperfect self-defense (e.g., *People v. Enraca*). A defendant who wrongfully creates the circumstances justifying the victim's attack cannot claim imperfect self-defense. Thus, if he *was* the initial aggressor, the outcome might not be voluntary manslaughter, making the "whether or not" phrasing legally problematic for well-prepared students.
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: Change the opening to: "Assume for this question that Alex is not legally barred from asserting defensive claims as an initial aggressor, and that his belief..."
 -->

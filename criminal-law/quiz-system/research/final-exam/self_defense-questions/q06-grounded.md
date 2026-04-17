@@ -1,17 +1,17 @@
-**Q6.** Assume the case is brought in Florida, and Alex moves to dismiss the charges prior to trial based on Stand Your Ground procedural immunity. Which of the following best describes his procedural burden and substantive hurdle?
+**Q6.** Assume this takes place in Florida and Alex seeks pre-trial Stand Your Ground immunity. Which of the following describes the procedural burden?
 
-(a) The prosecution must disprove immunity by clear and convincing evidence at a pre-trial hearing, but immunity will likely be denied because the defendant was engaged in criminal activity. <!-- correct -->
-(b) The defendant must prove his entitlement to immunity by a preponderance of the evidence at trial, but his status as the initial aggressor automatically requires the jury to convict him.
-(c) The prosecution must disprove immunity beyond a reasonable doubt at a pre-trial evidentiary hearing, ensuring the defendant will easily obtain immunity despite his aggressive approach.
-(d) The defendant is completely barred from seeking a pre-trial immunity hearing because the Stand Your Ground statute categorically excludes anyone who uses a legally permitted concealed firearm.
-(e) The judge must grant automatic immunity if the defendant formally claims self-defense, shifting the burden entirely to the victim's estate in a subsequent civil wrongful death lawsuit.
+(a) The prosecution must disprove Alex's claim of self-defense beyond a reasonable doubt during the final jury trial proceedings.
+(b) Alex must prove his entitlement to self-defense by a preponderance of the evidence at a pre-trial immunity hearing.
+(c) The prosecution must disprove Alex's immunity claim by clear and convincing evidence at a pre-trial evidentiary hearing. <!-- correct -->
+(d) The trial judge must grant immunity unless the prosecution shows Alex was the initial aggressor by a preponderance.
+(e) Alex must demonstrate that a reasonable person in his situation would not have retreated, thereby shifting the state's burden.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct because under Florida's post-2017 procedural framework, a defendant may seek pre-trial immunity, and the prosecution bears the burden of disproving the claim by clear and convincing evidence at an evidentiary hearing. However, Florida's Stand Your Ground statute substantively excludes defendants who are engaged in criminal activity or who are initial aggressors. Since Alex was trespassing with a weapon (aggravated assault/trespass), his immunity claim will likely fail on substantive grounds regardless of the prosecution's procedural burden. (b) is wrong because the burden lies with the prosecution (clear and convincing evidence), not the defendant, and immunity is a pre-trial issue, not a trial burden. (c) is wrong because the prosecution's pre-trial burden is clear and convincing evidence, not beyond a reasonable doubt (which applies at a full trial). (d) is wrong because using a legally permitted firearm is entirely compatible with invoking Stand Your Ground immunity. (e) is wrong because immunity is never automatic; the judge must conduct an evidentiary hearing and make factual findings.
+**Explanation:** Under Florida's Stand Your Ground statute (post-2017), a defendant may move to dismiss charges at a pre-trial immunity hearing. Once the defendant raises a prima facie claim of self-defense, the burden shifts to the prosecution to disprove the justification by clear and convincing evidence before the judge. Option (a) fails because SYG provides pre-trial immunity, meaning the issue is resolved before a jury trial. Option (b) fails because the burden rests on the prosecution, not the defendant, under modern Florida law. Option (d) fails because the state's standard to defeat immunity is clear and convincing evidence, not a preponderance. Option (e) fails because Florida SYG explicitly eliminates the retreat requirement, meaning the defendant does not have to prove a reasonable person would not have retreated.
 
-**Tags:** chapters: [22], topics: [self-defense, Stand Your Ground, procedural immunity], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [22], topics: [stand your ground, burden of proof, procedural immunity], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 22 - Self-Defense (Florida's Stand Your Ground procedural immunity hearing, burden-shifting rules, and the criminal activity substantive bar).
+**Grounding:** Chapter 22; Florida Stand Your Ground statute and immunity hearing procedure
 
-<!-- grounding: GROUNDED — Stand Your Ground Immunity, Ch 22, Refinement `syg-immunity-procedure`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Stand Your Ground immunity procedure, Ch 22, Refinement `syg-immunity-procedure`. Rule paraphrased accurately. -->

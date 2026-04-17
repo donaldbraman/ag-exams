@@ -1,17 +1,17 @@
-**Q2.** Assume that, regardless of Chris's liability for the conspiracy itself, Alex is charged with the subsequent shooting. What is Chris's liability for the shooting under the Pinkerton doctrine?
+**Q2.** Assume Chris is guilty of conspiracy. Is Chris liable under the Pinkerton doctrine for Alex's shooting of Blake?
 
-(a) Guilty under Pinkerton, because the shooting of the victim was a reasonably foreseeable consequence of a conspiracy to violently threaten someone with baseball bats.
-(b) Guilty under Pinkerton, because he failed to take affirmative steps to physically prevent Alex from continuing to the victim's house to carry out the attack.
-(c) Not guilty under Pinkerton, because he effectively communicated his withdrawal from the conspiracy to his co-conspirator before the substantive shooting offense occurred. <!-- correct -->
-(d) Not guilty under Pinkerton, because the substantive offense of shooting the victim with a handgun was not the specific agreed-upon target offense of the conspiracy.
-(e) Not guilty under Pinkerton, because his mere physical presence during the initial agreement is insufficient to establish purposeful intent to aid the completed shooting.
+(a) Liable, because Alex's use of a weapon during a violent confrontation was a reasonably foreseeable consequence.
+(b) Not liable, because he successfully withdrew from the conspiracy by clearly communicating his departure before the shooting. <!-- correct -->
+(c) Liable, because he set the chain of events in motion and failed to alert the authorities immediately.
+(d) Not liable, because the agreed target crime of the conspiracy was assault rather than intentional homicide.
+(e) Liable, because withdrawal under Pinkerton requires completely neutralizing the threat, which Chris failed to accomplish.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** (c) is correct because the Pinkerton doctrine holds conspirators liable for reasonably foreseeable crimes committed by co-conspirators in furtherance of the conspiracy, but an effective withdrawal severs this ongoing liability. By dropping his bat and expressly telling Alex "I'm going home," Chris effectively communicated his withdrawal before the shooting, shielding him from Pinkerton liability. (a) is wrong because it ignores Chris's legally effective withdrawal. (b) is wrong because effective withdrawal under common law only requires clear communication to co-conspirators, not affirmative physical prevention. (d) is wrong because Pinkerton liability extends to any foreseeable substantive offense in furtherance of the conspiracy, not just the exact target offense. (e) is wrong because Chris was an active participant who agreed and committed an overt act, meaning his initial involvement was much more than "mere presence."
+**Explanation:** Under the Pinkerton doctrine, a conspirator is liable for the foreseeable substantive crimes committed by co-conspirators in furtherance of the conspiracy. However, a defendant escapes Pinkerton liability for future crimes if they effectively withdraw by communicating their abandonment to their co-conspirators before the target offense occurs. Chris's statement "I'm going home" combined with dropping his bat clearly communicated his withdrawal to Alex. Option (a) fails because successful withdrawal severs liability even for foreseeable acts. Option (c) fails because failure to alert authorities does not negate a valid common law withdrawal. Option (d) fails because Pinkerton covers any reasonably foreseeable crime, not just the specific target offense. Option (e) fails because neutralizing the threat is an MPC renunciation requirement, not a Pinkerton withdrawal requirement.
 
-**Tags:** chapters: [19], topics: [conspiracy, Pinkerton liability, withdrawal], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [Pinkerton liability, withdrawal], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - Conspiracy (Pinkerton liability and the requirements for an effective withdrawal to cut off future substantive liability).
+**Grounding:** Chapter 19; Pinkerton v. United States and withdrawal limits
 
 <!-- grounding: GROUNDED — Pinkerton liability and withdrawal, Ch 19, Refinement `pinkerton-doctrine` and `withdrawal-requirements`. Rule paraphrased accurately. -->

@@ -1,18 +1,18 @@
-**Q8.** Assume the jurisdiction applies traditional common-law provocation rules, and Alex argues that Blake's insult mitigated the killing. How will the court rule on his heat-of-passion claim?
+**Q8.** Assume Alex argues that Blake's insult regarding his dead wife provoked him into a heat of passion. Under traditional common law rules, is this argument likely to succeed?
 
-(a) The heat-of-passion claim will fail, because the traditional common-law rule categorically holds that mere words alone do not constitute adequate provocation to legally mitigate murder. <!-- correct -->
-(b) The heat-of-passion claim will succeed, because a targeted verbal insult directed at a deceased spouse falls within the traditional common-law category of sudden combat provocation.
-(c) The heat-of-passion claim will fail, because heat-of-passion mitigation under the common law is exclusively available if the victim physically strikes the defendant before the defendant responds.
-(d) The heat-of-passion claim will succeed, because the jury is legally permitted to independently evaluate whether the victim's specific words were sufficiently inflammatory to provoke a reasonable person.
-(e) The heat-of-passion claim will fail, because common-law provocation strictly requires a documented cooling-off period of at least twenty-four hours before homicide mitigation can be legally applied.
+(a) Yes, because the insult was highly inflammatory and directed at a deceased family member, satisfying the adequate provocation standard.
+(b) No, because the traditional common law rule categorically dictates that words alone cannot constitute adequate provocation for homicide mitigation. <!-- correct -->
+(c) Yes, because the combination of the offensive insult and the property dispute created a legally adequate cooling-off period.
+(d) No, because Alex responded with a deadly weapon, which automatically disqualifies any defendant from claiming a heat of passion mitigation.
+(e) Yes, because heat of passion is determined entirely by evaluating the defendant's subjective loss of self-control during the immediate confrontation.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct because the traditional common law of provocation relies on rigid, categorical rules to determine what constitutes "adequate provocation." One of the firmest categorical rules is that "words alone"—no matter how insulting, inflammatory, or deeply personal—are never legally sufficient to mitigate murder to voluntary manslaughter. Blake's insult about Alex's dead wife cannot support a heat-of-passion instruction. (b) is wrong because insults do not qualify as "mutual combat," which historically required a physical altercation. (c) is wrong because while a physical blow is the most common provocation category, the common law also recognized discovering adultery or suffering false arrest as adequate provocation without requiring a physical strike. (d) is wrong because allowing the jury to freely evaluate whether words were inflammatory represents the modern/MPC approach, not the traditional common-law categorical approach. (e) is wrong because a cooling-off period defeats a heat-of-passion claim (by showing premeditation rather than sudden passion); it is not a requirement to grant mitigation.
+**Explanation:** Under traditional common law heat of passion doctrine, the provocation must fall into specific recognized categories to be deemed legally adequate. The common law categorically established that "words alone"—no matter how insulting, inflammatory, or deeply offensive—are never sufficient provocation to reduce murder to voluntary manslaughter. Option (a) fails because the inflammatory nature of the words cannot overcome the categorical words-alone bar. Option (c) fails because a cooling-off period defeats a heat of passion claim rather than supporting it. Option (d) fails because responding with a deadly weapon does not automatically disqualify a defendant if they were adequately provoked (e.g., discovering adultery in progress). Option (e) fails because traditional heat of passion requires both subjective loss of control and objectively adequate provocation.
 
-**Tags:** chapters: [12], topics: [intentional homicide, heat of passion, provocation], difficulty: easy, cognitive: application
+**Tags:** chapters: [12], topics: [heat of passion, words alone, adequate provocation], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 12 - Intentional Homicide (Common law heat of passion framework and the rigid words-alone bar).
+**Grounding:** Chapter 12; Common law provocation categories and words-alone rule
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

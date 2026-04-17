@@ -1,17 +1,15 @@
-**Q10.** Assume that, whether or not the shooting was justified, Alex is charged with an offense based on leaving Blake bleeding on the lawn. Can Alex be held liable based on an omission?
+**Q10.** Assume that, regardless of the self-defense outcome, it is established that Alex left Blake bleeding on the lawn. Does Alex have a legal duty to act?
 
-(a) He may be held liable based on an omission, because he created the peril that caused the victim's need for medical assistance, thereby imposing a binding legal duty to act. <!-- correct -->
-(b) He cannot be held liable based on an omission, because the criminal law imposes no duty to rescue unless there is a formal and pre-existing status relationship between the parties.
-(c) He may be held liable based on an omission, because the universal good-samaritan rule requires all adult citizens to immediately call emergency services when witnessing a serious physical injury.
-(d) He cannot be held liable based on an omission, because his sudden panic completely mentally incapacitated him, thereby negating the voluntary act requirement necessary for any omission liability.
-(e) He may be held liable based on an omission, because the underlying property line dispute legally established a binding contractual duty of care between the two neighboring residential homeowners.
+(a) No, because the criminal law generally imposes no affirmative duty to rescue or summon aid for another injured person.
+(b) Yes, because Alex created the peril by shooting Blake, thereby triggering an affirmative duty to act under the established categories. <!-- correct -->
+(c) No, because summoning emergency medical aid would have required Alex to risk further violent confrontation with an unstable neighbor.
+(d) Yes, because Alex and Blake were residential neighbors, establishing a special status relationship that imposes a strict duty to act.
+(e) No, because the applicable good samaritan statutes protect bystanders from omission liability when they decline to physically intervene during emergencies.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct because while criminal law generally does not punish omissions, a legal duty to act arises when the defendant wrongfully creates the peril that places the victim in danger. By shooting Blake and leaving him bleeding, Alex created the peril and therefore acquired a legal affirmative duty to seek assistance. (b) is wrong because a formal status relationship (like parent-child) is just one category that creates a duty; creation of peril is another independent category. (c) is wrong because the United States generally rejects universal good-samaritan rules and does not impose a duty to act simply because a citizen witnesses an injury. (d) is wrong because emotional panic does not legally equate to unconsciousness or physical incapacity sufficient to negate the voluntary act requirement. (e) is wrong because a contentious property line dispute does not establish any legally binding contractual duty of care to provide medical assistance.
+**Explanation:** While the general baseline is that there is no legal duty to rescue or summon aid, exceptions exist. The "creation of peril" category establishes that if a person's act creates a risk of harm to another—even if that initial act was legally justified—the person acquires an affirmative legal duty to act or summon help. By shooting Blake, Alex created the peril and had a duty to call emergency services. Option (a) fails because the creation of peril serves as a well-established exception to the no-duty baseline. Option (c) fails because Alex had already retreated safely to his locked home; calling 911 posed no physical risk. Option (d) fails because being residential neighbors does not establish a legally recognized special status relationship like parent-child or spouses. Option (e) fails because Good Samaritan statutes shield voluntary rescuers from civil liability, not perpetrators from criminal omission liability.
 
-**Tags:** chapters: [9], topics: [omissions, creation of peril], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 9 - Omissions (Categories of affirmative duties, specifically creation of peril).
+**Tags:** chapters: [9], topics: [omission liability, creation of peril, duty to act], difficulty: intermediate, cognitive: application
 
 <!-- grounding: GROUNDED — creation of peril, Ch 9, Refinement `creation-of-peril-category`. Rule paraphrased accurately. -->

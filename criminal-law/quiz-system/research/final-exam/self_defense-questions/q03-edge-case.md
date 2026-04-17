@@ -1,22 +1,22 @@
-**Q3.** Assume Chris is no longer present, and Alex is evaluating his need to use force against Blake. Which of the following best applies the objective reasonableness standard to Alex's belief that deadly force was necessary?
+**Q3.** Alex claims self-defense for the shooting. In evaluating whether Alex "reasonably believed" deadly force was necessary under the objective standard, which of the following is true?
 
-(a) His belief was objectively reasonable, because the objective standard strictly requires the jury to ignore the defendant's personal knowledge and evaluate only the victim's physical actions.
-(b) His belief may be objectively reasonable, because the situational-incorporation rule allows the jury to consider his personal knowledge of the victim's prior threats and concealed carry permit. <!-- correct -->
-(c) His belief was not objectively reasonable, because the victim was subsequently found to be completely unarmed, making the use of deadly physical force factually unnecessary.
-(d) His belief was not objectively reasonable, because the reasonableness standard is purely subjective, meaning only his personal terror at the exact moment of the shooting is evaluated.
-(e) His belief may be objectively reasonable, because any sudden physical movement by a victim during a heated argument automatically justifies the use of preemptive deadly force.
+(a) The jury must apply a purely external standard that categorically excludes Alex's personal knowledge of Blake's past threats.
+(b) The jury may consider Alex's knowledge of Blake's prior gun threats as circumstances incorporated into the reasonableness inquiry. <!-- correct -->
+(c) The standard is purely subjective; if Alex genuinely felt terrified by Blake's reach, his belief is legally reasonable.
+(d) The jury must determine whether Blake was actually armed, because a reasonable belief requires an actual physical threat.
+(e) The standard permits the jury to consider Alex's prior experiences only if they prove he suffered from mental illness.
 
 **Answer:** (b)
 
-**Explanation:** (b) is correct because the objective standard of self-defense asks what a reasonable person "in the defendant's situation" would have believed. Under the situational-incorporation rule (established in cases like Goetz), a reasonable person is imbued with the defendant's specific prior experiences and knowledge of the attacker. Alex's knowledge of Blake's CCW permit and recent violent threats are directly incorporated into assessing whether his fear of Blake reaching into his pocket was reasonable. (a) is wrong because the objective standard does not require ignoring the defendant's personal knowledge or circumstances. (c) is wrong because self-defense relies on apparent necessity based on reasonable belief, not the hindsight reality of whether the victim was actually armed. (d) is wrong because the standard is not purely subjective; it retains an objective "reasonable person" requirement. (e) is wrong because a sudden movement alone does not automatically justify deadly force without context establishing a reasonable threat of imminent death or serious injury.
+**Explanation:** The "reasonably believes" standard for self-defense is not purely objective in a vacuum; it incorporates the defendant's situational context, including prior experiences and particular knowledge of the attacker (the situational-incorporation rule). Alex's knowledge of Blake's CCW permit and prior threats with a gun are properly incorporated into the jury's assessment of what a reasonable person in Alex's situation would believe. Option (a) fails because the objective standard does not exclude the defendant's specific knowledge or prior experiences. Option (c) fails because the standard retains an objective reasonableness requirement and is not purely subjective. Option (d) fails because self-defense requires a reasonable belief in a threat, not an actual physical threat. Option (e) fails because situational incorporation applies to all defendants, not just those demonstrating a diagnosed psychological syndrome.
 
-**Tags:** chapters: [22], topics: [self-defense, objective reasonableness, situational incorporation], difficulty: hard, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, objective reasonableness, situational incorporation], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 22 - Self-Defense (Objective reasonableness standard and the situational-incorporation rule from People v. Goetz).
+**Grounding:** Chapter 22; People v. Goetz and situational incorporation
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass (The question correctly isolates the analysis to the *reasonableness of the belief* using "may be", effectively preventing Alex's probable "Initial Aggressor" status from completely short-circuiting the specific doctrinal test being applied here).
-3. Cross-Question Spoilers: pass (Does not spoil Q4's Initial Aggressor analysis or Q7's Imperfect Self-Defense analysis because it uses "may be objectively reasonable", leaving room for alternative factual conclusions by the jury).
-Recommended fix: N/A
+2. Cross-Doctrine Clashes: pass (Although Alex is likely an initial aggressor which might ultimately bar the self-defense claim as tested in Q4, isolating the "reasonable belief" element to test situational incorporation is doctrinally sound and standard for law exams.)
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
 -->

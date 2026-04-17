@@ -1,26 +1,26 @@
-**Q5.** Assume the jurisdiction applies a traditional duty to retreat before using deadly force. How do the duty to retreat and the castle doctrine apply to Alex's location on Blake's lawn?
+**Q5.** Assume the jurisdiction imposes a general duty to retreat. Under the castle doctrine, was Alex required to retreat before using deadly force?
 
-(a) He had a duty to retreat, because he was on the victim's property and the castle doctrine exception only eliminates the duty to retreat when a person is inside their own dwelling. <!-- correct -->
-(b) He had no duty to retreat, because the castle doctrine automatically extends to the immediate vicinity of a neighbor's property whenever the underlying dispute involves a shared property line.
-(c) He had a duty to retreat, because the legal duty to retreat applies strictly to all uses of defensive force, regardless of whether the force utilized is classified as non-deadly or deadly.
-(d) He had no duty to retreat, because the duty only arises if the defendant subjectively believes they can escape with complete personal safety, which this defendant clearly did not believe.
-(e) He had a duty to retreat, because the castle doctrine exception is categorically inapplicable in any legal jurisdiction whenever the defendant is armed with a legally permitted concealed firearm.
+(a) No, he was not required, because the castle doctrine applies universally to any dispute occurring on residential property.
+(b) Yes, he was required, because the castle doctrine exception only applies when a person is inside their own home. <!-- correct -->
+(c) No, he was not required, because the castle doctrine protects anyone standing in a place they have a right to be.
+(d) Yes, he was required, because the castle doctrine forces individuals to retreat when facing an unarmed person.
+(e) No, he was not required, because Blake's aggressive motion created an imminence that overrides the duty to retreat universally.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct because in traditional retreat jurisdictions, a defendant must retreat before using deadly force if a safe escape is possible. The castle doctrine provides an exception to this duty, but it strictly applies only when the defendant is attacked in their own home. Because Alex was trespassing on Blake's front lawn, the castle doctrine does not protect him, and the duty to retreat applies. (b) is wrong because the castle doctrine does not extend to a neighbor's property under any shared property-line theory. (c) is wrong because the duty to retreat only applies before the use of deadly physical force, not all defensive force. (d) is wrong because the requirement that an escape path must be known to the defendant is judged by an objective standard of "complete personal safety," not merely the defendant's subjective belief. (e) is wrong because possessing a legally permitted firearm does not automatically nullify the castle doctrine exception when a person is actually inside their own home.
+**Explanation:** In retreat jurisdictions, a defendant must retreat before using deadly force if a safe retreat is possible. The castle doctrine is a universally recognized exception to this duty, but it strictly applies only when a person is attacked in their own home (or curtilage). Because Alex was standing on Blake's front lawn rather than his own property, the castle doctrine does not excuse him from the duty to retreat. Option (a) fails because the castle doctrine is tied to one's own dwelling, not any residential property. Option (c) fails because "right to be" is a feature of broad Stand Your Ground laws, whereas the castle doctrine is much narrower. Option (d) fails because the castle doctrine does not distinguish between armed and unarmed attackers. Option (e) fails because the imminence of a threat triggers self-defense analysis but does not override the duty to retreat if safe escape exists.
 
-**Tags:** chapters: [22], topics: [self-defense, duty to retreat, castle doctrine], difficulty: easy, cognitive: application
+**Tags:** chapters: [22], topics: [duty to retreat, castle doctrine], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 22 - Self-Defense (Duty to retreat and the scope of the castle doctrine exception).
+**Grounding:** Chapter 22; Duty to retreat and Castle doctrine scope
 
 <!-- audit: MUST FIX
-Check 1: pass
-Check 2: pass
-Check 3: fail (The explanation for 'd' incorrectly states that the requirement is judged by an purely objective standard. Under traditional common law and the MPC, the duty to retreat only arises if the defendant *knows* they can retreat with complete safety—which requires subjective awareness of the safe escape path.)
-Check 4: fail (The stem is completely missing its fact pattern. It references "Alex", "Blake's lawn", and the defendant's subjective beliefs without providing any underlying facts about the confrontation, who attacked whom, or what force was used. It is an orphan question.)
-Check 5: pass
-Check 6: pass
-Check 7: pass
-Recommended fix: Insert the missing fact pattern into the stem so students know who Alex and Blake are and what happened. Additionally, revise the explanation for (d) to correctly address the subjective "knowledge of a completely safe retreat" standard.
+check 1: pass (assuming facts are present, though the correct option's phrasing is slightly narrower than the doctrine).
+check 2: pass (none of the distractors are legally correct for a retreat jurisdiction).
+check 3: SHOULD FIX (Explanation accurately notes the castle doctrine applies to "own home (or curtilage)", but Option B says "inside their own home". A student might challenge "inside" if they know the curtilage rule).
+check 4: MUST FIX (The question stem is entirely missing the fact pattern. It asks about Alex and mentions Blake in the distractors/explanation, but the facts about Alex being on Blake's front lawn are completely omitted from the prompt).
+check 5: pass (The stem cleanly stipulates a retreat jurisdiction).
+check 6: pass (No excluded topics present).
+check 7: pass (Duty to retreat and castle doctrine scope are covered in Ch 22).
+Recommended fix: Add the missing facts to the stem: "Alex is confronted by Blake while standing on Blake's front lawn. Blake makes an aggressive motion, and Alex considers using deadly force. Assume the jurisdiction imposes..." Additionally, revise Option B to say "in or around their own home" or "in their own home or its curtilage" to prevent a technical challenge on the word "inside."
 -->

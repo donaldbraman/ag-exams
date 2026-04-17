@@ -1,17 +1,17 @@
-**Q11.** Assume it is established that the shooting was unjustified, but the gross blood transfusion error at the hospital significantly accelerated Blake's death. Is Alex the proximate cause of Blake's death?
+**Q11.** Assume Alex is charged with homicide after Blake dies. Does the hospital's gross blood transfusion error relieve Alex of liability for the completed homicide?
 
-(a) He is not the proximate cause of the victim's death, because gross medical negligence is legally considered an independent intervening cause that effectively breaks the chain of causation. <!-- correct -->
-(b) He is the proximate cause of the victim's death, because any subsequent medical treatment for a gunshot wound is perfectly foreseeable and can never break the legally established causal chain.
-(c) He is not the proximate cause of the victim's death, because the required but-for test is automatically defeated whenever a third-party actor physically touches or treats the injured victim.
-(d) He is the proximate cause of the victim's death, because his prior failure to call emergency services immediately nullifies the legal significance of the hospital's subsequent gross medical error.
-(e) He is not the proximate cause of the victim's death, because the medical examiner concluded the victim would have survived, meaning the initial shooting was neither an actual nor proximate cause.
+(a) Yes, because gross medical negligence is considered an independent intervening cause that breaks the chain of proximate causation. <!-- correct -->
+(b) No, because Alex was the initial "but-for" cause of the injury, which is always sufficient to establish proximate causation.
+(c) Yes, because any subsequent intervening medical treatment, whether ordinary or grossly negligent, automatically severs the legal chain of causation.
+(d) No, because the victim's death was a highly foreseeable result of a gunshot wound, rendering the hospital's negligent actions irrelevant.
+(e) Yes, because Alex's failure to call emergency services constituted an omission that legally supersedes his affirmative act of shooting.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because of the doctrine governing intervening medical treatment. Ordinary medical negligence is considered a foreseeable risk of causing injury and does not break the chain of proximate causation. However, gross medical negligence or reckless treatment (such as a gross blood transfusion error that actively accelerates death) constitutes an independent intervening cause that breaks the chain, relieving the defendant of liability for the resulting death. (b) is wrong because while ordinary treatment is foreseeable, gross medical negligence breaks the chain. (c) is wrong because a third party merely touching or treating a victim does not automatically defeat the but-for causation test. (d) is wrong because an omission like failing to call 911 does not retroactively nullify the legal disruption caused by an independent intervening cause like gross medical error. (e) is wrong because the shooting was undeniably an actual (but-for) cause of Blake being in the hospital; the failure lies entirely in the proximate cause analysis.
+**Explanation:** In criminal causation, an intervening act by a third party may break the chain of proximate causation if it is abnormal and unforeseeable. While ordinary medical negligence is considered a highly foreseeable result of inflicting a wound and does not break the chain, gross medical negligence is legally treated as an independent intervening cause (a superseding cause) that severs the defendant's liability for the resulting death. Option (b) fails because criminal liability requires both factual (but-for) causation and proximate (legal) causation. Option (c) fails because ordinary medical negligence does not break the causal chain. Option (d) fails because the gross nature of the transfusion error makes the death legally unforeseeable, even if the initial wound required treatment. Option (e) fails because a subsequent omission cannot retroactively sever causation for the affirmative act that caused the injury.
 
-**Tags:** chapters: [8], topics: [causation, proximate cause, intervening cause], difficulty: medium, cognitive: application
+**Tags:** chapters: [8], topics: [proximate cause, intervening cause, gross negligence], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 8 - Causation (Distinction between ordinary and gross medical negligence as independent intervening causes).
+**Grounding:** Chapter 8; Proximate cause and dependent vs. independent intervening causes
 
-<!-- grounding: GROUNDED — Intervening Causes (Medical Negligence), Ch 8, Refinement `dependent-vs-independent-intervening-cause`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Proximate Causation (Intervening Causes), Ch 8, Refinement `dependent-vs-independent-intervening-cause`. Rule paraphrased accurately. -->
