@@ -153,25 +153,10 @@ This is round {round_number} of the collaborative whiteboarding process.
         prompt += """This is the FIRST round. \
 Design the initial fact pattern with characters, numbered facts, and question stubs.
 
-Output a SINGLE top-level JSON object.  Do NOT wrap it in another key \
-(no `scenario_package`, no `package`, no `result`).  Do NOT emit prose \
-summaries before or after the JSON — emit JSON only.  The top-level keys \
-MUST be exactly as shown, with the types shown (``doctrines_covered`` is a \
-list of strings, not a dict keyed by doctrine name):
+Explain your reasoning thoroughly in Markdown. What doctrines are you targeting? Why?
 
-```json
-{
-  "facts": ["Fact 1 text...", "Fact 2 text..."],
-  "characters": [{"name": "...", "role": "...", "stems": [1], \
-"doctrinal_target": "..."}],
-  "stubs": [{"id": "Q1", "doctrine": "...", "description": "...", \
-"facts_referenced": [1, 2], "stem": 1, "status": "proposed"}],
-  "doctrines_covered": ["possession-distribution", "accomplice-liability"],
-  "boss_requests": ["Your supervisor hands you a case file..."],
-  "open_questions": ["Should we add a character for X?"],
-  "architect_confidence": 5
-}
-```"""
+Then, clearly outline the facts, characters, and stubs you are proposing. Do NOT output JSON. Output pure Markdown.
+"""
     else:
         prompt += f"""Review the critic's feedback and revise the scenario package. \
 Address every fact issue and incorporate accepted suggestions.
@@ -184,24 +169,35 @@ Address every fact issue and incorporate accepted suggestions.
 
 {current_package or "Empty"}
 
-Output the REVISED scenario package as a single JSON object. Do NOT wrap it \
-in any outer object (no `scenario_package`, no `package`, no `result` key). \
-Do NOT output prose summaries, change-logs, or explanations — emit JSON only. \
-The top-level keys MUST be exactly:
+Explain your reasoning thoroughly in Markdown. What are you changing and why?
 
+Then, clearly outline the REVISED facts, characters, and stubs. Do NOT output JSON. Output pure Markdown.
+"""
+    return prompt
+
+
+def build_architect_extractor_prompt(reasoning: str) -> str:
+    """Build the prompt for the architect's JSON extractor."""
+    return f"""You are a JSON extractor for the exam architect. \
+Extract the proposed scenario package from the architect's reasoning below.
+
+Your output MUST be a valid JSON object matching this exact structure:
 ```json
 {{
   "facts": ["Fact 1 text...", "Fact 2 text..."],
   "characters": [{{"name": "...", "role": "...", "stems": [1], "doctrinal_target": "..."}}],
   "stubs": [{{"id": "Q1", "doctrine": "...", "description": "...", "facts_referenced": [1, 2], "stem": 1, "status": "proposed"}}],
-  "doctrines_covered": ["..."],
-  "architect_confidence": 6
+  "doctrines_covered": ["possession-distribution", "accomplice-liability"],
+  "boss_requests": ["Your supervisor hands you a case file..."],
+  "open_questions": ["Should we add a character for X?"],
+  "architect_confidence": 5
 }}
 ```
 
-Increment `architect_confidence` if improvements are substantial.
+## Architect Reasoning
+
+{reasoning}
 """
-    return prompt
 
 
 def build_critic_prompt(
@@ -260,9 +256,17 @@ only when ALL of these are true:
         else ""
     }
 
-IMPORTANT: Do NOT re-output the entire scenario package. The orchestrator already \
-has it. Output ONLY your evaluation diffs — what to accept, reject, revise, add. \
-The orchestrator will merge your diffs into the package mechanically.
+IMPORTANT: Output pure Markdown reasoning. Discuss what to accept, reject, revise, and add.
+Explain your evaluations for each stub and fact.
+Do NOT output JSON.
+"""
+    return prompt
+
+
+def build_critic_extractor_prompt(reasoning: str) -> str:
+    """Build the prompt for the critic's JSON extractor."""
+    return f"""You are a JSON extractor for the exam critic. \
+Extract the critic's evaluation diffs from the reasoning below.
 
 Output a JSON object:
 ```json
@@ -270,12 +274,10 @@ Output a JSON object:
   "status": "ITERATE or CONVERGED",
   "accepted_stubs": ["Q1", "Q3"],
   "rejected_stubs": [{{"id": "Q2", "reason": "facts don't support Pinkerton analysis"}}],
-  "proposed_stubs": [{{"id": "Q15", "doctrine": "...", "description": "...", \
-"facts_referenced": [3, 7], "stem": 2, "status": "proposed"}}],
+  "proposed_stubs": [{{"id": "Q15", "doctrine": "...", "description": "...", "facts_referenced": [3, 7], "stem": 2, "status": "proposed"}}],
   "revised_facts": {{"4": "Tyler Chen moved in three weeks before..."}},
   "new_facts": ["Fact 18: Brother B contacts a lawyer to set up..."],
-  "fact_issues": [{{"fact_number": 4, "issue": "needs clearer no-knowledge language", \
-"severity": "high"}}],
+  "fact_issues": [{{"fact_number": 4, "issue": "needs clearer no-knowledge language", "severity": "high"}}],
   "opportunities": ["Could test accomplice by omission using facts 3 and 8"],
   "confidence": 7
 }}
@@ -286,7 +288,12 @@ Field guide:
 - `new_facts`: Facts to append to the end of the fact list.
 - `proposed_stubs`: Only NEW stubs you want added.
 - `accepted_stubs` / `rejected_stubs`: Verdict on existing stubs by ID.
-- Do NOT include unchanged facts, unchanged stubs, or the full package."""
+- Do NOT include unchanged facts, unchanged stubs, or the full package.
+
+## Critic Reasoning
+
+{reasoning}
+"""
     return prompt
 
 

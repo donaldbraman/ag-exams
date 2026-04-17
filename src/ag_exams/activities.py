@@ -172,7 +172,7 @@ async def dispatch_architect(
     round_number: int,
 ) -> str:
     """Dispatch the exam-architect agent for one whiteboarding round."""
-    from ag_exams.prompts import build_architect_prompt
+    from ag_exams.prompts import build_architect_prompt, build_architect_extractor_prompt
 
     prompt = build_architect_prompt(
         scenario_brief,
@@ -185,22 +185,34 @@ async def dispatch_architect(
     from ag_exams.model_config import get_stage_config
 
     cfg = get_stage_config("architect")
-    result = await dispatch_gemini(
+    
+    # Step 1: Deep Reasoning (Markdown)
+    reasoning_md = await dispatch_gemini(
         prompt,
         model=cfg.model,
         use_diskcache=cfg.cache,
+        response_mime_type="text/plain",
+    )
+    
+    # Step 2: JSON Extraction (Flash)
+    extractor_prompt = build_architect_extractor_prompt(reasoning_md)
+    result_json = await dispatch_gemini(
+        extractor_prompt,
+        model="gemini-3.0-flash-preview",
+        use_diskcache=False,
         response_mime_type="application/json",
     )
+    
     # Validate JSON structure
     try:
-        data = json.loads(_extract_json(result))
+        data = json.loads(_extract_json(result_json))
         if "facts" not in data or "stubs" not in data:
             msg = "Missing required fields: facts, stubs"
             raise ValueError(msg)
     except (json.JSONDecodeError, ValueError) as e:
         activity.logger.warning("Architect output validation failed: %s", e)
         # Return raw -- workflow can handle
-    return result
+    return result_json
 
 
 @activity.defn
@@ -211,7 +223,7 @@ async def dispatch_critic(
     round_number: int,
 ) -> str:
     """Dispatch the exam-critic agent for one whiteboarding round."""
-    from ag_exams.prompts import build_critic_prompt
+    from ag_exams.prompts import build_critic_prompt, build_critic_extractor_prompt
 
     prompt = build_critic_prompt(
         current_package,
@@ -222,20 +234,32 @@ async def dispatch_critic(
     from ag_exams.model_config import get_stage_config
 
     cfg = get_stage_config("critic")
-    result = await dispatch_gemini(
+    
+    # Step 1: Deep Reasoning (Markdown)
+    reasoning_md = await dispatch_gemini(
         prompt,
         model=cfg.model,
         use_diskcache=cfg.cache,
+        response_mime_type="text/plain",
+    )
+    
+    # Step 2: JSON Extraction (Flash)
+    extractor_prompt = build_critic_extractor_prompt(reasoning_md)
+    result_json = await dispatch_gemini(
+        extractor_prompt,
+        model="gemini-3.0-flash-preview",
+        use_diskcache=False,
         response_mime_type="application/json",
     )
+    
     # Check for convergence signal
     try:
-        data = json.loads(_extract_json(result))
+        data = json.loads(_extract_json(result_json))
         status = data.get("status", "ITERATE")
         activity.logger.info("Critic round %d status: %s", round_number, status)
     except json.JSONDecodeError:
         activity.logger.warning("Could not parse critic JSON output")
-    return result
+    return result_json
 
 
 @activity.defn
