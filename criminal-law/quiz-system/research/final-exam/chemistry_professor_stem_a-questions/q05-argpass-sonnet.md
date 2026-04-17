@@ -1,0 +1,37 @@
+**Q5.** Arthur is charged with manslaughter for abandoning the convulsing Julian. Arthur testifies that he genuinely believed Julian was just having a "bad reaction" and would "sleep it off." Assuming the jury believes Arthur, can he still be convicted of manslaughter?
+
+(a) Yes, because under the constructive recklessness standard, Arthur is held liable if an objectively reasonable person would have perceived the grave danger, despite his subjective belief. <!-- correct -->
+(b) No, because manslaughter requires actual subjective awareness of a substantial risk, meaning his genuine belief that Julian would survive completely negates the required mental state.
+(c) Yes, because any failure to rescue a person in medical distress constitutes extreme indifference to human life as a matter of law, regardless of the actor's belief.
+(d) No, because the constructive recklessness standard applies only to premises liability cases and cannot be extended to interpersonal omissions in temporary locations like a motel room.
+(e) Yes, because Arthur's prior diagnosis of terminal cancer proves he possessed the requisite depraved heart and general malice necessary for any degree of criminal homicide.
+
+**Answer:** (a)
+
+**Explanation:** Arthur is liable under the *Welansky* constructive recklessness standard because a reasonable person would have perceived the grave danger of abandoning a convulsing victim, rendering Arthur's subjective belief that Julian would "sleep it off" irrelevant. (b) is wrong because constructive recklessness explicitly overrides the normal requirement for subjective awareness. (c) is wrong because not every failure to rescue automatically constitutes extreme indifference as a matter of law; it remains a fact-specific inquiry. (d) is wrong because the *Welansky* standard applies generally to wanton and reckless conduct, not just strictly to premises liability. (e) is wrong because a terminal illness does not automatically establish malice or a depraved heart.
+
+**Tags:** chapters: [13], topics: [unintentional homicide, constructive recklessness, depraved heart], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 13 (constructive-recklessness-welansky, extreme-indifference-standard)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: This option correctly identifies the constructive recklessness standard as articulated in cases like *Commonwealth v. Welansky*. Under this doctrine, a defendant is guilty of involuntary manslaughter if they engage in wanton or reckless conduct, which is measured by an objective standard. If a reasonable person would have realized that leaving a convulsing person creates a high degree of risk of death or serious bodily injury, the defendant’s subjective lack of awareness is legally irrelevant. Therefore, even if the jury believes Arthur’s subjective account, he can still be convicted because his conduct deviated so far from what a reasonable person would do.
+
+(b) Argument-for: In many jurisdictions, particularly those following the Model Penal Code, recklessness is defined strictly by a subjective standard. This requires that the defendant consciously disregard a substantial and unjustifiable risk. If the jury fully accepts Arthur’s testimony that he genuinely believed Julian was merely sleeping off a reaction, it follows that Arthur did not subjectively perceive the risk of death. Under this legal framework, a genuine (even if unreasonable) belief that no grave risk exists would negate the specific mens rea required for manslaughter, mandating an acquittal.
+
+(c) Argument-for: This argument posits that certain situations are so inherently dangerous that a failure to act satisfies the "extreme indifference" or "depraved heart" threshold automatically. If a jurisdiction adopts a per se rule that abandoning a person in clear medical distress constitutes the requisite malice or gross negligence for manslaughter, Arthur's individual perception is irrelevant. By failing to seek aid for a convulsing companion, Arthur’s omission meets the legal definition of the crime as a matter of law. This interpretation prioritizes the protection of life by setting an absolute legal floor for conduct in medical emergencies.
+
+(d) Argument-for: A student could argue that the constructive recklessness standard is a narrow exception to the general requirement of subjective intent, primarily intended for those with public safety duties, such as the nightclub owner in *Welansky*. This argument suggests that extending such an objective standard to private individuals in temporary, non-public settings like a motel room is an impermissible expansion of the law. If the standard is confined strictly to premises liability or public accommodations, then Arthur's liability must be assessed under the default subjective recklessness standard. Consequently, if he lacked subjective awareness, he cannot be convicted.
+
+(e) Argument-for: This argument relies on the concept of general malice, where a defendant’s overall disposition or life circumstances can be used by a jury to infer a depraved heart. A terminal diagnosis might be presented as evidence that Arthur has become indifferent to the value of human life in general, including his own and Julian's. If the law allows the jury to consider such personal factors to establish the "wickedness" or "depraved heart" necessary for homicide, then Arthur's diagnosis serves as the evidentiary bridge to conviction. Under this view, his medical status helps prove the requisite mental state for a homicide conviction regardless of his specific belief about Julian's condition.
+
+Head-to-head: (a) is the strongest answer because it directly applies the *Welansky* "constructive recklessness" doctrine mentioned in the tags, which specifically allows for manslaughter convictions despite a defendant's subjective ignorance. (b) is a strong competitor based on Model Penal Code principles, but it fails because it uses the absolute word "requires," ignoring the existence of the constructive recklessness exception. (c) fails because "extreme indifference" is almost always a question for the trier of fact, not a matter of law. (d) fails by claiming a categorical limit on the *Welansky* standard that does not exist in the case law. (e) is the weakest because it makes a nonsensical leap from a medical diagnosis to a legal mental state and incorrectly claims depraved heart is necessary for "any degree" of homicide.
+
+Falsifiable claim per distractor:
+- (b): "manslaughter requires actual subjective awareness" — wrong because the constructive recklessness standard (*Welansky*) allows for conviction based on an objective standard.
+- (c): "constitutes extreme indifference... as a matter of law" — wrong because the level of indifference is a fact-specific question for the jury, not a per se legal rule.
+- (d): "applies only to premises liability cases" — wrong because the doctrine applies generally to "wanton or reckless" conduct involving a failure to act where a duty exists.
+- (e): "necessary for any degree of criminal homicide" — wrong because many forms of homicide (like negligent homicide or standard manslaughter) do not require a depraved heart or malice.
+
+Recommended fix: none
+-->

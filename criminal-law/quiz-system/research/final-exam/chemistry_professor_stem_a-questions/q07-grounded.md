@@ -1,0 +1,17 @@
+**Q7.** Silas is charged with the substantive offenses of evidence tampering and false imprisonment based on Arthur stepping on the phone and locking the door. Under the *Pinkerton* doctrine, is Silas liable for Arthur's actions?
+
+(a) Yes, because Silas is strictly liable for any and all criminal acts committed by his co-conspirator, regardless of whether the acts were foreseeable or furthered the conspiracy.
+(b) No, because Silas explicitly protested Arthur's actions and attempted to call 911, which immediately severs his liability for any subsequent crimes Arthur committed in the room.
+(c) Yes, because preventing the victim's rescue to avoid police detection was an act in furtherance of their drug distribution conspiracy and was a reasonably foreseeable consequence. <!-- correct -->
+(d) No, because the doctrine only extends liability to the specific target offense of the conspiracy and never covers subsequent cover-up efforts or false imprisonment of victims.
+(e) Yes, because Silas's physical presence in the motel room establishes his direct accomplice liability for Arthur's acts, rendering the conspiracy doctrine's foreseeability requirement legally irrelevant.
+
+**Answer:** (c)
+
+**Explanation:** Silas is liable because Arthur's actions in locking the door to avoid police detection are reasonably foreseeable and act in furtherance of the ongoing drug conspiracy. (a) is wrong because *Pinkerton* liability requires the acts to be foreseeable and in furtherance of the conspiracy, not just any random act. (b) is wrong because mere verbal protest without thwarting the crime or notifying police does not constitute legal withdrawal. (d) is wrong because *Pinkerton* explicitly covers foreseeable collateral crimes, including subsequent cover-ups. (e) is wrong because *Pinkerton* liability extends substantive liability based on the agreement itself, not merely physical presence at the scene.
+
+**Tags:** chapters: [19], topics: [conspiracy, Pinkerton doctrine], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 19 (pinkerton-doctrine)
+
+<!-- grounding: GROUNDED — Pinkerton liability, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->

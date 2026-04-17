@@ -1,0 +1,33 @@
+**Q5.** Evaluate Alex's belief that he was in imminent danger of deadly force. In assessing whether this belief was objectively reasonable, which of the following is true regarding Alex's prior knowledge?
+
+(a) His knowledge of Blake's permit and prior threats must be excluded from the analysis to prevent a purely subjective standard from justifying the homicide.
+(b) His severe depression following his wife's death provides a legally recognized objective basis for reasonably misinterpreting Blake's motion toward his pocket.
+(c) His knowledge of Blake's prior threats is incorporated into the "reasonable person" standard as part of the circumstances of the defendant. <!-- correct -->
+(d) His knowledge that Blake had a gun permit is irrelevant unless Blake verbally referenced that specific permit during the immediate physical confrontation.
+(e) His subjective belief that Blake was drawing a weapon automatically satisfies the reasonable belief element because the standard focuses on his internal state.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct because the objective "reasonable person" standard incorporates the defendant's specific prior experiences and knowledge about the attacker (Fact 6). (a) is incorrect because objective reasonableness does not require ignoring the defendant's situational knowledge. (b) is incorrect because internal psychological trauma like depression is generally not incorporated into the objective reasonable person standard for self-defense. (d) is incorrect because prior knowledge of danger is relevant even if the attacker doesn't explicitly announce it in the moment. (e) is incorrect because the standard is not purely subjective; it requires that a reasonable person with Alex's knowledge would also perceive imminent danger.
+
+**Tags:** chapters: [22], topics: [self-defense, objective reasonableness, situational incorporation], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 22, Objective Reasonableness Standard and Situational Incorporation (People v. Goetz).
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could argue that if the objective standard is strictly construed, personal knowledge about a specific individual might be seen as subjectivizing the standard too much. Narrow interpretations of objective reasonableness might aim to focus only on the immediate physical acts of the victim rather than the defendant's idiosyncratic prior knowledge. This approach would ensure the standard remains purely objective and avoids the risk of defendants using a victim's history to justify premature or biased use of force.
+(b) Argument-for: A student could argue that modern subjectivized-objective standards (like those in *State v. Wanrow* or *People v. Goetz*) allow for incorporating the defendant's physical and psychological attributes. Following a severe trauma like a spouse's death, clinical depression could significantly alter a person's perceptive baseline and threat assessment. Under a highly individualized standard, a student might reason that this psychological state constitutes a legally recognized objective circumstance shaping how a reasonable person in the actor's unique situation would interpret a sudden movement.
+(c) Argument-for: A student could correctly argue that the modern objective standard for self-defense evaluates what a "reasonable person in the defendant's situation" would believe. The "situation" universally includes any prior knowledge the defendant had about the attacker, such as prior threats, violent reputation, or possession of a weapon. This legally bridges the objective requirement with the subjective reality of the encounter, accurately reflecting black-letter doctrine.
+(d) Argument-for: A student could argue that mere knowledge of a lawful concealed carry permit is too attenuated to justify deadly force without an overt act directly linking the present threat to the weapon. By requiring a verbal reference or a visual display of the weapon, the law ensures that self-defense is grounded in immediate, verifiable necessity. Thus, without Blake explicitly referencing the permit, a student might conclude the prior knowledge is legally irrelevant to the imminence calculation.
+(e) Argument-for: A student could argue that under a flawed understanding of the Model Penal Code's "believes" standard, the defendant's genuine, honest belief is the primary inquiry for justification. If the jury finds Alex subjectively believed Blake was drawing a weapon, this internal state satisfies the core of self-defense culpability. In a purely subjective paradigm, the objective reasonableness of the belief is secondary to the honesty of the fear.
+
+Head-to-head: Option (c) is clearly correct because it accurately states the black-letter rule that a defendant's prior knowledge of the victim's threats is incorporated into the "reasonable person" standard. Option (a) directly contradicts this rule with an absolute claim that such knowledge "must be excluded." Option (b) fails because while physical traits and certain experiential knowledge (like prior abuse) are incorporated, generalized psychological conditions like depression are categorically excluded from altering the objective "reasonable person" baseline. Option (d) invents a rigid, falsifiable requirement for verbal corroboration that does not exist in law. Option (e) explicitly misstates the law by claiming a subjective belief "automatically satisfies" a standard that universally requires an objective component.
+
+Falsifiable claim per distractor:
+- (a): "must be excluded from the analysis" — wrong because a defendant's prior knowledge of the victim's threats and weapon possession is universally admissible and incorporated into the objective reasonableness standard.
+- (b): "provides a legally recognized objective basis" — wrong because abnormal psychological conditions or mental illnesses like severe depression are categorically excluded from the objective "reasonable person" baseline for justification defenses.
+- (d): "is irrelevant unless Blake verbally referenced" — wrong because non-verbal overt acts (like abruptly reaching into a pocket) make prior knowledge of a weapon highly relevant; there is no rule requiring explicit verbal reference.
+- (e): "automatically satisfies the reasonable belief element" — wrong because self-defense requires both subjective actual belief and objective reasonableness; an honest but unreasonable subjective belief does not automatically satisfy the justification standard.
+
+Recommended fix: none
+-->

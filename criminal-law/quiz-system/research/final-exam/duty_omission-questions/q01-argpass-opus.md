@@ -1,0 +1,33 @@
+**Q1.** Assume Alba and Bex are charged with possession of the 50 grams of fentanyl found in the lockbox. Based on their arrangement, is Bex guilty of possessing the fentanyl?
+
+(a) Guilty, because Bex had exclusive access to the lockbox and knew the drugs were inside, demonstrating the power and intent to exercise control over them. <!-- correct -->
+(b) Guilty, because Bex's mere presence in the apartment where drugs were sold creates an irrebuttable presumption of constructive possession.
+(c) Not guilty, because Alba directed all the sales and supplied the drugs, meaning Alba retained exclusive possession of the contraband.
+(d) Not guilty, because the drugs were inside a locked container rather than on Bex's physical person, which defeats the actus reus for possession.
+(e) Not guilty, because Bex only provided the location and did not take a share of the profits from the fentanyl sales.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because constructive possession requires the power and intent to exercise control over an item; Bex having the combination to the lockbox establishes this element. (b) is incorrect because mere presence is insufficient for possession; awareness and control must be independently shown. (c) is incorrect because possession can be shared; Alba directing sales does not negate Bex's control over the lockbox. (d) is incorrect because constructive possession explicitly covers items not on the defendant's physical person. (e) is incorrect because ownership or taking a profit share is not legally required to establish possession.
+
+**Tags:** chapters: [15], topics: [constructive possession, elements], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 15 — Constructive possession requires both awareness and the power and intent to exercise control (cp-awareness-control, cp-exclusive-control).
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: Bex’s knowledge of the drugs and exclusive access to the lockbox seamlessly align with the doctrine of constructive possession. Constructive possession requires both an awareness of the contraband and the power and intent to exercise dominion and control over it. Having exclusive access to the lockbox directly demonstrates the power to control its contents. Knowing the drugs are inside fulfills the required awareness and intent elements, properly rendering Bex guilty.
+(b) Argument-for: A student could argue that certain strict liability or specific statutory frameworks treat a person's knowing presence in a drug-selling location as legally sufficient for possession. The argument would assert that by allowing an apartment to be used as a drug den, Bex assumes absolute legal responsibility for all contraband within it. Therefore, they might incorrectly conclude that mere presence under these specific circumstances establishes an irrebuttable presumption of constructive possession.
+(c) Argument-for: Under a narrow view of dominion and control, a student might argue that the individual who supplies the drugs and directs their sale is the sole operator of the criminal enterprise. Because Alba completely controlled the commercial aspect of the fentanyl, Bex could be viewed as a mere bystander lacking authority over the drugs themselves. This reasoning suggests that Alba's operational control translates to exclusive legal possession, precluding Bex's guilt.
+(d) Argument-for: A strictly literal interpretation of the actus reus of possession focuses solely on actual physical custody. A student might argue that because the fentanyl was in a locked container rather than on Bex's physical person, actual possession is factually impossible. If the student incorrectly believes that criminal possession strictly requires physical control on one's person, they would conclude that the lockbox scenario categorically defeats the required actus reus.
+(e) Argument-for: A student might argue that constructive possession requires an intent to exercise control that is inherently tied to a beneficial or financial interest in the contraband. Because Bex did not share in the profits and merely provided the physical space, Bex lacks a financial stake or ownership interest in the drug operation. Without this proprietary interest, the student could argue Bex lacks the requisite legal intent to possess the fentanyl, rendering him not guilty.
+
+Head-to-head: Option (a) correctly applies the legal standard for constructive possession by combining awareness with the power to control via lockbox access. Option (b) fails because "mere presence" explicitly does not create an "irrebuttable presumption" of possession under any standard. Option (c) wrongly asserts that operational control guarantees "exclusive" possession, ignoring the well-established doctrine of joint constructive possession. Option (d) incorrectly equates the actus reus of possession exclusively with physical custody, contradicting the very existence of constructive possession. Option (e) concludes Bex is not guilty based on a factual lack of profit-sharing, but it relies on an implicit assumption rather than stating an explicitly false categorical legal rule, making it a weaker and less falsifiable distractor compared to the others. 
+
+Falsifiable claim per distractor:
+- (b): "creates an irrebuttable presumption of constructive possession" — wrong because mere presence never creates an irrebuttable presumption of possession; dominion and control must be independently proven.
+- (c): "meaning Alba retained exclusive possession" — wrong because possession can be jointly held; Alba's direction of sales does not automatically establish exclusive possession.
+- (d): "defeats the actus reus for possession" — wrong because the actus reus for possession encompasses constructive possession (dominion and control over an area or container), not just actual physical custody.
+- (e): "because Bex only provided the location and did not take a share of the profits" — wrong because financial interest or profit-sharing is not legally required to establish possession, though the option currently fails to lock this in as a categorical legal claim.
+
+Recommended fix: Edit (e) to lock a falsifiable proposition using an absolute word. Change to: "(e) Not guilty, because establishing constructive possession categorically requires the defendant to take a share of the profits or hold an ownership interest in the contraband."
+-->

@@ -1,0 +1,17 @@
+**Q7.** Assume the jurisdiction has adopted a Stand-Your-Ground law with a pre-trial immunity framework similar to Florida's post-2017 statute. How does this procedural framework affect Alex's prosecution?
+
+(a) The judge must dismiss the charges before trial unless the prosecution proves by clear and convincing evidence that Alex's use of force was not justified. <!-- correct -->
+(b) The prosecution must prove beyond a reasonable doubt at trial that Alex was not justified, but Alex bears the initial burden of proof at the hearing.
+(c) The judge must grant Alex absolute immunity as long as Alex can show by a preponderance of the evidence that he was in a place he had a right to be.
+(d) The prosecution is barred from charging Alex because the castle doctrine extends to the curtilage of neighboring properties during an active boundary dispute.
+(e) Alex loses the opportunity to claim self-defense before a jury if the judge denies his pre-trial motion for statutory immunity during the evidentiary hearing.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because under Florida's post-2017 Stand Your Ground framework, the prosecution bears the burden to disprove self-defense by clear and convincing evidence at a pre-trial immunity hearing. (b) is incorrect because the 2017 amendment shifted the burden at the pre-trial hearing to the prosecution, not the defendant. (c) is incorrect because immunity is not automatically granted merely by showing a right to be present; the use of force must be justified. (d) is incorrect because the castle doctrine does not cover a neighbor's property (Fact 4). (e) is incorrect because a defendant who loses a pre-trial immunity hearing may still raise self-defense before the jury at trial.
+
+**Tags:** chapters: [22], topics: [Stand Your Ground, pre-trial immunity, burden of proof], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 22, Stand Your Ground statute (Florida's post-2017 burden shift).
+
+<!-- grounding: GROUNDED — Stand-Your-Ground immunity procedure, Ch 22, Refinement `syg-immunity-procedure`. Rule paraphrased accurately. -->

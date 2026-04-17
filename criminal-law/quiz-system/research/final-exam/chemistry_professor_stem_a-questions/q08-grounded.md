@@ -1,0 +1,17 @@
+**Q8.** Silas argues that he effectively withdrew from the conspiracy when he pulled out his phone, stated "I'm calling 911," and verbally protested Arthur's decision to leave Julian in the locked room. Will Silas's withdrawal defense succeed?
+
+(a) Yes, because by announcing his intent to call 911 and protesting, Silas clearly communicated his rejection of the conspiracy to his co-conspirator before the death occurred.
+(b) No, because Silas failed to actually thwart the success of the conspiracy, communicate his withdrawal to law enforcement, or completely abandon the enterprise before fleeing. <!-- correct -->
+(c) Yes, because his attempt to dial 911 constituted a substantial step toward abandoning the criminal enterprise, which legally nullifies his prior agreement to distribute the drugs.
+(d) No, because a co-conspirator can never legally withdraw from a conspiracy once the target offense has been partially completed and the victim has ingested the drugs.
+(e) Yes, because he verbally protested leaving the victim in the room, which fully satisfies the common law requirement for voluntary and complete renunciation of criminal purpose.
+
+**Answer:** (b)
+
+**Explanation:** Silas did not effectively withdraw because successful withdrawal requires completely abandoning the enterprise and typically thwarting the crime or notifying authorities, not just protesting and fleeing. (a) is wrong because merely protesting without taking further action to stop the ongoing crime is insufficient to establish withdrawal. (c) is wrong because dialing 911 without completing the call or stopping the crime fails the rigorous withdrawal standard. (d) is wrong because one can legally withdraw before the crime reaches completion, though Silas failed to do so properly. (e) is wrong because a verbal protest alone is not a complete and voluntary renunciation.
+
+**Tags:** chapters: [19], topics: [conspiracy, withdrawal], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 19 (withdrawal-requirements)
+
+<!-- grounding: GROUNDED — conspiracy withdrawal, Ch 19, Refinement `withdrawal-requirements`. Rule paraphrased accurately. -->

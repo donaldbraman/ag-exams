@@ -1,0 +1,33 @@
+**Q5.** Arthur is charged with manslaughter for abandoning the convulsing Julian. Arthur testifies that he genuinely believed Julian was just having a "bad reaction" and would "sleep it off." Assuming the jury believes Arthur, can he still be convicted of manslaughter?
+
+(a) Yes, because under the constructive recklessness standard, Arthur is held liable if an objectively reasonable person would have perceived the grave danger, despite his subjective belief. <!-- correct -->
+(b) No, because manslaughter requires actual subjective awareness of a substantial risk, meaning his genuine belief that Julian would survive completely negates the required mental state.
+(c) Yes, because any failure to rescue a person in medical distress constitutes extreme indifference to human life as a matter of law, regardless of the actor's belief.
+(d) No, because the constructive recklessness standard applies only to premises liability cases and cannot be extended to interpersonal omissions in temporary locations like a motel room.
+(e) Yes, because Arthur's prior diagnosis of terminal cancer proves he possessed the requisite depraved heart and general malice necessary for any degree of criminal homicide.
+
+**Answer:** (a)
+
+**Explanation:** Arthur is liable under the *Welansky* constructive recklessness standard because a reasonable person would have perceived the grave danger of abandoning a convulsing victim, rendering Arthur's subjective belief that Julian would "sleep it off" irrelevant. (b) is wrong because constructive recklessness explicitly overrides the normal requirement for subjective awareness. (c) is wrong because not every failure to rescue automatically constitutes extreme indifference as a matter of law; it remains a fact-specific inquiry. (d) is wrong because the *Welansky* standard applies generally to wanton and reckless conduct, not just strictly to premises liability. (e) is wrong because a terminal illness does not automatically establish malice or a depraved heart.
+
+**Tags:** chapters: [13], topics: [unintentional homicide, constructive recklessness, depraved heart], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 13 (constructive-recklessness-welansky, extreme-indifference-standard)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under *Commonwealth v. Welansky*, a jurisdiction may apply a "constructive recklessness" standard where an objective "reasonable person" test is used to establish wanton or reckless conduct. If a reasonable person would have recognized the grave danger in abandoning a convulsing victim, the defendant's subjective failure to perceive the risk does not preclude conviction. Therefore, Arthur can still be convicted, making (a) correct.
+(b) Argument-for: The Model Penal Code and many modern jurisdictions require actual subjective awareness of a substantial and unjustifiable risk to establish recklessness for manslaughter. Because the jury believes Arthur genuinely thought Julian would "sleep it off," Arthur lacked the required conscious disregard of the risk of death. Under this standard, a genuinely held belief completely negates the mens rea required for manslaughter. Therefore, he cannot be convicted, making (b) a compelling legal conclusion.
+(c) Argument-for: Failing to rescue someone in severe medical distress, such as convulsions, demonstrates a profound disregard for human life. A student could argue that such a blatant omission objectively rises to the level of extreme indifference to human life. In this view, the failure satisfies the depraved heart malice requirement automatically as a matter of law because the danger is universally obvious.
+(d) Argument-for: The landmark case for constructive recklessness, *Welansky*, involved a nightclub fire and was deeply tied to the duties of a business owner maintaining safe premises. A student could argue this objective standard is legally confined to premises liability or situations where the defendant owes a heightened duty to invitees. Under this interpretation, the doctrine cannot be extended to an interpersonal omission in a private, temporary location, meaning Arthur's subjective belief would govern.
+(e) Argument-for: General malice or a depraved heart requires demonstrating that the defendant acted with a callous disregard for the value of human life. A student might argue that Arthur's terminal cancer diagnosis fundamentally altered his valuation of life. This condition inherently supplies the depraved heart mens rea because it proves he no longer values his own life or others, satisfying the homicide requirement.
+
+Head-to-head: Option (a) correctly applies the *Welansky* doctrine, noting that under the constructive recklessness standard, an objective test overrides subjective unawareness. Option (b) strongly appeals to the MPC subjective recklessness standard, but its premise that manslaughter categorically "requires" subjective awareness is falsifiable because objective/constructive recklessness jurisdictions exist. Option (c) fails because it asserts that "any" failure to rescue establishes extreme indifference "as a matter of law." Option (d) contains an explicit false limitation, claiming the standard applies "only to premises liability cases." Option (e) is absurd on its face, falsely claiming a cancer diagnosis automatically proves mens rea. The keyed answer is clearly best, making the question CLEAN.
+
+Falsifiable claim per distractor:
+- (b): "manslaughter requires actual subjective awareness" — wrong because jurisdictions following *Welansky* and common-law constructive recklessness allow conviction based on an objective standard.
+- (c): "any failure to rescue... constitutes extreme indifference to human life as a matter of law" — wrong because omissions are highly fact-specific and do not categorically establish extreme indifference as a matter of law.
+- (d): "applies only to premises liability cases" — wrong because the constructive recklessness standard is a general standard for wanton and reckless conduct, applicable to various situations (e.g., driving, firearms) and not limited strictly to premises liability.
+- (e): "Arthur's prior diagnosis of terminal cancer proves he possessed the requisite depraved heart" — wrong because a medical diagnosis is categorically legally irrelevant to automatically proving homicide mens rea.
+
+Recommended fix: Consider adding "In a jurisdiction recognizing constructive recklessness," to the question stem to cleanly preempt MPC-based arguments for (b).
+-->

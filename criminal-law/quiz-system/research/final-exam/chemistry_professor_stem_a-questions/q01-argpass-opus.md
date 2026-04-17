@@ -1,0 +1,33 @@
+**Q1.** Assume that Arthur is charged with manufacturing a Schedule I controlled substance. Arthur argues that his genuine belief that the substance was a legal "nootropic" negates his liability. How will a court likely rule on this defense?
+
+(a) Guilty, because dealing in inherently dangerous chemical structures puts a manufacturer on notice of regulation, and he acts at his peril regarding its legal schedule. <!-- correct -->
+(b) Not guilty, because Arthur lacked the specific intent to manufacture a controlled substance, which is required for all severe public welfare offenses.
+(c) Not guilty, because Arthur's misreading of the regulatory database constitutes an honest and reasonable mistake of fact that negates his criminal liability.
+(d) Guilty, but only if the prosecution can prove that Arthur acted with criminal negligence in his failure to properly search the regulatory database.
+(e) Not guilty, because the federal presumption against strict liability requires the government to prove the defendant knew the item's prohibited legal status.
+
+**Answer:** (a)
+
+**Explanation:** Arthur is guilty because under the *Balint* dangerous-items heuristic, dealing in inherently dangerous chemical structures puts a manufacturer on notice of regulation, meaning he acts at his peril regarding its legal schedule. His mistaken belief about the specific regulatory status is irrelevant. (b) is wrong because public welfare offenses routinely dispense with specific intent. (c) is wrong because his misreading of the regulatory database is a mistake of penal law, not a defense here. (d) is wrong because strict liability applies, removing the negligence requirement entirely. (e) is wrong because the dangerous items heuristic specifically overrides the normal presumption of mens rea.
+
+**Tags:** chapters: [11], topics: [public welfare offenses, strict liability, dangerous items], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 11 (balint-narcotics-at-peril, dangerous items heuristic)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under the *Balint* doctrine and the dangerous-items heuristic, courts recognize that individuals dealing with inherently dangerous or highly regulated materials are placed on notice of the likelihood of regulation. Because Arthur is manufacturing dangerous chemical structures, he assumes the risk that the substance is regulated by the government. Therefore, he acts at his peril regarding the specific legal schedule of the substance, rendering his belief that it was a legal "nootropic" an invalid mistake of law.
+(b) Argument-for: A student could argue that manufacturing a Schedule I substance carries severe penalties, pushing it out of the traditional "public welfare offense" category which usually involves mere fines. Under *Staples*, severe penalties invoke the presumption of mens rea. Thus, a court would require the prosecution to prove that Arthur had the specific intent to manufacture a controlled substance, and since he believed he was making a legal nootropic, he lacked this required specific intent.
+(c) Argument-for: A student could argue that whether a specific chemical is listed in a database is a collateral fact, not the penal law itself. If Arthur researched the chemical and misread its entry in a complex scientific or regulatory database, this functions as a mistake of fact regarding the chemical's listed properties, not a direct mistake of the governing criminal statute. Because an honest and reasonable mistake of fact negates the mens rea required for the offense, he would be found not guilty.
+(d) Argument-for: A student could argue that due process prevents pure strict liability for severe felony offenses. Instead of dispensing with mens rea entirely, courts will read in a negligence standard, requiring the prosecution to prove that Arthur acted with criminal negligence in his failure to properly search the regulatory database. Under this view, Arthur is guilty only if his mistake was criminally negligent, making this the proper legal standard to apply.
+(e) Argument-for: A student could rely on the strong federal presumption against strict criminal liability articulated in cases like *Morissette* and *Staples*. This presumption requires the government to prove that the defendant knew the facts that make his conduct illegal. Because the legal status of the chemical is the very characteristic that makes the conduct illegal, the government must prove he knew its prohibited legal status, which Arthur did not.
+
+Head-to-head: Option (a) correctly applies the dangerous-items heuristic, confirming that actors dealing with dangerous materials are on notice of regulation and ignorance of the specific schedule is no defense. Option (b) fails because public welfare offenses do not categorically require specific intent; in fact, they typically dispense with mens rea entirely or require only general intent. Option (c) fails because misinterpreting a regulatory database regarding a substance's legal status is quintessentially a mistake of penal law, not a mistake of fact. Option (d) incorrectly applies a criminal negligence standard to a strict liability public welfare framework and relies on the absolute phrase "only if." Option (e) conflates knowledge of the facts with knowledge of the law; the presumption against strict liability requires knowledge of the physical characteristics of an item, but it does not override the fundamental maxim that ignorance of the law (i.e., its prohibited legal status) is no excuse.
+
+Falsifiable claim per distractor:
+- (b): "required for all severe public welfare offenses" — wrong because public welfare offenses, by definition, dispense with specific intent, and "all" is an easily falsifiable absolute.
+- (c): "misreading of the regulatory database constitutes an honest and reasonable mistake of fact" — wrong because misinterpreting a regulation's application to one's conduct is legally classified as a mistake of law.
+- (d): "only if the prosecution can prove that Arthur acted with criminal negligence" — wrong because under strict liability and the *Balint* doctrine, criminal negligence is not a required element.
+- (e): "requires the government to prove the defendant knew the item's prohibited legal status" — wrong because the presumption against strict liability only requires knowledge of the *facts* that make conduct illegal, not knowledge of the governing law or prohibited legal status.
+
+Recommended fix: none
+-->

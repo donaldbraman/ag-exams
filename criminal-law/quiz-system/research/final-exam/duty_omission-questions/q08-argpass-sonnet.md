@@ -1,0 +1,37 @@
+**Q8.** Assume Alba is charged with criminal homicide for Cody's death, based on Alba's act of incapacitating Dane. Can the prosecution establish that this assault was a factual cause of Cody's death?
+
+(a) Yes, because but for Alba striking Dane, Dane would have administered the Narcan and fully reversed Cody's overdose. <!-- correct -->
+(b) Yes, because Alba's action was a dependent intervening cause that superseded Cody's voluntary decision to inject the drugs.
+(c) No, because the medical examiner testified that Cody died from respiratory failure induced by the fentanyl, not from blunt force trauma.
+(d) No, because Cody had already injected a lethal dose of fentanyl before Alba assaulted Dane, making the assault irrelevant to the outcome.
+(e) No, because Alba only intended to knock Dane out, meaning Alba lacked the requisite mental state to cause Cody's death.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because factual causation uses the "but-for" test; but for Alba striking Dane, the Narcan would have reversed the overdose, meaning Alba's act was necessary for Cody's death to occur when it did. (b) is incorrect because dependent intervening causes relate to proximate cause, not the empirical "but-for" factual test. (c) is incorrect because an act that prevents life-saving aid is a factual cause of the resulting death, even if the medical mechanism was drug-induced. (d) is incorrect because factual causation asks if the death would have occurred at that time and in that manner; without the assault, Cody would have survived. (e) is incorrect because factual causation is a purely empirical inquiry that operates independently of the defendant's mental state.
+
+**Tags:** chapters: [8], topics: [causation, factual cause, but-for test], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 8 — Factual causation requires that the prohibited result would not have occurred "but for" the defendant's conduct, which includes thwarting a rescue.
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Factual causation is determined by the "but-for" test, which asks whether the prohibited result would have occurred in the absence of the defendant’s conduct. In this scenario, the facts specify that Dane was prepared to administer Narcan, which would have fully reversed the overdose and prevented Cody's death. Therefore, if Alba had not struck Dane, Cody would have survived. Because Alba’s conduct was a necessary link in the chain of events leading to Cody’s death at that specific time, factual causation is clearly established under standard criminal law principles.
+
+(b) Argument-for: This option argues that Alba’s intervention occurred in response to an existing emergency, which characterizes her act as a "dependent intervening cause." In a causal analysis, a dependent cause does not break the chain of causation but rather bridges the gap between an initial condition (the overdose) and the final result (death). By arguing that Alba's assault "superseded" the victim's own role in the overdose, the prosecution can establish that Alba's conduct was the legally operative reason the overdose became fatal. This allows the law to attribute the death to Alba because her act was the final, decisive factor that prevented the status quo from being restored.
+
+(c) Argument-for: This option rests on the principle that criminal factual causation requires a direct physical nexus between the defendant’s act and the biological mechanism of death. Since the medical examiner confirmed that respiratory failure from fentanyl—not the blunt force trauma to Dane—was the physical cause of Cody's death, the prosecution has failed to show that Alba's physical force was the instrument of Cody's demise. A student could argue that Alba cannot be the factual cause of a drug-induced death when her only physical contact was with a third party. This perspective posits that factual causation cannot be based on the prevention of aid but must be rooted in the defendant’s own affirmative physical impact on the victim.
+
+(d) Argument-for: Under one interpretation of the "but-for" test, if a lethal force is already in motion and is sufficient to cause death, subsequent actions by a third party that merely fail to stop the inevitable are not factual causes. Since Cody had already consumed a lethal dose of fentanyl before Alba ever touched Dane, the biological cause of death was already internal and sufficient for expiration. This argument suggests that Alba’s assault did not "cause" the death but was merely a coincidental event that occurred while Cody was already in the process of dying from his own actions. Thus, the assault was irrelevant to the ultimate biological outcome because the fatal mechanism was already established.
+
+(e) Argument-for: This option suggests that the legal definition of "causing a death" in a homicide prosecution cannot be logically separated from the defendant's mental state. If Alba’s intent was solely to incapacitate Dane and she lacked any knowledge or intent regarding Cody’s condition, it can be argued that she did not "cause" the death in a criminal sense. This perspective treats causation not as a purely mechanical inquiry, but as a component of the overall criminal act which requires a union of actus reus and mens rea. Without the requisite intent to cause a fatal result, the defendant's act is legally viewed as an assault on Dane rather than a cause of Cody's death.
+
+Head-to-head: Option (a) is the strongest because it correctly identifies the "but-for" test as the standard for factual causation and correctly applies it to the "thwarting rescue" scenario. Option (b) is a category error; "intervening causes" (dependent or independent) are used to analyze proximate cause, not factual cause, and a "dependent" cause by definition does not "supersede." Option (c) is legally incorrect because factual causation is not limited solely to the immediate biological mechanism of death; preventing life-saving aid is a well-established factual cause. Option (d) incorrectly applies the "doomed victim" logic; if the death would have been avoided at that time through aid, the prevention of that aid is a but-for cause regardless of the victim's prior condition. Option (e) conflates actus reus (causation) with mens rea (intent), but factual causation is an objective empirical inquiry that is always independent of the defendant’s state of mind.
+
+Falsifiable claim per distractor:
+- (b): "dependent intervening cause that superseded" — wrong because dependent intervening causes, by definition, do not supersede the causal chain; only independent/unforeseeable ones do.
+- (c): "not from blunt force trauma" — wrong because factual cause is not solely limited to the direct physical mechanism of injury; thwarting a rescue that would have succeeded is a factual cause.
+- (d): "making the assault irrelevant" — wrong because an act that prevents a successful rescue is always a factual cause of the resulting death under the but-for test, regardless of the victim's prior status.
+- (e): "meaning Alba lacked the requisite mental state" — wrong because factual causation is a purely objective actus reus inquiry that is categorically independent of the defendant's mens rea.
+
+Recommended fix: none
+-->

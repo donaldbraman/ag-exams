@@ -1,0 +1,17 @@
+**Q3.** The prosecution charges Arthur with homicide based on his failure to summon medical aid for Julian. Arthur argues he owed no legal duty to rescue a buyer who voluntarily took drugs. Is Arthur correct?
+
+(a) No, because Arthur created the peril by providing the drug and then secluded Julian by locking the door, both of which independently establish a legal duty to act. <!-- correct -->
+(b) Yes, because a drug transaction is an illicit relationship that cannot give rise to a recognized status-based duty of care under traditional common law omission principles.
+(c) No, because the law imposes a universal Good Samaritan duty on anyone who witnesses a life-threatening medical emergency to summon paramedics if they can do so safely.
+(d) Yes, because Julian's initial voluntary assumption of the risk of ingestion permanently relieved Arthur of any subsequent legal obligation to intervene when the medical emergency occurred.
+(e) No, because Arthur and Julian's commercial transaction created a contractual duty of care that required Arthur to guarantee Julian's safety while inside the shared motel room.
+
+**Answer:** (a)
+
+**Explanation:** Arthur is liable for the omission because providing the fatal drug created the peril, and locking the door secluded the victim from other potential rescuers, both of which independently establish a legal duty to act. (b) is wrong because Arthur's actions create a duty regardless of whether a recognized formal status relationship exists. (c) is wrong because the criminal law generally imposes no universal Good Samaritan duty to rescue. (d) is wrong because a victim's voluntary ingestion does not erase the affirmative duty arising from a defendant's seclusion and peril creation. (e) is wrong because an illicit drug deal does not create a formal contractual safety guarantee.
+
+**Tags:** chapters: [9], topics: [omissions, creation of peril, seclusion], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 9 (creation-of-peril-category, voluntary-assumption-plus-seclusion)
+
+<!-- grounding: GROUNDED — Omissions, Ch 9, Refinement `creation-of-peril-category` and `voluntary-assumption-plus-seclusion`. Rule paraphrased accurately. -->

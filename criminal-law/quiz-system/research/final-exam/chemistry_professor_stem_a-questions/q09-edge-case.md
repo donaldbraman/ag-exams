@@ -1,0 +1,22 @@
+**Q9.** Assume Arthur and Silas are convicted of felony murder. The prosecution seeks the death penalty or LWOP against Silas as an accomplice. Under the *Tison* standard for accomplice felony murder liability, is Silas eligible for capital punishment?
+
+(a) Yes, because his physical presence at the scene of the fatal overdose automatically makes him a major participant who is fully responsible for the resulting death.
+(b) No, because purchasing glassware and taking a cut of sales falls short of major participation, and attempting to call 911 negates reckless indifference to human life. <!-- correct -->
+(c) Yes, because any intentional participation in a fatal felony automatically satisfies the reckless indifference standard required for capital punishment under the Eighth Amendment jurisprudence.
+(d) No, because the *Tison* standard requires the accomplice to have personally and directly inflicted the fatal injury, which Silas did not do in this specific scenario.
+(e) Yes, because his attempt to call 911 proves he subjectively appreciated the risk of death, establishing the exact reckless indifference required to execute an accomplice.
+
+**Answer:** (b)
+
+**Explanation:** Silas is not eligible for capital punishment because *Tison* requires major participation and reckless indifference, which Silas lacked by merely supplying glassware and attempting to call 911. (a) is wrong because mere presence does not establish major participation. (c) is wrong because the Eighth Amendment standard requires individualized culpability findings, not automatic presumptions. (d) is wrong because *Tison* explicitly allows capital punishment for non-killers if they meet the specific major participation and reckless indifference criteria. (e) is wrong because trying to call 911 demonstrates an attempt to mitigate harm, which actively negates the reckless indifference requirement.
+
+**Tags:** chapters: [14, 18], topics: [accomplice liability, felony murder, capital punishment], difficulty: hard, cognitive: application
+
+**Grounding:** Chapter 14 (tison-major-participant)
+
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass (By explicitly stating "Assume Arthur and Silas are convicted of felony murder", this question brilliantly immunizes itself against any conflicting conclusions regarding accomplice withdrawal that might arise in Q8.)
+Recommended fix: n/a
+-->

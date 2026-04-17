@@ -1,0 +1,41 @@
+Here is the analysis of the question, evaluating the legal strength of each option and identifying the falsifiable claims required by the close-call standard.
+
+## The Question
+
+**Q8.** Silas argues that he effectively withdrew from the conspiracy when he pulled out his phone, stated "I'm calling 911," and verbally protested Arthur's decision to leave Julian in the locked room. Will Silas's withdrawal defense succeed?
+
+(a) Yes, because by announcing his intent to call 911 and protesting, Silas clearly communicated his rejection of the conspiracy to his co-conspirator before the death occurred.
+(b) No, because Silas failed to actually thwart the success of the conspiracy, communicate his withdrawal to law enforcement, or completely abandon the enterprise before fleeing. <!-- correct -->
+(c) Yes, because his attempt to dial 911 constituted a substantial step toward abandoning the criminal enterprise, which legally nullifies his prior agreement to distribute the drugs.
+(d) No, because a co-conspirator can never legally withdraw from a conspiracy once the target offense has been partially completed and the victim has ingested the drugs.
+(e) Yes, because he verbally protested leaving the victim in the room, which fully satisfies the common law requirement for voluntary and complete renunciation of criminal purpose.
+
+**Answer:** (b)
+
+**Explanation:** Silas did not effectively withdraw because successful withdrawal requires completely abandoning the enterprise and typically thwarting the crime or notifying authorities, not just protesting and fleeing. (a) is wrong because merely protesting without taking further action to stop the ongoing crime is insufficient to establish withdrawal. (c) is wrong because dialing 911 without completing the call or stopping the crime fails the rigorous withdrawal standard. (d) is wrong because one can legally withdraw before the crime reaches completion, though Silas failed to do so properly. (e) is wrong because a verbal protest alone is not a complete and voluntary renunciation.
+
+**Tags:** chapters: [19], topics: [conspiracy, withdrawal], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 19 (withdrawal-requirements)
+
+<!-- argument-pass: MUST FIX
+(a) Argument-for: Under federal common law, a conspirator can establish a withdrawal defense by taking an affirmative act inconsistent with the object of the conspiracy and communicating it in a manner reasonably calculated to reach co-conspirators. Silas explicitly protested the decision to leave the victim and stated, "I'm calling 911." This direct verbal confrontation and threat to call the police is an affirmative act fundamentally inconsistent with the conspiracy's goal. By communicating this directly to his co-conspirator, Arthur, Silas arguably satisfied the legal requirements for withdrawal to avoid liability for the subsequent death. Therefore, a student could strongly argue that his withdrawal defense should succeed.
+
+(b) Argument-for: To successfully withdraw from a conspiracy, the law generally requires more than mere words or unexecuted threats; it demands a complete and decisive severing of ties. Silas merely stated an intent to call 911 but fled without actually notifying law enforcement or taking steps to thwart the ongoing danger to the victim. His actions represent a failure to completely abandon the enterprise, as he left the victim to die rather than neutralizing the threat he helped create. Consequently, Silas remains liable because he did not fulfill the rigorous affirmative duties required to effectuate a legally valid withdrawal.
+
+(c) Argument-for: The law often recognizes that intervening to stop a crime can mitigate liability or establish abandonment. By pulling out his phone and attempting to dial 911, Silas took a tangible, substantial step toward abandoning the criminal enterprise. This affirmative physical act goes beyond mere verbal protest and demonstrates a clear intent to notify authorities and stop the conspiracy. A student could argue that this substantial step legally nullifies his prior agreement to participate, effectively absolving him of liability.
+
+(d) Argument-for: Under strict common law principles, conspiracy is a completed crime the moment an agreement and an overt act occur. In this scenario, the target offense was already in progress and partially completed, as the victim had ingested the drugs and was locked in the room. Because the wheels of the substantive crime were fully in motion and the harm was underway, a co-conspirator can never legally withdraw at this late stage to avoid liability for the resulting death. Thus, a student could conclude Silas's attempted withdrawal is categorically ineffective as a matter of law.
+
+(e) Argument-for: Under the Model Penal Code and certain common law interpretations, withdrawal or renunciation is a valid defense if the defendant manifests a complete and voluntary renunciation of their criminal purpose. Silas's verbal protest against leaving the victim locked in the room serves as a clear repudiation of the conspiracy's lethal escalation. A student could argue that by expressly objecting to the core act that caused the death, Silas fully satisfied the requirement for voluntary renunciation. This would effectively shield him from liability for Arthur's subsequent actions.
+
+Head-to-head: Option (b) is the keyed answer, correctly concluding that Silas failed to fully effectuate a withdrawal because he did not thwart the crime or notify authorities. However, Option (a) presents a major ambiguity. Under federal common law, communicating withdrawal to a co-conspirator is a recognized, valid method of withdrawing from Pinkerton liability for future substantive offenses. Because Silas explicitly told his co-conspirator he was calling 911, a strong argument can be made that he legally withdrew. Option (a) lacks any explicit falsifiable claims or absolute modifiers; it merely states that he "clearly communicated his rejection," which may legally suffice depending on the jurisdiction. Distractor (c) incorrectly imports the "substantial step" standard from attempt law. Distractor (d) falsely claims a co-conspirator can "never" withdraw once the offense is partially completed. Distractor (e) falsely claims a verbal protest "fully satisfies" the common law standard, whereas common law does not use the MPC's "voluntary and complete renunciation" standard and requires more than a mere protest. Because (a) is highly plausible and lacks a falsifiable error, this question must be fixed.
+
+Falsifiable claim per distractor:
+- (a): "clearly communicated his rejection of the conspiracy to his co-conspirator" — wrong because... [LACKS FALSIFIABLE ERROR. Under federal common law, communicating an affirmative act inconsistent with the conspiracy to a co-conspirator can constitute a valid withdrawal.]
+- (c): "attempt to dial 911 constituted a substantial step toward abandoning the criminal enterprise, which legally nullifies his prior agreement" — wrong because withdrawal does not legally "nullify" the prior completed agreement to conspire, and "substantial step" is the test for attempt, not withdrawal.
+- (d): "a co-conspirator can never legally withdraw from a conspiracy once the target offense has been partially completed" — wrong because of the absolute word "never"; a conspirator can legally withdraw before the target crime reaches completion to avoid liability for the completed crime.
+- (e): "which fully satisfies the common law requirement for voluntary and complete renunciation" — wrong because verbal protest alone does not "fully satisfy" common law withdrawal requirements, and "voluntary and complete renunciation" is an MPC defense (MPC 5.03(6)), not traditional common law.
+
+Recommended fix: Edit (a) to include an explicit falsifiable error locked by an absolute modifier. For example: "(a) Yes, because a verbal disagreement with a co-conspirator automatically terminates a defendant's liability for all prior and future acts of the conspiracy."
+-->

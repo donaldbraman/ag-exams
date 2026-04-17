@@ -1,29 +1,21 @@
-# Scenario: The Property Line Escalation
+# Scenario: The Property Line Dispute
 
 ### Facts
 
-1. Alex and his neighbor Blake are involved in a bitter, financially ruinous property line dispute.
+1. Alex and his neighbor Blake are involved in a bitter, financially ruinous property line dispute. Alex has also been suffering from severe, documented depression following the recent, tragic death of his wife.
 2. Alex texts his friend Chris: 'Let's grab baseball bats and go over to Blake's house to scare him into dropping the lawsuit.' Chris replies: 'I'm in, let's go.'
-3. As they walk toward the property line, Chris says, 'This is a bad idea, I'm out.' Chris turns around and goes home, doing nothing to stop Alex or warn Blake.
-4. Alex continues alone, stepping past a visible 'No Trespassing' sign and a low fence onto Blake's front lawn while wielding the baseball bat.
-5. Blake steps out of his front door and yells, 'You're a dead man, I'm going to ruin your life!'
+3. While walking toward Blake's property with the bats, Chris stops, drops his bat on the sidewalk, and says to Alex: 'I'm going home. This is stupid, don't do anything crazy.' Chris turns and walks away.
+4. Alex crosses the property line and stands entirely inside Blake's front yard, holding a baseball bat down at his side.
+5. Blake opens his front door and yells: 'Get off my property, you pathetic loser!'
 6. Immediately after yelling, Blake reaches quickly into his heavy jacket pocket. Alex knows Blake has a concealed carry permit and that Blake had threatened him with a gun the previous month.
-7. Enraged by the insult and terrified that Blake is drawing a weapon, Alex drops the baseball bat, pulls his own permitted handgun, and shoots Blake once in the chest. Alex is standing on Blake's private property but notices an unobstructed path to safely run back to the public sidewalk.
-8. Alex sees Blake bleeding heavily on the lawn. Realizing Blake is unarmed, Alex panics, runs back to his own house, and locks the door without calling 911.
-9. Blake bleeds on the lawn for 45 minutes before a passing delivery driver calls emergency services.
-10. At the hospital, Dr. Davis, the attending ER physician, misreads a chart and administers the wrong blood type to Blake. The medical board later classifies this as a standard charting error constituting ordinary medical negligence.
-11. Blake dies. The medical examiner concludes that Blake would have survived the gunshot wound with prompt medical care, and that the blood transfusion error accelerated his death.
-12. The District Attorney announces they will charge Alex with intentional murder, felony murder (predicated on the aggravated assault with the bat), and seek a 25-to-life sentence to express society's condemnation of vigilante violence.
-13. The DA declines to charge Chris with any crime, stating off-the-record that 'Chris isn't worth the paperwork since he didn't pull the trigger.'
+7. Feeling intense anger at the insult and subjectively believing Blake was drawing a weapon, Alex drops the baseball bat, pulls his own permitted handgun, and shoots Blake once in the chest. Alex had an unobstructed path to safely run back to the public street.
+8. Blake falls to the ground. The police later determine Blake was unarmed and was reaching for his cell phone.
+9. Alex sees Blake bleeding heavily on the lawn. Realizing Blake is unarmed, Alex panics, runs back to his own house, and locks the door without calling 911.
+10. Blake bleeds on the lawn for 45 minutes before a passing delivery driver calls emergency services.
+11. At the hospital, Dr. Davis, the attending ER physician, fails to check Blake's medical chart and administers the wrong blood type, a severe violation of standard hospital protocols.
+12. Blake dies. The medical examiner concludes that Blake would have survived if 911 had been called immediately, but the 45-minute delay rendered his condition critical. The examiner also notes that the hospital's blood transfusion error accelerated his death.
+13. The prosecutor charges Alex with First-Degree Murder plus a firearm enhancement carrying a mandatory 25-year-to-life minimum sentence, then formally offers a 5-year plea deal if Alex pleads guilty to manslaughter.
 
-### Stem 1: Conspiracy and Self-Defense
+### Stem 1: Initial Charges and Self-Defense Claims
 
-We are evaluating the initial charges. Analyze Chris's liability for the conspiracy and the ensuing shooting, and evaluate Alex's self-defense and provocation claims.
-
-### Stem 2: Causation and Omission
-
-Blake has died at the hospital. I need you to evaluate whether Alex can be held liable for the completed homicide given his post-shooting flight and the medical error at the hospital.
-
-### Stem 3: Prosecutorial Theories and Discretion
-
-The DA just announced the charges. Evaluate the viability of the felony murder theory, the theoretical basis of the sentence sought, and the limits on the DA's charging discretion.
+We are drafting the initial charges against Alex and Chris based on the shooting incident. I need you to assess Chris's liability for the conspiracy and the shooting under Pinkerton, and evaluate Alex's self-defense and statutory immunity claims.

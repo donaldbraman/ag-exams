@@ -1,0 +1,17 @@
+**Q13.** If the jurisdiction charges Alba and Bex with felony murder predicated on the distribution of fentanyl, which of the following is the strongest defense argument against the charge?
+
+(a) Under the "in the abstract" test, the statute prohibiting fentanyl distribution can be violated in safe, medical contexts, so it is not an inherently dangerous predicate felony. <!-- correct -->
+(b) The felony murder rule requires the prosecution to prove that the defendants acted with extreme indifference to human life during the drug sale.
+(c) Cody's act of voluntarily injecting the drug constitutes an independent intervening act that shields the sellers from felony murder liability.
+(d) The distribution of fentanyl was complete once the drugs were handed over, so the death did not occur during the commission of the felony.
+(e) The underlying crime of selling drugs merges with the homicide under the independent felonious purpose doctrine.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because the abstract approach to inherently dangerous felonies asks if the statute can be violated in a safe manner; since fentanyl distribution can occur in medical contexts, it is not inherently dangerous in the abstract. (b) is incorrect because felony murder is a strict liability doctrine regarding the death; it does not require proving extreme indifference. (c) is incorrect because the victim's voluntary drug use is generally considered a dependent, foreseeable consequence of the drug sale, not a superseding cause. (d) is incorrect because deaths occurring during the immediate aftermath or continuous transaction of the felony fall within the res gestae. (e) is incorrect because drug sales typically have an independent felonious purpose (profit) and do not merge with the homicide.
+
+**Tags:** chapters: [14], topics: [felony murder, inherently dangerous predicate], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 14 — The "in the abstract" test limits felony murder by excluding felonies that can be committed in ways not inherently dangerous to human life, such as regulatory drug distribution (enumerated-vs-unenumerated).
+
+<!-- grounding: GROUNDED — inherently dangerous felonies (abstract test), Ch 14, Refinement `elements-vs-facts-approach`. Rule paraphrased accurately. -->

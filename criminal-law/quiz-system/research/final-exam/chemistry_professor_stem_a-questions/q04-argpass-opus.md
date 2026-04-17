@@ -1,0 +1,33 @@
+**Q4.** Arthur's defense counsel argues that Arthur cannot be the factual cause of Julian's death because the chemical itself triggered the arrhythmia. Based on the medical examiner's findings, is the delay in calling paramedics a factual cause of death?
+
+(a) Yes, because the ME established a 95% chance of survival if paramedics were called, proving that the death would not have occurred but for Arthur's delay. <!-- correct -->
+(b) No, because the chemical substance was a concurrent sufficient cause of the arrhythmia, which breaks the but-for causal chain under standard factual causation analysis.
+(c) Yes, because omissions that breach a duty of care automatically satisfy the factual causation requirement regardless of the statistical probability of the victim's survival.
+(d) No, because the 5% chance of death even with treatment means the failure to call 911 was not strictly and absolutely necessary for the death to occur.
+(e) Yes, but only if the prosecution can additionally prove that Arthur subjectively recognized that his refusal to call paramedics would definitely result in Julian's death.
+
+**Answer:** (a)
+
+**Explanation:** The delay is a factual cause because the 95% survival chance establishes beyond a reasonable doubt that the delay was a necessary but-for condition for Julian's death. (b) is wrong because the drug and the delay can be concurrent causes, and the delay still contributed as a but-for cause. (c) is wrong because factual cause requires an empirical showing that the omission actually changed the outcome, not an automatic presumption. (d) is wrong because 100% absolute certainty is not required to establish factual causation beyond a reasonable doubt. (e) is wrong because factual cause is an objective empirical inquiry that does not depend on the defendant's subjective recognition.
+
+**Tags:** chapters: [8], topics: [factual causation, but-for test], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 8 (but-for-test-basic)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: This option correctly applies the standard "but-for" test for factual causation in the context of an omission. In cases involving a failure to act, the fact-finder must determine whether the harm would have occurred had the defendant taken the required action. By establishing a 95% chance of survival if paramedics had been called, the medical examiner's findings prove beyond a reasonable doubt that the victim would not have died when and as he did but for Arthur's delay. Therefore, the delay is legally recognized as a factual cause of death.
+(b) Argument-for: A student could argue that the chemical triggering the arrhythmia was the true physical cause of death. Under this view, the chemical acts as a concurrent sufficient cause that overrides the mere failure to act. Because the chemical was allegedly sufficient on its own to cause the condition, a student might reason that Arthur's omission cannot be uniquely isolated as the necessary but-for cause, thereby breaking the causal chain under strict factual causation analysis.
+(c) Argument-for: A student might argue that the law of omissions strongly intertwines the breach of a legal duty with the resulting harm. From this perspective, once a duty of care is established and breached, the law functionally presumes factual causation to penalize the culpable omission. Consequently, a student could conclude that breaching this duty automatically satisfies the factual causation requirement, making the exact empirical probability of survival entirely irrelevant.
+(d) Argument-for: Given that criminal law requires the prosecution to prove every element beyond a reasonable doubt, a student could fixate on the 5% chance of death that existed regardless of medical treatment. They might argue that this baseline risk leaves inherent room for doubt about what actually would have happened. Therefore, they could conclude that the failure to act was not strictly and absolutely necessary for the death to occur, meaning the causation element fails.
+(e) Argument-for: Causation in criminal omissions often feels conceptually intertwined with the defendant's underlying culpability. A student could argue that to hold someone causally responsible for a non-act, the law demands a tighter nexus between the defendant's mind and the outcome. Thus, they might reason that factual causation for an omission uniquely requires the prosecution to prove the defendant subjectively understood the causal mechanism—specifically, that their delay would definitely result in death.
+
+Head-to-head: Option (a) accurately states the law: factual causation for an omission is satisfied if the outcome would not have occurred but for the failure to act, and a 95% survival chance establishes this empirically beyond a reasonable doubt. Option (b) fails because the chemical and the delay are combined causes (not concurrent sufficient causes), and even if they were concurrent sufficient causes, that doctrine is utilized to *find* causation, not to break the causal chain. Option (c) relies on the false claim that omissions "automatically satisfy" factual causation regardless of empirical probability. Option (d) incorrectly asserts that the omission must be "strictly and absolutely necessary," falsely elevating the burden of proof past reasonable doubt to absolute 100% certainty. Option (e) falsely merges mens rea into the objective actus reus/causation inquiry by requiring subjective recognition to establish factual cause.
+
+Falsifiable claim per distractor:
+- (b): "concurrent sufficient cause of the arrhythmia, which breaks the but-for causal chain under standard factual causation analysis" — wrong because concurrent sufficient causes invoke the substantial factor test (or modified but-for) to establish causation rather than break the causal chain, and an omission and prior act are combined causes, not concurrent sufficient causes.
+- (c): "automatically satisfy the factual causation requirement regardless of the statistical probability" — wrong because factual causation always requires an empirical, factual inquiry into whether the omission actually altered the victim's outcome.
+- (d): "was not strictly and absolutely necessary for the death to occur" — wrong because the beyond a reasonable doubt standard does not require absolute certainty (i.e., ruling out a 5% baseline risk) to validly find factual causation.
+- (e): "only if the prosecution can additionally prove that Arthur subjectively recognized" — wrong because factual causation is a purely objective, empirical inquiry that operates entirely independently of the defendant's mens rea.
+
+Recommended fix: none
+-->

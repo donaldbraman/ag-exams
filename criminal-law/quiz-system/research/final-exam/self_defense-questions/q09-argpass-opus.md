@@ -1,0 +1,33 @@
+**Q9.** Assume Alex is evaluated for criminal liability concerning his failure to call 911 while Blake bled on the lawn. Did Alex have a legal duty to assist or summon help for Blake?
+
+(a) Yes, because neighbors involved in an ongoing property dispute inherently share a special status relationship that imposes a legal duty of affirmative care.
+(b) No, because Alex successfully retreated to his own home, thereby legally terminating any temporary duty to rescue that might have arisen in the yard.
+(c) No, because the law generally does not impose a duty to rescue unless there is a formal contractual relationship established between the two parties.
+(d) Yes, because Alex created the peril by shooting Blake, thereby imposing an affirmative legal duty to act to prevent further harm. <!-- correct -->
+(e) No, because Alex's extreme panic and severe depression effectively rendered him mentally incapable of forming the required mens rea for an omission offense.
+
+**Answer:** (d)
+
+**Explanation:** (d) is correct because under omission doctrine, a person who creates the peril—even if doing so in self-defense—has an affirmative legal duty to summon aid or prevent further harm (Fact 7). (a) is incorrect because being neighbors does not qualify as a recognized status relationship (like parent-child) that creates a duty. (b) is incorrect because retreating to safety (Fact 9) does not extinguish a duty created by causing the injury. (c) is incorrect because the "creation of peril" category is a distinct, non-contractual exception to the general no-duty-to-rescue rule. (e) is incorrect because panic (Fact 9) does not legally dissolve a behavioral duty to act, though it might affect a specific intent inquiry.
+
+**Tags:** chapters: [9], topics: [omission, creation of peril, duty to rescue], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 9, Creation of peril category.
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could argue that property disputes create a mutual assumption of risk or special interaction that binds the neighbors together in a recognized legal framework. In civil law, landowners sometimes owe duties to invitees or even trespassers under certain conditions. A student might incorrectly extrapolate this property-based duty of care into a criminal special status relationship, arguing that their ongoing dispute established an affirmative duty to prevent further harm to each other.
+(b) Argument-for: A student could argue that the duty to rescue under the creation of peril doctrine is contingent on the physical capability and safety of the actor. The doctrine of retreat in self-defense prioritizes the actor's safety, allowing them to withdraw from a confrontation. If Alex successfully retreated to his home, a student could argue that this lawful act of self-preservation effectively superseded and terminated any ongoing duty to interact with or assist the peril-creator, returning the situation to the general no-duty-to-rescue default.
+(c) Argument-for: A student might argue that the general rule in criminal law is indeed that there is no duty to rescue, citing the famous bystander principle. They could point to the fact that unless someone is contractually bound (e.g., a hired lifeguard or babysitter), the law avoids imposing forced obligations on autonomous citizens. Thus, they might reason that without a formal contract, all other supposed exceptions are either legally invalid or strictly limited to civil liability, meaning Alex had no legal duty.
+(d) Argument-for: Under the established doctrines of omission in criminal law, the general rule of "no duty to rescue" has specific, well-defined exceptions. One primary exception is the "creation of peril" doctrine, which dictates that if a person's actions place another in danger, that person inherently assumes an affirmative legal duty to act to prevent further harm. Since Alex shot Blake, he directly created the peril, unequivocally triggering this recognized legal duty to assist or summon help, even if the initial shooting was justified.
+(e) Argument-for: A student could argue that criminal liability for an omission requires not just a legal duty, but the mental capacity to perform the required act and form the requisite mens rea. If Alex was in a state of extreme panic and severe depression, a student might assert that this psychiatric condition negated his voluntary capacity to act. Consequently, they could reason that if he could not form the necessary mental state or physically command himself to act, the law would excuse him, effectively neutralizing any underlying legal duty to rescue.
+
+Head-to-head: Option (d) correctly identifies the "creation of peril" doctrine as the legal source of Alex's duty to summon aid, properly capturing the exception to the general omission rule. The distractors fail because they rely on explicit misstatements of black-letter omission doctrine. Option (a) invents a "special status relationship" for feuding neighbors, a category entirely unrecognized in criminal law. Option (b) improperly conflates the right to retreat in self-defense with the termination of a rescue duty, assuming a lawful retreat erases the ongoing duty to summon aid. Option (c) wrongly claims that duties only arise via formal contract, blatantly ignoring other established categories like creation of peril or status relationships. Option (e) conflates mens rea/capacity with the categorical existence of a legal duty; while severe panic might theoretically offer a defense to criminal culpability, it does not mean the underlying legal duty failed to attach. 
+
+Falsifiable claim per distractor:
+- (a): "neighbors involved in an ongoing property dispute inherently share a special status relationship that imposes a legal duty" — wrong because property feuds or neighborly proximity are categorically not recognized "special status" relationships (like parent-child or spouses) for omission liability.
+- (b): "thereby legally terminating any temporary duty to rescue" — wrong because retreating to safety does not extinguish the legal duty to summon aid (which can easily be done from the safety of the home).
+- (c): "unless there is a formal contractual relationship established" — wrong because omission doctrine explicitly recognizes several non-contractual duties (e.g., creation of peril, special status, voluntary assumption of care).
+- (e): "effectively rendered him mentally incapable of forming the required mens rea... [answering 'No' to the duty question]" — wrong because an actor's subsequent mens rea or emotional state does not govern whether an objective legal duty to act arose in the first place.
+
+Recommended fix: none
+-->

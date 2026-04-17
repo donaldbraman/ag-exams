@@ -1,0 +1,17 @@
+**Q5.** Arthur is charged with manslaughter for abandoning the convulsing Julian. Arthur testifies that he genuinely believed Julian was just having a "bad reaction" and would "sleep it off." Assuming the jury believes Arthur, can he still be convicted of manslaughter?
+
+(a) Yes, because under the constructive recklessness standard, Arthur is held liable if an objectively reasonable person would have perceived the grave danger, despite his subjective belief. <!-- correct -->
+(b) No, because manslaughter requires actual subjective awareness of a substantial risk, meaning his genuine belief that Julian would survive completely negates the required mental state.
+(c) Yes, because any failure to rescue a person in medical distress constitutes extreme indifference to human life as a matter of law, regardless of the actor's belief.
+(d) No, because the constructive recklessness standard applies only to premises liability cases and cannot be extended to interpersonal omissions in temporary locations like a motel room.
+(e) Yes, because Arthur's prior diagnosis of terminal cancer proves he possessed the requisite depraved heart and general malice necessary for any degree of criminal homicide.
+
+**Answer:** (a)
+
+**Explanation:** Arthur is liable under the *Welansky* constructive recklessness standard because a reasonable person would have perceived the grave danger of abandoning a convulsing victim, rendering Arthur's subjective belief that Julian would "sleep it off" irrelevant. (b) is wrong because constructive recklessness explicitly overrides the normal requirement for subjective awareness. (c) is wrong because not every failure to rescue automatically constitutes extreme indifference as a matter of law; it remains a fact-specific inquiry. (d) is wrong because the *Welansky* standard applies generally to wanton and reckless conduct, not just strictly to premises liability. (e) is wrong because a terminal illness does not automatically establish malice or a depraved heart.
+
+**Tags:** chapters: [13], topics: [unintentional homicide, constructive recklessness, depraved heart], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 13 (constructive-recklessness-welansky, extreme-indifference-standard)
+
+<!-- grounding: GROUNDED — constructive recklessness, Ch 13, Refinement `constructive-recklessness-welansky`. Rule paraphrased accurately. -->

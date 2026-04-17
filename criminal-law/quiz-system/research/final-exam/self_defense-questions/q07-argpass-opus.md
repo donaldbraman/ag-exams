@@ -1,0 +1,37 @@
+**Q7.** Assume the jurisdiction has adopted a Stand-Your-Ground law with a pre-trial immunity framework similar to Florida's post-2017 statute. How does this procedural framework affect Alex's prosecution?
+
+(a) The judge must dismiss the charges before trial unless the prosecution proves by clear and convincing evidence that Alex's use of force was not justified. <!-- correct -->
+(b) The prosecution must prove beyond a reasonable doubt at trial that Alex was not justified, but Alex bears the initial burden of proof at the hearing.
+(c) The judge must grant Alex absolute immunity as long as Alex can show by a preponderance of the evidence that he was in a place he had a right to be.
+(d) The prosecution is barred from charging Alex because the castle doctrine extends to the curtilage of neighboring properties during an active boundary dispute.
+(e) Alex loses the opportunity to claim self-defense before a jury if the judge denies his pre-trial motion for statutory immunity during the evidentiary hearing.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because under Florida's post-2017 Stand Your Ground framework, the prosecution bears the burden to disprove self-defense by clear and convincing evidence at a pre-trial immunity hearing. (b) is incorrect because the 2017 amendment shifted the burden at the pre-trial hearing to the prosecution, not the defendant. (c) is incorrect because immunity is not automatically granted merely by showing a right to be present; the use of force must be justified. (d) is incorrect because the castle doctrine does not cover a neighbor's property (Fact 4). (e) is incorrect because a defendant who loses a pre-trial immunity hearing may still raise self-defense before the jury at trial.
+
+**Tags:** chapters: [22], topics: [Stand Your Ground, pre-trial immunity, burden of proof], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 22, Stand Your Ground statute (Florida's post-2017 burden shift).
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Florida's post-2017 Stand Your Ground amendment (Fla. Stat. § 776.032) profoundly shifted the procedural mechanics of pre-trial immunity. The statute expressly provides that once a defendant raises a prima facie claim of self-defense, the burden shifts to the prosecution to prove by clear and convincing evidence that the defendant's use of force was unlawful. If the state fails to meet this high evidentiary threshold at the immunity hearing, the court is legally obligated to dismiss the charges before a trial can occur. Option (a) accurately captures both the burden of persuasion and the substantive standard of proof.
+
+(b) Argument-for: A student could argue that option (b) correctly reflects the two-tiered timeline of a self-defense claim. Under the 2017 Florida framework, the defendant must first assert a prima facie case to trigger the hearing, which can reasonably be described as bearing the "initial burden of proof" (specifically, the burden of production). Furthermore, if the case proceeds to trial, the prosecution universally bears the ultimate burden of proving all elements, including the absence of self-defense, beyond a reasonable doubt. Therefore, option (b) seemingly articulates the standard criminal procedure flow.
+
+(c) Argument-for: Stand Your Ground laws are fundamentally defined by the removal of the duty to retreat, centering the legal inquiry on the defendant's geographical legitimacy. A student might argue that the primary hurdle for pre-trial immunity is simply proving locational right. If a defendant can establish by a preponderance of the evidence that they were not trespassing and had a legal right to be in that location, the foundational requirement of SYG is met. Under this interpretation, proving lawful presence automatically triggers the absolute immunity shield without needing a full pre-trial adjudication of the substantive force used.
+
+(d) Argument-for: The castle doctrine traditionally protects a resident within their home and its immediate curtilage. A student could argue that during an "active boundary dispute," the legal demarcations of property are unresolved, creating a zone where both parties operate under a colorable claim of right. If Alex is standing in this contested boundary area, the law extends the legal fiction of curtilage to protect him, extending his "castle." Consequently, the prosecution would be categorically barred from charging him because his actions fall under the highest tier of defense of habitation.
+
+(e) Argument-for: Under the doctrines of collateral estoppel and law of the case, once a judge conducts a full evidentiary hearing and makes a factual determination regarding an issue, that determination is usually binding on the remainder of the proceeding. A student could argue that the entire purpose of a dedicated pre-trial statutory immunity hearing is to definitively resolve the self-defense claim. If the judge finds the use of force unjustified and denies immunity, that pre-trial factual finding extinguishes the affirmative defense, stripping the defendant of the right to re-litigate the exact same theory before a jury.
+
+Head-to-head: Option (a) precisely captures the black-letter law of the post-2017 Florida SYG burden shift. Option (b) is a highly attractive distractor because it correctly identifies the prosecution's trial burden and hints at the defendant's burden of production, but it uses the phrase "burden of proof," which explicitly contradicts the statutory language assigning the "burden of proof" (persuasion) to the state. Options (c), (d), and (e) all invent distinct, easily falsifiable legal rules: (c) assumes immunity relies solely on location rather than justified force; (d) invents a boundary-dispute extension to the castle doctrine; and (e) misapplies collateral estoppel to suggest a pre-trial loss bars raising the defense at trial. Because every distractor contains a clearly identifiable false legal proposition, the question is legally sound.
+
+Falsifiable claim per distractor:
+- (b): "Alex bears the initial burden of proof at the hearing" — wrong because under the 2017 statute, the defendant merely bears the burden of raising a prima facie claim (production), while the "burden of proof" (persuasion) by clear and convincing evidence is expressly placed on the prosecution.
+- (c): "grant Alex absolute immunity as long as Alex can show... he was in a place he had a right to be" — wrong because lawful presence merely removes the duty to retreat; the defendant must still show the use of force was objectively reasonable to prevent imminent death or great bodily harm.
+- (d): "the castle doctrine extends to the curtilage of neighboring properties during an active boundary dispute" — wrong because the castle doctrine is strictly limited to one's own dwelling, residence, or occupied vehicle, and does not legally expand over a neighbor's property line due to a dispute.
+- (e): "Alex loses the opportunity to claim self-defense before a jury" — wrong because the denial of a pretrial motion for statutory immunity does not preclude a defendant from presenting self-defense as an affirmative defense at trial.
+
+Recommended fix: none.
+-->

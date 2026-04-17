@@ -1,0 +1,37 @@
+**Q9.** Assume that Alba's assault on Dane was a factual cause of Cody's death. Was Alba's act also a proximate cause of the death?
+
+(a) Yes, because it was reasonably foreseeable that violently preventing a paramedic from administering life-saving aid would result in the victim's death. <!-- correct -->
+(b) Yes, because the Model Penal Code establishes that any factual cause automatically satisfies the legal cause requirement for homicide.
+(c) No, because Dane's forced entry into the apartment was an independent, unforeseeable intervening act that broke the causal chain.
+(d) No, because the fentanyl itself was the sole direct cause of the respiratory failure that ultimately killed Cody.
+(e) No, because Alba could not have foreseen that Dane specifically possessed Narcan when Alba decided to strike him.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because proximate cause requires the result to be a reasonably foreseeable consequence of the defendant's conduct; it is highly foreseeable that a victim will die if a rescuer is violently prevented from administering aid. (b) is incorrect because the MPC uses a "too remote or accidental" test for legal cause, not automatic satisfaction based on factual cause. (c) is incorrect because Dane's attempt to rescue was a dependent intervening cause (provoked by the emergency Alba helped create) and highly foreseeable, not a superseding chain-breaker. (d) is incorrect because proximate cause allows for multiple contributing causes; the fentanyl does not absolve Alba of liability for thwarting the rescue. (e) is incorrect because foreseeability applies to the general nature of the harm (preventing rescue leading to death), not the specific details of the medical equipment.
+
+**Tags:** chapters: [8], topics: [causation, proximate cause, foreseeability, intervening cause], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 8 — Proximate cause under the common law requires the result to be reasonably foreseeable; dependent intervening acts like rescue attempts do not sever the causal chain.
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Proximate cause (legal cause) is established when the harmful result is a reasonably foreseeable consequence of the defendant’s actions. By intentionally and violently obstructing a paramedic who is attempting to render aid to an overdose victim, the defendant creates a situation where the natural and probable consequence is the victim's death. Under common law principles, the defendant’s conduct does not need to be the sole cause of death, but rather a "substantial factor" that set in motion or accelerated the fatal result. Because a reasonable person would realize that preventing medical intervention during a life-threatening emergency leads to death, the causation requirement is satisfied.
+
+(b) Argument-for: Under certain interpretations of modern criminal codes, the distinction between factual and legal causation is minimized to prevent defendants from escaping liability through technicalities. If a defendant’s conduct is the "but-for" cause of the death—meaning the victim would have lived had the defendant not acted—some jurisdictions and certain readings of the Model Penal Code prioritize the actual result over the nuances of foreseeability. If the death is the direct result of the defendant's interference with a rescue, the factual cause is so significant that it automatically meets the threshold for legal responsibility.
+
+(c) Argument-for: Proximate cause is severed by a superseding cause, which is an intervening act that is both independent of the defendant's conduct and legally unforeseeable. If Dane’s entry into the apartment was unauthorized or involved a level of force that exceeded standard protocols, it could be classified as an independent intervening act. If Alba was reacting to an unexpected and aggressive intrusion, the chain of causation between Alba’s defensive strike and Cody’s death is broken by Dane's initial decision to force entry. Therefore, the paramedic's own choices constitute the independent force that precludes Alba’s liability.
+
+(d) Argument-for: In criminal homicide, the law often looks for the "direct cause" of the physiological cessation of life. In this case, Cody’s death was caused by respiratory failure induced by the pharmacological effects of fentanyl. Alba did not administer the drug, nor did Alba cause the initial overdose; the chemical process was already underway and functioned as the sole direct cause of death. Even if Alba’s actions delayed a potential cure, the pre-existing internal condition (the overdose) remains the only direct link to the death, making Alba’s assault a collateral crime rather than a cause of the homicide.
+
+(e) Argument-for: Foreseeability in proximate cause analysis requires that the defendant be able to anticipate the specific mechanism of harm that leads to the result. While Alba might have foreseen that striking Dane would cause Dane physical pain, Alba could not have known that Dane possessed a specific life-saving medication like Narcan. Without knowledge of the specific medical tools available to the rescuer, Alba could not have foreseen that his actions would result in a fatal failure of medical treatment. Because the specific outcome (failure to administer Narcan) was not foreseeable to Alba at the time of the strike, proximate cause is not established.
+
+Head-to-head: (a) is the strongest answer because it correctly identifies the standard for proximate cause: reasonable foreseeability of the result. (b) is legally incorrect because the MPC under § 2.03 requires a "not too remote or accidental" analysis rather than an "automatic" satisfaction of legal cause. (c) fails because, under the "rescue doctrine," a rescuer’s intervention is considered a dependent intervening act that is foreseeable as a matter of law, meaning it cannot break the causal chain. (d) is incorrect because the law recognizes concurrent causes; a defendant can be a proximate cause even if another factor (like the drug) is also a direct cause. (e) is incorrect because proximate cause only requires the defendant to foresee the general nature of the harm (death from lack of aid), not the specific medical equipment involved.
+
+Falsifiable claim per distractor:
+- (b): "the Model Penal Code establishes that any factual cause automatically satisfies the legal cause requirement" — wrong because MPC § 2.03 requires that the result not be "too remote or accidental in its occurrence to have a [just] bearing on the actor's liability."
+- (c): "Dane's forced entry... was an independent, unforeseeable intervening act" — wrong because rescue attempts are categorically considered dependent and foreseeable intervening acts.
+- (d): "the fentanyl itself was the sole direct cause" — wrong because multiple factors can be proximate causes simultaneously, and thwarting a rescue is a legally recognized cause of death.
+- (e): "Alba could not have foreseen that Dane specifically possessed Narcan" — wrong because proximate cause requires foreseeability of the general type of harm, not the specific details or medical implements of the rescue.
+
+Recommended fix: none
+-->

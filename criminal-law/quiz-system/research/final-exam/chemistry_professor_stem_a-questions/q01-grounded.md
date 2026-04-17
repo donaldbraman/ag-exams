@@ -1,0 +1,17 @@
+**Q1.** Assume that Arthur is charged with manufacturing a Schedule I controlled substance. Arthur argues that his genuine belief that the substance was a legal "nootropic" negates his liability. How will a court likely rule on this defense?
+
+(a) Guilty, because dealing in inherently dangerous chemical structures puts a manufacturer on notice of regulation, and he acts at his peril regarding its legal schedule. <!-- correct -->
+(b) Not guilty, because Arthur lacked the specific intent to manufacture a controlled substance, which is required for all severe public welfare offenses.
+(c) Not guilty, because Arthur's misreading of the regulatory database constitutes an honest and reasonable mistake of fact that negates his criminal liability.
+(d) Guilty, but only if the prosecution can prove that Arthur acted with criminal negligence in his failure to properly search the regulatory database.
+(e) Not guilty, because the federal presumption against strict liability requires the government to prove the defendant knew the item's prohibited legal status.
+
+**Answer:** (a)
+
+**Explanation:** Arthur is guilty because under the *Balint* dangerous-items heuristic, dealing in inherently dangerous chemical structures puts a manufacturer on notice of regulation, meaning he acts at his peril regarding its legal schedule. His mistaken belief about the specific regulatory status is irrelevant. (b) is wrong because public welfare offenses routinely dispense with specific intent. (c) is wrong because his misreading of the regulatory database is a mistake of penal law, not a defense here. (d) is wrong because strict liability applies, removing the negligence requirement entirely. (e) is wrong because the dangerous items heuristic specifically overrides the normal presumption of mens rea.
+
+**Tags:** chapters: [11], topics: [public welfare offenses, strict liability, dangerous items], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 11 (balint-narcotics-at-peril, dangerous items heuristic)
+
+<!-- grounding: GROUNDED — Balint dangerous items heuristic, Ch 11, Refinement `balint-narcotics-at-peril`. Rule paraphrased accurately. -->

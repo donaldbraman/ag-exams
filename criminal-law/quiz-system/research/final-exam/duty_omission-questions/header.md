@@ -1,4 +1,4 @@
-# Scenario: The Stash House and the Overdose
+## Scenario: Stash House Overdose
 
 ### Facts
 
@@ -12,5 +12,10 @@
 8. As Dane entered, Alba struck Dane forcefully in the head with the butt of the handgun. The investigation established Alba intended only to knock Dane out to prevent the rescue, not to kill him. Dane fell unconscious to the floor.
 9. Cody died in the bathroom twenty minutes later. The medical examiner testified that Cody died from respiratory failure induced by the fentanyl, but confirmed that Dane's Narcan would have fully reversed the overdose had Dane not been incapacitated.
 
-### Stem 1: Drug Distribution and Omission Duties
+### Stem 1: Initial Charges
+
 We are prepping the initial drug and omission charges based on the events up to the moment they dragged the victim into the bathroom. I need you to break down the conspiracy, possession, and the specific legal duties owed to the victim by both Alba and Bex before the gun was drawn.
+
+### Stem 2: The Homicide and Defenses
+
+The file now includes the coercion of Bex, the neighbor's forced entry, the assault, and the victim's death. Evaluate the neighbor's property damage defense, Alba's liability for the assault and the homicide, and whether Bex's coercion claim can defeat a murder charge under the accomplice and Pinkerton theories. Also, analyze the potential for a felony murder charge based on the initial drug distribution.

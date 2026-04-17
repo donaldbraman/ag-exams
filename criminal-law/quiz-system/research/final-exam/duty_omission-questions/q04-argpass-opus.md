@@ -1,0 +1,33 @@
+**Q4.** Assume that prior to Cody's collapse, neither Alba nor Bex owed him a legal duty. Did their act of dragging him into the windowless bathroom create a legal duty to aid him?
+
+(a) Yes, because by moving him into the bathroom and shutting the door, they voluntarily assumed care and secluded him from other potential sources of aid. <!-- correct -->
+(b) Yes, because any physical contact with a person experiencing a medical emergency automatically constitutes an assumption of a duty of care.
+(c) No, because they moved Cody for the explicit purpose of letting him die rather than for the purpose of providing medical treatment.
+(d) No, because a duty based on voluntary assumption requires a formal contractual agreement or a legally recognized status relationship.
+(e) No, because the law protects Good Samaritans by ensuring that intervening to move a victim never creates criminal liability.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because a duty under voluntary assumption of care requires both an undertaking to help and secluding the victim from other sources of aid, which occurred by locking Cody in the windowless bathroom. (b) is incorrect because mere physical contact does not automatically assume a duty; seclusion or detrimental reliance is required. (c) is incorrect because the subjective purpose of letting him die satisfies the actus reus of seclusion while breaching the resulting duty. (d) is incorrect because voluntary assumption is a distinct category from status or contractual duties. (e) is incorrect because Good Samaritan protections apply to reasonable interventions, not isolating victims to prevent rescue.
+
+**Tags:** chapters: [9], topics: [omissions, voluntary assumption of care, seclusion], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 9 — Voluntary assumption of care requires that the defendant seclude the victim from other sources of aid (*Jones v. United States*).
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: This option correctly identifies the established common law doctrine of voluntary assumption of care. Under general omission liability principles and cases like *Jones v. United States*, taking charge of a helpless person creates a legal duty if the actor secludes the victim and prevents others from rendering aid. By dragging Cody into a windowless bathroom and shutting the door, Alba and Bex isolated him from potential rescuers. This seclusion definitively triggers an affirmative legal duty to act.
+(b) Argument-for: A student could argue that touching and moving an incapacitated victim is the defining threshold for an affirmative act in omission contexts. Once an actor makes physical contact and alters the victim's physical placement, they have fundamentally intervened in the emergency. This intervention could be argued to "automatically constitute" an assumption of care because the actor has transitioned from a mere bystander to an active participant, thus creating the necessary nexus for a legal duty.
+(c) Argument-for: Conceptually, "voluntary assumption of care" implies a subjective undertaking to provide *care* or assistance. If Alba and Bex explicitly moved Cody to let him die, their mens rea was entirely antagonistic to providing treatment. Under this interpretation, they never assumed *care* in a protective sense, meaning criminal liability might stem from an affirmative act of murder, but not from an omission based on a duty to aid, since the predicate duty to aid was never legally formed.
+(d) Argument-for: A strict textualist reading of criminal omission liability limits legal duties to tightly defined, well-established categories to avoid notice and vagueness issues. A student could argue that "voluntary assumption" inherently requires a formal, legally recognized manifestation of intent, such as a contractual agreement to provide care or a formal status relationship. Without such a formal bond, mere actions by strangers do not establish a binding duty under a rigid interpretation of criminal law.
+(e) Argument-for: Good Samaritan laws exist specifically to encourage bystanders to intervene in emergencies without fear of legal reprisal. A student could argue that penalizing Alba and Bex for moving an incapacitated Cody would chill bystander intervention, contravening public policy. Therefore, physically moving a victim—even if done poorly or resulting in seclusion—falls under the absolute protection of these statutes, meaning such physical interventions "never create criminal liability."
+
+Head-to-head: Option (a) is definitively the best answer because it accurately applies the established common law rule (*Jones v. United States*) that voluntary assumption requires seclusion or preventing others from rendering aid. The four distractors each contain distinct, falsifiable legal propositions locked by absolute language or conceptually flawed constraints. Option (b) fails because mere physical contact does not "automatically" establish a duty. Option (c) fails because the objective act of seclusion triggers the duty regardless of subjective malevolent intent. Option (d) fails because voluntary assumption is expressly recognized as an independent category distinct from formal contracts or status relationships. Option (e) fails because Good Samaritan laws do not provide absolute immunity ("never creates"), especially for acts that isolate the victim or worsen their condition.
+
+Falsifiable claim per distractor:
+- (b): "any physical contact... automatically constitutes an assumption of a duty" — wrong because brief or non-isolating contact (like checking a pulse) does not categorically assume a duty; the victim must be secluded or put in a worse position.
+- (c): "because they moved Cody for the explicit purpose of letting him die" — wrong because the objective act of secluding a helpless victim creates the duty under criminal omission doctrines, regardless of whether the actors subjectively intended to provide medical treatment or let him die.
+- (d): "requires a formal contractual agreement or a legally recognized status relationship" — wrong because voluntary assumption (coupled with seclusion) is recognized as a wholly independent category of legal duty apart from contracts or status relationships.
+- (e): "ensuring that intervening to move a victim never creates criminal liability" — wrong because Good Samaritan laws do not categorically immunize all interventions; moving a victim *can* create liability if it secludes them from aid or worsens their condition.
+
+Recommended fix: none
+-->
