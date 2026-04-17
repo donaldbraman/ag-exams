@@ -4,7 +4,7 @@ import re
 sys.path.insert(0, os.path.abspath("src"))
 from ag_exams.activities import extract_grounding_verdict, extract_audit_verdict, extract_edge_case_verdict, extract_argument_pass_verdict
 
-with open("qa_results_round3.md") as f:
+with open("qa_results_round4.md") as f:
     text = f.read()
 
 questions = re.split(r"## (Q\d+)", text)[1:]
