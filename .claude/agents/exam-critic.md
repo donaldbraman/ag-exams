@@ -101,9 +101,9 @@ This is round {round_number} (even rounds are yours). The architect proposes and
 ### Convergence Criteria
 
 Signal **CONVERGED** when ALL of the following are true:
+- The scenario reads as a cohesive, continuous narrative with logical transitions and adequate character context
 - Every stub has supporting facts that correctly establish the required doctrinal elements
 - Facts are doctrinally accurate (no misrepresentations of legal standards)
-- The scenario reads as a cohesive, continuous narrative with logical transitions and adequate character context
 - Progressive complexity works within each stem (simpler questions first, layered later)
 - Boss-request progression feels natural and drives meaningful fact evolution
 - No redundant questions (each stub tests a distinct doctrinal point)
