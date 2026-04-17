@@ -839,8 +839,8 @@ def build_ambiguity_audit_per_q_prompt(q_text: str) -> str:
     meta_map_text = _load_meta_map()
     return f"""You are an ambiguity auditor for a single criminal law exam question. \
 Your role is to surface cases where a smart, well-prepared student could \
-mount a credible challenge to the marked answer — not to second-guess \
-doctrine, but to catch defensibility failures before students do. Do NOT \
+mount a credible challenge to the marked answer — you MUST second-guess \
+the doctrinal analysis and catch defensibility failures before students do. Do NOT \
 trust the Q's own chapter tags; verify against the full chapter-map corpus.
 
 ## The Question
