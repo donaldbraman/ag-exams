@@ -1,4 +1,4 @@
-# Scenario: Adulterated Synthetics and the RV Tragedy
+## Scenario: The RV Laboratory
 
 ### Facts
 
@@ -13,7 +13,10 @@
 9. The state is evaluating felony-murder charges against Vance predicated on the felony of 'unlicensed manufacturing of a controlled substance.'
 10. The state is also evaluating whether Thorne can be charged with felony murder or as an accomplice to homicide for Gable's death, despite Vance's independent decision to abandon the victim.
 
-### Stem 2: The Lockbox Discovery
+### Stem 1: The Initial Investigation
 
-11. Two days later, police arrested Vance and Thorne and impounded the RV. During a search, officers found a locked lockbox under the passenger seat containing 500 grams of the synthetic narcotic.
-12. Vance owned the RV and held the only key to the lockbox, but Thorne had a key to the passenger door, frequently slept in that seat, and knew the lockbox contained their inventory.
+The state analyzes liability for the initial drug sale, the ensuing overdose, and the abandonment of the victim in the parking lot.
+
+### Stem 2: The RV Impoundment
+
+Two days later, police arrested Vance and Thorne and impounded the RV. During a search, officers found a locked lockbox under the passenger seat containing 500 grams of the synthetic narcotic. Vance owned the RV and held the only key to the lockbox, but Thorne had a key to the passenger door, frequently slept in that seat, and knew the lockbox contained their inventory.

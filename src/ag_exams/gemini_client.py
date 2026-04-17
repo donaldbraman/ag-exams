@@ -39,7 +39,7 @@ async def dispatch_gemini(
     system_instruction: str = "",
     model: str = "gemini-3.0-flash-preview",
     use_diskcache: bool = False,
-    response_mime_type: str = "application/json",
+    response_mime_type: str = "text/plain",
 ) -> str:
     """Dispatch a request to Gemini, utilizing local diskcache if enabled."""
     client = _get_client()
