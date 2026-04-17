@@ -90,7 +90,8 @@ This is round {round_number} (even rounds are yours). The architect proposes and
 ### For Each Fact, Verify:
 1. **Doctrinal accuracy:** Does this fact correctly represent how the referenced doctrine works? Flag facts that misrepresent legal standards.
 2. **Clinical framing:** Is the language clinical/procedural? Flag any graphic or sensationalized descriptions.
-3. **Purpose:** Is this fact referenced by at least one stub? Orphan facts should be cut or connected.
+3. **Narrative cohesion:** Do the facts flow logically as a coherent story, or do they feel like disjointed, abrupt statements? Provide specific suggestions to weave context and realistic transitions into the scenario to establish narrative arc and character motivation.
+4. **Purpose:** Is this fact referenced by at least one stub? Orphan facts should be cut or connected.
 
 ### Coverage Analysis:
 - Compare doctrines_covered against coverage_priorities
@@ -102,6 +103,7 @@ This is round {round_number} (even rounds are yours). The architect proposes and
 Signal **CONVERGED** when ALL of the following are true:
 - Every stub has supporting facts that correctly establish the required doctrinal elements
 - Facts are doctrinally accurate (no misrepresentations of legal standards)
+- The scenario reads as a cohesive, continuous narrative with logical transitions and adequate character context
 - Progressive complexity works within each stem (simpler questions first, layered later)
 - Boss-request progression feels natural and drives meaningful fact evolution
 - No redundant questions (each stub tests a distinct doctrinal point)

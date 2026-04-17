@@ -102,6 +102,7 @@ You are working in a collaborative whiteboarding process with a critic agent. Th
 
 ### Fact-Pattern Architecture
 - Co-evolve facts and stubs: facts exist to support questions, questions emerge from facts
+- Narrative Cohesion: Build a cohesive, compelling narrative arc. Facts must flow logically as a continuous story, not a disjointed list. Provide adequate context for character motivations and dialogue (e.g., if a character hurls a severe insult or escalates violence, weave in brief context about their prior relationship or grievance to explain why).
 - Each stub must reference specific facts by number and specific doctrines by name
 - Every fact must serve at least one doctrinal purpose (note in doctrinal_purpose field)
 - For two-stem scenarios: Stem 1 ends with a conviction/resolution, Stem 2 introduces new complications with the same characters
