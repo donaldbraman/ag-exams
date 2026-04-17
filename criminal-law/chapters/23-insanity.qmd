@@ -1,0 +1,328 @@
+# The Insanity Defense
+
+The insanity defense occupies a unique place in criminal law. Unlike other defenses, it does not deny that the defendant committed the prohibited act, nor does it claim that the act was justified or excused by external circumstances. Instead, it asserts something more fundamental: that the defendant's mental illness rendered punishment inappropriate because the defendant lacked the capacity for moral responsibility at the time of the offense.
+
+This claim raises profound questions about the nature of criminal culpability. If we punish people because they have made blameworthy choices, what should we do when mental illness impairs the capacity to choose? If the criminal law aims to deter, can we deter those who cannot comprehend what they are doing or why it is wrong? If punishment expresses society's condemnation, does it make sense to condemn those who could not understand that their conduct was condemnable?
+
+The insanity defense has evolved through several distinct formulations, each reflecting different answers to these questions. The traditional M'Naghten test focuses exclusively on *cognitive* impairment: whether the defendant knew the nature of the act or that it was wrong. The "irresistible impulse" test adds a *volitional* component, asking whether the defendant could control their behavior even if they knew it was wrong. The Model Penal Code combines both inquiries and softens them by requiring only "substantial" incapacity rather than complete inability. And a handful of jurisdictions have effectively abolished the traditional defense, permitting evidence of mental illness only to negate *mens rea*.
+
+As you read the materials that follow, consider both the doctrinal differences among these approaches and the institutional questions they raise. Who should decide what counts as "insanity": psychiatrists, judges, juries, or legislatures? How much should expert testimony control the outcome? And what happens to defendants found "not guilty by reason of insanity"?
+
+## How the Criminal System Became the Mental Health System
+
+The insanity defense cases in this chapter arise against a backdrop the doctrine itself does not acknowledge: the United States has effectively dismantled its public mental health infrastructure without building a replacement. At the peak of the asylum era in 1955, state hospitals housed approximately 558,000 patients; by the end of the century, that number had fallen by 93 percent. The community treatment network envisioned by the Community Mental Health Centers Act of 1963 was never built, and fiscal incentives drove states to discharge patients onto the streets with the knowledge that these services did not exist. The Supreme Court unintentionally accelerated the process in *O'Connor v. Donaldson*, 422 U.S. 563 (1975), by holding that a state cannot constitutionally confine a non-dangerous person who is capable of surviving safely in freedom, effectively closing hospital doors to individuals in psychiatric crisis until they posed an explicit threat.
+
+The result is what researchers call "transinstitutionalization": the displacement of the severely mentally ill from hospitals into jails and prisons. Today, the Los Angeles County Jail, Cook County Jail, and Rikers Island are the three largest mental health facilities in the United States. State psychiatric hospital beds have fallen to roughly 10.8 per 100,000 people, and more than half are occupied by forensic patients committed through the criminal legal system. The criminal system now encounters severe mental illness routinely, not because mental illness has become more prevalent, but because no other system is available to intervene at scale.
+
+::: {.callout-note}
+### Four Questions to Track
+
+The insanity defense varies enormously across jurisdictions, but every version answers the same four questions. Use these as a framework as you read:
+
+1. *Which test?* Does the jurisdiction ask whether the defendant lacked cognitive capacity (understanding), volitional capacity (control), or both? Or has it abolished the affirmative defense entirely, permitting mental illness evidence only to negate *mens rea*?
+
+2. *What degree of impairment?* Must the defendant show complete incapacity (M'Naghten: did not "know") or only substantial impairment (Model Penal Code: lacked "substantial capacity")?
+
+3. *Who bears the burden, and at what standard?* Must the defendant prove insanity --- by a preponderance of the evidence or by clear and convincing evidence? Or must the prosecution disprove it beyond a reasonable doubt?
+
+4. *What verdict options are available?* Can the jury return only guilty or not guilty by reason of insanity? Or does the jurisdiction also offer a "guilty but mentally ill" verdict --- and if so, what are the practical consequences?
+
+To see how these dimensions interact, consider three jurisdictions that appear in the cases below:
+
+| | Oregon (*Meiser*) | Federal (Insanity Defense Reform Act) | Kansas (*Kahler*) |
+|---|---|---|---|
+| *Test* | Model Penal Code: cognitive + volitional | Cognitive only | No affirmative defense |
+| *Degree* | Substantial capacity | Unable to appreciate | N/A --- negate *mens rea* only |
+| *Burden* | Defendant, preponderance | Defendant, clear and convincing | Defendant (on *mens rea*) |
+| *Verdicts* | Guilty; guilty except for insanity (commitment) | Guilty; not guilty by reason of insanity | Guilty (mental illness at sentencing only) |
+:::
+
+## The Evolution of Insanity Standards
+
+### A. The M'Naghten Rule
+
+The foundation of modern insanity jurisprudence is the 1843 English case of Daniel M'Naghten, who attempted to assassinate the British Prime Minister but killed his secretary instead. M'Naghten suffered from paranoid delusions, believing the Prime Minister was conspiring to kill him. The House of Lords articulated what became known as the M'Naghten Rules:
+
+> To establish a defence on the ground of insanity, it must be clearly proved that, at the time of the committing of the act, the party accused was labouring under such a defect of reason, from disease of the mind, as not to know the nature and quality of the act he was doing; or, if he did know it, that he did not know he was doing what was wrong.
+>
+> --- *M'Naghten's Case*, 10 Cl. & Fin. 200, 8 Eng. Rep. 718 (H.L. 1843).
+
+The rule establishes two alternative pathways to the defense. The defendant must show that mental disease left him unable to know either:
+
+1. the *nature and quality* of the act (for example, a psychotic mother who believes she is squeezing a grapefruit when she is actually strangling her child); or
+
+2. that the act was *wrong* (for example, a delusional person who believes God has commanded them to kill).
+
+The M'Naghten test thus focuses exclusively on cognitive capacity. It does not ask whether the defendant could *control* their behavior. That limitation drew criticism from mental health professionals who argued the test ignored the reality that mental illness often impairs volition without destroying cognition.
+
+### B. The Durham "Product" Test
+
+In *Durham v. United States*, 214 F.2d 862 (D.C. Cir. 1954), Judge David Bazelon attempted to move beyond M'Naghten's rigid cognitive focus. The Durham rule provided that "an accused is not criminally responsible if his unlawful act was the product of mental disease or mental defect." This formulation was deliberately broad, intended to give psychiatrists greater latitude to explain how mental illness affected the defendant without being constrained by the "right-wrong" vocabulary of M'Naghten.
+
+The Durham test was widely hailed at first but proved problematic in practice. Critics argued that it effectively delegated the legal determination of responsibility to psychiatric experts. When psychiatrists changed their diagnostic classifications (as happened when St. Elizabeth's Hospital reclassified "psychopathic personality" as a "mental disease"), defendants who would previously have been convicted were suddenly eligible for acquittal. The D.C. Circuit ultimately abandoned Durham in *United States v. Brawner*, 471 F.2d 969 (D.C. Cir. 1972), in favor of the Model Penal Code test.
+
+### C. The Model Penal Code "Substantial Capacity" Test
+
+::: {.callout-note}
+### Model Penal Code Section 4.01 --- Mental Disease or Defect Excluding Responsibility
+
+(1) A person is not responsible for criminal conduct if at the time of such conduct as a result of mental disease or defect he lacks substantial capacity either to appreciate the criminality [wrongfulness] of his conduct or to conform his conduct to the requirements of law.
+
+(2) As used in this Article, the terms "mental disease or defect" do not include an abnormality manifested only by repeated criminal or otherwise antisocial conduct.
+:::
+
+The Model Penal Code test combines the M'Naghten cognitive inquiry ("appreciate the criminality") with a volitional component ("conform his conduct to the requirements of law"). Crucially, it requires only that the defendant lack "substantial capacity," not complete incapacity, recognizing that mental illness affects cognition and volition by degrees rather than absolutely.
+
+Subsection (2) excludes "sociopaths" or those with antisocial personality disorders from the defense, reflecting a judgment that such individuals, however disordered, should be held responsible for their conduct. As we will see in *State v. Meiser*, this exclusion creates interpretive challenges when a defendant has both a qualifying mental illness (like schizophrenia) and a non-qualifying personality disorder.
+
+### D. Post-Hinckley Reforms and the "Mens Rea Model"
+
+The evolution toward broader insanity standards reversed dramatically after John Hinckley's 1982 acquittal for the attempted assassination of President Ronald Reagan. Hinckley, who shot the President in an effort to impress actress Jodie Foster, was found not guilty by reason of insanity under the Model Penal Code–style test then applicable in federal courts.
+
+Public outrage over the verdict prompted widespread legislative reform. Many jurisdictions returned to a purely cognitive M'Naghten-style test, eliminating the volitional prong. The burden of proof shifted: before Hinckley, most jurisdictions required the prosecution to disprove insanity beyond a reasonable doubt; after Hinckley, most shifted the burden to the defense. Four states (Idaho, Montana, Utah, and Kansas) went further, abolishing the traditional insanity defense altogether in favor of a "mens rea model" that permits mental illness evidence only to negate the intent element of the charged offense.
+
+Two other post-Hinckley innovations deserve attention. First, Congress enacted the Insanity Defense Reform Act of 1984, which tightened the federal standard substantially:
+
+::: {.callout-note}
+### Federal Insanity Defense Reform Act of 1984 --- 18 U.S.C. Section 17
+
+(a) Affirmative defense.---It is an affirmative defense to a prosecution under any Federal statute that, at the time of the commission of the acts constituting the offense, the defendant, as a result of a severe mental disease or defect, was unable to appreciate the nature and quality or the wrongfulness of his acts. Mental disease or defect does not otherwise constitute a defense.
+
+(b) Burden of proof.---The defendant has the burden of proving the defense of insanity by clear and convincing evidence.
+:::
+
+Notice how the federal statute differs from both M'Naghten and the Model Penal Code: it requires "severe" mental disease, eliminates the volitional prong entirely, and places the burden on the defendant to prove insanity by clear and convincing evidence --- the most demanding standard short of beyond a reasonable doubt.
+
+Today, burden-of-proof allocation varies substantially across jurisdictions. A majority of states that retain the affirmative defense require the defendant to prove insanity by a preponderance of the evidence. A smaller number follow the federal clear-and-convincing standard. And a shrinking minority still place the burden on the prosecution to disprove insanity beyond a reasonable doubt once the defendant raises the issue. The allocation matters: defendants who present substantial expert evidence of mental illness may still fail to meet their burden if jurors find the testimony unpersuasive.
+
+Second, thirteen states adopted a "guilty but mentally ill" verdict as a compromise between conviction and acquittal. Under this approach, the jury finds that the defendant was mentally ill at the time of the offense but does not meet the standard for legal insanity. The defendant receives a standard criminal sentence but is, in theory, entitled to psychiatric treatment during incarceration. Research consistently questions whether the verdict delivers meaningful treatment benefits --- correctional systems often lack the resources to provide psychiatric care, and such defendants are frequently housed in general prison populations. Arizona takes a different approach with its "guilty except insane" verdict, which functions as the state's sole insanity defense: a finding of guilty except insane results in a suspended prison sentence and mandatory commitment to a state mental health facility.
+
+## The Major Insanity Defense Standards at a Glance
+
+The table below consolidates the main formulations, highlighting the two dimensions that distinguish them: what kind of impairment counts, and how much is required. The great majority of jurisdictions that retain an affirmative defense cluster around three formulations. The differences turn on whether the standard recognizes volitional impairment alongside cognitive impairment, and whether it demands complete incapacity or only substantial impairment.
+
+| Standard | Cognitive Prong | Volitional Prong | Degree of Impairment | Approx. Jurisdictions |
+|---|---|---|---|---|
+| M'Naghten | Did not know nature/quality of act OR did not know it was wrong | None | Complete ("did not know") | ~17–25 states (varies by how variants are counted) |
+| Irresistible Impulse | Did not know nature/quality of act OR did not know it was wrong | Yes — unable to control conduct despite knowing it was wrong | Complete (impulse must be "irresistible," not merely "unresisted") | 4 states (CO, NM, TX, VA); a few additional states incorporate volitional elements through other formulations |
+| Model Penal Code / American Law Institute | Lacks substantial capacity to *appreciate* criminality or wrongfulness | Yes — lacks substantial capacity to *conform* conduct to law | Substantial (not total) incapacity | ~15 states + D.C. |
+
+Three additional approaches fall outside the main framework. New Hampshire remains the sole jurisdiction using the Durham "product" test. The federal Insanity Defense Reform Act of 1984 (18 U.S.C. § 17) uses a cognitive-only standard requiring "severe" mental disease but eliminates the volitional prong and places the burden on the defendant by clear and convincing evidence. And four states (Idaho, Kansas, Montana, and Utah) have abolished the affirmative defense altogether, permitting mental illness evidence only to negate *mens rea*. The Supreme Court upheld this approach in *Kahler v. Kansas*, 589 U.S. 271 (2020).
+
+## The Constitutional Status of the Insanity Defense
+
+The following case addresses whether states may abolish the traditional insanity defense entirely. Kansas permits defendants to use mental illness evidence only to negate *mens rea* (the so-called "mens rea model") but does not provide a separate defense for those who knew what they were doing but could not appreciate that it was wrong.
+
+## KAHLER V. KANSAS {#kahler-v-kansas .unnumbered .unlisted .case-title}
+
+*Supreme Court of the United States, 2020*
+*589 U.S. 271*
+
+::: {.case-excerpt}
+JUSTICE KAGAN delivered the opinion of the Court.
+
+This case is about Kansas's treatment of a criminal defendant's insanity claim. In Kansas, a defendant can invoke mental illness to show that he lacked the requisite *mens rea* (intent) for a crime. He can also raise mental illness after conviction to justify either a reduced term of imprisonment or commitment to a mental health facility. But Kansas, unlike many States, will not wholly exonerate a defendant on the ground that his illness prevented him from recognizing his criminal act as morally wrong. The issue here is whether the Constitution's Due Process Clause forces Kansas to do so---otherwise said, whether that Clause compels the acquittal of any defendant who, because of mental illness, could not tell right from wrong when committing his crime. We hold that the Clause imposes no such requirement.
+
+### I
+
+In *Clark v. Arizona*, 548 U.S. 735, 749 (2006), this Court catalogued state insanity defenses, counting four "strains variously combined to yield a diversity of American standards" for when to absolve mentally ill defendants of criminal culpability. The first strain asks about a defendant's "cognitive capacity"---whether a mental illness left him "unable to understand what he [was] doing" when he committed a crime. [...] The second examines his "moral capacity"---whether his illness rendered him "unable to understand that his action [was] wrong." [...] Those two inquiries [...] appeared as alternative pathways to acquittal in the landmark English ruling *M'Naghten's Case*. [...]
+
+Kansas law provides that "\[i\]t shall be a defense to a prosecution under any statute that the defendant, as a result of mental disease or defect, lacked the culpable mental state required as an element of the offense charged." Kan. Stat. Ann. Section 21-5209. Under that statute, a defendant may introduce any evidence of any mental illness to show that he did not have the intent needed to commit the charged crime. [...] Kansas law thus uses *M'Naghten's* "cognitive capacity" prong---the inquiry into whether a mentally ill defendant could comprehend what he was doing when he committed a crime. [...] At the same time, the Kansas statute provides that "[m]ental disease or defect is not otherwise a defense." In other words, Kansas does not recognize any additional way that mental illness can produce an acquittal. Most important for this case, a defendant's moral incapacity cannot exonerate him, as it would if Kansas had adopted both original prongs of *M'Naghten*. [...]
+
+That partly closed-door policy changes once a verdict is in. At the sentencing phase, a Kansas defendant has wide latitude to raise his mental illness as a reason to judge him not fully culpable and so to lessen his punishment. [...] He may present evidence [...] that his disease made him unable to understand his act's moral wrongness [...] Kansas sentencing law thus provides for an individualized determination of how mental illness, in any or all of its aspects, affects culpability. And the same kind of evidence can persuade a court to place a defendant who needs psychiatric care in a mental health facility rather than a prison. [...]
+
+This case arises from a terrible crime. In early 2009, Karen Kahler filed for divorce from James Kahler and moved out of their home with their two teenage daughters and 9-year-old son. Over the following months, James Kahler became more and more distraught. On Thanksgiving weekend, he drove to the home of Karen's grandmother, where he knew his family was staying. Kahler entered through the back door and saw Karen and his son. He shot Karen twice, while allowing his son to flee the house. He then moved through the residence, shooting Karen's grandmother and each of his daughters in turn. All four of his victims died.
+
+Kahler surrendered to the police the next day and was charged with capital murder. Before trial, Kahler filed a motion arguing that Kansas's treatment of insanity claims violates the Fourteenth Amendment's Due Process Clause. Kansas, he asserted, had "unconstitutionally abolished the insanity defense" by allowing the conviction of a mentally ill person "who cannot tell the difference between right and wrong." [...] The trial court denied the motion, leaving Kahler to attempt to show through psychiatric and other testimony that severe depression had prevented him from forming the intent to kill. [...] The jury convicted Kahler of capital murder. [...] The jury still decided to impose the death penalty.
+
+### II
+
+A challenge like Kahler's must surmount a high bar. Under well-settled precedent, a state rule about criminal liability---laying out either the elements of or the defenses to a crime---violates due process only if it "offends some principle of justice so rooted in the traditions and conscience of our people as to be ranked as fundamental." *Leland v. Oregon*, 343 U.S. 790, 798 (1952). Our primary guide in applying that standard is "historical practice." [...] The question is whether a rule of criminal responsibility is so old and venerable---so entrenched in the central values of our legal system---as to prevent a State from ever choosing another. An affirmative answer, though not unheard of, is rare. [...]
+
+In *Powell v. Texas*, 392 U.S. 514 (1968), this Court explained why. [...] The Court [...] emphasized the paramount role of the States in setting "standards of criminal responsibility." [...] "The doctrines of *actus reus*, *mens rea*, insanity, mistake, justification, and duress"---the Court counted them off---"reflect both the 'evolving aims of the criminal law'" and the "changing religious, moral, philosophical, and medical views of the nature of man." [...] That "constantly shifting adjustment" could not proceed in the face of rigid "\[c\]onstitution\[al\] formulas." [...] Within broad limits, *Powell* thus concluded, "doctrine[s] of criminal responsibility" must remain "the province of the States."
+
+Nowhere has the Court hewed more closely to that view than in addressing the contours of the insanity defense. Here, uncertainties about the human mind loom large. [...] On such unsettled ground, we have hesitated to "freeze [the] dialogue between law and psychiatry into a rigid constitutional mold." [...] And twice before we have declined to do so.
+
+In *Leland v. Oregon*, a criminal defendant challenged as a violation of due process the State's use of the moral-incapacity test of insanity---the very test Kahler now asks us to require. [...] We rejected that argument. [...] [T]he "choice of a test of legal sanity involves not only scientific knowledge but questions of basic policy" about when mental illness should absolve someone of "criminal responsibility." [...] The matter was thus best left to each State to decide on its own.
+
+A half-century later, we reasoned similarly in *Clark*. There, the defendant objected to Arizona's decision to discard the cognitive-incapacity prong of *M'Naghten* and leave in place only the moral-incapacity one---essentially the flipside of what Kansas has done. Again, we saw no due process problem. [...] The takeaway was "clear": A State's "insanity rule[ ] is substantially open to state choice." [...] *Clark* held that "no particular" insanity test serves as "a baseline for due process." [...]
+
+Yet Kahler maintains that Kansas's treatment of insanity fails to satisfy due process. [...] His central claim [...] is that Kansas has impermissibly jettisoned the moral-incapacity test for insanity. [...]
+
+One point, first, of agreement: Kahler is right that for hundreds of years jurists and judges have recognized insanity (however defined) as relieving responsibility for a crime. "In criminal cases therefore," Sir William Blackstone wrote, "lunatics are not chargeable for their own acts, if committed when under these incapacities." 4 Commentaries on the Laws of England 24 (1769). [...] We have not found a single case to the contrary.
+
+But neither do we think Kansas departs from that broad principle. First, Kansas has an insanity defense negating criminal liability---even though not the type Kahler demands. As noted earlier, Kansas law provides that if a mental illness prevents a defendant from forming the required *mens rea*, he cannot be convicted. [...] So the only question is whether the historical evidence reveals a settled consensus that any particular *type* of insanity defense is required.
+
+[...] The insanity defense sits at the juncture of medical views of mental illness and moral and legal theories of criminal culpability---two areas of conflict and change. Small wonder that no particular test of insanity has developed into a constitutional baseline. And it is not for the courts to insist on any single criterion moving forward. Defining the precise relationship between criminal culpability and mental illness requires balancing complex considerations, among them the workings of the brain, the purposes of criminal law, and the ideas of free will and responsibility. This balance should remain open to revision as new medical knowledge emerges and societal norms evolve. Thus---as the Court recognized previously in *Leland*, *Powell*, and *Clark*---the defense is a project for state governance, not constitutional law.
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Kansas says mental illness goes to sentencing, not guilt. The Court's historical-practice test treats this as constitutionally permissible because insanity standards have always varied. Does that test effectively make the insanity defense optional --- and if so, what is lost when the system can never say "not guilty"?
+
+2. The Court emphasizes that states have long had discretion to define the insanity defense. But if *some* recognition of mental illness has always been "fundamental," does it follow that *any* recognition suffices? How much of the traditional defense can a state eliminate before it crosses the constitutional line?
+:::
+
+### Note: The Post-Kahler Doctrinal Picture
+
+Many observers expected *Kahler* to trigger a wave of abolition legislation. The constitutional door was open: states could now eliminate the insanity defense entirely without running afoul of due process. Yet the wave has not materialized.
+
+The most prominent attempt came from Florida. Senate Bill 1326 (2026) would have replaced Florida's affirmative insanity defense, which includes a moral-wrongfulness prong, with a mens rea model permitting mental illness evidence only to negate the intent element. The bill was supported by the state's Attorney General, who characterized the existing defense as a "loophole." It passed its first committee stop but died in the Appropriations Committee on Criminal and Civil Justice in March 2026.
+
+At the same time, one of the original abolition states considered moving in the opposite direction. Utah House Bill 476 (2026) would have reinstated a traditional insanity defense, allowing defendants to be found not guilty if unable to appreciate the "nature or wrongfulness" of their actions. That bill also died in committee in March 2026. The legislative energy, in other words, has been bidirectional: one state trying to join the mens rea camp, one trying to leave it. Both efforts failed. The doctrine remains largely frozen.
+
+The four abolition states (Idaho, Kansas, Montana, and Utah) all predate *Kahler*, and the ruling has functioned primarily as a constitutional backstop rather than a catalyst for change. Meanwhile, courts continue to refine the boundaries of the existing frameworks. In *State v. Radue* (2025), the Idaho Supreme Court affirmed a murder conviction and upheld the exclusion of expert testimony regarding postpartum depression and related mental health conditions. The court held that mental health evidence is admissible under Idaho's mens rea statute only if it directly negates the specific intent element (in that case, "willfulness") and that testimony about conditions not directly linked to the formation of intent is properly excluded. *Radue* draws a bright line between evidence that a defendant's mental illness prevented the formation of intent (admissible) and evidence that a defendant's mental illness made the act less culpable in some broader sense (inadmissible).
+
+In Georgia, the state supreme court's 2025 decision in *State v. Wierson* reasserted the primacy of the statutory right-wrong test at the time of the offense, overruling prior case law that had allowed the prosecution to defeat an insanity defense by showing the defendant had voluntarily stopped taking medication. And in Mississippi, the case of *Carly Gregg*, a fourteen-year-old sentenced to two consecutive life terms for murder and attempted murder, is on appeal, with the defense challenging the application of M'Naghten's "wrongfulness" test to a juvenile whose medication had been switched to Lexapro one week before the offense. The defense argues that the state improperly focused on "goal-oriented" post-offense behavior rather than evaluating capacity at the moment of the act.
+
+## Applying the Model Penal Code Test: Mental Disease and Co-Occurring Disorders
+
+The following case illustrates how the Model Penal Code's "substantial capacity" test operates in practice when a defendant has multiple diagnoses, only some of which qualify as "mental disease or defect."
+
+## STATE V. MEISER {#state-v-meiser .unnumbered .unlisted .case-title}
+
+*Oregon Supreme Court, 2022*
+*369 Or. 347*
+
+::: {.case-excerpt}
+FLYNN, J.
+
+Defendant, who has been diagnosed with schizophrenia and a co-occurring antisocial personality disorder, contends that the trial court and the Court of Appeals erred in their understanding of the evidence required to establish that he was guilty except for insanity (GEI) with respect to charges of murder. GEI is an affirmative defense that requires proof that, "as a result of mental disease or defect," the defendant "lacks substantial capacity either to appreciate the criminality of the conduct or to conform the conduct to the requirements of law." ORS 161.295(1). But "the terms 'mental disease or defect' do not include [...] any abnormality constituting solely a personality disorder." ORS 161.295(2).
+
+The parties agree that schizophrenia is a "mental disease or defect" within the meaning of ORS 161.295, and they agree that defendant's co-occurring antisocial personality disorder is a "personality disorder" within the meaning of the statute. But they disagree about whether ORS 161.295 requires proof that defendant experienced the requisite incapacity solely "as a result of" his schizophrenia, and not in any part as a result of his co-occurring antisocial personality disorder. [...] We conclude that the legislature did not intend to require that a person who can demonstrate the requisite lack of substantial capacity "as a result of mental disease or defect" also prove that a co-occurring personality disorder in no part contributed to the incapacity.
+
+### Facts and Procedural Posture
+
+The charges in this case arose from an incident in 2012. Defendant, who was then 37 years old, entered a home in Lake Oswego. He was carrying a machete. Inside the home, he encountered the homeowner, F.H., and his wife, M.H. Defendant attacked F.H. with the machete, inflicting multiple wounds that caused F.H.'s death. He also attacked M.H., causing her serious physical injury. Defendant then fled the scene and was apprehended several days later.
+
+Defendant was charged with multiple counts of aggravated murder, attempted aggravated murder, first-degree assault, and second-degree burglary. He did not dispute that he had committed the acts alleged; instead, he asserted the affirmative defense of GEI to all charges.
+
+At trial, defendant presented evidence that he had a long history of mental illness. He had been hospitalized multiple times and had been diagnosed with schizophrenia. Two experts, a psychiatrist and a psychologist, testified for the defense. Both experts agreed that defendant suffered from schizophrenia and that, at the time of the crimes, he was experiencing active symptoms of the disease, including command hallucinations and delusions.
+
+The experts also agreed that defendant had a co-occurring antisocial personality disorder. They explained that schizophrenia is a "major mental illness" characterized by a break from reality, while a personality disorder is a "long-standing pattern of inner experience and behavior that deviates markedly from the expectations of the individual's culture."
+
+The defense experts testified that defendant's schizophrenia was the primary driver of his conduct. Dr. Choi, the psychiatrist, testified that defendant was "highly psychotic" before, during, and after the murder, and that without the psychosis he would not have committed the crimes. Dr. Beaver, the psychologist, similarly testified that defendant was "floridly psychotic" and that his schizophrenia, rather than his personality disorder, was the predominant cause of his lack of capacity.
+
+The state did not call its own experts to testify about defendant's mental state. Instead, it argued that defendant had failed to prove the GEI defense because his antisocial personality disorder had also played a role in his conduct. The state relied on the fact that defendant had a history of criminal behavior and that some of his actions during and after the crimes---such as fleeing and attempting to hide---suggested that he appreciated the criminality of his conduct.
+
+The trial court, sitting as the factfinder, found defendant GEI on the charges of attempted aggravated murder and first-degree assault. However, the court rejected the GEI defense for the aggravated murder counts [...] On the aggravated murder counts, the court found defendant guilty of the lesser-included offense of murder. [...]
+
+### A. Text and Context
+
+We begin with the text of the statute. ORS 161.295(1) provides:
+
+> "A person is guilty except for insanity if, as a result of mental disease or defect at the time of engaging in criminal conduct, the person lacks substantial capacity either to appreciate the criminality of the conduct or to conform the conduct to the requirements of law."
+
+Subsection (2) of the statute provides:
+
+> "[T]he terms 'mental disease or defect' do not include an abnormality manifested only by repeated criminal or otherwise antisocial conduct, nor do they include any abnormality constituting solely a personality disorder."
+
+The statute thus requires that three elements must exist "at the time of engaging in criminal conduct": (1) a "mental disease or defect"; (2) a lack of "substantial capacity either to appreciate the criminality of the conduct or to conform the conduct to the requirements of law"; and (3) a causal link between the two---the lack of capacity must be "as a result of" the mental disease or defect.
+
+The phrase "as a result of" is not defined in the statute. In ordinary usage, the noun "result" means "something that results as a consequence, effect, issue, or conclusion." [...] In the context of causation, the phrase "as a result of" typically implies a causal connection, but it does not, by itself, imply that the specified cause must be the *sole* cause.
+
+The state argues that the exclusion in subsection (2) for abnormalities "constituting solely a personality disorder" indicates that the legislature intended to exclude the GEI defense whenever a personality disorder contributes to the lack of capacity. We disagree.
+
+The text of subsection (2) excludes "any abnormality constituting *solely* a personality disorder" from the definition of "mental disease or defect." (Emphasis added.) By its terms, that exclusion applies to the *first* element of the GEI defense---the requirement that the defendant have a qualifying "mental disease or defect." It specifies that a personality disorder, standing alone, does not qualify. It does not, however, address the *third* element---the causal connection required by subsection (1).
+
+If the legislature had intended to require that the lack of capacity result *solely* from a mental disease or defect, it could have used that word in subsection (1), just as it used the word "solely" in subsection (2). The fact that the legislature used the word "solely" in one part of the statute but omitted it from another suggests that the omission was intentional. [...]
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. The Oregon statute excludes "any abnormality constituting solely a personality disorder" from the definition of "mental disease." Why might the legislature have drawn this line? Does antisocial personality disorder differ from schizophrenia in ways that are relevant to moral responsibility?
+
+2. The defendant in *Meiser* fled after the attack and tried to hide. The state argued this showed he "appreciated the criminality of his conduct." Is flight evidence of sanity? Or might a psychotic person also flee without fully appreciating why?
+
+3. The court holds that a defendant with *both* schizophrenia and antisocial personality disorder can invoke the insanity defense if the schizophrenia caused the incapacity, even if the personality disorder also contributed. Does this reading make sense as a matter of policy? As a matter of statutory interpretation?
+:::
+
+## The Irresistible Impulse Defense in Practice
+
+The irresistible impulse test adds a volitional inquiry to M'Naghten's cognitive standard: even if the defendant knew the act was wrong, she is not responsible if mental disease destroyed her capacity to choose. Virginia is one of four states that uses this formulation. The following case, the most famous irresistible impulse acquittal in modern American law, illustrates both the test's doctrinal mechanics and the moral judgments that inevitably shape its application.
+
+### Lorena Bobbitt (Virginia, 1994)
+
+In June 1993, Lorena Bobbitt severed her husband John Wayne Bobbitt's penis with a kitchen knife while he slept, then drove away and threw the severed organ into a field. She was charged with malicious wounding, a felony carrying up to twenty years in prison under Virginia law.
+
+The facts at trial painted a picture of sustained abuse. Lorena Bobbitt testified that John Wayne Bobbitt had physically and sexually abused her throughout their marriage. She described repeated beatings, forced sex, and threats to kill her. Forty-eight witnesses --- friends, family members, and coworkers --- corroborated her account of the abusive relationship. On the night in question, she testified that her husband had raped her and fallen asleep. She went to the kitchen, saw the knife, and later told police she could not remember picking it up.
+
+The defense theory was irresistible impulse. Lorena Bobbitt's expert, a forensic psychiatrist, testified that she experienced a "brief reactive psychosis" --- a transient break from reality triggered by the rape and the cumulative trauma of the abuse. In this state, the defense argued, she was unable to control her actions. Two prosecution experts agreed that Bobbitt suffered from battered woman syndrome but testified that she had *not* experienced an irresistible impulse as they understood the term.
+
+The jury acquitted Bobbitt by reason of insanity. During deliberations, the jury requested --- and received --- a clarifying instruction that it was not bound by the psychiatric experts' particular definition of "irresistible impulse." The verdict was the jury's own moral judgment, informed by but not dictated by expert testimony.
+
+Under Virginia's mandatory commitment statute, Bobbitt was committed to a state psychiatric facility for evaluation. She was released after forty-five days. John Wayne Bobbitt was subsequently arrested multiple times for assaulting other women.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Two prosecution experts testified that Bobbitt suffered from battered woman syndrome but had *not* experienced an irresistible impulse. The jury acquitted anyway, after requesting an instruction that it was not bound by the experts' definition. What does this tell us about who ultimately decides what counts as an "irresistible impulse" --- experts or juries?
+
+2. Bobbitt's attorney called forty-eight witnesses to establish a history of abuse before the expert ever testified about "brief reactive psychosis." Research suggests that jurors are more likely to acquit defendants they find sympathetic than those they find frightening, and that character evidence is among the strongest predictors of verdict. None of the traditional insanity standards were designed with domestic violence survivors in mind. Did the volitional prong do clinical work here --- identifying a genuine loss of control --- or narrative work, giving the jury a doctrinal framework for a moral judgment about domestic violence? Does it matter which?
+
+3. Bobbitt was released after forty-five days of psychiatric commitment. Is this outcome consistent with the purposes of post-acquittal commitment? Would the same outcome be likely for a defendant acquitted of a comparable assault against a stranger?
+:::
+
+### Note: The Irresistible Impulse Test and Moral Judgments
+
+The career of the "irresistible impulse" conception of insanity reveals deep ambivalence about impulsive behavior. On one hand, if we punish people for their voluntary choices, it seems unfair to punish those whose mental illness destroyed their capacity to choose. As one nineteenth-century court explained:
+
+::: {.case-excerpt}
+#### PARSONS V. STATE {.unnumbered .unlisted}
+2 So. 854, 859 (Ala. 1887)
+
+> No one can deny that there must be two constituent elements of legal responsibility in the commission of every crime, and no rule can be just and reasonable which fails to recognize either of them: (1) Capacity of intellectual discrimination; and (2) freedom of will. [...] If therefore [...] the disease of insanity can, in its action on the human brain through a shattered nervous organization, or in any other mode, so affect the mind as to subvert the freedom of the will, and thereby destroy the power of the victim *to choose* between the right and wrong, although he perceive it [...] is such a one criminally responsible for an act done under the influence of such controlling disease? We clearly think not.
+:::
+
+On the other hand, many courts have been skeptical of claims that criminal behavior results from irresistible urges rather than unjustified indulgence:
+
+::: {.case-excerpt}
+#### STATE V. BRANDON {.unnumbered .unlisted}
+53 N.C. 463, 467-68 (1862)
+
+> There are many appetites and passions which by long indulgence acquire a mastery over men more or less strong. Some persons indeed deem themselves incapable of exerting strength of will sufficient to arrest their rule, speak of them as irresistible, and impotently continue under their dominion; but the law is far from excusing criminal acts committed under the impulse of such passions.
+:::
+
+Historically, the "irresistible impulse" test was used not only to excuse the genuinely mentally ill but also to acquit defendants whose conduct, while impulsive, reflected socially approved emotions. The test was a vehicle for the "unwritten rule" that a man could kill to avenge the rape or seduction of his wife or female family member. The same court that embraced the irresistible impulse test held that if the husband was *also* an adulterer, the prosecution could introduce evidence of his own moral failings to rebut the claim that the shock of his wife's infidelity was sufficiently great to unseat his reason.
+
+These cases suggest that whatever the formal test, juries often make moral judgments about defendants' characters and victims' conduct. A "virtuous" defendant who kills a "vicious" victim may be acquitted where a less sympathetic defendant would not be. This raises the question: is this a feature of the insanity defense or a bug?
+
+Recent scholarship has revisited the post-Hinckley consensus against the volitional prong. Mia Larson has argued that constitutionalizing the affirmative insanity defense requires recognizing moral symmetry: if the cognitive prong excuses a defendant who cannot understand that an act is wrong, the law should also excuse a defendant who understands the wrongfulness of the act but is biologically incapable of stopping --- as in cases of severe OCD, command hallucinations, or neurological damage affecting impulse control. Punishing such defendants, the argument runs, fails retribution's core requirement of volitional freedom. Mia C. Larson, *A Call for Constitutionalizing the Affirmative Insanity Defense*, 32 U. Fla. J.L. & Pub. Pol'y 339 (2022).
+
+Proponents also claim that the neuroscience has advanced beyond the 1980s impasse. Where the American Psychiatric Association's 1983 position statement concluded that psychiatry could not reliably distinguish an "irresistible" impulse from an "unresisted" one, recent scholarship argues that the Anglo-American model's exclusive focus on delusional content is itself the problem. Linda Gröning, Susanna Radovic, and Unn Haukvik have contrasted this approach with the Norwegian model, which asks whether the defendant was in a legally relevant state of serious mental disorder at the time of the act rather than requiring a causal link between specific delusions and the criminal conduct. Linda Gröning et al., *Reconsidering the Relationship Between Criminal Insanity and Delusions*, 53 J. Am. Acad. Psychiatry & L. 35 (2025). Whether the science supports more reliable volitional assessment remains contested, but the scholarly trend line has shifted: the question is no longer whether volitional impairment exists, but whether it can be measured with sufficient reliability to ground a legal defense.
+
+## The Insanity Defense and Criminal Law's Purposes
+
+The diversity of insanity standards across jurisdictions reflects ongoing disagreement about how the purposes of punishment apply to mentally ill defendants. Retribution, deterrence, incapacitation, and rehabilitation each point in different directions when the defendant's mental illness is severe. Roughly half the states use some version of M'Naghten; about a dozen use the Model Penal Code substantial-capacity test (though several have excised the volitional prong); four states supplement M'Naghten with the irresistible impulse test; and four have abolished the affirmative defense entirely. The burden of proof falls on the defendant in roughly three-quarters of jurisdictions.
+
+Thirteen states offer a "guilty but mentally ill" verdict, though empirical research consistently finds that these defendants receive no more treatment than ordinary prisoners and reoffend at substantially higher rates than insanity acquittees. The post-Hinckley trend has been toward narrower standards and higher burdens, yet the expected post-*Kahler* wave of abolition has not arrived, suggesting that legislators recognize that eliminating the insanity defense channels severely mentally ill defendants into a prison system poorly equipped to treat them.
+
+## The Empirical Reality of the Insanity Defense
+
+The insanity defense occupies an outsized place in public discourse relative to its actual use. Defendants raise the defense in fewer than 1% of all felony cases nationwide. When raised, it succeeds approximately 25–30% of the time; more than 70% of successful cases resolve through pre-trial stipulations, not contested jury verdicts. In the typical successful case, the defendant's severe mental illness is so extensively documented through prior hospitalizations, forensic evaluations, and clinical records that both prosecution and defense agree to the insanity acquittal without a trial. Lisa A. Callahan et al., *The Volume and Characteristics of Insanity Defense Pleas: An Eight-State Study*, 19 Bull. Am. Acad. Psychiatry & L. 331 (1991).
+
+Public perception is correspondingly distorted. Surveys show that Americans dramatically overestimate the frequency of insanity acquittals. The actual rate at which defendants are found not guilty by reason of insanity is approximately 0.26%.
+
+### What Happens After Acquittal
+
+The most widespread misconception about the insanity defense is that acquittal means freedom. In practice, an insanity acquittal almost always results in involuntary commitment to a secure psychiatric facility --- and the commitment is typically as long as, or longer than, the prison sentence the defendant would have received upon conviction. Commitment is nominally tied to clinical status rather than sentence length, but the severity of the index offense strongly predicts how long the acquittee will be confined. In some states, commitment is effectively indefinite.
+
+Release, when it comes, follows one of two models. In the majority of jurisdictions, a judge makes the final release decision based on psychiatric reports and legal argument; the hospital's recommendation is advisory. In a smaller number of states, most notably Oregon and Connecticut, a multidisciplinary Psychiatric Security Review Board has direct jurisdiction to order release and can override hospital recommendations. Arizona, which had used an administrative board model, abolished its Psychiatric Security Review Board effective July 2023 and reverted to the judicial model. S.B. 1839, 55th Leg., 1st Reg. Sess. (Ariz. 2021), Laws 2021, Ch. 390. Maryland created "Forensic Review Boards" in 2025, establishing all-clinician administrative panels at each facility holding persons committed as not criminally responsible; the boards make non-binding recommendations to courts, which retain final release authority. H.B. 32, 2025 Reg. Sess. (Md. 2025), Chs. 115-116 (effective Oct. 1, 2025).
+
+Most states release insanity acquittees into the community under structured conditional release programs requiring mandatory treatment compliance, regular reporting, and the possibility of revocation for non-compliance.
+
+### Recidivism: The Data the Guilty-But-Mentally-Ill Debate Ignores
+
+The recidivism data consistently favors the insanity-acquittee population. An Oregon longitudinal study tracking 238 insanity acquittees on conditional release found that only one (0.4%) committed a new criminal offense --- a nonviolent one --- over a follow-up period of four to nine years. Technical revocation rates, reflecting missed appointments or failed drug tests rather than new criminal conduct, were considerably higher at 33.6%. Vitacco et al., *Reconsidering Risk Assessment with Insanity Acquittees*, 42 Law & Hum. Behav. 403 (2018).
+
+By contrast, mentally ill individuals released from prison without structured supervision show substantially higher recidivism rates, with studies reporting rearrest rates of 41--64% within comparable follow-up periods. The disparity is striking and cuts directly against the rationale for the "guilty but mentally ill" verdict as an option. Insanity acquittees, who receive treatment-focused commitment followed by supervised conditional release, reoffend at dramatically lower rates than "guilty but mentally ill" defendants, who are sentenced to prison with the frequently unmet promise of mental health treatment during incarceration. A 1985 Department of Justice study found that "guilty but mentally ill" offenders received stiffer sentences than standard guilty defendants and no better access to treatment. More recent state-level data confirms the pattern: a study comparing female "guilty but mentally ill" prisoners to other mentally ill female prisoners in Michigan found no significant difference in treatment time on acute psychiatric units or in disciplinary tickets for violence. Yedishtra Naidoo et al., *Comparing GBMI and Non-GBMI Female Prisoners in Michigan*, 46 J. Am. Acad. Psychiatry & L. 480 (2018).
+
+These numbers complicate the standard legislative narrative. The "guilty but mentally ill" verdict was designed to reassure the public that mentally ill defendants would receive treatment without the perceived risks of a full acquittal. The empirical record suggests it achieves neither goal: it provides less treatment than insanity-acquittal commitment and produces worse public-safety outcomes than post-acquittal conditional release.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Thirteen states offer a "guilty but mentally ill" verdict that acknowledges mental illness without granting acquittal. The empirical data presented above tells a consistent story: insanity acquittees on conditional release reoffend at strikingly low rates --- only one of 238 acquittees in the Oregon study committed a new criminal offense over four to nine years --- while mentally ill prisoners released without structured supervision are rearrested at rates of 41--64%. Does this data change your assessment of the "guilty but mentally ill" verdict as an option? Is it a meaningful compromise, or does it give juries a way to avoid the harder question of whether a defendant was truly responsible --- while producing worse outcomes for both defendants and public safety?
+:::

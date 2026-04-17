@@ -1,0 +1,289 @@
+# Public Welfare Offenses
+
+The doctrine of "public welfare offenses" begins, improbably, with milk. In the late nineteenth and early twentieth centuries, milk was a vehicle of mass death. Typhoid fever, scarlet fever, diphtheria, tuberculosis — all traveled through the dairy supply, and children bore the heaviest toll. In the 1840s, half of all children born in New York City died before reaching age five. By 1891, [24 percent of babies born in the city still died before their first birthday](https://www.philanthropyroundtable.org/almanac/millions-of-lives-saved-by-pasteurized-milk/){.cite}.
+
+Consider the New York "swill milk" scandal of the 1850s — an episode whose grotesque particulars read like regulatory fiction but are thoroughly documented. Distillers in Manhattan and Brooklyn had constructed enormous cow sheds, housing thousands of animals, and fed them nothing but spent distillery mash. The cows sickened rapidly: ulcerated sores covered their bodies, their teeth rotted and fell out, they lost hooves and tails. When cows became too weak to stand, they were hoisted upright by ropes and milked until they died. The resulting product was thin, bluish, and watery, so dairies [adulterated it with chalk, plaster of Paris, starch, flour, and molasses](https://en.wikipedia.org/wiki/Swill_milk_scandal){.cite}, then sold it from wagons painted "Pure Country Milk." The *New York Times* estimated that [8,000 infants per year died from contaminated milk](https://bigthink.com/the-past/swill-milk-scandal/){.cite} in New York City alone.
+
+Then science came to the rescue. Or it tried to. Louis Pasteur developed his heating process in 1864. Franz von Soxhlet proposed applying it to milk in 1886. By the early 1900s the question was settled. Pasteurization was cheap, effective, and for decades the dairy industry fought it anyway. Industry representatives complained about cost, claimed the process gave milk an unpleasant "cooked" taste, argued it destroyed beneficial nutrients and enzymes, invoked the consumer's supposed preference for "fresh" milk. None of it was true, but the resistance had real impact.
+
+One frustrated advocate showed what could be done. After two of his own children died (and a cow on his family farm was discovered to have tuberculosis), Nathan Straus, co-owner of Macy's department store, funded a pasteurized milk laboratory. In 1893 he opened his first milk depot on the Lower East Side, selling pasteurized milk for pennies and giving it free to those who could not pay. The numbers were staggering. [Of 20,111 children fed pasteurized milk from Straus's stations over a four-year period, only six died](https://www.philanthropyroundtable.org/almanac/millions-of-lives-saved-by-pasteurized-milk/){.cite}, in a city where the background infant mortality rate was 24 percent. At the New York Infant Asylum on Randall's Island, where the death rate for infants was 44 percent in 1897, Straus cut the rate by more than half simply by pasteurizing the milk from the same cows.
+
+Unfortunately, industry resistance outlasted the evidence by generations. Chicago enacted the first pasteurization mandate in 1908. New York City followed in 1912. Michigan became the first state with statewide mandatory pasteurization only in 1947. Federal restrictions on interstate sale of unpasteurized milk did not arrive until 1987, more than a century after the science was settled.
+
+What could consumers do? The information asymmetry between producers and consumers was total: contaminated milk could look, smell, and taste identical to safe milk. Adult consumers could not test the milk themselves and the consumers most at risk, infants and young children, had no capacity to make choices at all. Producers at every point in the supply chain possessed information the consumer did not, and at every point a simple, inexpensive intervention could eliminate the danger. But proving that any particular seller *knew* the milk was contaminated was functionally impossible in a multi-party chain where contamination could enter at the cow, the milker, the transport, the dilution water, or the delivery. The traditional criminal law, with its insistence on a guilty mind, was helpless.
+
+So legislatures dispensed with the knowledge requirement altogether. Under the new pasteurization mandates and sanitation rules, anyone who sold unpasteurized milk for public consumption committed a crime, full stop, regardless of whether they knew the milk was contaminated. The effect rippled out through the supply chain: no grocer would buy from a dairy that could not demonstrate compliance, so producers and their distributors had to implement pasteurization and prove it. Criminal liability without any requirement of negligence, let alone intent, became the engine of prevention.
+
+A study by [Anderson, Charles, McKelligott, and Rees](https://www.nber.org/papers/w30063){.cite} found that the hiring of milk inspectors in 35 major American cities between 1880 and 1910 was associated with an 11-14 percent reduction in deaths from diarrheal diseases and typhoid after five years, and an 18-32 percent reduction after ten years. The combination of strict liability, inspection infrastructure, and pasteurization mandates is estimated to have [saved over 400,000 children's lives](https://www.philanthropyroundtable.org/almanac/millions-of-lives-saved-by-pasteurized-milk/){.cite} in New York City alone.
+
+And so milk regulation became the template: strict criminal liability backed by enforcement infrastructure, with relatively modest penalties, could save lives. The rest of this chapter asks how that model has developed since.
+
+## The Doctrinal Framework
+
+::: {.callout-note}
+## Model Penal Code § 2.05—When Culpability Requirements Are Inapplicable
+
+(1) The requirements of culpability prescribed by Sections 2.01 and 2.02 do not apply to:
+
+(a) offenses that constitute violations, unless the requirement involved is included in the definition of the offense or the Court determines that its application is consistent with effective enforcement of the law defining the offense; or
+
+(b) offenses defined by statutes other than the Code, insofar as a legislative purpose to impose absolute liability for such offenses or with respect to any material element thereof plainly appears.
+
+(2) Notwithstanding any other provision of existing law and unless a subsequent statute otherwise provides:
+
+(a) when absolute liability is imposed with respect to any material element of an offense defined by a statute other than the Code and a conviction is based upon such liability, the offense constitutes a violation; and
+
+(b) although absolute liability is imposed by law with respect to one or more of the material elements of an offense defined by a statute other than the Code, the culpable commission of the offense may be charged and proved, in which event negligence with respect to such elements constitutes sufficient culpability and the classification of the offense and the sentence that may be imposed therefor upon conviction are determined by Section 1.04 and Article 6 of the Code.
+:::
+
+The Model Penal Code's position is restrained. It generally confines "absolute liability" (another term for "strict liability") to minor offenses punishable by fines rather than imprisonment. The drafters believed, and the history of such offenses across the states confirmed, that serious criminal punishment should be reserved for those who act with culpable mental states.
+
+Yet public welfare doctrine has persisted in federal law as a tool for combating conduct that is both demonstrably dangerous and otherwise difficult to curb. The Supreme Court's canonical account of the doctrine came in *Morissette v. United States* (1952). The case itself required proof of a culpable mental state for the crime at issue. But Justice Jackson's opinion — characteristically elegant — provided the definitive statement of when and why legislatures may dispense with the guilty-mind requirement:
+
+::: {.callout-note}
+## *Morissette v. United States*, 342 U.S. 246 (1952) (excerpt)
+
+The contention that an injury can amount to a crime only when inflicted by intention is no provincial or transient notion. It is as universal and persistent in mature systems of law as belief in freedom of the human will and a consequent ability and duty of the normal individual to choose between good and evil. [...]
+
+The industrial revolution multiplied the number of workmen exposed to injury from increasingly powerful and complex mechanisms, driven by freshly discovered sources of energy, requiring higher precautions by employers. Traffic of velocities, volumes and varieties unheard of came to subject the wayfarer to intolerable casualty risks if owners and drivers were not to observe new cares and uniformities of conduct. Congestion of cities and crowding of quarters called for health and welfare regulations undreamed of in simpler times. Wide distribution of goods became an instrument of wide distribution of harm when those who dispersed food, drink, drugs, and even securities, did not comply with reasonable standards of quality, integrity, disclosure and care. Such dangers have engendered increasingly numerous and detailed regulations which heighten the duties of those in control of particular industries, trades, properties or activities that affect public health, safety or welfare.
+
+While many of these duties are sanctioned by a more strict civil liability, lawmakers, whether wisely or not, have sought to make such regulations more effective by invoking criminal sanctions to be applied by the familiar technique of criminal prosecutions and convictions. [...]
+
+While such offenses do not threaten the security of the state in the manner of treason, they may be regarded as offenses against its authority, for their occurrence impairs the efficiency of controls deemed essential to the social order as presently constituted. In this respect, whatever the intent of the violator, the injury is the same, and the consequences are injurious or not according to fortuity. Hence, legislation applicable to such offenses, as a matter of policy, does not specify intent as a necessary element. The accused, if he does not will the violation, usually is in a position to prevent it with no more care than society might reasonably expect and no more exertion than it might reasonably exact from one who assumed his responsibilities. Also, penalties commonly are relatively small, and conviction does not grave damage to an offender's reputation. Under such considerations, courts have turned to construing statutes and regulations which make no mention of intent as dispensing with it and holding that the guilty act alone makes out the crime.
+:::
+
+From Jackson's opinion, four characteristics emerge that distinguish public welfare offenses from traditional crimes:
+
+1. *Regulatory purpose*: The statute aims at "social betterment" rather than punishing inherently wrongful conduct.
+2. *Dangerous items or activities*: The defendant deals with something that puts them on notice of likely regulation.
+3. *Capacity to prevent harm*: The defendant is in a position to take precautions.
+4. *Minor penalties*: Conviction does not result in severe punishment or serious reputational harm.
+
+These four factors reward a second reading — this time through the lens of information asymmetry. Factor 1 identifies systemic harms whose causes are invisible to individual victims: a consumer cannot trace her illness to a particular canner's unsanitary production line. Factor 2 identifies items whose danger is concealed within them: the adulterated food looks and tastes normal. Factor 3 names the information gap directly: the manufacturer knows, or should know, what the consumer cannot. And Factor 4 constrains the tradeoff. If the state is going to punish people who did not intend harm, it will punish them lightly.
+
+But how strictly do courts apply these criteria?
+
+## The Dangerous Items Heuristic
+
+The foundational case arose out of early narcotics regulation. The Harrison Narcotics Tax Act of 1914 regulated the production, importation, and distribution of opiates and coca products through a framework of taxation and record-keeping. Anyone selling such substances was required to do so only pursuant to written order forms issued by the Commissioner of Internal Revenue. The statute was silent on whether the seller needed to know the substances were narcotics. But the penalties were not modest: Section 9 provided that any person who violated or failed to comply with any requirement of the Act could be "fined not more than $2,000 or be imprisoned not more than five years, or both, in the discretion of the court." The same penalty applied to every violation (failure to register, sale without order forms, unlawful possession) with no grading by mental state or severity of conduct. Five years' imprisonment for a regulatory offense was far beyond the minor sanctions that *Morissette* would later identify as characteristic of public welfare offenses. From the very inception of the doctrine, the regulatory bargain was already being stretched. When Balint and a co-defendant were indicted for selling opium and coca derivatives without the required paperwork, they demurred, arguing the indictment was defective because it failed to allege they *knew* the substances were prohibited drugs. The district court agreed and quashed the indictment. The government appealed directly to the Supreme Court.
+
+::: {.callout-note}
+## *United States v. Balint*, 258 U.S. 250 (1922) (excerpt)
+
+**Chief Justice TAFT delivered the opinion of the Court.**
+
+While the general rule at common law was that the *scienter* was a necessary element in the indictment and proof of every crime [...] there has been a modification of this view in respect to prosecutions under statutes the purpose of which would be obstructed by such a requirement. [...]
+
+It has been objected that punishment of a person for an act in violation of law when ignorant of the facts making it so is an absence of due process of law. But that objection is considered and overruled [...] in which it was held that, in the prohibition or punishment of particular acts, the state may, in the maintenance of a public policy, provide "that he who shall do them shall do them at his peril, and will not be heard to plead in defense good faith or ignorance."
+
+Many instances of this are to be found in regulatory measures in the exercise of what is called the police power where the emphasis of the statute is evidently upon achievement of some social betterment rather than the punishment of the crimes as in cases of *mala in se*. [...] [W]here one deals with others and his mere negligence may be dangerous to them, as in selling diseased food or poison, the policy of the law may, in order to stimulate proper care, require the punishment of the negligent person though he be ignorant of the noxious character of what he sells. [...]
+
+[The statute's] manifest purpose is to require every person dealing in drugs to ascertain at his peril whether that which he sells comes within the inhibition of the statute, and if he sells the inhibited drug in ignorance of its character, to penalize him. Congress weighed the possible injustice of subjecting an innocent seller to a penalty against the evil of exposing innocent purchasers to danger from the drug, and concluded that the latter was the result preferably to be avoided.
+:::
+
+The vote was 8-0. *Balint*'s reasoning turned on the nature of the items involved. Narcotics are inherently dangerous; anyone trafficking in such substances should know they are likely regulated; the dealer must "ascertain at his peril" whether his conduct violates the law. The due process objection (that it is fundamentally unfair to punish someone who did not know what he was selling) yielded to the legislative judgment that the danger to purchasers outweighed the possible injustice to an ignorant seller. Congress had weighed one kind of innocence against another and chosen.
+
+But does this logic extend to all regulated items? The question surfaced seven decades later in a case involving a modified rifle. During a search of Harold Staples's home, police and ATF agents recovered an AR-15. Examination revealed that its metal stop had been filed away and the rifle had been assembled with an M-16 selector switch and several other M-16 internal parts, including a hammer, disconnector, and trigger. When tested, the weapon fired more than one shot with a single pull of the trigger — making it a "machinegun" under the National Firearms Act, possession of which requires federal registration. Staples was not registered. He testified that the rifle had never fired automatically while in his possession and even operated imperfectly in semiautomatic mode, often requiring him to manually eject spent casings and chamber the next round. He asked the trial court to instruct the jury that the government had to prove he knew the weapon could fire automatically. The court refused. He was convicted and faced up to ten years in prison.
+
+::: {.callout-note}
+## *Staples v. United States*, 511 U.S. 600 (1994) (excerpt)
+
+**Justice THOMAS delivered the opinion of the Court.**
+
+[The Government argues] all guns, whether or not they are statutory "firearms," are dangerous devices that put gun owners on notice that they must determine at their hazard whether their weapons come within the scope of the Act. [...]
+
+[But we] have taken care to avoid construing a statute to dispense with *mens rea* where doing so would "criminalize a broad range of apparently innocent conduct." [...] [T]here is a long tradition of widespread lawful gun ownership by private individuals in this country. Such a tradition did not apply to the possession of hand grenades in *Freed* or to the selling of dangerous drugs that we considered in *Balint*. [...]
+
+Guns in general are not "deleterious devices or products or obnoxious waste materials" that put their owners on notice that they stand "in responsible relation to a public danger." [...]
+
+The potentially harsh penalty attached to violation of § 5861(d)—up to 10 years' imprisonment—confirms our reading of the Act. Historically, the penalty imposed under a statute has been a significant consideration in determining whether the statute should be construed as dispensing with *mens rea*.
+
+**Justice STEVENS, with whom Justice BLACKMUN joins, dissenting.**
+
+[T]he National Firearms Act [...] is a public welfare statute [...] designed to regulate "dangerous or deleterious devices or products." [...] [A] semiautomatic weapon that was readily convertible into a machinegun [is precisely the type of item that puts its possessor on notice of likely regulation]. [...] [A] substantial percentage of the unregistered machineguns now in circulation are converted semiautomatic weapons. [...]
+
+[A] defendant can be convicted even though he was unaware of the circumstances of his conduct that made it illegal. [...] [I]t is enough that [the defendant] knew [he possessed] a dangerous device of a type as would alert one to the likelihood of regulation.
+:::
+
+The decision was 7-2. Justice Ginsburg, joined by Justice O'Connor, concurred in the judgment but wrote separately to specify what knowledge the statute requires: that the defendant knew he possessed a *machinegun* specifically, not merely a firearm. Stevens's dissent pressed a different theory. AR-15s — semiautomatic weapons readily convertible to automatic fire — are precisely the kind of dangerous items that should put owners on notice of regulation, he argued, and a substantial percentage of unregistered machineguns in circulation are in fact converted semiautomatic weapons. For Stevens, the majority's invocation of "a long tradition of widespread lawful gun ownership" was doing normative work, not describing dangerousness but expressing a cultural judgment about which items Americans should be expected to possess without suspicion.
+
+What *Staples* established was a boundary. Hand grenades and narcotics are so obviously dangerous that possessors are on notice of regulation. Ordinary firearms are not: millions of Americans own guns lawfully, and possession alone does not signal criminality. The Court reinforced this line with the severity of the penalty — ten years' imprisonment is inconsistent with the modest sanctions traditionally associated with public welfare offenses. But the dissenters left a question hanging that the majority never quite answered: Is the "innocent ownership" tradition a factual observation about American life, or a normative choice about which dangers the criminal law should not police without proof of intent?
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. *Hypothetical.* A company sells capsules containing a botanical extract that the FDA classifies as an unapproved drug. The owner genuinely believed the product was a dietary supplement, not a drug. Under *Balint* and *Staples*, must the government prove the owner knew the FDA's classification? Which of the four *Morissette* factors support treating this as a public welfare offense?
+
+2. *Hypothetical.* Suppose a state statute criminalizes possession of certain synthetic chemicals without a license. The offense is strict liability and carries a five-year prison sentence. A college chemistry student is found with the chemicals in a university laboratory, where they are used routinely in coursework. Under *Staples*, what arguments support requiring proof that the student knew the chemicals were regulated? Consider *Morissette* factors 3 (widespread innocent use) and 4 (severity of penalty).
+
+3. The defendant in *Staples* possessed a rifle that had been modified to fire automatically. He claimed not to know about the modification. Should it matter that he chose to acquire a weapon *capable* of such modification? Does the *Balint* principle — that dealing in dangerous items puts one on notice of regulation — extend to items that are one step removed from the regulated category?
+
+4. *Hypothetical.* Apply the four *Morissette* factors to the following fictional statute: a federal law makes it a misdemeanor (punishable by up to 60 days in jail) to sell a consumer drone without FAA registration. A hobbyist sells a used drone at a garage sale without registering the transaction. Which factors favor strict liability? Which cut against it?
+:::
+
+The categories of items that "obviously" warrant strict liability and those that "obviously" do not may be less stable than the *Staples* majority suggested. Justice Stevens's dissent pressed the point that these categories are shaped by political power, cultural attitude, and historical accident as much as by any neutral assessment of danger — though the majority would frame the "widespread innocent use" tradition as an independent constitutional constraint on strict liability. Hand grenades and heroin fall on one side of the line; rifles and automobiles on the other. Both kill. The operative question is not whether these items *are* dangerous but whether their danger-to-utility ratio is so high and self-evident that possessors can be charged with notice of likely regulation. The next section shows how the dairy industry managed to place a competitor's perfectly safe product on the "dangerous" side of that line and keep it there for fifty years.
+
+## Milk and Constitutional Law
+
+In 1923, Congress passed the Filled Milk Act, making it a federal crime to ship "filled milk," skim milk mixed with vegetable fats such as coconut oil, in interstate commerce. The statute declared filled milk "injurious to the public health" and "a fraud upon the public." Violation carried up to one year in prison and a $1,000 fine. On its face, the Act had every appearance of a straightforward public welfare statute: Congress identified a dangerous product and imposed strict criminal liability on anyone who shipped it.
+
+Except filled milk's main problem was not that it was dangerous, but rather that it was cheap. The dairy industry had lobbied for the statute, claiming that coconut-oil milk harmed consumers, but in truth the motivation was that it undercut the price of cow milk. Congressional testimony during the hearings acknowledged as much: witnesses conceded the product was nutritious and safe. But the dairy lobby was powerful, filled milk producers were not, and the Act passed with little opposition.
+
+Fifteen years later, the Carolene Products Company challenged its conviction for the production of [*Milnut*](https://www.milnot.com/history){.cite} under the Act on due process grounds. In [*United States v. Carolene Products Co.*, 304 U.S. 144 (1938)](https://supreme.justia.com/cases/federal/us/304/144/){.cite}, Justice Harlan Fiske Stone upheld the statute under rational basis review. The opinion was brief and deferential: legislatures could reasonably conclude that filled milk deceived consumers who might mistake it for whole milk, and courts would not second-guess that judgment so long as the legislative finding had a rational basis. The conviction stood.
+
+Then Stone added a footnote. Footnote Four — widely described as the most consequential footnote in constitutional law — suggested that ordinary economic legislation deserved judicial deference, but that "more searching judicial inquiry" might be warranted in three situations: when legislation restricts the political process itself, when it targets "discrete and insular minorities," or when it appears on its face to violate a specific constitutional prohibition. From these three sentences grew the entire edifice of modern tiered scrutiny: rational basis review for economic regulation, intermediate scrutiny for quasi-suspect classifications, strict scrutiny for fundamental rights and suspect classes. The framework that governs modern equal protection and substantive due process was born in a case about milk.
+
+Charles Hauser, president of Carolene Products, spent the rest of his life fighting the Act. He personally drove truckloads of filled milk across state lines to provoke enforcement actions. He built a factory in Seneca, Missouri, deliberately straddling the Missouri-Oklahoma border in an attempt to avoid federal interstate commerce jurisdiction. The Supreme Court ruled against him again in [*Carolene Products Co. v. United States*, 323 U.S. 18 (1944)](https://supreme.justia.com/cases/federal/us/323/18/){.cite}. Hauser renamed his company Milnot and kept litigating. He finally prevailed in 1972, when a federal court in [*Milnot Co. v. Richardson*, 350 F. Supp. 221 (S.D. Ill. 1972)](https://law.justia.com/cases/federal/district-courts/FSupp/350/221/2005230/){.cite} ruled that the FDA could no longer enforce the Act's labeling restrictions against Milnot's product. But by then Hauser was, in the words of [one account](https://joshblackman.com/blog/2012/08/23/constitutional-faces-charles-hauser-president-of-milnot-defendant-in-united-states-v-carolene-products/){.cite}, "too feeble to understand" the victory he had spent his life pursuing. The dairy industry had achieved through half a century of criminal regulation what it could not achieve through market competition.
+
+The rational-basis framework that sustains public welfare criminal statutes against constitutional challenge — the very framework that permits legislatures to impose strict criminal liability for regulatory purposes — was established in a case where the "public welfare" rationale was pretextual. The Filled Milk Act was not protecting consumers from a dangerous product. It was protecting the dairy industry from a cheaper competitor. The same legal architecture designed to safeguard the public can be captured by the industries it purports to regulate. And once captured, it is difficult to dislodge.
+
+That architecture is now under direct challenge. In [*Loper Bright Enterprises v. Raimondo*, 603 U.S. 369 (2024)](https://supreme.justia.com/cases/federal/us/603/22-451/){.cite}, the Supreme Court overruled *Chevron* deference, eliminating the judicial deference agencies had long received when interpreting their own enabling statutes. The raw milk movement — which seeks to legalize the sale of unpasteurized milk — has aligned itself with the broader coalition challenging administrative-state authority after *Loper Bright*.
+
+And so we come full circle. In the nineteenth century, the milk industry fought strict liability despite the clear threat to public health. In the 1920s, the dairy industry supported strict criminal liability to suppress a competitor's product. Today, an industry seeks to dismantle the regulatory framework that strict liability depends on.
+
+## Corporate Officers and the *Park* Doctrine
+
+When a corporation violates food safety or drug regulations, who goes to prison? The worker who shipped the contaminated product? The supervisor who failed to catch it? The CEO who never knew?
+
+In [*United States v. Dotterweich*](https://supreme.justia.com/cases/federal/us/320/277/){.cite} (1943), the Supreme Court held that the Federal Food, Drug, and Cosmetic Act could reach corporate officers who stood in "responsible relation" to violations, even without proof of personal knowledge or involvement. Justice Frankfurter's formulation was characteristically lapidary: the Act "puts the burden of acting at hazard upon a person otherwise innocent but standing in responsible relation to a public danger."
+
+Three decades later, the Court elaborated this "responsible corporate officer" doctrine in *United States v. Park*:
+
+::: {.callout-note}
+## *United States v. Park*, 421 U.S. 658 (1975) (excerpt)
+
+**Mr. Chief Justice BURGER delivered the opinion of the Court.**
+
+Acme Markets, Inc., is a national retail food chain with approximately 36,000 employees, 874 retail outlets, 12 general warehouses, and four special warehouses. [...] Respondent Park was president of Acme. [...] [T]he Food and Drug Administration (FDA) received information [...] that an Acme warehouse had problems with rodent infestation. [...]
+
+Park acknowledged that as Acme's chief executive officer he was responsible for the entire operation of the company, including sanitation, but testified that he had divided this responsibility among subordinate officials. Park had received the FDA letter, but delegated responsibility for correcting the violations to the division vice president. [...]
+
+The [FDCA] does not, as we observed in *Dotterweich*, make criminal liability turn on "awareness of some wrongdoing" or "conscious fraud." The duty imposed by Congress on responsible corporate agents is, we emphasize, one that requires the highest standard of foresight and vigilance. [...]
+
+The Act imposes not only a positive duty to seek out and remedy violations when they occur but also, and primarily, a duty to implement measures that will insure that violations will not occur. The requirements of foresight and vigilance imposed on responsible corporate agents are beyond question demanding, and perhaps onerous, but they are no more stringent than the public has a right to expect of those who voluntarily assume positions of authority in business enterprises whose services and products affect the health and well-being of the public that supports them.
+:::
+
+Park was fined $250. The doctrine that bears his name, however, has occasionally been put to more serious use. In [*United States v. DeCoster*](https://www.courtlistener.com/opinion/4236031/united-states-v-austin-decoster/){.cite} (8th Cir. 2016), two executives of Quality Egg were sentenced to three months' imprisonment after a salmonella outbreak sickened approximately 56,000 people. The executives challenged their sentences as unconstitutional, arguing that imprisonment for a strict liability offense violates due process:
+
+::: {.callout-note}
+## *United States v. DeCoster*, 828 F.3d 626 (8th Cir. 2016) (excerpt)
+
+Austin "Jack" DeCoster and Peter DeCoster [...] pleaded guilty as responsible corporate officers to misdemeanor violations of 21 U.S.C. § 331(a) for introducing eggs that had been adulterated with salmonella enteritidis into interstate commerce. The district court sentenced each of them to three months of imprisonment. [...]
+
+The DeCosters argue that their prison sentences violate the Due Process Clause because they were convicted of a strict liability offense without a showing of *mens rea*. [...] We disagree. The FDCA explicitly provides for a penalty of up to one year of imprisonment for a misdemeanor violation. [...] The Supreme Court in *Park* acknowledged that the statute authorized imprisonment, and it did not suggest that such a penalty would be unconstitutional.
+
+Furthermore, the DeCosters' convictions were not based on "pure" strict liability. As the district court found, the DeCosters were negligent in failing to prevent the salmonella outbreak. They were aware of the risks and the unsanitary conditions but failed to take effective action. The "responsible corporate officer" doctrine requires a showing that the defendant had a "responsible relation" to the violation and the power to prevent it. This implies a degree of blameworthiness.
+:::
+
+Compare DeCoster with [Stewart Parnell](https://www.justice.gov/archives/opa/pr/former-peanut-company-president-receives-largest-criminal-sentence-food-safety-case-two){.cite}, who ran the Peanut Corporation of America. Parnell's company shipped salmonella-contaminated peanut products that killed nine people and sickened 714. He received twenty-eight years in federal prison — one of the longest sentences ever imposed for a food safety crime. The difference lay entirely in the proof available. Prosecutors established that Parnell knowingly falsified lab results, fabricated certificates of analysis, and shipped products he knew were contaminated. His conviction rested on fraud, conspiracy, and obstruction, general criminal statutes requiring proof of *mens rea*. Three months for sickening 56,000 under strict liability. Twenty-eight years for killing nine under statutes requiring proof of knowledge. The determining variable was not the magnitude of harm but whether prosecutors could establish the defendant's mental state. Under the strict liability framework, the maximum available sanction is a misdemeanor.
+
+The enforcement data confirm this pattern at scale. Before it was dissolved in September 2025, the DOJ Consumer Protection Branch had used the *Park* doctrine to seek imprisonment [roughly thirteen times since 2000](https://pubmed.ncbi.nlm.nih.gov/36121676/){.cite}. The enforcement pyramid has become increasingly tapered. At its base: tens of millions of traffic citations, over a million DUI arrests, roughly 900,000 drug possession arrests directed overwhelmingly at individuals. At its apex: near-zero prosecutions of corporate officers whose decisions shape whether thousands of people are exposed to contaminated food, unsafe workplaces, or toxic environments. The *Park* doctrine authorizes imprisonment for responsible corporate officers, but in practice, it is a doctrine honored almost entirely in the breach.
+
+Park was fined $250 for a rodent-infested warehouse. The DeCoster family's Quality Egg operation paid $6.8 million in criminal fines and penalties. Purdue Pharma paid $600 million in 2007 and continued selling OxyContin, generating billions more in revenue before a second, larger settlement in 2020. Measured against the revenue the conduct generated, these amounts represent a fraction of the profits involved. As Bentham made clear, a rational actor facing a fine smaller than the profit from prohibited conduct has a financial incentive to continue the conduct and pay the fine, treating it more like a criminal licensing fee than a bar on the conduct.
+
+Now compare these corporate outcomes to the treatment of individuals for minor regulatory violations. Samantha Booten spent two cumulative years in Arkansas jails for a seatbelt violation that escalated through warrant stacking. David Stojcevski died sixteen days into a thirty-day jail sentence for a $772 careless driving fine. And, of course, at this point in the semester you will recall Keilee Fant's experience.
+
+The Purdue Pharma case from the introductory chapter reinforces this pattern. Prosecutors used the *Park* doctrine to charge three Purdue executives with "misbranding," the same strict liability misdemeanor framework described above. The result: 400 hours of community service and probation. No imprisonment. No admission of knowledge. The doctrinal explanation is straightforward: strict liability under the *Park* doctrine, applied at its statutory ceiling, yields misdemeanor convictions and correspondingly limited sanctions.
+
+The Supreme Court's 2019 decision in [*Rehaif v. United States*](https://supreme.justia.com/cases/federal/us/588/17-9560/){.cite} provides something close to a natural experiment on the distributional consequences of *mens rea* requirements. Before *Rehaif*, federal law made it a crime for a felon to possess a firearm, and prosecutors did not need to prove the defendant knew he was a prohibited person. After *Rehaif*, the Court held the government must prove the defendant knew he belonged to a prohibited category. Researchers [estimated](https://wlr.law.wisc.edu/wp-content/uploads/sites/1263/2023/04/F_16-Serota-Camera-Ready-287%E2%80%93344-PDF-.pdf){.cite} this single doctrinal change prevented approximately 2,365 convictions and 8,419 years of imprisonment in just eight months. The population affected was overwhelmingly poor and disproportionately Black men. Adding a knowledge requirement to one offense produced a massive reduction in incarceration of individuals.
+
+By contrast, removing the knowledge requirement for corporate officers — the *Park* doctrine — produced thirteen imprisonments in twenty-five years.
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. Park delegated responsibility for warehouse sanitation to a subordinate and relied on a system of oversight. Why isn't this a defense? What more could Park have done?
+
+2. *Hypothetical.* A plant manager at a food processing facility receives weekly safety inspection reports by email but never opens them. One report documented *Listeria* contamination on multiple production surfaces. Two months later, an outbreak kills two consumers. Under *Park*, is the plant manager a "responsible corporate officer"? Does it matter that she never read the reports? How does *Park*'s requirement of "foresight and vigilance" apply to willful ignorance of known reporting systems?
+
+3. In *DeCoster*, the egg facility tested positive for *Salmonella* on 54 of 198 environmental swabs. The court described the conviction as "not pure strict liability." If the DeCosters knew about pervasive contamination and continued shipping eggs, what additional charge could prosecutors have brought? How would proving knowledge change the available sentence?
+
+4. The *Rehaif* decision added a knowledge requirement to one firearms offense and prevented approximately 2,365 convictions and 8,419 years of imprisonment in eight months. The *Park* doctrine removed the knowledge requirement for corporate officers and produced roughly thirteen imprisonments in twenty-five years. What structural features of criminal enforcement — resources, political incentives, prosecutorial discretion — might explain this asymmetry?
+:::
+
+## Contemporary Applications
+
+The tension between regulatory enforcement and the traditional requirement of a guilty mind continues to generate litigation, and it shows no sign of resolution. Three contemporary contexts bring the ongoing debate into sharp relief.
+
+### Ghost Guns and *Bondi v. VanDerStok*
+
+Technology has a way of outrunning the categories that law imposes on the world. "Ghost guns" — firearms assembled from parts kits or produced with 3D printers — lack serial numbers and can be acquired without background checks. In 2022, the Bureau of Alcohol, Tobacco, Firearms and Explosives issued a rule classifying certain weapons parts kits as "firearms" subject to regulation under the Gun Control Act.
+
+Manufacturers challenged the rule, arguing that unassembled parts are not "firearms" within the statutory definition. The Fifth Circuit agreed. The Supreme Court reversed in *Bondi v. VanDerStok* (2025):
+
+::: {.callout-note}
+## *Bondi v. VanDerStok*, 604 U.S. 458 (2025) (excerpt)
+
+**Justice GORSUCH delivered the opinion of the Court.**
+
+[R]espondents contend that the ATF exceeded its statutory authority by classifying certain weapons parts kits and partially complete frames or receivers as "firearms" under the Gun Control Act. [...]
+
+[W]e hold that the ATF's rule is not facially inconsistent with the GCA. [...] [N]either the rule of lenity nor constitutional avoidance applies where, as here, the statute's text, context, and structure make clear it reaches some weapon parts kits and unfinished frames or receivers. [...]
+
+Respondents' reading would create an obvious loophole. Companies could sell what are functionally firearms—products designed and marketed to be assembled into working weapons with minimal effort—while evading all federal regulation simply by shipping them in two boxes instead of one.
+:::
+
+The 7-2 decision affirmed ATF's authority to regulate ghost guns. The holding is significant for what it clarifies about the limits of *Staples*: solicitude for gun owners does not disable all firearms regulation. When Congress has authorized agency rulemaking and the agency acts within statutory bounds, courts will uphold the result — even in an area where the tradition of private ownership runs deep.
+
+### Raw Milk and the Persistence of Strict Liability
+
+And so we return to milk. The original context of public welfare offenses — milk safety — has re-entered public debate with unexpected force. A growing movement advocates for the sale of unpasteurized "raw" milk, which proponents claim possesses health benefits destroyed by pasteurization. Critics, including public health officials, warn that raw milk can harbor dangerous pathogens including *Salmonella*, *E. coli*, and *Listeria*.
+
+::: {.callout-note}
+## In the News: Raw Milk, Bird Flu, and the Limits of Consumer Choice
+
+In December 2024, California health officials linked a bird flu outbreak to raw milk from a dairy in Fresno County. The H5N1 virus, which had been spreading through U.S. cattle herds, was detected in raw milk products sold by Raw Farm LLC, one of the nation's largest raw milk producers. Officials urged consumers to discard the products, though no human infections were confirmed.
+
+The outbreak intensified an ongoing debate. Raw milk advocates argue that consumers should be free to choose what they eat, and that pasteurization destroys beneficial enzymes and bacteria. Public health officials counter that pasteurization is one of the most important food safety innovations in history, preventing countless cases of foodborne illness.
+
+The legal landscape varies dramatically by state. Some states ban raw milk sales entirely; others allow sales at farms or through "herdshare" arrangements; still others permit retail sale. Federal law prohibits interstate sale of raw milk for human consumption.
+
+When outbreaks occur, prosecutors sometimes charge farmers under state food safety laws—typically strict liability offenses that do not require proof the farmer knew the milk was contaminated. Defenders of raw milk farmers argue this is unfair: a farmer who takes reasonable precautions and whose milk tests clean may still face criminal liability if contamination occurs after testing. Critics respond that this is precisely the point of strict liability—to ensure that those who profit from selling potentially dangerous products bear the risk of harm.
+:::
+
+The enforcement record over the last twenty years tells a story about the limits of a doctrine shorn of institutional support. Johannes Vulto, a raw milk cheese maker in Walton, New York, pleaded guilty to one federal misdemeanor after a listeriosis outbreak caused eight hospitalizations and two deaths. Environmental swabs at his facility had tested positive for *Listeria* on 54 of 198 occasions over two and a half years. Vulto admitted he ["lacked the knowledge and understanding"](https://www.foodsafetynews.com/2018/04/vulto-creamery-shut-down-because-owner-did-not-understand/){.cite} of food safety protocols. His [sentence](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/doj-press-releases-involving-fda-oci/former-new-york-cheese-producer-sentenced-selling-raw-milk-cheese-products-linked-listeria-outbreak){.cite}: three years' probation, a $100,000 fine, 240 hours of community service, and no jail. The maximum available was one year.
+
+Where serious penalties have been imposed in raw milk cases, the basis has been fraud, not food safety. When nine government agencies raided the Rawesome Foods club in Venice, California in 2011 — deploying paid informants, undercover investigators, and secret pole cameras — the operation was framed as food safety enforcement. But the food safety charges largely collapsed in court. The only substantial sentence came from a separate fraud prosecution: James Stewart served 217 days for securities violations, not for selling raw milk. The strict liability food safety charges against his co-defendants drew fines of $100 and $1,300. One defendant [observed](https://www.farmtoconsumer.org/blog/2012/10/18/raw-deal-in-los-angeles/){.cite} that prosecutors used conspiracy charges to convert food safety misdemeanors into felonies — "landing our case in criminal court, on a par, legally speaking, with murders, drug deals, assaults" — but even that tactic failed when the cases went before a judge.
+
+When pure food safety charges reach a jury, the results expose a sympathy gap that strict liability was supposed to bridge. In Wisconsin, Vernon Hershberger — an Amish farmer who sold raw milk to a private food club — was acquitted on three of four charges. Three jurors wrote letters to the judge afterward. One [described](https://modernfarmer.com/2013/06/raw-milk-farmer-vernon-hershberger-attracts-new-healthy-food-adherentsfrom-his-jury/){.cite} it as "a juror revolt": "our three not guilty verdicts support the fact that [the Department of Agriculture] should never have issued a food holding order to Mr. Hershberger." The judge said it was "the first time in more than a dozen years on the bench" that jurors had contacted him seeking leniency for a defendant they had convicted. In Minnesota, a prosecutor [characterized](https://www.cornucopia.org/2013/02/with-straight-face-mn-prosecutor-argues-any-unregulated-food-a-controlled-substance-settlement-of-maine-food-sovereignty-case/){.cite} unregulated food delivered to a buying club as "a controlled substance," but a Minneapolis jury acquitted the defendant on all counts.
+
+The penalty ladder is instructive. Forty-eight deaths from contaminated cheese in 1985 produced sixty days in county jail. Two deaths from Vulto's creamery produced probation. One death linked to an Amish farm in Pennsylvania has produced no criminal charges at all — only civil consent decrees and a $250,000 contempt fine. The presiding judge [offered](https://www.witf.org/2024/03/01/why-doesnt-amos-miller-just-go-get-a-permit-lancaster-county-judge-asks-in-food-safety-case/){.cite} the farmer a simple path to compliance: apply for a state raw milk permit, joining Pennsylvania's 114 other licensed raw milk dairies. The farmer refused.
+
+The arguments against pasteurization in 2025 are, almost word for word, the arguments of the 1890s: that the process destroys beneficial properties, that consumers should choose for themselves, that the danger is overstated. What has changed is the political alignment: the raw milk movement now overlaps with the broader coalition challenging agency authority after *Loper Bright*. The core safety evidence on pasteurization has not changed (the pathogens it eliminates remain dangerous), but the political alignment has shifted considerably. Some advocates point to emerging microbiome research suggesting benefits of certain unpasteurized foods, though public health agencies continue to regard the pathogen risk as dispositive.
+
+### The Upper Big Branch Mine Disaster
+
+Don Blankenship was the CEO of Massey Energy, the fourth-largest coal producer in the United States, with a compensation and retirement package ultimately valued at more than $80 million. The Upper Big Branch mine in West Virginia, one of dozens Massey operated across Appalachia, received 1,342 safety citations in the five years before the explosion — nearly ten per week in 2009 alone. Federal investigators later discovered that the company maintained double bookkeeping: one set of records for mine safety inspectors, another for internal use. Massey operated an advance warning system to alert workers when inspectors arrived so that violations could be concealed. Employees who raised safety concerns were intimidated, reassigned, or fired. The pattern went beyond isolated supervisory failures: it was systemic, documented, and sustained over years.
+
+On April 5, 2010, a massive coal dust explosion ripped through the Upper Big Branch mine and killed twenty-nine miners — the worst U.S. mine disaster in forty years. The Mine Safety and Health Administration traced the cause to a confluence of failures: inadequate ventilation, broken and disabled safety equipment, and massive accumulations of combustible coal dust throughout the mine. Each of these conditions was a known and documented violation. Each was consistent with a corporate pattern of prioritizing production speed over regulatory compliance. The citation record could be read as evidence that the explosion was foreseeable — though Blankenship's defense argued that many citations were minor or disputed, and the jury's acquittal on the felony charges suggests at least some jurors found the evidence of deliberate disregard insufficient.
+
+Federal prosecutors indicted Blankenship in 2014 on charges including felony conspiracy to violate mine safety standards and securities fraud for lying to investors about Massey's safety record. The jury acquitted him of every felony charge. It convicted him of the lesser charge: misdemeanor conspiracy to willfully violate mine safety standards. The maximum sentence was one year in prison. The judge imposed it. The fine was $250,000, a fraction of Blankenship's compensation. He served his sentence and, less than two years after his release, ran for the United States Senate.
+
+The penalty structure across regulatory statutes is itself a kind of argument. Under the Federal Mine Safety and Health Act, a willful violation of a mandatory safety standard that causes a worker's death is a misdemeanor punishable by a maximum of one year in prison. The Occupational Safety and Health Act's parallel provision carries a maximum of six months. By contrast, the Clean Water Act authorizes up to fifteen years for a knowing endangerment violation, and the Clean Air Act matches it. A willful workplace safety violation that kills a human being is thus punished less severely, at the statutory maximum, than an environmental offense that does not involve a fatality. Whether this disparity reflects deliberate congressional judgment about relative harms, historical accident in the order statutes were enacted, the relative influence of affected industries during the legislative process, or some combination is worth considering.
+
+Prosecutors had evidence that Blankenship received daily production and safety reports, personally pressured mine managers to prioritize coal output over compliance, and oversaw a corporate system designed to conceal hazardous conditions from federal regulators. If he consciously disregarded a substantial and unjustifiable risk that miners would be killed — and the evidence at trial suggested he did — that meets the standard definition of recklessness. Why, then, were there no involuntary manslaughter charges? We will return to this question when we study *Commonwealth v. Welansky* and the law of involuntary manslaughter, where the criminal law reaches beyond regulatory misdemeanors to address the mental state that the evidence against Blankenship arguably demonstrated.
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. *Hypothetical.* A company sells a kit containing an unfinished frame, a slide, a barrel, and all other parts needed to assemble a working handgun, along with detailed instructions and jigs. The kits are marketed as "Build Your Own" firearms and are designed to be completed with minimal tools. Under *VanDerStok*'s reasoning — which rejected the argument that unassembled parts are not "firearms" — is this kit a regulated firearm? How does the Court's "two boxes" loophole analysis apply? What if the company splits the kit into two separate shipments?
+
+2. *Hypothetical.* A farmer sells raw milk at a roadside stand. A customer's child develops an *E. coli* infection. The farmer tested the milk that morning and the results were clean; contamination occurred after the test but before the sale. Under a strict liability food safety statute, is the farmer guilty? Would the result differ under a negligence standard? What does this hypothetical reveal about the gap between strict liability and fault-based liability in the food safety context?
+
+3. Using the four *Morissette* factors, evaluate whether a willful mine safety violation — the charge on which Blankenship was convicted — is properly classified as a "public welfare offense." Factor 1 (regulatory context): satisfied? Factor 2 (dangerous activity): satisfied? Factor 3 (capacity to prevent): satisfied? Factor 4 (minor penalties): does a one-year maximum sentence for a violation that killed twenty-nine workers satisfy this criterion, or does it suggest the statute is under-penalized for the harm it addresses?
+
+4. The Federal Mine Safety and Health Act caps willful violations causing death at one year. OSHA's parallel provision caps at six months. The Clean Air Act authorizes fifteen years for knowing endangerment — even without a fatality. Under *Morissette* factor 4, what do these penalty structures suggest about congressional intent regarding *mens rea*? If Congress were to raise the mine safety penalty to ten years, does the *Staples* presumption of a *mens rea* requirement attach?
+:::
+
+
+## The Regulatory Bargain
+
+*Morissette* identified the terms of the bargain: regulatory purpose, dangerous items, capacity to prevent harm, and minor penalties. The MPC codified those terms, confining strict liability to violations punishable by fines rather than imprisonment. For a time, the framework held. But the materials in this chapter reveal at least three doctrinal tensions that the original bargain left unresolved.
+
+First, the boundary between "dangerous" and "innocent" items turns on contested cultural judgments rather than objective risk. *Balint* placed narcotics on the dangerous side of the line; *Staples* placed firearms on the innocent side — not because rifles kill fewer people than heroin, but because "a long tradition of widespread lawful gun ownership" made strict liability feel disproportionate. The *Carolene Products* story shows that the dairy industry used the same public-welfare framework to criminalize a competitor's safe product for half a century. The dangerous-items heuristic is only as reliable as the political process that defines it.
+
+Second, strict liability was designed for minor offenses with modest penalties, yet it has been applied to conduct causing catastrophic harm. The *Park* doctrine authorizes imprisonment for corporate officers whose decisions expose thousands to contaminated food or unsafe workplaces. But misdemeanor ceilings cap the available sanctions — three months for a salmonella outbreak that sickened 56,000, one year for a mine explosion that killed twenty-nine. When the penalty structure constrains accountability for mass harm while strict liability statutes enforced against individuals generate millions of enforcement actions annually, the regulatory bargain begins to look asymmetric.
+
+Third, the rational-basis framework that insulates public welfare statutes from constitutional challenge — *Carolene Products* itself — can be captured by the very industries the statutes purport to regulate. Looking beyond the scope of criminal law, after *Loper Bright*, the deference architecture that sustained agency enforcement authority appears to be contracting, raising questions about whether the institutional infrastructure on which strict liability depends will survive.
+
+We began with milk, and the milk example remains the most instructive. Contaminated milk was the problem strict criminal liability was designed to solve, and the combination of doctrine and enforcement succeeded. But its success depended on inspectors empowered to enter dairies without warning, laboratories capable of detecting pathogens, penalties sufficient to change behavior, and political support for enforcement. Doctrine alone was never enough.

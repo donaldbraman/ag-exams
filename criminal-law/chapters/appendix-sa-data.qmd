@@ -1,0 +1,519 @@
+# Sexual Assault in the United States: Rates, Trends, and Criminal Legal System Response {#sec-appendix-sa-data}
+
+```{=latex}
+\setcounter{page}{1}
+\renewcommand{\thepage}{F-\arabic{page}}
+```
+
+Sexual assault in the United States is simultaneously one of the most prevalent violent crimes and one of the least likely to result in criminal accountability. The best available evidence suggests that between 1.5 and 2.9 million women experience rape or attempted rape annually---roughly 3 to 8 times the number captured by the National Crime Victimization Survey, the government's primary measure of criminal victimization. NCVS data show a substantial decline in sexual assault from the early 1990s through approximately 2010, tracking the broader violent crime decline, but the true magnitude of that decline is uncertain because the NCVS's own methodology changed during the same period and independent surveys using more rigorous methods consistently find far higher rates.
+
+The criminal legal system's response to sexual assault is characterized by steep attrition at every stage. Only about one-quarter to one-third of sexual assaults captured by the NCVS are reported to police. Of those reported, clearance rates have fallen from roughly 60% in the 1960s to approximately 26% in 2022. A recent systematic review of 36 studies found that only 8.3% of reported sexual assaults result in conviction (Hoffman et al., 2025). Combining underreporting with case attrition, the probability that any given sexual assault results in a felony conviction is approximately 2.5--5%. This accountability gap has persisted for decades despite waves of legal reform, and it raises fundamental questions about the relationship between law on the books and law in action.
+
+---
+
+## Data Sources and Their Limitations
+
+### The National Crime Victimization Survey (NCVS)
+
+The NCVS, administered by the Census Bureau for the Bureau of Justice Statistics (BJS), is the nation's primary source of information on criminal victimization. It interviews approximately 240,000 persons in 150,000 households annually, collecting data on crimes both reported and not reported to police. Persons age 12 or older in non-institutionalized residential settings are eligible.
+
+*Strengths.* The NCVS provides the longest consistent time series of victimization data in the United States (1993--present, post-redesign). Its large sample size and panel design allow trend analysis across most crime categories. Response rates were high historically (~88% person-level in 2011) but have declined in recent years to approximately 81% person-level and 60% household-level as of the early 2020s, a trend common across federal household surveys. The NCVS captures crimes regardless of whether they were reported to police, providing a broader picture than law enforcement statistics alone.
+
+*Limitations for measuring sexual assault.* The NCVS was designed as a general crime survey, not a sexual violence survey. The 2014 National Research Council (NRC) panel identified four major obstacles to accurate NCVS measurement of sexual assault: (1) a sample design inefficient for measuring low-incidence events; (2) a crime-survey context that suppresses disclosure; (3) lack of privacy for respondents, who are interviewed in their homes with other household members potentially present; and (4) use of ambiguous terminology rather than behaviorally specific descriptions. These limitations mean the NCVS substantially undercounts sexual victimization---by a factor of approximately 3--8 times relative to surveys designed specifically for this purpose (NRC, 2014; Fisher, Cullen & Turner, 2000).
+
+*Major methodological breaks.* The NCVS underwent a substantial redesign in 1992 (implemented 1993) that added behaviorally specific screening cues, generally increasing measured rates. Pre-1993 and post-1993 data are not comparable, and all trend analysis begins with 1993. A sample redesign in 2006 created a one-year data disruption; a second sample redesign in 2016 may have had similar effects. In 2024, BJS began implementing a split-sample redesign---the most significant change since 1992---adding more behaviorally specific screening questions for sexual victimization. Data from the new instrument will not be directly comparable to historical NCVS data.
+
+*The pre-redesign NCS (1973--1992).* Before the 1992 redesign, the National Crime Survey (NCS) measured rape victimization using generic screening questions about "attacks" without behaviorally specific cues. Published NCS rape rates for 1973--1992 ranged from 0.6 to 1.1 per 1,000 persons age 12+, substantially lower than the post-redesign NCVS rates. A 1992 split-sample study confirmed the magnitude of the measurement change: the redesigned NCVS instrument produced a rape rate of 1.8 per 1,000 compared to 0.7 per 1,000 from the NCS instrument administered simultaneously---a ratio of 2.57:1 (BJS, *Criminal Victimization in the United States: 1973--92 Trends*, NCJ-147006; RTI, *NCVS Historical Trends Project*, Doc. 250655). This means the NCS undercounted rape even more severely than the post-redesign NCVS does.
+
+### The FBI Uniform Crime Reports (UCR) and NIBRS
+
+The FBI's Uniform Crime Reporting program measures crimes reported to law enforcement. For sexual assault, the UCR historically counted only "forcible rape," defined from 1929 through 2012 as "the carnal knowledge of a female forcibly and against her will." This narrow definition excluded male victims, non-vaginal penetration, and assaults not involving physical force.
+
+In 2013, the FBI adopted a revised definition: "Penetration, no matter how slight, of the vagina or anus with any body part or object, or oral penetration by a sex organ of another person, without the consent of the victim." This broadened definition is gender-neutral, consent-based, and captures a wider range of acts. The definitional change caused an immediate jump in the reported offense rate---from 27.1 per 100,000 in 2012 to 37.4 per 100,000 in 2013 under the revised definition. The 2013 overlap year---the last year both definitions were measured simultaneously---showed 25.9 (legacy) versus 37.4 (revised) per 100,000, an approximately 44% increase from the definition change alone---and makes pre-2013 and post-2013 UCR data not directly comparable.
+
+The FBI's transition from the legacy Summary Reporting System (SRS) to the National Incident-Based Reporting System (NIBRS) in 2021 created additional data disruptions. Only about 62% of agencies reported NIBRS data for all 12 months in 2021, and national estimates for that year are considered unreliable. Coverage improved to approximately 82% of the population by late 2023, but the transition continues to affect data quality and comparability.
+
+UCR data represent a floor---the number of sexual assaults known to police---and are further limited by police practices of "unfounding" cases (classifying them as false or baseless), which historically runs 5--8% for rape compared to about 2% for other index crimes (FBI UCR, various years).
+
+### The National Intimate Partner and Sexual Violence Survey (NISVS)
+
+The CDC's NISVS is an ongoing nationally representative telephone survey of adults age 18+ that uses behaviorally specific questions in a public health frame. It has been conducted in 2010, 2011, 2012, 2015, and 2016/2017. NISVS describes specific acts (e.g., "Were you physically forced to have vaginal, oral, or anal penetration?") without using loaded legal terms like "rape." This approach consistently produces estimates of sexual victimization far higher than the NCVS.
+
+*Key finding.* The NISVS 2010 survey estimated approximately 1,270,000 women experienced completed rape in the prior 12 months (Black et al., 2011). For the same year, the NCVS estimated approximately 188,380 total rape/sexual assault victimizations for all persons age 12+---roughly 6--7 times lower. This gap is the central puzzle of sexual violence measurement in the United States.
+
+*Limitations.* The NISVS has a lower response rate (~27--34%) than the NCVS, which may introduce selection bias. Its instrument changed between waves (2010--2012, 2015, 2016/2017), and the CDC explicitly cautions against cross-wave comparisons. The apparent increase in lifetime rape prevalence from 18.3% of women in 2010 to 26.8% in 2016/2017 likely reflects instrument changes rather than a true increase in victimization (Basile et al., 2022).
+
+*The 2023/2024 wave and mode change.* After a gap from 2018 to 2022 with no data collection, the CDC fielded the NISVS again in 2023--2024 using a fundamentally different methodology: address-based push-to-web sampling rather than random-digit-dial telephone interviews. The 2023/2024 wave found 21.0% of women reported completed or attempted rape in their lifetime and 45.1% reported contact sexual violence (CDC, 2025). The CDC explicitly cautions that "comparisons of prevalence estimates to previous years are not recommended" due to the mode change. The apparent decline from 26.8% (2016/2017, phone) to 21.0% (2023, web) likely reflects methodological differences rather than a real decrease in victimization. Push-to-web surveys may reduce social desirability effects in some domains but may also reduce disclosure of sensitive experiences that benefit from interviewer rapport.
+
+### Other Surveys
+
+*National Violence Against Women Survey (NVAWS, 1995--96).* A nationally representative telephone survey of 16,000 adults that found 17.6% of women had been raped in their lifetime and estimated 876,064 rape incidents involving women annually---a figure that includes repeat victimizations of the same individuals and thus substantially exceeds the 302,091 distinct women estimated to have been raped. This was approximately 4 times the contemporaneous NCVS estimate (Tjaden & Thoennes, 2006).
+
+*Campus climate surveys.* The 2019 AAU Campus Climate Survey of 33 institutions found that 13% of all students experienced nonconsensual sexual contact by force or incapacitation since enrollment; the rate for undergraduate women was approximately 26% (Cantor et al., 2020). The Krebs Campus Sexual Assault Study (2007) found that incapacitated sexual assault (alcohol/drug-enabled) was far more common than physically forced assault among college women.
+
+*Youth Risk Behavior Surveillance System (YRBS).* The CDC's biennial survey of high school students found that 14% of female students reported ever being physically forced to have sexual intercourse in 2021, up from 12% in 2011. Male students remained stable at approximately 4% (CDC, 2023).
+
+### Why These Sources Disagree
+
+The 2014 NRC panel concluded that the NCVS-NISVS gap is primarily methodological, not definitional---driven by differences in survey design rather than in what counts as sexual violence. The most important methodological factors, in approximate order of impact, are:
+
+1. *Behavioral specificity of questions.* NISVS describes specific acts; the NCVS uses terms like "rape" and "sexual assault" that many victims do not apply to their own experiences. Fisher, Cullen, and Turner (2000) demonstrated that behaviorally specific questions produced completed rape estimates approximately 11 times higher than NCVS-style questions using identical procedures, sampling, and interviewers (1.7% vs. 0.16%).
+
+2. *Survey context.* The NCVS is framed as a crime survey; respondents who do not think of their experience as a "crime" may not disclose it. The NISVS is framed as a health and safety survey. Anderson et al. (2022) found that even study title framing ("Sexual Assault Study" vs. neutral) significantly affected disclosure rates.
+
+3. *Privacy conditions.* NCVS interviews are conducted in the respondent's home, often with other household members present. NISVS interviews are conducted by telephone with the respondent alone.
+
+4. *Inclusion of incapacitated assault.* NISVS explicitly asks about alcohol/drug-facilitated penetration from the outset; the pre-redesign NCVS did not clearly capture these incidents.
+
+---
+
+## Victimization Trends Over Time
+
+### The Long Decline: 1993 to Approximately 2010
+
+The most prominent feature of NCVS data is a dramatic decline in rape/sexual assault victimization from the early 1990s through approximately 2010. The NCVS rape/sexual assault rate fell from an estimated 2.5 per 1,000 persons age 12+ in 1993 to approximately 0.8 per 1,000 by 2005---a roughly 68% decline. For females specifically, the rate declined 58% from 5.0 per 1,000 females in 1995 to 2.1 per 1,000 females in 2010 (Planty et al., 2013). This decline tracked the broader violent crime decline: total violent victimization fell from 79.8 per 1,000 in 1993 to 19.3 per 1,000 in 2010, a 76% drop (BJS CV2014, Appendix Table 1).
+
+By contrast, the pre-redesign NCS showed essentially flat rape victimization rates from 1973 through 1992 (ranging from 0.6 to 1.1 per 1,000), even as UCR reported rates more than quadrupled over the same period. This disconnect---stable survey rates alongside rapidly rising police reports---strongly suggests that the NCS instrument was too blunt to detect real changes in sexual assault victimization, reinforcing the NRC panel's later conclusion that generic screening questions severely undercount these crimes.
+
+UCR data tell a parallel story. Under the legacy definition, the reported rape rate fell from a peak of approximately 42.8 per 100,000 in 1992 to 27.0 per 100,000 in 2011---a roughly 37% decline (FBI UCR, various years).
+
+@fig-sa-rates below shows the NCVS and UCR time series side by side.
+
+![Sexual Assault Rates in the United States---NCVS victimization rate (per 1,000 persons age 12+, left axis) and UCR reported rape rate (per 100,000 population, right axis), 1990--2024. Points show published annual estimates. Trend lines are LOESS smoothers (tricube kernel, locally weighted linear regression) fitted separately to each comparable data segment: NCVS is split at 2006 (excluded by BJS due to methodology changes) and UCR is split at 2012/2013 (FBI definition revision). See Turner et al., "Creating Effective Interrupted Time Series Graphs," *Research Synthesis Methods* 12 (2021): 106--17.](../sources/images/sa-rates-chart.png){#fig-sa-rates width=75% fig-align="center"}
+
+### The Low Plateau: 2010--2015
+
+From approximately 2010 through 2015, NCVS rape/sexual assault rates remained at historically low levels, fluctuating between 0.8 and 1.6 per 1,000. The total violent crime rate reached its recorded low of 18.6 per 1,000 in 2015 (BJS CV2018, Table 1). UCR reported rape rates under the old definition were similarly stable at approximately 27--28 per 100,000.
+
+### The Post-2010 Rise: Real Change or Measurement Artifact?
+
+Beginning around 2010, NCVS rape/sexual assault rates reversed their long decline. The rate rose from a low of 0.5 per 1,000 in 2009 to 1.3 in 2012, 1.6 in 2015, and then spiked to 2.7 per 1,000 in 2018---an apparent fivefold increase from the 2009 trough. The sharpest single-year jump occurred between 2017 (1.4 per 1,000) and 2018 (2.7 per 1,000), a 93% increase coinciding precisely with the #MeToo movement. The total number of victimizations increased from approximately 431,840 in 2015 to 734,630 in 2018 (BJS CV2018, Table 1).
+
+This pattern demands careful interpretation. The scholarly literature identifies three mechanisms---none mutually exclusive---that likely explain most of the observed increase. The dominant view among criminologists is that the post-2010 trend reflects primarily *changed disclosure and labeling behavior* rather than a genuine surge in sexual violence, with measurement artifacts playing a substantial additional role.
+
+#### Series Victimization: Statistical Volatility
+
+The most technically important explanation involves a methodological change BJS made in 2011. The NCVS counts "series victimizations"---cases where a respondent reports six or more similar incidents but cannot individually describe them---and caps each at ten incidents per respondent. Because rape/sexual assault is a relatively rare event in the NCVS sample, even a handful of heavily weighted series respondents can dramatically shift the national estimate.
+
+The [National Research Council's 2014 panel](https://www.ncbi.nlm.nih.gov/books/NBK202252/){.cite} documented the scale of this problem:
+
+- In 2009, nearly 60% of all NCVS rape/sexual assault estimates derived solely from series victimizations.
+- The 2011 methodology change increased average annual rape/sexual assault estimates by 52% per year across 18 years of data.
+- The effect ranged from a 0% change in years when no series victimizations were reported to a 143% change in years when they were common.
+- These series outliers represent only about 6% of positive rape/sexual assault survey responses but have "substantial impact on estimates and standard errors."
+
+The panel concluded: "The current method for handling series victimization [...] allows these relatively rare reports to have a large impact on the national estimates of rape and sexual assault and creates large year-to-year volatility." The 2018 spike fits this pattern precisely---the rate fell back to 1.7 in 2019---consistent with outlier-driven volatility rather than a real behavioral signal. BJS itself offered no explanation for the 2018 spike in its *Criminal Victimization, 2018* report (NCJ 253043).
+
+#### Changed Disclosure and Labeling Behavior
+
+A second mechanism involves cultural shifts in how respondents recognize and report sexual assault experiences. A foundational measurement problem predates 2010: roughly 60% of women who report experiences behaviorally consistent with rape do not label those experiences as rape or sexual assault when asked directly. The NCVS uses some crime-framing language, making it sensitive to whether respondents *recognize* their experience as a crime. Any cultural shift that closes this "acknowledgment gap" will produce apparent rate increases even with no change in underlying victimization.
+
+A series of high-profile events gradually reduced stigma: the Steubenville case (2012), campus sexual assault policy debates (2013--14), and the Weinstein revelations (October 2017). [Jaffe et al. (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8713172/){.cite} studied college students longitudinally and found that by approximately 70 weeks after October 2017, students who screened positive on behavioral measures showed increased willingness to label the experience as "sexual assault"---while the study found no clear evidence of a corresponding change in behavioral prevalence. The same victimization gets reported to surveys because the respondent now frames it as assault.
+
+[Worthen and Schleifer (2024)](https://journals.sagepub.com/doi/10.1177/08862605241234355){.cite} conducted the first systematic NCVS analysis of pre- and post-#MeToo periods and found:
+
+- Significant increases in sexual violence rates, self-reports, and stranger-offender reports in the immediate post-#MeToo period (October 2017 to September 2019).
+- These increases were *not sustained* in the later post-#MeToo period (October 2019 to September 2021).
+- Changes were driven primarily by White women's reporting; no significant changes for men or non-White women.
+- The temporary nature of the increase suggests a short-term surge in survey disclosure rather than a lasting behavioral change.
+
+The demographic specificity is important: a genuine increase in victimization would not be confined to one racial group, but a disclosure effect would be---reflecting which populations were most culturally influenced by #MeToo media coverage.
+
+Notably, while NCVS-measured victimization spiked, police reporting rates actually *fell*---from 40% in 2017 to 25% in 2018 (BJS CV2018, Table 5). This divergence---more victims telling survey interviewers, fewer telling police---is consistent with the interpretation that #MeToo lowered disclosure barriers in survey contexts without fundamentally changing willingness to engage the criminal legal system. RAINN's National Sexual Assault Hotline saw calls surge 26% in November 2017 and an additional 32% in December 2017, with sustained increases for approximately four months.
+
+#### The UCR Tells a Different Story
+
+The divergence between NCVS and UCR data in this period is itself informative. UCR revised-definition rates were relatively stable from 2013 to 2024, fluctuating between 37.0 and 44.5 per 100,000---nothing approaching the NCVS's 93% single-year spike. In 2022, the two measures diverged dramatically: NCVS showed a 58% increase in rape/sexual assault rate while UCR showed a 6% *decrease*. This pattern is consistent with the NCVS being far more sensitive to social norms around disclosure than the UCR, which captures only crimes reported to police. A [Yale study](https://news.yale.edu/2020/01/27/metoo-makes-difference-sex-crime-reporting-study-shows){.cite} found that #MeToo caused approximately a 7% increase in formal sex-crime police reports in the first three months after October 2017---a modest effect compared to the NCVS's dramatic swing (Levy & Mattsson, 2020).
+
+#### International Comparisons
+
+International victimization surveys provide a useful check on the American data. The United Kingdom's CSEW and Canada's General Social Survey both showed stable survey-measured sexual assault prevalence during this period, even as police-recorded offenses rose---a pattern consistent with disclosure effects rather than incidence changes. For a detailed discussion, see "Did Sexual Assault Actually Increase After 2010?" below.
+
+#### Implications
+
+The long decline from the early 1990s through approximately 2010 is probably real: it tracks the broader violent crime decline visible across all crime types and in multiple independent data sources. The post-2010 trend is a different matter. Most experts conclude that the measured NCVS increases are primarily a measurement effect---reflecting changed disclosure behavior, series victimization volatility, and evolving social norms---but the honest answer is that *no existing instrument can reliably separate changes in incidence from changes in disclosure*. The true post-2010 trajectory could be flat, modestly rising, or even still declining; the NCVS signal is too contaminated by measurement artifacts to tell us. The NCVS-UCR divergence, the demographic specificity of the #MeToo effect, the temporary nature of the 2018 spike, and the flat international trends all point toward disclosure effects rather than incidence changes---but none of these observations rules out some real change in victimization rates.
+
+This uncertainty carries two important corollaries. First, if cultural shifts cause more victims to disclose to surveys, then *pre-2010 NCVS data were even further from the truth than previously understood*---the undercount was not merely large but larger than researchers appreciated at the time. Second, the NRC panel's 2014 recommendation to build a dedicated sexual violence survey, separate from the NCVS, with behaviorally specific questions in a health (not crime) context, remains unimplemented. Until such a survey exists, the field lacks a measure capable of answering the basic question of whether sexual assault is increasing, decreasing, or holding steady. The 2024 NCVS instrument redesign, which introduces more behaviorally specific screening questions, will likely produce substantially higher measured rates---and BJS has preemptively warned that the redesigned estimates will not be comparable to the legacy series.
+
+### COVID-Era Dip and Subsequent Increase: 2020--2023
+
+The NCVS rape/sexual assault rate dropped to 1.2 per 1,000 in both 2020 and 2021 during the COVID-19 pandemic, likely reflecting both genuine reductions (reduced social contact) and survey administration effects. The rate rebounded to 1.9 per 1,000 in 2022 before settling at 1.7 per 1,000 in 2023---not statistically different from 2022 (BJS CV2023, Table 1). UCR reported rape rates followed a similar pattern, dipping to 40.2 per 100,000 in 2020 under the revised definition before rebounding to 42.8 in 2022 and declining again to 39.9 in 2023.
+
+### UCR Reported Offense Trends
+
+The UCR tells a related but distinct story because it captures only crimes reported to police:
+
+- *1960--1992: Sustained increase.* The reported rape rate more than quadrupled, from 9.6 to 42.8 per 100,000 (FBI UCR). This likely reflects both real increases in offending and substantial increases in willingness to report.
+- *1992--2012: Steady decline.* The rate fell from 42.8 to 27.1 per 100,000 under the legacy definition---a 37% decline.
+- *2013--2018: Apparent increase under revised definition.* Rates of 37.4--44.5 per 100,000 under the broadened definition, peaking in 2018.
+- *2019--2024: Decline from peak.* Rates fell from 44.2 (2019) to 37.5 (2024), suggesting a downward trend.
+
+See @fig-sa-rates above for the UCR time series alongside NCVS data.
+
+### NISVS Point Estimates as Anchors
+
+The NISVS provides periodic cross-sectional estimates that serve as anchors for assessing the NCVS's undercount. Converting NISVS 12-month female rape prevalence to approximate population rates:
+
+| NISVS Wave | Female 12-Month Rape | Approximate Per-1,000 Pop. | NCVS Rate (Same Year) | Ratio |
+|---|---|---|---|---|
+| 2010 | 1.1% (~1.3M) | ~5.1 | 0.8 | ~6:1 |
+| 2011 | 1.6% (~1.9M) | ~7.5 | ~0.9 (est.) | ~8:1 |
+| 2015 | 1.2% (~1.5M) | ~5.6 | 1.6 | ~4:1 |
+| 2016/2017 | 2.3% (~2.9M) | ~10.7 | 1.1--1.4 | ~8--10:1 |
+
+These ratios consistently fall in the 4--10x range, supporting the NRC panel's conclusion that the NCVS substantially undercounts sexual victimization. The wide variation across waves reflects both real uncertainty and changes in the NISVS instrument itself.
+
+*Note on 2023/2024 NISVS.* The 2023/2024 NISVS wave reported only lifetime prevalence (21.0% completed/attempted rape), not 12-month prevalence. Because the chart validation points require 12-month estimates, and because the 2023 mode change (phone to web) makes direct comparison unreliable, no 2023 data point appears in @fig-sa-expert or the table above. When the CDC publishes 12-month estimates from the 2023/2024 wave, they can be added as an additional validation point---with appropriate caveats about the mode change.
+
+---
+
+## The Criminal Legal System's Response
+
+### Reporting to Police
+
+Rape and sexual assault remain the most underreported category of violent crime. NCVS data show that reporting rates have fluctuated substantially over time without a clear secular trend:
+
+| Year | % Reported to Police | Source |
+|---|---|---|
+| 1995 | ~28--29% | BJS, Female Victims of Sexual Violence, 1994--2010 |
+| 2003 | ~56% (peak) | BJS, Female Victims of Sexual Violence, 1994--2010 |
+| 2005--2010 | ~35--36% (average) | BJS, Victimizations Not Reported to Police, 2006--2010 |
+| 2013 | ~35% | BJS, Criminal Victimization, 2013 |
+| 2017 | 40% | BJS, Criminal Victimization, 2018 |
+| 2018 | ~25% | BJS, Criminal Victimization, 2018 |
+| 2022 | ~21% | BJS, Criminal Victimization, 2023 |
+| 2023 | ~46% | BJS, Criminal Victimization, 2023 |
+
+These figures carry wide margins of error---plus or minus 8.2 percentage points in 2023---so year-to-year fluctuations should be interpreted cautiously.
+
+*Why victims do not report.* The NCVS and academic studies consistently identify the same barriers: fear of retaliation (cited by approximately 20% of non-reporting victims); belief that police would not help (13%); treating the assault as a personal or private matter (13%); not wanting others to know; and self-blame or shame. The belief that police would not help doubled from approximately 10% in 1994 to 20% in 2010 (BJS, Victimizations Not Reported to Police, 2006--2010). Wolitzky-Taylor et al. (2011) found the most common barriers were fear of reprisal (68%), not wanting others to know (57%), and lack of evidence (51%). Drug/alcohol-facilitated rapes were significantly less likely to be reported than forcible rapes.
+
+*Has #MeToo changed reporting behavior?* Evidence is mixed. RAINN hotline calls surged dramatically in late 2017. Reported rapes in New York City increased approximately 22% from 2017 to 2018. But nationally, NCVS data show police reporting rates actually fell in 2018 (to 25%, from 40% in 2017). Worthen and Schleifer (2024) found any increase in police reporting was temporary and concentrated among White women. The 2023 NCVS figure of 46% reporting is the highest since 2010, but given its wide confidence interval, it is premature to call this a lasting shift.
+
+### Police Response
+
+*Clearance rates.* The percentage of reported rapes cleared by arrest has declined precipitously over the past six decades:
+
+| Year | Clearance Rate | Source |
+|---|---|---|
+| ~1964 | ~62% | FBI UCR (baseline, widely cited) |
+| 2013 | 40.6% | Pew Research Center, citing FBI |
+| 2019 | 32.9% | FBI Crime in the U.S. 2019 |
+| 2022 | 26.1% | Pew Research Center (2024) |
+| 2024 | 27.2% | FBI Crime Data Explorer |
+
+The long-term downward trend---from over 60% in the 1960s to roughly 25--30% in recent years---is well established, though year-to-year comparisons should be made cautiously given the FBI's ongoing transition from the Summary Reporting System to NIBRS. For comparison, 2024 clearance rates for other violent crimes were: murder 62.5%, aggravated assault 49.1%, robbery 30.4% (FBI Crime Data Explorer).
+
+*Unfounding rates and the Philadelphia Model.* The UCR "unfounding" rate for rape---the percentage of reports classified by police as false or baseless---has historically been 5--8%, compared to approximately 2% for other index crimes (FBI UCR, various years). In the late 1990s, the Philadelphia Police Department classified 18% of rape complaints as unfounded. A 1999 *Philadelphia Inquirer* investigation revealed systematic miscoding and discouragement of reports. Beginning in 1999, external civilian review of sexual assault case files---now known as the "Philadelphia Model"---reduced the unfounding rate from 18% to approximately 4% (Women's Law Project, 2019).
+
+*False report rates.* Research consistently shows that the rate of demonstrably false reports is far lower than unfounding rates suggest. Lisak et al. (2010) classified 5.9% of reports at a U.S. university over ten years as demonstrably false. A meta-analysis by Ferguson and Malouff (2016) found a confirmed false allegation rate of 5.2% (95% CI: 3.0--8.9%). As Lisak et al. found, the greater the scrutiny applied to police classifications, the lower the rate of false reporting detected. The 2--10% range commonly cited in the literature reflects variation in methodology and classification rigor.
+
+*Rape kit backlogs.* An estimated 200,000--400,000 untested sexual assault kits sit in police departments and crime labs nationwide. Testing initiatives in three cities illustrate the scope of the problem:
+
+- *Detroit:* Over 11,341 untested kits discovered in 2009, spanning 30 years. Campbell et al. (2018) studied an 894-kit sample and found a 29% unconditional CODIS hit rate (259 hits from 894 kits tested; 62% conditional rate among kits yielding CODIS-eligible profiles), identifying at least 817 serial offenders operating across 40 states (Wayne County Prosecutor's Office, 2017).
+- *Cuyahoga County (Cleveland):* 5,165 kits tested, yielding 2,127 CODIS hits (41.2% hit rate). More than a quarter of hits were kit-to-kit matches, identifying serial offenders (Lovell et al., 2021).
+- *Memphis:* Approximately 12,000 untested kits disclosed in 2013. Testing produced over 200 indictments by 2016, with additional indictments continuing as testing progressed (Shelby County District Attorney's Office; End the Backlog project tracking).
+
+The most significant finding from backlog testing is the prevalence of serial offending---a pattern that fundamentally challenges the assumption that most sexual assaults are isolated incidents.
+
+@fig-sa-cj-response below presents four panels on the criminal legal system's response.
+
+![Sexual Assault---Criminal Legal System Response Over Time. Panel A: NCVS reporting rate to police (1995--2023). Panel B: UCR reported rape rate per 100,000 under legacy and revised definitions. Panel C: Case attrition from report to conviction, based on Hoffman et al. (2025) systematic review of 36 studies. Panel D: Full attrition funnel per 1,000 sexual assaults committed, combining NCVS underreporting data with BJS/RAINN processing estimates.](../sources/images/sa-arrests-chart.png){#fig-sa-cj-response width=75% fig-align="center"}
+
+### Prosecution and Conviction
+
+*Case attrition: the Hoffman et al. (2025) systematic review.* The most comprehensive recent analysis pooled 36 studies covering 288,066 sexual assault cases with data from 2000 to 2020. Mean attrition rates at each stage (as a percentage of reported cases):
+
+| Stage | Mean | Range |
+|---|---|---|
+| Founded (not unfounded) | 89.2% | 72.1--92.7% |
+| Arrest | 27.3% | 17.7--53.4% |
+| Referral to prosecution | 31.4% | 13.6--69.6% |
+| Charges filed | 19.6% | 3.3--83.2% |
+| Conviction | 8.3% | 1.9--40.3% |
+
+*The full funnel.* Combining NCVS underreporting data with the Hoffman et al. attrition rates and RAINN's compilation of federal data, the overall picture for sexual assault case processing:
+
+| Stage | Per 1,000 Sexual Assaults |
+|---|---|
+| Sexual assaults committed | 1,000 |
+| Reported to police | 310 |
+| Founded (not unfounded) | ~276 |
+| Arrest | ~85 |
+| Charges filed | ~61 |
+| Felony conviction | ~26 |
+| Incarcerated | ~25 |
+
+These figures vary by jurisdiction and time period, but the overall pattern is consistent: for every 1,000 sexual assaults, roughly 25--50 result in a felony conviction---a conviction rate of approximately 2.5--5% relative to all assaults committed. An NBC News investigation across eight major U.S. cities found that fewer than 4% of reported sex crimes resulted in sex crime convictions (Walinchus et al., 2025).
+
+*Prosecutorial decision-making.* Research by Spohn, Beichner, and Davis-Frenzel (2001) established "focal concerns" theory as a framework for understanding why prosecutors decline sexual assault cases. Prosecutors assessed cases against an idealized "winnable" case template---one that frequently aligned with rape myths---and declined those falling short. Key factors in declination decisions include: victim cooperation and willingness to testify; victim credibility assessments (often influenced by alcohol use, prior sexual history, and delayed reporting); presence of corroborating evidence; and the victim-offender relationship (acquaintance and intimate partner cases are less likely to be charged than stranger cases). Spohn and Holleran (2001) confirmed that victim-offender relationship significantly affects charging decisions.
+
+*Impact of specialized units and legal reform.* Evidence on structural reforms is disappointing. Beichner and Spohn (2005) found that Kansas City's specialized sex crimes prosecution unit produced charging patterns not significantly different from Miami's generalist approach. More broadly, Spohn and Horney's research on the impact of rape law reforms found that statutory changes---including rape shield laws, expanded definitions, and elimination of corroboration and resistance requirements---produced largely symbolic effects without fundamentally altering case outcomes. The underlying discretionary culture, driven by assessments of victim credibility and convictability, appears to operate regardless of organizational structure or doctrinal reform.
+
+Rebecca Campbell's research documented pervasive secondary victimization: in one study, 86--93% of rape survivors who interacted with the legal system without a victim advocate reported feeling violated, depressed, or blamed by the experience, and many described the process as compounding the harm of the assault itself (Campbell, 2006). Campbell et al. (1999) found that negative encounters with community systems---police, prosecutors, and medical personnel---significantly worsened survivors' psychological outcomes. Cases where detectives engaged in secondary victimization were significantly less likely to be prosecuted.
+
+See @fig-sa-cj-response, Panel C and Panel D above for the attrition funnel visualization.
+
+---
+
+## Estimating the True Rate
+
+### The Measurement Gap
+
+The most striking feature of sexual assault data in the United States is the enormous gap between different measurement instruments. For the year 2010:
+
+- *UCR reported offenses (all persons):* ~84,767 (crimes known to police)
+- *NCVS victimizations (all persons 12+):* ~188,380 (BJS CV2010)
+- *NCVS victimizations (females only):* ~270,000 (Planty et al., 2013)
+- *NISVS 12-month rape prevalence (women only):* ~1,270,000 (Black et al., 2011)
+
+The NISVS-to-NCVS ratio is approximately 5:1 when comparing female estimates, and approximately 7:1 against the all-persons NCVS figure. The NISVS-to-UCR ratio is approximately 15:1. These are not small discrepancies that can be explained by sampling error or definitional nuance.
+
+*Behavioral specificity versus labeled questions.* The single most important factor driving different prevalence estimates is whether the survey describes specific acts or uses labels. Fisher, Cullen, and Turner (2000) conducted the definitive experiment: the National College Women Sexual Victimization study used NCVS-style questions alongside behaviorally specific questions on the same population with identical procedures. The behaviorally specific version found that 1.7% of respondents reported completed rape, compared to 0.16% on the NCVS-style version---approximately *11 times higher*. For attempted rape, the ratio was approximately 6:1 (1.1% vs. 0.18%). This finding has been replicated in various forms across multiple studies and is the methodological foundation for understanding the NCVS-NISVS gap.
+
+Anderson et al. (2022) demonstrated that even the title of a study affects disclosure: participants in a study framed as "Questionnaires about Sexual Assault" reported rape at 33.9% compared to 21.1% in a control condition. Abbey, Parkhill, and Koss (2005) found that presenting coercive tactics first (rather than types of sexual acts) produced significantly different results: 75% of women reported at least one victimization in the tactics-first version versus 62% in the type-of-sex-first version.
+
+*The NRC (2014) report conclusions.* The National Research Council panel effectively sided with the CDC's methodological approach. It concluded that the NCVS likely undercounts sexual assault and recommended that BJS develop an independent survey, separate from the NCVS, for measuring rape and sexual assault. The panel found that the NCVS's limitations---crime-survey framing, lack of respondent privacy, ambiguous terminology, and inefficient sample design---could not be adequately addressed within the existing NCVS framework. This recommendation is, in effect, a finding that the NCVS has been systematically undercounting sexual assault for its entire history.
+
+*The CDC/DOJ institutional disagreement.* The divergence between CDC and DOJ estimates reflects a fundamental institutional split. The DOJ/BJS views sexual violence as a crime to be measured within a criminal legal framework, using the NCVS's two-stage methodology (screener plus incident report) as quality control. The CDC views sexual violence as a public health problem requiring public health measurement, with behaviorally specific questions and a one-stage methodology that captures experiences victims may not label as "crimes." No published study has successfully reconciled these approaches into a single estimate. The expert consensus treats them as measuring partially overlapping but distinct constructs.
+
+### How Far Does the NCVS Undercount?
+
+Multiple converging lines of evidence establish that the NCVS captures only a fraction of sexual assaults:
+
+- Kilpatrick's National Women's Study (1992) found annual rape victimization approximately *5 times* the contemporaneous National Crime Survey estimate.
+- Fisher, Cullen, and Turner (2000) found that behaviorally specific questions produced completed rape estimates approximately *11 times* higher than NCVS-style questions on the same population (1.7% vs. 0.16%; the ratio was approximately 6:1 for attempted rape).
+- The NISVS/NCVS comparison across multiple years shows a ratio of approximately *4--8 times*, though the ratio varies because both instruments changed over time.
+
+Combining these sources, the NCVS likely undercounts sexual assault by a factor of *3 to 8 times*. The lower bound (3×) rests on the most conservative reading: the NCVS captures roughly one-third of all sexual assaults, consistent with NCVS-internal reporting-to-police data. The upper bound (8×) rests on the Fisher experimental result (11× for completed rape, 6× for attempted) and the higher end of NISVS extrapolations. A range of 3--5× is more likely than the extremes.
+
+### Why a Fixed Multiplier Does Not Work
+
+A natural approach would be to multiply NCVS rates by a fixed correction factor (say, 5×) to estimate total incidence over time. This approach works reasonably well for the period from 1993 through approximately 2010, when NCVS disclosure norms were relatively stable. But it breaks down precisely when it matters most: in the post-2010 period, when disclosure behavior was changing.
+
+The problem is that the multiplier and the base rate are not independent. If the NCVS begins capturing a *larger* fraction of victimizations---because respondents are more willing to disclose, or because they more readily label their experiences as sexual assault---then the appropriate multiplier should *decrease*. Applying a fixed 5× multiplier to a post-#MeToo NCVS rate that is already inflated by disclosure effects double-counts the increase, producing an inflated estimate that most experts do not believe.
+
+The NISVS/NCVS ratios illustrate this directly:
+
+| Year | NISVS (per 1,000 pop.) | NCVS | Ratio |
+|---|---|---|---|
+| 2010 | ~5.1 | 0.7 | ~7× |
+| 2015 | ~5.6 | 1.6 | ~3.5× |
+
+As NCVS disclosure improved (the denominator of the ratio rose), the gap *narrowed*---exactly what we would expect if incidence is roughly stable but the NCVS is capturing more of it. The 2016/2017 NISVS figure (~10.7 per 1,000) breaks this pattern, but the CDC has explicitly cautioned that cross-wave NISVS comparisons are unreliable due to instrument changes between waves.
+
+### What We Can Say About the True Rate
+
+Rather than applying a multiplier, @fig-sa-expert presents the data more honestly: the NCVS as a *measured floor*, the NISVS estimates as *independent prevalence anchors*, and a shaded band representing the range of expert uncertainty. No trend line is drawn through the upper range because no existing instrument can reliably track incidence over time.
+
+What the available evidence suggests:
+
+| Period | NCVS Floor | NISVS Anchor | Estimated Range |
+|---|---|---|---|
+| 1993--1995 | 1.7--2.5 | (none) | 5--12 per 1,000 |
+| 2000--2005 | 0.8--1.2 | (none) | 2.4--6.0 per 1,000 |
+| 2010--2011 | 0.7--0.9 | 5.1--7.5 | 3--8 per 1,000 |
+| 2015 | 1.6 | 5.6 | 4--8 per 1,000 |
+| 2020--2023 | 1.2--1.9 | (none) | 4--8 per 1,000 |
+
+At the 1990s peak, the rate of rape/sexual assault was probably in the range of 5--12 per 1,000 persons (roughly 1.2--3 million victimizations annually). In recent years, it has likely declined to approximately 4--8 per 1,000 (roughly 1--2 million annually). The magnitude of the decline is real but almost certainly less than the NCVS suggests, and the post-2010 trajectory is genuinely unknown---the instruments we have cannot separate changes in incidence from changes in disclosure.
+
+@fig-sa-expert below compares the two major survey estimates side by side.
+
+![Comparing Survey Estimates of Sexual Assault, 1993--2024. Left panel: NISVS 12-month prevalence estimates (orange diamonds), which use behaviorally specific questions in a health-survey context. The 2016/17 point (10.7\*) reflects instrument changes between waves and is not directly comparable to earlier estimates. Right panel: NCVS rape/sexual assault rates (blue scatter with segmented LOESS trend lines), which use crime-survey framing. The NCVS undercounts sexual assault by an estimated 3--8× relative to behaviorally specific surveys (NRC, 2014; Fisher, Cullen & Turner, 2000). Gray points show UCR reported-to-police rates for context. The post-1990 NCVS decline is probably real (Finkelhor & Jones, 2004). The post-2010 NCVS increase likely reflects changed disclosure, not changed incidence (Worthen & Schleifer, 2024). Cross-wave NISVS comparisons are not recommended by CDC due to instrument changes.](../sources/images/sa-expert-adjusted-chart.png){#fig-sa-expert width=95% fig-align="center"}
+
+### Did Sexual Assault Actually Decline From 1990--2010?
+
+*Evidence for a real decline.* The strongest evidence that sexual assault genuinely declined from the 1990s comes from David Finkelhor and Lisa Jones at the University of New Hampshire Crimes against Children Research Center. Their research on child sexual abuse trends found:
+
+- Substantiated child sexual abuse cases declined approximately 39% nationwide from 1992 to 1999 (NCANDS data).
+- The decline was confirmed across three independent sources of agency data and four separate large victim surveys.
+- Declines were strong across all categories of reporting source.
+- Crucially, declines occurred even in unambiguous cases involving offender confessions and STI evidence---cases unlikely to be affected by changed reporting standards (Finkelhor & Jones, 2004).
+
+Finkelhor and Jones concluded that these patterns did not match the hallmarks of declines due to decreased reporting, changed standards, or other artifactual explanations. The sexual assault decline also tracks the broader violent crime decline attributed to demographic shifts, economic growth, policing changes, and environmental factors (including lead reduction).
+
+*Evidence for measurement artifact.* Several features of the time series urge caution:
+
+- The NCVS's own methodology improved during the period of decline (more behaviorally specific questions after the 1992 redesign, sample redesigns in 2006 and 2016), which should have *increased* measured rates and partly offset any real decline.
+- The #MeToo-era spike---nearly doubling the measured rate in a single year---demonstrated that disclosure behavior is highly elastic. If social changes over the 1993--2010 period gradually made disclosure slightly easier, this could mask the extent of any real decline.
+- The Fisher et al. (2000) finding that question wording alone can produce 6- to 11-fold differences in measured prevalence means that even small changes in NCVS administration over time could produce apparent trends.
+- The NCS's flat rate from 1973 to 1992---despite a quadrupling of UCR reported rates over the same period---demonstrates that survey instruments can be completely insensitive to real changes in sexual assault. If the NCS missed the entire rise, the NCVS may have missed part of the decline.
+
+*Best assessment.* A real decline in sexual assault probably occurred from the early 1990s through approximately 2010--2015, as part of the broader crime decline. Finkelhor and Jones's evidence for child sexual abuse is particularly compelling, and there is no strong reason to think adult sexual assault diverged from this pattern. However, the magnitude of the decline is almost certainly less than the NCVS suggests. The NCVS shows approximately a 60--70% decline from peak to trough; the true decline was probably in the range of 40--60%---substantial and real, but moderated by concurrent improvements in survey methodology and cultural willingness to disclose.
+
+## Did Sexual Assault Actually Increase After 2010?
+
+The NCVS shows an apparent reversal of the long decline beginning around 2010: the rate rose from 0.5 per 1,000 in 2009 to 1.6 in 2015, spiked to 2.7 in 2018, and has fluctuated between 1.2 and 1.9 since. Three hypotheses have been advanced to explain this pattern. The weight of available evidence supports a combination of the first two---changed disclosure and definitional expansion---with little support for a genuine behavioral increase.
+
+### The #MeToo Disclosure Effect
+
+The most rigorous empirical test of whether post-2010 increases reflect changed disclosure rather than changed incidence comes from [Worthen and Schleifer (2024)](https://journals.sagepub.com/doi/10.1177/08862605241234355){.cite}, who analyzed NCVS data across three periods: pre-#MeToo (2014--2015), post-#MeToo Time 1 (October 2017--September 2019), and post-#MeToo Time 2 (October 2019--September 2021). Their findings are striking:
+
+- Sexual violence rates increased significantly between the pre-#MeToo period and the first post-#MeToo period.
+- The increases were *temporary*---they were no longer evident by the second post-#MeToo period.
+- The increases were driven almost entirely by White women's reporting. No significant changes were found for men or for non-White women.
+- Reports involving stranger offenders increased alongside overall reports, suggesting the effect was not limited to acquaintance assaults.
+
+The racial heterogeneity of this finding is critical. A genuine increase in victimization would not plausibly be confined to one racial group. But a disclosure effect would be---reflecting which populations were most culturally activated by mainstream #MeToo media coverage, which centered overwhelmingly on White women's experiences in elite professional settings. The temporary nature of the effect further supports disclosure over incidence: #MeToo created a brief cultural window in which survey respondents were more willing to identify and disclose sexual assault experiences to NCVS interviewers, but the effect dissipated within roughly two years.
+
+[Jaffe et al. (2022)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8713172/){.cite} found a complementary effect among college students: by approximately 70 weeks after October 2017, students who screened positive on behavioral measures of sexual assault showed increased willingness to *label* the experience as "sexual assault"---while the study found no clear evidence of a corresponding change in behavioral prevalence. The same experiences were being recognized and named differently, not occurring more frequently.
+
+[Chen and Long (2024)](https://doi.org/10.1007/s00148-024-01014-x){.cite} approached the question from the opposite direction, using police-reported crime data rather than victim surveys. Using a sexism index constructed from Google search data and machine learning, they found that #MeToo received greater attention in lower-sexism areas and that post-#MeToo increases in documented sex crimes were larger in those areas. Their conclusion: the post-#MeToo surge in documented sex crimes "primarily stems from changes in reporting behavior rather than substantive shifts in actual incidents."
+
+### Definitional Expansion
+
+A second mechanism operates on a longer time horizon. The cultural category of "sexual assault" has broadened substantially since the 1990s---from a prototype centered on stranger rape with a weapon to a framework that includes acquaintance rape, intoxicated assault, coercive situations, and intimate partner sexual violence. As more people recognize these experiences as sexual assault, they are more likely to disclose them in surveys, even without changes to the survey instrument itself.
+
+[Clay-Warner and Burt (2005)](https://journals.sagepub.com/doi/10.1177/1077801204271566){.cite} documented this pattern using National Violence Against Women Survey data: post-1990 rapes were significantly more likely to be reported to police than pre-1974 rapes, and the increase was concentrated specifically in acquaintance and "simple" rape rather than stranger or aggravated rape. The recognition of acquaintance rape as *real* rape---a product of decades of legal reform and public education---expanded the universe of reportable experiences.
+
+The NISVS illustrates the same dynamic through survey design. The apparent increase in lifetime rape prevalence across NISVS waves---from 18.3% (2010) to 19.3% (2011) to 21.3% (2015) to 26.8% (2016/17)---looks alarming as a trend. But the CDC has explicitly cautioned that cross-wave NISVS comparisons are invalid because the instrument changed between waves: the 2016/17 survey used a broader definition and more question items, systematically capturing more experiences. The increase is mechanical, not behavioral.
+
+The 2024 NCVS instrument redesign is the most recent example. BJS is currently conducting a split-sample comparison of its legacy instrument against a redesigned version with more behaviorally specific screening questions for sexual victimization---similar in approach to the NISVS. BJS has preemptively warned that the new instrument will produce substantially higher measured rates, and that redesigned estimates will *not be comparable to the legacy series*. This acknowledged methodological effect demonstrates how instrument changes mechanically raise measured rates independent of any change in actual victimization.
+
+Definitional expansion is most persuasive as an explanation for long-term trends and for apparent changes between distinct survey waves. It is less persuasive as the primary explanation for the specific 2018 NCVS spike, since the NCVS instrument did not change between 2017 and 2018. For that spike, the #MeToo disclosure effect is the more direct explanation.
+
+### Evidence for a Real Increase
+
+The evidence for a genuine behavioral increase in sexual violence since 2010 is weak. Two data points are sometimes cited:
+
+- The CDC's Youth Risk Behavior Survey (YRBS), which asks high school students whether they have ever been "physically forced to have sexual intercourse," shows a modest increase among female students from 12% (2011) to 14% (2021). Male students showed no significant change. But the increase was confined to White female students---the same demographic pattern Worthen and Schleifer identified in the NCVS---suggesting it may reflect the same disclosure dynamics rather than changed perpetration behavior.
+
+- The AAU Campus Climate Survey showed an approximately 3-percentage-point increase in nonconsensual sexual contact among undergraduate women between 2015 and 2019 at participating universities. But the 2019 survey had much greater name recognition and normalization than the 2015 version, making it difficult to separate real change from increased willingness to classify and disclose experiences.
+
+The strongest version of the real-increase hypothesis is not that sexual violence increased but that prior *declines were partially artifactual*: better measurement is now revealing a floor that was always present. This is a measurement-correction story rather than a genuine-increase story, and it is consistent with the disclosure and definitional expansion hypotheses.
+
+### The UCR as an Independent Check
+
+The divergence between NCVS and UCR data provides an independent test. If sexual violence genuinely nearly doubled in 2018, police reports should have increased substantially. They did not. UCR revised-definition rape rates were relatively stable from 2013 to 2024, fluctuating between 37.0 and 44.5 per 100,000---nothing approaching the NCVS's 93% single-year spike. The modest 6% UCR increase between 2017 and 2018 is consistent with a small #MeToo effect on willingness to report to police, not with a near-doubling of actual victimization.
+
+In 2022, the divergence was even more dramatic: NCVS showed a 58% increase in rape/sexual assault rate while UCR showed a 6% *decrease*. This pattern is consistent with the NCVS being far more sensitive to social norms around disclosure than the UCR, which captures only crimes reported to police.
+
+### International Evidence
+
+The United Kingdom's Crime Survey for England and Wales (CSEW)---the closest methodological analog to the NCVS---showed a decline in survey-measured sexual assault prevalence from 2005 to approximately 2014, followed by a modest increase, but no sharp post-#MeToo spike comparable to the NCVS's 2018 surge. UK police-recorded sexual offenses rose dramatically during the same period, but the Office for National Statistics explicitly attributed this to "improvements in recording practices and a greater willingness of victims to come forward"---not to real increases in offending. Canada's General Social Survey similarly showed stable sexual assault rates at approximately 21 per 1,000 from 2004 to 2014, even as other violent crimes declined substantially.
+
+The international pattern---stable survey-measured prevalence, rising police reports attributed to disclosure---is precisely what the disclosure hypothesis predicts.
+
+### The Call for a New Measure
+
+Perhaps the most important conclusion from this body of research is methodological: *the instruments we have cannot answer the question we are asking.* The NCVS was designed to measure crime, not sexual violence specifically. Its crime-survey framing, household interview context, and ambiguous terminology make it a poor instrument for tracking sexual assault trends. The NISVS uses better methodology but changes its instrument between waves, preventing trend analysis. Police reports measure reporting behavior, not victimization.
+
+The [NRC panel's 2014 recommendation](https://www.ncbi.nlm.nih.gov/books/NBK202252/){.cite} to build a *dedicated* sexual violence survey---separate from the NCVS, with behaviorally specific questions administered in a health (not crime) context---remains unimplemented more than a decade later. Until such a survey exists, the field lacks a measure capable of answering the basic question of whether sexual assault is increasing, decreasing, or holding steady. The 2024 NCVS redesign is a step toward better measurement, but BJS has acknowledged that it will create yet another discontinuity in the time series, making pre- and post-redesign data incomparable.
+
+### Best Assessment
+
+The post-2010 NCVS increases---including the 2018 spike---are most parsimoniously explained as a combination of #MeToo-era disclosure effects, gradual definitional expansion, and series victimization volatility. This interpretation is supported by: (1) the temporary and racially specific nature of the #MeToo effect (Worthen & Schleifer, 2024); (2) the absence of a comparable spike in UCR data or in international victimization surveys; (3) Chen and Long's (2024) finding that post-#MeToo increases in police-reported sex crimes reflected reporting behavior rather than incidence; (4) Jaffe et al.'s (2022) finding that behavioral prevalence did not change even as labeling did; and (5) the NRC panel's (2014) documentation of how sensitive NCVS rape/sexual assault estimates are to methodological factors.
+
+The evidence does *not* support claims that sexual violence has increased dramatically since 2010 in a genuine behavioral sense. But the honest answer is that we do not know for certain: no existing instrument can reliably separate changes in incidence from changes in disclosure. The true post-2010 trajectory could be flat, modestly rising, or even still declining. What we can say with confidence is that the NCVS signal is too contaminated by measurement artifacts to tell us which.
+
+---
+
+## Key Findings
+
+- *Sexual assault is far more common than official statistics suggest.* The NCVS, the government's primary victimization survey, undercounts sexual assault by an estimated factor of 3--8 times. Surveys using behaviorally specific questions consistently find that approximately 1 in 5 women (18--27%) have experienced completed or attempted rape in their lifetime (NISVS, multiple waves). The most recent NISVS wave (2023/2024), using a new web-based methodology, found 21.0% lifetime prevalence of completed or attempted rape among women. Across all major surveys, large majorities of victims report their first assault before age 25, and 40--50% before age 18.
+
+- *Sexual assault declined substantially from the 1990s, but less than the NCVS implies.* A real decline of roughly 40--60% likely occurred from the early 1990s through approximately 2010, paralleling the broader crime decline. The rate probably fell from roughly 5--12 per 1,000 at the peak to approximately 4--8 per 1,000 in recent years.
+
+- *The post-2010 NCVS increase---including the 2018 spike---is primarily a measurement artifact.* The rise from 0.5 per 1,000 in 2009 to 2.7 in 2018 likely reflects changed disclosure behavior (especially post-#MeToo), series victimization outliers that create statistical volatility, and evolving social norms around labeling experiences as sexual assault. The increase was temporary, concentrated among White women, and not replicated in international surveys or UCR data. No existing instrument can reliably separate changes in incidence from changes in disclosure.
+
+- *The criminal legal system processes almost no sexual assaults to completion.* For every 1,000 sexual assaults, approximately 310 are reported to police, roughly 85 lead to arrest, and roughly 25--28 result in a felony conviction. The overall probability of accountability is approximately 2.5--5%.
+
+- *Police clearance rates for rape have collapsed*---from roughly 60% in the 1960s to approximately 26--27% in recent years.
+
+- *Prosecutorial discretion is the critical bottleneck.* Research consistently shows that prosecutors base charging decisions on assessments of victim credibility and case "winnability" that often align with rape myths. Victim-offender relationship, victim alcohol use, and delayed reporting all reduce the probability of charges---even when they are legally irrelevant.
+
+- *An estimated 200,000--400,000 rape kits sit untested.* Where tested, hit rates of 28--41% have identified hundreds of serial offenders operating across state lines.
+
+- *False report rates are low.* Research places the rate of demonstrably false reports at approximately 2--10%, with the best studies converging around 5%. The far higher police "unfounding" rate (5--8%) conflates genuinely false reports with cases that are merely difficult to investigate.
+
+### What These Data Mean for Evaluating Legal Reform
+
+The past five decades have seen substantial doctrinal reform in sexual assault law: expansion of the definition of rape, elimination of corroboration and resistance requirements, enactment of rape shield laws, and removal of spousal exemptions. Yet the data show no corresponding improvement in case outcomes. Reporting rates remain low. Clearance rates have declined. Conviction rates remain in the single digits as a percentage of reported cases. Specialized prosecution units have not demonstrably altered charging patterns (Beichner & Spohn, 2005).
+
+This disconnect raises a central question for criminal law pedagogy: *Why has doctrinal reform failed to close the justice gap?* The evidence points to discretionary practices---by victims deciding whether to report, by police deciding whether to investigate, and by prosecutors deciding whether to charge---that are driven by cultural attitudes about sexual assault rather than by formal legal rules. Rape myths, victim credibility assessments, and convictability concerns operate at every decision point, regardless of what the substantive law provides.
+
+### The Gap Between Law on the Books and Law in Action
+
+Sexual assault offers perhaps the starkest illustration in all of criminal law of the gap between formal legal rules and their implementation. The substantive law in most jurisdictions now defines sexual assault broadly: it covers acquaintance rape, marital rape, and drug-facilitated assault; it does not require resistance or corroboration; and it provides serious penalties. On paper, the law is far more protective than it was 50 years ago. In practice, the probability that a sexual assault results in any criminal sanction has not meaningfully improved.
+
+### Why the Attrition Funnel Matters More Than Doctrinal Definitions
+
+For students of criminal law, the most important lesson from these data is that *what matters most is not how the law defines sexual assault, but how institutions process it.* The elements of the offense, the grading of penalties, and the procedural protections for defendants are the focus of casebook chapters---and they are important. But they explain almost nothing about who is actually held accountable and who is not. The attrition funnel---from victimization to reporting to investigation to charging to conviction---is where the law meets reality. Understanding that funnel is essential to evaluating whether legal reform can ever close the justice gap, or whether the problem lies deeper in the institutional and cultural structures that process sexual assault cases.
+
+---
+
+## Citations
+
+### Section 1: Data Sources and Their Limitations
+
+- Abbey, A., Parkhill, M.R. & Koss, M.P. "The Effects of Frame of Reference on Responses to Questions About Sexual Assault Victimization and Perpetration." *Psychology of Women Quarterly* 29(4): 364--373 (2005). [https://doi.org/10.1111/j.1471-6402.2005.00236.x](https://doi.org/10.1111/j.1471-6402.2005.00236.x){.cite}
+- Anderson, R.E. et al. "Study Title-Based Framing Effects on Reports of Sexual Violence." *Journal of Interpersonal Violence* (2022). [https://doi.org/10.1177/08862605211016349](https://doi.org/10.1177/08862605211016349){.cite}
+- Bureau of Justice Statistics. *Criminal Victimization in the United States: 1973--92 Trends* (NCJ-147006).
+- CDC. *National Intimate Partner and Sexual Violence Survey: 2023/2024 Data Brief* (2025).
+- RTI International. *NCVS Historical Trends Project* (Doc. 250655).
+- Basile, K.C. et al. *The National Intimate Partner and Sexual Violence Survey: 2016/2017 Report on Sexual Violence.* CDC (2022).
+- Black, M.C. et al. *The National Intimate Partner and Sexual Violence Survey (NISVS): 2010 Summary Report.* CDC (2011).
+- Bureau of Justice Statistics. *Criminal Victimization, 2014* (NCJ 248973, August 2015).
+- Bureau of Justice Statistics. *Criminal Victimization, 2018* (NCJ 253043, September 2019).
+- Bureau of Justice Statistics. *Criminal Victimization, 2023* (NCJ 309335, September 2024).
+- Cantor, D. et al. *Report on the AAU Campus Climate Survey on Sexual Assault and Misconduct (2019).* Westat (2020).
+- CDC. *Youth Risk Behavior Survey Data Summary & Trends Report: 2011--2021* (2023).
+- Fisher, B.S., Cullen, F.T. & Turner, M.G. *The Sexual Victimization of College Women.* NIJ Research Report (2000). [https://files.eric.ed.gov/fulltext/ED449712.pdf](https://files.eric.ed.gov/fulltext/ED449712.pdf){.cite}
+- Krebs, C.P. et al. *The Campus Sexual Assault (CSA) Study: Final Report.* NIJ (2007).
+- National Research Council. *Estimating the Incidence of Rape and Sexual Assault.* National Academies Press (2014). [https://www.ncbi.nlm.nih.gov/books/NBK202252/](https://www.ncbi.nlm.nih.gov/books/NBK202252/){.cite}
+- Tjaden, P. & Thoennes, N. *Extent, Nature, and Consequences of Rape Victimization.* NIJ Special Report (2006).
+
+### Section 2: Victimization Trends Over Time
+
+- Bureau of Justice Statistics. *Criminal Victimization, 2014*, Appendix Table 1 (total violent crime rates, 1993--2014).
+- Bureau of Justice Statistics. *Criminal Victimization, 2018*, Tables 1 and 5.
+- Bureau of Justice Statistics. *Criminal Victimization, 2023*, Tables 1, 4, and 6.
+- FBI. *Uniform Crime Reports* (various years). Compiled by Disaster Center (disastercenter.com/crime/uscrime.htm).
+- Planty, M. et al. "Female Victims of Sexual Violence, 1994--2010." BJS Special Report (2013). [https://bjs.ojp.gov/content/pub/pdf/fvsv9410.pdf](https://bjs.ojp.gov/content/pub/pdf/fvsv9410.pdf){.cite}
+- Smith, S.G. et al. *The National Intimate Partner and Sexual Violence Survey (NISVS): 2015 Data Brief.* CDC (2018).
+- Jaffe, A.E., Cero, I. & DiLillo, D. "The #MeToo Effect on Labeling and Disclosure of Sexual Assault." *Journal of Interpersonal Violence* 37(23--24): NP22306--NP22323 (2022). [https://pmc.ncbi.nlm.nih.gov/articles/PMC8713172/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8713172/){.cite}
+- Levy, R. & Mattsson, M. "The Effects of Social Movements: Evidence from #MeToo." Working Paper, Yale University (2020). [https://news.yale.edu/2020/01/27/metoo-makes-difference-sex-crime-reporting-study-shows](https://news.yale.edu/2020/01/27/metoo-makes-difference-sex-crime-reporting-study-shows){.cite}
+- Worthen, M.G.F. & Schleifer, C. "#MeToo and Sexual Violence Reporting in the National Crime Victimization Survey." *Journal of Interpersonal Violence* (2024). [https://doi.org/10.1177/08862605241234355](https://doi.org/10.1177/08862605241234355){.cite}
+
+### Section 3: The Criminal Legal System Response
+
+- Beichner, D. & Spohn, C. "Prosecutorial Charging Decisions in Sexual Assault Cases: Examining the Impact of a Specialized Prosecution Unit." *Criminal Justice Policy Review* 16(4): 461--498 (2005).
+- Bureau of Justice Statistics. *Victimizations Not Reported to the Police, 2006--2010* (August 2012). [https://bjs.ojp.gov/content/pub/pdf/vnrp0610.pdf](https://bjs.ojp.gov/content/pub/pdf/vnrp0610.pdf){.cite}
+- Campbell, R. "Rape Survivors' Experiences with the Legal and Medical Systems: Do Rape Victim Advocates Make a Difference?" *Violence Against Women* 12(1): 30--45 (2006).
+- Campbell, R., Wasco, S.M., Ahrens, C.E., Sefl, T. & Barnes, H.E. "Community Services for Rape Survivors: Enhancing Psychological Well-Being or Increasing Trauma?" *Journal of Consulting and Clinical Psychology* 67(6): 847--858 (1999).
+- Campbell, R. et al. "Tested at Last: How DNA Evidence in Untested Rape Kits Can Identify Offenders and Serial Sexual Assaults." *Journal of Interpersonal Violence* 33(4): 3401--3424 (2018). [https://doi.org/10.1177/0886260516639585](https://doi.org/10.1177/0886260516639585){.cite}
+- Lovell, R.E., Singer, M., Flannery, D.J. & McGuire, M.J. "The Case for 'Investigate All': Assessing the Cost-Effectiveness of Investigating No CODIS Hit Cases in a Sexual Assault Kit Initiative." *Journal of Forensic Sciences* 66(3) (2021). [https://doi.org/10.1111/1556-4029.14686](https://doi.org/10.1111/1556-4029.14686){.cite}
+- Campbell, R., Patterson, D. & Bybee, D. "Prosecution of Adult Sexual Assault Cases." *Violence Against Women* 18(2): 223--244 (2012).
+- Congressional Research Service. *Sexual Assault Kits (SAKs) and the Backlog of Untested Sexual Assault Evidence* (R44237).
+- Cook & Mancik. "The Sixty-Year Trajectory of Homicide Clearance Rates." *Annual Review of Criminology* 7: 59--83 (2024).
+- Ferguson, C.E. & Malouff, J.M. "Assessing Police Classifications of Sexual Assault Reports: A Meta-Analysis of False Reporting Rates." *Archives of Sexual Behavior* 45: 1185--1193 (2016).
+- Hoffman, E.E., Patton, E. & Greeson, M.R. "A Systematic Review of Sexual Assault Case Attrition in the United States from 2000 to 2020." *Trauma, Violence & Abuse* 26(4): 850--866 (2025).
+- Lisak, D. et al. "False Allegations of Sexual Assault: An Analysis of Ten Years of Reported Cases." *Violence Against Women* 16(12): 1318--1334 (2010).
+- Lonsway, K.A. & Archambault, J. "The 'Justice Gap' for Sexual Assault Cases." *Violence Against Women* 18(2): 145--168 (2012).
+- Pew Research Center. "What the Data Says About Crime in the U.S." (April 24, 2024).
+- RAINN. "Statistics: The Criminal Justice System" (updated August 2025). [https://rainn.org/get-informed/facts-statistics-the-scope-of-the-problem/](https://rainn.org/get-informed/facts-statistics-the-scope-of-the-problem/){.cite}
+- Ropp, C., Lee, J., King, L. & Bostaph, L. "A Prosecutor's 'Ideal' Sexual Assault Case." *Criminology* 62(4): 704--738 (2024).
+- Sabina, C. & Ho, L.Y. "Campus and College Victim Responses to Sexual Assault and Dating Violence." *Trauma, Violence, & Abuse* 15(3): 227--241 (2014).
+- Spohn, C., Beichner, D. & Davis-Frenzel, E. "Prosecutorial Justifications for Sexual Assault Case Rejection." *Social Problems* 48(2): 206--235 (2001).
+- Spohn, C. & Holleran, D. "Prosecuting Sexual Assault: A Comparison of Charging Decisions." *Justice Quarterly* 18(3): 651--688 (2001).
+- Spohn, C. & Horney, J. *Rape Law Reform: A Grassroots Revolution and Its Impact.* Plenum Press (1992).
+- Walinchus, Smyser & Murphy. "Less Than 4% of Sex Crimes End in Conviction." NBC News (Jan. 10, 2025). [https://www.nbcnews.com/specials/sex-assault-convictions/](https://www.nbcnews.com/specials/sex-assault-convictions/){.cite}
+- Wolitzky-Taylor, K.B. et al. "Is Reporting of Rape on the Rise?" *Journal of Interpersonal Violence* 26(4): 807--832 (2011).
+- Women's Law Project. "The Philadelphia Model." Presentation at National Sexual Assault Conference (2019).
+
+### Section 4: Estimating the True Rate and Post-2010 Trends
+
+- Buchhandler-Raphael, M. "Underprosecution Too." *University of Richmond Law Review* 56: 409 (2022).
+- Chen, J. & Long, C. "The #MeToo Movement and the Reporting of Sex Crimes." *Journal of Population Economics* 37: 67 (2024). [https://doi.org/10.1007/s00148-024-01014-x](https://doi.org/10.1007/s00148-024-01014-x){.cite}
+- Clay-Warner, J. & Burt, C.H. "Rape Reporting After Reforms: Have Times Really Changed?" *Violence Against Women* 11(2): 150--176 (2005). [https://doi.org/10.1177/1077801204271566](https://doi.org/10.1177/1077801204271566){.cite}
+- Finkelhor, D. & Jones, L.M. "Explanations for the Decline in Child Sexual Abuse Cases." OJJDP Bulletin (2004). [https://www.ojp.gov/pdffiles1/ojjdp/199298.pdf](https://www.ojp.gov/pdffiles1/ojjdp/199298.pdf){.cite}
+- Finkelhor, D. et al. "Why Have Child Maltreatment and Child Victimization Declined?" *Journal of Social Issues* (2006).
+- Kilpatrick, D.G. & McCauley, J.L. "Understanding National Rape Statistics." VAWnet (2009). [https://vawnet.org/sites/default/files/materials/files/2016-09/AR_RapeStatistics.pdf](https://vawnet.org/sites/default/files/materials/files/2016-09/AR_RapeStatistics.pdf){.cite}
+- Kilpatrick, D.G. et al. *Rape in America: A Report to the Nation.* National Victim Center (1992).
+- Koss, M.P. "The Scope of Rape: Incidence and Prevalence of Sexual Aggression and Victimization in a National Sample of Higher Education Students." *Journal of Consulting and Clinical Psychology* (1987).
+- Koss, M.P. et al. "Revising the SES: A Collaborative Process." *Psychology of Women Quarterly* (2007).
+
+---
+
+*Report compiled March 2026. All data drawn from published sources cited above.*

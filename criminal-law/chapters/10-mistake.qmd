@@ -1,0 +1,344 @@
+# Mistake of Fact and Mistake of Law
+
+Criminal liability generally requires a culpable mental state. But what happens when a defendant acts under a mistaken belief about the facts or the law? This chapter explores when mistake can negate the required mental state --- and when it cannot.
+
+These questions sit at the intersection of two competing values. We generally do not want to punish those who lack moral culpability --- the person who genuinely believes abandoned property is free for the taking, or who reasonably relies on official guidance that proves wrong. But allowing every claimed mistake to defeat liability would invite abuse and undermine the criminal law's expectation-setting function.
+
+The doctrine distinguishes mistakes of fact from mistakes of law. For mistakes of fact, the question is whether the mistake negates the required mental state. For mistakes of law, the traditional rule is harsher: ignorance of the law is no excuse. But even this maxim has exceptions, particularly when a defendant relies on official statements that prove erroneous.
+
+Consider how the doctrine applies to our running cases. Would a Purdue Pharma executive who claims ignorance of OxyContin's risks have a viable defense? What about someone in Keilee Fant's situation who genuinely did not know unpaid parking tickets could lead to arrest warrants? The answers reveal how the system allocates the risk of mistake and whether that allocation serves justice.
+
+## Mistake of Fact
+
+### The Basic Rule
+
+The mistake of fact defense is conceptually simple but doctrinally complex. The basic rule: a mistake is a defense *if* it defeats proof of the required mental state. The hard part --- at least in common law jurisdictions --- is determining what that mental state actually is.
+
+Legislatures are notoriously imprecise about mental states. Often they fail to address the issue at all. When they do, they use a confusing array of terms --- "willful," "malicious," "wrongful," "felonious," "depraved" --- rarely indicating which act or circumstance elements these terms cover. When silence or ambiguity leaves the required mental state unclear, it becomes impossible to say whether a particular mistake defeats proof of it.
+
+### Problem: Mistake and Theft
+
+Assume that East Dakota's hypothetical criminal code states: "A person commits theft of property if they [...] intentionally take or exercise unauthorized control over, or make an unauthorized transfer of an interest in, the property of another person [...]." Consider the following cases:
+
+1. *D* is charged with theft of *V*'s cell phone. At trial, the defense raises a "mistake of fact" defense: gathering up her own possessions after a mesmerizing criminal-law class, *D* absent-mindedly picked up *V*'s phone, which was lying on the floor in front of them, and put it in her book bag. If the jury accepts that *D* did not realize she was taking the cell phone (or at least forms a reasonable doubt as to whether *D* knew she was doing so), should it convict or acquit?
+
+2. *D* is charged with theft of *V*'s cell phone. At trial, the defense raises a "mistake of fact" defense: *D* thought the cell phone, which was accidentally left behind by *V* after a mesmerizing criminal-law class, was *V*'s handheld personal organizer, which *D* planned to reprogram and use for herself. If the jury accepts that *D* thought the object she took was *V*'s personal organizer and not his cell phone (or forms a reasonable doubt as to whether *D* realized that she was taking another's cell phone rather than another's organizer), should it convict or acquit?
+
+3. *D* is charged with theft of *V*'s cell phone. At trial, the defense raises a "mistake of fact" defense: *D* mistook *V*'s phone for her own as she was gathering her possessions after a stimulating criminal-law class. If the jury accepts that *D* believed the phone was hers (or forms a reasonable doubt as to whether *D* believed the phone was hers), should it convict or acquit?
+
+### Statutory Framework
+
+::: {.callout-note}
+### Model Penal Code Section 2.02 --- General Requirements of Culpability
+
+(1) *Minimum Requirements of Culpability.* Except as provided in Section 2.05, a person is not guilty of an offense unless he acted purposely, knowingly, recklessly or negligently, as the law may require, with respect to each material element of the offense.
+
+(2) *Kinds of Culpability Defined.*
+
+> (a) *Purposely.* A person acts purposely with respect to a material element of an offense when:
+>
+> (i) if the element involves the nature of his conduct or a result thereof, it is his conscious object to engage in conduct of that nature or to cause such a result; and
+>
+> (ii) if the element involves the attendant circumstances, he is aware of the existence of such circumstances or he believes or hopes that they exist.
+>
+> (b) *Knowingly.* A person acts knowingly with respect to a material element of an offense when:
+>
+> (i) if the element involves the nature of his conduct or the attendant circumstances, he is aware that his conduct is of that nature or that such circumstances exist; and
+>
+> (ii) if the element involves a result of his conduct, he is aware that it is practically certain that his conduct will cause such a result.
+>
+> (c) *Recklessly.* A person acts recklessly with respect to a material element of an offense when he consciously disregards a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that, considering the nature and purpose of the actor's conduct and the circumstances known to him, its disregard involves a gross deviation from the standard of conduct that a law-abiding person would observe in the actor's situation.
+>
+> (d) *Negligently.* A person acts negligently with respect to a material element of an offense when he should be aware of a substantial and unjustifiable risk that the material element exists or will result from his conduct. The risk must be of such a nature and degree that the actor's failure to perceive it, considering the nature and purpose of his conduct and the circumstances known to him, involves a gross deviation from the standard of care that a reasonable person would observe in the actor's situation.
+
+(3) *Culpability Required Unless Otherwise Provided.* When the culpability sufficient to establish a material element of an offense is not prescribed by law, such element is established if a person acts purposely, knowingly or recklessly with respect thereto.
+
+(4) *Prescribed Culpability Requirement Applies to All Material Elements.* When the law defining an offense prescribes the kind of culpability that is sufficient for the commission of an offense, without distinguishing among the material elements thereof, such provision shall apply to all the material elements of the offense, unless a contrary purpose plainly appears.
+:::
+
+::: {.callout-note}
+### Model Penal Code Section 2.04 --- Ignorance or Mistake
+
+(1) Ignorance or mistake as to a matter of fact or law is a defense if:
+
+> (a) the ignorance or mistake negatives the purpose, knowledge, belief, recklessness or negligence required to establish a material element of the offense; or
+>
+> (b) the law provides that the state of mind established by such ignorance or mistake constitutes a defense.
+:::
+
+The Model Penal Code supplies two powerful default rules. Section 2.02(4), the "one for all" presumption, provides that a single mental state term applies "to all the material [act and circumstance] elements of the offense, unless a contrary purpose plainly appears." Section 2.02(3), the "silence implies recklessness" rule, provides that when a statute specifies no mental state, the offense requires proof the defendant "act[ed] purposely, knowingly or recklessly." Under the MPC, a court never defaults to strict liability; the purpose to impose it must "plainly appear[]" in the text.
+
+Over half the states have adopted the MPC's mental state provisions, but many others, including the federal system, have not. In non-MPC jurisdictions, courts must interpret statutory silence without formal default rules, often looking to common law principles and the nature of the offense.
+
+### The Common Law Approach
+
+Under the common law, courts take a less systematic, more value-laden approach. If the act, had the facts been as the defendant imagined, would have been innocent, the common law allowed the mistake defense. But if the act would still have been wrong (*malum in se*), the defense was refused.
+
+Courts following the common law tradition also distinguish between "specific intent" and "general intent" crimes. Specific intent crimes require a particular purpose to achieve some result. For specific intent crimes, courts apply the "honest mistake" doctrine: an honestly-held mistake serves as a defense regardless of whether it is reasonable. For general intent crimes, courts apply the "reasonable mistake" doctrine: only a mistake that is both honestly-held *and* reasonable serves as a defense. For strict liability crimes, no mistake, no matter how sincere or reasonable, can serve as a defense.
+
+## The Presumption Against Strict Liability
+
+When Congress enacts a criminal statute silent on mental state, how should courts interpret that silence? The Supreme Court has repeatedly held that courts should presume Congress intended to require *mens rea*, not impose strict liability. The foundational case involved a man who claimed he picked up junk.
+
+## MORISSETTE v. UNITED STATES {#morissette-v-united-states .unnumbered .unlisted .case-title}
+
+*Supreme Court of the United States, 1952 (342 U.S. 246)*
+
+Joseph Morissette, a Michigan scrap collector, entered a government bombing range, gathered spent bomb casings that appeared to have been abandoned, flattened them with his tractor, and sold them for $84. As the Court would later note, "[t]he loading, crushing and transporting of these casings were all in broad daylight, in full view of passers-by, without the slightest effort at concealment." He was charged with "knowingly convert[ing]" government property under 18 U.S.C. § 641. At trial, the judge instructed the jury that Morissette's honest belief the casings were abandoned was irrelevant. The jury convicted and the Court of Appeals affirmed.
+
+::: {.case-excerpt}
+
+Justice JACKSON delivered the opinion of the Court.
+
+This would have remained a profoundly insignificant case to all except its immediate parties had it not been so tried and submitted to the jury as to raise questions both fundamental and far-reaching in federal criminal law [...].
+
+The contention that an injury can amount to a crime only when inflicted by intention is no provincial or transient notion. It is as universal and persistent in mature systems of law as belief in freedom of the human will and a consequent ability and duty of the normal individual to choose between good and evil. [...]
+
+Crime, as a compound concept, generally constituted only from concurrence of an evil-meaning mind with an evil-doing hand, was congenial to an intense individualism and took deep and early root in American soil. As the states codified the common law of crimes, even if their enactments were silent on the subject, their courts assumed that the omission did not signify disapproval of the principle but merely recognized that intent was so inherent in the idea of the offense that it required no statutory affirmation. [...]
+
+The Government asks us by a feat of construction radically to change the weights and balances in the scales of justice. The purpose and obvious effect of doing away with the requirement of a guilty intent is to ease the prosecution's path to conviction, to strip the defendant of such benefit as he derived at common law from innocence of evil purpose, and to circumscribe the freedom heretofore allowed juries. [...]
+
+Congressional silence as to mental elements in an Act merely adopting into federal statutory law a concept of crime already so well defined in common law and statutory interpretation by the states may warrant quite contrary inferences than the same silence in creating an offense new to general law [...].
+
+Stealing, larceny, and its variants and equivalents, were among the earliest offenses known to the law [...]. State courts of last resort, on whom fall the heaviest burden of interpreting criminal law in this country, have consistently retained the requirement of intent in larceny-type offenses. [...]
+
+[I]t is not apparent how Morissette could have knowingly or intentionally converted property that he did not know could be converted, as would be the case if it was in fact abandoned or if he truly believed it to be abandoned and unwanted property. [...]
+
+We hold that mere omission from § 641 of any mention of intent will not be construed as eliminating that element from the crimes denounced.
+
+:::
+
+The Court reversed: a genuine belief that the property was abandoned, if credited by the jury, negates the required mental state.
+
+### *Rehaif v. United States* (2019)
+
+In *Rehaif v. United States*, 588 U.S. 225 (2019), the Court applied *Morissette*'s logic to a federal firearms statute. Hamid Rehaif, a foreign student dismissed from his university, visited a firing range and shot two firearms. He was prosecuted under 18 U.S.C. § 922(g), which bars an alien "illegally or unlawfully in the United States" from possessing a firearm. Section 924(a)(2) punishes anyone who "knowingly violates" the prohibition.
+
+The question: did "knowingly" apply only to possessing a firearm, or also to the defendant's *status* as an alien unlawfully in the country? The trial court instructed the jury that the government need not prove Rehaif knew his immigration status. Every circuit had agreed.
+
+The Supreme Court reversed, 7–2. Justice Breyer held that the scienter presumption required the government to prove Rehaif knew both that he possessed a firearm *and* that he belonged to the prohibited category. "Possessing a gun can be entirely innocent," the Court observed --- without knowledge of the status that made his conduct unlawful, the defendant lacked the required "guilty state of mind." The Court drew a key distinction: the government must prove the defendant knew the *facts* that made his conduct criminal, not that he knew his conduct *was* criminal.
+
+### *Elonis v. United States* (2015)
+
+*Elonis v. United States*, 575 U.S. 723 (2015), extended the *Morissette* presumption to threats. Anthony Elonis, after his wife left him, posted graphically violent "rap lyrics" on Facebook directed at his estranged wife, co-workers, a kindergarten class, and an FBI agent. He was convicted under 18 U.S.C. § 875(c), which prohibits transmitting "any communication containing any threat to injure the person of another." The trial court instructed the jury it need only find a *reasonable person* would view the posts as threats --- the defendant's intent was irrelevant.
+
+The Supreme Court reversed. Chief Justice Roberts wrote that a reasonable-person standard "reduces culpability on the all-important element of the crime to negligence" (quoting Sutton, J., dubitante, in *United States v. Jeffries*, 692 F.3d 473, 484 (6th Cir. 2012)), and the Court had "long been reluctant to infer that a negligence standard was intended in criminal statutes." Applying the *Morissette* presumption, the Court held that § 875(c) requires more than negligence as to the threatening nature of the communication, but declined to decide whether recklessness would suffice.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Morissette took the casings openly and sold them to a junk dealer, making no effort to conceal his conduct. Why does this matter to the Court's analysis? Under the Court's holding, how should the jury have been instructed?
+
+2. The Government argued that "knowingly" referred only to the physical act of taking. The Court held it also applies to the attendant circumstance --- that the property belonged to the government. How does this interpretive move relate to the MPC's "one for all" presumption in Section 2.02(4)?
+
+3. *Morissette* involved taking property; *Rehaif* involved possessing a firearm; *Elonis* involved posting words online. In each case, the Court emphasizes that the defendant's conduct was "entirely innocent" absent the circumstance that made it criminal. Is this framing persuasive in *Elonis*? Were Elonis's posts "entirely innocent"?
+
+4. In *Rehaif*, the Court distinguished between knowing the *facts* that make conduct criminal and knowing that one's conduct *is* criminal. Why does this distinction matter? Apply it to a Purdue Pharma executive who knew the facts about OxyContin's addictiveness but claimed not to know that marketing it as non-addictive violated FDA regulations.
+
+5. Consider the three cases together. Each involves a statute that was silent or ambiguous on mental state. In each, the Court read in a *mens rea* requirement. What would happen if legislatures *did* specify strict liability for these offenses? Would the Constitution permit it? Does the presumption against strict liability reflect a constitutional norm or merely a rule of statutory interpretation?
+:::
+
+## Mistake of Law
+
+### The Traditional Rule and Its Exceptions
+
+The *mens rea* presumption that *Morissette*, *Rehaif*, and *Elonis* defend does not extend to mistakes about the *law* itself. The traditional rule is stark: ignorance of the law is no excuse. Unlike mistake of fact, mistake of law generally provides no defense even when the defendant sincerely and reasonably believed his conduct was lawful.
+
+The justifications are pragmatic. As Holmes put it in *The Common Law* (1881), "to admit the excuse at all would be to encourage ignorance where the law-maker has determined to make men know and obey [...]." Courts have worried that a general mistake-of-law defense would invite fabricated claims, undermine the law's expectation-setting capacity, and overwhelm courts with inquiries into each defendant's subjective understanding of complex statutes.
+
+::: {.callout-note}
+### Model Penal Code Section 2.02(9) --- Culpability as to Illegality of Conduct
+
+Neither knowledge nor recklessness or negligence as to whether conduct constitutes an offense or as to the existence, meaning or application of the law determining the elements of an offense is an element of such offense, unless the definition of the offense or the Code so provides.
+:::
+
+But the traditional rule has important exceptions. Modern law recognizes at least four circumstances in which a defendant's mistake about the law may provide a defense.
+
+*1. Collateral law versus penal law.* The "penal law" is the statute creating the offense; "collateral law" is any body of law that determines a factual predicate the penal law incorporates. Courts distinguish between mistakes about the penal law (which generally provide no defense) and mistakes about collateral law (which may). Consider a bigamy prosecution. The "penal law" is the statute making it a crime to marry while already married. But whether a prior divorce is valid depends on "collateral law" (the law of domestic relations). If a defendant reasonably believes his prior divorce was valid when it was not, his mistake concerns collateral law, not penal law, and may provide a defense. In *Long v. State*, 65 A.2d 489 (Del. 1949), the Delaware Supreme Court held that a defendant charged with bigamy could raise his reasonable reliance on an attorney's advice that his out-of-state divorce was valid, because the legal questions surrounding marriage and divorce are "more frequently perplexing than obvious to a layman."
+
+*2. The statute itself requires knowledge of illegality.* Some criminal statutes expressly require proof that the defendant knew his conduct was unlawful. The most significant example is the "willfulness" requirement in federal tax crimes. In *Cheek v. United States*, 498 U.S. 192 (1991), the Supreme Court held that "willfully" in federal criminal tax statutes means the "voluntary, intentional violation of a known legal duty." A defendant who genuinely (even unreasonably) believed he had no duty to pay taxes could not be convicted, because he lacked the required mental state. The Court justified this departure from the traditional rule by pointing to the extraordinary complexity of the tax code, which makes it plausible that a defendant might genuinely misunderstand his obligations. But the *Cheek* exception is narrow: it does not extend to beliefs that the tax law is unconstitutional, and *Bryan v. United States* (1998) declined to extend it to firearms regulation, distinguishing it from the "highly technical statutes that presented the danger of ensnaring individuals engaged in apparently innocent conduct" at issue in *Cheek*.
+
+*3. The offense implicitly requires knowledge of illegality.* Even when a statute does not expressly require knowledge of the law, courts sometimes read in such a requirement. In *People v. Marrero*, 507 N.E.2d 1068 (N.Y. 1987), a federal corrections officer was convicted of carrying a weapon in New York, which he believed was permitted under a "peace officer" exemption. The majority rejected his defense, holding that a defendant's personal misreading of an ambiguous statute, no matter how reasonable, does not qualify as reliance on an "official statement of the law." But a sharp dissent argued that punishing a person who acted in "complete good faith under the mistaken but entirely reasonable assumption that the act does not constitute an offense because it is permitted by the wording of the statute" was unjust, particularly for conduct that is *malum prohibitum* rather than *malum in se*. The tension between the majority and dissent in *Marrero* captures the central debate: should the law punish the blameless to preserve the clarity of the rule, or should it recognize that modern regulatory complexity makes the fiction of universal legal knowledge "indefensible in fact or logic"?
+
+*4. Reasonable reliance on official statements of the law.* Even under the traditional rule, courts recognize a defense when the defendant reasonably relied on an official statement of the law that later proved incorrect. The Model Penal Code codifies this exception:
+
+::: {.callout-note}
+### Model Penal Code Section 2.04(3) --- Reliance Defense
+
+A belief that conduct does not legally constitute an offense is a defense to a prosecution for that offense based upon such conduct when:
+
+> (a) the statute or other enactment defining the offense is not known to the actor and has not been published or otherwise reasonably made available prior to the conduct alleged; or
+>
+> (b) he acts in reasonable reliance upon an official statement of the law, afterward determined to be invalid or erroneous, contained in (i) a statute or other enactment; (ii) a judicial decision, opinion or judgment; (iii) an administrative order or grant of permission; or (iv) an official interpretation of the public officer or body charged by law with responsibility for the interpretation, administration or enforcement of the law defining the offense.
+:::
+
+The key word is "official." A defendant's own reading of a statute, no matter how reasonable, does not qualify (*Marrero*). Nor does advice from a private attorney, standing alone. But reliance on a court decision, an administrative ruling, or the guidance of a government official charged with enforcing the law can provide a complete defense --- as the following two cases illustrate.
+
+### *Cox v. Louisiana* (1965)
+
+In *Cox v. Louisiana*, 379 U.S. 559 (1965), the Reverend B. Elton Cox led a large civil rights demonstration in Baton Rouge protesting the arrest of other civil rights protesters. He was convicted under a Louisiana statute prohibiting picketing "in or near" a courthouse. But the record showed (and the State's own witnesses confirmed) that the city's highest police officials, in the presence of the Sheriff and the Mayor, told Cox he could demonstrate across the street from the courthouse, 101 feet from its steps. Cox relied on this guidance.
+
+The Supreme Court reversed. Justice Goldberg wrote that to sustain Cox's conviction after officials told him where he could demonstrate "would be to sanction an indefensible sort of entrapment by the State --- convicting a citizen for exercising a privilege which the State had clearly told him was available to him" (quoting *Raley v. Ohio*, 360 U.S. 423, 426 (1959)). The Court grounded the holding in the Due Process Clause: the government cannot punish a person for conduct that its own officials authorized.
+
+### *United States v. Albertini* (1987)
+
+*United States v. Albertini*, 830 F.2d 985 (9th Cir. 1987), extended the reliance defense to judicial decisions. James Albertini, a peace activist barred from military bases in Hawaii, was convicted of trespassing on Hickam Air Force Base during an Armed Forces Day open house. He appealed, and the Ninth Circuit reversed, holding that the military had transformed the base into a temporary public forum during the open house.
+
+Relying on this decision, Albertini returned to distribute leaflets at three subsequent open houses. He was arrested each time; a jury later acquitted him of the first but convicted him on the latter two. Meanwhile, the Supreme Court granted certiorari and ultimately reversed the Ninth Circuit, holding that military bases are not public forums.
+
+The question was whether Albertini could be convicted for conduct that an appellate court had told him was protected. The Ninth Circuit said no: "It would be an act of 'intolerable injustice' to hold criminally liable a person who had engaged in certain conduct in reasonable reliance upon a judicial opinion instructing that such conduct is legal." The court held that the reliance defense applied, noting that Albertini had relied on a decision concerning his own prior conduct and expressly declining to decide whether the defense would extend beyond the point at which the Supreme Court granted certiorari.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. In *Cox*, the reliance was on oral guidance from police officers. In *Albertini*, it was on a published appellate decision. Should the source of the official statement matter? What about reliance on a government website, an agency FAQ, or a clerk's verbal assurance?
+
+2. Both courts use the word "entrapment" to describe the government's conduct. How does this differ from traditional entrapment doctrine? Is the analogy apt?
+
+3. At what point does the "window" of reliance close in *Albertini*? When certiorari is filed? Granted? Decided? What if the defendant learns the government is seeking review but the court has not yet acted?
+
+4. *Marrero* held that a defendant's own reasonable interpretation of an ambiguous statute is not reliance on an "official statement." But *Cox* held that oral guidance from police officers *is*. Is the distinction between these two forms of reliance principled, or does it turn on which institution --- the defendant or the government --- created the confusion?
+
+5. Consider the *Marrero* dissent's distinction between *malum in se* and *malum prohibitum*. Should the reliance defense be broader for regulatory offenses, where even lawyers may disagree about what the law requires? Does the *Cheek* willfulness exception already serve this function for a subset of cases?
+
+6. The *Cheek* Court held that even an objectively unreasonable belief about tax law can negate willfulness if genuinely held. But *Marrero* denied relief to a defendant whose belief about weapons law was arguably reasonable. What explains the different treatment? Is complexity the key variable, or is it the statutory text?
+:::
+
+### Variation: Florida's Voter Fraud Arrests
+
+::: {.callout-note}
+### In the News: Florida's Voter Fraud Arrests
+
+In August 2022, Florida Governor Ron DeSantis [announced the arrests](https://www.propublica.org/article/florida-felonies-voter-fraud){.cite} of several formerly incarcerated people for voter fraud because they had cast ballots in the 2020 election despite having a disqualifying felony conviction. News and videos showing their confusion and dismay as they were arrested aired on TV news stations and major media outlets across the country.
+
+The legal confusion stems from a 2018 constitutional amendment, known as Amendment 4, which was intended to restore voting rights to most people with felony convictions. However, the Republican-led legislature later passed a law requiring that all court-ordered fines and fees be paid before rights are restored. This created a system where even the state's own database was often unable to confirm whether a person had met all financial obligations.
+
+Many of those arrested said they were told they were eligible by state election officials or were able to register without anyone telling them they did not qualify. In several cases, the state had even issued them voter identification cards.
+
+"There's a fear: 'I want to do the right thing but not sure what that is at this point,'" said Derrick Oliver, who helps register voters in Alabama. "That's more or less the feeling."
+
+During a voter registration drive in Alabama, a few of the people reached via text message [cited Florida as a reason](https://www.themarshallproject.org/2022/11/04/florida-s-voter-fraud-arrests-are-scaring-away-formerly-incarcerated-voters){.cite} they would not accept the offer to help restore their voting rights. "Don't want to fall into a trap like they got in Florida," one person responded.
+:::
+
+::: {.callout-tip}
+### Questions on the Florida Voter Fraud Cases
+
+1. Under the traditional rule that ignorance of law is no excuse, does it matter that these defendants believed they were eligible to vote? That state officials told them they were eligible?
+
+2. Consider the reliance defense. Does receiving a voter identification card from the state constitute an "official statement" that one is eligible to vote? Should it?
+
+3. The statute requires that fines and fees be paid before voting rights are restored, but the state's own database could not verify compliance. What responsibility does the state bear for creating this confusion?
+
+4. Consider the chilling effect. These prosecutions deterred voter registration efforts in other states. Is that a legitimate exercise of prosecutorial discretion or an abuse of the criminal law?
+
+5. How do these cases relate to asymmetric enforcement? Consider whether a corporate executive who relied on legal advice in structuring their conduct would face the same consequences for similar confusion about the law.
+:::
+
+### Problem: The "Advice of Counsel" Defense
+
+Sam Bankman-Fried, founder of the cryptocurrency exchange FTX, was charged with fraud and conspiracy for diverting billions in customer funds. His defense: he was following the advice of his lawyers. To invoke the "advice of counsel" defense, a defendant must show full disclosure of relevant facts and good-faith reliance on the resulting advice. Prosecutors argued the defense failed because the lawyers were not fully informed of the underlying fraud.
+
+Consider these questions:
+
+1. How does advice of counsel differ from reliance on an "official statement" under MPC Section 2.04(3)? An attorney is not a public officer or body charged by law with responsibility for interpreting the relevant law.
+
+2. In *Long*, the Delaware court allowed reliance on attorney advice as part of a broader showing of "diligent, good-faith efforts to ascertain the law." Should the same apply here?
+
+3. What happens when the attorneys were not fully informed? Should partial disclosure defeat the defense entirely, or merely go to the weight of the evidence?
+
+4. Consider the distributional implications. Wealthy defendants can afford sophisticated legal advice; poor defendants cannot. Does the advice of counsel defense exacerbate inequality in the criminal legal system?
+
+5. Should it matter that Bankman-Fried allegedly used encryption and auto-deletion to prevent a paper trail? Does this suggest bad faith or simply prudent confidentiality?
+
+### Problem: Corporate Knowledge and Mistake
+
+The mistake doctrines become especially interesting when applied to corporate defendants who cause mass harm. The *Cheek* framework is relevant: the more unreasonable the asserted belief, the more likely a jury will treat it as a sham. When a corporation's own internal documents contradict its claimed ignorance, the defense collapses --- not because the law forbids it, but because no rational jury would credit it.
+
+Corporate criminal liability varies by jurisdiction. Some follow *respondeat superior*, under which a corporation is liable for any offense committed by an employee acting within the scope of employment and at least partly for its benefit. Others require proof that a specific employee committed the offense, though that employee need not be individually prosecuted. In practice, corporate cases are often resolved through non-prosecution or deferred prosecution agreements that hold the corporation accountable without trial. However the liability attaches, the corporation's "knowledge" includes the aggregate knowledge of its agents --- internal reports, memos, and research findings are all imputed to the entity. Consider the following applications.
+
+#### Purdue Pharma and Opioid Deaths {.unnumbered .unlisted}
+
+In 2007, Purdue Frederick Company, a Purdue affiliate, pleaded guilty to felony misbranding of OxyContin for marketing it as less addictive and less subject to abuse than other opioids when the company knew otherwise. In 2020, [Purdue Pharma itself pleaded guilty to fraud and kickback conspiracies](https://www.justice.gov/archives/opa/pr/opioid-manufacturer-purdue-pharma-pleads-guilty-fraud-and-kickback-conspiracies){.cite} related to its opioid marketing. On neither charge was there a plausible mistake of fact: internal documents showed that the company tracked overdose reports, addiction data, and black market diversion. Purdue did not argue that it was mistaken about the facts underlying these charges.
+
+But Purdue was never charged with homicide for the hundreds of thousands of deaths its product caused. Suppose a prosecutor had charged Purdue (the corporation) with negligent homicide or murder based on the theory that it pushed doctors to prescribe OxyContin for chronic pain while telling patients the drug was essentially non-addictive. Could the company claim a mistake of fact about the *lethality* of this conduct?
+
+::: {.callout-tip}
+### Discussion Questions: Purdue Pharma
+
+1. Start with negligent homicide. Under both the MPC and the common law, negligence requires that the defendant *should have been aware* of a substantial and unjustifiable risk. A mistake of fact is a defense only if it is reasonable --- that is, only if a reasonable person in the defendant's position would also have been unaware of the risk. Could Purdue reasonably claim it did not know that aggressively marketing a powerful opioid as non-addictive could lead to deaths? Remember that the corporation's knowledge includes everything its scientists, sales managers, and compliance officers knew. What would the internal documents tracking overdose reports and addiction data tell a jury about the reasonableness of any such claim?
+
+2. Now consider murder. Under the MPC's "extreme indifference to human life" standard, or the common law's "depraved heart" doctrine, the prosecution must show that the defendant *consciously disregarded* a substantial risk of death. An honest mistake about lethality would negate this mental state --- if genuine. But could Purdue honestly claim it did not appreciate the risk that its marketing strategy would kill people? Consider the timeline: sales reps were trained to tell doctors that OxyContin's time-release formula made it less addictive, even as the company received reports of widespread abuse and death. After the 2007 settlement, the Sackler family withdrew $10.7 billion between 2008 and 2018 while opioid deaths continued to climb.
+
+3. Would a jury find Purdue's claimed mistake reasonable? Almost certainly not. And if a mistake is so unreasonable that no rational person in the defendant's position could have held it, what does that tell you about whether the mistake was honestly held at all? Recall the *Cheek* Court's observation: "the more unreasonable the asserted beliefs or misunderstandings are, the more likely the jury will consider them to be nothing more than simple disagreement with known legal duties [...]."
+
+:::
+
+#### ExxonMobil, the American Petroleum Institute, and Climate Deaths {.unnumbered .unlisted}
+
+Now apply the same analysis to the fossil fuel industry. As we explored in the [causation](08-causation.qmd) chapter, internal documents show that [Exxon's own scientists concluded by the early 1980s](https://pubmed.ncbi.nlm.nih.gov/36634176/){.cite} that continued fossil fuel combustion would cause catastrophic climate change, including deaths from extreme heat, intensified storms, and rising seas. A [1982 internal memo](https://www.documentcloud.org/documents/2805576-1982-Exxon-Memo-to-Management-About-CO2/){.cite} predicted global temperature increases with remarkable accuracy. Despite this knowledge, Exxon and other members of the [American Petroleum Institute](https://www.desmog.com/american-petroleum-institute/){.cite} funded climate denial organizations, publicly cast doubt on the science their own researchers had confirmed, and expanded production.
+
+Suppose a prosecutor charges ExxonMobil (the corporation) with negligent homicide for deaths attributable to climate change: heat wave fatalities, hurricane deaths, or deaths from climate-intensified wildfires. The company claims mistake of fact: it genuinely believed that fossil fuel combustion would not cause lethal harm, or at least that the science was too uncertain to establish a substantial risk.
+
+::: {.callout-tip}
+### Discussion Questions: ExxonMobil
+
+1. Is this mistake reasonable? ExxonMobil's imputed "knowledge" includes everything its own scientists reported internally. The American Petroleum Institute's [Smoke and Fumes Committee](https://www.smokeandfumes.org/){.cite} had studied the link between fossil fuel combustion and atmospheric harm since the 1950s. Would internal documents --- like those analyzed in [Supran and Oreskes (2017)](https://doi.org/10.1088/1748-9326/aa815f){.cite} showing systematic discrepancies between what Exxon said publicly and what its scientists said privately --- make the mistake defense implausible? Compare to Purdue: both corporations possessed internal evidence that their products caused mass death and both publicly minimized the risk. If a jury would reject Purdue's claimed mistake, should it also reject ExxonMobil's? Are there meaningful differences (in the directness of the causal chain, the certainty of the science, or the length of the causal pathway) that distinguish the two?
+
+2. Unlike Purdue, ExxonMobil still exists and is not shielded by dissolution or bankruptcy. [Arkush and Braman (2024)](https://journals.law.harvard.edu/elr/wp-content/uploads/sites/79/2024/04/02_HLE_48_1_Arkush-Braman.pdf){.cite} have argued that fossil fuel companies could face homicide charges under state law for climate-related deaths, a [coalition of climate survivors and advocates](https://www.citizen.org/article/letter-to-attorney-general-merrick-garland-calling-for-investigation-into-fossil-fuel-industry-for-climate-related-crimes/){.cite} has called on the Department of Justice to investigate, and a [preliminary prosecution memo](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4877510){.cite} has been prepared applying homicide theories to specific heat wave deaths. What practical and political considerations explain the absence of criminal charges to date?
+:::
+
+## Strict Liability and the Age Element
+
+In some areas, legislatures have gone further, eliminating the mistake defense entirely. The most prominent example concerns the victim's age in sex offenses, where even an honest and reasonable mistake provides no defense. The doctrine's evolution from *Prince* to modern tiered statutes reveals how legislatures allocate the risk of mistake when protecting a vulnerable class outweighs the commitment to *mens rea*.
+
+### The Origin: *Regina v. Prince* (1875)
+
+In *Regina v. Prince*, the foundational English case on strict liability and age, Henry Prince took a girl from her father's possession, honestly and reasonably believing she was eighteen. She was fourteen. The Court for Crown Cases Reserved upheld his conviction, but split on the rationale.
+
+The majority reasoned that taking a young woman from parental possession without consent was "wrong in itself" --- *malum in se*. Even if she had been eighteen, Prince's conduct violated social norms. Because the defendant was already doing something morally problematic, he bore the risk that the facts were worse than he imagined. Justice Brett dissented: mistake of fact should be a defense whenever, had the facts been as the defendant believed, his conduct would have been lawful. Under that test, Prince should have been acquitted.
+
+*Prince* established the template for the next century: when the underlying conduct is morally suspect, the defendant bears the risk that an attendant circumstance --- particularly the victim's age --- makes it criminal.
+
+### Early American Statutory Rape Law
+
+American legislatures adopted *Prince*'s logic wholesale for statutory rape, imposing absolute strict liability: no mistake about age, however honest or reasonable, could serve as a defense. The justification was protective --- minors could not meaningfully consent, and the law should not reward adults who failed to verify their partner's age. This approach went largely unchallenged for decades, even as *Morissette* and *Rehaif* insisted on mental state requirements for other elements.
+
+### The Model Penal Code's Middle Ground
+
+The Model Penal Code (1962) departed from the common law's absolute rule. Section 213.6(1) allowed a defense if the defendant "reasonably believed the child to be above the critical age." The drafters reasoned that strict liability was justified for very young victims, where the risk of mistake is negligible and the harm catastrophic. But for victims closer to the age of consent, a reasonable mistake should have the same exculpatory force it carries for other elements.
+
+This compromise preserved strict liability for the most vulnerable victims while acknowledging that punishing a defendant who made every reasonable effort to verify age conflicts with the principle that criminal liability requires culpability.
+
+### The Modern Landscape
+
+A minority of states --- roughly a dozen --- have adopted some version of the MPC's approach, allowing a reasonable mistake of age defense, at least for older minors. But the clear majority rule remains strict liability with respect to age, particularly for victims below a threshold that typically ranges from twelve to fourteen years old.
+
+Many jurisdictions have adopted a *tiered approach* that reflects an implicit compromise between the common law and the MPC. Below a lower threshold (typically twelve to fourteen years old), absolute strict liability applies: no mistake defense is available regardless of the defendant's belief or its reasonableness. Between that threshold and the age of consent (typically sixteen to eighteen), some jurisdictions allow a reasonable mistake defense; others maintain strict liability but impose lesser penalties.
+
+The federal sex trafficking statute, 18 U.S.C. § 1591, adopts a distinctive intermediate approach. The statute generally requires the government to prove that the defendant knew or recklessly disregarded the victim's age. But when the defendant had a "reasonable opportunity to observe" the victim, the government need not prove any mental state as to age at all. This provision, enacted as part of the Trafficking Victims Protection Act, reflects a principle recognized in *United States v. X-Citement Video, Inc.* (1994), arising in the child pornography context, that a defendant who "confronts the underage victim personally [...] may reasonably be required to ascertain that victim's age."
+
+### Chilling Effects
+
+Strict liability deters not only unlawful conduct but also lawful conduct that resembles it --- the "chilling effect." Whether that is a problem depends on what conduct is chilled.
+
+If strict liability for age chills adults from sexual contact with partners who seem young, *Prince*'s defenders would argue that the protective benefit to minors outweighs the cost: the loss of sex between adults and other adults who appear young is hardly a major loss to society, while the harm avoided is substantial. But the chilling effect on salvaging junk (*Morissette*) or posting rap lyrics (*Elonis*) involves conduct that is lawful or even constitutionally protected. The principle: courts and legislatures are more willing to impose strict liability when the underlying conduct, even if the facts were as imagined, would still be morally suspect.
+
+This principle helps explain why the presumption against strict liability in *Rehaif* and *Elonis* coexists with strict liability for the age element in sex offenses. Possessing a firearm and posting words online are "entirely innocent" activities. Sexual contact with a person who turns out to be a child is not --- even if the defendant believed the person was an adult, the conduct occupies moral terrain that the law has long treated as warranting heightened caution.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Justice Brett's dissent in *Prince* argued that mistake of fact should be a defense whenever the facts as believed would make the conduct lawful. Under that test, should a defendant who reasonably believes his partner is eighteen have a defense to statutory rape? What are the strongest arguments for and against Brett's position?
+
+2. The MPC allows a reasonable mistake defense for age but most states reject it. Which approach better serves the goals of criminal law --- deterrence, retribution, incapacitation, and rehabilitation? Does the answer depend on the victim's age?
+
+3. Compare the chilling effect of strict liability in this context to *Morissette* (salvaging junk) and *Elonis* (posting online). Is the distinction between "morally suspect" and "entirely innocent" conduct a principled basis for deciding when strict liability is appropriate? Or is it simply a label courts attach after reaching their conclusions?
+:::
+
+## Mistake, Culpability, and System Design
+
+Allowing reasonable mistake defenses may align punishment with moral culpability, but it also creates opportunities for fabricated claims and may reduce deterrence. Imposing strict liability maximizes deterrence but may punish the morally innocent and chill lawful conduct.
+
+These trade-offs play out differently across populations. The sophisticated corporate actor can invest in legal advice, create paper trails of due diligence, and invoke reliance defenses. The individual facing a web of municipal fines and regulatory obligations may have no realistic way to learn the law, yet is held to the same standard. Purdue Pharma executives relied on sophisticated legal strategies to avoid criminal liability for conduct that killed hundreds of thousands; Keilee Fant was arrested for failing to pay parking tickets she may not have understood she owed; Florida voters were prosecuted for casting ballots that state officials told them they could cast.
+
+The strict liability cases suggest one response: when the harm is great and defendants control the relevant information, perhaps the law should not ask whether they made an honest mistake at all. The next chapter explores this logic in *public welfare offenses* --- regulatory crimes involving food safety, environmental protection, workplace hazards, and controlled substances --- where legislatures have most frequently dispensed with *mens rea* altogether. 

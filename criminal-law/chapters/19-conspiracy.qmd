@@ -1,0 +1,513 @@
+# Conspiracy
+
+The crime of conspiracy is among the most powerful weapons in the criminal law arsenal. Unlike attempt, conspiracy punishes the mere agreement to commit a crime, often before any substantial step has been taken. And unlike accomplice liability, the *Pinkerton* doctrine can hold each member responsible for the acts of all others. A majority of states with reformed criminal codes have rejected this rule, but it remains a powerful feature of federal practice.
+
+This expansive reach has made conspiracy indispensable to prosecutors. More than one-quarter of all federal criminal prosecutions involve conspiracy charges. When the Department of Justice prosecutes organized crime, drug trafficking, or corporate fraud, conspiracy is almost always present.
+
+But conspiracy's power raises troubling questions. Does the law adequately distinguish between a criminal mastermind and a minor player who joins an ongoing scheme? When does coordination become agreement? And what happens when the state deploys conspiracy against marginalized groups while allowing powerful actors to escape its reach?
+
+## The Dan Markel Murder: A Conspiracy Case Study
+
+The murder-for-hire plot against Dan Markel illustrates conspiracy doctrine with unusual clarity. Every element of conspiracy is present, and every major question the doctrine raises finds expression in the case.
+
+### The Conspiracy's Structure
+
+In the summer of 2014, Dan Markel was locked in a bitter custody dispute with his ex-wife, Wendi Adelson. Wendi wanted to relocate with their two sons to South Florida, where her family lived. Markel, devoted to his children, fought the move in court. Florida law favored keeping children near both parents, and Markel was winning.
+
+According to prosecutors, this impasse led Wendi's family to consider a darker solution. Charlie Adelson, Wendi's brother, allegedly approached his girlfriend Katherine Magbanua about finding someone to kill Markel. Magbanua recruited her ex-boyfriend Sigfredo Garcia, who in turn brought in his friend Luis Rivera. The two men drove from South Florida to Tallahassee, where Garcia shot Markel in his garage on July 18, 2014.
+
+### Inferring Agreement
+
+The core of any conspiracy case is agreement. But the defendants in the Markel case never sat in a room together and said, "Let's kill Dan Markel." There was no written plan, no recorded conversation in which all parties jointly agreed to the murder. The gun was never recovered. No DNA or fingerprint evidence linked the Adelsons to the crime scene. Prosecutors had to build the case from fragments, asking jurors to connect pieces that were individually ambiguous but collectively damning.
+
+Phone records revealed a chain of communication (Donna to Charlie to Magbanua to Garcia) that spiked around every critical event: the rental of the getaway car, a reconnaissance trip to Tallahassee in June, and the murder itself. On the day of the shooting, Charlie called Magbanua, and ninety minutes after the murder Garcia called Magbanua. The next morning, Magbanua called Garcia six times and Rivera three times. Financial records showed payments flowing down the same chain. Magbanua received 44 checks from the Adelson dental practice, signed by Donna, for work she never performed. Charlie paid Magbanua roughly $138,000 in cash. Garcia and Rivera bought motorcycles and cars within weeks of the killing. Cell tower data placed the killers' phones near Markel's home on the morning of the murder and near his gym as they followed him. And when an undercover FBI agent later approached Donna on the street with a news clipping about the murder and mentioned Garcia by his nickname, Donna took the paper without looking at it and called Charlie to say the encounter involved "probably the both of us." A covert recording the next day captured Charlie telling Magbanua, "If they had any evidence, we would have already gone to the airport."
+
+No single piece of this evidence proved agreement. Phone calls between a brother and his girlfriend, checks from a dental practice, and a trip to Tallahassee are not, standing alone, criminal. But taken together, the evidence told a story of coordinated action that had no plausible innocent explanation.
+
+Conspirators rarely announce their agreements. As courts have long held, they need not "state in words or writing what the object of their combination is to be." Agreement must almost always be inferred from coordinated conduct, and the sufficiency of that inference is one of the most consequential questions in conspiracy law.
+
+### Scope and Vicarious Liability
+
+The Markel case also raises questions about conspiracy's reach. Prosecutors alleged a single conspiracy stretching from the shooters to the Adelson family. Defense attorneys argued for multiple smaller conspiracies, or no conspiracy at all involving their particular clients. The distinction matters enormously: in a single conspiracy, statements made by any coconspirator in furtherance of the conspiracy are admissible against all. Charlie Adelson, who allegedly conceived the plot but never traveled to Tallahassee, was convicted of first-degree murder, the same crime as Garcia, even though Garcia pulled the trigger and Charlie was hundreds of miles away. Under the *Pinkerton* doctrine, Florida law held him equally liable.
+
+## The Elements of Conspiracy
+
+::: {.callout-note}
+### Model Penal Code Section 5.03 --- Criminal Conspiracy
+
+(1) *Definition of Conspiracy.* A person is guilty of conspiracy with another person or persons to commit a crime if with the purpose of promoting or facilitating its commission he:
+
+> (a) agrees with such other person or persons that they or one or more of them will engage in conduct that constitutes such crime or an attempt or solicitation to commit such crime; or
+
+> (b) agrees to aid such other person or persons in the planning or commission of such crime or of an attempt or solicitation to commit such crime. [...]
+
+(5) *Overt Act.* No person may be convicted of conspiracy to commit a crime, other than a felony of the first or second degree, unless an overt act in pursuance of such conspiracy is alleged and proved to have been done by him or by a person with whom he conspired.
+:::
+
+::: {.callout-note}
+### 18 U.S.C. Section 371 --- Conspiracy to Commit Offense or to Defraud United States
+
+If two or more persons conspire either to commit any offense against the United States, or to defraud the United States, or any agency thereof in any manner or for any purpose, and one or more of such persons do any act to effect the object of the conspiracy, each shall be fined under this title or imprisoned not more than five years, or both.
+
+If, however, the offense, the commission of which is the object of the conspiracy, is a misdemeanor only, the punishment for such conspiracy shall not exceed the maximum punishment provided for such misdemeanor.
+:::
+
+### Breaking Down the Elements
+
+Conspiracy consists of several distinct elements. The core is an *agreement* between two or more persons to commit a crime. As Justice Coleridge instructed a jury in 1837: "If you find that these two persons pursued by their acts the same object, often by the same means, one performing one part of an act and the other another part of the same act, so as to complete it, with a view to the attainment of the object which they were pursuing, you will be at liberty to draw the conclusion that they have been engaged in a conspiracy to effect that object."
+
+The mental state for conspiracy is complex. The defendant must intend to agree, that is, knowingly and voluntarily enter into the conspiratorial relationship. The defendant must also intend that the object crime be committed. Most jurisdictions require *purpose*, even if the underlying crime would be satisfied by a lesser mental state.
+
+Most jurisdictions require that at least one conspirator commit some "overt act" in furtherance of the conspiracy. But this requirement is exceedingly minimal. Unlike the "substantial step" required for attempt, an overt act can be entirely legal and seemingly trivial: purchasing a plane ticket, making a phone call, or checking out a library book. As Justice Holmes observed in dissent, "it does not matter how remote the act may be from accomplishing the purpose, if done to effect it." *Hyde v. United States*, 225 U.S. 347, 388 (1912) (Holmes, J., dissenting).
+
+### Bilateral Versus Unilateral Conspiracy: The Undercover Agent Problem
+
+Conspiracy requires agreement between two or more persons, but what if one party is an undercover agent who never intends to follow through?
+
+Traditional jurisdictions take a *bilateral* approach: conspiracy requires at least two genuinely agreeing minds, so if the defendant's only coconspirator is a government agent feigning agreement, there is no conspiracy. *See, e.g.*, *State v. Pacheco*, 882 P.2d 183 (Wash. 1994).
+
+The MPC takes the opposite view, adopting a *unilateral* approach. The question is whether the defendant believed she was entering a genuine agreement and acted with the purpose of committing the crime. Under this approach, the agent's secret intentions are irrelevant. In *Garcia v. State*, 394 N.E.2d 106 (Ind. 1979), a woman asked a police informant to kill her husband, then paid an undercover detective $200 along with a photograph and a record of her husband's daily habits. The Indiana Supreme Court affirmed the conspiracy conviction. The MPC Official Commentary explains the rationale:
+
+> [T]he culpable party's guilt would not be affected by the fact that the other party's agreement was feigned. He has conspired, within the meaning of the definition, in the belief that the other party was with him; apart from the issue of entrapment often presented in such cases, his culpability is not decreased by the other's secret intention. True enough, the project's chances of success have not been increased by the agreement; indeed, its doom may have been sealed by this turn of events. But the major basis of conspiratorial liability, the unequivocal evidence of a firm purpose to commit a crime, remains the same.
+
+A majority of reformed state codes have adopted the unilateral approach. But defenders of the bilateral rule argue that conspiracy law exists to address the "special danger incident to group activity," and when only one person genuinely agrees, there is no group and no group danger. As the Court of Appeals for the Armed Forces put it in dismissing a conspiracy charge where the coconspirator was undercover, the unilateral theory "does nothing to further the public policy concern of preventing group criminal activity." *United States v. Valigura*, 54 M.J. 187 (C.A.A.F. 2000).
+
+## The Mens Rea of Conspiracy
+
+One of the most contested issues in conspiracy law is the mental state required with respect to each element of the target offense. Must a conspirator intend every element of the crime they agree to commit? Or is it sufficient that they have the same mental state that would be required for the completed offense?
+
+## STATE v. POND {#state-v-pond .unnumbered .unlisted .case-title}
+
+*Connecticut Supreme Court, 2015*
+*315 Conn. 451, 108 A.3d 1083*
+
+::: {.case-excerpt}
+PALMER, J.
+
+The defendant, Terrell Williams Pond, appeals from the judgment of the Appellate Court, which reversed his conviction of conspiracy to commit robbery in the second degree. The primary issue in this certified appeal is whether, to be convicted of conspiracy to commit robbery in the second degree, a defendant must specifically intend that every element of the planned offense be accomplished, including the element that a participant in the robbery display or threaten the use of what is represented to be a deadly weapon or dangerous instrument. We conclude that the Appellate Court properly determined that the trial court should have instructed the jury that, to find the defendant guilty of the conspiracy charge, it had to find that he specifically intended that the planned robbery would involve the display or threatened use of what was represented to be a deadly weapon or dangerous instrument.
+
+### Facts {.unnumbered .unlisted}
+
+The jury reasonably could have found the following facts. On the evening of November 10, 2009, the defendant and two other individuals, identified as "D" and "J," met at an apartment in New Britain. The three men discussed a plan to rob a local convenience store. According to the testimony of a witness who was present at the apartment, the men discussed the robbery in general terms, but there was no specific mention of using a weapon.
+
+Later that evening, the three men went to the convenience store. While the defendant remained outside as a lookout, D and J entered the store. Inside, J approached the clerk and demanded money while D stood near the door. During the course of the robbery, J reached into his pocket and gestured in a manner that suggested he had a weapon, although no weapon was actually displayed. The clerk, fearing for his safety, handed over approximately $400 in cash. The three men then fled the scene.
+
+The defendant was subsequently arrested and charged with, inter alia, robbery in the second degree as an accessory and conspiracy to commit robbery in the second degree. [...]
+
+The jury found the defendant guilty of conspiracy to commit robbery in the second degree but acquitted him of the accessory charge. [...]
+
+### Legal Analysis {.unnumbered .unlisted}
+
+The state contends that the Appellate Court incorrectly concluded that the defendant must specifically intend the "weapon" element of robbery in the second degree. The state argues that because the weapon element of Section 53a-135(a)(2) does not require a specific intent on the part of the principal (that is, the principal need only "display or threaten" the use of a weapon), the same should hold true for a coconspirator. We disagree.
+
+#### A. The Nature of Criminal Conspiracy {.unnumbered .unlisted}
+
+We begin our analysis with the language of the conspiracy statute. General Statutes Section 53a-48(a) provides: "A person is guilty of conspiracy when, with intent that conduct constituting a crime be performed, he agrees with one or more persons to engage in or cause the performance of such conduct, and any one of them commits an overt act in pursuance of such conspiracy."
+
+As we have previously observed, conspiracy is a specific intent crime, with the intent divided into two elements: (a) the intent to agree or conspire and (b) the intent to commit the offense which is the object of the conspiracy. The "intent to commit the offense" means that the conspirators must intend to bring about every element of the target crime. This principle is rooted in the very nature of conspiracy as an inchoate offense. The essence of conspiracy is the agreement to commit a specific criminal act. It follows that the parties to the agreement must have a shared intent to accomplish the particular crime that is the object of their conspiracy.
+
+#### B. Specific Intent and the Elements of the Target Offense {.unnumbered .unlisted}
+
+[...]
+
+The requirements for conspiratorial liability are different. Because conspiracy is defined by the agreement and the intent to perform the conduct constituting the crime, the specific intent of the conspirator must encompass all of the essential elements of the crime. As the Model Penal Code and numerous other jurisdictions have recognized, the intent required for conspiracy is the intent to achieve the objective of the conspiracy. If the objective is a crime that includes a specific aggravating factor (such as the use of a weapon), the conspirator must intend that this factor be part of the criminal enterprise.
+
+In *State v. Padua*, we addressed a similar issue in the context of conspiracy to sell controlled substances within 1500 feet of a public housing project. We held that the state was required to prove that the defendants specifically intended to sell the drugs within the prohibited zone. We noted that "proof of a conspiracy to commit a specific offense requires proof that the conspirators intended to bring about the elements of the conspired offense." We see no reason to depart from this principle in the present case.
+
+### Holding {.unnumbered .unlisted}
+
+In summary, we hold that to be convicted of conspiracy to commit robbery in the second degree in violation of Sections 53a-48(a) and 53a-135(a)(2), a defendant must specifically intend that every element of the planned offense be accomplished, including the element that a participant in the robbery display or threaten the use of what is represented to be a deadly weapon or dangerous instrument. Because the trial court failed to so instruct the jury, and because that error was not harmless, the defendant is entitled to a new trial on the conspiracy charge.
+
+The judgment of the Appellate Court is affirmed.
+
+---
+
+ESPINOSA, J., dissenting.
+
+I disagree with the majority's conclusion that in order for a defendant to be convicted of conspiracy in violation of General Statutes Section 53a-48(a), the state is required to prove that the defendant specifically intended that every element of the conspired offense be accomplished, even an element that itself carries no specific intent requirement. [...]
+
+The majority's decision grafts an additional element onto the crime of conspiracy that is not found in the statutory text. By requiring the state to prove a greater mens rea for the inchoate crime than for the completed offense, the majority creates an irrational gap in our criminal law. If a defendant agrees to commit a robbery and a weapon is used, he is guilty of the substantive crime of robbery in the second degree regardless of his specific intent as to the weapon. It makes little sense to require a higher level of intent for the conspiracy to commit that very same crime.
+
+Accordingly, I respectfully dissent.
+:::
+
+#### Note: General Intent Crimes and Conspiracy
+
+The *Pond* principle does not mean conspiracy is limited to specific intent crimes. In *People v. Koenig*, 58 Cal. App. 5th 771 (2020), the court held that a defendant can conspire to commit a general intent crime like securities fraud, because the conspirator's specific intent to agree and commit the offense is satisfied when the parties agree to engage in the prohibited conduct. What cannot support conspiracy is a crime of negligence, because "a person cannot agree and specifically intend to accomplish an unintended result."
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. The majority holds that conspiracy requires specific intent as to every element of the target offense, even elements that carry no specific intent requirement for the principal. What justifies this heightened mental state requirement?
+
+2. Apply this holding to Sigfredo Garcia. If Garcia agreed to participate in a plot to "scare" Dan Markel but claims he never intended for Markel to be killed, could he be convicted of conspiracy to commit murder? What evidence might the prosecution use to prove his intent?
+:::
+
+### Knowledge Versus Purpose: The Supplier Problem
+
+*Pond* addresses the mens rea required as to the *elements* of the target offense. A separate and equally important question is the mens rea required as to the *agreement itself*: Is it enough that a defendant knows that his conduct will facilitate a crime, or must he act with the purpose of promoting it? This question arises most acutely when a supplier of lawful goods or services knows that a customer is using them for criminal purposes.
+
+## PEOPLE v. LAURIA {#people-v-lauria .unnumbered .unlisted .case-title}
+
+*California Court of Appeal, Second District, 1967*
+*251 Cal. App. 2d 471, 59 Cal. Rptr. 628*
+
+::: {.case-excerpt}
+FLEMING, J.
+
+In an investigation of call-girl activity the police monitored the telephones of three prostitutes. The women apparently were using Lauria's telephone answering service to facilitate their business. Their calls came in for Lauria's answering service under coded names, and were then picked up by the women. One of the women, in a recorded conversation, asked Lauria whether he was "cool," and he replied that he was not connected with anything, and that the police were welcome to check his phone. He further said that as long as he kept his records clean and didn't "cross" the operation, he figured he had nothing to worry about. He indicated he knew she was a prostitute and that she was using his service for that purpose.
+
+On this evidence the police arrested Lauria and charged him with conspiracy to commit prostitution.
+
+In the case at bench the evidence clearly shows that Lauria knew his customers were prostitutes who used his answering service for business purposes. [...] The question remains whether his knowledge of their activities was sufficient to make him a conspirator. [...]
+
+**The Intent Element**
+
+Both the element of knowledge and the element of intent must be present in order to establish liability for conspiracy.
+
+Proof of knowledge is ordinarily a prerequisite to proof of intent; for how can a person intend to further a criminal enterprise unless he knows of its existence? But proof of knowledge is not the equivalent of proof of intent. "Intention is not coexistent with knowledge; knowledge is only one of its components. An intention embraces a knowledge component and a *purpose component*."
+
+The crucial distinction between the cases lies in the relationship between the parties:
+
+In cases where a supplier of goods or services has been held to be a conspirator in the criminal enterprise of his customer, the supplier's knowledge of the criminal use to which his supplies were being put was joined with a specific interest in the furtherance of the enterprise. *United States v. Falcone*, 109 F.2d 579 (2d Cir. 1940) (L. Hand, J.) held that a seller of goods who knew that the buyer was using them for an illegal purpose was not guilty of conspiracy unless he had a "stake in the venture." [...]
+
+The rule developed from these cases may be stated as follows: the intent of a supplier who knows of the criminal use to which his supplies are put to participate in the criminal activity connected with the use of his supplies may be established by (1) direct evidence that he intends to participate, or (2) through an inference that he intends to participate based on, (a) his special interest in the activity, or (b) the aggravated nature of the crime itself.
+
+**Special Interest**
+
+When the purveyor of legal goods for illegal use has acquired a stake in the venture, the inference of intent to participate is clear. An example of this would be a supplier who furnishes equipment with an agreement to share in the proceeds of the illegal enterprise, or a supplier who charges inflated prices to the criminal customer, reflecting the premium for dealing with a criminal enterprise.
+
+**Aggravated Crimes**
+
+Another way of inferring intent is from the gravity of the crime. When the crime is of a grave character, knowledge alone may support the inference of intent. Thus, a seller of gasoline who knows that his buyer plans to use it to commit arson may be held liable as a conspirator even absent any special interest.
+
+However, when the criminal enterprise involves misdemeanor-level offenses, knowledge alone is insufficient.
+
+**Application**
+
+With respect to Lauria, we find no evidence of either direct intent, a special interest, or an aggravated crime from which intent might be inferred. His knowledge of the prostitutes' activities is not disputed. But his answering service was used by legitimate customers as well, his charges were not inflated, and he had no financial interest in the prostitutes' earnings beyond the normal fee for his service. Prostitution, moreover, is a misdemeanor, not a crime of such gravity that knowledge alone would support an inference of intent.
+
+We conclude therefore that the charge of conspiracy was not supported by sufficient evidence.
+
+*Petition for writ of prohibition granted.*
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. *Lauria* draws a line between knowledge and purpose. A telephone answering service that knowingly serves prostitutes is not a conspirator. But what if the service specifically advertised to prostitutes? What if it offered a "premium package" with coded message delivery? At what point does the supplier cross from knowledge to purpose?
+
+2. Consider the Purdue Pharma case. Wholesalers and pharmacies continued to distribute OxyContin in suspicious quantities. Under *Lauria*, what would prosecutors need to prove to charge them as coconspirators rather than mere suppliers?
+
+3. Apply *Lauria*'s framework to social media platforms. In 2023, the NCMEC CyberTipline received over 36 million reports of child sexual abuse material, the vast majority from electronic service providers. The Human Trafficking Institute found Facebook was used in roughly 65% of online recruitment in federal sex trafficking prosecutions. The DEA has identified social media as the primary vector for fentanyl sales to minors, and internal documents produced in litigation show platform employees were aware of drug trafficking on their services. The FBI reported a 300% increase in sextortion targeting minors, conducted primarily through Instagram and Snapchat.
+
+   Under *Lauria*, knowledge alone does not make a supplier a conspirator. But the court identified circumstances that support an inference of purpose from knowledge: a stake in the venture, the absence of legitimate use, and the aggravated nature of the crime.
+
+   Consider these factors as applied to platforms and compare to a defendant at the other end of the spectrum:
+:::
+
+```{=latex}
+\begin{minipage}{\textwidth}
+\renewcommand{\arraystretch}{1.4}
+```
+
+Consider how each of *Lauria*'s inference factors applies across this spectrum:
+
+: Lauria Applied: Silk Road vs. Social Media {tbl-colwidths="[20,35,45]"}
+
+| Factor | Silk Road (Ulbricht) | Social Media Platform |
+|--------|---------------------|----------------------|
+| Design purpose | Built for illegal transactions | Built for general communication |
+| Revenue model | Commission on each illegal sale | Ad revenue, engagement-driven |
+| Knowledge | Explicit: Ulbricht was the architect | Documented internal awareness of criminal use |
+| Stake | Direct profit-sharing | Indirect: criminal content drives engagement and ad revenue |
+| Moderation | Actively facilitated: escrow, dispute resolution | Inconsistent; often inadequate |
+
+```{=latex}
+\renewcommand{\arraystretch}{1.0}
+\end{minipage}
+```
+
+::: {.callout-tip}
+### Discussion Questions
+
+Ulbricht was convicted of narcotics conspiracy. No mainstream social media company has been charged with conspiracy.
+
+1. Does the distinction between Silk Road and a major platform reflect a difference in kind or in degree?
+2. Does a platform that earns advertising revenue from algorithmically amplified engagement have a "stake in the venture" when criminal content drives engagement?
+3. Does the gravity of the crimes (CSAM, sex trafficking, fentanyl sales to children) trigger *Lauria*'s aggravated-crime inference?
+4. If platforms are profiting from crime at this scale, is there a way to target that conduct through conspiracy law without sweeping in ordinary businesses and individuals?
+5. Should the *scale* of the role matter?
+:::
+
+## Pinkerton Liability: Conspiracy as Vicarious Liability
+
+The *Pinkerton* doctrine transforms conspiracy from an inchoate offense into a theory of vicarious liability: each conspirator is liable for the foreseeable crimes of coconspirators, without proof of the traditional elements of accomplice liability.
+
+## PINKERTON v. UNITED STATES {#pinkerton-v-us .unnumbered .unlisted .case-title}
+
+*Supreme Court of the United States, 1946*
+*328 U.S. 640*
+
+::: {.case-excerpt}
+JUSTICE DOUGLAS delivered the opinion of the Court.
+
+Walter and Daniel Pinkerton are brothers who live a short distance from each other on Daniel's farm. They were indicted for violations of the Internal Revenue Code. The indictment contained ten substantive counts and one conspiracy count. The jury found Walter guilty of nine of the substantive counts and on the conspiracy count. It found Daniel guilty on six of the substantive counts and on the conspiracy count. [...]
+
+It is contended that there was insufficient evidence to implicate Daniel in the conspiracy. But we think there was enough evidence for submission of the issue to the jury.
+
+There is, however, no evidence to show that Daniel participated directly in the commission of the substantive offenses on which his conviction has been sustained, although there was evidence to show that these substantive offenses were in fact committed by Walter in furtherance of the unlawful agreement or conspiracy existing between the brothers. [...]
+
+We take a different view. We have here a continuous conspiracy. There is here no evidence of the affirmative action on the part of Daniel which is necessary to establish his withdrawal from it. [...]
+
+And so long as the partnership in crime continues the partners act for each other in carrying it forward. It is settled that "an overt act of one partner may be the act of all without any new agreement specifically directed to that act." [...] The criminal intent to do the act is established by the formation of the conspiracy. Each conspirator instigated the commission of the crime. The unlawful agreement contemplated precisely what was done. It was formed for the purpose. The act done was in execution of the enterprise.
+
+The rule which holds responsible one who counsels, procures, or commands another to commit a crime is founded on the same principle. That principle is recognized in the law of conspiracy when the overt act of one partner in crime is attributable to all. An overt act is an essential ingredient of the crime of conspiracy. If that can be supplied by the act of one conspirator, we fail to see why the same or other acts in furtherance of the conspiracy are likewise not attributable to the others for the purpose of holding them responsible for the substantive offense.
+
+A different case would arise if the substantive offense committed by one of the conspirators was not in fact done in furtherance of the conspiracy, did not fall within the scope of the unlawful project, or was merely a part of the ramifications of the plan which could not be reasonably foreseen as a necessary or natural consequence of the unlawful agreement. But as we read this record, that is not this case.
+
+Affirmed.
+
+---
+
+JUSTICE RUTLEDGE, dissenting in part.
+
+The judgment concerning Daniel Pinkerton should be reversed. In my opinion it is without precedent here and is a dangerous precedent to establish. Daniel and Walter, who were brothers living near each other, were charged in several counts with substantive offenses, and then a conspiracy count was added naming those offenses as overt acts. The proof showed that Walter alone committed the substantive crimes. There was none to establish that Daniel participated in them, aided and abetted Walter in committing them, or knew that he had done so. Daniel in fact was in the penitentiary, under sentence for other crimes, when some of Walter's crimes were done.
+
+There was evidence, however, to show that over several years Daniel and Walter had confederated to commit similar crimes concerned with unlawful possession, transportation, and dealing in whiskey, in fraud of the federal revenues. On this evidence both were convicted of conspiracy. Walter also was convicted on the substantive counts on the proof of his committing the crimes charged. Then, on that evidence without more than the proof of Daniel's criminal agreement with Walter and the latter's overt acts, which were also the substantive offenses charged, the court told the jury they could find Daniel guilty of those substantive offenses. They did so. [...]
+
+Daniel has been held guilty of the substantive crimes committed only by Walter on proof that he did no more than conspire with him to commit offenses of the same general character. There was no evidence that he counseled, advised or had knowledge of those particular acts or offenses. There was therefore none that he aided, abetted or took part in them. There was only evidence sufficient to show that he had agreed with Walter at some past time to engage in such transactions generally. As to Daniel this was only evidence of conspiracy, not of substantive crime.
+
+The court's theory seems to be that Daniel and Walter became general partners in crime by virtue of their agreement and because of that agreement without more on his part Daniel became criminally responsible as a principal for everything Walter did thereafter in the nature of a criminal offense of the general sort the agreement contemplated, so long as there was not clear evidence that Daniel had withdrawn from or revoked the agreement. Whether or not his commitment to the penitentiary had that effect, the result is a vicarious criminal responsibility as broad as, or broader than, the vicarious civil liability of a partner for acts done by a co-partner in the course of the firm's business.
+:::
+
+#### The Modern Application of Pinkerton
+
+Consider this classic law school hypothetical:
+
+> A is the organizer and ringleader of a conspiracy to rob banks. He hires B and C to rob banks 1 and 2 respectively. Although B and C do not meet face-to-face, both know that they are members of a large conspiracy and each knows of the other's assignment. At A's instigation, D, knowing of the conspiracy, steals a car for use in the robberies. B and C perform their robberies, the former using D's car.
+
+Under traditional accomplice liability, A is liable for both robberies (he encouraged them), B is liable only for robbery 1 (he committed it), C is liable only for robbery 2 (she committed it), and D is liable for the car theft and possibly robbery 1 (he aided it). But under *Pinkerton*, the picture changes dramatically:
+
+- A is liable for both robberies and the car theft.
+- B is liable for robbery 1, robbery 2 (foreseeable), and the car theft (foreseeable).
+- C is liable for robbery 2, robbery 1 (foreseeable), and the car theft (foreseeable).
+- D is liable for the car theft, robbery 1 (foreseeable), and robbery 2 (foreseeable).
+
+The result is near-total conflation: everyone is liable for nearly everything. This raises serious concerns about proportionality and the traditional requirement that criminal liability be tied to individual culpability.
+
+::: {.callout-note}
+### The Model Penal Code Rejection of Pinkerton
+
+The Model Penal Code rejects the *Pinkerton* doctrine. Under the MPC, a conspirator can only be held liable for the crimes of coconspirators if the traditional elements of accomplice liability are satisfied, that is, if the defendant actually aided, abetted, or encouraged the specific offense. MPC Section 2.06 (Liability for Conduct of Another) requires purpose to promote or facilitate the offense, not merely membership in a conspiracy that made the offense foreseeable.
+
+Most states that have reformed their criminal codes have followed the MPC approach.
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Justice Rutledge objects that the majority's rule creates "vicarious criminal responsibility as broad as, or broader than, the vicarious civil liability of a partner for acts done by a co-partner in the course of the firm's business." Is the partnership analogy apt? What are the differences between civil partnership liability and criminal conspiracy?
+
+2. Consider the limiting principle suggested by the majority: *Pinkerton* liability does not apply if the substantive offense "could not be reasonably foreseen as a necessary or natural consequence of the unlawful agreement." How much work does this limitation actually do? In a drug trafficking conspiracy, what crimes could *not* be reasonably foreseen?
+:::
+
+## What Constitutes an "Agreement"?
+
+The agreement is the heart of conspiracy. But what exactly is an agreement? Must there be an explicit meeting of minds, or can agreement be inferred from coordinated conduct? The cases that follow trace a progression. *Interstate Circuit* involves sophisticated corporate actors who each knew the others were being asked to join a coordinated scheme. *Kotteakos* involves unsophisticated individual borrowers who had no knowledge of one another. *Alvarez* involves a day laborer who nodded his head and smiled.
+
+## INTERSTATE CIRCUIT v. UNITED STATES {#interstate-circuit-v-us .unnumbered .unlisted .case-title}
+
+*Supreme Court of the United States, 1939*
+*306 U.S. 208*
+
+::: {.case-excerpt}
+STONE, J.
+
+This case is here on appeal from a final decree of the District Court for northern Texas restraining appellants from continuing in a combination and conspiracy condemned by the court as a violation of Section 1 of the Sherman Anti-Trust Act [...].
+
+Appellants comprise two groups of defendants in the District Court. One consists of eight film distributing companies, which together distribute 75% of all first-run feature films in the United States. The other consists of two film exhibiting companies, including Interstate Circuit, Inc., and Texas Consolidated Theatres, which own and operate the vast majority of first-run movie theatres in much of Texas.
+
+On July 11, 1934, [...] O'Donnell, the manager of Interstate and Consolidated, sent to each of [the eight branch managers of the distributor appellants] a letter on the letterhead of Interstate, each letter naming all of them as addressees, in which he asked compliance with two demands as a condition of Interstate's continued exhibition of the distributors' films in its "A" or first-run theatres at a night admission of 40 cents or more. One demand was that the distributors "agree that in selling their product to subsequent runs, that this 'A' product will never be exhibited at any time or in any theatre at a smaller admission price than 25 cents for adults in the evening." The other was that "on 'A' pictures which are exhibited at a night admission of 40 cents or more---they shall never be exhibited in conjunction with another feature picture under the so-called policy of double features." [...]
+
+As is usual in cases of alleged unlawful agreements to restrain commerce, the Government is without the aid of direct testimony that the distributors entered into any agreement with each other to impose the restrictions upon subsequent-run exhibitors. In order to establish agreement it is compelled to rely on inferences drawn from the course of conduct of the alleged conspirators.
+
+We think this inference of the trial court was rightly drawn from the evidence. [...] The O'Donnell letter named on its face as addressees the eight local representatives of the distributors, and so from the beginning each of the distributors knew that the proposals were under consideration by the others. Each was aware that all were in active competition and that without substantially unanimous action with respect to the restrictions for any given territory there was risk of a substantial loss of the business and good will of the subsequent-run and independent exhibitors, but that with it there was the prospect of increased profits. [...]
+
+Compliance with the proposals involved a radical departure from the previous business practices of the industry and a drastic increase in admission prices of most of the subsequent-run theatres. [...]
+
+It taxes credulity to believe that the several distributors would, in the circumstances, have accepted and put into operation with substantial unanimity such far-reaching changes in their business methods without some understanding that all were to join, and we reject as beyond the range of probability that it was the result of mere chance. [...]
+
+While the District Court's finding of an agreement of the distributors among themselves is supported by the evidence, we think that in the circumstances of this case such agreement for the imposition of the restrictions upon subsequent-run exhibitors was not a prerequisite to an unlawful conspiracy. It was enough that, knowing that concerted action was contemplated and invited, the distributors gave their adherence to the scheme and participated in it. Each distributor was advised that the others were asked to participate; each knew that cooperation was essential to successful operation of the plan. They knew that the plan, if carried out, would result in a restraint of commerce, and knowing it, all participated in the plan.
+
+Affirmed.
+:::
+
+## KOTTEAKOS v. UNITED STATES {#kotteakos-v-us .unnumbered .unlisted .case-title}
+
+*Supreme Court of the United States, 1946*
+*328 U.S. 750*
+
+::: {.case-excerpt}
+JUSTICE RUTLEDGE delivered the opinion of the Court.
+
+The only question is whether petitioners have suffered substantial prejudice from being convicted of a single general conspiracy by evidence which the Government admits proved not one conspiracy but some eight or more different ones.
+
+Simon Brown, a loan broker, was the common figure in all of the conspiracies. He assisted various individuals in obtaining loans from the Federal Housing Administration by preparing false applications and statements. The loans were made to finance home improvements or purchases.
+
+The indictment named thirty-two defendants and charged a single conspiracy. At trial, the evidence showed that Brown had helped numerous borrowers obtain fraudulent FHA loans. However, there was no evidence that the various borrowers knew of each other, cooperated with each other, or shared any common purpose beyond obtaining their individual loans through Brown's fraudulent assistance.
+
+The Government now admits that the proof established not one conspiracy but at least eight separate ones. The question is whether that variance from the indictment was prejudicial.
+
+**The Single Conspiracy Problem**
+
+The pattern was one in which Brown was the common and key figure, but there were numerous separate conspiracies involving distinct groups. There was no drawing together of all the various transactions by some overall plan or purpose in which all the participants had a stake and which they all knew. There was, in other words, no rim to the wheel.
+
+The Government's case was, in sum, a wheel without a rim. Various groups of people dealt separately with Brown, but they had no knowledge of or dealings with each other. The Government's theory was that because all helped to defraud the same lending program, all must be considered parties to a single conspiracy. We reject this theory.
+
+The gist of the offense of conspiracy is agreement. Without the element of agreement, the offense has not been committed. One who engages in a separate conspiracy is not ipso facto a party to another conspiracy merely because the same central figure participates in both and both involve frauds upon the same government program.
+
+**The Prejudice**
+
+The variance here was highly prejudicial. Because all defendants were tried together on the theory of a single conspiracy, evidence relating to each separate conspiracy was admitted against all defendants. Statements made by one defendant in the course of his conspiracy with Brown were treated as admissible against defendants involved in entirely different transactions.
+
+The dangers of transference of guilt from one to another across the line separating conspiracies are so great that we cannot say that the error was not prejudicial.
+
+*Reversed.*
+:::
+
+#### Note: *United States v. Alvarez*
+
+In *United States v. Alvarez*, 625 F.2d 1196 (5th Cir. 1980) (en banc), the inference of agreement was pushed to its most aggressive limit. Manuel Juan Alvarez drove a pickup truck loaded with household appliances to the Opa-Locka airport, where others were arranging a flight to Colombia to import 110,000 pounds of marijuana. An undercover DEA agent asked Alvarez if he planned to be at the unloading site when the plane returned. Alvarez nodded his head, smiled, and asked if the agent was going on the plane. He then unloaded the appliances from the truck.
+
+A panel of the Fifth Circuit reversed Alvarez's conspiracy conviction, holding that the evidence showed only that Alvarez "planned to assist others in one of the acts involved in consummating a criminal venture" but "failed to show that he had joined in an agreement to violate the law." The en banc court reinstated the conviction, concluding that Alvarez's promise to be at the unloading site, combined with the surrounding circumstances, was sufficient for a jury to infer that he had agreed to participate in the importation conspiracy.
+
+The dissent, joined by nine judges, opened: "Alvarez nodded his head and smiled. For this he will go to the penitentiary." It closed: "The prosecutor's net may well ensnare the innocent as well as the guilty."
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Why does it matter whether defendants are charged with one conspiracy or many? Consider the procedural consequences: joinder, hearsay admissibility, and *Pinkerton* liability.
+:::
+
+#### Note: The Buyer-Seller Exception
+
+A related question in drug conspiracy cases is when a buyer-seller relationship constitutes a conspiracy. Under *United States v. Pauling*, 924 F.3d 649 (2d Cir. 2019), a mere agreement to purchase drugs for personal use or resale does not, by itself, establish a conspiracy. A conspiracy exists where there is "evidence of a shared purpose between the seller and the buyer to further the distribution of drugs." The hallmarks that move a relationship from buyer-seller to conspiracy include a prolonged course of dealing, the use of coded language, and credit arrangements such as "fronting," where a supplier extends product on credit, reflecting mutual investment in continued distribution.
+
+## Structural Limits on Conspiracy: Wharton's Rule and Legislative Exemption
+
+Not all coordinated criminal conduct can support a conspiracy charge. Two doctrines impose structural limits on conspiracy liability by recognizing that some crimes, by their very nature, require concerted action, and that the legislature's decision not to punish one party to such a crime should not be circumvented through a conspiracy charge.
+
+Wharton's Rule provides that an agreement between two persons to commit a crime that by definition requires the participation of two persons cannot be prosecuted as a conspiracy. The classic examples are dueling, bigamy, adultery, incest, and bribery. Because these offenses inherently require two participants, the agreement to commit them adds nothing beyond what is already an element of the substantive offense. The rule is not absolute: if more persons participate in the scheme than are logically necessary for the crime, a conspiracy charge may lie. The Supreme Court has characterized Wharton's Rule as a "judicial presumption" rather than a constitutional command, meaning legislatures can override it. *Iannelli v. United States*, 420 U.S. 770 (1975).
+
+A related but distinct principle arises when the legislature has deliberately chosen not to criminalize the conduct of one party to a bilateral transaction. In *Gebardi v. United States*, 287 U.S. 112 (1932), the Supreme Court confronted this question in the context of the Mann Act, which prohibited transporting a woman across state lines for "immoral purposes." The defendants were a man and a woman who had voluntarily traveled together. The government charged both with conspiracy to violate the Mann Act. The Supreme Court reversed the woman's conviction, reasoning that Congress had deliberately excluded the transported woman from criminal liability under the statute:
+
+> We think it a necessary implication of that policy that when the Mann Act and the conspiracy statute came to be construed together, as they necessarily would be, the same participation which the former contemplates as an inseparable incident of all cases in which the woman is a voluntary agent at all, but does not punish, was not automatically to be made punishable under the latter. [...] The failure of the Mann Act to condemn the woman's participation in the transportation which it condemns has significance in the application of the conspiracy statute.
+
+The *Gebardi* principle extends beyond the Mann Act. Whenever the legislature defines a crime in terms that protect or exempt one class of participants, that class cannot be prosecuted for conspiring to commit the offense.
+
+## Corporate Conspiracy
+
+Corporations can only act through their agents, and corporate wrongdoing typically involves coordination among multiple employees, departments, and entities---making conspiracy a natural fit for corporate prosecutions. Yet as the Purdue Pharma case illustrates, conspiracy charges against corporations and their executives remain surprisingly rare, and when they do occur, the resulting penalties often seem disproportionate to the harm caused.
+
+::: {.callout-note}
+### In the News: Purdue Pharma Pleads Guilty to Conspiracy
+
+*Department of Justice Press Release, November 24, 2020*
+
+Opioid manufacturer Purdue Pharma LP pleaded guilty today in federal court in Newark, New Jersey, to conspiracies to defraud the United States and violate the anti-kickback statute.
+
+Purdue pleaded guilty to an information charging it with three felony offenses: one count of dual-object conspiracy to defraud the United States and to violate the Food, Drug, and Cosmetic Act, and two counts of conspiracy to violate the Federal Anti-Kickback Statute.
+
+As part of today's guilty plea, Purdue admitted that from May 2007 through at least March 2017, Purdue conspired to defraud the United States by impeding the lawful functions of the Drug Enforcement Administration (DEA) by representing to the DEA that Purdue maintained an effective anti-diversion program when, in fact, Purdue continued to market its opioid products to more than 100 health care providers whom Purdue had good reason to believe were diverting opioids and by reporting misleading information to the DEA to boost Purdue's manufacturing quotas.
+
+Purdue also admitted to conspiring to violate the federal Anti-Kickback Statute. Between June 2009 and March 2017, Purdue made payments to two doctors through Purdue's doctor speaker program to induce those doctors to write more prescriptions of Purdue's opioid products.
+
+Under the terms of the plea agreement, Purdue agreed to the imposition of the largest penalties ever levied against a pharmaceutical manufacturer, including a criminal fine of $3.544 billion and an additional $2 billion in criminal forfeiture.
+
+*Source: U.S. Department of Justice, November 24, 2020*
+:::
+
+The Purdue case represents a successful conspiracy prosecution, but one that reveals the limitations of conspiracy law when applied to powerful corporate actors. The conspiracy charges established that Purdue, as an entity, agreed to defraud regulators and pay illegal kickbacks over a decade. But no individual executive was convicted of conspiracy or any felony. In an earlier prosecution in 2007, the three top executives (President Michael Friedman, General Counsel Howard Udell, and Chief Scientific Officer Paul Goldenheim) had pleaded guilty only to the strict liability misdemeanor of "misbranding," avoiding any need to prove they knew of or agreed to the fraudulent scheme. The 2020 corporate guilty plea followed the same pattern: the entity admitted to conspiracy, but no individual was held personally accountable.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Return to the agreement-inference arc: *Interstate Circuit* (sophisticated parties, mutual awareness), *Kotteakos* (unsophisticated borrowers, no mutual awareness), *Alvarez* (a day laborer's nod). Where do the Purdue executives fall on this spectrum? Why was the inference of agreement not drawn against them?
+
+2. The procedural advantages of conspiracy (relaxed venue, coconspirator hearsay, joint trial) are routinely deployed against drug conspiracies and murder-for-hire schemes. How might these features have been used against Purdue executives? What institutional factors might explain why they were not?
+:::
+
+## Drug Stings and Manufactured Conspiracy
+
+The Purdue case shows the system declining to deploy conspiracy's power against corporate actors. Drug sting operations show the opposite: the system aggressively deploying conspiracy against the most vulnerable defendants, and sometimes manufacturing the very conspiracies it prosecutes.
+
+By some estimates, the federal government uses confidential informants in up to 80% of drug cases. The DEA alone maintained over 18,000 active informants between 2010 and 2015, paying more than $237 million to approximately half of them. In "reverse sting" operations, the government itself supplies the drugs and then charges defendants with conspiracy to distribute them. This is where the bilateral-unilateral debate matters most: under the unilateral approach, a defendant who "agrees" with an undercover agent to distribute government-supplied drugs is guilty of conspiracy, even though no genuine criminal group ever existed.
+
+These operations interact with conspiracy doctrine in a distinctive way. Because conspiracy holds each member responsible for the *total quantity* handled by all coconspirators, and because federal mandatory minimums are triggered by quantity, a peripheral participant can face the same sentence as the organizer. Defense attorneys call this the "girlfriend problem": a defendant whose only connection to a drug operation is a relationship with a participant can be swept into the conspiracy and sentenced based on quantities she never handled. The primary escape valve, cooperating with prosecutors in exchange for a reduced sentence, requires information to trade. Minor participants typically have none, so the kingpin cooperates his way to a lighter sentence while the peripheral player serves the full mandatory minimum.
+
+The racial dimensions are stark. A USA Today investigation found that at least 91% of defendants convicted in ATF reverse-sting operations were racial or ethnic minorities. More broadly, Black defendants are 75% more likely than comparable white defendants to face a charge carrying a mandatory minimum. These disparities are driven not by the doctrine itself but by prosecutorial decisions about whom to target and what quantities to charge, a pattern consistent with the enforcement asymmetry we have observed throughout this casebook.
+
+The government's role in manufacturing criminal activity through sting operations (see Chapter 17, Attempts) raises particular concerns in the conspiracy context.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. The Purdue case shows conspiracy *not* being deployed against powerful actors. Drug stings show conspiracy being *aggressively* deployed against vulnerable ones, sometimes in cases the government itself manufactured. Are these two sides of the same problem, or distinct issues?
+
+2. The "girlfriend problem" arises from the interaction of conspiracy (total quantity attributed to all members) and mandatory minimums (sentence triggered by quantity). Which feature should be reformed: the scope of conspiracy liability, the mandatory minimum structure, or the cooperation-based escape valve?
+:::
+
+## Conspiracy as System Architecture
+
+Conspiracy doctrine represents a series of design choices about how the criminal legal system should address group criminality. These choices, when to permit inference of agreement, how much liability to impose on coconspirators, what procedural advantages to afford prosecutors, are not inevitable features of any legal system. They are architectural decisions that could be made differently.
+
+```{=latex}
+\begin{minipage}{\textwidth}
+\renewcommand{\arraystretch}{1.4}
+```
+
+Consider how the major design choices we have examined interact:
+
+: Traditional vs. MPC Approaches to Conspiracy {tbl-colwidths="[18,42,40]"}
+
+| Feature | Traditional Approach | MPC Approach |
+|---------|---------------------|--------------|
+| Agreement | Can be inferred from coordinated conduct | Requires actual agreement |
+| Mens rea | Intent to agree + foreseeability | Purpose as to all elements |
+| *Pinkerton* liability | Conspirators liable for foreseeable crimes of coconspirators | No vicarious liability beyond accomplice doctrine |
+| Cumulative punishment | Conspiracy + substantive offense | Merger: no cumulative punishment |
+| Withdrawal | Affirmative steps to defeat conspiracy + communication to coconspirators | Withdrawal terminates future liability |
+
+```{=latex}
+\renewcommand{\arraystretch}{1.0}
+\end{minipage}
+```
+
+The MPC reforms addressed a genuine problem. Traditional conspiracy doctrine imposed vicarious liability without individual culpability, permitted cumulative punishment for the same course of conduct, and allowed convictions based on inferred agreements that sometimes amounted to little more than proximity to criminal activity. As Justice Jackson warned in *Krulewitch v. United States*, 336 U.S. 440, 453 (1949) (Jackson, J., concurring):
+
+> A co-defendant in a conspiracy trial occupies an uneasy seat. There generally will be evidence of wrongdoing by somebody. It is difficult for the individual to make his own case stand on its own merits in the minds of jurors who are ready to believe that birds of a feather are flocked together.
+
+The MPC's insistence on purpose, its rejection of *Pinkerton*, and its merger rule were principled responses to these concerns, adopted by a majority of reforming jurisdictions.
+
+But the MPC also made a choice whose consequences its drafters may not have fully anticipated. By adopting the unilateral approach to agreement, the MPC made it possible to convict a defendant of conspiracy even when the only "coconspirator" was a government agent. At the time, this seemed like a modest doctrinal correction: the defendant's culpability, the drafters reasoned, should not depend on facts unknown to him. In the decades since, however, the explosive growth of undercover sting operations has transformed what was once a marginal doctrinal question into a central feature of federal criminal enforcement. The government now routinely manufactures the very conspiracies it prosecutes, supplying the drugs, the plans, and sometimes even the motivation, then charging defendants with conspiring to commit crimes that would not have existed without government participation.
+
+This development interacts with another MPC reform we examined in Chapter 17. The MPC's "substantial step" test for attempt moved the line of criminal liability earlier, allowing prosecution well before a crime nears completion. Combined with the unilateral conspiracy rule, the two reforms create a wide window for government-initiated criminal liability: an undercover agent can propose a crime (satisfying the unilateral agreement requirement) and then arrest the target after minimal preparatory conduct (satisfying the substantial step threshold). Each reform is defensible on its own terms. Together, they enable a style of proactive enforcement that neither reform independently contemplated.
+
+A third feature of the system's architecture explains why agencies exploit that window so aggressively. Civil asset forfeiture allows law enforcement agencies to seize and keep property connected to criminal activity, often without a conviction. Since 2000, at least $82 billion has been forfeited nationwide. The DOJ's Inspector General found that only 44% of DEA cash seizures could be verified as advancing or relating to criminal investigations, and 81% were forfeited administratively, without criminal charges or judicial oversight. Agencies that conduct reverse stings have a particular financial incentive: buyers carry cash, which is immediately seizeable. In Sunrise, Florida, police used reverse drug stings to lure buyers from across the country, offered below-market prices and bulk discounts to attract larger cash seizures, and collected millions in forfeiture revenue while a dozen undercover officers earned $1.2 million in overtime. The department outpaced every municipal agency in the state in federal equitable sharing expenditures.
+
+The empirical evidence on whether any of this reduces crime is consistently negative. The ASU Center for Problem-Oriented Policing, reviewing the available studies, concluded that "no scientific studies have demonstrated a long-term effect" of drug stings on crime. Some studies found that stings *increased* the targeted crime by providing new criminal opportunities. The National Academies' comprehensive review of proactive policing (2018) does not identify sting operations as an evidence-supported crime reduction strategy. And when New Mexico abolished civil forfeiture entirely in 2015, researchers found no significant effect on crime rates or arrest rates across five different measures.
+
+The system's architecture, then, looks like this: the unilateral conspiracy rule enables government-manufactured agreements; the substantial step test allows arrest after minimal preparatory conduct; mandatory minimums impose severe sentences regardless of individual role; and civil forfeiture provides a financial incentive to pursue these operations independent of their crime-reduction value. Each feature is defensible in isolation. Together, they produce a system that generates manufactured prosecutions with built-in financial rewards, with no demonstrated public safety benefit.
+
+Consider what this means for the theories of punishment that underwrite conspiracy and attempt. We criminalize attempt because someone moving toward crime poses a social danger. We criminalize conspiracy because group coordination makes crime more likely and more harmful. When a government agent initiates the criminal plan, supplies the means, and recruits the participants, who is creating the social danger? Who is coordinating the group activity? If the resulting prosecutions produce no measurable deterrence, what theory of punishment justifies them? And if law enforcement agencies are profiting from the criminal conduct they generate through asset forfeiture, does that not raise the very concerns about dangerous incentives that conspiracy doctrine was designed to address?
+
+If you think this sounds like an anti-pattern for law enforcement, you are not alone. Thirty-seven states have reformed their forfeiture laws since 2014, and four have abolished civil forfeiture entirely. New Mexico's abolition produced no measurable increase in crime across five different measures. California's reform, which prohibited equitable sharing payments on seizures under $40,000 without a conviction, reduced state forfeiture cases by 60%. Colorado barred agencies from receiving federal equitable sharing payments on seizures under $50,000 and created a grant program to offset the lost revenue, requiring agencies to apply through a centralized appropriations process rather than pocketing seized cash directly.
+
+But these reforms face a persistent structural obstacle. The federal Equitable Sharing Program allows local agencies to transfer seized assets to federal authorities for forfeiture under more permissive federal law, then receive up to 80% of the proceeds back, bypassing state restrictions entirely. Missouri's experience illustrates the problem: the state constitution mandates that forfeiture proceeds go to public schools, yet in 2016, police seized $6.3 million but routed all but $100,000 through the federal system back to their own budgets. Until the federal loophole is closed, state-level reforms remain vulnerable to circumvention.
+
+While American reforms have focused on curbing the worst abuses within the existing framework, some countries have reimagined forfeiture's purpose entirely. Italy's Law 109/96 requires that assets confiscated from organized crime be transferred to community organizations for "social reuse": former mafia properties have been converted into elderly care facilities, youth centers, and agricultural cooperatives. Ireland's Community Safety Innovation Fund redirects forfeiture proceeds to community safety projects, including restorative justice, youth diversion, and anti-violence programs, in the communities most affected by the underlying crime. These models treat asset recovery not as a mechanism to supplement police budgets but as a tool for repairing the damage that criminal activity inflicts.
+
+No study has directly measured whether forfeiture reform reduces the frequency of manufactured conspiracies. But the circumstantial evidence is suggestive: when California removed the financial incentive for small seizures, forfeiture cases dropped 60%; when local economies contract, forfeiture activity rises in proportion to the budget shortfall. If financial incentives shape how often agencies pursue forfeitures, they likely shape how often agencies design the sting operations that generate them.
+
+As future architects of this system, you will inherit these design choices and their interactions. The question is not whether any single feature is justified in the abstract, but whether the system they collectively produce distributes punishment in a way that can be defended.

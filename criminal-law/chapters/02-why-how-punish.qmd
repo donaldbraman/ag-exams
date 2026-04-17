@@ -1,0 +1,377 @@
+# Criminal Law's Purpose
+
+To be more than a set of suggestions about conduct, the law must have some way to encourage compliance. We typically talk about this in terms of criminal sanctions or, more specifically, how the state may compel some required conduct or limitation on the offender. These can take many forms: a simple warning; some form of probation; requiring a public apology; community service; loss of state licenses; loss of access to state-supported housing; restrictions on the right to associate with other individuals or entire classes of people; or regular meetings with monitoring officials. In some states it can include, for very serious crimes, killing the offender in a public or private execution. To the frustration of many, the most common criminal sanctions are fines, fees, and imprisonment. 
+
+This chapter examines the most common ways we justify punishment of various forms. As you read the materials that follow, consider how each form of justification might lead to different sentencing outcomes in the same case, and whether any single theory captures the full range of purposes that punishment should serve.
+
+## Part I: Theories of Punishment
+
+When lawyers and judges consider the meaning of an ambiguous doctrine, they generally invoke normative theories of punishment. Three such theories—optimal deterrence, individual desert, and expressive condemnation—warrant special attention. Each represents an application of one three ways of thinking about the law in general: deterrence is generally conceived of as an application of the concept of utilitarian arguments; individual desert as an application of fairness arguments; and expressive condemnation as an application of "social meaning" arguments. 
+
+One way to think about these theories is as grand *[normative](https://en.wikipedia.org/wiki/Normativity)* frameworks that tell us what we must do and why we must do it. That is, they can be thought of as statements about what the law requires of us. Another (far less grand) approach would be to think of them as *[rhetorical](https://en.wikipedia.org/wiki/Rhetoric)* idioms that lawyers and judges employ in practice to persuade someone to do something. A third way to think of them is as *[descriptions](https://en.wikipedia.org/wiki/Descriptive_ethics)* of how people reason that can help practitioners predict how other practitioners will respond to a set of facts and arguments. 
+
+However perfect or imperfect they might be from a philosophical standpoint, the theories are deeply connected to how members of our society tend to think, and so arguments that conform to the terms and logical frameworks they supply sound correct, and get listened to; ones that don't may sound alien, and are readily dismissed, irrespective of the content of those arguments. It is thus essential for anyone who wants to engage a legal practitioner to become fluent in the theories, to develop a facility in them regardless of whether one believes that one or another---or even none of them---is ultimately sound.
+
+#### Social Utility & Deterrence
+
+By far the most common way that legal actors justify a criminal sanction is by arguing that it furthers social welfare in some way, an argument that is generally associated with *utilitarianism*. The theory of deterrence holds that punishment is justified because it benefits society by preventing crime. The central assumption is that individuals are rational actors who weigh the costs and benefits of their decisions and are thus less likely to commit a crime if they believe the costs outweigh the benefits. Jeremy Bentham, writing in the late eighteenth and early nineteenth centuries, remains the most influential proponent of this view. In the following excerpts, Bentham lays out the core logic of deterrence and its practical implications for punishment.
+
+::: {.source-title}
+[Jeremy Bentham]{.smallcaps}, [*The Rationale of Punishment*](https://www.google.com/books/edition/The_Rationale_of_Punishment/7bhCAAAAcAAJ/) (1830)
+:::
+
+::: {.excerpt}
+Pain and pleasure are the great springs of human action. When a man perceives or supposes pain to be the consequence of an act, he is acted upon in such manner as tends, with a certain force, to withdraw him, as it were, from the commission of that act. If the apparent magnitude, or rather value of that pain be greater than the apparent magnitude or value of the pleasure or good he expects to be the consequence of the act, he will be absolutely prevented from performing it. The mischief which would have ensued from the act, if performed, will also by the means be prevented. [...] General prevention is effected by the denunciation of punishment, and by its application, which, according to the common expression, serves for an example. The punishment suffered by the offender presents to everyone an example of what he himself will have to suffer if he is guilty of the same offence. General prevention ought to be the chief end of punishment, as it is its real justification. If we could consider an offence which has been committed as an isolated fact, the like of which would never recur, punishment would be useless. It would be only adding one evil to another. But when we consider that an unpunished crime leaves the path of crime open, not only to the same delinquent, but also to all those who may have the same motives and opportunities for entering upon it, we perceive that the punishment inflicted on the individual becomes a source of security to all. That punishment, which, considered in itself, appeared base and repugnant to all generous sentiment, is elevated to the first rank of benefits, when it is regarded, not as an act of wrath or vengeance against a guilty or an unfortunate individual who has given way to mischievous inclinations, but as an indispensable sacrifice to the common safety.
+:::
+
+::: {.source-title}
+[Jeremy Bentham]{.smallcaps}, [*An Introduction to the Principles of Morals and Legislation*](https://archive.org/details/introductiontoth033476mbp/page/n207/mode/2up)
+:::
+
+::: {.excerpt}
+But all punishment is mischief: all punishment in itself is evil. Upon the principle of utility, if it ought at all to be admitted, it ought only to be admitted in as far as it promises to exclude some greater evil. [...] It is plain, therefore, that in the following cases punishment ought not to be inflicted. (1) Where it is groundless: where there is no mischief for it to prevent; the act not being mischievous upon the whole. (2) Where it must be inefficacious: where it cannot act so as to prevent the mischief. (3) Where it is unprofitable, or too expensive: where the mischief it would produce would be greater than what it prevented. (4) Where it is needless: where the mischief may be prevented, or cease of itself, without it: that is, at a cheaper rate.
+:::
+
+**Note on Social Utility & Deterrence**
+
+Note that utilitarian theories focus attention on *social welfare*: if we can prevent people from committing crimes by ensuring that crime does not pay, we should. Today this most commonly takes the form of specific deterrence (punishing a person so that they update their assessment of the costs and benefits of criminal conduct) and general deterrence (very publicly punishing a person so that other people update their assessment of the costs and benefits of criminal conduct); but also include incapacitation (stopping an undeterrable person from committing crime by isolating them from society). Note that Bentham and other utilitarians see punishment itself as an evil that should be used only where it demonstrably improves overall social welfare; where criminal conduct is “unmeet” for punishment--that is, where it will harm society more than the criminal conduct--the state should refrain from enforcement. This form of talk about punishment is by far the most common in our society. 
+
+#### Individual Desert & Retribution
+
+Another common way legal actors justify a criminal sanction is by arguing that punishment is necessary to any form of justice based on *fairness*. Retributive theory thus holds that punishment is justified because offenders have earned it and, on this account, the state is obliged to provide it. The most influential proponent of retributivism is Immanuel Kant, who argued that punishment must be imposed because justice demands it, not because it serves some other social purpose. In the following passage, Kant articulates the core retributivist position.
+
+::: {.source-title}
+[Immanuel Kant]{.smallcaps}, [*The Philosophy of Law*](https://oll.libertyfund.org/titles/hastie-the-philosophy-of-law#lf0139_label_246) 194-98 (W. Hastie trans., 1887)
+:::
+
+::: {.excerpt}
+The right of administering punishment is the right of the sovereign as the supreme power to inflict pain upon a subject on account of a crime committed by him. [...]
+
+Judicial or juridical punishment (*poena forensis*) is to be distinguished from natural punishment (*poena naturalis*), in which crime as vice punishes itself, and does not as such come within the cognizance of the legislator. Juridical punishment can never be administered merely as a means for promoting another good either with regard to the criminal himself or to civil society, but must in all cases be imposed only because the individual on whom it is inflicted has committed a crime. For one man ought never to be dealt with merely as a means subservient to the purpose of another, nor be mixed up with the subjects of real right. Against such treatment his inborn personality has a right to protect him, even although he may be condemned to lose his civil personality. He must first be found guilty and *punishable*, before there can be any thought of drawing from his punishment any benefit for himself or his fellow-citizens.
+
+The penal law is a categorical imperative; and woe to him who creeps through the serpent-windings of utilitarianism to discover some advantage that may discharge him from the justice of punishment, or even from the due measure of it, according to the Pharisaic maxim: "It is better that one man should die than that the whole people should perish." For if justice and righteousness perish, human life would no longer have any value in the world.
+
+What, then, is to be said of such a proposal as to keep a criminal alive who has been condemned to death, on his being given to understand that, if he agreed to certain dangerous experiments being performed upon him, he would be allowed to survive if he came happily through them? It is argued that physicians might thus obtain new information that would be of value to the commonweal. But a court of justice would repudiate with scorn any proposal of this kind if made to it by the medical faculty; for justice would cease to be justice, if it were bartered away for any consideration whatever.
+:::
+
+**Note on Retribution**
+
+Kant's argument rests on a conception of human dignity: to punish someone for the purpose of benefiting society would be to treat that person as a mere instrument. But Kant's position has implications that trouble many readers. If punishment must be imposed regardless of consequences, must we punish even when doing so produces no benefit and considerable harm? Kant famously answered yes: even if a society were about to dissolve, it would be obligated to execute its last murderer, "in order that bloodguiltiness may not remain upon the people."
+
+Retribution thus focuses on the offender's culpability rather than the consequences of punishment. It demands proportionality: the punishment should fit the crime. From this perspective, it would be unjust to impose a severe sentence for a small offense merely to deter others, just as it would be unjust to impose a lenient sentence on a murderer because they pose no future danger. 
+
+#### Expressive Condemnation
+
+The third way legal actors justify punishment is by focusing attention on the *expression of shared values*: a crime communicates to the victim and society that the criminal offender views themselves as more valuable than the victim; and the state communicates that the victim is of full and equal value in our society by visibly punishing the offender. Punishment, on this account, is not merely a mechanism for preventing crime or giving offenders their just deserts; it is a form of moral discourse that affirms the value of victims and the seriousness of the norms that have been violated. Jean Hampton articulated this view powerfully in the following excerpts.
+
+::: {.source-title}
+Jean Hampton, *An Expressive Theory of Retribution*, *in* Retributivism and Its Critics (W. Cragg ed., 1992)
+:::
+
+::: {.excerpt}
+I want to propose that an action is wrong (as opposed to being merely harmful or potentially harmful) if and only if it expresses something about the person being harmed. Consider the following remark by Jeffrie Murphy:
+
+> One reason we so deeply resent moral injuries done to us is not simply that they hurt us in some tangible or sensible way; it is because such injuries are also messages---symbolic communications. They are ways a wrongdoer has of saying to us, "I count but you do not," "I can use you for my purposes," or "I am here up high and you are there down below." Intentional wrongdoing insults us and attempts (sometimes successfully) to degrade us---and thus it involves a kind of injury that is not merely tangible and sensible. It is moral injury, and we care about such injuries.
+
+I take Murphy's remark to be on the right track in picking out exactly what it is that makes an action not merely harmful but immoral. An immoral response to a person, whether or not it produces harm, carries with it a message, in particular, an insulting message. I want to argue that an immoral action is insulting in the sense that it sends a message which challenges the victim's worth. [...]
+
+Sometimes wrongdoers go out of their way to be deliberately disparaging of their victim's worth; sometimes they intend their actions to be demeaning or degrading. But often they do not intend their immoral actions as insults. And yet they are insulting: people who believe their purposes warrant them in taking another's wallet, or another's savings, or another's life, are people who believe their victims are not worth enough to require better treatment.
+:::
+
+::: {.source-title}
+Jean Hampton, *The Retributive Idea*, *in* Jeffrie Murphy & Jean Hampton, Forgiveness and Mercy (1988)
+:::
+
+::: {.excerpt}
+The retributivist's endorsement of the *lex talionis* is the insistence on proportionality between crime and punishment. The more severe the punishment, the more he is being brought low; and how low we want to bring a criminal depends on the extent to which his actions symbolize his superiority and lordship over the one he hurt. The higher wrongdoers believe themselves to be (and thus the more grievously they wrong others), the harder and farther they must fall if the moral reality of the parties' relative value is to be properly represented. So the increasing harshness of punishment symbolizes the increasing severity of the violation of the valuable entity. [...]
+
+How society reacts to one's victimization can be seen by one as an indication of *how valuable* society takes one to be, which in turn can be viewed as an indication of how valuable one really is. This point is essential to understanding a societal component of the retributive idea. Of course a victim wants her assailant punished insofar as that punishment is one form of her defense against future crime. But she also wants her assailant punished by society in a way that is properly expressive of what she takes her value to be. *If legal punishment is a protection of one's value, then its infliction on a wrongdoer is a reflection of that value.*
+
+Victims of criminals worry that if society allows the wrongdoer to suffer no painful consequences as a result of his action, he (and others) may conclude that the ones against whom he transgressed are not valuable enough for society to construct a significant protective barrier. So another idea behind victims' insistence that their wrongdoers shouldn't be allowed to "get away with it" is that society shouldn't allow the wrongdoers or the society to conclude, because of little or no protective response, that they were right to believe the victims lacked value relative to them.
+:::
+
+**Note on Expressive Condemnation**
+
+Hampton's analysis helps explain why victims and communities often care not just *whether* offenders are punished but *how* they are punished. A sentence that seems to minimize the seriousness of the offense, or that treats the offender with undue leniency, can feel like a further insult to the victim. The punishment must, in some meaningful sense, "fit the crime" not just in its severity but in its form.
+
+This can help us make sense of how different communities react to what they perceive as underpunishment of criminal conduct that victimizes their community, particularly when the person convicted of the crime is not a member of the community: it is a signal that the victim is not valued by society at large. Where this pattern persists, it can be viewed as a signal that the entire community is valued less than other communities in our society.
+
+#### Rehabilitation
+
+*Rehabilitation*—the idea that criminal sanctions should aim to transform offenders into law-abiding citizens—is not a separate foundational theory but rather an approach that draws on all three frameworks above. Unlike pure deterrence, which assumes rational actors responding to incentives, rehabilitation targets the underlying causes of criminal behavior: addiction, lack of education, untreated mental illness, or antisocial cognitive patterns. From a utilitarian perspective, rehabilitation promises social benefit by reducing future crime. From a fairness perspective, requiring offenders to participate in treatment or education treats them as capable of change and demands they take active steps toward reintegration. And expressively, mandating rehabilitation signals that society believes in redemption while still holding offenders accountable.
+
+For much of the twentieth century, rehabilitation dominated American penology. But in 1974, sociologist Robert Martinson published a [review of 231 correctional treatment studies](https://www.jstor.org/stable/1143019) that was widely interpreted as concluding that "nothing works." The finding devastated rehabilitative programming. Why devote scarce resources to education, job training, or therapy if outcomes remain unchanged? The timing proved catastrophic: Martinson's critique arrived just as crime rates spiked, and policymakers pivoted toward incapacitation and deterrence. Prison populations exploded while treatment programs withered.
+
+Recent empirical work, however, has begun to rehabilitate rehabilitation. A [RAND Corporation meta-analysis](https://www.rand.org/pubs/research_reports/RR266.html) found that inmates who participate in correctional education programs have 43% lower odds of recidivating and 13% higher employment rates after release. Research on [Norway's prison system](https://www.nber.org/reporter/2020number1/benefits-rehabilitative-incarceration) demonstrates that incarceration focused on job training and education substantially reduces reoffending, particularly for those who were unemployed before imprisonment. A [2024 study of Canadian provincial prisons](https://jhr.uwpress.org/content/early/2024/03/04/jhr.1021-11933R2) found that rehabilitation programs reduced recidivism by approximately 19% per program. And a [meta-analysis in The Lancet](https://pmc.ncbi.nlm.nih.gov/articles/PMC8376657/) found that therapeutic community programs—intensive, residential treatment environments—significantly reduced reoffending among participants.
+
+The challenge is scale. With nearly two million people incarcerated, providing meaningful programming to all who might benefit strains budgets and political will. And skepticism persists: some programs show modest or null effects, and methodological weaknesses plague many studies. Yet the emerging evidence suggests that well-designed, adequately funded rehabilitation programs can reduce crime more effectively than warehousing offenders in cells—a finding with implications for all the theories of punishment. 
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Suppose that hub-cap theft is extremely common in the District. Law enforcement officials attribute the problem to the difficulty of catching hubcap thieves. The precise apprehension rate is unclear, but officials estimate that only 1 thief in 500 gets caught. With these odds, offenders (who net about \$50 for each set of stolen hubcaps) are perfectly happy to risk the penalty for petty theft, which is a maximum of six months in prison. Consider the hubcap-theft problem from the point of view of the three theories of punishment outlined in the readings. Do these theories suggest clear solutions to the problem? If so, are the solutions that they suggest consistent with one another? If inconsistent, which theory should prevail?
+
+2. Which theories of punishment help to explain the varied public responses to the Black Lives Matter movement and protests and the January 6th attempt to stop the certification of the presidential election? 
+
+3. What theory of punishment, if any, justifies imprisonment for marijuana possession? If, as extensive research suggests, members of racial and ethnic groups sell and consume narcotics at similar rates, do the theories of punishment explain why residents in some communities are far more likely to be stopped, arrested, and imprisoned for narcotics possession and distribution? Do the theories of punishment help us understand why disproportionate enforcement for narcotics possession is distressing to community members who do not sell or consume drugs?
+
+4. Do the traditional theories exhaust the purposes that punishment might serve? Consider whether punishment should aim to express solidarity with victims, reaffirm community norms, or achieve restorative goals that none of these theories capture.
+:::
+
+### The American Punishment System in Numbers
+
+Before examining critiques of traditional punishment theory, it is worth pausing to consider the scale of the system those theories are asked to justify.
+
+The United States incarcerates more people than any other nation. Despite comprising less than 5% of the world's population, America holds more than 20% of the world's prisoners. Nearly two million people are currently confined in prisons and jails—a 500% increase since 1970, far outpacing population growth or changes in crime rates. Another 3.7 million are under correctional supervision through probation or parole. The system costs taxpayers at least $80 billion annually.
+
+The racial disparities are stark. At current rates, one in three Black boys can expect to be imprisoned at some point in his lifetime, compared to one in seventeen white boys. People of color account for more than 60% of people behind bars. 
+
+Yet prisons and jails represent only one dimension of the system's reach.
+
+::: {.source-title}
+Alexandra Natapoff, *Punishment Without Crime: How Our Massive Misdemeanor System Traps the Innocent and Makes America More Unequal* (2018)
+:::
+
+::: {.excerpt}
+Misdemeanors are the front door to the American criminal system. Over thirteen million misdemeanor cases flood U.S. courts every year, representing roughly 80 percent of state criminal dockets. [...]
+
+People arrested for minor crimes are swept through courts where defendants often lack lawyers, judges process cases in mere minutes, and nearly everyone pleads guilty. Public defenders carry crushing caseloads—hundreds, sometimes thousands of cases—resulting in what practitioners call "meet-them-and-plead-them lawyering," where attorneys meet clients minutes before hearings with minimal discussion of the case. [...]
+
+This system operates as a kind of regressive tax policy, stripping the poor of their wealth through fines, fees, and bail that fund local jurisdictions. A misdemeanor conviction can interfere with employment, cause the loss of welfare benefits, render someone ineligible for financial aid for education, and threaten housing and immigration status. Yet many people charged with these "petty offenses" plead guilty in exchange for what they think will be a hasty exit from the system. The system is predicated on securing such pleas—even from the innocent.
+
+White people facing misdemeanor charges are nearly 75 percent more likely than Black people to have all charges carrying potential imprisonment dropped, dismissed, or reduced.
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Recall Keilee Fant from Chapter 1, who was jailed for nearly fifty days over unpaid parking tickets—denied basic hygiene, mocked by guards, and unable to attend her father's funeral. How do the traditional theories of punishment (deterrence, retribution, expressive condemnation) apply to her case? Consider the role that the federal Department of Justice played in uncovering and addressing issues along each of these dimensions. 
+
+2. Natapoff describes the misdemeanor system as a "regressive tax" that strips wealth from poor communities. Is this a failure of the system or a feature? The Department of Justice found that municipal courts in Ferguson, Missouri—where Keilee Fant lived and was repeatedly arrested—functioned primarily as revenue generators rather than institutions of justice.
+
+3. If mass incarceration does not make Americans safer—and evidence suggests it does not—why has the prison population increased 500% since 1970? 
+:::
+
+### Accountability: A Missing Perspective?
+
+The preceding theories—deterrence, retribution, and expressive condemnation—dominate academic and judicial discussion of punishment. But they may miss something important. The following excerpts describe less philosophical conceptions of punishment that are focused on *accountability*. As you read, consider whether the views raised make sense to you. Do they really break with traditional theories of punishment, or do they expand the theories to include a broader set of concerns and considerations about the utility, fairness, and values communicated by punishment? 
+
+::: {.source-title}
+Donald Braman, *Punishment and Accountability*, 53 UCLA L. Rev. 1143 (2006)
+:::
+
+::: {.excerpt}
+If you want to know what is missing from the theory and practice of punishment today, visit just about any inner-city neighborhood and spend some time talking about criminal sanctions with the families who live there. Sit down with the mothers on one of the blocks where crime and punishment have made men scarce and you are likely to hear stories like Londa's.
+
+Londa lives in a small housing project in our nation's capital with her three children, and she is intimately familiar with both the burdens of criminal sanctions and the social ills at which they are directed. Derek, her ex-husband and the father of her children, is incarcerated on a drug-related burglary charge. For her, for their children, and for their extended families, Derek's incarceration is decidedly unjust—unjust not so much for Derek as for them, unjust because it holds him unaccountable in ways that matter. Londa's complaint is one that I heard over and over in talking to families in the inner city: "Out here, I have to pay the bills, I have to raise the kids on my own, I have to go to work. He doesn't help with any of that. He doesn't even have to get drug treatment." Her prescription is one I heard many times as well: "They need to make all these guys participate [in programs,] not just people who want it. [...] Everybody should have to do the program." When I asked Londa what she meant by "programs," she described both programs that address addiction and programs that require offenders to work.
+
+After years of trying, Londa found she just couldn't face another cycle of addiction, arrest, incarceration without treatment, and release, so she filed for divorce. [...] The stereotypes of irresponsible, poverty-stricken, fatherless families are, she and many others in her community feel, reinforced by state-sanctioned punishments that further irresponsibility, poverty, and family disintegration.
+
+Londa's complaint, to be clear, is not just that there are not enough resources devoted to offender rehabilitation, but that our current approach, even where it devotes resources to offender rehabilitation, is wrong. It's not enough to provide offenders with *optional* services; the state should *require* offenders to behave more responsibly. "A lot of these guys, they just aren't going to do anything unless they have to. So unless you want the same thing over and over, with them doing the same thing, you have to make them do it, the ones that don't want to." And this, she believes, is important to members of the community, particularly the family, even if it fails to help the offender. "Even if it doesn't stick, if they backslide or whatever, you still want to know that they are going to do the process, you know? That, just even you knowing that they doing something, it gives you that little positive to think about, that's important." [...]
+
+For example, Mildred, who takes care of her grandchildren while her son is incarcerated, notes that she and other nonoffenders were doing the work of all those moving in and out of prison: "It gets you frustrated to the point where you begin to dislike your own family. You begin to think that all the sacrifices you made, all that work you put in, it don't amount to nothing." Most, like Mildred, had little patience for offenders or the state. Both, she and others felt, were not doing what they should. The criminal legal system, for many, seemed to be part of a (possibly intentional) program that was disassembling their families and communities. [...]
+
+What is missing from many discussions of punishment, both among liberal and conservative elites, is this intuition that sanctions are, in social terms, both insufficiently demanding of offenders and injurious to disadvantaged communities. Most of the people who live in communities where both crime and punishment are common aren't opposed to being tough on offenders, even to incarcerating offenders who are violent or at a high risk of committing another offense. But they are distraught by a lack of any pro-social demands made of those offenders, and the effects of their enforced unaccountability on non-offenders in their community. [...]
+
+**B. Accountability and Traditional Punishment Theory**
+
+What, if anything, can these accountability-related concerns teach legal theorists? One set of lessons suggests that the terms in which we typically discuss punishment---retribution, desert, deterrence, expressive condemnation, and rehabilitation---miss important and widespread concerns. Attending to these concerns can help theorists think in terms that are still consistent with their broader commitments but better reflect the diversity of considerations that most people bring to bear when they evaluate the form punishment takes.
+
+*1\. Fairness Concerns Exceeding Retribution*
+
+The preference for accountability is not reducible to traditional conceptions of retributivism. While many of those interviewed were interested in increasing the fairness of punishment, they viewed fairness as more than simply delivering to the offender "what his actions are worth." As Londa's complaint makes clear, she is at least as interested in what she, her children, and her community deserve as she is in what her husband deserves. Nor does the idea that offenders should be required to engage in some form of prosocial activity appear consistent with the notion that the offenders, by committing crimes, commit themselves to having the same or similar harms committed against them. Many of the interviewees' responses reflect the notion that requiring an offender to complete some form of prosocial action is, in many instances, part of just punishment. Retribution is an important part of the public's complex conception of justice, but it does not exhaust it.
+
+*2\. Welfare Concerns Exceeding Deterrence*
+
+Nor does the preference for accountability-reinforcing sanctions appear to be reducible to concerns about deterrence, either. Indeed, although many of those interviewed decried the disutility of punishment when describing their preference for accountability-reinforcing sanctions, even connecting individual sanctions to welfare-related concerns, few connected their preference with the cost-benefit calculus of those contemplating a criminal act. Instead, they complained about the loss of a resource to their families, communities, and society as a whole. This preference is difficult to reduce to deterrence because it extends beyond the cost-benefit analyses of those contemplating a crime to a broader utility of punishment that incorporates but is not limited to deterrence effects.
+
+*3\. Expressive Concerns Exceeding Condemnation*
+
+While there is often an expressive element to the interest in accountability-reinforcing sanctions, it is one that is broader than traditional expressivist accounts of punishment suggest. Expressive theories hold that punishment conveys the importance of the norms marked out by the law to the degree of condemnation that a sanction conveys. However, the public's preference for accountability-reinforcing sanctions indicates that punishment can convey social meaning along other dimensions as well. When, for example, the citizens of California vote by popular referendum to implement mandatory labor requirements throughout its prison system, it seems likely that they are attempting to do more than express condemnation; they are also trying to convey an additional normative sentiment: offenders cannot escape the constraint of responsible behavior through punishment. Indeed, the impulse behind laws establishing requirements, such as victim compensation, restitution, mandatory drug treatment, mandatory education, mandatory child support, anger-management classes, public apologies, and the like, are best thought of as expressing something in addition to "vindictive resentment." Punishment is a mechanism through which citizens can both condemn criminal acts and protect norms governing responsible behavior outside of the scope of the criminal law.
+:::
+
+::: {.source-title}
+Danielle Sered, *Until We Reckon: Violence, Mass Incarceration, and a Road to Repair* (2019)
+:::
+
+::: {.excerpt}
+**What Survivors Want**
+
+To begin the conversation about appropriate responses to violence, survivors first want validation that what happened to them is wrong. They want their pain taken seriously, and they do not want to be blamed or judged for what happened to them. They deserve this validation no matter who they are, what they did, or where they were when they were hurt. [...]
+
+Once we have established our recognition that what happened to them is wrong, survivors want answers. Information contributes substantially to what people in the trauma recovery field describe as the formation of a "coherent narrative"—a story about what happened and why that the survivor can believe, make sense of, find some meaning in, and live with. [...]
+
+There is almost never anyone who knows more about what happened to a survivor and why than the person who caused them harm. Survivors who want answers to their questions therefore need and deserve to be able to ask these questions and get those answers: Why did you do it? Why did you choose me? What, if anything, could I have done to stop you? Did you feel bad at the time? Do you feel bad now? [...]
+
+In addition to answers, many survivors want the person who harmed them to repair the harm as best they can. It is a basic human desire to want what is broken to be fixed, and to want those who broke it to take responsibility for that repair however possible. [...]
+
+Every single survivor we have spoken to has wanted one thing: to know that the person who hurt them would not hurt anyone else. It is, in fact, an extraordinary commonality, one that speaks to a degree of compassion and altruism in the human spirit.
+
+When it comes to punishment, survivors consistently express a desire for options other than incarceration and an interest in them when they are available. Yet the criminal legal system rarely offers alternatives to prison as responses to violence. Roughly 52 percent of crime victims answered that they "believe that time in prison makes people more likely to commit another crime rather than less likely." Perhaps for that reason, 69 percent of victims preferred holding people accountable through options beyond prison, such as rehabilitation, mental health treatment, substance use treatment, community supervision, or community service.
+
+**Punishment Versus Accountability**
+
+For all the faults of prison—the dehumanization, the prevalence of violence, the human and financial cost, the collateral consequences, the impact on families—it has another flaw that is rarely talked about: prison is a poor vehicle for accountability. This may sound strange in a country that has equated punishment and accountability, but the two are not the same.
+
+When it comes down to it, being punished requires only that people sustain the suffering imposed for their transgression. It is passive. All one has to do to be punished is not to escape. It requires neither agency nor dignity, nor does it require work. [...]
+
+No one in prison is required to face the human impacts of what they have done, to come face to face with the people whose lives are changed as a result of their decisions, to own their responsibility for those decisions and the pain they have caused, and to do the extraordinarily hard work of answering for that pain and becoming someone who will not commit that harm again. While incarcerated, people are brutalized, but they are also systematically protected and excused from all of those human burdens. Prisons render the most important kinds of human reckoning nearly impossible.
+
+It is my belief that when we hurt people, we owe something, and one of the things we owe is to face what we have done. In that sense, when it comes to demanding that those who have committed wrongdoing pay that debt, there is nowhere softer on crime than prison.
+
+**What Accountability Requires**
+
+Accountability requires five key elements: (1) acknowledging responsibility for one's actions; (2) acknowledging the impact of one's actions on others; (3) expressing genuine remorse; (4) taking actions to repair the harm to the degree possible, guided when feasible by the people harmed—or "doing sorry"; and (5) no longer committing similar harm. Each step has meaning and benefit for the responsible party, for the harmed party, and for the larger community.
+
+Unlike punishment, accountability is not passive. Far from it.
+:::
+
+### Restorative Justice
+
+The materials above focus primarily on imprisonment, but incarceration is not the only form punishment can take. Fines, probation, community service, and various forms of shaming sanctions all serve punitive functions. More recently, "restorative justice" programs have gained attention as alternatives to traditional punishment.
+
+Restorative justice contemplates diversion of cases from the criminal legal system to informal mediation processes involving the offender, the victim, and representatives of the community. Under the guidance of a professional facilitator, the participants negotiate an appropriate disposition, one that ordinarily includes some type of apology by the offender and an agreement to furnish monetary or in-kind reparations to the victim. Community representatives typically devise support opportunities for the offender, including counseling or treatment programs.
+
+The theory behind restorative justice differs markedly from traditional theories of punishment. Rather than focusing on what the offender "deserves" or how to deter future crime, restorative justice emphasizes repairing the harm caused by the offense and reintegrating both the offender and the victim into the community. Proponents argue that this approach better serves victims' interests (by giving them a meaningful voice in the process), reduces recidivism (by addressing the underlying causes of criminal behavior), and strengthens communities (by building rather than fracturing social bonds).
+
+Critics worry that restorative justice is insufficiently punitive, that it fails to protect vulnerable victims from pressure to "forgive" their offenders, and that it privatizes what should be a public response to wrongdoing. They also note that restorative justice works best for relatively minor offenses and may be wholly inappropriate for serious violent crimes.
+
+Interestingly, restorative justice seems to attract support from people with otherwise divergent political views. Progressives appreciate its emphasis on rehabilitation and community involvement. Conservatives appreciate its demand that offenders take personal responsibility for their actions and make concrete amends. This "expressive overdetermination," as one scholar has called it, may explain why restorative justice has gained traction across the political spectrum.
+
+Domestic violence would seem an unlikely candidate for restorative justice. Critics have long argued that bringing victims and offenders together in such cases risks endangering victims or pressuring them to forgive. Yet a [randomized controlled trial](https://www.nature.com/articles/s41562-019-0724-1) conducted in Salt Lake City found that adding restorative "Circles of Peace" sessions to traditional batterer intervention reduced recidivism by more than half. The study randomly assigned 222 domestic violence offenders to either standard batterer intervention alone or batterer intervention followed by six Circles of Peace sessions—a restorative process that brings together the offender, a trained facilitator, volunteer community members, and victims who choose to participate. Over a 24-month follow-up period, the restorative justice group experienced 53% fewer new arrests and 52% lower crime severity scores than the control group.
+
+::: {.source-title}
+[Linda G. Mills, Briana Barocas, Robert P. Butters & Barak Ariel, *A Randomized Controlled Trial of Restorative Justice-Informed Treatment for Domestic Violence Crimes*, 3 Nature Hum. Behav. 1284 (2019)](https://www.nature.com/articles/s41562-019-0724-1)
+:::
+
+::: {.excerpt}
+Circles of Peace for domestic violence offenders seek to hold offenders accountable; empower those who are victimized; allow for the expression of feelings; clarify facts about the crime; provide an opportunity to address the impact of the crime on the survivors and those around them; and come to an agreement about how the offender can make amends. [...]
+
+Through the use of a social compact, there is an element of focused accountability each week in the Circle session where all parties witness change by the offender that is both recognized and performed.
+:::
+
+**Note on Restorative Justice and Domestic Violence**
+
+This "focused accountability"—ongoing, witnessed, and relational—contrasts sharply with the passive accountability of incarceration, where offenders need only endure their sentence without ever confronting those they harmed. Assuming participation is predicated on victims' consent, is restorative justice consistent with the three frameworks discussed above: social utility, fairness, and the expression of shared social values? 
+
+::: {.callout-note}
+### In the News: A Different Path for Officer and Victim
+
+In April 2019, Officer Julia Crews of the Ladue Police Department [shot Ashley Hall in the back](https://www.stltoday.com/news/local/crime-and-courts/assault-case-against-former-ladue-police-officer-dismissed-through-restorative-justice-program/article_61d71499-18c0-5520-8704-f5d74fb642fc.html) during a shoplifting investigation at a Schnucks grocery store parking lot in suburban St. Louis. Crews had intended to deploy her Taser but drew her firearm instead. Hall suffered catastrophic injuries—damage to her lungs, liver, diaphragm, spleen, ribs, and kidney—and went into cardiac arrest for two minutes.
+
+Crews was charged with second-degree assault, and the city of Ladue paid Hall [$2 million to settle](https://www.ksdk.com/article/news/local/ladue-officer-woman-shot-schnucks-restorative-justice/63-6cd1368d-dfcc-4358-9f4e-bfdc861ef9cd) her civil lawsuit. But in November 2021, something unusual happened: rather than proceeding through the traditional criminal legal system, both parties agreed to participate in a [restorative justice mediation](https://kesq.com/news/2021/11/22/prosecutor-drops-charges-against-officer-in-rare-case-of-restorative-justice-mediation/) conducted via videoconference.
+
+"As soon as we met, she began crying and pleading with me for forgiveness," Hall later explained. "I informed her that I had forgiven her on the day she shot me."
+
+The mediation, facilitated by Seema Gajwani of the D.C. Attorney General's office, was the first such case involving a police officer handled by St. Louis County Prosecutor Wesley Bell's office. Bell described the session as "incredibly emotional and moving," noting that both women "literally told each other they loved each other four or five times."
+
+Following the successful mediation, [prosecutors dismissed the criminal charge](https://www.kwtx.com/2021/11/23/charges-being-dropped-against-ex-officer-victims-request/) against Crews.
+
+"This was a unique opportunity where the defendant immediately realized she had made a terrible mistake," Bell said, "and both the defendant and victim reached places where they could see a resolution for this incident outside of the criminal justice process."
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. For what types of offenses, if any, would restorative justice be inappropriate? Is the category of "inappropriate" offenses fixed, or could it change as restorative practices become more developed?
+
+2. Should the availability of restorative justice depend on the victim's willingness to participate? What if some victims prefer traditional punishment? What if the victim is indifferent? Crimes are considered "public" offenses. Does that mean that preferences of the community matter as well? What do most community members want? 
+
+3. How would the families in Chapter 1 (Keilee Fant, Dan Markel, the victims of the opioid crisis) evaluate restorative justice as an alternative to traditional punishment? What would that look like?  
+:::
+
+## Part II: Sentencing Corporations
+
+The preceding materials focus on punishing individuals. But some of the most serious harms in our society are caused by corporations—entities that can act, profit, and persist across generations, yet cannot be imprisoned and feel no shame. The traditional theories of punishment were developed with human offenders in mind: deterrence assumes a rational actor weighing costs and benefits; retribution assumes a moral agent who deserves suffering for wrongdoing; expressive condemnation assumes an audience that can perceive the message; and rehabilitation assumes a person capable of transformation. How should these theories apply when the offender is not a person but an organization? And what alternative approaches might work better?
+
+### The Scale of Corporate Harm
+
+::: {.source-title}
+Donald Braman & Theresa Gabaldon, *A Charter for Justice: Corporate Enforcement for the New Federalism*, 59 U.C. Davis L. Rev. 429 (2025)
+:::
+
+::: {.excerpt}
+The corporation might be the most efficient tool ever invented for generating value in our economy. Unfortunately, it is also the most efficient for extracting and sequestering that value while pushing harms and costs onto others. Compare some of the leading causes of death in the United States. The lethality of the corporate purveyors of narcotics and tobacco outstrips that of violent criminals by an order of magnitude. Not to be outdone, the carbon majors appear willing to endanger a fair portion of human civilization in decades to come. As corporations grow in size, the harm that flows from their conduct is growing as well. [...]
+
+Every day, tobacco kills, on average, [1,300] Americans, a death toll that exceeds that of murder, AIDS, suicide, drugs, car crashes, and alcohol, combined. [...] Recent estimates link one in five deaths worldwide to fossil fuel products. This amounts to [nearly 24,000] deaths a day across the globe, and, in the United States, 350,000 deaths every year. [...] The opioid crisis has a death toll of over 80,000 in just the last year; the Centers for Disease Control and the Joint Economic Committee estimate the cost of the epidemic to our economy at close to $1.5 trillion annually.
+
+### Why Traditional Punishment Fails
+
+The current remedies for corporate crime—modest cash transfers and occasional board or executive turnover—appropriately infuriate critics as both deeply unjust and ineffective, spurring calls for more punitive measures. And the impotence of today's timid remedies feeds into the belief that retributive penalties that lean heavily on the suffering of executives and high-level employees or that demonize a corporation and call for its dissolution will be more effective in regulating corporate behavior.
+
+Criminal law, thankfully, has another set of techniques that are both more effective and, in the greater scheme of social orderings, more respectable. The most reputable and constructive techniques the criminal law has for enforcing accountability are less about tit-for-tat penalties or the imposition of suffering on offenders than they are about publicly recognizing harms and working towards practical and meaningful remedies in which those who inflicted harm provide aid, commit to fair dealings, and undertake reforms that give expression to important public values. Broad and diverse, these techniques are often grouped under the label of "accountability-enhancing" or "restorative" justice. These techniques are effective because they facilitate the offender's reintegration into the social networks damaged by their harmful conduct, mandate practical and meaningful remedies for the harm inflicted, and reaffirm and reinforce the societal connections and responsibilities that the offender's actions undermined. [...]
+
+Public benefit restructuring, we believe, fits well within this accountability-enhancing and restorative approach. [...] It may be impossible to reach inside a human and change their fundamental motivations, their values, and the mechanics that govern the goals of their behavior, but this is demonstrably possible for corporations. Thus, although no state can forcibly alter the intrinsic motivation of a murderer, larcenist, or fraudster, a state can insist that a corporation harming its people alter the charter that controls that corporation's objective function and the basic routines it employs in pursuit of its objectives.
+:::
+
+::: {.callout-note}
+### In the News: From OxyContin Maker to Public Benefit Corporation
+
+In November 2025, a federal bankruptcy court [approved the restructuring](https://www.npr.org/2025/01/24/nx-s1-5272769/purdue-pharma-and-sackler-family-members-to-pay-7-4b-in-national-opioid-settlement) of Purdue Pharma into a public benefit corporation—one of the most unusual outcomes in corporate criminal history. The transformation came nearly two decades after the 2007 settlement described in Chapter 1, which allowed the company to continue operating after paying $600 million in fines while three executives received only community service for their roles in the opioid crisis.
+
+**What Happened After 2007**
+
+Over the next decade, Purdue's OxyContin sales doubled. The Sackler family, which owned the company, withdrew approximately $10.7 billion from Purdue between 2008 and 2018, placing the funds in offshore accounts and family trusts. By 2020, more than 500,000 Americans had died from opioid overdoses.
+
+**The 2020 Criminal Plea**
+
+In November 2020, Purdue [pleaded guilty](https://oig.hhs.gov/fraud/enforcement/opioid-manufacturer-purdue-pharma-pleads-guilty-to-fraud-and-kickback-conspiracies/) to three federal felonies: conspiracy to defraud the United States and two counts of violating anti-kickback statutes. The company admitted that from 2007 through 2017—*after* the first settlement—it had continued marketing opioids to healthcare providers it knew were diverting drugs illegally, and had paid kickbacks to induce doctors to prescribe more opioids. The settlement totaled $8.3 billion, but Purdue's bankruptcy meant most would never be paid. No individual Sackler has ever faced criminal charges.
+
+**The 2025 Restructuring**
+
+The new settlement, approved after the Supreme Court [struck down](https://www.supremecourt.gov/opinions/23pdf/23-124_8nk0.pdf) an earlier version that would have shielded the Sacklers from all lawsuits, requires the family to pay $6.5 billion over fifteen years—part of a $7.4 billion total settlement. Purdue Pharma will be dissolved. Its assets will be transferred to a new entity called [Knoa Pharma](https://ag.ny.gov/press-release/2025/attorney-general-james-secures-approval-purdue-bankruptcy-plan), owned by trusts established to fund opioid crisis abatement. The company will operate as a public benefit corporation, distributing addiction treatment and overdose reversal medications at no profit.
+
+Individual victims will share approximately $850 million—the first opioid settlement to compensate individuals directly. Victim advocate Ryan Hampton estimated his personal payout at roughly $3,500.
+
+The Sacklers will forfeit all ownership interest, cannot be involved in any opioid-related business worldwide, and cannot have their names added to institutions in exchange for charitable contributions. But they retain immunity from most civil lawsuits, and $800 million of the settlement is reserved for their legal defense if sued by those who opt out of the release.
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Compare the 2007 settlement (described in Chapter 1) and the 2025 restructuring using Sered's five elements of accountability: (1) acknowledging responsibility, (2) acknowledging impact, (3) expressing genuine remorse, (4) repairing harm, and (5) not reoffending. Which elements, if any, were satisfied in each case? Does the restructuring into a public benefit corporation represent genuine accountability or merely a sophisticated form of damage limitation?
+
+2. After the 2007 settlement, the Sackler family withdrew $10 billion from Purdue while opioid deaths continued to climb. What does this suggest about the deterrent effect of corporate fines? If the 2007 settlement had instead required restructuring Purdue as a public benefit corporation, might the subsequent decades have unfolded differently?
+
+3. No individual Sackler has faced criminal prosecution despite the company's two felony pleas. Apply the punishment theories from this chapter: What would Bentham say about the utility of prosecuting individuals? Corporations? What would Kant say about the justice of allowing them to escape personal accountability? What would Hampton say about the message sent to victims and society?
+
+4. The 2025 settlement reserves $800 million for the Sacklers' legal defense against future lawsuits. Victims who opt out of releasing the family can sue but will effectively be funding the Sacklers' defense from settlement money. Is this arrangement consistent with any theory of justice?
+
+5. You read that some have argued that states should "alter the charter that controls [a] corporation's objective function"—something impossible with individual offenders. Does the Purdue restructuring vindicate this argument? Or does the fact that the Sacklers retain their personal fortunes while the company transforms suggest the limits of corporate accountability?
+:::
+
+
+## Part III: Punishment and Political Conflict
+
+The punishment theories surveyed in this chapter share an implicit assumption: that criminal law operates as a neutral system applying universal principles to individual conduct. Bentham's deterrence calculus, Kant's categorical imperative, Hampton's expressive theory—each presumes a unified community that agrees on what constitutes wrongdoing and how it should be addressed. But criminal law functions within societies stratified by race, class, and politics. When enforcement patterns track group membership rather than conduct alone, the theoretical justifications for punishment become unstable.
+
+Consider the contrasting responses to the Black Lives Matter protests of 2020 and the January 6, 2021, Capitol breach. Both involved collective action, property destruction, and confrontations with law enforcement. Yet many observers perceived stark differences in enforcement: heavily militarized responses and mass arrests at BLM protests; a notably restrained initial response on January 6. The point is not to equate the events or to declare one response correct. It is that both political perspectives tended to see persecution of *their* side while viewing enforcement against the *other* side as legitimate. This symmetry reveals something important: when criminal enforcement becomes entangled with group identity and conflict, punishment theories lose their grounding. Retribution cannot track desert if perceived group membership shapes outcomes. Deterrence cannot send clear signals if enforcement probability varies by identity. Expressive condemnation fractures when different audiences receive different messages.
+
+The deepest challenge concerns legitimacy. Social contract theories assume citizens consent to laws that apply equally to all. When enforcement appears to favor some groups, those who perceive themselves as targets may view criminal law not as *their* law but as domination wielded by others. This perception need not be accurate to be consequential. If significant portions of the population believe enforcement serves group interests rather than justice, compliance becomes harder to secure and punishment harder to justify. 
+
+The stakes are immense. Clearance rates for serious violent crime, including homicide, are steadily collapsing. 
+
+![Steady Decline of Clearance Rates](../sources/images/clearance_rates.png){width=75% fig-align="center"}
+
+Many communities across the country endure aggressive low-yield enforcement for petty offenses and, at the same time, watch serious violence go unsolved and unpunished. That mix of over-punishment and under-protection erodes legitimacy, depresses cooperation, and lets the most harmful cases slip through the public-safety net. That, in turn, feeds the flywheel of political polarization. The current architecture of local enforcement is producing both poor safety and a legitimacy crisis. To make matters worse, news media and social media amplify these problems. 
+
+### The Attention Economy and the Amplification of Conflict
+
+Why have group conflicts over criminal enforcement intensified? Part of the answer lies in structural changes to how information travels. Research published in [*PNAS*](https://www.pnas.org/doi/10.1073/pnas.1618923114) found that moral-emotional content spreads faster on social media—each moral-emotional word increased viral spread by approximately 20 percent. A follow-up study in [*Science Advances*](https://www.science.org/doi/10.1126/sciadv.abe5641) showed that outrage expression is *learned*: users who receive positive feedback for expressing outrage become more likely to express it in the future. Most striking, a [study of 2.7 million posts](https://www.pnas.org/doi/10.1073/pnas.2024292118) found that content about the political out-group was shared twice as often as content about the in-group. Out-group hostility was about 4.8 times more predictive of viral spread than negative emotion alone. The system is optimized to amplify intergroup conflict.
+
+These dynamics predate social media but have intensified. Political scientists Jeffrey Berry and Sarah Sobieraj documented "[the outrage industry](https://global.oup.com/academic/product/the-outrage-industry-9780190498467)"—a media ecosystem built on provocation and contempt. Their content analysis found one outrage-inducing statement per minute on political talk radio. Critically, outrage media "stigmatizes cooperation and brands collaboration and compromise as weak," delegitimizing the processes democratic governance requires. Meanwhile, [research on affective polarization](https://www.annualreviews.org/content/journals/10.1146/annurev-polisci-051117-073034) shows that emotional hostility toward political opponents has increased dramatically, with partisan bias now exceeding racial bias in some behavioral experiments. A [recent study](https://academic.oup.com/pnasnexus/article/4/3/pgaf062/8052060) found that Twitter's algorithm amplifies content that makes users feel *worse* about opponents—even though users report not preferring such content. Engagement optimization selects for compulsive negative affect, not satisfaction.
+
+Criminal law is particularly vulnerable to these dynamics. Crime stories are inherently emotional; enforcement is visible state power easily framed as protection or persecution; phrases like "law and order" and "mass incarceration" function as tribal markers signaling group loyalty rather than policy positions. The feedback loops intensify: media coverage shapes public fear, fear shapes political incentives, incentives shape enforcement, enforcement shapes coverage. At each stage, the attention economy pushes toward more emotional, more tribal, more polarized responses—undermining the shared frameworks that punishment theories presuppose.
+
+The challenge is one that both prosecutors and we as a society must confront. We can continue to recruit prosecutors as pawns in ideological proxy wars, and the cycle will grind on; or we can help law enforcement adopt the discipline of modern governance and they can rewrite the architecture of justice itself. 
+
+::: {.callout-tip}
+### Discussion Questions
+
+What kind of advocate should represent you as your District Attorney, Solicitor, or Attorney General? What kind of system do you want them to build? 
+
+Do the candidates promise to deliver partisan victories or reforms that deliver safety, fairness, and legitimacy by design? 
+
+If you cannot find a candidate on the ballot that you want to support, will you consider becoming a candidate yourself? 
+
+:::

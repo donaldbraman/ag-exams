@@ -1,0 +1,294 @@
+# Self-Defense
+
+Self-defense is the paradigmatic justification: the defendant claims the use of force was *right*. A person attacked without provocation is entitled to fight back, and the law should not punish them for doing so. But every jurisdiction assembles the conditions for that entitlement differently. The same act of self-preservation that produces an acquittal in one state can result in a murder conviction in another.
+
+The differences reflect deep disagreements about what self-defense doctrine should protect: the sanctity of human life, the autonomy of the individual, or the practical realities of violence. Three cases, separated by decades but connected by doctrine, expose those disagreements. *People v. Goetz* raises the question of what counts as a reasonable fear. *State v. Norman* asks what happens when the threat is real but not imminent. *Alexander v. State* shows how procedure, mandatory minimums, and race can turn the same doctrine into radically different outcomes.
+
+## Part I: The Doctrinal Framework
+
+Self-defense doctrine rests on a small number of building blocks. The vocabulary is shared, even when the rules diverge.
+
+*Necessity.* The right to use force arises only when force is genuinely required to avert a serious threat. The defendant must believe that defensive force is needed, and that belief must be reasonable. Once the threat ends, the right to use force ends with it.
+
+*Imminence.* The threatened harm must be immediate. A person who is told "I will kill you next week" cannot use deadly force today. The logic is that if the harm is not yet upon the defendant, there is still time to retreat, call the police, or seek other alternatives. But the requirement also creates serious problems for defendants who face ongoing patterns of violence rather than a single acute confrontation.
+
+*Proportionality.* The force used in self-defense must be roughly proportional to the force threatened. Force capable of causing death or serious bodily injury is justified only against a threat of death or serious bodily injury. A shove does not justify a gunshot.
+
+*Reasonable belief.* Necessity demands that the defendant's belief be reasonable. But what counts as "reasonable" is contested. Some jurisdictions apply a purely objective standard, while others incorporate subjective elements such as the defendant's age, physical condition, prior experiences, and particular knowledge of the attacker.
+
+*Duty to retreat.* Even if all other elements are satisfied, some jurisdictions require the defendant to retreat before using deadly force, but only if a safe retreat is possible. Other jurisdictions impose no such duty, allowing the defendant to "stand their ground."
+
+*The castle doctrine.* Every jurisdiction recognizes an exception to any duty to retreat when the defendant is attacked in their own home. As Cardozo wrote, "It is not now, and never has been the law that a man assailed in his own dwelling, is bound to retreat. If assailed there, he may stand his ground, and resist the attack. He is under no duty to take to the fields and the highways, a fugitive from his own home." *People v. Tomlins*, 213 N.Y. 240, 243 (1914). But jurisdictions differ sharply on whether this exception extends to the yard, the car, the workplace, and whether it applies when the attacker is a co-occupant.
+
+*Initial aggressor.* A person who starts a fight cannot claim self-defense. But if the initial aggressor withdraws and clearly communicates that withdrawal, the right to self-defense revives. And if the victim responds to non-deadly provocation with sudden, disproportionate deadly force, some jurisdictions hold that the original aggressor may regain the right to defend.
+
+*Imperfect self-defense.* In some jurisdictions, a defendant who honestly but unreasonably believed that deadly force was necessary is entitled to a partial defense. The honest-but-unreasonable belief negates the *malice* (the mental state distinguishing murder from manslaughter) required for murder, reducing the charge to voluntary manslaughter. Most jurisdictions treat self-defense as all-or-nothing: if the belief was unreasonable, the defendant is guilty of murder.
+
+These are the building blocks. Consider a single scenario across three jurisdictions. A woman is confronted in a parking garage by an aggressive stranger who blocks her path, shouts threats, and reaches into his jacket. She is carrying a legally permitted handgun. She draws and fires. He was unarmed; the reach was for his phone.
+
+In New York, the first question is retreat. If the woman knew she could safely reach her car or an exit, she was required to use that avenue of escape before resorting to deadly force. If retreat was available, her claim fails without reaching the question of reasonable fear.
+
+In Florida, there is no duty to retreat. The only question is whether she reasonably believed she faced imminent death or great bodily harm, and this is evaluated from her perspective in the moment, not with hindsight knowledge that the man was unarmed. If she can make that showing, she is entitled to pre-trial immunity, though as we will see, the burden at that hearing has shifted over time. Florida's Stand Your Ground law creates a distinctive procedural mechanism: a pre-trial evidentiary hearing in which the judge, not a jury, weighs the evidence and decides whether the defendant is immune from prosecution. If the judge denies immunity, the defendant may still raise self-defense at trial, but the burden allocation at that first hearing will prove decisive in Part IV.
+
+In California, there is likewise no duty to retreat. If her belief was reasonable, she is acquitted. But if her belief was genuine and unreasonable, so-called "imperfect" self-defense reduces the charge to voluntary manslaughter.
+
+Same facts, three outcomes: potential murder conviction in New York, possible pre-trial dismissal in Florida, and a middle-ground manslaughter verdict in California. Each jurisdiction configured the same building blocks differently.
+
+The following table summarizes how three representative jurisdictions assemble them.
+
+|                           | New York                                     | Florida                                        | California                                    |
+|---------------------------|----------------------------------------------|------------------------------------------------|-----------------------------------------------|
+| Duty to retreat           | Yes ("complete safety")                      | No (Stand Your Ground)                         | No (case law)                                 |
+| Castle doctrine           | Home only; includes co-occupants             | Home + vehicle + statutory presumption of fear  | Home (no presumption)                         |
+| Reasonableness            | Objective only; unreasonable belief = murder  | Objective; unreasonable belief = murder         | Objective, but honest unreasonable belief = manslaughter (imperfect self-defense) |
+| Burden of proof           | Prosecution disproves once raised             | Prosecution disproves + pre-trial immunity      | Prosecution disproves                         |
+| Initial aggressor         | Must withdraw + communicate                  | Must withdraw + "criminal activity" bar         | Escalation doctrine may revive rights         |
+
+The cases that follow apply this framework to three defendants whose claims of self-defense test its limits.
+
+## Part II: Reasonableness and Race
+
+New York Penal Law § 35.15 permits the use of physical force when a person "reasonably believes" it necessary to defend against the imminent use of unlawful force. Deadly force is permitted only when the defendant "reasonably believes" the attacker is using or about to use deadly physical force, and even then, the defendant must retreat if they can do so "with complete personal safety," unless they are in their own home.
+
+The critical term is "reasonably believes." Does it require an objective assessment: what a reasonable person in the defendant's situation would have believed? Or is the defendant's own subjective belief sufficient?
+
+The question reached the New York Court of Appeals through an unusual procedural path. A first grand jury, hearing Goetz's taped statements and the testimony of subway passengers, declined to indict on the shooting charges. The prosecution obtained permission to resubmit and secured a ten-count indictment from a second grand jury.
+
+The trial court then dismissed most of those charges, holding that the prosecutor had improperly introduced an "objective element" into the justification defense by instructing the grand jurors to consider whether Goetz's conduct was that of "a reasonable man in [his] situation." The Appellate Division affirmed, concluding that the test should be purely subjective: whether the defendant's beliefs were "reasonable to him." The Court of Appeals took the case to decide which standard governs. In doing so, it forced a second, harder question: whose fears does the criminal legal system treat as "reasonable"?
+
+## PEOPLE V. GOETZ {#people-v-goetz .unnumbered .unlisted .case-title}
+
+*New York Court of Appeals, 1986*
+*68 N.Y.2d 96, 497 N.E.2d 41*
+
+::: {.case-excerpt}
+
+Chief Judge WACHTLER.
+
+A Grand Jury has indicted defendant on attempted murder, assault, and other charges for having shot and wounded four youths on a New York City subway train after one or two of the youths approached him and asked for $5. [...]
+
+#### Facts {.unnumbered .unlisted}
+
+On Saturday afternoon, December 22, 1984, Troy Canty, Darryl Cabey, James Ramseur, and Barry Allen boarded an IRT express subway train in The Bronx and headed south toward lower Manhattan. [...] Two of the four, Ramseur and Cabey, had screwdrivers inside their coats, which they said were to be used to break into the coin boxes of video machines.
+
+Defendant Bernhard Goetz boarded this subway train at 14th Street in Manhattan and sat down on a bench towards the rear section of the same car occupied by the four youths. Goetz was carrying an unlicensed .38 caliber pistol loaded with five rounds of ammunition in a waistband holster. [...]
+
+It appears from the evidence before the Grand Jury that Canty approached Goetz, possibly with Allen beside him, and stated "give me five dollars." Neither Canty nor any of the other youths displayed a weapon. Goetz responded by standing up, pulling out his handgun and firing four shots in rapid succession. The first shot hit Canty in the chest; the second struck Allen in the back; the third went through Ramseur's arm and into his left side; the fourth was fired at Cabey, who apparently was then standing in the corner of the car, but missed, deflecting instead off of a wall of the conductor's cab. After Goetz briefly surveyed the scene around him, he fired another shot at Cabey, who then was sitting on the end bench of the car. The bullet entered the rear of Cabey's side and severed his spinal cord.
+
+[...] Goetz surrendered to police in Concord, New Hampshire [nine days later], identifying himself as the gunman being sought for the subway shootings in New York. [...] In [his] statements [...] Goetz admitted that he had been illegally carrying a handgun in New York City for three years. He stated that he had first purchased a gun in 1981 after he had been injured in a mugging. [...]
+
+According to Goetz's statement, the first contact he had with the four youths came when Canty, sitting or lying on the bench across from him, asked "how are you," to which he replied "fine." Shortly thereafter, Canty, followed by one of the other youths, walked over to the defendant and stood to his left, while the other two youths remained to his right, in the corner of the subway car. Canty then said "give me five dollars." Goetz stated that he knew from the smile on Canty's face that they wanted to "play with me." Although he was certain that none of the youths had a gun, he had a fear, based on prior experiences, of being "maimed."
+
+Goetz then established "a pattern of fire," deciding specifically to fire from left to right. His stated intention at that point was to "murder [the four youths], to hurt them, to make them suffer as much as possible." [...] Goetz recalled that the first two he shot "tried to run through the crowd [but] they had nowhere to run." Goetz then turned to his right to "go after the other two." One of these two "tried to run through the wall of the train, but ... he had nowhere to go." The other youth (Cabey) "tried pretending that he wasn't with [the others]" by standing still, holding on to one of the subway hand straps, and not looking at Goetz. Goetz nonetheless fired his fourth shot at him. [...] [Goetz then] noticed that the youth who had been standing still was now sitting on a bench and seemed unhurt. As Goetz told the police, "I said '[y]ou seem to be all right, here's another,'" and he then fired the shot which severed Cabey's spinal cord. Goetz added that "if I was a little more under self-control ... I would have put the barrel against his forehead and fired." He also admitted that "if I had had more [bullets], I would have shot them again, and again, and again."
+
+#### Holding {.unnumbered .unlisted}
+
+We now reverse and reinstate all counts of the indictment.
+
+#### Reasoning {.unnumbered .unlisted}
+
+Penal Law § 35.15(1) sets forth the general principles governing all such uses of force: "[a] person may ... use physical force upon another person when and to the extent he *reasonably believes* such to be necessary to defend himself or a third person from what he *reasonably believes* to be the use or imminent use of unlawful physical force by such other person."
+
+Section 35.15(2) sets forth further limitations on these general principles with respect to the use of "deadly physical force": "A person may not use deadly physical force upon another person under circumstances specified in subdivision one unless (a) He *reasonably believes* that such other person is using or about to use deadly physical force ... or (b) He *reasonably believes* that such other person is committing or attempting to commit a kidnapping, forcible rape, forcible sodomy or robbery."
+
+[...] New York did not follow the Model Penal Code's approach to the use of deadly force in self-defense. Under Model Penal Code § 3.04(2)(b), a defendant charged with murder need only show that he "believe[d] that [the use of deadly force] was necessary to protect himself against death, serious bodily injury, kidnapping or [forcible] sexual intercourse" to prevail on a self-defense claim --- a purely subjective test. If the defendant's belief was wrong and was recklessly or negligently formed, he may be convicted of a lesser homicide charge requiring only a reckless or negligent criminal intent. The Legislature, in enacting section 35.15, adopted in large part the structure and content of the Model Penal Code provision, but crucially inserted the word "reasonably" before "believes." [...]
+
+As expressed repeatedly in the Appellate Division's plurality opinion, because section 35.15 uses the term "he reasonably believes," the appropriate test, according to that court, is whether a defendant's beliefs and reactions were "reasonable to him." Under that reading of the statute, a jury which believed a defendant's testimony that he felt that his own actions were warranted and were reasonable would have to acquit him, regardless of what anyone else in defendant's situation might have concluded. Such an interpretation defies the ordinary meaning and significance of the term "reasonably" in a statute, and misconstrues the clear intent of the Legislature, in enacting section 35.15, to retain an objective element as part of any provision authorizing the use of deadly physical force.
+
+We cannot lightly impute to the Legislature an intent to fundamentally alter the principles of justification to allow the perpetrator of a serious crime to go free simply because that person believed his actions were reasonable and necessary to prevent some perceived harm. To completely exonerate such an individual, no matter how aberrational or bizarre his thought patterns, would allow citizens to set their own standards for the permissible use of force. It would also allow a legally competent defendant suffering from delusions to kill or perform acts of violence with impunity, contrary to fundamental principles of justice and criminal law.
+
+[...] Goetz also argues that the introduction of an objective element will preclude a jury from considering factors such as the prior experiences of a given actor and thus, require it to make a determination of "reasonableness" without regard to the actual circumstances of a particular incident. This argument, however, falsely presupposes that an objective standard means that the background and other relevant characteristics of a particular actor must be ignored. To the contrary, we have frequently noted that a determination of reasonableness must be based on the "circumstances" facing a defendant or his "situation." Such terms encompass more than the physical movements of the potential assailant. [...] They also necessarily bring in the physical attributes of all persons involved, including the defendant. Furthermore, the defendant's circumstances encompass any prior experiences he had which could provide a reasonable basis for a belief that another person's intentions were to injure or rob him or that the use of deadly force was necessary under the circumstances.
+
+:::
+
+A jury ultimately acquitted Goetz of all attempted murder and assault charges, convicting him only of illegal weapons possession. Goetz was white. The four youths he shot were Black. His own taped statement described an intent to "murder them" and "make them suffer as much as possible." Yet the jury concluded his fear was reasonable. The case sharpened a question the doctrine has never fully answered: whose fears does the criminal legal system treat as "reasonable"?
+
+The court's holding preserves an important distinction. The objective standard is not purely external: it incorporates the defendant's knowledge, physical condition, and prior experiences. Goetz's prior mugging was relevant not only because it shaped his subjective fear but because it told the jury something about the environment: subway muggings were a real and documented phenomenon. A juror assessing what a "reasonable person in Goetz's situation" would have believed needed to know that. That is objective reasonableness work, not racial profiling.
+
+But the doctrine provides no mechanism for distinguishing between prior experiences that legitimately inform the reasonableness inquiry and prior experiences that encode racial bias. Goetz described his prior muggers as "teen aged, African American males." His fear of Canty was shaped by that history. The objective standard asks whether a reasonable person *in Goetz's situation* would have felt threatened. But "Goetz's situation" included a racialized perception of danger that the doctrine has no tools to evaluate.
+
+How would the case play in the other two jurisdictions? In Florida, Goetz would have had no duty to retreat. If his belief was reasonable, he would have been entitled to pre-trial immunity under Stand Your Ground, and the prosecution would have borne the burden of disproving that belief by clear and convincing evidence. In California, if a jury found his belief genuine but unreasonable, imperfect self-defense would have reduced the charges from attempted murder to attempted voluntary manslaughter. That is a significant difference, but one that turns on genuineness rather than reasonableness.
+
+*Goetz* raised the question of what counts as a reasonable fear. The next case asks what happens when the fear is well-founded but the threat is not, by traditional measures, imminent --- and what the imminence requirement costs when it prevents the jury from hearing the full story.
+
+## Part III: Imminence and Reform
+
+Bernhard Goetz confronted an immediate threat --- or so he claimed. Four youths approached him on a subway train, one asked for money, and Goetz perceived danger in the moment. The imminence requirement was easily satisfied, and the doctrinal battle moved to reasonableness.
+
+Judy Norman confronted a different kind of threat. Her husband had beaten, degraded, and terrorized her for twenty years. He forced her into prostitution to support his drinking, burned her with cigarettes, broke glass against her face, and told her repeatedly that he would kill her. She called the police, sought help from social services, and attempted suicide. Nothing changed.
+
+In the final days before the killing, the abuse intensified. Norman's husband was arrested for driving while impaired; after his release, he beat her throughout the day, refused to let her eat, and told paramedics to "Let the bitch die" after she attempted suicide by overdose. His friend testified that on the day of the killing, Norman's husband "started slapping on her" while she drove, periodically poured his beer into a glass and then poured it on her head, and at one point kicked her in the side of the head while she was driving. Mark Navarra, who had lived with the Normans for a year and a half, testified that he had never seen Norman's husband angrier than he was that day. Norman's daughter testified that her father had beaten her mother "all day long" and had forbidden her to eat for the third consecutive day. That evening, he threatened to cut her throat if she pursued commitment proceedings. He made her lie on the concrete floor while he slept on the bed, telling her: "Dogs don't lay in the bed. They lay in the floor."
+
+Norman's mother testified that her son-in-law had reacted to the suicide attempt with threats: "Now, you're going to pay for taking those pills," and "I'll kill you, your mother and your grandmother." His rage was such that the mother feared he might kill the whole family, and knowing Norman's sister had a gun in her purse, she took the gun and placed it in her own.
+
+After her husband fell asleep, Norman carried her grandchild to her mother's house. She found the pistol in her mother's purse, returned home, and shot her husband three times in the back of the head as he slept.
+
+Asked why she killed her husband, Norman replied: "Because I was scared of him and I knowed when he woke up, it was going to be the same thing, and I was scared when he took me to the truck stop that night it was going to be worse than he had ever been. I just couldn't take it no more. There ain't no way, even if it means going to prison. It's better than living in that. That's worse hell than anything."
+
+The doctrinal question was whether a jury should have been permitted to consider self-defense. The imminence requirement stood in the way. And because it blocked the self-defense instruction, it functioned as an evidentiary gatekeeper: the jury heard the facts of the abuse but was told, in effect, that the law did not treat them as relevant to justification. The doctrine reduced a twenty-year story to a single frame.
+
+## STATE V. NORMAN {#state-v-norman .unnumbered .unlisted .case-title}
+
+*Supreme Court of North Carolina, 1989*
+*324 N.C. 253, 378 S.E.2d 8*
+
+::: {.case-excerpt}
+
+MITCHELL, J.
+
+The defendant was tried [...] upon a proper indictment charging her with the first degree murder of her husband. The jury found the defendant guilty of voluntary manslaughter. [...] The Court of Appeals granted a new trial, citing as error the trial court's refusal to submit a possible verdict of acquittal by reason of perfect self-defense. Notwithstanding the uncontroverted evidence that the defendant shot her husband three times in the back of the head as he lay sleeping in his bed, the Court of Appeals held that the defendant's evidence that she exhibited what has come to be called "the battered wife syndrome" entitled her to have the jury consider whether the homicide was an act of perfect self-defense [...]. We [...] reverse the Court of Appeals.
+
+#### Facts {.unnumbered .unlisted}
+
+[...] The defendant presented evidence tending to show a long history of physical and mental abuse by her husband due to his alcoholism. [...] His physical abuse of her consisted of frequent assaults that included slapping, punching and kicking her, striking her with various objects, and throwing glasses, beer bottles and other objects at her. [...] [H]er husband [...] put her cigarettes out on her, throwing hot coffee on her, breaking glass against her face and crushing food on her face. [...]
+
+[H]er husband did not work and forced her to make money by prostitution, and [...] he made humor of that fact to family and friends. He would beat her if she resisted going out to prostitute herself or if he was unsatisfied with the amounts of money she made. He routinely called the defendant "dog," "bitch" and "whore," and on a few occasions made her eat pet food out of the pets' bowls and bark like a dog. He often made her sleep on the floor. At times, he deprived her of food and refused to let her get food for the family. [...]
+
+[On the day before the killing,] sheriffs deputies were called to the Norman residence, and the defendant complained that her husband had been beating her all day and she could not take it anymore. [...] [She] was advised to file a complaint, but she said she was afraid her husband would kill her if she had him arrested. [...] The deputies were called back less than an hour later after the defendant had taken a bottle of pills. The defendant's husband cursed her [...] and [...] told them to let her die. [...]
+
+[The next day,] she confronted her husband [...]. She testified that she told her husband [...]: "J. T., straighten up. Quit drinking. I'm going to have you committed to help you." She said her husband then told her he would "see them coming" and would cut her throat before they got to him. [...]
+
+[T]hat evening, the defendant's husband told defendant, "Let's go to bed." [...] [H]er father had forbidden defendant from sleeping on either [bed]. Instead, he had made her lie down on the concrete floor between the two beds, saying, "Dogs don't lay in the bed. They lay in the floor." [...] After the defendant's husband fell asleep, the baby started crying and the defendant took it to her mother's house so it would not wake up her husband. [...] [T]he gun was in [her mother's purse], and [...] she took it out, and [...] went back there and shot him.
+
+#### Holding {.unnumbered .unlisted}
+
+The evidence [...] would not support a finding that the defendant killed her husband due to a reasonable fear of imminent death or great bodily harm [...]. Therefore, the trial court properly declined to instruct the jury on the law relating to self-defense.
+
+#### Majority Reasoning {.unnumbered .unlisted}
+
+The killing of another human being is the most extreme recourse to our inherent right of self-preservation and can be justified in law only by the utmost real or apparent necessity brought about by the decedent. For that reason, our law of self-defense has required that a defendant claiming that a homicide was justified [...] must establish that she reasonably believed at the time of the killing she otherwise would have immediately suffered death or great bodily harm. Only if defendants are required to show that they killed due to a reasonable belief that death or great bodily harm was imminent can the justification for homicide remain clearly and firmly rooted in necessity. The imminence requirement ensures that deadly force will be used only where it is necessary as a last resort in the exercise of the inherent right of self-preservation. [...]
+
+[...] [The defendant testified,] "I knowed when he woke up, it was going to be the same thing, and I was scared when he took me to the truck stop that night it was going to be worse than he had ever been." [...] Testimony about such indefinite fears concerning what her sleeping husband might do at some time in the future did not tend to establish a fear --- reasonable or otherwise --- of imminent death or great bodily harm at the time of the killing. Under our law of self-defense, a defendant's subjective belief of what might be "inevitable" at some indefinite point in the future does not equate to what she believes to be "imminent." [...]
+
+[The jury convicted Norman of voluntary manslaughter, not first-degree murder.]
+
+[...] The relaxed requirements for perfect self-defense proposed by our Court of Appeals would tend to categorically legalize the opportune killing of abusive husbands by their wives solely on the basis of the wives' testimony concerning their subjective speculation as to the probability of future felonious assaults by their husbands. Homicidal self-help would then become a lawful solution, and perhaps the easiest and most effective solution, to this problem. [...] [T]here was no evidence that her husband had ever inflicted any harm upon her that approached life-threatening injury, even during the "reign of terror." [...] The use of deadly force in self-defense to prevent harm other than death or great bodily harm is excessive as a matter of law. [...]
+
+[W]e decline to expand our law of self-defense beyond the limits of immediacy and necessity which have heretofore provided an appropriately narrow but firm basis upon which homicide may be justified [...].
+
+#### Dissent {.unnumbered .unlisted}
+
+MARTIN, J., dissenting.
+
+[...] [D]efendant does not seek to expand or relax the requirements of self-defense and thereby "legalize the opportune killing of allegedly abusive husbands by their wives," as the majority overstates. Rather, defendant contends that the evidence as gauged by the existing laws of self-defense is sufficient to require the submission of a self-defense instruction to the jury. [...]
+
+Evidence presented by defendant described a twenty-year history of beatings and other dehumanizing and degrading treatment by her husband. [...] [A] clinical psychologist concluded that defendant fit "and exceeded" the profile of an abused or battered spouse, analogizing this treatment to the dehumanization process suffered by prisoners of war under the Nazis during the Second World War and the brainwashing techniques of the Korean War. [...] The psychologist described the defendant as a woman incarcerated by abuse, by fear, and by her conviction that her husband was invincible and inescapable:
+
+> Mrs. Norman didn't leave because she believed, fully believed that escape was totally impossible. There was no place to go. He, she had left before; he had come and gotten her. She had gone to the Department of Social Services. He had come and gotten her. The law, she believed the law could not protect her; no one could protect her, and I must admit, looking over the records, that there was nothing done that would contradict that belief. She fully believed that he was invulnerable to the law and to all social agencies that were available; that nobody could withstand his power. As a result, there was no such thing as escape.
+
+[...] In the context of the doctrine of self-defense, the definition of "imminent" must be informed by the defendant's perceptions. It is not bounded merely by measurable time, but by all of the facts and circumstances. [...] Psychologists have observed and commentators have described a "constant state of fear" brought on by the cyclical nature of battering as well as the battered spouse's perception that her abuser is both "omnipotent and unstoppable." [...] Constant fear means a perpetual anticipation of the next blow, a perpetual expectation that the next blow will kill. [...] For the battered wife, if there is no escape, if there is no window of relief or momentary sense of safety, then the next attack, which could be the fatal one, is imminent. [...]
+
+[...] [D]efendant's intense fear, based on her belief that her husband intended not only to maim or deface her, as he had in the past, but to kill her, was evident in the testimony of witnesses who recounted events of the last three days of the decedent's life. This testimony could have led a juror to conclude that defendant reasonably perceived a threat to her life as "imminent," even while her husband slept. Over these three days, her husband's anger was exhibited in an unprecedented crescendo of violence. [...]
+
+Where the defendant is a battered wife, there is no analogue to the victim-turned-aggressor, who, as in *Mize*, turns the tables on the decedent in a fresh confrontation. Where the defendant is a battered wife, the affray out of which the killing arises can be a continuing assault. There was evidence before the jury that it had not been defendant but her husband who had initiated "the affray," which the jury could have regarded as lasting twenty years, three days, or any number of hours preceding his death. And there was evidence from which the jury could infer that in defendant's mind the affray reached beyond the moment at which her husband fell asleep. [...]
+
+Where torture appears interminable and escape impossible, the belief that only the death of the oppressor can provide relief is reasonable in the mind of a person of ordinary firmness, let alone in the mind of the defendant, who, like a prisoner of war of some years, has been deprived of her humanity and is held hostage by fear.
+
+:::
+
+How would Norman's case play out across the three jurisdictions? In all three, the sleeping husband fails the traditional imminence requirement. In New York and Florida, Norman is guilty of murder. In California, if her belief in the need for self-defense was genuine, even if unreasonable, imperfect self-defense reduces the charge to voluntary manslaughter.
+
+How far does the genuineness inquiry extend? The California Supreme Court explored that question in *People v. Schuller*, 15 Cal.5th 237 (2023), in a case far removed from domestic violence. Schuller shot a man nine times and burned the body, claiming he believed the victim was "Lucifer." The trial court refused to instruct on imperfect self-defense. The Supreme Court reversed: the failure to instruct was constitutional error because it removed the question of malice from the jury. If the jury believed Schuller's fear was genuine, the prosecution had not proven malice beyond a reasonable doubt, regardless of how unreasonable the belief.
+
+Justice Liu's concurrence went further: it "should not matter why the killer perceived a need for self-defense," whether the belief stemmed from "mental illness, negligence, subaverage intelligence, or a variety of other causes." The jury "need not decide whether [a defendant's] belief was delusional, but [need] only decide whether that belief was genuine." If that genuineness-only inquiry applies, it benefits not only defendants with severe mental illness but also abuse survivors whose perception of threat has been shaped by years of violence.
+
+The majority's concern in *Norman* is real: without a firm imminence line, self-defense risks justifying homicide based on "purely subjective speculation" about future threats rather than imminent danger. But the dissent's concern is equally real: in a regime of continuous violence, the lull may be the only moment when self-defense is physically possible.
+
+The coercive control framework from the previous chapter (Chapter 21) bears directly on this tension. That framework shifts the question from "what is wrong with the defendant?" to "what did the abuser do?" It reframes imminence around the continuity of the threat. If the abuser has established ongoing control backed by credible threats of lethal violence, the threat is continuous. A defendant who killed during a lull acted during the only window when self-defense was physically possible. The threat does not end when the beating stops.
+
+### Telling the Full Story
+
+The *Norman* majority's holding meant the jury never weighed whether twenty years of escalating brutality gave Judy Norman reason to believe the next waking moment could be fatal. The imminence requirement foreclosed the inquiry before it began. A generation of scholars has identified the structural problem: the doctrinal framework, particularly the imminence requirement, systematically prevents juries from hearing the facts they need to assess reasonableness. A jury that hears only that a woman shot a sleeping man, without understanding the twenty years that preceded that moment, is not making an informed judgment about reasonableness. It is judging a snapshot.
+
+### Expert Testimony and Battering
+
+Most states now permit expert testimony on battering in self-defense cases, following [*State v. Kelly*, 97 N.J. 178 (1984)](https://www.courtlistener.com/opinion/2315254/state-v-kelly/){.cite}, which held that such evidence is "beyond the ken of the average juror." By the time of the 1996 VAWA report, expert testimony on the effects of battering had been admitted in all fifty states ([U.S. Dep't of Justice, *The Validity and Use of Evidence Concerning Battering and Its Effects in Criminal Trials* (1996)](https://www.ojp.gov/redirect-legacy/ncjrs/pdffiles/batter.pdf){.cite}). Sixty-three percent of convictions were upheld even when such testimony was admitted (evidence informs the factfinder's judgment; it does not replace it), and it does not produce the automatic acquittals the *Norman* majority feared.
+
+The report also rejected the label "battered woman syndrome," finding a strong consensus that the term did not adequately reflect the breadth of the scientific knowledge available. The word "syndrome" carried connotations of illness and implied a single pattern of response to abuse, precisely the pathologization that undermined defendants. The report urged courts to admit "evidence concerning battering and its effects": contextual evidence that helps the jury understand what happened, not a diagnostic label. The federal circuits remain divided: the Seventh Circuit in [*United States v. Dingwall*, 6 F.4th 744 (2021)](https://www.courtlistener.com/opinion/6255542/united-states-v-dingwall/){.cite}, reversed a district court's exclusion of expert testimony on battering, joining the Sixth, Ninth, and D.C. Circuits. The Fifth and Tenth Circuits continue to exclude such evidence.
+
+### Survivors' Justice Acts
+
+Five states have enacted Survivors' Justice Acts --- New York, Illinois, Oklahoma, Georgia, and New Jersey --- intervening at trial (easier admission of abuse evidence), sentencing (abuse history as mitigation), and post-conviction (resentencing petitions). New York's Domestic Violence Survivors Justice Act has generated over 235 applications, with approximately 82 people receiving relief ([Survivors Justice Project, DVSJA Data, 2026](https://www.sjpny.org/dvsjadata){.cite}). In the first 40 resentencings, 70 percent of those who received relief were people of color ([Sentencing Project, 2023](https://www.sentencingproject.org/reports/sentencing-reform-for-criminalized-survivors-learning-from-new-yorks-domestic-violence-survivors-justice-act/){.cite}).
+
+These reforms change evidentiary rules, sentencing, and post-conviction remedies, but they leave the underlying doctrine intact. A sleeping abuser is still, doctrinally, not an imminent threat. And when the doctrine intersects with mandatory minimum sentencing and the procedural mechanics of Stand Your Ground, the consequences can be stark --- even when no one is injured.
+
+## Part IV: Stand Your Ground and Its Consequences
+
+Marissa Alexander was a thirty-one-year-old Black woman in Jacksonville, Florida, five foot two and 140 pounds. Her estranged husband, Rico Gray, was five foot five and 245 pounds. She had given birth about a week before the shooting. Their newborn was still in the hospital.
+
+Alexander had endured a year and a half of escalating abuse. Gray choked her and attempted to strangle her, on one occasion nearly causing her to lose consciousness. On another occasion six months later, he shoved her so violently that she was hospitalized; she called law enforcement, Gray was arrested, and she obtained a domestic violence injunction. Five months into her pregnancy, Gray head-butted her twice, tore her clothes, and threw her to the ground. Throughout the relationship, he repeatedly threatened to kill her.
+
+Gray had prior domestic battery charges in 1994 and 2006, the first when he was nineteen, years before he met Alexander. The 2006 case resulted in a conviction and a court-ordered batterer's intervention program; the 1994 case resulted in adjudication withheld. When Alexander had him arrested in 2009 after the beating that hospitalized her, the charge was dropped. The pattern of escalating violence, credible death threats, and institutional failure fits the coercive control framework introduced in Chapter 21.
+
+A forensic psychologist testified at trial that Alexander met the criteria for battered person's syndrome. Alexander's daughter, younger sister, mother, and ex-husband all testified to having seen her injuries. Two of Gray's own sisters-in-law testified that he had a reputation for violence.
+
+On August 1, 2010, Gray arrived at the marital home with his two sons. After breakfast, Alexander handed Gray her phone to show him pictures of their newborn baby, still in the hospital. Gray saw text messages from Alexander's ex-husband and questioned the baby's paternity. He broke through the locked bathroom door, grabbed Alexander by the neck, and demanded an explanation. After struggling for what felt like an eternity, Alexander escaped to the garage. She tried to leave but could not get the garage door open. She retrieved a permitted firearm from the glove compartment of her car and walked back into the kitchen. Gray saw the gun and charged her, saying, "Bitch, I'll kill you." Alexander raised the gun and fired. The bullet went through the kitchen wall. No one was injured.
+
+At the time of Alexander's case, Florida's Stand Your Ground statute provided that a person who reasonably believed deadly force was necessary to prevent imminent death or great bodily harm had no duty to retreat if she was not engaged in criminal activity and was in a place where she had a right to be. Fla. Stat. § 776.012(2). A defendant asserting SYG immunity could move to dismiss before trial, but the *defendant* bore the burden of proving immunity by a preponderance of the evidence. (In 2017, the legislature shifted this burden to the prosecution, which now must disprove self-defense by clear and convincing evidence.)
+
+The SYG immunity hearing is a distinctive procedural mechanism. It is not a trial: there is no jury. The judge conducts an evidentiary hearing, hears testimony, weighs credibility, and makes factual findings. If the judge grants immunity, the case is dismissed and the defendant is also immune from civil liability. If the judge denies immunity, the case proceeds to a full jury trial where self-defense can be raised again, but now under the beyond-a-reasonable-doubt standard. Alexander's self-defense claim was thus evaluated twice, by two different factfinders (judge, then jury), under two different standards (preponderance, then reasonable doubt). She lost both times.
+
+## ALEXANDER V. STATE {#alexander-v-state .unnumbered .unlisted .case-title}
+
+*District Court of Appeal of Florida, First District, 2013*
+*Case No. 1D12-2469*
+
+::: {.case-excerpt}
+
+BENTON, J.
+
+Convicted of aggravated assault with a deadly weapon for firing what she described as a warning shot intended to make her husband desist from physical abuse, Marissa Alexander argues the judgment against her (and her twenty-year sentence) should be reversed on multiple grounds. We reject her contention that the trial court erred in declining to grant her immunity from prosecution under Florida's Stand Your Ground law, but we remand for a new trial because the jury instructions on self-defense were erroneous.
+
+#### Facts {.unnumbered .unlisted}
+
+[...] After Mr. Gray accused her of infidelity and questioned the paternity of her week-old baby, she testified, she locked the bathroom door, yelling at him to leave, but Mr. Gray broke through the door, grabbed her by her neck, and demanded to know when she last had sexual relations with her ex-husband. She tried to push past him but he shoved her hard into the bathroom door. After struggling for what felt like "an eternity," she testified, he relented and she ran from the bathroom straight to the garage.
+
+Once inside the garage, appellant testified, she tried to leave the premises altogether but could not get the garage door open, and instead retrieved a gun (for which she had a permit) from the glove compartment of a vehicle in the garage. She then walked back into the house, she said, holding the gun by her side because she did not know whether Mr. Gray had left or not. As she walked into the kitchen, Mr. Gray saw the gun, and charged her "in a rage," saying, "Bitch, I'll kill you." Startled, she raised the gun into the air and fired. Mr. Gray ran. According to appellant, she was forced to fire her gun into the air as a warning shot because it was the "lesser of two evils." [...]
+
+Several witnesses, including appellant's daughter, younger sister, mother, and ex-husband all testified they had seen appellant's injuries, injuries they understood Mr. Gray had inflicted. Two of Mr. Gray's sisters-in-law also testified that he had a reputation for violence in the community. The final defense witness, Mia Wilson, Ph.D., testified that the appellant met the criteria for "battered person's syndrome." The prosecution agreed the central question at trial was self-defense [...].
+
+#### The SYG Immunity Denial {.unnumbered .unlisted}
+
+[The trial court denied Alexander's pre-trial motion for immunity under Stand Your Ground.] The question as to whether Appellant is entitled to immunity from prosecution under the Stand Your Ground law is no longer open for debate because that issue was definitively resolved against Appellant after a full and fair evidentiary hearing in a ruling that has now been affirmed by this court.^[The trial court made the following relevant findings: "[...] The Defendant had not been living in the marital home for the two months leading up to the shooting. [...] The Defendant testified she was trying to leave the residence but could not get the garage door to open. (The Court notes that despite the Defendant's claim she was in fear for her life at that point and trying to get away from Rico Gray she did not leave the house through the back or front doors which were unobstructed. Additionally, the garage door had worked previously and there was no evidence presented to support her claim.) The Defendant then retrieved her firearm from the glove box of the vehicle. The Defendant returned to the kitchen with the firearm in her hand and pointed it in the direction of all three Victims. Rico Gray Sr. put his hands in the air. The Defendant shot at Rico Gray Sr., nearly missing his head. [...] This is inconsistent with a person who is in genuine fear for his or her life. [...] There is insufficient evidence that the Defendant reasonably believed deadly force was needed to prevent death or great bodily harm to herself, another or to prevent the commission of a forcible felony."]
+
+#### Jury Instruction Error {.unnumbered .unlisted}
+
+[...] [T]he trial judge instructed the jury on self-defense but did so in language that was problematic in two important respects, and which constituted fundamental error. [The instruction required proof "beyond a reasonable doubt" that Gray committed aggravated battery before self-defense could apply --- improperly shifting the prosecution's burden onto the defendant.]
+
+The defendant's burden is only to raise a reasonable doubt concerning self-defense. The defendant does not have the burden to prove the victim guilty of the aggression defended against beyond a reasonable doubt. "When a defendant claims self-defense, the State maintains the burden of proving the defendant committed the crime and did not act in self-defense." [...] "The burden never shifts to the defendant to prove self-defense beyond a reasonable doubt."
+
+[...] The trial court committed fundamental error in requiring proof beyond a reasonable doubt that appellant's husband committed aggravated battery immediately before she fired the warning shot, or would have done so but for the shot. Accordingly, we reverse and remand for a new trial.
+
+:::
+
+Alexander's account was contested at every turn. The trial court found that Gray had moved to the living room and "put his hands in the air" when Alexander returned from the garage with the gun, contradicting her testimony that he charged her. The court noted that despite her claim of fear, she did not leave through the front or back doors, both of which were unobstructed. The physical evidence showed the bullet traveled through the kitchen wall near Gray's head and into the ceiling of the living room, a trajectory the prosecution argued was inconsistent with a warning shot fired into the air. And after Alexander posted bail, she violated a no-contact order, coordinated with Gray about his deposition testimony, and then drove to his new residence and physically assaulted him, leading to new charges and bond revocation. The appellate concurrence by Judge Wetherell noted that the jury "heard testimony that painted Appellant as the aggressor during the incident and directly contradicted Appellant's version of events."
+
+### The Trial and 10-20-Life
+
+The jury convicted Marissa Alexander in twelve minutes --- barely enough time to select a foreperson, review the verdict form, and take a single vote. The charge was aggravated assault with a deadly weapon: three counts, one for Gray and one for each of his two sons who were in the home. Florida's 10-20-Life mandatory minimum statute dictated the sentence: pull a gun, ten years; pull the trigger, twenty years; shoot someone, twenty-five to life. Alexander pulled the trigger. The mandatory minimum was twenty years. The trial judge had no discretion.
+
+Before trial, the prosecution (led by State Attorney Angela Corey, whose office simultaneously prosecuted George Zimmerman for the killing of Trayvon Martin under the same Stand Your Ground statute) had offered Alexander a three-year plea deal. She rejected it, believing a jury would see her actions as self-defense. The twelve-minute deliberation answered that question. After the First District reversed the conviction on the ground that the jury instructions had improperly shifted the burden of proof, the prosecution announced it would seek sixty years on retrial: twenty years on each of three counts, to run consecutively, tripling the original sentence. The three counts arose from a single shot because each person in the room (Gray and his two sons) was charged as a separate victim. Alexander had won her appeal. She had proved the jury instructions were constitutionally defective. Her reward was a threat to triple her sentence. She ultimately accepted a plea to time served (approximately three years) plus two years of house arrest with an ankle monitor.
+
+### The Spencer Contrast
+
+Place Alexander's case next to *Spencer v. State*, No. 4D2025-0023 (Fla. 4th DCA 2025). Ivin Spencer shot and killed Brandon Bell, an unarmed man, in a parking lot dispute over a gate. Bell, younger, fitter, and known to carry a gun, had threatened to "whoop [Spencer's] ass" and was approaching aggressively when Spencer fired. The Fourth District Court of Appeal discharged Spencer from prosecution before trial, holding that the state had failed to prove by clear and convincing evidence that Spencer's use of deadly force was unjustified. Judge Forst, specially concurring, noted that Bell was unarmed at the time, that no gun was found before or after the shooting, and that Bell's verbal threats amounted to "whooping" and "kicking" Spencer's "ass," language Forst suggested might have been mere "trash talk." But the law compelled discharge: "Whether one can argue, putting aside the SYG statutes and caselaw, that firing a lethal shot at an unarmed individual with no warning is itself an overreaction, is of no consequence in a court of law."
+
+Both cases arose under the same Florida Stand Your Ground statute, and both defendants fired a gun during a confrontation. Spencer shot and killed an unarmed man and walked free before trial. Alexander fired a warning shot --- no one was injured --- and faced twenty years.
+
+One critical procedural difference: in Alexander's era (2010--2012), the defendant bore the burden of proving SYG immunity by a preponderance of the evidence. In Spencer's era (2021--2025), the burden had shifted to the prosecution. That procedural shift matters, but it does not fully explain the gap. The trial court in Alexander's case found her behavior "inconsistent with genuine fear" despite documented abuse, a domestic violence injunction, and expert testimony. In Spencer's case, the court credited Spencer's testimony despite no evidence that the victim had ever physically assaulted anyone. Empirical research associates SYG laws with an approximately 8 percent increase in firearm homicides nationally ([Degli Esposti et al., 5 JAMA Network Open e220077 (2022)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2789154){.cite}; *accord* [RAND, *The Science of Gun Policy* (4th ed. 2024)](https://www.rand.org/research/gun-policy.html){.cite}), and the racial disparities are stark: homicides involving white shooters and Black victims are ruled justifiable at significantly higher rates than the reverse ([Roman, *Race, Justifiable Homicide, and Stand Your Ground Laws* (Urban Inst. 2013)](https://www.urban.org/research/publication/race-justifiable-homicide-and-stand-your-ground-laws){.cite}).
+
+How would Alexander fare in the other two jurisdictions? In New York, the duty to retreat creates a threshold problem: she went to the garage and came back. A prosecutor would argue she should have left through the front or back door. But if the marital home qualifies as her dwelling (and New York applies the castle doctrine even to co-occupants), the duty to retreat may not apply. In California, if her belief was genuine but unreasonable, imperfect self-defense would be available. And because she was charged with aggravated assault rather than homicide, the doctrinal framework would produce a less catastrophic sentencing outcome than Florida's mandatory minimum.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Rank Goetz, Norman, and Alexander from strongest to weakest self-defense claim. Now rank them by the severity of the outcome they received. Does the doctrine track your moral intuitions about who deserves conviction?
+
+2. Each defendant armed themselves before using force: Goetz carried an unlicensed pistol onto the subway, Norman retrieved a gun from her mother's purse, Alexander took a permitted firearm from her car. How does each defendant's decision to arm themselves bear on their self-defense claim? Does the coercive control framework from the previous chapter change the analysis for Norman and Alexander?
+
+3. If all three cases arose in California, how would imperfect self-defense change the outcomes? Would the genuineness-only inquiry from Justice Liu's *Schuller* concurrence, "the jury [at the guilt phase] need not decide whether [a defendant's] belief was delusional, but only decide whether that belief was genuine," benefit Norman? Alexander?
+
+4. The same Florida SYG statute discharged Spencer (fatal shooting, unarmed victim) before trial and punished Alexander (warning shot, no injury) with twenty years. What structural features of the doctrine (burden of proof, judicial discretion, mandatory minimums, racial dynamics) explain the gap? Can procedural reform alone close it?
+
+5. The objective standard asks what a "reasonable person" in the defendant's situation would have believed. Consider how race shaped the reasonableness inquiry in Goetz and the credibility determination in Alexander, and how the imminence requirement's focus on a single acute confrontation affected Norman. Does the "reasonable person" have structural blind spots? If so, are the reforms discussed in this chapter adequate to address them?
+:::

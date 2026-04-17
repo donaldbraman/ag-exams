@@ -1,0 +1,436 @@
+# Prosecutors {#sec-prosecutors}
+
+## Introduction
+
+Everyone is angry at prosecutors.
+
+The left accuses them of driving mass incarceration, of perpetuating racial disparities, of coercing guilty pleas from the innocent. The right accuses them of being too lenient, of declining cases that should be charged, of releasing dangerous offenders back into communities. Defense attorneys call them unfair. Police call them uncooperative. Victims call them unaccountable. Communities caught in cycles of violence say prosecutors fail both to protect them from crime *and* to treat them fairly when they are accused.
+
+And increasingly, prosecutor elections have become partisan battlegrounds. "Progressive prosecutor" campaigns promise to reduce incarceration; "law and order" campaigns promise the opposite. Recall elections target prosecutors whose policies displease one constituency or another. Media coverage focuses on symbolic cases—the defendant who reoffends after lenient treatment, the innocent person freed after wrongful conviction—while the daily grind of case processing goes unreported. Prosecutors find themselves caught between irreconcilable demands, subject to political whiplash that makes long-term planning nearly impossible.
+
+The frustration is understandable. As we will see, prosecutors have accumulated extraordinary power—more than any other actor in the criminal system, more than the Constitution's framers ever imagined. They wield that power behind closed doors, largely unreviewable by courts. And the outcomes their decisions produce—mass incarceration, racial disparity, the erosion of due process through plea bargaining—are by now well documented.
+
+Yet much of the criticism has focused on what prosecutors do wrong, with less attention to how prosecutors might develop evidence-based approaches to exercising their discretion. "Charge less" does not tell a prosecutor how to prioritize cases when her docket is flooded. "Charge more" ignores the resource constraints and legitimacy costs that aggressive enforcement creates. Progressive reformers demand equity; tough-on-crime advocates demand safety. Neither shows prosecutors how to achieve both—or acknowledges that, properly designed, these goals reinforce each other.
+
+This chapter examines prosecutorial power from three angles: its historical accumulation, its paradoxical effects even under neutral application, and efforts by some jurisdictions to redirect it. The analysis traces how pretextual enforcement contributes to disparate outcomes and evaluates reform efforts that emphasize measurable outcomes over ideological positioning. We examine concrete reform projects—pre-arrest diversion, domestic violence alternatives, court notification systems, record expungement—that this method has produced. The point is not the policy, it is how the policy was developed in conjunction with community stakeholders. 
+
+The chapter analyzes both the sources of prosecutorial power and attempts to redirect it, examining what such efforts reveal about the constraints and possibilities for reform.
+
+::: {.callout-note}
+## Berger v. United States, 295 U.S. 78 (1935)
+
+Berger was convicted of conspiracy to utter counterfeit notes. The prosecutor's closing argument included inflammatory personal attacks, misstatements of evidence, and accusations unsupported by the record. The Supreme Court reversed, holding that the prosecutor's misconduct warranted a new trial—and articulating the standard that has defined prosecutorial ethics ever since:
+
+The United States Attorney is the representative not of an ordinary party to a controversy, but of a sovereignty whose obligation to govern impartially is as compelling as its obligation to govern at all; and whose interest, therefore, in a criminal prosecution is not that it shall win a case, but that justice shall be done. As such, he is in a peculiar and very definite sense the servant of the law, the twofold aim of which is that guilt shall not escape or innocence suffer. He may prosecute with earnestness and vigor—indeed, he should do so. But, while he may strike hard blows, he is not at liberty to strike foul ones. It is as much his duty to refrain from improper methods calculated to produce a wrongful conviction as it is to use every legitimate means to bring about a just one.
+:::
+
+
+
+# Part I: Anti-Berger Patterns
+
+The *Berger* standard remains the aspiration. What follows is a description of how practice drifted from that ideal—and what a design-based approach might do to close the gap. 
+
+Let's start with two very problematic cases.
+
+### Prosecutorial Immunity
+
+The doctrine of absolute prosecutorial immunity, established in *Imbler v. Pachtman*, 424 U.S. 409 (1976), shields prosecutors from civil liability for conduct "intimately associated with the judicial phase of the criminal process." This immunity extends even to egregious misconduct, including the knowing suppression of exculpatory evidence.
+
+### PRICE v. MONTGOMERY COUNTY {.unnumbered .unlisted .case-title}
+
+*72 F.4th 711 (6th Cir. 2023)*
+
+READLER, Circuit Judge:
+
+Paul Brewer was found blindfolded and tied to his bed with two bullet holes in him. Brewer's death went unexplained for years, until Natasha Martin confessed to being part of a scheme to rob Brewer in his home. According to Martin, Nickie Miller and others killed Brewer after Martin left the scene. But Martin would later recant and re-confess, and would do so more than once. Despite the back and forth, Miller was arrested and charged with murder based primarily on Martin's confession.
+
+While Miller was in jail awaiting trial, Martin was also incarcerated on unrelated charges. During this time, Martin wrote several letters to her husband, who was also in jail. In these letters, Martin allegedly admitted that her confession implicating Miller was false and had been coerced by police. Upon learning of these letters, Miller's defense team sought a court order for their production. The state trial court issued an order requiring Martin to retrieve the letters and turn them over to the defense, as they were deemed potentially exculpatory.
+
+Jail personnel contacted Martin, who in turn contacted the prosecutor assigned to take lead on the case, Assistant Commonwealth Attorney Keith Craycraft, to ask about the order. Craycraft told Martin to get rid of the letters rather than turn them over, so she did. Martin later testified that Craycraft told her to "get rid of them" and that she "didn't need to be turning them over." Consequently, the letters were destroyed and never provided to Miller's defense. [...]
+
+Miller spent approximately two years in prison before the Commonwealth eventually dropped the charges against him. Following his release, Miller filed this action under 42 U.S.C. Section 1983 against Montgomery County, several law enforcement officers, and Keith Craycraft. Miller alleged malicious prosecution, fabrication and destruction of evidence, and due process violations. The district court dismissed the claims against Craycraft on the basis of absolute prosecutorial immunity. [...]
+
+The doctrine of absolute prosecutorial immunity is well-established. In *Imbler v. Pachtman*, the Supreme Court held that prosecutors are absolutely immune from liability under Section 1983 for conduct "intimately associated with the judicial phase of the criminal process." This immunity is intended to protect the independent judgment of prosecutors and prevent the "harassment by unfounded litigation" that would "cause a deflection of the prosecutor's energies from his public duties." [...]
+
+That Craycraft's advice prompted Martin to destroy exculpatory evidence does not change our conclusion. As a starting point, consider that prosecutors maintain their immunity when intentionally failing to disclose exculpatory evidence. [...] And withholding and destroying evidence "often will be two sides of the same coin."
+
+In the end, "what matters is the decision itself," not the "manner in which the decision is carried out." If the decision to withhold evidence is protected, the decision to destroy it—while ethically reprehensible—is functionally the same in terms of its impact on the judicial process and the prosecutor's role as an advocate. [...]
+
+***
+
+NALBANDIAN, Circuit Judge, concurring in part and in the judgment:
+
+I write separately to highlight recent scholarship suggesting that the common law at the time of Section 1983's enactment may not have recognized an immunity as broad as the one the Supreme Court established in *Imbler*. [...] If this scholarship is correct, the entire edifice of absolute and qualified immunity may be built on a shaky historical foundation. However, as an inferior court, we are bound by the Supreme Court's precedents. Unless and until the Supreme Court revisits these doctrines, we must apply them as written.
+
+::: {.callout-tip}
+
+## Discussion Questions
+
+1. The court describes Craycraft's conduct as "ethically reprehensible" but legally protected. What does this gap between ethics and law suggest about the design of the immunity doctrine?
+
+2. Miller spent two years in prison before the charges were dropped. What remedies, if any, are available to him? Consider both legal remedies (civil suits, criminal charges against the prosecutor) and systemic remedies (disciplinary proceedings, policy changes).
+
+3. The *Berger* standard instructs prosecutors that "it is as much his duty to refrain from improper methods calculated to produce a wrongful conviction as it is to use every legitimate means to bring about a just one." How can this standard be enforced if absolute immunity shields prosecutors from civil liability?
+:::
+
+### Victims and the "Pre-Charge Black Hole"
+
+If defendants cannot hold prosecutors accountable, what about victims? The Crime Victims' Rights Act (CVRA), 18 U.S.C. Section 3771, grants victims "the reasonable right to confer with the attorney for the Government in the case." But when does that right attach?
+
+### DOE v. UNITED STATES (The Jeffrey Epstein Case) {.unnumbered .unlisted .case-title}
+
+*In re Wild, 994 F.3d 1244 (11th Cir. 2021) (en banc)*
+
+**Facts:** In 2007, the U.S. Attorney's Office for the Southern District of Florida investigated financier Jeffrey Epstein for sex trafficking of minors. The investigation documented a pattern of abuse involving dozens of victims. Without filing federal charges, prosecutors negotiated a secret "Non-Prosecution Agreement" (NPA). This agreement granted Epstein—and any potential co-conspirators—complete immunity from federal prosecution in exchange for a guilty plea to state prostitution charges carrying an 18-month jail sentence.
+
+Crucially, the government concealed the existence of this deal from the victims, misleading them into believing an investigation was still active and that their input mattered. The NPA was signed and filed under seal without any victim notification.
+
+**The Conflict:** The victims sued under the CVRA, arguing the secret deal violated their right to confer with the government.
+
+**Holding:** In a fractured *en banc* decision, the Eleventh Circuit ruled against the victims. The majority held that CVRA rights attach only *after* formal criminal proceedings are instituted. Because the prosecutor used his discretion to *not* charge Epstein (via the NPA), the CVRA was never triggered.
+
+**Reasoning:** The court reasoned that extending judicial oversight to pre-charge negotiations would infringe on the Executive's exclusive power to decide whether to prosecute. The prosecutorial discretion to *not* charge is so absolute that it creates a "pre-charge black hole" where victims have no statutory standing to intervene.
+
+**Subsequent Developments:** Public outrage over the Epstein deal led to reforms. The prosecutor who negotiated the agreement, Alexander Acosta, was forced to resign as Secretary of Labor in 2019 after the NPA received renewed scrutiny. In 2019, federal prosecutors in the Southern District of New York brought new charges against Epstein for sex trafficking. Epstein died by suicide in federal custody before trial. Several of his associates, including Ghislaine Maxwell, were subsequently prosecuted and convicted.
+
+::: {.callout-tip}
+
+## Discussion Questions
+
+1. The CVRA was designed to give crime victims a voice in the criminal process. Does the *In re Wild* decision undermine this purpose? Or is the court correct that extending victim rights to pre-charge negotiations would improperly constrain prosecutorial discretion?
+
+2. The Epstein NPA granted immunity not only to Epstein but to unnamed "potential co-conspirators." What justification might prosecutors offer for such a broad grant of immunity? What dangers does it create?
+
+3. After the NPA became public, the government's conduct was widely condemned. But the *In re Wild* court held that no legal violation occurred. What does this suggest about the gap between legal accountability and public accountability?
+:::
+
+
+## Part II: The Rise of Prosecutorial Power
+
+How did we get here?  The American prosecutor was not born powerful. In the early Republic, the office barely existed. The Crimes Act of 1790 created twenty-three federal offenses—treason, counterfeiting, piracy, murder on federal land—and local prosecutors handled a modest docket of common-law crimes. Trials were the norm. Juries decided guilt. Judges imposed sentences within their discretion. The prosecutor's role was to present the state's case and let the system work.
+
+Two centuries later, that modest office has become what scholars now call "the most powerful position in American criminal justice." The federal code alone contains over five thousand criminal provisions scattered across fifty titles, with an estimated three hundred thousand additional regulatory offenses that carry criminal penalties. State codes have swelled in parallel. The prosecutor who once selected from a handful of charges now faces what Stuntz called a "menu" of options. Prosecutors regularly exercise this discretion to select among or combine overlapping charges: today's prosecutor decides not only whether to charge, but what to charge, whether to offer a plea, on what terms, and—through the alchemy of overlapping statutes and mandatory minimums—what the sentence will be. Trials have become exotic. Juries have become ornamental. Judges have become, in significant measure, spectators to a process controlled by the lawyers who work for the state.
+
+How did this happen? The answer lies in a series of incremental shifts—legislative, doctrinal, and institutional—that transferred power from every other actor in the system to the prosecutor's office. No single decision announced this revolution. It accumulated, case by case and statute by statute, until the transformation was complete.
+
+### The Expansion of Criminal Codes
+
+The first engine of prosecutorial power was legislative. Throughout the twentieth century, and accelerating after 1970, Congress and state legislatures engaged in what can only be described as compulsive criminalization. New offenses were created for conduct already prohibited. Existing offenses were layered with enhanced penalties. Statutes were drafted broadly, with ambiguous terms that courts would later construe to cover conduct far beyond what any legislator likely imagined.
+
+The reasons were political. As Stuntz explained, legislators face asymmetric incentives when defining crimes. A statute that proves too narrow can be corrected—the legislature simply passes a broader one. But a statute that proves too broad? That correction never comes, because breadth serves everyone with power in the system. Prosecutors gain leverage. Legislators gain credit for being "tough on crime." And defendants—who might object—have no effective political voice. The result is a one-way ratchet: criminal law expands but rarely contracts, because legislatures regularly add to criminal codes but almost never subtract from them.
+
+The Supreme Court validated this regime in *United States v. Batchelder*, 442 U.S. 114 (1979). The defendant had been convicted under a statute carrying a five-year maximum when an overlapping statute for identical conduct carried only two years. He argued that prosecutors should not have unreviewable discretion to select the harsher penalty. The Court disagreed. "Whether to prosecute and what charge to file or bring before a grand jury are decisions that generally rest in the prosecutor's discretion," the Court held. The prosecutor "may be influenced by the penalties available upon conviction," but this "does not give rise to a violation of the Equal Protection or Due Process Clause." After *Batchelder*, the proliferation of overlapping statutes became not a bug but a feature—a tool for prosecutorial leverage blessed by constitutional law.
+
+### The Rise of Plea Bargaining
+
+The second engine was procedural. As criminal codes expanded, the system could not possibly try every case. Plea bargaining, once disfavored, became the dominant mode of adjudication. By the 1970s, the vast majority of convictions resulted from negotiated guilty pleas rather than jury verdicts. Today, that figure exceeds ninety-five percent in federal court and approaches similar levels in most states.
+
+The Supreme Court ratified this transformation in *Bordenkircher v. Hayes*.
+
+### BORDENKIRCHER v. HAYES {.unnumbered .unlisted .case-title}
+
+*434 U.S. 357 (1978)*
+
+STEWART, J., delivered the opinion of the Court.
+
+[Paul Hayes was charged with uttering a forged check in the amount of $88.30. Under Kentucky law, this offense was punishable by a prison term of two to ten years. During plea negotiations, the prosecutor offered to recommend a five-year sentence if Hayes pleaded guilty. The prosecutor also made clear that if Hayes did not plead guilty, he would seek an indictment under Kentucky's Habitual Criminal Act, which would subject Hayes to a mandatory life sentence because of two prior felony convictions.]
+
+It may be helpful to clarify at the outset the nature of the issue in this case. While the prosecutor did not actually obtain the recidivist indictment until after the plea conferences had ended, his intention to do so was clearly expressed at the outset of the plea negotiations. Hayes was thus fully informed of the true terms of the offer when he made his decision to plead not guilty. [...]
+
+We have recently had occasion to observe that "[w]hatever might be the situation in an ideal world, the fact is that the guilty plea and the often concomitant plea bargain are important components of this country's criminal justice system." [...] Properly administered, [plea bargaining] can benefit all concerned.
+
+[...] [I]n the "give-and-take" of plea bargaining, there is no such element of punishment or retaliation so long as the accused is free to accept or reject the prosecution's offer.
+
+Plea bargaining flows from "the mutuality of advantage" to defendants and prosecutors, each with his own reasons for wanting to avoid trial. [...] While confronting a defendant with the risk of more severe punishment clearly may have a "discouraging effect on the defendant's assertion of his trial rights, the imposition of these difficult choices [is] an inevitable"—and permissible—"attribute of any legitimate system which tolerates and encourages the negotiation of pleas."
+
+[...] In our system, so long as the prosecutor has probable cause to believe that the accused committed an offense defined by statute, the decision whether or not to prosecute, and what charge to file or bring before a grand jury, generally rests entirely in his discretion. [...]
+
+There is no doubt that the breadth of discretion that our country's legal system vests in prosecuting attorneys carries with it the potential for both individual and institutional abuse. And broad though that discretion may be, there are undoubtedly constitutional limits upon its exercise. We hold only that the course of conduct engaged in by the prosecutor in this case, which no more than openly presented the defendant with the unpleasant alternatives of forgoing trial or facing charges on which he was plainly subject to prosecution, did not violate the Due Process Clause of the Fourteenth Amendment.
+
+***
+
+POWELL, J., dissenting:
+
+Respondent was charged with the uttering of a single forged check in the amount of $88.30. [...] I observe, at this point, that five years in prison for the offense charged hardly could be characterized as a generous offer.
+
+[...] Respondent was 17 years old when he committed his first offense. He was charged with rape but pleaded guilty to the lesser included offense of "detaining a female." [...] Respondent was sent not to prison but to a reformatory where he served five years. Respondent's second offense was robbery. This time he was found guilty by a jury and was sentenced to five years in prison, but he was placed on probation and served no time.
+
+Although respondent's prior convictions brought him within the terms of the Habitual Criminal Act, the offenses themselves did not result in imprisonment; yet the addition of a conviction on a charge involving $88.30 subjected respondent to a mandatory sentence of imprisonment for life. Persons convicted of rape and murder often are not punished so severely.
+
+No explanation appears in the record for the prosecutor's decision to escalate the charge against respondent other than respondent's refusal to plead guilty. The prosecutor has conceded that his purpose was to discourage respondent's assertion of constitutional rights, and the majority accepts this characterization of events. [...]
+
+[T]he prosecutor evidently made a reasonable, responsible judgment not to subject an individual to a mandatory life sentence when his only new offense had societal implications as limited as those accompanying the uttering of a single $88 forged check. [...] I think it may be inferred that the prosecutor himself deemed it unreasonable and not in the public interest to put this defendant in jeopardy of a sentence of life imprisonment. [...]
+
+Implementation of a strategy calculated solely to deter the exercise of constitutional rights is not a constitutionally permissible exercise of discretion.
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. The majority describes plea bargaining as involving "mutuality of advantage." Justice Powell notes that the prosecutor himself initially judged a life sentence inappropriate for an $88.30 forged check. Where is the "mutuality" when one party holds the power to impose life imprisonment?
+
+2. The prosecutor conceded that his sole purpose in seeking the habitual criminal indictment was to discourage Hayes from exercising his right to trial. The majority finds no constitutional violation. What limiting principle, if any, constrains prosecutorial threats?
+
+3. Hayes served five years in a reformatory as a teenager and received probation for robbery. His two "prior felonies" never resulted in prison time. Yet they qualified him for mandatory life imprisonment. What does this suggest about how habitual offender statutes interact with prosecutorial discretion?
+:::
+
+*Bordenkircher* created what scholars now call the "trial penalty"—the gap between the sentence offered in a plea and the sentence imposed after conviction at trial. Studies suggest that defendants who go to trial receive sentences three to ten times longer than those who plead guilty to the same conduct. When the penalty for exercising a constitutional right is measured in decades, the prosecutor's charging decision becomes, for practical purposes, the power to sentence. 
+
+### Mandatory Minimums and the Transfer of Sentencing Power
+
+The third engine was the expansion of mandatory minimum sentences. Beginning in the 1980s, Congress and state legislatures enacted mandatory minimum sentences for drug offenses, firearms violations, and violent crimes. The Sentencing Reform Act of 1984 created the United States Sentencing Guidelines, which cabin judicial discretion within narrow ranges determined primarily by the offense of conviction and criminal history.
+
+Reformers delivered was a massive transfer of sentencing power from judges to prosecutors. Charge a defendant with possessing "with intent to distribute" rather than simple possession, and the sentence jumps by years. Add a firearms enhancement under 18 U.S.C. § 924(c), and five or ten years become mandatory and consecutive. Invoke a prior conviction to trigger a habitual offender enhancement, and the judge's hands are tied. 
+
+The Weldon Angelos case became a symbol of this transfer.
+
+### UNITED STATES v. ANGELOS {.unnumbered .unlisted .case-title}
+
+*345 F. Supp. 2d 1227 (D. Utah 2004)*
+
+CASSELL, District Judge:
+
+[Weldon Angelos, a 24-year-old music producer with no prior criminal record, was convicted of possessing a firearm in connection with three marijuana sales. Under 18 U.S.C. Section 924(c), the first conviction carried a 5-year mandatory minimum; each subsequent conviction in the same indictment carried a 25-year mandatory consecutive minimum. The prosecutor had offered a plea deal of 15 years, which Angelos rejected.]
+
+The court believes that to sentence Mr. Angelos to prison for the rest of his life is unjust, cruel, and even irrational. The presentence report recommended 61.5 years—55 years on the Section 924(c) counts plus 6.5 years on the drug counts. The court imposed 55 years and one day, nearly equivalent to a life sentence for a 24-year-old defendant. [...]
+
+The sentence mandated here is far in excess of what is required for other crimes. Consider the following:
+
+- An aircraft hijacker would receive a guideline sentence of 24 years
+- A terrorist who bombed a public place and risked hundreds of lives would receive approximately 20 years
+- A second-degree murderer would receive a guideline sentence of 14 years
+- A rapist would receive approximately 6 years
+
+Mr. Angelos, who possessed a firearm (but never brandished, displayed, or discharged it) during three marijuana deals, must receive 55 years.
+
+The court has no discretion to impose a lesser sentence. [...]
+
+After close study of the history behind Section 924(c), the court concludes that Congress could not have anticipated that Section 924(c) would so dramatically trump the sentences for all other federal crimes. The "stacking" effect was likely an unintended consequence of poor drafting. [...]
+
+The court calls on Congress to remedy this inequity. But under the law as it stands, and the charging decisions made by the Executive, the Court's hands are tied.
+
+***
+
+**Post-Script:** Judge Cassell eventually resigned from the federal bench, citing the injustice of mandatory minimum sentencing laws as a contributing factor. In 2016, after serving thirteen years in prison, Angelos was released following a government motion for resentencing. The First Step Act of 2018 subsequently amended Section 924(c) to eliminate the "stacking" of mandatory minimums within a single indictment—meaning that if Angelos were prosecuted today, he would face a maximum mandatory minimum of 10 years rather than 55.
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. The prosecutor in *Angelos* offered a plea deal of 15 years. When Angelos rejected it and went to trial, the prosecutor obtained a superseding indictment that exposed him to 55 years. Is this "trial penalty" consistent with the *Berger* vision of the prosecutor as a minister of justice?
+
+2. Judge Cassell was a former federal prosecutor appointed to the bench by a Republican president. What does his decision to resign over mandatory minimums suggest about the nature of this sentencing regime?
+
+3. The First Step Act eliminated Section 924(c) stacking for future defendants. Should defendants like Angelos, who were sentenced under the old regime, be entitled to retroactive relief?
+:::
+
+### Doctrinal Insulation from Review
+
+The fourth engine was judicial. Even as prosecutors accumulated power, courts constructed doctrines that insulated their decisions from review. The architecture of unreviewability was built case by case over more than a century.
+
+It began, improbably, with a victory. In *Yick Wo v. Hopkins*, 118 U.S. 356 (1886), the Supreme Court struck down the discriminatory enforcement of a San Francisco laundry ordinance that had been applied against Chinese residents and never against whites operating identical establishments. The Court announced that facially neutral laws administered "with an evil eye and an unequal hand" violate equal protection. For a moment, it appeared that constitutional law would constrain selective prosecution.
+
+That moment passed. *Yick Wo* has been called "the first and last case in which the Supreme Court invalidated a prosecution as racially motivated." In the century that followed, the Court built an edifice of procedural barriers that made selective prosecution claims virtually impossible to prove.
+
+*Wayte v. United States*, 470 U.S. 598 (1985), established the two-prong test that governs to this day. To succeed on a selective prosecution claim, a defendant must prove both "discriminatory effect"—that similarly situated individuals were not prosecuted—and "discriminatory purpose"—that the prosecutor acted "at least in part 'because of,' not merely 'in spite of,'" the discriminatory effect. The intent requirement alone would be formidable. But *Wayte* added institutional concerns about "chill[ing] law enforcement" and "reveal[ing] the Government's enforcement policy" that counseled courts to stay their hand.
+
+*McCleskey v. Kemp*, 481 U.S. 279 (1987), drove the point home in the capital context. Warren McCleskey, a Black man sentenced to death for killing a white police officer, presented the Baldus study—sophisticated statistical analysis showing that defendants charged with killing white victims were 4.3 times more likely to receive a death sentence than those charged with killing Black victims. The Court rejected the claim. Statistical evidence of systemic discrimination was insufficient; McCleskey had to prove discriminatory intent in his specific case. "Implementation of these laws necessarily requires discretionary judgments," the Court reasoned. "Because discretion is essential to the criminal justice process, we would demand exceptionally clear proof before we would infer that the discretion has been abused."
+
+The capstone was *United States v. Armstrong*, 517 U.S. 456 (1996). Christopher Armstrong sought discovery to support a selective prosecution claim, presenting evidence that all twenty-four defendants closed by the federal public defender's office in crack cases over a three-year period were Black. He requested information about similarly situated white defendants who had not been prosecuted federally. The Court denied discovery. To obtain access to the government's files, a defendant must first produce "credible evidence" that similarly situated defendants of other races "could have been prosecuted, but were not." But that evidence is in the government's hands—and unavailable without discovery.
+
+The Catch-22 was complete. Justice Stevens, dissenting, observed that the Court's rule "will prevent many defendants who were selectively prosecuted from gaining discovery, and thereby ensure that many meritorious claims will never be proven." That, it appears, was the point. The "presumption of regularity" that attaches to prosecutorial decisions means that courts will assume propriety "in the absence of clear evidence to the contrary"—evidence that defendants cannot obtain because they cannot prove they need it.
+
+### The Prosecutor as Lawmaker
+
+The cumulative effect of these developments has been to make the prosecutor, as Stuntz argued, the criminal justice system's real lawmaker. Consider what the modern prosecutor controls:
+
+*The decision to charge.* No other actor can compel the prosecutor to file charges or prevent her from declining. Grand juries, nominally independent, return indictments in virtually every case the prosecutor presents.
+
+*The selection of charges.* From the menu of overlapping statutes, the prosecutor chooses which offenses to allege—and thereby sets the sentencing range before any judge is involved.
+
+*The plea offer.* With the trial penalty looming, the prosecutor's offer is, for most defendants, an offer they cannot refuse. The terms are set behind closed doors, unregulated by rules of evidence or procedure.
+
+*The sentencing recommendation.* Even where judges retain discretion, they rely heavily on the prosecutor's account of the offense and the defendant.
+
+And courts have ratified each of these powers as essentially unreviewable. Selective prosecution claims succeed less than one percent of the time. Brady violations are remedied after the fact, if at all. Absolute immunity shields prosecutors from civil liability for conduct in their prosecutorial role. As Professor Rachel Barkow has observed, "In a government whose hallmark is supposed to be the separation of powers, federal prosecutors are a glaring and dangerous exception."
+
+The irony is profound. The jury was designed to stand between the state and the accused. The judge was meant to ensure fair process. The legislature was supposed to define crimes prospectively and generally. Each of these institutions has been eclipsed by an office that operates behind closed doors, that need not explain its decisions, that faces no electoral accountability in most jurisdictions, and that the Constitution does not even mention. The prosecutor has become, in Emily Bazelon's phrase, the figure who is "charged" with running American criminal justice—for better and for worse.
+
+
+
+
+## Part III: Pretextual Stops and Their Consequences
+
+Part II described how neutral prosecution of biased inputs produces disparate outcomes. But where do those biased inputs come from? One major source is the pretextual traffic stop.
+
+### The Legal Framework
+
+In *Whren v. United States*, the Supreme Court gave constitutional blessing to pretextual stops.
+
+### WHREN v. UNITED STATES {.unnumbered .unlisted .case-title}
+
+*517 U.S. 806 (1996)*
+
+SCALIA, J., delivered the opinion of the Court.
+
+[Plainclothes officers in an unmarked vehicle patrolling a "high drug area" of Washington, D.C., observed a truck waiting at a stop sign for an unusually long time. When the truck turned suddenly without signaling and sped off, officers stopped the vehicle. Upon approaching, they observed crack cocaine in plain view. The defendants argued the stop was pretextual—that the officers used the traffic violation as an excuse to investigate suspected drug activity without the reasonable suspicion ordinarily required.]
+
+We think these cases foreclose any argument that the constitutional reasonableness of traffic stops depends on the actual motivations of the individual officers involved. We of course agree with petitioners that the Constitution prohibits selective enforcement of the law based on considerations such as race. But the constitutional basis for objecting to intentionally discriminatory application of laws is the Equal Protection Clause, not the Fourth Amendment. Subjective intentions play no role in ordinary, probable-cause Fourth Amendment analysis. [...]
+
+[Petitioners' proposed test] is plainly and indisputably driven by subjective considerations. Its whole purpose is to prevent the police from doing under the guise of enforcing the traffic code what they would like to do for different reasons. [...]
+
+[P]etitioners argue that the balancing inherent in any Fourth Amendment inquiry requires us to weigh the governmental and individual interests implicated in a traffic stop such as we have here. That balancing, petitioners claim, does not support investigation of minor traffic infractions by plainclothes police in unmarked vehicles; such investigation only minimally advances the government's interest in traffic safety, and may indeed retard it by producing motorist confusion and alarm. [...]
+
+Petitioners urge as an extraordinary factor in this case that the "multitude of applicable traffic and equipment regulations" is so large and so difficult to obey perfectly that virtually everyone is guilty of violation, permitting the police to single out almost whomever they wish for a stop. But we are aware of no principle that would allow us to decide at what point a code of law becomes so expansive and so commonly violated that infraction itself can no longer be the ordinary measure of the lawfulness of enforcement. [...]
+
+Here the District Court found that the officers had probable cause to believe that petitioners had violated the traffic code. That rendered the stop reasonable under the Fourth Amendment.
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. The Court acknowledges that "virtually everyone" violates some traffic regulation, giving police power to "single out almost whomever they wish for a stop." Yet it finds no constitutional problem. What check, if any, remains on selective enforcement?
+
+2. The Court says racial discrimination claims belong under the Equal Protection Clause, not the Fourth Amendment. But as we saw in *Armstrong*, proving discriminatory intent in individual cases is nearly impossible. Does *Whren* effectively immunize pretextual stops from constitutional challenge?
+
+3. The officers in *Whren* were plainclothes in an unmarked vehicle, ostensibly patrolling for drugs in a "high drug area." If the traffic stop was merely a pretext for the drug investigation, what purpose does the Fourth Amendment's probable cause requirement serve?
+:::
+
+After *Whren*, traffic enforcement became available as an investigative tool. Officers could conduct stops based on traffic violations without articulating suspicion of other criminal activity.
+
+### The Yield Problem
+
+The public safety benefits of pretextual stops are contested. Studies examining firearm recovery rates in traffic stops have found yields under 1% in most jurisdictions, raising questions about their effectiveness.
+
+Studies consistently find that the "hit rate" for contraband in traffic stops is low—typically under 5%. For stops based on minor equipment violations, the yield is lower still. In Ramsey County, firearms were recovered in fewer than 1% of non-public-safety stops. Officers were generating thousands of investigative contacts to find a handful of guns.
+
+Meanwhile, the costs accumulate. Each stop is a friction point—an opportunity for escalation, for a warrant check that reveals unpaid fines, for an arrest that triggers job loss and cascading consequences. The stops fall disproportionately on Black drivers, who are stopped more frequently, searched more often, and less likely to be carrying contraband when searched.
+
+[See the [interactive visualization](assets/interactive/pretextual-stops.html) for data on stop rates, search rates, and contraband yield by race across jurisdictions.]{.content-visible when-format="html"}
+
+### From Stop to Spiral
+
+The damage extends beyond the stop itself. A traffic stop that reveals an outstanding warrant—often for unpaid fines—leads to arrest. An arrest leads to jail, missed work, potential job loss. A record of arrest affects future employment, housing, and creditworthiness. And the original warrant? Frequently generated by the same system of low-level enforcement that produced the stop.
+
+This is the "volume engine" of the criminal system: high-frequency, low-yield contacts that generate records, warrants, and convictions without meaningfully advancing public safety. The prosecutor who receives these cases sees only the arrest—not the enforcement pattern that produced it. Without interrogating that pattern, she becomes a processor of disparity.
+
+The question is whether prosecutors can break the cycle. Part IV examines one office that tried.
+
+
+
+## Part II: The Prosecutor's Paradox
+
+Consider a prosecutor who treats every case identically—applying the same charges for the same conduct and the same plea offers for the same circumstances, with no consideration of race, neighborhood, or background. Such a prosecutor would appear to satisfy the *Berger* standard of neutrality. Yet research suggests that such neutrality may not produce racially equal outcomes. And the reason illuminates something fundamental about how the criminal system operates.
+
+### The Mechanics of Disparity
+
+The prosecutor does not generate her own cases. She receives them from police. And police do not patrol randomly. They concentrate in particular neighborhoods, respond to particular complaints, and exercise discretion about whom to stop, search, and arrest. By the time a case reaches the prosecutor's desk, it has already been filtered through decisions that are not race-neutral.
+
+Consider drug enforcement. Survey data consistently show that Black and white Americans use illegal drugs at similar rates. Yet Black Americans are arrested for drug offenses at rates three to four times higher than whites. The disparity is not in the conduct; it is in the enforcement. Police patrol Black neighborhoods more intensively. They stop Black drivers more frequently. They search Black suspects more often. The result: a population of drug arrestees that is disproportionately Black—not because Black people use more drugs, but because they are more likely to be caught.
+
+Now the neutral prosecutor enters the picture. She treats every drug case the same. But "the same" means the same *given the arrest*. She cannot un-arrest the people police chose to arrest. She cannot conjure into her caseload the white drug users who were never stopped. Her neutrality operates only within a pool that is already skewed.
+
+The disparity compounds over time. A first arrest becomes a criminal record. A record triggers enhanced charges on the second arrest. Enhanced charges produce longer sentences. Longer sentences mean more time away from families, jobs, and communities—which correlates with higher rates of reoffending. The "neutral" prosecutor, applying the same rules to the same records, ratchets up sanctions for the population that was over-policed in the first place.
+
+This is the prosecutor's paradox: identical treatment of unequal inputs produces unequal outputs. A prosecutor can be scrupulously fair at every decision point and still preside over a system that incarcerates Black defendants at five times the rate of whites.
+
+[See the [interactive visualization](assets/interactive/prosecutors-paradox.html) for a step-by-step illustration of how neutral processing of biased inputs produces disparate outcomes.]{.content-visible when-format="html"}
+
+### The Limits of Individual Fairness
+
+The paradox reveals a gap between two conceptions of fairness. *Individual fairness* asks whether each defendant was treated the same as similarly situated defendants. *Systemic fairness* asks whether the system as a whole produces equitable outcomes across groups.
+
+A prosecutor committed to individual fairness will ensure that two defendants with identical charges and identical records receive identical treatment. But if one group accumulates charges and records at higher rates due to enforcement patterns outside the prosecutor's control, individual fairness will not produce systemic fairness. The categories that determine "similar situation"—prior arrests, prior convictions, pending charges—are themselves products of earlier disparities.
+
+Individual fairness—treating like cases alike—is a foundational principle of justice. But when the categories that determine "like cases" (prior arrests, prior convictions) are themselves products of disparate enforcement patterns, individual fairness may not produce systemic fairness. Some prosecutors have responded by examining the sources of their caseloads—analyzing whether enforcement patterns serve public safety goals or reflect historical disparities.
+
+Some prosecutors have begun to do exactly that. We turn to one such effort in Part IV.
+
+
+## Part VII: Reform Proposals
+
+If prosecutorial power is the problem, what are the solutions? Reforms cluster into three categories: constraining discretion, requiring transparency, and restoring checks.
+
+### Constraining Discretion
+
+**Charging guidelines.** Some jurisdictions have adopted internal guidelines that cabin prosecutorial discretion. New Jersey's Attorney General, for example, has issued statewide directives on when to seek mandatory minimums, when to offer diversionary programs, and when to decline prosecution of low-level offenses. The federal Department of Justice periodically issues memoranda—though these shift with administrations—directing U.S. Attorneys on charging policy.
+
+The limitation is enforcement. Internal guidelines depend on the chief prosecutor's commitment. A successor can rescind them. And line prosecutors may ignore them without consequence if supervisors look the other way.
+
+**Legislative reform.** The most durable constraints come from legislatures. Reducing the number of overlapping statutes limits charge-stacking. Eliminating or narrowing mandatory minimums restores judicial discretion. The First Step Act's reform of § 924(c) stacking—prompted in part by cases like Angelos—demonstrates that legislative correction is possible, if slow.
+
+Yet the political dynamics that produced overcriminalization remain. Legislators still face asymmetric incentives: credit for being "tough," blame for being "soft." Reform tends to occur only when fiscal pressures (prison costs) or unusual coalitions (left-right criminal justice reform) overcome the default ratchet.
+
+### Requiring Transparency
+
+**Data collection and publication.** Prosecutors' offices have historically operated as black boxes. Charging decisions, plea offers, and case outcomes were not systematically tracked—or if tracked, not published. This opacity made it impossible to identify patterns of disparity or hold offices accountable.
+
+A growing number of jurisdictions now require or encourage data transparency. Some publish dashboards showing charging rates, plea rates, and outcomes by offense, race, and neighborhood. Others participate in research partnerships that analyze office practices. The Ramsey County reforms began with data analysis that revealed the disparity-without-safety pattern in traffic enforcement.
+
+Transparency does not guarantee reform, but it enables it. An office that publishes its data invites scrutiny. Patterns that might otherwise remain invisible become subjects of public debate.
+
+**Prosecutorial performance metrics.** Traditional measures of prosecutorial success—conviction rates, sentence lengths—reward punitiveness. Alternative metrics might track recidivism reduction, victim satisfaction, or racial equity in outcomes. Changing what is measured changes what is optimized.
+
+## Part IV: Prosecutors as Reformers — The Ramsey County Experiment
+
+The preceding parts have documented the accumulation of prosecutorial power and the racial disparities that result. But the same discretion that produces these outcomes can be redirected. The prosecutor who chooses to seek maximum charges can also choose to decline prosecution. The office that processes cases through a machinery of plea bargaining can also redesign that machinery.
+
+Ramsey County, Minnesota, provides a case study. Following the police killing of Philando Castile during a traffic stop in 2016, County Attorney John Choi commissioned a data analysis of traffic enforcement in the county. The results were stark: Black drivers were four times more likely to be stopped and nine times more likely to be searched than white drivers for minor equipment violations—broken taillights, tinted windows, expired tabs. The public safety yield was negligible: firearms were recovered in less than 1% of all stops.
+
+Choi used his discretion to announce a new policy: the office would decline to prosecute felony cases arising from non-public-safety stops unless independent probable cause existed before the stop. If officers stopped a car for a broken taillight and discovered drugs or a weapon, that case would not be charged—unless the officers had reason to believe a crime was afoot before they noticed the taillight.
+
+The policy was co-designed with police chiefs and community members. A complementary "Lights On!" program allowed officers to hand out repair vouchers instead of tickets for equipment violations. The theory was simple: if the stop was really about public safety (getting broken lights fixed), then fixing the lights accomplished the goal. If the stop was really about generating contacts and searches, the policy would reveal that fact.
+
+The results: non-public-safety stops declined by over 90%, and searches of Black drivers dropped by approximately 85%. And there was no increase in crime. The "volume engine" was recalibrated to focus on genuine threats rather than generating contacts and charges.
+
+The Ramsey County case illustrates how prosecutorial discretion can be redirected. The same discretion that has contributed to mass incarceration and racial disparity was used in this jurisdiction to reduce both—suggesting that prosecutors positioned at the center of the system may have capacity to reshape its outcomes.
+
+::: {.callout-tip}
+
+## Discussion Questions
+
+1. County Attorney Choi used data analysis to identify an enforcement pattern that produced disparity without safety, then used his discretion to change that pattern. What obstacles might prevent other prosecutors from taking similar steps?
+
+2. Critics sometimes accuse prosecutors who decline to pursue certain categories of cases of "nullification"—refusing to enforce laws that remain on the books. How does the Ramsey County approach differ from nullification? Is the distinction meaningful?
+
+3. The Introduction described the Human-Centered Design process: Understand, Imagine, Pilot, and Adopt/Adapt/Abandon. How did Choi's approach reflect this process? What would it mean to apply this framework more broadly to prosecutorial decision-making?
+:::
+
+### The Justice Design Cycle
+
+Ramsey County's success was not accidental. It followed a method—one that can be generalized beyond traffic enforcement to any domain where prosecutorial discretion shapes outcomes.
+
+The approach involves four phases:
+
+**1. Understand.** The method begins with problem diagnosis. This requires listening—to victims, defendants, families, frontline staff, and community members. It requires data: not just conviction rates, but enforcement patterns, case outcomes by neighborhood and race, public safety yields from different enforcement strategies. County Attorney Choi did not assume pretextual stops were problematic; he commissioned analysis that revealed the disparity-without-safety pattern.
+
+**2. Imagine.** Once problems are diagnosed, prosecutors can co-design solutions with affected stakeholders. The "Lights On!" voucher program emerged from conversations with police chiefs and community members, not from top-down policy mandates. This collaborative approach builds buy-in and surfaces practical obstacles that outsiders might miss.
+
+**3. Pilot.** Rather than implementing reforms system-wide, test them on a limited scale with rigorous measurement. Define success metrics in advance—not just traditional measures like conviction rates, but community-defined outcomes: safety, fairness, victim satisfaction, recidivism reduction. Include safety tripwires that halt failed experiments early.
+
+**4. Adopt, Adapt, or Abandon.** Based on pilot results, scale what works, refine what shows promise, and halt what fails. The Ramsey County policy worked: stops declined 90%, racial disparities shrank, crime remained stable. That evidence justified broader adoption. Had the results been different—had crime spiked, or officers resisted—the policy could have been adapted or abandoned.
+
+This design cycle has been applied in jurisdictions with different political orientations, suggesting that the method may be more widely acceptable than particular substantive policies. The approach shifts focus from what policies to adopt to how to evaluate whether interventions produce intended outcomes.
+
+### Evidence from Other Jurisdictions
+
+Ramsey County is not alone. Other jurisdictions have applied design-based approaches with measurable results:
+
+**Denver's STAR program.** When calls involve behavioral health crises rather than criminal conduct, civilian responders—a clinician and a paramedic—respond instead of police. The program reduced low-level criminal incidents by 34% in pilot areas, simply by changing who responds.
+
+**Procedurally just policing.** A multi-city randomized controlled trial found that training officers in listening and fairness reduced both crime *and* arrests while improving community trust—the inverse of the traditional volume-enforcement tradeoff.
+
+**Philadelphia's homicide clearance reform.** By reducing detective caseloads, expanding forensic technology, and improving working conditions, Philadelphia achieved homicide clearance rates of 86-90%—the highest since 1984—while homicides declined to their lowest levels in decades. The lesson: investing resources in solving serious crime produces results.
+
+These jurisdictions made different design choices: Denver changed who responds to calls, the procedural justice study changed how officers interact with residents, and Philadelphia changed how detectives are resourced. Each intervention showed measurable improvements in specific metrics, though questions remain about scalability and sustainability.
+
+# Conclusion: Method, Not Ideology
+
+Prosecutors face criticism from multiple directions. Progressive critics emphasize their contribution to mass incarceration and racial disparity; conservative critics emphasize declination rates and recidivism. The system produces both over-punishment of minor conduct and under-protection from serious harm—contradictory outcomes that reflect genuine dilemmas in prosecutorial decision-making. Political campaigns frame prosecution as a binary: "progressive" or "tough on crime." Media coverage focuses on outlier cases—the rare acquittal, the horrific reoffender—while ignoring the daily grind of a system processing millions. Electoral accountability, such as it is, rewards symbolic gestures over measurable outcomes.
+
+This chapter has examined how some prosecutors have applied systematic design methods to exercise their discretion. These methods emphasize defining desired outcomes, testing interventions, and measuring results—an approach that may be more widely acceptable than specific substantive policies because it focuses on process rather than predetermined outcomes.
+
+Prosecutors who have adopted these methods report that framing decisions in terms of measured outcomes can reduce political pressure. Declining low-yield enforcement can be justified by public safety data rather than ideological commitments; prioritizing serious offenses can be framed in terms of resource allocation rather than political positioning.
+
+The prosecutor's power is immense—greater than any other actor in the criminal system. That power accumulated through incremental shifts, case by case and statute by statute, until the transformation was complete. Now the question is how to wield it.
+
+The *Berger* standard articulates an aspiration: a prosecutor whose interest "is not that it shall win a case, but that justice shall be done." The design methods examined in this chapter represent one approach to operationalizing that standard—though whether they succeed in doing so remains an open question.
+
+Prosecutors will continue to face contradictory political pressures. Some have responded through systematic design methods that emphasize measurement and iteration. Whether such approaches can close the gap between the *Berger* aspiration and prosecutorial practice is a question that merits continued attention.

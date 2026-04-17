@@ -1,0 +1,443 @@
+# Assessing Empirical Evidence {#sec-appendix-evidence}
+
+```{=latex}
+\setcounter{page}{1}
+\renewcommand{\thepage}{E-\arabic{page}}
+```
+
+Chapter 3 asks what works to reduce the harms caused by system-involvement offenses. To answer that question responsibly, we need a method for evaluating evidence—one that acknowledges uncertainty while still guiding action.
+
+This appendix explains the methodology used throughout this book. It synthesizes best practices from the GRADE framework (used in medicine and public health), the Campbell Collaboration (criminal justice systematic reviews), CrimeSolutions (the federal evidence clearinghouse), and the economics "credibility revolution."
+
+The core principle: we report in Bayesian terms—what do the odds favor?—even when underlying studies use frequentist statistics. The goal is honest communication for decision-making, not false precision.
+
+But before diving into the methodology itself, it helps to understand *why* these standards exist. The story begins with a series of awakenings—moments when entire fields realized they had been confidently wrong. These awakenings built on each other over decades, each discipline learning from the last.
+
+---
+
+## Why These Standards Exist
+
+### The POW Who Changed Medicine (1940s–1990s)
+
+The story begins in a Nazi prison camp.
+
+Archie Cochrane was a medical officer in World War II when he was captured. As a prisoner of war, he watched his fellow captives die from tuberculosis and malnutrition. He had almost nothing to offer them—no drugs, no equipment, barely any food.
+
+What he did have was curiosity about what actually worked. He noticed that yeast seemed to help some prisoners. So he ran what may have been the first randomized controlled trial conducted in a prison camp: he divided prisoners into two groups and gave one group yeast supplements. The yeast worked. Prisoners in the treatment group were less likely to develop edema.
+
+After the war, Cochrane wrote a manifesto—*Effectiveness and Efficiency* (1972)—that would transform medicine. His core argument was simple and devastating: most medical practice had never been tested. Doctors did what they were trained to do, what seemed to work, what had always been done. But "seemed to work" and "actually works" are not the same thing.
+
+"You should randomize till it hurts," Cochrane liked to say.
+
+When researchers finally started randomizing, the results were often uncomfortable. Forty percent of standard medical practices that were tested turned out to be wrong—not just ineffective, but sometimes harmful. Hormone replacement therapy, once prescribed to millions of women, increased heart disease risk. Arthroscopic knee surgery for osteoarthritis performed no better than sham surgery. Stents for stable angina didn't reduce heart attacks.
+
+A young physician named Iain Chalmers later recalled reading Cochrane's book: "It was like finding a compass in the jungle." Chalmers went on to found the Cochrane Collaboration in 1993, the organization that now produces the gold-standard systematic reviews that inform medical practice worldwide.
+
+### The Credibility Revolution in Economics (1983–2021)
+
+While medicine was learning to randomize, economists were confronting a different problem: they couldn't.
+
+You can randomly assign patients to receive a drug or placebo. You cannot randomly assign countries to adopt different tax policies. This meant economics relied on statistical models—and statistical models could be manipulated.
+
+In 1983, Edward Leamer published a paper with a provocative title: *Let's Take the Con Out of Econometrics*. His observation was brutal: "If you torture the data long enough, Nature will confess." Economists could prove almost anything by choosing the right statistical model, the right variables to control for, the right sample to analyze.
+
+The response emerged slowly but decisively over the following decades. David Card, a dairy farmer's son from Ontario, started using "natural experiments"—situations where chance or policy created something close to random assignment. Joshua Angrist, who had served as an Israeli paratrooper, used the Vietnam draft lottery to study how military service affected later earnings. Guido Imbens developed the statistical methods to make these designs rigorous.
+
+Their canonical studies changed what counted as credible evidence. Card and Alan Krueger's study of minimum wage increases—comparing fast food employment in New Jersey (which raised its minimum wage) to neighboring Pennsylvania (which didn't)—showed that modest minimum wage increases didn't reduce employment, contrary to decades of economic theory. The finding was controversial, but the *method* caught on.
+
+In 2021, Card, Angrist, and Imbens won the Nobel Prize in Economics. The prize committee's statement captured the shift: "Natural experiments are a rich source of knowledge." But the deeper lesson was about research design. Better research design—knowing *how* to ask a question—beats statistical sophistication every time.
+
+### Psychology's Reckoning (2011–2015)
+
+Psychology was slower to confront its problems. The reckoning, when it came, was dramatic.
+
+In 2011, Daryl Bem, a respected social psychologist at Cornell, published a paper in the *Journal of Personality and Social Psychology*—one of the top journals in the field—presenting nine experiments showing that humans can perceive future events before they happen. Participants could predict, at better than chance rates, which curtain would reveal an erotic image *before the computer randomly selected it*. Bem had essentially proven precognition.
+
+The paper passed peer review. It used the same statistical methods, the same experimental designs, and the same significance thresholds that psychologists used every day to publish thousands of other findings. If those methods could prove ESP, something was deeply wrong.
+
+Three researchers immediately attempted to replicate Bem's findings. They ran the experiments with larger samples and tighter controls. They found nothing—no evidence of precognition whatsoever. They submitted their null results to the same journal that had published Bem.
+
+The journal refused to publish the replication.
+
+The rationale was revealing: the journal's policy was not to publish "mere replications." Positive findings were interesting; null findings were not. This asymmetry—exciting results get published, failures to replicate disappear into file drawers—had been shaping what counted as scientific knowledge for decades.
+
+The Bem paper was a crack in the foundation. The earthquake came four years later.
+
+In 2015, the Open Science Collaboration published the results of an unprecedented project: they had attempted to replicate 100 studies from three top psychology journals. The results were devastating. Only 36% of the original findings replicated. Effect sizes, on average, were *half* what the original studies had claimed.
+
+Famous findings collapsed. Ego depletion—the influential idea that self-control depletes like a muscle—showed essentially no effect in a massive preregistered replication. "Power posing," which had generated a TED talk viewed over 65 million times, showed near-zero effects when tested rigorously. The "Florida priming effect"—where exposure to words related to elderly stereotypes supposedly made people walk more slowly—had been cited by Daniel Kahneman in his bestselling book. He later warned that a "train wreck looming" awaited the field.
+
+Psychology's crisis became a catalyst for reform. Brian Nosek founded the Center for Open Science. Journals began accepting registered reports—where peer review happens *before* data collection, eliminating the temptation to massage results. Pre-registration became standard. The field was, as one reformer put it, "showing all our dirty laundry."
+
+### Why Criminal Justice Needs This
+
+Medicine learned in the 1970s. Economics learned in the 1990s. Psychology learned in the 2010s. Criminal justice is still learning.
+
+If these other fields have all discovered that experts can be confidently wrong, criminal justice should not assume it is immune. In fact, we have our own history of confident mistakes—running parallel to these other reckonings, but slower to self-correct.
+
+**Scared Straight** programs began in the late 1970s, bringing at-risk youth into prisons where inmates would scream at them about the horrors of incarceration. The idea was intuitively compelling: show kids where they'll end up if they don't change their ways. A 1978 documentary about the program won an Academy Award. It was adopted across the country and around the world. Then researchers ran randomized trials. The programs didn't just fail to reduce delinquency—they *increased* it by 60-70%. Kids who went through Scared Straight were more likely to offend than similar kids who didn't. The program persisted for over 30 years.
+
+**DARE** (Drug Abuse Resistance Education) launched in 1983—the same year Leamer published his critique of econometrics. At its peak, DARE operated in 75% of American school districts, with an annual cost estimated at $1-2 billion. Police officers taught fifth graders to "just say no." Everyone—parents, teachers, politicians—loved it. The U.S. Surgeon General eventually reviewed the evidence and concluded that DARE "Does Not Work." Meta-analyses found effect sizes indistinguishable from zero. The program persisted for over 15 years after the evidence turned against it.
+
+**HOPE** (Hawaii's Opportunity Probation with Enforcement) seemed like a more sophisticated intervention, launching in 2004 as medicine's evidence-based revolution was reaching full maturity. It used swift, certain, but modest sanctions for probation violations—a weekend in jail for a failed drug test, applied immediately and consistently. The initial study in Hawaii showed remarkable results: 21% rearrest for HOPE participants versus 47% for standard probation. Over 30 states adopted the program. Then the National Institute of Justice funded a rigorous four-site replication with random assignment. The results, published in 2016: no effects on recidivism, and the HOPE group actually had *more* probation violations than the control group. CrimeSolutions now rates HOPE as having "No Effects."
+
+The pattern is consistent: intuitive appeal leads to weak early studies, which enable widespread adoption, followed by rigorous evaluation that reveals failure, followed by slow—very slow—retreat. The lag between evidence and practice can span decades.
+
+The tools in this appendix exist because experts cannot be trusted to just know what works. Good intentions, compelling logic, and professional consensus are not enough. We need a method—a structured way of asking questions, evaluating evidence, and updating our beliefs—that works even when our intuitions are wrong.
+
+---
+
+## Part 1: Framing the Question
+
+Before evaluating evidence, frame the question in decision-relevant terms.
+
+### The PICO Framework
+
+In 1995, a group of physicians at Oxford's Centre for Evidence-Based Medicine noticed a problem: even when doctors tried to search for evidence, they often found what they were looking for rather than what was actually there. Unstructured questions—"What's the best treatment for back pain?"—invited confirmation bias. Doctors would stop searching when they found studies supporting their preferred approach.
+
+W. Scott Richardson and colleagues developed a simple tool to fight this tendency: the PICO framework. The insight was that structured questions *lock in what you're looking for before you start searching*. You can't shift the goalposts if you've written them down in advance.
+
+PICO forces specificity:
+
+| Element | Description | Example |
+|---------|-------------|---------|
+| **P**opulation | Who is affected? | People who miss court dates |
+| **I**ntervention | What policy/practice? | Text message reminders |
+| **C**omparison | Versus what alternative? | Standard practice (warrants) |
+| **O**utcome | What are we measuring? | Appearance rate, warrant reduction |
+
+The framework matters because motivated cognition—the subject of Chapter 3—operates at every stage of inquiry. We choose which questions to ask, which studies to read, which findings to emphasize, and which caveats to note. PICO doesn't eliminate bias, but it makes bias visible. If your review concludes that incarceration for technical violations works, but your original question was about "swift and certain sanctions" rather than "incarceration versus alternatives," the framework reveals the mismatch.
+
+### Question Types
+
+Different questions require different evidence:
+
+| Question Type | Best Evidence | Example |
+|--------------|---------------|---------|
+| **Effectiveness** | RCTs, quasi-experiments | "Do text reminders reduce FTA?" |
+| **Harm** | Cohort studies, case-control | "Does license suspension cause job loss?" |
+| **Prognosis** | Longitudinal cohorts | "What predicts successful reentry?" |
+| **Mechanism** | Process evaluations, qualitative | "Why do people miss court?" |
+
+---
+
+## Part 2: Study Design Hierarchy
+
+Studies are ranked by their ability to establish causal claims. Higher designs have stronger internal validity but may sacrifice external validity. But where did this ranking come from?
+
+### Why Hierarchies Exist
+
+The first formal hierarchy of evidence emerged in the late 1970s from the Canadian Task Force on the Periodic Health Examination. Charged with deciding which screening tests and preventive services actually worked, the task force confronted a practical problem: different types of studies gave different answers. Someone had to rank them.
+
+Their insight was straightforward but revolutionary: study *design* matters more than sample size, statistical sophistication, or the credentials of the researchers. A well-designed study with 100 participants can be more informative than a poorly designed study with 10,000.
+
+The key is what statisticians call *confounding*. When we compare people who receive a treatment to people who don't, any difference in outcomes might reflect the treatment—or it might reflect other differences between the groups. Sicker patients might be more likely to seek treatment. Motivated individuals might be more likely to complete a program. These differences *confound* the comparison.
+
+Archie Cochrane—the POW who changed medicine—understood this intuitively. His prison camp yeast experiment worked because he randomly assigned prisoners to groups. Randomization breaks the link between who gets treatment and who would have done better anyway. It's not that randomized trials are perfect; they can be poorly executed, too small, or too short. But randomization eliminates a class of problems that observational studies cannot escape.
+
+In 1981, David Sackett at McMaster University introduced the first "critical appraisal" courses teaching medical students to evaluate evidence quality. In 1997, Betty Wagoner at SUNY Downstate created the pyramid visualization that has since appeared in textbooks worldwide. The core insight remained constant: how a study was designed tells you more about what you can learn from it than any other single factor.
+
+### The Evidence Pyramid
+
+| Level | Design | Characteristics |
+|-------|--------|-----------------|
+| 1 | Systematic Reviews & Meta-Analyses | Synthesize multiple studies; strongest when pooling RCTs |
+| 2 | Randomized Controlled Trials (RCTs) | Random assignment eliminates confounding |
+| 3 | Quasi-Experiments | Natural experiments, regression discontinuity, difference-in-differences |
+| 4 | Cohort Studies | Follow groups over time; confounding possible |
+| 5 | Case-Control Studies | Compare cases to controls retrospectively |
+| 6 | Cross-Sectional Studies | Snapshot at one time; cannot establish causation |
+| 7 | Expert Opinion | Valuable for mechanism, weak for effectiveness |
+
+### The Economics Contribution: When RCTs Aren't Possible
+
+The traditional pyramid poses a problem for policy research: you often *can't* randomize. We can't randomly assign some cities to suspend licenses for unpaid fines and others not. We can't randomly assign some states to criminalize homelessness.
+
+This is where the economics credibility revolution made its contribution. Card, Angrist, and Imbens developed methods to extract causal knowledge from natural experiments—situations where policy changes, arbitrary thresholds, or historical accidents created something *like* randomization.
+
+The minimum wage study worked because New Jersey raised its wage while neighboring Pennsylvania didn't. Geography created the comparison group. The draft lottery study worked because birth dates were randomly drawn from a drum, creating random assignment to military service decades before researchers decided to study it.
+
+These methods now occupy Level 3 on the hierarchy—below RCTs but far above observational comparisons. The key question for any quasi-experiment is: how testable are its assumptions? Regression discontinuity designs, which compare people just above and just below a threshold, have assumptions that can be partially verified. Matching methods, which try to create comparable groups statistically, rely on assumptions that cannot be tested. The hierarchy reflects this.
+
+### Quasi-Experimental Methods
+
+For policy research, quasi-experiments are often the best available evidence. The economics literature ranks them by the testability of their identifying assumptions:
+
+| Method | Key Assumption | Testability | Internal Validity |
+|--------|---------------|-------------|-------------------|
+| **Regression Discontinuity** | Continuity at threshold | Partially testable | High |
+| **Instrumental Variables** | Exclusion restriction | Not testable | Moderate-High |
+| **Difference-in-Differences** | Parallel trends | Partially testable | Moderate |
+| **Synthetic Control** | Pre-treatment fit | Partially testable | Moderate |
+| **Matching/Propensity Score** | Selection on observables | Not testable | Low-Moderate |
+| **Interrupted Time Series** | No concurrent events | Partially testable | Low-Moderate |
+
+### Quality Checks for Quasi-Experiments
+
+Good quasi-experiments include robustness checks:
+
+- **Placebo tests**: Treatment effects where none should exist?
+- **Falsification outcomes**: Variables that shouldn't be affected?
+- **Pre-trend diagnostics**: (For DiD) Trends parallel before intervention?
+- **Balance tests**: (For RD/matching) Groups similar on observables?
+- **Sensitivity analysis**: Results robust to specification changes?
+- **Multiple replications**: Findings reproduced in different contexts?
+
+---
+
+## Part 3: Risk of Bias Assessment
+
+### For Randomized Trials
+
+The Cochrane Risk of Bias tool (RoB 2) assesses five domains:
+
+| Domain | Key Questions |
+|--------|---------------|
+| **Randomization** | Was allocation truly random? Was it concealed? |
+| **Deviations** | Did participants/providers deviate from intended interventions? |
+| **Missing data** | Was outcome data complete? Were dropouts balanced? |
+| **Measurement** | Were outcomes measured appropriately? Blinded? |
+| **Selective reporting** | Were all pre-specified outcomes reported? |
+
+Each domain is rated: *Low risk* / *Some concerns* / *High risk*.
+
+### For Non-Randomized Studies
+
+The ROBINS-I tool assesses seven domains:
+
+| Domain | Key Questions |
+|--------|---------------|
+| **Confounding** | Were important confounders controlled? |
+| **Selection** | Was selection into the study related to intervention and outcome? |
+| **Classification** | Was intervention status well-defined and accurately measured? |
+| **Deviations** | Were there deviations from intended interventions? |
+| **Missing data** | Was outcome data reasonably complete? |
+| **Measurement** | Were outcomes measured consistently across groups? |
+| **Selective reporting** | Were results selectively reported? |
+
+Each domain is rated: *Low* / *Moderate* / *Serious* / *Critical* risk of bias.
+
+### The "Target Trial" Benchmark
+
+For non-randomized studies, the key question is: "How does this compare to the RCT we would run if we could?"
+
+- What would randomization look like?
+- What confounders would randomization eliminate?
+- How close does this design come to that ideal?
+
+---
+
+## Part 4: Grading Certainty of Evidence
+
+### The GRADE Story
+
+By the early 2000s, evidence-based medicine had a problem. Different organizations rated evidence differently. The American Heart Association used one system. The U.S. Preventive Services Task Force used another. The World Health Organization had its own. When three organizations looked at the same studies and reached different conclusions about what they meant, clinicians had no way to know whom to trust.
+
+Gordon Guyatt—the same physician who had coined the term "evidence-based medicine" in 1991—led the effort to create a unified framework. (His first choice, "Scientific Medicine," had been rejected because calling traditional medicine "unscientific" offended too many physicians.) The result was GRADE: Grading of Recommendations, Assessment, Development and Evaluations.
+
+The key insight behind GRADE was subtle but important: *certainty of evidence is not the same as size of effect*. An intervention can have a large effect that we're uncertain about, or a small effect we're confident in. Previous systems conflated these. A "Grade A" recommendation might mean "we're sure it works" or "it works really well" or both—there was no way to tell.
+
+GRADE separates the questions. First, how certain are we in the evidence? Second, what does the evidence show? A treatment might have moderate certainty evidence of a large effect, or high certainty evidence of a small effect. Both pieces of information matter for decisions.
+
+### The GRADE Approach
+
+GRADE begins with study design, then adjusts up or down:
+
+| Factor | Direction | When to Apply |
+|--------|-----------|---------------|
+| **Study design** | Starting point | RCTs start "High"; observational starts "Low" |
+| **Risk of bias** | Downgrade | Serious methodological limitations |
+| **Inconsistency** | Downgrade | Results vary substantially across studies |
+| **Indirectness** | Downgrade | Population, intervention, or outcome differs from question |
+| **Imprecision** | Downgrade | Wide confidence intervals, small samples |
+| **Publication bias** | Downgrade | Evidence of missing studies |
+| **Large effect** | Upgrade | Effect size large enough to rule out confounding |
+| **Dose-response** | Upgrade | Clear gradient supports causation |
+| **Confounding direction** | Upgrade | Residual confounding would bias toward null |
+
+### Certainty Levels
+
+| Level | Meaning | Interpretation |
+|-------|---------|----------------|
+| **High** | Very confident | Further research unlikely to change conclusion |
+| **Moderate** | Moderately confident | Further research may change estimate |
+| **Low** | Limited confidence | Further research likely to change estimate |
+| **Very Low** | Little confidence | Estimate very uncertain |
+
+---
+
+## Part 5: Translating to Bayesian Language
+
+### The Decision Framework
+
+Policy decisions don't require certainty. They require:
+
+1. An estimate of which approach the evidence favors
+2. A sense of how confident we should be
+3. Acknowledgment of what would change our minds
+
+### Probability Language
+
+| Certainty | Approximate Confidence | Language |
+|-----------|----------------------|----------|
+| **High** | 85-95% | "The evidence strongly favors..." |
+| **Moderate** | 70-85% | "The evidence favors..." |
+| **Low** | 55-70% | "The evidence tentatively suggests..." |
+| **Very Low** | <55% | "The evidence is inconclusive..." |
+
+### The 51% Standard
+
+For policy decisions, the threshold should be *preponderance* (>50%), not certainty:
+
+> If the evidence suggests that intervention A outperforms intervention B—even at 55/45 rather than 95/5—a rational policymaker should choose A. Waiting for certainty means accepting worse outcomes in the meantime.
+
+**Corollary**: Demand symmetric burdens of proof. If you require strong evidence to *change* policy, you should require equally strong evidence to *maintain* it. The status quo deserves no special privilege.
+
+---
+
+## Part 6: Evidence Clearinghouses
+
+### The Vision of Donald T. Campbell
+
+In 1969, the psychologist Donald T. Campbell published a paper that would shape how social scientists think about policy evaluation: "Reforms as Experiments." His argument was radical for its time—and remains underappreciated today.
+
+Campbell observed that governments constantly introduce new programs. They launch anti-poverty initiatives, crime prevention strategies, and education reforms. But they almost never treat these programs as experiments. Instead, programs are implemented everywhere at once, without comparison groups, in ways that make it impossible to know whether they worked.
+
+"The United States and other modern nations," Campbell wrote, "should be ready for an experimental approach to social reform, an approach in which we try out new programs designed to cure specific social problems, in which we learn whether or not these programs are effective, and in which we retain, imitate, modify, or discard them on the basis of apparent effectiveness."
+
+The problem, Campbell recognized, was that individual studies—even good ones—are "specific to a time, sample, and context." A program that works in one place might fail elsewhere. Early enthusiasm might reflect selection effects or publication bias. Only by systematically reviewing *all* the evidence on a question can researchers overcome these limitations.
+
+### The Clearinghouses
+
+Campbell's vision eventually became institutional. In 2000, Iain Chalmers (who had earlier founded the Cochrane Collaboration for health research) helped establish the Campbell Collaboration as its sister organization for social policy. The Crime and Justice Group within Campbell has now produced over 35 systematic reviews on topics from court-date reminders to electronic monitoring to drug courts.
+
+Before conducting a new review, check existing clearinghouses:
+
+| Source | Domain | URL |
+|--------|--------|-----|
+| **Campbell Collaboration** | Crime & Justice, Social Welfare | [campbellcollaboration.org](https://www.campbellcollaboration.org/) |
+| **Cochrane Library** | Health interventions | [cochranelibrary.com](https://www.cochranelibrary.com/) |
+| **CrimeSolutions** | Criminal justice programs | [crimesolutions.ojp.gov](https://crimesolutions.ojp.gov/) |
+| **What Works Centre** | UK crime policy | [whatworks.college.police.uk](https://whatworks.college.police.uk/) |
+
+It was a Campbell Collaboration systematic review that produced the devastating finding about Scared Straight—not just that it didn't work, but that it made things worse. That review aggregated evidence across multiple studies, revealing a pattern that individual studies had suggested but never conclusively demonstrated.
+
+### CrimeSolutions Ratings
+
+The federal clearinghouse uses these categories:
+
+| Rating | Meaning | Evidence Required |
+|--------|---------|-------------------|
+| **Effective** | Strong evidence of positive effects | Multiple high-quality studies |
+| **Promising** | Some evidence of positive effects | Positive effects, less rigorous studies |
+| **No Effects** | Strong evidence of no effect | Same rigor as "Effective" |
+| **Harmful** | Strong evidence of negative effects | Same rigor as "Effective" |
+
+---
+
+## Part 7: Common Pitfalls and Cautionary Tales
+
+### The Pattern
+
+The examples from the opening of this appendix—DARE, Scared Straight, HOPE—share a common structure. Understanding that structure helps explain why evidence-based practice is so difficult in criminal justice and why these tools exist.
+
+**Stage 1: Intuitive Appeal.** An intervention makes sense. Of *course* showing troubled youth the horrors of prison will deter them. Of *course* swift consequences for probation violations will improve compliance. Of *course* teaching kids to "just say no" will reduce drug use. The intervention aligns with common sense about how people respond to incentives.
+
+**Stage 2: Early Enthusiasm.** Initial studies—often small, often conducted by program advocates—show positive results. The studies may have weak designs, but they get published because the findings are exciting. Negative results, if any, stay in file drawers.
+
+**Stage 3: Adoption at Scale.** Based on early promising results and intuitive appeal, the intervention spreads. Politicians champion it. Foundations fund it. Jurisdictions implement it. By the time rigorous evaluation catches up, the program is entrenched.
+
+**Stage 4: Rigorous Failure.** Independent researchers, often funded by federal agencies seeking to validate successful programs, conduct properly controlled studies. The findings disappoint—or worse. DARE shows no effect. Scared Straight increases delinquency. HOPE fails to replicate.
+
+**Stage 5: Slow Retreat.** Despite the evidence, the intervention persists. Stakeholders are invested. "It works here" becomes the defense. Retreat takes years or decades—if it happens at all.
+
+### Boot Camps: A Cautionary Tale in Detail
+
+Military-style boot camps for juvenile offenders illustrate the pattern in stark terms. The premise was compelling: instill discipline, build character, break the cycle of offending through rigorous physical training and drill sergeant–style confrontation.
+
+By 1993, 59 boot camp programs operated across the country. States spent hundreds of millions of dollars. The programs were popular with politicians ("tough on crime") and initially with researchers (here was an intervention that could actually be tested).
+
+The tests came. Study after study found no reduction in recidivism. Participants returned to crime at the same rates as comparison groups. A meta-analysis eventually concluded that when you factored in the cost of operating boot camps plus the cost of crimes committed by graduates who reoffended at unchanged rates, the programs had a *net cost* of $3,587 per participant—they made things worse financially while accomplishing nothing for public safety.
+
+The boot camps persisted anyway. As late as 2011, states continued operating programs that rigorous evidence had discredited two decades earlier.
+
+### Why Evidence Doesn't Always Win
+
+Several forces explain why evidence-discredited programs persist:
+
+**Institutional investment.** Staff are trained, facilities are built, contractors are hired. Closing a program means layoffs and waste.
+
+**Political symbolism.** "Tough on crime" programs appeal to voters regardless of effectiveness. Admitting failure is politically costly.
+
+**Unfalsifiable beliefs.** When a program fails, defenders argue it "wasn't implemented correctly" rather than accepting that the theory was wrong.
+
+**Asymmetric burden of proof.** Defenders demand certainty to change course while accepting no evidence to continue. "Absence of evidence is not evidence of absence" becomes an excuse for inaction.
+
+**Diffuse harms, concentrated benefits.** The people harmed by ineffective or counterproductive programs—offenders, their families, taxpayers, future victims—are dispersed. The people who benefit from the programs—staff, administrators, contractors, politicians—are concentrated and organized.
+
+Understanding these forces doesn't make evidence-based practice easier. But it explains why the tools in this appendix are necessary. Left to our own devices, we will fund what sounds good, defend what we've invested in, and resist admitting we were wrong. A structured methodology exists precisely because intuition and politics are not enough.
+
+### What to Avoid
+
+| Pitfall | Why It's Wrong |
+|---------|----------------|
+| Citing single studies as definitive | One study can show almost anything |
+| Treating all RCTs as high quality | Poorly conducted RCTs can be worse than good observational studies |
+| Ignoring null results | Publication bias means positive findings are overrepresented |
+| Demanding certainty to change, not to maintain | Asymmetric burden of proof is irrational |
+| Conflating statistical and practical significance | A tiny effect can be statistically significant with large N |
+| Cherry-picking studies that confirm priors | This is motivated cognition in action |
+
+### Best Practices
+
+| Practice | Why It's Better |
+|----------|-----------------|
+| Start with systematic reviews | They synthesize the full body of evidence |
+| Assess risk of bias explicitly | Even good designs can be poorly executed |
+| Look for replications | Single studies should be confirmed |
+| Report effect sizes, not just significance | Magnitude matters for policy |
+| Acknowledge uncertainty honestly | False confidence undermines credibility |
+| Update when new evidence arrives | Bayesian reasoning requires updating |
+
+---
+
+## The Stakes
+
+This appendix began with a psychologist who proved ESP was real. It traced how psychology, medicine, and economics each discovered that experts could be confidently wrong—and developed tools to protect against their own biases.
+
+Criminal justice has the same problems. Our field has its own Daryl Bems, its own hormone replacement therapies, its own confident claims that later proved false. But criminal justice has something else: the stakes are measured not just in wasted resources but in years of human freedom.
+
+Every day that a jurisdiction continues license suspension for unpaid fines, knowing the evidence shows it doesn't increase collections, it destroys someone's ability to keep a job. Every year that states incarcerate people for technical probation violations, knowing the research shows it doesn't reduce recidivism, they remove parents from families. Every decade that Scared Straight programs persisted after evidence showed they *increased* delinquency, they made things worse for the youth they claimed to help.
+
+Chapter 3 documented the motivated cognition that shapes our beliefs about punishment. The same psychological forces—identity-protective reasoning, confirmation bias, asymmetric skepticism—shape how we evaluate evidence about what works. We interpret ambiguous studies in directions that confirm what we already believe. We demand certainty to abandon familiar practices while accepting folklore to maintain them.
+
+The methodology in this appendix is an attempt to fight that tendency. PICO questions force specificity before we start looking for answers. The evidence pyramid reminds us that study design matters more than rhetoric. GRADE separates what we know from how confident we should be. Systematic reviews aggregate evidence across studies to overcome publication bias and sampling variability.
+
+None of these tools is perfect. But together they represent our best effort to answer a simple question: *Does this actually work?*
+
+The corollary from Part 5 bears repeating: *The status quo deserves no special privilege.* If you require strong evidence to change policy, you should require equally strong evidence to maintain it. The current approach to system-involvement offenses—criminalizing poverty, suspending licenses, incarcerating for technical violations—has no stronger evidence base than the alternatives. If anything, the evidence tilts against it.
+
+What would it mean to take this seriously? It would mean treating criminal justice policy the way Campbell envisioned: as experiments, to be tested, retained, modified, or discarded based on results. It would mean acknowledging uncertainty honestly, rather than pretending we know more than we do. And it would mean accepting that our intuitions—however strongly held—are not a substitute for evidence.
+
+That is the invitation of evidence-based practice: not certainty, but honesty. Not perfect knowledge, but systematic inquiry. Not the comfort of confident beliefs, but the discipline of asking whether those beliefs are true.
+
+---
+
+## References
+
+The methodology described here draws on:
+
+- GRADE Working Group. [GRADE Handbook](https://gradepro.org/handbook/).
+- Oxford CEBM. [Levels of Evidence](https://www.cebm.ox.ac.uk/resources/levels-of-evidence).
+- Sterne et al. RoB 2: Risk of Bias Tool for Randomized Trials.
+- Sterne et al. ROBINS-I: Risk of Bias in Non-randomized Studies.
+- Angrist & Pischke. [The Credibility Revolution in Empirical Economics](https://www.aeaweb.org/articles?id=10.1257%2Fjep.24.2.3), 24 J. Econ. Persp. 3 (2010).
+- Campbell Collaboration. [Methods Guidance](https://www.campbellcollaboration.org/about-campbell/coordinating-groups/methods.html).
+- CrimeSolutions. [Program Rating Methodology](https://crimesolutions.ojp.gov/about/how-we-review-and-rate-program-start-finish).
+- Campbell, Donald T. "Reforms as Experiments." 24 Am. Psychologist 409 (1969).
+- Open Science Collaboration. "Estimating the Reproducibility of Psychological Science." 349 Science aac4716 (2015).
+- Cochrane, A.L. *Effectiveness and Efficiency: Random Reflections on Health Services* (1972).
+
+---
+
+*This appendix provides the methodological foundation for the evidence assessments throughout this book. For detailed reviews of specific topics (FTA reminders, license suspension, technical violations, homelessness interventions), see the chapter sections where those topics are discussed.*

@@ -1,0 +1,347 @@
+# Intentional Homicide
+
+Most jurisdictions divide intentional killings into three categories that carry dramatically different sentences.^[In Pennsylvania, first-degree murder carries death or life without parole; voluntary manslaughter carries up to 20 years. 18 Pa.C.S. §§ 1102, 2502--2503. In California, first-degree murder carries 25 years to life; second-degree murder 15 years to life; voluntary manslaughter 3, 6, or 11 years. Cal. Penal Code §§ 190(a), 193(a). In New York, second-degree murder (the standard intentional-murder charge) carries 15 years to life; first-degree manslaughter carries 5--25 years. N.Y. Penal Law §§ 125.25, 125.20, 70.00, 70.02.] *First-degree murder* requires not just an intent to kill but *premeditation and deliberation*: evidence that the defendant planned the killing or at least formed the intent to kill before acting on it. *Second-degree murder* covers intentional killings that lack this advance reflection; the defendant meant to kill but acted on impulse. *Voluntary manslaughter* applies when a defendant who would otherwise be guilty of murder killed in response to adequate provocation, acting in a heat of passion before a reasonable person would have cooled off. 
+
+Recall the case of Dan Markel from the introduction. Markel was a law professor at Florida State University and the father of two young boys. He was locked in a bitter custody dispute with his ex-wife, Wendi Adelson, over whether their children would remain in Tallahassee or relocate to South Florida to be near her family. Every piece of evidence in his killing pointed toward first-degree murder.
+
+The *motive* developed over months. Prosecutors described Wendi's mother, Donna Adelson, as the "calculating and controlling matriarch" of a prominent South Florida family who had injected herself into every aspect of the divorce, drafting legal strategies and writing emails in which she described Markel as holding her daughter "hostage" in Tallahassee. When Markel filed a motion to limit Donna's unsupervised contact with the grandchildren, alleging she was telling the boys that their father was "stupid" and "trying to take her sunshines away," it was the last legal filing he would ever make.
+
+The *planning* was elaborate and sustained. Donna and her son Charlie recruited Katherine Magbanua, Charlie's ex-girlfriend, who had ties to two men willing to kill for money: Sigfredo Garcia, the father of Magbanua's children, and his friend Luis Rivera, a leader in the North Miami Latin Kings. The conspiracy chain ran from matriarch to son to intermediary to gunmen. The Adelsons funneled approximately $100,000 through Magbanua to finance the killing. This was a business transaction, negotiated over weeks and paid for in installments, not a killing born of sudden rage or emotional collapse.
+
+The *execution* was equally deliberate. On the morning of July 18, 2014, Garcia and Rivera [drove nearly 500 miles from Miami to Tallahassee](https://www.abajournal.com/web/article/timeline-of-developments-stemming-from-the-murder-of-law-prof-dan-markel){.cite}. They waited for Markel to return home from dropping his sons at preschool. As he sat in his car in the garage of his home in one of Tallahassee's quietest neighborhoods, Garcia shot him twice in the head. Markel, after being rushed to the hospital, died the next day. 
+
+It took years to unravel the conspiracy. Rivera [pleaded guilty to second-degree murder in 2016](https://www.abajournal.com/web/article/timeline-of-developments-stemming-from-the-murder-of-law-prof-dan-markel){.cite} and agreed to testify against the others in exchange for a 19-year sentence. A jury convicted Garcia of first-degree murder in 2019. Magbanua's [retrial in 2022](https://www.wtxl.com/news/dan-markel-murder-trial/katherine-magbanua-found-guilty-of-all-charges-in-murder-of-dan-markel){.cite} produced convictions on all counts. At Charlie Adelson's [trial in November 2023](https://news.wfsu.org/wfsu-local-news/2023-11-06/a-jury-finds-charlie-adelson-guilty-of-the-2014-murder-of-dan-markel){.cite}, both sides waived lesser-included offenses, presenting the jury with first-degree murder or full acquittal; it convicted on all counts in about three hours. One week later, Donna Adelson was arrested at Miami International Airport as she and her husband attempted to board a one-way flight to Vietnam, a country with no extradition treaty with the United States. At [her trial in September 2025](https://www.cbsnews.com/miami/news/south-florida-matriarch-convicted-in-murder-for-hire-plot-of-son-in-law-fsu-professor/){.cite}, the defense again waived lesser-included offenses, and the jury again convicted on all counts—murder, conspiracy, and solicitation—in just over three hours. At sentencing, the judge noted "the utter lack of remorse" and "the level of planning and coordination" required to bring the murder "to fruition."
+
+The evidence of premeditation was about as clear as it could be: a motive that festered for months, a multi-layered conspiracy, a $100,000 payment, a 500-mile drive, and an execution-style killing. But most intentional killings are not so straightforward. What about a person who forms and carries out a lethal intent in a matter of seconds? What about a person who kills after discovering a spouse's infidelity? How do courts distinguish premeditated murder from an unpremeditated killing, or murder from voluntary manslaughter, when the facts fall closer to the boundaries? 
+
+Also note that, although two women were convicted of participating in the Markel murder conspiracy, the vast majority of killings are committed by men. The social norms around violence vary greatly across communities and over time.
+
+These are the questions this chapter takes up.
+
+## Statutory Framework
+
+Most American jurisdictions divide murder into degrees, reserving first-degree murder for the most serious intentional killings. The federal statute is representative: 
+
+::: {.callout-note}
+## 18 U.S.C. Section 1111 --- Murder
+
+Murder is the unlawful killing of a human being with malice aforethought. Every murder perpetrated by poison, lying in wait, or any other kind of willful, deliberate, malicious, and premeditated killing; or committed in the perpetration of, or attempt to perpetrate, any arson, escape, murder, kidnapping, treason, espionage, sabotage, aggravated sexual abuse or sexual abuse, burglary, or robbery; or perpetrated from a premeditated design unlawfully and maliciously to effect the death of any human being other than him who is killed, is murder in the first degree.
+
+Any other murder is murder in the second degree. [...]
+
+Whoever is guilty of murder in the first degree shall be punished by death or by imprisonment for life;
+
+Whoever is guilty of murder in the second degree, shall be imprisoned for any term of years or for life.
+:::
+
+::: {.callout-note}
+## 18 U.S.C. Section 1112 --- Manslaughter
+
+Manslaughter is the unlawful killing of a human being without malice. It is of two kinds:
+
+Voluntary---Upon a sudden quarrel or heat of passion.
+
+Involuntary---In the commission of an unlawful act not amounting to a felony, or in the commission in an unlawful manner, or without due caution and circumspection, of a lawful act which might produce death. [...]
+:::
+
+Notice the key terms: "willful, deliberate, malicious, and premeditated." These words sound as though they require careful planning. But as you will see, courts have interpreted them in radically different ways.
+
+### Homicide Gradations: A Summary
+
+| | **Intentional** (purpose or knowledge) | **Unintentional** (neither purpose nor knowledge) |
+|------------------------|----------------------------------------|--------------------------------------------------|
+| **First Degree Murder** | Premeditated killing | Felony murder |
+| **Second Degree Murder** | Intentional but unpremeditated | Felony murder; gross recklessness; intent to cause grievous bodily harm |
+| **Manslaughter** | Adequate provocation + heat of passion + insufficient cooling time | Gross negligence or recklessness; unlawful act |
+
+First and second degree intentional murder both require that the defendant purposely or knowingly caused death. The difference is whether the killing was also "premeditated and deliberate." But what does that mean?
+
+## What Does "Premeditation" Mean?
+
+At one end stands the Markel murder, with its weeks of planning and multi-layered conspiracy. At the other stands the person who forms and executes a lethal intent in a matter of seconds. 
+
+### The "No Time Is Too Short" Approach: Commonwealth v. Carroll
+
+In *Commonwealth v. Carroll*, [412 Pa. 525 (1963)](https://www.courtlistener.com/opinion/2302175/commonwealth-v-carroll/){.cite}, Donald Carroll and his wife had been arguing for hours. Carroll had just told her about a temporary teaching assignment in Chambersburg that would keep him away from home four nights a week for ten weeks; she threatened to leave him if he accepted it. The marriage had deeper troubles. Carroll's wife had been diagnosed with a schizoid personality and had told a doctor at the mental hygiene clinic in Aberdeen, Maryland, "I feel like hurting my children," a sentiment the court noted "sometimes took the form of sadistic 'discipline' toward their very young children." After midnight, the argument continued in the bedroom. Carroll later testified that as his wife dozed off he lay thinking about his sons: "seeing my older son's feet what happened to them. I could see the bruises on him and Michael's chin was split open, four stitches. I didn't know what to do. I wanted to help my boys." He reached up to the window sill above the bed, where a loaded .22 caliber pistol had been placed at his wife's request, brought it down, and shot her twice in the back of the head.
+
+Carroll pleaded guilty generally, and a judge—not a jury—conducted a degree-of-guilt hearing to determine whether the killing was first- or second-degree murder. The court found first-degree. On appeal, Carroll argued that the killing was impulsive, presenting psychiatric testimony from a clinician at the Allegheny County Behavior Clinic who described Carroll as "trapped" and characterized the shooting as "an impulsive automatic reflex type of homicide," adding that "if this gun had fallen to the floor he wouldn't have been able to pick it up and consummate that homicide." The Pennsylvania Supreme Court affirmed, quoting *Commonwealth v. Earnest*:
+
+> "Whether the intention to kill and the killing, that is, the premeditation and the fatal act, were within a brief space of time or a long space of time is immaterial if the killing was in fact intentional, wilful, deliberate and premeditated."
+
+The court invoked an even older formulation from [*Commonwealth v. Drum*](https://www.courtlistener.com/opinion/6364404/commonwealth-v-drum/){.cite} (1868): "*No time is too short for a wicked man to frame in his mind his scheme of murder.*"
+
+Under this approach, often called *the Pennsylvania rule*, premeditation is satisfied whenever there is a conscious decision to kill, no matter how quickly that decision is formed. The practical consequence is that essentially any intentional killing can be charged as first-degree murder, and essentially any intentional killing can be found "merely" second-degree murder if the jury decides the defendant deserves mercy. The statutory distinction between degrees, on this reading, is what Justice Cardozo famously called a "dispensing power": a grant of discretion to the jury, clothed in the language of legal standards but operating in practice as a moral judgment about which killers deserve the harshest condemnation. In Carroll itself, that discretion belonged not to a jury but to the judge who conducted the degree-of-guilt hearing.
+
+It is worth noting what the original *Drum* court actually said in full: "No time is too short for a wicked man to frame in his mind his scheme of murder," but it immediately cautioned that "this expression must be qualified, lest it mislead," insisting that the jury must be satisfied "that this purpose is not the immediate offspring of rashness and impetuous temper." The *Carroll* court, and many courts since, dropped the qualification and kept only the headline rule. The result is a standard that, as Cardozo put it, operates behind "a mystifying cloud of words." 
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. Under the Pennsylvania rule, premeditation is satisfied whenever there is a conscious decision to kill. If that is the standard, what distinguishes first-degree murder from second-degree murder? Is there any intentional killing that would *not* qualify as premeditated?
+
+2. Garcia planned Markel's murder for weeks and paid $100,000. Carroll shot his wife after a bedroom argument under what he described as a momentary impulse. Both were convicted of first-degree murder. Does the "no time is too short" rule adequately distinguish between these cases, or does it collapse the distinction between degrees?
+:::
+
+## Voluntary Manslaughter: Heat of Passion
+
+Not all intentional killings are murder. The doctrine of voluntary manslaughter recognizes that some killings, though purposeful, occur under circumstances that partially excuse the defendant's conduct. The paradigmatic case is a killing committed in the "heat of passion" following legally adequate provocation.
+
+The distinction is one of mitigation, not justification. The law does not approve of killing in anger. But it recognizes that human beings sometimes lose self-control when confronted with extreme provocation, and that such killings deserve less condemnation than cold-blooded murder.
+
+Under the common law, voluntary manslaughter requires four elements:
+
+1. *Adequate provocation*: Provocation of a type that would cause a reasonable person to lose self-control.
+2. *Actual heat of passion*: The defendant was actually provoked and acting under passion rather than cold deliberation.
+3. *Insufficient cooling time*: The killing occurred before a reasonable person would have "cooled off."
+4. *Causal connection*: The provocation actually caused the defendant's heat of passion.
+
+Historically, courts recognized only a few categories of adequate provocation: an assault or battery, mutual combat, illegal arrest, serious abuse of a close relative, and, most controversially, sudden discovery of a spouse's adultery.
+
+### The Roots of the Doctrine: Provocation as Honor
+
+The traditional provocation categories emerged from a legal culture organized around male honor, in which a man's reputation depended on his willingness to avenge insults, especially sexual insults. In [*Mawgridge's Case*](https://legalhistorymiscellany.com/2016/08/08/infidelity-defence/){.cite} (1707), Chief Justice Holt articulated the principle that would define the doctrine for centuries:
+
+> "Where a man is taken in adultery with another man's wife, if the husband shall stab the adulterer or knock out his brains, this is bare manslaughter; for adultery is the highest invasion of property, and there cannot be a greater provocation: and jealousy is the rage of a man."
+
+Notice that adultery is framed as a property offense, an "invasion" of the husband's rights over his wife's body. The husband's rage is treated not as a failure of self-control but as a natural and appropriate response. The doctrine did not merely excuse anger; it endorsed a particular moral evaluation of the emotions that drove it.
+
+This evaluative dimension is what distinguishes the common law from the purely mechanistic view that passion simply overwhelms the will. Under the common law, not all loss of control counts. Only emotions the law deems *morally appropriate* (the cuckolded husband's rage, the parent's fury at an assault on a child) reduce murder to manslaughter. Emotions the law deems inappropriate (jealousy over a departing partner, an insult about appearance, criticism of one's parenting) do not, regardless of their intensity. The doctrine is not really about whether the defendant *lost control*; it is about whether the community *condones* the emotions that drove the killing.  That evaluation of when anger is appropriate varies across communities and has changed significantly over time, and is embedded in the structure of homicide doctrine.  
+
+::: {.callout-note}
+## Honor Culture and the Psychology of Provocation
+
+Is the legal doctrine's assumption about "adequate provocation" supported by behavioral science? In a landmark series of experiments, psychologists Dov Cohen, Richard Nisbett, Brian Bowdle, and Norbert Schwarz tested how regional "honor culture" norms shape reactions to insults. In [their 1996 study](https://pubmed.ncbi.nlm.nih.gov/8656339/){.cite}, male University of Michigan students from northern and southern states were bumped by a confederate in a hallway and called an "asshole."
+
+The results were striking. Insulted southerners showed a 12% rise in testosterone (a marker of aggression readiness), compared to only 6% for insulted northerners. Their cortisol (a stress hormone) spiked significantly. In a subsequent scenario-completion task, insulted southerners were far more likely to supply violent endings to an ambiguous story. And in a "chicken game" where participants had to yield or collide with an approaching confederate in a narrow hallway, non-insulted southerners stepped aside at about 9 feet, but insulted southerners pushed forward until they were within 3 feet. Northerners stepped aside at about 5 feet regardless of whether they had been insulted.
+
+Subsequent cross-cultural research has extended these findings beyond the American South. Studies comparing Turkish, Middle Eastern, and Southern European populations to Northern European and Anglo-Western samples have found that members of "honor cultures" perceive more situations as reputation-threatening, respond to insults with more intense negative emotions, and show greater willingness to retaliate. The pattern is not uniquely American; it reflects a cultural logic, rooted in pastoral and frontier economies where self-help enforcement was necessary, that persists wherever honor norms remain strong.
+
+*Sources: Cohen et al., "Insult, Aggression, and the Southern Culture of Honor: An 'Experimental Ethnography,'" 70 J. Personality & Soc. Psych. 945 (1996); Nisbett & Cohen, Culture of Honor: The Psychology of Violence in the South (Westview Press, 1996); [Vignoles et al., "Are Mediterranean Societies 'Cultures of Honor'?: Prevalence and Implications of a Cultural Logic of Honor Across Three World Regions," Personality & Soc. Psych. Bull. (2024)](https://nul.repository.guildhe.ac.uk/id/eprint/2337/){.cite}.*
+:::
+
+The law's assumption that a "reasonable person" would lose self-control upon discovering adultery is an artifact of honor culture. The traditional categories of adequate provocation encode a specific set of cultural commitments about when circumstances that threaten the social status of a person call for a violent response. No expert on homicide disputes the gendered nature of the offense: 
+
+
+
+| Homicide Type (2023) | Count   | % of All Homicides |
+| -------------------- | ------- | ------------------ |
+| Men killing men      | ~10,900 | 73%                |
+| Men killing women    | ~2,400  | 15%                |
+| Women killing men    | ~400    | 3%                 |
+| Women killing women  | ~155    | 1%                 |
+| Unknown offender     | ~1,200  | 8%                 |
+
+*Sources:* [Bureau of Justice Statistics, Homicide Victimization 2023](https://bjs.ojp.gov/library/publications/homicide-victimization-united-states-2023); [Violence Policy Center, When Men Murder Women](https://vpc.org/studies/wmmw2025.pdf)
+
+As we will discuss later in the semester, many of the women who have killed men were subjected to violence and abuse by the person they killed, often over extended periods of time leading up to the killing. And many of the men who have killed women did so when the woman tried to leave a relationship with their killer. Understanding this helps explain why the doctrine has faced sustained criticism and efforts at reform.
+
+## STATE v. THORNTON {#state-v-thornton .unnumbered .unlisted .case-title}
+
+*Supreme Court of Tennessee, 1987*
+*[730 S.W.2d 309](https://www.courtlistener.com/opinion/1675715/state-v-thornton/){.cite}*
+
+HARBISON, Justice.
+
+Appellant was convicted of murder in the first degree as a result of shooting his wife's paramour in the home of appellant and his wife on May 3, 1983. Appellant found his wife and the victim, Mark McConkey, engaged in sexual relations in the front bedroom of appellant's home. He fired a single shot which struck McConkey in the left hip. The victim died sixteen days later as a result of a massive infection resulting from the bullet wound. Before the night in question appellant had never been acquainted with McConkey or had any previous contact with him.
+
+Appellant and his wife had been married just under four years, and their three-year-old son was in the home in an upstairs bedroom when the shooting occurred in a downstairs bedroom. Appellant and his wife had been separated for about six weeks, but no divorce action had been filed and appellant had been making a serious effort toward reconciliation with his wife.
+
+Under these undisputed facts, in our opinion, the case does not warrant a conviction of homicide greater than that of voluntary manslaughter. [...]
+
+**A. The Factual Background**
+
+[...] Appellant, James Clark Thornton, III, was thirty-one years of age at the time of the trial [...]. His wife, Lavinia, was twenty-seven years of age [...]. Appellant was a second-year law student at Memphis State University [...]. The victim, Mark McConkey, was twenty-five years of age, single, and a third-year student at the University of Tennessee Medical School in Memphis.
+
+[...] Mrs. Thornton had met [McConkey] four days before the homicide and had engaged in sexual relations with him in the home belonging to her and appellant every night since that time [...].
+
+The marriage of the parties was in some difficulty, apparently as a result of dissatisfaction of Mrs. Thornton. [...] He visited the home almost daily, however, and there has been no suggestion that he was ever guilty of violence, physical misconduct or mistreatment toward his wife or son. He was particularly devoted to the child, and frequently kept the child with him at his apartment on weekends or in the evenings.
+
+[...] During his junior year at Baylor it was discovered that he had developed a severe case of scoliosis, or curvature of the spine, and he had undergone surgery to correct that condition. [...] He was slightly built, being only five feet six inches in height and weighing about 125 to 130 pounds. McConkey was an athlete, a former basketball and football player in high school. He was five feet nine inches in height and weighed about 183 pounds.
+
+[...] Appellant, according to uncontradicted testimony, was deeply disturbed over the separation of the parties. He had sought assistance from a marriage counselor, and had persuaded his wife to go with him to the marriage counselor on several occasions. They had a joint meeting scheduled with the counselor on May 4, the day after the homicide. Appellant testified that the parties had agreed to a separation of six months, and both he and the marriage counselor testified that the parties had agreed that they would not have sexual relations with each other or with anyone else during that period. Mrs. Thornton denied making that agreement [...].
+
+On the evening of May 3, appellant picked her and their child up at their home, and the three went to dinner. [...] Mrs. Thornton reiterated that she thought that the marriage was over, and on this occasion she told appellant that she planned to date someone else whom she had met. [...]
+
+He returned his wife and child to their home at about 7:30 p.m. and then went to his apartment [...]. He called two close friends of the parties [...] and discussed his marital situation with them. Both of them verified that he was very concerned about the situation, but both told him that they believed that his wife was serious about going through with a divorce. One of them advised him that his wife apparently did not believe his feelings about a reconciliation were sincere.
+
+Acting on that suggestion, appellant returned to the home of the parties in his automobile, stating that he wanted to try once more to convince his wife that he was indeed sincere. When he arrived at the home he saw an automobile parked in the driveway. [...] Accordingly he parked around the corner and walked back to the house. Observing from the rear of the house, he saw his wife and McConkey in the kitchen with the child. He observed as Mrs. Thornton washed some laundry for McConkey and as they were eating dinner. Thereafter they sat and read. They drank wine and smoked some marijuana, and appellant saw them kissing.
+
+He decided to go home to get his camera, but before doing so he let the air out of one of the tires on McConkey's car. He went to his apartment, and obtained his camera and an old pistol which had belonged to his father. [...] He then returned to the marital residence, arriving at about 9:30 p.m. He testified that he intended to take pictures for the purpose of showing them to the marriage counselor on the next day and possibly also for use in evidence if divorce proceedings did ensue.
+
+Appellant spent more than an hour in the backyard of his home observing his wife and McConkey in the den and kitchen. [...] He listened near the window and heard unmistakable sounds of sexual intercourse. He then burst through the front door and into the bedroom where he found the nude couple and attempted to take some pictures. At that point he testified that he thought McConkey was attempting to attack him. In all events he drew his pistol and fired a single shot, striking McConkey in the left hip. Appellant did not harm either his wife or child, although Mrs. Thornton said that he did make some threats against her. He went upstairs and brought down the little boy, who had been awakened and who was crying. He assisted in giving directions to enable an ambulance to bring aid to McConkey, and he remained at the house until the police arrived.
+
+Appellant testified that he simply lost control and "exploded" when he found his wife in bed with the victim. He testified that he had armed himself because McConkey was much larger than he, and he felt that he needed protection if there was trouble when he returned to the residence with the camera.
+
+Appellant testified that he did not intend to kill McConkey, but simply to shoot him in order to disable him and also because of his outrage at the situation which he had found. [...] When McConkey died sixteen days later, appellant attempted to take his own life. The psychologist, Dr. Hunsacker, testified that appellant was under severe emotional pressure at the time of shooting to the point that he believed appellant had a brief period of temporary insanity [...]. An expert on behalf of the State testified to the contrary with respect to the issue of temporary insanity, but she testified that appellant was undoubtedly under severe emotional stress on the evening in question both before and at the time of the shooting.
+
+**B. The Legal Issues** [...]
+
+The facts of the present case are far stronger than any of the foregoing [precedents]. Appellant actually discovered his wife in flagrante delicto with a man who was a total stranger to him, and at a time when appellant was trying to save his marriage and was deeply concerned about both his wife and his young child. He did not fire a shot or in any way harm the victim until he actually discovered the victim and his wife engaged in sexual intercourse in appellant's own home. In our opinion the passions of any reasonable person would have been inflamed and intensely aroused by this sort of discovery, given the factual background of this case. Even though he was not legally insane so as to relieve him of all criminal responsibility for the tragic death which occurred, in our opinion this was a classic case of voluntary manslaughter and no more.
+
+We are of the opinion that the necessary elements of malice and premeditation were not demonstrated in this case and that the appellant acted under legally sufficient provocation. The conviction of murder in the first degree is set aside, and the cause will be remanded to the trial court for sentencing of the defendant for voluntary manslaughter [...].
+
+---
+
+DROWOTA, Justice, concurring in part and dissenting in part.
+
+While I concur with the result of the majority opinion insofar as the evidence in this case will not sustain the jury's finding that Defendant [...] is guilty of murder in the first degree, I must respectfully dissent from the holding of the majority that the conviction should be reduced to voluntary manslaughter. Because the evidence clearly establishes that Defendant acted with sufficient malice, the killing constitutes murder in the second degree.
+
+[...] [T]he events on the evening of May 3, 1983, took place over about a four hour period between approximately 7:30 and 11:30 p.m. [...] After returning to the marital home following dinner with his estranged wife and son, Defendant went to his apartment several miles away [...]. He was tense, distraught, and depressed and decided to make telephone calls to mutual friends [...]. In his desperation, Defendant returned to the marital home [...] and upon arriving discovered an unfamiliar car parked in the driveway. [...] Defendant saw his son playing in the den while his wife and the victim, whom he did not recognize, were kissing and embracing. He described his emotional state as one of shock and a sickening fear. [...] Not unreasoning, however, in view of a pending divorce, Defendant determined to return to his apartment to get his camera to take photographs of his wife's adulterous rendezvous. Before departing, Defendant deflated the left rear tire of the victim's car.
+
+[...] At his apartment, Defendant changed clothes, obtained his camera, which had flash and telescopic lens attachments, and his loaded .45 caliber service automatic pistol. Having no film for the camera, Defendant was required to stop at two places before finding film, purchasing some at a Walgreen's Drugstore at about 9:30 p.m. He loaded the camera and drove back to his wife's neighborhood [...]. The first photograph he took was of the license plate on the rear of the victim's car. [...] Anger started welling up in him, yet he did nothing more than make photographs. [...]
+
+Suddenly, at approximately 11:15 p.m., Defendant, a small man, kicked through the locked front doors of the house and went directly to the guest room. [...] His camera ready to take photographs, Defendant switched the lights on; the first thing he saw was his nude wife. Mr. McConkey, nude but covered with a sheet, was on the side of the bed nearest to the door. Defendant's first reaction was to attempt to take photographs but he could not focus the camera. He then reached down and jerked the sheet off of Mr. McConkey. Again he attempted to take a photograph but without success. While trying to work the camera, thinking that he saw the victim's hands reaching towards him in his peripheral vision, Defendant drew the loaded pistol from his coat pocket. Defendant testified that at this moment he lost control and began screaming, the pistol in his hand, saying to Mr. McConkey: "I ought to teach you screwing around with somebody else's wife. I ought to shoot you in the ass." [...] [T]he pistol discharged, the bullet striking Mr. McConkey in the left rear hip, passing completely through the abdomen to lodge in a wall. [...]
+
+[...] [A]ssuming that Defendant was provoked to act when he heard the sounds of sexual relations emanating from the guest room and was provoked to such an extent that he was able to break through the locked front doors, he did not fire immediately upon entering the bedroom but instead attempted to take photographs and then threatened the victim before the gun discharged. These actions preceding the shooting do not indicate that Defendant's reason had been so overcome by passion and excitement to make him incapable of malice. [...]
+
+[I]f a killing is provoked but committed with malice, it will constitute second degree murder because not every element of voluntary manslaughter is shown but every element of second degree murder is shown on the facts. Consequently, I would reduce the conviction to second degree murder.
+
+::: {.callout-note}
+## Note & Questions
+
+A jury convicted Thornton of first-degree murder—the most severe grade of intentional homicide. The Tennessee Supreme Court overrode the jury verdict, reducing the conviction two full grades to voluntary manslaughter. On resentencing, Thornton received four years and was released for time served. Justice Drowota would have split the difference at second-degree murder. Three institutional actors looked at the same facts and reached three different conclusions about the severity of the killing. 
+
+The majority focused on the moment of discovery; Drowota catalogued four hours of calculated actions: deflating the tire, retrieving the gun, purchasing film, photographing the license plate, and threatening the victim before firing.  
+
+1. Which reading is more faithful to the provocation doctrine's elements?
+
+2. Does Thornton's case belong at voluntary manslaughter, second-degree murder, or first-degree murder?
+
+3. The *Thornton* court was all male and Drowota was the youngest and newest member. Take a look at the [current Tennessee Supreme Court](https://www.tncourts.gov/courts/supreme-court/justices). Do you think today's court would decide the case the same way? Why or why not?
+
+:::
+
+### From Judicial Rule to Legislative Override
+
+Chapter 5 examined the relationship between courts and legislatures: courts are told to interpret statutes narrowly; legislatures correct where they disagree. That chapter suggested that this makes sense if you think that legislatures find it politically easy to close perceived gaps in criminal liability but far harder to narrow laws that sweep too broadly. We called this the *asymmetric error correction* theory of institutional roles. The basis for a disagreement between institutions like the jury, a court, and a legislature can also reveal battles over which social and cultural norms the law should express. 
+
+Consider, for example, the social norms and events surrounding killings following spousal infidelity in Maryland over the last 25 years. In [*Girouard v. State*](https://www.courtlistener.com/opinion/2076674/girouard-v-state/){.cite}, 321 Md. 532 (1991), Steven Girouard and his wife Joyce, both Army soldiers, had been having marital problems for most of their two-month marriage. After an argument, Joyce told Girouard she had never wanted to marry him, that the marriage had been a mistake, and that she had filed charges of abuse against him with his commanding officer. Girouard testified that he was "enraged." He retrieved a knife and stabbed Joyce to death. Like Carroll, Girouard was tried before a judge, not a jury.
+
+The Court of Appeals of Maryland affirmed Girouard's second-degree murder conviction, holding that "words alone" cannot constitute adequate provocation. Quoting *Sims v. State* (1990), the court held that "[i]nsulting words or gestures, no matter how opprobrious, do not amount to an affray, and standing alone, do not constitute adequate provocation."  *Girouard* addressed provocation by words, but said nothing about provocation by sight. Three years later, a case in Baltimore County exposed that gap.
+
+On the night of February 9, 1994, Kenneth Peacock, a 36-year-old truck driver from Parkton, came home around midnight after being caught in an ice storm. He found his wife, Sandra, in bed with another man. Peacock chased the man away at gunpoint, then spent the next four hours drinking and arguing with Sandra. At approximately 4:00 a.m., he shot her once in the head with a hunting rifle, killing her.
+
+The traditional doctrine requires that the killing occur before a "reasonable person" would have cooled off. Peacock killed four hours after discovering the adultery, hours during which he drank and argued with his wife. Peacock was originally charged with first-degree murder. But the prosecution allowed him to plead guilty to voluntary manslaughter, apparently concluding that a jury might credit the provocation defense, and putting the plea deal directly before a judge.
+
+At sentencing, Baltimore County Circuit Judge Robert E. Cahill gave Peacock [18 months in county jail with work release](https://www.baltimoresun.com/1994/10/18/man-gets-18-month-term-for-killing-unfaithful-wife/){.cite}, well below the three-to-eight-year range the state's attorney had requested. From the bench, Judge Cahill said he could not imagine ["an uncontrollable rage greater than this: for someone who is happily married to be betrayed in your personal life, when you're out working to support the spouse."](https://www.baltimoresun.com/1994/10/19/in-1994-killing-a-cheating-wife-is-understandable/){.cite} He added: "I seriously wonder how many married men---married five, four years---would have the strength to walk away without inflicting some corporal punishment."
+
+The sentence provoked national outrage. Delegate [Joan Pitkin](https://www.chicagotribune.com/1997/11/23/after-a-3-year-fight-murder-is-finally-murder-in-maryland/){.cite} (D-Prince George's County) called the existing law a "marital license to kill" and introduced legislation to change it. After a three-year campaign, the Maryland General Assembly passed HB 270 in 1997, adding what is now codified as:
+
+::: {.callout-note}
+## Md. Code Ann., Crim. Law Section 2-207 --- Manslaughter
+
+(a) A person who commits manslaughter is guilty of a felony and on conviction is subject to:
+
+> (1) imprisonment not exceeding 10 years; or
+>
+> (2) imprisonment in a local correctional facility not exceeding 2 years or a fine not exceeding $500 or both.
+
+(b) The discovery of one's spouse engaged in sexual intercourse with another does not constitute legally adequate provocation for the purpose of mitigating a killing from the crime of murder to voluntary manslaughter even though the killing was provoked by that discovery.
+
+(c) The discovery or perception of, or belief about, another person's race, color, national origin, sex, gender identity, sexual orientation, religious beliefs, or disability, whether or not accurate, does not constitute legally adequate provocation to mitigate a killing from the crime of murder to manslaughter.
+:::
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. *Girouard* holds that words alone are never adequate provocation, but the traditional categories still credit witnessing adultery. The *Girouard* court could have gone further: abolishing the categorical approach entirely, as some jurisdictions have, and letting juries decide whether any provocation was adequate. Would that have prevented the Peacock outcome, or made it more likely?  
+2. Four hours elapsed between Peacock's discovery and the killing. Under the traditional cooling-time requirement, should this bar a provocation defense? What does Peacock's lenient sentence reveal about how much discretion the doctrine leaves to judges, even when the formal elements seem unsatisfied?
+3. Is it preferable for courts to reform common-law doctrines governing manslaughter mitigation, or should they wait for the legislature to do so?
+
+:::
+
+## A Mystifying Cloud of Words?
+
+Justice Cardozo offered a famous diagnosis of the premeditation doctrine in his [address to the New York Academy of Medicine](https://pmc.ncbi.nlm.nih.gov/articles/PMC2394150/){.cite}. Because any intentional killing could theoretically satisfy the "willful, deliberate, and premeditated" standard, Cardozo argued, the statutory language was really just a "privilege offered to the jury to find the lesser degree when the suddenness of the intent, the vehemence of the passion, seems to call irresistibly for the exercise of mercy." He added:
+
+> "I have no objection to giving them this dispensing power, but it should be given to them directly and not in a mystifying cloud of words."
+
+Cardozo's critique applies equally to the provocation doctrine. In both contexts, the law uses language that sounds rule-like ("premeditated," "adequate provocation," "reasonable person") but that actually delegates enormous discretion to the factfinder. The question is whether that discretion is a strength or a weakness.
+
+*The case for transparency.* When the law's moral commitments are visible, they can be challenged. Judge Cahill's open endorsement of a cuckolded husband's rage provoked public outrage and legislative reform. In 1988, Dallas Judge [Jack Hampton](https://law.justia.com/cases/texas/supreme-court/1989/c-8373.html){.cite} sentenced a man to 30 years, rather than life, for murdering two gay men in a park, telling reporters that he "put prostitutes and gays at about the same level." Hampton was formally censured by the Texas Commission on Judicial Conduct. In both cases, the law's transparency enabled democratic correction. Had these judges instead described their decisions in the clinical language of "extreme emotional disturbance," the moral judgments embedded in their rulings would have been harder to identify and harder to reform.
+
+*The case for obscurity.* But transparency carries its own risks. When the law openly evaluates which emotions are morally appropriate, it invests its expressive authority in those judgments. The common law's endorsement of the cuckolded husband's rage was not just a procedural rule. It was a statement about which lives mattered less and whose anger the state would credit as partially justifying a killing. Perhaps some moral judgments are too dangerous to make explicit.
+
+This tension between honest disclosure and strategic obscurity runs throughout homicide law. It shapes not just what the doctrine means, but who gets to say what it means: legislatures that set rules, judges who interpret them, or juries that apply them behind a "mystifying cloud of words."
+
+Carroll and Girouard were both bench trials—judges, not juries, determined the grade of homicide. Thornton's jury convicted of first-degree murder, but the Tennessee Supreme Court substituted its own judgment two grades lower. Peacock's prosecution allowed a plea to voluntary manslaughter, ensuring that no jury or reviewing court ever assessed whether the killing was murder. Garcia's jury convicted on murder and conspiracy but acquitted on solicitation—selective judgment of the kind juries routinely exercise. And at both Adelson trials, waiving lesser-included offenses concentrated the jury's power into a binary choice; recall the juror in the sleepwalking case (Chapter 7) who told reporters, "If manslaughter had been an option, that's what we would've done." These patterns echo themes from earlier chapters: the prosecutor's dominance over charging and plea bargaining (Chapter 6), the jury's unreviewable power to acquit or convict (Chapter 4), and the asymmetric ability of courts to correct for excessive severity but not excessive leniency (Chapter 5). The formal doctrinal categories are only part of the story. 
+
+## The Model Penal Code Alternative
+
+The Model Penal Code (MPC) proposed a fundamentally different approach to homicide, one that about eleven states have adopted in whole or in part, though the large majority of American jurisdictions retain the common law framework described above.
+
+::: {.callout-note}
+## Model Penal Code Section 210.2 --- Murder
+
+(1) Except as provided in Section 210.3(1)(b), criminal homicide constitutes murder when:
+
+> (a) it is committed purposely or knowingly; or
+
+> (b) it is committed recklessly under circumstances manifesting extreme indifference to the value of human life.
+
+(2) Murder is a felony of the first degree [but a person convicted of murder may be sentenced to death, as provided in Section 210.6].
+:::
+
+Under the MPC, all purposeful or knowing killings are murder. Period. The Code does not distinguish between premeditated and unpremeditated intentional killings. Garcia's contract killing of Dan Markel and Carroll's shooting of his wife as she lay dozing would both be murder, without any grading between them. The MPC's drafters concluded that the premeditation distinction was incoherent: if any instant of reflection suffices, as the Pennsylvania rule holds, then the distinction between first and second degree is illusory. Better, they argued, to acknowledge that all intentional killings are gravely wrong and to let sentencing judges calibrate punishment to the circumstances of each case.
+
+Most states disagreed. The premeditation distinction, for all its problems, serves a function the MPC cannot replicate: it allows juries to express a moral judgment about *which* intentional killings are the worst. Abolishing that distinction felt, to many legislatures, like abandoning the public's role in grading the seriousness of homicide.
+
+The MPC's reform of manslaughter was more ambitious still:
+
+::: {.callout-note}
+## Model Penal Code Section 210.3 --- Manslaughter
+
+(1) Criminal homicide constitutes manslaughter when:
+
+> (a) it is committed recklessly; or
+>
+> (b) a homicide which would otherwise be murder is committed under the influence of extreme mental or emotional disturbance for which there is reasonable explanation or excuse. The reasonableness of such explanation or excuse shall be determined from the viewpoint of a person in the actor's situation under the circumstances as he believes them to be.
+
+(2) Manslaughter is a felony of the second degree.
+:::
+
+The "extreme emotional disturbance" (EED) standard differs from the common law in key ways. It imposes no categorical limitations on what counts as provocation. It uses a subjective-objective hybrid test, judging reasonableness "from the viewpoint of a person in the actor's situation." It abolishes the cooling-time requirement. And the disturbance need not be caused by the victim. Only about eleven states have adopted some version of this standard.
+
+The shift reflects a deeper theoretical reorientation. The common law makes moral judgments about which emotions deserve the law's sympathy: the cuckolded husband's rage is --- or, in an increasingly large number of jurisdictions, was --- "adequate" provocation because the law endorses his sense of honor. The MPC, by contrast, asks whether the defendant's emotional disturbance was so overwhelming that it destroyed the capacity for rational deliberation. What matters is its intensity and whether a reasonable person in the defendant's situation, believing what the defendant believed, would have experienced a comparable disturbance.
+
+Consider how the cases discussed above would come out differently under this framework. *Girouard* might have received a manslaughter instruction, because under the MPC words *can* be a source of extreme emotional disturbance even if they do not fit the common law's categorical requirements. *Thornton*'s case would reach the jury on the mitigation question regardless of the four-hour timeline, because the EED standard abolishes the cooling-time requirement. And *Peacock*, whose killing occurred four hours after discovery, would also qualify for a manslaughter instruction, since the question would be whether his emotional disturbance was "extreme" rather than whether sufficient time had elapsed for a reasonable person to cool off.
+
+### The Unintended Consequences of Reform
+
+The MPC's flexibility was intended to extend sympathy to a wider range of defendants in light of what the drafters viewed --- too optimistically, many would say --- as an emerging scientific understanding of the psychology of self-control. In practice, it did something quite different. In a comprehensive study of provocation cases across reform and non-reform jurisdictions, Victoria Nourse found that the primary beneficiaries of the broader standard were [men who killed partners attempting to leave them](https://scholarship.law.georgetown.edu/facpub/1002/){.cite}, exactly the category of killer the common law's requirement of "sudden discovery" had sometimes excluded. By removing categorical limits, the MPC gave defendants the ability to present expert evidence of their extreme emotional disturbance and juries discretion to credit possessive jealousy and controlling rage as "reasonable" causes of that emotional disturbance. The reform had unintentionally expanded the doctrine's protection for the very attitudes it sought to move beyond. As Nourse put it, the reform had transformed the defense from one rooted in "classical adultery" to one that encompassed "modern dating and moving and leaving." 
+
+This finding helps explain why most states declined to adopt the MPC's approach. The common law's categorical limits, whatever their origins in honor culture, at least placed an outer boundary on which emotions the law would credit. The MPC's voluntarist framework removed that boundary, and the result was not the more enlightened jurisprudence the drafters envisioned but a broader license for possessive violence. 
+
+### A Comparative Note: England's Coroners and Justice Act 2009
+
+In 2009, England and Wales abolished the common law defense of provocation entirely and replaced it with a new statutory defense: "loss of control." The [Coroners and Justice Act 2009, Sections 54--56](https://www.legislation.gov.uk/ukpga/2009/25/part/2/chapter/1/crossheading/partial-defence-to-murder-loss-of-control){.cite}, charts a course between the common law and the MPC, borrowing from each while rejecting key features of both.
+
+Like the MPC, the Act abandons the requirement that loss of control be "sudden and temporary," a reform designed to accommodate victims of domestic abuse whose reactions are cumulative rather than explosive. But unlike the MPC, the Act does not open the defense to any source of emotional disturbance. Instead, it requires that the loss of control have a "qualifying trigger," defined as either:
+
+- A *fear trigger*: fear of serious violence from the victim against the defendant or another identified person (Section 55(3)); or
+- An *anger trigger*: things done or said that constituted "circumstances of an extremely grave character" and caused the defendant "a justifiable sense of being seriously wronged" (Section 55(4)).
+
+The anger trigger's double requirement, objective gravity *plus* objective justification, sets a far higher threshold than either the common law's traditional categories or the MPC's open-ended standard. And the Act makes two exclusions explicit. First, *sexual infidelity* standing alone cannot be a qualifying trigger (Section 55(6)(c)), a direct repudiation of three centuries of doctrine stretching back to *Mawgridge*. Second, a defendant who acts in a *"considered desire for revenge"* is barred from the defense entirely (Section 54(4)), even if genuine loss of control occurred at some point.
+
+The objective standard is also more precisely defined than either the common law's "reasonable man" or the MPC's "person in the actor's situation." The Act asks whether "a person of D's sex and age, with a normal degree of tolerance and self-restraint and in the circumstances of D, might have reacted in the same or in a similar way to D" (Section 54(1)(c)). The defendant's specific circumstances count; characteristics that merely bear on general short-temperedness do not.
+
+The English reform thus offers a third model: neither the common law's rigid categories rooted in honor culture, nor the MPC's open-ended inquiry into emotional intensity, but a structured evaluative framework that makes explicit normative judgments about which circumstances are grave enough to warrant mitigation and which are not.
+
+::: {.callout-tip}
+
+## Discussion Questions
+
+How would the cases from this chapter fare under the English framework? 
+
+1. *Carroll*, whose killing was found "premeditated" under the Pennsylvania rule, would almost certainly present the question of whether his concern for his children's safety could constitute a qualifying trigger under the fear or anger provisions. Do you think he would prevail? Should he? 
+
+2. Would *Thornton*'s claim survive? Recall the four-hour sequence of calculated steps, and his retrieval of the pistol. Also recall his articulated threats. Would those disqualify mitigation as a "considered desire for revenge"?
+
+3. *Girouard*'s case, based on words alone, would need to meet the "extremely grave character" threshold, a higher bar than either the common law or the MPC imposes. 
+
+4. *Peacock*'s killing, four hours after discovery, would almost certainly fail, as sexual infidelity could not serve as the qualifying trigger.
+
+5. Would adopting these exclusions in American law improve on either the common law or the MPC?
+
+:::
+

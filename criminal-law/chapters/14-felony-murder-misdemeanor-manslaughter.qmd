@@ -1,0 +1,408 @@
+# Felony Murder and Misdemeanor Manslaughter
+
+## Felony Murder
+
+Under the felony murder rule, a person who causes a death during the commission of certain felonies is guilty of murder, regardless of whether they intended to kill or even foresaw that a death might occur. The doctrine eliminates the prosecution's burden to prove *mens rea* for the killing itself. Instead, the commission of the underlying felony substitutes for, or "constructively" supplies, the malice that murder ordinarily requires.
+
+The rule is deceptively simple: commit a qualifying felony, and if someone dies as a result, you are guilty of murder. Most states divide felony murder into two tiers. Deaths during *enumerated* felonies (typically burglary, arson, robbery, rape, or kidnapping) are automatically graded as first-degree murder, carrying the most severe penalties the system imposes. Deaths during other felonies — unenumerated offenses like drug trafficking, fleeing police, or illegal firearms possession — may still support a felony murder charge, but are typically graded as second-degree murder or, in some states, require the prosecution to show that the felony was "inherently dangerous to human life." The enumerated/unenumerated distinction matters enormously at sentencing: first-degree felony murder often carries mandatory life without parole, while second-degree carries a range of years. But both share the core feature that distinguishes felony murder from every other form of homicide: the prosecution need not prove any mental state with respect to the killing itself.
+
+### A Thought Experiment
+
+Consider two scenarios involving the same defendant, David, and the same victims, his estranged wife and her new boyfriend, Ed. David and his wife are in a trial separation. David has just discovered that his wife has moved in with Ed — and that she has taken with her the stereo she once gave David as a birthday gift.
+
+In the first scenario, David drives to Ed's apartment in a rage, forces his way in, and kills his wife and Ed with his bare hands. The prosecution charges first-degree murder. To convict, it must prove premeditation and deliberation — that David actually formed the intent to kill and did so with some degree of reflection, however brief. But David has options. His attorney argues voluntary manslaughter: David acted in the heat of passion upon discovering spousal infidelity, the classic provocation defense in Anglo-American law. If the jury accepts that argument, David faces years rather than life. Even if it rejects provocation, the jury might find that David killed impulsively rather than with premeditation, reducing the charge to second-degree murder. At every stage, the system asks what David was actually thinking and feeling when he killed.
+
+In the second scenario, David breaks into Ed's apartment at night to retrieve the stereo. As he unplugs it, a spark from the outlet ignites a fire inside the wall. The fire spreads quickly. David's wife and Ed, asleep in the bedroom, die in the fire. David confesses to the break-in but says he had no idea the spark would occur, no reason to think unplugging a stereo was dangerous, and no desire whatsoever to harm anyone.
+
+Under the traditional felony murder rule, the second David is guilty of first-degree murder. The burglary (entering another person's dwelling unlawfully with intent to commit a crime) supplies the predicate. A death occurred during the commission of that felony. No further inquiry into David's mental state is required. The prosecution need not prove that David intended to kill, that he foresaw the possibility of death, or even that he was negligent with respect to the risk of fire. The felony murder rule makes all of that irrelevant. And unlike the first David, the second David has no provocation defense, no heat-of-passion mitigation, no argument about his mental state at all — because felony murder does not ask about mental states.
+
+If this strikes you as wrong, you are in good company. Courts, scholars, and legislatures around the world have reached the same conclusion.
+
+### Origins and Rationale
+
+The felony murder rule has ancient roots in English common law. By the nineteenth century, English courts applied a version that held defendants liable for murder when death occurred during any felony. American jurisdictions imported and expanded the doctrine considerably.
+
+Proponents have offered several justifications. The most common is *deterrence*: if felons know that any death during their crime will be charged as murder, they will either avoid committing felonies or take greater care to prevent deaths while committing their felonies. A second justification is *transferred intent*: the felon's intent to commit the underlying crime is a form of malice that is "transferred" to the resulting death. A third is what courts have called *rough justice*: people who embark on dangerous criminal enterprises should bear responsibility for all consequences, including unintended deaths.
+
+Each of these justifications has problems, as we will see. But first, consider where American law stands relative to the rest of the world.
+
+::: {.callout-note}
+### The US as Global Outlier
+
+The felony murder rule is virtually unknown outside the United States. England, where the doctrine originated, [abolished it in 1957](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/11/section/1){.cite}. Canada's Supreme Court struck down its primary constructive murder provision on constitutional grounds in [*R v. Martineau* (1990)](https://decisions.scc-csc.ca/scc-csc/scc-csc/en/item/646/index.do){.cite}, holding that the *Charter of Rights and Freedoms* requires proof of subjective foresight of death for a murder conviction. Australia's High Court has [limited expansion of the doctrine](https://www.hcourt.gov.au/assets/publications/judgment-summaries/2023/hca-5-2023-03-08.pdf){.cite}. India, which inherited much of its criminal law from British colonialism, has never adopted a felony murder rule. Among developed nations, only the United States continues to impose what amounts to strict liability for homicide on felons.
+:::
+
+The Model Penal Code takes a more cautious approach than most American statutes. Rather than treating felony murder as a distinct category of homicide, MPC Section 210.2(1)(b) creates a *rebuttable presumption* of recklessness and extreme indifference to human life when death occurs during enumerated felonies (robbery, rape or deviate sexual intercourse by force or threat of force, arson, burglary, kidnapping, or felonious escape). The defendant can theoretically rebut the presumption, though doing so is extraordinarily difficult in practice. Most states have not followed the MPC's lead, instead retaining strict liability felony murder rules.
+
+Consider three cases that illustrate how the rule operates in practice.
+
+## COMMONWEALTH v. BROWN {#commonwealth-v-brown .unnumbered .unlisted .case-title}
+
+*Supreme Judicial Court of Massachusetts, 2017*
+
+*477 Mass. 805*
+
+::: {.case-excerpt}
+
+[The charges stem from an attempted armed robbery and home invasion of a Lowell townhouse shared by Hector and Tony Delgado. Two armed gunmen fatally shot the brothers during the botched robbery. The defendant was not present at the scene. The Commonwealth alleged that the defendant was liable as an accomplice to felony-murder because he supplied one of the gunmen with a pistol and provided hooded sweatshirts to the intruders to help them conceal their identities. A Superior Court jury convicted the defendant of two counts of felony-murder in the first degree...]{.smallcaps}
+
+On the evening of October 22, 2009, the defendant was a passenger in a [car] that was being driven around the Pawtucketville section of Lowell. The other occupants of the vehicle were his friends Ariel Hernandez, Giovanni Hill, and Darien Doby.... Later, at approximately 12:15 A.M., two cousins, Jamal and Karon McDougal, visited the defendant's apartment.... While gathered in the kitchen with the defendant, Jamal asked Hernandez if he wanted to participate in robbing someone.... Hernandez agreed to participate in the robbery....
+
+Once [the getaway driver] agreed to participate, Hernandez urged, "If we're going to do it, let's go do it now." Hernandez retrieved his gun from the kitchen cabinet, looked it over, and tucked it inside his waistband.... Hernandez asked the defendant for a hooded sweatshirt so that he could "hide his face." The defendant provided Hernandez with a hooded sweatshirt with a front zipper. Hernandez complained that the zipper was broken.... The defendant then gave Hernandez a black and red pullover-style hooded sweatshirt.... Jamal and Karon also borrowed hooded sweatshirts from the defendant.
+
+Before leaving, Jamal asked to borrow the defendant's "burner" (gun). At first, the defendant hesitated, stating his concern that something might happen to his gun. Hernandez and Karon then urged the defendant to allow Jamal to borrow the gun, promising that "nothing's going to happen to it." The defendant eventually gave Jamal a .380 pistol that had been stored underneath his bed.
+
+[The co-conspirators drove to the victims' townhouse. After forcing their way inside, the two gunmen shot and killed both Hector and Tony Delgado. Brown remained at his apartment the entire time.]
+
+...
+
+[W]e have recognized that "the doctrines of felony-murder and joint venture may, on some hypothetical fact patterns, produce a conviction of murder in the first degree that would appear out of proportion to a defendant's culpability." Here, the defendant was involved in the "remote outer fringes" of the attempted armed robbery and armed home invasion.... Having carefully reviewed the facts and circumstances of this case, we conclude that the defendant's conduct, as an individual who participated on the "remote outer fringes" of the joint venture, makes verdicts of murder in the second degree more consonant with justice.
+
+:::
+
+*Chief Justice Gants, joined by three other justices, wrote separately to announce a prospective change in Massachusetts law:*
+
+::: {.case-excerpt}
+
+I believe that, in the future, a defendant should not be convicted of murder without proof of one of the three prongs of malice: that he or she intended to kill or to cause grievous bodily harm, or intended to do an act which, in the circumstances known to the defendant, a reasonable person would have known created a plain and strong likelihood that death would result. I also believe that we should abandon the fiction of constructive malice — that where a killing occurs in the commission of a felony, the intent to commit the felony is sufficient alone to establish malice....
+
+We have recognized that the application of the felony-murder rule erodes "the relation between criminal liability and moral culpability."
+
+:::
+
+## SMITH v. STATE {#smith-v-state .unnumbered .unlisted .case-title}
+
+*Elmore County Circuit Court, Alabama, 2018*
+
+LaKeith Smith was fifteen years old when he and four other teenagers burglarized two homes in Millbrook, Alabama, in 2015. At the second home, police arrived and opened fire, killing sixteen-year-old A'Donte Washington, one of Smith's companions. Nobody, including the prosecution, contended that Smith fired a shot. The fatal bullet came from a [police officer's gun](https://www.themarshallproject.org/2023/03/18/felony-murder-law-alabama-pennsylvania-arizona){.cite}.
+
+Smith was convicted of Washington's murder under Alabama's felony murder law and [sentenced to sixty-five years in prison](https://www.wsfa.com/2023/03/22/sentence-reduced-man-convicted-after-friend-killed-by-officer/){.cite} (reduced to fifty-five years, then to thirty on resentencing in 2023). Alabama follows the "proximate cause" theory of felony murder, under which any death that is a foreseeable consequence of the felony can be charged as murder — even if the fatal shot came from a police officer or a bystander rather than a co-felon. Because the burglary created the situation in which Washington was killed, Smith bore full criminal responsibility for his friend's death.
+
+"I feel like he shouldn't do another day [in prison] and he needs to come home," [said Vernice Washington](https://www.themarshallproject.org/2023/03/18/felony-murder-law-alabama-pennsylvania-arizona){.cite}, the mother of the teenager killed by police. Smith's case became a rallying point for advocates seeking to reform felony murder laws, particularly as applied to juveniles. He was fifteen at the time of the crime and is now serving a thirty-year sentence for a death caused by a law enforcement officer's bullet.
+
+## TISON v. ARIZONA {#tison-v-arizona .unnumbered .unlisted .case-title}
+
+*Supreme Court of the United States, 1987*
+
+*481 U.S. 137*
+
+::: {.case-excerpt}
+
+[Gary Tison was sentenced to life imprisonment as the result of a prison escape during the course of which he had killed a guard.]{.smallcaps} ... [His] three sons Donald, Ricky, and Raymond ... made plans to help Gary Tison escape again.... The Tison family assembled a large arsenal of weapons for this purpose.
+
+On July 30, 1978, the three Tison brothers entered the Arizona State Prison at Florence carrying a large ice chest filled with guns. The Tisons armed Greenawalt and their father, and the group, brandishing their weapons, locked the prison guards and visitors present in a storage closet. The five men fled the prison grounds....
+
+... As the group traveled on back roads and secondary highways through the desert, another tire blew out. The group decided to flag down a passing motorist and steal a car. Raymond stood out in front of the Lincoln; the other four armed themselves and lay in wait by the side of the road. One car passed by without stopping, but a second car, a Mazda occupied by John Lyons, his wife Donnelda, his 2-year-old son Christopher, and his 15-year-old niece, Theresa Tyson, pulled over to render aid.
+
+As Raymond showed John Lyons the flat tire on the Lincoln, the other Tisons and Greenawalt emerged. The Lyons family was forced into the backseat of the Lincoln.... [The group drove into the desert.] Gary fired his shotgun into the radiator, presumably to completely disable the vehicle.... Ricky Tison reported that John Lyons begged, in comments "more or less directed at everybody," "Jesus, don't kill me." Gary Tison said he was "thinking about it."... John Lyons asked the Tisons and Greenawalt to "[g]ive us some water ... just leave us out here, and you all go home." Gary Tison then told his sons to go back to the Mazda and get some water.... [B]oth of them went back towards the Mazda ... while Randy Greenawalt and Gary Tison stayed at the Lincoln guarding the victims. Raymond recalled being at the Mazda filling the water jug "when we started hearing the shots."... [P]etitioners agree they saw Greenawalt and their father brutally murder their four captives with repeated blasts from their shotguns. Neither made an effort to help the victims, though both later stated they were surprised by the shooting....
+
+Several days later the Tisons and Greenawalt were apprehended after a shootout at a police roadblock. Donald Tison was killed. Gary Tison escaped into the desert where he subsequently died of exposure. Ricky and Raymond Tison were sentenced to death....
+
+...
+
+A narrow focus on the question of whether or not a given defendant "intended to kill," however, is a highly unsatisfactory means of definitively distinguishing the most culpable and dangerous of murderers.... [S]ome nonintentional murderers may be among the most dangerous and inhumane of all — the person who tortures another not caring whether the victim lives or dies, or the robber who shoots someone in the course of the robbery, utterly indifferent to the fact that the desire to rob may have the unintended consequence of killing the victim as well as taking the victim's property. This reckless indifference to the value of human life may be every bit as shocking to the moral sense as an "intent to kill."...
+
+... [W]e simply hold that major participation in the felony committed, combined with reckless indifference to human life, is sufficient to satisfy the *Enmund* culpability requirement.
+
+:::
+
+The "major participant" plus "reckless indifference" standard from *Tison* has become the dominant framework for evaluating accomplice liability in felony murder cases, and it is the standard California later adopted in SB 1437.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Rank the culpability of these defendants from most to least blameworthy: the first David (deliberate killer: life), the second David (stereo thief: life), Brown (absent accomplice: convicted of first-degree murder, reduced to second-degree on appeal), LaKeith Smith (teenage burglar: 65 years, eventually reduced to 30), and Ricky and Raymond Tison (prison escape participants: death sentences upheld by the Supreme Court). Now rank them by the severity of punishment they received or faced. Do the two rankings match?
+:::
+
+### Who Bears the Costs?
+
+The proportionality problems with felony murder fall disproportionately on young people, people of color, and those who played minor roles in the underlying crime.
+
+A [2025 study by Professors Guyora Binder and Alexandra Harrington](https://ilr.law.uiowa.edu/volume-110-issue-3/racially-disparate-and-disproportionate-punishment-felony-murder-evidence-new-york){.cite} compiled data on approximately 1,000 arrests and 250 convictions for felony murder in New York. Black defendants were thirty-four times as likely as white defendants to be convicted of felony murder as non-killing accomplices. Racial disparities were one hundred eighty percent greater for accomplice felony murder than for other forms of second-degree murder. Nearly thirty percent of all people convicted of felony murder were teenagers. And roughly half of all people convicted of felony murder were accomplices — charged for felonies in which someone else did the killing.
+
+National data tells a consistent story. [The Sentencing Project reports](https://www.sentencingproject.org/reports/a-matter-of-life/){.cite} that fifty-five percent of all people serving life without parole nationally, across all offense types, are Black. In Pennsylvania, [nearly three-quarters](https://www.sentencingproject.org/reports/felony-murder-an-on-ramp-for-extreme-sentencing/){.cite} of people serving life without parole for felony murder were twenty-five or younger at the time of their offense. In California, [the same report found](https://www.sentencingproject.org/reports/felony-murder-an-on-ramp-for-extreme-sentencing/){.cite} that seventy-two percent of women serving life for felony murder did not personally kill anyone, compared to fifty-five percent of men.
+
+These disparities reflect a pattern we have seen throughout this course: the criminal legal system's harshest doctrines tend to fall most heavily on those with the least social and political power.
+
+### Does It Work?
+
+The primary justification for felony murder is deterrence. The theory assumes that potential felons weigh the consequences of their actions and will modify their behavior to avoid a murder charge. But deterrence requires that the person being deterred actually foresee the death that felony murder punishes. A doctrine that imposes murder liability for unforeseeable deaths cannot, by definition, deter those deaths.
+
+The empirical evidence confirms what logic suggests. Professor Anup Malani of the University of Chicago Law School [conducted an influential empirical study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=299178){.cite} of felony murder's deterrent effect, using state-level panel data. He found no significant effect on the number of deaths occurring during felonies. For robbery, his data suggested that felony murder rules might actually be associated with *more* felony-related deaths, not fewer, consistent with the "marginal deterrence" critique: by raising the stakes of the initial crime to the level of murder, the rule may encourage more violent behavior to avoid capture.
+
+A [2025 survey](https://www.law.georgetown.edu/american-criminal-law-review/in-print/volume-62-number-1-winter-2025/abolishing-felony-murder-an-empirical-perspective/){.cite} published in the *American Criminal Law Review* found that the vast majority of participants were unaware felony murder existed. Nearly all said that first-degree murder convictions and life sentences were "morally unjustified" for felony murder scenarios. Most said the morally appropriate punishment was less than six years. If deterrence depends on public awareness of a legal rule, felony murder fails on its own terms.
+
+## Limiting Doctrines
+
+Courts and legislatures that have retained felony murder have developed several doctrines to constrain its reach. These limitations represent judicial and legislative discomfort with the rule's breadth, even where the political will to abolish it is lacking.
+
+### The Inherently Dangerous Felony Requirement
+
+Many states limit felony murder to predicate felonies that are "inherently dangerous to human life." The question is how to measure dangerousness. California's *People v. Phillips*, 64 Cal.2d 574 (1966), established an influential test: courts examine the elements of the offense "in the abstract," looking at how the crime is defined by statute rather than examining the particular facts of the defendant's conduct. If the felony could theoretically be committed without endangering anyone, it is not "inherently dangerous," even if the defendant's actual conduct was extremely dangerous.
+
+This test produces results that even its supporters acknowledge are counterintuitive. A defendant who commits grand theft by creating a high-speed chase, directly causing a death, might not face felony murder, because grand theft can also be committed by quietly embezzling money from a bank account. The statutory definition is not dangerous in the abstract, even though the defendant's conduct was lethal.
+
+Most other states that use an inherently dangerous limitation examine the felony as actually committed, asking whether the defendant's particular conduct posed a serious risk of death. This approach is more flexible but also more unpredictable, giving prosecutors wider discretion to bring felony murder charges.
+
+### The Merger Doctrine
+
+A second limitation prevents certain felonies from serving as predicates because they "merge" with the homicide. The logic is straightforward: if the predicate felony is itself an assault or battery, then every intentional killing would automatically qualify as felony murder, making the traditional *mens rea* requirements for murder superfluous.
+
+Consider the implications without the merger doctrine. If assault can serve as a felony murder predicate, then every killing that involves an assault (which is virtually every killing) becomes felony murder, regardless of the killer's mental state. The prosecution would never need to prove premeditation, intent to kill, or even recklessness. Felony murder would swallow all of homicide law.
+
+Courts applying the merger doctrine ask whether the predicate felony has an "independent felonious purpose" beyond the act of killing itself. Burglary to steal property has an independent purpose (the theft), so it does not merge. Assault with a deadly weapon has no purpose independent of the violence, so it does.
+
+Together, these two doctrines create what scholars call the "squeeze" effect: if the predicate felony is not dangerous enough, it fails the inherently dangerous test; if it is dangerous enough to be assaultive, it merges. Only a narrow band of felonies that are dangerous but not directly assaultive can qualify — leading some to describe the combined effect as a form of judicial sabotage.
+
+### Agency vs. Proximate Cause
+
+States are also divided on a question that the LaKeith Smith case illustrates starkly: when a *non-felon* (a police officer, a victim acting in self-defense, a bystander) kills someone during a felony, can the felons be charged with murder?
+
+Under the *agency theory*, which a majority of states follow, the answer is no. Felony murder applies only when the defendant or a co-felon does the killing. If a police officer shoots a co-felon during a robbery, the surviving robbers are not guilty of felony murder.
+
+Under the *proximate cause theory*, followed by a significant minority of states including Alabama, Florida, Indiana, Missouri, and Oklahoma, the answer is yes. A felon is liable for any death that is a "reasonably foreseeable" result of the felony, regardless of who fired the fatal shot. It was under this theory that LaKeith Smith, a fifteen-year-old burglar, was sentenced to sixty-five years for a death caused by a police officer's bullet.
+
+The agency theory does not immunize felons from homicide charges. Prosecutors remain free to charge any grade of homicide they can prove. If an armed robbery foreseeably set in motion a chain of events that ended in someone's death, the robber might face charges of involuntary manslaughter (if the risk-creation was criminally negligent), depraved heart murder (if it reflected extreme indifference to human life), or even intentional murder (if the evidence supports it). What the agency theory eliminates is the shortcut: the automatic elevation to first-degree murder without any proof of *mens rea* as to the death. Without felony murder, prosecutors must prove the mental state that corresponds to the charge they bring. The result is an actual inquiry into culpability, which is how every other area of homicide law works.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. The inherently dangerous felony requirement and the merger doctrine together create the "squeeze" effect. Is this judicial sabotage, or is it a principled effort to limit a doctrine that lacks principled boundaries? 
+
+2. Imagine a robbery victim who, defending herself, shoots and kills a bystander. Under the proximate cause theory, the robber faces automatic first-degree felony murder. Under the agency theory, the robber does not, but could still be charged with involuntary manslaughter or depraved heart murder if the prosecution proves the appropriate mental state. Is there a good reason to let the prosecution skip the *mens rea* inquiry, or should it have to prove what the robber actually knew and risked? 
+
+3. The limiting doctrines all attempt to narrow felony murder without abolishing it. Is this approach sustainable, or does it simply create arbitrary distinctions that undermine the rule of law? 
+:::
+
+## Reform, Limitation, and Abolition
+
+Growing recognition of felony murder's problems has prompted a wave of reform, particularly since 2018. These reforms range from modest sentencing reductions to outright abolition. Together, they represent the broadest reassessment of the doctrine since American jurisdictions first adopted it.
+
+### Abolition
+
+Hawaii and Kentucky have abolished felony murder entirely. Neither state permits murder charges based solely on a death during a felony; prosecutors must independently prove the mental state required for murder.
+
+Michigan's Supreme Court effectively eliminated strict-liability felony murder in [*People v. Aaron* (1980)](https://law.justia.com/cases/michigan/supreme-court/1980/57376-0.html){.cite}, holding that the prosecution must prove *malice* (intent to kill, intent to cause great bodily harm, or wanton and willful disregard of the likelihood that death would result) even when a death occurs during a felony. The Michigan legislature did not restore the rule, suggesting that the political appetite for strict-liability felony murder may be weaker than conventional wisdom assumes.
+
+Massachusetts followed a similar path in [*Commonwealth v. Brown* (2017)](https://web.archive.org/web/20240520154322/https://law.justia.com/cases/massachusetts/supreme-court/2017/sjc-11669.html){.cite}, where the Supreme Judicial Court prospectively eliminated "constructive malice," requiring proof of actual malice for all future murder convictions. Chief Justice Gants, concurring, argued that the felony murder rule erodes "the relation between criminal liability and moral culpability," citing California's *People v. Washington* (1965), and called for abandoning what he termed "the fiction of constructive malice."
+
+Ohio moved away from traditional felony murder, adopting an involuntary manslaughter statute that covers deaths during felonies but grades the offense below murder, though murder charges remain available when the prosecution can prove the requisite mental state.
+
+### Legislative Reform
+
+California enacted the most sweeping legislative reform with [SB 1437 (2018)](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201720180SB1437){.cite}. The law narrowed felony murder liability to three categories: the defendant was the actual killer, the defendant aided and abetted the actual killer with intent to kill, or the defendant was a "major participant" in the underlying felony who acted with "reckless indifference to human life." SB 1437 also applied retroactively, creating a resentencing process for people already convicted under the old rule.
+
+By December 2024, [1,172 people had been resentenced](https://capolicylab.org/felony-murder-reform/){.cite} under the new law, with seventy-eight percent released from prison. The recidivism data is striking: within three years of release, only two percent were convicted of a new serious or violent felony. Black and Hispanic individuals accounted for over eighty percent of those resentenced. For seventy-five percent, the felony murder conviction was their only prison sentence. The median age at the time of the original offense was just over twenty-one.
+
+In June 2025, the California Supreme Court applied the new standard in [*People v. Emanuel*](https://calmatters.org/justice/2025/06/felony-murder-supreme-court/){.cite}, holding that an accomplice present at a robbery who did not know his co-felon was armed did not act with "reckless indifference to human life," despite having participated in planning the crime. The decision set meaningful limits on how broadly the major-participant standard can be applied.
+
+Other states have followed California's lead. [Minnesota (2023)](https://web.archive.org/web/20251218230810/https://minnesotareformer.com/2023/11/15/minnesota-lawmakers-changed-felony-murder-laws-which-could-mean-the-release-of-prisoners/){.cite} now requires accomplices to be "major participants" who acted with "extreme indifference to human life," with retroactive resentencing. [Colorado (2021)](https://leg.colorado.gov/bills/sb21-124){.cite} reclassified felony murder from mandatory life without parole to sixteen to forty-eight years. Illinois adopted the agency theory through its SAFE-T Act (2021), eliminating felony murder charges when a third party caused the death.
+
+### Pending Reform
+
+Several states are actively considering further changes. [New York](https://nyassembly.gov/leg/?bn=A8929&term=2025){.cite} has introduced legislation that would repeal the felony murder provision entirely and create a resentencing process for past convictions. [Pennsylvania's HB 443 (2025)](https://straight-ahead.org/2025/02/05/media-advisory-new-felony-murder-bills-would-give-pennsylvanias-incarcerated-much-needed-second-chances/){.cite} would allow parole eligibility after twenty-five years for felony murder convictions that currently carry mandatory life without parole; over 1,100 Pennsylvanians are serving such sentences. Michigan's Supreme Court [ruled in April 2025](https://statecourtreport.org/our-work/analysis-opinion/michigans-high-court-charting-course-against-punitive-excess){.cite} (*People v. Taylor*) that mandatory life without parole for defendants who were nineteen or twenty years old at the time of the offense violates the state constitution's ban on "cruel or unusual" punishment, and is separately considering a challenge to mandatory life without parole for felony murder convictions obtained without a finding of malice.
+
+### Where States Stand
+
+| Approach | States |
+|----------|--------|
+| Abolished entirely | Hawaii, Kentucky |
+| Judicial requirement of independent proof of malice | Massachusetts, Michigan |
+| Replaced with lesser charge | Ohio |
+| Major recent reform (2018–2023) | California, Colorado, Illinois, Minnesota |
+| Pending reform legislation | New York (repeal), Pennsylvania (parole eligibility) |
+| Follow agency theory | Majority of states, including Arkansas, California, Colorado, Connecticut, Delaware, Illinois, Maine, New Jersey, New York, North Dakota, Oregon, Pennsylvania, Washington |
+| Follow proximate cause theory | Alabama, Alaska, Florida, Indiana, Kansas, Missouri, Oklahoma, Wisconsin |
+| Mandatory LWOP for felony murder | 11 states and the federal system; 11 additional states in some cases |
+
+### Applying the Frameworks
+
+The following hypothetical illustrates how the same facts produce dramatically different outcomes depending on which jurisdiction's rules apply.
+
+::: {.callout-tip}
+### The Convenience Store Robbery
+
+Alex, Blake, and Casey plan to rob a convenience store. Alex organizes the plan, cases the store in advance, and provides Casey with a realistic-looking toy gun. On the night of the robbery, Alex stays home. Blake drives Casey to the store and waits in the parking lot with the engine running. Casey enters the store, points the toy gun at the clerk, and demands money from the register.
+
+The clerk, believing the gun is real, pulls a handgun from beneath the counter and fires at Casey. The bullet misses Casey and strikes Dana, a customer standing near the door. Dana dies.
+
+Casey did not know the clerk was armed. Alex chose the store specifically because it appeared to be a low-risk target. Blake knew the plan involved a toy gun and believed no one would be hurt.
+
+Analyze the felony murder liability of Alex, Blake, and Casey in each of the following jurisdictions:
+
+1. A traditional felony murder state that follows the proximate cause theory (e.g., Alabama).
+
+2. A traditional felony murder state that follows the agency theory (e.g., Pennsylvania). If felony murder is unavailable, what other homicide charges might the prosecution bring, and what would it need to prove?
+
+3. California, after SB 1437 (requiring that non-killers be "major participants" who acted with "reckless indifference to human life").
+
+4. Massachusetts, after *Commonwealth v. Brown* (requiring proof of actual malice for all murder convictions).
+
+5. Hawaii (felony murder abolished). What, if anything, can the prosecution charge?
+
+Note: This hypothetical focuses on homicide liability. Alex, Blake, and Casey would also face liability under attempt, accomplice, and conspiracy doctrines for the robbery itself, covered in upcoming chapters.
+:::
+
+## Misdemeanor Manslaughter
+
+The felony murder rule has a lesser-known sibling. Under the *misdemeanor manslaughter rule* (sometimes called the "unlawful act doctrine"), an unintentional killing during the commission of a misdemeanor constitutes involuntary manslaughter, without proof of criminal negligence or recklessness. The structure mirrors felony murder exactly: the intent to commit the underlying misdemeanor substitutes for the culpable mental state that manslaughter ordinarily requires.
+
+| Doctrine | Predicate Offense | Resulting Charge |
+|----------|------------------|-----------------|
+| Felony murder | Felony | Murder (often first-degree) |
+| Misdemeanor manslaughter | Misdemeanor | Involuntary manslaughter |
+
+Federal law codifies it: 18 U.S.C. § 1112 defines involuntary manslaughter as a killing "in the commission of an unlawful act not amounting to a felony." Many states have similar provisions. But like felony murder, the doctrine has drawn sustained criticism for divorcing punishment from culpability, and courts have developed various limitations to constrain its reach.
+
+### The Same Proportionality Problem
+
+The misdemeanor manslaughter rule produces the same proportionality problems as felony murder — sometimes more starkly, because the predicate offenses are even less serious.
+
+## STATE v. WEITBRECHT {#state-v-weitbrecht .unnumbered .unlisted .case-title}
+
+*Supreme Court of Ohio, 1999*
+
+*86 Ohio St.3d 368*
+
+::: {.case-excerpt}
+
+[The issue certified for our review is, "Does Ohio's involuntary manslaughter statute (R.C. 2903.04(B)) as applied to a minor misdemeanor traffic offense which results in a vehicular homicide violate the Eighth Amendment to the United States Constitution and Section 9, Article I of the Ohio Constitution?"]{.smallcaps} For the reasons that follow, we answer the certified question in the negative.
+
+R.C. 2903.04 provides, in relevant part:
+
+"(B) No person shall cause the death of another ... as a proximate result of the offender's committing or attempting to commit a misdemeanor of the first, second, third, or fourth degree or a minor misdemeanor.
+
+"(C) Whoever violates this section is guilty of involuntary manslaughter.... Violation of division (B) of this section is a felony of the third degree."
+
+A third degree felony carries the potential penalty of one to five years in prison and a fine of up to $10,000....
+
+[While driving on Highway 62, Nancy Weitbrecht crossed left of center and collided with another vehicle. Three people died. The prosecution stipulated that there was no evidence of criminal recklessness or criminal negligence. She was charged with involuntary manslaughter based on a minor misdemeanor traffic offense: operating a vehicle left of center.]
+
+...
+
+Although the potential maximum penalty of five years' imprisonment may be somewhat severe, it is not tantamount to cruel and unusual punishment. Unfortunately, lives were lost as a result of the traffic accident. Where human lives are lost, the gravity of the crime is serious and is not lessened by the fact that the underlying crime consists of a minor misdemeanor.... Under these circumstances, we cannot say that the potential penalty for violating R.C. 2903.04(B) is "so greatly disproportionate to the offense as to shock the sense of justice of the community."
+
+:::
+
+*Justice Pfeifer, dissenting:*
+
+::: {.case-excerpt}
+
+Here, where we are considering whether the sentence at issue would "shock the sense of justice of the community," the facts must stand at the center of our consideration. The facts in this case tell the whole story.
+
+While driving on Highway 62 on April 27, 1997, Nancy Weitbrecht apparently suffered a cardiac event, lost consciousness, crossed left of center, and collided with the Carroll vehicle. She lost her husband and a friend in the accident, and must live with the fact that she also caused the death of Vera Carroll. The state stipulated that there was no evidence of criminal recklessness or criminal negligence on her part. Nancy Weitbrecht now faces a potential five-year prison term. It would be hard to conjure up a situation more shocking to the community's sense of justice, or a more inappropriate exercise of prosecutorial discretion. I accordingly dissent.
+
+:::
+
+The pattern should be familiar. Just as felony murder convicts people of first-degree murder without proof of intent to kill, misdemeanor manslaughter convicts people of manslaughter without proof of negligence. The underlying logic is the same: if you are committing an unlawful act when someone dies, the unlawful act substitutes for the mental state the crime would otherwise require.
+
+## TODD v. STATE {#todd-v-state .unnumbered .unlisted .case-title}
+
+*District Court of Appeal of Florida, Fifth District, 1992*
+
+*594 So.2d 802*
+
+::: {.case-excerpt}
+
+[On March 18, 1990, appellant entered the Lighthouse Church and stole $110 from the collection plate.]{.smallcaps} The theft was witnessed by several members of the congregation, one of whom, Richard Voegltin, took off in his car in pursuit of appellant. During the pursuit, Mr. Voegltin, who had a preexisting heart condition, began to experience cardiac dysrhythmia. He lost control of his vehicle, collided with a tree at low speed and died of cardiac arrest.
+
+The state charged appellant with manslaughter, alleging that he caused the death of Mr. Voegltin by committing the misdemeanor offense of petty theft which caused Voegltin to pursue him in order to recover the stolen property....
+
+...
+
+In this case, even if it were assumed that the stress of pursuit brought on the heart attack, it cannot be said that the petty theft was the legal cause of Mr. Voegltin's death. The crime itself was a minor property offense. There is no suggestion of any touching or any threat to anyone's person. This is not even a case, like a purse snatching, where violence was necessary to produce the theft. Nor is it asserted that Mr. Voegltin died from fright or horror at witnessing the crime. The state's traverse specifically asserts that it was the *pursuit* that caused the fatal heart attack. Although the petty theft did trigger a series of events that concluded in the death of Mr. Voegltin and was, in that sense, a "cause" of the death, the petty theft did not encompass the kind of direct, foreseeable risk of physical harm that would support a conviction of manslaughter.
+
+:::
+
+In Oklahoma, the Court of Criminal Appeals has held that *any* misdemeanor can serve as the predicate for first-degree manslaughter, with causation as the only limitation. [*Bell v. State*, 172 P.3d 622 (Okla. Crim. App. 2007); *State v. Ceasar*, 237 P.3d 792 (Okla. Crim. App. 2010).] Under Oklahoma's rule, a prosecution like the one in *Todd* would not require reversal — the theft triggered the pursuit that triggered the heart attack, and that chain of causation would be enough.
+
+### Limiting the Doctrine
+
+Courts have developed three principal limitations, each attempting to restore some connection between culpability and punishment.
+
+The first is the *malum in se* requirement. Some states, for example Michigan, hold that the rule applies automatically only when the predicate misdemeanor is *malum in se* (inherently wrongful, like assault or battery). When the predicate is merely *malum prohibitum* (wrong only because a statute says so, like driving without a license or violating a building code), the prosecution must independently prove criminal negligence. [*People v. Datema*, 448 Mich. 585 (1995).] This distinction has intuitive appeal but is notoriously difficult to apply. Is selling alcohol to a minor *malum in se* or *malum prohibitum*? What about speeding in a school zone?
+
+The second is a *dangerousness* requirement. California holds that the predicate misdemeanor must be "dangerous under the circumstances of its commission" — that is, committed with gross negligence — not merely dangerous in the abstract. [*People v. Wells*, 12 Cal.4th 979 (1996).] This echoes the "inherently dangerous felony" limitation on felony murder but applies a fact-specific rather than categorical test.
+
+The third is a meaningful *proximate cause* requirement. The unlawful aspect of the defendant's conduct must itself be causally connected to the death.
+
+## COMMONWEALTH v. WILLIAMS {#commonwealth-v-williams .unnumbered .unlisted .case-title}
+
+*Superior Court of Pennsylvania, 1938*
+
+*133 Pa. Super. 104*
+
+::: {.case-excerpt}
+
+[Defendant, Wendell Williams, was convicted in the court below of the involuntary manslaughter of one James Vincent, and he has appealed.]{.smallcaps} The death occurred when an automobile operated by appellant collided with a telephone pole. Appellant had been a duly licensed operator for several years prior to 1936, but had failed to renew his operator's license in 1936, and had no such license at the time of the accident on December 25th of that year....
+
+It will be observed that appellant has been absolved by the verdict of any negligence or recklessness in the operation of the motor vehicle, and the conviction must be sustained, if at all, upon the ground that the death occurred while appellant was operating the motor vehicle in violation of [The Vehicle Code]....
+
+...
+
+[T]he testimony was to the effect that while the defendant was driving along a street he saw a car, coming in the opposite direction, swerve from its path and start to move in his direction, and when, with a view to avoiding a collision, he drove farther over upon his side of the street, his wheels encountered some ice or frost, with the result that his car skidded in such a way as to strike a telephone pole and cause the death of Vincent who was a passenger in the car.
+
+It is obvious that the testimony was insufficient to show any relationship between the death and the unlawful act of appellant.... Appellant was not negligent; he was blameless except for the violation of [The Vehicle Code]. It cannot be logically concluded that the death "happened in consequence of" such violation. Until the swerve of the approaching automobile, appellant and deceased were riding in safety. Remove that factor, and it is perceived, without difficulty, that deceased would still be living, despite the fact that appellant operated his automobile without an operator's license.
+
+:::
+
+Without this limitation, any person committing any misdemeanor at the moment someone happens to die nearby could face manslaughter charges. With it, the prosecution must show that the specific thing that made the defendant's conduct unlawful is also the thing that made it deadly.
+
+Compare *Williams* with a case where the causal connection holds:
+
+## UNITED STATES v. WALKER {#us-v-walker .unnumbered .unlisted .case-title}
+
+*District of Columbia Court of Appeals, 1977*
+
+*380 A.2d 1388*
+
+::: {.case-excerpt}
+
+[The government's proffer was that appellee, while carrying a pistol without a license, dropped it in the stairwell of an apartment building, and that the gun went off, fatally wounding a bystander.]{.smallcaps} [The defense proffered that a firearms expert had determined that when the hammer of the pistol was not cocked, it would fire on impact only if dropped at a particular angle.] [Walker was charged with involuntary manslaughter, with carrying a pistol without a license (D.C. Code § 22-3204) as the predicate offense. The trial court dismissed the misdemeanor-manslaughter count, and the government appealed.]
+
+This appeal therefore presents for our determination the question whether the unlawful act of carrying a pistol without a license is also a dangerous act.
+
+[Appellee argued that t]wo persons [are] walking peaceably on a public street carrying holstered pistols. One ... has a license to carry a pistol, but the other has *no* license. The second person is violating section 3204, and the first is *not.* Yet there is no difference between them in terms of the danger presented to others....
+
+[The licensing scheme requires applicants to be of sound mind, without a prior criminal record, not an alcoholic or user of narcotics, trained and experienced in the safe operation of the weapon, and free from physical defects impairing safe use.]... Congress intended to preclude the non-licensee from being on the street with his weapon because of the danger he posed to the community as a result (1) of the inherent dangerousness of the weapon he carried, and (2) of the absence of any evidence of his capability to carry safely such a dangerous instrumentality.
+
+We now hold that a charge of violation of Section 3204 resulting in the shooting and death of another validly charges involuntary manslaughter because the misdemeanor of carrying a pistol without a license is dangerous in and of itself.
+
+:::
+
+The Model Penal Code, characteristically, rejects the doctrine entirely. Under the MPC, every form of criminal homicide requires proof of a culpable mental state: recklessness for manslaughter, criminal negligence for negligent homicide. There is no provision for constructive manslaughter based on the commission of an unlawful act. Roughly half of states have followed the MPC's lead. The rest retain some version of the rule, with wide variation in how broadly it applies.
+
+### Where States Stand
+
+| Approach | Representative States |
+|----------|----------------------|
+| Retain traditional rule (any misdemeanor or broad "unlawful act" language) | Oklahoma, Ohio, Georgia, Florida, Virginia, and others |
+| Retain with limiting doctrines (*malum in se*, dangerousness, or hybrid requirements) | California, Michigan, Maryland, Pennsylvania, Louisiana |
+| MPC approach: doctrine rejected, recklessness or negligence required | ~25-30 states, including New York, Illinois, Texas, Colorado, and others |
+| Federal law | 18 U.S.C. § 1112 codifies the traditional rule |
+
+The split is roughly even, but the trend line is clear: states that have revised their criminal codes since the MPC was published in 1962 have overwhelmingly chosen to require proof of actual culpability rather than rely on the constructive approach.
+
+### Workplace Deaths and the Regulatory Gap
+
+The misdemeanor manslaughter doctrine intersects with workplace safety law in a way that reveals a structural gap. Recall Don Blankenship and the Upper Big Branch mine disaster from Chapter 11: twenty-nine miners died, the jury convicted Blankenship of a single misdemeanor (conspiracy to willfully violate mine safety standards), and the judge imposed the maximum sentence of one year. Blankenship was convicted under the Federal Mine Safety and Health Act, which caps the criminal penalty at one year. The parallel provision in the Occupational Safety and Health Act is even weaker: a *willful* safety violation that *kills a worker* is a misdemeanor carrying a maximum of just six months — punished less severely than harassing a wild horse on federal lands, which carries up to one year.
+
+Nancy Weitbrecht crossed left of center with no criminal intent and faced five years for involuntary manslaughter. Blankenship oversaw a systematic campaign to conceal life-threatening safety violations and faced one year. The doctrinal structure elevates minor traffic offenses into manslaughter while capping corporate killing at the misdemeanor level.
+
+State prosecutors have tried to fill the gap using misdemeanor manslaughter with fire code and building code violations as predicates.
+
+On February 20, 2003, pyrotechnics ignited during a Great White concert at [the Station nightclub](https://www.nbcnews.com/id/wbna3668885){.cite} in West Warwick, Rhode Island. The sparks hit polyurethane foam that the club owners had installed as soundproofing — a material that violated fire safety codes. Within ninety seconds, the stage area was fully engulfed. One hundred people died. The owners, Jeffrey and Michael Derderian, had never obtained permits for the foam and had not installed a sprinkler system. The fire marshal had inspected the club twice in the months before the fire but never flagged the foam.
+
+A grand jury charged each defendant with two hundred counts of involuntary manslaughter: [one hundred under a criminal negligence theory and one hundred under a misdemeanor manslaughter theory](https://www.nbcnews.com/id/wbna3668885){.cite}, with fire code violations as the predicate offense. All three defendants pleaded guilty or no contest. Daniel Biechele, Great White's tour manager who had ignited the pyrotechnics without a permit, received [fifteen years with four to serve](https://www.npr.org/2006/05/10/5396975/band-manager-gets-4-years-for-fire-that-killed-100){.cite}. Michael Derderian, the more involved co-owner, received the same sentence: fifteen years with four to serve. Jeffrey Derderian, the less involved co-owner, received a suspended sentence and community service — no prison time for his role in one hundred deaths.
+
+The Station fire was not unique. After the Ghost Ship warehouse fire in Oakland (2016), where building code violations contributed to thirty-six deaths at an unpermitted music venue, the operator [pleaded guilty to thirty-six counts of involuntary manslaughter](https://www.npr.org/2021/03/09/975206741/man-sentenced-in-2016-ghost-ship-warehouse-fire-in-oakland-calif-that-killed-36){.cite} and received twelve years, most of which was served under home detention. After a trench collapse killed a construction worker in Manhattan (2015), Harco Construction was [convicted of manslaughter](https://www.constructiondive.com/news/judge-orders-harco-construction-to-pay-10k-fine-after-manslaughter-convict/432816/){.cite} and fined $10,000, the maximum for a corporate defendant. The pattern is consistent: foreseeable deaths from known violations, and sentences that seem lenient relative to the harm caused.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Nancy Weitbrecht faced five years for crossing left of center with no criminal negligence. Don Blankenship faced one year for overseeing a corporate system that concealed life-threatening safety violations from federal regulators and resulted in twenty-nine deaths. What explains this disparity? Is it a problem of doctrine, statutory design, or something else?
+
+2. The MPC rejects misdemeanor manslaughter entirely, requiring proof of recklessness or negligence for every homicide conviction. Is this the right approach? What is lost, and what is gained, by eliminating constructive manslaughter?
+
+3. The *malum in se* / *malum prohibitum* distinction asks whether the predicate offense is "inherently wrongful" or "wrong only because a statute says so." Is this a workable line? Consider: is selling alcohol to a minor *malum in se* or *malum prohibitum*? Driving thirty miles per hour over the speed limit? Violating a building code in a way you know creates a fire risk? 
+:::

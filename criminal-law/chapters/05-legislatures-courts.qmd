@@ -1,0 +1,379 @@
+# Legislatures and Courts
+
+## The Common Scold
+
+::: {.callout-note}
+## Problem
+
+A prosecutor in Washington, D.C. charges your client with being a "common scold" under D.C. Code § 45-401(a), which provides that "common law" and "British statutes that were in force in Maryland on February 27, 1801" remain enforceable in the District. Your client, a woman, allegedly disturbed her neighborhood through "quarrelsome speech."
+
+You are defense counsel. As you formulate your answer, consider the following materials. Which doctrines apply? Which is strongest? Does any single argument suffice, or should you raise as many as possible?
+:::
+
+---
+
+## A Brief History of the Common Scold
+
+The offense of being a "common scold" (*communis rixatrix*) was a common law crime in England, inherited by American jurisdictions through reception statutes like D.C.'s. The Latin term is grammatically feminine—only women could commit the offense. The traditional definition targeted a woman who "disturbed the peace by arguing and fighting with her neighbours." The traditional punishment was "ducking": strapping the offender to a chair and repeatedly submerging her in water.
+
+The offense was actually enforced in the United States, including in D.C. In 1829, Anne Newport Royall—a sixty-year-old journalist and fierce critic of Presbyterian institutions—was convicted as a common scold in the most widely publicized American case. Royall had objected to a Capitol Hill fire engine house being used for church services, viewing it as a violation of church-state separation. When neighborhood children threw rocks at her windows and congregants prayed beneath her window while attempting conversion, Royall responded with "inflammatory language." She was charged with being "a public nuisance, a common brawler and a common scold."
+
+The jury found Royall "an evil-disposed person, and a common slanderer and disturber of the peace and happiness of her quiet and honest neighbors." Judge William Cranch, however, ruled that ducking was "barbaric" and imposed a $10 fine instead—the equivalent of roughly $350 today. Two journalists from the *National Intelligencer* paid the fine. Royall went on to launch her own newspaper and conduct investigative reporting for another two decades. Her conviction remains the only common scold prosecution in D.C. history.
+
+Pennsylvania was the epicenter of common scold prosecutions. Beginning in the 1870s, after the state supreme court endorsed the continued validity of common law crimes, prosecutions climbed sharply. By the turn of the twentieth century, Pennsylvania courts prosecuted more than seventy women per year for being common scolds. The prosecutions continued sporadically into the mid-twentieth century—as late as 1947, three Pittsburgh sisters were charged under the offense.
+
+---
+
+## The Doctrine's End: *State v. Palendrano* (1972)
+
+The last American prosecution for being a common scold came in New Jersey in 1972. Marion Palendrano was indicted on three counts: atrocious assault and battery, threatening to take a life, and being "a common scold and disturber of the peace." The New Jersey Superior Court dismissed the common scold charge, holding that the offense could no longer be prosecuted.
+
+The court identified multiple grounds for its decision:
+
+*Vagueness.* The court found the offense unconstitutionally vague: "There is not and never has been a legislative definition of the offense. 'Common Scold' does not appear in any law ever enacted by the duly elected representatives of the people." Without a statutory definition, citizens had no way to know what conduct was prohibited. "One can scarcely conceive of anything more vague or indefinite. To know the criminal risks he might run, the average citizen would be obliged to carry a pocket edition of Blackstone with him."
+
+*Equal protection.* The offense applied only to women. The Latin *communis rixatrix* is grammatically feminine; Blackstone's *Commentaries* explicitly "confines it to the feminine gender." A criminal offense that can be committed only by women violates the Fourteenth Amendment's guarantee of equal protection.
+
+*Subsumption.* The court found that whatever conduct the common scold offense might cover had been subsumed within modern disorderly conduct statutes. The ancient offense was redundant—and less precisely defined than its modern replacements.
+
+*Cruel and unusual punishment.* The traditional punishment of ducking was clearly unconstitutional under contemporary standards. The court observed that "no one could constitutionally be punished in contemporary New Jersey, by ducking in the trebucket."
+
+The court concluded simply: "Being a Common Scold is no longer a crime."
+
+---
+
+## Doctrines That Constrain Criminal Law Interpretation
+
+*Palendrano* invoked multiple doctrines to dismiss the common scold charge. Doctrines like *vagueness* and others like *legality*, *lenity*, and *desuetude* represent mechanisms for limiting how courts interpret and apply criminal statutes. Each reflects a judgment about when judicial intervention is appropriate to protect individuals from punishment.
+
+*Vagueness* holds that statutes violate due process when they fail to give ordinary people fair notice of prohibited conduct or authorize arbitrary enforcement. "Common scold" fails both tests: no one knows what it prohibits, and enforcement depends almost entirely on arbitrary and capricious prosecutorial discretion. *See Johnson v. United States*, 576 U.S. 591 (2015) (ACCA residual clause unconstitutionally vague).
+
+*Legality* embodies the principle that only legislatures can create crimes. Courts may not expand criminal statutes to cover conduct not clearly within the legislative text. The common scold offense was never legislatively enacted in D.C.—it survives only through a reception statute that preserved common law. The following case illustrates the doctrine:
+
+*Lenity* directs courts to construe ambiguous criminal statutes narrowly, in favor of defendants. If "common scold" is ambiguous—and it surely is—lenity requires the interpretation most favorable to the accused. *See Yates v. United States*, 574 U.S. 528 (2015) (fish are not "tangible objects" under Sarbanes-Oxley; statute limited to its financial-fraud context).
+
+*Desuetude* holds that prolonged failure to enforce a law in the face of widespread violations may render it void. The D.C. common scold offense has not been prosecuted since 1829—nearly two centuries of nonenforcement. Although some American courts employ desuetude, most do not, citing separation of powers: if the legislature wants to repeal a law, it can do so. *See Commonwealth v. Stowell*, 449 N.E.2d 357 (Mass. 1983) (acknowledging adultery statute had fallen into "comprehensive desuetude" but declining to invalidate it).
+
+---
+
+## The Standard Justifications—And Their Limits
+
+Why do we have all these doctrines limiting criminal law interpretation? The standard justifications are familiar:
+
+*Fair notice.* Citizens should know in advance what conduct is criminal so they can conform their behavior to the law. A woman charged as a common scold had no way to know what speech would trigger prosecution.
+
+*Legislative supremacy.* In a democracy, elected representatives—not unaccountable judges—should decide what conduct warrants criminal punishment. Common scold was never enacted by any American legislature.
+
+*Liberty.* Criminal punishment deprives individuals of freedom. Such deprivation should be deliberately authorized by the people's representatives, not improvised by courts or inherited from medieval England.
+
+These justifications are intuitively appealing, but they have significant limitations.
+
+The fair notice rationale assumes that potential offenders consult criminal statutes before acting. They rarely do. Did Anne Royall check whether "quarrelsome speech" was criminal before criticizing the Presbyterians? Did Marion Palendrano research New Jersey's reception of English common law before her altercation with Margaret Maguire? The notice rationale may be a useful legal fiction, but it describes few real-world decisions.
+
+The legislative supremacy rationale assumes that legislatures actually make criminal law. But modern criminal codes are often so broad that they delegate effective lawmaking to prosecutors. When a statute prohibits "disorderly conduct" or conduct presenting "serious potential risk of physical injury," the legislature has not defined what is criminal—it has authorized prosecutors to decide.
+
+The liberty rationale does not explain why we favor narrow interpretation rather than broad. Both interpretations implicate liberty: while broad readings may leave defendants with less liberty, narrow readings may do the same for victims. Why prefer one error over the other? 
+
+As you formulate your answer, consider the following case:
+
+## COMMONWEALTH v. ROBERTSON {#robertson .unnumbered .unlisted .case-title}
+
+*Supreme Judicial Court of Massachusetts, 2014*
+*5 N.E.3d 522*
+
+[The defendant was arrested for secretly photographing up the skirts of female passengers on the Boston subway using his cell phone camera—conduct known as "upskirting." He was charged under Massachusetts General Laws chapter 272, § 105(b), which prohibits secretly photographing "another person who is nude or partially nude."]
+
+At least for purposes of the motion to dismiss, the defendant does not contest that the conduct alleged by the Commonwealth in each complaint satisfies the first, third, and fifth of these elements [...]. He argues, however, that insofar as the Commonwealth's specific claim here is that his attempt was to photograph up the skirt of a clothed female passenger on the MBTA trolley, the charged conduct does not come within the scope of either the second or fourth element of the § 105 (b) offense because the female passenger was not "nude or partially nude."
+
+[...]
+
+Section 105(a) defines "[p]artially nude" as "the exposure of the human genitals, buttocks, pubic area or female breast below a point immediately above the top of the areola." [...] Just as "a person who is nude" is commonly understood to mean a person who is not wearing any clothes, so, in this context, we understand "a person who is . . . partially nude" to denote a person who is not wearing any clothes covering one or more of the parts of the body listed in the definition of that term. [...] A female passenger on a MBTA trolley who is wearing a skirt, dress, or the like covering these parts of her body is not a person who is "partially nude," no matter what is or is not underneath the skirt by way of underwear.
+
+[...]
+
+At the core of the Commonwealth's argument [...] is the proposition that a woman, and in particular a woman riding on a public trolley, has a reasonable expectation of privacy in not having a stranger secretly take photographs up her skirt. The proposition is eminently reasonable, but § 105(b) in its current form does not address it.
+
+::: {.callout-note}
+## Legislative Response
+
+The Massachusetts legislature amended § 105(b) within one year of *Robertson*. The new language specifically criminalizes photographing "the sexual or other intimate parts of a person under or around the person's clothing to view or attempt to view the person's sexual or other intimate parts when a reasonable person would believe that the person's sexual or other intimate parts would not be visible to the public."
+:::
+
+---
+
+## An Alternative Model: Asymmetric Error Correction
+
+Another justification for these doctrines focuses on what happens after judicial interpretation: the legislature's response. Consider two types of interpretive error:
+
+- *Under-inclusive interpretation:* Courts read statutes narrowly, and some harmful conduct goes unpunished that the legislature may have wanted to prohibit.
+
+- *Over-inclusive interpretation:* Courts read statutes broadly, and some innocent conduct is punished that the legislature may not have intended to criminalize.
+
+Both errors are problematic. But they are not equally likely to be corrected.
+
+When courts interpret narrowly and harmful conduct escapes punishment, legislatures face strong political incentives to respond. "Closing loopholes" is politically rewarding. Legislators can claim credit for being "tough on crime." Interest groups that favor criminalization—prosecutors, law enforcement, victims' advocates—mobilize to demand correction. The Massachusetts legislature amended its voyeurism statute within a year of *Robertson* holding that "upskirting" was not prohibited. Narrow interpretations that produce under-inclusion tend to be corrected.
+
+When courts interpret broadly and innocent conduct is punished, legislatures face weak incentives to respond. Going "soft on crime" is politically costly. Legislators who propose narrowing criminal statutes risk attack ads accusing them of coddling criminals. No politician wants to campaign on the slogan: "The courts are being a little too hard on criminals!" The constituencies that favor narrow interpretation—defense attorneys, civil libertarians—have less political power than those who favor broad interpretation.
+
+Over-inclusive interpretations tend to persist while under-inclusive interpretations are quickly corrected. This asymmetry, the argument goes, justifies courts erring on the side of narrow interpretation. If courts read statutes too narrowly, legislatures will likely correct the error. If courts read statutes too broadly, legislatures probably will not. Narrow interpretation minimizes persistent errors.
+
+Jeremy Bentham recognized this asymmetry nearly two centuries ago when discussing the calibration of punishment:
+
+> The greatest danger lies in an error on the minimum side, because in this case the punishment is inefficacious; but this error is least likely to occur, a slight degree of attention sufficing for its escape; and when it does exist, it is at the same time clear and manifest, and easy to be remedied. An error on the maximum side, on the contrary, is that to which legislators and men in general are naturally inclined: antipathy, or a want of compassion for individuals who are represented as dangerous and vile, pushes them onward to an undue severity. It is on this side, therefore, that we should take the most preparations, as on this side there has been shown the greatest disposition to err.
+
+Bentham's insight applies equally to statutory interpretation. Errors of under-inclusion—like errors of under-punishment—are "clear and manifest, and easy to be remedied." Errors of over-inclusion reflect what "legislators and men in general are naturally inclined" toward. On this reasoning, courts should take preparations "on this side."
+
+The asymmetric correction principle reframes the relationship between courts and legislatures. Courts are not merely deferring to legislative supremacy—they are collaborating with legislatures in an iterative process. The court interprets narrowly; if the legislature disagrees, it can say so. Each institution contributes its comparative advantage: courts provide case-by-case assessment of statutory language, while legislatures provide democratic legitimacy and the ability to prospectively define rules.
+
+The principle also reframes notice and liberty as instrumental rather than intrinsic values. Notice matters, on this view, because over-inclusive statutes are more likely to persist uncorrected—they create ongoing liberty deprivations that the political process will not remedy. Liberty matters because narrow interpretation produces errors that the system can fix, while broad interpretation produces errors that it cannot.
+
+::: {.callout-note}
+## Reform Commissions: A Legislative Response
+
+Legislatures sometimes recognize that criminal codes accumulate errors over time and create commissions to fix them. The results are mixed.
+
+*Success:* Illinois's CLEAR Commission (2004–2012) spent eight years rewriting a criminal code that had become "so tangled in knots that nearly all involved in the criminal justice system wanted to see it changed." The bipartisan effort—co-chaired by a former governor and appellate judge—reduced the code by one-third, eliminated redundant and unconstitutional provisions, and incorporated decades of case law.
+
+*Failure:* Washington, D.C.'s Criminal Code Reform Commission worked sixteen years to modernize statutes unchanged since 1901. Its recommendations passed the D.C. Council unanimously with 83% public support. But national politics intervened: Congress overturned the reforms 81–14, and President Biden signed the disapproval. Council Chairman Mendelson observed: "The message got out of our control."
+
+Why do you think some commissions succeed while others fail?
+:::
+
+Does this framework actually describe how courts and legislatures interact? The materials that follow examine two extended case studies. The first involves federal corruption law, where courts have repeatedly narrowed statutes and Congress has sometimes—but not always—responded. The second involves Georgia's private probation system, where constitutional protections established by courts were circumvented through legislative and institutional design. Both case studies illuminate the complexity of the court-legislature relationship and raise questions about whether the asymmetric correction model captures what actually happens.
+
+---
+
+## Case Study: The Narrowing of Federal Public Corruption Law
+
+### The Framework and Its First Test
+
+Federal prosecutors developed the mail and wire fraud statutes into powerful tools against public corruption. By the 1980s, courts across the country recognized that citizens had a right to the "honest services" of their public officials, and that officials who took bribes or engaged in self-dealing were defrauding the citizenry of that right.
+
+In *McNally v. United States* (1987), the Supreme Court narrowed this interpretation dramatically:
+
+## McNALLY v. UNITED STATES {#mcnally .unnumbered .unlisted .case-title}
+
+*Supreme Court of the United States, 1987*
+*483 U.S. 350*
+
+JUSTICE WHITE delivered the opinion of the Court.
+
+[The federal mail fraud statute prohibits using the mails to execute "any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises." Petitioners Gray, a former Kentucky official, and McNally were convicted of defrauding Kentucky citizens of their "intangible right" to honest government through a kickback scheme involving insurance commissions.]
+
+[...]
+
+As the Court long ago stated, the words "to defraud" commonly refer "to wronging one in his property rights by dishonest methods or schemes," and "usually signify the deprivation of something of value by trick, deceit, chicane, or overreaching." *Hammerschmidt v. United States*, 265 U.S. 182, 188 (1924). [...]
+
+We believe that Congress' intent in passing the mail fraud statute was to prevent the use of the mails in furtherance of such schemes. The Court has often stated that when there are two rational readings of a criminal statute, one harsher than the other, we are to choose the harsher only when Congress has spoken in clear and definite language. [...] As the Court said in a mail fraud case years ago: "There are no constructive offenses; and, before one can be punished, it must be shown that his case is plainly within the statute." *Fasulo v. United States*, 272 U.S. 620, 629 (1926). Rather than construe the statute in a manner that leaves its outer boundaries ambiguous and involves the Federal Government in setting standards of disclosure and good government for local and state officials, we read § 1341 as limited in scope to the protection of property rights. If Congress desires to go further, it must speak more clearly than it has.
+
+---
+
+Congress responded within eighteen months. The Anti-Drug Abuse Act of 1988 added a single sentence to the federal criminal code: "For the purposes of this chapter, the term 'scheme or artifice to defraud' includes a scheme or artifice to deprive another of the intangible right of honest services." Codified as 18 U.S.C. § 1346, this provision restored the honest services doctrine that *McNally* had eliminated.
+
+The asymmetric correction model appeared to work perfectly. Court narrowed; Congress corrected. The institutions collaborated to produce the outcome Congress wanted.
+
+### The Second Narrowing—And Legislative Failure
+
+In *Skilling v. United States* (2010), the Supreme Court narrowed again:
+
+## SKILLING v. UNITED STATES {#skilling .unnumbered .unlisted .case-title}
+
+*Supreme Court of the United States, 2010*
+*561 U.S. 358*
+
+JUSTICE GINSBURG delivered the opinion of the Court.
+
+[Jeffrey Skilling, Enron's former CEO, challenged his honest services fraud conviction on vagueness grounds.]
+
+Congress responded swiftly [to *McNally*]. The following year, it enacted a new statute "specifically to cover one of the 'intangible rights' that lower courts had protected ... prior to *McNally*." [...] Section 1346 provides: "For the purposes of this chapter, the term 'scheme or artifice to defraud' includes a scheme or artifice to deprive another of the intangible right of honest services."
+
+[...]
+
+Interpreted to encompass only bribery and kickback schemes, § 1346 is not unconstitutionally vague. Recall that the void-for-vagueness doctrine addresses concerns about (1) fair notice and (2) arbitrary and discriminatory prosecutions. A prohibition on fraudulently depriving another of one's honest services by accepting bribes or kickbacks does not present a problem on either score.
+
+[...]
+
+In proscribing fraudulent deprivations of "the intangible right of honest services," Congress intended at least to reach schemes to defraud involving bribes and kickbacks. Construing the honest-services statute to extend beyond that core meaning, we conclude, would encounter a vagueness shoal. We now hold that § 1346 criminalizes *only* the bribe-and-kickback core of the pre-*McNally* case law.
+
+Because Skilling's alleged misconduct entailed no bribe or kickback, it does not fall within § 1346's proscription.
+
+---
+
+This time, Congress did not respond. Senator Leahy introduced the Honest Services Restoration Act within three months of *Skilling*. The bill would have amended § 1346 to explicitly cover "undisclosed self-dealing by public officials." Bipartisan bills were introduced in subsequent Congresses. None became law.
+
+Why the different outcome? After *McNally*, prosecutors had a clear lobbying interest in restoration, the narrowing was complete (the doctrine was eliminated entirely), and no organized opposition emerged. After *Skilling*, the narrowing was partial (bribes and kickbacks remained covered), and civil liberties organizations argued that self-dealing provisions remained unconstitutionally vague. The political dynamics had shifted.
+
+### Continued Narrowing Without Correction
+
+The Supreme Court continued to narrow federal corruption law in subsequent decisions:
+
+- *McDonnell v. United States* (2016) held that arranging meetings, hosting events, and making calls on behalf of a benefactor did not constitute "official acts" under the bribery statute. Governor Bob McDonnell had received over $175,000 in gifts from a businessman while promoting the businessman's products to state officials. The Court unanimously reversed his conviction.
+
+- *Kelly v. United States* (2020) held that the "Bridgegate" scandal—closing bridge lanes as political retaliation—did not constitute wire fraud because the defendants did not seek to obtain "money or property." The conduct was "wrongdoing—deception, corruption, abuse of power," but not fraud.
+
+- *Ciminelli v. United States* (2023) rejected the "right to control" theory, holding that depriving a victim of "potentially valuable economic information" about rigged bidding did not constitute fraud.
+
+- *Snyder v. United States* (2024) held that the federal corruption statute covering state and local officials prohibits bribes (payments *before* official action) but not gratuities (payments *after* official action):
+
+## SNYDER v. UNITED STATES {#snyder .unnumbered .unlisted .case-title}
+
+*Supreme Court of the United States, 2024*
+*603 U.S. ___, 144 S. Ct. 1947*
+
+JUSTICE KAVANAUGH delivered the opinion of the Court.
+
+Federal and state law distinguish between two kinds of payments to public officials—bribes and gratuities. As a general matter, bribes are payments made or agreed to before an official act in order to influence the official with respect to that future official act. American law generally treats bribes as inherently corrupt and unlawful. But the law's treatment of gratuities is more nuanced. Gratuities are typically payments made to an official after an official act as a token of appreciation. Some gratuities can be problematic. Others are commonplace and might be innocuous. [...] The question in this case is whether § 666 also makes it a crime for state and local officials to accept gratuities—for example, gift cards, lunches, plaques, books, framed photos, or the like—that may be given as a token of appreciation after the official act. The answer is no.
+
+[...]
+
+[In 2013, Peterbilt sold five trash trucks to the City of Portage for about $1.1 million. In 2014, Peterbilt cut a $13,000 check to James Snyder, who was the mayor of Portage and had helped oversee the truck purchases. The Federal Government charged Snyder with violating § 666(a)(1)(B). A federal jury convicted Snyder, and he was sentenced to 1 year and 9 months in prison.]
+
+[...]
+
+Therefore, the dividing line between § 201(b)'s bribery provision and § 201(c)'s gratuities provision is most naturally understood as follows: Bribes are payments made or agreed to before an official act in order to influence the official with respect to that future official act. Gratuities are typically payments made to an official after an official act as a token of appreciation for the official act. The statutory text strongly suggests that § 666—like § 201(b)—is a bribery statute, not a gratuities statute.
+
+[...]
+
+Fifth is federalism. Interpreting § 666 as a gratuities statute rather than a bribery statute would significantly infringe on bedrock federalism principles. [...] States have the "prerogative to regulate the permissible scope of interactions between state officials and their constituents." [...] Reading § 666 to create a federal prohibition on gratuities would suddenly subject 19 million state and local officials to up to 10 years in federal prison for accepting even commonplace gratuities.
+
+---
+
+After each decision, legislation was introduced to restore the eliminated prosecution theory. After *Snyder*, bipartisan bills (the "No Gratuities for Governing Act") were introduced in both chambers. None has passed.
+
+### The Enforcement Gap
+
+The cumulative effect has been substantial. Federal prosecutions of state and local officials for public corruption declined 49 percent between 2003 and 2022. Transparency International's Corruption Perceptions Index score for the United States dropped from 76 (2015) to 65 (2024).
+
+Conduct that many would consider corrupt—officials receiving substantial payments from people seeking government action—now falls outside federal criminal law if it does not fit the narrow definitions the Court has established. Whether this represents appropriate limits on federal power or a troubling enforcement gap depends on one's view of federalism and the role of criminal law. What is clear is that the asymmetric correction model predicted Congress would respond to judicial narrowing. Congress has not.
+
+::: {.callout-note}
+## A Broader Context
+
+The narrowing of federal corruption law has occurred alongside other legal developments affecting corporate influence in government. *Citizens United v. FEC* (2010) held that restrictions on corporate political spending violate the First Amendment. Critics argue these developments create space for influence that stops short of criminal conduct but raises ethical concerns. Consider Purdue Pharma: the FDA official who approved OxyContin for "moderate to severe" rather than just "severe" pain—dramatically expanding the market—later joined Purdue with a $379,000 compensation package. Whether such conduct represents corruption, or merely legal career transitions, depends partly on how corruption is defined. The opioid epidemic has killed over 800,000 Americans, though causation is complex and contested.
+:::
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. The asymmetric correction model predicts that legislatures will correct under-inclusive judicial interpretations. Congress restored honest services fraud after *McNally* but not after *Skilling*. What explains the difference?
+
+2. Justice Kavanaugh's opinion in *Snyder* invoked "significant federalism concerns" as a reason to interpret federal corruption statutes narrowly. Is this a legitimate application of lenity, or does it ignore the reasons Congress enacted these statutes in the first place?
+
+3. If states are supposed to regulate their own officials' ethics, what happens when state enforcement mechanisms are compromised by the very corruption they should address?
+
+4. Does the 49 percent decline in federal corruption prosecutions suggest that the Court got the balance wrong? Or does it suggest that pre-*Skilling* enforcement was excessive?
+:::
+
+---
+
+## Case Study: Private Probation in Georgia
+
+### The Constitutional Protection
+
+## BEARDEN v. GEORGIA {#bearden .unnumbered .unlisted .case-title}
+
+*Supreme Court of the United States, 1983*
+*461 U.S. 660*
+
+JUSTICE O'CONNOR delivered the opinion of the Court.
+
+The question in this case is whether the Fourteenth Amendment prohibits a State from revoking an indigent defendant's probation for failure to pay a fine and restitution.
+
+Petitioner pleaded guilty in a Georgia trial court to burglary and theft by receiving stolen property. Pursuant to the Georgia First Offender's Act, the trial court did not enter a judgment of guilt, and sentenced petitioner to probation on the condition that he pay a $500 fine and $250 in restitution. The court ordered petitioner to pay $100 that day, another $100 the next day, and the $550 balance within four months.
+
+Petitioner borrowed money from his parents and paid the first $200. About a month later, however, petitioner was laid off from his job. Petitioner, who has only a ninth-grade education and cannot read, tried repeatedly to find other work but was unable to do so. The record indicates that petitioner had no income or assets during this period. [...] In response, the State filed a petition in the trial court to revoke petitioner's probation. After a hearing, the trial court revoked probation and sentenced petitioner to serve the remaining portion of the probationary period in prison.
+
+[...]
+
+This Court has long been sensitive to the treatment of indigents in our criminal justice system. [...] If a State determines a fine or restitution to be the appropriate and adequate penalty for the crime, it may not thereafter imprison a person solely because he lacked the resources to pay it.
+
+[...]
+
+We hold, therefore, that in revocation proceedings for failure to pay a fine or restitution, a sentencing court must inquire into the reasons for the failure to pay. If the probationer willfully refused to pay or failed to make sufficient bona fide efforts legally to acquire the resources to pay, the court may revoke probation and sentence the defendant to imprisonment. If the probationer could not pay despite sufficient bona fide efforts to acquire the resources to do so, the court must consider alternate measures of punishment other than imprisonment. Only if alternate measures are not adequate to meet the State's interests in punishment and deterrence may the court imprison a probationer who has made sufficient bona fide efforts to pay. To do otherwise would deprive the probationer of his conditional freedom simply because, through no fault of his own, he cannot pay the fine. Such a deprivation would be contrary to the fundamental fairness required by the Fourteenth Amendment.
+
+---
+
+*Bearden* appeared to close the door on debtors' prisons. Courts across the country cited it as establishing that no one could be jailed simply for being too poor to pay.
+
+### The Legislative Response
+
+Eight years later, the Georgia General Assembly enacted legislation authorizing local governments to contract with private companies to provide probation supervision services. The companies would supervise probationers, collect payments, and charge probationers monthly "supervision fees" for these services. The arrangement was called "offender-funded" probation: the probationers themselves would pay for their supervision.
+
+The legal architecture was designed to avoid *Bearden*'s constraints. The key move was categorical: supervision fees were not "fines." Fines were punishment for the offense; supervision fees were administrative costs of monitoring compliance. *Bearden* addressed what happens when defendants cannot pay fines. It did not directly address supervision fees.
+
+This distinction allowed the system to operate in the space *Bearden* appeared to have closed. Courts could place defendants on probation, assign them to private companies, and threaten incarceration for nonpayment of fees—without technically violating the principle that poverty cannot be criminalized. The fees were not fines. The system operated *around* the constitutional protection rather than through it.
+
+### The System in Practice
+
+By 2012, private probation companies operated in 648 Georgia courts—more than any other state. The state had the highest probation rate in the nation: approximately one in every 25 Georgia adults was on some form of probation. The majority of misdemeanor probationers were supervised by private companies.
+
+The human cost emerged through documented cases. Thomas Barrett, a homeless Army veteran, was convicted of stealing a $2 can of beer and fined $200. Unable to pay, he was placed on private probation with monthly supervision fees. When he failed to make payments, probation was extended and fees accumulated. By the time he was jailed, his debt had grown to over $1,000—five times the original fine.
+
+The problem extended beyond Georgia. In Alabama, Gina Ray's $179 speeding ticket mushroomed to over $3,000 in fines and fees after she was placed on private probation with $40 monthly supervision charges. Harriet Cleveland was arrested at home while babysitting her grandson—for unpaid traffic fines that had accumulated into thousands of dollars.
+
+The pattern was consistent: minor offense, inability to pay, assignment to private probation, accumulation of fees, failure to pay, arrest, incarceration. The constitutional protection *Bearden* established was formally preserved—courts still had to make ability-to-pay findings—but rendered meaningless in practice.
+
+### Legislative Reform
+
+In 2015, Georgia enacted House Bill 310, the most significant reform of private probation since the industry's creation. The bill:
+
+- Created the Department of Community Supervision to oversee probation services
+- Established a three-month cap on "pay-only" probation
+- Required courts to conduct ability-to-pay hearings before incarceration
+- Authorized conversion of unpaid fines to community service
+
+The legislation represented real reform. But it did not eliminate private probation. Companies could still contract with courts, charge supervision fees, and use the threat of incarceration to encourage payment. The fundamental structure remained.
+
+### Adaptation and Persistence
+
+Companies adapted. The three-month cap applied only to probation where payment was the sole condition. Courts began routinely imposing additional conditions—online classes, drug testing—which restarted the clock. A defendant whose only obligation was to pay money might still face extended supervision because of a nominal class requirement.
+
+Human Rights Watch documented that the fundamental problems persisted. Approximately 420,000 Georgians remain on probation—one of the highest rates in the country. More than 80 percent of misdemeanor probationers are supervised by private companies. Researchers estimate these companies extract approximately $40 million annually from probationers.
+
+The constitutional principle *Bearden* established remains formally intact. No court has overruled it. No legislature has repealed it. But the system it was supposed to constrain continues operating, through institutional adaptations that circumvent rather than comply with the constitutional mandate.
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. *Bearden* held that courts cannot jail people for inability to pay. Georgia's legislature responded by creating a system where private companies threaten incarceration to collect fees. Did the legislature violate *Bearden*, circumvent it, or comply with it?
+
+2. HB 310 was bipartisan reform legislation that addressed documented abuses. Yet the system persists largely unchanged. What does this suggest about the capacity of legislatures to correct problems in the criminal justice system?
+
+3. The asymmetric correction model assumes that legislatures respond to under-inclusive judicial interpretations. In Georgia, the legislature responded to *Bearden* by creating a system that operated around the constitutional protection. What does this suggest about the model's assumptions?
+
+4. Private probation companies adapted to HB 310 by ensuring that most probation included non-payment conditions, thereby avoiding the three-month cap. Does this adaptation represent compliance with the spirit of the reform, or circumvention of it?
+
+5. Sentinel Offender Services exited Georgia after HB 310 made its business model "financially no longer feasible to operate." The company pivoted to electronic monitoring in other states. Does this suggest reform worked, or that it merely displaced the problem?
+:::
+
+---
+
+## Synthesis: The Complexity of Institutional Relationships
+
+The case studies reveal that the relationship between courts and legislatures is more complex than any simple model captures.
+
+In the corruption cases, courts narrowed statutes and explicitly invited legislative correction. Congress responded quickly to *McNally* but not to subsequent narrowing. The asymmetric correction model worked once; then it didn't. The difference may reflect changes in political dynamics, the partial nature of later narrowing, or the influence of federalism framing that shifted responsibility to states.
+
+In the Georgia probation case, the Supreme Court established a constitutional protection, and the legislature responded—not by complying, but by designing a system that operated around the protection. When advocacy and litigation exposed abuses, the legislature reformed—but the reforms were circumvented through institutional adaptation. The branches interacted, but not in the way the asymmetric correction model describes.
+
+Several observations emerge:
+
+*Institutional design matters.* Constitutional protections and statutory interpretations can be circumvented through institutional arrangements that formally comply while substantively evading. The distinction between "fines" and "supervision fees" allowed Georgia to preserve *Bearden*'s form while undermining its substance.
+
+*Political incentives vary.* Legislatures respond readily to some under-inclusive interpretations (crime-of-the-week legislation) but not others (corruption law restoration). The strength of interested constituencies, the framing of the issue, and the political costs of action all influence whether correction occurs.
+
+*Federalism cuts both ways.* The Court has invoked federalism to narrow federal corruption statutes, suggesting states should regulate their own officials. But state enforcement mechanisms may be inadequate or compromised. Federal jurisdiction over state corruption emerged precisely because states could not or would not police themselves.
+
+*Reform may displace rather than solve.* When Georgia reformed private probation, the largest company exited—and pivoted to electronic monitoring in other states. The problem may move rather than disappear.
+
+These observations do not refute the asymmetric correction principle; they complicate it. Courts and legislatures do collaborate, and narrow interpretation does enable legislative response. But the collaboration is imperfect, the responses are inconsistent, and institutional actors adapt in ways that may undermine both judicial and legislative intentions.
+
+---
+
+## Return to the Common Scold & Politician Sold
+
+Consider again the hypothetical that opened this chapter. A prosecutor charges your client with being a "common scold" under D.C.'s common law reception statute. What arguments do you make?
+
+After reading these materials, you have many options: desuetude (195 years of nonenforcement), legality (no legislative enactment), vagueness (no definition of prohibited conduct), equal protection (offense applies only to women), and perhaps others. You understand the theoretical foundations—notice, liberty, legislative supremacy—and an alternative model rooted in asymmetric error correction.
+
+But you should also understand the complexity. Constitutional protections can be circumvented. Legislative responses are uneven. Institutional dynamics shape outcomes in ways that doctrine alone does not predict. A person can still be prosecuted for cussing in public in many jurisdictions, and many forms of conduct once prosecuted as corruption now fall outside federal law. Whether these patterns represent problems—and if so, what might address them—remains contested. 

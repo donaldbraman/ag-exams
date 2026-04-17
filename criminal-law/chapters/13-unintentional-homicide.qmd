@@ -1,0 +1,370 @@
+# Homicide: Unintentional Killing
+
+In contrast to voluntary manslaughter and the forms of murder we have studied so far, unintentional homicide involves killings that an actor causes neither knowingly nor purposefully. The criminal legal system's response to unintentional homicides ranges all the way from no liability to murder. This chapter addresses questions of gradation: Where should we place the divide between criminal and non-criminal liability? What separates involuntary manslaughter from murder? And what mental state should be sufficient for each grade of offense?
+
+## Involuntary Manslaughter: The Negligence-Recklessness Divide
+
+American jurisdictions are divided over what mental state should be required for involuntary manslaughter. The doctrine varies substantially across jurisdictions --- to the horror of law students everywhere. As you read the materials in this section, ask yourself what you believe the standard should be and whether you can describe that standard in a way that improves upon the muddled descriptions below.
+
+::: {.callout-note}
+## Model Penal Code Section 210.3 --- Manslaughter
+
+(1) Criminal homicide constitutes manslaughter when: (a) it is committed recklessly [...]
+:::
+
+::: {.callout-note}
+## Model Penal Code Section 210.4 --- Negligent Homicide
+
+(1) Criminal homicide constitutes negligent homicide when it is committed negligently.
+
+(2) Negligent homicide is a felony of the third degree.
+:::
+
+::: {.callout-note}
+## Model Penal Code Official Commentary, Comment to Section 2.02
+
+[Under traditional] statutes, as at common law, the concept of criminal negligence has been left to judicial definition, and the definitions vary greatly in their terms. As Jerome Hall has put it, the judicial "opinions run in terms of 'wanton and wilful negligence,' 'gross negligence,' and more illuminating yet, 'that degree of negligence that is more than the negligence required to impose tort liability.' The apex of this infelicity is 'wilful, wanton negligence,' which suggests a triple contradiction --- 'negligence' implying inadvertence; 'wilful,' intention; and 'wanton,' recklessness." Much of this confusion is dispelled by a clear-cut distinction between recklessness and negligence in terms of the actor's awareness of the risk involved.
+:::
+
+The MPC attempts to clarify the distinction. Under Section 2.02(2)(c), *recklessness* requires that the defendant "consciously disregards a substantial and unjustifiable risk." Under Section 2.02(2)(d), *negligence* requires only that the defendant "should be aware of a substantial and unjustifiable risk" --- whether or not they actually were aware. The key dividing line, then, is whether the defendant was actually conscious of the risk: recklessness requires subjective awareness; negligence does not.
+
+This matters because the MPC reserves *manslaughter* for reckless killings and creates the lesser offense of *negligent homicide* for killings caused by gross negligence without subjective awareness. But as we shall see, many jurisdictions blur this line, sometimes treating defendants as "reckless" even when they lacked actual awareness of risk.
+
+### A. The Question of Mere Negligence
+
+Most jurisdictions require more than "mere" or "ordinary" negligence to support a conviction for involuntary manslaughter. The negligence must be "gross," "criminal," or "culpable." But what do these adjectives mean?
+
+::: {.callout-note}
+## Florida Standard Jury Instructions in Criminal Cases (1998)
+
+MANSLAUGHTER
+
+Before you can find the defendant guilty of Manslaughter, the State must prove the following two elements beyond a reasonable doubt:
+
+1. (Victim) is dead. [...]
+
+2. c. The death of (victim) was caused by the culpable negligence of (defendant). [...]
+
+I will now define "culpable negligence" for you. Each of us has a duty to act reasonably toward others. If there is a violation of that duty, without any conscious intention to harm, that violation is negligence. But culpable negligence is more than a failure to use ordinary care toward others. In order for negligence to be culpable, it must be gross and flagrant. Culpable negligence is a course of conduct showing reckless disregard of human life, or of the safety of persons exposed to its dangerous effects, or such an entire want of care as to raise a presumption of a conscious indifference to consequences, or which shows wantonness or recklessness, or a grossly careless disregard of the safety and welfare of the public, or such an indifference to the rights of others as is equivalent to an intentional violation of such rights.
+:::
+
+Note how the instruction piles up adjectives --- "gross and flagrant," "reckless disregard," "conscious indifference," "wantonness" --- without providing a clear standard. In practice, this obscurity delegates the decision to the jury. The jury decides what types of carelessness are sufficiently serious to be treated as "criminal," furnishing an up-to-date report on the community's morality with respect to risk generation that can lead to death.
+
+### B. Two Perspectives on Criminal Negligence
+
+Why might we punish people for negligent conduct at all? Consider two contrasting perspectives:
+
+::: {.callout-note}
+## Clarence Thomas, "Crime and Punishment --- and Personal Responsibility"
+*The National Times, August/September 1994*
+
+Punishment is an expression of society's disapproval or reprobation, a way of directing society's moral indignation toward persons responsible for violating its rules. [...]
+
+A system that does not hold individuals accountable treats them as less than full citizens. In such a world, people are reduced to the status of children or, even worse, treated as though they were animals without a soul. [...]
+
+Minorities and the poor are human beings --- capable of dignity as well as shame, folly as well as success. We should be treated as such.
+:::
+
+::: {.callout-note}
+## Kyron Huigens, "Virtue and Criminal Negligence"
+*1 Buffalo Criminal Law Review 431, 439, 447, 450-55 (1998)*
+
+If a coherent theoretical rationale for punishment in the absence of a consciousness of harm is precluded by the Model Penal Code's dominant mental-state conception of culpability, then the solution to the "problem" of criminal negligence and similar instances of inculpation is fairly obvious. It is to recognize that criminal culpability often can be represented by mental states, but is not identical to any mental state. That is, culpability itself is not a mental posture toward harm, and a person's being unaware of the harm she does is not inconsistent with the justice of others' blaming and punishing that person for causing harm. [...]
+
+Character is the quality of the agent's practical judgment, as indicated by her governing conception of the good and the life-plan implied by that conception. Under such a broad conception of rational agency, if I do wrong inadvertently but do not regret it, then that wrong intelligibly can be described as being of me, or from me. Because the wrongdoing is attributable to my character, I am responsible, even if I was not conscious of the wrong when I committed it.
+:::
+
+The character-based view suggests that we can properly blame and punish people for negligent acts because such acts reveal something about who they are --- their values, their concern (or lack thereof) for others. But this raises a difficult question: What if someone's failure to perceive a risk stems not from bad values but from disadvantage, lack of education, or circumstances beyond their control?
+
+---
+
+## STATE v. WILLIAMS {#state-v-williams .unnumbered .unlisted .case-title}
+
+*484 P.2d 1167 (Wash. Ct. App. 1971)*
+
+HOROWITZ, C.J. Defendants, husband and wife, were charged by information filed October 3, 1968, with the crime of manslaughter for negligently failing to supply their 17-month child with necessary medical attention, as a result of which he died on September 12, 1968. Upon entry of findings, conclusions and judgment of guilty, sentences were imposed on April 22, 1969. Defendants appeal.
+
+The defendant husband, Walter Williams, is a 24-year-old full-blooded Sheshont [*sic*] Indian with a sixth-grade education. His sole occupation is that of laborer. The defendant wife, Bernice Williams, is a 20-year-old part Indian with an 11th grade education. At the time of the marriage, the wife had two children, the younger of whom was a 14-month son. Both parents worked and the children were cared for by the 85-year-old mother of the defendant husband. The defendant husband assumed parental responsibility with the defendant wife to provide clothing, care and medical attention for the child. Both defendants possessed a great deal of love and affection for the defendant wife's young son.
+
+The court expressly found:
+
+> That both defendants were aware that William Joseph Tabafunda was ill during the period September 1, 1968 to September 12, 1968. The defendants were ignorant. They did not realize how sick the baby was. They thought that the baby had a toothache and no layman regards a toothache as dangerous to life. They loved the baby and gave it aspirin in hopes of improving its condition. They did not take the baby to a doctor because of fear that the Welfare Department would take the baby away from them. They knew that medical help was available because of previous experience. They had no excuse that the law will recognize for not taking the baby to a doctor.
+
+[...]
+
+On the question of the quality or seriousness of breach of the duty, at common law, in the case of involuntary manslaughter, the breach had to amount to more than mere ordinary or simple negligence --- gross negligence was essential. [...] In Washington, however, [state statutes] supersede both voluntary and involuntary manslaughter as those crimes were defined at common law. Under these statutes the crime is deemed committed even though the death of the victim is the proximate result of only simple or ordinary negligence. [...]
+
+The concept of simple or ordinary negligence describes a failure to exercise the "ordinary caution" necessary to make out the defense of excusable homicide. Ordinary caution is the kind of caution that a man of reasonable prudence would exercise under the same or similar conditions. If, therefore, the conduct of a defendant, regardless of his ignorance, good intentions and good faith, fails to measure up to the conduct required of a man of reasonable prudence, he is guilty of ordinary negligence because of his failure to use "ordinary caution." [...]
+
+[...] Dr. Gale Wilson, the autopsy surgeon and chief pathologist for the King County Coroner, testified that the child died because an abscessed tooth had been allowed to develop into an infection of the mouth and cheeks, eventually becoming gangrenous. This condition, accompanied by the child's inability to eat, brought about malnutrition, lowering the child's resistance and eventually producing pneumonia, causing the death. Dr. Wilson testified that in his opinion the infection had lasted for approximately 2 weeks, and that the odor generally associated with gangrene would have been present for approximately 10 days before death. He also expressed the opinion that had medical care been first obtained in the last week before the baby's death, such care would have been obtained too late to have saved the baby's life. Accordingly, the baby's apparent condition between September 1 and September 5, 1968 became the critical period for the purpose of determining whether in the exercise of ordinary caution defendants should have provided medical care for the minor child.
+
+The testimony concerning the child's apparent condition during the critical period is not crystal clear, but is sufficient to warrant the following statement of the matter. The defendant husband testified that he noticed the baby was sick about 2 weeks before the baby died. The defendant wife testified that she noticed the baby was ill about a week and a half or 2 weeks before the baby died. The evidence showed that in the critical period the baby was fussy; that he could not keep his food down; and that a cheek started swelling up. The swelling went up and down, but did not disappear. In that same period, the cheek turned "a bluish color like." The defendants, not realizing that the baby was as ill as it was or that the baby was in danger of dying, attempted to provide some relief to the baby by giving the baby aspirin during the critical period and continued to do so until the night before the baby died. The defendants thought the swelling would go down and were waiting for it to do so; and defendant husband testified, that from what he had heard, neither doctors nor dentists pull out a tooth "when it's all swollen up like that." There was an additional explanation for not calling a doctor given by each defendant. Defendant husband testified that "the way the cheek looked, [...] and that stuff on his hair, they would think we were neglecting him and take him away from us and not give him back." Defendant wife testified that the defendants were "waiting for the swelling to go down," and also that they were afraid to take the child to a doctor for fear that the doctor would report them to the welfare department, who, in turn, would take the child away. "It's just that I was so scared of losing him." They testified that they had heard that the defendant husband's cousin lost a child that way. The evidence showed that the defendants did not understand the significance or seriousness of the baby's symptoms. However, there is no evidence that the defendants were physically or financially unable to obtain a doctor, or that they did not know an available doctor, or that the symptoms did not continue to be a matter of concern during the critical period. Indeed, the evidence shows that in April 1968 defendant husband had taken the child to a doctor for medical attention.
+
+In our opinion, there is sufficient evidence from which the court could find, as it necessarily did, that applying the standard of ordinary caution, i.e., the caution exercisable by a man of reasonable prudence under the same or similar conditions, defendants were sufficiently put on notice concerning the symptoms of the baby's illness and lack of improvement in the baby's apparent condition in the period from September 1 to September 5, 1968 to have required them to have obtained medical care for the child. The failure so to do in this case is ordinary or simple negligence, and such negligence is sufficient to support a conviction of statutory manslaughter. The judgment is affirmed.
+
+### Note: "It's Just That I Was So Scared of Losing Him"
+
+Both Williams defendants testified that they avoided seeking medical care in part because they feared the welfare department would take their child. The defendant wife's words --- "It's just that I was so scared of losing him" --- might seem irrational to readers unfamiliar with the history of government removal of Native children from their families. That history is central to understanding this case.
+
+Beginning in the 1870s, the federal government established a system of off-reservation boarding schools designed to assimilate Native American children by separating them from their families, languages, and cultures. Lieutenant Richard Henry Pratt, who founded the Carlisle Indian Industrial School in 1879, described the policy's goal as "Kill the Indian in him, and save the man." By 1926, nearly 83% of Indian school-age children were enrolled in such institutions. The National Native American Boarding School Healing Coalition has documented more than 520 boarding schools that operated across the United States.
+
+The boarding school era gave way to a new form of removal. In 1958, the Bureau of Indian Affairs contracted with the Child Welfare League of America to administer the Indian Adoption Project, which placed Native children with non-Native families. By the late 1960s and early 1970s --- precisely when the Williams case arose --- between 25% and 35% of all Native children had been separated from their families and placed in foster care, adoptive homes, or institutions. In most cases, the justification was the protection of the children. Approximately 85% of these children were placed with non-Native families or in non-Native institutions.
+
+Congress responded by enacting the Indian Child Welfare Act (ICWA) in 1978, finding that "an alarmingly high percentage of Indian families are broken up by the removal, often unwarranted, of their children from them by nontribal public and private agencies and that an alarmingly high percentage of such children are placed in non-Indian foster and adoptive homes and institutions." But ICWA came a decade too late for the Williams family.
+
+The Williams parents' fear of the welfare system reflected an awareness that government agencies had been removing Native children from their families for nearly a century. That context may not answer the legal question of whether their failure to seek medical care constituted negligence, but does it --- and should it --- bear on how we evaluate their culpability?
+
+### Note: Washington's Statutory Reform
+
+The manslaughter statute applied in *Williams* was unusual even in its own time. Most jurisdictions required at least "gross" or "criminal" negligence for involuntary manslaughter; Washington was one of the few states that permitted conviction on ordinary negligence alone. Washington itself subsequently abandoned this approach. The state's current manslaughter statute divides the offense into two degrees: first-degree manslaughter requires recklessness, and second-degree manslaughter requires criminal negligence --- defined, consistent with the MPC, as a "gross deviation from the standard of care that a reasonable person would exercise in the same situation." No state today permits a manslaughter conviction based on mere ordinary negligence.
+
+::: {.callout-tip}
+
+## Discussion Questions
+
+1. The manslaughter statute applied in *Williams* required only "ordinary" negligence. Would the result have been different had the standard been "gross negligence"? "Recklessness"?
+2. If the defendants were genuinely ignorant of the risk that their baby's untreated medical condition posed to his life, would such ignorance reflect insufficient concern for the child's well-being?
+3. Does it help to know that surveys conducted in 1969 and in 1974 reported that approximately 25-35% of all Indian children were separated from their families and placed in adoptive homes, foster homes, or institutions? Does it matter that, in most cases, the justification for removing children from their families was the protection of the children themselves?
+4. How would Justice Thomas and Professor Huigens likely evaluate the defendants' culpability in this case? Would they agree? If not, why might they differ?
+:::
+
+---
+
+## COMMONWEALTH v. WELANSKY {#commonwealth-v-welansky .unnumbered .unlisted .case-title}
+
+*55 N.E.2d 902 (Mass. 1944)*
+
+LUMMUS, J. On November 28, 1942, and for about nine years before that day, a corporation named New Cocoanut Grove, Inc., maintained and operated a "night club" in Boston. [...] The corporation, its officers and employees, and its business, were completely dominated by the defendant Barnett Welansky. [...]
+
+The defendant was accustomed to spend his evenings at the night club, inspecting the premises and superintending the business. On November 16, 1942, he became suddenly ill, and was carried to a hospital, where he was in bed for three weeks and remained until discharged on December 11, 1942. [...] There is no evidence of any act, omission or condition at the night club on November 28, 1942 (apart from the lighting of a match hereinafter described), that was not within the usual and regular practice during the time before the defendant was taken ill when he was at the night club nearly every evening. [...]
+
+[The court describes the nightclub's physical layout in detail, emphasizing its single public exit through a revolving door, numerous emergency exits that were either locked or barred, and the complex, maze-like passages that would have made escape difficult for anyone unfamiliar with the premises.]
+
+We now come to the story of the fire. A little after ten o'clock on the evening of Saturday, November 28, 1942, the night club was well filled with a crowd of patrons. It was during the busiest season of the year. An important football game in the afternoon had attracted many visitors to Boston. [T]here were from two hundred fifty to four hundred persons in the Melody Lounge, from four hundred to five hundred in the main dining room and the Caricature Bar, and two hundred fifty in the Cocktail Lounge. [...]
+
+A bartender in the Melody Lounge noticed that an electric light bulb which was in or near the cocoanut husks of an artificial palm tree in the corner had been turned off and that the corner was dark. He directed a sixteen year old bar boy who was waiting on customers at the tables to cause the bulb to be lighted. [The bar boy lit a match to see the bulb, turned the bulb in its socket to light it, and blew out the match. The flame of the match ignited a palm tree, which in turn ignited a low cloth ceiling nearby.] The fire spread with great rapidity. [...] The crowd were panic stricken, and rushed and pushed in every direction through the night club, screaming, and overturning tables and chairs in their attempts to escape.
+
+The door at the head of the Melody Lounge stairway was not opened until firemen broke it down from outside with an axe and found it locked by a key lock, so that the panic bar could not operate. [...] Some employees, and a great number of patrons, died in the fire. [...]
+
+The defendant was [charged with and] found guilty [of numerous counts of involuntary manslaughter, and was sentenced] upon each count for a term of not less than twelve years and not more than fifteen years, the first day of said term to be in solitary confinement and the residue at hard labor, the sentences to run concurrently. [...]
+
+The Commonwealth disclaimed any contention that the defendant intentionally killed or injured the persons named in the indictments as victims. It based its case on involuntary manslaughter through wanton or reckless conduct. The judge instructed the jury correctly with respect to the nature of such conduct.
+
+Usually wanton or reckless conduct consists of an affirmative act, like driving an automobile or discharging a firearm, in disregard of probable harmful consequences to another. But where, as in the present case, there is a duty of care for the safety of business visitors invited to premises which the defendant controls, wanton or reckless conduct may consist of intentional failure to take such care in disregard of the probable harmful consequences to them or of their right to care.
+
+To define wanton or reckless conduct so as to distinguish it clearly from negligence and gross negligence is not easy. Sometimes the word "wilful" is prefaced to the words "wanton" and "reckless" in expressing the concept. That only blurs it. Wilful means intentional. In the phrase "wilful, wanton or reckless conduct," if "wilful" modifies "conduct" it introduces something different from wanton or reckless conduct, even though the legal result is the same. Wilfully causing harm is a wrong, but a different wrong from wantonly or recklessly causing harm. If "wilful" modifies "wanton or reckless conduct" its use is accurate. What must be intended is the conduct, not the resulting harm. The words "wanton" and "reckless" are practically synonymous in this connection, although the word "wanton" may contain a suggestion of arrogance or insolence or heartlessness that is lacking in the word "reckless." But intentional conduct to which either word applies is followed by the same legal consequences as though both words applied.
+
+The standard of wanton or reckless conduct is at once subjective and objective, as has been recognized ever since *Commonwealth v. Pierce*, 138 Mass. 165, 52 Am. Rep. 264. Knowing facts that would cause a reasonable man to know the danger is equivalent to knowing the danger. [...] The judge charged the jury correctly when he said, "To constitute wanton or reckless conduct, as distinguished from mere negligence, grave danger to others must have been apparent, and the defendant must have chosen to run the risk rather than alter his conduct so as to avoid the act or omission which caused the harm. If the grave danger was in fact realized by the defendant, his subsequent voluntary act or omission which caused the harm amounts to wanton or reckless conduct, no matter whether the ordinary man would have realized the gravity of the danger or not. But even if a particular defendant is so stupid [or] so heedless [...] that in fact he did not realize the grave danger, he cannot escape the imputation of wanton or reckless conduct in his dangerous act or omission, if an ordinary normal man under the same circumstances would have realized the gravity of the danger. A man may be reckless within the meaning of the law although he himself thought he was careful."
+
+The essence of wanton or reckless conduct is intentional conduct, by way either of commission or of omission where there is a duty to act, which conduct involves a high degree of likelihood that substantial harm will result to another. Wanton or reckless conduct amounts to what has been variously described as indifference to or disregard of probable consequences to that other. [...]
+
+The words "wanton" and "reckless" are thus not merely rhetorical or vituperative expressions used instead of negligent or grossly negligent. They express a difference in the degree of risk and in the voluntary taking of risk so marked, as compared with negligence, as to amount substantially and in the eyes of the law to a difference in kind. [...]
+
+Notwithstanding language used commonly in earlier cases, and occasionally in later ones, it is now clear in this Commonwealth that at common law conduct does not become criminal until it passes the borders of negligence and gross negligence and enters into the domain of wanton or reckless conduct. There is in Massachusetts at common law no such thing as "criminal negligence." [...]
+
+To convict the defendant of manslaughter, the Commonwealth was not required to prove that he caused the fire by some wanton or reckless conduct. Fire in a place of public resort is an ever present danger. It was enough to prove that death resulted from his wanton or reckless disregard of the safety of patrons in the event of fire from any cause.
+
+[A]ffirmed.
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. What is the difference between "gross negligence" and "recklessness"? Is Judge Lummus's conception of "recklessness" consistent with MPC Section 2.02(2)(c)?
+2. Is there any evidence that Welansky was *not* conscious of the risk to which he was exposing his patrons? If we assume that Welansky didn't contemplate the risk of patrons dying from fire when he instructed the wait staff to keep the club's emergency exits locked, would it be inappropriate to punish him criminally for the patrons' deaths? Are Welansky's reasons for keeping the doors locked relevant?
+3. Compare *Welansky* and *Williams*. Both defendants were convicted of manslaughter based on negligence standards. Both claimed they were unaware of the deadly risk. Are they equally culpable? Should they receive the same punishment?
+:::
+
+### Application: When Medical Mistakes Become Crimes
+
+Tennessee follows the MPC approach, creating a separate offense of criminally negligent homicide for cases where the defendant "ought to be aware" of a substantial and unjustifiable risk but is not. The following case tests the boundaries of that offense.
+
+::: {.callout-note}
+## In the News: The RaDonda Vaught Case
+
+RaDonda Vaught, a former Tennessee nurse convicted of two felonies for a fatal drug error, whose trial became a rallying cry for nurses fearful of the criminalization of medical mistakes, will not be required to spend any time in prison.
+
+Davidson County criminal court Judge Jennifer Smith on Friday granted Vaught a judicial diversion, which means her conviction will be expunged if she completes a three-year probation.
+
+Vaught, 38, was convicted in March of criminally negligent homicide and gross neglect of an impaired adult for the 2017 death of 75-year-old patient Charlene Murphey. Murphey was prescribed Versed, a sedative, but Vaught inadvertently gave her a fatal dose of vecuronium, a powerful paralyzer.
+
+Vaught's case stands out because medical errors --- even deadly ones --- are generally within the purview of state medical boards, and lawsuits are almost never prosecuted in criminal court. [...]
+
+Vaught admitted her error after the mix-up was discovered, and her defense largely focused on arguments that an honest mistake should not constitute a crime. [...]
+
+"I have lost far more than just my nursing license and my career. I will never be the same person," Vaught said. [...] "When Ms. Murphey died, a part of me died with her."
+
+[...] Prosecutors also argued at trial that Vaught circumvented safeguards by switching the hospital's computerized medication cabinet into "override" mode, which made it possible to withdraw medications not prescribed to Murphey, including vecuronium. Other nurses and nursing experts have told KHN that overrides are routinely used in many hospitals to access medication quickly. [...]
+
+Vaught's prosecution drew condemnation from nursing and medical organizations that said the case's dangerous precedent would worsen the nursing shortage and make nurses less forthcoming about mistakes.
+
+*Source: Brett Kelman, KFF Health News / NPR, May 13, 2022*
+:::
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. Was Vaught's conduct "reckless" within the meaning of criminal law? Did she "consciously disregard" a substantial risk, or was she merely negligent --- unaware of the risk a reasonable person would have perceived? Note that she was convicted of *criminally negligent homicide*, not manslaughter --- does that distinction matter?
+2. How does Vaught's case compare to *Williams*? Both defendants failed to perceive a deadly risk and caused death. Both claimed to have acted in good faith. Are they equally culpable? Would the Williams parents have been better served by Tennessee's MPC-style statute than by Washington's ordinary negligence standard? If so, why or why not?
+3. Nursing and medical organizations argue that criminalizing medical errors "creates a culture of fear" that discourages reporting of mistakes. How should the criminal legal system balance the goals of punishment and system improvement?
+:::
+
+---
+
+## Unintentional Murder: The "Depraved Heart"
+
+Some unintentional killings are so egregious that they rise to the level of murder. The common law spoke of a "depraved and malignant heart"; the Model Penal Code speaks of recklessness "manifesting extreme indifference to the value of human life." Either way, the key question is: what distinguishes "mere" recklessness (manslaughter) from the extreme recklessness that constitutes murder?
+
+::: {.callout-note}
+## Model Penal Code Section 210.2 --- Murder
+
+(1) [C]riminal homicide constitutes murder when: [...]
+
+(b) it is committed recklessly under circumstances manifesting extreme indifference to the value of human life.
+:::
+
+::: {.callout-note}
+## Model Penal Code Official Commentaries, Comment to Section 210.2 at 21-22 (1980)
+
+Recklessness, as defined in Section 2.02(2)(c), presupposes an awareness of the creation of substantial homicidal risk, a risk too great to be deemed justifiable by any valid purpose that the actor's conduct serves. Since risk, however, is a matter of degree and the motives for risk creation may be infinite in variation, some formula is needed to identify the case [1] where recklessness may be found and [2] where it should be assimilated to purpose or knowledge for purposes of grading. [...]
+
+Whether recklessness is so extreme that it demonstrates similar indifference is not a question, it is submitted, that can be further clarified. It must be left directly to the trier of fact under instructions which make it clear that recklessness that can fairly be assimilated to purpose or knowledge should be treated as murder and that less extreme recklessness should be punished as manslaughter.
+:::
+
+### Why Delegate to the Finder of Fact?
+
+The MPC delegates both causation and gradations of homicide to the finder of fact. Why does the MPC leave so much discretion to the jury? Consider what the historian Emma Southon has to say about murder:
+
+::: {.callout-note}
+## Emma Southon, *A Fatal Thing Happened on the Way to the Forum: Murder in Ancient Rome* (2021)
+
+The only black-and-white part of a murder is the bit where one person killed another, and that's actually the homicide bit. Homicide is clear cut, but murder is a label we apply to some forms of homicide, and that label changes over time and across space. What is clearly murder in one state is manslaughter in another; what is legal homicide to one person is obviously murder to another. Murder is the interpretation of an event, interpreted by individual people, which makes murder an emotive label, no matter how much legalese it is couched in. It is not a binary category. It is not a single or simple descriptor. Murder is complicated. [...] Rightness and wrongness are products of social space, where gender, status, race, location, means, time, wealth and infinite other variables shift and move and come together to create rightness and wrongness that are never static.
+:::
+
+If murder is an interpretation shaped by social context, does the MPC's decision to delegate gradation to the jury make institutional sense? Recall *People v. Warner-Lambert Co.* from Chapter 8, in which six workers were killed in a factory explosion caused by ambient magnesium stearate dust. The New York Court of Appeals dismissed the indictment on causation grounds: because the specific ignition mechanism was neither foreseen nor foreseeable, the court held that the causal chain was too speculative to support criminal liability.
+
+Under the MPC, *both* the causation question *and* the gradation question would fall to the finder of fact. Section 2.03's causation standard asks whether the result was "too remote or accidental to have a just bearing on the actor's liability or on the gravity of his offense" --- a question for the jury, not the judge. And as the commentary to Section 210.2 makes clear, the question of whether recklessness rises to the level of "extreme indifference" is likewise "left directly to the trier of fact."
+
+This means that under the MPC, the *Warner-Lambert* defendants would have faced a jury on two questions: Did their conduct cause the workers' deaths? And if so, did their awareness of the "broad, undifferentiated risk of an explosion" --- combined with their failure to address it --- amount to the ordinary recklessness of manslaughter or to the extreme recklessness evidencing a disregard for the value of human life that constitutes murder? A judge decided *Warner-Lambert* never reached a jury. The MPC's design would have ensured that it did and that the jury decided what grade of homicide would obtain.
+
+When judges dismiss cases on causation or sufficiency grounds, they remove the community's voice from precisely the cases where it may be most needed: cases involving powerful institutional actors whose risk-creating conduct caused death. Whether that judicial gatekeeping is a necessary check on prosecutorial overreach or an obstacle to accountability is a question worth keeping in mind as you read the cases that follow.
+
+---
+
+## BECKWITT v. STATE {#beckwitt-v-state-unintentional .unnumbered .unlisted .case-title}
+
+*477 Md. 398, 270 A.3d 307 (2022)*
+
+WATTS, J.:
+
+This case involves the tragic death of twenty-one-year-old Askia Khafra, who died in a fire while trying in vain to escape from the reprehensible conditions of his workplace in the basement of his employer Daniel Beckwitt's home. Following a trial in the Circuit Court for Montgomery County, a jury found Beckwitt guilty of second-degree depraved heart murder and involuntary manslaughter. The circuit court sentenced Beckwitt to twenty-one years' imprisonment, suspending all but nine years [...] for second-degree depraved heart murder, and merged the conviction for involuntary manslaughter for sentencing. Beckwitt appealed, and the Court of Special Appeals held that the evidence was sufficient to support the conviction for gross negligence involuntary manslaughter but insufficient to support the conviction for depraved heart murder. [...] We granted both the petition and conditional cross-petition.
+
+### Background
+
+Khafra envisioned Equity Shark as streamlining the process for average people to invest in "starter companies" or small businesses [...]. Khafra pitched his business idea to [Beckwitt] [...] [Beckwitt] invested approximately $10,000 for a 5% stake in Equity Shark. [...] Unfortunately, Equity Shark never took off as planned [...].
+
+In order to repay [Beckwitt]'s $10,000 investment, Khafra agreed to dig tunnels underneath [Beckwitt]'s house. [Beckwitt] had been building tunnels and an underground bunker beneath his home because he apparently feared a nuclear war with North Korea.
+
+Khafra was not the first person to dig tunnels for [Beckwitt]. Douglas Hart [...] dug tunnels on several occasions from approximately October 2016 to April 2017. Logistically, Hart would drive his car to Maryland, meet [Beckwitt] at a McDonald's, and then [Beckwitt] would require Hart to wear sunglasses with duct tape on them to obscure Hart's vision while [Beckwitt] drove the two to [Beckwitt]'s home. [...] When Hart visited [Beckwitt] to dig tunnels, he typically stayed in the tunnels and basement area for approximately a month at a time and understood that he was not allowed into the rest of the house. Hart indicated that he was physically incapable of leaving the basement/tunnel area, and that although there was a door from the basement leading directly to the outside, that door was kept locked and [Beckwitt] always had the key. [...]
+
+In early 2017, Khafra began digging tunnels at [Beckwitt]'s home for $150 a day. [Beckwitt] typically picked Khafra up at Khafra's parents' house in the early morning hours, around 3:00 a.m., and like Hart, required Khafra to be blindfolded during the trip to [Beckwitt]'s house. [...] Khafra would dig underneath [Beckwitt]'s home approximately once a month to every two months, and would stay anywhere from a few days to a few weeks at a time. [...] Rather than take showers, Khafra cleaned himself using disposable wipes. To relieve himself, Khafra would urinate and defecate in a bucket he kept in the tunnels. Every few days, Khafra and [Beckwitt] used a winch system to haul the bucket from the basement to the first floor, where [Beckwitt] himself would dispose of its contents [...]. Because [Beckwitt] did not own a phone, Khafra could only communicate with [Beckwitt] from the basement and tunnels using Google apps [...]. [Beckwitt] used numerous extension cords and power strips to provide electricity to the tunnels. In his interviews with police, [Beckwitt] intimated his familiarity with the failing power cords and having to reset the circuit breaker.
+
+On September 3, 2017, Khafra went to [Beckwitt]'s home to resume work in the tunnels. A week later, while digging in the tunnels on September 10 at 2:32 a.m., Khafra messaged [Beckwitt] using Google Hangouts, stating "holy [s\*\*t] bro there's no power down here." Approximately five minutes later, at 2:37 a.m., Khafra indicated that there was smoke in the basement. At 2:51 a.m., Khafra wrote again, stating that he no longer believed there was smoke in the basement, but that the lights had gone out and it was "pitch black down [there]" with no airflow. Khafra's message asked [Beckwitt] to "please try to fix when you see this."
+
+[Beckwitt] did not see Khafra's messages until he woke up at approximately 9 a.m. At 9:27 a.m., [Beckwitt] wrote to Khafra that there had been a "pretty major electrical failure" and that [Beckwitt] was switching the power over to a different circuit. [Beckwitt] then went back to sleep, and awoke at approximately 3 p.m. [Beckwitt] went downstairs [...] and at around 4 p.m., he heard a beeping sound coming from the carbon monoxide detector [...]. [Beckwitt] waited approximately twenty to thirty minutes, believing that the circuit breaker would reset itself. When the power failed to return, [Beckwitt] went to the basement to manually reset the breaker. [Beckwitt] did not see Khafra while in the basement resetting the breaker.
+
+On his way up the stairs from the basement to the first floor, [Beckwitt] heard an explosion [...]. [Beckwitt] promptly headed back to the basement to tell Khafra that there was a fire, and that Khafra needed to get out. [Beckwitt] heard Khafra yell "yo dude," but he could not see him through all of the smoke. Fearing that he would not be able to take the basement stairs to the first floor, [Beckwitt] exited the basement by unlocking the basement door that led directly to the outside. [...] [Beckwitt]'s neighbors called 9-1-1.
+
+Firefighters [...] struggled to navigate through [Beckwitt]'s home to extinguish the fire, however, because, as [Beckwitt] concedes, "[t]he home by all accounts was a hoarder's home." Put simply, [Beckwitt]'s home was filled with an extreme amount of debris, trash, and other objects that made navigation difficult. In fact, it took firefighters approximately a minute and a half to two minutes to traverse the short distance from the basement's side entrance to the fire. [...] When the steam finally cleared, firefighters found Khafra's lifeless body in the middle of the basement.
+
+### Holding and Reasoning
+
+[Next,] [w]e hold that the evidence was sufficient to support Beckwitt's conviction for involuntary manslaughter under both a gross negligence and failure to perform a legal duty theory of the offense. We hold that the evidence was sufficient to establish gross negligence involuntary manslaughter because Beckwitt's conduct, in causing Khafra to live and work in dangerous conditions, constituted a gross departure from that of an ordinarily careful and prudent person under the same circumstances and a disregard for the consequences which might ensue and so demonstrated a wanton and reckless disregard for Khafra's life. Beckwitt's conduct was likely to result in harm to Khafra at any moment and an ordinarily prudent person under similar circumstances would have been conscious of the risk to Khafra. [...]
+
+[However,] we hold that the evidence was not sufficient to support Beckwitt's conviction for second-degree depraved heart murder because [...] Beckwitt's conduct, although demonstrating a reckless disregard for human life, was "not the type of conduct that [was] likely, if not certain, to cause death, and thus does not rise to the level of opprobrious conduct that depraved heart murder proscribes --- conduct that is so extreme in its disregard to human life that it may be deemed willful." [...]
+
+[The court analyzed whether Beckwitt's conduct met Maryland's standard for depraved heart murder, which requires that the conduct be "reasonably likely, if not certain, to cause death." The court evaluated the dangerousness of Beckwitt's conduct by examining "the inherent dangerousness of the act engaged in, as judged by a reasonable person[,] ... combined with environmental risk factors, which, together, make the particular activity more or less likely at any moment to bring about harm to another."]
+
+Beckwitt's conduct --- having Khafra dig tunnels underneath his home, in a basement with electrical power supplied by multiple extension cords and power strips and filled with trash and debris that would have severely impeded Khafra's escape in the event of any emergency --- whether considered individually or cumulatively, did not constitute conduct that could be said to be reasonably likely, if not certain, to cause death and thus did not satisfy the malice element necessary for depraved heart murder. [...]
+
+[...] Beckwitt's conduct was reprehensible and demonstrated an indifference to the risk of danger to which Khafra was exposed and satisfied all the elements for both gross negligence and legal duty involuntary manslaughter but we cannot say that Beckwitt engaged in conduct from which a jury could reasonably conclude that death was a likely, if not certain, result. [...]
+
+[Conviction for depraved heart murder reversed; conviction for involuntary manslaughter affirmed.]
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. What distinguishes the "gross negligence" sufficient for involuntary manslaughter from the "extreme indifference" required for depraved heart murder? How did the court draw that line in *Beckwitt*?
+2. Compare *Beckwitt* to *Welansky*. Both involved employers who created dangerous conditions that led to deaths by fire. Why might Welansky be convicted of manslaughter while the court reversed Beckwitt's murder conviction? Are the cases distinguishable?
+:::
+
+---
+
+The *Williams*, *Welansky*, and *Beckwitt* cases all involved courts drawing lines between negligence, recklessness, and extreme recklessness after the fact. The drunk driving context offers a different picture: legislatures actively designing homicide rules in advance, for a known class of risk-creating conduct.
+
+## Drunk Driving Homicide: A Study in Legislative Design
+
+Drunk driving kills approximately 12,000 to 13,000 people annually in the United States. Every state must decide how to classify these deaths within its homicide framework. The result is extraordinary variation: the same conduct --- driving drunk and killing someone --- can lead to probation in one state and life imprisonment in another. This variation reflects deep disagreement about where drunk driving homicide falls on the spectrum from tragic negligence to something approaching intentional killing.
+
+### Four Approaches
+
+*1. Murder.* A handful of states allow prosecutors to charge drunk driving deaths as second-degree murder under implied-malice or depraved-heart theories. California's approach is the most developed. In *People v. Watson*, 637 P.2d 279 (Cal. 1981), the California Supreme Court held that a drunk driver who killed two people while driving 84 miles per hour with a BAC of .23 could be charged with second-degree murder based on "implied malice" --- conscious disregard for human life. Following *Watson*, California codified the "Watson advisement": every person convicted of DUI is warned by the court that driving under the influence is "extremely dangerous to human life" and that a subsequent DUI death can be charged as murder. Cal. Veh. Code § 23593. This creates a documentary record of the defendant's *knowledge* of the risk, making implied malice far easier to prove on a subsequent offense. New York reached a similar result in *People v. Heidgen*, 22 N.Y.3d 259 (2013), upholding a murder conviction for a driver with a BAC over three times the legal limit who drove the wrong way on a parkway, killing a limousine driver and a seven-year-old flower girl. Penalties at this tier are severe: 15 years to life in California, 15--25 years to life in New York.
+
+*2. Standalone vehicular homicide statutes.* The majority of states have created purpose-built offenses for DUI-related deaths, separate from general manslaughter. These statutes vary significantly in the mental state they require. At one end, Texas, Connecticut, and New Jersey (under its 2017 "Ralph and David's Law") impose what amounts to strict liability: the prosecution need only prove that the defendant was intoxicated and caused the death, with no separate finding of negligence or recklessness in the manner of driving. At the other end, states like Virginia require proof that the defendant's conduct was "so gross, wanton and culpable as to show a reckless disregard for human life" before imposing aggravated penalties. Sentences range widely: 2--20 years in Texas (enhanced to 5--99 years with two or more prior intoxication offenses or, as of September 2025, multiple deaths in the same transaction), 4--15 years in Florida (up to 30 years if the driver fled the scene), and 8--30 years in Tennessee (where, as of 2024, the defendant must serve 100% of the sentence with no parole).
+
+*3. General manslaughter.* Some states, including Arizona, lack standalone vehicular homicide statutes and charge DUI deaths under general involuntary manslaughter provisions. Arizona uses a "dangerous instrument" theory --- characterizing the vehicle itself as a dangerous instrument --- to enhance the offense to a "dangerous" felony carrying 7--21 years, far more than the standard manslaughter range.
+
+*4. Aggravated DUI.* Several states treat DUI deaths as enhanced DUI offenses rather than as a form of homicide. Nevada is the most extreme: a driver with three or more prior DUI convictions --- from any point in the defendant's lifetime, with no look-back limit --- who causes a death faces either a fixed term of 25 years or life imprisonment, in both cases with parole eligibility after 10 years.
+
+### The Severity Spectrum
+
+The penalty variation is striking. At the lenient end, Maryland caps its DUI homicide offense at five years with no mandatory minimum, making probation theoretically available. At the severe end, a repeat DUI offender in Nevada faces 25 years or life; a defendant charged with *Watson* murder in California faces 15 years to life; and a driver in Pennsylvania faces mandatory consecutive sentences of three to seven years *per victim*, depending on prior convictions --- meaning that a defendant with one prior DUI who kills two people faces a ten-year mandatory minimum.
+
+Several features drive these differences:
+
+*Prior convictions.* Most states escalate penalties for repeat offenders, but the mechanisms differ. In California, prior convictions are *evidence of mental state* --- they help prove that the defendant knew drunk driving was dangerous, supporting a murder charge. In Pennsylvania, they are *sentencing enhancers* --- they increase mandatory minimums from three to five to seven years per victim. In Oklahoma, a prior DUI conviction makes a subsequent DUI a felony, which can support a second-degree *felony murder* charge when death results.
+
+*Mandatory minimums.* States with mandatory minimums range from one year (South Carolina, Virginia for aggravated cases) to five years (Massachusetts, Wisconsin). Tennessee requires 100% service of whatever sentence the court imposes within its 8--30 year range, with no parole eligibility. States without mandatory minimums --- including Maryland and Indiana --- allow judges to impose probation for DUI deaths.
+
+*Per-victim stacking.* Pennsylvania and Louisiana require consecutive sentences for each victim killed, dramatically increasing exposure when multiple people die in a single crash. Most other states leave the question of consecutive versus concurrent sentencing to judicial discretion.
+
+One additional variable cuts across all four approaches: the MPC provides that voluntary intoxication does not negate recklessness. Under Section 2.08(2), "when recklessness establishes an element of the offense, if the actor, due to self-induced intoxication, is unaware of a risk of which he would have been aware had he been sober, such unawareness is immaterial." In jurisdictions that follow this provision, a drunk driver's claim that intoxication prevented awareness of the risk is no defense --- the finder of fact may treat the defendant as if sober for purposes of determining recklessness.
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. Should drunk driving deaths be treated as a form of murder, manslaughter, or a separate offense category? What are the advantages and disadvantages of each approach?
+2. Under MPC Section 2.08(2), a drunk driver's unawareness of risk is "immaterial" if the driver would have been aware of the risk while sober. Does this approach make sense? What happens to the distinction between manslaughter and murder if we presume all drunk drivers are aware of the risks they create?
+3. The same drunk driving death can result in probation (Maryland) or life imprisonment (Nevada, California, New York). Is this variation a feature of federalism --- allowing different communities to express different moral judgments --- or a failure of equal justice?
+4. Consider this from a deterrence perspective: Does threatening murder charges for drunk driving deaths deter drunk driving more effectively than threatening manslaughter charges? What does the empirical evidence on deterrence from Chapter 2 suggest about the likely effectiveness of severity-based approaches?
+:::
+
+---
+
+## The Architecture of Unintentional Homicide
+
+The cases in this chapter reveal that the line between criminal and non-criminal conduct --- and between manslaughter and murder --- is far from clear. Consider the spectrum of mental states:
+
+| Mental State | Definition | Typical Grade |
+|--------------|-----------|--------------|
+| Ordinary Negligence | Failure to perceive a risk a reasonable person would perceive | Civil liability only (in most jurisdictions) |
+| Gross/Criminal Negligence | Substantial failure to perceive a substantial risk | Negligent Homicide (MPC) or Involuntary Manslaughter |
+| Recklessness | Conscious disregard of a substantial and unjustifiable risk | Involuntary Manslaughter |
+| Extreme Recklessness | Recklessness manifesting extreme indifference to human life | Second Degree Murder ("Depraved Heart") |
+
+Yet as we have seen, many courts blur these distinctions. *Welansky* allowed "constructive" recklessness --- treating defendants as reckless if a reasonable person would have been aware of the risk, even if the defendant was not. *Watson* allowed a jury to find murder based on drunk driving, even though drunk drivers arguably cannot fully appreciate the risks they create. And *Williams* convicted parents of manslaughter for "ordinary" negligence, without requiring even gross negligence.
+
+These cases delegate enormous discretion to the finder of fact. The vague standards --- "gross," "wanton," "reckless," "depraved" --- do not constrain so much as they authorize. The finder of fact decides whether the defendant's conduct warrants criminal condemnation, reporting on contemporary community morality about which risks are acceptable and which are criminal.
+
+Is this discretion appropriate? Consider the arguments:
+
+Those who favor jury discretion argue that community morality should determine what conduct crosses into criminality, that no legislature can specify in advance all the circumstances that make one unintentional killing worse than another, and that jury verdicts carry democratic legitimacy that judicial rulings alone cannot. Critics counter that vague standards produce inconsistent treatment of similarly situated defendants, that juries may conflate actors with radically different levels of culpability, and that policy judgments about when drunk driving or other conduct warrants a murder charge belong to the legislature, not to a lay finder of fact deciding case by case.
+
+::: {.callout-tip}
+## Final Discussion Questions
+
+1. Purdue Pharma, the maker of OxyContin, aggressively promoted its opioid painkillers while internal documents showed company executives knew the drugs were creating widespread addiction and causing deaths. Executives ultimately pleaded guilty to misdemeanor charges under a deferred prosecution agreement, but were not charged with murder or manslaughter. Where on the spectrum of unintentional homicide would you place their conduct? Is continued promotion of a product known to be killing people "extreme indifference to human life"? Why might prosecutors have declined to charge depraved heart murder?
+2. How would Bentham, Kant, and Hampton (as discussed in Chapter 2) think through a ranking of punishments for the defendants in *Williams*, *Welansky*, *Beckwitt*, the Purdue Pharma executives, and a drunk driving homicide like *Watson*? If the objective is harm reduction, would policies outside of the criminal legal system be more effective? If proportionality to individual culpability and fairness to the defendant is paramount, does the motivation behind the conduct of each matter as much as or more than the conduct itself? And if you focus on the message punishment sends, should members of the public interpret the penalties that each of the defendants received as instructive of how they themselves should think or as diagnostic of something in our society that needs fixing?
+3. How do the principles of procedural justice --- voice, neutrality, respect, and trustworthiness (as discussed in the Introduction) --- apply to prosecutions for unintentional homicide? Does Clarence Thomas have it right when he argues that there must be a single, objective standard for conduct, or is Kyron Huigens correct in suggesting that motivation and what it reveals about values matters as well?
+4. If you were a state legislator on a committee tasked with reviewing and rewriting involuntary homicide doctrine, how would you structure it?
+:::
+

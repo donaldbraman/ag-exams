@@ -1,0 +1,402 @@
+# RICO and Enterprise Liability
+
+Congress built RICO to break the Mafia. The Racketeer Influenced and Corrupt Organizations Act of 1970 was designed to reach the bosses who profited from crime while keeping their hands clean, targeting the enterprise rather than just the foot soldiers. But the statute did not stay confined to mob prosecutions. Over the decades, RICO migrated from organized crime to corporate boardrooms, from corporate fraud to street gangs, and most recently to political movements and legal disputes. Each expansion stretched the meaning of "enterprise" further, and each raised a difficult question: When does collective activity become collective criminality? You will need to decide for yourself whether current law and practice draws that line fairly and effectively. 
+
+The cases in this chapter trace that arc: *Pinson* (no enterprise --- a hub without a wheel), *Christensen* (the rim that holds), *Rich* (an enterprise that does not yet exist), the Insys prosecution (RICO in the C-suite), *Cooper* (California's legislative pushback against overbroad gang enhancements), *State v. O.C.* (the constitutional floor), the Georgia cases (racketeering charges against a rapper, protesters, and a former president), and the emerging legislative effort to restrict the use of creative expression as criminal evidence. Throughout, notice the recurring tension: RICO's power to reach beyond individual wrongdoing makes it indispensable for dismantling criminal organizations, but also available for use against protest movements, cultural expression, and political opponents.
+
+## The RICO Framework
+
+### A. Statutory Structure
+
+Congress enacted RICO in 1970 as Title IX of the Organized Crime Control Act. The statute targets the intersection of "enterprises" and "patterns of racketeering activity."
+
+::: {.callout-note}
+### 18 U.S.C. Section 1962 -- Prohibited Activities
+
+(a) It shall be unlawful for any person who has received any income derived, directly or indirectly, from a pattern of racketeering activity or through collection of an unlawful debt [...] to use or invest, directly or indirectly, any part of such income [...] in acquisition of any interest in, or the establishment or operation of, any enterprise which is engaged in, or the activities of which affect, interstate or foreign commerce. [...]
+
+(b) It shall be unlawful for any person through a pattern of racketeering activity or through collection of an unlawful debt to acquire or maintain, directly or indirectly, any interest in or control of any enterprise which is engaged in, or the activities of which affect, interstate or foreign commerce.
+
+(c) It shall be unlawful for any person employed by or associated with any enterprise engaged in, or the activities of which affect, interstate or foreign commerce, to conduct or participate, directly or indirectly, in the conduct of such enterprise's affairs through a pattern of racketeering activity or collection of unlawful debt.
+
+(d) It shall be unlawful for any person to conspire to violate any of the provisions of subsection (a), (b), or (c) of this section.
+:::
+
+The statute defines "racketeering activity" to include dozens of predicate offenses --- specific crimes that, when committed as part of a pattern, can trigger RICO liability --- from murder and kidnapping to mail fraud, wire fraud, and drug trafficking. An "enterprise" can be a corporation, partnership, or any "association in fact" of individuals. A "pattern" requires at least two predicate acts within a ten-year period that are related and suggest continuing criminal activity.
+
+::: {.callout-note}
+### 18 U.S.C. Section 1961 -- Definitions
+
+(1) "racketeering activity" means (A) any act or threat involving murder, kidnapping, gambling, arson, robbery, bribery, extortion, dealing in obscene matter, or dealing in a controlled substance [...], which is chargeable under State law and punishable by imprisonment for more than one year; (B) any act which is indictable under any of the following provisions of title 18, United States Code: [...] section 1341 (relating to mail fraud), section 1343 (relating to wire fraud) [...].
+
+(4) "enterprise" includes any individual, partnership, corporation, association, or other legal entity, and any union or group of individuals associated in fact although not a legal entity;
+
+(5) "pattern of racketeering activity" requires at least two acts of racketeering activity, one of which occurred after the effective date of this chapter and the last of which occurred within ten years [...] after the commission of a prior act of racketeering activity[.]
+:::
+
+### B. The Enterprise Requirement
+
+A threshold question in any RICO prosecution is what constitutes an "enterprise." The Supreme Court held in *Boyle v. United States*, 556 U.S. 938 (2009), that an association-in-fact enterprise needs only three structural features: a purpose, relationships among those associated with the enterprise, and longevity sufficient to permit the associates to pursue that purpose. The following case provides a negative example. Jonathan Pinson sat at the center of four separate fraud schemes, each involving different partners and different targets. The government argued that Pinson himself was the connective tissue, but the Fourth Circuit disagreed, identifying what conspiracy scholars call the "hub-and-spoke" problem. Picture a wheel: the hub is the central actor, the spokes are the separate schemes or co-conspirators radiating outward, and the rim is the connection among the spokes that holds the wheel together. A common actor at the hub does not, by itself, create the relationships *among associates* that *Boyle* requires. Without a rim linking the spokes to each other, the wheel falls apart. 
+
+## UNITED STATES v. PINSON {#us-v-pinson .unnumbered .unlisted .case-title}
+
+*United States Court of Appeals for the Fourth Circuit, 2017*
+
+*860 F.3d 152*
+
+TRAXLER, Circuit Judge:
+
+::: {.case-excerpt}
+Jonathan Pinson was convicted by a jury of various crimes, including racketeering conspiracy, in violation of 18 U.S.C. Section 1962(d); wire fraud, in violation of 18 U.S.C. Section 1343; mail fraud, in violation of 18 U.S.C. Section 1341; and theft from a program receiving federal funds, in violation of 18 U.S.C. Section 666(a)(1)(A). Pinson appeals his convictions, arguing that the evidence was insufficient to support the jury's verdict on several counts [...].
+
+### Facts
+
+The government's case against Pinson centered on four separate business ventures in which he was involved between 2009 and 2011.
+
+*The SCSU Homecoming Concert.* In 2009, Pinson and Edward Givens, the general counsel for South Carolina State University (SCSU), conspired to ensure that a friend of Pinson's, Richard Gist, was hired as the promoter for the university's homecoming concert. In exchange for their influence, Pinson and Givens received kickback payments from Gist.
+
+*The Sports and Communication Center.* Pinson and Givens also attempted to arrange for SCSU to purchase an off-campus facility known as the Sports and Communication Center. Pinson and Givens planned to receive kickback payments from the seller of the property if the university purchased it. Although the university ultimately did not buy the property, the government charged Pinson with various crimes related to this scheme.
+
+*Supremes, LLC.* Pinson was a manager of Supremes, LLC, a company that manufactured diapers. Pinson and his business partners, Lance Wright and Robert Williams, applied for and received a grant from Marion County, South Carolina, to establish a diaper factory in the county. Pinson hired Phillip Mims as a project manager for the factory. Pinson, Mims, Wright, and Williams regularly submitted false invoices to the county for grant funding and pocketed the overpaid funds.
+
+*The Village at River's Edge.* Pinson and Mims were also involved in the development of a housing project in Columbia, South Carolina, known as the Village at River's Edge. The project received a grant from the Columbia Housing Authority to expand the development. Pinson and Mims submitted invoices for work performed by a subcontractor but retained a portion of the money and failed to fully pay the subcontractor.
+
+### Legal Analysis
+
+#### RICO Conspiracy
+
+Pinson first challenges his conviction for racketeering conspiracy under 18 U.S.C. Section 1962(d). To prove a RICO conspiracy, the government must show that (1) two or more persons agreed to conduct or participate in the affairs of an enterprise through a pattern of racketeering activity; (2) the defendant was a party to that agreement; and (3) the defendant joined the agreement knowing of its objective.
+
+The government alleged that Pinson and his associates formed an association-in-fact enterprise [...]. An association-in-fact enterprise must have at least three structural features: a purpose, relationships among those associated with the enterprise, and longevity sufficient to permit these associates to pursue the enterprise's purpose. *Boyle v. United States*, 556 U.S. 938, 946 (2009).
+
+We conclude that the evidence was insufficient to prove the existence of a single RICO enterprise or a single conspiracy. The four ventures involved different groups of people, different goals, and different methods. While Pinson was a common thread in all four ventures, the other participants did not all share a common purpose or a relationship with one another. For example, Givens was involved in the SCSU schemes but had no connection to the Supremes or Village at River's Edge ventures. Similarly, Wright and Williams were involved in Supremes but were not part of the SCSU or Village at River's Edge schemes.
+
+The government failed to prove that the participants in these various schemes "shared a common purpose" or that there was a continuity of structure and personnel across the four ventures. *Boyle*, 556 U.S. at 946. Instead, the evidence showed several separate and distinct conspiracies. Because the government failed to prove a single RICO conspiracy as charged in the indictment, we reverse Pinson's conviction on this count.
+
+[...]
+
+*REVERSED IN PART, AFFIRMED IN PART, AND REMANDED.*
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. The court's reasoning reveals a "rimless hub-and-spoke" problem: Pinson was at the center of multiple schemes, but the spokes did not connect to each other. How does this differ from the traditional organized crime model RICO was designed to target?
+2. What is the danger of allowing RICO prosecutions to proceed based solely on a common defendant --- how might this expand criminal liability beyond what Congress intended?
+:::
+
+### C. RICO Conspiracy and the "Enterprise Wheel"
+
+*Pinson* established a baseline: a shared defendant is not a shared enterprise. But RICO conspiracy can change the calculus. Under traditional conspiracy law, a rimless hub-and-spoke arrangement yields multiple separate conspiracies, not one grand conspiracy --- the Supreme Court so held in *Kotteakos v. United States*, 328 U.S. 750 (1946), reversing a conviction where a single fraudster connected otherwise unrelated schemes. RICO's enterprise element changes the analysis: the enterprise itself can supply the rim. *Christensen* illustrates the point --- Pellicano's operation had exactly the structural continuity *Pinson* lacked.
+
+## UNITED STATES v. CHRISTENSEN {#us-v-christensen .unnumbered .unlisted .case-title}
+
+*United States Court of Appeals for the Ninth Circuit, 2016*
+
+*828 F.3d 763*
+
+CALLAHAN, Circuit Judge:
+
+::: {.case-excerpt}
+### Facts
+
+This case involves a criminal enterprise centered around the Pellicano Investigative Agency ("PIA"), a private investigation firm owned and operated by Anthony Pellicano. The government alleged that Pellicano and his associates engaged in a pattern of racketeering activity that included illegal wiretapping, computer fraud, and bribery of public officials to obtain confidential information for the benefit of PIA's clients. [...]
+
+Anthony Pellicano operated PIA as a full-service private investigation firm. However, the government's evidence showed that PIA's "services" often involved illegal methods. Pellicano employed Mark Arneson, a sergeant with the Los Angeles Police Department ("LAPD"), and Rayford Earl Turner, an employee of SBC (a telecommunications company), to assist in his illegal activities. Arneson used his access to law enforcement databases [...] to provide Pellicano with confidential information about PIA's targets. Turner used his position at SBC to provide Pellicano with subscriber information and to facilitate the installation of illegal wiretaps. Kevin Kachikian, a software developer, created "Telesleuth," a specialized software program used by Pellicano to record and manage intercepted telephone conversations.
+
+In 2002, Terry Christensen represented Kirk Kerkorian in a child support dispute with Lisa Bonder. Christensen hired Pellicano to investigate Bonder. The government presented evidence, including recorded conversations between Christensen and Pellicano, showing that Christensen authorized and paid for the illegal wiretapping of Bonder's telephone. During these recorded conversations, Pellicano informed Christensen of the progress of the wiretap and shared the contents of Bonder's private conversations, including discussions with her attorneys. Christensen used this information to gain a tactical advantage in the litigation.
+
+### Legal Analysis
+
+#### RICO Convictions
+
+Pellicano, Arneson, and Turner were convicted of substantive RICO violations under 18 U.S.C. Section 1962(c) and RICO conspiracy under 18 U.S.C. Section 1962(d). [...] To establish a violation of Section 1962(c), the government must prove: (1) the conduct (2) of an enterprise (3) through a pattern (4) of racketeering activity. [...] The defendants argue that the government failed to prove a single, unified enterprise. We disagree.
+
+The evidence showed that Pellicano was the hub of the enterprise and that Arneson and Turner provided essential services that allowed the enterprise to function. Although Arneson and Turner may not have known the full extent of Pellicano's activities with other clients, they were aware of the "essential nature" of the enterprise and their roles within it. [...]
+
+The RICO enterprise here, the Pellicano Investigative Agency and its network of corrupt contacts, had a clear structure: Pellicano directed operations, Arneson and Turner provided illicit access to government and telecommunications databases, Kachikian provided the technical infrastructure for wiretapping, and high-paying clients like Christensen funded the operation. Each participant knew that their services were part of a larger illegal operation, even if they did not know the identities of specific clients or the details of particular investigations.
+
+This is precisely the type of ongoing criminal enterprise that RICO was designed to reach. Unlike *Pinson*, where the various schemes lacked any unifying structure or purpose beyond the defendant's personal profit, here the PIA enterprise had continuity of structure, personnel, and purpose: the systematic provision of illegal investigative services.
+
+[...]
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. How does *Christensen* differ from *Pinson* in its treatment of the enterprise requirement? What made the Pellicano operation a unified enterprise while Pinson's schemes were not?
+2. Terry Christensen was a prominent attorney who hired Pellicano's services. What does his conviction suggest about the liability of "customers" of criminal enterprises? When does paying for illegal services make one a participant in racketeering? Is this structurally different from an addict repeatedly paying their mob- or gang-connected dealer for illegal narcotics? If so, what is the nature of that distinction?
+:::
+
+### D. RICO Conspiracy and the Future Enterprise
+
+*Christensen* showed that enterprise participants need not know the full scope of the operation or the identities of other participants. *Rich* pushes the logic further: does the enterprise need to exist at all? The Sixth Circuit held that an agreement to form a future enterprise is itself a completed RICO conspiracy.
+
+## UNITED STATES v. RICH {#us-v-rich .unnumbered .unlisted .case-title}
+
+*United States Court of Appeals for the Sixth Circuit, 2021*
+
+*14 F.4th 489*
+
+GRIFFIN, Circuit Judge:
+
+::: {.case-excerpt}
+In many respects, we have seen this case before. When a motorcycle club shifts gears from sharing a fraternal interest in Harley-Davidsons to peddling drugs through violent means, convictions and lengthy sentences under the Racketeer Influenced and Corrupt Organizations Act (RICO) usually follow. [...] These consolidated criminal appeals are no exception.
+
+The federal government successfully prosecuted multiple members of the "Devils Diciples Motorcycle Club" (the club's own spelling) (DDMC) for their role in a RICO enterprise that trafficked large quantities of drugs (namely methamphetamine) and engaged in numerous other illegal acts (like violent crimes, illicit gambling, thefts, and obstruction of justice). [...] Defendants have raised over seventy issues on appeal, none of which have merit. We affirm their convictions and sentences.
+
+In this published opinion, we address two issues of first impression for our court: (1) the district court's use of future-tense language in its RICO conspiracy jury instructions; and (2) its application of a two-level sentencing enhancement for maintaining a drug premises under U.S.S.G. Section 2D1.1(b)(12) via Section 1B1.3(a)(1)(B)'s relevant-conduct provision.
+
+### Facts and Procedural History
+
+The DDMC was a national motorcycle club with chapters across the United States. While the club presented itself as a group of motorcycle enthusiasts, the government alleged that it operated as a criminal enterprise. Following a lengthy investigation, the government indicted numerous members of the DDMC, including the defendants in this appeal [...]
+
+The indictment charged the defendants with RICO conspiracy, in violation of 18 U.S.C. Section 1962(d), and various other offenses, including drug trafficking, illegal gambling, and witness tampering. The government's evidence at trial included testimony from former club members, wiretap recordings, and evidence seized during searches of clubhouses and members' residences. The evidence established that the DDMC had a hierarchical structure, with national officers and local chapters, and that members were required to follow club rules, pay dues, and participate in club activities, which often involved criminal acts.
+
+### Legal Analysis
+
+#### RICO Conspiracy Jury Instructions
+
+[...] The district court instructed the jury that to convict a defendant of RICO conspiracy, the government had to prove five elements beyond a reasonable doubt:
+
+1. That an enterprise existed *or would be established*.
+2. That the enterprise was or would be engaged in, or its activities affected or would affect interstate commerce.
+3. A conspirator was or would be employed by or associated with the enterprise.
+4. A conspirator did or would conduct or would participate in, directly or indirectly, the conduct of the affairs of the enterprise.
+5. A conspirator did or would knowingly participate in the conduct of the affairs of the enterprise through a pattern of racketeering activity as described in the indictment; that is, a conspirator did or would commit at least two acts of racketeering activity.
+
+Based on these instructions, defendants claim that the jury was erroneously "instructed that none of the elements of a RICO offense ha[d] to exist, at any time" for a conviction. [...] We disagree.
+
+We begin with *Salinas v. United States*, 522 U.S. 52 (1997). [...] In a unanimous decision, the Court rejected the argument that Section 1962(d) required a defendant to agree to commit two predicate acts and instead applied well-established principles of conspiracy law to conclude that Section 1962(d) was satisfied where "[a] conspirator must intend to further an endeavor which, if completed, would satisfy all of the elements of a substantive criminal offense."
+
+[...] Section 1962(d) is a conspiracy offense, and the "essence of a conspiracy is an agreement to commit an unlawful act." [...] The "unlawful act" in a RICO conspiracy is the violation of a substantive RICO provision, such as Section 1962(c). Thus, an agreement to associate with and participate in a yet-to-be-formed racketeering enterprise that would affect interstate commerce constitutes a completed offense under Section 1962(d).
+
+Accordingly, we hold that the district court correctly instructed the jury to convict each defendant if it found that he joined an agreement that encompassed a future violation of the substantive RICO offense.
+
+### Dissent
+
+BERNICE BOUIE DONALD, Circuit Judge, concurring in part and dissenting in part.
+
+[...] I dissent from Part I of the majority published opinion [...] as they relate to the RICO conspiracy charge (Count 1).
+
+RICO expressly prohibits certain activities by any person employed by or associated with an enterprise. *See* 18 U.S.C. Section 1962(c). An enterprise can include any union or group of individuals associated in fact although not a legal entity. 18 U.S.C. Section 1961(4). In my view, the existence of an enterprise is a necessary element of a RICO conspiracy. By allowing the jury to convict based on an agreement to form an enterprise in the future, the district court's instructions relieved the government of its burden of proving an essential element of the offense.
+
+The majority relies on *Salinas*, but *Salinas* did not address the enterprise element. It addressed the "pattern of racketeering activity" element and held that a conspirator need not personally commit the predicate acts. It did not hold that the enterprise itself need not exist. [...]
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Attempt requires a "substantial step." Accomplice liability requires aiding or encouraging a specific crime. Conspiracy in many jurisdictions requires an overt act. Under *Rich*, RICO conspiracy requires none of these --- an agreement to form a future enterprise is itself a completed offense, even before the enterprise exists or any predicate act is committed. Is this a logical extension of the inchoate liability doctrines you have studied, or does it represent a qualitative break from them? What limiting principles, if any, remain?
+2. The dissent argues that the majority's interpretation "relieved the government of its burden of proving an essential element of the offense." What concerns about prosecutorial power does this raise?
+:::
+
+The enterprises examined so far --- Pinson's disconnected frauds, Pellicano's wiretapping ring, the Devils Diciples motorcycle club --- all involved participants who understood they were part of something illegal. RICO's next expansion targets a different kind of enterprise entirely: the legitimate corporation.
+
+## Corporate RICO: From Organized Crime to the Boardroom
+
+RICO's text does not limit its reach to traditional organized crime. Courts have held that a legitimate corporation can itself constitute the enterprise when its lawful business structure is used to conduct or facilitate racketeering activity. Prosecutors have increasingly pressed this theory, arguing that a corporation's ordinary hierarchy --- its sales force, compliance department, and reimbursement unit --- becomes the criminal enterprise when those structures are repurposed for fraud.
+
+::: {.callout-note}
+### In the News: Insys Therapeutics Executives Convicted in Landmark Opioid Case
+
+As [NPR reported](https://www.npr.org/2019/05/02/711346081/opioid-executive-john-kapoor-found-guilty-in-landmark-bribery-case), a jury in Boston found Insys Therapeutics founder John Kapoor and four co-defendants guilty of racketeering conspiracy after a ten-week trial and fifteen days of deliberation. The government accused the executives of running a nationwide scheme to bribe doctors into prescribing Subsys, a powerful fentanyl-based painkiller, and then lying to insurance companies to ensure the expensive drug would be covered.
+
+Prosecutors argued that Insys targeted doctors with a track record of liberally prescribing opioids, paying them through a [sham "speakers program"](https://www.youtube.com/watch?v=NqXZnAczbkM) --- nominally educational talks that were in practice kickbacks for writing prescriptions. The company also operated a call center where employees impersonated doctors' office staff, fabricating cancer diagnoses to persuade insurers to cover Subsys, which could cost tens of thousands of dollars per month. During the trial, jurors saw [a rap video made by Insys employees](https://www.youtube.com/watch?v=mtwFZwjCSTE) featuring a sales representative dressed as a giant bottle of Subsys, dancing and singing about the importance of getting patients on higher doses.
+
+U.S. Attorney Andrew Lelling called the case "the first successful prosecution of top pharmaceutical executives for crimes related to the illicit marketing and prescribing of opioids," adding: "Just as we would street-level drug dealers, we will hold pharmaceutical executives responsible for fueling the opioid epidemic by recklessly and illegally distributing these drugs, especially while conspiring to commit racketeering along the way." Brad Bailey, a Boston criminal defense attorney and former federal prosecutor, noted that "the big issue is the use of racketeering charges, which had been originally designed to go after the Mafia."
+
+*Sources: [NPR](https://www.npr.org/2019/05/02/711346081/opioid-executive-john-kapoor-found-guilty-in-landmark-bribery-case), May 2, 2019; [DOJ Press Release](https://www.justice.gov/usao-ma/pr/founder-and-four-executives-insys-therapeutics-convicted-racketeering-conspiracy), May 2, 2019*
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Compare the Insys prosecution to the Purdue Pharma plea agreement discussed in Chapter 1. Purdue admitted that it had fraudulently marketed OxyContin as less addictive than other opioids, yet the company paid a fine and three executives pleaded guilty to misdemeanor misbranding --- none served prison time. Both cases involved opioid manufacturers engaged in fraudulent marketing, though Purdue's illegal conduct started nearly 20 years prior to the illegal conduct for which Insys was prosecuted. Why did Insys executives face RICO charges carrying potential twenty-year sentences while Purdue executives pleaded to misdemeanor misbranding?
+
+2. What made the Insys "speakers program" a pattern of racketeering activity? Identify the predicate offenses and explain how they demonstrated continuity and relationship.
+
+3. Compare the doctors who accepted Insys speaker fees to Terry Christensen in *Christensen*. Both were "customers" who provided something the enterprise needed --- Christensen funded and directed wiretaps; the doctors wrote the prescriptions that generated revenue. What structural role did each play, who recruited whom, and what do these differences suggest about where enterprise *participation* ends and mere *patronage* begins?
+
+:::
+
+## State Gang Statutes: RICO's Domestic Analogues
+
+Many states adapted RICO's framework to target street gangs, but the breadth of the resulting statutes provoked legislative pushback. California's STEP Act followed RICO's blueprint --- prove an enterprise, a pattern, and a nexus --- but gang enhancements were applied so broadly that critics argued they criminalized association rather than participation. In 2021, the legislature responded with Assembly Bill 333, which tightened the pattern requirement by demanding that predicate offenses "commonly benefited" the gang --- that is, provided a shared advantage to the organization, not just to the individual member --- in a way that was "more than reputational," such as generating financial gain or eliminating rivals.
+
+### A. The Pattern Requirement
+
+::: {.callout-note}
+### California Penal Code Section 186.22 (as amended by AB 333, 2021)
+
+(b)(1) [...] [A]ny person who is convicted of a felony committed for the benefit of, at the direction of, or in association with a criminal street gang, with the specific intent to promote, further, or assist in criminal conduct by gang members, shall be punished [...]
+
+(e) As used in this chapter, "pattern of criminal gang activity" means the commission of, attempted commission of, conspiracy to commit, or solicitation of, sustained juvenile petition for, or conviction of, two or more [enumerated] offenses, provided at least one of these offenses occurred after the effective date of this chapter, and the last of those offenses occurred within three years of a prior offense, and the offenses were committed on separate occasions or by two or more gang members, the offenses *commonly benefited a criminal street gang*, and *the common benefit from the offenses is more than reputational*. [...]
+
+(g) [...] Examples of a common benefit that are more than reputational may include, but are not limited to, financial gain or motivation, retaliation, targeting a perceived or actual gang rival, or intimidation or silencing of a potential current or previous witness or informant.
+:::
+
+The italicized language was added by Assembly Bill 333 in 2021, in response to concerns that gang enhancements were being applied too broadly. The following case interprets these new requirements.
+
+## PEOPLE v. COOPER {#people-v-cooper .unnumbered .unlisted .case-title}
+
+*Supreme Court of California, 2023*
+
+*14 Cal.5th 735*
+
+GROBAN, J., Opinion of the Court:
+
+::: {.case-excerpt}
+Assembly Bill No. 333 (2021-2022 Reg. Sess.) (Assembly Bill 333), effective January 1, 2022, amended the substantive offense of active participation in a criminal street gang as well as the sentencing enhancement available for a felony committed for the benefit of, or with the specific intent to promote criminal conduct by, gang members. [...] Among other changes, Assembly Bill 333 narrowed the definition of a "criminal street gang" and the evidence required to prove a "pattern of criminal gang activity." [...]
+
+In this case, we consider whether any of defendant Robert Cooper's sentencing enhancements must be vacated because the jury in his case was instructed under the prior law. We conclude that the failure to instruct the jury on the new requirements established by Assembly Bill 333 was not harmless beyond a reasonable doubt.
+
+### Facts and Procedural Posture
+
+In 2015, defendant Robert Cooper was charged with the first-degree murder of a victim in Los Angeles. The prosecution alleged that the murder was committed for the benefit of, at the direction of, or in association with a criminal street gang, specifically the Leuders Park Piru gang, with the specific intent to promote, further, or assist in criminal conduct by gang members. [...]
+
+At trial, the prosecution's gang expert testified that Cooper was a member of the Leuders Park Piru gang. To establish a "pattern of criminal gang activity" as required by the version of section 186.22 then in effect, the expert testified regarding two "predicate offenses" committed by other members of the same gang: a 2014 robbery and a 2014 sale of narcotics. The expert testified that robbery and the sale of narcotics were among the gang's "primary activities." However, the expert did not provide specific details regarding how those particular predicate offenses benefited the gang as a whole, other than general testimony that such crimes enhance a gang's reputation for violence and provide financial resources.
+
+The jury was instructed under the then-current version of CALCRIM No. 1401. Consistent with the law at the time, the instructions did not require the jury to find that the predicate offenses "commonly benefited" the gang in a manner that was "more than reputational." The jury found Cooper guilty of first-degree murder and found the gang and firearm enhancement allegations to be true. [...]
+
+### Discussion
+
+#### A. Assembly Bill 333 and Retroactivity
+
+The California Street Terrorism Enforcement and Prevention Act (STEP Act; Section 186.20 et seq.) was enacted in 1988 to address the "crisis" of "criminal street gangs whose members threaten, terrorize, and commit a multitude of crimes against the peaceful citizens of their neighborhoods." [...] Section 186.22, subdivision (b)(1) imposes an additional term of imprisonment on "any person who is convicted of a felony committed for the benefit of, at the direction of, or in association with any criminal street gang, with the specific intent to promote, further, or assist in any criminal conduct by gang members."
+
+Assembly Bill 333 made several significant changes to the STEP Act. First, it narrowed the definition of a "criminal street gang" to an "ongoing, organized association or group of three or more persons, whether formal or informal, having as one of its primary activities the commission of one or more [enumerated] criminal acts . . . whose members *collectively* engage in, or have engaged in, a pattern of criminal gang activity." (Section 186.22, subd. (f) [...].) Second, it redefined "pattern of criminal gang activity" to require that the predicate offenses "commonly benefited a criminal street gang, and the common benefit from the offense is *more than reputational*." (Section 186.22, subd. (e)(1).)
+
+In *People v. Tran* (2022) 13 Cal.5th 1169, 1206-1207, we held that the substantive changes to section 186.22 made by Assembly Bill 333 apply retroactively to all cases not yet final on appeal. Because Cooper's case was pending on appeal when the law took effect, he is entitled to the benefit of these amendments.
+
+[...]
+
+#### [B. Omitted.]
+
+#### C. Application to the Predicate Offenses
+
+The Attorney General argues that the error was harmless because robbery and narcotics sales are "quintessential" gang crimes that provide financial benefits. According to the People, it is common knowledge that such crimes are committed to fund gang activities, and therefore any rational jury would have found a non-reputational benefit.
+
+We find this argument unpersuasive. While it may be true that many robberies and narcotics sales benefit gangs financially, it is not *necessarily* true in every case. As we have previously observed, "[n]ot every crime committed by gang members is related to a gang." (*People v. Albillar* (2010) 51 Cal.4th 47, 60.) A gang member might commit a robbery or sell drugs for purely personal gain, without any intent or effect of benefiting the gang as an organization.
+
+In this case, the record does not disclose the circumstances surrounding the predicate offenses. The prosecution's expert merely identified the crimes and the dates of conviction. The expert did not testify about whether the proceeds of the robbery were shared with other gang members, whether the narcotics sales took place in gang territory with the gang's permission, or whether the crimes were committed to further the gang's organizational goals.
+
+Furthermore, the jury was specifically instructed under the old law that the predicate offenses "need not be gang-related." This instruction explicitly permitted the jury to rely on crimes that had no connection to the gang's collective operations. Given this instruction and the lack of specific evidence regarding the benefit to the gang, we cannot say beyond a reasonable doubt that the jury would have found the "common benefit" element satisfied under the new standard.
+
+[...]
+
+### Holding
+
+The failure to instruct the jury that the alleged predicate offenses must have "commonly benefited" the gang in a "more than reputational" manner was not harmless beyond a reasonable doubt. The record contains evidence that could rationally lead to a contrary finding regarding whether the gang as a whole benefited from the predicate offenses in a non-reputational manner.
+
+The judgment of the Court of Appeal is reversed as to the gang enhancement and the firearm enhancement. The case is remanded to the superior court for a possible retrial on those allegations.
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. The court distinguishes between "reputational" and "more than reputational" benefits to a gang. Consider a gang member who commits a robbery to pay personal bills without sharing the proceeds. Under the old law, this robbery could serve as a predicate offense; under the new law, it cannot. Which approach better serves the goals of gang statutes, and why should this distinction matter for criminal liability?
+
+2. The court notes that "not every crime committed by gang members is related to a gang." How does this observation relate to the concerns about over-enforcement and the criminalization of association discussed earlier in the course?
+:::
+
+Where legislatures have not intervened, courts have sometimes drawn the line themselves.
+
+### B. Constitutional Limits on Gang Statutes
+
+::: {.callout-note}
+### Note Case: Constitutional Limits on Gang Membership Statutes --- *State v. O.C.*, 748 So. 2d 945 (Fla. 1999)
+
+Florida's original gang statute allowed sentence enhancement for any defendant who was a "member" of a gang at the time of committing any felony or misdemeanor. The statute defined membership broadly: a person could be considered a member by proclaiming himself a member and associating with other gang members.
+
+The Florida Supreme Court held this provision unconstitutional because it could punish mere association with other persons who may or may not be criminals. The court distinguished between punishing *participation* in gang criminal activity and punishing *membership* in a gang. Only the former survived constitutional scrutiny.
+
+This distinction parallels the requirements of the federal RICO statute, which punishes participation in an enterprise's affairs through racketeering activity, not membership in the enterprise itself.
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. The Florida court drew a line between punishing gang *membership* and punishing gang *participation*. Where exactly does that line fall? If a person attends gang meetings, wears gang colors, and socializes with gang members --- but never commits or facilitates a crime --- has the state crossed the line by enhancing a sentence for an unrelated offense?
+:::
+
+California tightened its gang statute; Florida struck down a provision that punished mere membership. Georgia went in the opposite direction.
+
+## Georgia RICO: Three Cases, One Statute
+
+Georgia's state RICO statute is broader than its federal counterpart in several respects: it requires no economic motive, no continuity in the pattern of racketeering activity, and permits false statements as predicate acts. Unlike federal RICO, which requires centralized Justice Department approval before charges can be filed, Georgia imposes no external review on a prosecutor's decision to bring a RICO case. The legislature amended the statute to add "person" to the definition of "enterprise" so that hub-and-spoke conspiracies --- the very structure that defeated the prosecution in *Pinson* --- could be charged. As Georgia Supreme Court Justice Shawn LaGrua has [warned](https://www.bu.edu/bulawreview/files/2025/03/MOSES.pdf) (as quoted by Moses), "[c]ontinuing to overuse the law in this manner by charging RICO where it only technically applies could result in a rewrite of the law."
+
+Between 2022 and 2023, three Georgia RICO prosecutions tested the statute's reach. Because none produced a published judicial opinion on the merits of the RICO charges, this section draws on indictments, news coverage, and legal scholarship rather than case excerpts.
+
+*The YSL prosecution.* In May 2022, Fulton County DA Fani Willis charged rapper Young Thug (Jeffery Williams) and twenty-seven co-defendants with racketeering, alleging that his record label, Young Slime Life, [operated as a criminal street gang](https://www.nytimes.com/2022/05/10/arts/music/young-thug-gunna-ysl-indicted.html). The 88-page indictment listed 182 overt acts including armed robbery and murder --- but also posing for photos in YSL merchandise, [rapping certain lyrics in songs and music videos](https://www.bu.edu/bulawreview/files/2025/03/MOSES.pdf), and making social media posts. At Williams's bond hearing, prosecutors read his lyrics aloud as evidence of enterprise participation. Lyrics from the song "Anybody" --- "ready for war like I'm Russia. . . . getting all type of cash, I'm a general" --- were [admitted at trial as evidence of an overt act](https://digitalcommons.law.seattleu.edu/sulr/vol47/iss4/13/). The prosecution secured no murder convictions; Williams pleaded guilty and was sentenced to time served plus probation.
+
+*The "Cop City" prosecution.* In 2023, Attorney General Chris Carr charged sixty-one defendants with racketeering for allegedly conspiring to halt construction of a police training facility. As the [Associated Press reported](https://www.wabe.org/georgia-judge-tosses-landmark-racketeering-charges-against-cop-city-protesters/), the defendants in what experts called "the largest criminal racketeering case filed against protesters in U.S. history" faced allegations ranging from "throwing Molotov cocktails at police officers" to "providing protesters with food." When asked how defendants who did not know each other could be co-conspirators, John Fowler, head of Georgia's Prosecution Division, [responded](https://www.democracynow.org/2023/9/6/stop_cop_city_rico_charges) that Georgia law requires only that "they're all working in some way, shape or form towards the same goal." In September 2025, a judge ruled that the attorney general lacked authority to bring the charges without the governor's written permission; the formal dismissal order followed in December 2025.
+
+*The Georgia election prosecution.* In August 2023, a Fulton County grand jury indicted former President Trump and eighteen co-defendants for allegedly conspiring to overturn Georgia's 2020 presidential election results. The 41-count indictment described 161 overt acts organized around distinct operational clusters: a scheme to prepare and submit fraudulent slates of presidential electors; a breach of voting equipment in Coffee County; a campaign of threats and pressure against Fulton County election workers Ruby Freeman and Wandrea' "Shaye" Moss; and coordinated efforts to pressure state officials, including a recorded phone call in which Trump asked Secretary of State Brad Raffensperger to "find 11,780 votes." Four defendants --- attorneys Sidney Powell, Kenneth Chesebro, and Jenna Ellis, along with bail bondsman Scott Hall --- pleaded guilty early in the proceedings, each agreeing to testify for the state. But the case never reached trial. Willis was disqualified after a court found an appearance of impropriety arising from her relationship with special prosecutor Nathan Wade. Replacement prosecutor Peter Skandalakis [moved to dismiss](https://s3.documentcloud.org/documents/26303243/georgia-prosecutor-drops-historic-racketeering-case-against-trump.pdf) in a detailed 22-page memorandum. He acknowledged that "the indictment alleges a compelling set of acts which, if proven beyond a reasonable doubt, would establish a conspiracy" and that "the efforts by President Trump and his legal advisors to obstruct the counting of electoral votes on January 6th lie at the core of this case." But he concluded that prosecution was not viable. On the evidence, he found insufficient proof of criminal intent for the Republican electors, who acted on advice of counsel; no precedent for treating unsworn legislative testimony as a RICO predicate; and venue problems with the charges involving election worker Ruby Freeman. On the Raffensperger phone call, he wrote that "reasonable minds could differ" on its interpretation and that the accused was entitled to the benefit of the doubt. On the practical obstacles, he wrote that "[t]here is no realistic prospect that a sitting President will be compelled to appear in Georgia to stand trial," and by the end of Trump's second term in January 2029, "eight years will have elapsed since the phone call at issue." Litigating the immunity issues raised by *Trump v. United States*, 603 U.S. 593 (2024), would mean that "bringing this case before a jury in 2029, 2030, or even 2031 would be nothing short of a remarkable feat." Severing Trump from his co-defendants would be "futile and unproductive," and the Prosecuting Attorneys' Council lacked the budget for the trials. Many of the alleged overt acts, he wrote, described constitutionally protected conduct: "[o]vert acts such as arranging a phone call, issuing a public statement, tweeting to the public . . . are not acts I would consider sufficient to sustain a RICO case." He concluded that Special Counsel Jack Smith's federal prosecution "would have been the most appropriate avenue" for the case. No court ruled on the merits. In November 2025, the president [pardoned all eighteen co-defendants](https://www.ajc.com/politics/2025/11/trump-pardons-18-co-defendants-charged-in-georgia-election-case-aide-says/) as part of a broader clemency action covering 77 individuals associated with the 2020 fake elector scheme; Skandalakis dropped all remaining state charges the same month.
+
+None of these enterprise theories was tested at trial. Williams pleaded to time served. The Cop City charges were dismissed on procedural grounds. The election case collapsed after the prosecutor's removal. Professor Tamika Griffin Moses, analyzing all three prosecutions in the *Boston University Law Review*, [documents a circular charging logic](https://www.bu.edu/bulawreview/files/2025/03/MOSES.pdf): Georgia's gang statute is itself a RICO predicate, and RICO conspiracy is itself a gang-statute offense, meaning that conduct which "standing alone, would not constitute criminal activity" becomes criminal when "charging the acts as part of the Georgia RICO conspiracy renders them criminal conduct." Moses concludes that the Georgia RICO statute exemplifies what the late Harvard law professor William Stuntz called "the pathological politics of criminal law." Writing in 2001, Stuntz argued that legislatures have a structural incentive to enact overlapping, broadly worded criminal statutes because doing so transfers hard line-drawing decisions to prosecutors, who face less political accountability. The result, in Stuntz's account, is that "expansive criminal laws are a mere conduit for empowering prosecutors to 'determine who goes to prison and for how long.'"
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. *Federal vs. Georgia enterprise doctrine.* Under federal RICO, *Pinson* requires the hub-and-spoke structure to have a rim --- a shared defendant is not a shared enterprise. Georgia amended its statute to reach hub-and-spoke conspiracies, requiring only a shared goal. The election indictment alleged multiple operational clusters --- fake electors, the Coffee County breach, election worker harassment --- with overlapping but not identical participants. Apply both the federal *Pinson* standard and the Georgia standard to this structure. Would the election indictment survive *Pinson*? Does removing the rim requirement effectively eliminate the enterprise element as a constraint?
+2. *Rap lyrics as enterprise evidence.* Professor Dennis has [argued](https://digitalcommons.law.uga.edu/fac_artchop/962/) that courts treat rap lyrics "not as art but as ordinary speech," presuming they are autobiographical --- an assumption not applied to other genres. "We do not likely believe that Johnny Cash shot a man simply to watch him die." When Young Thug rapped "ready for war like I'm Russia. . . . getting all type of cash, I'm a general," was he confessing to enterprise leadership or --- as one scholar puts it --- "[spitting bars](https://digitalcommons.law.seattleu.edu/sulr/vol47/iss4/13/)"? How should a court decide?
+3. *Protected activity as predicate acts.* Across the three cases, prosecutors treated rap lyrics, protest activity, phone calls to officials, legislative testimony, and legal filings as overt acts. Is there a meaningful line between using such activity as *evidence of intent* and treating it as the *predicate conduct itself*?
+4. *Moses's prescription.* Moses argues that Georgia RICO should be repealed or severely limited. Consider: Would *Pinson*-style structural requirements (purpose, relationships, longevity) adequately constrain the Georgia statute, or is the problem more fundamental? Could AB 333-style reforms --- requiring proof of concrete, non-reputational benefit to the enterprise --- work for Georgia RICO as they did for California's gang statute?
+:::
+
+### Legislative Responses: Limiting Creative Expression as Evidence
+
+The use of rap lyrics as RICO evidence has prompted legislative responses paralleling the AB 333 reforms to gang statutes. In 2022, California enacted the [Decriminalizing Artistic Expression Act](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB2799) (AB 2799), which requires a pretrial hearing, outside the jury's presence, before any "creative expression" can be admitted as evidence. The court must weigh probative value against the "substantial danger of undue prejudice," considering specifically whether jurors might treat lyrics as evidence of "propensity for violence or general criminal disposition" and whether admitting them would "explicitly or implicitly inject racial bias into the proceedings." The statute also directs courts to consider expert testimony about a genre's artistic conventions and social science research on whether the expression type introduces bias.
+
+At the federal level, the Restoring Artistic Protection (RAP) Act would amend the Federal Rules of Evidence to impose an even higher bar. A court could admit creative expression only upon a showing, by clear and convincing evidence, that (1) the defendant intended the expression literally, (2) the expression directly refers to the facts of the charged crime, (3) the expression is relevant to a disputed factual issue, and (4) the expression has probative value not available from other sources. The bill was introduced in 2022 but has not been enacted.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. California's AB 2799 requires courts to consider whether admitting creative expression would "explicitly or implicitly inject racial bias into the proceedings." Is this an appropriate consideration for an evidentiary ruling, or does it risk turning admissibility into a policy judgment? How does it compare to the race-conscious concerns raised by Moses regarding the asymmetric treatment of the YSL and Trump prosecutions?
+
+2. The federal RAP Act would require prosecutors to show that creative expression was "intended literally" before admitting it. How would a court determine whether Young Thug's lyrics were intended literally? Is the literal-intent standard workable, or does it simply relocate the discretionary judgment from the jury to the judge?
+
+3. Compare the three legislative responses studied in this chapter: AB 333 (tightening the *pattern* requirement for gang statutes), AB 2799 (restricting *evidence* of creative expression), and the RAP Act (restricting evidence at the federal level). Each addresses a different pressure point in the enterprise-liability framework. Which approach is most likely to prevent the concerns raised by the Georgia prosecutions, and which, if any, would have constrained a meritorious prosecution?
+:::
+
+## RICO Beyond the Courtroom
+
+The cases and statutes above define RICO's legal architecture. This section examines how that architecture operates in practice --- who invokes it, under what constraints, and against whom. The events described are recent and still developing; read them not as settled law but as evidence of the pressures that RICO's breadth creates.
+
+### The Federal-State Asymmetry
+
+Federal RICO prosecutions are subject to centralized oversight that has no state-level equivalent. Under [Justice Manual Section 9-110.000](https://www.justice.gov/jm/jm-9-110000-organized-crime-and-racketeering), a federal prosecutor who wishes to bring RICO charges must submit a detailed prosecution memorandum and draft indictment to the Department of Justice's Violent Crime and Racketeering Section at least fifteen working days before seeking an indictment. The memorandum must demonstrate that RICO is necessary to the prosecution --- that standard charges will not suffice. The guidelines explicitly warn against "imaginative" prosecutions "far afield from the congressional purpose of the RICO statute." Between 2018 and 2022, federal RICO prosecutions had a [97.5 percent conviction rate](https://bjs.ojp.gov/library/publications/racketeer-influenced-and-corrupt-organizations-rico-cases-federal-courts-2012) (Bureau of Justice Statistics, 2024).
+
+Georgia has no equivalent approval process. A county district attorney or the state attorney general can bring RICO charges unilaterally, without external review. The YSL indictment, the Cop City indictment, and the election indictment were each brought by a single prosecutor's office under a statute that imposes fewer constraints than its federal counterpart.
+
+### RICO in the Political Arena
+
+In February 2025, five Republican members of Congress [wrote to Attorney General Pam Bondi](https://lawler.house.gov/news/documentsingle.aspx?DocumentID=3732) urging a federal RICO investigation of New York Governor Kathy Hochul and House Minority Leader Hakeem Jeffries. The conduct at issue: coordinating by phone calls and a lunch meeting to delay a special congressional election. The letter called this "textbook racketeering."
+
+In September 2025, a senior official in the Deputy Attorney General's office [directed federal prosecutors in at least seven states](https://abcnews.com/US/doj-official-directs-prosecutors-prepare-probes-george-soros/story?id=125941089) to consider opening criminal cases against George Soros's Open Society Foundations. The directive listed racketeering among the potential charges, alongside material support for terrorism, arson, and wire fraud. It followed the president's public statement that Soros "should be charged with RICO because of their support of Violent Protests, and much more." The Open Society Foundations [responded](https://www.opensocietyfoundations.org/newsroom/statement-on-politically-motivated-attacks-on-open-society) that the investigation amounted to "politically motivated attacks on civil society, meant to silence speech the administration disagrees with and undermine the First Amendment right to free speech." Neither the Lawler letter nor the Soros directive produced charges. 
+
+The constitutional check on such deployments is the selective-prosecution doctrine: under *United States v. Armstrong*, 517 U.S. 456 (1996), a defendant must present credible evidence of both discriminatory effect and discriminatory intent before a court will order discovery into the government's charging decisions.
+
+In January 2026, FBI agents [executed a search warrant at the Fulton County Elections Hub](https://www.ajc.com/politics/2026/01/fbi-raids-fulton-county-election-office/) in Union City, Georgia, seizing more than 650 boxes of ballots, ballot images, and voter rolls from the 2020 election. The Director of National Intelligence was present during the operation. The search warrant affidavit relied on a claimed discrepancy of "more than 3 percent" between Fulton County's initial ballot count and its recount; county officials and independent audits had [previously established](https://www.npr.org/2026/02/10/nx-s1-5710649/fulton-county-2020-election-affidavit-fbi) that the actual variance was less than two-tenths of a percent, attributable to procedural errors during the audit that had been identified and corrected years earlier. The Special Agent in Charge of the FBI's Atlanta field office was [removed from his position](https://www.alternet.org/trump-fulton-county-raid/) after resisting the operation.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. *Structural asymmetry.* The Justice Manual requires federal prosecutors to submit RICO cases to centralized review and bars "imaginative" prosecutions. Georgia has no equivalent. Would adopting a federal-style approval process at the state level meaningfully constrain the kinds of prosecutions seen in Georgia? What political obstacles might prevent such reform?
+
+2. *RICO as rhetoric.* The Lawler letter characterized political coordination as "textbook racketeering." The Soros directive followed a presidential demand for RICO charges against a political donor's foundation. Compare the conduct described in each to the enterprise and pattern requirements of *Pinson*, *Christensen*, and *Rich*. Could either survive the federal RICO framework?
+
+3. *Selective deployment.* As noted above, *Armstrong* requires defendants alleging selective prosecution to present credible evidence of both discriminatory effect and discriminatory intent --- but bars access to the government's internal files without that threshold showing. Is this standard adequate to address concerns about politically motivated RICO deployments?
+
+4. *The bipartisan pattern.* The Georgia election prosecution was brought by a Democratic district attorney. The Soros investigation was directed by a Republican administration. The Lawler letter was written by Republican members of Congress targeting Democratic officials. Does this pattern suggest a problem? If so, does it lie in the decisions of particular prosecutors, in the structure of the statute, or both?
+:::
+
+## Conclusion
+
+This chapter opened with a question: when does collective activity become collective criminality? The cases and materials that followed show that RICO's answer depends less on the nature of the activity than on the breadth of the statute and the discretion of the prosecutor. The same enterprise framework that dismantled Pellicano's wiretapping ring was invoked against protesters sharing food and a former president making phone calls.
+
+This chapter has traced RICO's expansion from organized crime to corporate fraud, from street gangs to protest movements, from election disputes to philanthropic foundations. At each stage, the enterprise concept allowed prosecutors to reach conduct that traditional criminal law could not.
+
+The reforms proposed along the way address different pressure points. *Pinson*-style structural requirements constrain the enterprise element. AB 333's "more than reputational" standard constrains the pattern element. AB 2799 and the RAP Act constrain the evidence used to prove membership. The Justice Manual's centralized review constrains prosecutorial discretion at the federal level. Moses recommends repeal. None of these solutions has yet prevailed in Georgia, where the broadest RICO statute in the nation operates without centralized oversight, without a continuity requirement, and with false statements as predicate acts. Whether that breadth is a feature or a defect depends on where you draw the line between collective activity and collective criminality --- and who you trust to draw it.

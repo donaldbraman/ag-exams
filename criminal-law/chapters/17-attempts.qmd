@@ -1,0 +1,376 @@
+# Attempts
+
+> *The law as to what amounts to an attempt is of necessity vague.*
+>
+> — Sir James Fitzjames Stephen, *A History of the Criminal Law of England* 224 (1883)
+
+## Introduction
+
+When does thinking about committing a crime become attempting to commit one? The answer matters enormously: a defendant convicted of attempted murder may face decades in prison, while one who merely "prepared" to commit murder walks free.
+
+Attempt doctrine occupies a peculiar space in criminal law. Unlike most offenses, which punish completed harms, attempt punishes conduct that falls short of its goal. The defendant who fires at a victim and misses has caused no physical injury; the robbers who search for their target but never find him have taken no one's property. Yet both may face serious criminal liability. And in a growing number of cases, there is no genuine victim at all: more than half of federal counterterrorism convictions since 2001 have involved government informants or undercover agents, with many targeting defendants whose "plots" existed largely in the minds of the agents facilitating them.
+
+This chapter examines not only *how* courts draw the line between preparation and attempt, but whether the choices embedded in that line produce the outcomes the system claims to seek — why we punish attempts at all, how severely we should punish them relative to completed crimes, and whether, when the state itself creates the opportunity for an attempt, we are preventing crime or manufacturing it. We begin with the *mens rea* of attempt and the specific intent requirement that defines and limits the doctrine's reach, then turn to the *actus reus* — the three tests courts use to distinguish punishable attempt from mere preparation — and to the puzzle of impossibility. Finally, we examine attempt doctrine in practice: how attempts are graded for punishment, why the doctrine cannot reach corporate actors who cause mass harm, and how the substantial step test has enabled a regime of government sting operations whose relationship to crime prevention remains uncertain.
+
+### Common Law and Model Penal Code Compared
+
+The MPC's attempt provision has been enormously influential — but states have treated it as a grab bag of options rather than a coherent package. The following table compares the two frameworks across the four dimensions that matter most. As you read the cases that follow, refer back to this table to see which framework each court is applying and where the approaches diverge.
+
+`\small\renewcommand{\arraystretch}{1.4}`{=latex}
+
+| | **Common Law** | **Model Penal Code** |
+|:--|:--|:--|
+| **How close to completion?** | The defendant must come "dangerously near" to completing the crime. Courts ask how much remained to be done. Mere preparation — even extensive preparation — is not enough. *(Minority rule: ~8-15 states)* | Any "substantial step" that strongly corroborates criminal purpose is sufficient. Courts ask what the defendant has already done, not how much remains. *(Majority rule: ~30-34 states + all federal circuits)* |
+| **What if the crime was impossible?** | "Legal" impossibility is a defense; "factual" impossibility is not. But the distinction is notoriously unstable — the same facts can be characterized either way depending on how the crime is defined. *(Minority rule: ~10-13 states)* | Impossibility is irrelevant. If the defendant believed the circumstances made the conduct criminal, that is sufficient. The focus is on what the defendant thought was happening, not what actually was. *(Majority rule: ~37-40 states)* |
+| **Can the defendant change their mind?** | No. Once the defendant crosses the line from preparation to attempt, withdrawal is not a defense. The crime is complete and cannot be undone. *(Roughly half of states)* | Yes. Voluntary and complete abandonment is an affirmative defense, but the defendant must actually prevent the crime, not merely walk away. Renunciation motivated by fear of detection does not qualify. *(Roughly half of states)* |
+| **How severely is attempt punished?** | One grade below the completed offense, or half the maximum sentence. The law treats harm as morally relevant — a failed attempt is less serious than a completed crime. *(Majority rule: ~28-35 states)* | Same grade as the completed offense. The drafters argued that luck should not determine punishment — a defendant who does everything necessary but fails is equally culpable. *(Minority rule: ~9-13 states)* |
+
+: Common Law vs. Model Penal Code Approach to Attempts {tbl-colwidths="[15,42,43]"}
+
+`\normalsize\renewcommand{\arraystretch}{1.0}`{=latex}
+
+Although only a handful of states (New Jersey, Pennsylvania, Hawaii, and Delaware) adopted all of the MPC's elements, a sizable majority adopted the MPC's substantial step test and the abolition of impossibility defenses. States are still split on renunciation. For the most part, states also reject the notion that attempts should be punished as harshly as completed crimes — though we will see that this is not as simple as the table above suggests.
+
+## The Mens Rea of Attempt
+
+The *mens rea* of attempt is relatively straightforward, but it contains a trap for the unwary. Two requirements must be satisfied:
+
+*First*, the defendant must possess whatever mental state the underlying offense requires. If the target crime requires knowledge, the prosecution must prove knowledge. If it requires negligence, negligence suffices.
+
+*Second*, and more critically, if the underlying offense requires causing a particular *result*, the defendant must have intended that result. This is the "specific intent" requirement. The defendant must have acted with *purpose* to cause the result, or in some jurisdictions, with *belief* that it would occur.
+
+This creates an asymmetry: the *mens rea* for attempt is often higher than for the completed crime. A person who fires a gun recklessly but misses has done something seriously wrong, but has not *caused* a death. Causation is what separates the killer from the attempter. But while the completed crime of murder can rest on recklessness (depraved-heart theories), attempted murder requires intent to kill. Because attempt requires intent to cause the prohibited result, and involuntary manslaughter by definition involves no such intent, the two doctrines are logically incompatible: there can be neither attempted involuntary manslaughter nor attempted depraved-heart murder. Recall that depraved-heart murder requires only recklessness as to the victim's death, not a purpose to kill — so a defendant who *did* act with purpose to kill would be charged with attempted intentional murder, not attempted depraved-heart murder.
+
+The specific intent requirement can produce surprising results even outside the homicide context. Recall *State v. White* from Chapter 15, where parole officers found a gun in the master bedroom of the home White shared with his wife. The jury convicted White of *attempted possession* of a firearm by a convicted felon, but the Louisiana Supreme Court reversed: awareness of a firearm's presence, without proof of intent to exercise dominion or control, is insufficient for attempt liability. The case illustrates that the specific intent requirement applies across offense categories, not just to result crimes like murder.
+
+::: {.callout-note}
+### Model Penal Code Section 5.01 — Criminal Attempt
+
+(1) *Definition of Attempt.* A person is guilty of an attempt to commit a crime if, acting with the kind of culpability otherwise required for commission of the crime, he:
+
+> (a) purposely engages in conduct which would constitute the crime if the attendant circumstances were as he believes them to be; or
+
+> (b) when causing a particular result is an element of the crime, does or omits to do anything with the purpose of causing or with the belief that it will cause such result without further conduct on his part; or
+
+> (c) purposely does or omits to do anything that, under the circumstances as he believes them to be, is an act or omission constituting a substantial step in a course of conduct planned to culminate in his commission of the crime.
+:::
+
+### The Kill Zone Problem
+
+The specific intent requirement creates difficulties when defendants fire into crowds or create risks of death to multiple people. Can intent to kill one person support conviction for the attempted murder of another who happened to be nearby?
+
+California courts developed the "kill zone" theory to address this question. In *People v. Canizales*, 7 Cal.5th 591 (2019), the California Supreme Court clarified the theory's limits.
+
+## PEOPLE v. CANIZALES {#people-v-canizales .unnumbered .unlisted .case-title}
+
+*Supreme Court of California, 2019*
+*7 Cal.5th 591, 442 P.3d 686*
+
+At a neighborhood block party in Rialto, defendant Michael Canizales issued a gang challenge to two rival gang members, Denzell Pride and Travion Bolden. His codefendant, KeAndre Windfield, then fired five shots from a handgun at Pride and Bolden from a distance of 100 to 160 feet. Neither was hit, but a bystander, Leica Cooksey, was struck in the abdomen and killed. Canizales and Windfield were charged with the first-degree murder of Cooksey and the premeditated attempted murders of Pride and Bolden. The trial court instructed the jury on the kill zone theory, under which a defendant who intends to kill a primary target may also be convicted of the attempted murder of others within a "zone of fatal harm."
+
+The California Supreme Court reversed the attempted murder convictions. The court held that the kill zone theory may be applied only when the evidence supports the "only reasonable inference" that the defendant intended to create a zone of fatal harm and kill *everyone* within it to ensure the primary target's death. In determining whether the evidence supports the theory, courts should consider the type of weapon used, the number of shots fired, the distance between the defendant and the alleged victims, and the proximity of the alleged victims to the primary target.
+
+Applying these factors, the court found the evidence insufficient. Five shots from a handgun at 100-160 feet in an open outdoor area are not the type of force that creates a "zone of fatal harm" in the way that a bomb or a "hail of bullets" at close range might. The prosecutor had argued that the kill zone encompassed the "zone of fire" — the area where "people are within the zone that they can get killed" — but the court rejected this framing: the kill zone is defined not by the reach of the defendant's bullets but by the defendant's *intent* to kill everyone in a specific area to ensure the primary target's death. Conscious disregard of the risk of death is insufficient; the prosecution must prove the specific intent to kill each victim.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Unlike completed murder, where the defendant's intent can "transfer" from an intended victim to whoever is actually killed, attempt law does not permit transferred intent. Why not? What policy considerations support this distinction?
+
+2. A pharmaceutical executive markets a drug knowing it will cause many deaths but not intending any particular death. Has the executive created an analogous "kill zone"? Why can't attempt doctrine reach this conduct?
+:::
+
+## The Actus Reus of Attempt
+
+The *actus reus* of attempt presents the doctrine's most difficult puzzles. Courts must draw a line between "mere preparation," which is not punishable, and "attempt," which is. But where does one end and the other begin?
+
+Consider a defendant who plans to burn down a building for insurance money. She researches accelerants, purchases gasoline, drives to the building, and places the gasoline inside. At what point has she "attempted" arson?
+
+Courts have developed three principal tests to answer this question. A fourth historical test — the *res ipsa loquitur* or "equivocality" test, which asked whether the defendant's conduct, standing alone, unambiguously manifested criminal intent — attracted some early adherents but has been largely absorbed into the MPC's requirement that a substantial step "strongly corroborate" criminal purpose.
+
+### The Dangerous Proximity Test
+
+The oldest approach, associated with Justice Oliver Wendell Holmes, asks whether the defendant has come "dangerously near" or "dangerously close" to completing the crime. The proximity test reflects skepticism about punishing conduct that remains far from fruition. It preserves a *locus poenitentiae*, a "place for repentance," allowing defendants who have taken preliminary steps to change their minds before liability attaches.
+
+## COMMONWEALTH v. PEASLEE {#commonwealth-v-peaslee .unnumbered .unlisted .case-title}
+
+*Supreme Judicial Court of Massachusetts, 1901*
+*177 Mass. 267, 59 N.E. 55*
+
+::: {.case-excerpt}
+HOLMES, C.J. This is an indictment for an attempt to burn a building and certain goods therein, with intent to injure the insurers of the same.... The defense is that the overt acts alleged and proved do not amount to an offense.
+
+The evidence was that the defendant had constructed and arranged combustibles in the building in such a way that they were ready to be lighted, and if lighted would have set fire to the building and its contents. To be exact, the plan would have required a candle which was standing on a shelf six feet away to be placed on a piece of wood in a pan of turpentine and lighted. The defendant offered to pay a young man in his employment if he would go to the building, seemingly some miles from the place of the dialogue, and carry out the plan. This was refused. Later the defendant and the young man drove towards the building, but when within a quarter of a mile the defendant said that he had changed his mind, and drove away. This is as near as he ever came to accomplishing what he had in contemplation.
+
+The question on the evidence, more precisely stated, is whether the defendant's acts come near enough to the accomplishment of the substantive offense to be punishable. The statute does not punish every act done towards the commission of a crime, but only such acts done in an attempt to commit it. The most common types of an attempt are either an act which is intended to bring about the substantive crime, and which sets in motion natural forces that would bring it about in the expected course of events, but for an unforeseen interruption, as in this case if the candle had been set in its place and lighted, but had been put out by the police, or an act which is intended to bring about the substantive crime, and would bring it about but for a mistake of judgment in a matter of nice estimate or experiment, as when a pistol is fired at a man, but misses him, or when one tries to pick a pocket which turns out to be empty. In either case the would-be criminal has done his last act.
+
+Obviously new considerations come in when further acts on the part of the person who has taken the first steps are necessary before the substantive crime can come to pass. In this class of cases there is still a chance that the would-be criminal may change his mind. In strictness, such first steps cannot be described as an attempt, because that word suggests an act seemingly sufficient to accomplish the end.... That an overt act, although coupled with an intent to commit the crime, commonly is not punishable if further acts are contemplated as needful, is expressed in the familiar rule that preparation is not an attempt. But some preparations may amount to an attempt. It is a question of degree. If the preparation comes very near to the accomplishment of the act, the intent to complete it renders the crime so probable that the act will be a misdemeanor, although there is still a *locus poenitentiae*, in the need of a further exertion of the will to complete the crime....
+
+[W]e assume that there was evidence of a crime, and perhaps of an attempt. The latter question we do not decide.... If the indictment had been properly drawn, we have no question that the defendant might have been convicted.
+:::
+
+Holmes is characteristically coy: Peaslee's conduct was close to the line, but the court avoided ruling definitively on whether it crossed it. The case nevertheless established the framework that *Rizzo* would apply more decisively.
+
+## PEOPLE v. RIZZO {#people-v-rizzo .unnumbered .unlisted .case-title}
+
+*New York Court of Appeals, 1927*
+*246 N.Y. 334, 158 N.E. 888*
+
+::: {.case-excerpt}
+CRANE, J. The police of the city of New York did excellent work in this case by preventing the commission of a serious crime. It is a great satisfaction to realize that we have such wide-awake guardians of our peace. Whether or not the steps which the defendant had taken up to the time of his arrest amounted to the commission of a crime, as defined by our law, is, however, another matter.
+
+[...]
+
+Charles Rizzo, the defendant, with three others, Anthony J. Dorio, Thomas Milo, and John Thomasello, on January 14th planned to rob one Charles Rao of a pay roll valued at about $1,200 which he was to carry from the bank for the United Lathing Company. These defendants, two of whom had firearms, started out in an automobile, looking for Rao or the man who had the pay roll on that day. Rizzo claimed to be able to identify the man, and was to point him out to the others, who were to do the actual holding up.
+
+The four rode about in their car looking for Rao. They went to the bank from which he was supposed to get the money and to various buildings being constructed by the United Lathing Company. At last they came to One Hundred and Eightieth street and Morris Park avenue. By this time they were watched and followed by two police officers. As Rizzo jumped out of the car and ran into the building, all four were arrested. The defendant was taken out from the building in which he was hiding. Neither Rao nor a man named Previti, who was also supposed to carry a pay roll, were at the place at the time of the arrest. The defendants had not found or seen the man they intended to rob. No person with a pay roll was at any of the places where they had stopped, and no one had been pointed out or identified by Rizzo.
+
+Does this constitute the crime of an attempt to commit robbery in the first degree? The Penal Law, § 2, prescribes: "An act, done with intent to commit a crime, and tending but failing to effect its commission, is 'an attempt to commit that crime.'" The word "tending" is very indefinite. It is perfectly evident that there will arise differences of opinion as to whether an act in a given case is one *tending* to commit a crime. "Tending" means to exert activity in a particular direction. Any act in preparation to commit a crime may be said to have a tendency towards its accomplishment. The procuring of the automobile, searching the streets looking for the desired victim, were in reality acts tending toward the commission of the proposed crime.
+
+The law, however, has recognized that many acts in the way of preparation are too remote to constitute the crime of attempt. The line has been drawn between those acts which are remote and those which are proximate and near to the consummation. The law must be practical, and therefore considers those acts only as tending to the commission of the crime which are so near to its accomplishment that in all reasonable probability the crime itself would have been committed, but for timely interference....
+
+How shall we apply this rule of immediate nearness to this case? The defendants were looking for the pay roll man to rob him of his money.... Did the acts above described come dangerously near to the taking of Rao's property? Did the acts come so near the commission of robbery that there was reasonable likelihood of its accomplishment but for the interference? Rao was not found; the defendants were still looking for him; no attempt to rob him could be made, at least until he came in sight; he was not in the building at One Hundred and Eightieth street and Morris Park avenue. There was no man there with the pay roll for the United Lathing Company whom these defendants could rob....
+
+In a word, these defendants had planned to commit a crime, and were looking around the city for an opportunity to commit it, but the opportunity fortunately never came. Men would not be guilty of an attempt at burglary if they had planned to break into a building and were arrested while they were hunting about the streets for the building not knowing where it was. Neither would a man be guilty of an attempt to commit murder if he armed himself and started out to find the person whom he had planned to kill but could not find him. So here these defendants were not guilty of an attempt to commit robbery in the first degree when they had not found or reached the presence of the person they intended to rob.
+
+For these reasons, the judgment of conviction of this defendant appellant must be reversed and a new trial granted.
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Both *Peaslee* and *Rizzo* apply the dangerous proximity test, yet Peaslee might have been convicted while Rizzo was acquitted. What distinguishes the cases?
+
+2. From a deterrence perspective, which defendant seems more dangerous: the one who changes his mind a quarter-mile from the target, or the one who arms himself and searches the city for his victim? Does the proximity test reach the right results?
+
+3. In *Hyde v. United States*, 225 U.S. 347, 388 (1912), Holmes dissented that "if all that were done should be an agreement to murder a man 50 miles away, and the purchase of a pistol for the purpose," there would be no attempt because there must be "dangerous proximity to success." Is this the right outcome?
+:::
+
+### The Modern Proximity Test: *Lendof-Gonzalez*
+
+New York remains one of the few jurisdictions that adheres strictly to the dangerous proximity test. A recent case illustrates its operation in the context of murder-for-hire schemes.
+
+## PEOPLE v. LENDOF-GONZALEZ {#people-v-lendof-gonzalez .unnumbered .unlisted .case-title}
+
+*New York Court of Appeals, 2020*
+*36 N.Y.3d 87, 163 N.E.3d 15*
+
+::: {.case-excerpt}
+While being held in the Niagara County Jail on domestic violence charges, the defendant passed notes to the inmate in the adjoining cell (MS), proposing a deal: he would give MS a house if MS killed his wife and mother-in-law using "shop heroin and new drugs." Over several days, the defendant provided detailed instructions, including how to stage the scene as a drug overdose and a hand-drawn map. After receiving the notes, MS immediately alerted jail authorities. Under police direction, MS feigned agreement. When MS later called the jail and confirmed that the murders had been carried out, the defendant replied that he was "happy."
+
+The defendant was convicted of attempted murder, but the Appellate Division reversed. The Court of Appeals affirmed the reversal, holding that the evidence was insufficient under New York's "dangerously close" standard. The defendant's conduct amounted to no more than conversations, notes, and planning. No weapons were acquired; no one traveled to the scene; no "dry run" was conducted. The court contrasted cases where defendants took physical steps beyond planning, such as *People v. Trepanier*, where a defendant made advance payment to a pseudo-arsonist, removed boards from a window, and left it open for entry. Here, the plan remained entirely in the realm of conversation and note-passing.
+
+The fact that MS was an informant did not excuse the prosecution from proving proximity. Even if the defendant believes the crime has been completed, his own actions must still cross the line from preparation to attempt. The court declined to adopt the MPC's "substantial step" test, and the defendant was convicted of criminal solicitation rather than attempt. Criminal solicitation requires only that the defendant request or encourage another person to commit a crime; unlike attempt, no substantial step or dangerous proximity to completion is required.
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Compare *Lendof-Gonzalez* to *Rizzo*. In both cases, the defendants' plans failed because the necessary conditions for completion never materialized. Does it matter that Rizzo was actively searching for his victim while Lendof-Gonzalez was confined to a jail cell?
+
+2. Lendof-Gonzalez was convicted of criminal solicitation but acquitted of attempt. Is the distinction meaningful when the defendant has provided detailed plans and believes the crime has already been carried out?
+:::
+
+### The Substantial Step Test
+
+The Model Penal Code takes a different approach. Rather than asking how close the defendant came to completion, the MPC asks whether the defendant has taken a "substantial step" that is "strongly corroborative" of criminal intent. This test focuses on what the defendant has already done, rather than what remains to be done.
+
+::: {.callout-note}
+### Model Penal Code Section 5.01(2) — Conduct Which May Be Held Substantial Step
+
+Conduct shall not be held to constitute a substantial step under Subsection (1)(c) of this Section unless it is strongly corroborative of the actor's criminal purpose. Without negativing the sufficiency of other conduct, the following, if strongly corroborative of the actor's criminal purpose, shall not be held insufficient as a matter of law:
+
+> (a) lying in wait, searching for or following the contemplated victim of the crime;
+
+> (b) enticing or seeking to entice the contemplated victim of the crime to go to the place contemplated for its commission;
+
+> (c) reconnoitering the place contemplated for the commission of the crime;
+
+> (d) unlawful entry of a structure, vehicle or enclosure in which it is contemplated that the crime will be committed;
+
+> (e) possession of materials to be employed in the commission of the crime, which are specially designed for such unlawful use or which can serve no lawful purpose of the actor under the circumstances;
+
+> (f) possession, collection or fabrication of materials to be employed in the commission of the crime, at or near the place contemplated for its commission, where such possession, collection or fabrication serves no lawful purpose of the actor under the circumstances;
+
+> (g) soliciting an innocent agent to engage in conduct constituting an element of the crime.
+:::
+
+The substantial step test shifts attempt liability earlier in the sequence of criminal conduct. Under this approach, Rizzo would likely be guilty: searching for a victim, possessing weapons, and reconnoitering potential locations all appear on the MPC's list. And Lendof-Gonzalez? The solicitation, combined with the detailed plans, would almost certainly satisfy the test.
+
+But the MPC couples this earlier intervention with a defense not available at common law: abandonment.
+
+::: {.callout-note}
+### Model Penal Code Section 5.01(4) — Renunciation of Criminal Purpose
+
+When the actor's conduct would otherwise constitute an attempt under Subsection (1)(b) or (1)(c) of this Section, it is an affirmative defense that he abandoned his effort to commit the crime or otherwise prevented its commission, under circumstances manifesting a complete and voluntary renunciation of his criminal purpose. [...]
+
+Within the meaning of this Article, renunciation of criminal purpose is not voluntary if it is motivated, in whole or in part, by circumstances, not present or apparent at the inception of the actor's course of conduct, which increase the probability of detection or apprehension or which make more difficult the accomplishment of the criminal purpose. Renunciation is not complete if it is motivated by a decision to postpone the criminal conduct until a more advantageous time or to transfer the criminal effort to another but similar objective or victim.
+:::
+
+This creates a different incentive structure. Under the proximity test, defendants gain nothing by abandoning early; they must wait until they are "dangerously close" before liability attaches, but by then abandonment provides no defense. Under the MPC, liability attaches earlier, but defendants who genuinely change their minds can assert the abandonment defense.
+
+A recent case illustrates how abandonment operates in practice. In 2022, Sophie Roske traveled from California to Maryland with a pistol, knife, and zip ties, intending to assassinate Supreme Court Justice Brett Kavanaugh. She was dropped off by taxi outside the Justice's home just after 1 a.m. But when she noticed U.S. Marshals guarding the residence, she walked away. Her sister, alarmed by a text message, called Roske back and urged her to stand down. Roske then called 911 about 33 minutes after arriving. At sentencing in 2025, the judge credited her voluntary abandonment and sentenced her to 97 months — just over 8 years — rather than the 30 years to life prosecutors sought, observing that "if she had not called 911, law enforcement would never have known about Sophie Roske and her plot to kill a Supreme Court justice." Roske had pleaded guilty in federal court, which does not formally recognize the MPC's abandonment defense to attempt; but the sentencing judge treated her voluntary surrender as a significant mitigating factor under 18 U.S.C. § 3553(a), illustrating how abandonment principles can shape outcomes even where the defense is unavailable as a matter of law.
+
+### Attempt and Sentencing Enhancement: From *St. Hubert* to *Taylor*
+
+The substantial step test's implications extend beyond attempt liability itself. Federal law imposes severe sentencing enhancements — a mandatory consecutive sentence of at least five years, and up to life for certain weapons or repeat offenders — when a defendant uses a firearm "during and in relation to" a "crime of violence" (18 U.S.C. § 924(c)). The question is whether *attempted* robbery qualifies. In *United States v. St. Hubert*, 909 F.3d 335 (11th Cir. 2018), the Eleventh Circuit held that it does.
+
+Three years later, the Supreme Court disagreed. The Hobbs Act (18 U.S.C. § 1951) defines robbery as the unlawful taking of property through actual or threatened force, and because it is a federal statute, it applies only when the robbery affects interstate commerce. Under the "categorical approach" the Court uses in this context, the question is not what the defendant actually did but what the statute's elements require at a minimum: if a person could violate the statute without using force, then the offense does not categorically qualify as a "crime of violence." In *United States v. Taylor*, 596 U.S. 845 (2022), Justice Gorsuch wrote for a 7-2 majority that attempted Hobbs Act robbery is *not* a crime of violence. Because a "substantial step" can be satisfied by purely preparatory conduct that involves no force whatsoever (researching a target, purchasing a ski mask, entering a store before delivering any threat), the offense does not categorically require the use, attempted use, or threatened use of force.
+
+### Comparing the Tests: Routh, Garner, and the Gray Zone
+
+The choice between proximity and substantial step tests matters most in cases that fall between clear preparation and clear attempt. Two recent cases illustrate the stakes.
+
+::: {.callout-note}
+### In the News: The Trump Golf Course Assassination Attempt
+
+On September 15, 2024, Secret Service agents spotted a rifle barrel poking through shrubbery at Trump International Golf Club in West Palm Beach while former President Trump was golfing. An agent fired toward the bushes, and the suspect, Ryan Wesley Routh, fled without firing a shot. At trial, Routh represented himself and argued that "he never pulled the trigger and Trump was never in his line of sight." Prosecutors responded with evidence of multiple reconnaissance trips to the golf course, a letter describing a "failed assassination attempt" and offering a bounty for anyone who could "finish the job," and a loaded rifle with its serial number obliterated. The jury convicted after roughly two and a half hours of deliberation. Routh was sentenced to life in prison.
+
+*Sources: NPR, September 23, 2025; DOJ Press Release, February 2026*
+:::
+
+::: {.callout-note}
+### In the News: The Smith Rock Mass Shooting Plot
+
+In October 2023, Samson Garner left Portland carrying an AR-15 rifle, two handguns, ammunition, and a tactical vest. He had emailed his ex-girlfriend: "I read an email about the Smith Rock Craggin' Classic, and my mind immediately thought about killing people rock climbing there." Police arrested Garner at a trailhead near Tumalo, roughly 20 miles south of Smith Rock State Park, one day before the festival. He had not yet arrived at the event site. A jury convicted him of 26 felonies, including attempted first-degree murder, and he was sentenced to 30 years. Under the proximity test, the result might well have been different.
+
+*Source: OPB, November 11, 2025*
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Under the MPC's substantial step test, which of Routh's actions qualify? Consider: lying in wait, reconnoitering the place, possession of materials.
+
+2. Compare Routh to Roske. Both were interrupted before firing a shot. Routh was convicted and sentenced to life; Roske pleaded guilty and received 97 months after voluntarily surrendering. Should the law treat voluntary and involuntary interruption differently?
+
+3. Garner was convicted of attempted murder despite never arriving at Smith Rock. Under the proximity test, was he "dangerously close" to completion? Does Garner's case show the substantial step test reaching the right results, or overcriminalizing preparation?
+:::
+
+## Impossibility: Lady Eldon's French Lace
+
+The tests we have examined so far assume that the crime the defendant is attempting is possible to complete. But what happens when it is not? Sometimes the defendant's plan cannot succeed — not because of bad luck or police intervention, but because the very facts underlying the attempt are different from what the defendant believes.
+
+::: {.callout-note}
+### Problem: Lady Eldon's Lace
+
+Lady Eldon, wife of the Lord Chancellor of England, travels to France. While there, she purchases what she believes to be expensive French lace, which she knows to be contraband in England. She smuggles the lace through customs, believing she is committing a crime.
+
+*Version A:* Unknown to Lady Eldon, Parliament has recently removed French lace from the list of prohibited imports.
+
+*Version B:* Unknown to Lady Eldon, the merchant cheated her: the lace is actually ordinary English lace, which was never prohibited.
+
+In both versions, Lady Eldon believed she was smuggling contraband. Should she be guilty of attempted smuggling?
+:::
+
+Courts traditionally distinguished between "legal impossibility" (a defense) and "factual impossibility" (not a defense). But this distinction is unstable. If the crime is "smuggling French lace," Version A is legal impossibility and Version B is factual. If the crime is "smuggling contraband," both versions involve factual impossibility.
+
+The MPC cuts through this by abolishing the impossibility defense entirely. Under § 5.01(1)(a), a defendant is guilty of attempt by "purposely engag[ing] in conduct which would constitute the crime if the attendant circumstances were as he believes them to be." Under this approach, Lady Eldon is guilty in both versions.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Two men in Miami were convicted of attempting to murder a judge when they purchased a lock of his hair and mailed it to a voodoo practitioner in Jamaica who promised to kill the judge with incantations. Under the MPC, this is clearly attempted murder. Is this the right result?
+
+2. In *People v. Jade* (Mich. S.Ct., argued January 2026), police posted an ad on an adults-only escort website using a profile that appeared to be a 20-year-old woman. When the defendant responded, the decoy revealed: "I'm actually 15, is that okay?" No 15-year-old ever existed. Under the MPC, the defendant is guilty because the circumstances were not as he believed. But the Michigan Supreme Court is considering whether the bait-and-switch technique constitutes entrapment. Entrapment — a defense we will examine in detail in Chapter 21 — arises when the government induces a person to commit a crime that the person was not otherwise predisposed to commit. Does impossibility doctrine adequately address cases where the government creates both the criminal opportunity *and* the factual impossibility?
+:::
+
+## Punishment of Attempts
+
+At common law, attempts were misdemeanors regardless of the underlying offense. Today, most jurisdictions punish attempts at some fraction of the completed crime. The MPC takes a different approach, grading attempts the same as the completed offense (except for capital crimes and first-degree felonies). The drafters argued that the same "antisocial disposition" is revealed whether the crime succeeds or fails, and that attempt grading cannot plausibly affect deterrence.
+
+Most legislatures have rejected this reasoning. Experimental psychology suggests why. In a series of ten preregistered experiments (N=2,043), [Kneer and Skoczeń (2022)](https://doi.org/10.1016/j.cognition.2022.105258){.cite} found that learning a harmful outcome occurred — rather than a neutral one — significantly increased participants' judgments of both culpability and deserved punishment, with effect sizes ranging from d=0.44 to d=1.22. The mechanism appears to be outcome-driven reassessment: once people learn that harm occurred, they retrospectively inflate the actor's perceived culpability and the foreseeability of the result. The finding bears directly on the attempt-completion gap, because the same conduct is judged more harshly when it produces harm than when it does not. Robinson and Darley (1995) found the same result: laypeople accept that attempts should be criminal but reject equal grading. The MPC's approach conflicts with deeply held intuitions about the moral relevance of outcomes.
+
+The deterrence literature confirms the MPC's intuition from an unexpected direction. [Daniel Nagin's comprehensive review (2013)](https://www.journals.uchicago.edu/doi/abs/10.1086/670398){.cite} found that certainty of apprehension deters far more effectively than severity of punishment. Potential offenders rarely know the specific penalties for attempt versus completed offenses, so marginal grading differences cannot plausibly influence behavior.
+
+Yet in one critical context, the law treats attempts as *more* severely punishable than the underlying offense would suggest. Recall the felony murder rule from Chapter 14: the federal murder statute (18 U.S.C. § 1111) triggers first-degree murder liability for deaths committed during the "attempt to perpetrate" robbery, burglary, kidnapping, or other predicate felonies. Ohio's misdemeanor manslaughter statute does the same for deaths caused during attempted misdemeanors. A botched robbery that results in a bystander's death can carry a life sentence, even though the robbery itself was never completed. The attempt, in these cases, is not graded lower than the completed crime. It is graded *higher* — because the law attaches the punishment for the unintended death to the incomplete predicate offense.
+
+### Three Ways Legislatures Punish Attempts
+
+The grading debate is largely about the *general* attempt statute: the default rule that applies when no offense-specific provision says otherwise. But legislatures have two other ways to punish attempts, and both approaches effectively result in same-grade punishment for the offenses they care most about.
+
+*Path 1: The general attempt statute.* This is what we have been discussing. Most states reduce by one grade or cap at half the maximum. Only about a dozen follow the MPC's same-grade approach. This is the default, but it is increasingly the residual category — the rule that applies only when Congress or the legislature has not spoken more specifically.
+
+*Path 2: Offense-specific attempt riders.* Congress and state legislatures increasingly write "attempts or conspires to" directly into the offense definition, with the same penalty as the completed crime. The most consequential example is 21 U.S.C. § 846, the federal drug attempt statute: "Any person who attempts or conspires to commit any offense defined in this subchapter shall be subject to the same penalties as those prescribed for the offense." As we saw in Chapter 15, federal drug mandatory minimums are keyed to drug quantity. Section 846 means those mandatory minimums apply in full to a defendant arrested *before completing* a drug transaction. The same pattern appears in 18 U.S.C. § 1349 (fraud, covering the entire federal fraud chapter), § 1951 (Hobbs Act robbery and extortion), § 2241 (aggravated sexual abuse, including a 30-year mandatory minimum for attempts involving children under 12 under subsection (c)), and the major terrorism statutes. When Congress builds attempt into the offense definition, the federal sentencing guidelines' three-level reduction for attempt (USSG § 2X1.1) does not apply; the specific offense guideline governs directly.
+
+*Path 3: Structurally inchoate offenses.* Some crimes are, by definition, completed attempts. Burglary requires only entry with intent to commit a felony; the target felony need not occur. In jurisdictions that define assault as attempted battery, the assault *is* the completed attempt. Forgery is complete upon making a false instrument with intent to defraud; the fraud need not occur. These offenses carry full penalties because the "attempt" is the *actus reus* of the completed crime — there is no reduction to apply.
+
+The pattern reveals a gap between what legislatures say and what they do. Formally, most states reject the MPC's same-grade punishment through their general attempt statutes. Functionally, they impose it for drugs, terrorism, fraud, violent crime, and sex offenses through Paths 2 and 3. The grading reduction survives mainly for the offenses that generate the least political pressure: the residual category of crimes where the legislature has not bothered to specify.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Two defendants fire shots at victims: one kills, one misses. The victim's death or survival is entirely a matter of luck. Should luck affect punishment?
+
+2. Sigfredo Garcia was hired to kill law professor Dan Markel and shot him twice in the head. Garcia received life without parole. (We examine this case further in Chapter 18.) Had Markel survived, Garcia would have faced attempted murder charges. Should the punishment differ based on whether Markel lived or died?
+
+3. Under felony murder, a defendant who *attempts* a robbery and causes a death faces first-degree murder charges. Under attempt grading, a defendant who *attempts* a murder faces reduced punishment. The same defendant who tries to rob a store and accidentally kills someone is punished more severely than one who tries to kill someone and fails. Is this coherent?
+
+4. Section 846 means a defendant arrested in a government sting *before any drugs change hands* faces the same mandatory minimum as a completed trafficking offense. Does this make sense? Does it matter that sting operations (discussed below) account for a significant share of federal drug prosecutions?
+
+5. Burglary is a completed crime the moment the defendant enters with intent. "Attempted burglary" — arrested while picking the lock — is logically an attempt to commit an attempt. Courts accept the charge, but is it coherent? At what point does layering inchoate liability become absurd?
+:::
+
+## Attempt Doctrine in Practice
+
+The grading debate assumes that attempt doctrine reaches the right defendants and asks how severely to punish them. But what if the doctrine's threshold requirements (particularly the specific intent requirement) systematically exclude certain categories of harmful actors? And what if the doctrine's broad reach enables the state to manufacture the very crimes it punishes?
+
+### Who Attempt Doctrine Misses
+
+The Insys Therapeutics case illustrates the gap concretely. In *United States v. Simon*, 12 F.4th 1 (1st Cir. 2021), John Kapoor and four other executives were convicted of federal conspiracy and fraud charges (the racketeering statute under which they were charged, RICO, is examined in Chapter 20) for a scheme to bribe doctors to prescribe Subsys, a potent fentanyl spray approved only for cancer patients with breakthrough pain. Insys ran a sham "Speaker Program" that paid kickbacks to high-prescribing doctors and an "Insurance Reimbursement Center" whose employees impersonated doctors' office staff to mislead insurers into covering off-label prescriptions. The First Circuit affirmed the convictions.
+
+The executives were convicted of RICO conspiracy, fraud, and controlled substances violations — but not attempted murder. They knew their scheme would cause deaths. They proceeded anyway. But because their purpose was profit rather than death, attempt doctrine could not reach them. Kapoor received 66 months. In the Purdue Pharma case, the Sackler family agreed to pay approximately $6.5 billion (of a $7.4 billion total settlement) as part of the Purdue Pharma bankruptcy, with no individual prison time, despite hundreds of thousands of opioid deaths in which Purdue's marketing played a significant role. Federal attempted murder convictions routinely produce sentences many times longer.
+
+### Sting Operations and Manufactured Crime
+
+The substantial step test creates a different problem. By moving the attempt line earlier, it appears to encourage very aggressive proactive law enforcement: the state can intervene before any genuine harm is imminent. This creates opportunities for prevention. It also creates opportunities for manufacture.
+
+The most prominent recent case of government-facilitated criminal planning arose during the COVID-19 pandemic. In *United States v. Croft*, Nos. 23-1014, 23-1029 (6th Cir. 2025), Adam Fox and Barry Croft Jr. conspired with others to kidnap Michigan Governor Gretchen Whitmer from her vacation cottage. The plan evolved over months of encrypted communications, more than 13,000 pages of encrypted messages in total. The conspirators discussed transporting Whitmer to Wisconsin for a "citizen's trial" or abandoning her in a disabled boat on Lake Michigan or simply "capping" her if she answered the door to her house. They conducted multiple surveillance trips, nighttime reconnaissance using night-vision goggles, tactical training exercises, and construction of improvised explosive devices.
+
+But the conspirators were not alone. The FBI had infiltrated the group early. Defense attorneys identified at least twelve confidential informants and at least two undercover agents embedded within the conspiracy. The lead informant, Dan Chappel, rose to become the group's second-in-command and was paid approximately $54,000. He drove Fox, who lived and worked in a vacuum shop basement, to surveillance trips and served as what trial testimony described as a "father figure." One undercover agent, "Red," posed as an explosives expert and arranged the purchase that triggered the arrests.
+
+Of the fourteen defendants charged across federal and state courts, five were ultimately acquitted — two at the federal trial and three in state proceedings. The divergent outcomes illuminate the limits of attempt doctrine. Adam Fox proposed the kidnapping, drew maps on two surveillance trips to the governor's cottage, and kept a kidnapping kit containing rope and flex cuffs. Barry Croft built and detonated improvised explosive devices at training exercises and photographed bridge undersides for potential bomb placement. Both were convicted at retrial — Fox received 192 months (16 years); Croft received 235 months (nearly 20 years). The Sixth Circuit affirmed unanimously, finding "insufficient evidence in the record to establish that the government planted the idea of kidnapping ... harming governors, including Governor Whitmer, or the use of bombs" The Supreme Court denied certiorari in January 2026.
+
+But two other defendants — Daniel Harris, a former Marine, and Brandon Caserta, a self-described anarchist — were acquitted at the same trial. Neither had participated in the surveillance trips to the governor's cottage. Harris testified that he joined the group to "drink beer, shoot guns, and talk about girls." Caserta's lawyer called it "the conspiracy that just never was." The jury concluded that whatever "substantial steps" these defendants took were inseparable from the government's orchestration. The same conspiracy, the same informants, the same ratio of roughly twelve government agents to fourteen defendants; yet the doctrine produced opposite results depending on which defendant you examine.
+
+The Whitmer case reflects a broader pattern in federal terrorism prosecution. In a study of 580 cases from 2001 to 2014, Norris and Grol-Prokopczyk found that 54.7% involved government informants; only approximately 9% of jihadi-related cases appeared to have thwarted genuinely threatening plots. [Human Rights Watch](https://www.hrw.org/report/2014/07/21/illusion-justice/human-rights-abuses-us-terrorism-prosecutions){.cite} documented that roughly half of more than 500 federal terrorism convictions were informant-based, and identified eight defendants (among 27 cases it examined in depth) with serious mental illness or intellectual disabilities who were recruited by government informants. A [separate analysis](https://doi.org/10.1177/2332649218756136){.cite} by Norris and Grol-Prokopczyk found that 60.8% of sting targets were Muslim, and Black Muslims scored nearly twice as high as white non-Muslims on the overall entrapment indicator scale, and were more than three times as likely to have eight or more entrapment indicators. The entrapment defense, which asks whether the defendant was "predisposed" to commit the crime before government contact, has proven essentially nonfunctional in this context.
+
+The pattern extends beyond terrorism. The Internet Crimes Against Children task forces made over 12,600 arrests in fiscal year 2024, many through online stings. In *People v. Jade*, now pending before the Michigan Supreme Court, the court is considering whether the GHOST Task Force's "bait-and-switch" technique — posting on adults-only websites, then revealing the purported escort is underage — constitutes entrapment. No rigorous empirical study has examined whether these stings deter actual offending against real children.
+
+If sting operations are partly a consequence of how broadly American law defines attempt, it is worth asking whether other systems have found ways to intervene early without the same risks. German criminal law uses a "beginning of execution" standard with a statutory abandonment defense that provides complete exemption for voluntary renunciation. English law distinguishes between "attempt" and lesser preparatory offenses such as "going equipped for stealing," allowing earlier intervention without the full sanctions of attempt. These graduated approaches suggest that the binary choice between proximity and substantial step is not the only way to design a system for early intervention.
+
+We will return to the Whitmer case when we study accomplice liability (Chapter 18), conspiracy (Chapter 19), and the entrapment defense (Chapter 21).
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. The FBI had at least twelve informants and two undercover agents embedded in a group of fourteen defendants. At what point does government infiltration become government creation? Should it matter whether the informants "planted the idea" if they provided the means, the motivation, and the momentum?
+
+2. If only 9% of jihadi-related federal terrorism cases appear to have thwarted genuinely threatening plots, what is the justification for the other 91%?
+
+3. Should the entrapment defense shift from "predisposition" (was the defendant already willing?) to "government overreach" (did the government cross a line regardless of the defendant's predisposition)?
+:::
+
+## Attempt and System Design
+
+Attempt doctrine is designed to identify defendants who have moved beyond mere thought to action. But which defendants does it actually capture?
+
+The traditional common law test of conduct that reaches a "dangerous proximity" to completion of a crime preserves defendants' opportunity to change their minds and avoids punishing conduct that might never have resulted in harm. The substantial step test enables earlier intervention: it allows the state to act earlier, but also enables the manufacture of crime, as the sting operation data demonstrates. Neither test addresses the deeper asymmetries in enforcement.
+
+Consider how attempt doctrine applies across the cases we have studied this semester:
+
+In *Garcia,* the murder-for-hire plot involved extensive planning and preparation; had law enforcement intervened earlier, Garcia could have been prosecuted for attempt under either test. In *Purdue Pharma,* the executives knew their marketing would cause deaths and proceeded anyway — yet the doctrine designed to capture Garcia provides no traction against corporate actors who cause far greater harm. And in *Croft,* the FBI embedded more informants in the Whitmer conspiracy than there were federal defendants; two of the six federal defendants were acquitted, with the entrapment defense succeeding for some and failing for others in the same plot.
+
+This is the architecture of enforcement at work. Attempt doctrine is finely calibrated to catch individuals who plan discrete crimes against identifiable victims. It is largely useless against systemic harms caused by institutional actors. And it may, through sting operations, generate criminal liability where none would otherwise exist.
+
+::: {.callout-tip}
+### Final Questions
+
+1. Consider the tests we have examined: dangerous proximity and substantial step. Each draws the line between preparation and attempt differently. Which best serves the purposes of criminal law? Which creates the best incentives for would-be offenders?
+
+2. The MPC's abandonment defense rewards defendants who change their minds. Should such a defense be available? How should courts distinguish genuine renunciation from strategic retreat?
+
+3. Attempt doctrine requires specific intent for result crimes. This makes it difficult to charge defendants who knowingly create risks of death without intending to kill any particular person. Should the law be different?
+
+4. You are a prosecutor with limited resources. You can pursue (a) sting operations targeting individuals who express violent intentions online, (b) investigations of corporate actors whose products have caused documented deaths, or (c) focused deterrence programs (which combine direct warnings, community outreach, and social services for the highest-risk individuals). The evidence suggests that certainty of apprehension matters far more than severity of punishment, and that focused deterrence has the strongest track record for reducing violence, but it does not produce attempt prosecutions. How do you allocate your resources?
+:::

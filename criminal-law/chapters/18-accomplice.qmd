@@ -1,0 +1,303 @@
+# Accomplice Liability
+
+When multiple parties contribute to a criminal act, the law must determine how to apportion responsibility among them. American jurisdictions use two primary doctrines to address group criminality: *complicity* and *conspiracy*. While conspiracy is a separate, inchoate offense distinct from the underlying crimes a group intends to commit, accomplice liability attaches the underlying offense to those who help another person commit it.
+
+## The Dan Markel Murder
+
+On July 18, 2014, Dan Markel, a law professor at Florida State University, was shot in the head in his driveway in Tallahassee. He died the next day. The investigation would eventually reveal a murder-for-hire conspiracy stretching from the triggerman to family members who conceived, financed, and orchestrated the killing.
+
+The case involved six participants at every level of culpability. *Sigfredo Garcia* was the triggerman: he drove from South Florida, waited for Markel to return home, and shot him through his car window; he was convicted of first-degree murder and sentenced to life without parole. *Luis Rivera*, the second shooter, eventually pleaded guilty to second-degree murder and received a 19-year sentence in exchange for testimony against others. *Katherine Magbanua*, who had dated Garcia and was romantically involved with Charlie Adelson, recruited the shooters and served as the conduit for payments; she was convicted of first-degree murder in 2022. *Charlie Adelson*, Markel's former brother-in-law, conceived the plot amid a bitter custody dispute between his sister Wendi and Markel; he was convicted of first-degree murder in 2023. *Donna Adelson*, Charlie's mother, helped finance the killing by writing checks that were funneled to the shooters; she was convicted in 2025 on all counts and sentenced to life in prison. *Wendi Adelson*, Markel's ex-wife, has never been charged, though prosecutors have suggested she may have known about or encouraged the plot.
+
+In a case like this, treating every participant as a principal — equally liable for the murder — has intuitive appeal. Each played a necessary role; each bore genuine moral responsibility for the killing. But as the materials that follow will show, this equal-punishment rule does not always fit so comfortably.
+
+#### Note: Solicitation
+
+Solicitation — requesting or encouraging another person to commit a crime — is a separate inchoate offense, complete upon the asking regardless of whether the solicited person agrees. MPC Section 5.02 defines it as commanding, encouraging, or requesting another person to commit a crime "with the purpose of promoting or facilitating its commission." When the solicited crime is actually carried out, the solicitation merges into the completed offense, and the solicitor is prosecuted as an accomplice rather than for solicitation alone. In the Markel case, Donna Adelson's alleged recruitment of intermediaries to arrange the killing began as solicitation and became accomplice liability when the murder was carried out.
+
+## Statutory Framework
+
+Both federal law and most state statutes treat accomplices as principals, punishable equally with those who directly commit the offense. The Model Penal Code provides the analytical framework that most jurisdictions follow:
+
+::: {.callout-note}
+### Model Penal Code Section 2.06 — Liability for Conduct of Another; Complicity
+
+> (1) A person is guilty of an offense if it is committed by his own conduct or by the conduct of another person for which he is legally accountable, or both.
+>
+> (2) A person is legally accountable for the conduct of another person when:
+>
+>> (a) acting with the kind of culpability that is sufficient for the commission of the offense, he causes an innocent or irresponsible person to engage in such conduct; or
+>>
+>> (b) he is made accountable for the conduct of such other person by the Code or by the law defining the offense; or
+>>
+>> (c) he is an accomplice of such other person in the commission of the offense.
+>
+> (3) A person is an accomplice of another person in the commission of an offense if:
+>
+>> (a) with the purpose of promoting or facilitating the commission of the offense, he
+>>
+>>> (i) solicits such other person to commit it, or
+>>>
+>>> (ii) aids or agrees or attempts to aid such other person in planning or committing it, or
+>>>
+>>> (iii) having a legal duty to prevent the commission of the offense, fails to make proper effort so to do; or
+>>
+>> (b) his conduct is expressly declared by law to establish his complicity.
+>
+> [...]
+>
+> (6) Unless otherwise provided by the Code or by the law defining the offense, a person is not an accomplice in an offense committed by another person if:
+>
+>> [...]
+>>
+>> (b) the offense is so defined that his conduct is inevitably incident to its commission; [...]
+:::
+
+Note the critical distinction in Section 2.06(3)(a): the accomplice must act "with the *purpose* of promoting or facilitating the commission of the offense." This purpose requirement is the principal constraint on the reach of accomplice liability. Section 2.06(7), omitted from the excerpt above, provides that an accomplice may be convicted even if the principal has been acquitted, has an immunity, or was convicted of a different offense. Finally, note that the actus reus is either *aiding* or *attempting to aid*, a very low bar. Let's put this all together: an accomplice can be a person who, entirely unbeknownst to the principal, attempts — but fails — to provide aid to the principal, and may be convicted even if the principal is not or cannot be convicted of the predicate offense.
+
+## The Actus Reus of Accomplice Liability
+
+The threshold for the physical act of accomplice liability is surprisingly low. Courts have found the *actus reus* satisfied by mere presence combined with encouragement, even where the assistance was ultimately unnecessary to the commission of the crime. Mere presence alone, without more, is insufficient — but as the following case shows, it does not take much more. As the Alabama Supreme Court explained in *State v. Tally*, it is "quite sufficient if [the assistance] facilitated a result that would have transpired without it." This is a stark departure from ordinary causal reasoning and one of the features that makes accomplice liability so potent.
+
+## WILCOX v. JEFFERY {#wilcox-v-jeffery .unnumbered .unlisted .case-title}
+
+*1 All E.R. 464 (England 1951)*
+
+::: {.case-excerpt}
+GODDARD, C.J.: This case is concerned with the visit of a celebrated professor of the saxophone, a gentleman by the name of Hawkins who was a citizen of the United States. He came here at the invitation of two gentlemen of the name of Curtis and Hughes, connected with a jazz club which enlivens the neighbourhood of Willesden.... Mr. Hawkins... arrived with four French musicians. When they came to the airport, among the people who were there to greet them was the appellant. He had not arranged their visit, but he knew they were coming and he was there to report the arrival of these important musicians for his magazine. So, evidently, he was regarding the visit of Mr. Hawkins as a matter which would be of interest to himself and the magazine which he was editing and selling for profit. Messrs. Curtis and Hughes arranged a concert at the Princes Theatre, London. The appellant attended that concert as a spectator. He paid for his ticket. Mr. Hawkins went on the stage and delighted the audience by playing the saxophone. The appellant did not get up and protest in the name of the musicians of England that Mr. Hawkins ought not to be here competing with them and taking the bread out of their mouths or the wind out of their instruments. It is not found that he actually applauded, but he was there having paid to go in, and, no doubt, enjoying the performance, and then, lo and behold, out comes his magazine with a most laudatory description, fully illustrated, of this concert. On those facts the magistrate has found that he aided and abetted.
+
+[...] There was not accidental presence in this case. The appellant paid to go to the concert and he went there because he wanted to report it. He must, therefore, be held to have been present, taking part, concurring, or encouraging, whichever word you like to use for expressing this conception. It was an illegal act on the part of Hawkins to play the saxophone or any other instrument at this concert. The appellant clearly knew that it was an unlawful act for him to play. He had gone there to hear him, and his presence and his payment to go there was an encouragement. He went there to make use of the performance, because he went there, as the magistrate finds and was justified in finding, to get "copy" for his newspaper. It might have been entirely different, as I say, if he had gone there and protested, saying "The musicians' union do not like you foreigners coming here and playing and you ought to get off the stage." If he had booed, it might have been some evidence that he was not aiding and abetting. If he had gone as a member of a claque to try to drown the noise of the saxophone, he might very likely be found not guilty of aiding and abetting. In this case it seems clear that he was there, not only to approve and encourage what was done but to take advantage of it by getting "copy" for his paper.... Appeal dismissed with costs.
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. The journalist did not arrange the illegal concert, did not know the performer personally, and his presence among hundreds of attendees could not have materially affected whether Hawkins performed. Why should attending and reporting on an illegal event constitute "aiding and abetting"?
+
+2. Is the journalist really as blameworthy as the concert organizers who arranged for Hawkins to perform illegally? If not, why should they face equal punishment under accomplice liability doctrine?
+:::
+
+#### Note: *State v. Tally* (Ala. 1894) {#tally-note}
+
+In *State v. Tally*, 15 So. 722 (Ala. 1894), a judge was impeached for being an accomplice to murder. The Skelton family was pursuing Ed Ross, who had seduced Judge Tally's sister-in-law, from Scottsboro to Stevenson. A relative of Ross tried to telegraph a warning: "Four men on horseback with guns following. Look out." Judge Tally learned of the telegram and wired his friend Huddleston, the telegraph operator in Stevenson: "Do not let the party warned get away" and "Say nothing." Huddleston complied, and the Skeltons killed Ross.
+
+The Court held Tally liable as an accomplice, despite the Skeltons being unaware of his assistance:
+
+> The assistance given, however, need not contribute to the criminal result in the sense that but for it the result would not have ensued. It is quite sufficient if it facilitated a result that would have transpired without it. It is quite enough if the aid merely tenders it easier for the principal actor to accomplish the end intended by him and the aider and abettor, though in all human probability the end would have been attained without it. If the aid in homicide can be shown to have put the deceased at a disadvantage, to have deprived him of a single chance of life which but for it he would have had he who furnishes such aid is guilty though it can not be known or shown that the dead man, in the absence thereof, would have availed himself of that chance.
+
+The court found that Judge Tally deprived Ross of "a chance for his life" by preventing him from receiving the warning telegram, even though the Skeltons never knew of Tally's assistance.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. What does *Tally* suggest about the *actus reus* threshold for accomplice liability? Compare this with the causation requirement in homicide cases like *Acosta*: there, but-for causation was required. Here, the court explicitly rejects but-for causation. Why the difference?
+:::
+
+### The Grading Problem
+
+Return to the Markel prosecution. There, the equal-punishment rule caused no obvious injustice — but the case was unusual. Consider instead a journalist who attends an illegal concert, or a college student who draws a map to a drug dealer's house. In cases like these, treating the helper the same as the principal collapses genuinely different levels of culpability into a single charge.
+
+The common law originally maintained fine-grained distinctions. A *principal in the first degree* was the person who actually committed the crime. A *principal in the second degree* was present at the scene and actively assisted. An *accessory before the fact* helped plan or prepare the crime but was absent when it was carried out. An *accessory after the fact* helped the offender escape detection or punishment after the crime was complete. Each category carried different procedural consequences and, in many jurisdictions, different penalties — accessories before the fact could not be convicted until the principal was, and accessories after the fact faced substantially lighter punishment.
+
+American legislatures dismantled most of this structure during the nineteenth and twentieth centuries, collapsing the first three categories into a single rule: anyone who aids, abets, counsels, or procures the commission of a crime is punishable as a principal. The MPC completed the merger in Section 2.06. One temporal distinction survived: accessory after the fact remains a separate, lower-grade offense in most jurisdictions. Federal law, for example, caps the penalty at half the maximum term prescribed for the principal's offense (18 U.S.C. § 3). The logic is that helping someone avoid capture is qualitatively different from helping them commit the crime.
+
+Other legal systems retained more of these gradations. Germany distinguishes between *Täter* (perpetrators) and *Teilnehmer* (participants), and within the latter category between *Anstiftung* (instigating, punished the same as the principal) and *Beihilfe* (aiding, with a mandatory sentencing reduction under Section 27 of its Criminal Code). The UK corrected its doctrinal standard in *R v. Jogee* [2016] UKSC 8, requiring proof of intent rather than mere foresight; yet [empirical studies](https://www.crimeandjustice.org.uk/publications/usual-suspects-second-edition){.cite} found no measurable impact on charging rates, and a [qualitative follow-up](https://doi.org/10.1080/10345329.2024.2331730){.cite} confirmed only a "subtle shift" in practice. Formal categories, it turns out, do not guarantee proportionate outcomes. But the American approach — collapsing nearly all distinctions into a single category — creates its own problems.
+
+Three institutional mechanisms have emerged to manage this tension. First, sentencing adjustments: the federal sentencing guidelines authorize upward adjustments for those who play an organizing role in multi-party criminality and downward adjustments for minimal participants. Second, judicial narrowing of the substantive doctrine: courts read the purpose requirement, the derivative-liability limitation, and the *Gebardi* exception to exclude actors whose culpability is clearly less than the principal's. Third, legislative specification: rather than relying on the abstract category of "accomplice," legislatures sometimes break up recurring patterns of group crime into separate offenses with tailored penalties — receipt of stolen property rather than aiding and abetting theft, or knowing facilitation statutes that punish assistance at a lower grade than the underlying offense. Each of these responses will surface in the materials that follow.
+
+## The Mens Rea of Accomplice Liability
+
+If the *actus reus* requirement is minimal, the *mens rea* requirement for accomplice liability is demanding. Prosecutors must prove two distinct mental states: first, the accomplice must have the mental state required by the underlying offense; second, in most jurisdictions, the accomplice must *purposefully* aid the principal; mere knowledge that one's actions will facilitate a crime is typically insufficient.
+
+Recall the MPC's hierarchy of culpability from Chapter 7: purpose, knowledge, recklessness, negligence. The same hierarchy determines the threshold for accomplice liability under Section 2.06(3). The MPC demands *purpose* with respect to promoting or facilitating the offense. This is the most demanding mental state in the hierarchy, and it effectively limits accomplice liability to those who genuinely want the crime to succeed.
+
+### A. The Intent Required by the Underlying Offense
+
+An accomplice must possess the *mens rea* required for the underlying crime. If the offense requires a specific intent, the accomplice must share that intent. The following case illustrates this principle in the context of burglary.
+
+## WILSON v. PEOPLE {#wilson-v-people .unnumbered .unlisted .case-title}
+
+*87 P.2d 5 (Colo. 1939)*
+
+::: {.case-excerpt}
+BOCK, Justice. Plaintiff in error was charged and convicted under two counts of having unlawfully and feloniously aided, abetted and assisted one Dwight J. Pierce in the commission of a burglary and larceny. One of his defenses was the absence of felonious intent on his part to commit the crimes in question, because he acted solely as a decoy to detect the commission of the crime and to report it to the proper officers. [...]
+
+The facts, substantially, are as follows:
+
+On the night of February 19, 1938, Wilson, son of the deputy district attorney of the thirteenth judicial district, and employed by him for several months prior thereto, was in Johnson's Cafe in Sterling, Colorado. Some time after 10 o'clock p.m. Pierce entered. Pierce had been drinking and was looking for a place where he could purchase more liquor. [...] Wilson procured a bottle of the gin which he delivered to Pierce, and both returned to the Johnson Cafe, where they drank some of the liquor. During that time a wrist watch which Wilson had been wearing disappeared while he was in the company of Pierce. When Wilson missed his watch he immediately accused Pierce of taking it. He continued to make the accusation through the evening, and at one time threatened to fight Pierce because of the alleged theft. Pierce denied the theft. [...] Pierce first commenced to talk about jobs that he had done and specifically mentioned his burglary of the Wheat Growers Cafe. This talk came up in connection with the disappearance of Wilson's wrist watch. [...] [Eventually, they] conceived the idea of breaking into Hecker Brothers' Drugstore. [...] There is some conflict in the evidence as to who first suggested breaking into Hecker Brothers' Drugstore, but they proceeded to the building in which it was located, tried several doors, finally going outside, and effecting an entry through the front transom. After Wilson had boosted Pierce up so that he could break the glass in the transom, and after looking around to see if anyone had heard them, Wilson again lifted Pierce and the latter handed the broken glass to Wilson, who dropped it on the cement. Thereupon Wilson again lifted Pierce up so that he could crawl through the transom. Pierce then proceeded to the cash register. Immediately after Pierce was inside the store Wilson ran to his father's office and telephoned the police to come to Hecker Brothers' Drugstore. [...] Wilson told the police, shortly after the apprehension of Pierce, that his connection with the burglary was for the purpose of getting even with Pierce for taking his watch, and that that was the only way he hoped to recover it. He also stated later that evening that he wanted to apprehend Pierce and turn him over to the authorities—he wanted to catch him in the act. [...]
+
+Plaintiff in error [appeals, arguing that the] court erred in giving to the jury Instruction No. 10: [...] "One may not participate in the commission of a felony and then obtain immunity from punishment on the ground that he was a mere detective or spy. One who attempts to detect the commission of crime in others must himself stop short of lending assistance, or participation in the commission of the crime."
+
+Defendant contends that this instruction is erroneous because it left no question of fact for the determination of the jury on his defense of decoy and detection. Wilson did assist Pierce in entering the drugstore. This he never denied and immediately revealed to the police his part in the transaction when they arrived in response to his call. The instruction inferentially placed guilt upon Wilson, because he did not "stop short of lending assistance," but actually gave assistance. [...]
+
+[B]y judicial fiat this instruction makes any assistance in the perpetration of an offense criminal, whether felonious or not. The determination of whether the assistance by Wilson under the evidence in this case was given with felonious intent was solely the province of the jury, and this instruction erroneously invaded that province. There may be offenses and circumstances when any assistance rendered may make a participant guilty of a criminal offense; but here we are concerned only with the facts, circumstances and defenses in this case. Forfeiture of individual liberty through criminal procedure, by courts, must on our part meet all the demands of impartial justice. The giving of Instruction No. 10 constituted prejudicial error.
+
+The judgment is reversed and the cause remanded for new trial.
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Did Wilson have the mental state required for burglary (knowingly entering with the purpose to commit a felony — namely, larceny, which requires an intent permanently to deprive another of property)? Why or why not?
+
+2. Is Wilson as culpable as Pierce? If not, does this case illustrate why the American approach of treating all accomplices as principals may lead to unjust results?
+:::
+
+### B. The Purpose Requirement
+
+A central principle of accomplice liability is that beyond having the mental state required for the underlying offense, the prosecution must also prove that the defendant associated with the venture and participated in it as something the defendant wished to bring about. This "stake-in-the-venture" requirement is best understood as an additional mental state element of *purpose* with respect to the commission of the underlying crime.
+
+## STATE v. GLADSTONE {#state-v-gladstone .unnumbered .unlisted .case-title}
+
+*474 P.2d 274 (Wash. 1970)*
+
+::: {.case-excerpt}
+[Gladstone concerns three students at the University of Puget Sound: Thompson, Kent, and Gladstone. Thompson was an undercover agent of the Tacoma Police Department and was supposed to go to Gladstone's home to buy marijuana. When Thompson arrived at Gladstone's house, Gladstone said he did not have "enough" to sell him. Gladstone volunteered the name and address of another person, Kent, who had the requisite amount, and drew a map to Kent's house.]
+
+HALE, J: If all reasonable inferences favorable to the state are accorded the evidence, it does not, in our opinion, establish the commission of the crime charged. That vital element—a nexus between the accused and the party whom he is charged with aiding and abetting in the commission of a crime—is missing. The record contains no evidence whatever that Gladstone had any communication by word, gesture or sign, before or after he drew the map, from which it could be inferred that he counseled, encouraged, hired, commanded, induced or procured Kent to sell marijuana to Douglas Thompson as charged, or took any steps to further the commission of the crime charged. He was not charged with aiding and abetting Thompson in the purchase of marijuana, but with Kent's sale of it.
+
+[...] [T]he record is totally devoid of any proof whatever that the defendant and Kent had any arrangement, agreement or understanding, or in any way conspired and confederated with each other concerning the sale of marijuana by Kent. There was no proof that they had talked about it with each other, directly or through others. [...] Although an aider and abettor need not be physically present at the commission of the crime to be held guilty as a principal, his conviction depends on proof that he did something in association or connection with the principal to accomplish the crime. [...] It would be a dangerous precedent indeed to hold that mere communications to the effect that another might or probably would commit a criminal offense amount to an aiding and abetting of the offense should it ultimately be committed.
+
+There being no evidence whatever that the defendant ever communicated to Kent the idea that he would in any way aid him in the sale of any marijuana, or said anything to Kent to encourage or induce him or direct him to do so, or counseled Kent in the sale of marijuana, or did anything more than describe Kent to another person as an individual who might sell some marijuana, or would derive any benefit, consideration or reward from such a sale, there was no proof of an aiding and abetting, and the conviction should, therefore, be reversed as a matter of law.
+
+HAMILTON, J., dissenting: In my view the majority has stepped into the jury box and with a flourishing dissection of the evidence placed its own interpretation thereupon and, together with deftly importing the conspiratorial element of community of purpose, has substituted its verdict for that of the jury. [...] As is apparent from its language, our statute does not require the presence at the scene of the crime of one aiding, abetting, counseling or inducing the commission of a crime. [...]
+
+Based upon the foregoing circumstances and the inferences reasonably derivable therefrom, I am satisfied that the jury was fully warranted in concluding that appellant, when he affirmatively recommended Kent as a source and purveyor of marijuana, entertained the requisite conscious design and intent that his action would instigate, induce, procure or encourage perpetration of Kent's subsequent crime of selling marijuana to Thompson. [...] Finally, the jury, with the witnesses before it, was in a far better position to evaluate the witnesses' candor, voice inflections, appearance, demeanor, attitude and credibility than this court viewing naught but the cold record.
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. What is missing in *Gladstone* that would have established accomplice liability? The defendant knew Thompson wanted marijuana and directed him to a seller. Why isn't that enough?
+
+2. The dissent raises an institutional argument: the jury was in a better position to evaluate credibility and draw inferences. Is this persuasive? Should appellate courts defer to jury findings on the purpose element?
+
+3. Now consider a more serious variation: On the way out, Thompson says, "By the way, I'd like to hire someone to kill my parents so I can inherit the family fortune. Can you recommend someone?" Gladstone draws a map to a hitman's location. Should the purpose requirement still protect Gladstone?
+:::
+
+### C. Rosemond and the Federal Standard
+
+In *Rosemond v. United States*, 572 U.S. 65 (2014), the defendant participated in a drug deal in which a confederate pulled a gun and fired shots at a buyer who grabbed the drugs and ran. The government could not prove whether Rosemond or one of his two associates was the shooter, so it prosecuted him as an aider and abettor under 18 U.S.C. Section 924(c). Justice Kagan, writing for a 7-2 majority, held that the prosecution must show "advance knowledge" — the defendant must have known a firearm would be used "at a time when [he] ha[d] a reasonable opportunity to walk away." This temporal requirement ensures that an accomplice has a "meaningful opportunity to disengage." The decision adds a temporal dimension to accomplice mens rea: the defendant's knowledge must arise early enough to permit a genuine choice whether to continue participating.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Justice Kagan writes that the defendant must have "advance knowledge" of the gun at a time when he could still "walk away." How does this temporal requirement relate to the purpose/knowledge debate in *Gladstone*? Is "advance knowledge plus failure to withdraw" the functional equivalent of purpose?
+
+2. *Rosemond* requires that the defendant had a "meaningful opportunity to disengage." Should all accomplice liability incorporate this principle? What happens when events unfold too quickly for a participant to withdraw?
+:::
+
+#### Note: Knowledge vs. Purpose and the Commercial Facilitation Problem
+
+The purpose requirement serves a critical limiting function for commercial actors. A telephone company that installs a line for a known bookie *knows* the line will be used for illegal gambling, but knowledge alone does not make the company an accomplice. Judge Learned Hand articulated the influential "stake in the venture" test in [*United States v. Peoni*, 100 F.2d 401 (2d Cir. 1938)](https://www.courtlistener.com/opinion/1485475/united-states-v-peoni/){.cite}: an aider and abettor must "in some sort associate himself with the venture, that he participate in it as in something that he wishes to bring about, that he seek by his action to make it succeed." Without this line, routine commercial transactions could expose sellers, landlords, and service providers to accomplice liability whenever they suspect a customer's unlawful purposes.
+
+## The Natural and Probable Consequences Doctrine and Its Reform
+
+Under the traditional natural and probable consequences (NPC) doctrine, an accomplice could be held liable not only for the crime they intended to aid but also for any other crime that was a "natural and probable consequence" of the agreed-upon criminal activity. This extended accomplice liability well beyond the purpose requirement, allowing convictions based on foreseeability rather than intent. In *People v. Luparello*, 187 Cal. App. 3d 410 (1986), the defendant enlisted armed associates to extract information from a reluctant witness "at any cost." When the associates shot and killed the witness, Luparello was convicted of first-degree murder under the NPC doctrine, even though he was absent from the killing and had solicited only an "interrogation."
+
+California led the reform of this doctrine. In *People v. Gentile*, 10 Cal. 5th 830 (2020), the California Supreme Court addressed the effect of Senate Bill 1437 (2018), which amended the state's murder statute to require that a principal personally "act with malice aforethought" and prohibited the imputation of malice "based solely on his or her participation in a crime." The court held that this amendment "eliminates second degree murder liability under the natural and probable consequences doctrine." To be convicted of murder after SB 1437, an accomplice must have personally possessed malice or have been "a major participant in the underlying felony who acted with reckless indifference to human life." The reform responded to growing recognition that the NPC doctrine punished people for crimes they neither intended nor committed, based solely on the foreseeability of another person's conduct.
+
+Early evidence on the California reform is encouraging. The [California Policy Lab](https://capolicylab.org/felony-murder-reform/){.cite} reports that of the nearly 1,200 people resentenced under SB 1437 through December 2024, new conviction rates were remarkably low: just 3% within one year and 10% within three years, compared to 21% and 42% for all prison releases. These individuals had served a median of over fourteen years in prison and were twenty-one years old at the time of the offense. Minnesota enacted similar reforms in 2023, limiting the circumstances under which an accomplice can be convicted of murder for a death caused by another person during the commission of a felony.
+
+These reforms respond in part to documented racial disparities in how accomplice liability has been applied. [Binder and Harrington (2025)](https://ilr.law.uiowa.edu/volume-110-issue-3/racially-disparate-and-disproportionate-punishment-felony-murder-evidence-new-york){.cite} examined felony murder arrests and convictions in New York and found that Black people were thirty-four times as likely as white people to be convicted of accomplice-based felony murder — 2.5 times the already stark fourteen-to-one disparity in principal-liability convictions. The accomplice doctrine itself was the mechanism that amplified the racial gap. A contemporaneous study by [Moriearty, Albrecht, and Glass (2024)](https://ir.lawnet.fordham.edu/ulj/vol51/iss3/2/){.cite} found similar patterns in Minnesota. [Cohen, Levinson, and Hioki (2023)](https://digitalcommons.du.edu/dlr/vol101/iss1/4/){.cite} offer a psychological explanation: using an Implicit Association Test, they found that jury-eligible participants more readily associated Black and Latino names with group membership and white names with individuality. Because accomplice liability turns on inferences about group membership, shared intent, and collective action, its structural reliance on these group-membership judgments makes it especially vulnerable to implicit bias.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. The NPC doctrine allows conviction for any crime that was a foreseeable consequence of the agreed-upon criminal activity. What culpability problem does this create? Consider a getaway driver who waits in a car while a partner robs a store: under what circumstances should the driver bear liability for a killing committed inside?
+
+2. California's SB 1437 eliminated the NPC doctrine for murder, and early recidivism data suggests many resentenced individuals posed little ongoing risk. Do these reforms reduce the racial disparities documented by [Binder and Harrington](https://ilr.law.uiowa.edu/volume-110-issue-3/racially-disparate-and-disproportionate-punishment-felony-murder-evidence-new-york){.cite} and [Moriearty et al.](https://ir.lawnet.fordham.edu/ulj/vol51/iss3/2/){.cite}, or do prosecutors shift to other charging theories that replicate the same patterns?
+:::
+
+## Derivative Liability
+
+Accomplice liability is fundamentally *derivative*—it attaches to the accomplice *through* the principal's commission of the crime. This raises the question: What happens when the principal does not commit the offense? Can the accomplice still be liable?
+
+## STATE v. HAYES {#state-v-hayes .unnumbered .unlisted .case-title}
+
+*16 S.W. 514 (Mo. 1891)*
+
+::: {.case-excerpt}
+THOMAS, J. The defendant appeals from a sentence of five years' imprisonment in the penitentiary for burglary and larceny, by the circuit court of Sullivan county, November 23, 1887. The evidence shows that A. Payne & Son kept a general store [...] and that one of the members of the firm [...] secreted themselves in and near the storehouse of said Payne & Son for the purpose of capturing defendant and one William Hill, if they should break into the store. About 11 or 12 o'clock of that night defendant and Hill came, sat down on the well-curb, and talked a short time, and then went to a window of the warehouse attached to the store. Defendant raised the window about six inches, when Hill helped him break the catch, and raise the window so a man could go in. Defendant assisted Hill in through the window. The latter handed out to the former a piece of bacon, (side meat,) weighing 45 pounds. Defendant asked that more meat be handed out, but this was all that was taken. Defendant then assisted Hill out of the window, and picked up the meat, which was in a gunny sack, and they both started off. When they got 15 or 20 steps away they were halted, and some shots were fired. They both ran, and the defendant threw the meat down, and was captured a short distance from the store. He denied being at the store. Hill was not arrested at all. Hill was the step-son of A. Payne, Sr., and the half brother of A. Payne, Jr. It further appears that defendant about a week before the alleged burglary, proposed to Hill to go with him and break into and rob Payne's store. [...]
+
+It will be seen the trial court told the jury in [its] instruction that defendant was guilty of burglary if he, with a felonious intent, assisted and aided Hill to enter the building, notwithstanding Hill himself may have had no such intent. In this we think the court erred. One cannot read this record without being convinced beyond a reasonable doubt that Hill did not enter the warehouse with intent to steal. [...] We may assume, then, for the sake of the argument, that Hill committed no crime in entering the wareroom. The act of Hill, however, was by the instruction of the court imputed to defendant. This act, according to the theory of the instructions, so far as Hill was concerned, was not a criminal act, but when it was imputed to defendant it became criminal because of the latter's felonious intent. This would probably be true if Hill had acted under the control and compulsion of defendant, and as his passive and submissive agent. But he was not a passive agent in this transaction. He was an active one. He acted of his own volition. He did not raise the window and enter the building with intent to commit crime, but simply to entrap defendant in the commission of crime, and have him captured. [...]
+
+There is a feeling in society, and, indeed, inheres in our very nature, against detective methods in the discovery and punishment of crime. These methods may be often necessary, and in extreme cases commendable, but yet the sentiment of mankind is against them. And why should it not be? Hill testified in this case that a long time prior to the alleged burglary defendant requested him to join him in a general scheme to steal, and about a week prior thereto he suggested the crime with which he was charged, and of which he was convicted. What was Hill's plain duty, under the circumstances, as a citizen and neighbor? It was to condemn the project, and in the strongest and most emphatic terms possible. A courageous and indignant denunciation of the suggestion, at the time, might have turned defendant into the path of honesty, and it is almost certain this case would never have been in court. He betrayed the defendant. He made the defendant believe he was engaging in the burglary and theft, whereas he was simply engaged in it to capture and convict the defendant. [...]
+
+Here Hill met defendant a half mile from the store. They proceeded to the place, and sat down on the well-curb, and talked a while. They then went to the window, and Hill entered the house while defendant stood on the outside. He did not commit the overt act of entering the wareroom and stealing, and Hill's act, not being criminal, cannot be imputed to defendant as a criminal act on the ground that he supposed Hill was in fact stealing. Our ruling is that defendant cannot be convicted of burglary and larceny, unless he committed the crimes himself, or was present aiding and abetting another in their commission, that other acting with a felonious intent. The court should instruct the jury that if Hill broke into and entered the wareroom with a felonious intent, and defendant was present, aiding him with the same intent, then he is guilty; but if Hill entered the room with no design to steal, but simply to entrap defendant, and capture him in the commission of crime, and defendant did not enter the room himself, then he is not guilty of burglary and larceny as charged. He may be found guilty, however, of petit larceny, in taking and removing the bacon after it was handed to him. [...]
+
+The judgment is reversed, and the cause remanded for new trial.
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Had Hill boosted Hayes through the window rather than the other way around, could Hayes have been convicted of burglary (compare *Wilson*)? If so, does it make sense that Hayes cannot be convicted when he boosts Hill through the window? Note the symmetry: in *Wilson*, the feigned accomplice escaped liability because he lacked the principal's mens rea; in *Hayes*, the would-be accomplice escapes because the feigned principal never committed the crime.
+
+2. Hayes might still be guilty of petit larceny for taking the bacon. Is this an appropriate result? Does it satisfy our intuitions about proportionate punishment?
+
+3. Consider the MPC's approach in Section 5.01(3): "A person who engages in conduct designed to aid another to commit a crime that would establish his complicity... is guilty of an attempt to commit the crime, although the crime is not committed or attempted by such other person." How would *Hayes* come out under this rule? Recall our study of attempt in Chapter 17: the MPC provides an escape valve for exactly this situation, converting failed complicity into attempt liability. Is this a better outcome than the *Hayes* court's approach?
+:::
+
+#### Note: Vaden v. State (Alaska 1989)
+
+In *Vaden v. State*, 768 P.2d 1102 (Alaska 1989), an undercover agent for the Alaska Department of Fish & Game posed as a hunter and contracted for guiding services from Douglas Vaden. During the hunt, the undercover agent shot and killed four foxes from Vaden's aircraft during closed season. Vaden was convicted as an accomplice to the illegal taking of foxes.
+
+Vaden argued that he could not be an accomplice because the undercover agent's actions were legally justified by his official duties. The Alaska Supreme Court rejected this argument, holding that even if the agent had a public authority justification defense, that defense was personal to the agent and not transferable to the accomplice.
+
+This case raises troubling questions about government conduct. The dissent argued that "when the police or their agents commit criminal acts in order to charge others as accessories to those same acts, in my view the line is crossed." In *Vaden*, who decided how many animals would be killed? The government agent, not the defendant, determined the scope of the criminal activity.
+
+Note how *Vaden* differs from *Hayes*: in *Hayes*, the feigned principal merely went through the motions without criminal intent, and the court reversed the accomplice's conviction. In *Vaden*, the agent actually killed the foxes, satisfying the *actus reus* of the underlying offense. Where the principal commits no crime (*Hayes*), there is nothing to derive liability from; where the principal commits the crime but has a personal defense (*Vaden*), the accomplice's liability remains intact.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Should the government be permitted to commit crimes in order to charge others as accomplices? What (if any) limiting principles should apply?
+
+2. Consider a variation: Suppose an undercover officer asks a target to drive him to a school where he plans to sell drugs to minors. "I'll give you a big tip if you wait around and drive me back home." Should the driver be liable as an accomplice?
+:::
+
+## The "Inevitably Incident" Exception
+
+Most jurisdictions do not hold those whose participation is "inevitably incident" to a crime liable as accomplices. MPC Section 2.06(6)(b) codifies the rule: a person is not an accomplice if "the offense is so defined that his conduct is inevitably incident to its commission." The principle is intuitive, but its boundaries are contested.
+
+In *Gebardi v. United States*, 287 U.S. 112 (1932), a man and woman were convicted of conspiring to violate the Mann Act, which punished anyone who "knowingly transport[ed] or cause[d] to be transported [...] any woman or girl" across state lines for immoral purposes. The woman had traveled willingly. The Supreme Court reversed: "we cannot infer that the mere acquiescence of the woman transported was intended to be condemned by the general language punishing those who aid and assist the transporter." When a legislature punishes only one party to a transaction, it implicitly excludes the other necessary participant from accomplice liability.
+
+#### Note: Graded Punishment Schemes and the Collateral-Underlings Problem
+
+In *United States v. Pino-Perez*, 870 F.2d 1230 (7th Cir. 1989) (en banc), an independent drug supplier was convicted as an accomplice to a "kingpin" under 21 U.S.C. § 848. The kingpin statute punishes anyone who acts as an organizer or manager of five or more persons engaged in drug distribution. The kingpin's own underlings were shielded by the inevitably-incident rule — their participation was necessarily part of the kingpin offense. But the Seventh Circuit held that an outside supplier, whose conduct was not "inevitably incident," could be reached through accomplice liability.
+
+This creates a troubling instability. If outside suppliers can be convicted as accomplices to the kingpin, then the kingpin's underlings — shielded from direct accomplice liability — could be reached indirectly by charging them as accomplices to the supplier. The very grading distinction the *Gebardi* principle was meant to protect can be circumvented through a chain of accomplice charges.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Should the inevitably-incident rule extend to outside suppliers like Pino-Perez? Or is the Seventh Circuit right that the rule protects only those whose participation is a necessary element of the offense?
+
+2. How should courts prevent the collateral-underlings circumvention — charging a kingpin's underlings as accomplices to an outside supplier, thereby evading the grading limits the *Gebardi* principle was designed to enforce? Is this a problem courts can solve, or does it require legislative action?
+:::
+
+## Accomplice Liability and Technology
+
+In *Twitter, Inc. v. Taamneh*, 598 U.S. 471 (2023), the family of a victim killed in a 2017 ISIS attack on the Reina nightclub in Istanbul sued Twitter, Google, and Facebook under the Justice Against Sponsors of Terrorism Act, alleging that the platforms aided terrorism by hosting ISIS content. Justice Thomas, writing for a unanimous Court, held that the platforms' relationship with ISIS was "arm's length, passive, and largely indifferent," indistinguishable from their relationship with billions of other users. That was not enough. The Court required a "concrete nexus" between the defendant's assistance and the specific criminal act, rejecting the theory that generalized platform operation, even with knowledge of criminal misuse, constitutes aiding and abetting. In contrast, French authorities in 2024 charged Telegram CEO Pavel Durov with complicity for allegedly refusing to moderate criminal content or cooperate with judicial warrants, suggesting that deliberate non-cooperation with law enforcement, rather than mere passive hosting, may cross the line in other jurisdictions.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. In *Wilcox*, a journalist who attended an illegal concert and wrote about it was held liable as an accomplice. Social media platforms host illegal content and profit from user engagement on a vastly larger scale. Why does the journalist face liability but the platform does not? What distinguishes personal presence from digital intermediation?
+
+2. The *Taamneh* Court required a "concrete nexus" between the defendant's assistance and the specific offense. What would satisfy this standard? Would the outcome change if a platform knew that a specific user was planning a specific attack and failed to act?
+:::
+
+## Accomplice Liability in Perspective
+
+The materials in this chapter illustrate three strategies for managing the grading problem that the equal-punishment rule creates. Sentencing adjustments reintroduce proportionality at the back end but depend on judicial discretion. Judicial narrowing — through the purpose requirement, derivative liability, and the *Gebardi* exception — limits who qualifies as an accomplice but does so unevenly, case by case. Legislative specification offers the most precise calibration but requires legislative attention that often does not materialize. The gaps between these limitations — particularly in light of demonstrable biases — are where the hardest cases arise.
+
+::: {.callout-tip}
+### Final Questions
+
+1. The federal sentencing guidelines provide for upward adjustments for those who play an "organizing" role in multi-party criminality, and downward adjustments for "minimal participants." Is this approach preferable to treating all accomplices as principals?
+
+2. Technology creates new challenges for accomplice liability. *Taamneh* holds that mere platform operation, even with knowledge of criminal use, is insufficient. But the French prosecution of Telegram's CEO suggests a different approach. What principles should govern when a technology provider crosses the line from neutral tool to criminal accomplice?
+
+3. The empirical evidence on racial disparities shows that accomplice liability amplifies racial inequality in the criminal legal system. If you were redesigning accomplice liability from scratch, what structural features would you include to reduce this disparity while still holding genuinely culpable participants accountable?
+:::

@@ -1,0 +1,346 @@
+# The Jury and Nullification
+
+The jury is criminal law's most direct feedback mechanism. While most of the system operates through professionals—police, prosecutors, judges—the jury inserts ordinary citizens into the heart of adjudication. It is the point where community values meet legal rules, where the abstract authority of the state confronts the concrete judgment of twelve neighbors.
+
+This arrangement serves multiple functions. Most obviously, the jury finds facts: did the defendant do what the prosecution claims? But the jury also serves as a buffer between the individual and the state, a check on prosecutorial overreach, and—most controversially—a potential site of resistance when laws conflict with community conscience. The jury embodies what procedural justice scholars identify as the four pillars of legitimate process: voice (citizens speak through their verdict), neutrality (peers rather than state officials decide), respect (the accused is judged by a cross-section of the community), and trustworthiness (the institution operates transparently before the public).
+
+::: {.callout-note}
+## Arnstein's Ladder of Citizen Participation
+
+Sherry Arnstein's famous ladder ranks forms of public involvement from manipulation at the bottom through tokenism (informing, consultation, placation) to genuine citizen power at the top (partnership, delegated power, citizen control). Most criminal justice "input" mechanisms—public comment periods, community advisory boards, victim impact statements—cluster in the middle rungs: citizens are heard but do not decide. The jury is one of the few moments in the criminal process where ordinary people hold actual decisional authority. When a jury votes to acquit, no appeal can reverse that judgment.
+:::
+
+Yet this power exists in tension with the system's demand for predictability. What happens when juries refuse to convict under valid laws? The legal system's answer has been to treat such refusals as dysfunction—noise to be suppressed rather than signal to be interpreted. Courts instruct juries that they *must* follow the law. They prohibit defense attorneys from mentioning nullification. They remove jurors who express reluctance to convict. The message is clear: the jury's role is to apply law, not to question it.
+
+This chapter examines whether that suppression is wise. We begin with the constitutional foundation in *Duncan v. Louisiana*, which articulates the jury's role as safeguard against state oppression. We then confront what happens when feedback mechanisms fail—when juries amplify rather than correct systemic bias. The cases of *United States v. Kleinman* and *United States v. Dougherty* reveal the system's anxiety about nullification and its strategies of containment. The Butler-Kennedy debate forces us to ask whether nullification can serve justice or whether it inevitably serves the powerful. Empirical evidence then reveals the gap between community values and official sentencing practice. Finally, we consider emerging reform proposals—from community bail funds to participatory defense—that seek to create feedback mechanisms beyond the jury box. Throughout, we return to a central question: should dissent from below be treated as a problem to solve or as information about the system itself?
+
+The cases that opened this casebook suggest why the question matters. Jose Garcia received a full jury trial for murder; Keilee Fant sat in jail for nearly fifty days over parking tickets without any jury ever hearing her case; the Sackler family negotiated their way out of criminal exposure entirely. The jury's promise of democratic accountability depends on who actually gets one—and whose voice, ultimately, counts.
+
+---
+
+::: {.callout-note}
+## Summary of Jury Doctrine
+
+**The Right to a Jury Trial**
+
+The Sixth Amendment guarantees that "[i]n all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury." This right was incorporated against the states through the Fourteenth Amendment in *Duncan v. Louisiana* (1968), establishing jury trial as "fundamental to the American scheme of justice." The jury trial right applies to "serious" offenses—generally defined as crimes carrying potential imprisonment of more than six months. The petty offense exception, established in *Baldwin v. New York* (1970), excludes minor offenses from the jury trial guarantee.
+
+**Jury Composition**
+
+The Equal Protection Clause prohibits race-based exclusion from jury venires, a principle established in *Strauder v. West Virginia* (1880). In modern jury selection, *Batson v. Kentucky* (1986) established a three-step framework for challenging discriminatory use of peremptory challenges: (1) the defendant must make a prima facie showing of purposeful discrimination; (2) the prosecutor must offer a race-neutral explanation; (3) the trial court determines whether discrimination occurred. The *Batson* framework was extended to gender in *J.E.B. v. Alabama* (1994) and applied to defense attorneys in *Georgia v. McCollum* (1992).
+
+**Jury Trial Waiver**
+
+A defendant may waive the jury trial right with court approval, but federal procedure adds a constraint: the government must consent to any bench trial. Federal Rule of Criminal Procedure 23(a) provides that cases "shall be tried by jury unless the defendant waives a jury trial in writing with the approval of the court and the consent of the government." *Singer v. United States* (1965) upheld this arrangement, noting rare exceptions for circumstances involving "passion, prejudice... public feeling."
+
+**Jury Nullification**
+
+Juries possess the power to acquit defendants despite proof of guilt beyond a reasonable doubt. This power is unreviewable due to the Double Jeopardy Clause. However, courts distinguish sharply between a jury's factual *power* to nullify and any legal *right* to do so. Defendants have no constitutional right to inform juries of their nullification power. Courts have the "duty to forestall or prevent" nullification through jury instructions. In *United States v. Dougherty* (1972), the D.C. Circuit held that while juries have an undoubted "power" to nullify, they have no right to be so informed.
+
+**The Grand Jury**
+
+The Fifth Amendment provides that no person shall be held to answer for a capital or serious crime unless on indictment by a Grand Jury. Unlike the jury trial right, the grand jury requirement was not incorporated against the states (*Hurtado v. California*, 1884). Grand juries are widely criticized as a "rubber stamp" for prosecutors: indictment rates exceed 90% in most jurisdictions.
+:::
+
+---
+
+## The Promise: Duncan v. Louisiana
+
+The Sixth Amendment guarantees a jury trial, but for most of American history, this guarantee applied only to federal prosecutions. States were free to experiment with different procedures. It was not until 1968 that the Supreme Court held the jury trial right to be "fundamental to the American scheme of justice" and therefore binding on the states.
+
+### DUNCAN v. LOUISIANA {#duncan-v-louisiana .unnumbered .unlisted .case-title}
+
+*Supreme Court of the United States, 1968*
+
+*391 U.S. 145*
+
+JUSTICE WHITE delivered the opinion of the Court.
+
+Appellant, Gary Duncan, was convicted of simple battery in the Twenty-fifth Judicial District Court of Louisiana. Under Louisiana law simple battery is a misdemeanor, punishable by two years' imprisonment and a $300 fine. Appellant sought trial by jury, but because the Louisiana Constitution grants jury trials only in cases in which capital punishment or imprisonment at hard labor may be imposed, the trial judge denied the request. Appellant was convicted and sentenced to serve 60 days in the parish prison and pay a fine of $150. Appellant sought review in the Supreme Court of Louisiana, asserting that the denial of jury trial violated rights guaranteed to him by the United States Constitution. The Supreme Court [of Louisiana denied review.] We noted probable jurisdiction [...]
+
+While driving on Highway 23 in Plaquemines Parish on October 18, 1966, [appellant] saw two younger cousins engaged in a conversation by the side of the road with four white boys. Knowing his cousins, Negroes who had recently transferred to a formerly all-white high school, had reported the occurrence of racial incidents at the school, Duncan stopped the car, got out, and approached the six boys. [...] The testimony was in dispute on many points, but the witnesses agreed that appellant and the white boys spoke to each other, that appellant encouraged his cousins to break off the encounter and enter his car, and that appellant was about to enter the car himself for the purpose of driving away with his cousins. The whites testified that just before getting in the car appellant slapped Herman Landry, one of the white boys, on the elbow. The Negroes testified that appellant had not slapped Landry, but had merely touched him. The trial judge concluded that the State had proved beyond a reasonable doubt that Duncan had committed simple battery, and found him guilty.
+
+[...] Because we believe that trial by jury in criminal cases is fundamental to the American scheme of justice, we hold that the Fourteenth Amendment guarantees a right of jury trial in all criminal cases which, were they to be tried in a federal court, would come within the Sixth Amendment's guarantee. Since we consider the appeal before us to be such a case, we hold that the Constitution was violated when appellant's demand for jury trial was refused.
+
+The history of trial by jury in criminal cases has been frequently told. It is sufficient for present purposes to say that by the time our Constitution was written, jury trial in criminal cases had been in existence in England for several centuries and carried impressive credentials traced by many to Magna Carta. Its preservation and proper operation as a protection against arbitrary rule were among the major objectives of the revolutionary settlement which was expressed in the Declaration and Bill of Rights of 1689. [...]
+
+The guarantees of jury trial in the Federal and State Constitutions reflect a profound judgment about the way in which law should be enforced and justice administered. A right to jury trial is granted to criminal defendants in order to prevent oppression by the Government. Those who wrote our constitutions knew from history and experience that it was necessary to protect against unfounded criminal charges brought to eliminate enemies and against judges too responsive to the voice of higher authority. The framers of the constitutions strove to create an independent judiciary but insisted upon further protection against arbitrary action. Providing an accused with the right to be tried by a jury of his peers gave him an inestimable safeguard against the corrupt or overzealous prosecutor and against the compliant, biased, or eccentric judge. If the defendant preferred the common-sense judgment of a jury to the more tutored but perhaps less sympathetic reaction of the single judge, he was to have it. Beyond this, the jury trial provisions in the Federal and State Constitutions reflect a fundamental decision about the exercise of official power: a reluctance to entrust plenary powers over the life and liberty of the citizen to one judge or to a group of judges. [...] The deep commitment of the Nation to the right of jury trial in serious criminal cases as a defense against arbitrary law enforcement qualifies for protection under the Due Process Clause of the Fourteenth Amendment, and must therefore be respected by the States. [...]
+
+The State of Louisiana urges that holding that the Fourteenth Amendment assures a right to jury trial will cast doubt on the integrity of every trial conducted without a jury. [...] We would not assert, however, that every criminal trial, or any particular trial, held before a judge alone is unfair or that a defendant may never be as fairly treated by a judge as he would be by a jury. Thus we hold no constitutional doubts about the practices, common in both federal and state courts, of accepting waivers of jury trial and prosecuting petty crimes without extending a right to jury trial. However, the fact is that in most places more trials for serious crimes are to juries than to a court alone; a great many defendants prefer the judgment of a jury to that of a court. Even where defendants are satisfied with bench trials, the right to a jury trial very likely serves its intended purpose of making judicial or prosecutorial unfairness less likely.
+
+Louisiana's final contention is that even if it must grant jury trials in serious criminal cases, the conviction before us is valid and constitutional because here the petitioner was tried for simple battery and was sentenced to only 60 days in the parish prison. We are not persuaded. It is doubtless true that there is a category of petty crimes or offenses which is not subject to the Sixth Amendment jury trial provision and should not be subject to the Fourteenth Amendment jury trial requirement here applied to the States. [...]
+
+We need not, however, settle in this case the exact location of the line between petty offenses and serious crimes. It is sufficient for our purpose to hold that a crime punishable by two years in prison is, based on past and contemporary standards in this country, a serious crime and not a petty offense. Consequently, appellant was entitled to a jury trial and it was error to deny it. [...]
+
+*Reversed and remanded.*
+
+JUSTICE HARLAN, dissenting. [...] We have before us an almost perfect example of a situation in which the celebrated dictum of Mr. Justice Brandeis should be invoked. It is, he said, "one of the happy incidents of the federal system that a single courageous state may, if its citizens choose, serve as a laboratory [...]" *New State Ice Co. v. Liebmann* (dissenting opinion).
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. Justice White argues that the jury serves as a safeguard against "the corrupt or overzealous prosecutor" and "the compliant, biased, or eccentric judge." In the context of Gary Duncan's case—a Black man charged with battery after touching a white teenager during the desegregation era in Louisiana—what specific dangers was the jury trial right designed to address? Would a local jury in Plaquemines Parish in 1966 necessarily have protected Duncan better than a local judge?
+
+2. Justice Harlan's dissent invokes Justice Brandeis's famous metaphor of states as "laboratories" of democracy. What are the limits of this metaphor in the criminal legal system context? When should the Constitution prevent states from "experimenting" with procedures that affect individual liberty?
+
+3. Consider Duncan in light of the procedural justice pillars. How does the jury trial right serve the values of voice, neutrality, respect, and trustworthiness? Are there ways in which it might undermine them?
+
+4. Recall Keilee Fant, imprisoned for nearly 50 days without ever appearing before a judge. How does her experience illuminate the gap between the constitutional ideals expressed in *Duncan* and the reality of the criminal legal system for those charged with minor offenses?
+:::
+
+---
+
+## When Feedback Fails: Racial Bias in Sentencing
+
+The constitutional ideal of *Duncan* promises that juries will inject community values into criminal adjudication. But what happens when juries amplify rather than correct systemic bias? The following case addresses this question in the context of capital sentencing.
+
+::: {.callout-note}
+## State v. Gregory
+
+*Supreme Court of Washington, 2018*
+
+Allen Eugene Gregory was sentenced to death by a jury. He challenged the death penalty under the Washington Constitution, relying on a study showing *Black defendants were 4.5 times more likely to be sentenced to death than similarly situated white defendants*, even after controlling for variables like number of victims, aggravating factors, and criminal history. The Washington Supreme Court accepted this evidence and struck down the state's death penalty, converting all death sentences to life imprisonment.
+
+This contrasts sharply with *McCleskey v. Kemp* (1987), where the U.S. Supreme Court rejected similar statistical evidence, holding that proof of discriminatory intent in the specific case was required—a standard virtually impossible to meet.
+:::
+
+Historical nullification protected white defendants from conviction for violence against Black victims. *Gregory* reveals the opposite problem: juries imposing harsher sentences on Black defendants. Both represent feedback failures—but in opposite directions. Neither pattern suggests that juries reliably inject community values into the criminal legal system. Instead, both suggest that jury composition matters enormously—and that feedback mechanisms can amplify bias as easily as they can correct for it.
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. *McCleskey* and *Gregory* reached opposite conclusions using similar statistical evidence. What explains the different outcomes? Is this an example of beneficial state experimentation or problematic inconsistency?
+
+2. Consider *Gregory* alongside the nullification debate that follows. Historical nullification protected white defendants from conviction for violence against Black victims. *Gregory* suggests the opposite problem: juries imposing harsher sentences on Black defendants. What do these patterns suggest about the jury as a vehicle for community values?
+:::
+
+---
+
+## The Suppression: How Courts Discourage Dissent
+
+Given the potential for both protective nullification and biased nullification, how does the legal system respond? The following cases reveal a consistent pattern: courts acknowledge the jury's power to nullify while working systematically to prevent juries from exercising it.
+
+### UNITED STATES v. KLEINMAN {#us-v-kleinman .unnumbered .unlisted .case-title}
+
+*United States Court of Appeals, Ninth Circuit, 2018*
+
+*880 F.3d 1020*
+
+M. SMITH, Circuit Judge:
+
+Noah Kleinman appeals his conviction for marijuana distribution arising out of purported medical marijuana collectives in California. He argues that the district court gave an anti-nullification jury instruction that effectively coerced a guilty verdict. [...] For the reasons described herein, we AFFIRM.
+
+#### Facts
+
+Kleinman operated medical marijuana collectives in California beginning in 2006. At trial, witnesses testified that Kleinman sold 90% of his marijuana outside of storefronts, used encrypted phones, and shipped marijuana hidden in hollowed-out computer towers to customers in New York and Philadelphia. The district court instructed jurors that state law compliance is not a defense to federal charges and emphasized that jurors should consider the case under federal law only. The jury convicted on all counts, and Kleinman was sentenced to 211 months.
+
+[Shortly after Kleinman's conviction, Congress enacted an appropriations rider prohibiting DOJ from using funds to prosecute individuals who fully comply with state medical marijuana laws. However, Kleinman's out-of-state shipments to New York and Philadelphia violated California law, so the rider did not bar his prosecution.]
+
+#### Jury Nullification Instruction
+
+Kleinman claims that the anti-nullification jury instruction the district court gave prior to deliberations misstated the law and impermissibly divested the jury of its power to nullify. [...] Jury nullification occurs when a jury acquits a defendant, even though the government proved guilt beyond a reasonable doubt. It is well established that jurors have the power to nullify, and this power is protected by "freedom from recrimination or sanction" after an acquittal. However, juries do not have a right to nullify, and courts have no corresponding duty to ensure that juries are able to exercise this power, such as by giving jury instructions on the power to nullify. On the contrary, "courts have the duty to forestall or prevent [nullification], whether by firm instruction or admonition or ... dismissal of an offending juror," because "it is the duty of juries in criminal cases to take the law from the court, and apply that law to the facts as they find them to be from the evidence."
+
+In this case, in instruction number 27, out of a total of 34 jury instructions, the court instructed the jurors as follows:
+
+> You cannot substitute your sense of justice, whatever that means, for your duty to follow the law, whether you agree with it or not. It is not for you to determine whether the law is just or whether the law is unjust. That cannot be your task. There is no such thing as valid jury nullification. You would violate your oath and the law if you willfully brought a verdict contrary to the law given to you in this case.
+
+Kleinman argues that these instructions implied that jurors would break the law, and possibly be punished, if they did not convict, and thus divested the jury of its power to nullify. [...] The first three sentences of the court's anti-nullification instruction were not erroneous, and it is not generally erroneous for a court to instruct a jury to do its job; that is, to follow the court's instructions and apply the law to the facts. [...] The court had no duty to make the jury aware of its power to nullify, and properly instructed the jury that it could not (1) substitute its sense of justice for its duty to follow the law, or (2) decide whether a law is just or unjust.
+
+Although a court has "the duty to forestall or prevent [nullification]," including "by firm instruction or admonition," a court should not state or imply that (1) jurors could be punished for jury nullification, or that (2) an acquittal resulting from jury nullification is invalid. More specifically, the court's statement that the jury "would violate [its] oath and the law if [it] willfully brought a verdict contrary to the law given to [it] in this case," could be construed to imply that nullification could be punished, particularly since the instruction came in the midst of a criminal trial. Moreover, the statement that "[t]here is no such thing as valid jury nullification" could be understood as telling jurors that they do not have the power to nullify, and so it would be a useless exercise. [...] Accordingly, we find that the last two sentences of the trial court's nullification instruction were technically erroneous.
+
+Kleinman argues that the error was structural and not subject to harmless error review. This argument fails. The error did not direct a verdict of guilty; the jury was still required to find, and did find, that the government proved each element beyond a reasonable doubt. Because the error is not structural, we apply harmless error analysis. Here, the evidence against Kleinman was overwhelming—90% of sales outside storefronts, encrypted phones, marijuana shipped in hollowed-out computer towers to New York and Philadelphia. We conclude the error was harmless beyond a reasonable doubt.
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. The court acknowledges that juries have the "power" to nullify but not the "right" to do so. What is the difference between a power and a right in this context? Can a power exist without a corresponding right?
+
+2. The district court told the jury: "There is no such thing as valid jury nullification. You would violate your oath and the law if you willfully brought a verdict contrary to the law." The appellate court found this instruction "technically erroneous" but "harmless." Do you agree with either conclusion?
+
+3. Consider the tension between federal and state marijuana law. California voters legalized medical marijuana; federal law continued to criminalize it. In a system committed to federalism and democratic self-governance, what role should juries play in mediating such conflicts? Is nullification a form of democratic participation or a threat to it?
+
+4. How would you draft a nullification instruction that accurately describes the jury's power without encouraging nullification?
+:::
+
+### The Classic Debate: Dougherty
+
+The leading modern case on jury nullification instructions is *United States v. Dougherty*, 473 F.2d 1113 (D.C. Cir. 1972). The defendants were anti-Vietnam War protesters who had broken into the offices of Dow Chemical Company, which manufactured napalm, and destroyed property. They sought to argue to the jury that their actions were morally justified and requested an instruction informing the jury of its power to nullify.
+
+Judge Leventhal, writing for the majority, acknowledged the jury's "undoubted jury prerogative-in-fact" to nullify, but refused to require that juries be informed of this power:
+
+> This so-called right of jury nullification is put forward in the name of liberty and democracy, but its explicit avowal risks the ultimate logic of anarchy. [...] When the legal system relegates the information of the jury's prerogative to an essentially informal input, it is not being duplicitous, chargeable with chicane and intent to deceive. The limitation to informal input is, rather, a governor to avoid excess: the prerogative is reserved for the exceptional case, and the judge's instruction is retained as a generally effective constraint.
+
+Chief Judge Bazelon dissented, arguing that this amounted to deliberate deception:
+
+> [T]he Court apparently concedes that the power of nullification is a "necessary counter to case-hardened judges and arbitrary prosecutors." [...] I see no justification for, and considerable harm in, this deliberate lack of candor. [...] [I]f awareness is preferable to ignorance, then I simply do not understand the justification for relying on a haphazard process of informal communication whose effectiveness is likely to depend [...] on whether or not any of the jurors are so well-educated and astute that they are able to receive the message.
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. Judge Leventhal argues that the legal system is not "duplicitous" in keeping jurors uninformed of their nullification power because the limitation serves as a "governor to avoid excess." Chief Judge Bazelon calls this "deliberate lack of candor." Who has the better of this argument?
+
+2. The *Dougherty* majority worries that instructing juries on nullification would "radically alter" how juries operate. What empirical evidence would help resolve this question? Psychologist Irwin Horowitz's research suggests that nullification instructions do affect verdicts, but in different directions depending on the type of case. Should this affect the legal analysis?
+:::
+
+---
+
+## The Debate: Nullification and Race
+
+The jury's nullification power has deep historical roots. In 1670, *Bushell's Case* established that jurors could not be punished for their verdicts. American history provides celebrated examples: colonial juries acquitted John Peter Zenger of seditious libel; antebellum juries nullified the Fugitive Slave Act. But southern juries also refused to convict white defendants who committed violence against Black victims, a form of nullification that perpetuated racial terror.
+
+This dual potential—protecting individuals from unjust laws while also shielding wrongdoers—frames the contemporary debate.
+
+### Paul Butler's Proposal
+
+Professor Paul Butler has argued that Black jurors should engage in race-conscious nullification. In his framework, for violent crimes, jurors should convict if guilt is proved beyond a reasonable doubt; for nonviolent crimes like drug offenses, there should be a presumption favoring nullification:
+
+> Black people have a community that needs building, and children who need rescuing; as long as a person will not hurt anyone, the community needs him there to help.
+
+Butler's argument rests on the systematic exclusion of African Americans from meaningful participation in the political system that produced criminal laws. When conventional political channels are blocked, jury nullification becomes "the most direct form of democracy we have."
+
+### Randall Kennedy's Response
+
+Professor Randall Kennedy has responded that nullification is "an exceedingly poor means for advancing the goal of a racially fair administration of criminal law." In his view, it is a low-visibility protest that risks backlash against Black jury service. More fundamentally, Kennedy contends that Butler "is inattentive to the aspirations, frustrations, and fears of law-abiding people compelled by circumstances to live in close proximity to the criminals for whom he is willing to urge subversion of the legal system." Kennedy argues that racially selective nullification reflects "an ultimately destructive sentiment of racial kinship that prompts individuals of a given race to care more about 'their own' than people of another race."
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. How does Butler's proposal relate to the celebrated examples of nullification (Zenger, Fugitive Slave Act) that courts cite approvingly? How does it differ from nullification by southern juries that refused to convict white defendants for violence against Black victims?
+
+2. Kennedy argues that nullification ignores "law-abiding people compelled to live in close proximity to criminals." Who are the stakeholders whose interests Butler and Kennedy each prioritize? Whose voice does each proposal amplify or suppress?
+
+3. Consider the procedural justice implications. Butler argues that nullification gives voice to communities excluded from formal political power. Kennedy argues it undermines the neutrality and trustworthiness that legitimize the system. Can both be right?
+:::
+
+---
+
+## The Gap: What Informed Citizens Actually Think
+
+The debate between Butler and Kennedy raises an empirical question: what do communities actually think about punishment? If we could systematically collect juror views on sentencing, would their judgments align with official practice—or diverge from it?
+
+### Batson in Practice
+
+First, a threshold problem: whose voice is heard? The *Batson* framework was designed to eliminate racial discrimination in jury selection. Studies suggest it has not succeeded. In North Carolina capital cases, prosecutors struck 53% of eligible Black jurors versus 26% of all other eligible jurors. In some Alabama counties, prosecutors struck 80% of Black jurors qualified to serve. As one judge observed: "It is not too difficult to find a race-neutral reason for striking any juror if you look hard enough." The gap between *Batson*'s promise and its practice suggests that the feedback mechanism imagined in *Duncan*—juries reflecting community values—may be systematically distorted from the outset.
+
+### Jury Polling: Braman's Proposal
+
+In 2006, Professor Donald Braman proposed a mechanism to capture community values systematically: "jury polling"—a procedure in which judges would routinely survey jurors about their sentencing preferences after conviction. The method is deliberately modest. Jurors would be presented with an array of options—imprisonment, drug treatment, education, job training, community service, restorative justice—and asked which combination they believe appropriate for the defendant they just convicted. Their responses would be recorded but would have no binding impact on the judge's sentencing decision. The judge retains full discretion.
+
+The power of the proposal lies not in any individual case but in aggregation. Over time, as responses accumulate across thousands of cases, government officials and researchers would be able to identify systematic disconnections between what the law authorizes and what informed citizens believe justice requires. A sentencing commission reviewing five years of jury polling data might discover that jurors consistently recommend treatment over incarceration for drug offenses, or that they impose harsher sentences for white-collar crime than the Guidelines provide. Such data would force policymakers to defend their choices or acknowledge that current law no longer reflects community values.
+
+Is such polling feasible? In 2010, Judge James Gwin of the Northern District of Ohio demonstrated that it is.
+
+### Jury Polling in Practice: The Gwin Study
+
+Over 22 criminal trials, Judge Gwin systematically surveyed 261 jurors about their sentencing recommendations. The results were striking: 
+
+- The median juror-recommended sentence was only 19% of the median Guidelines range
+- The median juror recommendation was only 36% of the bottom of the Guidelines range
+- 88% of jurors recommended sentences below the Guidelines minimum
+- The Guidelines sentences were, on average, 445% higher than the median juror recommendation
+
+In *United States v. Pusey*, the defendant was convicted of possession with intent to distribute crack cocaine and being a felon in possession of a firearm. The Guidelines recommended 180 to 210 months of imprisonment. The jurors' median recommendation was 36 months—less than one-fifth of the minimum. Six of the twelve jurors independently arrived at exactly the same figure.
+
+The only cases where jurors recommended sentences *exceeding* the Guidelines were white-collar crimes. In an embezzlement case where the Guidelines recommended 18 to 24 months, jurors recommended a median of 33 months. This pattern suggests that community values may be more punitive than official practice for certain types of offenses—while being dramatically more lenient for the drug and firearm cases that dominate federal dockets.
+
+In a telephone conversation with Professor Braman, Judge Gwin noted that other judges were reluctant to participate in polling of the sort he conducted. He was also pessimistic about the impact his one-shot study would have. The resistance illustrates a recurring theme: the system discourages learning what communities actually think.
+
+### The Deliberation Effect
+
+Professor James Fishkin's research on deliberative democracy suggests one explanation for the gap. When randomly selected citizens receive balanced information and engage in structured deliberation—as jurors do—their preferences often differ substantially from raw public opinion polls. "Deliberation under the right conditions produces considered judgments that differ systematically from the raw public opinion we measure in conventional polls."
+
+The punitive turn in the American criminal legal system may reflect not authentic community values but rather the distorted preferences that emerge from non-deliberative politics: low-information elections, fear-based messaging, and accountability to median voters rather than representative samples of citizens. If so, Gwin's jurors may represent what the public actually wants when it has the opportunity to deliberate.
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. Judge Gwin's jurors consistently recommended sentences far below the Guidelines. Does this suggest the Guidelines are too harsh, or that jurors lack information about deterrence, incapacitation, and public safety that legislators and judges possess?
+
+2. Note that Judge Gwin did *not* ask jurors to consider alternatives like restorative justice, community service, treatment for addiction, and the like. Do you think availability of these alternatives might alter juror inclination to recommend incarceration and, where they thought incarceration appropriate, the length of incarceration recommended?  
+
+3. If jurors knew that their guilty verdict would result in a sentence four times longer than what they believed was just, might this knowledge affect their willingness to convict? Should it?
+
+4. The only category where jurors recommended sentences *exceeding* the Guidelines was white-collar crime. What might explain this pattern? What does it suggest about public attitudes toward different types of offenses?
+
+5. Consider the relationship between *Dougherty*'s "informal input" rationale and the empirical evidence from the Gwin study. If jurors consistently want less punishment than the law provides, does keeping them uninformed of nullification power suppress valuable feedback about the gap between law and community values?
+:::
+
+---
+
+## Beyond the Jury Box: Reform Proposals
+
+The jury operates within the courtroom. But over 95% of criminal cases today end in guilty pleas rather than trials. For the hundreds of thousands of people processed through the system each year, the constitutional ideals of *Duncan* remain abstractions. If the jury is a thermometer for measuring the gap between law and community values, we have designed a system that rarely takes the patient's temperature.
+
+Braman and Gwin are not alone in thinking about how to create feedback mechanisms in criminal law. Legal scholars have proposed a range of reforms that share a common premise: the criminal legal system suppresses feedback rather than learning from it. These include community bail funds that challenge pretrial detention decisions, participatory defense networks that inject community voice into plea negotiations, expanded roles for grand juries in overseeing prosecutorial discretion, and error reporting systems modeled on aviation safety that shift from criminal punishment to system reform. Each offers a different mechanism for treating dissent as signal rather than noise.
+
+### Bail Nullification
+
+Consider the following proposal from Jocelyn Simonson, *Bail Nullification*, 115 MICH. L. REV. 585 (2017).
+
+Community bail funds offer a concrete illustration of how democratic feedback can operate outside the courtroom. Simonson describes these organizations as practicing "bail nullification"—a form of community participation that directly challenges judicial determinations about who should remain incarcerated pending trial.
+
+The numbers are striking. As of Simonson's research, over 450,000 people were detained pretrial on any given day simply because they could not afford bail. Many were charged with minor offenses. Many would ultimately have their cases dismissed or receive sentences of time served—meaning they had already been punished before ever being convicted.
+
+The Bronx Freedom Fund, founded in 2007 to post bail for low-income individuals charged with misdemeanors, demonstrated what this population looked like: over 95% of those bailed out returned for every court date, and more than half had their cases dismissed entirely. For Simonson, these results challenge the assumption underlying money bail—that people who cannot afford to pay are flight risks who will not return. When a community organization posts bail for a stranger, it makes a judgment about justice that may differ from the judge's determination. And when those strangers return to court at high rates, the community has generated evidence that, in Simonson's view, calls the original bail determination into question.
+
+Simonson identifies three functions that community bail funds share with jury nullification. First, like nullifying juries, bail funds "inject community norms into the criminal process"—a neighbor's judgment about whether someone should be caged pretrial carries moral weight. Second, bail funds serve as a "check on government actors"—judges and prosecutors who may use money bail to coerce guilty pleas. Third, bail funds "resist larger practices," challenging a money bail system that systematically disadvantages the poor.
+
+### Participatory Defense
+
+Consider the following proposal from Raj Jayadev, founder of the National Participatory Defense Network.
+
+Participatory defense represents a bottom-up challenge to information asymmetries that pervade the criminal legal system. Founded by Jayadev at Silicon Valley De-Bug in 2007, the movement has grown to encompass over 55 community hubs nationwide, claiming to have contributed to approximately 25,000 years of avoided incarceration through direct community engagement in defense efforts.
+
+At its core, participatory defense mobilizes ordinary citizens to counter the prosecutorial narrative that routinely reduces defendants to their worst moments. Community members—neighbors, coworkers, family friends—create "social biography packets" that humanize defendants by documenting their relationships, employment history, caregiving responsibilities, and contributions to family and community. These packets circulate in courtrooms and reach judges, prosecutors, and defense attorneys, injecting lived context that formal legal process often obscures.
+
+Critically, participatory defense operates largely *outside* the formal jury trial, infusing community voice into the vast majority of cases resolved through plea bargains and bench proceedings. As Jayadev has articulated, the movement embodies the principle that "the people most impacted by the system should be the architects of its transformation." By mobilizing organized communities—present in the gallery, attending hearings, visibly supporting defendants—participatory defense challenges the state's monopoly on storytelling. It exposes a design flaw: without deliberate structures for community voice, the criminal legal system processes people as abstractions rather than as members of networks of care and mutual responsibility.
+
+### Grand Jury Reform
+
+Consider the following proposal from Roger A. Fairfax, Jr., *Grand Jury Innovation: Toward a Functional Makeover of the Ancient Bulwark of Liberty*, 19 WM. & MARY BILL RTS. J. 339 (2010).
+
+Historically, American grand juries exercised broad civic authority well beyond criminal screening, including oversight of public works projects, taxation, municipal spending, and appointments to local office. Yet modern grand juries have been reduced to a narrow procedural gatekeeping function, performing their charging role with such automaticity that critics cite indictment rates exceeding ninety percent as evidence of prosecutorial capture.
+
+Fairfax proposes a comprehensive reimagining—what he calls "Grand Jury 2.0"—designed to restore democratic input into prosecutorial discretion. His blueprint would expand grand jury functions to include reviewing guilty plea bargains (which account for over ninety-five percent of criminal cases), offering sentencing recommendations, supervising deferred prosecution agreements, and serving as a forum for prosecutorial accountability regarding enforcement priorities.
+
+Rather than defending the grand jury's traditional performance of accusation and screening, Fairfax sketches a functional makeover that positions ordinary citizens as meaningful participants in decisions about which cases proceed, what sentences are imposed, and how community resources are deployed in criminal enforcement. The vision recovers a lost democratic function: grand juries as the rare institution where citizens exercise direct oversight of state power in criminal administration, translating community values into tangible accountability mechanisms that constrain the virtually unbounded discretion prosecutors now exercise.
+
+### Error Reporting Systems
+
+Consider the following proposal from Sidney Dekker, *Just Culture: Balancing Safety and Accountability* (Ashgate, 2007).
+
+The criminal legal system treats dissent as noise rather than signal. What if it treated errors the same way? In aviation, the Federal Aviation Administration operates the Aviation Safety Reporting System (ASRS), which allows pilots, air traffic controllers, and ground crews to report near-misses, mechanical failures, and human errors without fear of punishment. The system has no enforcement power; it exists purely to surface problems and extract lessons from them. A pilot who nearly causes a collision can report the incident knowing that her report will not trigger disciplinary action—only investigation and system-wide learning.
+
+This design choice rests on a profound insight: most failures are not the result of individual recklessness but of system-level vulnerabilities waiting to be exposed. Quality theorist W. Edwards Deming crystallized this observation when he concluded that approximately 94% of problems are system-level, not individual. Dekker's work on "just culture" extends this principle: the goal is to distinguish honest mistakes (which reveal system gaps) from recklessness (which merits accountability).
+
+Criminal legal systems lack equivalent mechanisms. When a prosecutor makes a charging decision that proves unjust, when a public defender fails to investigate a viable defense, when a judge misapplies a rule—these errors are hidden, blamed on individuals, and rarely surfaced for systematic learning. The system punishes whistleblowers rather than learning from them: prosecutors face ethics complaints, public defenders are blamed for inadequate funding, judges face criticism rather than training. As Dekker argues, "The person who punishes error is the person who stops learning." What might a blame-free reporting system for the criminal legal system look like—one that treated prosecutorial overreach, inadequate defense representation, and judicial error not as individual failings but as signals that the system itself requires reform?
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. Each reform proposal addresses the same underlying problem: the criminal legal system suppresses feedback rather than learning from it. Which reform addresses this problem most directly? Which is most feasible to implement? Which is most radical in its implications?
+
+2. Simonson argues that community bail funds share three functions with jury nullification: injecting community norms, checking government power, and resisting larger practices. How do the other reform proposals serve these same functions? Are there important differences in visibility, legal status, and the populations affected?
+
+3. Fairfax's Grand Jury 2.0 proposal would expand grand jury oversight to include plea bargains, sentencing recommendations, and prosecutorial priorities. What obstacles would such reforms face? Would prosecutors and judges support or resist this expansion of citizen oversight?
+
+4. The error reporting proposal draws on aviation safety culture. What features of aviation make blame-free reporting feasible that might be absent in criminal legal systems? Is it possible to create psychological safety for prosecutors, public defenders, and judges to report their own errors?
+:::
+
+---
+
+## Conclusion
+
+This chapter began with a simple observation: the criminal jury is one of the few places in our legal system where ordinary citizens exercise direct power over state action. We have traced the constitutional foundations of this power in *Duncan*, examined its limits in *Kleinman* and *Dougherty*, and confronted the tension between jury nullification as democratic feedback and jury nullification as lawlessness.
+
+The cases reveal a system deeply ambivalent about citizen judgment. Courts celebrate the jury as a bulwark against tyranny while working systematically to prevent juries from exercising independent moral judgment. The message is clear: the jury has power, but the system would prefer it not know.
+
+This suppression strategy makes sense if one views nullification purely as error—the intrusion of prejudice or sentiment into what should be rational application of rules. But the framework materials suggest another interpretation. Research on quality systems finds that approximately 94 percent of problems originate at the system level, not with individuals. A manufacturing plant that punishes workers for defects while ignoring faulty machinery will never improve. Similarly, a legal system that treats nullification as juror failure rather than system feedback may achieve short-term consistency at the cost of long-term legitimacy.
+
+The empirical evidence supports this concern. When Judge Gwin surveyed jurors who had deliberated on criminal cases, they consistently recommended sentences far below what guidelines prescribed—just 19% of the federal Guidelines range. The gap Gwin found suggests that deliberation transforms judgment, and that punitive outcomes may reflect the absence of citizen engagement rather than authentic community values.
+
+Return to Arnstein's ladder of citizen participation. Most criminal legal system "input" operates at the level of tokenism, where citizens are informed or consulted but hold no real power. The jury stands nearly alone as genuine citizen authority. Bail funds, participatory defense, and the other reform proposals represent efforts to move up the ladder—to create genuine voice where currently there is only performance.
+
+Return, finally, to procedural justice. Voice, neutrality, respect, and trustworthiness: a system that systematically suppresses jury voice—through plea bargaining that avoids trial, through instructions that deny nullification, through petty offense carve-outs that eliminate jury rights entirely—undermines all four pillars. The question is not whether some jurors will exercise poor judgment. The question is whether a system that refuses to hear from citizens can sustain the legitimacy it needs to function.
+
+Consider the cases that bookend this chapter: Garcia received a full jury trial; Fant was told the Constitution does not guarantee her one for parking violations; the Sackler family negotiated immunity without any jury weighing their culpability for tens of thousands of opioid deaths. Whose voice counts in the criminal legal system? The answer may determine whether the system can learn from its failures—or whether it will continue suppressing the signals that something is wrong.

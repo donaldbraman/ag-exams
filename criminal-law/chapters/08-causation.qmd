@@ -1,0 +1,313 @@
+# Causation
+
+## The Causation Requirement
+
+Most criminal offenses define prohibited *conduct*---assault, theft, fraud. But a significant category of offenses go further, requiring that the defendant's conduct *cause* a particular *result*. These are sometimes called "result crimes." Murder requires causing a death. Arson requires causing a fire. Assault causing serious bodily injury requires---as the name suggests---that the defendant's actions produce a specific harm.
+
+The causation requirement serves a limiting function. It prevents the state from punishing someone for conduct that, however blameworthy in intent, did not actually bring about the prohibited harm. A person who fires a gun intending to kill but misses has done something seriously wrong, but has not *caused* a death. The law treats that person differently---as someone who attempted murder (we'll come to attempts later in the semester), but not as a killer---precisely because of causation.
+
+Across all major frameworks, the causation inquiry has two components:
+
+1. **Factual cause** (also called "cause-in-fact" or "but-for cause"): Did the defendant's conduct actually contribute to the result?
+2. **Legal cause** (also called "proximate cause"): Is the connection between conduct and result close enough that it is fair to hold the defendant responsible?
+
+The first question is largely empirical. The second is normative---it asks not what happened, but what should count. But in every jurisdiction, the doctrine is meant to reflect common sense reasoning by ordinary people. The doctrine and all of its exceptions, wrinkles, and nuances are meant to capture an ordinary sense of when we may justly hold defendants accountable for harms they cause. It is on the second question---legal cause---that the major legal frameworks diverge most sharply.
+
+### Two Frameworks
+
+American criminal law offers no single, uniform approach to causation. The two most influential frameworks---the traditional common law approach and the Model Penal Code---make fundamentally different choices about how to define legal cause, who decides close cases, and how to handle complicating factors like intervening acts and concurrent causes.
+
+#### The Common Law Approach
+
+Under the common law, factual causation requires that the result would not have occurred "but for" the defendant's conduct. If the same harm would have happened regardless of what the defendant did, the defendant did not cause it.
+
+Legal causation---or "proximate cause"---is assessed through the lens of *reasonable foreseeability*. The defendant is the proximate cause of a result only if that result was a reasonably foreseeable consequence of the defendant's conduct. A person who punches another in the face is the proximate cause of a broken jaw. But if the victim, staggering from the blow, is then struck by a meteorite, the death is not proximately caused by the punch---not because the punch played no role, but because the manner of death was not foreseeable.
+
+The common law also developed an elaborate doctrine of *intervening causes*. When a third party's voluntary act comes between the defendant's conduct and the harmful result, that act may "break the chain" of causation. The key distinction is between *dependent* intervening causes (those set in motion by the defendant's act, such as negligent medical treatment of a wound the defendant inflicted) and *independent* intervening causes (those arising from an unrelated source, such as a third party's deliberate decision to kill the victim). Independent, voluntary human actions are the most potent chain-breakers.
+
+Critically, under the common law, *the judge controls the causation inquiry*. Courts decide as a matter of law whether a result was foreseeable and whether an intervening cause was sufficient to sever the causal chain. The jury's role is limited to finding facts within the framework the judge establishes.
+
+#### The Model Penal Code (MPC)
+
+The American Law Institute's Model Penal Code, promulgated in 1962, took a different approach. It preserved the but-for test for factual causation but restructured legal causation around a single, flexible standard.
+
+::: {.callout-note title="Model Penal Code § 2.03. Causal Relationship Between Conduct and Result; Divergence Between Result Designed or Contemplated and Actual Result or Between Probable and Actual Result"}
+
+(1) Conduct is the cause of a result when:
+
+&emsp;(a) it is an antecedent but for which the result in question would not have occurred; and
+
+&emsp;(b) the relationship between the conduct and result satisfies any additional causal requirements imposed by the Code or by the law defining the offense.
+
+(2) When purposely or knowingly causing a particular result is an element of an offense, the element is not established if the actual result is not within the purpose or the contemplation of the actor unless:
+
+&emsp;(a) the actual result differs from that designed or contemplated [...] only in the respect that a different person or different property is injured or affected [...]
+
+(3) When recklessly or negligently causing a particular result is an element of an offense, the element is not established if the actual result is not within the risk of which the actor is aware or, in the case of negligence, of which he should be aware unless:
+
+&emsp;(a) the actual result differs from the probable result only in the respect that a different person or different property is injured or affected [...]
+
+(4) When causing a particular result is a material element of an offense for which absolute liability is imposed by law, the element is not established unless the actual result is a probable consequence of the actor's conduct.
+
+:::
+
+The MPC's most consequential innovation on causation is its treatment of legal cause for crimes of recklessness and negligence. Under subsections (2) and (3), the legal cause inquiry asks whether the actual result was "too remote or accidental in its occurrence to have a [just] bearing on the actor's liability or on the gravity of his offense."
+
+The bracketed word "just" reflects a genuine disagreement among ALI members about whether the statute should openly invite the jury to make a normative judgment about justice. Some drafters worried that asking whether a result has a "just bearing" on liability would give juries too much unguided discretion. Others believed that causation in hard cases is irreducibly a question of fairness and that concealing that reality behind doctrinal formalism would be dishonest.
+
+Relatedly, the MPC intentionally makes legal causation *a jury question*. Rather than having judges decide as a matter of law whether a result was "foreseeable" or whether an intervening act "broke the chain," the MPC submits the ultimate normative question to the jury: is this result too remote or accidental to trigger criminal blame? This was a deliberate transfer of power from the bench to the box.
+
+::: {.callout-tip title="Discussion Questions"}
+
+1. **Institutional choice.** The common law gives judges primary control over proximate cause determinations, while the MPC deliberately shifts that power to juries. Which allocation do you find more defensible? Consider: Who is better positioned to make normative judgments about whether a result is "too remote" to fairly ground criminal liability---a judge applying precedent or a jury applying community standards of justice?
+
+2. **The bracketed word.** The ALI's decision to bracket "just" in the MPC's causation provision reflects a deep disagreement about whether the law should openly ask juries to make judgments about fairness. What is lost---and what is gained---by making the normative character of the causation inquiry explicit? Is there a risk that concealing it behind the language of "foreseeability" is simply less honest?
+
+3. **Statutory design.** Modern codifications like the DC Revised Criminal Code have tried to address gaps in the older frameworks---concurrent causes, intervening volitional conduct---through more specific statutory language. But specificity introduces new interpretive questions. If you were drafting a criminal code, would you prefer greater precision (with the risk of untested language) or greater generality (with the risk of vagueness)?
+
+:::
+
+## Foreseeability in Action
+
+The following three cases illustrate how courts apply proximate cause doctrine---and how the "foreseeability" standard can yield different results depending on how specifically the harm is described.
+
+##### PEOPLE v. ACOSTA {.case-title}
+
+284 Cal. Rptr. 117 (Cal. Ct. App. 1991)
+
+WALLIN, J. Vincent William Acosta appeals his conviction on three counts of second degree murder, contending there was insufficient evidence his conduct was the proximate cause of the deaths.
+
+At 10 p.m. on March 10, 1987, Officers Salceda and Francis saw Acosta in a stolen Nissan Pulsar. The officers approached and identified themselves. Acosta accelerated rapidly, leading officers on a 48-mile chase along numerous surface streets and freeways throughout Orange County.
+
+During the chase, Acosta engaged in some of the most egregious driving tactics imaginable. He ran stop signs and red lights, and drove on the wrong side of streets, causing oncoming traffic to scatter.
+
+Police helicopters from Anaheim, Costa Mesa, Huntington Beach, and Newport Beach assisted by tracking Acosta. The Costa Mesa helicopter was leading the pursuit, in front of and below the Newport Beach helicopter. As they flew into Newport Beach, the pilots agreed the Newport Beach craft should take the lead. Shortly after commencing this procedure, the Costa Mesa helicopter came up under the Newport Beach helicopter from the right rear and collided with it. Both helicopters fell to the ground. Three occupants in the Costa Mesa helicopter died.
+
+An FAA investigator concluded the accident occurred because the Costa Mesa helicopter made a 360-degree turn and closed too rapidly on the Newport Beach helicopter. The Costa Mesa pilot violated FAA regulations by failing to properly clear the area, not maintaining communication, and failing to keep the other aircraft in view. The maneuver was not difficult, and was not affected by ground activity. The investigator had never heard of a midair collision between two police helicopters involved in tracking a ground pursuit. [...]
+
+"Proximate cause" is the term historically used to separate those results for which an actor will be held responsible from those not carrying such responsibility. The term serves matters of policy surrounding tort and criminal law based partly on expediency and partly on concerns of fairness and justice. Because such concerns are sometimes more a matter of "common sense" than pure logic, the line of demarcation is flexible. [...]
+
+The "highly extraordinary result" standard serves that purpose. It does not involve the defendant's state of mind, but focuses upon the objective conditions present when he acts.
+
+Here, but for Acosta's conduct of fleeing the police, the helicopters would never have been in position for the crash. The result was not highly extraordinary. Although a two-helicopter collision was unknown to expert witness Turner, it was "a possible consequence which reasonably might have been contemplated." Given the emotional dynamics of any police pursuit, there is an "appreciable probability" that one of the pursuers may act negligently or recklessly. A finding of proximate cause is appropriate.
+
+[On the issue of malice, the court found insufficient evidence that Acosta consciously disregarded the risk to the helicopter pilots.]
+
+The judgment is reversed.
+
+CROSBY, J., dissenting:
+
+Whether the defendant may be held criminally culpable for the tragic deaths is the key issue before us. I disagree because the law does not assign blame to an otherwise blameworthy actor when neither the intervening negligent conduct nor the risk of harm was foreseeable.
+
+As Justice Cardozo put it: "We are told that one who drives at reckless speed through a crowded city street is guilty of a negligent act and, therefore, of a wrongful one irrespective of the consequences. Negligent the act is, and wrongful in the sense that it is unsocial, but wrongful and unsocial in relation to other travelers, only because the eye of vigilance perceives the risk of damage. [R]isk imports relation; it is risk to another or to others within the range of apprehension." (*Palsgraf v. Long Island R. Co.* (1928).) The occupants of these helicopters were surely not "within the range of apprehension" of a fleeing criminal on the ground. This was a "highly extraordinary result" by any measure and, properly viewed, beyond the long arm of the criminal law.
+
+
+##### PEOPLE v. ARZON {.case-title}
+
+401 N.Y.S.2d 156 (N.Y. Sup. Ct. 1978)
+
+MILONAS, J. The defendant was indicted for two counts of murder in the second degree and arson in the third degree after he allegedly intentionally set fire to a couch, causing a serious fire on the fifth floor of an abandoned building. The Fire Department arrived to find the rear portion of the fifth and sixth floors burning. Making no progress, they decided to withdraw. At that point, they were enveloped by dense smoke from another independent fire on the second floor.
+
+Although this second fire was also arson, there is virtually no evidence implicating the defendant. The combination of the thick smoke and the fifth floor fire made evacuation extremely hazardous, and Fireman Martin Celic sustained injuries from which he subsequently died. The defendant was accused of depraved indifference murder and felony murder.
+
+[In *People v. Kibbe*, the Court of Appeals held that defendants who abandoned an intoxicated robbery victim by a dark road could be convicted when the victim was killed by a passing truck, because "the ultimate harm is something which should have been foreseen as being reasonably related to the acts of the accused."]
+
+The defendant's conduct need not be the sole and exclusive factor in the victim's death. An individual is criminally liable if his conduct was a sufficiently direct cause of the death, and the ultimate harm is something which should have been foreseen as being reasonably related to his acts. It is irrelevant that the fire on the second floor intervened. It was foreseeable that firemen would respond, exposing them to life-threatening danger. The fire set by the defendant was an indispensable link in the chain of events. At the very least, the defendant's act placed the deceased in a position where he was particularly vulnerable to the separate and independent force.
+
+The defendant's motion to dismiss is denied.
+
+
+##### PEOPLE v. WARNER-LAMBERT CO. {.case-title}
+
+414 N.E.2d 660 (N.Y. 1980)
+
+JONES, Judge. Although they were aware that there was a broad, undifferentiated risk of an explosion in consequence of ambient magnesium stearate dust, the corporate and individual defendants may not be held criminally liable for the deaths of employees where the triggering cause was neither foreseen nor foreseeable.
+
+Warner-Lambert Company manufactured Freshen-Up chewing gum at its Long Island City plant. The manufacturing process used magnesium stearate (MS) dust as a lubricant to prevent the gum from sticking to machinery, and liquid nitrogen as a coolant to solidify the gum's liquid center. In 1976, the company's insurance carrier warned that ambient MS dust levels in the plant exceeded the lower explosion level (LEL). Company officials were aware of the general risk of explosion and had been working toward eventually eliminating MS from the process, but had not yet done so at the time of the incident.
+
+On November 21, 1976, an explosion ripped through the plant, killing six workers. Investigators advanced two principal theories for the ignition source. The first posited that mechanical failure caused a machine to break apart, generating sparks that ignited the ambient dust. The second hypothesized that liquid nitrogen had liquefied ambient oxygen, and that this liquid oxygen---a powerful accelerant---was then ignited by contact with moving metal parts. [...]
+
+Viewed most favorably to the People, the proof with respect to the actual cause of the explosion is speculative only, and as to at least one of the major hypotheses---that involving oxygen liquefaction---there was no evidence that that process was foreseeable or known to any of the defendants. In sum, there is no proof sufficient to support a finding that defendants foresaw or should have foreseen the physical cause of the explosion.
+
+The People's position is that but-for causation is all that is required. On oral argument the People contended that liability could be imposed if the cause of the explosion were the lighting of a match by an uninvited intruder or the striking of a bolt of lightning. In effect they would hold defendants to the status of guarantors.
+
+We have rejected any such sweeping theory of culpability. In *Kibbe*, we held that "the defendants should not be found guilty unless their conduct 'was a cause of death sufficiently direct as to meet the requirements of the criminal, and not the tort, law.'" To analogize: it might be hypothesized that the abandoned victim in *Kibbe* was killed when struck by an airplane making an emergency landing on the highway---occasions of death not reasonably to have been foreseen.
+
+The order of the Appellate Division should be reversed and the indictment dismissed.
+
+
+### Questions
+
+::: {.callout-tip}
+
+1. Is the reasoning in *Acosta*, *Arzon*, and *Warner-Lambert* consistent? Are the cases rightly decided? Can they be inconsistent and rightly decided?
+
+2. What "ultimate harm" did the State *fail* to show was "foreseeable" in *Warner-Lambert*? Wasn't "death" foreseeable? Wasn't "death by explosion" foreseeable? At what level of specificity should courts define the "foreseeable harm"?
+
+3. What do you imagine the courts in these three cases thought about the defendants' values and motivations? Do you think any of the courts believed the defendants were bad people? Should that matter?
+
+4. Would any of these cases have come out differently under the MPC's "too remote or accidental to have a just bearing" standard? Under a requirement (like the DC Revised Criminal Code's) that the result be "reasonably foreseeable in its manner of occurrence"?
+
+5. The MPC intentionally shifts the causation question from judges to juries. Would juries have reached different results in any of these cases? What are the advantages and disadvantages of making causation a jury question?
+
+6. *Warner-Lambert* requires foreseeability of the specific ignition mechanism. *Acosta* requires only that the result not be "highly extraordinary." Are these the same standard stated differently, or genuinely different standards?
+
+:::
+
+## The Psychology of Causal Attribution
+
+The cases in the preceding section---*Acosta*, *Arzon*, *Warner-Lambert*---present causation as a legal inquiry governed by doctrine. Courts apply tests: but-for causation, foreseeability, intervening cause analysis. The doctrinal frameworks differ in their details, but they share an assumption that causation is determined first, and blame follows from it. We identify the cause, then assign responsibility. A growing body of empirical research suggests that the actual cognitive process often runs in the opposite direction. People determine blame first---on the basis of moral judgments, emotional reactions, and group identity---and then adjust their causal conclusions to fit. 
+
+### Culpable Causation
+
+The psychologist Mark Alicke has documented what he calls the "culpable causation" phenomenon. In a series of experiments, Alicke presented participants with identical accident scenarios---the same collision, the same physical facts, the same injuries---but varied the moral character of the driver's purpose. In one condition, the driver was speeding home to hide cocaine from his parents. In another, the driver was speeding home to hide an anniversary present. The physical causal chain was identical. But participants who learned the driver was concealing drugs were significantly more likely to judge the driver as the *cause* of the accident.
+
+This finding inverts the standard legal model. Doctrine assumes that we assess causation on the basis of physical facts and then decide whether the defendant deserves blame. Alicke's research demonstrates that moral evaluation of the actor contaminates the causal judgment itself. We do not simply find causation and then blame; we blame and then find causation.
+
+### Beyond Alicke: Moral Contamination Across the Board
+
+Alicke's findings are part of a broader pattern. Janice Nadler's experimental work shows that emotional reactions to morally repugnant conduct make people harsher in applying legal rules---not just on ultimate verdicts but on intermediate determinations like causation and sufficiency of evidence. Joshua Knobe has documented a striking asymmetry: people judge that a CEO *intentionally* caused an environmental side effect when the effect is harmful, but not when it is beneficial, even though the CEO's knowledge and decision-making are identical in both conditions. This "Knobe effect" extends to causal attribution---people are more likely to say an actor *caused* a bad outcome than a good one, even when the relationship to both is structurally the same. And the legal theorist Meir Dan-Cohen has argued that causation and blame are not sequential but circular: we do not find causation and then assign blame; rather, our prior judgment that someone *deserves* blame generates the conclusion that they *caused* the harm. If Dan-Cohen is right, doctrinal frameworks that present causation as a factual predicate for blame may be structurally misleading.
+
+These dynamics interact with familiar cognitive biases. Cognitive dissonance leads people to resist finding causation when the defendant is someone they identify with---a juror who works in the pharmaceutical industry may unconsciously reject the conclusion that a company caused harm, not because the evidence is weak but because the conclusion is psychologically costly. Hyperbolic discounting makes temporally distant harms feel less *caused*: a punch that breaks a jaw registers as more causally connected than industrial contamination that produces cancer twenty years later, even when the evidence is equally strong. And affinity-driven cognition, documented by Dan Kahan and others, means that group identity and cultural worldview shape which causal connections people find persuasive. These biases do not cancel each other out; they interact in patterned ways that produce systematic distortions no doctrinal test can fully eliminate.
+
+### Looking Backward and Forward
+
+With these psychological findings in mind, it is worth revisiting the cases already encountered. In *Acosta*, the defendant led police on a high-speed chase; the pursuit caused a helicopter collision that killed the occupants. In *Arzon*, the defendant set a fire on one floor of a building; a separate fire on another floor, combined with the first, led to a firefighter's death. In *Warner-Lambert*, corporate officers operated a factory with known explosive hazards; an explosion killed workers. In each case, the court reached a conclusion about proximate causation. Were those conclusions driven entirely by the physical evidence and the governing legal test? Or were they influenced---as Alicke's research would predict---by the moral assessment of the defendants?
+
+Consider, too, the material that follows. The next section presents cases and hypotheticals involving corporate defendants---companies whose conduct produced harm over extended periods, through complex causal chains, in contexts where cultural and political attitudes toward business regulation may shape one's intuitions. As you read those materials, the research surveyed here poses a challenge: Can you distinguish your causal judgments from your moral ones? And if you cannot, what does that mean for the doctrine that asks you to?
+
+::: {.callout-tip title="Discussion Questions"}
+
+1. Revisit *Acosta*, *Arzon*, and *Warner-Lambert* through the lens of culpable causation. In which case do you think moral judgment most influenced the causation finding? Why? 
+2. The MPC shifts causation from judges to juries, asking whether the result was "too remote or accidental to have a just bearing." Does making causation explicitly a question of "justice" make the culpable causation problem better or worse? 
+3. Consider cognitive dissonance and hyperbolic discounting. How might these biases affect jurors' willingness to find that a corporation "caused" harm that unfolded over years or decades? 
+
+:::
+
+## Beyond Causation: Risking Catastrophe and Widespread Harm
+
+The preceding cases illustrate a recurring problem: causation doctrine can defeat prosecution even where the defendant's culpability is manifest. Some jurisdictions have responded not by relaxing the causation standard but by *eliminating the causation requirement altogether* for a category of offenses involving catastrophic risk. These statutes criminalize the *creation of risk*---not the production of harm. They are "conduct crimes," not "result crimes." The prosecution need not trace a causal chain from the defendant's act to any particular injury; it need only prove that the defendant recklessly created a risk of catastrophe or widespread harm.
+
+The Model Penal Code pioneered this approach in § 220.2. The statute distinguishes between *causing* a catastrophe---a traditional result crime---and *risking* one. A person who "recklessly creates a risk of catastrophe in the employment of fire, explosives or other dangerous means" is guilty of a misdemeanor; no catastrophe need occur and no causal chain need be established. The MPC defines "catastrophe" as "death or serious bodily injury to ten or more persons, or substantial damage to or destruction of a building, area, or means of communication, transportation, water supply, or other public utility." The statute also includes a "failure to prevent" prong: a person who "knowingly or recklessly fails to take reasonable measures to prevent or mitigate a catastrophe" when under a legal duty to do so commits a misdemeanor.
+
+States that adopted this framework modified it in revealing ways. Pennsylvania (18 Pa.C.S. § 3302) kept the MPC's structure but upgraded the penalties dramatically: where the MPC classified risking catastrophe as a misdemeanor, Pennsylvania made it a *felony of the third degree*---up to seven years' imprisonment. The causing prong was similarly elevated to a first-degree felony for intentional or knowing conduct. Pennsylvania courts have confirmed the statute's broad reach: the "risking" prong requires only that the defendant recklessly created a risk, and "the absence of actual harm does not defeat liability." *Commonwealth v. Scatena*.
+
+New Jersey (N.J.S.A. 2C:17-2) went further still. It uses "widespread" rather than "catastrophe," defines the threshold at serious bodily injury to five or more persons, and adds provisions targeting corporate actors specifically. Recklessly creating a *risk* of widespread harm is a crime of the fourth degree---but the statute provides a two-step enhancement: if the defendant was recklessly handling or storing hazardous materials, the offense is upgraded to the third degree, and if that handling or storage violated any law, rule, or regulation intended to protect public health and safety, it becomes a crime of the second degree. Most distinctively, New Jersey created a freestanding "failure to prevent or mitigate" offense: a person who "knowingly fails to take reasonable measures to prevent or mitigate a risk of widespread injury or damage after learning that such risk has been or is being created by an activity under that person's management or control" is guilty of a crime of the fourth degree---an *affirmative duty* imposed on corporate managers in a legal tradition generally reluctant to criminalize omissions.
+
+### Warner-Lambert Revisited
+
+The practical significance of these statutes becomes clear when applied to *Warner-Lambert*. The defendants maintained explosive dust conditions they knew were dangerous. Six workers died. Yet the prosecution failed because it could not identify the specific ignition source. Under Pennsylvania's § 3302, the "risking catastrophe" prong would require only that the defendants recklessly created a risk by employing dangerous means---no need to identify the ignition source. Under New Jersey's § 2C:17-2, the case would be stronger still: enhanced penalties for persons with regulatory obligations, plus separate liability for officers who failed to act.
+
+The tradeoff is real. Eliminating the causation requirement means a defendant can be convicted of a felony without proof that anyone was actually harmed---punishment calibrated to the *risk created*, not the *harm caused*. Whether this is a sensible response to the difficulties of corporate prosecution or an unwarranted expansion of criminal liability is a question that runs through the remainder of this chapter.
+
+::: {.callout-tip title="Discussion Questions"}
+
+1. Would the *Warner-Lambert* defendants have been convicted under PA § 3302 or NJ § 2C:17-2? Does this suggest these statutes provide a better tool for prosecuting corporate misconduct than traditional homicide?
+
+2. New Jersey's "failure to prevent or mitigate" provision creates an affirmative duty for managers. Should the criminal law impose such duties? On whom? Is the enhancement for persons with regulatory obligations an appropriate way to address the asymmetry between individual and corporate defendants?
+
+3. The MPC made risking catastrophe a misdemeanor. Pennsylvania made it a felony. New Jersey made it a felony with enhancements. Which approach is most appropriate? 
+
+:::
+
+## Corporate Causation and the Limits of Traditional Doctrine
+
+The catastrophe and widespread harm statutes introduced in the preceding section were designed, in significant part, to address a recurring problem: proving causation when the defendant is a corporation. Corporate harms tend to unfold over time, through complex organizational structures, across diffuse populations. The causal chain between a boardroom decision and a specific death may pass through layers of management, multiple regulatory regimes, and years of delayed consequences. Traditional but-for and proximate cause analysis---built for cases in which one person strikes another---strains under these conditions. This section examines how those difficulties play out in practice, first through case law, then through real-world prosecutions, and finally through a hypothetical that pushes the doctrine to its limits.
+
+### Corporate Prosecutions in Practice
+
+Corporate defendants rarely cause harm the way individual defendants do. A person who fires a gun presents a clean causal chain: act, mechanism, injury. A company that fails to maintain equipment, or that knowingly releases hazardous substances, creates conditions under which harm becomes more likely---but the harm, when it arrives, is mediated by environmental systems, biological processes, and the passage of time. The traditional causation inquiry asks whether *this* defendant's conduct was the but-for cause of *this* victim's injury. When the defendant is a corporation and the victims number in the hundreds or thousands, that question may be unanswerable in its traditional form.
+
+The following cases illustrate the range of outcomes when prosecutors bring criminal charges against corporations and their officers. As you read them, consider what explains the variation---and whether catastrophe and widespread harm statutes would have changed the result.
+
+::: {.callout-note title="In the News: PG&E and the Camp Fire (2020)"}
+
+On November 8, 2018, a faulty electrical transmission line owned by Pacific Gas & Electric Company ignited what became the Camp Fire---the deadliest and most destructive wildfire in California history. The fire destroyed the town of Paradise, California, killing 84 people and burning nearly 19,000 structures. Investigations revealed that PG&E had known for years that its equipment was aging and deteriorating, and that the company had deferred maintenance to reduce costs.
+
+In 2020, PG&E pleaded guilty to 84 counts of involuntary manslaughter. The company was sentenced to pay $3.5 million in fines---the statutory maximum---and $500 million in restitution. No individual executive was charged with any crime. This was not PG&E's first encounter with the criminal justice system: in 2016, the company had been convicted of six felonies related to the 2010 San Bruno pipeline explosion, which killed eight people and destroyed 38 homes.
+
+The PG&E prosecution is remarkable for what it accomplished and what it did not. A corporation pleaded guilty to 84 counts of manslaughter---an extraordinary outcome by historical standards. But the absence of individual charges raises a fundamental question about corporate criminal liability: if the corporation is guilty of manslaughter, someone within the corporation made the decisions---or failed to make the decisions---that caused the deaths. The corporate form absorbed the blame and, as a result, no individual bore it. 
+
+:::
+
+::: {.callout-note title="In the News: BP Deepwater Horizon (2012)"}
+
+On April 20, 2010, the Deepwater Horizon oil drilling rig, operated by BP in the Gulf of Mexico, exploded, killing 11 workers and injuring 17 others. The explosion triggered the largest marine oil spill in history, releasing approximately 4.9 million barrels of oil over 87 days. The environmental damage was catastrophic, affecting marine life, coastal ecosystems, and fishing communities across five Gulf states.
+
+In 2012, BP pleaded guilty to 11 counts of felony manslaughter, one count of felony obstruction of Congress (related to lying about the flow rate of the spill), and violations of the Clean Water Act and the Migratory Bird Treaty Act. The company agreed to pay $4.5 billion in criminal fines and penalties---the largest criminal resolution in United States history at the time.
+
+Two BP well-site supervisors, Robert Kaluza and Donald Vidrine, were charged with involuntary manslaughter for their roles in the disaster. Prosecutors dropped the manslaughter charges against both men in December 2015 after determining they could not meet the legal standard for involuntary manslaughter. The core difficulty was a causation argument: the supervisors had made decisions about well operations on the day of the explosion, but the causal chain between those specific decisions and the blowout involved multiple mechanical failures, engineering judgments by other personnel, and systemic organizational failures. Prosecutors could not establish, beyond a reasonable doubt, that the supervisors' particular acts were the but-for cause of the explosion. Vidrine subsequently pleaded guilty to a misdemeanor Clean Water Act violation and received probation; Kaluza went to trial on a remaining misdemeanor charge and was acquitted by a jury in February 2016. A BP executive, David Rainey, was charged with obstruction of Congress and making false statements about the spill rate but was acquitted at trial in June 2015.
+
+The Deepwater Horizon case is a textbook illustration of the causation problem in corporate prosecutions. The corporation pleaded guilty---accepting responsibility at the entity level. But when prosecutors attempted to hold individuals accountable, the complexity of the causal chain defeated the prosecution. No single decision by any single person caused the explosion. The disaster was the product of an organizational system---a culture of cost-cutting, deferred maintenance, and inadequate safety oversight---that could not be reduced to individual but-for causation.
+
+:::
+
+::: {.callout-note title="In the News: Peanut Corporation of America (2014)"}
+
+In 2008-2009, a nationwide salmonella outbreak was traced to the Peanut Corporation of America's processing plant in Blakely, Georgia. The outbreak sickened 714 people across 46 states and killed 9, triggering the recall of more than 3,900 products --- the largest food recall in U.S. history at the time.
+
+Federal investigators discovered that PCA's own laboratory tests had detected salmonella contamination at least 12 times between 2007 and 2009. Rather than halt production, company officials fabricated certificates of analysis falsely certifying that products were pathogen-free and shipped contaminated peanut butter and peanut paste to institutional customers including schools, nursing homes, and food manufacturers. In a 2007 email, PCA owner Stewart Parnell was informed that a shipment would be delayed pending salmonella test results. He responded: "Shit, just ship it. I cannot afford to lose another customer."
+
+Prosecutors did not charge homicide. PCA's peanut paste was an ingredient used in hundreds of downstream products by dozens of manufacturers, making it extraordinarily difficult to trace specific deaths to specific shipments --- precisely the causation problem that has defeated corporate homicide prosecutions in other cases. Instead, a 76-count federal indictment charged Parnell and four other officials with conspiracy, wire fraud, and introduction of adulterated food into interstate commerce.
+
+In September 2014, a jury convicted Stewart Parnell on 67 counts --- making him the first food company executive convicted of federal felony charges in connection with a food-borne illness outbreak. He was sentenced to 28 years in federal prison, his brother Michael Parnell to 20 years, and quality assurance manager Mary Wilkerson to 5 years. The 28-year sentence --- harsher than most manslaughter sentences --- was driven by federal sentencing guidelines' fraud-based loss enhancements, not by any homicide conviction. All appeals were exhausted by August 2025; Stewart Parnell remains incarcerated at FCI Butner with a projected release date of 2038.
+
+The PCA case catalyzed passage of the FDA Food Safety Modernization Act of 2011, the most sweeping reform of U.S. food safety law in over 70 years. It also demonstrated a prosecutorial strategy for holding corporate executives accountable without proving causation: charge the fraud, not the killing, and let the sentencing guidelines do the rest.
+
+*Sources: United States v. Parnell, No. 1:13-CR-12 (M.D. Ga. 2014), aff'd 723 F. App'x 745 (11th Cir. 2018); DOJ Press Release, September 21, 2015*
+
+:::
+
+::: {.callout-note title="In the News: Flint Water Crisis (2021)"}
+
+In 2014, the city of Flint, Michigan, switched its water source from the Detroit water system to the Flint River as a cost-saving measure. State-appointed emergency managers approved the switch without implementing corrosion control treatment, causing lead to leach from aging pipes into the drinking water. Over 100,000 residents were exposed to lead-contaminated water. The crisis was also linked to an outbreak of Legionnaires' disease that killed 12 people.
+
+In 2021, former Michigan Governor Rick Snyder and eight other officials were charged with crimes related to the crisis. Snyder was charged with two counts of willful neglect of duty, a misdemeanor. The most serious charges---involuntary manslaughter---were brought against Nick Lyon, the state's former health director, for allegedly failing to alert the public about the Legionnaires' disease outbreak in a timely manner.
+
+Most charges were eventually dropped or resolved without convictions. The prosecutions foundered on multiple obstacles, but causation was central among them. The harms were diffuse and systemic: lead exposure produces a range of health effects, many of which manifest over years; the Legionnaires' outbreak involved a bacterium whose relationship to the water supply was epidemiologically complex. Linking specific decisions by specific officials to specific deaths---the traditional causation requirement---proved extraordinarily difficult in a case involving cascading governmental failures across multiple agencies and levels of government.
+
+The Flint case illustrates, perhaps more starkly than any other, the limits of traditional causation doctrine when applied to systemic institutional harms. The harm was real, massive, and preventable. But the legal tools designed to hold individuals accountable for discrete acts of violence were poorly suited to a case in which the "cause" was an entire system of neglect.
+
+:::
+
+### A Hypothetical at the Frontier
+
+The corporate cases above involve causal chains measured in months or years. The following hypothetical extends the timeline to decades and the scale to global systems. It is designed not to predict a likely prosecution but to test the outer limits of the doctrines examined in this chapter.
+
+> **Hypothetical: The Fossil Fuel Prosecution**
+>
+> Evidence has emerged that executives at MegaCarbon Corp., a major fossil fuel company, knew by the 1980s that their products were contributing to climate change and that climate change would cause deaths through extreme heat, intensified storms, rising seas, and other mechanisms. Internal documents show the company funded campaigns to mislead the public about climate science. Attribution science can now establish that MegaCarbon's cumulative emissions contributed to specific extreme weather events---such as a heat wave that killed 200 people in a major city---with quantifiable probability.
+>
+> A prosecutor in Pennsylvania is considering charges under 18 Pa.C.S. § 3302 (causing or risking catastrophe). A prosecutor in New Jersey is considering charges under N.J.S.A. 2C:17-2 (causing or risking widespread injury or damage).
+
+#### Traditional Causation
+
+Begin with the conventional analysis. The but-for question is formidable. Climate change is the product of cumulative emissions from thousands of sources over more than a century. Attribution science can now estimate the degree to which anthropogenic climate change increased the probability or intensity of a specific weather event, and can further attribute portions of that increase to specific emitters. But this is probabilistic reasoning at a population level. It establishes that MegaCarbon's emissions made the heat wave *more likely* and *more severe*. It does not establish that any particular death would not have occurred but for MegaCarbon's emissions. The but-for test, strictly applied, may be unsatisfiable. Proximate cause is no easier: the causal chain runs from extraction, through combustion by millions of consumers, through atmospheric accumulation over decades, through global climate systems, to a specific weather event and individual deaths---with innumerable intervening actors at every stage.
+
+#### Catastrophe and Widespread Harm Statutes
+
+The "risking" variants of both statutes shift the terrain fundamentally. Under Pennsylvania's § 3302, it is a crime to *recklessly create a risk of catastrophe*. Under New Jersey's 2C:17-2, it is a crime to *recklessly create a risk of widespread injury or damage*. Neither requires proof that the harm actually occurred. The crime is complete upon the creation of the risk.
+
+This eliminates the causation problem. The question becomes whether MegaCarbon's executives *recklessly created a risk* of widespread harm. The evidence is powerful: internal documents showing knowledge of climate effects dating to the 1980s; continued extraction at massive scale; and the funding of disinformation campaigns designed to prevent regulatory and public responses. An executive who knows the company's products are contributing to widespread death and who actively undermines efforts to address it has a strong claim to the recklessness standard.
+
+New Jersey's statute adds further tools. Its "failure to mitigate" provision criminalizes knowingly or recklessly failing to take reasonable measures to prevent or mitigate a risk of widespread harm---an affirmative duty. The disinformation campaign transforms this from a mere failure to act into active prevention of mitigation by others. And if the defendant violated regulatory obligations related to hazardous emissions, the offense is upgraded from third to second degree. This layered structure---criminalizing risk creation, imposing duties to mitigate, and enhancing penalties for regulatory violations---represents a comprehensive legislative response to the causation problem. Whether prosecutors will deploy these tools in the climate context remains to be seen, but the statutes appear to reach the conduct described.
+
+::: {.callout-tip title="Discussion Questions"}
+
+1. In the BP Deepwater Horizon case, two supervisors were acquitted because the jury could not link their specific decisions to the explosion. Is this a causation problem or a proof problem? Would catastrophe statutes have made a difference?
+2. Compare the outcomes in *Warner-Lambert* (indictment dismissed), PCA (convictions for fraud, not homicide), and PG&E (guilty plea to manslaughter). What explains the different outcomes? Is the law becoming more willing to hold corporations accountable?
+3. Does attribution science solve the causation problem for climate-related deaths, or does it create new problems---statistical versus individual causation, the level of generality at which the causal question is framed?
+4. Should prosecutors bring changes against fossil fuel companies now to force mitigation, or should they wait for an actual climate catastrope? 
+5. Return to the psychology of causal attribution discussed in the preceding section. Are your reactions to the corporate cases influenced by your moral assessment of the defendants? Would you reach the same causation conclusions if the defendant were a small business owner rather than a multinational corporation?
+
+:::
+
+## Synthesis: Causation as Institutional Design
+
+### Structural Questions
+
+Causation doctrine is not physical law. It is institutional architecture, and every element involves a choice. *Level of generality*: In *Warner-Lambert*, the court demanded the specific ignition mechanism; in *Acosta*, a general causal contribution sufficed. *Who decides*: The common law gives the judge control; the MPC shifts it to the jury. *What counts*: Traditional doctrine requires tracing a causal chain from act to harm; catastrophe statutes criminalize the creation of risk, eliminating the chain entirely. Each choice produces different patterns of enforcement and impunity. The doctrine works tolerably well for individual violence---a discrete act, an immediate injury. It works poorly when harm is diffuse, delayed, and statistical, which is why corporate actors whose decisions produce vast aggregate harm through probabilistic mechanisms may escape liability that an individual defendant could not. Those who wish to reform the system must first understand these design choices---and then decide whether their consequences are features or bugs.
+
+### Practical Implications
+
+The psychology of causal attribution carries a lesson that doctrine alone does not teach. Factfinders do not assess causation in isolation from moral judgment. When a defendant's conduct strikes the jury as culpable, causation is found more readily; when it does not, the causal chain suddenly appears too attenuated. This makes causation the element most sensitive to narrative. A prosecutor who tells a coherent moral story---who makes the jury understand that the defendant's conduct was wrong *before* asking whether it was the cause---will find foreseeability expanding, intervening causes shrinking, and the "too remote or accidental" standard bending toward liability. A defense attorney who disrupts that narrative will find the same doctrine generating reasonable doubt. The lawyer who understands this is not manipulating the system. She is working with the grain of how human beings actually reason about cause and responsibility.

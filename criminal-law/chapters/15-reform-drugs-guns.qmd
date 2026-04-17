@@ -1,0 +1,326 @@
+# Drugs and Guns
+
+Although they are central to both fictional and real law enforcement, drug and gun possession fall outside the core of criminal law. Neither is an aggression against a person, nor a taking without consent, nor a deception in exchange. Like other offenses justified on public health grounds, drug and gun offenses are best thought of as public welfare offenses. But neither fits the mold: both carry very stiff penalties and are typically enforced against private individuals rather than industrial-scale producers of a regulated product. Neither was a crime for most of American history and, as you will learn or have learned in Constitutional Law, possessing a firearm is protected by the Second Amendment; yet for a convicted felon, mere proximity to a weapon in a shared household can trigger years in federal prison.
+
+The public health costs of both drugs and guns are significant. The use and abuse of drugs (including alcohol) carry devastating consequences: more than 480,000 tobacco deaths per year, 178,000 from alcohol, 105,000 from drug overdoses. Firearms killed nearly 47,000 Americans in 2023, more than half by suicide. But as Bentham noted centuries ago, criminalization and enforcement also entail serious costs and harms: mass incarceration, the public health consequences of an unregulated drug supply, and the way racialized moral panics have warped and extended racial antagonism and subordination in our society.
+
+Each wave of American drug criminalization has targeted a disfavored racial group. Anti-Chinese sentiment drove the first opium ordinances in the 1870s. Anti-Mexican prejudice shaped marijuana prohibitions in the 1930s. Anti-Black racism pervaded the crack cocaine enforcement and sentencing disparities of the 1980s and 1990s, when Congress created a 100:1 crack-to-powder sentencing ratio for pharmacologically identical substances --- crack associated with Black urban communities, powder with white professionals. John Ehrlichman, President Nixon's domestic policy advisor, reportedly admitted the strategy in a 1994 conversation recounted by journalist Dan Baum in *Harper's* in 2016 (Ehrlichman's family has disputed the account): "We knew we couldn't make it illegal to be either against the war or black, but by getting the public to associate the hippies with marijuana and blacks with heroin, and then criminalizing both heavily, we could disrupt those communities." The racial demographics of federal gun prosecutions tell the same story: roughly 56% of those convicted of felon-in-possession charges are Black, against 13% of the general population. Three Supreme Court decisions effectively insulate these patterns from constitutional challenge: *Whren v. United States* (1996) (pretextual stops), *United States v. Armstrong* (1996) (selective prosecution), and *McCleskey v. Kemp* (1987) (statistical evidence of racial disparity insufficient).
+
+This chapter addresses drug and gun law together because these offenses occupy enormous portions of the criminal docket and raise important questions about who we punish, how severely, and whether punishment does what we want it to do. The chapter begins with the scale of the problem: what drugs and guns actually do to people. It then examines the doctrine (possession, constructive possession, and the constitutional framework for firearms regulation) before asking whether the doctrine should look the way it does, drawing on evidence about the costs of criminalization and the available alternatives.
+
+## The Harms of Drug Use
+
+Drug use inflicts genuine damage on individuals, families, and communities. The question is whether the law designed to address those harms bears any rational relationship to the harms themselves.
+
+In 2010, David Nutt and colleagues published a multi-criteria decision analysis in *The Lancet* that attempted to do what drug scheduling purports to do but does not: rank substances by the actual harm they cause. The study evaluated twenty drugs across sixteen criteria capturing harm to the individual user and harm to others. Alcohol scored highest, driven largely by its extraordinary harm to others (drunk driving, domestic violence, fetal alcohol spectrum disorders, and the economic costs of alcohol-related emergency care). A 2025 follow-up study in *Harm Reduction Journal*, using the same methodology but updated to include fentanyl and to reflect current epidemiological data, confirmed and sharpened the original findings. The table below reports the 2025 scores. The Controlled Substances Act's scheduling classifications are negatively correlated with these expert assessments of harm (Spearman's rho = -0.26) --- meaning the schedule tends to place *less* harmful drugs in *more* restrictive categories.
+
+| Substance | Expert Harm Score (0--100) | CSA Schedule |
+|---|---|---|
+| Fentanyl | 90 (most harmful) | Schedule II |
+| Methamphetamine | 84 | Schedule II |
+| Crack cocaine | 83 | Schedule II |
+| Heroin | 82 | Schedule I |
+| Alcohol | 73 | Unscheduled |
+| Cocaine | 60 | Schedule II |
+| Prescription opioids | 46 | Schedule II |
+| Tobacco | 35 | Unscheduled |
+| Cannabis | 32 | Schedule I |
+| MDMA | 16 | Schedule I |
+| LSD | 4 | Schedule I |
+| Psilocybin mushrooms | 3 (least harmful) | Schedule I |
+
+The pattern is difficult to miss. The most lethal drivers of the overdose epidemic (fentanyl, methamphetamine, and crack cocaine) are all Schedule II, available by prescription and subject to lesser penalties than Schedule I substances. The drugs that experts rate as least harmful (psilocybin, LSD, and MDMA) are Schedule I, the category that Congress defined as having "no currently accepted medical use" and "a high potential for abuse." Alcohol and tobacco, both unscheduled, cause far more death than all illicit drugs combined. And the substance that federal law treats as equivalent to heroin --- cannabis, a Schedule I drug --- has a dependence rate one-third that of alcohol, produces no known lethal overdoses, and scores lower on expert harm assessments than every substance the government permits convenience stores to sell.
+
+Fentanyl is extraordinarily dangerous, methamphetamine devastates users and communities, and heroin dependence is severe. Even cannabis is not harmless; heavy adolescent use is associated with cognitive effects, and dependence, though less common than with other substances, is real. The harms are genuine. But the legal categories Congress created to address those harms do not map onto any coherent measure of danger: neither mortality, nor dependence, nor expert assessment of overall harm. The classification system reflects politics rather than pharmacology.
+
+## The Harms of Gun Violence
+
+In 2023, approximately 46,728 people died from firearms in the United States. The majority, roughly 27,300 or 58%, were suicides. Provisional CDC data indicate gun suicides set another record in 2024, reaching 27,593. Access to firearms in the home is associated with roughly three times the odds of suicide. Firearms have the highest case fatality rate of any common suicide method (approximately 85%, compared with roughly 2% for drug overdose), and most people who are prevented from using their preferred method do not simply substitute another. The suicidal impulse is often transient; the firearm is not.
+
+Gun homicide accounted for 17,927 deaths in 2023, with the burden falling disproportionately on young Black men. Black Americans face gun homicide rates approximately twelve times higher than white Americans. For young Black males between 18 and 24, the disparity is starker: they are roughly 23 times more likely to die by firearm homicide than their white peers. For Black men ages 15 to 24, gun homicide is the leading cause of death, exceeding the next fifteen leading causes combined. Mass shootings, which dominate public discourse, represent less than half of one percent of all gun deaths.
+
+When gun homicides occur, they are increasingly unlikely to be solved, and the likelihood depends heavily on who the victim is. A *Washington Post* analysis of more than 52,000 homicides across 50 cities found that police solved 63% of homicides with white victims but only 46% of homicides with Black victims. The Murder Accountability Project found that the entire national decline in clearance rates was concentrated among cases with Black victims; rates for white, Asian American, and American Indian victims held steady or improved. The communities that bear the highest costs of gun violence receive the least effective response from the criminal legal system. Resources that could fund homicide detectives and forensic testing are diverted to high-volume pretextual stops. This drives up arrests and convictions for drug and gun possession, but it also diverts resources from homicide investigations and erodes the community trust on which witness cooperation depends.
+
+## Constructive Possession
+
+Perhaps the most consequential doctrine in drug and gun enforcement is *constructive possession* --- the legal standard that allows the government to prosecute defendants who may not have physically touched contraband, but had knowledge of its presence and the power and intent to exercise control over it. The government must prove that the defendant "knowingly has both the power and the intention at a given time to exercise dominion or control over a thing." That standard is not met by "mere proximity to the drug, or mere presence on the property where it is located or mere association with the person who does control the drug or the property."
+
+The doctrine matters because drugs and guns are typically found in shared spaces (cars, apartments, houses) during encounters initiated by police. When officers find contraband in a location accessible to multiple people, the question becomes: who "possessed" it? Courts look beyond proximity to additional indicia of control: Did the defendant attempt to hide or destroy the contraband? Were the defendant's fingerprints or DNA on it? Did the defendant make incriminating statements? Did the defendant have exclusive access to the location where the contraband was found? Was the defendant engaged in conduct consistent with distribution --- packaging, counting money, making furtive movements? The absence of such evidence can be fatal to the government's case, as the following two decisions illustrate.
+
+But there is a critical gap between arrest and conviction. An officer needs only probable cause to arrest --- a "reasonable ground for belief of guilt," a standard the Supreme Court has called a "practical, nontechnical conception." *Maryland v. Pringle* (2003). Conviction requires proof beyond a reasonable doubt. The distance between these two standards is vast, and constructive possession cases sit squarely in the gap. When police find drugs or a gun in a shared space, probable cause may support arresting everyone present. But the evidence that justified the arrest --- proximity to contraband, presence in the wrong place at the wrong time --- is often insufficient to sustain a conviction at trial. In practice, this gap is obscured because roughly 95% of criminal cases are resolved by guilty plea rather than trial, and many defendants plead to constructive possession charges that could not survive the scrutiny applied in the cases that follow.
+
+## UNITED STATES V. JENKINS {#united-states-v-jenkins .unnumbered .unlisted .case-title}
+
+*United States Court of Appeals for the Third Circuit, 1996*
+*90 F.3d 814*
+
+::: {.case-excerpt}
+STAPLETON, J.:
+
+### Facts {.unnumbered .unlisted}
+
+Around 1:30 a.m. on February 10, 1994, Philadelphia police officers [...] responded to a call that shots were being fired near an apartment building. Entering the courtyard of the building, the officers saw Kevin Jones and Larry Harrison, who was holding a handgun. [An officer] yelled, "Police!" Harrison ran into the building, and the officers chased him through a fire escape door, down a hallway, and into apartment C-107. The front door opened into the living room, and the officers found Sam Stallings and Jenkins seated on a couch, both wearing only boxer shorts and a t-shirt. On the coffee table before them were three bags of white powder containing a total of 55.3 grams of cocaine and 42 grams of non-cocaine white powder, two triple-beam scales, two loaded .38 caliber revolvers, small ziplock-style bags, clear plastic vials, and numerous red caps. On the floor was a loaded sawed-off shotgun.
+
+None of the cocaine powder had been put in the bags, vials, or caps, and there was no evidence that either man had been working with the cocaine. No grinders, razor blades, or other "cutting" implements, were on the table, and no pots or other instruments that could be used to cook cocaine were found with any cocaine residue. No cocaine residue was found on Stallings or Jenkins, including their hands, and no residue was found on the scales. [...] [Jenkins] made no attempt to hide or destroy the contraband, and fully cooperated with the officers.
+
+The manager of the apartment building [...] identified Stallings as a tenant in C-107, Harrison as someone who lived there, and Jenkins as someone who was "in and out" with Stallings and Harrison.
+
+### Analysis {.unnumbered .unlisted}
+
+[T]he government must submit sufficient evidence to support an inference that the individual "knowingly has both the power and the intention at a given time to exercise dominion or control over a thing, either directly or through another person or persons. Constructive possession necessarily requires both 'dominion and control' over an object and knowledge of that object's existence." [...] Dominion and control are not established, however, by "mere proximity to the drug, or mere presence on the property where it is located or mere association with the person who does control the drug or the property."
+
+The district court believed that Jenkins' being on the couch next to the drugs was decisively different than if he was somewhere else in the apartment, but proximity alone is not enough, no matter how near that proximity is. Without other proof of dominion and control, we can only conclude that it was sheer happenstance that Jenkins was seated on the couch next to the cocaine when the police entered the apartment.
+
+[...] [T]he government simply has a "snapshot" of Jenkins sitting on a couch in an acquaintance's apartment next to a table laden with drugs and firearms. The evidence does not show that Jenkins associated himself with or participated in the drug distribution, or that he took any action to help it succeed. The "snapshot" does not show that he took any actions other than to enter the apartment, get partially undressed, and sit on the couch.
+
+---
+
+COWEN, J., dissenting:
+
+Jenkins was, at a minimum, on excellent terms with narcotics traffickers who were openly plying their trade. "[The] jury [...] could have reasonably determined that only trusted members of the operation would be permitted entry into the apartment, because allowing outsiders to have access to an apartment with large quantities of narcotics in plain view could compromise the security of the operation." *United States v. Soto*, 959 F.2d 1181, 1185 (2d Cir. 1992). [...] "[T]he voluntary presence of the accused in an area obviously devoted to preparation of drugs for distribution is a circumstance potently indicative of his involvement in the operation." *United States v. Staten*, 581 F.2d 878, 885 n.67 (D.C. Cir. 1978).
+
+:::
+
+## STATE OF LOUISIANA V. GERALD MANCHIP WHITE {#louisiana-v-white .unnumbered .unlisted .case-title}
+
+*Supreme Court of Louisiana, 2025*
+*No. 2024-K-01588*
+
+::: {.case-excerpt}
+
+GUIDRY, J.
+
+This matter comes before us to consider whether the jury properly found the evidence was sufficient to prove the defendant constructively possessed two firearms found in his home. Finding the evidence was insufficient to prove the defendant had the requisite intent to possess the firearms, we reverse.
+
+### Facts and Procedural History {.unnumbered .unlisted}
+
+The State charged the defendant with three counts of possession of a firearm by a convicted felon after parole officers found three guns in the house where he lived with family members. Two days before the guns were discovered, parole officer Ayleen Cook visited the defendant's home looking for another individual. The defendant told Officer Cook about an incident that had occurred a couple of weeks before in which an intruder invaded the home, and in the course of robbing the defendant's son, Jordan, used Jordan's gun to shoot Jordan. When Officer Cook asked the defendant if the gun was still in the house, he answered it was. Officer Cook reminded the defendant there could be no guns in the house, because he was a convicted felon, and "it must be removed."
+
+Two days later, Officer Cook, along with additional parole officers [...] conducted a residence check of the home and found an EIG EI .22 revolver in a dresser drawer in the master bedroom the defendant shared with his wife, a Smith & Wesson 9mm handgun under a mattress in the bedroom of the defendant's daughter, and a Taurus 9mm handgun in the cushions of a living room couch. As a consequence of the three guns being found in the home, the State charged the defendant with three counts of being a felon in possession of a firearm. See La. R.S. 14:95.1.
+
+At trial, the defendant's wife, Kimberly, testified she owned the gun found in the master bedroom, explaining she stored it in a dresser drawer used exclusively by her. Defendant's adult daughter, Erin, testified that the Smith & Wesson 9mm handgun belonged to her boyfriend, who was present in the house at the time the residence check was performed. Erin testified that her boyfriend brought the gun to the house only hours before it was found. Jordan testified he owned the Taurus 9mm handgun found in the couch [...]. Each of them testified that the defendant had no knowledge of the guns.
+
+The jury found the defendant guilty of attempted possession of a firearm [...] for the gun found in the master bedroom (count 1). The jury found the defendant not guilty of possessing the gun found in his daughter's bedroom (count 2) and guilty of possessing the gun found in the couch (count 3).
+
+### Legal Analysis {.unnumbered .unlisted}
+
+[H]ere, the State concedes that the defendant was not in actual possession. Therefore, the possession at issue is that of constructive possession. [...] Constructive possession of a firearm occurs when the firearm is subject to the defendant's dominion and control, even if only temporarily or shared. [...] Constructive possession exists when a person has guilty knowledge of the contraband's presence and exercises dominion and control over it. [...] Mere presence in the area where a firearm is discovered does not, alone, prove the defendant exercised dominion and control over the firearm and therefore had it in his constructive possession.
+
+[...]
+
+[T]here was no evidence to prove that the gun found in the defendant's bedroom was subject to his dominion and control. [...] The dresser drawer appeared to be within the exclusive control of Kimberly. The gun was found in a drawer full of Kimberly's belonging, and while Officer Cook testified that the defendant's parole papers were found in the same dresser, Officer Cook's testimony is refuted by the State's own photos showing that the parole papers were in an entirely different dresser. The State offered no evidence to establish that the defendant had occasion to access the drawer containing only his wife's belonging [...]. Hence, the evidence offered by the State failed to exclude the hypothesis that Kimberly owned and never informed the defendant about the gun in the dresser, which she had placed there over a year before he moved into the home.
+
+[...] [W]hile awareness is necessary to prove the intent to possess, awareness alone is insufficient to prove constructive possession. [...] [T]he defendant's statement that "the gun" was still in the house, without more, was insufficient to prove the defendant had the requisite intent to possess the gun belonging to Jordan.
+
+### Holding {.unnumbered .unlisted}
+
+For the reasons herein expressed, we conclude the court of appeal erred in finding the evidence sufficient to prove the defendant had the requisite intent to constructively possess either of the guns associated with his convictions of attempted possession and possession of a firearm by a convicted felon. Accordingly, the defendant's convictions and sentences are reversed.
+
+CONVICTIONS AND SENTENCES REVERSED.
+
+---
+
+WEIMER, C.J., additionally concurring, emphasized the Second Amendment implications: the family lived in a high-crime area where the defendant's son had recently been shot during a home invasion, and a contrary decision "would adversely impact the rights of the other family members in the household and force on them the choice of exercising their constitutional rights or requiring a father/husband to live off the premises."
+
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. In *Jenkins*, the defendant was sitting inches from 55 grams of cocaine, two loaded revolvers, scales, and packaging materials, yet the Third Circuit reversed for insufficient evidence. The dissent argued that "only trusted members of the operation would be permitted entry into the apartment." Who has the better of this argument? What additional evidence would have been sufficient for the majority?
+2. In *White*, the defendant told the parole officer that "the gun" was still in the house. Why was this statement insufficient to prove constructive possession? What is the difference between "awareness" of contraband's presence and "dominion and control" over it?
+3. Both *Jenkins* and *White* involve defendants in shared living spaces who were near contraband belonging to others. Should courts apply different standards to drugs (contraband for everyone) and guns (constitutionally protected for some occupants)? Does Chief Justice Weimer's concurrence in *White* change the analysis?
+:::
+
+::: {.callout-note}
+### Legislative Responses to the Constructive Possession Gap
+
+Some jurisdictions have tried to close the gap between arrest and conviction legislatively. New York's Penal Law § 265.15 creates a *permissive inference* that all occupants of a vehicle possess any firearm found in the car (with a parallel provision for drugs in § 220.25). The jury may draw the inference but is not required to; the prosecution still bears the full burden of proof. The Supreme Court upheld this approach in *County Court of Ulster County v. Allen*, 442 U.S. 140 (1979). No post-*Bruen* challenge to the vehicle presumption has yet succeeded.
+
+The District of Columbia went further. D.C. Code § 22-2511 made it a *felony* to be voluntarily present in a vehicle knowing it contained a firearm, not a presumption of possession but a standalone criminal offense for mere proximity. In *Conley v. United States*, 79 A.3d 270 (D.C. 2013), the D.C. Court of Appeals struck the statute down on due process grounds. The facts made the problem vivid: the jury *acquitted* Conley of all possession charges (finding that the government could not prove he possessed the gun found between the front seats) but *convicted* him under § 22-2511 for the crime of sitting next to it. The court held that criminalizing "entirely innocent behavior --- merely remaining in the vicinity of a firearm in a vehicle" without proof that the defendant knew of a legal duty to leave violated due process. The statute was repealed in 2015.
+
+A permissive inference (New York) leaves the burden on the prosecution and lets the jury decide; a substantive offense based on presence (D.C.) criminalizes proximity itself. Courts have tolerated the former and rejected the latter.
+:::
+
+## Quantity, Intent, and Delivery
+
+The constructive possession doctrine determines *who* possesses contraband. A separate doctrinal question determines *what they are guilty of* based on how much they possess. In most jurisdictions, the quantity of drugs a person possesses, combined with packaging, cash, scales, or other indicia, can transform simple possession into possession with intent to distribute (PWID), a far more serious offense.
+
+Federal mandatory minimums under 21 U.S.C. § 841(b) are keyed entirely to drug weight, with no proof of intent to distribute required for the weight-based sentencing enhancement:
+
+| Substance | 5-Year Mandatory Minimum | 10-Year Mandatory Minimum |
+|---|---|---|
+| Fentanyl | 40 grams | 400 grams |
+| Heroin | 100 grams | 1 kilogram |
+| Cocaine (powder) | 500 grams | 5 kilograms |
+| Crack cocaine | 28 grams | 280 grams |
+| Methamphetamine | 5 grams (pure) / 50 grams (mixture) | 50 grams (pure) / 500 grams (mixture) |
+
+The crack-to-powder cocaine disparity is visible in the table: 28 grams of crack triggers the same five-year mandatory minimum as 500 grams of powder cocaine, an 18:1 ratio, down from 100:1 before the Fair Sentencing Act of 2010. Given that crack and powder cocaine are pharmacologically identical and differ primarily in the racial demographics of their user populations, the disparity illustrates how quantity thresholds can encode racial politics into seemingly neutral sentencing rules.
+
+These federal penalties escalate sharply for defendants with prior convictions. Under 21 U.S.C. § 851, the government can file a notice of prior drug felonies that doubles or triples the mandatory minimum. State penalties vary enormously. The table below compares Florida and Washington for the same conduct:
+
+| Offense | Florida | Washington |
+|---|---|---|
+| Possess any amount of heroin (1st) | Felony, up to 5 years | Gross misdemeanor, ≤180 days |
+| Possess any amount of heroin (3rd) | Felony, up to 5 years | Gross misdemeanor, ≤364 days |
+| Cannabis, >20 g | Felony, up to 5 years | Legal (recreational) |
+| 4 g heroin (trafficking) | 3-year mandatory minimum | Gross misdemeanor, ≤180 days |
+| 28 g heroin (trafficking) | 25-year mandatory minimum | Felony |
+
+Fla. Stat. §§ 893.13, 893.135, 775.084; RCW § 69.50.4013. In Florida, first-offense possession of any controlled substance is a third-degree felony. Possessing more than 20 grams of cannabis (less than an ounce) is the same felony as possessing heroin. And the trafficking mandatory minimums are steep: 4 grams of heroin triggers a 3-year floor with no probation or parole; 28 grams triggers 25 years. Florida's habitual felony offender statute can double the maximum sentence for defendants with two or more prior felonies, but the legislature carved out an exception: if either the current offense or at least one prior is drug possession under § 893.13, the enhancement is unavailable. The carve-out suggests the legislature recognized the ratchet problem for drug histories even as it maintained felony classification for first-offense possession.
+
+In Washington, simple possession of any controlled substance is a gross misdemeanor regardless of the substance or the defendant's history, and law enforcement is encouraged by statute to refer defendants to treatment rather than book them into jail. The only escalation for repeat offenses is from 180 days to 364 days once a defendant has two or more priors; possession never becomes a felony no matter how many prior convictions a person accumulates. Washington's "three strikes" law applies only to serious violent and sexual felonies; drug offenses are categorically excluded. The identical conduct that produces a felony record and potential prison time in Florida produces a misdemeanor citation and a referral to services in Washington.
+
+Fentanyl is so potent (a lethal dose is approximately two milligrams) that even small quantities by weight represent enormous numbers of doses. A person found with 40 grams of fentanyl (the five-year mandatory minimum threshold) is holding enough to kill 20,000 people. More than thirty states have enacted drug-induced homicide statutes, under which a person who distributes drugs that cause a fatal overdose can be charged with murder or manslaughter. The interaction of quantity thresholds, mandatory minimums, and drug-induced homicide statutes means that the weight of the substance found in a shared space can determine not just whether someone is charged with simple possession or distribution, but whether they face a homicide prosecution.
+
+## Mens Rea and the Fentanyl Problem
+
+The constructive possession and quantity doctrines raise a further question that the fentanyl crisis has made urgent: what must a defendant *know* about the substance they possess? If a person buys what they believe is heroin but the bag contains fentanyl --- a substitution that has become routine in illicit markets --- are they guilty of possessing fentanyl? If they share that bag with a friend who dies of an overdose, are they guilty of distributing fentanyl under a drug-induced homicide statute?
+
+Most federal circuits require the government to prove that the defendant knew the *type* of substance they possessed, but not its precise chemical identity. Under *McFadden v. United States* (2015), the Supreme Court held that for controlled substance analogues, the government must prove the defendant knew the substance had properties of a controlled substance --- either its specific identity or its psychoactive characteristics. But for substances already listed on the schedules, most courts hold that knowledge of the substance's general nature (i.e., "I knew it was drugs") suffices; the defendant need not know which drug it was.
+
+This creates a striking asymmetry. A person who possesses what they believe to be one substance can be convicted, and sentenced based on mandatory minimums keyed to weight, for possessing a different, far more potent substance. If the bag contains fentanyl rather than heroin, the quantity thresholds are lower and the penalties are harsher, even though the defendant had no knowledge of the substitution. And if someone dies, the defendant may face homicide charges for distributing a substance whose identity they did not know, a gap between culpability and punishment that is widest where the doctrine intersects with the realities of an unregulated market that the law itself created.
+
+::: {.callout-tip}
+### Discussion Question
+
+1. A person who buys what they believe is heroin can be convicted of possessing fentanyl, triggering lower quantity thresholds and harsher mandatory minimums, even though they had no knowledge of the substitution. The section above notes that the unregulated market producing these substitutions exists because there is no legal supply chain. If criminalization itself creates the conditions under which defendants cannot know what they possess, is it coherent for that same system to impose strict liability on the identity of the substance?
+:::
+
+## Gun Regulation: A Constitutional Thicket
+
+Federal firearms regulation shares a constitutional foundation with federal drug law: the Commerce Clause. The Gun Control Act of 1968 established the federal firearms licensing system and created categories of "prohibited persons" barred from possessing firearms, including convicted felons. The workhorse of federal firearms enforcement is 18 U.S.C. § 922(g), which makes it a crime for felons, fugitives, unlawful drug users, and several other categories to possess any firearm or ammunition. Felon-in-possession charges under § 922(g)(1) produce between 7,000 and 8,700 federal convictions per year. The racial demographics mirror drug enforcement: in fiscal year 2021, 56.2% of defendants convicted under § 922(g) were Black. The most aggressive enforcement model, Project Exile, launched in Richmond, Virginia in 1997, routed state gun cases into federal court to obtain longer sentences. In *United States v. Jones*, 36 F. Supp. 2d 304 (E.D. Va. 1999), both parties acknowledged that roughly 90% of Exile defendants were African American. A federal public defender described the program as "essentially locking up a large segment of the African-American community in Richmond under draconian sentencing principles for unreasonably long periods of time."
+
+Unlike drug regulation, however, firearms regulation must contend with a constitutional right. In *District of Columbia v. Heller* (2008), a 5-4 majority held that the Second Amendment protects an individual right to keep and bear arms for self-defense, unconnected with militia service. Two years later, *McDonald v. City of Chicago* (2010) incorporated this right against the states.
+
+The sea change came in *New York State Rifle & Pistol Association v. Bruen* (2022). Writing for a 6-3 majority, Justice Thomas established a "text, history, and tradition" test: if the Second Amendment's plain text covers an individual's conduct, the government must demonstrate that its regulation is "consistent with this Nation's historical tradition of firearm regulation" by identifying a "relevantly similar" historical analogue from the Founding era or Reconstruction. The Court softened the test slightly in *United States v. Rahimi* (2024), upholding the prohibition on firearm possession by persons subject to domestic violence restraining orders in an 8-1 decision. The government need not find a "historical twin" --- consistency with the general principles underlying the historical tradition suffices.
+
+The most consequential unresolved question involves § 922(g)(1) itself. In *Range v. Attorney General* (3d Cir. 2023) (en banc), the Third Circuit held the statute unconstitutional as applied to a man convicted of making a false statement to obtain food stamps, though that decision was vacated and remanded by the Supreme Court in light of *Rahimi* in June 2024. Multiple circuits have found the statute unconstitutional as applied to at least some nonviolent offenders; others have upheld it broadly. The question remains unresolved.
+
+The fundamental structural difference between drug and gun regulation is this: there is no constitutional right to possess controlled substances. The Commerce Clause gives Congress plenary authority over the drug supply, as *Gonzales v. Raich* (2005) confirmed. But the Second Amendment creates a constitutional right to possess firearms, and *Bruen* requires courts to evaluate every restriction against historical tradition rather than contemporary policy justifications. A public health argument that would easily sustain a drug restriction may fail as a gun restriction because the government cannot identify an 18th-century analogue.
+
+::: {.callout-tip}
+### Discussion Question
+
+1. Congress can reschedule or deschedule any controlled substance without constitutional obstacle, yet cannabis remains Schedule I alongside heroin decades after most states legalized it. The Second Amendment prevents Congress from banning handguns outright, yet *Rahimi* suggests that regulations addressing specific dangers can survive. In practice, which area --- drug reform or gun reform --- faces the higher barrier to evidence-based change, and does the answer depend on whether the barrier is legal or political?
+:::
+
+## Where Drugs and Guns Meet: "Using" a Firearm
+
+Drugs and firearms intersect most directly in 18 U.S.C. § 924(c), which imposes mandatory consecutive sentences on anyone who "uses or carries a firearm" during a drug trafficking crime or crime of violence. The penalties are severe (five years for possession, seven for brandishing, ten for discharge) and run on top of the underlying sentence. A second § 924(c) conviction triggers a mandatory minimum of twenty-five years.
+
+The severity of § 924(c) sentencing is illustrated by the case of Weldon Angelos. A first-time offender convicted of three marijuana sales while carrying a firearm, Angelos received a mandatory fifty-five-year sentence under § 924(c) --- more than the statutory minimum for hijacking an airplane, assassinating the President, or second-degree murder. The sentencing judge, Paul Cassell, called the sentence "unjust, cruel, and even irrational" but concluded that the statute left him no choice. Congress eventually addressed the harshest applications of § 924(c) in the First Step Act of 2018, which eliminated the practice of "stacking" --- treating multiple § 924(c) counts within a single indictment as successive convictions, each subject to the twenty-five-year mandatory minimum.
+
+In *Smith v. United States* (1993), the Court held that trading a gun for drugs counted as "using" a firearm. The following case addresses whether the reverse transaction --- trading drugs for a gun --- also qualifies.
+
+## WATSON V. UNITED STATES {#watson-v-united-states .unnumbered .unlisted .case-title}
+
+*Supreme Court of the United States, 2007*
+*552 U.S. 74*
+
+::: {.case-excerpt}
+SOUTER, J.:
+
+The question is whether a person who trades his drugs for a gun "uses" a firearm "during and in relation to ... [a] drug trafficking crime" within the meaning of 18 U.S.C. § 924(c)(1)(A). We hold that he does not.
+
+**I**
+
+[...]
+
+This third case on the reach of § 924(c)(1)(A) began to take shape when petitioner, Michael A. Watson, told a Government informant that he wanted to acquire a gun. On the matter of price, the informant quoted no dollar figure but suggested that Watson could pay in narcotics. Next, Watson met with the informant and an undercover law enforcement agent posing as a firearms dealer, to whom he gave 24 doses of oxycodone hydrochloride (commonly, OxyContin) for a .50 caliber semiautomatic pistol. [...]
+
+A federal grand jury indicted him for distributing a Schedule II controlled substance and for "using" the pistol during and in relation to that crime, in violation of § 924(c)(1)(A). Watson pleaded guilty across the board, reserving the right to challenge the factual basis for a § 924(c)(1)(A) conviction and the added consecutive sentence of 60 months for using the gun. The Court of Appeals affirmed, [...] on Circuit precedent foreclosing any argument that Watson had not "used" a firearm. [...]
+
+We now reverse.
+
+**II**
+
+The Government's position that Watson "used" the pistol under § 924(c)(1)(A) by receiving it for narcotics lacks authority in either precedent or regular English. [...]
+
+The Government may say that a person "uses" a firearm simply by receiving it in a barter transaction, but no one else would. A boy who trades an apple to get a granola bar is sensibly said to use the apple, but one would never guess which way this commerce actually flowed from hearing that the boy used the granola. [...]
+
+So, when Watson handed over the drugs for the pistol, the informant or the agent "used" the pistol to get the drugs, just as *Smith* held, but regular speech would not say that Watson himself used the pistol in the trade. "A seller does not 'use' a buyer's consideration." [...]
+
+[...] [P]olicy-driven symmetry cannot turn "receipt-in-trade" into "use." Whatever the tension between the prior result and the outcome here, law depends on respect for language and would be served better by statutory amendment (if Congress sees asymmetry) than by racking statutory language to cover a policy it fails to reach.
+
+[...]
+
+Given ordinary meaning and the conventions of English, we hold that a person does not "use" a firearm under § 924(c)(1)(A) when he receives it in trade for drugs. The judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.
+
+---
+
+Justice GINSBURG, concurring in the judgment.
+
+It is better to receive than to give, the Court holds today, at least when the subject is guns. Distinguishing, as the Court does, between trading a gun for drugs and trading drugs for a gun, for purposes of the 18 U.S.C. § 924(c)(1) enhancement, makes scant sense to me. I join the Court's judgment, however, because I am persuaded that the Court took a wrong turn in *Smith v. United States* [...] when it held that trading a gun for drugs fits within § 924(c)(1)'s compass as "us[e]" of a firearm "during and in relation to any ... drug trafficking crime." [...] I would read the word "use" in § 924(c)(1) to mean use as a weapon, not use in a bartering transaction. Accordingly, I would overrule *Smith*, and thereby render our precedent both coherent and consistent with normal usage.
+:::
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Under *Smith* and *Watson* together, a person who trades a gun for drugs "uses" the firearm, but a person who trades drugs for a gun does not. Is this distinction principled or arbitrary? Which side of the transaction poses a greater threat to public safety?
+
+2. Justice Ginsburg argues that "use" should mean "use as a weapon," a reading that would mean neither the drug dealer in *Watson* nor the drug buyer in *Smith* "used" a firearm. Is her reading more coherent? What would be the consequences for § 924(c) enforcement?
+
+3. Weldon Angelos received a mandatory fifty-five-year sentence for three marijuana sales while carrying a firearm. Even after the First Step Act eliminated stacking within a single indictment, mandatory minimums for firearm enhancements remain. Should mandatory minimums exist at all for firearm enhancements? What is gained and what is lost by removing judicial discretion at sentencing?
+:::
+
+## Does Any of This Work?
+
+The doctrines examined above (constructive possession, quantity thresholds, mens rea for possession, felon-in-possession, the meaning of "use") are the legal tools through which drug and gun enforcement operates. The question that remains is whether these tools are well calibrated. That requires asking what enforcement actually costs, what it achieves, and what the alternatives look like.
+
+### The Costs of Drug Enforcement
+
+The dominant enforcement strategy of the past four decades (mass incarceration of street-level dealers, mandatory minimums, interdiction, and source-country eradication) has not suppressed established drug markets. Retail cocaine prices fell roughly 80% in real terms between 1981 and 2012, even as drug incarceration increased tenfold. The Pew Charitable Trusts found no statistically significant relationship between state drug imprisonment rates and drug use rates, overdose death rates, or drug arrest rates. The National Academies concluded in 2014 that "[these dramatic] increases in imprisonment for drug crimes did not clearly reduce drug use and were accompanied by a significant decline in drug prices [from the 1980s to the 1990s]."
+
+RAND Corporation analyses have consistently found that treatment reduces drug consumption seven to ten times more cost-effectively than interdiction. Mandatory minimums are the least cost-effective strategy except for the highest-level traffickers. The deterrence literature is equally clear: severity of punishment beyond moderate thresholds does not deter drug offenses at the population level. What does deter is the *certainty* of apprehension, not its severity.
+
+Meanwhile, enforcement generates its own harms. Economists describe an "[Iron Law of Prohibition](https://en.wikipedia.org/wiki/Iron_law_of_prohibition){.cite}:" as enforcement intensifies, suppliers shift to hyper-potent alternatives that are easier to conceal and more profitable per unit weight. The progression from opium to heroin, from coca leaves to crack cocaine, and from prescription opioids to fentanyl follows this path. Because participants in illegal markets cannot resolve disputes through courts, violence substitutes for contract enforcement. Drug prohibition also prevents users from accessing clean needles or verifying the contents of what they purchase, producing epidemics of HIV, hepatitis C, and contaminated-supply deaths. The doctrines examined in this chapter interact with mandatory minimums and repeat-offender enhancements to create the sentencing ratchet described in Chapter 6: each contact with the criminal legal system increases the stakes of the next, and because communities subject to the most aggressive policing generate the most prior convictions, those priors activate enhancement regimes that lie dormant elsewhere.
+
+![Simulation of the sentencing ratchet applied to drug and gun enforcement. Two cohorts engage in identical conduct but face different arrest rates. The "targeted" cohort accumulates convictions faster, triggering repeat-offender enhancements that produce exponentially diverging cumulative sentences. Source: Braman, Fishman & Idowu, "The Prosecutor's Paradox & The Architecture of Justice" (forthcoming).](../sources/images/ratchet-simulation.png){width=75% fig-align="center"}
+
+### What Reduces Drug Harms?
+
+If enforcement has not worked, what has? Several findings are well established.
+
+The strongest evidence supports *medication-assisted treatment*. Opioid agonist therapy --- methadone and buprenorphine --- cuts all-cause mortality roughly in half during treatment. A 2021 meta-analysis in *JAMA Psychiatry* covering more than 700,000 patients found a mortality rate ratio of 0.47 compared to periods out of treatment. Rates of violent crime convictions are also roughly halved during treatment compared to periods off treatment. NIDA estimates that every dollar invested in addiction treatment yields $4--$7 in reduced crime and criminal legal system costs; when healthcare savings are included, the ratio can reach 12 to 1. For stimulant use disorders, where no FDA-approved medication exists, contingency management (providing small financial incentives for negative drug tests) is the best-supported intervention, with moderate effect sizes across multiple randomized controlled trials.
+
+*Syringe service programs* reduce HIV transmission by approximately 40--60%, a finding consistent across decades and countries in a 2023 VA review of 100 studies. No credible study has found that these programs increase drug use or crime. *Community naloxone distribution* has been associated with 27--46% reductions in overdose mortality in areas with strong implementation.
+
+*Decriminalization* does not increase drug use. This is the most consistent finding in the reform literature: no credible study from Portugal, the Czech Republic, or Oregon found that removing criminal penalties for personal possession caused use rates to rise substantially. But decriminalization by itself does not produce health improvements, either. Portugal's dramatic reductions in HIV, overdose, and incarceration followed from decriminalization *combined with* simultaneous expansion of treatment, harm reduction, and social reintegration services. Oregon's Measure 110 (2020--2024) tested decriminalization *without* building that infrastructure --- treatment funding was delayed nearly two years, the referral system never became functional, and the experiment was repealed within four years. Removing criminal penalties without simultaneously investing in alternatives removes enforcement harms but does not generate public health gains.
+
+*Drug courts* reduce recidivism by roughly 10--14 percentage points on average across studies, but the picture is more complicated than it appears. The only randomized trial (Baltimore, 15-year follow-up) found sustained reductions in arrests but *no reduction in mortality* --- 20% of participants had died, with nearly two-thirds of deaths substance-related. Only 7% of participants received medication-assisted treatment. Drug courts also have serious racial equity problems: Black defendants are 44% less likely to be admitted than comparable white defendants, with substantially lower graduation rates. And there is evidence of net-widening --- some drug courts may increase aggregate system contact by pulling in defendants whose cases would otherwise have been dismissed.
+
+Federal sentencing reform has been more durable than most alternatives. The Fair Sentencing Act of 2010 reduced the crack-to-powder sentencing ratio from 100:1 to 18:1; the First Step Act of 2018 made this retroactive. Approximately 80% of those who received sentence reductions were Black. Twenty-four states have legalized recreational cannabis even as it remains Schedule I.
+
+### What Reduces Gun Violence?
+
+The gun policy evidence base is thinner than the drug literature and more politically contested. But the RAND Corporation has now published four editions of systematic reviews, and some findings have solidified.
+
+The single most durable finding in the deterrence literature applies to gun enforcement as much as drug enforcement: the *certainty* of apprehension, not the *severity* of punishment, drives behavioral change. This explains why focused deterrence programs --- which identify the highest-risk individuals, deliver direct warnings, and offer social services --- consistently reduce gun violence (22 of 24 evaluations in a meta-analysis found reductions, with gun-specific studies averaging roughly 26%), while mandatory minimums for gun offenses show weak-to-null deterrent effects at the national level. It also explains why Project Exile, the high-profile Richmond program that routed gun cases to federal court, appears not to have caused Richmond's decline in homicides: the best available study attributes the decline to regression to the mean, and the best available study found no independent effect. Roughly 90% of Project Exile defendants were Black, and cases were deliberately routed to federal court, where the jury pool was approximately 10% Black rather than the 75% Black jury pool in state court.
+
+*Permit-to-purchase laws* have the strongest evidence of any regulatory intervention. When Missouri repealed its permit law in 2007, firearm homicides rose an estimated 25%; when Connecticut adopted one in 1995, they fell roughly 40% over a decade. A 2024 panel study in *JAMA Network Open* covering 48 states confirmed an 18% reduction in firearm homicide associated with permit requirements. By contrast, *universal background checks alone* (without the proactive licensing component) show no significant effect on homicide across multiple rigorous studies. The enforcement gap is structural: roughly 90% of crime guns are obtained through channels that bypass legal purchase, and private sales are largely unverifiable without a registry.
+
+*Waiting periods* reduce firearm suicide, a finding RAND rates as "supportive," among the strongest evidence-outcome pairings in the literature. The mechanism tracks the clinical evidence discussed above: most attempts are impulsive, firearms are almost always lethal, and method substitution is rare. *Child access prevention laws* show similarly strong and consistent evidence, with youth firearm suicide rates increasing 36% over two decades in states without strong safe-storage standards compared to essentially flat rates in states with them.
+
+*Extreme risk protection orders* show moderate evidence of reducing suicide among respondents, with an estimated ten to twenty-three orders per suicide prevented. Their effect on mass shootings is unknowable: mass shootings are so rare that even a large reduction would be statistically undetectable. *Domestic violence firearm restrictions* are associated with 10--25% reductions in intimate partner homicide, but only where the law includes relinquishment requirements *and* those requirements are actually enforced. The enforcement gap is enormous: firearm surrender compliance among newly prohibited persons is estimated at 20--40% without dedicated enforcement units.
+
+On the other hand, some popular policies lack empirical support. *Voluntary gun buyback programs* in the United States show no detectable effect on any outcome; a large difference-in-differences analysis ruled out reductions greater than 1.1% with 95% confidence. (Australia's *mandatory* buyback, which removed one-fifth of civilian firearms alongside a prohibition, is a different intervention entirely.) *Assault weapons bans* face a definitional problem (the feature-based classification is easily circumvented), though large-capacity magazine bans have a more targeted rationale. And the original "more guns, less crime" thesis has not held up: RAND now rates the evidence as "supportive" that shall-issue concealed carry laws *increase* violent crime by 3--20%.
+
+After *Bruen*, effectiveness is no longer the only question. Even regulations with strong evidence of saving lives must survive the text-history-and-tradition test. The Supreme Court's decision in *United States v. Rahimi* (2024) upheld disarming persons dangerous to others, providing constitutional support for ERPOs and domestic violence prohibitions, and most post-*Bruen* challenges to these policies have failed. But the constitutional law in this area remains unsettled. Evidence-based drug reform faces primarily political obstacles; evidence-based gun reform faces constitutional ones as well.
+
+### Enforcement Alternatives in Practice
+
+Ramsey County, Minnesota, provides a striking natural experiment in what happens when the enforcement model itself is questioned. Before his death during a 2016 traffic stop for a broken taillight, Philando Castile had been stopped by police in the Minneapolis--St. Paul region at least forty-nine times. Data showed that Black drivers in the county were four times more likely to be stopped and nine times more likely to be searched than white drivers for minor equipment violations, yet firearms were recovered in less than one percent of all traffic stops. In response, the Ramsey County Attorney's Office, working with local police chiefs and community members, declined to prosecute felony cases arising from non-public-safety stops. Equipment stops fell 86%, searches dropped 92%, and stops of Black drivers declined 66%, with no detectable increase in crime and no change in firearm seizures.
+
+Philadelphia achieved some of the nation's highest homicide clearance rates by reducing detective caseloads and investing in forensic technology, while homicides declined to their lowest levels in decades. The contrast with volume-driven drug and gun enforcement is instructive: the resources consumed by high-volume prosecution of possession cases are resources unavailable for solving violent crime. Whether the question is drugs or guns, the answer is the same: certainty matters more than severity, treatment outperforms incarceration, and enforcement strategies should be evaluated by whether they reduce harm rather than by whether they produce arrests.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. The sentencing ratchet requires no discriminatory intent to produce racially disparate outcomes: identical conduct plus unequal arrest exposure generates unequal criminal histories, which activate enhancements that lie dormant elsewhere. If the mechanism is facially neutral and the disparity is structural, what legal tools --- if any --- are available to challenge it, given the *Whren*-*Armstrong*-*McCleskey* trilogy?
+
+2. You are a federal prosecutor. A man with a fifteen-year-old nonviolent drug conviction was found in a home he shares with family members who lawfully own firearms --- facts nearly identical to *White*. You believe the constructive possession charge would not survive appellate scrutiny, but roughly 95% of such cases resolve by plea and never reach a court that would test the evidence. Do you bring the charge? If your answer depends on the defendant's criminal history, explain how that interacts with the sentencing ratchet.
+
+3. Ramsey County stopped prosecuting felony cases arising from pretextual traffic stops; stops of Black drivers fell 66%, and crime did not increase. Meanwhile, national homicide clearance rates have collapsed from roughly 90% to around 50%, with the entire decline concentrated among cases with Black victims. You are a newly elected district attorney with limited resources. Do you continue devoting prosecutors to high-volume drug and gun possession cases, or do you reallocate resources to homicide investigation and witness support?
+:::

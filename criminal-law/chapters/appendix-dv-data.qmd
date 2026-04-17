@@ -1,0 +1,424 @@
+# Domestic Violence in the United States: Prevalence, Trends, and Responses {#sec-appendix-dv-data}
+
+```{=latex}
+\setcounter{page}{1}
+\renewcommand{\thepage}{G-\arabic{page}}
+```
+
+Domestic violence encompasses a range of harmful behaviors within family and intimate relationships---intimate partner violence, child abuse and neglect, and elder abuse. These forms of violence are interconnected: they co-occur in the same families at high rates, share risk factors, and transmit across generations. Understanding the scope and dynamics of domestic violence is essential for evaluating the criminal law's response to it.
+
+This appendix examines three questions. First, how prevalent is domestic violence? The answer depends heavily on what you measure and how you measure it---a recurring theme across the data sources reviewed here. Second, have rates changed over time? The evidence suggests a substantial long-term decline in intimate partner violence since the early 1990s, though with important caveats about measurement artifacts and recent reversals in lethality trends. Third, what works to reduce domestic violence? The evidence on criminal legal interventions is surprisingly thin and often discouraging. Some non-criminal approaches show more promise, though rigorous evidence remains limited across the board.
+
+---
+
+## Prevalence and Scope
+
+### Intimate Partner Violence
+
+The most widely cited prevalence estimates for intimate partner violence (IPV) in the United States come from two federal surveys that produce strikingly different numbers---not because one is wrong, but because they measure different things.
+
+The [National Crime Victimization Survey (NCVS)](https://bjs.ojp.gov/national-crime-victimization-survey-ncvs-api){.cite}, administered annually by the Bureau of Justice Statistics, surveys approximately 240,000 individuals and frames IPV as criminal victimization. It asks whether respondents experienced specific crimes committed by intimate partners. For 2023, the NCVS estimated an IPV victimization rate of 2.2 per 1,000 persons age 12 and older, corresponding to roughly 600,000 victimizations. The crime framing is both a strength---it produces data directly relevant to criminal law---and a limitation, because many victims do not conceptualize their experiences as crimes, particularly when the violence involves a current partner or takes forms (psychological abuse, coercive control) not easily mapped onto criminal categories.
+
+The [CDC's National Intimate Partner and Sexual Violence Survey (NISVS)](https://www.cdc.gov/nisvs/about/index.html){.cite} uses behaviorally specific questions in a health-and-safety frame---asking, for example, whether a partner ever "slammed you against something" or "used physical force or threats to make you have sex"---without requiring respondents to label their experiences as crimes. The NISVS captures a much broader range of IPV, including psychological aggression, coercive control, and stalking. Its most recent data (2023/2024, N=15,609) found that more than 1 in 3 women (34.0%, or approximately 43.5 million) experienced contact sexual violence, physical violence, or stalking by an intimate partner during their lifetime. The 2016/2017 wave reported even higher figures: 47.3% of women and 44.2% of men experienced some form of IPV in their lifetime.
+
+These are not contradictory findings. The NCVS measures annual incidence of criminal victimization; the NISVS measures lifetime prevalence of a broader set of behaviors. The gap between them illustrates how survey design shapes what we can see.
+
+| Data Source | Administered By | What It Measures | IPV Prevalence |
+|---|---|---|---|
+| NCVS | Bureau of Justice Statistics | Criminal victimization (annual) | 2.2 per 1,000 (2023) |
+| NISVS | CDC | Behavioral prevalence (lifetime) | 34--47% of women; 17--44% of men |
+| CTS-based surveys | Various researchers | Physical aggression acts during conflicts | Roughly gender-symmetric act counts |
+| NIBRS/police data | Law enforcement agencies | Reported criminal incidents | ~40% of aggravated DV unreported |
+
+*Why these sources disagree.* Four factors account for most of the variation. First, **survey framing**: crime-framed questions (NCVS) suppress disclosure relative to health-framed questions (NISVS), because respondents must first categorize their experience as a "crime" before reporting it. Second, **scope of behaviors measured**: the NCVS excludes psychological aggression, coercive control, stalking, and economic abuse, all of which the NISVS captures. Third, **recall period**: the NCVS asks about the past six months (annualized); the NISVS asks about lifetime experiences. Fourth, **interview context**: the NCVS is conducted in the home, where an abuser may be present, further suppressing disclosure. A [2024 Council on Criminal Justice analysis](https://counciloncj.org/toward-a-better-estimate-of-domestic-violence-in-america/){.cite} found that in the twenty largest NIBRS-reporting cities, domestic violence incidents were 29% to 53% higher than reflected in law enforcement data.
+
+#### The Gender Symmetry Debate
+
+One of the most contentious questions in domestic violence research is whether partner violence is "gender symmetric"---perpetrated equally by men and women. More than 200 studies using the [Conflict Tactics Scale (CTS)](https://journals.sagepub.com/doi/10.1177/019251396017003001){.cite}, a widely used research instrument that counts specific acts of physical aggression during conflicts, have found roughly equal rates of physical aggression by men and women. Murray Straus, the CTS's creator, argued these findings were robust and that denial of women's violence was ideologically motivated.
+
+Critics identified fundamental limitations in this approach. The CTS counts discrete acts without capturing who initiated the violence, whether it was in self-defense, the history and pattern of abuse, or its consequences. A woman pushing a man away in self-defense and a man punching a woman as part of an ongoing campaign of coercive control are coded identically as "physical aggression." The [National Institute of Justice](https://nij.ojp.gov/topics/articles/measuring-intimate-partner-domestic-violence){.cite} concluded that the CTS "does not measure control, coercion, or the motives for conflict tactics" and that act counts alone do not yield "an accurate understanding of battering and serious injury occurring from intimate partner violence."
+
+Sociologist [Michael P. Johnson](https://muse.jhu.edu/book/15706/){.cite} proposed a resolution that has become the dominant framework. Johnson argued that domestic violence is not a single phenomenon but encompasses qualitatively distinct types:
+
+1. *Intimate terrorism*: violence embedded in a general pattern of coercive control---intimidation, isolation, economic control, emotional abuse. In heterosexual relationships, intimate terrorism is perpetrated almost exclusively by men. This is the form most commonly seen in shelters, emergency rooms, and the criminal justice system.
+
+2. *Situational couple violence*: violence arising from the escalation of specific conflicts, not rooted in a general pattern of control. Both partners may engage in this type of violence, and it is roughly gender-symmetric. This is what CTS-based community surveys primarily capture.
+
+3. *Violent resistance*: violence used by a partner---typically a woman in heterosexual relationships---in response to intimate terrorism.
+
+Johnson's framework explains the apparent contradiction in the literature: community surveys capture primarily situational couple violence (gender-symmetric), while criminal justice and shelter data capture primarily intimate terrorism (overwhelmingly male-perpetrated). Both findings are real; they describe different phenomena. When severity, injury, and fear are measured, the [evidence consistently shows gender asymmetry](https://pmc.ncbi.nlm.nih.gov/articles/PMC10668541/){.cite}.
+
+#### Coercive Control
+
+The concept of "coercive control," introduced by sociologist [Evan Stark](https://global.oup.com/academic/product/coercive-control-9780197639986){.cite} in 2007, has reshaped how scholars and legislators understand domestic violence. Stark defined coercive control as "a pattern of domination that includes strategies to isolate, exploit, and regulate the everyday behavior of victims"---an ongoing regime of control akin to kidnapping or hostage-taking, rather than a series of discrete violent incidents.
+
+Legislative recognition of coercive control has been spreading. England and Wales criminalized "controlling or coercive behaviour" in 2015 (Serious Crime Act, Section 76). Scotland's Domestic Abuse Act 2018 explicitly encompasses psychological abuse. In the United States, Hawaii criminalized coercive control as a petty misdemeanor under a pilot program in 2021. California amended its Family Code to include coercive control as grounds for restraining orders. Connecticut, Colorado, Washington, New Jersey, and Massachusetts have enacted coercive control legislation, though most address it in civil or family court contexts rather than as an independent criminal offense.
+
+#### Special Populations
+
+*Indigenous women.* American Indian and Alaska Native women experience violent victimization at dramatically higher rates than other populations---[84% have experienced violence in their lifetime](https://www.niwrc.org/restoration-magazine/june-2020/mmiw-understanding-missing-and-murdered-indigenous-women-crisis){.cite}. A central structural barrier has been the limitation on tribal criminal jurisdiction. Following *Oliphant v. Suquamish Indian Tribe* (1978), tribes lacked jurisdiction over non-Indian offenders---a critical gap because a significant proportion of violence against Native women is committed by non-Native perpetrators. VAWA 2013 extended tribal jurisdiction to domestic violence cases involving non-Indian offenders; VAWA 2022 expanded it further to cover sexual violence, stalking, and sex trafficking.
+
+*LGBTQ+ populations.* LGBTQ+ individuals experience IPV at rates equal to or higher than heterosexual and cisgender populations. The [NISVS](https://stacks.cdc.gov/view/cdc/12362){.cite} found lifetime IPV prevalence of 61.1% for bisexual women, 43.8% for lesbian women, and 35.0% for heterosexual women. The [2015 U.S. Transgender Survey](https://williamsinstitute.law.ucla.edu/publications/ipv-sex-abuse-lgbt-people/){.cite} found that 54% of transgender and non-binary respondents had experienced IPV. Unique barriers to help-seeking include fear of being "outed," DV services designed primarily for heterosexual women, and abusers exploiting the threat of disclosing a partner's sexual orientation or gender identity.
+
+*Immigrant populations.* Immigration status creates an additional axis of power and control. Abusers exploit immigration-related fears by threatening deportation, confiscating immigration documents, and isolating victims from information about their legal rights. VAWA self-petition provisions allow abused spouses to seek immigration status without the abuser's knowledge, and U-visas provide work permits for crime victims who assist law enforcement. But heightened immigration enforcement has been [documented as chilling DV reporting](https://www.nbcnews.com/news/latino/ice-immigrant-victims-domestic-abuse-scared-deportation-threat-rcna224711){.cite}---one study estimated that approximately one DV call is suppressed for every two deportations in areas with high concentrations of noncitizen Latino residents.
+
+*Rural communities.* Women in small rural and isolated areas report [significantly higher IPV prevalence](https://pmc.ncbi.nlm.nih.gov/articles/PMC3216064/){.cite} than urban women (22.5% vs. 15.5%), experience more severe and more frequent violence, and face dramatically greater barriers to services. Approximately 80% of rural and remote rural counties lack on-site DV programs.
+
+*Military families.* [IPV perpetration rates among military populations are 2.17 times higher than among civilians](https://pmc.ncbi.nlm.nih.gov/articles/PMC7375166/){.cite}, with veterans reporting higher rates than active-duty personnel. PTSD is a significant mediating factor: the rate of IPV among veterans with PTSD is approximately three times the rate for veterans without PTSD.
+
+### Child Abuse and Neglect
+
+Child maltreatment is the most common form of family violence by volume. For federal fiscal year 2023, [Child Maltreatment 2023](https://acf.gov/cb/report/child-maltreatment-2023){.cite} (the 34th annual report from the Administration for Children and Families) documented 546,159 substantiated child victims---a rate of 7.4 per 1,000 children. Maltreatment types among substantiated victims were 64.1% neglect only, 10.6% physical abuse only, 7.5% sexual abuse only, and 3.5% psychological abuse only. An estimated 2,000 children died from abuse or neglect, with 44% of fatalities younger than one year old.
+
+These administrative data capture only the tip of the iceberg. The [Fourth National Incidence Study (NIS-4)](https://acf.gov/opre/report/fourth-national-incidence-study-child-abuse-and-neglect-nis-4-report-congress){.cite}, which includes cases known to community professionals but not necessarily reported to CPS, estimated that 1,256,600 children experienced maltreatment during the 2005--2006 study period---one in every 58 children. Self-report surveys produce still higher numbers: the [National Survey of Children's Exposure to Violence (NatSCEV)](https://ojjdp.ojp.gov/library/publications/childrens-exposure-violence-comprehensive-national-survey){.cite} found that 15.2% of children experienced maltreatment by a caregiver in their lifetime.
+
+The co-occurrence of IPV and child maltreatment in the same family is substantial. A review of 35 studies found [co-occurrence rates between 30% and 60%](https://www.ncbi.nlm.nih.gov/books/NBK236956/){.cite}. Children who witness IPV are nearly four times more likely to experience child maltreatment in the same year. The overlap means that criminal law responses to one form of family violence necessarily implicate the other.
+
+Racial disparities in the child welfare system are stark. An estimated [37.4% of all U.S. children](https://pmc.ncbi.nlm.nih.gov/articles/PMC5227926/){.cite} will be the subject of a CPS investigation by age 18---but 53% of Black children will experience CPS contact, compared to 28% of white children. Whether this disparity reflects higher true prevalence, surveillance bias in mandatory reporting systems, or both remains actively debated. School personnel---the [highest CPS referral source for Black children](https://pmc.ncbi.nlm.nih.gov/articles/PMC3439815/){.cite}---refer at higher rates than for white children, and healthcare professionals have been found to be twice as likely to report suspected abuse among children of color than white children with similar injuries.
+
+Like IPV, child abuse has declined substantially since the early 1990s---but unevenly. [Sexual abuse substantiations declined 53%](https://www.unh.edu/ccrc/sites/default/files/media/2024-03/updated-trends-2022.pdf){.cite} from 1992 to 2007, and physical abuse substantiations declined 52% over the same period. Neglect, however, declined only about 6%, and child maltreatment fatalities have recently been rising.
+
+### Elder Abuse
+
+Elder abuse is the least studied and most underreported form of family violence. The [National Elder Mistreatment Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC2804623/){.cite} (N=5,777 adults aged 60 and older) found that approximately 1 in 10 older adults experienced some form of mistreatment in the past year: emotional abuse (4.6%), potential neglect (5.1%), financial exploitation by a family member (5.2%), physical abuse (1.6%), and sexual abuse (0.6%). A [WHO-commissioned meta-analysis](https://pubmed.ncbi.nlm.nih.gov/28104184/){.cite} of 52 studies across 28 countries estimated that 1 in 6 (15.7%) people aged 60 and older experienced abuse in the past year.
+
+Family members are the perpetrators in [nearly 90% of substantiated](https://www.ncbi.nlm.nih.gov/books/NBK98784/){.cite} domestic elder abuse cases. Adult children are the most common perpetrators (47.3% of all substantiated cases), followed by spouses (19.3%). For financial exploitation specifically, adult children account for 60.4% of cases.
+
+Only [1 in 24 cases of elder abuse is reported](https://ncea.acl.gov/What-We-Do/Research/Statistics-and-Data.aspx){.cite} to authorities. Victims are often reluctant to report because the perpetrator is someone they depend on for basic needs, and cognitive impairment, physical frailty, and isolation all suppress disclosure. Elder abuse cases have historically been rarely prosecuted; one study found that [only 3% of cases were submitted](https://pubmed.ncbi.nlm.nih.gov/22589024/){.cite} to the district attorney under standard practice, though multidisciplinary elder abuse forensic centers have significantly improved this rate.
+
+### Family Violence as a System
+
+Intimate partner violence, child abuse, and elder abuse are not independent phenomena. They co-occur within families, share risk factors, and transmit intergenerationally. A [meta-analysis](https://www.researchgate.net/publication/332967571_Prevalence_and_Correlates_of_the_Co-Occurrence_of_Family_Violence_A_Meta-Analysis_on_Family_Polyvictimization){.cite} found overall co-occurrence rates of 9.7% in general population samples and 36.0% in clinical populations.
+
+The intergenerational chain is well documented: childhood maltreatment [predicts engagement in elder mistreatment](https://pmc.ncbi.nlm.nih.gov/articles/PMC12129107/){.cite} as a family caregiver in adulthood, operating through hostile attribution bias and emotion dysregulation. Parents with histories of childhood abuse show more frequent use of psychological aggression, physical aggression, and neglectful behavior toward their own children. A [20-year prospective study](https://www.apa.org/pubs/journals/releases/ccp-714741.pdf){.cite} of 543 children found that conduct disorder was the strongest risk factor for perpetrating partner violence for both sexes, followed by exposure to domestic violence between parents.
+
+The Adverse Childhood Experiences (ACEs) framework, established by the [CDC-Kaiser Permanente ACE Study](https://www.cdc.gov/aces/about/index.html){.cite}, quantifies the cumulative impact. Witnessing domestic violence is one of the ten original ACEs. A person with four or more ACEs is 16 times more likely to perpetrate violence and 20 times more likely to be incarcerated. Mothers who reported five or more ACEs in childhood had 4.9 times the risk of experiencing IPV and 3.8 times the risk of reporting child maltreatment.
+
+---
+
+## Trends Over Time
+
+### The Long Decline in IPV: 1993--2010
+
+The NCVS documents a dramatic long-term decline in intimate partner violence. From 1994 to 2010, the overall IPV victimization rate fell 64%, from 9.8 to 3.6 per 1,000 persons age 12 and older. The decline was steeper for women (from 16.1 to 5.9 per 1,000) than for men (from 3.0 to 1.1). Hispanic women experienced the largest proportional decline: 78%, from 18.8 to 4.1 per 1,000.
+
+| Year | Total IPV Rate | Female Rate | Male Rate |
+|------|---------------|-------------|-----------|
+| 1994 | 9.8 | 16.1 | 3.0 |
+| 1998 | 7.7 | 13.2 | 1.9 |
+| 2002 | 4.4 | 7.5 | 1.1 |
+| 2006 | 4.3 | 6.7 | 1.8 |
+| 2010 | 3.6 | 5.9 | 1.1 |
+| 2014 | 2.4 | --- | --- |
+| 2020 | 1.7 | --- | --- |
+| 2022 | 3.4 | --- | --- |
+| 2023 | 2.2 | --- | --- |
+
+*Rates per 1,000 persons age 12+. 1994--2011 rates are BJS-published two-year rolling averages; 2014--2023 rates are computed from NCVS microdata.*
+
+This decline is corroborated by independent data sources not subject to the same reporting biases. Intimate partner homicide, measured through death records and FBI data, also declined substantially over this period---suggesting a genuine reduction rather than merely a change in reporting behavior.
+
+### Intimate Partner Homicide: Decline and Reversal
+
+Intimate partner homicide data from the [FBI Supplementary Homicide Reports](https://bjs.ojp.gov/content/pub/pdf/ipv9310.pdf){.cite} reveal a striking pattern. From 1980 to 2008, total IPV homicides fell 41% (from 1,817 to 1,080). But the decline was profoundly asymmetric by sex:
+
+- Male victims of IPV homicide declined 62% (from 501 to 192)
+- Female victims of IPV homicide declined 33% (from 1,316 to 888)
+
+Researchers attribute the steeper decline in male IPV homicide to expanded options for women to escape abusive relationships---shelters, legal aid, no-fault divorce, and economic independence---reducing the number of women who resort to lethal violence as the only way out.
+
+Since 2014, the long-term decline has reversed for female victims. Over the decade from 2014 to 2023, [intimate partner homicides of women increased 22%](https://everytownresearch.org/report/guns-and-violence-against-women/){.cite}, and homicides of women by guns increased 36%. More than 70 women are shot and killed by an intimate partner each month. A [2024 CDC report](https://www.cdc.gov/mmwr/volumes/73/wr/mm7334a4.htm){.cite} documented 3,991 female IPV homicide victims from 2018 to 2021, with firearms used in 66.6% of incidents and 98.5% of suspects being male. Racial disparities are severe: Black women constitute approximately 13.4% of the female population but account for 29.9% of intimate partner homicide victims, a disparity that widened from 27.3% in 2018--2019 to 32.1% in 2020--2021.
+
+### Has DV Actually Declined?
+
+Several factors complicate the interpretation of the NCVS decline. The NCVS's crime framing may increasingly deter disclosure as cultural understandings of relationship conflict shift. Apparent declines may partly reflect changes in willingness to disclose rather than changes in actual victimization. And the 2020--2021 rates (1.7 per 1,000) almost certainly reflect pandemic-era measurement artifacts---social restrictions limiting interview access and victims unable to disclose while trapped with abusers---rather than a genuine decline.
+
+But the convergence of multiple independent data sources---NCVS trends, intimate partner homicide declines, hospital data, and shelter utilization patterns---supports the conclusion that IPV genuinely decreased from the early 1990s through approximately 2010. Structural factors plausibly contributing to the decline include expanded shelter networks and DV services following VAWA (1994), increased women's labor force participation and earnings, declining marriage rates, improved access to no-fault divorce, and cultural shifts in attitudes toward IPV acceptability.
+
+### COVID-19: The "Shadow Pandemic"
+
+The pandemic simultaneously increased domestic violence and made it harder to measure. A [meta-analysis of 18 studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC9582712/){.cite} found an overall 7.9% increase in domestic violence following lockdown orders, with U.S.-based studies showing an 8.1% increase. The [Council on Criminal Justice](https://counciloncj.org/impact-report-covid-19-and-domestic-violence-trends/){.cite} found approximately 1,330 additional DV calls for service daily during March--April 2020. Between 2019 and 2021, intimate partner homicides involving firearms increased 28%.
+
+The measurement paradox was acute: the NCVS showed IPV rates dropping to 1.7 per 1,000 in 2020--2021, while administrative data from police, hospitals, and hotlines showed the opposite pattern. The most likely explanation is that lockdowns simultaneously increased violence and prevented the private interviews needed for NCVS disclosure.
+
+### The Economic Toll
+
+The lifetime economic burden of IPV is [estimated at $3.6 trillion](https://pmc.ncbi.nlm.nih.gov/articles/PMC6161830/){.cite} (2014 dollars), based on approximately 43 million adults with IPV victimization history. Per-victim lifetime costs average $103,767 for female victims and $23,414 for male victims. Medical costs account for 59% of the total ($2.1 trillion), lost productivity for 37% ($1.3 trillion), and criminal justice activities for 2% ($73 billion). The relatively small share attributable to criminal justice---just 2%---is worth noting: the costs of domestic violence fall overwhelmingly on the healthcare system and the economy, not on the institutions formally charged with addressing it.
+
+---
+
+## What Works: Criminal Legal Interventions
+
+### Mandatory and Pro-Arrest Policies
+
+The [Minneapolis Domestic Violence Experiment (1984)](https://pubmed.ncbi.nlm.nih.gov/6742629/){.cite}, conducted by Lawrence Sherman and Richard Berk, was the first randomized controlled trial of police response to domestic violence. Officers randomly assigned misdemeanor DV calls to arrest, separation (eight hours), or mediation. Arrested suspects had a 13% recidivism rate compared to 26% for separation---a finding that drove rapid nationwide adoption of mandatory arrest policies.
+
+But the five NIJ-funded replications tell a more complicated story. The Spouse Assault Replication Program (SARP) tested the Minneapolis finding in Omaha, Charlotte, Milwaukee, Colorado Springs, and Miami. No replication site confirmed a deterrent effect of arrest in official data at six months. Three cities found deterrence effects in victim interviews, but three also found an "escalation effect"---increased violence---in official records from six to twelve months post-contact. A critical moderator emerged: arrest appeared to deter employed suspects but may have *escalated* violence among unemployed suspects, suggesting that deterrence works only when offenders have something to lose.
+
+A [meta-analysis in *Aggression and Violent Behavior*](https://www.sciencedirect.com/science/article/abs/pii/S1359178920300409){.cite} concluded that arrest for DV-related offenses is "largely ineffective in preventing or reducing repeat offending, and may in some cases increase the likelihood of repeat offending." Most troublingly, [Radha Iyengar](https://www.nber.org/system/files/working_papers/w13186/w13186.pdf){.cite} found that intimate partner homicides increased by approximately 60% in states with mandatory arrest laws---possibly because victims, knowing arrest is automatic, become less likely to call police when they judge the risk of retaliation to be high.
+
+Mandatory arrest policies have also produced unintended consequences for the populations they were designed to protect. Arrests of female suspects increased 446% compared to 37% for males between 1987 and 1999 in California. [Dual arrest rates](https://pubmed.ncbi.nlm.nih.gov/29294989/){.cite}---in which both parties are arrested---run approximately 7--8% nationally, but reach 26--27% for same-sex couples compared to less than 1% for male-offender/female-victim cases. Primary aggressor laws reduce dual arrests by roughly 75% but have their own disparate effects across racial groups.
+
+### Prosecution
+
+Two-thirds of the 142 largest prosecutor's offices have adopted [no-drop prosecution policies](https://www.ojp.gov/pdffiles1/nij/199719.pdf){.cite} for domestic violence cases, under which cases proceed regardless of whether the victim wishes to continue. These policies have increased guilty pleas, reduced dismissals, and increased trials. Evidence-based prosecution---using 911 recordings, officer statements, photographs, and medical testimony rather than victim testimony---provides another path forward, though *Crawford v. Washington* (2004) significantly constrained this approach by barring "testimonial" hearsay.
+
+The case attrition funnel remains steep. Approximately one-third of IPV offenses reported to police result in prosecution. About three-fifths of arrests result in charges being filed. About one-third of arrests result in conviction. When cases *do* proceed, DV [conviction rates (61%) are actually higher than non-DV cases (54%)](https://journals.sagepub.com/doi/10.1177/0734016808324231){.cite}---the challenge is getting cases to that stage.
+
+Whether prosecution reduces future violence is less clear than one might hope. A study of two specialized DV courts found that court dispositions produced only ["minimal deterrent impact on reoffending behavior"](https://pubmed.ncbi.nlm.nih.gov/26021860/){.cite}.
+
+### Protection Orders
+
+Civil protection orders are the most widely used legal remedy for domestic violence. The evidence on their effectiveness is more encouraging than for arrest or prosecution, though far from definitive.
+
+A [systematic review and meta-analysis of 25 studies](https://pubmed.ncbi.nlm.nih.gov/31658878/){.cite} found that protection orders are associated with meaningful reductions in violence. Women with permanent protection orders had a relative risk of 0.2 (95% CI 0.1--0.8) for physical abuse over twelve months compared to those without orders. A [longitudinal study](https://pubmed.ncbi.nlm.nih.gov/22491224/){.cite} found that police incident rates for protection order recipients were "more than double the matched group" before the order but "dropped to the level of the matched group during and after the order."
+
+The meta-analytic average violation rate, however, is approximately 40% across 32 studies. Nearly half of women granted two-year protection orders reported at least one violation over eighteen months, and only half reported the violation to police. Enforcement is inconsistent: in [*Castle Rock v. Gonzales* (2005)](https://supreme.justia.com/cases/federal/us/545/748/){.cite}, the Supreme Court held 7--2 that police have no constitutional obligation to enforce restraining orders.
+
+### Batterer Intervention Programs
+
+Batterer intervention programs (BIPs)---most commonly based on the Duluth Model's power-and-control framework or cognitive-behavioral approaches---are the primary court-mandated treatment for DV offenders. The evidence on their effectiveness is discouraging.
+
+The most rigorous evaluation is a [2021 Campbell Systematic Review](https://pubmed.ncbi.nlm.nih.gov/37133255/){.cite} covering 11 studies with 4,824 participants, including seven RCTs. For official reports (police data, rearrests), the odds ratio was 0.79 (95% CI 0.49--1.28)---a modest reduction that was **not statistically significant**. For victim-reported outcomes, the odds ratio was 0.99 (95% CI 0.74--1.32)---**no effect whatsoever**. The review concluded that "there is insufficient evidence to conclude that these programs are effective."
+
+A [2024 meta-analysis of 59 studies](https://pubmed.ncbi.nlm.nih.gov/38810357/){.cite} in *Clinical Psychology Review* confirmed that effect sizes were "in the small range" and "smaller in true experiments as compared to quasi-experimental designs." This pattern---significant effects in quasi-experiments, null effects in RCTs---is a red flag for selection bias rather than genuine treatment effects. Critically, the meta-analysis found that novel interventions vs. Duluth produced effect sizes comparable to novel interventions vs. untreated controls---meaning the Duluth model performed roughly equivalent to no treatment at all. Duluth curriculum groups "have not shown improved efficacy over time" despite four decades of use.
+
+#### Emerging Alternatives: Acceptance and Commitment Therapy
+
+Among the novel interventions, two approaches have produced the largest effect sizes against Duluth controls: Acceptance and Commitment Therapy (ACT) and [Circles of Peace](https://www.nature.com/articles/s41562-019-0724-1){.cite} (a restorative justice approach discussed below).
+
+ACT takes a fundamentally different approach from the Duluth Model. Rather than confronting offenders' beliefs about power and control, ACT targets "psychological flexibility"---the ability to be aware of one's thoughts and emotions and to choose value-driven behaviors rather than reacting automatically with aggression. The model posits that a lack of psychological flexibility is linked to emotional avoidance and impulsivity, including violence.
+
+An [Iowa State University RCT](https://research.iastate.edu/2022/04/26/first-of-its-kind-study-compares-domestic-violence-programs-finds-promising-results/){.cite}---the first head-to-head randomized comparison of ACT against the Duluth Model---found that ACT participants had significantly fewer new violent and non-violent criminal charges. Unlike the Duluth Model's null results in victim-reported outcomes, ACT produced significantly less victim-reported abuse, controlling behavior, and stalking. The intervention's largest effects were on non-domestic-violence charges, suggesting a general reduction in criminal behavior rather than merely a shift in targets. The [original study](https://hubble-live-assets.s3.eu-west-1.amazonaws.com/respect/file_asset/file/1626/ZarlingRussell.pdf){.cite} (Zarling & Russell) found that ACT participants had roughly half the rate of new charges compared to Duluth participants.
+
+### Specialized DV Courts
+
+The evidence on specialized DV courts is mixed. A [multisite study of 24 DV courts](https://pubmed.ncbi.nlm.nih.gov/26056163/){.cite} across New York found "a small positive impact on recidivism among convicted offenders" and increased conviction rates for male defendants. A Calgary study found recidivism dropped from 41.2% to 8.2% after introducing a specialized court, but this single-site before-and-after design has significant confounds. A [Bronx quasi-experiment](https://pubmed.ncbi.nlm.nih.gov/18212340/){.cite} found that judicial monitoring "failed to reduce the re-arrest rate for any offense, for domestic violence, or for domestic violence with the same victim."
+
+### Incarceration
+
+There is limited evidence that incarceration specifically deters future domestic violence. A [quasi-experimental study](https://pubmed.ncbi.nlm.nih.gov/31679446/){.cite} using propensity score matching (169 treated vs. 169 matched controls) found "no significant differences in any type of recidivism" between prison-based DV treatment participants and controls, concluding that "the intervention is no more successful when offered within prisons than when offered in the community."
+
+### Firearms Restrictions
+
+Firearms restrictions are the intervention with the strongest and most consistent evidence base for reducing DV lethality. When an abuser has access to a firearm, the victim's risk of homicide increases [five- to sevenfold](https://pubmed.ncbi.nlm.nih.gov/12835191/){.cite}. Female intimate partners are more likely to be murdered with a gun than by all other means combined.
+
+State-level evidence consistently shows that firearm restrictions for DV offenders reduce intimate partner homicide:
+
+| Law Type | IPH Reduction | Source |
+|---|---|---|
+| DVRO firearm prohibition | 10% | [Zeoli et al. (2018)](https://pubmed.ncbi.nlm.nih.gov/30383263/){.cite} |
+| Covering dating partners | 13% | Zeoli et al. (2018) |
+| Including ex parte orders | 13% | Zeoli et al. (2018) |
+| Requiring firearm relinquishment | 12--16% | [Diez et al. (2017)](https://annals.org/aim/fullarticle/2654047){.cite} |
+| Violent misdemeanor prohibitions | 23% | Zeoli et al. (2018) |
+| City-level DVRO firearm laws | 25% | [Zeoli & Webster (2010)](https://pubmed.ncbi.nlm.nih.gov/20363814/){.cite} |
+
+A critical implementation gap persists: of [8,375 IPH incidents from 2003 to 2018](https://pubmed.ncbi.nlm.nih.gov/34334940/){.cite}, only 5.4% involved a previously granted protection order, and none had explicitly required firearm removal. Laws on the books matter less than enforcement mechanisms---particularly relinquishment provisions that require affirmative proof of surrender.
+
+In [*United States v. Rahimi*](https://supreme.justia.com/cases/federal/us/602/680/){.cite}, 602 U.S. 680 (2024), the Supreme Court upheld 18 U.S.C. § 922(g)(8), which prohibits firearm possession by persons subject to domestic violence restraining orders, in an 8--1 decision. Chief Justice Roberts wrote for the majority that "when an individual has been found by a court to pose a credible threat to the physical safety of another, that individual may be temporarily disarmed consistent with the Second Amendment."
+
+There are, however, racial disparities in the effectiveness of these laws. [State-level DVRO firearm restrictions](https://pubmed.ncbi.nlm.nih.gov/34144667/){.cite} are associated with significant reductions in IPH for white victims (11% reduction with relinquishment) but show no significant impact for Black victims---suggesting differential enforcement.
+
+---
+
+## What Works: Non-Criminal Interventions
+
+### Shelters and Housing
+
+Emergency shelters are the most widely available DV-specific intervention, though rigorous evaluation is difficult because it is ethically problematic to deny shelter to someone fleeing violence. A [2021 *Lancet Public Health* systematic review](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00234-6/fulltext){.cite} of 34 studies found no evidence of disadvantages from any IPV-housing intervention, with the strongest evidence of benefits for mental health, perceived safety, and housing-related stress.
+
+The [Domestic Violence Housing First (DVHF)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2806371){.cite} model---which prioritizes rapid housing placement and flexible financial assistance over shelter stays---showed promising results in a comparative effectiveness study of 344 survivors across five agencies. Over 24 months, DVHF was associated with greater safety, housing stability, and reduced mental health symptoms compared to services as usual. At 12 months, recipients reported decreased physical, psychological, and economic abuse.
+
+The [National Network to End Domestic Violence's](https://nnedv.org/about-us/dv-counts-census/){.cite} annual one-day census illustrates the scale of unmet need: in 2024, 79,088 victims were served by DV programs on a single day, but 14,095 requests for services went unmet---the highest number recorded.
+
+### Economic Interventions
+
+The relationship between economic resources and domestic violence operates through multiple mechanisms: economic independence provides exit options, financial stress increases risk, and economic control is itself a form of abuse. The evidence on economic interventions is strongest from low- and middle-income countries.
+
+[J-PAL's systematic review of randomized evaluations](https://www.povertyactionlab.org/policy-insight/impacts-economic-interventions-intimate-partner-violence){.cite} found that an Ecuador RCT targeting cash, voucher, or food transfers toward female heads of household produced a 6--7 percentage point decrease in controlling behavior and physical or sexual violence. A Liberia vocational training program produced a 23 percentage point reduction in emotional IPV. Combined economic strengthening plus gender-transformative programs tend to produce the most consistent results.
+
+In the United States, evidence on the Earned Income Tax Credit (EITC) is conflicting. [One study](https://doi.org/10.1086/735360){.cite} estimated the 1993 EITC expansion reduced IPV reports among unmarried low-educated women by approximately 9.7% per additional $1,000 of after-tax income. But [another analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC11473107/){.cite} found no significant association between state EITC benefits and IPV, possibly because the EITC delivers lump-sum annual payments rather than regular income, and abusive partners may seek to control the incoming resources.
+
+Economic interventions illustrate a broader tension in DV policy: empowering victims economically can reduce violence by improving bargaining power and exit options, but can also increase violence if the abuser perceives a threat to control.
+
+### Prevention Programs
+
+The strongest evidence for reducing domestic violence comes not from criminal justice interventions or post-incident services but from prevention programs---particularly school-based dating violence prevention.
+
+*Safe Dates* is the gold standard. An [RCT in North Carolina 8th and 9th graders](https://pmc.ncbi.nlm.nih.gov/articles/PMC1448308/){.cite} with four-year follow-up found that program participants reported 56--92% less physical, serious physical, and sexual dating violence perpetration and victimization compared to controls. Effects were significant for both males and females and across racial groups.
+
+The CDC's [Dating Matters](https://pmc.ncbi.nlm.nih.gov/articles/PMC6953384/){.cite} program, tested in a cluster-RCT across 46 middle schools in four U.S. cities, showed lower levels of teen dating violence perpetration and victimization compared to Safe Dates alone---a notable finding given that Safe Dates was the active control condition.
+
+Community-based prevention also shows promise. The [Green Dot bystander intervention program](https://pmc.ncbi.nlm.nih.gov/articles/PMC5875923/){.cite} produced a greater than 50% reduction in self-reported sexual violence perpetration and a 40% reduction in total violence perpetration at trained schools. [Coaching Boys Into Men](https://www.jahonline.org/article/S1054-139X(12)00052-3/fulltext){.cite}, a cluster-RCT across 16 high schools in which athletic coaches deliver healthy relationship curricula to male athletes, found that control athletes showed an *increase* in abuse perpetration over time while intervention athletes showed no increase.
+
+### Healthcare Screening and Intervention
+
+The [U.S. Preventive Services Task Force](https://pubmed.ncbi.nlm.nih.gov/30357305/){.cite} gives a Grade B recommendation for screening women of reproductive age for IPV. But the evidence contains an important caveat: screening coupled with brief informational interventions alone does not reduce IPV. Effective interventions involve multiple sessions, address co-occurring issues (depression, parenting), and provide sustained support. Simply identifying IPV and handing out a referral list is not enough.
+
+### Restorative Justice
+
+Restorative justice for domestic violence remains controversial, but the most rigorous evidence is surprisingly positive. A [RCT published in *Nature Human Behaviour*](https://www.nature.com/articles/s41562-019-0724-1){.cite} compared a standard BIP to BIP plus Circles of Peace in Utah. The hybrid approach resulted in 53% fewer new arrests and 52% lower crime severity scores across all offenses over 24 months. This is one of the largest effect sizes in the DV intervention literature---substantially larger than anything produced by arrest, prosecution, or standard BIPs.
+
+Restorative justice approaches remain prohibited or restricted in many jurisdictions, and critics raise legitimate concerns about power imbalances in DV relationships being replicated in RJ settings without skilled facilitation and robust safety protocols. But the evidence suggests that, at minimum, carefully implemented restorative approaches deserve further study.
+
+### Structural Factors
+
+Three structural factors have particularly strong evidence bases:
+
+*Firearm policy.* As discussed above, firearm restrictions for DV offenders are the most consistently effective policy intervention for reducing DV lethality.
+
+*Alcohol policy.* The relationship between alcohol and DV is well documented but complex. A [meta-analysis](https://www.sciencedirect.com/science/article/abs/pii/S0272735808000883){.cite} found a small to moderate association between alcohol use and male-to-female partner violence. An increase of one packaged liquor outlet per 1,000 residents was associated with a [28.6% increase](https://pmc.ncbi.nlm.nih.gov/articles/PMC4159554/){.cite} in mean DV rate. However, alcohol appears to intensify severity rather than simply cause violence, and only one study has examined whether alcohol taxation can reduce IPV, with inconclusive results.
+
+*Immigration enforcement.* As noted above, heightened immigration enforcement has a chilling effect on DV reporting in immigrant communities. A [Los Angeles study](https://www.sciencedirect.com/science/article/abs/pii/S0094119020300243){.cite} found that DV calls per capita dropped in areas with higher concentrations of noncitizen Latino residents as immigration enforcement awareness increased, and respondents who knew about local ICE partnerships were [61% less likely to report crimes they witnessed](https://www.nber.org/system/files/working_papers/w32109/w32109.pdf){.cite}.
+
+---
+
+## Key Findings
+
+### What the Data Tell Us
+
+1. **No single number captures domestic violence prevalence.** Different instruments measuring different things produce legitimately different numbers. Understanding why is essential for evaluating any statistic cited in legal or policy arguments.
+
+2. **Domestic violence declined substantially from the early 1990s through approximately 2010**, by most measures. But intimate partner homicide of women has been rising since 2014, and the pandemic temporarily drove up both violence and measurement error.
+
+3. **The gender symmetry debate is largely resolved.** Johnson's typology explains the apparent contradiction: community surveys capture mainly situational couple violence (roughly gender-symmetric), while criminal justice and shelter data capture mainly intimate terrorism (overwhelmingly male-perpetrated). Both findings are real; they describe different phenomena.
+
+4. **Domestic violence extends beyond intimate partners.** Child maltreatment (546,000 substantiated victims per year) and elder abuse (approximately 1 in 10 older adults) are interconnected forms of family violence that co-occur at high rates and transmit across generations.
+
+### What Works and What Does Not
+
+5. **The criminal legal response has a thin evidence base.** Mandatory arrest produces inconsistent results and may increase homicide. Prosecution has minimal demonstrated effect on recidivism. Standard batterer intervention programs show no significant effect in RCTs. Incarceration does not appear to deter future DV compared to community-based alternatives.
+
+6. **Firearms restrictions are the most effective criminal legal intervention** for reducing DV lethality, with consistent evidence of 10--25% reductions in intimate partner homicide across multiple study designs.
+
+7. **Prevention programs produce the largest effect sizes** in the DV intervention literature. School-based programs like Safe Dates show 56--92% reductions in dating violence---far exceeding anything produced by the criminal justice system.
+
+8. **Restorative justice and economic interventions show promise** but require further study. The Circles of Peace RCT produced a 53% reduction in rearrests---one of the largest effects in the literature---but the evidence base is small. Economic empowerment programs reduce IPV in some contexts but can backfire when abusers perceive a threat to control.
+
+9. **The mismatch between where the costs fall and where the resources go is striking.** Medical costs and lost productivity account for 96% of IPV's $3.6 trillion economic burden, while criminal justice accounts for just 2%. Yet most policy attention focuses on criminal justice responses rather than prevention, healthcare, or economic interventions.
+
+### Counting the Preventable
+
+How many fewer cases of domestic violence would there be each year if every jurisdiction implemented the most effective evidence-based interventions? Answering this question requires distinguishing between interventions that operate within the criminal justice system and those that operate outside it, because the denominator---the pool of cases each intervention can reach---is fundamentally different.
+
+*System-dependent interventions* like batterer intervention programs, prosecution, and specialized courts can only affect cases that enter the criminal justice funnel. If roughly half of aggravated domestic violence goes unreported, and only about a third of reported cases result in prosecution, then court-mandated BIPs reach perhaps 15--20% of all IPV incidents. Even a perfect BIP can only reduce total domestic violence by its effect size multiplied by its reach---which is inherently small relative to the total burden. The relevant denominator for these interventions is system contacts (arrests, BIP enrollments), not total incidents, and no adjustment for underreporting is appropriate because the intervention never touches unreported cases.
+
+*Population-level policies* like firearm relinquishment laws operate differently. The quasi-experimental studies measuring their effects compare state-level intimate partner homicide rates in jurisdictions with and without the laws. These population-level estimates already incorporate the limited reach of protection orders---the 12--25% reduction in IPH is the net effect across all cases, including those where no DVRO was ever issued. The denominator is the population rate itself.
+
+*Primary prevention programs* like Safe Dates operate entirely upstream of reporting. They prevent cases that would never have entered the criminal justice system at all---cases that would have gone unreported, undetected, and unaddressed. For these interventions, the true prevalence of domestic violence (including unreported incidents) is the relevant denominator.
+
+With these distinctions in mind, the following estimates illustrate the potential scale of prevention under optimistic but empirically grounded assumptions:
+
+**System-dependent: Replacing Duluth-model BIPs with ACT.** Approximately 275,000 offenders are enrolled in court-mandated BIPs annually. Under the Duluth model, one-year recidivism rates (official records) run approximately 25--35%, yielding roughly 69,000--96,000 repeat offenses. The Iowa State RCT found that ACT participants had roughly half the charge rate of Duluth participants. If ACT reduced recidivism to 13--18%, that would mean approximately 36,000--50,000 repeat offenses---a net reduction of roughly 33,000--46,000 cases per year. This estimate applies only to the court-processed population and requires no underreporting adjustment.
+
+**Population-level policy: Universal firearm relinquishment.** Approximately 1,100 women and 200 men are killed by intimate partners each year. Quasi-experimental evidence consistently finds that states with DVRO firearm prohibition and relinquishment laws have 12--25% lower rates of intimate partner homicide. If all states adopted and enforced such laws, the estimated reduction would be roughly 130--275 lives saved per year. This is the most confident estimate in this analysis, supported by multiple study designs across different jurisdictions.
+
+**Primary prevention: Universal implementation of Safe Dates.** Approximately four million students enter 8th grade each year. The Safe Dates RCT found 56--92% reductions in dating violence perpetration and victimization at four-year follow-up. The critical uncertainty is how much of this effect persists into adulthood. If even 10--30% of the RCT effect translated to lifetime IPV reduction, and if the true annual incidence of IPV is 1.2--1.8 million incidents (adjusting for underreporting), universal prevention could eventually prevent 120,000--540,000 incidents per year in steady state---when all adults had received the intervention. This estimate is the least certain but potentially the largest by an order of magnitude.
+
+| Intervention | Annual Reach | Effect Size | Cases Prevented | Confidence |
+|---|---|---|---|---|
+| ACT replacing Duluth | ~275,000 BIP enrollees | ~50% recidivism reduction | ~33,000--46,000 | Moderate |
+| Firearm relinquishment | Population-level | 12--25% IPH reduction | ~130--275 lives | High |
+| Universal Safe Dates | ~4 million students/year | 10--30% lifetime (uncertain) | ~120,000--540,000 | Low |
+
+These estimates cannot simply be added because they target partially overlapping populations---a case prevented by primary prevention is one that never reaches a BIP. But the exercise reveals a structural insight about the limits of criminal law as a response to domestic violence: **the criminal justice system's reach is itself a ceiling on what criminal law can accomplish.** Court-mandated interventions, even highly effective ones, can only affect the fraction of cases that survive the reporting-arrest-prosecution funnel. Prevention programs face no such constraint. The most effective criminal justice intervention in this analysis (ACT-based BIPs) might prevent roughly 33,000--46,000 repeat offenses per year. The most effective prevention program, if its effects prove durable, could eventually prevent several hundred thousand cases per year---because it reaches the entire population, not just the small fraction that comes to the attention of the criminal justice system.
+
+---
+
+## Citations
+
+### Prevalence and Scope
+
+- Bureau of Justice Statistics. *Criminal Victimization, 2023*. [https://bjs.ojp.gov/document/cv23.pdf](https://bjs.ojp.gov/document/cv23.pdf){.cite}
+- CDC. *NISVS 2023/2024 Intimate Partner Violence Data Brief*. [https://www.cdc.gov/nisvs/about/index.html](https://www.cdc.gov/nisvs/about/index.html){.cite}
+- CDC. *NISVS 2016/2017 Report on Intimate Partner Violence*. [https://www.cdc.gov/nisvs/documentation/NISVSReportonIPV_2022.pdf](https://www.cdc.gov/nisvs/documentation/NISVSReportonIPV_2022.pdf){.cite}
+- Council on Criminal Justice. "Toward a Better Estimate of Domestic Violence in America." [https://counciloncj.org/toward-a-better-estimate-of-domestic-violence-in-america/](https://counciloncj.org/toward-a-better-estimate-of-domestic-violence-in-america/){.cite}
+- Johnson, Michael P. *A Typology of Domestic Violence*. Northeastern University Press (2008). [https://muse.jhu.edu/book/15706/](https://muse.jhu.edu/book/15706/){.cite}
+- Kimmel, Michael S. "'Gender Symmetry' in Domestic Violence." *Violence Against Women* 8, no. 11 (2002): 1332--63. [https://journals.sagepub.com/doi/10.1177/107780102237407](https://journals.sagepub.com/doi/10.1177/107780102237407){.cite}
+- National Institute of Justice. "Measuring Intimate Partner (Domestic) Violence." [https://nij.ojp.gov/topics/articles/measuring-intimate-partner-domestic-violence](https://nij.ojp.gov/topics/articles/measuring-intimate-partner-domestic-violence){.cite}
+- Stark, Evan. *Coercive Control: How Men Entrap Women in Personal Life*. Oxford University Press (2007). [https://global.oup.com/academic/product/coercive-control-9780197639986](https://global.oup.com/academic/product/coercive-control-9780197639986){.cite}
+- Straus, Murray A. "Thirty Years of Denying the Evidence on Gender Symmetry in Partner Violence." *Partner Abuse* 1, no. 3 (2010): 332--62. [https://www.researchgate.net/publication/233717660](https://www.researchgate.net/publication/233717660){.cite}
+
+### Special Populations
+
+- CDC. *NISVS: 2010 Findings on Victimization by Sexual Orientation*. [https://stacks.cdc.gov/view/cdc/12362](https://stacks.cdc.gov/view/cdc/12362){.cite}
+- Marshall et al. "Prevalence of Intimate Partner Violence Perpetration Among Military Populations." *BMC Psychiatry* 20 (2020): 391. [https://pmc.ncbi.nlm.nih.gov/articles/PMC7375166/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7375166/){.cite}
+- NBC News. "Immigrant Victims of Domestic Violence Scared to Seek Help Amid ICE Deportation Threat." [https://www.nbcnews.com/news/latino/ice-immigrant-victims-domestic-abuse-scared-deportation-threat-rcna224711](https://www.nbcnews.com/news/latino/ice-immigrant-victims-domestic-abuse-scared-deportation-threat-rcna224711){.cite}
+- NIWRC. "MMIW: Understanding the Missing and Murdered Indigenous Women Crisis." [https://www.niwrc.org/restoration-magazine/june-2020/mmiw-understanding-missing-and-murdered-indigenous-women-crisis](https://www.niwrc.org/restoration-magazine/june-2020/mmiw-understanding-missing-and-murdered-indigenous-women-crisis){.cite}
+- Shannon, Lisa et al. "Rural Disparity in Domestic Violence Prevalence and Access to Resources." *Journal of Women's Health* 20, no. 11 (2011): 1743--49. [https://pmc.ncbi.nlm.nih.gov/articles/PMC3216064/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3216064/){.cite}
+- Williams Institute. "Intimate Partner Violence and Sexual Abuse Among LGBT People." [https://williamsinstitute.law.ucla.edu/publications/ipv-sex-abuse-lgbt-people/](https://williamsinstitute.law.ucla.edu/publications/ipv-sex-abuse-lgbt-people/){.cite}
+
+### Child Abuse, Elder Abuse, and Family Violence
+
+- ACF/HHS. *Child Maltreatment 2023*. [https://acf.gov/cb/report/child-maltreatment-2023](https://acf.gov/cb/report/child-maltreatment-2023){.cite}
+- ACF/HHS. *Fourth National Incidence Study (NIS-4)*. [https://acf.gov/opre/report/fourth-national-incidence-study-child-abuse-and-neglect-nis-4-report-congress](https://acf.gov/opre/report/fourth-national-incidence-study-child-abuse-and-neglect-nis-4-report-congress){.cite}
+- Acierno, Ron et al. "Prevalence and Correlates of Emotional, Physical, Sexual, and Financial Abuse." *AJPH* 100, no. 2 (2010). [https://pmc.ncbi.nlm.nih.gov/articles/PMC2804623/](https://pmc.ncbi.nlm.nih.gov/articles/PMC2804623/){.cite}
+- CDC. "About Adverse Childhood Experiences." [https://www.cdc.gov/aces/about/index.html](https://www.cdc.gov/aces/about/index.html){.cite}
+- Ehrensaft, Miriam K. et al. "Intergenerational Transmission of Partner Violence: A 20-Year Prospective Study." *Journal of Consulting and Clinical Psychology* 71, no. 4 (2003): 741--53. [https://www.apa.org/pubs/journals/releases/ccp-714741.pdf](https://www.apa.org/pubs/journals/releases/ccp-714741.pdf){.cite}
+- Finkelhor, David. "Updated Trends in Child Maltreatment, 2022." [https://www.unh.edu/ccrc/sites/default/files/media/2024-03/updated-trends-2022.pdf](https://www.unh.edu/ccrc/sites/default/files/media/2024-03/updated-trends-2022.pdf){.cite}
+- Hamby, Sherry et al. *Children's Exposure to Intimate Partner Violence and Other Family Violence*. OJJDP (NCJ 232272, 2011). [https://www.ojp.gov/pdffiles1/ojjdp/232272.pdf](https://www.ojp.gov/pdffiles1/ojjdp/232272.pdf){.cite}
+- Kim et al. "Lifetime Prevalence of Investigating Child Maltreatment." *AJPH* 107, no. 2 (2017). [https://pmc.ncbi.nlm.nih.gov/articles/PMC5227926/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5227926/){.cite}
+- National Center on Elder Abuse. "Research Statistics and Data." [https://ncea.acl.gov/What-We-Do/Research/Statistics-and-Data.aspx](https://ncea.acl.gov/What-We-Do/Research/Statistics-and-Data.aspx){.cite}
+- National Research Council/Institute of Medicine. "The Co-Occurrence of Child Maltreatment and Domestic Violence." [https://www.ncbi.nlm.nih.gov/books/NBK236956/](https://www.ncbi.nlm.nih.gov/books/NBK236956/){.cite}
+- Wiglesworth, Anne et al. "Holding Abusers Accountable: An Elder Abuse Forensic Center Increases Criminal Prosecution." *Journal of the American Geriatrics Society* (2012). [https://pubmed.ncbi.nlm.nih.gov/22589024/](https://pubmed.ncbi.nlm.nih.gov/22589024/){.cite}
+- Yon et al. "Elder Abuse Prevalence in Community Settings." *Lancet Global Health* (2017). [https://pubmed.ncbi.nlm.nih.gov/28104184/](https://pubmed.ncbi.nlm.nih.gov/28104184/){.cite}
+
+### Trends
+
+- Bureau of Justice Statistics. *Intimate Partner Violence, 1993--2010* (2012). [https://bjs.ojp.gov/content/pub/pdf/ipv9310.pdf](https://bjs.ojp.gov/content/pub/pdf/ipv9310.pdf){.cite}
+- CDC. "Intimate Partner Homicide Among Women, 2018--2021." *MMWR* 73(33) (2024). [https://www.cdc.gov/mmwr/volumes/73/wr/mm7334a4.htm](https://www.cdc.gov/mmwr/volumes/73/wr/mm7334a4.htm){.cite}
+- Everytown for Gun Safety. "Guns and Violence Against Women" (2024). [https://everytownresearch.org/report/guns-and-violence-against-women/](https://everytownresearch.org/report/guns-and-violence-against-women/){.cite}
+- Peterson, Cora et al. "Lifetime Economic Burden of Intimate Partner Violence." *AJPM* 55, no. 4 (2018): 433--44. [https://pmc.ncbi.nlm.nih.gov/articles/PMC6161830/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6161830/){.cite}
+- Piquero, Alex R. et al. "Domestic Violence During COVID-19." *Journal of Criminal Justice* 81 (2022). [https://pmc.ncbi.nlm.nih.gov/articles/PMC9582712/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9582712/){.cite}
+
+### Criminal Legal Interventions
+
+- Babcock, Julia C. et al. "Which Battering Interventions Work?" *Clinical Psychology Review* (2024). [https://pubmed.ncbi.nlm.nih.gov/38810357/](https://pubmed.ncbi.nlm.nih.gov/38810357/){.cite}
+- Campbell, Jacquelyn C. et al. "Risk Factors for Femicide in Abusive Relationships." *AJPH* 93, no. 7 (2003): 1089--97. [https://pubmed.ncbi.nlm.nih.gov/12835191/](https://pubmed.ncbi.nlm.nih.gov/12835191/){.cite}
+- Cordier, Reinie et al. "Effectiveness of Protection Orders in Reducing Recidivism." *Trauma, Violence, & Abuse* 22, no. 4 (2021): 804--28. [https://pubmed.ncbi.nlm.nih.gov/31658878/](https://pubmed.ncbi.nlm.nih.gov/31658878/){.cite}
+- Garner, Joel H. & Christopher D. Maxwell. "Prosecution and Conviction Rates for Intimate Partner Violence." *Criminal Justice Policy Review* (2009). [https://journals.sagepub.com/doi/10.1177/0734016808324231](https://journals.sagepub.com/doi/10.1177/0734016808324231){.cite}
+- Iyengar, Radha. "Does the Certainty of Arrest Reduce Domestic Violence?" NBER Working Paper 13186. [https://www.nber.org/system/files/working_papers/w13186/w13186.pdf](https://www.nber.org/system/files/working_papers/w13186/w13186.pdf){.cite}
+- Klein, Andrew. *Practical Implications of Current Domestic Violence Research*. NIJ (NCJ 225722). [https://www.ojp.gov/pdffiles1/nij/225722.pdf](https://www.ojp.gov/pdffiles1/nij/225722.pdf){.cite}
+- Sherman, Lawrence W. & Richard A. Berk. "The Specific Deterrent Effects of Arrest for Domestic Assault." *American Sociological Review* 49, no. 2 (1984): 261--72. [https://pubmed.ncbi.nlm.nih.gov/6742629/](https://pubmed.ncbi.nlm.nih.gov/6742629/){.cite}
+- *United States v. Rahimi*, 602 U.S. 680 (2024). [https://supreme.justia.com/cases/federal/us/602/680/](https://supreme.justia.com/cases/federal/us/602/680/){.cite}
+- Wilson, David B. et al. "Court-Mandated Interventions for Individuals Convicted of Domestic Violence." Campbell Systematic Review (2021). [https://pubmed.ncbi.nlm.nih.gov/37133255/](https://pubmed.ncbi.nlm.nih.gov/37133255/){.cite}
+- Zarling, Amie & Sara Russell. "A Randomized Clinical Trial of Acceptance and Commitment Therapy and the Duluth Model Classes for Men Court-Mandated to a Domestic Violence Program." Iowa State University. [https://hubble-live-assets.s3.eu-west-1.amazonaws.com/respect/file_asset/file/1626/ZarlingRussell.pdf](https://hubble-live-assets.s3.eu-west-1.amazonaws.com/respect/file_asset/file/1626/ZarlingRussell.pdf){.cite}
+- Zeoli, April M. et al. "Analysis of Legal Firearms Restrictions for Perpetrators of Domestic Violence." *American Journal of Epidemiology* (2018). [https://pubmed.ncbi.nlm.nih.gov/30383263/](https://pubmed.ncbi.nlm.nih.gov/30383263/){.cite}
+- Zeoli, April M. & Daniel W. Webster. "Effects of Domestic Violence Policies, Alcohol Taxes and Police Staffing Levels on Intimate Partner Homicide in Large US Cities." *Injury Prevention* (2010). [https://pubmed.ncbi.nlm.nih.gov/20363814/](https://pubmed.ncbi.nlm.nih.gov/20363814/){.cite}
+- *Castle Rock v. Gonzales*, 545 U.S. 748 (2005). [https://supreme.justia.com/cases/federal/us/545/748/](https://supreme.justia.com/cases/federal/us/545/748/){.cite}
+- Hirschel, David et al. "A 10-Year Study of the Impact of Intimate Partner Violence Primary Aggressor Laws." *Journal of Interpersonal Violence* (2021). [https://pubmed.ncbi.nlm.nih.gov/29294989/](https://pubmed.ncbi.nlm.nih.gov/29294989/){.cite}
+- Kothari, Catherine L. et al. "Protection Orders Protect Against Assault and Injury." *Journal of Interpersonal Violence* (2012). [https://pubmed.ncbi.nlm.nih.gov/22491224/](https://pubmed.ncbi.nlm.nih.gov/22491224/){.cite}
+- Labriola, Melissa et al. "Domestic Violence Courts: A Multisite Test." *Violence Against Women* (2015). [https://pubmed.ncbi.nlm.nih.gov/26056163/](https://pubmed.ncbi.nlm.nih.gov/26056163/){.cite}
+- Lynch et al. "Protection Orders and Firearm Removal in Intimate Partner Homicide." (2021). [https://pubmed.ncbi.nlm.nih.gov/34334940/](https://pubmed.ncbi.nlm.nih.gov/34334940/){.cite}
+- McNeeley, Susan. "Effectiveness of a Prison-Based Treatment Program for Male Perpetrators of IPV." *Journal of Interpersonal Violence* (2021). [https://pubmed.ncbi.nlm.nih.gov/31679446/](https://pubmed.ncbi.nlm.nih.gov/31679446/){.cite}
+- OJP/NIJ. "An Evaluation of Efforts to Implement No-Drop Policies." [https://www.ojp.gov/pdffiles1/nij/199719.pdf](https://www.ojp.gov/pdffiles1/nij/199719.pdf){.cite}
+- Pinchevsky, Gillian M. "Exploring the Effects of Court Dispositions on Future Domestic Violence Offending." *Journal of Interpersonal Violence* (2017). [https://pubmed.ncbi.nlm.nih.gov/26021860/](https://pubmed.ncbi.nlm.nih.gov/26021860/){.cite}
+- Rempel, Michael et al. "Does Judicial Monitoring Deter Domestic Violence Recidivism?" *Violence Against Women* (2008). [https://pubmed.ncbi.nlm.nih.gov/18212340/](https://pubmed.ncbi.nlm.nih.gov/18212340/){.cite}
+- Wallin, M. et al. "The Association of Federal and State-level Firearm Restriction Policies With IPH: A Re-analysis by Race." *Journal of Interpersonal Violence* (2022). [https://pubmed.ncbi.nlm.nih.gov/34144667/](https://pubmed.ncbi.nlm.nih.gov/34144667/){.cite}
+
+### Non-Criminal Interventions
+
+- Coker, Ann L. et al. "Evaluation of the Green Dot Bystander Intervention." *Violence Against Women* 24, no. 12 (2018): 1405--21. [https://pmc.ncbi.nlm.nih.gov/articles/PMC5875923/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5875923/){.cite}
+- Foshee, Vangie A. et al. "Assessing the Long-Term Effects of the Safe Dates Program." *AJPH* 94, no. 4 (2004): 619--24. [https://pmc.ncbi.nlm.nih.gov/articles/PMC1448308/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1448308/){.cite}
+- Hails et al. "Housing Interventions for Women Experiencing Intimate Partner Violence." *Lancet Public Health* 7, no. 1 (2022): e23--31. [https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00234-6/fulltext](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00234-6/fulltext){.cite}
+- J-PAL. "The Impacts of Economic Interventions on Intimate Partner Violence." [https://www.povertyactionlab.org/policy-insight/impacts-economic-interventions-intimate-partner-violence](https://www.povertyactionlab.org/policy-insight/impacts-economic-interventions-intimate-partner-violence){.cite}
+- Miller, Elizabeth et al. "'Coaching Boys Into Men.'" *Journal of Adolescent Health* 51, no. 5 (2012): 431--38. [https://www.jahonline.org/article/S1054-139X(12)00052-3/fulltext](https://www.jahonline.org/article/S1054-139X(12)00052-3/fulltext){.cite}
+- Mills, Linda G. et al. "A Randomized Controlled Trial of Restorative Justice--Informed Treatment." *Nature Human Behaviour* 3 (2019): 1284--94. [https://www.nature.com/articles/s41562-019-0724-1](https://www.nature.com/articles/s41562-019-0724-1){.cite}
+- Niolon, Phyllis Holditch et al. "An RCT of Dating Matters." *AJPM* 57, no. 1 (2019): 13--23. [https://pmc.ncbi.nlm.nih.gov/articles/PMC6953384/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6953384/){.cite}
+- Sullivan, Cris M. et al. "Domestic Violence Housing First Model." *JAMA Network Open* 6, no. 6 (2023): e2320280. [https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2806371](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2806371){.cite}
+- U.S. Preventive Services Task Force. "Screening for Intimate Partner Violence." *JAMA* 320, no. 16 (2018): 1678--87. [https://pubmed.ncbi.nlm.nih.gov/30357305/](https://pubmed.ncbi.nlm.nih.gov/30357305/){.cite}
+
+### Structural Factors
+
+- Council on Criminal Justice. "Impact Report: COVID-19 and Domestic Violence Trends" (2021). [https://counciloncj.org/impact-report-covid-19-and-domestic-violence-trends/](https://counciloncj.org/impact-report-covid-19-and-domestic-violence-trends/){.cite}
+- Dee, Thomas S. & Mark Murphy. "Immigration Enforcement and Public Safety." NBER Working Paper 32109 (2024). [https://www.nber.org/system/files/working_papers/w32109/w32109.pdf](https://www.nber.org/system/files/working_papers/w32109/w32109.pdf){.cite}
+- Foran, Heather M. & K. Daniel O'Leary. "Alcohol and Intimate Partner Violence: A Meta-Analytic Review." *Clinical Psychology Review* 28, no. 7 (2008): 1222--34. [https://www.sciencedirect.com/science/article/abs/pii/S0272735808000883](https://www.sciencedirect.com/science/article/abs/pii/S0272735808000883){.cite}
+- Muchow, Ashley N. "Immigration Enforcement Awareness and Community Engagement with Police." *Journal of Urban Economics* 117 (2020). [https://www.sciencedirect.com/science/article/abs/pii/S0094119020300243](https://www.sciencedirect.com/science/article/abs/pii/S0094119020300243){.cite}
+- NNEDV. "Domestic Violence Counts Census." [https://nnedv.org/about-us/dv-counts-census/](https://nnedv.org/about-us/dv-counts-census/){.cite}
+- Rodriguez-Planas, Nuria et al. "Intimate Partner Violence and Income: Quasi-Experimental Evidence from the EITC." *Journal of Law and Economics* 68, no. 4 (2025). [https://doi.org/10.1086/735360](https://doi.org/10.1086/735360){.cite}
+- Wilson, Ingrid M. et al. "Alcohol Interventions, Alcohol Policy and Intimate Partner Violence." *BMC Public Health* 14 (2014): 881. [https://pmc.ncbi.nlm.nih.gov/articles/PMC4159554/](https://pmc.ncbi.nlm.nih.gov/articles/PMC4159554/){.cite}
+
+---
+
+*Report compiled March 2026. All data drawn from published sources cited above.*

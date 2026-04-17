@@ -1,0 +1,356 @@
+# Actus Reus: The Voluntary Act Requirement
+
+All criminal statutes require some form of conduct, be it an act or omission of some legally required act. As we will see, the law draws sharp lines around what qualifies as a punishable act, requiring that it be "voluntary" in a legally cognizable sense. Yet the meaning of "voluntary" is far from self-evident. Although not codified in all jurisdictions, the prevailing understanding of this doctrine is consistent with the formulation reflected in the Model Penal Code:
+
+::: {.callout-note}
+## Model Penal Code Section 2.01 --- Requirement of Voluntary Act
+
+(1) A person is not guilty of an offense unless his liability is based on conduct which includes a voluntary act or the omission to perform an act of which he is physically capable.
+
+(2) The following are not voluntary acts within the meaning of this Section:
+
+(a) a reflex or convulsion;\
+(b) a bodily movement during unconsciousness or sleep;\
+(c) conduct during hypnosis or resulting from hypnotic suggestion;\
+(d) a bodily movement that otherwise is not a product of the effort or determination of the actor, either conscious or habitual.
+:::
+
+## Unconsciousness as a Defense
+
+The clearest case of an involuntary act is one committed during unconsciousness. If a defendant was literally unaware of what they were doing---whether due to sleep, seizure, or trauma-induced shock---it seems fundamentally unfair to hold them criminally responsible. But how broadly should courts interpret "unconsciousness"? And what should happen when the defendant's account of their mental state is difficult to verify?
+
+::: {.callout-note}
+
+## Timeline: The Newton Trials
+
+- **October 28, 1967.** Oakland Police Officer John Frey is fatally shot during a traffic stop. Officer Herbert Heanes and Huey P. Newton are also shot. Newton is arrested and charged with murder, assault on a peace officer, and kidnapping.
+- **September 1968.** After a seven-week trial, the jury---with David Harper as foreman---acquits Newton of assault and kidnapping but convicts him of voluntary manslaughter. He is sentenced to two to fifteen years in state prison.
+- **May 1970.** The California Court of Appeal reverses the conviction, holding that the trial court committed prejudicial error by refusing to instruct the jury on unconsciousness as a complete defense. The opinion below is from this appeal.
+- **August 1971.** At the retrial, the jury deadlocks 11-1 for conviction. The holdout is Juanita Henderson, a white housewife persuaded by the defense's medical testimony. Mistrial declared.
+- **December 1971.** A third trial again ends in a hung jury. The prosecution dismisses all charges. Newton is released, having served 22 months of his original sentence before winning his appeal.
+:::
+
+### PEOPLE v. NEWTON {#people-v-newton}
+
+*California Court of Appeal, 1970*
+*8 Cal. App. 3d 359, 87 Cal. Rptr. 394*
+
+RATTIGAN, J.
+
+Huey P. Newton appeals from a judgment convicting him of voluntary manslaughter.
+
+Count One of an indictment issued by the Alameda County Grand Jury in November, 1967, charged defendant with the murder of John Frey; Count Two, with assault with a deadly weapon upon the person of Herbert Heanes, knowing or having reasonable cause to know Heanes to be a peace officer engaged in the performance of his duties; Count Three, with the kidnapping of Dell Ross. The indictment also alleged that defendant had previously (in 1964) been convicted of assault with a deadly weapon, a felony. He pleaded not guilty to all three counts and denied the prior.
+
+After the People rested during the lengthy jury trial which followed in 1968, and pursuant to Penal Code section 1118.1, the trial court granted defendant's motion for acquittal on Count Three (the Ross kidnapping). Similar motions, addressed to the other counts, were denied. The jury acquitted him of the Heanes assault charged in Count Two, but found him guilty of the voluntary manslaughter of Frey under Count One. The jury also found the charge of the prior felony conviction to be true. Defendant's motions for new trial and for probation were denied, and he was sentenced to state prison for the term prescribed by law. This appeal followed.
+
+At relevant times, John Frey and Herbert Heanes were officers of the Oakland Police Department. The criminal charges against defendant arose from a street altercation in which Frey was fatally wounded by gunfire, and Heanes and defendant were shot, on October 28, 1967. Through the testimony of Oakland police radio dispatcher Clarence Lord, and a tape recording of the radio transmissions mentioned therein, the People showed that the following events first occurred on the date in question:
+
+> Lord was on radio duty in the Oakland Police Administration Building. Officer Frey was also on duty, and alone in a police car, patrolling an assigned beat in Oakland. At about 4:51 a.m., he radioed Lord and requested a check on an automobile which was moving in his vicinity and which bore license number AZM 489. Less than a minute later, Lord told Frey that 'we have got some PIN information coming out on that.' Frey replied, 'Check. It's a known Black Panther vehicle. [...] I am going to stop it at Seventh and Willow (Streets). You might send a unit by.' Officer Heanes, who was listening to this conversation in his police car on another beat, called in that he was 'enroute' to Seventh and Willow Streets. This transmission terminated at about 4:52 a.m.
+
+A few minutes later Frey asked Lord by radio, 'you got any information on this guy yet?' Explaining this call, Lord testified that 'when I gave him (Frey) the information there was PIN information he made the car stop on the strength of that, on the strength of the PIN information. He (now) wants to know what information I have that told him to stop the vehicle.' Lord gave Frey the name 'LaVerne Williams' and asked him 'if there were a LaVerne Williams in the vehicle.' Frey replied in the affirmative. Lord told him there were a 'couple' of warrants issued to LaVerne Williams, for parking violations, on the identified vehicle.
+
+Lord testified that under such circumstances '(w)e check and see if the warrants are still outstanding, first of all, and if they are, and then they (the officers outside) can ascertain if they have that person stopped on the street, then they take action concerning the warrant.' Pursuing this procedure in the radio conversation, he gave Frey an address for 'LaVerne Williams' and said 'Let me know if this is the same address or not.' Frey asked Lord, 'What's his description?' Lord replied '. . . I don't have the description. Do you have a birth date on him there? We're checking him out right now downstairs.'
+
+After another brief interval, and just before 5 a.m., this further exchange occurred by radio: 'FREY: 1A, it's the same address. He has on his registration 1114---12th Street? RADIO (Lord): Check. What's his birth date? FREY: He gave me some phony. I guess he caught on. RADIO: Okay, check. It's not necessary, anyway. We're checking him out downstairs there. We'll have the information back in a few minutes. FREY: Check. Thanks.' The next relevant radio call, received at 5:03 a.m., was a '940B' ('an officer needs assistance immediately') from Officer Heanes at Seventh and Willow Streets.
+
+[Prosecution witnesses testified that defendant, upon being ordered out of the car, became belligerent, pulled a gun, and opened fire on the officers.] [...]
+
+Defendant ... denied killing Officer Frey, shooting Officer Heanes, or carrying a gun on the morning of the shootings. His account ... was as follows: He was driving with Gene McKinney on Willow Street, and had just turned into Seventh Street when he noticed a red light through the rear window of the Volkswagen. He pulled over to the curb and stopped. Officer Frey approached the Volkswagen and said 'Well, well, well, what do we have? The great, great Huey P. Newton.' Frey asked for defendant's driver's license and inquired as to the ownership of the Volkswagen. Defendant handed him his (defendant's) license, and the vehicle registration, and said that the car belonged to LaVerne Williams. Officer Frey returned the license and walked back to his patrol car with the registration.
+
+A few minutes later Officer Heanes arrived, conversed with Frey, then walked up to the Volkswagen and asked, 'Mr. Williams, do you have any further identification?' Defendant said, 'What do you mean, Mr. Williams? My name is Huey P. Newton [...].' Heanes replied, 'Yes, I know who you are.' Officer Frey then ordered defendant out of the car. He got out, taking with him a criminal law book in his right hand. He asked if he was under arrest; Officer Frey said no, but ordered defendant to lean against the car. Frey then searched him, placing his hands inside defendant's trousers and touching his genitals. (Officer Heanes had testified that defendant was not searched at any time.) McKinney, who had also alighted from the Volkswagen, was then standing with Officer Heanes on the street side of the Volkswagen.
+
+Seizing defendant's left arm with his right hand, Officer Frey told him to go back to his patrol car. Defendant walked, with the officer 'kind of pushing' him, past the first police car to the back door of the second one. Defendant opened his book and said, 'You have no reasonable cause to arrest me.' The officer said, 'You can take that book and stick it up your ass, Nigger.' He then struck defendant in the face, dazing him. Defendant stumbled backwards and fell to one knee. Officer Frey drew a revolver. Defendant felt a 'sensation like [...] boiling hot soup had been spilled on my stomach,' and heard an 'explosion,' then a 'volley of shots.' He remembered 'crawling [...] a moving sensation,' but nothing else until he found himself at the entrance of Kaiser Hospital with no knowledge of how he arrived there. He expressly testified that he was 'unconscious or semiconscious' during this interval, that he was 'still only semiconscious' at the hospital entrance, and that---after recalling some events at Kaiser Hospital---he later 'regained consciousness' at another hospital.
+
+The defense called Bernard Diamond, M.D., who testified that defendant's recollections were "compatible" with the gunshot wound he had received; and that
+
+> \[a\] gunshot wound which penetrates in a body cavity, the abdominal cavity or the thoracic cavity is very likely to produce a profound reflex shock reaction, that is quite different than a gunshot wound which penetrates only skin and muscle and it is not at all uncommon for a person shot in the abdomen to lose consciousness and go into this reflex shock condition for short periods of time up to half an hour or so.
+
+Defendant asserts prejudicial error in the trial court's failure to instruct the jury on the subject of unconsciousness as a defense to a charge of criminal homicide. [...]
+
+Although the evidence of the fatal affray is both conflicting and confused as to who shot whom and when, some of it supported the inference that defendant had been shot in the abdomen before he fired any shots himself. Given this sequence, defendant's testimony of his sensations when shot---supplemented to a degree, as it was, by Dr. Diamond's opinion based upon the nature of the abdominal wound---supported the further inference that defendant was in a state of unconsciousness when Officer Frey was shot.
+
+Where not self-induced, as by voluntary intoxication or the equivalent (of which there is no evidence here...), unconsciousness is a complete defense to a charge of criminal homicide. "Unconsciousness," as the term is used in the rule just cited, need not reach the physical dimensions commonly associated with the term (coma, inertia, incapability of locomotion or manual action, and so on); it can exist---and the above-stated rule can apply---where the subject physically acts in fact but is not, at the time, conscious of acting. The statute underlying the rule makes this clear, as does one of the unconsciousness instructions originally requested by defendant. Thus, the rule has been invoked in many cases where the actor fired multiple gunshots while inferably in a state of such "unconsciousness" ... including some in which the only evidence of "unconsciousness" was the actor's own testimony that he did not recall the shooting....
+
+Where evidence of involuntary unconsciousness has been produced in a homicide prosecution, the refusal of a requested instruction on the subject, and its effect as a complete defense if found to have existed, is prejudicial error. [...]
+
+[The Court of Appeal reversed Newton's conviction and remanded for a new trial.]
+
+### Hung Jury for Huey
+
+*Time*, August 23, 1971
+
+For once, Huey P. Newton, co-founder and stern ideologue of the Black Panther Party, was smiling. The ten women and two men of the jury were filing out of the Alameda County courtroom in Oakland, Calif. After six days of wrangling over the case, in which Newton was accused of killing a police officer, they were so firmly deadlocked that Judge Harold B. Hove declared a mistrial and dismissed them. "This shows that with at least one black person on the jury I can get a fair trial," Newton said. "A hung jury keeps me out of jail."
+
+The jury's final straw vote had been 11 to 1 for conviction. But Newton's reasoning was wrong. It was not the lone black woman on the jury who had won him a respite until he is tried again. It was a 50-year-old white housewife, Juanita Henderson, who describes herself as aggressive and insists that she went into the jury room with an open mind. 
+
+***Only a Law Book.*** As in his first trial in 1968, Newton's defense was that he had been unconscious when Rookie Patrolman John Frey was fatally shot in the early-morning dark of Oct. 28, 1967. Newton said that he had nothing more lethal than a law book in his car when Frey stopped him, and that when he tried to quote the law book, Frey became enraged and shot him in the belly. After that, said Newton, he remembered nothing except hearing a volley of shots. The defense suggested that Frey might have been accidentally shot by a fellow officer, while the prosecution insisted that Newton had killed him. 
+
+At the 1968 trial, the jury dismissed a murder charge but found Newton guilty of voluntary manslaughter. After he had served 22 months of a two-to-15-year sentence, he won a round: the California Court of Appeals reversed the conviction. It found that the trial judge had failed to instruct the jury that if it believed Newton had been unconscious, it could not find him guilty. 
+
+In the six-week retrial just ended, the gut issue was the claim of unconsciousness, despite new testimony for the prosecution that as Newton was being driven to the hospital for treatment, he waved a pistol and boasted of "shooting two dudes." Defense Attorney Charles R. Garry produced two doctors who testified that a man in a state of shock, as he could be from abdominal wounds, might not know what he was doing. Mrs. Henderson says she was swayed by this evidence. 
+
+### Note: The Third Trial and Dismissal
+
+At a third trial, the jury again deadlocked. The prosecution eventually dismissed the charges, and Newton was released.
+
+### PEOPLE v. JAMES {#people-v-james}
+
+*California Court of Appeal, 2015*
+*238 Cal. App. 4th 794*
+
+RUVOLO, P. J., Opinion:
+
+#### I. Introduction
+
+In a bifurcated trial, a jury found appellant Dennis Lamar James guilty of mayhem and assault producing great bodily injury, but then found him not guilty by reason of insanity. Appellant contends that the trial court erred in refusing to instruct the jury on unconsciousness as a defense to all charges during the guilt phase of the bifurcated trial. We conclude that the evidentiary record included substantial evidence that appellant was unconscious, within the legal meaning of the defense of unconsciousness, when he committed the offenses, and the trial court erred in refusing to instruct the jury on that defense. Accordingly, we reverse the judgment.
+
+#### II. Procedural and Factual Backgrounds
+
+The Alameda County District Attorney filed an amended criminal information charging appellant with aggravated mayhem [...] and assault likely to produce great bodily injury [...] on Yvette Thigpen on February 19, 2012. [...] Appellant entered a plea of not guilty to the charges [...] adding a not guilty by reason of insanity plea. The trial court then appointed two alienists to perform evaluations of appellant's mental condition pursuant to section 1026, Dr. Marlin Griffith and Dr. David Howard, both clinical psychologists. [...]
+
+Dr. Griffith's report contained information about appellant's mental health history including that he had been shot in the back of the head in 1998 [...] as a result of which he had subsequently experienced a "seizure disorder." [...] Dr. Griffith opined as follows: "It is my opinion, with reasonable medical certainty, that at the time of the referenced offense, Mr. James suffered a Psychotic Disorder NOS [(not otherwise specified)] on 02/19/12. [...] Based on this forensic assessment, it is my opinion, to a reasonable degree of medical certainty, that at the time of the commission of the offense, [appellant] was not capable of knowing or understanding the nature and quality of his act and of distinguishing right from wrong." [...]
+
+The first witness called by the prosecution during the guilt phase was Oakland Police Officer Bobby Ko. It was Ko who responded on February 19, 2012, to a call that a mentally disturbed person was behaving violently at a senior housing complex [...] Appellant was attempting to climb the exterior of the building, and was running around the parking lot "crashing his head into cars and garbage cans." Yvetta Thigpen, a resident of the complex [...] went outside because she thought she saw her niece. Appellant ran up to Thigpen and asked her to give him a kiss. He then put his hands on either side of her face, bit her mouth, and tried to put his tongue in her mouth. Appellant bit her multiple times, causing injuries to her mouth and face requiring stitches. [...]
+
+When Officer Ko arrived, he announced "Oakland Police" and told appellant to get on the ground. Appellant turned to face him, but then began "running back and forth, kind of full speed" between two parked cars, and he was "kind of mumbling." [...] Officer Ko used his Taser and "Tased" appellant three to four times to gain his compliance before appellant turned and "tackled" Thigpen, pushing her into the landscaping. Appellant had Thigpen in a "bear hug" and appeared to be trying to kiss her. Officer Ko pulled appellant from Thigpen, and appellant was laying on the ground mumbling. [...] During the incident, appellant was yelling and mumbling, but Officer Ko could not discern what he was saying. Officer Ko testified that at no time during his interactions with appellant did he respond to his commands or reply, other than with incoherent mumbling.
+
+The only witness called by the defense was Dr. Griffith. [...] Dr. Griffith believed that at the time of the events on February 19 appellant suffered a severe or bizarre psychotic episode, which meant "a brief episode of psychosis or loss of touch with reality." Dr. Griffith emphasized that appellant was running around in an aimless manner, his speech was nonsensical, and that he did not appear to be aware of the police attempting to get control of him. He opined that appellant "did not have awareness of what took place at that time." Appellant "had no knowledge of his behavior during the incident," and he had no recollection of his actions, or of being "Tased." Dr. Griffith testified that this lack of awareness was not unusual for one experiencing a psychotic episode. [...]
+
+At the conclusion of the prosecution's case in the guilt phase, appellant made a motion pursuant to section 1118.1 to dismiss the aggravated mayhem charge [...] defense counsel argued that appellant was incoherent and "essentially in an unconscious state" at the time of the incident underlying the charge. The court denied the motion [...]
+
+Defense counsel also requested the court to instruct the jury with CALCRIM No. 3425, an instruction on unconsciousness as a defense. Defense counsel argued that, based on Dr. Griffith's testimony, appellant was suffering from a psychotic episode and he was unaware of his actions. [...] The court declined to give the instruction, stating "I don't think psychotic disorder, psychotic episode, altered reality, his reference to his own reality or nonresponsiveness to police officers' instructions is to be equated with unconsciousness." The court found that an "altered reality" was not unconscious: "It's consciousness, but on some total different pla[ne]." The jury then found appellant guilty of mayhem, the lesser included offense to aggravated mayhem, and assault producing great bodily injury.
+
+The sanity phase of the trial followed on July 1. [...] The jury found appellant not guilty by reason of insanity. Thereafter, appellant was committed to the Napa State Hospital for a maximum term of 21 years. This appeal followed.
+
+#### III. Discussion
+
+Turning first to the law on consciousness in the criminal mental state context, we begin with the presumption that a person who appears to act in an apparent state of consciousness is conscious. [...] Therefore, the burden is on a criminal defendant to produce evidence rebutting this presumption of consciousness. [...] Evidence raising a reasonable doubt as to whether the defendant was conscious at the time of acting is a complete defense to a criminal charge. [...]
+
+Consistent with this presumption and the burden of proof, if a defendant presents substantial evidence of unconsciousness, the trial court must provide an instruction to the jury. [...] Substantial evidence is "evidence sufficient for a reasonable jury to find in favor of the defendant." [...] Where a defendant provides evidence of involuntary unconsciousness, "the refusal of a requested instruction on the subject, and its effect as a complete defense if found to have existed, is prejudicial error. [Citations.]" [...] "The fact that the evidence may not be of a character to inspire belief does not authorize the refusal of an instruction based thereon. [Citations.] ... However incredible the testimony of a defendant may be he is entitled to an instruction based upon the hypothesis that it is entirely true. [Citations.]" [...]
+
+"To constitute a defense, unconsciousness need not rise to the level of coma or inability to walk or perform manual movements; it can exist 'where the subject physically acts but is not, at the time, conscious of acting.'" [...] The law is clear that in cases of unconsciousness caused by blackouts, involuntary intoxication, sleepwalking, or even epilepsy, an instruction is warranted where there is substantial evidence. [...]
+
+But where unconsciousness stems from a mental illness or "unsound mind," what evidence is relevant to an unconsciousness defense has evolved in California case law over the last century [...] For the first half of the 20th century, cases limited a defense of unconsciousness to individuals of "sound mind" relying on the theory that the defenses of insanity and unconsciousness were mutually exclusive. [...]
+
+More recent California Supreme Court cases appear to approve the defense of unconsciousness based on mental illness or unsound mind [...] In *People v. Coogler*, the defendant was suffering from a disassociation reaction stemming from mental illness [...] The Supreme Court cited to section 26 and found that the "trial court, therefore, should have instructed the jury to acquit the defendant if it found that he killed while unconscious." [...]
+
+[The Court of Appeal reversed the judgment and remanded for a new trial with instructions to give the unconsciousness instruction if supported by the evidence.]
+
+### Postscript: What Happened to Dennis James
+
+After the Court of Appeal reversed James's conviction in July 2015, the case was remanded to Alameda County Superior Court for retrial---this time with the unconsciousness instruction James had sought. Court records show the following:
+
+- **August 2015.** Motion hearing following remand.
+- **December 2015.** Bail hearing---James was apparently released from Napa State Hospital pending retrial.
+- **January 2016 -- March 2017.** Approximately a dozen disposition-and-setting hearings as the case moved toward retrial. Two pretrial motions were heard in October 2016.
+- **May 30, 2017.** Jury retrial scheduled in Department 011.
+
+James never made it to his retrial. On April 9, 2017---seven weeks before the retrial was set to begin---Dennis Lamar James, age 41, was shot and killed inside an apartment in East Oakland. A suspect was later charged with murder. His case formally closed with a final hearing on June 8, 2019.
+
+James's appellate victory, however, survived him. The holding in *People v. James*---that unconsciousness and insanity are not mutually exclusive defenses, and that a defendant experiencing a psychotic episode may be entitled to an unconsciousness instruction---changed the landscape of California criminal jury instructions. [CALCRIM No. 3425](https://www.justia.com/criminal/docs/calcrim/3400/3425/), the standard unconsciousness instruction, now reflects the principle that unconsciousness "from whatever cause"---including mental illness---can negate criminal intent. Before *James*, defendants whose unconscious states resulted from mental illness were effectively confined to the insanity defense, which leads not to acquittal but to commitment. After *James*, such defendants may argue for outright acquittal in the guilt phase while preserving the insanity defense as an alternative.
+
+::: {.callout-tip}
+
+## Discussion Questions
+
+1. **Unconsciousness versus insanity.** We have not yet covered the insanity defense, but in many states being found not guilty by reason of insanity results in the person being involuntarily committed to a psychiatric institution, often indefinitely. James was found not guilty by reason of insanity in the sanity phase, but the court still held he was entitled to an unconsciousness instruction in the guilt phase. Acquittal due to unconsciousness is like any other acquittal. If you were on a jury and had to choose, would you find the unconsciousness defense convincing? 
+2. **Comparing to Newton.** Both *Newton* and *James* involve defendants who claimed they were unconscious during violent acts. In *Newton*, the unconsciousness was caused by physical trauma (a gunshot wound); in *James*, it was caused by a psychotic episode. Should the law treat these causes differently?
+:::
+
+### Note: Sleepwalking and Automatism
+
+The unconsciousness defense extends beyond trauma-induced states to include sleepwalking and other forms of automatism. In recent decades, defendants have increasingly raised "parasomnia" defenses---claims that they committed violent acts while in a sleep state and without conscious awareness.
+
+::: {.callout-note}
+## In the News: The Sleepwalking Murder Acquittal
+
+In 2015, a Durham, North Carolina jury [acquitted Joseph Mitchell](https://abc11.com/joseph-mitchell-blake-attempted-murder-jury/553824/) of murder in the death of his four-year-old son. Mitchell had smothered the child while, he claimed, sleepwalking. A defense expert testified that Mitchell suffered from "non-REM parasomnia," a sleep disorder whose sufferers can perform random acts unconsciously. Despite testimony from a prosecution psychologist that Mitchell must have consciously planned the attack, the jury returned a not guilty verdict.
+
+Notably, one juror [later told reporters](https://abc11.com/joseph-mitchell-blake-attempted-murder-jury/555203/): "I didn't believe one word out of that man's mouth," but felt the jury's hands were tied because the judge instructed them that if Mitchell was unconscious, he could not be guilty of any offense. The juror revealed that the jury had asked the judge if they could consider a lesser verdict of manslaughter, but were told it was "all or nothing: murder, or not guilty."
+
+"If manslaughter had been an option, that's what we would've done," the anonymous juror told ABC. "We weren't thinking that he should get away with it by any means."
+:::
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. **Voluntary intoxication.** Both the *Newton* court and the MPC note that unconsciousness caused by voluntary intoxication typically does not excuse criminal liability. Why should it matter whether the defendant's unconscious state was self-induced? If alcohol triggers a genuine parasomnia in a person with a history of sleepwalking, is the resulting unconsciousness "self-induced" in the relevant sense?
+
+2. **Protecting society.** If a defendant is acquitted because they were sleepwalking, what happens next? Should society have any mechanism for addressing the risk that they might sleepwalk again---and harm someone else?
+:::
+
+## Conscious but Involuntary: The Limits of the Defense
+
+The *Newton* and *James* cases involved defendants who claimed to be literally unconscious when they acted. But what about defendants who concede they were conscious but claim their actions were nevertheless beyond their control? Here the law draws a sharp line: impulses and compulsions, no matter how powerful, generally do not negate the voluntariness of an act.
+
+### The Jacobs Rule
+
+In *Jacobs v. Commonwealth*, 121 Pa. 586, 15 A. 465 (1888), James Jacobs killed a man who had commented on Jacobs's treatment of his children. After being confronted, Jacobs retreated into his house, retrieved a butcher knife, returned outside, and fatally stabbed the victim. He then concealed the knife and hid from arrest. At trial, the defense sought to introduce testimony that Jacobs was of an "excitable temperament" whose "controlling influences" made him "incapable of deliberating or premeditating." The trial court excluded this evidence, and the Pennsylvania Supreme Court affirmed.
+
+The court's reasoning rested on a fundamental principle. Evidence of an excitable temperament was offered not to show that Jacobs was insane or unconscious, but merely that he was "a man of quick temper, and when his anger was aroused his self-government was for the moment overcome." This, the court held, could never excuse criminal conduct:
+
+> **The phlegmatic man may be moved to anger as well as the most nervous; the only difference is that it requires more to affect the one than the other; but when passion is once aroused in either, it is the same unreasoning and unreasonable power. Why then should it not excuse crime in the one as well as in the other? If the murder of the latter may thus be reduced in degree, why not that of the former?**
+
+The court concluded: "The main object of the Penal Code is to compel men to restrain their evil passions and desires, hence the want of such restraint is rather an aggravation of than an excuse for crime."
+
+*Jacobs* establishes the principle that conscious emotional states---rage, impulse, compulsion---do not negate the voluntary act requirement, no matter how overwhelming they feel to the defendant. The law presumes that conscious individuals retain the capacity for self-governance, even when that capacity is severely tested. This principle has been reaffirmed in modern decisions. In *People v. Cogsdill*, 2023 IL App (4th) 220300-U, the Illinois Appellate Court rejected a defendant's claim that his actions were involuntary due to psychotropic medications and mental health issues, distinguishing between true unconsciousness and a defendant who "was aware of his actions and exercised some degree of control over them."
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. **Volition versus character.** The court distinguishes between being "unconscious" (which excuses) and being of "excitable temperament" (which does not). What theory of moral responsibility underlies this distinction? 
+2. **Deterrence and impulse control.** Can punishing people like Jacobs serve a deterrent function if they truly cannot control their impulses in the moment? Consider whether deterrence must operate at the moment of the criminal act, or whether it might operate at some earlier point.
+3. **Expressive condemnation.** Even if Jacobs could not control his rage, does his act "express" something about his values? Compare this to Newton's gunshots while unconscious. Does the distinction between conscious-but-impulsive and unconscious acts make sense from an expressive standpoint?
+:::
+
+## Status, Conduct, and Which Acts Must Be Voluntary
+
+The MPC provides that an offender's "conduct" must "include" a voluntary act---but it does not require that *every* act in the sequence be voluntary. This raises two related questions. First, can the government punish someone for a *status* rather than an act? Second, when involuntary circumstances bring a person within reach of the criminal law, which act in the chain must be the voluntary one?
+
+The following cases explore these questions. As you read them, consider how the voluntary act requirement interacts with the power of the state to define crimes and compel the movement of individuals.
+
+::: {.callout-note}
+## Problem: The Boundaries of the Voluntary Act
+
+**Consider the following five cases:**
+
+**1. Powell v. Texas, 392 U.S. 514 (1968).** Leroy Powell, a chronic alcoholic who had been arrested approximately one hundred times for public intoxication, was convicted of being drunk in a public place. He argued that his alcoholism was a disease that compelled him to drink, and that punishing him for conduct he could not control violated the Eighth Amendment's prohibition on cruel and unusual punishment. The Supreme Court rejected this argument in a 5-4 decision. Justice Marshall's plurality opinion held that Powell was convicted not for the *status* of being an alcoholic but for the *conduct* of being drunk in public. Justice White, concurring in the result, suggested the analysis might differ if the defendant had been homeless and thus had no private place in which to be intoxicated.
+
+**2. City of Grants Pass v. Johnson, 603 U.S. ___ (2024).** Grants Pass, Oregon, enacted ordinances prohibiting camping on public property and overnight sleeping in parks. Approximately 600 of the city's 38,000 residents were homeless. Homeless residents challenged the ordinances under the Eighth Amendment, arguing that sleeping outside was an involuntary consequence of their status. The Supreme Court, 6-3, upheld the ordinances. The majority held that the laws targeted *conduct* (camping, sleeping in public) rather than *status* (being homeless), and that *Robinson v. California* (1962)---which struck down a law criminalizing the status of drug addiction---was limited to "pure status crimes." Justice Sotomayor, dissenting, argued that sleep is a biological necessity and that for people with no shelter, the ordinances effectively criminalized the status of homelessness.
+
+**3. Manning v. Caldwell, 930 F.3d 264 (4th Cir. 2019) (en banc).** Bryan Manning, a homeless man suffering from severe alcoholism in Roanoke, Virginia, was designated a "habitual drunkard" under a state interdiction statute and then repeatedly prosecuted for possessing or consuming alcohol. He had been arrested more than thirty times---once for merely "smelling like alcohol." The en banc Fourth Circuit struck down the statute, 8-7, holding that for homeless alcoholics, the distinction between the *status* of being an alcoholic and the *conduct* of drinking collapses: when a person is addicted to alcohol and has no private place to consume it, punishing the conduct is effectively punishing the status. The court found the statute both unconstitutionally vague (it never defined "habitual drunkard") and violative of the Eighth Amendment.
+
+**4. Martin v. State, 31 Ala. App. 334, 17 So. 2d 427 (1944).** Officers arrested Luther Martin at his home and took him onto a public highway, where he allegedly manifested a drunken condition by using loud and profane language. He was convicted under a statute prohibiting anyone who, "while intoxicated or drunk, appears in any public place" and "manifests a drunken condition by boisterous or indecent conduct." The Alabama Court of Appeals reversed: "Under the plain terms of this statute, a voluntary appearance is presupposed." A person cannot be convicted of appearing drunk in public when police officers forcibly carried him there.
+
+**5. Beltz v. State, 551 P.3d 583 (Alaska App. 2024).** Alex Beltz was arrested and transported to a correctional facility, where officers found drugs on his person during booking. He was charged with promoting contraband in a correctional facility. Beltz moved to dismiss, arguing that he did not voluntarily bring the drugs into the facility---police transported him there. The Alaska Court of Appeals held that the voluntary act was not Beltz's entry into the facility, but his *continuing possession* of contraband after being given notice that maintaining possession in the facility constituted a separate offense. However, the court reversed Beltz's indictment because there was no evidence he had actually received such notice.
+:::
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. **Status versus conduct.** *Powell*, *Grants Pass*, and *Manning* all involve defendants who argue that their conduct was compelled by circumstances beyond their control. How does each court draw the line between punishing status and punishing conduct? Are the distinctions coherent?
+2. **Justice White's concurrence.** In *Powell*, Justice White suggested the outcome might differ if the defendant had been homeless and had no private place to be intoxicated. *Manning* presents exactly that scenario. Does *Manning* vindicate Justice White's position? How does *Grants Pass* respond to it?
+3. **The Martin principle and Beltz.** *Martin* holds that the state cannot manufacture the actus reus by physically moving the defendant to the location where the offense occurs. In *Beltz*, the defendant's presence at the correctional facility was also involuntary, yet the court identifies a different voluntary act---continuing possession after notice. What makes "continuing to possess" a voluntary act when "appearing in public" is not? Is the distinction that Beltz had an opportunity to divest himself of the contraband, whereas Martin had no opportunity to leave the highway?
+4. **Hypothetical variations.** Consider two additional scenarios:
+   - (a) Police are called to Martin's home because his wife reports he is violently assaulting her. Officers remove him after he attempts to attack his wife in their presence. He is charged with public intoxication based on his behavior on the front lawn. Is his "appearance" in public voluntary? Does it matter that his conduct created the circumstances that led to his removal?
+   - (b) An arrestee is pat-searched twice before being transported to jail; no drugs are found. During booking, drugs are discovered hidden in her clothing. She was never warned that possessing contraband in the facility would be a separate offense. Should she be convicted of introducing contraband?
+5. **Who decides?** The MPC requires that the defendant's conduct "include" a voluntary act---but not that every act be voluntary. Who decides which act in the sequence is the relevant voluntary one? Is this a question of law for the judge (as it is in most common law jurisdictions), or a question of fact for the jury (as it is in most modern code jurisdictions)? What are the implications of assigning it to one institution rather than the other?
+:::
+
+## Time-Framing: When Does Voluntariness Apply?
+
+The cases so far have focused on the defendant's mental state at the moment of the harmful conduct. But what if the defendant was unconscious at that moment because of a prior voluntary act---like choosing to drive despite a known seizure disorder, or choosing to consume drugs that might trigger psychosis? This question involves what scholars call "time-framing": the problem of determining when, in a sequence of events, we should assess the voluntariness of the defendant's conduct.
+
+::: {.callout-note}
+## In the News: The Bryn Spejcher Case
+
+In January 2024, a California woman who fatally stabbed her boyfriend more than 100 times during what prosecutors called a "cannabis-induced" psychosis was sentenced to probation rather than prison.
+
+Bryn Spejcher, 32, was convicted of involuntary manslaughter in the 2018 fatal stabbing of Chad O'Melia, whom she had been dating for several weeks. Testimony showed she stabbed O'Melia more than 100 times and also stabbed herself. Police officers who responded found O'Melia lying in a pool of blood with Spejcher "screaming hysterically with a knife still in her hands." Before officers could disarm her, Spejcher plunged the knife into her own neck. Officers used a Taser and multiple baton blows before finally subduing her.
+
+According to prosecutors, the attack occurred after Spejcher and O'Melia took multiple hits from a bong loaded with marijuana. "Spejcher had an adverse reaction to the marijuana and suffered from what experts call Cannabis-Induced Psychotic Disorder," the district attorney's statement explained. "During that psychotic episode, Spejcher stabbed Mr. O'Melia multiple times killing him."
+
+Under California law, a person is generally considered responsible for their actions while under the influence of drugs or alcohol unless their intoxication was involuntary. However, the judge cited expert testimony regarding the "unpredictable" and "uncontrollable" nature of the psychotic break. "From that point forward, she had no control over her actions," Judge David Worley said during the sentencing.
+
+The victim's father condemned the sentence. "He just gave everyone in the state of California who smokes marijuana a license to kill someone," Sean O'Melia said.
+
+*Source: NPR/Associated Press, January 24, 2024*
+:::
+
+::: {.callout-tip}
+## Questions on the Spejcher Case
+
+1. **Voluntary intoxication.** Spejcher voluntarily consumed cannabis. She then experienced a psychotic episode during which she stabbed O'Melia over 100 times. Under the MPC's list of involuntary acts, were her stabbings "voluntary" or "involuntary"?
+
+2. **The causation chain.** The judge found that Spejcher had "no control over her actions" during the psychotic episode. But she voluntarily consumed the drug that triggered the episode. Should liability be based on her mental state during the stabbing, or at the earlier point when she chose to consume cannabis?
+
+3. **Policy implications.** The victim's father claimed the ruling gives cannabis users "a license to kill." Is this concern valid? What limiting principles might prevent abuse of a cannabis-psychosis defense?
+
+:::
+
+::: {.callout-note}
+## In the News: Autopilot, Automation, and the Voluntary Act
+
+In January 2022, the Los Angeles County District Attorney filed the first U.S. felony charges against a driver using a partially automated driving system. Kevin George Aziz Riad's Tesla Model S, operating on Autopilot mode, ran a red light at approximately 74 miles per hour and struck a Honda Civic, killing both occupants. Riad was charged with two counts of vehicular manslaughter with gross negligence.
+
+Data from the vehicle showed that Riad had his hands on the steering wheel but did not brake, steer, or otherwise intervene for approximately six seconds before the crash. Tesla's Autopilot system requires drivers to remain attentive and keep their hands on the wheel, but the system itself was controlling speed and steering at the time of impact. Riad pleaded no contest and was sentenced to probation.
+
+The case raises a novel voluntary act question: when a human delegates driving to a machine, who performs the "act" that causes harm? The prosecution's theory was that Riad's voluntary acts included engaging Autopilot and failing to monitor the road---a time-framing approach that traces liability back to decisions made before the crash, rather than to conduct at the moment of impact.
+
+*Sources: NBC News, January 18, 2022; AP News, December 20, 2023*
+:::
+
+### Note: Time-Framing and Seizure Disorders
+
+The time-framing problem has long been litigated in cases involving drivers who suffer seizures behind the wheel. The principle across jurisdictions is consistent: when a driver knows they are at risk of losing consciousness, the voluntary act is the decision to drive---not the conduct during the medical emergency.
+
+The foundational case is [*People v. Decina*](https://law.justia.com/cases/new-york/court-of-appeals/1956/2-n-y-2d-133-0.html){.cite}, 2 N.Y.2d 133 (1956). Emil Decina was an epileptic who knew he was subject to seizures. While driving in Buffalo, he suffered a grand mal seizure, lost control of his vehicle, and struck a group of schoolchildren, killing four. The trial court convicted Decina, but the Appellate Division reversed and ordered a new trial. The New York Court of Appeals affirmed, holding that the indictment was valid because "this defendant knew he was subject to epileptic attacks and seizures that might strike at any time." The court framed the relevant conduct not as what happened during the seizure but as the conscious choice to get behind the wheel despite a known risk.
+
+In a 2017 Minnesota case, Patrick Hayes suffered a seizure while driving on Interstate 494, killing a two-year-old, her twenty-four-year-old mother, and her fifty-one-year-old grandmother. Investigators discovered that Hayes had experienced at least three prior crashes in three years and had lied on his driver's license applications about his medical condition, concealing his epilepsy from the Department of Motor Vehicles. He was charged with five counts of criminal vehicular homicide. Here the voluntary act was not merely driving despite the risk, but years of affirmatively concealing a known seizure disorder.
+
+In early 2025, New York prosecutors charged Jacklyn Parker with criminally negligent homicide after she suffered a seizure while driving and struck another vehicle, killing the other driver. According to court documents, Parker had "been non-compliant with taking her prescribed anti-seizure medications and [was] aware that her failure to take the prescribed medication could result in seizures."
+
+These cases illustrate how the criminal legal system traces an involuntary act (the seizure) back to a prior voluntary choice (driving despite the risk, concealing a condition, or failing to take medication). 
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. **When to assess voluntariness.** Decina was unconscious at the moment his car struck the schoolchildren. The prosecution argued the voluntary act was his decision to drive. Under the MPC, which requires that the defendant's conduct "include" a voluntary act, is the decision to drive part of the "conduct" that constitutes vehicular homicide? Or is the court stretching the voluntary act requirement beyond its natural scope?
+2. **Foreseeability.** In *Decina*, the defendant had a known seizure disorder and specific medical warnings not to drive. What if a driver had only one prior seizure years ago? What if a first-time cannabis user had no reason to anticipate a psychotic reaction? How foreseeable must the harmful consequence be before liability attaches to the prior voluntary act? As we will see in the next chapter, the interest in expanding or contracting foreseeability mirrors questions in causation doctrine.  
+3. **The Tesla problem.** In the Riad case, the prosecution's theory is that the voluntary act was engaging Autopilot and failing to monitor the road. How does this compare to the seizure cases? Is choosing to rely on automation analogous to choosing to drive despite a known seizure risk? What if the automation had performed flawlessly for years before the incident?
+:::
+
+## The Blackout Defense and the Burden of Proof
+
+The cases we have examined so far treat unconsciousness as a defense that, if accepted, results in complete acquittal. But who bears the burden of proving (or disproving) that the defendant was unconscious? The answer varies by jurisdiction and raises fundamental questions about the relationship between the voluntary act requirement and the presumption of innocence.
+
+::: {.callout-note}
+## Who Bears the Burden? *State v. Ireland*, 155 Ohio St.3d 287 (2018)
+
+In *Newton* and *James*, the California courts treated unconsciousness as negating an element of the offense. The defendant had to produce some evidence of unconsciousness, but once that threshold was met, the prosecution bore the burden of proving consciousness beyond a reasonable doubt. If the jury had a reasonable doubt about whether the defendant was conscious, it had to acquit.
+
+Not all jurisdictions work this way. In *State v. Ireland* (Ohio 2018), the Ohio Supreme Court adopted the opposite approach.
+
+Darin Ireland was charged with felonious assault. A forensic psychologist diagnosed Ireland with PTSD and testified that during the assault Ireland had experienced a dissociative episode---that he was "acting automatically" and his consciousness and decision-making were "compromised." Ireland asked the trial court to instruct the jury that if it had a reasonable doubt about whether he was conscious, it must acquit. Instead, the court instructed the jury that blackout is an *affirmative defense* and that Ireland bore the burden of proving it by a preponderance of the evidence. The jury convicted.
+
+The Ohio court of appeals reversed, reasoning that voluntariness is an element of every criminal offense and the prosecution must prove it beyond a reasonable doubt. But the Ohio Supreme Court reversed again, reinstating the conviction. It held that blackout is an "excuse peculiarly within the knowledge of the accused" and that requiring the defendant to carry the burden does not violate due process.
+
+The practical consequences are significant. The same expert testimony---a forensic psychologist opining that the defendant was dissociating and acting automatically---would likely produce different outcomes depending on the jurisdiction:
+
+- **In California**, that testimony would require an unconsciousness instruction, and the prosecution would need to prove consciousness beyond a reasonable doubt. If the jury was uncertain, Ireland wins.
+- **In Ohio**, that testimony was not enough, because Ireland bore the burden and the jury found he had not met it. If the jury was uncertain, Ireland loses.
+
+The difference comes down to a structural choice: is voluntariness something the prosecution must *prove*, or something the defendant must *disprove*?
+:::
+
+::: {.callout-tip}
+## Discussion Questions
+
+1. **Which structure do you prefer?** California treats unconsciousness as negating an element of the offense (prosecution's burden). Ohio treats it as an affirmative defense (defendant's burden). Which approach is more consistent with the presumption of innocence? Which better protects against fabricated claims?
+
+2. **"Peculiarly within the defendant's knowledge."** Ohio's rationale for placing the burden on the defendant is that only the accused can describe what he experienced during a blackout. But couldn't the same be said of any mental state, including intent to kill? If that reasoning justified shifting the burden for unconsciousness, could it justify shifting the burden for mens rea?
+
+3. **The Jacobs connection.** *Jacobs* draws the line at consciousness: once you are conscious, the law treats you as a voluntary actor regardless of impulse. *Ireland* goes further: even if you *were* unconscious, you must prove it by a preponderance of the evidence. What does this combination suggest about the law's baseline assumptions regarding human agency?
+:::
+
+## Synthesis: Voluntariness and the Purposes of Criminal Law
+
+The cases in this chapter reveal that the voluntary act requirement is far from a bright-line rule. Courts must determine:
+
+- What counts as "conscious" versus "unconscious"
+- Whether impulses and compulsions can ever negate voluntariness
+- Whether the state can punish conduct that is the unavoidable consequence of a status
+- Which acts in a sequence of events must be voluntary
+- When, in a chain of causation, to assess the defendant's voluntariness
+- Who bears the burden of proving or disproving voluntariness
+
+These determinations implicate fundamental questions about the purposes of criminal punishment.
+
+**Deterrence.** If a defendant was genuinely unconscious or acting under an irresistible impulse, can punishment deter that conduct? Perhaps not in the moment---but might it deter the prior choices that created the risk (choosing to drive with a seizure disorder, engaging Autopilot without monitoring the road, or developing habits of uncontrolled rage).
+
+**Desert.** Does someone deserve punishment for conduct they could not control? The *Jacobs* court suggests that people are moral authors of their character---including their impulses---and thus deserve blame for acting on bad impulses even if they could not resist them in the moment. But the *Manning* court suggests that for some people, circumstances eliminate meaningful choice altogether.
+
+**Expressive condemnation.** Does it make sense for the state to "speak" to an unconscious act? Perhaps not---Newton's gunfire while in shock does not seem to express anything about his values. But *Jacobs*' stabbing does seem to express something, even if the impulse was overwhelming. And what about the *Grants Pass* majority's insistence that anti-camping ordinances express legitimate policy choices, not punishment of status?
+
+
+

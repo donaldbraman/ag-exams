@@ -1,0 +1,734 @@
+# Criminal Code Reform: Common Law vs. Modern Approaches {#sec-appendix-code-reform}
+
+```{=latex}
+\setcounter{page}{1}
+\renewcommand{\thepage}{A-\arabic{page}}
+```
+
+## The Model Penal Code Revolution
+
+For most of American history, criminal law was a patchwork. Each state had accumulated statutes over decades or centuries, layered atop common law principles inherited from England. Courts filled gaps through judicial interpretation, but the result was often incoherent: archaic terminology, overlapping offenses, inconsistent penalties, and—most fundamentally—no systematic approach to defining what made conduct criminal.
+
+The problem was starkest in the law of mens rea. Studies revealed seventy-six different terms used in the federal criminal code alone to describe the mental state required for criminal liability. Words like "willfully," "corruptly," "maliciously," and "wantonly" appeared throughout state codes, their meanings varying by jurisdiction, by offense, and sometimes by the inclinations of individual judges.
+
+In 1952, the American Law Institute undertook to fix this. The ALI—a group of judges, lawyers, and legal scholars founded in 1923 to clarify and improve American law—appointed Columbia Law School professor Herbert Wechsler as Chief Reporter for an ambitious project: drafting a model criminal code that states could adopt. After a decade of work involving over one hundred advisors, the ALI approved the Model Penal Code in 1962.
+
+The MPC's most enduring contribution was its "General Part"—a systematic framework for analyzing criminal liability. Rather than treating each offense as a self-contained common law category, the MPC broke criminal liability into discrete *elements*: conduct, circumstances, and results. For each element, the code required proof of a specified *culpable mental state*, defined with precision. The MPC reduced the chaos of mens rea terminology to four clearly defined terms: *purposely*, *knowingly*, *recklessly*, and *negligently*. A person could not be guilty of an offense unless they acted with the required mental state "with respect to each material element of the offense."
+
+The influence was immediate and sweeping. Within two decades, thirty-six states had enacted new criminal codes, all of them influenced by the MPC. Today, over two-thirds of American jurisdictions have MPC-influenced codes. Even in states that never formally adopted the MPC, courts regularly rely on its framework to interpret ambiguous statutes and fill gaps in common law doctrine.
+
+## The D.C. Criminal Code Reform
+
+The District of Columbia was not among the early adopters. Its criminal code dates largely to 1901, when Congress enacted a comprehensive set of criminal statutes for the nation's capital. Like most American criminal codes of that era, it drew heavily on common law concepts: "malice aforethought," "breaking and entering," "larceny," "embezzlement"—terms whose meanings were established not by statute but by centuries of judicial interpretation.
+
+In 2006, the D.C. Council created the Criminal Code Reform Commission to undertake the first comprehensive revision of this code in over a century. The Commission spent sixteen years analyzing every criminal offense in D.C. law, comparing approaches across jurisdictions, consulting with judges, prosecutors, defense attorneys, and academics, and drafting a proposed Revised Criminal Code influenced by the Model Penal Code's approach.
+
+The result, passed by the D.C. Council in 2022, would have modernized virtually every aspect of D.C. criminal law: replacing archaic terminology with precisely defined mental states, consolidating overlapping offenses, creating graduated penalties proportionate to harm, and eliminating historical anomalies that produced inconsistent results.
+
+The reform became a flashpoint in national debates over criminal justice policy. Critics characterized it as "soft on crime," pointing to reduced maximum sentences for some offenses. Supporters countered that the changes were evidence-based, noting that the code also *increased* penalties for certain offenses and brought D.C. sentencing in line with the majority of states. Mayor Muriel Bowser vetoed the bill; the Council overrode her veto 12–1. In March 2023, Congress exercised its constitutional authority over the District to block the code from taking effect—the first time in thirty years that Congress had overridden D.C. legislation.
+
+## Why These Comparisons Matter
+
+Whatever one's view of the political controversy, the CCRC's work product is invaluable for understanding criminal law. The Commission's detailed commentary explains not only *what* the proposed changes were, but *why* the drafters believed each change would improve clarity, consistency, and proportionality.
+
+The comparisons that follow illustrate the fundamental differences between two approaches to criminal law. The traditional approach—reflected in D.C.'s current code—relies on common law categories refined over centuries of judicial interpretation. Terms like "malice aforethought" carry meaning, but that meaning lives in case law rather than statutory text. The modern approach—reflected in the proposed RCC—seeks to state every element of every offense with statutory precision, defining mental states explicitly and grading offenses by the harm actually caused rather than by historical accident.
+
+Neither approach is self-evidently correct. The common law method has the virtue of flexibility; judges can adapt doctrine to novel circumstances. The MPC method has the virtue of clarity; defendants know exactly what the prosecution must prove, and juries receive explicit definitions rather than centuries of precedent distilled into pattern instructions. Throughout this course, we will encounter both approaches—and the tensions between them.
+
+{{< pagebreak >}}
+
+## Crimes Against Persons {#sec-code-comparison-persons}
+
+This section compares traditional and modern approaches to homicide, robbery, assault, and sexual assault.
+
+---
+
+### Homicide
+
+#### Proposed Modern Code: RCC § 22E-1101 (Murder)
+
+(a) *First degree.* An actor commits first degree murder when the actor purposely, with premeditation and deliberation, causes the death of another person.
+
+(b) *Second degree.* An actor commits second degree murder when the actor:
+
+> (1) Knowingly causes the death of another person;
+>
+> (2) Recklessly, with extreme indifference to human life, causes the death of another person; or
+>
+> (3) Negligently causes the death of another person, other than an accomplice, by committing the lethal act in the course of and in furtherance of committing or attempting to commit an offense that is, in fact:
+>
+> > (A) First or second degree arson;
+> >
+> > (B) First degree sexual assault;
+> >
+> > (C) First or second degree sexual abuse of a minor;
+> >
+> > (D) First degree assault;
+> >
+> > (E) Enhanced first degree burglary;
+> >
+> > (F) First or second degree robbery;
+> >
+> > (G) First or second degree kidnapping; or
+> >
+> > (H) First degree criminal abuse of a minor when the actor knowingly causes serious bodily injury.
+
+#### Traditional Code It Would Replace: D.C. Code § 22-2101
+
+> Whoever, being of sound memory and discretion, kills another purposely, either of deliberate and premeditated malice or by means of poison, or in perpetrating or attempting to perpetrate an offense punishable by imprisonment in the penitentiary, or without purpose to do so kills another in perpetrating or in attempting to perpetrate first degree sexual abuse, first degree child sexual abuse, first degree cruelty to children, mayhem, robbery, kidnapping, housebreaking while armed with or using a dangerous weapon, or any felony involving a controlled substance... shall be guilty of murder in the first degree.
+
+**Second Degree (§ 22-2103):**
+
+> Whoever with malice aforethought, except as provided in §§ 22-2101, 22-2102, kills another, is guilty of murder in the second degree.
+
+#### Key Differences
+
+**Felony Murder Grading.** This represents one of the most significant changes in the revised code. Under current D.C. law, unintentional felony murder is graded as first degree murder (the most serious homicide offense) and is punished more severely than an intentional but non-premeditated killing (which constitutes second degree murder). This means that a person who accidentally causes death during a robbery faces harsher punishment than someone who deliberately kills in a sudden rage. The current scheme even allows the predicate felony (like robbery) to serve as an aggravating circumstance, potentially subjecting unintentional killers to sentences exceeding those for premeditated murderers. The RCC corrects this by grading felony murder as second degree murder, reflecting the fundamental principle that killings committed with lower culpability—without intent to kill—deserve less severe punishment than deliberate, premeditated killings.
+
+**Defined Culpable Mental States.** The RCC replaces vague common law terminology with precisely defined mental states. Current law uses "malice aforethought" for second degree murder, a term whose meaning has been developed through centuries of case law and remains notoriously unclear. Courts have interpreted it to include everything from intent to kill, to intent to cause serious bodily harm, to "depraved heart" recklessness, to felony murder, vastly different mental states lumped under one archaic phrase. The RCC instead uses "purposely," "knowingly," "recklessly," and "negligently," each defined with precision in the code's general provisions. This allows jurors to understand exactly what mental state they must find, and allows defendants to know what they're being accused of.
+
+**Felony Murder Predicates.** Current law includes any "felony involving a controlled substance" as a predicate for felony murder. The RCC eliminates drug offenses from the list because they lack the same inherent, direct risk of physical harm to others as violent felonies like robbery, arson, or kidnapping. A drug dealer whose customer overdoses could face felony murder under current law; the RCC reserves felony murder for situations where the predicate offense itself creates foreseeable risks of deadly violence.
+
+**"In Furtherance" Requirement.** The RCC requires that the death occur "in the course of and in furtherance of" the predicate felony, meaning the killing must somehow facilitate the crime, including avoiding apprehension or detection. Current law has no such requirement; while courts have held that mere temporal and locational coincidence is insufficient, they have not required the killing to actually further the felony. This creates problematic edge cases: if two people commit an unrelated killing that happens to occur at the same time and place as their drug transaction, current law could support felony murder charges even though the killing had nothing to do with the drug offense.
+
+**Eliminated Provisions.** The RCC eliminates the 1901 provision in D.C. Code § 22-2102 making it first degree murder to cause death by placing obstructions on a railroad. While perhaps sensible when railroads were the primary mode of transportation, this provision elevates the means of killing above the defendant's mental state: someone who recklessly obstructs a railroad causing death would be guilty of first degree murder, while someone who recklessly causes death by other means would face lesser charges.
+
+**Codified Mitigation Defense.** The RCC explicitly provides that mitigating circumstances (acting under extreme emotional disturbance with reasonable cause, or acting with an unreasonable belief in the necessity of deadly force for self-defense) reduce murder to voluntary manslaughter. This is currently handled through case law, but codification ensures consistent application and gives defendants clear notice of available defenses.
+
+---
+
+### Robbery
+
+#### Proposed Modern Code: RCC § 22E-1201 (Robbery)
+
+(a) *First degree.* An actor commits first degree robbery when the actor:
+
+> (1) Knowingly takes or exercises control over the property of another that the complainant possesses within the complainant's immediate physical control by:
+>
+> > (A) Causing bodily injury to the complainant or another person physically present;
+> >
+> > (B) Communicating, explicitly or implicitly, that the actor immediately will cause the complainant or another person physically present to suffer bodily injury, a sexual act, a sexual contact, confinement, or death;
+> >
+> > (C) Applying physical force that moves or immobilizes another person present; or
+> >
+> > (D) Removing property from the hand or arms of the complainant;
+>
+> (2) With intent to deprive the complainant of the property; and
+>
+> (3) In the course of the robbery, recklessly causes serious bodily injury to another person, other than an accomplice.
+
+(b) *Second degree.* An actor commits second degree robbery when the actor:
+
+> (1) Commits the conduct in paragraph (a)(1);
+>
+> (2) With intent to deprive the complainant of the property; and
+>
+> (3) Either:
+>
+> > (A) In the course of the robbery, recklessly causes significant bodily injury to another person, other than an accomplice; or
+> >
+> > (B) In fact, the property is a motor vehicle or has a value of $5,000 or more.
+
+(c) *Third degree.* An actor commits third degree robbery when the actor:
+
+> (1) Commits the conduct in paragraph (a)(1);
+>
+> (2) With intent to deprive the complainant of the property.
+
+#### Traditional Code It Would Replace: D.C. Code § 22-2801
+
+> Whoever by force or violence, whether against resistance or by sudden or stealthy seizure or snatching, or by putting in fear, shall take from the person or immediate actual possession of another anything of value, is guilty of robbery.
+
+#### Key Differences
+
+**Gradations Based on Harm.** Current D.C. law has a single, ungraded robbery offense that makes no distinction between a pickpocket who lifts a wallet unnoticed and an armed robber who pistol-whips a victim into unconsciousness. Both face the same 2-15 year sentencing range. The RCC creates three degrees of robbery, graded primarily by the severity of injury caused during the offense. This tracks the assault gradations: third degree robbery (threats or minor force) parallels the basic assault, second degree (significant bodily injury or high-value property) parallels more serious assault, and first degree (serious bodily injury) represents the most violent robberies. This grading ensures that punishment is proportionate to the actual harm inflicted.
+
+**Pickpocketing Reclassified as Theft.** Under current law, non-violent pickpocketing and "sudden or stealthy seizure or snatching" constitute robbery even when the victim never knew the property was taken and was never menaced or injured. Courts have interpreted the statute broadly to cover takings where property was merely near the victim rather than on their person. The RCC fundamentally reconceptualizes robbery as requiring an element of confrontation: bodily injury, threats of immediate harm, overpowering physical force, or at minimum taking property directly from the victim's hands or arms. Taking property from someone's pocket or bag without their knowledge, however skillfully executed, is theft, not robbery, because the victim was never put in fear or physically harmed. This change reserves robbery's severe penalties for crimes that involve actual violence or intimidation.
+
+**Weapon Enhancement Requires Actual Use.** Current D.C. Code § 22-4502 enhances penalties if the defendant was "armed with or having readily available" a weapon during the offense, even if the weapon was never displayed, used, or even known to the victim. Courts have interpreted "readily available" broadly to include weapons that were nearby but never touched during the offense. The RCC requires that the defendant actually "use or display" the weapon to receive the enhancement, and provides a more severe enhancement when the weapon's use directly causes injury. This ensures that penalty enhancements reflect actual increased danger to the victim, not merely the defendant's possession of a weapon that played no role in the crime.
+
+**Carjacking Integrated.** Current law treats carjacking as a separate offense with its own penalty structure. The RCC integrates carjacking into the robbery gradations: taking a motor vehicle automatically elevates the offense to at least second degree robbery.
+
+**Defined Mental States.** The RCC specifies that the defendant must "knowingly" take property with "intent to deprive," terms precisely defined in the code. Current law's "force or violence" and "putting in fear" have no statutory definitions and must be interpreted through case law.
+
+---
+
+### Assault
+
+#### Proposed Modern Code: RCC § 22E-1202 (Assault)
+
+(a) *First degree.* An actor commits first degree assault when the actor purposely:
+
+> (1) Causes serious and permanent disfigurement to the complainant; or
+>
+> (2) Destroys, amputates, or permanently disables a member or organ of the complainant's body.
+
+(b) *Second degree.* An actor commits second degree assault when the actor recklessly, with extreme indifference to human life, causes serious bodily injury to the complainant.
+
+(c) *Third degree.* An actor commits third degree assault when the actor recklessly causes significant bodily injury to the complainant.
+
+(d) *Fourth degree.* An actor commits fourth degree assault when the actor recklessly causes bodily injury to the complainant.
+
+#### Traditional Code It Would Replace: D.C. Code §§ 22-401 to 22-406
+
+**§ 22-401 (Assault with intent):**
+
+> Every person convicted of any assault with intent to kill or to commit first degree sexual abuse, second degree sexual abuse, or child sexual abuse, or to commit robbery, or mingling poison with food, drink, or medicine with intent to kill... shall be sentenced to imprisonment for not less than 2 years or more than 15 years.
+
+**§ 22-404 (Simple assault):**
+
+> Whoever unlawfully assaults... another shall be fined... or be imprisoned not more than 180 days, or both.
+
+**§ 22-406 (Mayhem):**
+
+> Every person convicted of mayhem or of maliciously disfiguring another shall be imprisoned for not more than 10 years.
+
+#### Key Differences
+
+**Bodily Injury Required.** Under current D.C. case law, "assault" encompasses far more than physical battery. It includes "intent-to-frighten" assaults where no physical contact occurs, merely creating reasonable fear of immediate injury suffices. It includes "non-violent sexual touching" where any unwanted sexual contact constitutes assault regardless of whether it caused pain. And it includes any completed battery where an unwanted touching occurs, even if it caused no pain or impairment whatsoever. Case law has established that the injury required for simple assault may be minimal, with no requirement of physical pain, bruises, broken skin, blood, or medical treatment. The RCC limits assault to conduct causing actual "bodily injury," defined as "physical pain, physical injury, illness, or impairment of physical condition." Conduct that falls short—creating fear without contact, unwanted touching without pain—may still be criminal under separate offenses like criminal threats (§ 22E-1204) or offensive physical contact (§ 22E-1205), but is not assault.
+
+**Graded by Harm, Not Intent.** Current law takes the traditional common law approach of grading assault by the defendant's intended target crime: assault with intent to kill, assault with intent to rob, assault with intent to commit mayhem, assault with intent to commit sexual abuse, assault with intent to commit any other felony. This creates a proliferation of offenses with overlapping elements and inconsistent penalties. The RCC takes the modern approach of grading assault by the harm actually caused: fourth degree for bodily injury, third degree for significant bodily injury, second degree for serious bodily injury with extreme recklessness, first degree for permanent disfigurement or disability. This creates a clear, proportionate hierarchy where punishment tracks the severity of the victim's injuries rather than the defendant's uncompleted intentions.
+
+**Eliminated "Assault With Intent To" Offenses.** The RCC entirely eliminates the category of "assault with intent to" offenses that were "created to allow a court to impose a more appropriate penalty for an assaultive act that results from an unsuccessful attempt to commit a felony or some other proscribed end." Under the RCC, such conduct is simply charged as an attempt to commit the target offense under the general attempt statute (§ 22E-301). Someone who assaults another while trying to kill them is charged with attempted murder; someone who assaults another while trying to rob them is charged with attempted robbery. This eliminates unnecessary duplication between specific AWI offenses and general attempt liability, ensures consistent attempt penalties across offenses, and simplifies the code.
+
+**Consolidated Mayhem and Malicious Disfigurement.** Current law provides penalties for "mayhem" and "malicious disfigurement," but the elements of these offenses are established entirely by case law: the statutes merely state penalties without defining the crimes. Case law requires proof of permanent disabling injury for mayhem and permanent disfigurement for malicious disfigurement, with varying mental state requirements. The RCC consolidates both into first degree assault with clearly defined elements: purposely causing "serious and permanent disfigurement" or purposely destroying, amputating, or permanently disabling "a member or organ" of the victim's body.
+
+**Offensive Physical Contact Separated.** The RCC creates a separate "offensive physical contact" offense for unwanted touchings that don't rise to bodily injury, conduct currently prosecuted as simple assault.
+
+**Defined Injury Terms.** The RCC defines "bodily injury" (physical pain or impairment), "significant bodily injury" (injury requiring medical treatment or causing substantial pain), and "serious bodily injury" (injury creating risk of death or causing protracted impairment) in a single definitions section applicable throughout the code. Current law defines "significant bodily injury" only within the simple assault statute (§ 22-404), leaving other injury terms to case law interpretation and creating inconsistency across offenses.
+
+---
+
+### Sexual Assault
+
+#### Proposed Modern Code: RCC § 22E-1301 (Sexual Assault)
+
+(a) *First degree.* An actor commits first degree sexual assault when the actor:
+
+> (1) Knowingly engages in a sexual act with the complainant or causes the complainant to engage in or submit to a sexual act;
+>
+> (2) In one or more of the following ways:
+>
+> > (A) By causing bodily injury to the complainant, or by using physical force that moves or immobilizes the complainant;
+> >
+> > (B) By communicating to the complainant, explicitly or implicitly, that the actor will cause:
+> >
+> > > (i) The complainant to suffer a bodily injury, confinement, or death; or
+> > >
+> > > (ii) A third party to suffer a bodily injury, sexual act, sexual contact, confinement, or death; or
+> >
+> > (C) By administering or causing to be administered to the complainant, without the complainant's effective consent, a drug, intoxicant, or other substance:
+> >
+> > > (i) With intent to impair the complainant's ability to express willingness or unwillingness to engage in the sexual act; and
+> > >
+> > > (ii) In fact, the drug, intoxicant, or other substance renders the complainant: (I) Asleep, unconscious, substantially paralyzed, or passing in and out of consciousness; (II) Substantially incapable of appraising the nature of the sexual act; or (III) Substantially incapable of communicating willingness or unwillingness to engage in the sexual act.
+
+(b) *Second degree.* An actor commits second degree sexual assault when the actor knowingly engages in a sexual act with the complainant or causes the complainant to engage in or submit to a sexual act by coercive threat, or when the complainant is asleep, unconscious, incapacitated, or paralyzed.
+
+(c) *Third degree.* An actor commits third degree sexual assault when the actor commits the conduct described in paragraph (a) but with "sexual contact" rather than "sexual act."
+
+(d) *Fourth degree.* An actor commits fourth degree sexual assault when the actor commits the conduct described in paragraph (b) but with "sexual contact" rather than "sexual act."
+
+#### Traditional Code It Would Replace: D.C. Code §§ 22-3002 to 22-3005
+
+**§ 22-3002 (First degree sexual abuse):**
+
+> A person shall be imprisoned for any term of years or for life... if that person engages in or causes another person to engage in or submit to a sexual act in the following manner:
+> (1) By using force against that other person;
+> (2) By threatening or placing that other person in reasonable fear that any person will be subjected to death, bodily injury, or kidnapping;
+> (3) After rendering that other person unconscious; or
+> (4) After administering to that other person by force or threat of force, or without the knowledge or permission of that other person, a drug, intoxicant, or other similar substance that substantially impairs the ability of that other person to appraise or control his or her conduct.
+
+#### Key Differences
+
+**Explicit Mental State and Intoxication Defense.** The current sexual abuse statutes specify no culpable mental state: the question of what mental state is required has been left entirely to case law. Courts have classified first degree sexual abuse as a "general intent" crime, which under D.C. precedent means defendants cannot claim that voluntary intoxication prevented them from forming the required mental state. A defendant who was severely intoxicated cannot argue that their intoxication negates the mental element of the crime. The RCC changes this by explicitly requiring that the actor "knowingly" engage in the sexual act—a defined term meaning awareness to a practical certainty. Under the RCC's general provisions on intoxication (§ 22E-209), a defendant can now argue that voluntary intoxication prevented them from "knowingly" engaging in the conduct. This is a significant change that brings sexual assault in line with other serious offenses where intoxication can negate specific mental states.
+
+**Age Not Sole Basis for Incapacity.** Under current D.C. law interpreting the sexual abuse statutes, there is a conclusive presumption that any complainant under 16 is "incapable of appraising the nature of sexual conduct" when the defendant is at least four years older. This creates a logical problem: the statute appears designed to protect persons who cannot understand or consent to sexual activity due to mental incapacity, but the conclusive age presumption means it also categorically convicts defendants who are themselves under 16—defendants who, under the statute's own logic, may also be incapable of appraising the nature of sexual conduct. The RCC resolves this by requiring that incapacity be based on "an intellectual, developmental, or mental disability or mental illness"; age alone cannot establish incapacity under the sexual assault statute. Age-based offenses are handled separately under the "sexual abuse of a minor" statute (§ 22E-1302), which is specifically designed for situations where the defendant's greater age and maturity are the basis for liability.
+
+**Coercive Threats Distinguished from Force.** The RCC creates a meaningful distinction between first degree sexual assault (accomplished through actual force, threats of immediate bodily harm, or drug-induced incapacitation) and second degree sexual assault (accomplished through coercive threats or exploitation of existing incapacity). Current law also distinguishes threat types—first degree covers threats of death, bodily injury, or kidnapping, while second degree covers other threats—but the RCC's framework uses a clearer structure: first degree covers threats of immediate bodily harm, confinement, or death to the complainant or third parties, while second degree uses "coercive threat" as a defined term encompassing a broader range of coercive communications.
+
+**Unified Enhancement Structure.** Current law has a patchwork of separate enhancement statutes: one for crimes against minors (§ 22-3611), another for crimes against seniors (§ 22-3601), another for armed offenses (§ 22-4502), plus offense-specific aggravators. These can stack in unpredictable ways. The RCC consolidates all enhancements into offense-specific provisions capped at a one-class increase.
+
+**Consistent Terminology.** Current law defines "bodily injury" differently for sexual offenses than for other crimes—the sexual abuse definition includes "loss or impairment of the function of a bodily member, organ, or mental faculty, or physical disfigurement, disease, sickness, or injury involving significant pain." The RCC uses a single definition of "bodily injury" throughout the code.
+
+{{< pagebreak >}}
+
+## Property Crimes {#sec-code-comparison-property}
+
+This section compares traditional and modern approaches to theft, burglary, receiving stolen property, shoplifting, and unauthorized use of property.
+
+---
+
+### Theft
+
+#### Proposed Modern Code: RCC § 22E-2101 (Theft)
+
+(a) *First degree.* An actor commits first degree theft when the actor:
+
+> (1) Knowingly takes, obtains, transfers, or exercises control over the property of another;
+>
+> (2) Without the consent of an owner;
+>
+> (3) With intent to deprive an owner of the property; and
+>
+> (4) In fact, the property has a value of $500,000 or more.
+
+(b) *Second degree.* Same elements as paragraph (a), but property value of $50,000 or more.
+
+(c) *Third degree.* Same elements as paragraph (a), but property value of $5,000 or more, or the property is a motor vehicle.
+
+(d) *Fourth degree.* Same elements as paragraph (a), but property value of $500 or more, or taken from a complainant who possesses the property within the complainant's immediate physical control.
+
+(e) *Fifth degree.* Same elements as paragraph (a), but property of any value.
+
+#### Traditional Code It Would Replace: D.C. Code § 22-3211
+
+> A person commits the offense of theft if that person wrongfully obtains or uses the property of another with intent to: (1) Deprive the other of a right to the property or a benefit of the property; or (2) Appropriate the property to his or her own use or to the use of a third person.
+
+**"Wrongfully obtains or uses" defined as:**
+
+> (1) Taking or exercising control over property; (2) Making an unauthorized use, disposition, or transfer of an interest in or possession of property; or (3) Obtaining property by trick, false pretense, false token, tampering, or deception.
+
+#### Key Differences
+
+**Consolidated Theft Offense.** The RCC continues the modern approach—already partially adopted in D.C.—of consolidating the common law offenses of larceny, embezzlement, and false pretenses into a single theft statute. At common law, these were distinct crimes with technical distinctions that often frustrated prosecution: larceny required a "trespassory taking" of property from another's possession, embezzlement covered misappropriation by someone already in lawful possession, and false pretenses involved obtaining title through deception. A defendant could escape conviction if charged with the wrong offense—if the prosecutor charged larceny but the evidence showed the defendant had lawful possession before converting the property, the charge failed. The unified theft offense eliminates these technical distinctions by criminalizing any knowing acquisition of another's property without consent and with intent to deprive.
+
+**Value-Based Gradations.** Current D.C. law grades theft primarily by the value of property taken: first degree theft requires property worth $1,000 or more, while second degree covers property worth less than $1,000. The RCC creates five degrees with graduated thresholds ($500,000 / $50,000 / $5,000 / $500 / any value), providing finer calibration of punishment to the magnitude of the taking. This ensures that a person who steals $100,000 faces more serious charges than someone who steals $1,000, even though both currently constitute first degree theft.
+
+**"Theft from Person" Integrated.** The RCC elevates theft to fourth degree (rather than fifth) when property is taken "from a complainant who possesses the property within the complainant's immediate physical control." This addresses pickpocketing and similar conduct that the RCC removed from robbery—recognizing that theft from the person is more serious than other thefts of the same value, even when it doesn't involve the force or threats required for robbery.
+
+**Motor Vehicle Theft Integrated.** The RCC treats taking a motor vehicle with intent to permanently deprive the owner as automatically third degree theft regardless of value, recognizing the particular harm and inconvenience of vehicle theft. The separate "unauthorized use of a motor vehicle" offense (§ 22E-2103) remains for cases where the defendant lacks intent to permanently deprive—such as joyriding—but operates a vehicle without the owner's consent.
+
+**Defined Mental States.** The RCC requires the actor "knowingly" take property with "intent to deprive"—precisely defined terms. Current law uses "wrongfully obtains or uses" with "intent to deprive" or "appropriate," leaving courts to interpret these phrases through case law.
+
+---
+
+### Burglary
+
+#### Proposed Modern Code: RCC § 22E-2701 (Burglary)
+
+(a) *First degree.* An actor commits first degree burglary when the actor:
+
+> (1) With intent to commit inside one or more District offenses that is, in fact, an offense under Subtitle II of this title or a predicate property offense;
+>
+> (2) Knowingly and fully enters or surreptitiously remains in a dwelling, or part thereof;
+>
+> (3) Without a privilege or license to do so under civil law;
+>
+> (4) Reckless as to the fact that a person who is not a participant in the burglary either is entering with the actor or is already inside and, in fact, directly perceives the actor while inside.
+
+(b) *Second degree.* An actor commits second degree burglary when the actor commits the conduct in paragraphs (a)(1)–(3), and either:
+
+> (1) The location is a dwelling but without the confrontation element in paragraph (a)(4); or
+>
+> (2) The location is a non-dwelling building and the confrontation element in paragraph (a)(4) is present.
+
+(c) *Third degree.* An actor commits third degree burglary when the actor commits the conduct in paragraphs (a)(1)–(3), and the location is a building or business yard not open to the public.
+
+#### Traditional Code It Would Replace: D.C. Code § 22-801
+
+**First Degree Burglary:**
+
+> Whoever shall, either in the nighttime or in the daytime, break and enter, or enter without breaking, any dwelling, or room used as a sleeping apartment in any building, with intent to break and carry away any part thereof, or any fixture or other thing attached to or connected therewith or to commit any criminal offense, shall, if any person is in any part of such dwelling or sleeping apartment at the time of such breaking and entering, or entering without breaking, be guilty of burglary in the first degree.
+
+**Second Degree:** Breaking and entering "any bank, store, warehouse, shop, stable, or other building or any ship, steamer, steamboat, canal boat, vessel or other watercraft, or railroad car" with intent to commit any crime.
+
+#### Key Differences
+
+**Eliminated "Breaking" Requirement.** At common law, burglary required a "breaking"—some application of force to create or enlarge an opening. Walking through an open door was not burglary; pushing a door slightly ajar to walk through was. The RCC eliminates this requirement entirely, focusing instead on whether the actor had a "privilege or license" to enter under civil law. This reflects the modern understanding that the harm of burglary lies in the unauthorized intrusion with criminal intent, not in whether force was applied to a door or window.
+
+**Confrontation as Grading Factor.** The RCC grades burglary primarily by (1) whether the location is a dwelling and (2) whether the occupant perceives the intruder during the burglary. First degree requires entry into an occupied dwelling where the occupant "directly perceives the actor while inside"—the most terrifying scenario for a homeowner. Second degree covers dwelling entry without confrontation, or non-dwelling entry with confrontation. Third degree covers entry into buildings not open to the public. Current law's primary distinction—whether the dwelling was occupied at the time of entry—is refined to focus on actual confrontation.
+
+**Eliminated Nighttime Enhancement.** At common law, burglary could only be committed at night; daytime intrusions were merely trespasses. Though current D.C. law covers both, it references the distinction ("either in the nighttime or in the daytime"). The RCC eliminates this anachronistic reference, grading burglary by the factors that actually affect the crime's severity—dwelling vs. non-dwelling, confrontation vs. no confrontation.
+
+**Defined Predicate Offenses.** Current law requires intent to "commit any criminal offense" or "break and carry away any part thereof." The RCC requires intent to commit either a crime against persons (Subtitle II) or a "predicate property offense" specifically defined to include theft, unauthorized use, extortion, arson, reckless burning, and criminal damage to property. This clarifies which intended crimes support burglary liability.
+
+**Civil Law Privilege.** The RCC uses "without a privilege or license to do so under civil law" rather than common law concepts of "breaking" or "entering without authority." This ties the analysis to whether the defendant had any legitimate right to be present, drawing on established civil law principles of property rights and consent.
+
+---
+
+### Possession of Stolen Property
+
+#### Proposed Modern Code: RCC § 22E-2401 (Possession of Stolen Property)
+
+(a) *First degree.* An actor commits first degree possession of stolen property when the actor:
+
+> (1) Knowingly buys or possesses property;
+>
+> (2) Believing the property to be stolen;
+>
+> (3) With intent to deprive an owner of the property; and
+>
+> (4) In fact, the property has a value of $500,000 or more.
+
+(b) *Second degree.* Same elements as paragraph (a), but property value of $50,000 or more.
+
+(c) *Third degree.* Same elements as paragraph (a), but property value of $5,000 or more.
+
+(d) *Fourth degree.* Same elements as paragraph (a), but property value of $500 or more.
+
+(e) *Fifth degree.* Same elements as paragraph (a), but property of any value.
+
+#### Traditional Code It Would Replace: D.C. Code § 22-3232
+
+> A person commits the offense of receiving stolen property if that person buys, receives, possesses, or obtains control of stolen property, knowing or having reason to believe that the property was stolen.
+
+#### Key Differences
+
+**Dual Requirement.** The RCC requires both "believing the property to be stolen" and "intent to deprive an owner." The first element requires that the defendant buy or possess property believing it to be stolen; the second element requires intent to keep it from the rightful owner (not, for example, possess it to return to the owner). Current law requires only "knowing or having reason to believe" the property was stolen, which is a lower standard.
+
+**Eliminated "Reason to Believe" Standard.** Current law criminalizes possession when the defendant has "reason to believe" the property was stolen—an objective standard that can convict defendants who should have known but didn't actually know. The RCC requires actual knowledge ("knowingly"), improving the statute's clarity and ensuring that punishment tracks moral culpability.
+
+**Value-Based Gradations.** Like theft, the RCC creates five degrees based on property value, allowing proportionate punishment. Current law has only two degrees.
+
+---
+
+### Shoplifting
+
+#### Proposed Modern Code: RCC § 22E-2104 (Shoplifting)
+
+An actor commits shoplifting when the actor:
+
+> (1) Knowingly:
+>
+> > (A) Holds or carries on the actor's person, or conceals;
+> >
+> > (B) Removes, alters, or transfers the price tag, serial number, or other identification mark that is imprinted on or attached to; or
+> >
+> > (C) Transfers from one container or package to another container or package;
+>
+> (2) Personal property of another that is:
+>
+> > (A) Displayed or offered for sale; or
+> >
+> > (B) Held or stored on the premises in reasonably close proximity to the customer sales area, for future display or sale;
+>
+> (3) With intent to take or make use of the property without complete payment.
+
+#### Traditional Code It Would Replace: D.C. Code § 22-3213
+
+D.C. Code § 22-3213 criminalizes knowingly concealing or taking possession of property offered for sale with intent to take it without paying, as well as removing or altering price tags and transferring items between containers. The statute explicitly provides that "It is not an offense to attempt to commit the offense described in this section."
+
+#### Key Differences
+
+**Expanded Property Coverage.** The RCC expands the scope of shoplifting beyond property "displayed or offered for sale" to include property "held or stored on the premises in reasonably close proximity to the customer sales area, for future display or sale." This closes a potential gap where defendants might argue that taking items from a stockroom or back-of-store storage doesn't constitute shoplifting because the items weren't yet on display.
+
+**No Attempt Liability.** The RCC explicitly provides that the general attempt provision "does not apply to this section"—because shoplifting already criminalizes preparatory conduct, there is no need for a separate "attempted shoplifting" offense that would criminalize attempts to conceal merchandise.
+
+**Merchant Immunity.** The RCC codifies qualified immunity for merchants who detain suspected shoplifters, protecting them from civil liability for false imprisonment, false arrest, malicious prosecution, and defamation in any proceeding arising from the detention or arrest. The immunity applies if: (1) the merchant had probable cause to believe the person committed shoplifting, (2) the manner of detention was reasonable, (3) law enforcement was notified as soon as practicable, and (4) the detained person was released as soon as practicable or surrendered to law enforcement as soon as practicable.
+
+---
+
+### Unauthorized Use of Property / Motor Vehicle
+
+#### Proposed Modern Code: RCC § 22E-2102 & 2103
+
+**§ 22E-2102. Unauthorized Use of Property.** An actor commits unauthorized use of property when the actor:
+
+> (1) Knowingly takes, obtains, transfers, or exercises control over the property of another;
+>
+> (2) Without the effective consent of an owner.
+
+**§ 22E-2103. Unauthorized Use of Motor Vehicle.** An actor commits unauthorized use of a motor vehicle when the actor:
+
+> (1) Knowingly operates a motor vehicle;
+>
+> (2) Without the effective consent of an owner.
+
+#### Traditional Code It Would Replace: D.C. Code § 22-3215
+
+> A person commits the offense of unauthorized use of a vehicle if, without the consent of the owner, that person takes, uses, operates, or removes, or causes to be taken, used, operated, or removed, a motor vehicle... for his or her own profit, use, or purpose.
+
+#### Key Differences
+
+**Distinct from Theft.** The RCC maintains a clear distinction between theft (taking with intent to permanently deprive) and unauthorized use (taking without consent but without necessarily intending permanent deprivation). The unauthorized use offense fills the gap for joyriding and similar conduct where proving intent to permanently deprive would be difficult.
+
+**Good Samaritan Defense.** The RCC provides an explicit defense for someone who takes property believing it to be lost or stolen by a third party and intends to return it to the lawful owner—codifying a defense that would otherwise depend on case law interpretation.
+
+{{< pagebreak >}}
+
+## Crimes of Deception {#sec-code-comparison-deception}
+
+This section compares traditional and modern approaches to fraud, forgery, identity theft, extortion, payment card fraud, and check fraud.
+
+---
+
+### Fraud
+
+#### Proposed Modern Code: RCC § 22E-2201 (Fraud)
+
+(a) *First degree.* An actor commits first degree fraud when the actor:
+
+> (1) Knowingly takes, obtains, transfers, or exercises control over the property of another;
+>
+> (2) With the consent of an owner obtained by deception;
+>
+> (3) With intent to deprive an owner of the property; and
+>
+> (4) In fact:
+>
+> > (A) The property, other than labor or services, has a value of $500,000 or more; or
+> >
+> > (B) The property is 2080 hours or more of labor or services.
+
+(b) *Second degree.* Same elements, but property value of $50,000+ or 520+ hours of labor.
+
+(c) *Third degree.* Same elements, but property value of $5,000+ or 80+ hours of labor.
+
+(d) *Fourth degree.* Same elements, but property value of $500+ or 40+ hours of labor.
+
+(e) *Fifth degree.* Same elements, but property of any value.
+
+#### Traditional Code It Would Replace: D.C. Code § 22-3221
+
+**First Degree Fraud:**
+
+> A person commits the offense of fraud in the first degree if that person engages in a scheme or systematic course of conduct with intent to defraud or to obtain property of another by means of a false or fraudulent pretense, representation, or promise and thereby obtains property of another or causes another to lose property.
+
+**Second Degree Fraud:**
+
+> A person commits the offense of fraud in the second degree if that person engages in a scheme or systematic course of conduct with intent to defraud or to obtain property of another by means of a false or fraudulent pretense, representation, or promise.
+
+#### Key Differences
+
+**Consent Obtained by Deception.** The RCC clearly articulates the distinction between theft (taking without consent) and fraud (taking with consent, but consent obtained through deception). Where theft involves overcoming the owner's will—taking property against their wishes—fraud involves corrupting the owner's will through false representations. The victim hands over property willingly, but that willingness is the product of lies. The RCC's structure makes this conceptual distinction explicit: theft requires taking "without the consent of an owner," while fraud requires taking "with the consent of an owner obtained by deception."
+
+**Eliminated "Scheme" Requirement.** Current law requires a "scheme or systematic course of conduct"—language that suggests ongoing or complex fraudulent activity. The RCC has no such requirement; a single act of deception that obtains property suffices. This ensures that one-time frauds are punishable at the same level as elaborate schemes, when the amount obtained is equivalent.
+
+**Defined "Deception."** The RCC defines "deception" in its definitions section (§ 22E-701), providing clarity about what false statements or omissions qualify. Current law uses "false or fraudulent pretense, representation, or promise" without statutory definition, leaving courts to develop the meaning through case law.
+
+**Labor and Services Included.** The RCC explicitly includes labor and services in its valuation for gradation purposes, with specific hour thresholds (2080 hours for first degree—equivalent to one year of full-time work). Current law's "property" could be interpreted to include services, but the RCC makes this explicit.
+
+**Value-Based Gradations.** Like theft, the RCC creates five degrees based on the value of property obtained, providing proportionate punishment whether the fraud involves $100 or $1 million.
+
+---
+
+### Forgery
+
+#### Proposed Modern Code: RCC § 22E-2204 (Forgery)
+
+(a) *First degree.* An actor commits first degree forgery when the actor commits the conduct in paragraph (c), and the written instrument is a security, public record, deed, will, contract, or has a value of $50,000 or more.
+
+(b) *Second degree.* An actor commits second degree forgery when the actor commits the conduct in paragraph (c), and the written instrument is a transit token, prescription, or has a value of $5,000 or more.
+
+(c) *Third degree.* An actor commits third degree forgery when the actor:
+
+> (1) Knowingly does any of the following:
+>
+> > (A) Alters a written instrument without authorization, and the written instrument is reasonably adapted to deceive a person into believing it is genuine;
+> >
+> > (B) Makes or completes a written instrument:
+> >
+> > > (i) That appears: (I) To be the act of another who did not authorize that act; (II) To have been made or completed at a time or place or in a numbered sequence other than was in fact the case; or (III) To be a copy of an original when no such original existed; and
+> > >
+> > > (ii) The written instrument is reasonably adapted to deceive a person into believing the written instrument is genuine; or
+> >
+> > (C) Transmits or otherwise uses a written instrument that was made, signed, or altered in a manner specified in subparagraphs (c)(1)(A) or (c)(1)(B);
+>
+> (2) With intent to:
+>
+> > (A) Obtain the property of another by deception; or
+> >
+> > (B) Harm another person.
+
+#### Traditional Code It Would Replace: D.C. Code § 22-3241
+
+> A person commits forgery if that person makes, draws, or utters a forged written instrument with intent to defraud or injure another.
+
+**"Forged written instrument"** defined as any written instrument that "has been falsely made, altered, signed, or endorsed" or "contains a false addition or insertion" or "is a combination of parts of 2 or more genuine written instruments."
+
+#### Key Differences
+
+**Gradation by Document Type and Value.** Current law treats all forgeries the same regardless of what document is forged. The RCC recognizes that forging a stock certificate, deed, or public record is more serious than forging a personal check—and grades accordingly. First degree covers securities, public records, deeds, wills, and contracts, as well as any instrument worth $50,000 or more. Second degree covers prescriptions for controlled substances and transit tokens (common forgery targets) plus instruments worth $5,000 or more. This ensures that someone who forges a deed to steal a house faces more serious charges than someone who forges a $50 check.
+
+**"Reasonably Adapted to Deceive."** The RCC requires that the forged instrument be "reasonably adapted to deceive a person into believing it is genuine." A crude forgery that would fool no one doesn't qualify. Current law has no such requirement—any falsely made instrument satisfies the statute regardless of how obvious the forgery might be. The RCC approach focuses liability on forgeries that actually pose a risk of harm.
+
+**Expanded Conduct Coverage.** The RCC separately addresses altering existing documents, creating false documents, and using/transmitting forged documents. Current law's "makes, draws, or utters" language covers similar ground but less precisely. The RCC also explicitly covers documents that appear to be copies of originals that never existed—a modern concern given the ease of creating digital documents.
+
+**Dual Intent Options.** The RCC allows conviction when the defendant acted with intent to either "obtain property by deception" or "harm another person." Current law requires intent to "defraud or injure"—similar but less precisely defined.
+
+---
+
+### Identity Theft
+
+#### Proposed Modern Code: RCC § 22E-2205 (Identity Theft)
+
+(a) *First degree.* Same elements as paragraph (e), but financial injury of $500,000 or more.
+
+(b) *Second degree.* Same elements as paragraph (e), but financial injury of $50,000 or more.
+
+(c) *Third degree.* Same elements as paragraph (e), but financial injury of $5,000 or more.
+
+(d) *Fourth degree.* Same elements as paragraph (e), but financial injury of $500 or more.
+
+(e) *Fifth degree.* An actor commits fifth degree identity theft when the actor:
+
+> (1) Knowingly creates, possesses, or uses personal identifying information belonging to or pertaining to another person;
+>
+> (2) Without that other person's effective consent; and
+>
+> (3) With intent to use the personal identifying information to:
+>
+> > (A) Obtain the property of another by deception;
+> >
+> > (B) Avoid payment due for any property, fines, or fees by deception; or
+> >
+> > (C) Give, sell, transmit, or transfer the information to a third person to facilitate the use of the identifying information by that third person to obtain property by deception.
+
+#### Traditional Code It Would Replace: D.C. Code § 22-3227.02
+
+> A person commits the offense of identity theft if that person knowingly:
+> (1) Uses personal identifying information belonging to or pertaining to another person to obtain, or attempt to obtain, property fraudulently and without that person's consent;
+> (2) Obtains, creates, or possesses personal identifying information belonging to or pertaining to another person with the intent to: (A) Use the information to obtain, or attempt to obtain, property fraudulently and without that person's consent; or (B) Give, sell, transmit, or transfer the information to a third person to facilitate the use of the information by that third person to obtain, or attempt to obtain, property fraudulently and without that person's consent;
+> (3) Uses personal identifying information belonging to or pertaining to another person, without that person's consent, to: (A) Identify himself or herself at the time of his or her arrest; (B) Facilitate or conceal his or her commission of a crime; or (C) Avoid detection, apprehension, or prosecution for a crime.
+
+#### Key Differences
+
+**Value-Based Gradations.** Current D.C. law grades identity theft primarily by whether the defendant used information for financial fraud versus other purposes (like evading arrest). The RCC grades by the financial injury caused, creating five degrees from any value to $500,000+. This ensures that a large-scale identity theft ring causing millions in losses faces significantly more serious charges than an individual who uses stolen credit card information for a small purchase.
+
+**Unified "Financial Injury" Measure.** The RCC uses the greater of "the value of the property intended to be obtained," "the amount of the payment intended to be avoided," or "the financial injury" as the measure for gradation. This captures all the ways identity theft can cause economic harm—direct theft, bill avoidance, and consequential damages to the victim.
+
+**"Effective Consent" Standard.** The RCC uses "effective consent" rather than simply "consent"—a defined term that excludes consent obtained through deception, coercion, or from someone incapable of consenting. This closes potential loopholes where a defendant might claim the victim "consented" to sharing information without understanding how it would be used.
+
+**Extended Statute of Limitations.** The RCC explicitly provides that the statute of limitations does not begin to run until after the course of conduct is completed or the victim knows or should have known of the identity theft—whichever is earlier. Identity theft is often not discovered until long after the initial taking of information, and this provision prevents defendants from escaping prosecution simply because the victim did not check their credit report.
+
+---
+
+### Extortion
+
+#### Proposed Modern Code: RCC § 22E-2301 (Extortion)
+
+(a) *First degree.* An actor commits first degree extortion when the actor:
+
+> (1) Knowingly takes, obtains, transfers, or exercises control over the property of another;
+>
+> (2) With the consent of an owner obtained by an explicit or implicit coercive threat;
+>
+> (3) With intent to deprive an owner of the property; and
+>
+> (4) In fact, the property has a value of $500,000 or more.
+
+(b) *Second degree.* Same elements as paragraph (a), but property value of $50,000 or more.
+
+(c) *Third degree.* Same elements as paragraph (a), but property value of $5,000 or more.
+
+(d) *Fourth degree.* Same elements as paragraph (a), but property value of $500 or more.
+
+(e) *Fifth degree.* Same elements as paragraph (a), but property of any value.
+
+#### Traditional Code It Would Replace: D.C. Code § 22-3251
+
+> Whoever, by threat or force, obtains or attempts to obtain the property of another with his consent, induced by wrongful use of actual or threatened force or violence or by wrongful threat of economic injury, or obtains the property of another under color or pretense of official right, shall be guilty of extortion.
+
+#### Key Differences
+
+**"Coercive Threat" Defined.** The RCC relies on a defined term—"coercive threat"—specified elsewhere in the code (§ 22E-701). This covers threats to commit crimes against persons or property, take or withhold official action, accuse someone of a crime, expose secrets or distribute damaging material, publicize immigration status, restrict access to medication, or cause any sufficiently serious harm to compel compliance. Current law uses "wrongful use of actual or threatened force or violence or by wrongful threat of economic injury"—language that courts have had to interpret through case law. By defining "coercive threat" precisely, the RCC eliminates uncertainty about which threats qualify.
+
+**Relationship to Robbery.** The RCC clearly distinguishes extortion from robbery. Robbery involves threats of *immediate* harm to obtain property. Extortion involves threats of *future* harm—pay me or I'll release these photos next week, give me money or I'll have you fired. The victim has time to seek help, report to police, or refuse. This distinction affects grading: robbery (immediate violence) is punished more severely than extortion (threats of future harm), even when the same amount is taken.
+
+**Eliminated "Color of Official Right."** Current law separately criminalizes obtaining property "under color or pretense of official right"—essentially, a public official demanding payment in exchange for official action or inaction. The RCC handles this through the general extortion framework (a threat to exercise official power adversely is a coercive threat) plus specific public corruption offenses elsewhere in the code.
+
+**Value-Based Gradations.** Like other property offenses, the RCC creates five degrees based on value. Notably, extortion's base penalty (Class B for fifth degree) is higher than theft's or fraud's base penalty (Class C)—reflecting that obtaining property through threats is more culpable than simple taking or deception, even when no violence occurs.
+
+---
+
+### Payment Card Fraud
+
+#### Proposed Modern Code: RCC § 22E-2202 (Payment Card Fraud)
+
+(a) *First degree.* Same elements as paragraph (e), but property value of $500,000 or more.
+
+(b) *Second degree.* Same elements as paragraph (e), but property value of $50,000 or more.
+
+(c) *Third degree.* Same elements as paragraph (e), but property value of $5,000 or more.
+
+(d) *Fourth degree.* Same elements as paragraph (e), but property value of $500 or more.
+
+(e) *Fifth degree.* An actor commits fifth degree payment card fraud when the actor:
+
+> (1) Knowingly obtains or pays for property by using a payment card:
+>
+> > (A) Without the effective consent of the person to whom the payment card was issued;
+> >
+> > (B) After the payment card was revoked or canceled;
+> >
+> > (C) When the payment card was never issued; or
+> >
+> > (D) For the actor's own purposes, when the actor is an employee or contractor and the payment card was issued to the actor for the employer's purposes; and
+>
+> (2) In fact, the property has any value.
+
+#### Traditional Code It Would Replace: D.C. Code § 22-3223
+
+> A person commits the offense of fraud if that person uses a credit card, debit card, or other access device to obtain or pay for property knowing that: (1) the card was not issued to that person; (2) the card was canceled, revoked, or expired; (3) the card was falsified, mutilated, or altered; or (4) that person was not authorized to use the card. A person also commits fraud if that person, being an employee or contractor, uses an employer-issued card for the employee's or contractor's own purposes.
+
+#### Key Differences
+
+**Defined Terminology.** The RCC uses "effective consent" rather than the current law's simpler "authorized" standard—excluding consent obtained through physical force, coercive threat, or deception.
+
+**Streamlined Structure.** Both statutes cover similar ground—unauthorized card use, revoked/canceled cards, counterfeit cards, and employee misuse—but the RCC consolidates these into a cleaner four-element structure with explicit value-based gradations.
+
+---
+
+### Check Fraud
+
+#### Proposed Modern Code: RCC § 22E-2203 (Check Fraud)
+
+(a) *First degree.* An actor commits first degree check fraud when the actor:
+
+> (1) Knowingly obtains or pays for property by using a check;
+>
+> (2) With intent that the check not be honored in full upon presentation to the bank or depository institution drawn upon; and
+>
+> (3) The amount of loss to the check holder is, in fact, $5,000 or more.
+
+(b) *Second degree.* Same elements as paragraph (a), but loss of $500 or more.
+
+(c) *Third degree.* Same elements as paragraph (a), but loss of any amount.
+
+#### Traditional Code It Would Replace: D.C. Code § 22-1510
+
+> Any person who, with intent to defraud, makes, draws, utters, or delivers a check, draft, or order for the payment of money upon any bank knowing at the time of such making, drawing, uttering, or delivering that the maker or drawer has not sufficient funds in or credit with such bank for the payment of such check, draft, or order in full upon its presentation, shall be guilty of the offense of fraud.
+
+The statute grades by amount: $1,000 or more is first degree (up to 3 years); less than $1,000 is second degree (up to 180 days).
+
+#### Key Differences
+
+**Forward-Looking Intent Standard.** Current law requires proof that the defendant knew funds were insufficient at the time of writing. The RCC's "intent that the check not be honored" captures a broader range of culpable mental states—a defendant who expects to move funds before the check clears, but intends not to honor the check if those plans fall through, could be liable under the RCC but might escape under current law.
+
+**Loss-Based Gradations.** Current law grades by the face amount of the check ($1,000 threshold). The RCC instead grades by the "amount of loss to the check holder," focusing on actual harm rather than nominal value. This accounts for situations where partial payment was made or the check holder recovered some funds.
+
+{{< pagebreak >}}
+
+## Additional Resources {#sec-code-reform-resources}
+
+### Primary Sources
+
+- [CCRC Documents](https://ccrc.dc.gov/page/ccrc-documents) — Full reports with detailed commentary
+- [Current D.C. Code Title 22](https://code.dccouncil.gov/us/dc/council/code/titles/22)
+- [Model Penal Code](https://www.ali.org/publications/show/model-penal-code/) (American Law Institute)
+
+### CCRC Reports by Offense Category
+
+**Crimes Against Persons:**
+
+- [Report #19: Homicide Offenses](https://ccrc.dc.gov/sites/default/files/dc/sites/ccrc/publication/attachments/Second%20Draft%20of%20Report%2019%20-%20Homicide%20Offenses%20.pdf)
+- [Report #15: Assault and Offensive Physical Contact](https://ccrc.dc.gov/node/1299066)
+- [Report #16: Robbery](https://ccrc.dc.gov/node/1299071)
+- [Report #26: Sexual Assault and Related Provisions](https://ccrc.dc.gov/node/1358916)
+- [Commentary on Subtitle II: Offenses Against Persons](https://ccrc.dc.gov/sites/default/files/dc/sites/ccrc/publication/attachments/Commentary-on-Subtitle%20II.pdf) (comprehensive)
+
+**Property Crimes:**
+
+- [Report #9: Theft and Damage to Property Offenses](https://ccrc.dc.gov/sites/default/files/dc/sites/ccrc/publication/attachments/Second-Draft-of-Report-9.pdf)
+- [Report #11: Extortion, Trespass, and Burglary Offenses](https://ccrc.dc.gov/sites/default/files/dc/sites/ccrc/publication/attachments/First-Draft-of-Report-11-Recommendations-for-Extortion-Trespass-and-Burglary-Offenses-8-11-17.pdf)
+- [Commentary on Subtitle III: Property Offenses](https://ccrc.dc.gov/sites/default/files/dc/sites/ccrc/publication/attachments/RCC-Commentary-Subtitles-III-V-Outside%2022E-and-Repealed-Statutes-12-24-20.pdf) (comprehensive)
+
+**Crimes of Deception:**
+
+- [Report #10: Fraud and Stolen Property Offenses](https://ccrc.dc.gov/sites/default/files/dc/sites/ccrc/publication/attachments/First-Draft-of-Report-10-Recommendations-for-Fraud-and-Stolen-Property-Offenses-8-11-17.pdf)
+- [Commentary on Subtitles III-V](https://ccrc.dc.gov/sites/default/files/dc/sites/ccrc/publication/attachments/RCC-Commentary-Subtitles-III-V-Outside%2022E-and-Repealed-Statutes-12-24-20.pdf) (comprehensive; covers fraud and deception offenses)
+
+---
+
+*Compiled from D.C. Criminal Code Reform Commission materials. The CCRC commentary provides extensive analysis of each proposed change and its policy rationale.*

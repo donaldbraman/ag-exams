@@ -1,0 +1,417 @@
+# What We Punish
+
+## Introduction
+
+The previous chapters asked why and how we punish. This chapter turns to a more basic question: *what* should we punish?
+
+Not everything harmful is criminal. Not everything criminal is harmful. The boundaries of criminal law reflect choices—about which conduct threatens the social order, whose interests deserve protection, and how we balance liberty against security. These choices have never been neutral.
+
+This chapter proceeds in three parts.
+
+**Part I** examines what most lay people and experts consider the core of criminal law: offenses involving physical aggression, takings without consent, and deception in exchanges. There is broad agreement that unjustified killings and assaults, robbery and theft, and fraud belong at the heart of the criminal code. But even here, hard cases abound. The boundary between justified and unjustified force, the line between sharp dealing and criminal fraud, and the distinction between recklessness and accident generate the fact patterns that occupy much of traditional casebooks, and we will spend time looking at many statutes and doctrines in depth.
+
+But if these offenses—particularly minor assault and minor theft offenses—are plentiful in court dockets, do not think that because these offenses represent what most people agree should be criminal that they also furnish the predicates for most arrests. Instead, most arrests are related to offenses outside the core of criminal conduct. To see what occupies the vast majority of the criminal legal system's activity and, arguably, its harms, we have to look to crimes over which there is very serious disagreement. This disagreement is sometimes among and sometimes between experts and policy advocates. We'll take a look at how and why offenses outside the core of criminal wrongdoing occupy so many resources and do so in ways that are quite often contrary to best evidence and best practices.
+
+**Part II** turns to a category of offenses that dominates enforcement in practice but receives far less attention in theory: system-involvement crimes and so-called crimes of poverty. These include failure to appear, driving on a suspended license, technical violations of probation, and the criminalization of homelessness. The data are striking: violent and property offenses together account for less than 18% of all arrests. The remainder—the bulk of what the criminal system actually does—involves offenses that often stem from inability to pay fines, navigate bureaucracies, or maintain stable housing. Ferguson, Missouri provides the central case study.
+
+**Part III** considers offenses that divide American society along lines of region, culture, and ideology: abortion, firearms, gambling, and drugs. These are areas where criminal law does not reflect consensus but rather entrenches one side of a contested moral or political debate. The result is a patchwork of state laws that undermine shared policy goals and generate profound inequality in enforcement.
+
+Throughout, we return to a persistent asymmetry: aggressive enforcement of minor offenses against the marginalized alongside systematic under-enforcement against the powerful. Keilee Fant spent fifty days in jail for unpaid parking tickets. Purdue Pharma executives received probation for conduct linked to hundreds of thousands of deaths. The architecture of what we punish reveals as much about our society as any doctrine we use to punish it.
+
+---
+
+## Part I: The Core of Criminal Law
+
+Most criminal law casebooks begin with homicide, assault, theft, robbery, and fraud. These offenses occupy traditional doctrine courses and generate the fact patterns law students analyze for the semester. We will return to them in detail later. For now, a brief orientation.
+
+Criminal codes typically organize offenses into three families. **Crimes against persons**—homicide, assault, sexual offenses, kidnapping—involve injury or threatened injury to bodily integrity. **Crimes against property**—theft, robbery, burglary, arson—involve interference with ownership or possession. **Fraud and deception**—wire fraud, identity theft, forgery, and securities violations—involve inducing transactions through misrepresentation.
+
+At a high level of abstraction, there is broad agreement that these offenses belong in the criminal code. Cross-cultural studies find that people in diverse societies rank them similarly in seriousness.[^newman] Some scholars like Paul Robinson posit a "core" of criminal wrongdoing reflecting universal intuitions.[^robinson-naturalism]
+
+[^newman]: Graeme Newman, *Comparative Deviance: Perception and Law in Six Cultures* (1976).
+[^robinson-naturalism]: Paul H. Robinson, Robert Kurzban & Owen D. Jones, [*The Origins of Shared Intuitions of Justice*](https://scholarship.law.upenn.edu/faculty_scholarship/144/){.cite}, 60 Vand. L. Rev. 1633 (2007).
+
+But the consensus may be shallower than it appears. Everyone agrees that "murder" is wrong—but what *counts* as murder?[^braman-critique] Jurisdictions differ on killing in defense of property. Courts divide on whether a battered spouse who kills a sleeping abuser acts in self-defense. Felony murder rules vary dramatically. And corporations that negligently, recklessly, or knowingly market deadly products are almost never prosecuted for homicide. Similarly, everyone agrees theft is wrong—but wage theft is rarely prosecuted despite causing more economic harm than all other property crimes combined.
+
+[^braman-critique]: Donald Braman, Dan M. Kahan & David A. Hoffman, [*Some Realism About Punishment Naturalism*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1443552){.cite}, 77 U. Chi. L. Rev. 1531 (2010).
+
+Still, a core exists. Consider the Markel case from Chapter 1: Dan Markel was shot in his garage by Sigfredo Garcia, a hired killer. Whatever debates exist about criminal law's boundaries, no one thinks Garcia's conduct should be legal. The same is true for the vast majority of violent crimes, property crimes, and frauds. We will explore the doctrinal disputes throughout the semester, but they are disputes *within* a framework everyone accepts.
+
+The harder questions arise when we move beyond this core—to offenses where consensus breaks down and where evidence suggests we may be doing more harm than good. That is the subject of the remainder of this the chapter.
+
+---
+
+## Part II: System-Involvement Offenses and Crimes of Poverty
+
+### A. The Scale of the Problem
+
+Most criminal law casebooks focus on homicide, rape, robbery, and other serious offenses. Most criminal *practice* involves something else entirely.
+
+::: {.callout-note}
+### By the Numbers: What We Actually Enforce
+
+| Category | Share of Arrests (2024) |
+|----------|------------------------|
+| Violent crimes | 5.6% |
+| Property crimes | 12.1% |
+| Fraud | 2.1% |
+| Drug offenses | 10.4% |
+| "Other offenses" (FTA, warrants, public order, etc.) | ~60% |
+
+*Source: FBI Uniform Crime Reporting Program, 2024*
+:::
+
+The "other offenses" category—failure to appear, bench warrant arrests, driving on suspended license, probation violations, disorderly conduct, and the like—represents the bulk of what the criminal system does. These are not offenses against persons or property. They are offenses against the system itself, or against public order as defined by those with power to define it.
+
+### B. What Does the Evidence Say Works?
+
+Before examining what jurisdictions actually do, we should ask: what does the empirical research say *works*? If the goal is protecting the public (reducing crime, ensuring court appearance, promoting trust and cooperation), what policies does the evidence favor?
+
+Policy decisions rarely have the luxury of certainty; the standard should be Bayesian: given the available evidence, which approach do the odds favor? If the research suggests that intervention A outperforms intervention B—even at 55/45 rather than 95/5—a rational policymaker should choose A. Waiting for certainty means accepting worse outcomes on average in the meantime.
+
+For each category of system-involvement offense, the following sections summarize what the research shows, assess evidence quality using well-established objective standards, and offer a bottom-line judgment about what the odds favor.[^evidence-methodology]
+
+[^evidence-methodology]: The methodology follows the [GRADE Handbook](https://gradepro.org/handbook/) for certainty assessments and standard risk-of-bias tools for individual studies. Detailed evidence reviews for each topic are available in @sec-appendix-evidence.
+
+#### Failure to Appear
+
+How do we get people to show up for court? The evidence strongly supports reminders.
+
+A 2023 meta-analysis found that court date reminders (text, phone, or postcard) significantly reduce FTA rates.[^zottola] The landmark study, published in *Science*, found that text reminders reduced FTA by 36% in New York City, preventing 30,000 arrest warrants over three years at less than one dollar per person.[^fishbane] Effect sizes range from 20-39% across studies.
+
+[^zottola]: Zottola et al., [*Court Date Reminders Reduce Court Nonappearance*](https://onlinelibrary.wiley.com/doi/10.1111/1745-9133.12610){.cite}, 22 Criminology & Pub. Pol'y 97 (2023).
+[^fishbane]: Fishbane, Ouss & Shah, [*Behavioral Nudges Reduce Failure to Appear for Court*](https://www.science.org/doi/10.1126/science.abb6591){.cite}, 370 Science 630 (2020).
+
+What does *not* work? Cash bail does not reduce FTA compared to non-monetary release.[^bail-evidence] And criminalizing FTA (issuing warrants, adding charges, threatening jail) has no experimental evidence supporting its deterrent effect.[^nij-deterrence] Most people who miss court forgot, had work conflicts, lacked transportation, or never received notice. Threatening punishment for unintentional behavior does not prevent it.
+
+[^bail-evidence]: Ouss & Stevenson, [*Does Cash Bail Deter Misconduct?*](https://aouss.github.io/NCB.pdf){.cite}.
+[^nij-deterrence]: [NIJ, *Five Things About Deterrence*](https://nij.ojp.gov/topics/articles/five-things-about-deterrence){.cite}.
+
+**In practice:** Most jurisdictions still criminalize FTA rather than implementing reminders. In New Mexico, 61% of all warrants are for FTA. In Ferguson, the warrant machine described below depended on this offense. Some courts have adopted text reminders following the *Science* study, but implementation remains spotty.
+
+#### Driver's License Suspension
+
+Does suspending licenses for unpaid fines increase payment? The evidence says no, and suggests the practice causes substantial harm.
+
+Multiple quasi-experimental studies point in the same direction. Crozier and Garrett's analysis of 1.225 million active suspensions in North Carolina found no correlation between suspension and collection rates.[^driven-to-failure] California's collection rates actually *increased* by 8.9% after ending debt-based suspension.[^california-ab103] Meanwhile, the harms are substantial: a New Jersey study found significant job loss among people whose licenses were suspended.[^nj-study] Suspended drivers continue driving anyway, creating a new crime—driving while suspended—that deepens system involvement. In North Carolina, Black drivers account for 54% of driving-while-suspended charges despite being only 21% of the adult population.[^nc-disparities]
+
+[^driven-to-failure]: Crozier & Garrett, [*Driven to Failure*](https://dlj.law.duke.edu/article/driven-to-failure-crozier-vol69-iss7/){.cite}, 69 Duke L.J. 1585 (2020).
+[^california-ab103]: [Fines and Fees Justice Center, California AB 103](https://finesandfeesjusticecenter.org/articles/california-ab-103-public-safety-omnibus-budget-trailer-bill-ends-drivers-license-suspension-for-unpaid-fines-and-fees/){.cite}.
+[^nj-study]: Voorhees Transportation Center, Rutgers University, *Driver's License Suspensions, Impacts and Fairness Study* (2007).
+[^nc-disparities]: Crozier & Garrett, *supra*.
+
+**In practice:** An estimated 11 million Americans have suspended licenses due to unpaid fines.[^license-national] Since 2017, 25 states have reformed; California restored over 550,000 licenses, Virginia over 600,000. No reforming state has reversed course. But half of states still suspend for debt unrelated to driving.
+
+[^license-national]: [Fines and Fees Justice Center, *Driven by Dollars*](https://finesandfeesjusticecenter.org/articles/driven-by-dollars-a-state-by-state-analysis-of-drivers-license-suspension-laws-for-failure-to-pay-court-debt/){.cite}.
+
+#### Technical Violations
+
+Does incarcerating people for probation and parole violations (missed appointments, failed drug tests, curfew violations) reduce recidivism? The meta-analytic evidence says no.
+
+Petrich and colleagues (2021) synthesized 116 studies and found that custodial sanctions produce null effects or slight *increases* in reoffending compared to community-based alternatives.[^petrich] The HOPE program provides a cautionary tale: Hawaii's program showed remarkable initial results, and over 30 states adopted it. But when NIJ funded a rigorous four-site replication, the results failed to replicate—HOPE showed no effect on recidivism and actually had *more* probation violations than the control group.[^hope-dfe] CrimeSolutions now rates HOPE as having "No Effects."
+
+[^petrich]: Petrich et al., [*Custodial Sanctions and Reoffending: A Meta-Analytic Review*](https://www.journals.uchicago.edu/doi/10.1086/715100){.cite}, 50 Crime & Just. 353 (2021).
+[^hope-dfe]: Lattimore et al., [*Outcome Findings from the HOPE Demonstration Field Experiment*](https://nij.ojp.gov/library/publications/outcome-findings-hope-demonstration-field-experiment-swift-certain-and-fair){.cite}, NIJ (2016).
+
+**In practice:** Supervision violations account for nearly 40% of all state prison admissions—approximately 200,000 people annually, over half for technical violations alone.[^violation-admissions] States spend $10 billion annually with no demonstrated public safety return. Some states have reformed: Missouri reduced technical violation admissions by 45%, Oklahoma by 59%. But incarceration remains the default response in most jurisdictions.
+
+[^violation-admissions]: [CSG Justice Center, *Supervision Violations*](https://projects.csgjusticecenter.org/supervision-violations-impact-on-incarceration/){.cite}.
+
+#### Homelessness
+
+Does criminalizing homelessness (through camping bans, loitering ordinances, and encampment sweeps) reduce homelessness or improve public safety? The evidence says no on both counts.
+
+The only nationwide empirical study, by Lebovits and Sullivan (2025), found no statistically significant reduction in homelessness following passage of criminalization ordinances.[^lebovits] The deterrence logic (that people will choose not to be homeless to avoid citation) does not hold.
+
+[^lebovits]: Lebovits & Sullivan, [*Do Criminalization Policies Impact Local Homelessness?*](https://onlinelibrary.wiley.com/doi/10.1111/psj.70056){.cite}, Pol'y Stud. J. (2025).
+
+Housing First, which provides immediate access to permanent housing without preconditions, has the strongest evidence base. The Canadian At Home/Chez Soi trial found that Housing First participants with high support needs spent 85.5% of their time in stable housing versus 60.3% for treatment as usual at 6-year follow-up.[^chez-soi] A meta-analysis of 26 studies found Housing First decreased homelessness by 88%.[^community-guide] Important nuance: Housing First solves homelessness but does not improve psychiatric symptoms or reduce substance use—it's not a substitute for mental health treatment.
+
+[^chez-soi]: [At Home/Chez Soi 6-Year Follow-Up](https://pubmed.ncbi.nlm.nih.gov/31601530/){.cite}, 6 Lancet Psychiatry 903 (2019).
+[^community-guide]: [Community Guide: Permanent Supportive Housing](https://pmc.ncbi.nlm.nih.gov/articles/PMC8513528/){.cite} (2020).
+
+**In practice:** The Supreme Court's 2024 decision in *City of Grants Pass v. Johnson* held that cities can criminally punish homeless people for sleeping outdoors, even when no shelter is available.[^grants-pass] In the year following, enforcement surged: San Francisco increased citations 500%, Stockton over 1,400%. National homelessness rose 18% in 2024 to 770,000—the highest on record.
+
+[^grants-pass]: *City of Grants Pass v. Johnson*, 603 U.S. ___ (2024).
+
+---
+
+### C. Ferguson: A Case Study
+
+Ferguson, Missouri became a national focal point after the 2014 police shooting of Michael Brown. The subsequent DOJ investigation revealed something beyond that tragedy: a municipal court system transformed into a revenue-extraction machine.[^ferguson-doj]
+
+[^ferguson-doj]: U.S. Department of Justice, [*Investigation of the Ferguson Police Department*](https://www.justice.gov/sites/default/files/opa/press-releases/attachments/2015/03/04/ferguson_police_department_report.pdf){.cite} (Mar. 4, 2015).
+
+**Revenue over safety.** Internal communications revealed explicit pressure to generate revenue through enforcement. The Finance Director asked the Police Chief for a "10% increase" in court revenue. Between 2010 and 2014, Ferguson issued approximately 90,000 citations and summonses to a population of 21,000. In 2013, the municipal court issued 32,975 arrest warrants for nonviolent offenses—more than three per household.
+
+**The debt cascade.** Minor violations spiraled into insurmountable debt. Missing a court date added a $125 FTA charge. A warrant added fees. Jail time added more fees. Each new charge created new opportunities to fail.
+
+**Keilee Fant.** Lead plaintiff Keilee Fant, who worked as a certified nursing assistant, was jailed over a dozen times for unpaid traffic tickets.[^fant-story] In one instance, she was held for nearly 50 days without soap, shower, or change of clothes because she could not afford release. She died during the litigation.
+
+[^fant-story]: [LPE Project, *Keilee Fant v. City of Ferguson*](https://lpeproject.org/blog/criminal-justice-and-slow-violence-in-keilee-fant-v-city-of-ferguson-missouri/){.cite}.
+
+**Racial disparities.** Black residents comprised 67% of Ferguson's population but 85% of vehicle stops, 90% of citations, and 93% of arrests.[^ferguson-disparities] Of all arrest warrants in 2013, 92% were issued against African Americans.
+
+[^ferguson-disparities]: DOJ Ferguson Report at 4-5, 62-63.
+
+**Aftermath.** The class action settled in 2024 for $4.5 million.[^fant-settlement] Missouri capped municipal fine revenue, prohibited jailing for inability to pay, and by 2023, ticket issuance had fallen 91.8% compared to 2014. But Ferguson was not unique. The same dynamics operate in jurisdictions across the country.
+
+[^fant-settlement]: [Settlement Agreement, *Fant v. City of Ferguson*, No. 4:15-cv-00253-AGF (E.D. Mo. Feb. 27, 2024)](https://clearinghouse.net/case/14343/){.cite}.
+
+---
+
+### D. The Pattern
+
+Across all four categories of system-involvement offense, a pattern emerges:
+
+| Offense Type | Evidence Favors | In Practice | Gap | Trend |
+|-------------|-----------------|---------------|-----|-------|
+| Failure to Appear | Text reminders | Criminalization | Wide | Slowly improving |
+| License Suspension | Ending debt-based suspension | Half still suspend | Narrowing | Positive |
+| Technical Violations | Treatment/incentives | Incarceration | Large | Mixed |
+| Homelessness | Housing First | Criminalization | Wide | Widening |
+
+The evidence is not equally strong across categories. FTA reminders have multiple RCTs with large samples. Housing First has RCT support for housing outcomes but weaker evidence on health. License suspension evidence comes from natural experiments rather than randomized trials. But in every case, the available evidence points in one direction, and practice often goes the other way.
+
+Why? Revenue incentives (Ferguson). Political symbolism (homelessness enforcement as visible "action"). Institutional inertia (doing what we've always done). Asymmetric burdens of proof (demanding certainty to change, accepting no evidence to continue). And perhaps most fundamentally: the populations harmed by these practices have little political power to demand evidence-based alternatives.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. For each offense category, evidence suggests current practice doesn't achieve its stated goals. Why does policy diverge from evidence? Which explanations—revenue, politics, inertia, or lack of political power among affected populations—seem most important?
+
+2. Violent and property crimes account for less than 18% of arrests. What should we make of a criminal legal system that devotes most of its resources to something other than its stated core mission?
+:::
+
+---
+
+## Part III: Morals and Public Health
+
+### A. The Death of "Morals Crimes"
+
+Nobody talks about "morals crimes" anymore. The phrase sounds Victorian—prudish, unscientific, embarrassingly old-fashioned. Modern legislators don't say they want to criminalize conduct because it offends their moral sensibilities. They say they want to protect public health, reduce social costs, or prevent harm.
+
+This reframing feels like progress. Instead of imposing one group's values on another, we defer to experts. We look at the data. We make evidence-based policy.
+
+But something curious happens when you examine debates over abortion, firearms, gambling, and drugs. Both sides claim the science supports them. Both sides cite studies. Both sides accuse the other of ignoring the evidence. The debates *look* like scientific disputes. But they never resolve, even when rigorous evidence accumulates on one side. And when you look closely at the arguments, you start to notice something: beneath the public health rhetoric, the old morals arguments are still there. They're just wearing lab coats now.
+
+### B. Motivated Cognition: Why We Can't See Our Own Bias
+
+There is a name for what's happening: **motivated cognition**. Decades of research in psychology and behavioral economics have documented a consistent pattern: when people hold strong moral commitments, their factual beliefs fall into line.
+
+Here's how it works. If you believe something is morally wrong—deeply, viscerally wrong—you become less receptive to information suggesting it might not be harmful. You don't experience this as bias. You experience it as clear thinking. Studies that support your moral intuition seem rigorous and persuasive. Studies that challenge it seem flawed, biased, or funded by the wrong people. The process is automatic. It's effortless. You don't decide to reject inconvenient evidence; your brain simply doesn't register it as credible.
+
+The result: people on opposite sides of a moral question can look at the same body of evidence and reach opposite conclusions about what "the science" says. Each side is genuinely convinced the other is ignoring the data. Neither side recognizes that their own reading of the evidence has been shaped by prior moral commitments.
+
+This is not a character flaw. It's human nature. And it explains why debates over abortion, guns, gambling, and drugs feel so intractable. The participants think they're arguing about facts. They're not. They're arguing about values—but neither side wants to admit it, because "I just think it's wrong" doesn't sound as compelling as "the evidence clearly shows."
+
+::: {.callout-note}
+### The Research on Motivated Cognition
+
+Motivated cognition has been documented across domains:
+
+- **Political beliefs**: Partisans shown identical policy outcomes evaluate them as successes or failures depending on which party is credited.
+- **Scientific evidence**: People are far more critical of studies whose conclusions threaten their worldview than studies that confirm it.
+- **Risk perception**: Whether someone sees an activity as dangerous correlates with whether they find it morally objectionable—independent of actual risk data.
+
+The effect is not limited to one side of the political spectrum. Liberals and conservatives are equally susceptible; they just apply motivated reasoning to different topics.
+
+**The troubling finding about numeracy.** You might hope that smarter, more educated people would be less susceptible. The opposite is true. Kahan and colleagues found that people with higher *numeracy*—the ability to reason with numbers—show *greater* political polarization on contested scientific questions, not less.[^motivated-numeracy] More numerate partisans are better at selectively interpreting data to support their prior beliefs. They use their analytical skills as weapons for their side, not as tools for truth-seeking.
+
+**The hopeful finding about curiosity.** But one trait does reduce polarization: *science curiosity*—the intrinsic motivation to seek out and consume scientific information for the pleasure of learning something new.[^science-curiosity] Unlike numeracy, curiosity leads people to engage with evidence that challenges their beliefs. Science-curious partisans treat surprising findings as "bright shiny objects" worth exploring, even when those findings threaten their worldview. As curiosity increases, the polarizing effects of higher numeracy dissipate.
+
+The implication: we cannot educate our way out of motivated cognition by teaching people to reason better. But we might curiosity our way out—by cultivating the disposition to find surprise and challenge genuinely interesting.
+:::
+
+[^motivated-numeracy]: Kahan et al., [*Motivated Numeracy and Enlightened Self-Government*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2319992){.cite}, 1 Behav. Pub. Pol'y 54 (2017).
+[^science-curiosity]: Kahan et al., [*Science Curiosity and Political Information Processing*](https://onlinelibrary.wiley.com/doi/full/10.1111/pops.12396){.cite}, 38 Pol. Psychol. 179 (2017).
+
+### C. The Contested Domains
+
+With that frame in mind, consider four areas where criminal law divides American society:
+
+#### 1. Abortion
+
+*Dobbs v. Jackson Women's Health Organization* (2022) returned abortion regulation to the states. The resulting patchwork: some states criminalize abortion from conception; others protect it. The same conduct—driving someone to a clinic—is protected in California and a felony in Texas.
+
+**The evidence.** The Turnaway Study found that women denied abortions experienced more economic hardship, poorer health, and were more likely to stay with violent partners.[^turnaway] Cross-national comparisons show restrictive laws don't reduce abortion rates; they shift abortions to less safe settings.[^lancet-abortion] Opponents cite different evidence—psychological harm, fetal pain—but major professional organizations have concluded these claims are unsupported.[^apa-abortion] Opponents don't find these reviews credible. The factual dispute is real, but downstream of a moral dispute neither side acknowledges.
+
+[^turnaway]: Diana Greene Foster, *The Turnaway Study* (2020).
+[^lancet-abortion]: Bearak et al., [*Unintended Pregnancy and Abortion*](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30315-6/fulltext){.cite}, 8 Lancet Glob. Health e1152 (2020).
+[^apa-abortion]: APA Task Force on Mental Health and Abortion (2008); ACOG Practice Bulletin (2020).
+
+**Cultural cognition.** Attitudes toward abortion correlate with broader worldviews about gender roles and traditional authority.[^abortion-worldviews] People with hierarchical worldviews oppose abortion and interpret evidence accordingly; egalitarians do the opposite. "I believe this is murder" sounds religious; "the evidence shows" sounds scientific. Both sides prefer the latter framing.
+
+[^abortion-worldviews]: Kristin Luker, *Abortion and the Politics of Motherhood* (1984).
+
+**Hollowed-out common ground.** Large majorities support contraception access, paid family leave, and maternal healthcare.[^common-ground] These policies would reduce unintended pregnancies and support women who carry to term. Both sides should favor them. Yet they fail repeatedly—not because anyone opposes them on the merits, but because culture war framing prevents cross-cutting coalitions.
+
+[^common-ground]: Pew Research Center, [*Public Opinion on Abortion*](https://www.pewresearch.org/religion/fact-sheet/public-opinion-on-abortion/){.cite} (2024).
+
+#### 2. Firearms
+
+Gun regulation varies dramatically by state. Carrying a concealed handgun without a permit is lawful in 29 states; it remains a serious crime in others. The debates are conducted in the language of public safety and constitutional rights. But motivated cognition is nowhere more visible.
+
+**The evidence.** Surprisingly little with high confidence. The RAND Corporation's systematic review found that most gun policies have limited or inconclusive evidence.[^rand-guns] Child access prevention laws show supportive evidence of reducing youth gun deaths; waiting periods show moderate evidence of reducing suicides. Shall-issue concealed carry laws and stand-your-ground laws show supportive evidence of *increasing* homicides and violent crime. Gun control supporters claim "the research is clear"; gun rights supporters claim research shows armed citizens reduce crime. The RAND review suggests the evidence is more nuanced than either side acknowledges.
+
+[^rand-guns]: RAND Corporation, [*The Science of Gun Policy*](https://www.rand.org/research/gun-policy.html){.cite} (4th ed. 2024).
+
+**Cultural cognition.** Attitudes toward guns correlate with cultural worldviews more than with actual knowledge of gun risks.[^kahan-guns] People with hierarchical/individualist worldviews perceive guns as safe; egalitarians perceive them as dangerous. Greater *numeracy* made these differences *larger*—more numerate partisans were better at selectively interpreting data to support their priors.[^cultural-cognition-guns] The gun debate is about what guns *mean*—self-reliance and tradition, or violence and resistance to progress. Symbolic meanings shape factual beliefs, not the reverse.
+
+[^kahan-guns]: Braman & Kahan, [*Overcoming the Fear of Guns*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=289280){.cite}, 55 Emory L.J. 569 (2006).
+[^cultural-cognition-guns]: Kahan et al., [*Cultural Cognition of Scientific Consensus*](https://scholarship.law.upenn.edu/faculty_scholarship/411/){.cite}, 14 J. Risk Rsch. 147 (2011).
+
+**Hollowed-out common ground.** Approximately 80% of Americans support universal background checks.[^gun-polling] Large majorities support red flag laws and secure storage. Yet these measures fail repeatedly because gun policy has become a marker of cultural identity. Supporting any regulation risks betraying one's tribe—even regulations most gun owners support.
+
+[^gun-polling]: Pew Research Center, [*Amid a Series of Mass Shootings*](https://www.pewresearch.org/politics/2021/04/20/amid-a-series-of-mass-shootings-in-the-u-s-gun-policy-remains-deeply-divisive/){.cite} (2021) (finding 81% support for background checks on private sales).
+
+#### 3. Gambling
+
+State lotteries advertise aggressively to working-class neighborhoods. Private poker games can result in arrest. The incoherence—legal when the state profits, criminal when individuals profit—reveals "public health" is not the actual criterion. Gambling illustrates what happens when corporate interests capture a morals debate.
+
+**The evidence.** Approximately 1-3% of adults meet criteria for gambling disorder; problem gamblers account for approximately 60% of industry revenue.[^gambling-prevalence] Since *Murphy v. NCAA* (2018) struck down federal sports betting bans, 39 states have legalized sports betting.[^murphy] The industry recorded nearly $150 billion in wagers in 2024, with gambling apps saturating sports broadcasts. Internal documents reveal systematic targeting of problem gamblers through algorithmic analysis.[^gambling-targeting]
+
+[^gambling-prevalence]: National Council on Problem Gambling; Natasha Dow Schüll, *Addiction by Design* (2012).
+[^murphy]: *Murphy v. NCAA*, 584 U.S. 453 (2018).
+[^gambling-targeting]: *Wall Street Journal* investigation (2024); *The Atlantic* (Sept. 2024).
+
+**The political landscape.** Gambling doesn't map onto standard culture war divisions. Religious conservatives and progressive public health advocates both oppose it; libertarians and the gambling industry support it. The result is unusual coalitions—and unusual hypocrisy.
+
+**State complicity.** Governments run lotteries that extract revenue from low-income communities, license casinos, and collect sports betting taxes—then criminalize individuals organizing basement poker games.[^lottery-regressive] The justification cannot be public health (the state promotes gambling) or morality (the state is the largest promoter). Gambling law protects licensed operators from competition. It is regulatory capture, not moral regulation.
+
+[^lottery-regressive]: Cook & Clotfelter, *Selling Hope: State Lotteries in America* (1989).
+
+#### 4. Drugs
+
+American drug policy has always been entangled with race and morality. From the San Francisco Opium Den Ordinance of 1875 to the crack/powder cocaine disparity of the 1980s, drug laws have consistently associated specific substances with specific racial and ethnic groups, then deployed enforcement accordingly. Opium was criminalized when associated with Chinese immigrants. Marijuana prohibition emerged alongside anti-Mexican sentiment. Crack cocaine triggered penalties one hundred times more severe than powder cocaine—a disparity that tracked race more closely than pharmacology.
+
+Motivated cognition shapes drug debates as much as any other. Conservatives who emphasize personal responsibility when discussing drug addiction demand strict punishment and mandatory treatment. Progressives who emphasize social determinants of health when discussing other conditions sometimes treat addiction as a straightforward medical issue requiring only harm reduction. Both simplifications serve ideological priors more than evidence.
+
+But drug policy differs from the other contested domains in one important respect: the empirical evidence base is richer, and the gaps between evidence and policy are more clearly documented. Unlike abortion, where moral disagreement about the status of fetal life may be irreducible, and unlike firearms, where the RAND review finds most policies have inconclusive evidence, drug policy research offers relatively clear guidance on a range of questions: Does criminalization reduce drug use? Do harm reduction interventions save lives? What happens when jurisdictions decriminalize? The answers, we will see, often contradict current law.
+
+This makes drug policy the best test of our commitment to evidence-based thinking. It is relatively easy to claim you follow the evidence when the evidence is unclear or when it aligns with your prior beliefs. The harder case is when the evidence points somewhere you did not expect—or somewhere your political tribe does not want to go.
+
+Part IV examines drug policy in depth, not to advocate for a particular approach, but to model what it looks like to actually follow the evidence. We will assess study quality honestly, acknowledge limitations, and reach conclusions that may satisfy no one's priors. If motivated cognition affects everyone, the only remedy is methodological discipline: start with the best evidence and follow it wherever it leads.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. Think of an issue where you have strong views. Can you articulate the *best* argument for the other side—not a strawman, but the argument that someone thoughtful on that side would actually make?
+
+2. When you encounter a study that contradicts your beliefs, what is your first instinct? To scrutinize its methodology? Is that the same instinct you have when a study confirms your beliefs?
+:::
+
+---
+
+## Part IV: Drugs as a Public Health Challenge
+
+Part III showed how motivated cognition turns contested moral questions into intractable factual disputes. Each side cites studies; neither side changes its mind. The culture war grinds on.
+
+Drug policy follows this pattern. But it also offers something the other contested domains do not: a model for moving forward. Public health researchers have spent decades developing methods to design, test, and refine interventions—methods that sidestep cultural combat by focusing on outcomes everyone can measure. These approaches are not perfect. But they produce results more reliably than fighting over whose values should prevail.
+
+This Part examines drug policy through that lens. We begin by acknowledging the genuine harms that make drugs a legitimate policy concern. We then review what the evidence says works—and doesn't work—to reduce those harms. We examine the persistent gap between evidence and practice. And we conclude with emerging approaches that apply Human-Centered Design principles to substance use: consulting affected communities, testing interventions rigorously, and iterating based on results.
+
+### A. The Genuine Harms
+
+Drugs cause real harm. This is not a concession to moral panic; it is an acknowledgment of public health reality.
+
+In 2023, approximately 105,000 Americans died from drug overdoses—more than car accidents and gun deaths combined.[^overdose-deaths] The opioid crisis alone has killed more than 800,000 people since 1999. Overdose is now the leading cause of death for Americans under 50.
+
+[^overdose-deaths]: CDC, [*Drug Overdose Deaths*](https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm){.cite} (2024).
+
+Beyond mortality, substance use disorders disrupt families, impair workplace productivity, and contribute to homelessness and involvement in the criminal legal system. Alcohol—legal and widely available—causes approximately 178,000 deaths annually when accounting for liver disease, accidents, and violence.[^alcohol-deaths] Fetal alcohol spectrum disorders affect an estimated 1-5% of children. Impaired driving kills thousands each year.
+
+[^alcohol-deaths]: CDC, [*Alcohol-Related Disease Impact*](https://www.cdc.gov/alcohol/ardi/alcohol-related-icd-codes.html){.cite}; *Lancet* Global Burden of Disease Study (2018).
+
+Marijuana, often framed as harmless, carries risks that honest assessment must acknowledge. Heavy adolescent use is associated with cognitive effects and may increase risk of psychotic disorders in vulnerable individuals.[^marijuana-harms] Legalization has been followed by increases in cannabis use disorder diagnoses and emergency department visits for cannabis-related issues, though causation is difficult to establish.
+
+[^marijuana-harms]: National Academies of Sciences, Engineering, and Medicine, [*The Health Effects of Cannabis and Cannabinoids*](https://nap.nationalacademies.org/catalog/24625/the-health-effects-of-cannabis-and-cannabinoids-the-current-state){.cite} (2017).
+
+None of this means current policy is correct. But it means the policy question is real: how do we reduce these harms? The answer requires looking at evidence, not just asserting that drugs are bad or that prohibition is wrong.
+
+### B. What Does the Evidence Say Works?
+
+**Medication-assisted treatment for opioid use disorder.** The evidence here is strong. Methadone and buprenorphine reduce overdose deaths, decrease illicit opioid use, improve treatment retention, and reduce criminal justice involvement.[^mat-evidence] Observational studies of methadone maintenance have found mortality rates 3-4 times lower than for people not in treatment.[^methadone-mortality] Yet as of 2022, only about 25% of people with opioid use disorder received medication-assisted treatment.[^mat-gap] Many correctional facilities prohibit it entirely, even though incarceration is a high-risk period for overdose upon release.
+
+[^mat-evidence]: National Academies of Sciences, Engineering, and Medicine, *Medications for Opioid Use Disorder Save Lives* (2019).
+[^methadone-mortality]: Sordo et al., [*Mortality Risk During and After Opioid Substitution Treatment*](https://www.bmj.com/content/357/bmj.j1550){.cite}, 357 BMJ j1550 (2017) (meta-analysis finding all-cause mortality 3.2 times higher out of treatment).
+[^mat-gap]: CDC MMWR, *Treatment for Opioid Use Disorder* (2024).
+
+**Naloxone distribution.** Naloxone reverses opioid overdoses. Distributing it to people who use drugs, their families, and first responders saves lives. Research has found that community naloxone distribution programs are associated with 27-46% reductions in overdose mortality.[^naloxone-evidence] Every major medical organization supports expanded access. Yet many states still restrict distribution, and stigma prevents wider adoption.
+
+[^naloxone-evidence]: Walley et al., [*Opioid Overdose Rates and Implementation of Overdose Education and Nasal Naloxone Distribution in Massachusetts*](https://www.bmj.com/content/346/bmj.f174){.cite}, 346 BMJ f174 (2013); McDonald & Strang, [*Are Take-Home Naloxone Programmes Effective?*](https://pubmed.ncbi.nlm.nih.gov/27516532/){.cite}, 111 Addiction 574 (2016) (systematic review).
+
+**Needle exchange and harm reduction.** Needle exchange programs reduce HIV and hepatitis C transmission without increasing drug use—a finding replicated across dozens of studies and endorsed by the CDC, WHO, and National Academies.[^needle-exchange] Supervised consumption sites, operating in Canada, Australia, and parts of Europe, have never recorded an overdose death on-site and are associated with reduced public drug use and discarded syringes.[^scs-evidence] The United States has been slow to adopt these interventions, though pilot programs now operate in New York and Rhode Island.
+
+[^needle-exchange]: CDC, [*Syringe Services Programs*](https://www.cdc.gov/ssp/){.cite}; National Academies (2017).
+[^scs-evidence]: Kennedy et al., [*Public Health and Public Order Outcomes Associated with Supervised Drug Consumption Facilities*](https://pubmed.ncbi.nlm.nih.gov/28734846/){.cite}, 14 Curr. HIV/AIDS Rep. 161 (2017).
+
+**What about criminalization?** The evidence that criminal penalties deter drug use is weak. Portugal decriminalized personal possession of all drugs in 2001; drug use did not increase, and overdose deaths, HIV infections, and incarceration rates fell substantially.[^portugal] Cross-national comparisons find no consistent relationship between penalty severity and prevalence of use.[^depenalization] The National Institute of Justice's review of deterrence research concludes that severity of punishment has little effect on behavior; certainty of consequences matters more—and "consequences" need not mean incarceration.[^nij-deterrence-drugs]
+
+[^portugal]: Hughes & Stevens, [*What Can We Learn from the Portuguese Decriminalization of Illicit Drugs?*](https://academic.oup.com/bjc/article-abstract/50/6/999/404023){.cite}, 50 Brit. J. Criminology 999 (2010); Gonçalves et al. (2015).
+[^depenalization]: Reuter & Trautmann, *A Report on Global Illicit Drug Markets 1998-2007* (European Commission 2009).
+[^nij-deterrence-drugs]: NIJ, [*Five Things About Deterrence*](https://nij.ojp.gov/topics/articles/five-things-about-deterrence){.cite}.
+
+**Marijuana legalization.** State-level legalization provides a natural experiment. The evidence is mixed but increasingly clear on some points: legalization increases adult use moderately, has not consistently increased youth use, and has dramatically reduced marijuana arrests.[^marijuana-legalization] Effects on traffic safety are contested; some studies find increases in accidents, others find no change. Tax revenue has been substantial. The black market has not disappeared but has shrunk in states with well-regulated legal markets.
+
+[^marijuana-legalization]: Caulkins et al., *Considering Marijuana Legalization* (RAND 2015); Dills et al., [*The Effect of State Marijuana Legalizations*](https://www.nber.org/papers/w23779){.cite}, NBER Working Paper (2021).
+
+### C. The Gap Between Evidence and Policy
+
+If medication-assisted treatment saves lives, why do most people with opioid use disorder not receive it? If naloxone prevents overdose deaths, why isn't it in every medicine cabinet? If criminalization doesn't reduce use, why do we keep arresting people?
+
+The answers are familiar from Part II. Moral commitments shape factual beliefs: people who view drug use as a sin are skeptical of evidence that "enabling" interventions reduce harm. Institutional inertia preserves the status quo: police departments, prosecutors' offices, and correctional systems are organized around enforcement, not treatment referral. Political incentives reward visible toughness: no elected official wants to be attacked for being "soft on drugs," even if the soft approach works better.
+
+And motivated cognition affects everyone. Advocates for harm reduction sometimes overstate the evidence, claiming decriminalization has no downsides when the picture is more nuanced. Oregon's Measure 110—which decriminalized possession and funded treatment—has struggled with implementation, and the legislature recently recriminalized possession amid rising overdose deaths and public frustration.[^oregon] The lesson is not that decriminalization failed, but that decriminalization without adequate treatment infrastructure and community engagement is incomplete. Evidence-based policy requires attending to the evidence, including evidence of implementation failures.
+
+[^oregon]: Oregon Legislative Assembly, HB 4002 (2024); journalistic and policy analyses of Measure 110 implementation.
+
+### D. An Emerging Approach: Connecting People to Services
+
+Here is where the story turns constructive.
+
+Across the country, jurisdictions are experimenting with a different approach to people whose substance use brings them into repeated contact with the criminal legal system. The insight is simple: a small number of people account for a disproportionate share of arrests, emergency room visits, shelter stays, and crisis responses. In the language of emergency medicine, these are "frequent flyers" or "superutilizers." Jailing them repeatedly does not solve the underlying problems; it cycles them through an expensive system that deepens their dysfunction.
+
+**Deflection and diversion programs.** Law Enforcement Assisted Diversion (LEAD), developed in Seattle, allows officers to redirect people engaged in low-level drug offenses to case managers who connect them with housing, treatment, and other services—without arrest, charges, or prosecution.[^lead] A controlled evaluation found that LEAD participants were 58% less likely to be arrested after enrollment than similar individuals processed through the traditional system.[^lead-evaluation] The program has since expanded to dozens of jurisdictions.
+
+[^lead]: [LEAD National Support Bureau](https://www.leadbureau.org/){.cite}.
+[^lead-evaluation]: Collins et al., [*LEAD Program Evaluation*](https://pubmed.ncbi.nlm.nih.gov/28051204/){.cite}, 64 J. Substance Abuse Treatment 49 (2017).
+
+**Co-responder models.** Many jurisdictions now pair police officers with mental health clinicians or social workers on calls involving people in crisis. Denver's Support Team Assisted Response (STAR) program dispatches health workers instead of police to certain calls; a controlled study found that STAR responses were associated with reduced criminal charges with no increase in crime.[^star] Similar programs operate in hundreds of cities.
+
+[^star]: Dee & Pyne, [*A Community Response Approach to Mental Health and Substance Abuse Crises*](https://www.science.org/doi/10.1126/sciadv.abm2106){.cite}, 8 Science Advances (2022).
+
+**Treatment in correctional settings.** For people whose offenses or histories require incarceration, evidence supports providing treatment inside—not as an alternative to custody, but as a component of it. Jails and prisons that offer medication-assisted treatment see reduced overdose deaths upon release, lower recidivism, and improved continuity of care.[^mat-corrections] Rhode Island became the first state to offer MAT to all incarcerated people with opioid use disorder; overdose deaths among recently released individuals dropped 61%.[^rhode-island]
+
+[^mat-corrections]: National Academies, *Medications for Opioid Use Disorder Save Lives* (2019); National Commission on Correctional Health Care.
+[^rhode-island]: Green et al., [*Postincarceration Fatal Overdoses After Implementing Medications for Addiction Treatment*](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2671411){.cite}, 75 JAMA Psychiatry 405 (2018).
+
+**The common thread.** These programs share a logic that public health researchers call Human-Centered Design: consult affected communities, prototype and test, iterate based on results, and respect dignity. They do not require resolving debates about whether drug use is a sin or a disease. They ask a narrower question: does this intervention reduce harms? If yes, expand it. If no, try something else.
+
+This approach does not eliminate disagreement. But it shifts the argument from "whose values should prevail?" to "what outcomes are we trying to achieve?" Recall the research on motivated cognition: greater numeracy makes partisans *better* at rejecting threatening evidence, but science curiosity—genuine interest in how things actually work—has the opposite effect. HCD succeeds where pure argumentation fails because it appeals to curiosity: "Does this intervention reduce overdose deaths? Let's find out." That framing treats evidence as a bright shiny object worth exploring, not a weapon to be deployed. Public health's HCD methods have produced vaccines, reduced smoking, and extended life expectancy. They can do the same for drug policy, if we let them.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. The chapter argues that public health approaches sidestep cultural disputes by focusing on measurable outcomes. Is this framing accurate, or does it smuggle in contested values (like "harm reduction" rather than "abstinence") under the guise of neutrality?
+
+2. LEAD and similar programs divert people from the criminal system to services. Critics argue this still involves coercion—the threat of arrest motivates participation. Is diversion meaningfully different from criminalization, or is it just softer coercion?
+:::
+
+---
+
+## Conclusion: From What We Punish to Who Decides
+
+This chapter has covered considerable ground. We began with the core of criminal law—violence, theft, fraud—where broad consensus exists even as disputes arise at the margins. We then examined system-involvement offenses, where the gap between evidence and practice is wide and the burden falls disproportionately on those with the least power to resist. We explored contested domains where motivated cognition transforms moral disagreements into intractable factual disputes. And we concluded with drug policy as a case study in how Human-Centered Design can offer a path forward: acknowledge real harms, follow the evidence, consult affected communities, and iterate based on results.
+
+Throughout, a pattern emerged: what we punish reflects choices—by legislatures, prosecutors, police, and judges. These choices are shaped by moral commitments, political incentives, institutional inertia, and yes, the best available evidence (when anyone bothers to look). The architecture of criminalization is not fixed. It can be changed.
+
+But who gets to change it? And what happens when communities disagree with the choices their legislatures and prosecutors have made?
+
+The next chapter turns to an institution that sits at the intersection of law and community: the jury. The jury is more than a fact-finder. It is the mechanism through which ordinary citizens participate directly in the administration of the criminal legal system. When twelve people from the community hear a case and render a verdict, they bring their values, experiences, and judgments into the courtroom. They can convict. They can acquit. And in some circumstances, they can refuse to convict even when the evidence proves guilt beyond a reasonable doubt—a power called jury nullification.
+
+Jury nullification raises uncomfortable questions. Is it a safeguard against unjust laws, or a threat to the rule of law? A form of democratic participation, or a license for prejudice? The answer may depend on who is nullifying, and why. A jury that refuses to convict under the Fugitive Slave Act looks different from a jury that refuses to convict a white defendant for killing a Black victim.
+
+These questions connect directly to the themes of this chapter. If the criminal law punishes conduct that evidence suggests should not be punished—or fails to punish conduct that causes serious harm—what recourse do citizens have? Legislatures are slow to change. Prosecutors have broad discretion. But juries decide individual cases, one at a time, and their decisions cannot be appealed by the state.
+
+The jury, in other words, is where community values meet legal rules. It is where the question "what should we punish?" becomes concrete: should we punish *this person*, for *this conduct*, under *these circumstances*? The next chapter examines how that question gets answered—and what happens when the jury's answer diverges from what the law demands.

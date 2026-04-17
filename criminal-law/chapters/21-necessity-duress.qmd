@@ -1,0 +1,309 @@
+# Necessity and Duress
+
+Criminal law recognizes two broad categories of defense that matter throughout this chapter: *justifications* and *excuses*. A justified act is one the law treats as the right choice under the circumstances, because the defendant did what we would want a reasonable person to do. An excused act is one the law still treats as wrong, but the defendant's situation was so extreme that we do not blame her for it. The distinction matters with respect to all forms of derivative liability. If a defendant's conduct is *justified*, a third party who assists her shares in that justification; if it is merely *excused*, a helper has no defense of her own. And the two categories reflect different judgments about the defendant's moral status: justification says "you did nothing wrong"; excuse says "what you did was wrong, but we understand why."
+
+This chapter examines one general defense of each type. *Necessity* (sometimes called "choice of evils") is a justification: the defendant chose to break the law because the alternative was worse. *Duress* is an excuse: the defendant broke the law because another person's unlawful threats left no reasonable choice. Both defenses require that the threat be imminent and that the defendant had no reasonable legal alternative. They diverge in other respects, summarized in the comparison tables below. Part I takes up necessity; Part II turns to duress and the particular challenges domestic violence poses for the imminence requirement.
+
+## Part I: Necessity (Choice of Evils)
+
+### Doctrinal Framework
+
+Necessity---sometimes called "choice of evils"---justifies otherwise criminal conduct when the defendant reasonably believed that breaking the law was necessary to avoid a greater harm.
+
+Under the common law, which remains the governing framework in roughly a dozen states including California, Florida, Virginia, Ohio, and Massachusetts, the defense requires five elements: (1) the defendant faced a choice of evils and chose the lesser evil; (2) the harm avoided clearly outweighed the harm caused; (3) the threat was imminent; (4) the defendant was not at fault in creating the emergency; and (5) the defendant had no reasonable legal alternative.
+
+The common law also categorically bars necessity as a defense to homicide. And in every jurisdiction, the defense is unavailable when the legislature has already addressed the specific conduct. If a statute criminalizes particular behavior, the legislature has implicitly weighed the competing harms, and a court will not second-guess that judgment.
+
+The Model Penal Code (§ 3.02), adopted in whole or in part by roughly two dozen states, relaxes several of these restrictions. It requires only that the harm avoided be "greater than" the harm caused, rather than that it "clearly outweigh" it. It drops the strict imminence requirement. It does not bar the defense entirely when the defendant was at fault in creating the crisis. The question is not simply *whether* the defendant caused the emergency, but *how culpably* she caused it. The MPC then compares that level of culpability to the mental state required by each charge. If the defendant's fault in creating the crisis is *less* culpable than what the charged offense demands, the defense survives. If it is *equal to or greater than* what the offense demands, the defense fails. To apply this rule, you need to recall the MPC's hierarchy of culpable mental states (covered in @sec-mental-states), ranked from most to least blameworthy: purpose, knowledge, recklessness, and negligence.
+
+A step-by-step example makes the logic concrete. Suppose a camper negligently fails to extinguish her campfire, and the fire spreads. She breaks into a ranger station to radio for help. To apply the MPC's fault-calibration rule, start by identifying the camper's level of fault in creating the emergency: she was *negligent*. Now compare that fault level to the mental state required by each potential charge, one at a time.
+
+- *Intentional trespass.* Trespass requires a purposeful or knowing mental state. Purpose and knowledge are both *higher* on the hierarchy than negligence. Because the camper's fault (negligence) is lower than what trespass demands, the necessity defense *survives*, and she can justify the break-in.
+- *Manslaughter.* Manslaughter requires recklessness. Recklessness is also *higher* than negligence. Again, the defense survives.
+- *Negligent homicide.* This offense requires only negligence, which is exactly the level of fault the camper displayed in starting the fire. Because her culpability in creating the emergency *matches* the mental state the charge requires, the defense *fails*.
+
+The pattern is straightforward: the defense drops away only when the defendant's fault in causing the crisis is at least as culpable as the mental state the charged offense demands. And it does not exclude homicide, though no court in any MPC-adopting jurisdiction has actually tested this in a reported case. The common law prohibition, established in *Dudley and Stephens* (below), remains the operative rule everywhere. Like the common law, the MPC bars the defense when the legislature has already addressed the conduct.
+
+|                           | Common Law                                  | MPC                                            |
+|---------------------------|---------------------------------------------|-------------------------------------------------|
+| Harm avoided vs. caused   | Must "clearly outweigh" (some jurisdictions) | Must be "greater than"                         |
+| Imminence                 | Threat must be imminent                     | No strict imminence requirement                |
+| Fault in creating crisis  | Defense barred if defendant at fault         | Liability capped at defendant's mental state in creating crisis |
+| Homicide                  | Categorically unavailable                   | Available (but untested in any reported case)  |
+
+In practice, states cherry-pick from both frameworks. Many that adopted MPC-style statutes added back common law restrictions. New York (§ 35.05), Colorado (§ 18-1-702), Oregon (ORS 161.200), and Texas (Penal Code § 9.22) all impose a heightened "clearly outweigh" proportionality standard despite otherwise following the MPC structure. Wisconsin (§ 939.47) limits the defense to threats arising from "natural physical forces," excluding human-caused emergencies. Kentucky (KRS 503.030) explicitly bars the defense for intentional homicide. The labels "common law" and "MPC" are useful shorthand, but no state follows either model cleanly.
+
+### *Regina v. Dudley and Stephens*: The Limits of Necessity
+
+The following case is the foundational authority on necessity and homicide. It also illustrates the core elements of the defense (balancing of harms, imminence, absence of alternatives) and the difficulties courts face in applying them.
+
+## REGINA v. DUDLEY AND STEPHENS {#regina-v-dudley-and-stephens .unnumbered .unlisted .case-title}
+
+*Queen's Bench Division, 1884*
+*14 Q.B.D. 273*
+
+::: {.case-excerpt}
+
+LORD COLERIDGE, C.J. The two prisoners, Thomas Dudley and Edwin Stephens, were indicted for the murder of Richard Parker on the high seas on the 25th of July in the present year. [...]
+
+#### Facts {.unnumbered .unlisted}
+
+On July 5, 1884, the prisoners, with one Brooks and the deceased---an English boy between seventeen and eighteen years of age---were cast away in a storm 1,600 miles from the Cape of Good Hope and compelled to put into an open boat. They had no supply of water and no supply of food except two one-pound tins of turnips. On the fourth day they caught a small turtle, upon which they subsisted for a few days, and this was the only food they had up to the twentieth day when the act in question was committed. For the eight days before the killing, they had nothing to eat. They had no fresh water except such rain as they caught in their oilskin capes. The boat was drifting on the ocean, probably more than 1,000 miles from land.
+
+On the eighteenth day, Dudley and Stephens spoke to Brooks about sacrificing someone to save the rest. Brooks dissented. The boy was not consulted. Dudley proposed drawing lots; Brooks refused. The next day, Dudley told Brooks to go to sleep, and then---with Stephens's assent but over Brooks's objection---went to the boy, told him his time had come, and put a knife into his throat. The boy was lying helpless at the bottom of the boat, weakened by famine and drinking sea water, unable to resist. The three men fed upon his body for four days, until a passing vessel rescued them in the lowest state of prostration.
+
+#### Holding {.unnumbered .unlisted}
+
+The killing was murder. Necessity does not justify the deliberate taking of an innocent life.
+
+#### Reasoning {.unnumbered .unlisted}
+
+The temptation to the act which existed here was not what the law has ever called necessity. Though law and morality are not the same, [...] the absolute divorce of law from morality would be of fatal consequence; and such divorce would follow if the temptation to murder in this case were to be held by law an absolute defence. To preserve one's life is generally speaking a duty, but it may be the plainest and the highest duty to sacrifice it. [...]
+
+Who is to be the judge of this sort of necessity? By what measure is the comparative value of lives to be measured? Is it to be strength, or intellect, or what? It is plain that the principle leaves to him who is to profit by it to determine the necessity which will justify him in deliberately taking another's life to save his own. In this case the weakest, the youngest, the most unresisting, was chosen. Was it more necessary to kill him than one of the grown men? The answer must be "No"--- [...]
+
+It is quite plain that such a principle once admitted might be made the legal cloak for unbridled passion and atrocious crime. There is no safe path for judges to tread but to ascertain the law to the best of their ability and to declare it according to their judgment; and if in any case the law appears to be too severe on individuals, to leave it to the Sovereign to exercise that prerogative of mercy which the Constitution has intrusted to the hands fittest to dispense it.
+
+[The Court sentenced the prisoners to death. The Crown afterwards commuted the sentence to six months' imprisonment.]
+
+:::
+
+### Problem 1: Prison Escape and the Boundaries of Necessity
+
+Consider the case of *People v. Unger*, 362 N.E.2d 319 (Ill. 1977). Francis Unger, a 22-year-old serving a one-to-three-year term for auto theft, was transferred to a minimum-security honor farm at the Illinois State Penitentiary. Before the transfer, a fellow inmate brandished a six-inch knife and attempted to force Unger to engage in sexual acts. Unger did not report the incident "due to fear of retaliation." After the transfer, three inmates sexually assaulted him. Over the following days, he received threats from inmates he did not know. Then, on the day he escaped, he received a phone call: an unidentified caller threatened to kill him. Unger walked off the honor farm. He was apprehended two days later in a motel room, still wearing his prison clothes.
+
+The Illinois Supreme Court reversed his conviction, holding that Unger was entitled to a necessity instruction. The court acknowledged the five-factor test from *People v. Lovercamp*, 43 Cal. App. 3d 823 (1974), which requires that: "(1) The prisoner is faced with a specific threat of death, forcible sexual attack or substantial bodily injury in the immediate future; (2) There is no time for a complaint to the authorities or there exists a history of futile complaints which make any result from such complaints illusory; (3) There is no time or opportunity to resort to the courts; (4) There is no evidence of force or violence used towards prison personnel or other "innocent" persons in the escape; and (5) The prisoner immediately reports to the proper authorities when he has attained a position of safety from the immediate threat."
+
+But the *Unger* court declined to treat these as strict prerequisites. Instead, they "are matters which go to the weight and credibility of the defendant's testimony." A jury could believe Unger's account even though he never reported to authorities and never voluntarily turned himself in.
+
+Now consider *People v. Sarnie*, No. D084646 (Cal. Ct. App. 2025). Robert Sarnie was serving a felony sentence at a work furlough facility in San Diego. He left for his assigned work and did not return. His defense: he had learned that his 13-year-old son was "essentially unattended, unsupervised" in a home "surrounded by drug addicts and criminals" where a gunfight and a stabbing had recently occurred. He did not call the police or child protective services before leaving. The California Court of Appeal affirmed his conviction. Sarnie's concerns were "understandable," the court held, but they "did not amount to a specific, immediate threat." And Sarnie "made no showing that a report to authorities would have been ineffective."
+
+*Hypothetical.* A prisoner at a state penitentiary is assaulted by three inmates. He reports the attacks to a guard, who tells him to "handle it yourself." Two days later, he receives a written threat. He escapes by climbing a fence and is caught the next morning walking along a highway. He immediately tells the arresting officers why he left. The key variable is who decides whether the prisoner's efforts to seek help were adequate: the judge as a threshold matter, or the jury as a question of credibility. How does this allocation of power change the outcome?
+
+### Problem 2: Civil Disobedience and Legal Alternatives
+
+On October 11, 2016, five climate activists simultaneously shut down valves on pipelines carrying tar sands oil from Canada into the United States, briefly disrupting roughly 15 percent of America's daily oil consumption. The actions were coordinated across four states: North Dakota, Montana, Minnesota, and Washington. Each activist cut through a fence, turned a valve, and waited for law enforcement to arrive. The legal outcomes diverged dramatically.
+
+Consider first the case of *State v. Higgins*, 458 P.3d 1036 (Mont. 2020). Leonard Higgins entered a Spectra/Enbridge pipeline facility in Chouteau County, Montana, cut a chain on a perimeter fence, and turned a wheel to shut off the flow of oil. The State charged him with felony criminal mischief and misdemeanor trespass. Higgins asserted a necessity defense, arguing that his actions were necessary to prevent the catastrophic harms of climate change.
+
+The district court precluded the defense, and the Montana Supreme Court affirmed. Even assuming the common law necessity defense was available, the court held, the defense requires a defendant to show four elements: "(1) [the defendant] faced a choice of evils and chose the lesser evil; (2) [the defendant] acted to prevent imminent harm; (3) [the defendant] reasonably anticipated a direct causal relationship between [the defendant's] action and the harm averted; and (4) [the defendant had] no [reasonable] legal alternatives to violating the law."
+
+The fourth element was dispositive. The court drew a distinction between "direct" and "indirect" civil disobedience. Direct civil disobedience involves violating the specific law being challenged. Indirect civil disobedience involves violating a different law (here, trespass and criminal mischief) to protest broader government policy. In cases of indirect civil disobedience, the court held, quoting the Ninth Circuit's framework in *United States v. Schoon*, 971 F.2d 193, 196 (9th Cir. 1991), that "legal alternatives will never be deemed exhausted when the harm can be mitigated by congressional action." Higgins "could have---and indeed had---lobbied legislators, organized rallies, and educated the public." The fact that these efforts had not produced the change he desired "does not mean that they were exhausted." Higgins was convicted of both charges and received a three-year deferred sentence (meaning the sentence would be imposed only if he violated the terms of his supervised release during the three-year period).
+
+Now consider what happened to Ken Ward, who acted on the same day as part of the same coordinated protest. *State v. Ward*, 438 P.3d 588 (Wash. Ct. App. 2019). Ward broke into a Kinder Morgan pipeline facility in Burlington, Washington, and turned a valve shutting off the flow of Canadian tar sands oil to refineries in Skagit and Whatcom Counties. He was charged with burglary, criminal sabotage, and criminal trespass. His first trial ended in a hung jury. At the second trial, the judge barred Ward from presenting a necessity defense. The jury convicted him of burglary but was unable to reach a verdict on sabotage.
+
+The Washington Court of Appeals reversed. The court held that the trial judge had violated Ward's Sixth Amendment right to present a complete defense by refusing to let him put the necessity claim before the jury. Unlike the Montana court in *Higgins*, the Washington court found that Ward had put forward sufficient evidence on all four elements. His past successes in effectuating change through civil disobedience, combined with proposed expert testimony from climate scientists, gave a rational juror enough to work with. And on the element that sank Higgins---exhaustion of legal alternatives---Ward had at least raised a genuine factual dispute. The Washington Supreme Court denied the State's petition for review, making Washington the first state to recognize the right of a climate protester to present the necessity defense to a jury. Ward ultimately served two days in prison.
+
+The same action, the same day, the same legal defense---and opposite results in Montana and Washington.
+
+*Hypothetical.* A sixth activist, prosecuted in Minnesota, blocked a rail line carrying tar sands oil by chaining herself to the tracks. Unlike the valve-turners, she violated a law directly related to the transportation she sought to stop. She has no prior activist track record. She argues that the threat of climate catastrophe was imminent and that legal channels such as lobbying, petitioning, and voting had proved futile over decades. Focus on two pressure points: whether the direct/indirect civil disobedience distinction does any real work here, and whether a defendant with no prior activist track record can claim that legal alternatives were exhausted.
+
+### Problem 3: Legislative Preemption and Medical Necessity
+
+Consider the case of *United States v. Oakland Cannabis Buyers' Cooperative*, 532 U.S. 483 (2001). The Oakland Cannabis Buyers' Cooperative distributed marijuana to patients suffering from chronic pain, glaucoma, and wasting syndromes associated with cancer and HIV/AIDS. California had legalized medical marijuana through its Compassionate Use Act. But federal law classified marijuana as a Schedule I controlled substance with "no currently accepted medical use." When the federal government sought an injunction against the cooperative, the cooperative argued medical necessity, contending that the patients' suffering constituted a greater harm than the violation of federal drug laws.
+
+The Supreme Court rejected the defense. Writing for the Court, Justice Thomas held that "there is no medical necessity exception to the [Controlled Substances Act's] prohibitions." Congress had already performed the balancing of harms when it classified marijuana as Schedule I. A court applying the necessity defense cannot second-guess that legislative judgment: "Under any conception of legal necessity, one principle is clear: The defense cannot succeed when the legislature itself has made a 'determination of values.'"
+
+Four years later, in *Gonzales v. Raich*, 545 U.S. 1 (2005), the Court upheld the federal government's Commerce Clause power to prosecute local medical marijuana users even in states that had legalized the drug. The state legislature's judgment that marijuana served a legitimate medical purpose did not constrain federal enforcement.
+
+*Hypothetical.* A combat veteran suffering from treatment-resistant PTSD uses psilocybin legally under Oregon's supervised therapeutic program. While traveling through a neighboring state that classifies psilocybin as Schedule I, he is arrested for possession. He asserts necessity, arguing that psilocybin is the only treatment that has controlled his symptoms and that without it he is a danger to himself. The central question is whether legislative preemption is absolute or whether the quality of the legislative record matters. *Oakland Cannabis* deferred to Congress's Schedule I classification. But Oregon conducted a formal evidentiary review that Congress never undertook. Should the recency and rigor of a state's legislative finding affect whether a federal or sister-state classification forecloses the defense?
+
+### Problem 4: Necessity and Homicide
+
+*Dudley and Stephens* established the common law rule that necessity can never justify the deliberate taking of an innocent life. The MPC drafters disagreed. In their Official Commentary to § 3.02, they argued:
+
+> It would be particularly unfortunate to exclude homicidal conduct from the scope of the defense. For, recognizing that the sanctity of life has a supreme place in the hierarchy of values, it is nonetheless true that conduct that results in taking life may promote the very value sought to be protected by the law of homicide. Suppose, for example, that the actor makes a breach in a dike, knowing that this will inundate a farm, but taking the only course available to save a whole town. If he is charged with homicide of the inhabitants of the farm house, he can rightly point out that the object of the law of homicide is to save life, and that by his conduct he has effected a net saving of innocent lives. The life of every individual must be taken in such a case to be of equal value and the numerical preponderance in the lives saved compared to those sacrificed surely should establish legal justification for the act.
+
+Model Penal Code, Official Commentary, Section 3.02, at 14--15 (1985).
+
+No court in any MPC-adopting jurisdiction has tested this position in a reported homicide case. But the MPC's reasoning invites a question that *Dudley and Stephens* refused to answer: can lives be compared?
+
+*Hypothetical.* Consider a variation on the MPC's dike hypothetical. A woman driving on a narrow mountain road sees that the brakes on a runaway truck have failed. The truck is barreling toward a school bus full of children stopped at an intersection. The woman can steer her car into the truck, diverting it off the road and saving the children, but she will certainly kill the truck's driver in the collision. She diverts the truck. The driver dies. The common law says lives cannot be compared; the MPC says they can. What is the strongest argument for the categorical bar, given that it convicts a woman who saved twenty children?
+
+*Hypothetical.* Now add a complication: the woman was driving recklessly, well over the speed limit, and her excessive speed is the reason she reached the intersection at the precise moment she could intervene. Under the common law, does her fault in creating the conditions for the crisis bar the defense entirely? Under the MPC, how does the fault-calibration rule apply? Consider separately her liability for the trespass (diverting the truck), for manslaughter (reckless homicide of the driver), and for negligent homicide.
+
+### Review
+
+The common law and MPC frameworks are compared in the table above. In practice, the "no reasonable legal alternative" requirement is the element most frequently litigated. In the prison escape context, courts divide on whether specific factors (such as reporting to authorities and surrendering upon reaching safety) are strict prerequisites or considerations for the jury. In the civil disobedience context, most courts hold that legal alternatives are never exhausted when the political process remains available. And in the medical necessity context, legislative preemption forecloses the defense entirely when the legislature has already weighed the competing harms.
+
+## Part II: Duress
+
+Necessity is a *justification*: the defendant chose the lesser evil, and the law treats that choice as correct. Duress is an *excuse*. The defendant has made a bad choice, but is excused because unlawful coercion left no reasonable alternative.
+
+### Doctrinal Framework
+
+Under the common law, duress excuses criminal conduct when the defendant acted under a threat of death or serious bodily injury that was imminent and directed at the defendant or a close relation. The defendant must have had no reasonable opportunity to escape the threatened harm, and the defense is categorically unavailable for murder. The standard is objective: an ordinary person in the defendant's position would have yielded to the threat.
+
+The Model Penal Code (§ 2.09) relaxes these restrictions in ways that parallel its treatment of necessity. Rather than requiring a threat of death or serious bodily injury, the MPC sets a lower threshold: any threat of "unlawful force" will do. The strict imminence requirement disappears, and the defense extends to threats against any person, not just the defendant or close relations. Unlike the common law, the MPC does not categorically exclude murder. The governing standard asks whether "a person of reasonable firmness in [the defendant's] situation" would have been unable to resist the coercion. That phrase---"in the defendant's situation"---incorporates subjective elements into an otherwise objective test. The MPC drafters specified that "situation" includes "stark, tangible factors" like size, strength, age, and health, but excludes matters of temperament. A small number of states, including Arkansas and Connecticut, have fully adopted the MPC standard, including its availability for homicide.
+
+|                         | Common Law                  | MPC                                            |
+|-------------------------|-----------------------------|-------------------------------------------------|
+| Threat of               | Death or GBH                | Unlawful force                                 |
+| Imminence               | Must be imminent            | Need not be imminent                           |
+| Against                 | Defendant or close relation | Any person                                     |
+| Reasonableness          | Ordinary person would yield | Person of reasonable firmness would not resist |
+| Self-created situation? | Not allowed                 | Barred if reckless or higher; available if negligent or no fault |
+| Murder?                 | Unavailable                 | Available                                      |
+
+A further procedural split concerns the burden of proof. In federal court, the defendant bears the burden of proving duress by a preponderance of the evidence. *See Dixon v. United States*, 548 U.S. 1 (2006) (holding that duress does not negate *mens rea* and therefore the burden of persuasion rests on the defendant). Many states, however, require the prosecution to disprove duress beyond a reasonable doubt once the defendant raises sufficient evidence to support the defense. The choice between these frameworks can be outcome-determinative: the same evidence of coercion may succeed or fail depending on who bears the burden.
+
+### *United States v. Dingwall*: Duress in Context
+
+The following case illustrates the most common real-world context in which duress arises: a defendant coerced into criminal activity by an abusive intimate partner. It also addresses two questions on which courts have divided: whether the person making the threat must be physically present at the time of the crime, and whether expert testimony on battering may inform the jury's assessment of reasonableness.
+
+## UNITED STATES v. DINGWALL {#united-states-v-dingwall .unnumbered .unlisted .case-title}
+
+*United States Court of Appeals, Seventh Circuit, 2021*
+*6 F.4th 744*
+
+::: {.case-excerpt}
+
+HAMILTON, Circuit Judge:
+
+Marjory Dingwall was charged with three counts of robbery and three counts of brandishing a firearm during a crime of violence. She admits the robberies but claims she committed them under duress, in fear of brutal violence at the hands of her abusive boyfriend, Aaron Stanley. [...]
+
+The duress defense has two elements: reasonable fear of imminent death or serious injury, and the absence of reasonable, legal alternatives to committing the crime. [...] The district court denied Dingwall's motion, finding that her evidence could not meet either requirement. Dingwall then pleaded guilty [...] but she reserved her right to appeal the decision on the motion in limine [a pre-trial motion to exclude evidence].
+
+#### Facts {.unnumbered .unlisted}
+
+Dingwall and Aaron Stanley met at an alcohol abuse treatment center. Stanley eventually moved in with Dingwall and her daughter. Stanley was an active drug addict. He began abusing Dingwall both emotionally and physically. He hit her, dragged her down stairs, and on one occasion, shot a gun into the mattress on the side where she slept.
+
+Stanley began robbing stores to get money for drugs. When he ran out of money, he told Dingwall that she owed him money. Dingwall tried to get money from her parents but failed. When she did not produce the money, Stanley pistol-whipped her. The next day, Stanley drove Dingwall to a gas station, handed her his gun, and told her it was her "turn." Dingwall entered the store and committed the robbery.
+
+Over the next few days, Dingwall committed two more robberies. Stanley was not physically present inside the stores during the robberies. He drove her to the first robbery and waited in the car; during the second and third, he was at work. Dingwall claimed that she was terrified of Stanley and believed that if she did not commit the robberies, he would kill or seriously injure her. [...]
+
+#### Imminence Without Physical Proximity {.unnumbered .unlisted}
+
+The district court applied a strict physical proximity test, concluding that because Stanley was not in the store with Dingwall, the threat could not be "imminent." We disagree with this narrow interpretation.
+
+We join the Ninth, District of Columbia, and Sixth Circuits [...] and reject a strict physical proximity test to establish a reasonable fear of imminent violence. [...] A jury could conclude that Stanley's continuous and unpredictable violence against Dingwall, contrasted with his being "nice" when Dingwall did what he wanted, showed a level of manipulation and a style of communication that could lead a reasonable person in her situation to have interpreted Stanley's demands and behavior as a threat of imminent violence unless she committed each robbery.
+
+#### Expert Testimony on Battering {.unnumbered .unlisted}
+
+Dingwall sought to introduce expert testimony from Dr. Darald Hanusa, a licensed counselor specializing in domestic violence, to explain the effects of battering. Dr. Hanusa's report explained that victims of long-term abuse often experience "learned helplessness" [a psychological condition in which repeated exposure to inescapable harm leads the subject to stop seeking escape even when escape becomes possible] and a diminished capacity to evaluate options. The report stated that a battered person might reasonably perceive a threat of imminent violence even when the abuser is not physically present, based on the history of abuse and the abuser's patterns of behavior.
+
+Expert evidence on battering and its effects may be helpful to a jury evaluating whether a reasonable person in Dingwall's position would have reasonably perceived an immediate threat of death or substantial injury from Stanley.
+
+#### No Reasonable Legal Alternatives {.unnumbered .unlisted}
+
+The district court found that Dingwall had several alternatives, including calling the police or simply walking away while she was alone in the stores. However, the "reasonableness" of these alternatives must be viewed through the lens of the defendant's circumstances. [...] Expert testimony could help a jury understand why a person in Dingwall's position might not view calling the police as a viable or safe alternative. [...] Whether a "person of reasonable firmness" in Dingwall's situation would have been unable to resist the pressure is a question for the jury.
+
+REVERSED and REMANDED.
+
+:::
+
+### Problem 5: Imminence and Corrupt Authorities
+
+Juan Manuel Contento-Pachon was a taxicab driver in Bogota, Colombia. He had a wife and a three-year-old child. A passenger named Jorge rode in his taxi and later offered him a job driving a privately owned car. When Contento-Pachon arrived to discuss the position, Jorge instead proposed that he swallow cocaine-filled balloons and transport them to the United States. Contento-Pachon considered the proposal but refused approximately one week later.
+
+Jorge then revealed detailed knowledge of Contento-Pachon's personal life, information the driver had never shared, including his wife's name and his child's school. Jorge threatened to kill Contento-Pachon's wife and three-year-old child if he refused to cooperate. The next day, Jorge renewed the threats against Contento-Pachon's life and his family's lives. Contento-Pachon did not go to the police because he believed the Bogota police were corrupt and paid informants for the drug traffickers. He did not attempt to flee with his family.
+
+About three weeks after the initial threat, Contento-Pachon swallowed 129 cocaine-filled balloons. He was told he would be watched at all times during the trip and that failure to follow instructions would result in death for him and his family. He flew from Bogota to Panama, then onward to the United States. He did not alert Panamanian authorities during a layover because he believed they were as corrupt as the Bogota police. Upon arriving at Los Angeles customs, he voluntarily consented to an x-ray, which revealed the cocaine.
+
+The district court excluded the duress defense, reasoning that the initial threat occurred about three weeks before the flight, that the defendant and his family were not physically restrained before ingestion of the balloons, and that Contento-Pachon could have sought help from the police or fled. The Ninth Circuit reversed. The court identified three elements of duress: (1) an immediate threat of death or serious bodily injury; (2) a well-grounded fear that the threat will be carried out; and (3) no reasonable opportunity to escape the threatened harm. The court rejected the district court's narrow reading of imminence. Jorge's explicit threats conveyed an immediate consequence if Contento-Pachon failed to comply. The three-week gap between threat and criminal act did not negate imminence where the threat was continuous and the defendant reasonably believed it would be carried out. The court held that Contento-Pachon's belief that the police were corrupt was a question for the trier of fact, not a basis for judicial exclusion. *United States v. Contento-Pachon*, 723 F.2d 691 (9th Cir. 1984).
+
+*Hypothetical.* A college student studying abroad in a Central American country is approached by a local gang leader who demands she carry a package of heroin through U.S. customs. She refuses. The gang leader shows her photos of her family's home in the United States, taken from outside, and tells her that his associates in her hometown will kill her parents if she does not comply. She does not go to local police because she has witnessed officers accepting payments from the gang. She carries the package and is arrested at the airport two weeks later. Unlike Contento-Pachon, she never consented to a search; the drugs were discovered in a routine inspection. Pay attention to two factors that distinguish this from *Contento-Pachon*. First, the threat targets people in a different country, where the defendant could have contacted law enforcement she trusted. Does the availability of uncorrupted authorities in the threatened country defeat the "no reasonable alternative" element? Second, unlike Contento-Pachon, she never consented to a search. Does voluntary cooperation with authorities at the point of arrest bear on the duress analysis?
+
+### Problem 6: Role-Based Expectations and Reasonable Firmness
+
+Lieutenant Colonel Harry Fleming joined the Army as a private in 1942. He went to Korea in 1950, spent 50 days in combat, was captured on November 7, 1950, and was held as a prisoner of war for 34 months. While a POW, Fleming was elected camp leader by fellow prisoners "because he seemed to have gotten along O.K." with the Chinese captors. According to Army witnesses, Fleming led Marxist study groups, made propaganda recordings for the Chinese, and repeated the Communist line about "the imperialistic, capitalistic Wall Street warmongers."
+
+Fleming's defense was that he had cooperated in return for material benefits from the Chinese ("dog meat for a meal or a couple of sulfa pills") and, more significantly, that his cooperation allowed him to reduce the death rate of men in his camp. He and another officer both cooperated in producing Communist propaganda, but in return were allowed to improve conditions for their fellow prisoners. On the stand, Fleming described the propaganda recordings as "just a bunch of hogwash" and characterized his cooperation as instrumental to saving lives. Junior officers and enlisted men facing the same threats refused to cooperate.
+
+Fleming was the first American officer ever court-martialed for collaborating with his captors. A court of eleven officers found him guilty. The sentence was dishonorable dismissal from the Army and forfeiture of all pay and allowances. The Court of Military Appeals sustained the conviction, holding that in the absence of "dire and direct physical duress," material benefits and indirect pressure were insufficient to establish the defense. The fact that others facing the same threats refused to cooperate undermined Fleming's claim that a person of reasonable firmness would have yielded. *United States v. Fleming*, 23 C.M.R. 7 (C.M.A. 1957).
+
+Neither the common law nor the MPC explicitly addresses whether "reasonable firmness" varies by profession. This remains an open question with little case law outside the military context. Does "reasonable firmness" mean something different for a military officer than for a civilian? Fleming was the highest-ranking officer in his camp and had duties under the Uniform Code of Military Justice to resist enemy exploitation. Whether those duties should raise the bar for what counts as reasonable firmness, or whether the objective standard already accounts for professional obligations, is unresolved.
+
+*Hypothetical.* A civilian aid worker is captured by an insurgent group in a conflict zone. The insurgents threaten to kill her unless she makes a video denouncing her government's foreign policy. Other captives, including two journalists and a military contractor, refuse and are beaten but not killed. The aid worker makes the video. She is later charged with providing material support for terrorism. The aid worker is a civilian, not a soldier. Should the "person of reasonable firmness" standard nonetheless vary by professional role? And what should a court do with the fact that other captives facing identical threats refused? Is their behavior evidence of what reasonable firmness requires, or simply proof that some people are braver than others?
+
+### Problem 7: Duress, Homicide, and Felony Murder
+
+Tiffany Lynn Reichard was in a relationship with Michael Beatty, who had physically and sexually assaulted her. Beatty decided to rob Matthew Cramton. Reichard agreed to participate, later claiming she did so under duress because of Beatty's threats and prior violence. During the robbery, Reichard knocked on Cramton's door. When Cramton opened the door, Beatty entered armed with a gun. Reichard served as a lookout outside. Beatty exited the home carrying a knife and covered in blood. Cramton had been stabbed 91 times. Reichard drove Beatty to his mother's home and helped him dispose of his bloody clothes. She did not fire a weapon, did not enter the home during the killing, and claimed she did not know Beatty intended to kill Cramton. Beatty was separately convicted and sentenced to life in prison.
+
+Reichard was charged with open murder under a felony-murder theory, with armed robbery as the predicate felony. She filed a motion to present a duress defense, arguing that because she committed the underlying felony under duress, the chain of felony-murder liability was broken. The trial court granted her motion. The Court of Appeals reversed, reasoning that because duress was categorically unavailable as a defense to murder under Michigan law, it was also unavailable for felony murder.
+
+The Michigan Supreme Court unanimously reversed. The court held that duress may be asserted as an affirmative defense to felony murder if the defense is available for the underlying felony. The traditional murder bar rests on the premise that one may not take a life to save one's own. But in felony murder, the defendant is charged with murder based on participation in a lesser felony, not on an intent to kill. The court found the prior rule illogical: "in felony murder, the defendant is faced with a choice of being killed or committing some lesser felony," not choosing between lives. The court overruled its prior precedents and directed that on remand, the trial court must provide duress instructions if "a rational view of the evidence supports a conclusion she aided Beatty with the robbery out of duress." *People v. Reichard*, 505 Mich. 81 (2020). *See also McMillan v. State*, 181 Md. App. 298 (2008) (reaching the same result under Maryland law).
+
+*Hypothetical.* Two friends plan a convenience store robbery. One provides the getaway car; the other enters the store with a gun. The friend who entered the store panics and shoots the clerk. The getaway driver is charged with felony murder. She claims duress: her partner had beaten her repeatedly and threatened to kill her if she did not participate. Unlike Reichard, the getaway driver knew her partner carried a loaded gun into the store. The key distinction from *Reichard*: this defendant knew her partner carried a loaded gun. *Reichard* "claimed she did not know Beatty intended to kill Cramton." Does the getaway driver's awareness that lethal violence was foreseeable break the logic of the Michigan/Maryland exception, which rests on the premise that the defendant was "not choosing between lives"?
+
+### Problem 8: Duress and the Duty to Protect
+
+Debra Romero began living with Terrance in March 1989. Six weeks later, he began hitting her to force her to obtain money for his drug habit. He struck her "almost every day." He would rip window screens, throw objects through windows, and tell her: "If I can't have you, nobody else can." Debra attempted to escape multiple times, but Terrance would locate her and manipulate her into returning. During one escape attempt, she tried jumping through a window and was badly injured, requiring 23 stitches.
+
+Between May and July 1989, the pair committed a series of robberies. Debra posed as a prostitute, served as a lookout, and searched victims' vehicles while Terrance displayed a gun. She testified that she participated in all crimes because she feared Terrance would kill her if she refused. The jury convicted her on all five charges.
+
+On appeal, the California Court of Appeal reversed, granting habeas relief on the ground that Debra's trial attorney provided ineffective assistance of counsel by failing to investigate or present expert testimony on battered woman syndrome to support her duress defense. Without such testimony, the court found, the jury had no framework for understanding why Debra remained in the relationship despite multiple opportunities to leave, why she complied with Terrance's demands to commit crimes, or why "a gesture or a new method of abuse, insignificant to another person, may create a reasonable fear in a battered woman." The California Supreme Court reversed the Court of Appeal on procedural grounds only, without reaching the substantive BWS question. *People v. Romero*, 26 Cal. App. 4th 315, 13 Cal. Rptr. 2d 332 (1992), *rev'd on other grounds*, 8 Cal. 4th 728 (1994).
+
+Now compare June Webb. June met Keith Webb when she was 13 years old. Keith "frequently physically abused" her. By June 1983, the household on a military base in El Paso included Keith, June (who was pregnant), Keith's other wife, and several children, among them June's six-year-old son Steve. Keith frequently and brutally abused Steve. In August 1983, Keith scalded Steve by placing him in a bathtub of hot water. Steve's condition deteriorated rapidly. He became lethargic, ate little, and eventually collapsed. Steve died on August 11, 1983. Keith buried the body in the desert.
+
+June testified that she knew Steve was gravely ill before he died but was afraid to obtain medical care for him because of what Keith would do to her, her other children, and her parents. A month later, she reported the death to authorities at the base criminal investigation office. She was charged with accessory after the fact to murder and two counts of injury to a child by failing to obtain medical care. The jury acquitted her on the accessory charge but convicted her on both counts of injury to a child. The Fifth Circuit affirmed. The appellate opinion contains no discussion of battered woman syndrome. *United States v. Webb*, 747 F.2d 278 (5th Cir. 1984).
+
+The jury's split verdict is doctrinally significant. The jury apparently found that Keith's threats were sufficient to excuse June's failure to report the murder after the fact, but insufficient to excuse her failure to obtain medical care for her own child while he was still alive. This suggests the jury distinguished between omissions affecting strangers and omissions affecting one's own children, implicitly holding June to a higher standard of resistance when the victim was her child and she had a legal duty to protect him.
+
+The contrast between Romero and Webb thus isolates a question the doctrine does not explicitly answer: does the "person of reasonable firmness" standard demand more of a defendant whose crime is a failure to protect her own child than of a defendant who commits an affirmative criminal act against a stranger?
+
+*Hypothetical.* A woman in an abusive relationship learns that her partner has been molesting her daughter. The partner threatens to kill the woman and the daughter if she reports him. She does not report. The abuse continues for six months before a teacher discovers it. The woman is charged with felony child endangerment for failing to protect her daughter. She asserts duress. The *Webb* jury's split verdict suggests that the duty to protect one's own child raises the bar for what counts as reasonable firmness. But this creates a paradox: the defendant most vulnerable to coercion (a battered parent whose child is the abuser's leverage) faces the most demanding standard. How should expert testimony on battering bear on this tension? And does it matter that the crime here is an omission rather than an affirmative act?
+
+### Review
+
+Duress excuses a defendant who commits a crime under coercion that a person of reasonable firmness could not have resisted. The defense requires two elements: (1) a threat of unlawful force creating a reasonable fear of imminent harm, and (2) no reasonable legal alternative to committing the crime.
+
+The two frameworks differ in important respects. The common law requires a threat of death or serious bodily injury; the MPC requires only unlawful force. The common law requires the threat to be imminent; the MPC does not impose a strict imminence requirement, though imminence remains relevant to the reasonableness inquiry. The common law categorically bars duress as a defense to murder; the MPC allows it. And the common law limits the defense to threats against the defendant or close relations, while the MPC extends it to threats against any person.
+
+Courts have divided on the meaning of "imminence" in the domestic violence context. Some courts apply a strict physical proximity test, requiring the person making the threat to be present at the time of the crime. A growing number of circuits, including the Seventh, Ninth, Sixth, and D.C. Circuits, reject this test. These courts hold that a pattern of sustained abuse may create a reasonable perception of imminent threat even when the abuser is not physically present, and that expert testimony on battering and its effects is admissible to help the jury evaluate whether a reasonable person in the defendant's circumstances would have perceived the threat as imminent.
+
+A separate split concerns the felony murder rule. The common law bars duress for all forms of murder, including felony murder. But several states, including California, Maryland, Michigan, and Ohio, recognize an exception: if duress excuses the defendant's participation in the underlying felony, the chain of liability for the resulting homicide is broken. The MPC avoids this issue entirely by permitting duress as a defense to all crimes.
+
+Finally, the burden of proof varies by jurisdiction. In federal court, the defendant must prove duress by a preponderance of the evidence. In many states, once the defendant raises sufficient evidence, the prosecution must disprove duress beyond a reasonable doubt.
+
+## Part III: Reform
+
+The cases in this chapter reveal a structural mismatch between duress doctrine and the most common context in which duress arises: intimate partner violence. Dingwall committed armed robberies while her abusive boyfriend was at work. Romero participated in a string of robberies because she feared Terrance would kill her. Webb failed to protect her six-year-old son because she was terrified of what Keith would do. In each case, the defendant faced coercion that was real, sustained, and backed by demonstrated violence---but that did not fit neatly into a doctrine built for the gun-to-the-head scenario.
+
+### The Evidentiary Gap
+
+Expert testimony on the effects of battering is now admitted in self-defense cases in most states. But its admissibility in duress cases remains actively contested. The federal circuits are split. The Seventh Circuit in *Dingwall*, joining the Sixth, D.C., and Ninth Circuits, held that expert testimony on battering "may be helpful to a jury evaluating whether a reasonable person in [the defendant's] position would have reasonably perceived an immediate threat." The Fifth and Tenth Circuits disagree. The Fifth Circuit's *Willis* decision held that such evidence is "inherently subjective" and therefore irrelevant to the objective reasonable-person standard. *See United States v. Willis*, 38 F.3d 170 (5th Cir. 1994).
+
+The majority circuits draw a distinction that recurs across criminal law's reasonableness standards. Evidence of battering does not convert the objective standard into a subjective one. The mental condition is an objective fact about the defendant's circumstances, comparable to size, age, or physical disability, that helps the factfinder assess what a reasonable person *in that situation* would have perceived. The question remains "how would a reasonable person with this condition have reacted?" not "what did this particular defendant think?" As the Seventh Circuit put it in *Dingwall*: "the mental condition itself is an objective factor that alters the reasonableness inquiry. The fact that the defendant suffers from the mental condition, and the condition's general impacts on a person, are both factors the jury should contemplate." 6 F.4th at 755. The Supreme Court has not resolved this split. In *Dixon v. United States*, 548 U.S. 1 (2006), the Court addressed the burden of proof for duress but declined to reach the admissibility question.
+
+There is a more fundamental point. The admissibility question determines who decides the case. When a judge excludes evidence of battering as "inherently subjective," the judge is deciding that the defendant's abuse history is irrelevant to the duress inquiry, and the jury never hears it. The case is resolved on a truncated factual record, and the defendant is convicted without the factfinder ever learning why she acted as she did. Admitting the evidence shifts that power from the judge to the jury. It does not guarantee acquittal, but it ensures that the community's representative body makes the judgment with the full picture before it. As we saw in Chapter 4, this allocation of power between judge and jury is one of the most consequential structural choices in criminal law. The evidentiary rules governing expert testimony on battering are, in practice, rules about who decides whether coerced defendants deserve conviction.
+
+### From Battered Woman Syndrome to Coercive Control
+
+The early framework for understanding intimate partner violence was Lenore Walker's "battered woman syndrome," which described a cycle of violence and a condition of "learned helplessness." Courts adapted BWS to explain why a defendant might perceive an imminent threat even during a lull in the violence, or why she might not leave the relationship despite repeated abuse.
+
+But BWS has drawn criticism from scholars and advocates alike. It pathologizes the survivor by framing the question as "what is wrong with the defendant that she did not leave?" rather than "what did the abuser do to make leaving impossible or lethal?" It suggests psychological impairment rather than a rational assessment of danger. And it focuses on discrete violent episodes rather than the broader pattern of domination that characterizes most abusive relationships.
+
+The newer framework, coercive control, was developed by sociologist Evan Stark and shifts the focus from the survivor's psychology to the abuser's pattern of conduct. Coercive control encompasses not only physical beatings but economic control, isolation, surveillance, threats against children, and the systematic destruction of the victim's autonomy. Under this model, the coercion is *ambient and continuous*---the threat "hovers over every interaction between the individuals, even if such threat is not always articulated." *United States v. Marenghi*, 893 F. Supp. 85, 95 (D. Me. 1995).
+
+This reframing directly addresses the imminence problem that defeats most duress claims. Traditional doctrine asks whether the abuser was physically present and whether a specific threat preceded each criminal act. Coercive control reframes the question: the threat is always present because the coercer has established a regime of total control. The defendant does not need a discrete threat at the moment of the crime to reasonably perceive imminent danger---the entire relationship *is* the threat.
+
+At least a dozen states have codified coercive control in their domestic violence statutes, expanding definitions to include patterns of domination even absent physical violence. Nearly all do so through civil protection orders and family law rather than criminal liability; Hawaii is the sole exception, criminalizing coercive control as a misdemeanor under a 2021 pilot program. These statutes, in turn, provide an evidentiary basis for duress claims: if the abuser's conduct fits a legislatively recognized pattern of coercive control, the survivor's perception of ongoing danger becomes easier to establish.
+
+### Survivors' Justice Acts
+
+Even where doctrine has moved toward admitting expert testimony, many duress claims still fail at trial. The imminence requirement may not be met, the court may find a "reasonable alternative" existed, or the murder bar may apply. Beginning with New York in 2019, a wave of state legislation has addressed this gap not by changing the substantive defense but by intervening at sentencing and post-conviction.
+
+These laws, commonly called Survivors' Justice Acts, share a common architecture. At sentencing, they require or permit courts to consider the defendant's abuse history as a mitigating factor. Even if the jury convicts, the sentence can reflect the reality that the defendant was a victim before she was an offender. Post-conviction, they create mechanisms for incarcerated survivors to petition for resentencing. This is the most practically consequential provision, because it applies retroactively.
+
+Five states have now enacted such legislation: New York (2019), Illinois (2015, amended 2024), Oklahoma (2024), Georgia (2025), and New Jersey (2026). California enacted AB 124 (2021), which provides limited sentencing mitigation for survivors of intimate partner violence, but three broader Survivors' Justice Act bills have died in committee. Several more states have pending bills. The bipartisan appeal of these laws is striking. Georgia's Survivor Justice Act passed with near-unanimous support because it was framed not as criminal law reform but as victim protection. The ALEC model policy, drafted by a conservative policy organization, explicitly names duress as a defense theory that abuse evidence may support.
+
+But these laws are sentencing statutes, not defense-reform statutes. They do not modify the elements of duress itself. They fill the gap *after* a duress defense fails, reducing the sentence or enabling resentencing. They leave the conviction intact.
+
+### Three Reform Pathways
+
+Three reform strategies have emerged:
+
+*Doctrinal reform* would change the defense itself. It would relax or eliminate the imminence requirement for cases involving sustained abuse. It would make expert testimony on battering admissible in duress cases as a matter of course, following the majority circuit rule. It would redefine the "recklessly placed" bar to exclude abuse survivors. The MPC drafters' recklessness exception was designed for defendants who voluntarily joined criminal enterprises, not for coerced domestic partners. And it would extend duress to homicide, as the MPC already provides and as Michigan and Maryland have done for felony murder.
+
+*Sentencing-side reform*, exemplified by the Survivors' Justice Acts, works around the doctrine rather than changing it. It is politically easier, because it does not require courts to rethink foundational elements of the defense. But it is doctrinally incomplete: a survivor whose duress claim is rejected still stands convicted, labeled as a criminal rather than recognized as a victim of coercion.
+
+*A new standalone defense* based on coercive control would go further than either approach. Rather than stretching traditional duress to fit abuse dynamics, it would create a separate defense for defendants who committed crimes under a demonstrated regime of domination. Scholars in the United Kingdom have proposed such a defense, but no American jurisdiction has adopted it.
+
+The tension among these pathways is real. Sentencing reform accepts the existing doctrine and mitigates its consequences. Doctrinal reform challenges the doctrine's foundational assumptions. A new defense would bypass the doctrine entirely. Which approach is best depends on whether you think the existing framework can accommodate the reality of coercive control, or whether the framework itself is the problem.
+
+*Hypothetical.* Return to the cases in this chapter. Dingwall committed armed robberies while Stanley was at work. Romero participated in robberies because Terrance struck her "almost every day" and told her "if I can't have you, nobody else can." Webb failed to protect her son because Keith threatened to kill her, her other children, and her family. Under the traditional duress framework, each of these defendants faces the same doctrinal obstacles: imminence, reasonable alternatives, and the objective standard. Under a Survivors' Justice Act, each might receive a reduced sentence even if the defense fails. Under a coercive control defense, each could argue that the regime of domination, not a discrete threat, overrode her will. Notice that each case involves a different type of crime: affirmative criminal acts against strangers (Dingwall, Romero), failure to protect one's own child (Webb). Does the type of crime affect which reform pathway is most appropriate? Can sentencing reform adequately address a conviction that should never have occurred? And can a coercive control defense overcome the objection that a parent's duty to protect her child is non-delegable, regardless of the coercion she faces?
+
+## Conclusion
+
+The doctrinal frameworks for both necessity and duress were built for discrete emergencies---the sinking lifeboat, the gun to the head. They struggle with sustained coercion, diffuse threats, and defendants whose circumstances make "reasonable alternatives" illusory. Whether the law responds by reforming the doctrines themselves, by mitigating sentences after conviction, or by creating new defenses for new forms of coercion will shape how criminal law treats its most vulnerable defendants.

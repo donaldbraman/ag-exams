@@ -1,0 +1,851 @@
+# RCC General Part vs. Model Penal Code {#sec-appendix-general-part}
+
+```{=latex}
+\setcounter{page}{1}
+\renewcommand{\thepage}{B-\arabic{page}}
+```
+
+## The RCC General Part and Its Relationship to the Model Penal Code
+
+The preceding appendix compares the Revised Criminal Code's specific offenses to their counterparts in D.C.'s current criminal code, illustrating how modern codification techniques clarify and consolidate the substantive law of crimes. This appendix takes a different approach. Rather than examining individual offenses, it examines the *foundational framework* that underlies them---the "General Part" provisions that define what it means to commit a crime at all. These are the rules governing voluntary acts, omissions, causation, culpable mental states, and related doctrines that apply across the entire criminal code.
+
+The RCC's General Part, codified at RCC Chapter 2 (Basic Requirements of Offense Liability), was heavily influenced by the Model Penal Code. This is no surprise. The MPC's General Part has been its most lasting contribution to American criminal law, and the D.C. Criminal Code Reform Commission explicitly drew on the MPC's analytical framework when constructing the RCC. Both codes share the same basic architecture: criminal liability requires proof of a voluntary act (or qualifying omission) that causes a prohibited result (where results are at issue), committed with a specified culpable mental state as to each material element of the offense. Both codes decompose offenses into the same categories of objective elements---conduct, circumstances, and results---and both insist that culpability be proven as to each.
+
+Yet the RCC is not a copy of the MPC. Writing six decades after the MPC's promulgation, the Commission had the benefit of observing how the MPC's provisions had been interpreted---and misinterpreted---by courts across the country. In several areas, the RCC departs from the MPC in ways that reflect both the evolution of criminal law scholarship and practical lessons drawn from decades of implementation. Some of these departures are structural: the RCC defines voluntariness affirmatively rather than through a list of exclusions, and it codifies causation standards that the MPC left deliberately vague. Others are refinements: the RCC's treatment of omission liability adds an awareness-of-duty requirement absent from the MPC, and its legal causation standard addresses volitional intervening actors with greater specificity.
+
+The sections that follow compare the RCC and MPC across the full range of General Part topics: the voluntary act requirement and omission liability, causation, culpable mental states, mistake and ignorance, intoxication, accomplice liability, inchoate offenses (attempt, solicitation, and conspiracy), justification defenses (lesser harm and self-defense), and excuse defenses (duress and insanity). In each case, we set out the RCC's text, summarize the corresponding MPC provision, and analyze the key differences. The goal is not to declare a winner but to illuminate the choices that modern code drafters face---and to sharpen the analytical skills that students will need to navigate criminal codes in any jurisdiction.
+
+{{< pagebreak >}}
+
+## Basic Requirements of Offense Liability {#sec-general-part-basic}
+
+This section compares foundational requirements: the voluntary act doctrine, omission liability, and causation.
+
+---
+
+### Voluntary Act and Omission
+
+#### Proposed RCC Provision
+
+The RCC addresses the conduct requirement and voluntariness in two separate provisions. RCC Section 22E-202 establishes the conduct requirement and defines its two forms:
+
+> **RCC Section 22E-202. Conduct Requirement.**
+>
+> (a) Conduct requirement. No person may be convicted of an offense unless the person's liability is based on an act or omission.
+>
+> (b) "Act" defined. "Act" means a bodily movement.
+>
+> (c) "Omission" defined. "Omission" means a failure to act when:
+>
+> (1) A person is under a legal duty to act; and
+>
+> (2) The person is either:
+>
+> (A) Aware that the legal duty to act exists; or
+>
+> (B) Culpably unaware that the legal duty to act exists.
+>
+> (d) Existence of legal duty. In this title, a legal duty to act exists when:
+>
+> (1) The failure to act is expressly made sufficient by the law defining the offense; or
+>
+> (2) A duty to perform the omitted act is otherwise imposed by law.
+
+RCC Section 22E-203 then imposes an independent voluntariness requirement on whatever conduct forms the basis of liability:
+
+> **RCC Section 22E-203. Voluntariness Requirement.**
+>
+> (a) Voluntariness requirement. No person may be convicted of an offense unless the person voluntarily commits the conduct element required for the offense.
+>
+> (b) Scope of voluntariness requirement.
+>
+> (1) Voluntariness of act. When a person's act provides the basis for liability, a person voluntarily commits the conduct element of an offense when the act is:
+>
+> (A) The product of conscious effort or determination; or
+>
+> (B) Otherwise subject to the person's control.
+>
+> (2) Voluntariness of omission. When a person's omission provides the basis for liability, a person voluntarily commits the conduct element of an offense when:
+>
+> (A) The person has the physical capacity to perform the required legal duty; or
+>
+> (B) The failure to act is otherwise subject to the person's control.
+
+#### MPC Counterpart
+
+MPC Section 2.01 combines the conduct requirement and the voluntariness requirement in a single provision. Subsection (1) states the basic rule: "A person is not guilty of an offense unless his liability is based on conduct which includes a voluntary act or the omission to perform an act of which he is physically capable." Rather than defining voluntariness affirmatively, the MPC supplies a list of movements that are deemed involuntary. Section 2.01(2) provides that the following "are not voluntary acts within the meaning of this Section":
+
+- (a) a reflex or convulsion;
+- (b) a bodily movement during unconsciousness or sleep;
+- (c) conduct during hypnosis or resulting from hypnotic suggestion;
+- (d) a bodily movement that otherwise is not a product of the effort or determination of the actor, either conscious or habitual.
+
+On omissions, MPC Section 2.01(3) states that liability based on an omission is not established "unless a duty to perform the omitted act is otherwise imposed by law." The MPC does not include a separate awareness-of-duty requirement.
+
+#### Key Differences
+
+**Affirmative vs. negative definition of voluntariness.** The most salient structural difference is in how the two codes define what counts as a "voluntary" act. The MPC proceeds by exclusion: it lists specific categories of involuntary movements---reflexes, convulsions, unconscious movements, hypnotic states---and then includes a residual clause (movements not the "product of the effort or determination of the actor"). The RCC takes the opposite approach, defining voluntariness affirmatively as an act that is either "the product of conscious effort or determination" or "otherwise subject to the person's control." The affirmative framing avoids the interpretive questions that arise when a particular involuntary movement does not fit neatly into the MPC's enumerated categories. At the same time, the RCC's residual clause---"otherwise subject to the person's control"---is broad enough to capture cases the MPC's list might miss, such as movements caused by external physical force or certain neurological conditions not easily classified as reflexes or convulsions.
+
+**Separate treatment of act voluntariness and omission voluntariness.** The MPC addresses voluntariness of acts and the capacity to perform omitted acts in separate subsections but does not systematically distinguish the two. The RCC, by contrast, devotes parallel subsections to each: for acts, voluntariness means the act was a product of conscious effort or otherwise subject to the person's control; for omissions, voluntariness means the person had the physical capacity to perform the required duty or the failure to act was otherwise subject to the person's control. This parallel structure makes explicit what the MPC leaves implicit---that the voluntariness inquiry differs depending on whether liability is based on an act or an omission.
+
+**Awareness of legal duty for omission liability.** The RCC's definition of "omission" requires not only that a legal duty to act exists, but that the person was either "aware that the legal duty to act exists" or "culpably unaware" of it. The MPC imposes no such requirement at the definitional level. Under the MPC, a person may be liable for an omission whenever a duty exists and the person was physically capable of acting, regardless of whether the person knew about the duty. In practice, culpability requirements attached to individual offenses may impose knowledge requirements that achieve a similar result. But the RCC's approach builds the awareness requirement directly into the definition of omission, ensuring that no person can be convicted for failing to discharge a duty of which they were blamelessly ignorant. The "culpably unaware" alternative prevents actors from escaping liability through willful blindness to their legal obligations.
+
+---
+
+### Causation
+
+#### Proposed RCC Provision
+
+> **RCC Section 22E-204. Causation Requirement.**
+>
+> (a) Causation requirement. No person may be convicted of an offense that contains a result element unless the person's conduct is the factual cause and legal cause of the result.
+>
+> (b) "Factual cause" defined. A person's conduct is the factual cause of a result if:
+>
+> (1) The result would not have occurred but for the person's conduct; or
+>
+> (2) When the conduct of 2 or more persons contributes to a result, the conduct of each alone would have been sufficient to produce that result.
+>
+> (c) "Legal cause" defined. A person's conduct is the legal cause of a result if:
+>
+> (1) The result is reasonably foreseeable in its manner of occurrence; and
+>
+> (2) When the result depends on another person's volitional conduct, there is a close connection between the actor's conduct and the result.
+
+#### MPC Counterpart
+
+MPC Section 2.03 addresses causation in considerably more detail---and with considerably more complexity. On factual causation, the MPC states that conduct is the cause of a result when it is "an antecedent but for which the result in question would not have occurred." Unlike the RCC, the MPC does not expressly codify a rule for concurrent sufficient causes, leaving that problem to judicial development.
+
+On legal causation, the MPC's approach varies by the culpable mental state required for the offense. When purpose or knowledge is required, the "actual result" must not be "too remote or accidental in its occurrence to have a just bearing on the actor's liability or on the gravity of his offense." MPC Section 2.03(2)(b). When recklessness or negligence is required, the actual result must not be "too remote or accidental in its occurrence" to bear on the actor's liability, and the actual result must involve "the same kind of injury or harm as the probable result" and must "not be too remote or accidental in its manner of occurrence." MPC Section 2.03(3)(b). The MPC does not include a separate provision addressing volitional intervening conduct by third parties.
+
+#### Key Differences
+
+**Concurrent sufficient causes.** The RCC expressly addresses a problem that has long vexed criminal law: what happens when two actors independently engage in conduct, each of which would alone have been sufficient to cause the prohibited result? The classic example is two arsonists who independently set fire to the same building, where either fire alone would have destroyed it. Under a strict but-for test, neither is the factual cause---because the result would have occurred even without that actor's conduct. The RCC resolves this by providing that when "the conduct of 2 or more persons contributes to a result" and "the conduct of each alone would have been sufficient to produce that result," factual causation is established. The MPC contains no analogous provision, leaving courts to develop common law solutions to what is sometimes called the problem of "overdetermined" causation.
+
+**Legal cause: foreseeability vs. remoteness.** The two codes take meaningfully different approaches to the proximate cause inquiry. The RCC asks whether the result was "reasonably foreseeable in its manner of occurrence"---a standard that directs attention to whether the way the harm came about was the kind of thing a reasonable person could have anticipated. The MPC, by contrast, asks whether the result was "too remote or accidental" to have a "just bearing" on the actor's liability. The MPC's formulation is deliberately open-ended, inviting a normative judgment about the justice of imposing liability rather than a predictive judgment about foreseeability. The RCC's approach is more determinate: it provides a concrete standard (reasonable foreseeability) against which the manner of occurrence can be measured, rather than delegating the question to an all-things-considered assessment of fairness.
+
+**Volitional intervening actors.** Perhaps the most significant departure is the RCC's explicit treatment of intervening human conduct. When a prohibited result "depends on another person's volitional conduct," the RCC requires that there be "a close connection between the actor's conduct and the result." This provision directly addresses the classic intervening-cause problem: if A injures B and then C independently decides to kill B, should A be liable for B's death? The MPC has no analogous provision; its "too remote or accidental" standard must do all the work, and courts applying the MPC have developed varying doctrines to handle intervening volitional conduct. The RCC's approach has the virtue of making the inquiry explicit and signaling that volitional intervening acts pose a distinctive challenge to causal attribution---one that requires a showing of "close connection" beyond mere foreseeability. At the same time, the phrase "close connection" introduces its own interpretive questions: the RCC does not define what degree of connection is required, leaving courts to develop the standard case by case.
+
+**Culpability-differentiated causation.** The MPC varies its causation standard depending on the culpable mental state required for the offense, applying one test when purpose or knowledge is at issue and another when recklessness or negligence is required. The RCC applies a single causation standard regardless of the culpability level. This simplification eliminates a source of doctrinal complexity in MPC jurisdictions---where courts must first determine which causation standard applies before assessing whether it is satisfied---but it also sacrifices the MPC's insight that the relationship between culpability and causation may warrant different treatment depending on how blameworthy the actor's mental state was.
+
+{{< pagebreak >}}
+
+## Culpability {#sec-general-part-culpability}
+
+This section compares the codes' approaches to culpable mental states, mistake and ignorance, and intoxication.
+
+---
+
+### Culpable Mental States
+
+Both the RCC and the MPC adopt the same four-level hierarchy of culpable mental states---purpose, knowledge, recklessness, and negligence---and define them in substantially similar terms. The differences lie in the RCC's treatment of "intent" as a statutory synonym, its use of "in fact" as a strict liability marker, and its default and distribution rules for assigning mental states to offense elements.
+
+---
+
+#### Proposed RCC Provision: §§ 22E-205, 22E-206, 22E-207
+
+**Culpable Mental State Requirement (§ 22E-205):**
+
+> (a) Culpable mental state requirement. No person may be convicted of an offense unless the person acts with a culpable mental state as to every result element and circumstance element required for the offense, other than an element for which the person is strictly liable under RCC § 22E-207(b).
+>
+> (b) Culpable mental state defined. "Culpable mental state" means:
+>
+> > (1) Purpose, knowledge, intent, recklessness, or negligence; and
+> >
+> > (2) The object of the phrases "with intent" and "with the purpose".
+>
+> (c) "Strictly liability" defined. "Strictly liable" and "strict liability" mean liability as to a result element or circumstance element in the absence of a culpable mental state.
+
+**Definitions and Hierarchy (§ 22E-206):**
+
+> (a) "Purposely" defined. A person acts purposely:
+>
+> > (1) As to a result element when the person consciously desires to cause the result; and
+> >
+> > (2) As to a circumstance element when the person consciously desires that the circumstance exists.
+>
+> (b) "Knowingly" and "intentionally" defined. A person acts knowingly or intentionally:
+>
+> > (1) As to a result element, when the person is aware or believes that the conduct is practically certain to cause the result; and
+> >
+> > (2) As to a circumstance element when the person is practically certain that the circumstance exists.
+>
+> (c) "Recklessly" defined. A person acts recklessly:
+>
+> > (1) As to a result element, when:
+> >
+> > > (A) The person consciously disregards a substantial risk that the conduct will cause the result; and
+> > >
+> > > (B) The risk is of such a nature and degree that, considering the nature of and motivation for the person's conduct and the circumstances the person is aware of, the person's conscious disregard of that risk is a gross deviation from the standard of conduct that a reasonable individual would follow in the person's situation; and
+> >
+> > (2) As to a circumstance element, when:
+> >
+> > > (A) The person consciously disregards a substantial risk that the circumstance exists; and
+> > >
+> > > (B) The risk is of such a nature and degree that, considering the nature of and motivation for the person's conduct and the circumstances the person is aware of, the person's conscious disregard of that risk is a gross deviation from the standard of conduct that a reasonable individual would follow in the person's situation.
+>
+> (d) "Negligently" defined. A person acts negligently:
+>
+> > (1) As to a result element, when:
+> >
+> > > (A) The person should be aware of a substantial risk that the conduct will cause the result; and
+> > >
+> > > (B) The risk is of such a nature and degree that, considering the nature of and motivation for the person's conduct and the circumstances the person is aware of, the person's failure to perceive that risk is a gross deviation from the standard of care that a reasonable individual would follow in the person's situation; and
+> >
+> > (2) As to a circumstance element, when:
+> >
+> > > (A) The person should be aware of a substantial risk that the circumstance exists; and
+> > >
+> > > (B) The risk is of such a nature and degree that, considering the nature of and motivation for the person's conduct and the circumstances the person is aware of, the person's failure to perceive that risk is a gross deviation from the standard of care that a reasonable individual would follow in the person's situation.
+>
+> (e) Hierarchical relationship of culpable mental states.
+>
+> > (1) Proof of Negligence. When the law requires negligence as to a result element or circumstance element, the requirement is also satisfied by proof of recklessness, intent, knowledge, or purpose.
+> >
+> > (2) Proof of Recklessness. When the law requires recklessness as to a result element or circumstance element, the requirement is also satisfied by proof of intent, knowledge, or purpose.
+> >
+> > (3) Proof of Knowledge or Intent. When the law requires knowledge or intent as to a result element or circumstance element, the requirement is also satisfied by proof of purpose.
+
+**Rules of Interpretation (§ 22E-207):**
+
+> (a) Distribution of specified culpable mental states. Any culpable mental state or strict liability specified in an offense applies to all subsequent result elements and circumstance elements until another culpable mental state or strict liability is specified.
+>
+> (b) Identification of elements subject to strict liability. A person is strictly liable for any result element or circumstance element in an offense:
+>
+> > (1) That is modified by the phrase "in fact"; or
+> >
+> > (2) When another statutory provision explicitly indicates strict liability applies to that result element or circumstance element.
+>
+> (c) Recklessness otherwise implied. A culpable mental state of "recklessly" applies to any result element or circumstance element not otherwise subject to a culpable mental state under RCC § 22E-207(a) or strict liability under RCC § 22E-207(b).
+
+#### MPC Counterpart: §§ 2.02, 2.05
+
+MPC Section 2.02 defines the same four culpable mental states. "Purposely" requires a conscious object to engage in conduct of that nature or to cause such a result; as to attendant circumstances, it requires the actor to be aware of or hope that such circumstances exist. "Knowingly" requires awareness that conduct is of a particular nature, or that it is practically certain that conduct will cause a particular result. "Recklessly" and "negligently" track the same gross-deviation-from-reasonable-conduct standard found in the RCC. Section 2.02(3) provides the default rule: "When the culpability sufficient to establish a material element of an offense is not prescribed by law, such element is established if a person acts purposely, knowingly, or recklessly with respect thereto." Section 2.02(4) provides the distribution rule: "When the law defining an offense prescribes the kind of culpability that is sufficient for the commission of an offense, without distinguishing among the material elements thereof, such provision shall apply to all the material elements of the offense, unless a contrary purpose plainly appears." Section 2.05 addresses strict liability, limiting it to violations (non-criminal offenses punishable only by fine or forfeiture) unless the legislature clearly intends otherwise.
+
+#### Key Differences
+
+**"Intent" as a Statutory Synonym for "Knowledge."** The MPC uses four mental states and four alone: purpose, knowledge, recklessness, and negligence. The word "intent" does not appear as a defined term; the drafters regarded its historical ambiguity---sometimes meaning purpose, sometimes meaning knowledge---as a source of confusion best eliminated. The RCC takes a different approach. Recognizing that legislatures, courts, and practitioners will continue to use "intent" and "intentionally," the RCC explicitly defines them as synonyms for "knowledge" and "knowingly" in Section 22E-206(b). This is a practical concession to linguistic convention: rather than fighting the entrenched usage, the RCC domesticates it by assigning a precise meaning. The tradeoff is that the RCC's vocabulary is slightly more redundant than the MPC's, but arguably more accessible to practitioners accustomed to the traditional terminology.
+
+**Strict Liability Identification: "In Fact" vs. Legislative Exception.** The MPC treats strict liability with deep suspicion. Section 2.05 confines true strict liability to "violations"---non-criminal infractions carrying no possibility of imprisonment. For all other offenses, the MPC's default culpability requirement applies unless the legislature clearly indicates otherwise. The RCC takes a different structural approach: it creates a textual marker---the phrase "in fact"---that signals strict liability as to any element it modifies. When an offense provides that the victim was "in fact" under a certain age, for example, the defendant's belief about the victim's age is irrelevant. This approach has the advantage of transparency: a reader of the statute can identify strict liability elements on the face of the text without consulting case law or legislative history. The MPC, by contrast, leaves the identification of strict liability elements to judicial interpretation of legislative intent, which can produce inconsistent results across jurisdictions.
+
+**Default Culpability: Recklessness vs. Purpose-Knowledge-or-Recklessness.** When an offense definition is silent as to the mental state required for a particular element, the two codes supply different defaults. MPC Section 2.02(3) provides that purpose, knowledge, or recklessness will suffice---a disjunctive standard that effectively makes recklessness the floor but expressly allows conviction on proof of any higher mental state. RCC Section 22E-207(c) states that "recklessly" applies to any uncovered element. In practical effect, the two rules converge: under the RCC's hierarchy provision in Section 22E-206(e), proof of knowledge or purpose automatically satisfies a recklessness requirement. The difference is one of drafting technique rather than substance. The MPC's formulation is arguably more transparent about the range of mental states that satisfy the requirement; the RCC's formulation is more concise and relies on the reader's understanding of the separately stated hierarchy rule.
+
+**Distribution of Mental States Across Elements.** MPC Section 2.02(4) provides that when a statute prescribes a single mental state "without distinguishing among the material elements thereof," that mental state applies to all material elements unless a contrary purpose plainly appears. RCC Section 22E-207(a) adopts a sequential rule: a specified mental state "applies to all subsequent result elements and circumstance elements until another culpable mental state or strict liability is specified." The RCC's approach is more precise in its mechanics---it provides a clear reading rule for statutes that specify different mental states for different elements, with each mental state governing the elements that follow it until the next mental state appears. The MPC's rule is less explicit about how to handle statutes that specify multiple mental states, leaving more room for interpretive disagreement about which mental state attaches to which element.
+
+**Hierarchy Provisions.** Both codes establish that higher mental states satisfy lower ones, and both arrange the hierarchy identically: purpose satisfies knowledge, knowledge satisfies recklessness, and recklessness satisfies negligence. The RCC's hierarchy in Section 22E-206(e) and the MPC's in Section 2.02(5) are functionally identical. The only notable difference is that the RCC's hierarchy explicitly includes "intent" alongside "knowledge" at the third tier, consistent with its treatment of intent as a knowledge synonym.
+
+---
+
+### Mistake and Ignorance
+
+Both the RCC and MPC treat mistake of fact as a defense only insofar as it negates a required culpable mental state. Neither code recognizes mistake as an independent, freestanding defense. The most significant departure is the RCC's codification of deliberate ignorance (willful blindness) as a statutory rule, a doctrine the MPC left entirely to judicial development.
+
+---
+
+#### Proposed RCC Provision: § 22E-208
+
+> (a) Effect of accident, mistake, and ignorance on liability. A person is not liable for an offense when the person's accident, mistake, or ignorance as to a matter of fact or law negates the existence of a culpable mental state required for a result element or circumstance element in the offense.
+>
+> (b) Relationship between mistake and culpable mental state requirements. A mistake as to a matter of fact or law negates the existence of a culpable mental state applicable to a circumstance element as follows:
+>
+> > (1) Purpose. Any mistake as to a circumstance element negates purpose as to that element.
+> >
+> > (2) Knowledge or intent. Any mistake as to a circumstance element negates knowledge or intent as to that element.
+> >
+> > (3) Recklessness. A reasonable mistake as to a circumstance element negates recklessness as to that element. An unreasonable mistake as to a circumstance element negates recklessness as to that element unless the person made the mistake recklessly.
+> >
+> > (4) Negligence. A reasonable mistake as to a circumstance element negates negligence as to that element. An unreasonable mistake as to a circumstance element negates negligence as to that element unless the person made the mistake negligently.
+>
+> (c) Mistake or ignorance as to criminality. A person remains liable for an offense when they are mistaken or ignorant as to the illegality of their conduct unless the person's mistake or ignorance:
+>
+> > (1) Negates a culpable mental state that is expressly specified by statute as to:
+> >
+> > > (A) Whether conduct constitutes that offense; or
+> > >
+> > > (B) The existence, meaning, or application of the law defining an offense; or
+> >
+> > (2) Satisfies the requirements of a general defense under Chapters 4 and 5 of this Subtitle.
+>
+> (d) Imputation of knowledge for deliberate ignorance. Knowledge of a circumstance element is established if the person:
+>
+> > (1) Is reckless as to whether the circumstance element exists; and
+> >
+> > (2) With the purpose of avoiding criminal liability, avoids confirming or fails to investigate whether the circumstance element exists.
+
+#### MPC Counterpart: §§ 2.04, 2.02(7)-(9)
+
+MPC Section 2.04(1) provides the foundational rule: "Ignorance or mistake as to a matter of fact or law is a defense if: (a) the ignorance or mistake negatives the purpose, knowledge, belief, recklessness or negligence required to establish a material element of the offense." Section 2.04(2) addresses lesser-crime situations: a defense based on ignorance or mistake is unavailable if "the defendant would be guilty of another offense had the situation been as he supposed," in which case punishment is limited to the lesser offense. Section 2.04(3) addresses mistake of law, providing that it is not a defense unless the statute so provides or the defendant relies on an official statement of law that is later found erroneous. MPC Sections 2.02(7) through 2.02(9) provide interpretive rules: knowledge of the existence of a particular element is satisfied by knowledge of a high probability of its existence (Section 2.02(7)); willfulness is satisfied by acting knowingly (Section 2.02(8)); and culpability requirements for an offense that involves the criminality of conduct are not automatically satisfied by knowledge that the conduct is criminal under some other provision (Section 2.02(9)). The MPC does not include a separate provision on deliberate ignorance or willful blindness.
+
+#### Key Differences
+
+**Codified Deliberate Ignorance.** The most consequential difference between the two codes is the RCC's explicit codification of deliberate ignorance in Section 22E-208(d). The willful blindness doctrine---under which a defendant who deliberately avoids learning a fact may be treated as having knowledge of that fact---has been recognized by virtually every federal circuit and most state courts, but it rests entirely on judge-made law. The MPC's closest analogue is Section 2.02(7), which provides that "knowledge of the existence of a particular fact is established if a person is aware of a high probability of its existence, unless he actually believes that it does not exist." But this "high probability" formulation has been widely criticized as both too narrow and too imprecise. It does not require any showing that the defendant deliberately avoided learning the truth, meaning it could in theory sweep in a merely reckless actor who happened to be aware of a high probability. The RCC's formulation is more demanding in one respect---it requires that the defendant acted "with the purpose of avoiding criminal liability"---and more precise in its structure, requiring both recklessness as to the circumstance and a purposeful decision to remain ignorant. By codifying the doctrine, the RCC eliminates the inconsistency that characterizes its judicial development across jurisdictions.
+
+**Mistake and the Culpability Hierarchy.** Both codes treat mistake as negating mens rea rather than as an affirmative defense, but the RCC spells out the relationship with considerably more specificity. Section 22E-208(b) walks through each level of culpability and explains precisely when a mistake---reasonable or unreasonable---negates that mental state. For purpose and knowledge, any mistake suffices. For recklessness, a reasonable mistake always negates the mental state, while an unreasonable mistake does so unless the defendant was reckless in making it. For negligence, the same structure applies with a negligence standard. The MPC leaves this analysis largely implicit: Section 2.04(1) states the general principle that mistake negates culpability, but the reader must work out the interaction between mistake and each culpability level by reasoning from the definitions themselves. The RCC's approach sacrifices some brevity for the sake of explicitness, reducing the likelihood of interpretive error.
+
+**Mistake of Law.** Both codes maintain the traditional rule that ignorance of the criminal law is no excuse, but with exceptions. The MPC's exceptions in Section 2.04(3) are framed in terms of reasonable reliance on official statements of law---statutes, judicial decisions, administrative orders, or official interpretations---that are later found erroneous. The RCC's approach in Section 22E-208(c) is somewhat broader: mistake or ignorance as to criminality is a defense when it negates a culpable mental state that the statute expressly requires as to whether the conduct constitutes the offense or as to the existence, meaning, or application of the law defining the offense. This formulation captures not only the reliance cases but any situation in which a statute explicitly requires the defendant to know that the conduct is illegal. The RCC also preserves a general-defense route, allowing mistake of law to function as a defense when it satisfies the requirements of general defenses such as entrapment by estoppel.
+
+**The Lesser-Crime Limitation.** MPC Section 2.04(2) provides that when a defendant's mistake would, if the facts were as the defendant believed, still make the defendant guilty of a lesser offense, punishment is limited to that of the lesser offense. The RCC does not include an explicit lesser-crime limitation in its mistake provision. This omission is not necessarily a gap: the RCC's element-by-element approach to culpability means that a defendant's mistake would be evaluated separately as to each element of each charged offense, and the defendant could be convicted of any lesser-included offense whose elements are satisfied. But the MPC's explicit provision offers a clearer textual hook for defense counsel arguing for reduced liability.
+
+---
+
+### Intoxication
+
+Both the RCC and MPC allow evidence of intoxication to negate certain culpable mental states and both impute recklessness when self-induced intoxication prevents the defendant from perceiving a risk that would otherwise be apparent. The RCC, however, provides a far more detailed account of how intoxication interacts with each level of culpability, spelling out element by element what the MPC leaves to inference.
+
+---
+
+#### Proposed RCC Provision: § 22E-209
+
+> (a) Relevance of intoxication to liability. A person is not liable for an offense when the person's intoxication negates the existence of a culpable mental state required for a result element or circumstance element in the offense.
+>
+> (b) Relationship between intoxication and culpable mental state requirements. Intoxication negates the existence of a culpable mental state applicable to a result element or circumstance element as follows:
+>
+> > (1) Purpose. Intoxication negates purpose as to a result element or circumstance element when, due to the person's intoxicated state, the person does not consciously desire to cause the result or that the circumstance exists.
+> >
+> > (2) Knowledge or intent. Intoxication negates knowledge or intent as to a result element or circumstance element when, due to the person's intoxicated state, the person is not practically certain that the result will occur or that the circumstance exists.
+> >
+> > (3) Recklessness. Except as specified in subsection (c) of this section, intoxication negates recklessness as to a result element or circumstance element when, due to the person's intoxicated state:
+> >
+> > > (A) The person is unaware of a substantial risk that the result will occur or that the circumstance exists; or
+> > >
+> > > (B) The person's disregard of the risk is not a gross deviation from the standard of conduct that a reasonable individual would follow in the person's situation under RCC § 22E-206(c)(1)(B) or RCC § 22E-206(c)(2)(B).
+> >
+> > (4) Negligence. Intoxication negates negligence as to a result element or circumstance element when, due to the person's intoxicated state, the person's failure to perceive a substantial risk that the result will occur or that the circumstance exists is not a gross deviation from the standard of care that a reasonable individual would follow in the person's situation under RCC § 22E-206(d)(1)(B) or § 22E-206(d)(2)(B).
+>
+> (c) Imputation of recklessness for self-induced intoxication. Recklessness as to a result element or circumstance element is established if:
+>
+> > (1) Because of an intoxicated state, the person is unaware of a substantial risk of the result occurring or circumstance existing, that the person would have been aware of had the person been sober;
+> >
+> > (2) The person's intoxicated state is self-induced; and
+> >
+> > (3) The person acts at least negligently as to that result or circumstance.
+>
+> (d) "Intoxication" and "self-induced intoxication" defined.
+>
+> > (1) "Intoxication" means a disturbance of mental or physical capacities resulting from the introduction of substances into the body.
+> >
+> > (2) "Self-induced intoxication" means intoxication that, in fact, is caused by a substance that an actor knowingly introduces into their body, negligent as to the tendency of the substance to cause intoxication and, in fact, the substance was not introduced pursuant to medical advice by a licensed health professional or under circumstances that would afford a general defense under Chapters 4 or 5 of this Subtitle.
+
+#### MPC Counterpart: § 2.08
+
+MPC Section 2.08(1) provides the general rule: "Except as provided in Subsection (4) of this Section, intoxication of the actor is not a defense unless it negatives an element of the offense." Section 2.08(2) supplies the imputation rule: "When recklessness establishes an element of the offense, if the actor, due to self-induced intoxication, is unaware of a risk of which he would have been aware had he been sober, such unawareness is immaterial." Section 2.08(3) provides that intoxication does not in itself constitute mental disease for purposes of the insanity defense. Section 2.08(4) creates an affirmative defense of pathological intoxication---intoxication "grossly excessive in degree, given the amount of the intoxicant, to which the actor does not know he is susceptible." Section 2.08(5) defines key terms, including "intoxication" ("a disturbance of mental or physical capacities resulting from the introduction of substances into the body") and "self-induced intoxication" (intoxication caused by substances the actor knowingly introduces, knowing of their intoxicating tendency, unless introduced under medical advice or duress).
+
+#### Key Differences
+
+**Granularity of the Intoxication-Culpability Interaction.** The most striking difference is one of statutory architecture. The MPC addresses intoxication in five relatively compact subsections, stating the general principle that intoxication negates mens rea and then providing the recklessness imputation rule. It leaves the reader to work out how intoxication interacts with purpose, knowledge, and negligence by reasoning from the general definitions of those terms. The RCC, by contrast, devotes Section 22E-209(b) to a systematic, element-by-element account. It explains that intoxication negates purpose when the defendant does not consciously desire the result; that it negates knowledge when the defendant is not practically certain of the result; that it negates recklessness (absent imputation) when the defendant is unaware of the risk or when the disregard does not constitute a gross deviation; and that it negates negligence when the failure to perceive the risk is not a gross deviation. This level of detail eliminates interpretive ambiguity about whether and how intoxication bears on each mental state.
+
+**The Imputation Rule: Adding a Negligence Floor.** Both codes impute recklessness when self-induced intoxication prevents the defendant from perceiving a risk that would have been apparent when sober. The MPC's rule in Section 2.08(2) states simply that "such unawareness is immaterial." The RCC's rule in Section 22E-209(c) adds a third requirement not found in the MPC: the defendant must act "at least negligently as to that result or circumstance." This is a meaningful refinement. Under the MPC, the recklessness imputation is automatic whenever the intoxication is self-induced and the defendant would have perceived the risk when sober. The RCC requires something more---that the defendant's conduct, even in the intoxicated state, falls below the standard of care that a reasonable person would observe. This additional requirement narrows the imputation rule, ensuring that recklessness is not imputed in cases where the defendant, although intoxicated, was not even negligent with respect to the relevant element.
+
+**Pathological Intoxication.** The MPC provides an affirmative defense for pathological intoxication---a condition in which the actor's intoxication is "grossly excessive in degree, given the amount of the intoxicant, to which the actor does not know he is susceptible" (Section 2.08(4)). The RCC does not include a separate pathological intoxication defense. Instead, its definition of "self-induced intoxication" excludes intoxication caused by substances introduced "pursuant to medical advice by a licensed health professional or under circumstances that would afford a general defense under Chapters 4 or 5 of this Subtitle." This approach covers some pathological intoxication scenarios---a person who takes a prescribed medication that produces unexpected intoxication---but may not capture the full range of cases the MPC addresses, such as a person who voluntarily consumes alcohol but has an unknown physiological condition that produces a wildly disproportionate reaction.
+
+**Definition of Self-Induced Intoxication.** Both codes require that the actor knowingly introduce the substance and be aware (MPC) or at least negligent (RCC) as to its tendency to intoxicate. The RCC's use of "negligent as to the tendency of the substance to cause intoxication" sets a slightly lower threshold than the MPC's "knowing of its tendency to intoxicate." Under the RCC, a person who should have known that a substance was intoxicating---but did not actually know---has still self-induced the intoxication. Under the MPC, actual awareness of the intoxicating tendency is required. This difference means the RCC's imputation rule has a broader reach: it applies in situations where the defendant was merely negligent about the intoxicating properties of the substance, not just where the defendant actually knew.
+
+**Intoxication and Negligence.** The MPC focuses its imputation rule exclusively on recklessness, leaving the relationship between intoxication and negligence undeveloped. Since negligence involves a failure to perceive risk, and since the reasonable-person standard used to evaluate negligence already assumes sobriety, voluntary intoxication will rarely negate negligence under the MPC---but the code does not say so explicitly. The RCC addresses this directly in Section 22E-209(b)(4), explaining that intoxication negates negligence only when the defendant's failure to perceive the risk is not a gross deviation from the standard of care. By stating the rule expressly, the RCC eliminates any uncertainty about whether intoxication can bear on negligence-based offenses, while making clear that it almost never will in practice because the reasonable-person benchmark does not adjust for self-induced impairment.
+
+{{< pagebreak >}}
+
+## Liability for the Conduct of Others {#sec-general-part-others}
+
+This section compares the codes' approaches to accomplice liability and the liability of those who use innocent agents.
+
+---
+
+### Accomplice Liability
+
+#### Proposed RCC Provision
+
+RCC Section 22E-210 provides:
+
+> **(a) Accomplice liability.** An actor is an accomplice to the commission of an offense by another person when the actor:
+>
+> (1) Purposely assists another person with the planning or commission of conduct constituting an offense and, in fact, acts with the culpability required for the offense; or
+>
+> (2) Purposely encourages another person to engage in specific conduct constituting an offense and, in fact, acts with the culpability required for the offense.
+>
+> **(b) Culpable mental state elevation applicable to circumstances of target offense.** Notwithstanding subsection (a) of this section, to be an accomplice to the commission of an offense, an actor must intend for all circumstance elements required by the offense to exist.
+>
+> **(c) Grading distinctions based on culpability as to result elements.** An accomplice to the commission of an offense that is graded by distinctions in culpability as to result elements is liable for any grade for which they have the culpability required.
+>
+> **(d) Charging and penalties.** An actor who is an accomplice to the commission of an offense by another person shall be charged and subject to punishment as a principal.
+>
+> **(e) Actual disposition of principal not relevant.** An actor is liable as an accomplice under this section even though the principal has not been arrested, prosecuted, convicted, adjudicated delinquent, or acquitted for an offense.
+
+RCC Section 22E-211 codifies the innocent instrumentality doctrine:
+
+> **(a) Criminal liability for conduct by an innocent or irresponsible person.** An actor is criminally liable for the conduct of an innocent or irresponsible person when the actor:
+>
+> (1) In fact, causes an innocent or irresponsible person to engage in conduct constituting an offense; and
+>
+> (2) Acts with the culpability required for the offense.
+>
+> **(b) "Innocent or irresponsible person" defined.** The term "innocent or irresponsible person" includes a person who engages in conduct constituting an offense but either:
+>
+> (1) Lacks the culpability required for the offense; or
+>
+> (2) Acts under conditions that establish a general defense under Chapters 4 or 5 of this Subtitle.
+
+RCC Section 22E-304 limits conspirator vicarious liability:
+
+> **(a) Offense.** An actor who is a party to a criminal conspiracy as defined under RCC Section 22E-303 shall not be liable for an offense committed by another party to the conspiracy, unless, in fact:
+>
+> (1) The actor satisfies the requirements for criminal liability specified in RCC Section 22E-210, RCC Section 22E-211, or RCC Section 22E-302; or
+>
+> (2) It is expressly specified by statute that a party to a conspiracy may be held criminally liable for an offense committed by another party to the conspiracy.
+
+#### MPC Counterpart
+
+MPC Section 2.06 provides, in relevant part:
+
+> **(1)** A person is guilty of an offense if it is committed by his own conduct or by the conduct of another person for which he is legally accountable, or both.
+>
+> **(2)** A person is legally accountable for the conduct of another person when:
+>
+> (a) acting with the kind of culpability that is sufficient for the commission of the offense, he causes an innocent or irresponsible person to engage in such conduct; or
+>
+> (b) he is made accountable for the conduct of such other person by the Code or by the law defining the offense; or
+>
+> (c) he is an accomplice of such other person in the commission of the offense.
+>
+> **(3)** A person is an accomplice of another person in the commission of an offense if:
+>
+> (a) with the purpose of promoting or facilitating the commission of the offense, he
+>
+> (i) solicits such other person to commit it, or
+>
+> (ii) aids or agrees or attempts to aid such other person in planning or committing it[.]
+>
+> **(4)** When causing a particular result is an element of an offense, an accomplice in the conduct causing such result is an accomplice in the commission of that offense if he acts with the kind of culpability, if any, with respect to that result that is sufficient for the commission of the offense.
+
+The MPC also provides for renunciation as a defense (Section 2.06(6)) and establishes that an accomplice may be convicted regardless of the principal's disposition (Section 2.06(7)).
+
+#### Key Differences
+
+**Mental State Elevation for Circumstance Elements.** The RCC's most distinctive departure from the MPC is its explicit requirement in Section 22E-210(b) that an accomplice must *intend* for all circumstance elements of the target offense to exist. The MPC has no comparable provision. Under the MPC, courts have struggled with whether an accomplice to statutory rape must know or intend that the victim is underage, or whether negligence or even strict liability as to age suffices. The RCC resolves this ambiguity categorically: the accomplice must intend the circumstance to exist. This elevation means that a person who assists in sexual conduct, unaware that the other party is a minor, cannot be convicted as an accomplice to statutory rape, even if the principal is strictly liable as to age. The provision reflects a judgment that derivative liability should require heightened culpability, ensuring that accomplices are not punished for harms they did not contemplate.
+
+**Explicit Rejection of Pinkerton Liability.** The RCC's treatment of conspirator vicarious liability represents a fundamental structural choice. Under *Pinkerton v. United States*, 328 U.S. 640 (1946), a conspirator may be held liable for any substantive offense committed by a co-conspirator in furtherance of the conspiracy, even without personal participation in or knowledge of the specific crime. The MPC rejected Pinkerton liability but did so only by omission---it simply failed to include such a provision. The RCC goes further in Section 22E-304, affirmatively prohibiting vicarious liability for co-conspirators unless the actor independently satisfies accomplice liability (Section 22E-210), innocent instrumentality liability (Section 22E-211), or solicitation (Section 22E-302), or a specific statute expressly provides otherwise. This explicit limitation is a significant improvement over the MPC's approach because silence can be---and has been---interpreted as leaving room for Pinkerton-style liability through judicial construction.
+
+**Codification of Innocent Instrumentality.** Both codes address the doctrine of innocent instrumentality---holding a mastermind liable when they use an unwitting or irresponsible agent to commit a crime. The MPC treats this in Section 2.06(2)(a) as one basis for legal accountability, folded into the general accomplice liability framework. The RCC devotes a separate provision, Section 22E-211, to this doctrine, providing a clearer definition of "innocent or irresponsible person" that expressly includes both persons lacking the culpability required for the offense and persons acting under conditions establishing a general defense. This structural separation improves clarity and avoids the conceptual strain of treating the manipulation of an innocent agent as a species of "accomplice" liability, when in fact the manipulated person is not guilty of any offense.
+
+**Grading Distinctions for Result Elements.** The RCC's Section 22E-210(c) provides that when an offense is graded by distinctions in culpability as to result elements, an accomplice is liable for "any grade for which they have the culpability required." The MPC's Section 2.06(4) addresses result elements but does so in a less transparent manner, stating that an accomplice in the "conduct causing such result" is an accomplice in the offense if the accomplice acts with the "kind of culpability, if any, with respect to that result that is sufficient for the commission of the offense." The RCC's formulation is more direct: it makes clear that an accomplice who assists in conduct causing death may be convicted of manslaughter rather than murder if the accomplice was reckless rather than purposeful as to the death, without requiring elaborate doctrinal analysis of what it means to be an "accomplice in the conduct causing such result."
+
+{{< pagebreak >}}
+
+## Inchoate Offenses {#sec-general-part-inchoate}
+
+This section compares the codes' approaches to attempt, solicitation, and conspiracy.
+
+---
+
+### Attempt
+
+#### Proposed RCC Provision
+
+RCC Section 22E-301 provides:
+
+> **(a) Definition of criminal attempt.** An actor commits criminal attempt to commit an offense when the actor:
+>
+> (1) In fact, plans to engage in conduct constituting an offense;
+>
+> (2) Engages in conduct that is reasonably adapted to completion of the offense;
+>
+> (3) Acts with the culpability required for the offense; and
+>
+> (4) Either:
+>
+> (A) Comes dangerously close to completing the offense; or
+>
+> (B) Would have come dangerously close to completing the offense if the situation was as the actor perceived it to be.
+>
+> **(b) Culpable mental state elevation applicable to results of target offense.** Notwithstanding subsection (a) of this section, to commit a criminal attempt to commit an offense, the actor must intend to cause all result elements required for the offense.
+>
+> **(c) Proof of completed offense sufficient basis for criminal attempt conviction.** An actor may be convicted of criminal attempt to commit an offense based upon proof that the actor actually committed the target offense, provided that no actor may be convicted of both the target offense and an attempt to commit the target offense arising from the same act or course of conduct.
+>
+> **(d) Penalties.** A criminal attempt to commit an offense is subject to not more than one-half the maximum term of imprisonment and fine applicable to the offense, after the application of any penalty enhancements.
+
+#### MPC Counterpart
+
+MPC Section 5.01 provides, in relevant part:
+
+> **(1) Definition of Attempt.** A person is guilty of an attempt to commit a crime if, acting with the kind of culpability otherwise required for commission of the crime, he:
+>
+> (a) purposely engages in conduct that would constitute the crime if the attendant circumstances were as he believes them to be; or
+>
+> (b) when causing a particular result is an element of the crime, does or omits to do anything with the purpose of causing or with the belief that it will cause such result without further conduct on his part; or
+>
+> (c) purposely does or omits to do anything that, under the circumstances as he believes them to be, is an act or omission constituting a substantial step in a course of conduct planned to culminate in his commission of the crime.
+>
+> **(2) Conduct That May Be Held Substantial Step Under Subsection (1)(c).** Conduct shall not be held to constitute a substantial step under Subsection (1)(c) of this Section unless it is strongly corroborative of the actor's criminal purpose.
+
+The MPC grades attempt at the same level as the completed offense, except that attempt to commit a felony of the first degree is graded as a felony of the second degree (Section 5.05(1)).
+
+#### Key Differences
+
+**The Actus Reus Standard: Hybrid Test vs. Substantial Step.** The most consequential difference between these provisions is the test for how far the defendant must progress toward completion of the crime. The MPC's "substantial step" test, which requires only conduct "strongly corroborative of the actor's criminal purpose," was a deliberate departure from common law proximity tests. It shifts the inquiry away from what remains to be done and toward what the actor has already done, permitting conviction at an earlier stage. The RCC adopts a hybrid approach, requiring both that the actor's conduct be "reasonably adapted to completion of the offense" *and* that the actor come "dangerously close" to completing it. The "dangerously close" language echoes the common law proximity test, while "reasonably adapted" ensures that bizarre or irrational conduct---a supposed attempt using voodoo, for example---does not qualify. This hybrid test reflects a policy judgment that the MPC's substantial step standard sweeps too broadly, potentially criminalizing conduct that is too preliminary to warrant punishment. By requiring dangerous proximity, the RCC preserves a meaningful space between preparation and attempt.
+
+**Treatment of Impossibility.** Both codes effectively eliminate the common law defense of impossibility, but through different mechanisms. The MPC frames the entire attempt inquiry in terms of "the circumstances as he believes them to be," collapsing factual and legal impossibility into irrelevance: a person who shoots at a bed believing a victim is sleeping there is guilty of attempted murder even if the bed is empty. The RCC reaches the same result through Section 22E-301(a)(4)(B), which provides that attempt liability attaches if the actor "would have come dangerously close to completing the offense if the situation was as the actor perceived it to be." The RCC's formulation is arguably more transparent, because it presents the subjective assessment as an explicit alternative rather than embedding it in the general definition. A student reading the RCC can see that the code asks two distinct questions: Did the actor actually come dangerously close? If not, would they have come dangerously close in the world as they understood it?
+
+**Mens Rea Elevation for Result Elements.** Both codes elevate the mental state for result elements in attempt. The RCC states this directly in Section 22E-301(b): the actor must "intend to cause all result elements required for the offense." The MPC achieves a similar result through Section 5.01(1)(b), requiring "the purpose of causing or... the belief that it will cause such result." The practical effect is the same---one cannot attempt to commit reckless or negligent homicide because attempt requires intent or purpose as to the result. But the RCC's formulation is cleaner, employing a single defined term ("intend") in a standalone subsection rather than weaving the elevated mental state into the definitional structure of the offense.
+
+**Penalty Structure.** The codes diverge sharply on grading. The MPC generally treats attempt as equivalent to the completed offense, reflecting the view that a person who has done everything in their power to commit a crime is no less dangerous or culpable simply because they failed. The sole exception is that an attempt to commit a first-degree felony is graded as a second-degree felony. The RCC, by contrast, limits attempt penalties to "not more than one-half the maximum term of imprisonment and fine applicable to the offense." This reflects an alternative view---that actual harm matters, and that the law should distinguish between those who cause harm and those who merely try. The RCC's approach is more consistent with retributive principles tying punishment to harm caused, while the MPC's approach is more consistent with a preventive rationale focused on the actor's dangerousness.
+
+---
+
+### Solicitation
+
+#### Proposed RCC Provision
+
+RCC Section 22E-302 provides:
+
+> **(a) Definition of criminal solicitation.** An actor commits criminal solicitation when the actor:
+>
+> (1) Purposely commands, requests, or tries to persuade another person to engage in or aid the planning or commission of specific conduct, which, if carried out, in fact, will constitute an offense or an attempt to commit an offense; and
+>
+> (2) Acts with the culpability required for the offense.
+>
+> **(b) Scope of criminal solicitation liability.** Notwithstanding subsection (a) of this section, an actor commits criminal solicitation to commit an offense only when the offense is, in fact:
+>
+> (1) An offense against persons as defined in Subtitle II of this title; or
+>
+> (2) A felony property offense as defined in Subtitle III of this title.
+>
+> **(c) Culpable mental state elevation applicable to results and circumstances of target offense.** Notwithstanding subsection (a) of this section, to commit criminal solicitation to commit an offense, an actor must:
+>
+> (1) Intend to cause all result elements required for the offense; and
+>
+> (2) Intend for all circumstance elements required for the offense to exist.
+>
+> **(d) Uncommunicated criminal solicitation.** It is immaterial under subsection (a) of this section that the planned recipient of the actor's command, request, or efforts at persuasion fails to receive the message, if the actor does everything they plan to do to transmit the message to the planned recipient.
+>
+> **(e) Penalties.** A criminal solicitation to commit an offense is subject to not more than one-half the maximum term of imprisonment and fine applicable to the offense, after the application of any penalty enhancements.
+
+#### MPC Counterpart
+
+MPC Section 5.02 provides, in relevant part:
+
+> **(1) Definition of Solicitation.** A person is guilty of solicitation to commit a crime if with the purpose of promoting or facilitating its commission he commands, encourages or requests another person to engage in specific conduct that would constitute such crime or an attempt to commit such crime or which would establish his complicity in its commission or attempted commission.
+>
+> **(2) Uncommunicated Solicitation.** It is immaterial under Subsection (1) of this Section that the actor fails to communicate with the person he solicits to commit a crime if his conduct was designed to effect such communication.
+>
+> **(3) Renunciation of Criminal Purpose.** It is an affirmative defense that the actor, after soliciting another person to commit a crime, persuaded him not to do so or otherwise prevented the commission of the crime, under circumstances manifesting a complete and voluntary renunciation of his criminal purpose.
+
+The MPC grades solicitation at the same level as the target offense, except that solicitation to commit a first-degree felony is a second-degree felony (Section 5.05(1)). The MPC places no subject-matter limitation on which offenses may be solicited.
+
+#### Key Differences
+
+**Scope Limitation.** The most striking difference between these provisions is the RCC's restriction of solicitation liability to offenses against persons and felony property offenses. The MPC applies solicitation to any crime without limitation. Under the MPC, soliciting another person to commit trespass, minor drug possession, or disorderly conduct is criminal solicitation. The RCC rejects this breadth, confining solicitation to offenses that involve violence or serious property harm. This reflects a proportionality judgment: the act of asking someone to commit a minor offense, standing alone, does not warrant criminal liability. Where the solicited offense involves violence against persons or serious property crime, the solicitor's words pose a sufficient risk of harm to justify intervention. For lesser offenses, the law relies on attempt and conspiracy---which require more than mere words---or on the completed offense itself if the solicited person actually commits the crime.
+
+**Mental State Elevation for Results and Circumstances.** The RCC's Section 22E-302(c) requires that a solicitor *intend* to cause all result elements and *intend* for all circumstance elements of the target offense to exist. The MPC requires only "the purpose of promoting or facilitating" the commission of the crime, without separately addressing the solicitor's mental state as to result and circumstance elements. This distinction matters in practice. Under the MPC, if a person solicits another to set fire to a building, and the building happens to be occupied, courts must determine whether the solicitor needs any mental state as to the occupancy (a circumstance element of aggravated arson). The RCC eliminates this uncertainty: the solicitor must intend the circumstance to exist. This elevation ensures that solicitation liability attaches only when the solicitor fully contemplates the harm that the target offense is designed to prevent.
+
+**Uncommunicated Solicitation.** Both codes cover uncommunicated solicitation---the situation where the solicitor's message never reaches the intended recipient. The RCC's formulation requires that "the actor does everything they plan to do to transmit the message to the planned recipient." The MPC requires that the actor's "conduct was designed to effect such communication." These are functionally equivalent, but the RCC's phrasing is somewhat more precise, tying liability to the completion of the actor's planned transmission rather than to the design of the conduct. Both provisions reflect the view that a solicitor who writes a letter hiring a hitman but whose letter is lost in the mail is no less culpable than one whose letter is delivered.
+
+**Penalty Structure.** As with attempt, the codes diverge on grading. The MPC treats solicitation as equivalent to the target offense in seriousness, with the single exception for first-degree felonies. The RCC caps solicitation penalties at one-half the maximum for the target offense. The RCC's approach is consistent with its general treatment of inchoate offenses as less serious than completed crimes, reflecting the view that the further removed conduct is from actual harm, the less severe the punishment should be. The MPC's approach, by contrast, reflects the position that a person who deliberately sets criminal conduct in motion by recruiting others is sufficiently dangerous to warrant punishment equivalent to the completed crime.
+
+---
+
+### Conspiracy
+
+#### Proposed RCC Provision
+
+RCC Section 22E-303 provides:
+
+> **(a) Definition of criminal conspiracy.** An actor commits criminal conspiracy to commit an offense when the actor and at least one other person:
+>
+> (1) Purposely agree to engage in or aid the planning or commission of conduct which, if carried out, in fact, will constitute an offense or a criminal attempt to commit an offense;
+>
+> (2) The parties to the agreement act with the culpability required for the offense; and
+>
+> (3) Any one of the parties to the agreement engages in an overt act in furtherance of the agreement.
+>
+> **(b) Culpable mental state elevation applicable to results and circumstances of target offense.** Notwithstanding subsection (a) of this section, to commit criminal conspiracy to commit an offense, the actor and at least one other person must:
+>
+> (1) Intend to cause all result elements required for the offense; and
+>
+> (2) Intend for all circumstance elements required for the offense to exist.
+>
+> **(c) Penalties.** A criminal conspiracy to commit an offense is subject to not more than one-half the maximum term of imprisonment and fine applicable to the offense, after the application of any penalty enhancements.
+
+RCC Section 22E-304 provides:
+
+> **(a) Offense.** An actor who is a party to a criminal conspiracy as defined under RCC Section 22E-303 shall not be liable for an offense committed by another party to the conspiracy, unless, in fact:
+>
+> (1) The actor satisfies the requirements for criminal liability specified in RCC Section 22E-210, RCC Section 22E-211, or RCC Section 22E-302; or
+>
+> (2) It is expressly specified by statute that a party to a conspiracy may be held criminally liable for an offense committed by another party to the conspiracy.
+
+#### MPC Counterpart
+
+MPC Section 5.03 provides, in relevant part:
+
+> **(1) Definition of Conspiracy.** A person is guilty of conspiracy with another person or persons to commit a crime if with the purpose of promoting or facilitating its commission he:
+>
+> (a) agrees with such other person or persons that they or one or more of them will engage in conduct that constitutes such crime or an attempt or solicitation to commit such crime; or
+>
+> (b) agrees to aid such other person or persons in the planning or commission of such crime or of an attempt or solicitation to commit such crime.
+>
+> **(5) Overt Act.** No person may be convicted of conspiracy to commit a crime, other than a felony of the first or second degree, unless an overt act in pursuance of such conspiracy is alleged and proved to have been done by him or by a person with whom he conspired.
+
+The MPC grades conspiracy at the same level as the target offense, with the exception that conspiracy to commit a first-degree felony is a second-degree felony (Section 5.05(1)). The MPC contains no provision expressly addressing vicarious liability for substantive offenses committed by co-conspirators.
+
+#### Key Differences
+
+**Overt Act Requirement.** Both codes require an overt act, but with different scope. The MPC exempts conspiracies to commit first- and second-degree felonies from the overt act requirement, reasoning that agreement to commit the most serious crimes is itself sufficiently alarming to warrant criminal liability without further action. The RCC requires an overt act for all conspiracies without exception. This universal requirement reflects the view that a bare agreement, however serious the contemplated crime, does not provide sufficient assurance of firmness of criminal purpose. The overt act serves an evidentiary function---confirming that the agreement is genuine and not mere talk---that is equally valuable whether the target offense is a misdemeanor or the most serious felony. The RCC's approach also provides a clearer line between criminal liability and constitutionally protected speech and association.
+
+**Explicit Limitation on Vicarious Liability.** The RCC's most important innovation in conspiracy law is Section 22E-304, which expressly prohibits holding a conspirator liable for substantive offenses committed by co-conspirators unless the defendant independently satisfies the requirements for accomplice liability, innocent instrumentality, or solicitation. This provision directly repudiates the rule of *Pinkerton v. United States*, 328 U.S. 640 (1946), under which a conspirator is vicariously liable for any foreseeable crime committed by a co-conspirator in furtherance of the conspiracy. The MPC likewise rejected Pinkerton liability, but did so only through omission---by declining to include any provision authorizing it. The RCC's affirmative prohibition is more robust because it forecloses the argument, advanced in some jurisdictions, that the absence of a Pinkerton provision does not preclude courts from recognizing such liability as a matter of common law. By stating the rule in the negative ("shall not be liable... unless"), the RCC leaves no interpretive gap.
+
+**Mental State Elevation for Results and Circumstances.** The RCC requires that all parties to the conspiracy *intend* to cause result elements and *intend* for circumstance elements to exist. The MPC requires "the purpose of promoting or facilitating" the commission of the crime but does not separately address the conspirators' mental states as to result and circumstance elements. This has generated significant confusion in MPC jurisdictions. For example, if two people agree to distribute drugs and one of the drugs is, unbeknownst to them, a controlled substance in a category that elevates the offense, the MPC provides no clear answer as to whether the conspiracy charge should reflect the elevated offense. The RCC resolves this: because the parties must intend for the circumstance (the drug's classification) to exist, they cannot be convicted of conspiracy to commit the elevated offense unless they were aware of and intended that circumstance.
+
+**Penalty Structure.** Consistent with its treatment of all inchoate offenses, the RCC caps conspiracy penalties at one-half the maximum for the target offense. The MPC grades conspiracy at the same level as the completed crime, excepting only first-degree felonies. The policy considerations mirror those discussed in the attempt and solicitation sections: the RCC treats the absence of completed harm as a basis for reduced punishment, while the MPC treats the existence of a criminal agreement---with its potential for ongoing criminal activity and mutual reinforcement among conspirators---as warranting punishment equivalent to the completed offense. The RCC's uniform one-half reduction across all inchoate offenses also has the virtue of simplicity and consistency, avoiding the grading complexities that arise under the MPC's offense-by-offense approach.
+
+{{< pagebreak >}}
+
+## Justification Defenses {#sec-general-part-justification}
+
+This section compares the codes' approaches to lesser harm (necessity) and self-defense.
+
+---
+
+### Lesser Harm / Necessity
+
+#### Proposed RCC Provision
+
+RCC Section 22E-401 codifies the lesser harm (necessity) defense:
+
+> **(a) Defense.** It is a defense that, in fact, the actor:
+>
+> (1) Reasonably believes the actor or another person is in imminent danger of a specific, identifiable harm;
+>
+> (2) Reasonably believes the conduct constituting the offense:
+>
+> (A) Will protect against the harm; and
+>
+> (B) Is necessary in degree; and
+>
+> (3) The conduct constituting the offense brings about a significantly lesser harm than that the actor seeks to avoid.
+>
+> **(b) Exceptions.** This defense is not available when:
+>
+> (1) Recklessness is the culpable mental state for an objective element of the offense and the actor recklessly brings about the situation requiring a choice of harms;
+>
+> (2) Negligence is the culpable mental state for an objective element of the offense and the actor negligently brings about the situation requiring a choice of harms; or
+>
+> (3) The conduct constituting the offense is expressly addressed by another available defense, affirmative defense, or exclusion from liability.
+
+#### MPC Counterpart
+
+MPC Section 3.02 provides:
+
+> **(1)** Conduct that the actor believes to be necessary to avoid a harm or evil to himself or to another is justifiable, provided that:
+>
+> (a) the harm or evil sought to be avoided by such conduct is greater than that sought to be prevented by the law defining the offense charged; and
+>
+> (b) neither the Code nor other law defining the offense provides exceptions or defenses dealing with the specific situation involved; and
+>
+> (c) a legislative purpose to exclude the justification claimed does not otherwise plainly appear.
+>
+> **(2)** When the actor was reckless or negligent in bringing about the situation requiring a choice of harms or evils or in appraising the necessity for his conduct, the justification afforded by this Section is unavailable in a prosecution for any offense for which recklessness or negligence, as the case may be, suffices to establish culpability.
+
+#### Key Differences
+
+**Threshold for Justification.** The most consequential divergence between these provisions is the magnitude of harm differential required. The MPC demands only that the harm avoided be "greater than" the harm caused, a simple balance-of-evils test. The RCC raises the bar considerably, requiring that the actor's conduct bring about a "significantly lesser harm" than the harm the actor seeks to avoid. This elevated threshold narrows the defense, making it unavailable in close cases where the harms are roughly comparable. The drafters evidently concluded that the necessity defense should be reserved for situations of clear disproportion rather than marginal cost-benefit calculations, reducing the risk that defendants will invoke necessity to justify conduct whose net social value is genuinely debatable.
+
+**Imminence Requirement.** The RCC explicitly requires that the actor reasonably believe they or another person are "in imminent danger of a specific, identifiable harm." The MPC contains no comparable temporal limitation; it requires only that the actor believe the conduct is "necessary to avoid a harm or evil." This distinction matters in cases involving slow-developing threats such as environmental contamination, chronic abuse, or economic coercion. Under the MPC's broader framing, a defendant might invoke necessity against a harm that is certain but not yet imminent. The RCC forecloses this possibility, confining the defense to situations of pressing, immediate danger.
+
+**Belief Standard.** Both provisions require the actor to believe that the conduct is necessary to avoid harm, but they diverge on whose perspective controls. The MPC uses a purely subjective standard: the defense applies when the actor "believes" the conduct is necessary. The RCC requires that the actor "reasonably believes" both that imminent danger exists and that the conduct will protect against it. This objective overlay means that an honest but unreasonable belief in necessity will not sustain the defense under the RCC, even though it might under the MPC.
+
+**Fault in Creating the Situation.** Both codes deny the defense when the actor was at fault in bringing about the emergency, and both calibrate the exclusion to the culpability level of the charged offense. If recklessness suffices for the offense, the defense is unavailable when the actor recklessly created the situation; if negligence suffices, negligent creation of the situation defeats the defense. The alignment here reflects a shared commitment to the principle that a person should not benefit from a justification defense when their own culpable conduct generated the very necessity they invoke.
+
+**Subsidiary Nature.** Both provisions treat lesser harm or necessity as a residual defense, unavailable when the situation is specifically addressed by another defense. The RCC makes this explicit in subsection (b)(3), and the MPC achieves the same result through Section 3.02(1)(b) and (c). This ensures that self-defense, defense of property, and other specifically tailored justifications govern situations within their scope, with necessity serving only as a safety valve for circumstances the legislature did not foresee.
+
+---
+
+### Self-Defense
+
+#### Proposed RCC Provision
+
+RCC Section 22E-403 provides:
+
+> **(a) Defense.** It is a defense that, in fact, the actor reasonably believes:
+>
+> (1) The actor or another person is in imminent danger of a physical contact, bodily injury, sexual act, sexual contact, confinement, or death; and
+>
+> (2) The conduct constituting the offense:
+>
+> (A) Will protect against the harm; and
+>
+> (B) Is necessary in degree.
+>
+> **(b) Exceptions.** This defense is not available when:
+>
+> (1) In fact, the actor uses or attempts to use deadly force, unless the actor reasonably believes:
+>
+> (A) The actor or another person is in imminent danger:
+>
+> (i) Of a serious bodily injury, a sexual act, confinement, or death; or
+>
+> (ii) While in their individual dwelling unit, of a bodily injury or a sexual contact; and
+>
+> (B) The conduct constituting the offense:
+>
+> (i) Will protect against the harm; and
+>
+> (ii) Is necessary in degree;
+>
+> (2) The actor purposely, through conduct other than speech or presence alone, provokes or brings about the situation requiring the defense and, in fact, does not withdraw or make reasonable efforts to withdraw; or
+>
+> (3) The actor is reckless as to the fact that they are protecting themselves or another from lawful conduct.
+
+Subsection (c) addresses law enforcement officers specifically:
+
+> **(c) Use of deadly force by a law enforcement officer.** When, in fact, the actor is a law enforcement officer who uses or attempts to use deadly force, a factfinder shall consider all of the following when determining whether the actor satisfies the requirements of the defense:
+>
+> (1) The law enforcement officer's training and experience;
+>
+> (2) Whether the complainant:
+>
+> (A) Appeared to possess, either on their person or in a location where it is readily available, a dangerous weapon; and
+>
+> (B) Was afforded an opportunity to comply with an order to surrender any suspected dangerous weapons;
+>
+> (3) Whether the law enforcement officer engaged in de-escalation measures, including taking cover, waiting for back-up, trying to calm the complainant, or using non-deadly force;
+>
+> (4) Whether any conduct by the law enforcement officer increased the risk of a confrontation resulting in deadly force being used; and
+>
+> (5) Whether the law enforcement officer made all reasonable efforts to prevent a loss of a life, including abandoning efforts to apprehend the complainant.
+
+#### MPC Counterpart
+
+MPC Section 3.04 provides, in relevant part:
+
+> **(1)** ... the use of force upon or toward another person is justifiable when the actor believes that such force is immediately necessary for the purpose of protecting himself against the use of unlawful force by such other person on the present occasion.
+>
+> **(2)(b)** The use of deadly force is not justifiable under this Section unless the actor believes that such force is necessary to protect himself against death, serious bodily injury, kidnapping or sexual intercourse compelled by force or threat ...
+>
+> **(2)(b)(ii)** [The actor is not obliged to retreat] ... in his dwelling or place of work, unless he was the initial aggressor ...
+
+The MPC imposes a duty to retreat before using deadly force when the actor knows they can do so with complete safety, except in the actor's dwelling or place of work. MPC Section 3.07, in a separate provision, addresses use of force by law enforcement officers.
+
+#### Key Differences
+
+**No Duty to Retreat.** The most prominent divergence between these provisions concerns retreat. The MPC requires an actor to retreat before using deadly force if they know they can do so with "complete safety," subject to a dwelling exception. The RCC imposes no duty to retreat whatsoever, consistent with longstanding D.C. case law. Under the RCC, the question is solely whether the use of force was "necessary in degree" to protect against the threat, and the factfinder evaluates necessity without a categorical obligation to withdraw. This reflects the traditional D.C. position that a person lawfully present in any location need not yield ground to an aggressor.
+
+**Expanded Castle Doctrine.** Both codes recognize heightened protection within the dwelling, but they define the scope of that protection differently. Under the MPC, the dwelling exception merely eliminates the duty to retreat; deadly force remains justified only against death, serious bodily injury, kidnapping, or compelled sexual intercourse. The RCC goes further: within the actor's "individual dwelling unit," deadly force is permissible when the actor reasonably believes they face imminent danger of mere "bodily injury" or "sexual contact," threats that would not justify deadly force in any other location. This effectively creates a broader castle doctrine in which the home is treated as a space warranting heightened defensive rights even against less severe intrusions.
+
+**Initial Aggressor Rule.** Both codes restrict the defense for initial aggressors, but the RCC narrows the definition of provocation. Under subsection (b)(2), the defense is unavailable only when the actor "purposely, through conduct other than speech or presence alone, provokes or brings about the situation" and fails to withdraw. The explicit exclusion of "speech or presence alone" from the category of provocative conduct means that verbal insults, threats, or the mere act of being in a particular location cannot strip a person of the right to self-defense. The MPC contains no comparable carve-out; its initial aggressor limitation turns on whether the actor provoked the encounter without specifying that words alone are insufficient.
+
+**Law Enforcement De-Escalation.** The MPC addresses law enforcement use of force in a separate provision, Section 3.07, which focuses on whether force is immediately necessary to effect an arrest or prevent escape and requires officers to announce their purpose before using force. The RCC takes a markedly different approach by embedding law enforcement standards directly within the self-defense provision and mandating that the factfinder consider specific de-escalation factors: the officer's training and experience, whether the complainant was afforded an opportunity to surrender weapons, whether the officer engaged in de-escalation measures, whether the officer's own conduct increased the risk of a deadly confrontation, and whether the officer made all reasonable efforts to prevent loss of life, including abandoning efforts to apprehend. These factors reflect contemporary police reform principles and give juries structured guidance for evaluating officer-involved shootings, a level of specificity absent from the MPC.
+
+**Enumerated Harms.** The MPC frames self-defense in terms of protection against "unlawful force," a general category. The RCC instead enumerates the specific harms that trigger the defense: physical contact, bodily injury, sexual act, sexual contact, confinement, and death. This specificity clarifies the defense's scope and eliminates ambiguity about what constitutes a sufficient threat, while also expanding coverage to include threats of sexual contact and confinement that do not neatly fit within the MPC's "unlawful force" framework.
+
+{{< pagebreak >}}
+
+## Excuse Defenses {#sec-general-part-excuse}
+
+This section compares the codes' approaches to duress and the insanity defense.
+
+---
+
+### Duress
+
+#### Proposed RCC Provision
+
+RCC Section 22E-501 provides:
+
+> **(a) Affirmative defense.** It is an affirmative defense that, in fact:
+>
+> (1) The actor reasonably believes:
+>
+> (A) A person communicated to the actor that the person will cause the actor or a third person a criminal bodily injury, sexual act, sexual contact, confinement, or death; and
+>
+> (B) The actor or third person is in imminent danger of the communicated harm; and
+>
+> (2) The communication would cause a reasonable person of the same background and in the same circumstances as the actor to engage in the conduct constituting the offense.
+>
+> **(b) Exceptions.** This defense is not available when, in fact:
+>
+> (1) The actor recklessly brings about the situation requiring a choice of harms;
+>
+> (2) Negligence is the culpable mental state for an objective element of the offense and the actor is negligent in bringing about the situation requiring a choice of harms; or
+>
+> (3) The conduct constituting the offense is an escape from a correctional facility or officer under RCC Section 22E-3401 and the actor does not make reasonable efforts to safely return to official custody.
+
+#### MPC Counterpart
+
+MPC Section 2.09 provides:
+
+> **(1)** It is an affirmative defense that the actor engaged in the conduct charged to constitute an offense because he was coerced to do so by the use of, or a threat to use, unlawful force against his person or the person of another, that a person of reasonable firmness in his situation would have been unable to resist.
+>
+> **(2)** The defense provided by this Section is unavailable if the actor recklessly placed himself in a situation in which it was probable that he would be subjected to duress. The defense is also unavailable if he was negligent in placing himself in such a situation, whenever negligence suffices to establish culpability for the offense charged.
+
+#### Key Differences
+
+**Classification and Burden of Proof.** The RCC explicitly designates duress as an "affirmative defense," which under D.C. law means the defendant bears the burden of proving the defense by a preponderance of the evidence. The MPC also labels duress an "affirmative defense," but the practical allocation of burdens varies considerably by jurisdiction: some states require the defendant to prove duress, while others require only that the defendant produce some evidence, after which the prosecution must disprove duress beyond a reasonable doubt. The RCC's unambiguous classification resolves this uncertainty for D.C. courts.
+
+**Imminence Requirement.** The RCC requires that the actor reasonably believe they or a third person is "in imminent danger of the communicated harm." The MPC contains no imminence requirement; it asks only whether a person of reasonable firmness "would have been unable to resist" the threatened unlawful force. This distinction is consequential in cases involving ongoing coercive relationships, such as gang membership or domestic abuse, where threats may be credible and persistent but not immediately executable. Under the MPC, such circumstances can support a duress defense; under the RCC, the defendant must establish that the threatened harm was imminent at the time of the offense.
+
+**Nature of Qualifying Threats.** The two codes differ substantially in the types of threats that activate the defense. The MPC requires only "unlawful force against his person or the person of another," a broad category encompassing any physical coercion that is not legally authorized. The RCC limits qualifying threats to specific enumerated harms: "criminal bodily injury, sexual act, sexual contact, confinement, or death." This narrower formulation excludes threats of property destruction, economic ruin, or reputational harm, which might constitute "unlawful force" in some interpretations of the MPC. The RCC's enumerated approach ensures that only threats of serious personal harm can excuse criminal conduct.
+
+**Reasonable Person Standard.** Both codes incorporate an objective component, but they frame it differently. The MPC asks whether "a person of reasonable firmness in his situation" would have been unable to resist the coercion. The RCC asks whether "a reasonable person of the same background and in the same circumstances as the actor" would have engaged in the criminal conduct. The RCC's formulation is arguably more individualized, inviting consideration of the actor's specific background, which could encompass factors such as age, prior experiences of violence, or cultural context, that bear on how a reasonable person in the defendant's position would have responded to the threat.
+
+**Fault in Creating the Situation.** Both provisions deny the defense when the actor was culpably responsible for creating the coercive situation, and both calibrate the exclusion to the culpability requirement of the charged offense. The RCC bars the defense when the actor "recklessly brings about the situation requiring a choice of harms," and extends the bar to negligent creation when negligence suffices for the offense. The MPC adopts essentially the same structure. This parallel reflects a shared recognition that a person who voluntarily enters a situation likely to produce coercive pressure, such as joining a criminal enterprise, should not later invoke that pressure as an excuse.
+
+**Prison Escape.** The RCC includes a specific exception for escape from a correctional facility: the defense is unavailable unless the actor "make[s] reasonable efforts to safely return to official custody." This codifies a practical concern that the MPC does not expressly address. Under the MPC, the general duress framework would apply to prison escape without any specific obligation to surrender, leaving courts to work out the limits of the defense case by case.
+
+---
+
+### Mental Disability Defense (Insanity)
+
+#### Proposed RCC Provision
+
+RCC Section 22E-504 provides:
+
+> **(a) Affirmative defense.** It is an affirmative defense in a criminal proceeding that, in fact, as a result of a mental disability, the actor:
+>
+> (1) Lacked substantial capacity to conform their conduct to the requirements of the law; or
+>
+> (2) Lacked substantial capacity to recognize the wrongfulness of their conduct.
+>
+> **(b) Effect of defense.** An actor who is acquitted solely on the ground of mental disability shall be committed under D.C. Code Section 24-501.
+>
+> **(c) Definitions.**
+>
+> ...
+>
+> (2) In this section, the term "mental disability" means an abnormal condition of the mind, regardless of its medical label, that affects mental or emotional processes and either substantially impairs a person's ability to regulate and control their conduct or substantially impairs a person's ability to recognize the wrongfulness of their conduct.
+>
+> **(d) Interpretation of statute.** This section shall not be construed to create or limit a court's authority, on its own initiative, to order a psychiatric examination or to raise a mental disability defense.
+
+#### MPC Counterpart
+
+MPC Section 4.01 provides:
+
+> **(1)** A person is not responsible for criminal conduct if at the time of such conduct as a result of mental disease or defect he lacks substantial capacity either to appreciate the criminality [wrongfulness] of his conduct or to conform his conduct to the requirements of law.
+>
+> **(2)** As used in this Section, the terms "mental disease or defect" do not include an abnormality manifested only by repeated criminal or otherwise antisocial conduct.
+
+#### Key Differences
+
+**Substantive Standard: Essential Continuity.** The RCC and MPC adopt virtually identical substantive tests for the insanity defense, both rooted in the ALI (American Law Institute) formulation. Each requires that, as a result of a mental condition, the actor either (1) lacked substantial capacity to conform their conduct to the requirements of law, or (2) lacked substantial capacity to appreciate or recognize the wrongfulness of their conduct. The RCC's decision to retain this standard is notable because many jurisdictions abandoned the volitional prong (the capacity-to-conform test) after John Hinckley's acquittal in 1982, adopting cognitive-only tests. By preserving both prongs, the RCC maintains the position that a person whose mental condition renders them unable to control their behavior, even if they understand it is wrong, should not be held criminally responsible.
+
+**Terminology: "Mental Disability" vs. "Mental Disease or Defect."** The most visible difference is terminological. The MPC uses the traditional phrase "mental disease or defect," which carries clinical connotations and has generated extensive litigation over what qualifies as a "disease" in the legal sense. The RCC replaces this with "mental disability," defined as "an abnormal condition of the mind, regardless of its medical label, that affects mental or emotional processes." The phrase "regardless of its medical label" deliberately decouples the legal standard from diagnostic categories, signaling that the inquiry is functional rather than nosological. What matters is the condition's effect on the actor's capacity, not whether psychiatrists classify it under a particular heading in the DSM.
+
+**Exclusion of Psychopathy and Antisocial Conduct.** The MPC explicitly excludes from "mental disease or defect" any "abnormality manifested only by repeated criminal or otherwise antisocial conduct." This provision targets psychopathy and antisocial personality disorder, preventing defendants from bootstrapping a pattern of criminal behavior into an insanity defense. The RCC does not contain an identical exclusion, but its definition of "mental disability" achieves a comparable result through different means: by requiring an "abnormal condition of the mind" that "affects mental or emotional processes," the RCC implicitly excludes conditions whose only manifestation is behavioral rather than cognitive or emotional. A defendant whose sole claim is that they have a history of antisocial conduct, without evidence of an underlying condition affecting mental or emotional processes, would not satisfy the RCC's definition.
+
+**Mandatory Commitment.** Both codes provide for post-acquittal commitment, but they do so with different degrees of specificity. The RCC states flatly that an actor "acquitted solely on the ground of mental disability shall be committed under D.C. Code Section 24-501," incorporating the existing D.C. statutory framework for commitment following an insanity acquittal. The MPC addresses commitment in Section 4.08, which provides for automatic commitment and subsequent release procedures. The practical effect is similar: in both systems, a successful insanity defense does not result in unconditional freedom but rather in mandatory civil commitment, addressing the public safety concerns that have historically driven opposition to the insanity defense.
+
+**Judicial Authority.** The RCC includes a provision absent from the MPC: subsection (d) clarifies that the statute "shall not be construed to create or limit a court's authority, on its own initiative, to order a psychiatric examination or to raise a mental disability defense." This preserves the court's independent ability to inject the insanity question into proceedings even when neither party raises it, a safeguard for defendants whose mental condition may prevent them from recognizing the relevance of the defense. The MPC contains no analogous provision, leaving the scope of judicial initiative to be determined by procedural rules and case law.
+
+**"Recognize" vs. "Appreciate."** A subtle textual difference appears in the cognitive prong. The MPC asks whether the actor lacked substantial capacity to "appreciate" the criminality or wrongfulness of their conduct, a term chosen by the ALI drafters to convey a deeper, more emotionally integrated understanding than mere intellectual awareness. The RCC uses "recognize," which may carry a somewhat narrower connotation, suggesting awareness or acknowledgment rather than the fuller emotional comprehension implied by "appreciate." Whether this difference proves consequential in practice will depend on how D.C. courts interpret the term, but it represents a potential narrowing of the cognitive inquiry.
+
+{{< pagebreak >}}
+
+## Additional Resources {#sec-general-part-resources}
+
+For further reading on the topics covered in this appendix:
+
+- **CCRC Final Report and Commentary.** The Criminal Code Reform Commission's [final recommendations](https://ccrc.dc.gov/page/recommendations){.cite} include detailed commentary on each General Part provision, explaining the drafters' reasoning and comparing their choices to the MPC, current D.C. law, and approaches in other jurisdictions.
+
+- **Model Penal Code (1962).** The American Law Institute's [Model Penal Code and Commentaries](https://www.ali.org/publications/model-penal-code){.cite} remain the foundational reference for understanding the MPC's structure and the policy choices it embodies.
+
+- **Robinson & Grall, "Element Analysis in Defining Criminal Liability."** Paul Robinson and Jane Grall's influential article in the Stanford Law Review provides a comprehensive account of the element-analysis framework that both the MPC and RCC employ.
+
+- **Dubber, "An Introduction to the Model Penal Code."** Markus Dubber's guide offers an accessible overview of the MPC's General Part provisions, useful for students encountering the element-analysis framework for the first time.

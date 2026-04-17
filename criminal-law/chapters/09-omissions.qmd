@@ -1,0 +1,361 @@
+# Omissions
+
+As a general rule, Anglo-American criminal law does not punish omissions. A stranger who watches a child drown in a shallow puddle commits no crime---however repugnant the inaction may be. As Glanville Williams put the "conventional view," "A crime can be committed by an omission, but there can be no omission in law in the absence of a duty to act." The principle rests on a commitment to individual liberty: each person is "responsible for his own conduct," and compelling affirmative action requires special justification. The Model Penal Code codifies this baseline in Section 2.01(3), restricting omission liability to cases where a statute expressly requires action or where "a duty to perform the omitted act is otherwise imposed by law."
+
+The question, then, is where legal duties arise. Courts have recognized five categories: duties imposed by statute, duties arising from a status relationship, duties created by contract, duties arising from the voluntary assumption of care, and duties arising from the creation of peril. These five categories define the boundary between moral failure and criminal liability. The consequences of falling inside or outside them can be the difference between a murder conviction and no crime at all.
+
+This chapter begins with the standard doctrine, tracing the duty categories through classic cases that test their boundaries. It then turns to institutional settings (custody and corporate conduct) where the duties are clear but enforcement is rare.
+
+## The General Rule: No Duty to Rescue
+
+American criminal law draws a sharp line between "misfeasance" (wrongful action) and "nonfeasance" (wrongful inaction). There is no general duty to rescue. A strong swimmer may watch a child drown in a wading pool and face no criminal liability, absent a special relationship to the child.
+
+::: {.callout-note}
+### Model Penal Code § 2.01 — Requirement of Voluntary Act; Omission as Basis of Liability
+
+(1) A person is not guilty of an offense unless his liability is based on conduct which includes a voluntary act or the omission to perform an act of which he is physically capable. [...]
+
+(3) Liability for the commission of an offense may not be based on an omission unaccompanied by action unless:
+
+> (a) the omission is expressly made sufficient by the law defining the offense; or
+> (b) a duty to perform the omitted act is otherwise imposed by law.
+:::
+
+The MPC permits omission liability only when a statute expressly requires action (filing tax returns, reporting child abuse) or when a duty exists independently (from common law or another legal source). It does *not* create a general duty to rescue.
+
+### Good Samaritan Statutes: The Minority Position
+
+A handful of states have gone further, enacting general duties to rescue:
+
+::: {.callout-note}
+### State Duty to Aid Statutes
+
+Vermont Stat. Ann. tit. 12, Section 519:
+
+> (a) A person who knows that another is exposed to grave physical harm shall, to the extent that the same can be rendered without danger or peril to himself or herself or without interference with important duties owed to others, give reasonable assistance to the exposed person unless that assistance or care is being provided by others.
+
+> [...]
+
+> (c) A person who willfully violates subsection (a) of this section shall be fined not more than $100.00.
+
+Minnesota, Rhode Island, and Wisconsin have enacted similar statutes. Rhode Island's carries up to six months' imprisonment; Wisconsin's applies specifically to witnesses of ongoing crimes.
+:::
+
+The Vermont statute reveals American ambivalence toward rescue duties: the $100 maximum fine signals an obligation more symbolic than punitive. But a subtlety lurks: a Good Samaritan statute satisfies MPC Section 2.01(3)(b)'s requirement of a "duty ... otherwise imposed by law." A Vermont bystander who watches a child drown could face not just a $100 fine but a homicide conviction---the Good Samaritan statute provides the independent duty, and the MPC connects it to any offense committable by omission. This chain of reasoning is untested but doctrinally viable.
+
+Most civil law countries impose far more substantial duties. France criminalizes failure to render assistance under [Article 223-6 of the Penal Code](https://www.zacharykaufman.com/bad-samaritan-law/france-223-6/){.cite} (up to five years). [Germany's Section 323c StGB](https://www.zacharykaufman.com/bad-samaritan-law/germany-323c/){.cite} requires emergency assistance (up to one year).
+
+## Where Duties Arise: *Jones v. United States*
+
+If there is no general duty to rescue, the critical doctrinal question becomes: when does a *specific* duty exist? The leading case is [*Jones v. United States*, 308 F.2d 307 (D.C. Cir. 1962)](https://www.courtlistener.com/opinion/258295/mary-l-jones-v-united-states/){.cite}.
+
+Anthony Lee Green, an infant, had been placed in the care of Jones, a family friend, by his mother Shirley Green. The baby died of severe malnutrition and neglect. Jones was convicted of involuntary manslaughter, but the D.C. Circuit reversed, holding that the trial court committed "plain error" by failing to instruct the jury on the duty element. A conviction for omission-based homicide requires proof that the defendant had a legal duty to act---a question of law that must be resolved before the case reaches the jury. The court identified four situations in which a legal duty arises:
+
+> 1. Where a statute imposes a duty to care for another;
+> 2. Where one stands in a certain status relationship to another;
+> 3. Where one has assumed a contractual duty to care for another; and
+> 4. Where one has voluntarily assumed the care of another and so secluded the helpless person as to prevent others from rendering aid.
+
+The court emphasized: "the duty neglected must be a legal duty, and not a mere moral obligation." Courts have since added a fifth category (creation of peril) under which a person whose prior conduct creates a dangerous situation acquires a duty to mitigate the resulting harm. These categories often overlap (a parent's duty is simultaneously statutory, status-based, and grounded in voluntary assumption), but at least one must exist. Without it, the most reprehensible failure to act is not criminal.
+
+## Statutory Duties
+
+The simplest duty source is a statute that expressly requires action: filing a tax return, registering as a sex offender, reporting child abuse. When the statute creates the duty, no separate inquiry is necessary. The most common example is mandatory reporting. Every state requires certain professionals (teachers, physicians, nurses, social workers, law enforcement) to report suspected child abuse. These statutes assign *individualized* duties to specific persons---a design consistent with bystander-intervention research showing people are more likely to act when responsibility is clearly theirs. A few states go further: California requires *any person* who witnesses murder, rape, or molestation of a child under fourteen to report to law enforcement.
+
+## Status Relationships
+
+The second *Jones* category encompasses duties arising from recognized legal relationships: parent and child, spouse and spouse. These are among the most intuitive bases for omission liability. A parent who fails to feed a child, or a spouse who fails to summon medical aid for a partner in distress---these omissions strike most people as obviously culpable. But the boundaries of "status relationship" are contested, and the leading case on those boundaries dates to 1907.
+
+## [PEOPLE v. BEARDSLEY](https://www.courtlistener.com/opinion/2107665/people-v-beardsley/){.cite} {#people-v-beardsley .unnumbered .unlisted .case-title}
+
+*Michigan Supreme Court, 1907*
+
+Beardsley, a married man, spent a weekend drinking with Blanche Burns, a woman with whom he had a sexual relationship, while his wife was out of town. On Monday afternoon, Burns took a quantity of morphine tablets. Beardsley "struck the box from her hand," but she swallowed several. As she lapsed into a stupor, Beardsley, too intoxicated to help, had an acquaintance carry her to a basement room and told the room's occupant to "look after her, and let her out the back way when she waked up." Burns died that evening.
+
+The prosecution argued that Beardsley "stood towards this woman for the time being in the place of her natural guardian and protector, and as such owed her a clear legal duty which he completely failed to perform." The Michigan Supreme Court rejected this theory, insisting on a bright line between moral and legal obligation:
+
+::: {.case-excerpt}
+> The law recognizes that under some circumstances the omission of a duty owed by one individual to another, where such omission results in the death of the one to whom the duty is owing, will make the other chargeable with manslaughter. This rule of law is always based upon the proposition that the duty neglected must be a legal duty, and not a mere moral obligation. It must be a duty imposed by law or by contract, and the omission to perform the duty must be the immediate and direct cause of death.
+:::
+
+Burns was not Beardsley's wife. No statute imposed an obligation. No contract existed. The court found no duty analogous to the marital bond:
+
+::: {.case-excerpt}
+> The fact that this woman was in his house created no such legal duty as exists in law and is due from a husband towards his wife, as seems to be intimated by the prosecutor's brief. Such an inference would be very repugnant to our moral sense.
+:::
+
+The court then posed a hypothetical: "Had this been a case where two men under like circumstances had voluntarily gone on a debauch together and one had attempted suicide, no one would claim that this doctrine of legal duty could be invoked to hold the other criminally responsible for omitting to make effort to rescue his companion." The court's point was that the prosecution's theory rested on an unstated assumption that men owe women special protection, an assumption the court regarded as without legal foundation.
+
+*Beardsley* illustrates the principle that moral obligation is not legal duty, but the case repays closer attention. The court was defending a relational hierarchy: if the same obligations applied to any intimate companion, the marital duty would lose its distinctive legal significance. The exclusivity of the duty is part of what gives recognized relationships their weight.
+
+But that hierarchy is not timeless. In 1907, marriage was the only recognized intimate relationship. Domestic partnerships, civil unions, and cohabitation now receive legal recognition across family law, property, and tort. Whether omission law should follow is a question the discussion below takes up. Another is whether Beardsley might have been liable under the fourth *Jones* category: he had Burns moved to a basement room where no one would check on her---an arrangement that looks like voluntary assumption of care plus seclusion.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. *Hierarchy and reform.* The court limits the duty to recognized legal relationships like marriage. Could you defend that position? If intimate partners bore the same obligations as spouses, what would be legally special about marriage? What work is the court's two-men hypothetical doing---exposing a hidden assumption, or deflecting? Alternatively, should the law follow the Vermont model and impose a general rescue duty, making the specific relationship irrelevant?
+
+2. *Seclusion.* Beardsley had Burns moved to a basement room and told the occupant to let her out the back way. Under *Jones*, voluntary assumption of care *plus seclusion from other sources of aid* can create a duty. Did Beardsley seclude Burns? If so, why didn't this trigger liability?
+
+3. *Courts or legislatures.* Even if the status category should expand, should a *court* create the duty? A court's only tool is to recognize a duty or not; once it exists, the full weight of homicide law applies. A legislature can calibrate---Vermont's statute carries a $100 fine; mandatory reporting statutes carry misdemeanor penalties. Does the all-or-nothing quality of judicial duty recognition argue for leaving reform to the legislature?
+:::
+
+### Note: Failure to Protect
+
+*Beardsley* illustrates the cost of drawing the status-relationship line narrowly. Failure-to-protect cases reveal the opposite problem: what happens when the duty is read broadly and aggressively enforced.
+
+The status-relationship category creates some of its most difficult problems in the family context. "Failure to protect" prosecutions charge one parent (almost always the mother) with criminal liability for failing to prevent abuse inflicted by the other parent or a partner. The legal theory is straightforward: a parent has a status-based duty to protect her child, and failure to act on that duty when the child is being harmed constitutes a criminal omission.
+
+The practical reality is more complicated. Data from Oklahoma, which leads the nation in domestic violence cases per capita, show that [approximately 93 percent of those convicted under the state's failure-to-protect statute are women](https://www.acluok.org/en/publications/oklahomas-failure-protect-law-and-criminalization-motherhood){.cite}, disproportionately Black mothers. Many experienced abuse from the same person who harmed their children. In some cases, mothers received longer sentences than the persons who actually inflicted the harm: [Kerry King received 30 years](https://www.npr.org/2022/08/17/1118009546/are-failure-to-protect-laws-failing-mothers){.cite} for failing to stop her boyfriend from beating her daughter; her boyfriend received 18. Oklahoma's legislature responded in 2024 with the [Survivors' Act](http://www.oklegislature.gov/BillInfo.aspx?Bill=sb1470&Session=2400){.cite}, which allows evidence of domestic violence to be admitted in mitigation.
+
+Failure-to-protect cases expose a question the *Jones* categories cannot easily answer: when the person who bears the duty to act is also the victim of the person creating the danger, does the duty still attach? The doctrine says yes: a parent's duty to protect a child does not evaporate because the parent is also being abused. But whether criminal punishment is appropriate when the defendant faced an impossible choice (intervene and risk death at the hands of the abuser, or fail to act and face prosecution by the state) is a question that the duty framework alone cannot resolve. It requires consideration of defenses (duress), comparative culpability, and whether the criminal system is the right instrument for a problem rooted in domestic violence.
+
+### Note: Expanding the Status Category --- *People v. Crumbley* (Mich. Ct. App. 2023)
+
+Traditionally, a status-based duty runs between the parties to the relationship: a parent owes a duty to *her own child*, not to the world at large. The prosecution of Jennifer and James Crumbley tested this boundary. In [*People v. Crumbley*, 11 N.W.3d 576 (Mich. Ct. App. 2023)](https://scholar.google.com/scholar_case?case=8289521483844619524){.cite}, the Michigan Court of Appeals held that sufficient evidence of causation existed to sustain involuntary manslaughter charges against the parents; both were convicted at trial in 2024. The Crumbleys were found guilty of involuntary manslaughter for failing to prevent their teenage son Ethan from carrying out a school shooting that killed four students at Oxford High School. The victims were not the Crumbleys' children.
+
+The prosecution's theory was that the parental duty to supervise and control a minor child extends to protecting third parties from the foreseeable consequences of a failure to exercise that control. The Crumbleys knew their son was troubled, had purchased a gun for him as a gift, and had been called to the school on the morning of the shooting to discuss disturbing drawings he had made---yet they took no steps to secure the weapon or remove him from school.
+
+Whether *Crumbley* represents a permanent expansion of the status category or a case confined to its extreme facts remains to be seen. But the theory that a parent's duty to control a dangerous child extends to potential third-party victims would, if generalized, significantly redraw the boundaries of omission liability.
+
+## Contractual Duties
+
+The third *Jones* category creates a duty where the defendant has assumed a contractual obligation to care for another. The contract need not be formal; an oral agreement suffices.
+
+## [COMMONWEALTH v. PESTINIKAS](https://law.justia.com/cases/pennsylvania/superior-court/1992/421-pa-super-371-2.html){.cite} {#commonwealth-v-pestinikas .unnumbered .unlisted .case-title}
+
+*Pennsylvania Superior Court, 617 A.2d 1339, 421 Pa. Super. 371 (1992)*
+
+Walter and Helen Pestinikas orally agreed with 92-year-old Joseph Kly to provide food, shelter, personal care, and medical attention in exchange for payments from his Social Security and pension checks. Instead, they moved Kly to an unheated, uncooled outbuilding and left him largely unattended. Kly died of starvation and dehydration, weighing approximately 53 pounds at the time of his death.
+
+The Pennsylvania Superior Court affirmed convictions for third-degree murder, holding that the contractual duty to provide care created a legal obligation whose breach could serve as the actus reus of homicide. The court rejected the argument that a murder conviction cannot rest on an omission: "An omission to act can satisfy the physical aspect of criminal conduct only if there is a duty to act imposed by law." Because the Pestinikas defendants were physically capable of performing the duty they had assumed by contract, their failure to provide food, shelter, and medical care constituted the actus reus of homicide.
+
+*Pestinikas* establishes that the contractual duty category can support the most serious criminal charges, including murder, when the breach is sufficiently egregious. Not every breach of a contractual duty rises to criminal homicide; the answer turns on the defendant's mental state and whether the omission was a proximate cause of death.
+
+## Voluntary Assumption of Care
+
+The fourth *Jones* category requires that the defendant both undertook to help and *secluded* the victim from other sources of aid. Without the seclusion requirement, anyone who offered assistance and then stopped could face prosecution if the stranger later came to harm.
+
+## [POPE v. STATE](https://www.courtlistener.com/opinion/2294895/pope-v-state/){.cite} {#pope-v-state .unnumbered .unlisted .case-title}
+
+*Maryland Court of Appeals, 396 A.2d 1054, 284 Md. 309 (1979)*
+
+Joyce Pope took in Melissa Norris, a young mother exhibiting signs of severe mental illness, and Melissa's three-month-old son, Demiko. Pope fed the baby, cared for him through the night, and watched over him "like it was my own." Over the course of a Sunday morning, in the grip of a religious delusion, Melissa severely beat the infant in Pope's presence. The court described a sustained and escalating assault that inflicted fatal injuries on the child.
+
+Pope admitted she "knew at some point that Melissa was hurting the baby" and was "fearful, amazed and shocked at the 'unbelievable' and 'horrible' thing that was happening." She did nothing to intervene. She did not call for help. Afterward, Pope, Melissa, and another woman drove toward church; en route, they "passed several hospitals, police stations and rescue squads." The child was dead on arrival.
+
+Pope was charged with child abuse under a statute requiring that the defendant be a "parent," "adoptive parent," person "in loco parentis," or person with "responsibility for the supervision of" the child. The Maryland Court of Appeals reversed the conviction, holding that Pope's acts of kindness did not make her responsible for the child's supervision:
+
+::: {.case-excerpt}
+> The State would have us translate compassion and concern, acts of kindness and care, performance of maternal functions, and general help and aid with respect to the child into responsibility for the supervision of the child. [...] It would be most incongruous that acts of hospitality and kindness, made out of common decency and prompted by sincere concern for the well-being of a mother and her child, subjected the Good Samaritan to criminal prosecution for abusing the very child he sought to look after.
+:::
+
+The court found it decisive that the mother was present throughout. Pope had no right to "usurp the role of the mother," and the mother's presence meant Pope had not secluded the child from other sources of care. The court also dismissed a charge of misprision of felony, holding that the common law offense should no longer be recognized in Maryland.
+
+*Pope* states the Good Samaritan paradox: imposing duties on those who help may deter helping. The court's reasoning hinges on the mother's presence; had Pope been the sole caretaker, the seclusion element would likely have been satisfied.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. *The Good Samaritan paradox and voluntary assumption.* The court worries that imposing liability on Pope would deter kindness. Pope fed the baby, cared for him overnight, and watched over him "like it was my own." Why did the court conclude she had not assumed a duty? Was the mother's presence dispositive, and should it be?
+
+2. *Misprision.* The court declines to recognize misprision of felony, deferring to the legislature. Is this an appropriate exercise of desuetude?
+
+3. *Statutory design.* The Maryland child abuse statute limits liability to parents, those in loco parentis, and those with "responsibility for supervision." Could it be redrafted to reach Pope's conduct without deterring Good Samaritans?
+:::
+
+## Creation of Peril
+
+The fifth duty category, recognized after *Jones* but not named in its taxonomy, holds that a person who creates a dangerous situation through prior conduct acquires a duty to mitigate the resulting harm. This doctrine bridges pure commission and pure omission: the defendant *acted* to create the danger, then *failed to act* to address it. The duty arises not from undertaking to care for someone but from having placed them in harm's way.
+
+## [STATE v. VOSS](https://www.courtlistener.com/opinion/3168745/state-of-missouri-v-jason-c-voss/){.cite} {#state-v-voss .unnumbered .unlisted .case-title}
+
+*Missouri Court of Appeals, Eastern District, 488 S.W.3d 97 (2016)*
+
+According to the court, Jason Voss sold heroin to Douglas Geiger, drove him to a hotel, and helped him prepare the drug for injection---cutting up a beer can to prepare the heroin, telling Geiger he had been "doing it a lot longer," suggesting a dosage of three or four capsules, drawing the heroin into a syringe, and flicking the needle to remove air bubbles. After Geiger injected the heroin, his eyes crossed and he began to rock back and forth. Voss recognized the signs of a dangerous reaction and left the room to get ice in case he needed to revive Geiger. About five minutes later, Voss left the hotel entirely. In the hours that followed, he had three separate conversations with companions about going back to check on Geiger or calling someone for help. No one went back, and no one called. Geiger was found dead in the hotel room the next morning.
+
+The Missouri Court of Appeals affirmed Voss's conviction for first-degree involuntary manslaughter, holding that a duty arises where the defendant's acts or omissions created or increased the risk of injury to another:
+
+::: {.case-excerpt}
+> Defendant created and/or increased the risk of injury to Victim through Defendant's actions of providing Victim with the heroin, suggesting to Victim how much heroin he should use, helping Victim prepare the heroin for ingestion, and leaving the hotel room after Victim exhibited signs of an overdose which Defendant recognized as such. [...] [W]e find the law imposed a duty on Defendant to preserve Victim's life.
+:::
+
+Voss was also convicted of distribution of a controlled substance and sentenced to fifteen years on that count, consecutive to the seven-year manslaughter sentence, for a total of twenty-two years.
+
+*Voss* illustrates three features of creation-of-peril liability: the prior conduct need not itself be criminal (a person who accidentally starts a fire may also acquire a duty); the duty is to *mitigate* (seek help, take reasonable steps); and courts assess the defendant's "full course of conduct," considering "acts and omissions together."
+
+*Note: People v. Oliver.* In [*People v. Oliver*, 210 Cal. App. 3d 138 (1989)](https://law.justia.com/cases/california/court-of-appeal/3d/210/138.html){.cite}, Oliver met Carlos Cornejo at a bar, brought him home, and gave him a spoon to inject heroin. After Cornejo collapsed, Oliver had her daughter drag him behind a backyard shed. He was found dead the next morning. The court affirmed her involuntary manslaughter conviction. *Oliver* blends creation-of-peril and voluntary-assumption: Oliver both created the danger (providing the means of injection) and secluded the victim (moving him where no one would find him).
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. *Scope.* How far does creation of peril extend? If you host a dinner party and a guest chokes, do you have a duty to help? What about recommending a hiking trail where someone is later injured?
+
+2. *Knowing inaction and perverse incentives.* Voss repeatedly recognized the need to act yet failed to. Does this strengthen the case for recklessness? Many states impose felony charges on anyone who provides drugs causing an overdose death. Public health advocates argue these laws deter people from calling 911---precisely what the creation-of-peril doctrine demands. Does the framework create a perverse incentive?
+
+3. *Proportionality.* Voss: twenty-two years total. Beardsley: acquitted. Pope: acquitted. What explains the difference---the creation-of-peril theory, the drug charge, or something else?
+:::
+
+## Part II: Omissions in Institutional Settings
+
+The duty categories in Part I arise primarily between private individuals. But the most consequential omission offenses involve institutions: the state holding people in custody, and corporations concealing dangers. The doctrinal framework is the same; the enforcement outcomes are strikingly different.
+
+### A. Death in Custody
+
+#### The Custodial Duty
+
+Confinement deprives a person of self-help: she cannot choose her doctor, leave danger, or call for outside help. This creates one of the clearest affirmative duties in American law: providing for the basic needs of those in custody.
+
+The constitutional framework rests on three cases. [*Estelle v. Gamble*, 429 U.S. 97 (1976)](https://www.courtlistener.com/opinion/109561/estelle-v-gamble/){.cite} held that "deliberate indifference to serious medical needs of prisoners" violates the Eighth Amendment. [*DeShaney v. Winnebago County*, 489 U.S. 189 (1989)](https://www.courtlistener.com/opinion/112202/deshaney-v-winnebago-county-dept-of-social-servs/){.cite} drew the line: the state has no general duty to protect against private violence, but "when the State takes a person into its custody and holds him there against his will, the Constitution imposes upon it a corresponding duty to assume some responsibility for his safety and general well-being." [*Farmer v. Brennan*, 511 U.S. 825 (1994)](https://www.courtlistener.com/opinion/1087956/farmer-v-brennan/){.cite} defined the breach standard: "deliberate indifference" requires that the official *actually knew* of a substantial risk and failed to act---the subjective recklessness standard.
+
+The custodial relationship satisfies multiple *Jones* categories simultaneously: status (jailer-prisoner), statutory (corrections codes), and functional seclusion. The duty is overdetermined. The problem is enforcement. *Farmer*'s subjective standard rewards willful blindness: as [Sharon Dolovich](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1495225){.cite} has argued, officials who design systems that prevent them from learning about risks escape liability because the system insulates them from subjective awareness. Federal prosecution under 18 U.S.C. Section 242 compounds the difficulty by requiring "willfulness"---specific intent to deprive someone of a known constitutional right.
+
+::: {.callout-note}
+### *DeShaney* and the Custody Threshold
+
+*DeShaney* drew a bright line: the state's duty arises only upon taking a person into custody. Four-year-old Joshua DeShaney was beaten by his father into permanent brain damage. The Winnebago County Department of Social Services had received multiple reports, investigated, and done nothing. The Court held the state had not created the danger---merely failed to prevent it. The result: a social worker who ignores repeated reports of child abuse faces no constitutional liability, while a corrections officer who ignores an inmate's medical complaint may face both civil and criminal consequences.
+:::
+
+#### Custodial Neglect: The Pure Omission Cases
+
+The simplest custodial death cases involve no force---only a failure to act.
+
+*Jail nurses.* In San Diego, jail nurse [Danalee Pascua was charged with involuntary manslaughter](https://www.cbsnews.com/news/danalee-pascua-nurse-charged-jail-death-inmate-elisa-serna-san-diego-county/){.cite} after inmate Elisa Serna died of symptoms Pascua failed to act on despite obvious signs of medical distress. In North Carolina, nurse [Michelle Heughins was indicted for involuntary manslaughter](https://www.wxii12.com/article/forsyth-county-grand-jury-indicts-nurse-for-involuntary-manslaughter-in-john-neville-death/39642595){.cite} after John Neville died following a restraint during which he pleaded "I can't breathe"---but the grand jury declined to charge the officers involved. The pattern raises questions about whether medical staff bear disproportionate criminal liability for institutional failures.
+
+*Restraint neglect.* In Tennessee, [seven jail staff were indicted](https://www.wbir.com/article/news/local/7-monroe-co-jail-personnel-nursing-staff-indicted-in-death-of-elderly-man-confined-in-restraint-chair-for-hours/51-03b86836-cbf7-451a-8dab-565539f57485){.cite} for criminally negligent homicide after Lester Isbill was left strapped in a restraint chair for nine hours without food, water, or medication. In Virginia, [three deputies were charged with second-degree murder](https://www.prisonlegalnews.org/news/2025/apr/1/three-former-virginia-jailers-charged-after-detainee-dies-wrap-restraint/){.cite} after Rolin Hill died of asphyxia in a "WRAP" restraint device. The escalation from negligent homicide to murder reflects the degree to which prolonged restraint can evince the extreme indifference supporting a depraved-heart theory.
+
+*Corporate custodial neglect.* [Armor Correctional Health Services](https://www.npr.org/2019/05/29/728023455/-6-75-million-settlement-paid-to-family-of-milwaukee-inmate-who-died-from-dehydr){.cite} was convicted after Terrill Thomas died when water to his cell was shut off for seven days. Prosecutors charged the corporation itself with abuse and falsifying medical records. The case connects to corporate omission liability below.
+
+#### The Duty to Intervene: *United States v. Kueng, Thao, and Lane* (2022)
+
+The prosecution of the three officers who stood by while Derek Chauvin knelt on George Floyd's neck for nine minutes and twenty-nine seconds is, at its core, an omission case. Officers Kueng, Lane, and Thao were present throughout. None used force against Floyd. Their liability rested on what they failed to do: intervene and provide medical aid.
+
+The federal indictment charged Kueng and Thao under 18 U.S.C. Section 242 for willfully failing to intervene; all three were also charged with failing to provide medical aid. (*United States v. Kueng*, *United States v. Thao*, *United States v. Lane*, Crim. No. 21-108 (D. Minn. 2022)). Thao argued he was a "human traffic cone"---attention directed outward, unable to appreciate Floyd's distress. Kueng and Lane, rookies in their first week, argued that departmental hierarchy made it unreasonable to expect them to intervene against a Field Training Officer. Lane pointed to his having twice asked Chauvin, "Should we roll him on his side?"
+
+The jury rejected both defenses. The convictions established that the custodial duty supersedes departmental hierarchy and that a verbal suggestion does not discharge the duty to intervene when the violation is ongoing and life-threatening. In the state prosecution, Thao was convicted of aiding and abetting second-degree manslaughter: his crowd control insulated Chauvin from civilian interference, making the failure to act itself an act of assistance.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. *Duty categories and the bystander officers.* Lane asked twice whether they should reposition Floyd. Kueng held Floyd's back. Thao managed the crowd. Consider each officer's conduct separately. Which of the *Jones* duty categories does each officer's situation implicate?
+
+2. *Act versus omission.* Does it matter whether the officers' liability is framed as an omission (failure to intervene) or as an act (facilitating the restraint)? How does Thao's crowd control, which insulated Chauvin from civilian interference, complicate the distinction?
+
+3. *Hierarchy and duty.* Kueng and Lane were rookies in their first week. Should the paramilitary hierarchy of a police department mitigate their failure to intervene against a senior officer? Is it realistic to expect subordinate officers to physically stop a Field Training Officer?
+:::
+
+#### When Force Creates a Duty of Care
+
+When an officer uses force and the person shows signs of medical distress, the creation-of-peril doctrine converges with the custodial duty. These cases are treated more fully in other chapters; the omission components belong here.
+
+*Chauvin.* The prosecution emphasized that Chauvin failed to reposition Floyd, check his pulse, or call for medical assistance during more than nine minutes of restraint. Floyd's pre-existing cardiovascular disease and fentanyl did not break the causal chain. Chauvin was convicted of second-degree unintentional murder, third-degree murder, and second-degree manslaughter.
+
+*Freddie Gray.* Gray suffered a fatal spinal cord injury in a Baltimore police van in 2015. Officer Goodson was charged with failing to seatbelt Gray and failing to provide medical attention. The judge acquitted Goodson, finding insufficient evidence that a "rough ride" had occurred. The case illustrates a recurring difficulty: converting a policy violation into a homicide conviction requires evidence of mens rea, and the opacity of custodial settings often makes that evidence unavailable.
+
+*Tyre Nichols.* Five Memphis officers beat Nichols during a traffic stop in 2023. Officers called for medical assistance but failed to inform arriving EMTs of the head strikes Nichols had suffered; the EMTs stood by for nearly twenty minutes without treating him. The federal indictment charged the officers not only with excessive force but with a separate civil rights violation: deliberate indifference to Nichols's serious medical needs.
+
+#### The Enforcement Gap
+
+The custodial duty is among the clearest in American law, yet criminal prosecution for custodial neglect is vanishingly rare. [Bureau of Justice Statistics data](https://bjs.ojp.gov/library/publications/mortality-local-jails-2000-2019-statistical-tables){.cite} show thousands die in jails and prisons each year; [suicide rates in jails](https://bjs.ojp.gov/library/publications/suicide-local-jails-and-state-and-federal-prisons-2000-2019-statistical-tables){.cite} run three to four times the general population.
+
+Three structural barriers explain the gap. *Standard of proof*: proving *Farmer*'s subjective recklessness beyond a reasonable doubt means establishing the official *actually knew* of the risk---extraordinarily difficult when the defendant can claim to have been overwhelmed or following protocol. *Prosecutorial conflict*: DAs depend on corrections officers for cooperation in every other case; victims are often people with criminal histories or substance use disorders. *Causation*: defense attorneys argue the inmate's own conduct was the proximate cause, and in criminal law the causal chain is inherently more attenuated than in civil litigation.
+
+The result is near-exclusive reliance on civil remedies. Sandra Bland's family received a [$1.9 million settlement](https://www.pbs.org/newshour/nation/sandra-blands-family-reaches-1-9-million-settlement-civil-suit){.cite}; no official was charged. Kalief Browder spent three years at Rikers as a teenager, was beaten by guards, and died by suicide at 22; his family received [$3.3 million](https://www.npr.org/2019/01/25/688501884/new-york-city-reaches-3-3-million-settlement-with-kalief-browders-family){.cite}; no charges. The asymmetry is stark: Jason Voss received seven years for failing to call 911 during one overdose, while officials who denied [Keilee Fant basic hygiene for nearly fifty days](https://www.archcitydefenders.org/for-immediate-release-waiting-for-justice-in-ferguson-seven-years-and-counting/){.cite} in a Ferguson jail faced none.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. *The Farmer problem.* *Farmer v. Brennan* requires proof the official *actually knew* of the risk. If a jail's intake screening is so inadequate that no one learns an inmate is in withdrawal, no individual has the subjective awareness the standard requires. Does the standard reward willful blindness? Should custodial omissions use an objective standard (as some circuits now apply after [*Kingsley v. Hendrickson*, 576 U.S. 389 (2015)](https://www.courtlistener.com/opinion/2811847/kingsley-v-hendrickson/){.cite})? And does the problem extend beyond individuals---can criminal omission doctrine reach the budget committee that ensures too few guards to make meaningful checks possible?
+
+2. *Enforcement asymmetry.* Voss received twenty-two years for one overdose death. Officials responsible for systemic custodial neglect: typically no charges. What explains this---doctrine, institutional design, or something else? Private companies like Wellpath and Corizon have accumulated thousands of lawsuits and used bankruptcy to discharge liability. Under [*West v. Atkins*, 487 U.S. 42 (1988)](https://supreme.justia.com/cases/federal/us/487/42/){.cite}, they inherit constitutional obligations. Should the criminal law reach the corporate decision to minimize custodial healthcare spending?
+
+3. *Civil remedies.* Bland: $1.9 million. Browder: $3.3 million. Fant: $4.5 million. All from public treasuries. Is civil liability an adequate substitute for criminal enforcement?
+:::
+
+### B. Corporate Crimes of Omission
+
+Corporate omissions add two challenges to the framework examined above. First, *whose* mental state counts: a corporation has no mind, so the law must attribute knowledge and intent. Second, *remedy*: when the entity whose omission caused harm employs thousands and generates social value, punishment becomes entangled with consequences for the innocent.
+
+#### Corporate Criminal Liability and the Responsible Corporate Officer
+
+Since [*New York Central*, 212 U.S. 481 (1909)](https://www.courtlistener.com/opinion/96974/new-york-central-hudson-river-r-co-v-united-states/){.cite}, American law has applied *respondeat superior* to corporate criminal liability: a corporation can be convicted based on a single employee's conduct within the scope of employment.
+
+For corporate *omissions*, the Responsible Corporate Officer (RCO) or "Park" Doctrine applies. In [*Dotterweich*, 320 U.S. 277 (1943)](https://www.courtlistener.com/opinion/103887/united-states-v-dotterweich/){.cite}, the Court held that corporate officers could be personally liable under the FDCA even without knowledge of the violation. [*Park*, 421 U.S. 658 (1975)](https://www.courtlistener.com/opinion/109264/united-states-v-park/){.cite} extended this: an officer with "responsibility and authority either to prevent in the first instance, or promptly to correct" a violation has a duty to act. The offense is a strict liability misdemeanor.
+
+#### The Clearest Cases: Statutory Reporting Duties
+
+The doctrinally simplest corporate omission cases involve a specific statute requiring a specific action, a defendant who knowingly failed to act, and direct evidence of individual intent. These cases apply the *Jones* framework in its most straightforward form: a statutory duty exists, the defendant breached it, and the breach caused harm.
+
+*Gree Electric.* The Consumer Product Safety Act requires manufacturers to report defects "immediately." In 2012, Gree USA executives learned their dehumidifiers were overheating and catching fire. They continued selling defective units and delayed reporting for months. More than 450 fires resulted. CEO Charley Loh and CAO Simon Chu were [convicted on felony charges](https://www.justice.gov/opa/pr/two-corporate-executives-sentenced-first-ever-criminal-prosecution-failure-report-under){.cite} (the first-ever criminal prosecution for failure to report under the CPSA) and sentenced to 40 and 38 months. The crime was not manufacturing a defective product; it was *knowing about the defect and failing to report it*.
+
+*PCA and direct evidence of intent.* When salmonella contamination was detected at the Peanut Corporation of America's processing facilities, CEO Stewart Parnell sent an email that would seal his fate: "Just ship it." That email provided what most corporate prosecutions lack: direct evidence of individual decision-making. Parnell knew the product was contaminated. He ordered it shipped anyway. Nine people died; an estimated 22,000 were sickened across 46 states. [Parnell was convicted on 67 federal felony counts and received 28 years](https://www.npr.org/sections/thesalt/2015/09/21/442335132/peanut-exec-gets-28-years-in-prison-for-deadly-salmonella-outbreak){.cite}---the longest sentence ever in a food safety case.
+
+*DeCoster and incarceration under the Park Doctrine.* Austin "Jack" DeCoster and his son Peter, executives of Quality Egg LLC, pleaded guilty to misdemeanor FDCA violations after a 2010 salmonella outbreak traced to their egg operations sickened an estimated 56,000 consumers. Each was sentenced to three months in federal prison, despite having no personal knowledge of the specific contamination. The [Eighth Circuit affirmed](https://caselaw.findlaw.com/us-8th-circuit/1741165.html){.cite}, holding that under the FDCA, "a corporate officer is held accountable not for the acts or omissions of others, but rather for his own failure to prevent or remedy 'the conditions which gave rise to the charges against him.'" The Supreme Court denied certiorari. *DeCoster* is significant because it imposed *incarceration* (not just fines) under the Park Doctrine's strict liability framework.
+
+#### Misbranding by Silence: The Duty to Disclose
+
+The cases above involve straightforward reporting duties and, in PCA's case, direct evidence of intent. The next set of cases adds a layer of doctrinal complexity: the crime is not failing to file a specific report but failing to disclose material safety information---what the FDCA calls "misbranding." Here, silence itself is the criminal act, and the question of what the defendant knew becomes central.
+
+*Purdue Pharma and the limits of the Park Doctrine.* By the early 2000s, Purdue Pharma knew that OxyContin was being widely abused and diverted. Marketing materials systematically downplayed the drug's addiction potential. In 2007, the company [pleaded guilty to misbranding OxyContin](https://www.govinfo.gov/content/pkg/CHRG-110shrg40884/html/CHRG-110shrg40884.htm){.cite} "with intent to defraud or mislead." Three executives (President Michael Friedman, General Counsel Howard Udell, and Chief Medical Officer Paul Goldenheim) pleaded guilty to strict liability misdemeanors under the Park Doctrine. Their punishment: probation, fines, and community service. No prison time. No felony convictions. The Sackler family, which owned Purdue and extracted billions in profits, was not charged at all.
+
+The Purdue case reveals a paradox at the heart of the Park Doctrine. The doctrine was designed to *expand* corporate officer liability by dispensing with proof of intent. But in Purdue, prosecutors used it to *reduce* culpability: by charging executives with strict liability misdemeanors, they avoided having to prove what the executives actually knew---and the resulting penalties were correspondingly modest. As one commentator noted, the doctrine that was supposed to make prosecution easier also made it less consequential.
+
+[Purdue pleaded guilty again in 2020](https://www.justice.gov/archives/opa/pr/opioid-manufacturer-purdue-pharma-pleads-guilty-fraud-and-kickback-conspiracies){.cite}---this time to three felony counts, including conspiracy to defraud the United States. The company admitted that from 2007 to 2017 (the period *after* the first prosecution) it had failed to report information about the diversion of its drugs, allowing millions of pills to flood the black market. The corporate penalty: $8.3 billion. Individual charges against the Sackler family: none.
+
+*GSK and the failure to file safety reports.* GlaxoSmithKline knew of potential heart attack risks from its diabetes drug Avandia almost as soon as it hit the market in 1999. Internal documents showed that officials went to "great lengths" to keep these risks from the public. Between 2001 and 2007, the company omitted safety data from required FDA reports. In 2012, [GSK pleaded guilty to three federal crimes](https://www.justice.gov/archives/opa/pr/glaxosmithkline-plead-guilty-and-pay-3-billion-resolve-fraud-allegations-and-failure-report){.cite}, including one count of failing to report safety data for Avandia. The total settlement: $3 billion. No individual executives were criminally charged.
+
+*GM and the ignition switch defect.* General Motors knew for over a decade that a faulty ignition switch in several of its models could cut engine power, disable airbags, and cause fatal crashes. The defect was linked to 124 deaths. GM eventually recalled 2.6 million vehicles, and the company entered a [deferred prosecution agreement with a $900 million penalty](https://www.justice.gov/archives/opa/pr/us-attorney-southern-district-new-york-announces-criminal-charges-against-general-motors-and){.cite} in 2015. No individual GM executive was criminally charged. The case became a paradigmatic example of the "too big to jail" dynamic: the corporation paid a fine; the people who made the decisions to conceal the defect faced no personal criminal liability.
+
+*Boeing and the concealment of MCAS.* Two Boeing 737 MAX crashes, Lion Air Flight 610 (October 2018) and Ethiopian Airlines Flight 302 (March 2019), killed 346 people. Investigations revealed that Boeing had concealed the significance of a flight control system called MCAS from the FAA, airlines, and pilots. The criminal theory was grounded in omission: Boeing was charged not with causing the crashes but with conspiracy to defraud the United States by withholding material safety information it had a statutory duty to disclose. Boeing entered a [deferred prosecution agreement in 2021, paying over $2.5 billion](https://www.justice.gov/archives/opa/pr/boeing-charged-737-max-fraud-conspiracy-and-agrees-pay-over-25-billion){.cite}. In 2024, DOJ determined that Boeing had breached the agreement. A federal judge rejected a proposed plea deal. In 2025, [DOJ dropped the prosecution entirely](https://www.npr.org/2025/05/23/nx-s1-5409364/boeing-justic-department-737-max-plane-crashes-charges-deal){.cite}. Victims' families have appealed to the Fifth Circuit. The case illustrates both the viability of omission-based corporate criminal liability and the fragility of its enforcement.
+
+#### The Andersen Effect and the Rise of Deferred Prosecution
+
+Boeing's case ended not in acquittal but in a prosecutorial decision not to prosecute---shaped by a case decided two decades earlier.
+
+Arthur Andersen, one of the "Big Five" accounting firms with 85,000 employees, was indicted in 2002 for obstruction of justice after employees destroyed documents related to Enron's audit. The conviction barred Andersen from auditing public companies; the firm was effectively dead by August. Three years later, the Supreme Court [unanimously reversed](https://www.courtlistener.com/opinion/142899/arthur-andersen-llp-v-united-states/){.cite} on flawed jury instructions. Too late: the firm was gone. As Brandon L. Garrett wrote, the case produced "twin disasters for the company and for prosecutors: a conviction that destroyed the firm yet was thrown out on appeal by the U.S. Supreme Court" (*Too Big to Jail*, 2014).
+
+Prosecutors drew a lesson: corporate indictment carries catastrophic collateral consequences. Their solution was the deferred prosecution agreement. From 2002 through 2016, DOJ entered [419 such agreements](https://corporate-prosecution-registry.com/browse/){.cite} with corporations; there had been eighteen in the preceding decade. In two-thirds of cases involving public corporations, no employees were prosecuted. As Attorney General Holder [admitted in 2013](https://www.pbs.org/wgbh/frontline/article/holder-big-banks-clout-has-an-inhibiting-impact-on-prosecutions/){.cite}: "I am concerned that the size of some of these institutions becomes so large that it does become difficult for us to prosecute them [...]"
+
+#### The Enforcement Gap and the Asymmetry
+
+The pattern reveals a systematic disparity:
+
+| Defendant | Conduct | Harm | Outcome |
+|-----------|---------|------|---------|
+| Jason Voss (Part I) | Failed to call 911 during overdose | 1 death | 7 years (22 total) |
+| Stewart Parnell (PCA) | "Just ship it" despite contamination | 9 deaths | 28 years |
+| Simon Chu / Charley Loh (Gree) | Failed to report fire-causing defect | 450+ fires | 38--40 months |
+| Purdue Executives (2007) | Downplayed OxyContin addiction | Nationwide opioid epidemic | Probation |
+| Sackler Family | Owned Purdue, profited from epidemic | Nationwide opioid epidemic | No charges |
+| Boeing | Concealed MCAS from FAA | 346 deaths | Case dismissed |
+| GM Executives | Concealed ignition switch defect for over a decade | 124 deaths | No charges |
+
+Three factors explain the gap. *The intent problem*: corporate decision-making is diffuse; executives claim reliance on subordinates, and the fragmentation that enables corporate *respondeat superior* liability defeats individual liability. *Resource disparity*: large corporations sustain defense efforts that dwarf prosecutors' budgets. *Prosecutorial risk aversion*: *Andersen* taught that corporate indictment carries catastrophic collateral consequences.
+
+The doctrine does not mandate this asymmetry. FDA, NHTSA, and CPSA regulations impose specific reporting duties. If Voss can be convicted for "creating peril" and failing to call 911 during one overdose, the framework reaches an executive whose company floods the market with opioids while concealing their addiction potential. The answer lies not in doctrine but in enforcement design.
+
+#### Beyond Fines and Prosecution: Public Benefit Restructuring
+
+The enforcement gap described above reflects a dilemma that has no satisfying solution within the current framework of corporate criminal sanctions. Fines, even record-breaking ones, function as a calculable cost of doing business: as long as the expected profit from misconduct exceeds the expected penalty, the fine fails as a deterrent. GSK's $3 billion settlement amounted to a fraction of Avandia's revenues. A fine penalizes an outcome without changing the internal calculus that produced the harm. Deferred prosecution agreements fare no better. They layer external compliance obligations onto a corporate structure still fundamentally driven by profit maximization; if the core incentives remain unchanged, compliance becomes a box-checking exercise. Boeing breached its DPA and faced no additional consequences. Most large corporate offenders recidivate while they are under supervision. Individual prosecution succeeds only when prosecutors can find a "just ship it" email or a RICO-eligible bribery scheme. And full-scale indictment of the corporation itself risks another *Andersen* catastrophe---destroying the firm's value along with the livelihoods of innocent employees. The result is a "too big to jail" problem: corporations whose economic and social footprint makes dissolution unthinkable operate in a space where no existing sanction is proportionate to the harm.
+
+A different approach would address the structural incentive that drives corporate omissions in the first place. Standard corporate law requires directors to maximize shareholder value. When the costs of safety disclosure (lost sales, regulatory scrutiny, litigation exposure) threaten profits, the legal structure of the corporation itself pushes decision-makers toward silence. The duty to disclose under the FDCA or the CPSA runs in one direction; the fiduciary duty to shareholders pushes in the other. Corporate officers who choose silence are not simply transgressing morally; they are responding to the incentive structure that corporate law creates.
+
+One proposed remedy targets this incentive structure directly. Rather than relying exclusively on fines (which are too small), dissolution (which is too destructive), or individual prosecution (which is too difficult), states could require that a corporation convicted of serious criminal conduct (or entering a deferred prosecution agreement) restructure its operations within the state as a public benefit corporation. A public benefit corporation is a for-profit entity, but one whose charter requires its directors to balance shareholder interests against the interests of those materially affected by the corporation's conduct and a specified public benefit. Unlike a conventional corporation, a PBC's directors have a legal obligation to consider the welfare of employees, consumers, communities, and the environment, not merely the permission to do so.
+
+The legal basis for such intervention rests on a power states have always possessed: the authority to define the terms on which corporations may do business within their borders. As [Elizabeth Pollman has shown](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3803604){.cite}, the corporate purpose clause has historically served as a tool of sovereign control over the firms that states charter. And as [Kent Greenfield has argued](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=253770){.cite}, corporate illegality is conceptually ultra vires---beyond the scope of any lawful charter. If the charter is the source of corporate authority, the charter is also the natural point of intervention when that authority is abused.
+
+[Mihailis Diamantis](https://ilr.law.uiowa.edu/print/volume-103-issue-2/clockwork-corporations-a-character-theory-of-corporate-punishment){.cite} has proposed what amounts to a "character theory" of corporate punishment: identify the structural flaw that produced the violation, then rehabilitate the corporation by repairing it. [Brandon Garrett's empirical work](https://virginialawreview.org/articles/structural-reform-prosecution/){.cite} shows that prosecutors already impose deep governance reforms through DPAs---independent monitors, compliance committees, reporting requirements---but these conditions are temporary. The question is whether such reforms should live in a settlement agreement or in the corporate charter itself. Braman, Gabaldon, and Cho have proposed requiring convicted corporations to restructure as [public benefit corporations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5707842){.cite}---a corporate form, now recognized in most states, whose charter requires directors to balance shareholder interests against the interests of those materially affected by the corporation's conduct. A pharmaceutical company convicted of concealing drug risks would operate, going forward, under a charter that makes consumer safety part of its corporate purpose and provides enforcement hooks (reporting requirements, stakeholder standing, independent safety monitors). The corporation continues to operate, to employ workers, to generate value. But the incentive structure that produced the omission is altered at its source.
+
+Whether public benefit restructuring would actually change corporate behavior, or whether it would amount to "ethics washing" with a legal veneer, is a fair question. [Dorothy Lund and Natasha Sarin have shown](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3537245){.cite} that corporate criminal fines typically amount to less than one percent of company value---a calculable cost of doing business. Proponents of charter-based reform argue that embedding specific, measurable commitments in the charter itself (percentage reductions in harmful outcomes, mandatory reporting, independent monitors with access to internal data) creates accountability that fines cannot. Whether states have the resources and political will to enforce such terms is an open question. But the proposal offers a framework for thinking about corporate criminal omissions that moves beyond the false choice between ineffective fines and value-destroying prosecution.
+
+::: {.callout-tip}
+### Discussion Questions
+
+1. *The Andersen lesson.* *Andersen*'s conviction was reversed on technical grounds---not innocence. Did prosecutors learn the right lesson, or did the case produce an overcorrection that shields corporate wrongdoing?
+
+2. *The Park Doctrine paradox.* The Park Doctrine allows prosecution without proof of intent---but only for misdemeanors. In Purdue, prosecutors used it to *reduce* culpability, charging strict liability misdemeanors to avoid proving what executives knew. Jason Voss received seven years for one overdose death; Purdue executives received probation. Under what theory of punishment is this disparity justified?
+
+3. *Public benefit restructuring.* Braman, Gabaldon, and Cho propose requiring convicted corporations to restructure as public benefit corporations---changing the charter itself rather than imposing fines or monitors. Is this corporate *rehabilitation* or corporate *punishment*? Does the answer depend on which theory of punishment you find most persuasive?
+
+4. *Designing a corporate omission statute.* If you were drafting a statute to address corporate failures to disclose known safety risks, what elements would you require? Should liability attach to the corporation, individual officers, or both? Could a "collective knowledge" standard establish individual liability for executives who had access to the corporation's aggregate information?
+:::
