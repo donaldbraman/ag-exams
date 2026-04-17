@@ -33,7 +33,7 @@ async def start_exam(config: ExamConfig) -> str:
         client = await Client.connect("localhost:7233")
 
         scenario_tag = "-".join(config.scenarios) if len(config.scenarios) <= 3 else "full"
-        workflow_id = f"exam-{scenario_tag}"
+        workflow_id = f"exam-{scenario_tag}-{int(time.time())}"
 
         print(f"Executing workflow: {workflow_id}")
         print(f"  Scenarios: {config.scenarios}")

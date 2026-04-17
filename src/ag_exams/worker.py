@@ -31,7 +31,7 @@ from ag_exams.activities import (
     wipe_directory,
     commit_run_to_git,
 )
-from ag_exams.workflow import BuildFinalExam
+from ag_exams.workflow import BuildFinalExam, BuildScenarioWorkflow
 
 TASK_QUEUE = "exam-pipeline"
 
@@ -45,7 +45,7 @@ async def main() -> None:
     worker = Worker(
         client,
         task_queue=TASK_QUEUE,
-        workflows=[BuildFinalExam],
+        workflows=[BuildFinalExam, BuildScenarioWorkflow],
         activities=[
             dispatch_architect,
             dispatch_critic,
