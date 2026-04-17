@@ -17,33 +17,58 @@ from ag_exams.prompts import (
     build_argument_pass_per_q_prompt,
 )
 
+async def dispatch_with_sem(sem, prompt, model, use_diskcache):
+    async with sem:
+        try:
+            return await dispatch_gemini(prompt, model=model, use_diskcache=use_diskcache)
+        except Exception as e:
+            return f"Error: {e}"
+
+async def process_question(sem, q_text, scenario_text, q_name):
+    # 1. Grounding
+    cfg_gr = get_stage_config("grounding_per_q")
+    t1 = dispatch_with_sem(sem, build_grounding_per_q_prompt(q_text), cfg_gr.model, cfg_gr.cache)
+    
+    # 2. Ambiguity
+    cfg_am = get_stage_config("ambiguity_audit_per_q")
+    t2 = dispatch_with_sem(sem, build_ambiguity_audit_per_q_prompt(q_text), cfg_am.model, cfg_am.cache)
+    
+    # 3. Edge Case
+    cfg_ec = get_stage_config("edge_case_audit_per_q")
+    t3 = dispatch_with_sem(sem, build_edge_case_audit_per_q_prompt(q_text, scenario_text), cfg_ec.model, cfg_ec.cache)
+    
+    # 4. Arg Pass Sonnet
+    cfg_son = get_stage_config("argument_pass_sonnet")
+    t4 = dispatch_with_sem(sem, build_argument_pass_per_q_prompt(q_text), cfg_son.model, cfg_son.cache)
+    
+    # 5. Arg Pass Opus
+    cfg_op = get_stage_config("argument_pass_opus")
+    t5 = dispatch_with_sem(sem, build_argument_pass_per_q_prompt(q_text), cfg_op.model, cfg_op.cache)
+    
+    res = await asyncio.gather(t1, t2, t3, t4, t5)
+    print(f"Finished processing {q_name}")
+    return q_name, res
+
 async def run_qa(quiz_file: str, output_file: str):
     print(f"Reading quiz from {quiz_file}...")
     text = Path(quiz_file).read_text(encoding="utf-8")
     
-    # 1. Parse out the stems/scenarios
-    # This regex looks for "## Stem X..." up to "### Questions"
     stem_blocks = list(re.finditer(r"(## Stem \d+.*?(?=### Questions))", text, re.DOTALL))
-    
-    # 2. Parse out the questions
-    # A question block starts with **Q\d+.** and ends at the next **Q\d+.** or --- or ## Coverage Summary
-    # We use a pattern that captures everything for a single Q.
     q_matches = list(re.finditer(r"(\*\*Q\d+\.\*\*.*?(?=\*\*Q\d+\.\*\*|---|\Z|## Coverage Summary))", text, re.DOTALL))
     
     if not q_matches:
-        print("No questions found in the file. Make sure they start with **Q[number].**")
+        print("No questions found.")
         return
 
-    print(f"Found {len(q_matches)} questions.")
+    print(f"Found {len(q_matches)} questions. Processing concurrently...")
     
-    out = open(output_file, "w", encoding="utf-8")
-    out.write(f"# QA Results for {os.path.basename(quiz_file)}\n\n")
+    sem = asyncio.Semaphore(15)  # Max 15 concurrent requests to Gemini
+    tasks = []
     
     for idx, qm in enumerate(q_matches, 1):
         q_start = qm.start()
         q_text = qm.group(1).strip()
         
-        # Find the stem that precedes this question
         scenario_text = "No scenario found"
         for sb in reversed(stem_blocks):
             if sb.start() < q_start:
@@ -51,68 +76,27 @@ async def run_qa(quiz_file: str, output_file: str):
                 break
                 
         q_num_match = re.search(r"\*\*Q(\d+)\.\*\*", q_text)
-        q_name = f"Q{q_num_match.group(1)}" if q_num_match else f"Question {idx}"
+        # Pad with 0 for proper sorting (e.g. Q01 instead of Q1)
+        q_num_str = q_num_match.group(1).zfill(2) if q_num_match else str(idx).zfill(2)
+        q_name = f"Q{q_num_str}"
         
-        # Log progress
-        preview = q_text.splitlines()[0]
-        if len(preview) > 60: preview = preview[:60] + "..."
-        print(f"\nProcessing {q_name}: {preview}")
+        tasks.append(process_question(sem, q_text, scenario_text, q_name))
         
-        # 1. Grounding
-        print("  - Running Grounding Audit...")
-        cfg = get_stage_config("grounding_per_q")
-        prompt = build_grounding_per_q_prompt(q_text)
-        try:
-            res_grounding = await dispatch_gemini(prompt, model=cfg.model, use_diskcache=cfg.cache)
-        except Exception as e:
-            res_grounding = f"Error: {e}"
-            
-        # 2. Ambiguity
-        print("  - Running Ambiguity Audit...")
-        cfg = get_stage_config("ambiguity_audit_per_q")
-        prompt = build_ambiguity_audit_per_q_prompt(q_text)
-        try:
-            res_ambiguity = await dispatch_gemini(prompt, model=cfg.model, use_diskcache=cfg.cache)
-        except Exception as e:
-            res_ambiguity = f"Error: {e}"
-            
-        # 3. Edge Case
-        print("  - Running Edge Case Audit...")
-        cfg = get_stage_config("edge_case_audit_per_q")
-        prompt = build_edge_case_audit_per_q_prompt(q_text, scenario_text)
-        try:
-            res_edge_case = await dispatch_gemini(prompt, model=cfg.model, use_diskcache=cfg.cache)
-        except Exception as e:
-            res_edge_case = f"Error: {e}"
-            
-        # 4. Argument Pass (Sonnet equivalent)
-        print("  - Running Argument Pass (Sonnet)...")
-        cfg = get_stage_config("argument_pass_sonnet")
-        prompt = build_argument_pass_per_q_prompt(q_text)
-        try:
-            res_arg_sonnet = await dispatch_gemini(prompt, model=cfg.model, use_diskcache=cfg.cache)
-        except Exception as e:
-            res_arg_sonnet = f"Error: {e}"
-            
-        # 5. Argument Pass (Opus equivalent)
-        print("  - Running Argument Pass (Opus)...")
-        cfg = get_stage_config("argument_pass_opus")
-        prompt = build_argument_pass_per_q_prompt(q_text)
-        try:
-            res_arg_opus = await dispatch_gemini(prompt, model=cfg.model, use_diskcache=cfg.cache)
-        except Exception as e:
-            res_arg_opus = f"Error: {e}"
-            
-        # Write to file
+    results = await asyncio.gather(*tasks)
+    
+    out = open(output_file, "w", encoding="utf-8")
+    out.write(f"# QA Results for {os.path.basename(quiz_file)}\n\n")
+    
+    # Sort results by Q number so they appear in order
+    for q_name, (res_gr, res_am, res_ec, res_son, res_op) in sorted(results, key=lambda x: x[0]):
         out.write(f"## {q_name}\n\n")
-        out.write("### Grounding\n\n" + res_grounding + "\n\n")
-        out.write("### Ambiguity Audit\n\n" + res_ambiguity + "\n\n")
-        out.write("### Edge Case Audit\n\n" + res_edge_case + "\n\n")
-        out.write("### Argument Pass (Sonnet)\n\n" + res_arg_sonnet + "\n\n")
-        out.write("### Argument Pass (Opus)\n\n" + res_arg_opus + "\n\n")
+        out.write("### Grounding\n\n" + res_gr + "\n\n")
+        out.write("### Ambiguity Audit\n\n" + res_am + "\n\n")
+        out.write("### Edge Case Audit\n\n" + res_ec + "\n\n")
+        out.write("### Argument Pass (Sonnet)\n\n" + res_son + "\n\n")
+        out.write("### Argument Pass (Opus)\n\n" + res_op + "\n\n")
         out.write("---\n\n")
-        out.flush()
-
+        
     out.close()
     print(f"\nDone! Results written to {output_file}")
 

@@ -40,7 +40,7 @@ with workflow.unsafe.imports_passed_through():
     from ag_exams.coverage import CoverageTracker
     from ag_exams.models import SCENARIO_MAP, ExamConfig, ExamResult
 
-FIX_LOOP_CAP = 3
+FIX_LOOP_CAP = 5
 
 
 @dataclass
