@@ -138,11 +138,12 @@ def _generate_metrics_report(start_time: float, end_time: float, config: ExamCon
 
 
 async def approve_scenario(workflow_id: str, feedback: str = "") -> None:
-    """Send the approve_scenario signal to a running workflow."""
+    """Send the approve_scenario signal to a running child workflow."""
+    from ag_exams.workflow import BuildScenarioWorkflow
     client = await Client.connect("localhost:7233")
     handle = client.get_workflow_handle(workflow_id)
-    await handle.signal(BuildFinalExam.approve_scenario, feedback)
-    print(f"Approved scenario for workflow {workflow_id}")
+    await handle.signal(BuildScenarioWorkflow.approve_scenario, feedback)
+    print(f"Approved scenario for child workflow {workflow_id}")
 
 
 async def get_status(workflow_id: str) -> None:
