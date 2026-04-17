@@ -38,7 +38,7 @@
 #### no-time-too-short: The Pennsylvania Rule — Any Conscious Decision Suffices
 - **Rule:** Under the Pennsylvania rule, premeditation is satisfied whenever the defendant forms a conscious decision to kill, regardless of how briefly that decision was held before acting. No prior planning is required.
 - **Source:** *Commonwealth v. Carroll*, 412 Pa. 525 (1963); *Commonwealth v. Drum* (1868) ("No time is too short for a wicked man to frame in his mind his scheme of murder.")
-- **Trap:** Students conclude that a spur-of-the-moment impulse killing cannot be first-degree murder because they confuse premeditation with prolonged planning — but under the Pennsylvania rule, the instant of conscious decision satisfies the element.
+- **Trap:** Students choose [that a spur-of-the-moment impulse killing cannot be first-degree murder] because they confuse [premeditation] with [prolonged planning].
 - **Difficulty:** foundational
 - **Pivot fact:** If Carroll's wife had taken the gun off the windowsill herself just before the argument, removing Carroll's immediate access, the court's own psychiatric evidence suggested the killing would not have occurred — suggesting that "premeditation" under this rule is essentially identical to any intentional act.
 - **Jurisdiction:** majority/minority (Pennsylvania rule is the majority in American courts; MPC rejects the premeditation distinction entirely)
@@ -47,7 +47,7 @@
 #### cardozo-dispensing-power: Premeditation as Jury Discretion (Cardozo Critique)
 - **Rule:** Because any intentional killing can technically satisfy "willful, deliberate, and premeditated," the distinction between first- and second-degree murder operates not as a legal standard but as a grant of moral discretion to the factfinder, hidden behind rule-like language.
 - **Source:** Cardozo, address to the New York Academy of Medicine; *Commonwealth v. Carroll* (court's reasoning)
-- **Trap:** Students treat the statutory terms "willful, deliberate, premeditated" as meaningful substantive limits because they confuse linguistic precision with legal constraint — but Cardozo's point is that under the Pennsylvania rule, these words do no independent work.
+- **Trap:** Students choose [to treat the statutory terms "willful, deliberate, premeditated" as meaningful substantive limits] because they confuse [linguistic precision] with [legal constraint].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the Pennsylvania legislature had defined premeditation to require at least some reflection over time (minutes, not instants), the degree-grading system would function as a substantive rather than discretionary distinction.
 - **Jurisdiction:** majority/minority
@@ -56,7 +56,7 @@
 #### drum-qualification-dropped: The Lost Qualification from *Drum*
 - **Rule:** The *Drum* court's full rule included a qualification that premeditation must not be "the immediate offspring of rashness and impetuous temper." *Carroll* retained the headline ("no time is too short") but dropped the qualification, making the standard both broader and harder to articulate.
 - **Source:** *Commonwealth v. Drum* (1868); *Commonwealth v. Carroll*, 412 Pa. 525 (1963)
-- **Trap:** Students cite the *Drum* rule as unqualified categorical permission because they have only read *Carroll*'s quotation and do not know the original formulation contained limiting language.
+- **Trap:** Students choose [to cite the Drum rule as unqualified categorical permission] because they confuse [Carroll's selective quotation of the rule] with [the original formulation containing limiting language].
 - **Difficulty:** advanced
 - **Pivot fact:** If Carroll had been tried in a jurisdiction that preserved *Drum*'s original qualification, the psychiatric evidence that the killing was "an impulsive automatic reflex" would have been directly material to whether the intent was "the immediate offspring of rashness."
 - **Jurisdiction:** majority/minority
@@ -64,7 +64,7 @@
 #### mpc-no-premeditation: MPC Rejects the Premeditation Distinction
 - **Rule:** Under the MPC, all purposeful or knowing killings are murder — period. The MPC does not grade intentional killings by whether they were premeditated. Sentencing judges calibrate punishment based on case circumstances.
 - **Source:** Model Penal Code § 210.2
-- **Trap:** Students believe the MPC still has degrees of murder because they confuse the MPC's single murder grade with the common law's first/second-degree framework.
+- **Trap:** Students choose [that the MPC still has degrees of murder] because they confuse [the MPC's single murder grade] with [the common law's first/second-degree framework].
 - **Difficulty:** foundational
 - **Pivot fact:** Under the MPC, Garcia's $100,000 contract killing and Carroll's bedroom shooting are both murder without distinction — only sentencing differentiates them.
 - **Jurisdiction:** split (traditional/MPC) — approximately 11 states have adopted MPC in whole or in part
@@ -77,7 +77,7 @@
 #### four-elements-common-law: The Four-Element Common Law Framework
 - **Rule:** Common law voluntary manslaughter requires: (1) adequate provocation — provocation that would cause a reasonable person to lose self-control; (2) actual heat of passion — the defendant was actually provoked; (3) insufficient cooling time — killing before a reasonable person would have cooled off; (4) causal connection — the provocation caused the passion.
 - **Source:** Common law; chapter exposition; slide 15 and 16
-- **Trap:** Students omit the fourth element (causal connection) because they memorize three elements from slide summaries and confuse the framework with a three-part test.
+- **Trap:** Students choose [to omit the fourth element of causal connection] because they confuse [the complete four-element framework] with [a three-part test from slide summaries].
 - **Difficulty:** foundational
 - **Pivot fact:** If the defendant's passion arose from a source unrelated to the victim's provocation (e.g., unrelated life stress), the causal-connection requirement fails and murder is the appropriate charge.
 - **Jurisdiction:** universal (for common law jurisdictions)
@@ -86,7 +86,7 @@
 #### historical-categories-honor: Historical Provocation Categories Rooted in Honor Culture
 - **Rule:** At common law, courts recognized only narrow categories of adequate provocation — assault/battery, mutual combat, illegal arrest, serious abuse of a close relative, and sudden discovery of spousal adultery. These categories encoded honor-culture commitments about which emotions the law endorses, not merely which are intense.
 - **Source:** *Mawgridge's Case* (1707) (adultery as "highest invasion of property"); chapter's honor culture discussion; Cohen et al., 70 J. Personality & Soc. Psych. 945 (1996)
-- **Trap:** Students treat the "reasonable person" standard as a neutral, scientific measure because they confuse the objective framing of the standard with cultural neutrality — but the categories themselves encode specific moral evaluations of which anger is appropriate.
+- **Trap:** Students choose [to treat the "reasonable person" standard as a neutral, scientific measure] because they confuse [the objective framing of the standard] with [cultural neutrality].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the defendant's passion arose from a non-categorical provocation (e.g., verbal insults only), under the traditional categorical approach the defense fails, even if the emotional intensity was identical to a categorical case.
 - **Jurisdiction:** majority/minority (traditional categories; many jurisdictions have narrowed or abolished them)
@@ -95,7 +95,7 @@
 #### words-alone-girouard: Words Alone Are Never Adequate Provocation (Common Law)
 - **Rule:** Under the common law categorical approach, insulting words or gestures — no matter how opprobrious — do not constitute adequate provocation. Verbal abuse, even taunting, does not reduce murder to manslaughter.
 - **Source:** *Girouard v. State*, 321 Md. 532 (1991)
-- **Trap:** Students conclude that Girouard's case is voluntary manslaughter because they focus on the intensity of his rage rather than the categorical requirement that provocation be non-verbal.
+- **Trap:** Students choose [that Girouard's case is voluntary manslaughter] because they confuse [the intensity of the defendant's rage] with [the categorical requirement that provocation be non-verbal].
 - **Difficulty:** foundational
 - **Pivot fact:** If Girouard's wife had physically struck him rather than merely insulting him verbally, the assault category would have been satisfied and a provocation instruction would have been appropriate.
 - **Jurisdiction:** majority/minority (most common law states; MPC jurisdictions allow words as a source of EED)
@@ -104,7 +104,7 @@
 #### thornton-discovery-adultery: Discovery of Adultery as Adequate Provocation
 - **Rule:** Under the traditional common law, sudden discovery of a spouse in flagrante delicto is categorically adequate provocation. The majority opinion in *Thornton* held this a "classic case of voluntary manslaughter" because the defendant actually discovered his wife engaged in sexual intercourse.
 - **Source:** *State v. Thornton*, 730 S.W.2d 309 (Tenn. 1987)
-- **Trap:** Students conclude murder is appropriate because Thornton spent four hours in deliberate actions (deflating the tire, retrieving the gun, purchasing film) before firing, confusing the dissent's cooling-time analysis with the majority's moment-of-discovery focus.
+- **Trap:** Students choose [that murder is appropriate based on Thornton spending four hours in deliberate actions before firing] because they confuse [the dissent's cooling-time analysis] with [the majority's moment-of-discovery focus].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Thornton had shot upon first seeing the couple kissing in the kitchen — before returning to his apartment, retrieving the gun, and surveilling for over an hour — even the dissent's cooling-time concern would be removed.
 - **Jurisdiction:** majority/minority (traditional common law; now overridden by statute in Maryland and several other jurisdictions)
@@ -113,7 +113,7 @@
 #### cooling-time-drowota: Cooling-Time Requirement Blocks Mitigation After Delay
 - **Rule:** Even where initial provocation is adequate, the provocation defense fails if sufficient time elapsed for a reasonable person to cool off before the killing. Justice Drowota's dissent in *Thornton* emphasized the four-hour sequence of calculated acts as proof of cooling time satisfied.
 - **Source:** *State v. Thornton*, 730 S.W.2d 309 (Tenn. 1987) (Drowota, J., dissenting)
-- **Trap:** Students apply cooling-time as a simple clock rule because they confuse the objective reasonable-person standard with a fixed time period — courts look at what the defendant was doing during the interval, not just its duration.
+- **Trap:** Students choose [to apply cooling-time as a simple clock rule] because they confuse [the objective reasonable-person standard regarding the defendant's actions during the interval] with [a fixed time period].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Thornton had fired the moment he found the couple, with no intervening acts, the cooling-time issue disappears and Drowota's second-degree-murder analysis loses its main support.
 - **Jurisdiction:** universal (in common law jurisdictions)
@@ -122,7 +122,7 @@
 #### peacock-four-hours: Peacock — Prosecutorial Discretion and Cooling-Time Gap
 - **Rule:** Even when the formal cooling-time element appears unsatisfied (Peacock killed four hours after discovery), prosecutorial discretion in charging and plea bargaining allowed a voluntary manslaughter plea, and judicial discretion in sentencing produced a lenient outcome. The doctrine leaves vast practical discretion to institutional actors.
 - **Source:** *State v. Peacock* (Baltimore County, 1994); Judge Cahill's sentencing remarks; Md. Code Ann., Crim. Law § 2-207 (1997 reform)
-- **Trap:** Students conclude Peacock should have been convicted of murder because they apply the cooling-time element mechanically, missing that the prosecution's plea offer short-circuited judicial review entirely.
+- **Trap:** Students choose [that Peacock should have been convicted of murder] because they confuse [a mechanical application of the cooling-time element] with [the fact that the prosecution's plea offer short-circuited judicial review entirely].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Peacock had been charged with first-degree murder and tried before a jury (rather than pleading to manslaughter), the jury might have applied the cooling-time bar or convicted on murder.
 - **Jurisdiction:** majority/minority (traditional cooling-time jurisdictions; statutory reform in Maryland)
@@ -131,7 +131,7 @@
 #### legislative-override-adultery: Legislative Override — Spousal Adultery Expressly Excluded
 - **Rule:** Maryland enacted Md. Code Ann., Crim. Law § 2-207(b) in 1997, explicitly providing that discovery of spousal adultery does not constitute legally adequate provocation. The statute also bars race, religion, sex, gender identity, sexual orientation, national origin, or disability as adequate provocation.
 - **Source:** Md. Code Ann., Crim. Law § 2-207(b)-(c); *Peacock* legislative history; Delegate Joan Pitkin's campaign
-- **Trap:** Students assume the adultery provocation defense remains available nationwide because they learn the common law rule but miss the statutory override in Maryland and similar jurisdictions.
+- **Trap:** Students choose [that the adultery provocation defense remains available nationwide] because they confuse [the traditional common law rule] with [the statutory override in Maryland and similar jurisdictions].
 - **Difficulty:** foundational
 - **Pivot fact:** If the same facts as *Thornton* arose in Maryland today, the discovery-of-adultery provocation would be categorically unavailable and the defendant would face murder charges.
 - **Jurisdiction:** majority/minority (most common law jurisdictions still permit adultery provocation; Maryland and a growing number have abolished it)
@@ -144,7 +144,7 @@
 #### eed-standard-elements: MPC Extreme Emotional Disturbance — Subjective-Objective Hybrid
 - **Rule:** Under MPC § 210.3(1)(b), a purposeful or knowing killing is manslaughter if committed under "extreme mental or emotional disturbance for which there is reasonable explanation or excuse," judged from the viewpoint of a person in the actor's situation under the circumstances as the actor believed them to be. This eliminates categorical limits, the cooling-time requirement, and the requirement that the victim be the source of the provocation.
 - **Source:** Model Penal Code § 210.3(1)(b)
-- **Trap:** Students believe the MPC standard is purely subjective because they focus on "the viewpoint of a person in the actor's situation" without recognizing the objective "reasonable explanation or excuse" component — it is a hybrid.
+- **Trap:** Students choose [that the MPC standard is purely subjective] because they confuse [the subjective viewpoint of a person in the actor's situation] with [the hybrid nature of the standard that includes an objective reasonable explanation or excuse component].
 - **Difficulty:** intermediate
 - **Pivot fact:** Under the MPC, a defendant who kills six months after a triggering event could still qualify for EED mitigation if the disturbance was ongoing — the cooling-time bar is abolished.
 - **Jurisdiction:** split (traditional/MPC) — approximately 11 states
@@ -153,7 +153,7 @@
 #### eed-expands-old-categories: MPC Expands Common Law Categories — Words Suffice
 - **Rule:** Under the MPC's EED standard, verbal insults can constitute a source of extreme emotional disturbance, because there are no categorical limitations on the type of provocation. *Girouard* would likely receive a manslaughter instruction in an MPC jurisdiction.
 - **Source:** MPC § 210.3; chapter comparison of *Girouard* under EED
-- **Trap:** Students assume the *Girouard* outcome would be the same under the MPC because they transfer the common law's categorical rules into the MPC framework.
+- **Trap:** Students choose [that the Girouard outcome would be the same under the MPC] because they confuse [the common law's categorical rules] with [the MPC framework].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the jurisdiction adopts the MPC, the same words that barred the defense in *Girouard* become potentially qualifying triggers, flipping the outcome entirely.
 - **Jurisdiction:** split (traditional/MPC)
@@ -161,7 +161,7 @@
 #### nourse-unintended-consequences: Nourse — MPC Reform Benefited Controlling Partners
 - **Rule:** The MPC's broader EED standard was intended to extend sympathy to more defendants. In practice (per Nourse's comprehensive study), its primary beneficiaries were men who killed intimate partners attempting to leave, because removing categorical limits allowed possessive jealousy and controlling rage to be presented as "reasonable" causes of EED.
 - **Source:** Victoria Nourse, Georgetown Law; chapter discussion of "Unintended Consequences of Reform"
-- **Trap:** Students assume the MPC's reform is more protective of vulnerable defendants because they confuse the drafters' intent (expansion of sympathy) with the empirical outcome (expanded protection for possessive violence).
+- **Trap:** Students choose [that the MPC's reform is more protective of vulnerable defendants] because they confuse [the drafters' intent to expand sympathy] with [the empirical outcome of expanded protection for possessive violence].
 - **Difficulty:** advanced
 - **Pivot fact:** If a jurisdiction had retained the common law's "sudden discovery" requirement, the paradigm case that benefited from EED reform — a partner killed while leaving a relationship, not in the act of adultery — would not have qualified for mitigation.
 - **Jurisdiction:** split (traditional/MPC)
@@ -173,7 +173,7 @@
 #### english-loss-of-control: Coroners and Justice Act 2009 — Structured Evaluative Framework
 - **Rule:** England abolished provocation and replaced it with a "loss of control" defense requiring: (1) actual loss of control, (2) a qualifying trigger (fear of serious violence OR circumstances of extremely grave character causing a justifiable sense of being seriously wronged), and (3) that a person of the defendant's sex and age with normal tolerance might have reacted similarly. Sexual infidelity alone cannot be a qualifying trigger; a "considered desire for revenge" bars the defense entirely.
 - **Source:** Coroners and Justice Act 2009, §§ 54–56
-- **Trap:** Students conclude the English reform is simply the MPC under a different name because they miss the key structural difference — the English Act imposes categorical exclusions and qualifying triggers that the MPC lacks.
+- **Trap:** Students choose [that the English reform is simply the MPC under a different name] because they confuse [the MPC's lack of categorical exclusions] with [the English Act's imposition of categorical exclusions and qualifying triggers].
 - **Difficulty:** advanced
 - **Pivot fact:** If the defendant's loss of control arose purely from sexual jealousy (no independent fear of violence), the defense fails categorically under the English Act regardless of how extreme the disturbance was.
 - **Jurisdiction:** federal only (England and Wales; comparative reference only)
@@ -185,7 +185,7 @@
 #### jury-discretion-grading: Jury Discretion Hidden Behind Doctrinal Language
 - **Rule:** The formal legal categories (premeditated / unpremeditated / heat of passion) operate in practice as grants of discretion to factfinders — juries, judges, and prosecutors — rather than as determinate legal standards. Cardozo called this a "dispensing power" clothed in a "mystifying cloud of words."
 - **Source:** Cardozo address; chapter's "Mystifying Cloud of Words" section; Garcia, Carroll, Thornton, Peacock, Adelson trials
-- **Trap:** Students treat degree-grading doctrine as a determinate algorithm because they confuse the precision of legal language with the standardization of legal outcomes.
+- **Trap:** Students choose [to treat degree-grading doctrine as a determinate algorithm] because they confuse [the precision of legal language] with [the standardization of legal outcomes].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the Adelson trials had included lesser-included offense instructions, a manslaughter verdict was reportedly possible (echoing Chapter 7's sleepwalking juror), showing that waiving lesser-included offenses shapes jury discretion as much as doctrine does.
 - **Jurisdiction:** universal
@@ -193,7 +193,7 @@
 #### institutional-actors-split: Same Facts, Three Different Outcomes — Thornton
 - **Rule:** *Thornton* illustrates that the same facts can produce first-degree murder (jury), second-degree murder (Drowota), or voluntary manslaughter (majority) — all legally defensible under existing doctrine. Grading doctrine is more indeterminate than it appears.
 - **Source:** *State v. Thornton*, 730 S.W.2d 309 (Tenn. 1987)
-- **Trap:** Students conclude one of the three outcomes must be "correct" because they treat homicide grading as a factual determination rather than as a moral-evaluative judgment with structured discretion.
+- **Trap:** Students choose [that one of the three grading outcomes must be correct] because they confuse [a factual determination] with [a moral-evaluative judgment with structured discretion].
 - **Difficulty:** advanced
 - **Pivot fact:** If Thornton had been tried in a bench trial (as Carroll and Girouard were), rather than by jury, the initial outcome might have matched the Tennessee Supreme Court's voluntarily-manslaughter conclusion without appellate intervention.
 - **Jurisdiction:** universal
@@ -201,7 +201,7 @@
 #### asymmetric-correction: Courts Correct Down, Not Up — Asymmetric Error Correction
 - **Rule:** Appellate courts can override jury convictions by reducing the degree (as *Thornton* illustrates) but cannot increase them. Prosecutors who make plea deals foreclosing higher charges cannot be corrected by courts. This asymmetry shapes institutional incentives across homicide cases.
 - **Source:** *State v. Thornton*; Chapter 5 cross-reference; Peacock plea; Adelson lesser-included waiver
-- **Trap:** Students assume courts function symmetrically in reviewing homicide grades because they focus on the correction mechanism (appeal) without considering the direction constraint.
+- **Trap:** Students choose [that courts function symmetrically in reviewing homicide grades] because they confuse [the correction mechanism of an appeal] with [the direction constraint on judicial review].
 - **Difficulty:** advanced
 - **Pivot fact:** If appellate courts could also increase convictions (i.e., if double jeopardy did not bar upgrading verdicts), the Thornton outcome — where a jury conviction was overridden two grades lower — could not have stood.
 - **Jurisdiction:** universal

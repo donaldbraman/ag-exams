@@ -41,7 +41,7 @@
 #### ordinary-negligence-threshold: The Minority Rule — Ordinary Negligence Sufficient
 - **Rule:** Washington's former manslaughter statute permitted conviction based on ordinary negligence — the failure to exercise the "ordinary caution" of a reasonable prudent person — without requiring gross negligence or recklessness. This was an outlier even in 1971. Washington subsequently reformed its statute; no state retains this standard today.
 - **Source:** *State v. Williams*, 484 P.2d 1167 (Wash. Ct. App. 1971)
-- **Trap:** Students assume *Williams* reflects current doctrine because they confuse the holding with a surviving legal standard — but the note following *Williams* makes clear that ordinary negligence is no longer sufficient anywhere.
+- **Trap:** Students choose [*Williams* reflects current doctrine] because they confuse [the holding] with [a surviving legal standard].
 - **Difficulty:** foundational
 - **Pivot fact:** If the Williams defendants had been charged under Washington's current statute (which requires criminal negligence, not ordinary negligence), the court would have had to determine whether their conduct constituted a *gross* deviation from ordinary care — a harder question, given their genuine ignorance of the risk.
 - **Jurisdiction:** majority/minority (minority rule; Washington is the historical example; no state uses ordinary negligence today)
@@ -50,7 +50,7 @@
 #### gross-criminal-negligence: The Majority Standard — Gross Deviation from Ordinary Care
 - **Rule:** Most jurisdictions require that negligence be "gross," "criminal," or "culpable" to support an involuntary manslaughter conviction. This means a substantial deviation from the standard of care a reasonable person would exercise — more than ordinary carelessness, but less than conscious awareness of risk. The MPC captures this as negligence that "involves a gross deviation from the standard of care that a reasonable person would observe in the actor's situation." (MPC § 2.02(2)(d))
 - **Source:** Florida Standard Jury Instructions; MPC § 2.02(2)(d); Washington's reformed statute (post-*Williams*)
-- **Trap:** Students treat "gross negligence" and "recklessness" as interchangeable because they confuse elevated negligence with conscious risk-awareness — but gross negligence is still objective (what a reasonable person would have perceived), while recklessness requires that the defendant *actually* perceived the risk.
+- **Trap:** Students choose ["gross negligence" and "recklessness" are interchangeable] because they confuse [elevated negligence] with [conscious risk-awareness].
 - **Difficulty:** foundational
 - **Pivot fact:** If a defendant genuinely but unreasonably believed there was no serious risk (as in *Williams*), the result under gross negligence standard depends on whether a reasonable person in the same circumstances would have perceived the danger — not on whether the defendant did.
 - **Jurisdiction:** universal (the majority standard in American jurisdictions; MPC § 210.4 adopts negligence for negligent homicide)
@@ -58,7 +58,7 @@
 #### mpc-manslaughter-negligent-homicide-split: The MPC's Bifurcation — Recklessness vs. Negligence
 - **Rule:** The MPC creates two distinct unintentional homicide offenses: *manslaughter* (recklessness — conscious disregard of substantial and unjustifiable risk, MPC § 210.3) and *negligent homicide* (negligence — should be aware of such a risk but is not, MPC § 210.4). The key dividing line is subjective awareness: recklessness requires it; negligence does not.
 - **Source:** MPC §§ 210.3, 210.4; MPC Official Commentary to § 2.02 (criticizing common law confusion)
-- **Trap:** Students conflate MPC recklessness and negligence because they confuse "should have known" (negligence) with "consciously disregarded" (recklessness) — the MPC commentary explicitly condemns traditional statutes for blurring this line.
+- **Trap:** Students choose [MPC recklessness and negligence are interchangeable] because they confuse ["should have known" (negligence)] with ["consciously disregarded" (recklessness)].
 - **Difficulty:** foundational
 - **Pivot fact:** If a defendant was genuinely unaware of a risk (no subjective perception at all), this drops the charge from MPC manslaughter to MPC negligent homicide — a significant grading consequence.
 - **Jurisdiction:** split (traditional/MPC) — traditional law uses vague "gross negligence/wantonness" formulas; MPC creates distinct offenses
@@ -71,7 +71,7 @@
 #### constructive-recklessness-welansky: Constructive Recklessness — Objective Standard Imputes Awareness
 - **Rule:** Under *Welansky*, a defendant who lacks actual subjective awareness of a risk can still be held to a "wanton or reckless" standard if an ordinary reasonable person would have perceived the grave danger. Knowing facts that would cause a reasonable person to know the danger is equivalent to actually knowing the danger. A person may be "reckless within the meaning of the law although he himself thought he was careful."
 - **Source:** *Commonwealth v. Welansky*, 55 N.E.2d 902 (Mass. 1944)
-- **Trap:** Students conclude that a defendant who genuinely believed conditions were safe cannot be convicted of recklessness because they confuse subjective recklessness (MPC definition) with *Welansky*'s constructive/objective recklessness — but Massachusetts and many common law courts treat objective awareness as equivalent to actual awareness.
+- **Trap:** Students choose [a defendant who genuinely believed conditions were safe cannot be convicted of recklessness] because they confuse [subjective recklessness (MPC definition)] with [*Welansky*'s constructive/objective recklessness].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the Welansky jury had applied the MPC's purely subjective definition of recklessness and believed Welansky genuinely did not contemplate the fire risk, he could not have been convicted of manslaughter — only possibly negligent homicide.
 - **Jurisdiction:** split (traditional/MPC) — *Welansky* is a traditional common law approach; MPC requires subjective awareness
@@ -80,7 +80,7 @@
 #### omission-duty-recklessness: Reckless or Negligent Omission — Breach of Duty of Care
 - **Rule:** Wanton or reckless conduct can consist of an *intentional failure to act* (omission) where there is a duty of care, when that failure involves high likelihood of substantial harm to the person to whom the duty is owed. An employer's failure to maintain safe conditions for business visitors can be criminally wanton or reckless.
 - **Source:** *Commonwealth v. Welansky*, 55 N.E.2d 902 (Mass. 1944); *Beckwitt v. State* (failure to maintain safe working conditions)
-- **Trap:** Students assume criminal negligence or recklessness requires an affirmative act because they confuse the act element with the mental state element — but both *Welansky* and *Beckwitt* confirm that a culpable omission where there is a duty is sufficient.
+- **Trap:** Students choose [criminal negligence or recklessness requires an affirmative act] because they confuse [the act element] with [the mental state element].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Welansky had maintained proper emergency exits at his nightclub, his failure to be present on the night of the fire would have been irrelevant — the criminal liability arose from his prior course of intentional omission, not from what happened on November 28.
 - **Jurisdiction:** universal
@@ -88,7 +88,7 @@
 #### reasonable-person-standard-social-context: Reasonable Person Standard and Social Context
 - **Rule:** The negligence standard asks what a "reasonable person" would have done. Courts applying the objective standard typically do not adjust the standard for a defendant's particular background, fear, or social disadvantage. The *Williams* court held that the defendants' ignorance of the baby's condition and their fear of government removal of Native children were no excuse, because a reasonable person in their circumstances would have sought medical care.
 - **Source:** *State v. Williams* (holding); Note, "It's Just That I Was So Scared of Losing Him"
-- **Trap:** Students assume the defendant's subjective fears and motivations reduce or negate negligence because they confuse the objective reasonable-person standard with an inquiry into the defendant's particular state of mind.
+- **Trap:** Students choose [the defendant's subjective fears and motivations reduce or negate negligence] because they confuse [the objective reasonable-person standard] with [an inquiry into the defendant's particular state of mind].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the court had adopted a partially subjective reasonable-person standard — adjusting for the historical context of Native child removal — the defendants' fear-induced delay in seeking medical care might have been a reasonable response to a genuine, historically grounded threat.
 - **Jurisdiction:** universal (objective standard)
@@ -97,7 +97,7 @@
 #### criminal-negligence-philosophical-rationale: Why Punish Negligence at All? — Thomas vs. Huigens
 - **Rule:** Two competing rationales for punishing negligent conduct: (1) *Reprobation* (Thomas) — punishment expresses society's moral condemnation and holds all citizens to a single objective standard, treating them as capable of dignity and responsibility regardless of their background; (2) *Character-based culpability* (Huigens) — negligence is culpable when it reflects bad character or deficient practical judgment, even absent conscious awareness of harm, because the wrongdoing is "attributable to one's character."
 - **Source:** Clarence Thomas, "Crime and Punishment — and Personal Responsibility" (1994); Kyron Huigens, "Virtue and Criminal Negligence," 1 Buffalo Crim. L. Rev. 431 (1998)
-- **Trap:** Students treat this as a debate about whether to punish negligence at all because they confuse a debate about *why* we punish negligence with a debate about *whether* we should — both Thomas and Huigens ultimately support punishing negligent actors, though for different reasons.
+- **Trap:** Students choose [this is a debate about whether to punish negligence at all] because they confuse [a debate about *why* we punish negligence] with [a debate about *whether* we should].
 - **Difficulty:** advanced
 - **Pivot fact:** If a defendant's failure to perceive a risk stemmed entirely from poverty or lack of education rather than indifference or bad values, Huigens's character-based theory might not support punishment (the wrong is not "from" the defendant's character), while Thomas's reprobation theory would still support it (a single objective standard applies regardless of background).
 - **Jurisdiction:** universal (theoretical)
@@ -106,7 +106,7 @@
 #### medical-negligence-criminalization: Criminal Negligence in Professional Contexts — The Vaught Case
 - **Rule:** Criminal negligence standards apply to professional conduct, including medical errors. Tennessee's MPC-style statute creates criminally negligent homicide (not manslaughter) when a defendant "ought to be aware" of a substantial and unjustifiable risk. A nurse who bypasses safety protocols and administers the wrong drug may satisfy this standard even if she did not consciously appreciate the risk. However, whether routine use of "override" mode constitutes criminal negligence versus ordinary professional error is contested.
 - **Source:** RaDonda Vaught case (chapter note)
-- **Trap:** Students assume that a good-faith professional mistake cannot be criminally negligent because they confuse subjective intent to harm with the objective standard for gross deviation from professional care — but criminal negligence does not require awareness of risk, only a gross deviation from reasonable standards.
+- **Trap:** Students choose [a good-faith professional mistake cannot be criminally negligent] because they confuse [subjective intent to harm] with [the objective standard for gross deviation from professional care].
 - **Difficulty:** intermediate
 - **Pivot fact:** If override mode was so routinely used by nurses at the hospital that it did not constitute a deviation from professional practice — let alone a gross deviation — Vaught's conduct might not have met the statutory threshold for criminal negligence, reducing liability to a disciplinary (not criminal) matter.
 - **Jurisdiction:** universal (Tennessee MPC-style; Vaught convicted under criminally negligent homicide, not manslaughter)
@@ -119,7 +119,7 @@
 #### extreme-indifference-standard: The Depraved Heart Standard — Extreme Indifference to Human Life
 - **Rule:** Some unintentional killings are so egregious that they constitute second-degree murder. The MPC standard requires recklessness "manifesting extreme indifference to the value of human life" (MPC § 210.2(1)(b)). The common law uses "depraved and malignant heart" or "depraved indifference." The MPC delegates the determination of whether recklessness meets this standard to the trier of fact — the question is not further clarifiable by rule.
 - **Source:** MPC § 210.2(1)(b); MPC Official Commentary to § 210.2
-- **Trap:** Students believe extreme indifference to human life is an objective legal test that can be applied deductively because they confuse the MPC's delegation to the trier of fact with the existence of a clarifying rule — but the MPC commentary explicitly states the question "must be left directly to the trier of fact."
+- **Trap:** Students choose [extreme indifference to human life is an objective legal test that can be applied deductively] because they confuse [the MPC's delegation to the trier of fact] with [the existence of a clarifying rule].
 - **Difficulty:** foundational
 - **Pivot fact:** If the legislature had codified a specific list of circumstances that always constitute extreme indifference (e.g., a BAC threshold, a specific death probability), the trier of fact would have less discretion and determinations would be more predictable — but the MPC's design is intentionally open-ended.
 - **Jurisdiction:** split (traditional/MPC) — common law uses "depraved heart," MPC uses "extreme indifference"
@@ -128,7 +128,7 @@
 #### likely-if-not-certain-standard: Maryland's "Likely, If Not Certain, to Cause Death" — Manslaughter/Murder Line
 - **Rule:** Maryland's standard for depraved heart murder requires that the conduct be "reasonably likely, if not certain, to cause death" — a higher threshold than gross recklessness. The court evaluates inherent dangerousness of the act *combined with environmental risk factors* together. Reprehensible indifference to risk (sufficient for gross negligence manslaughter) does not automatically satisfy the "likely to cause death" standard (required for depraved heart murder).
 - **Source:** *Beckwitt v. State*, 477 Md. 398 (2022)
-- **Trap:** Students assume that conduct sufficient for gross negligence manslaughter is also sufficient for depraved heart murder because they confuse the direction of the threshold — manslaughter is a floor, not a ceiling; depraved heart murder requires *more* than what manslaughter requires.
+- **Trap:** Students choose [conduct sufficient for gross negligence manslaughter is also sufficient for depraved heart murder] because they confuse [the lower threshold of manslaughter] with [the higher threshold of depraved heart murder].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Beckwitt's home had not merely been cluttered but had been completely impassable, and the tunnels themselves had no working exits at all, the court might have concluded that death was a likely result of any fire — making the murder conviction supportable.
 - **Jurisdiction:** majority/minority (Maryland's specific "likely if not certain" formulation; other jurisdictions phrase the standard differently)
@@ -137,7 +137,7 @@
 #### jury-delegation-rationale: Why Delegate Gradation to the Jury? — Murder as Social Interpretation
 - **Rule:** The MPC delegates both causation and homicide gradation to the finder of fact because the assessment of whether conduct constitutes murder is inherently a moral and social judgment — not a technical legal one. As historian Emma Southon observes, murder "is the interpretation of an event" shaped by social context. Under the MPC, questions like "was this recklessness extreme?" and "was this result foreseeable?" go to the jury, not the judge.
 - **Source:** MPC §§ 2.03, 210.2 Commentary; Emma Southon, *A Fatal Thing Happened on the Way to the Forum* (2021); *People v. Warner-Lambert Co.* (contrast)
-- **Trap:** Students assume judicial gatekeeping on causation and gradation is consistent with the MPC because they confuse common law practice (judges screening sufficiency) with the MPC's design (juries deciding both) — *Warner-Lambert* illustrates a case where a judge removed it from the jury on causation grounds, a result incompatible with MPC design.
+- **Trap:** Students choose [judicial gatekeeping on causation and gradation is consistent with the MPC] because they confuse [common law practice (judges screening sufficiency)] with [the MPC's design (juries deciding both)].
 - **Difficulty:** advanced
 - **Pivot fact:** If the *Warner-Lambert* case had been tried in a jurisdiction that followed the MPC, the New York Court of Appeals' dismissal for "unforeseeable ignition mechanism" would not have ended the case — the jury would have decided whether the broad explosion risk constituted ordinary or extreme recklessness.
 - **Jurisdiction:** split (traditional/MPC)
@@ -150,7 +150,7 @@
 #### four-approaches-overview: Four Legislative Approaches to DUI Homicide
 - **Rule:** States have adopted four distinct approaches to drunk driving deaths: (1) *Murder* — implied malice/depraved heart theory (California, New York); (2) *Standalone vehicular homicide statutes* — purpose-built DUI homicide offenses (majority of states); (3) *General manslaughter* — prosecution under existing involuntary manslaughter provisions, sometimes with dangerous instrument enhancement (Arizona); (4) *Aggravated DUI* — the death is treated as an enhanced DUI offense rather than a form of homicide (Nevada). These approaches reflect deep disagreement about where DUI homicide falls on the culpability spectrum.
 - **Source:** Chapter text, "Drunk Driving Homicide: A Study in Legislative Design"
-- **Trap:** Students assume there is a single standard legal treatment for DUI homicides because they do not recognize how radically state legislative choices diverge — the same conduct can produce probation (Maryland) or life imprisonment (Nevada, California).
+- **Trap:** Students choose [there is a single standard legal treatment for DUI homicides] because they confuse [a single standard legal treatment] with [radically diverging state legislative choices].
 - **Difficulty:** foundational
 - **Pivot fact:** A driver who kills someone while drunk in California may face second-degree murder (15 years to life), while the same conduct in Maryland carries up to five years with no mandatory minimum — making choice of jurisdiction more consequential than the facts of the conduct.
 - **Jurisdiction:** split (traditional/MPC); majority approach is standalone vehicular homicide statutes
@@ -159,7 +159,7 @@
 #### watson-advisement-implied-malice: California's Watson Advisement — Prior DUI as Documented Knowledge
 - **Rule:** Under California's "implied malice" theory (*People v. Watson*, 1981), a drunk driver who kills can be charged with second-degree murder if the conduct shows conscious disregard for human life. Following *Watson*, California codified the "Watson advisement" (Cal. Veh. Code § 23593): every DUI convictee is formally warned that drunk driving is "extremely dangerous to human life" and that a subsequent DUI death can be charged as murder. A prior DUI + Watson advisement creates a documentary record of the defendant's knowledge, making implied malice far easier to prove on a subsequent offense.
 - **Source:** *People v. Watson*, 637 P.2d 279 (Cal. 1981); Cal. Veh. Code § 23593
-- **Trap:** Students assume the Watson advisement automatically establishes murder culpability for any repeat DUI death because they confuse establishing evidence of knowledge with proving depraved heart — but the jury still evaluates whether the overall conduct demonstrates conscious disregard for human life.
+- **Trap:** Students choose [the Watson advisement automatically establishes murder culpability for any repeat DUI death] because they confuse [establishing evidence of knowledge] with [proving depraved heart].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a first-time DUI offender (who never received the Watson advisement) killed someone while driving drunk, the implied malice theory would be harder to establish — prior knowledge of the risk is the evidentiary linchpin.
 - **Jurisdiction:** majority/minority (California approach; New York uses similar implied malice theory; most states do not allow first-degree or second-degree murder for DUI)
@@ -168,7 +168,7 @@
 #### vehicular-homicide-strict-liability: Standalone Vehicular Homicide — Strict Liability End
 - **Rule:** Several states (Texas, Connecticut, New Jersey) use vehicular homicide statutes that impose what amounts to strict liability for DUI deaths: the prosecution need only prove (1) the defendant was intoxicated and (2) caused the death. No separate finding of negligence or recklessness in the *manner* of driving is required beyond the fact of intoxication and causation.
 - **Source:** Chapter text on Approach 2; Texas, Connecticut, New Jersey statutes referenced
-- **Trap:** Students assume any criminal homicide conviction requires proof of negligence or recklessness in the manner of driving because they confuse the general common law mental state requirement with legislatively chosen strict-liability vehicular homicide regimes.
+- **Trap:** Students choose [any criminal homicide conviction requires proof of negligence or recklessness in the manner of driving] because they confuse [the general common law mental state requirement] with [legislatively chosen strict-liability vehicular homicide regimes].
 - **Difficulty:** intermediate
 - **Pivot fact:** Under a strict-liability vehicular homicide statute, a driver who was technically over the legal limit (e.g., BAC of .09%) but driving carefully and lawfully in all other respects could still be convicted of vehicular homicide if they caused a death — no additional showing of recklessness required.
 - **Jurisdiction:** majority/minority (minority end of the majority approach — Texas, Connecticut, NJ; other states require recklessness or negligence)
@@ -177,7 +177,7 @@
 #### prior-convictions-as-mental-state-vs-enhancer: Prior Convictions — Evidence of Mental State vs. Sentencing Enhancer
 - **Rule:** Prior DUI convictions serve different legal functions in different states: in California, they are *evidence of mental state* (supporting implied malice murder theory); in Pennsylvania, they are *sentencing enhancers* (increasing mandatory minimums per victim); in Oklahoma, a prior DUI conviction turns a subsequent DUI into a felony, enabling felony murder liability when death results. The same fact (prior conviction) thus serves fundamentally different doctrinal functions depending on jurisdiction.
 - **Source:** Chapter text, "The Severity Spectrum" section; California, Pennsylvania, Oklahoma statutes referenced
-- **Trap:** Students assume prior convictions uniformly enhance sentences without affecting substantive theory of liability because they confuse procedural sentencing doctrine with substantive mental state doctrine — in California, the prior conviction is not merely a sentencing fact but evidence that the defendant *knew* of the danger.
+- **Trap:** Students choose [prior convictions uniformly enhance sentences without affecting substantive theory of liability] because they confuse [procedural sentencing doctrine] with [substantive mental state doctrine].
 - **Difficulty:** advanced
 - **Pivot fact:** If California had treated prior DUI convictions only as sentencing enhancers (not as mental state evidence), prosecutors could not have built an implied malice murder theory on the Watson advisement — they could only have sought a higher sentence under manslaughter.
 - **Jurisdiction:** majority/minority (California is the main jurisdiction using prior convictions as mental state evidence)
@@ -185,7 +185,7 @@
 #### mpc-intoxication-recklessness: MPC Intoxication Rule — Unawareness Does Not Negate Recklessness
 - **Rule:** Under MPC § 2.08(2), voluntary intoxication does not negate recklessness: "if the actor, due to self-induced intoxication, is unaware of a risk of which he would have been aware had he been sober, such unawareness is immaterial." In MPC jurisdictions, the finder of fact evaluates the defendant's mental state as if sober, defeating any "I was too drunk to perceive the risk" argument. This collapses the manslaughter/murder distinction for drunk drivers who could otherwise argue their intoxication prevented awareness of extreme risk.
 - **Source:** MPC § 2.08(2); chapter text, "The Severity Spectrum" section
-- **Trap:** Students assume voluntary intoxication can reduce a reckless drunk driving killing to negligent homicide because they confuse the general intoxication defense rule with the MPC's specific provision that intoxication cannot negate recklessness.
+- **Trap:** Students choose [voluntary intoxication can reduce a reckless drunk driving killing to negligent homicide] because they confuse [the general intoxication defense rule] with [the MPC's specific provision that intoxication cannot negate recklessness].
 - **Difficulty:** intermediate
 - **Pivot fact:** If MPC § 2.08(2) did not exist, a defendant could argue that heavy intoxication prevented conscious perception of the risk — transforming what prosecutors want to charge as recklessness (manslaughter) into a merely negligent act (negligent homicide), with lower penalties.
 - **Jurisdiction:** split (traditional/MPC) — MPC's § 2.08(2) is specific to MPC jurisdictions; common law jurisdictions vary
@@ -194,7 +194,7 @@
 #### per-victim-stacking: Per-Victim Consecutive Sentences
 - **Rule:** Several states (Pennsylvania, Louisiana) require consecutive sentences for each victim killed in a DUI crash, dramatically increasing exposure when multiple people die. Most states leave consecutive vs. concurrent sentencing to judicial discretion. In Pennsylvania, a defendant with one prior DUI who kills two people faces a ten-year mandatory minimum (consecutive 3–7-year sentences per victim depending on prior record).
 - **Source:** Chapter text, "The Severity Spectrum" section
-- **Trap:** Students assume DUI homicide penalties are calculated per incident, not per victim, because they confuse the default (concurrent sentences at judicial discretion) with mandatory per-victim stacking rules.
+- **Trap:** Students choose [DUI homicide penalties are calculated per incident, not per victim] because they confuse [the default (concurrent sentences at judicial discretion)] with [mandatory per-victim stacking rules].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Pennsylvania's consecutive sentencing requirement were changed to concurrent sentences by default, a defendant who killed three people in a single crash would face the same maximum exposure as one who killed one person — eliminating the penalty's proportionality to harm caused.
 - **Jurisdiction:** majority/minority (Pennsylvania and Louisiana as examples; most states do not require per-victim stacking)

@@ -42,7 +42,7 @@
 #### no-duty-baseline: No General Duty to Rescue
 - **Rule:** Anglo-American criminal law imposes no general obligation to help a stranger, even at no risk to oneself. A strong swimmer who watches a child drown commits no crime unless a special relationship or other duty category applies.
 - **Source:** Chapter introduction; MPC § 2.01(3)
-- **Trap:** Students assume moral reprehensibility creates legal liability because they confuse their intuition that "someone should have done something" with the existence of a legal duty.
+- **Trap:** Students choose [that moral reprehensibility creates legal liability] because they confuse [their moral intuition that "someone should have done something"] with [the legal existence of a formal duty].
 - **Difficulty:** foundational
 - **Pivot fact:** If the bystander had any prior relationship with the victim — familial, contractual, or having created the danger — the analysis shifts to whether one of the five duty categories applies.
 - **Jurisdiction:** universal
@@ -51,7 +51,7 @@
 #### mpc-omission-baseline: MPC § 2.01(3) — Two Paths to Omission Liability
 - **Rule:** Under the MPC, omission liability is permitted only when (a) the omission is expressly made sufficient by the law defining the offense, or (b) a duty to perform the omitted act is otherwise imposed by law. The MPC does not create a general duty to rescue.
 - **Source:** MPC § 2.01(3); Chapter § "The General Rule: No Duty to Rescue"
-- **Trap:** Students read MPC § 2.01(3)(b) as a catch-all that creates a general duty because they miss that "otherwise imposed by law" requires a pre-existing legal duty from some other source.
+- **Trap:** Students choose [to read MPC § 2.01(3)(b) as a catch-all that creates a general duty] because they confuse [a general catch-all provision] with [the "otherwise imposed by law" requirement for a pre-existing legal duty].
 - **Difficulty:** foundational
 - **Pivot fact:** If a state has enacted a Good Samaritan statute, that statute satisfies § 2.01(3)(b), potentially connecting a $100 fine-level duty to a homicide charge.
 - **Jurisdiction:** MPC — but the no-general-duty rule is also universal at common law
@@ -60,7 +60,7 @@
 #### good-samaritan-statutes: Good Samaritan Statutes and the Homicide Chain
 - **Rule:** A handful of states (Vermont, Minnesota, Rhode Island, Wisconsin) have enacted general rescue duties. Vermont's carries only a $100 fine. But because these statutes create a "duty imposed by law" under MPC § 2.01(3)(b), a Vermont bystander who watches someone die could face not just a $100 fine but a homicide conviction — a chain of reasoning that is untested but doctrinally viable.
 - **Source:** Chapter § "Good Samaritan Statutes: The Minority Position"; Vermont Stat. Ann. tit. 12 § 519
-- **Trap:** Students treat the low penalty of Good Samaritan statutes as a ceiling on liability because they do not trace the MPC's connection between the statutory duty and the homicide offense.
+- **Trap:** Students choose [to treat the low penalty of Good Samaritan statutes as a ceiling on liability] because they confuse [the penalty for the statutory duty itself] with [the MPC's connection between the statutory duty and the homicide offense].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Vermont enacted a statute with no criminal penalty at all — only a civil duty — whether it satisfies MPC § 2.01(3)(b) becomes contested.
 - **Jurisdiction:** minority (handful of states; most states have no general rescue duty); European civil law countries impose substantially higher duties
@@ -71,7 +71,7 @@
 #### jones-five-categories: The Five Jones Duty Categories
 - **Rule:** Courts have recognized five situations where a legal duty to act arises: (1) statute expressly requires action; (2) status relationship (parent-child, spouse-spouse); (3) contractual duty to care; (4) voluntary assumption of care plus seclusion; (5) creation of peril. At least one category must apply for an omission to support criminal liability. Duty is a question of law; the trial court must instruct the jury on it.
 - **Source:** *Jones v. United States*, 308 F.2d 307 (D.C. Cir. 1962)
-- **Trap:** Students stop after identifying that the defendant "could have helped" because they treat moral culpability as legally sufficient without checking whether a formal duty category exists.
+- **Trap:** Students choose [liability based merely on identifying that the defendant "could have helped"] because they confuse [moral culpability] with [the legal requirement of a formal duty category].
 - **Difficulty:** foundational
 - **Pivot fact:** If none of the five categories is satisfied, even clear moral culpability for inaction produces no criminal liability.
 - **Jurisdiction:** universal (though formulations vary; some jurisdictions enumerate fewer categories)
@@ -80,7 +80,7 @@
 #### duty-question-of-law: Duty Is a Question of Law
 - **Rule:** Whether a legal duty existed is a legal question resolved by the court, not the jury. A conviction for omission-based homicide requires the trial court to instruct the jury on the specific duty; failure to do so is plain error requiring reversal.
 - **Source:** *Jones v. United States*, 308 F.2d 307 (D.C. Cir. 1962)
-- **Trap:** Students frame duty as a fact question (did the defendant "really" owe a duty?) because they confuse it with mens rea or with the ordinary factual elements a jury weighs.
+- **Trap:** Students choose [to frame duty as a fact question for the jury] because they confuse [the legal question of duty] with [mens rea or ordinary factual elements].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the trial court fails to give a duty instruction, even sufficient evidence of omission cannot sustain the conviction.
 - **Jurisdiction:** universal
@@ -91,7 +91,7 @@
 #### statutory-duty-category: Statutory Duty — Mandatory Reporting and Similar Express Requirements
 - **Rule:** Where a statute expressly requires a person to act (file a tax return, register as a sex offender, report child abuse), the statutory duty satisfies Jones Category 1. Most states require certain professionals to report suspected child abuse; some states extend the obligation to all persons who witness specific crimes.
 - **Source:** Chapter § "Statutory Duties"
-- **Trap:** Students overlook the statutory duty category because they focus on status or contract as the "obvious" duty sources, missing that any express legislative mandate creates a duty.
+- **Trap:** Students choose [to overlook the statutory duty category] because they confuse [status or contract as the only obvious duty sources] with [the rule that any express legislative mandate creates a duty].
 - **Difficulty:** foundational
 - **Pivot fact:** If the statute requires reporting by a defined class of professionals (teachers, doctors) and the defendant is outside that class, no statutory duty exists — even if the defendant witnessed the same abuse.
 - **Jurisdiction:** universal (every state has mandatory reporting statutes; scope varies by state)
@@ -101,7 +101,7 @@
 #### status-relationship-category: Status Relationship — Recognized Legal Bonds Only
 - **Rule:** A duty to act arises from legal status relationships: parent-child, spouse-spouse. These duties are among the most intuitive bases for omission liability. But the relationship must be legally recognized, not merely intimate or morally close.
 - **Source:** *People v. Beardsley*, Michigan Supreme Court (1907); Chapter § "Status Relationships"
-- **Trap:** Students extend the status-relationship duty to any close companion or person who "acts like family" because they conflate moral intimacy with legal recognition.
+- **Trap:** Students choose [to extend the status-relationship duty to any close companion or person who "acts like family"] because they confuse [moral intimacy] with [legal recognition].
 - **Difficulty:** foundational
 - **Pivot fact:** If Burns had been Beardsley's wife, a duty would have existed and a manslaughter conviction would have followed.
 - **Jurisdiction:** universal (though which relationships qualify varies — see below)
@@ -110,7 +110,7 @@
 #### beardsley-moral-vs-legal: Moral Obligation Is Not Legal Duty (*Beardsley*)
 - **Rule:** The fact that a person feels morally obligated to help — or that most people would expect them to help — does not create a legal duty. The court in *Beardsley* held that extending marital-like duties to an extramarital companion would be "repugnant to our moral sense" because the exclusivity of the marital duty is part of what makes it legally significant.
 - **Source:** *People v. Beardsley*, Michigan Supreme Court (1907)
-- **Trap:** Students conclude that because Beardsley was Burns's host and protector for the weekend, he had assumed a duty — conflating moral expectation with legal obligation, or conflating this fact pattern with voluntary assumption of care.
+- **Trap:** Students choose [that Beardsley assumed a legal duty by being Burns's host and protector for the weekend] because they confuse [moral expectation] with [legal obligation and formal voluntary assumption of care].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Beardsley had moved Burns to a basement room knowing she was in distress and that no one would check on her (which he arguably did), he might have been liable under the voluntary assumption + seclusion category even absent a status relationship.
 - **Jurisdiction:** universal (the moral-vs-legal distinction is universal; the specific relational hierarchy reasoning is dated but the baseline rule persists)
@@ -119,7 +119,7 @@
 #### status-relationship-evolution: Expanding the Status Category — Marriage and Modern Relationships
 - **Rule:** The status-relationship category was historically limited to legally recognized relationships. As domestic partnerships, civil unions, and cohabitation have received legal recognition in property, tort, and family law, the question of whether omission law should follow remains open. Whether courts or legislatures are the right institution for that expansion is contested.
 - **Source:** Chapter § "Note: Status Relationships and Modern Relationships"; *Beardsley* discussion questions
-- **Trap:** Students assume modern recognition of same-sex marriage automatically resolves the scope of status-relationship duties in omission law because they miss that the chapter presents this as an open doctrinal question.
+- **Trap:** Students choose [that modern recognition of same-sex marriage automatically resolves the scope of status-relationship duties in omission law] because they confuse [the general legal recognition of same-sex marriage] with [the open doctrinal question of its scope in omission law].
 - **Difficulty:** advanced
 - **Pivot fact:** If the jurisdiction has enacted a civil unions statute that expressly creates spousal equivalence for purposes of legal obligations, the basis for extending the duty becomes statutory rather than judicial expansion of common law.
 - **Jurisdiction:** split (varies by jurisdiction; no uniform resolution)
@@ -128,7 +128,7 @@
 #### failure-to-protect: Failure-to-Protect — Status Duties and the Victimized Parent
 - **Rule:** Failure-to-protect statutes charge one parent (almost always the mother) with criminal liability for failing to prevent abuse by the other parent or a partner. The legal theory is sound: the parent has a status-based duty to protect her child. But many defendants are themselves abuse victims, and some have received longer sentences than the actual abuser.
 - **Source:** Chapter § "Note: Failure to Protect"; Oklahoma data on convictions; *Kerry King* case; Oklahoma Survivors' Act (2024)
-- **Trap:** Students accept failure-to-protect liability as straightforward status-duty application because they do not consider whether the defendant faced an impossible choice — protect the child by intervening against a violent partner, or fail to protect the child.
+- **Trap:** Students choose [to accept failure-to-protect liability as a straightforward status-duty application] because they confuse [a simple status-duty breach] with [a scenario where the defendant faces an impossible choice between intervening against a violent partner or failing to protect the child].
 - **Difficulty:** advanced
 - **Pivot fact:** If the defendant faced credible threats of death from the abuser if she intervened, the duty may still exist technically, but the duress defense becomes the more important analysis.
 - **Jurisdiction:** universal (failure-to-protect statutes exist in all states; enforcement patterns and legislative reforms vary)
@@ -136,7 +136,7 @@
 #### crumbley-third-party-victims: Expanding the Status Category to Third Parties (*Crumbley*)
 - **Rule:** Traditionally, a parent's status-based duty runs to her own child, not to the world at large. In *People v. Crumbley* (Mich. Ct. App. 2023), the Michigan Court of Appeals held sufficient evidence existed that parents could be held liable for their minor child's school shooting, because the parental duty to supervise and control a dangerous minor child extends to protecting foreseeable third-party victims.
 - **Source:** *People v. Crumbley*, 11 N.W.3d 576 (Mich. Ct. App. 2023); Chapter § "Note: Expanding the Status Category"
-- **Trap:** Students treat parental duty as strictly bilateral (parent owes duty to child, full stop) because they have not encountered the third-party extension theory.
+- **Trap:** Students choose [to treat parental duty as strictly bilateral] because they confuse [the basic parent-child duty] with [the third-party extension theory].
 - **Difficulty:** advanced
 - **Pivot fact:** If the Crumbleys had secured the weapon after being called to school that morning, the foreseeability of harm to third parties diminishes significantly and the causal chain is severed.
 - **Jurisdiction:** minority / emerging (not settled; confined to extreme facts at this stage)
@@ -146,7 +146,7 @@
 #### contractual-duty-category: Contractual Duty — Oral Agreements Suffice
 - **Rule:** A contractual obligation to care for another creates a legal duty to act. The contract need not be formal or written; an oral agreement to provide care in exchange for payment is sufficient. Breach of the contractual duty can serve as the actus reus of the most serious homicide charges.
 - **Source:** *Commonwealth v. Pestinikas*, 617 A.2d 1339 (Pa. Super. Ct. 1992); Chapter § "Contractual Duties"
-- **Trap:** Students assume a contract must be written or formal to create criminal-law duties because they import contract formation rules without recognizing that criminal law uses contract as a source of duty rather than as itself defining liability.
+- **Trap:** Students choose [that a contract must be written or formal to create criminal-law duties] because they confuse [civil contract formation rules] with [criminal law's use of a contract merely as a source of duty].
 - **Difficulty:** foundational
 - **Pivot fact:** If the Pestinikas defendants had provided minimally adequate care (any food, any shelter, any medical attention), the contractual duty would have been satisfied even if the care was substandard.
 - **Jurisdiction:** universal
@@ -155,7 +155,7 @@
 #### contractual-duty-mens-rea: Contractual Duty + Mens Rea = Potential Murder
 - **Rule:** Not every breach of a contractual care duty rises to criminal homicide. The answer turns on the defendant's mental state: deliberate deprivation (as in *Pestinikas*, where Kly was left to starve) can support a murder charge; negligent failure might support only manslaughter.
 - **Source:** *Commonwealth v. Pestinikas*, 617 A.2d 1339 (Pa. Super. Ct. 1992)
-- **Trap:** Students conclude that a contractual duty breach automatically supports a homicide conviction because they focus on the actus reus (breach of duty) without checking the mens rea required for the specific homicide charge.
+- **Trap:** Students choose [that a contractual duty breach automatically supports a homicide conviction] because they confuse [the actus reus of a duty breach] with [the specific mens rea required for the homicide charge].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the Pestinikas defendants had neglected Kly accidentally rather than deliberately (no malice in the dehydration), the charge would likely be manslaughter, not murder.
 - **Jurisdiction:** universal
@@ -165,7 +165,7 @@
 #### voluntary-assumption-plus-seclusion: Voluntary Assumption Requires Seclusion
 - **Rule:** Undertaking to care for another creates a duty only if the defendant also *secluded* the victim from other sources of aid. Without seclusion, helpers who stop helping would face criminal liability whenever the person they helped later came to harm. The seclusion requirement protects Good Samaritans.
 - **Source:** *Jones v. United States*, 308 F.2d 307 (D.C. Cir. 1962); Chapter § "Voluntary Assumption of Care"
-- **Trap:** Students conclude that anyone who "takes in" another person or provides care has assumed a duty — missing that the chapter requires both assumption *and* seclusion.
+- **Trap:** Students choose [that anyone who "takes in" another person or provides care has assumed a legal duty] because they confuse [the mere provision of care] with [the legal requirement of both assumption of care and seclusion].
 - **Difficulty:** foundational
 - **Pivot fact:** If Pope had sent Melissa and Demiko away but they had nowhere else to go, the seclusion element might have been satisfied (they would be secluded from other sources of aid).
 - **Jurisdiction:** universal
@@ -174,7 +174,7 @@
 #### pope-good-samaritan-paradox: The Good Samaritan Paradox (*Pope*)
 - **Rule:** In *Pope*, the court refused to hold that acts of kindness (feeding, caring for an infant overnight) created a duty to supervise — noting the mother's continued presence. The policy concern: imposing liability on helpers deters helping. This is the Good Samaritan paradox: the law that imposes duties on caregivers may produce less care.
 - **Source:** *Pope v. State*, 396 A.2d 1054 (Md. Ct. App. 1979); Chapter § "Pope discussion"
-- **Trap:** Students conclude Pope should have been liable because her care for the child went beyond a casual passerby — missing that the court treats the mother's presence as dispositive regardless of Pope's level of involvement.
+- **Trap:** Students choose [that Pope should be liable because her care went beyond a casual passerby] because they confuse [Pope's level of involvement] with [the dispositive legal effect of the mother's presence].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the mother had not been present (e.g., had gone out), Pope would have been the sole caretaker, the seclusion element would likely have been satisfied, and the duty analysis would be different.
 - **Jurisdiction:** universal (Good Samaritan paradox principle is universal; *Pope*'s specific holding on the seclusion element is widely followed)
@@ -183,7 +183,7 @@
 #### misprision-desuetude: Misprision of Felony and Desuetude
 - **Rule:** *Pope* also dismissed a charge of misprision of felony, holding that the common law offense should no longer be recognized in Maryland. The court deferred to the legislature on whether to revive it. This is a judicial application of desuetude — declining to enforce an ancient common law duty that has fallen out of use.
 - **Source:** *Pope v. State*, 396 A.2d 1054 (Md. Ct. App. 1979)
-- **Trap:** Students assume misprision of felony is a viable charge that prosecutors can invoke at will because they encounter it in criminal law courses without seeing the desuetude doctrine that limits it.
+- **Trap:** Students choose [that misprision of felony is a viable charge prosecutors can invoke at will] because they confuse [the theoretical existence of the charge] with [the desuetude doctrine that legally limits it].
 - **Difficulty:** advanced
 - **Pivot fact:** If Maryland's legislature had enacted a statute expressly recognizing misprision, the court's desuetude reasoning would not apply.
 - **Jurisdiction:** majority/minority (misprision statutes exist in some federal contexts; common law misprision has been abandoned in most states)
@@ -193,7 +193,7 @@
 #### creation-of-peril-category: Creation of Peril — Fifth Jones Category
 - **Rule:** A person who creates a dangerous situation through prior conduct acquires a duty to mitigate the resulting harm. The prior conduct need not itself be criminal. The duty is to take reasonable steps — not to guarantee safety. Courts assess the defendant's full course of conduct, considering acts and omissions together.
 - **Source:** *State v. Voss*, 488 S.W.3d 97 (Mo. Ct. App. 2016); *People v. Oliver*, 210 Cal. App. 3d 138 (1989); Chapter § "Creation of Peril"
-- **Trap:** Students limit this category to cases where the defendant committed a crime in creating the danger (e.g., selling heroin) because they focus on the defendant's culpability in creating the risk rather than the simple fact of risk creation.
+- **Trap:** Students choose [to limit the creation-of-peril duty to cases where the defendant committed a crime in creating the danger] because they confuse [the defendant's criminal culpability] with [the simple factual requirement of risk creation].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Voss had left the hotel room before Geiger showed signs of a dangerous reaction, the "recognized the signs" element is absent and the duty is weaker — though providing heroin and suggesting dosage likely still creates it.
 - **Jurisdiction:** universal (majority rule); the fifth category was not in *Jones* but has been widely adopted
@@ -202,7 +202,7 @@
 #### voss-full-course-of-conduct: Full Course of Conduct (*Voss*)
 - **Rule:** In *Voss*, the court held that the defendant created peril through a chain of acts: providing heroin, suggesting dosage, preparing the syringe, recognizing overdose signs, and then failing to get help despite multiple opportunities. Courts assess the full course of conduct — acts and omissions together — rather than asking whether any single act was the triggering creation of peril.
 - **Source:** *State v. Voss*, 488 S.W.3d 97 (Mo. Ct. App. 2016)
-- **Trap:** Students analyze whether a specific act (e.g., "selling heroin") created peril as a binary question — missing that courts aggregate the entire course of conduct and weight it holistically.
+- **Trap:** Students choose [to analyze whether a specific act created peril as a binary question] because they confuse [a single isolated act] with [the holistic aggregation of an entire course of conduct].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Voss had immediately called 911 when he recognized the overdose signs, he might have discharged the duty even though he had created the peril.
 - **Jurisdiction:** universal
@@ -210,7 +210,7 @@
 #### oliver-blend-categories: Blending Creation of Peril with Voluntary Assumption (*Oliver*)
 - **Rule:** In *People v. Oliver*, the defendant both created the danger (provided the means of injection) and secluded the victim (dragged him behind a shed where no one would find him). The case shows that Jones categories are not mutually exclusive — conduct can satisfy multiple categories simultaneously, reinforcing the duty analysis.
 - **Source:** *People v. Oliver*, 210 Cal. App. 3d 138 (1989)
-- **Trap:** Students treat the five Jones categories as binary alternatives rather than overlapping analytical tools — stopping after finding one category satisfied without checking whether additional categories strengthen or complicate the analysis.
+- **Trap:** Students choose [to treat the five Jones categories as binary alternatives and stop after finding one satisfied] because they confuse [mutually exclusive categories] with [overlapping analytical tools that strengthen or complicate the analysis].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Oliver had left Cornejo where he collapsed (visible, accessible to others), the seclusion element of voluntary assumption fails — but creation of peril still applies independently.
 - **Jurisdiction:** universal
@@ -218,7 +218,7 @@
 #### creation-of-peril-perverse-incentive: Creation of Peril and Perverse Incentives
 - **Rule:** The creation-of-peril duty to call for help applies precisely when calling 911 might expose the defendant to drug charges. Many states impose felony drug-delivery-resulting-in-death charges on drug providers. The result is a perverse incentive: the legal framework that demands a call to 911 also creates the greatest criminal risk for making that call.
 - **Source:** Chapter § "Creation of Peril" discussion question 2; *Voss* analysis
-- **Trap:** Students analyze creation-of-peril duty in isolation from other legal consequences — missing the structural tension that deters the very mitigation conduct the duty demands.
+- **Trap:** Students choose [to analyze the creation-of-peril duty in isolation from other legal consequences] because they confuse [a straightforward duty to act] with [the structural legal tension that deters the very mitigation conduct the duty demands].
 - **Difficulty:** advanced
 - **Pivot fact:** If the jurisdiction had enacted a "911 immunity" statute (protecting drug users who call for help from prosecution), the perverse incentive disappears and the creation-of-peril framework operates as intended.
 - **Jurisdiction:** split (some states have enacted 911 immunity; many have not)
@@ -228,7 +228,7 @@
 #### custodial-duty-constitutional-basis: Custodial Duty — Constitutional Foundation
 - **Rule:** When the state takes a person into custody, it assumes a constitutional obligation to provide for basic needs. *Estelle v. Gamble* (1976) grounded this in the Eighth Amendment. *DeShaney v. Winnebago County* (1989) defined the threshold: the duty arises only upon actual custody — the state does not have a general duty to protect private individuals from private violence. *Farmer v. Brennan* (1994) set the breach standard: officials must *actually know* of a substantial risk (subjective recklessness).
 - **Source:** *Estelle v. Gamble*, 429 U.S. 97 (1976); *DeShaney v. Winnebago County*, 489 U.S. 189 (1989); *Farmer v. Brennan*, 511 U.S. 825 (1994); Chapter § "The Custodial Duty"
-- **Trap:** Students apply the custodial duty to social services workers who receive abuse reports (as in *DeShaney*) because they assume any government contact with a vulnerable person creates a duty.
+- **Trap:** Students choose [to apply the custodial duty to social services workers who merely receive abuse reports] because they confuse [any government contact with a vulnerable person] with [the strict constitutional requirement of actual physical custody].
 - **Difficulty:** foundational
 - **Pivot fact:** If the state had placed Joshua DeShaney in foster care rather than returning him to his father, the custody threshold would have been crossed and the duty would apply.
 - **Jurisdiction:** universal (federal constitutional floor; state statutes may impose additional obligations)
@@ -237,7 +237,7 @@
 #### farmer-subjective-standard: *Farmer* Subjective Standard and Willful Blindness
 - **Rule:** *Farmer* requires that the official *actually know* of a substantial and unjustifiable risk. This subjective standard rewards institutional design that prevents officials from learning of risks: if intake screening is so inadequate that no one learns an inmate is in withdrawal, no individual has the required subjective awareness.
 - **Source:** *Farmer v. Brennan*, 511 U.S. 825 (1994); Chapter § "The Custodial Duty"; *Dolovich* scholarship
-- **Trap:** Students apply an objective ("should have known") standard to custodial omission cases because they are accustomed to objective negligence standards in civil law contexts.
+- **Trap:** Students choose [to apply an objective "should have known" standard to custodial omission cases] because they confuse [objective negligence standards from civil law contexts] with [the specific subjective mens rea required in criminal omission].
 - **Difficulty:** advanced
 - **Pivot fact:** If the jurisdiction applies an objective standard (as some circuits have after *Kingsley v. Hendrickson* for pretrial detainees), the analysis changes — a showing that officials should have known of the risk is sufficient.
 - **Jurisdiction:** split (subjective standard for convicted prisoners under Eighth Amendment; objective standard emerging for pretrial detainees in some circuits post-*Kingsley*)
@@ -246,7 +246,7 @@
 #### deshaney-custody-threshold: *DeShaney* and the Custody Threshold
 - **Rule:** The state's constitutional duty arises *only* when it has taken a person into custody against their will. A social worker who ignores repeated child abuse reports faces no constitutional liability. A corrections officer who ignores an inmate's medical complaint may face civil and criminal consequences. The bright line is custody.
 - **Source:** *DeShaney v. Winnebago County*, 489 U.S. 189 (1989); Chapter § "DeShaney callout"
-- **Trap:** Students conclude that government knowledge of a danger always creates a duty to protect because they conflate the moral intuition that someone should have intervened with the constitutional rule that requires actual custody.
+- **Trap:** Students choose [that government knowledge of a danger always creates a duty to protect] because they confuse [the moral intuition that someone should have intervened] with [the constitutional rule requiring actual custody].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the state had placed Joshua DeShaney in temporary foster care during the investigation (taking him into custody), the constitutional duty would have attached.
 - **Jurisdiction:** universal (federal constitutional rule)
@@ -255,7 +255,7 @@
 #### custodial-neglect-omission-cases: Custodial Neglect — Pure Omission Cases
 - **Rule:** The most straightforward custodial death cases involve no force — only a failure to provide care. Jail nurses charged with manslaughter for failing to act despite obvious medical distress (Pascua; Heughins); jail staff charged with criminally negligent or depraved-heart homicide for prolonged restraint without food, water, or monitoring (Isbill; Hill). Escalation from negligent homicide to murder reflects the degree of indifference — prolonged restraint can evidence the extreme indifference supporting depraved-heart murder.
 - **Source:** Chapter § "Custodial Neglect: The Pure Omission Cases"; multiple cited cases
-- **Trap:** Students categorize custodial neglect as always negligent homicide because they do not recognize that prolonged, obvious inaction in the face of life-threatening conditions can satisfy the extreme-indifference standard for murder.
+- **Trap:** Students choose [to categorize all custodial neglect as merely negligent homicide] because they confuse [standard negligence] with [prolonged, obvious inaction that satisfies the extreme-indifference standard for murder].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the restraint lasted two hours instead of nine hours without food or water, the extreme-indifference finding becomes harder to sustain and a negligent homicide frame becomes more likely.
 - **Jurisdiction:** universal (states vary in charge escalation; pattern is general)
@@ -264,7 +264,7 @@
 #### duty-to-intervene-kueng-thao-lane: Duty to Intervene — *Kueng*, *Thao*, and *Lane*
 - **Rule:** Officers present during a constitutional violation — not themselves using force — have a duty to intervene to prevent violation of the victim's rights. The custodial duty supersedes departmental hierarchy. A verbal suggestion ("should we roll him on his side?") does not discharge the duty to intervene when the violation is ongoing and life-threatening. Thao's crowd control, which insulated Chauvin from civilian interference, converted his omission into facilitation (aiding and abetting).
 - **Source:** *United States v. Kueng, Thao, and Lane*, Crim. No. 21-108 (D. Minn. 2022); Chapter § "The Duty to Intervene"
-- **Trap:** Students accept the "departmental hierarchy" defense (juniors can't be expected to override a Field Training Officer) because it sounds reasonable — missing the jury's rejection and the court's holding that the constitutional duty supersedes hierarchy.
+- **Trap:** Students choose [to accept the "departmental hierarchy" defense for junior officers] because they confuse [the practical reasonableness of obeying a superior] with [the legal rule that a constitutional duty supersedes hierarchy].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Thao had intervened even minimally (told Chauvin to check Floyd's pulse), his crowd-control conduct alone would likely not have supported the aiding-and-abetting theory.
 - **Jurisdiction:** universal (constitutional duty to intervene is federal; specific state charges vary)
@@ -273,7 +273,7 @@
 #### custodial-enforcement-gap: The Custodial Enforcement Gap
 - **Rule:** Despite the clarity of the custodial duty, criminal prosecution for custodial neglect is vanishingly rare. Three structural barriers: (1) *Farmer*'s subjective standard makes proof extraordinarily difficult; (2) prosecutorial conflict (DAs depend on corrections officers in other cases; victims often have criminal histories); (3) causation (defense can argue the inmate's own conduct was proximate cause). Civil remedies have largely substituted for criminal enforcement.
 - **Source:** Chapter § "The Enforcement Gap"; BJS statistics; comparative analysis (Voss 7 years vs. custodial neglect no charges)
-- **Trap:** Students assume the clarity of the custodial duty translates into robust criminal enforcement because they conflate doctrine (what the law says) with enforcement reality (what actually happens).
+- **Trap:** Students choose [that the clarity of the custodial duty translates into robust criminal enforcement] because they confuse [formal legal doctrine] with [practical enforcement reality].
 - **Difficulty:** advanced
 - **Pivot fact:** If the Farmer standard were replaced with an objective standard, the proof barrier drops significantly — enforcement outcomes might change even if the substantive doctrine remained the same.
 - **Jurisdiction:** universal (enforcement gap is structural, not jurisdiction-specific)
@@ -283,7 +283,7 @@
 #### respondeat-superior-corporations: Corporate Liability — *Respondeat Superior* (*New York Central*)
 - **Rule:** Since *New York Central* (1909), a corporation can be convicted of a crime based on the conduct of a single employee acting within the scope of employment. This creates corporate criminal liability without proving that any individual officer knew about or approved the conduct.
 - **Source:** *New York Central*, 212 U.S. 481 (1909); Chapter § "Corporate Criminal Liability and the Responsible Corporate Officer"
-- **Trap:** Students assume a corporation can only be convicted if its senior officers personally directed the criminal conduct because they transpose the intent requirement from individual criminal law without recognizing *respondeat superior*'s application in the corporate context.
+- **Trap:** Students choose [that a corporation can only be convicted if its senior officers personally directed the criminal conduct] because they confuse [the intent requirement of individual criminal law] with [the application of *respondeat superior* in the corporate context].
 - **Difficulty:** foundational
 - **Pivot fact:** If the employee's conduct was outside the scope of employment, *respondeat superior* does not apply and corporate liability requires showing senior officer knowledge or authorization.
 - **Jurisdiction:** universal (federal and state law)
@@ -292,7 +292,7 @@
 #### park-doctrine-rco: Responsible Corporate Officer (Park) Doctrine — Strict Liability Misdemeanor
 - **Rule:** Under *Dotterweich* (1943) and *Park* (1975), a corporate officer with "responsibility and authority either to prevent in the first instance, or promptly to correct" a regulatory violation has a legal duty to act, enforceable as a strict liability misdemeanor under the FDCA — no personal knowledge required. *DeCoster* established that imprisonment (not just fines) is permissible under this strict liability framework.
 - **Source:** *United States v. Dotterweich*, 320 U.S. 277 (1943); *United States v. Park*, 421 U.S. 658 (1975); *United States v. DeCoster*, Eighth Circuit; Chapter § "Corporate Criminal Liability and the Responsible Corporate Officer"
-- **Trap:** Students assume that if an executive had no personal knowledge of the violation, they cannot be criminally liable — missing that the Park Doctrine explicitly dispenses with personal knowledge in favor of positional responsibility.
+- **Trap:** Students choose [that an executive cannot be criminally liable without personal knowledge of the violation] because they confuse [the general requirement for personal knowledge] with [the Park Doctrine's explicit rule of positional responsibility].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the executive had no "responsibility and authority" over the relevant operations (no oversight role, no power to order corrective action), the Park Doctrine does not apply.
 - **Jurisdiction:** federal (FDCA context); some state law analogues
@@ -301,7 +301,7 @@
 #### park-doctrine-paradox: The Park Doctrine Paradox
 - **Rule:** The Park Doctrine was designed to *expand* corporate officer liability by dispensing with proof of intent. In practice, prosecutors have used it to *reduce* culpability: charging executives with strict liability misdemeanors (Purdue) avoids the burden of proving what they actually knew — and the resulting penalties are correspondingly modest. Jason Voss received seven years for one overdose death; Purdue executives who concealed addiction potential received probation.
 - **Source:** *United States v. Purdue Frederick Co.*, Chapter § "Purdue Pharma and the limits of the Park Doctrine"
-- **Trap:** Students assume the Park Doctrine is always a prosecutorial tool for expanding liability because they miss its paradoxical use to *reduce* liability by avoiding proof of intent.
+- **Trap:** Students choose [that the Park Doctrine is strictly a tool for expanding liability] because they confuse [its broad strict liability scope] with [its paradoxical use by prosecutors to reduce liability to avoid proving intent].
 - **Difficulty:** advanced
 - **Pivot fact:** If prosecutors had charged Purdue executives with knowing misbranding (requiring proof of actual knowledge), the potential sentences would have been far higher — but the burden of proof would also have been far heavier.
 - **Jurisdiction:** federal (FDCA context)
@@ -310,7 +310,7 @@
 #### statutory-reporting-duties-corporate: Corporate Statutory Reporting Duties — Clearest Cases
 - **Rule:** The doctrinally simplest corporate omission cases involve a specific statute requiring a specific report, a defendant who knowingly failed to file it, and direct evidence of individual intent. These cases apply the *Jones* statutory duty category in its most straightforward corporate form: the statute exists, the defendant knew, and the breach caused harm. *Gree Electric* (CPSA), *Peanut Corporation of America* (FDCA), and *DeCoster* (FDCA) illustrate this pattern across different levels of individual knowledge.
 - **Source:** Chapter § "The Clearest Cases: Statutory Reporting Duties"; *Gree Electric*, *PCA*, *DeCoster* cases
-- **Trap:** Students assume direct evidence of individual intent (like Parnell's "just ship it" email) is required for all corporate omission prosecutions — missing that *Gree* (executives knew of defects) and *DeCoster* (executives had no personal knowledge) span a wide range.
+- **Trap:** Students choose [that direct evidence of individual intent is required for all corporate omission prosecutions] because they confuse [specific intent cases] with [the wide spectrum of liability that includes strict positional responsibility without personal knowledge].
 - **Difficulty:** intermediate
 - **Pivot fact:** In *PCA*, without the "just ship it" email, the mens rea case would have been far harder — underscoring how rarely prosecutors find this quality of direct evidence.
 - **Jurisdiction:** federal (CPSA, FDCA context); analogues in state law
@@ -319,7 +319,7 @@
 #### misbranding-by-silence: Misbranding by Silence — Duty to Disclose
 - **Rule:** "Misbranding" under the FDCA includes failing to disclose material safety information in required regulatory reports. The crime is not manufacturing a dangerous product but remaining silent about known risks. Cases include Purdue (addiction potential), GSK (Avandia heart risks), and Boeing (MCAS flight control). The duty to disclose runs against the fiduciary duty to shareholders that pushes decision-makers toward silence.
 - **Source:** Chapter § "Misbranding by Silence: The Duty to Disclose"; *Purdue*, *GSK*, *Boeing* cases
-- **Trap:** Students frame these cases as active fraud or product liability rather than criminal omission because they focus on what the company knew and concealed rather than on the failure to disclose as the actus reus.
+- **Trap:** Students choose [to frame these cases as active fraud or product liability] because they confuse [what a company actively knew and concealed] with [the failure to disclose as the specific criminal omission actus reus].
 - **Difficulty:** intermediate
 - **Pivot fact:** In *Boeing*, if the company had disclosed MCAS to the FAA and pilots (even late), the omission-based conspiracy charge would fail — though the design decision might raise other theories.
 - **Jurisdiction:** federal (FDCA, FAA regulations); state analogues exist
@@ -328,7 +328,7 @@
 #### andersen-effect-dpa: The Andersen Effect and Deferred Prosecution Agreements
 - **Rule:** Arthur Andersen's indictment destroyed the firm despite a unanimous Supreme Court reversal on appeal. Prosecutors drew a lesson: corporate indictment carries catastrophic collateral consequences for employees and stakeholders. The result was a dramatic shift toward deferred prosecution agreements (DPAs). From 2002–2016, DOJ entered 419 such agreements; in two-thirds of cases involving public corporations, no employees were prosecuted.
 - **Source:** Chapter § "The Andersen Effect and the Rise of Deferred Prosecution"; *Arthur Andersen LLP v. United States*; Garrett, *Too Big to Jail* (2014)
-- **Trap:** Students conclude DPAs represent a purely rational enforcement tool when they miss the structural distortion: the fear of another *Andersen* has made prosecutors systematically reluctant to indict large corporations even for serious omissions, producing systematic underenforcement.
+- **Trap:** Students choose [that Deferred Prosecution Agreements represent a purely rational enforcement tool] because they confuse [proportional enforcement] with [a structural distortion caused by systemic prosecutorial reluctance to indict large corporations].
 - **Difficulty:** advanced
 - **Pivot fact:** If the Supreme Court had upheld the Andersen conviction (or if DOJ had proceeded to retry the firm), the "lesson" prosecutors drew would have been different — and the DPA era might not have followed.
 - **Jurisdiction:** federal (DPA practice); analogues emerging in some states
@@ -337,7 +337,7 @@
 #### corporate-enforcement-asymmetry: The Enforcement Asymmetry — Individuals vs. Corporations
 - **Rule:** The chapter's comparison table illustrates a systematic disparity: Jason Voss received seven years for failing to call 911 during one overdose; Purdue executives received probation; Boeing had its prosecution dropped. Three factors explain the gap: diffuse corporate decision-making defeats individual intent proof; resource disparity allows sustained defense; *Andersen* risk aversion deters indictment. The doctrine does not mandate this asymmetry.
 - **Source:** Chapter § "The Enforcement Gap and the Asymmetry"; comparison table; Holder statement (2013)
-- **Trap:** Students interpret the enforcement disparity as reflecting the law rather than enforcement choices — concluding that the doctrine treats Voss and Boeing executives differently when in fact the doctrine would support similar liability if enforced similarly.
+- **Trap:** Students choose [that the enforcement disparity between small and large corporate executives reflects actual legal doctrine] because they confuse [discretionary enforcement choices] with [the underlying legal doctrine that supports similar liability].
 - **Difficulty:** advanced
 - **Pivot fact:** If Congress enacted mandatory prosecution standards for corporate omissions above a certain harm threshold (e.g., ten deaths), the enforcement choices that produce the asymmetry would be constrained.
 - **Jurisdiction:** universal (asymmetry pattern is structural; observed across federal and state contexts)
@@ -345,7 +345,7 @@
 #### public-benefit-restructuring: Public Benefit Restructuring as Corporate Sanction
 - **Rule:** Braman, Gabaldon, and Cho propose requiring corporations convicted of serious criminal conduct to restructure as public benefit corporations — a form whose charter requires directors to balance shareholder interests against the interests of affected stakeholders. Unlike fines (too small) or dissolution (too destructive), charter-based restructuring alters the incentive structure that produces omissions in the first place. The corporate purpose clause is the point of intervention.
 - **Source:** Chapter § "Beyond Fines and Prosecution: Public Benefit Restructuring"; Braman, Gabaldon, and Cho (2025); Diamantis "character theory"; Garrett on structural reform
-- **Trap:** Students dismiss the PBC proposal as soft or non-criminal because they confuse a change in corporate form with the absence of punishment — missing that charter modification can be more consequential than a fine.
+- **Trap:** Students choose [to dismiss the Public Benefit Corporation proposal as a soft or non-criminal remedy] because they confuse [a change in corporate form] with [the absence of punishment].
 - **Difficulty:** advanced
 - **Pivot fact:** If a state enacted legislation requiring PBC conversion upon criminal conviction, the enforceability of the charter-based safety obligations would turn on whether stakeholders have standing to enforce them — which varies by state.
 - **Jurisdiction:** majority/minority (PBC form recognized in most states; mandatory conversion upon conviction untested)

@@ -49,7 +49,7 @@
 #### strict-liability-substitution: Felony Murder Eliminates Mens Rea for the Killing
 - **Rule:** Under the traditional felony murder rule, commission of the predicate felony "constructively" supplies the malice that murder ordinarily requires; the prosecution need not prove intent to kill, foresight of death, or even negligence as to the death.
 - **Source:** Chapter introduction; thought experiment (David / stereo thief scenario)
-- **Trap:** Students assume the prosecution still needs to prove *some* mental state toward the victim because murder typically requires it; they confuse the mens rea for the underlying felony with the mens rea for the homicide.
+- **Trap:** Students choose [to require the prosecution to prove some mental state toward the victim] because they confuse [the mens rea for the underlying felony] with [the mens rea for the homicide].
 - **Difficulty:** foundational
 - **Pivot fact:** If the defendant had no predicate felony — e.g., David was on his own property retrieving property he owned — there is no felony murder regardless of how the death occurred.
 - **Jurisdiction:** split (traditional/MPC) — traditional states apply strict liability; MPC § 210.2(1)(b) creates a rebuttable presumption of recklessness only.
@@ -58,7 +58,7 @@
 #### enumerated-vs-unenumerated: First vs. Second Degree Felony Murder
 - **Rule:** Deaths during enumerated predicate felonies (typically burglary, arson, robbery, rape, kidnapping) are automatically first-degree murder; deaths during other felonies are typically second-degree murder or require a further showing of dangerousness.
 - **Source:** Chapter introduction; Oklahoma § 701.7(B) and § 701.8(2)
-- **Trap:** Students treat all felony murder the same and miss that grade determines sentence severity; they fail to check whether the predicate is enumerated.
+- **Trap:** Students choose [to treat all felony murder the same] because they confuse [general felony murder predicates] with [enumerated predicates that determine grade and sentence severity].
 - **Difficulty:** foundational
 - **Pivot fact:** If the predicate felony is drug trafficking rather than robbery, the default charge becomes second-degree murder (or requires a dangerousness showing), dramatically reducing exposure in mandatory-LWOP states.
 - **Jurisdiction:** universal — all jurisdictions retaining felony murder draw this line, though the specific enumerated felonies vary.
@@ -67,7 +67,7 @@
 #### mpc-rebuttable-presumption: MPC Treats Felony Murder as a Presumption, Not a Separate Category
 - **Rule:** MPC § 210.2(1)(b) does not create a separate offense; it creates a rebuttable presumption that the defendant acted recklessly with extreme indifference to human life when death occurs during enumerated felonies, which the defendant may theoretically rebut.
 - **Source:** MPC § 210.2(1)(b); slides 4, 5, 6
-- **Trap:** Students treat the MPC presumption as equivalent to strict liability because rebuttal is so difficult in practice; they forget that the MPC still technically requires recklessness and extreme indifference as the ultimate mens rea.
+- **Trap:** Students choose [strict liability under the MPC] because they confuse [a practically difficult rebuttable presumption] with [the technical requirement of recklessness and extreme indifference].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the defendant can introduce strong evidence that the death was genuinely unforeseeable (e.g., a purely mechanical accident during the felony), the presumption is technically rebuttable — though *Todd*-type cases show how hard this is.
 - **Jurisdiction:** split (traditional/MPC) — most states have not adopted the MPC approach.
@@ -78,7 +78,7 @@
 #### tison-major-participant: Major Participation + Reckless Indifference Required for Accomplice Death Penalty
 - **Rule:** Under *Tison v. Arizona*, an accomplice who did not personally kill may be sentenced to death only if they were a "major participant" in the underlying felony and acted with "reckless indifference to human life." This standard now governs accomplice liability broadly in reformed states.
 - **Source:** *Tison v. Arizona*, 481 U.S. 137 (1987); California SB 1437; *People v. Emanuel* (Cal. 2025)
-- **Trap:** Students assume any co-felon is automatically guilty of felony murder and miss that *Tison* / SB 1437 require individualized culpability findings; they confuse the proximate cause causation question with the accomplice culpability question.
+- **Trap:** Students choose [automatic felony murder guilt for any co-felon] because they confuse [the proximate cause causation question] with [the individualized accomplice culpability question required by Tison and SB 1437].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the accomplice is at home rather than present at the scene and did not provide weapons, they may fall outside "major participant" status under SB 1437 / *Brown* (as Brown himself did).
 - **Jurisdiction:** majority/minority — *Tison* is federal constitutional floor for death penalty; states vary widely on applying it to non-capital accomplice felony murder.
@@ -86,7 +86,7 @@
 #### brown-remote-outer-fringes: Accomplice on Remote Fringes Gets Reduced Conviction
 - **Rule:** An accomplice whose participation was on the "remote outer fringes" of the joint venture — e.g., lending a gun and sweatshirts while staying home — may receive a reduced conviction (second-degree rather than first-degree murder) on proportionality grounds even if technically guilty of felony murder.
 - **Source:** *Commonwealth v. Brown*, 477 Mass. 805 (2017)
-- **Trap:** Students assume guilt is binary (either fully liable for first-degree murder or not liable at all); they miss that courts can adjust grade on culpability grounds.
+- **Trap:** Students choose [binary guilt of either first-degree murder or no liability at all] because they confuse [absolute liability rules] with [judicial grade adjustment based on culpability].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Brown had been present at the scene and actively coordinated the robbery, the court would not have found him on the "remote outer fringes."
 - **Jurisdiction:** majority/minority — Massachusetts-specific rule; other states vary.
@@ -95,7 +95,7 @@
 #### smith-proximate-cause-police: Agency vs. Proximate Cause — Third-Party Killing
 - **Rule:** When a non-felon (police officer, victim, bystander) fires the fatal shot, the proximate cause theory holds the felon liable if death was a foreseeable consequence of the felony; the agency theory (majority) says no felony murder at all when a non-felon does the killing.
 - **Source:** *Smith v. State* (Alabama, 2018); agency/proximate cause discussion
-- **Trap:** Students applying the agency theory conclude the defendant faces no homicide liability at all; they miss that the prosecution can still charge involuntary manslaughter or depraved heart murder if it proves the appropriate mens rea.
+- **Trap:** Students choose [no homicide liability at all under the agency theory] because they confuse [a bar on felony murder liability] with [the availability of involuntary manslaughter or depraved heart murder charges if mens rea is proven].
 - **Difficulty:** advanced
 - **Pivot fact:** If a co-felon (rather than a police officer) had fired the shot that killed Washington, LaKeith Smith would be guilty of felony murder even in an agency-theory state.
 - **Jurisdiction:** split (traditional/MPC) — majority follows agency theory; Alabama, Florida, Indiana, Kansas, Missouri, Oklahoma, Wisconsin follow proximate cause.
@@ -105,7 +105,7 @@
 #### elements-vs-facts-approach: Abstract Elements vs. Facts-as-Committed Test for Dangerousness
 - **Rule:** California examines the felony's statutory elements "in the abstract" to determine if it is inherently dangerous; if the crime could theoretically be committed safely, it is not inherently dangerous even if the defendant's actual conduct was lethal. Most other states examine the felony as actually committed.
 - **Source:** *People v. Phillips*, 64 Cal.2d 574 (1966); chapter discussion
-- **Trap:** Students applying California's rule look at what the defendant actually did (which was dangerous) rather than the statutory definition in the abstract; they find the felony dangerous when California courts would not.
+- **Trap:** Students choose [to find the felony dangerous based on the defendant's actual conduct] because they confuse [what the defendant actually did] with [the statutory definition of the felony in the abstract under California's rule].
 - **Difficulty:** intermediate
 - **Pivot fact:** Grand theft committed by creating a high-speed chase fails California's abstract test (grand theft can be done by embezzlement), but would satisfy most other states' facts-as-committed test.
 - **Jurisdiction:** majority/minority — California uses abstract/elements approach; most states use the facts approach.
@@ -116,7 +116,7 @@
 #### merger-independent-purpose: Assaultive Felonies Merge; Only Independent-Purpose Felonies Qualify
 - **Rule:** A predicate felony that has no purpose independent of the violence causing the death "merges" with the homicide and cannot support felony murder. Burglary to steal (independent purpose: the theft) does not merge; assault with a deadly weapon (no purpose beyond the violence) does.
 - **Source:** Chapter text; *People v. Wilson* (CA)
-- **Trap:** Students see an assault and immediately slot it in as a felony murder predicate; they miss that assault merges because it lacks an independent felonious purpose.
+- **Trap:** Students choose [to slot assault in as a felony murder predicate] because they confuse [a distinct felony murder predicate] with [a merged offense lacking an independent felonious purpose].
 - **Difficulty:** intermediate
 - **Pivot fact:** If David entered the apartment to steal property (not to kill) and then killed in a struggle, the burglary has an independent purpose and does not merge, supporting felony murder.
 - **Jurisdiction:** majority/minority — most states apply some version of the merger doctrine, but its scope varies (some states extend it to child abuse; others do not).
@@ -125,7 +125,7 @@
 #### squeeze-effect: Dangerous-but-Not-Assaultive Narrows the Field
 - **Rule:** The inherently dangerous requirement and the merger doctrine together create a "squeeze": felonies not dangerous enough fail the first test; those dangerous enough to be assaultive merge. Only a narrow band of felonies that are dangerous but not directly assaultive (burglary, arson, robbery) reliably qualify.
 - **Source:** Chapter text (scholars' "squeeze" description)
-- **Trap:** Students apply the two doctrines sequentially without recognizing they are connected; they don't see that together they produce the squeeze and that this is intentional judicial narrowing.
+- **Trap:** Students choose [to apply the two doctrines sequentially as independent rules] because they confuse [isolated sequential rules] with [connected doctrines that intentionally interact to produce the judicial narrowing squeeze].
 - **Difficulty:** advanced
 - **Pivot fact:** Remove either the inherently dangerous requirement or the merger doctrine, and the field of eligible predicate felonies expands substantially.
 - **Jurisdiction:** majority/minority — applies wherever both limiting doctrines are recognized together.
@@ -136,7 +136,7 @@
 #### judicial-abolition-malice: Judicial Abolition — Courts Require Independent Proof of Malice
 - **Rule:** Michigan (*People v. Aaron*, 1980) and Massachusetts (*Commonwealth v. Brown*, 2017) judicially eliminated strict-liability felony murder by requiring independent proof of malice (intent to kill, intent to cause grievous harm, or wanton disregard of death risk) for all murder convictions, regardless of an underlying felony.
 - **Source:** *People v. Aaron* (Michigan, 1980); *Commonwealth v. Brown* (2017), Chief Justice Gants concurrence
-- **Trap:** Students treat judicial abolition as complete abolition; they miss that felony murder may survive as an aggravating element or that the felony still creates a presumption that needs to be overcome.
+- **Trap:** Students choose [complete abolition of felony murder liability] because they confuse [complete abolition of the doctrine] with [judicial abolition where the felony survives as an aggravating element or a rebuttable presumption].
 - **Difficulty:** intermediate
 - **Pivot fact:** Under *Brown*'s prospective rule, a defendant with Brown's facts (absent, lent gun) would need proof of actual malice — intent to kill or intent to cause grievous harm — to be convicted of murder at all.
 - **Jurisdiction:** majority/minority — Massachusetts and Michigan approach; most states have not adopted it.
@@ -145,7 +145,7 @@
 #### legislative-abolition-hawaii-kentucky: Complete Legislative Abolition
 - **Rule:** Hawaii and Kentucky have abolished felony murder entirely; prosecutors must independently prove the mental state for murder regardless of an underlying felony.
 - **Source:** Chapter text (reform section); Slide 14
-- **Trap:** Students assume abolished states have no murder liability for felony-related deaths; they miss that the prosecution can still charge purposeful or knowing murder, depraved heart murder, or manslaughter if it proves the elements.
+- **Trap:** Students choose [no murder liability for felony-related deaths in abolished states] because they confuse [the abolition of felony murder] with [the continued availability of purposeful, knowing, depraved heart, or manslaughter charges].
 - **Difficulty:** foundational
 - **Pivot fact:** In Hawaii, if the defendant fired a gun at someone during a robbery with intent to kill, the prosecution charges intentional murder — the felony is simply irrelevant to the murder charge.
 - **Jurisdiction:** minority — Hawaii and Kentucky only.
@@ -154,7 +154,7 @@
 #### sb-1437-major-participant: California SB 1437 — Accomplice Liability Reform
 - **Rule:** California SB 1437 (2018) limits non-killer accomplice felony murder to three categories: actual killer, aider and abettor with intent to kill, or major participant who acted with reckless indifference to human life. It applies retroactively; *People v. Emanuel* (2025) confirmed that an accomplice who did not know a co-felon was armed is not a "major participant."
 - **Source:** California SB 1437; *People v. Emanuel* (Cal. 2025)
-- **Trap:** Students apply the pre-SB 1437 rule to California facts; they also conflate "major participant" with simply being present or involved in planning — *Emanuel* clarifies the standard requires something more.
+- **Trap:** Students choose [felony murder liability based on mere presence or planning under pre-SB 1437 rules] because they confuse [simply being present or involved in planning] with [the elevated "major participant" standard required by Emanuel and SB 1437].
 - **Difficulty:** advanced
 - **Pivot fact:** If the accomplice knew his co-felon was armed and helped plan the confrontation, *Emanuel* suggests the reckless indifference element is stronger; if the accomplice had no knowledge of the weapon, SB 1437 / *Emanuel* shield him.
 - **Jurisdiction:** majority/minority — California-specific; Minnesota has adopted similar requirements.
@@ -162,7 +162,7 @@
 #### disparate-impact-reform: Racial and Age Disparities Drive Reform Pressure
 - **Rule:** Felony murder convictions fall disproportionately on Black defendants (34x more likely than white defendants for accomplice convictions in New York), young people (nearly 30% of all felony murder convictions are teenagers), and accomplices who did not personally kill (roughly half of all convictions in some states).
 - **Source:** Binder & Harrington (2025 Iowa Law Review study); Sentencing Project reports; chapter text
-- **Trap:** Students treat proportionality as a purely doctrinal question; they miss that the chapter frames it as an empirical pattern with documented racial and age skew that is a primary driver of the reform wave.
+- **Trap:** Students choose [a purely doctrinal proportionality analysis] because they confuse [a purely doctrinal question] with [an empirical pattern with documented racial and age skew driving reform].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the New York data showed similar conviction rates across racial lines, the legislative pressure for reform would look substantially different.
 - **Jurisdiction:** universal — data from multiple states; reform motivation is cross-jurisdictional.
@@ -170,7 +170,7 @@
 #### deterrence-failure: Deterrence Rationale Fails Empirically
 - **Rule:** The primary justification for felony murder is deterrence, but empirical research (Malani, 2002; ACLR survey, 2025) finds no significant deterrent effect on felony-related deaths; some data suggests the rule may increase violence by eliminating marginal deterrence against killing once a felony is underway.
 - **Source:** Malani study (University of Chicago); 2025 ACLR survey; chapter text
-- **Trap:** Students state "deterrence" as a valid justification without examining whether the empirical evidence supports it; they also miss the "marginal deterrence" problem — by making any death murder, the rule eliminates the cost of killing to silence witnesses.
+- **Trap:** Students choose [general deterrence as a valid, unexamined justification] because they confuse [theoretical deterrence] with [the empirical marginal deterrence problem that eliminates the cost of killing to silence witnesses].
 - **Difficulty:** intermediate
 - **Pivot fact:** If empirical research showed felony murder reduced felony-related deaths, the deterrence rationale would be substantially stronger and reform arguments would be weaker.
 - **Jurisdiction:** universal — empirical claim about the rule's effects across jurisdictions.
@@ -180,7 +180,7 @@
 #### mm-strict-liability-structure: Misdemeanor Substitutes for Manslaughter Mens Rea
 - **Rule:** Under the misdemeanor manslaughter rule, an unintentional killing during a misdemeanor constitutes involuntary manslaughter without proof of criminal negligence or recklessness; the intent to commit the misdemeanor substitutes for the culpable mental state manslaughter ordinarily requires — mirroring felony murder's structure.
 - **Source:** Chapter introduction to misdemeanor manslaughter; *State v. Weitbrecht* (Ohio, 1999); 18 U.S.C. § 1112
-- **Trap:** Students see "manslaughter" and assume the prosecution needs gross negligence; they apply standard involuntary manslaughter doctrine instead of recognizing that the misdemeanor manslaughter variant eliminates that requirement.
+- **Trap:** Students choose [to require gross negligence for misdemeanor manslaughter] because they confuse [standard involuntary manslaughter doctrine] with [the misdemeanor manslaughter variant that eliminates the negligence requirement].
 - **Difficulty:** foundational
 - **Pivot fact:** If Nancy Weitbrecht had been driving without negligence on a public road (no traffic violation), there is no misdemeanor predicate and she cannot be charged under the misdemeanor manslaughter theory — only under a standard negligence theory if the facts support it.
 - **Jurisdiction:** split (traditional/MPC) — roughly half of states retain the rule; MPC rejects it entirely; federal law codifies it.
@@ -189,7 +189,7 @@
 #### mm-proximate-cause-limit: Unlawful Aspect Must Be Causally Connected to the Death
 - **Rule:** The unlawful aspect of the defendant's conduct must itself be causally connected to the death; the specific illegality must be what made the conduct deadly. A driver with an expired license whose car skids on ice is not guilty of misdemeanor manslaughter because the lack of a license did not cause the collision.
 - **Source:** *Commonwealth v. Williams* (Pa. 1938); *United States v. Walker* (D.C. 1977)
-- **Trap:** Students see that a misdemeanor and a death occurred and jump to misdemeanor manslaughter liability; they fail to ask whether the unlawful aspect of the conduct — not just "but for" causation — was what made it dangerous.
+- **Trap:** Students choose [automatic misdemeanor manslaughter liability upon a misdemeanor and a death] because they confuse [mere "but for" causation] with [causation driven specifically by the unlawful and dangerous aspect of the conduct].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Williams had been driving with impaired vision (a licensing disqualification) and that impairment caused the swerve, the unlawful aspect of driving without a valid license would be causally connected to the death.
 - **Jurisdiction:** majority/minority — proximate cause limitation is widely recognized, though applied variably; Oklahoma stands out as allowing any misdemeanor with causation as the only limit.
@@ -198,7 +198,7 @@
 #### mm-malum-in-se: Malum In Se vs. Malum Prohibitum — Michigan's Limiting Rule
 - **Rule:** Some states (e.g., Michigan) apply misdemeanor manslaughter automatically only to malum in se offenses (inherently wrongful, like assault); malum prohibitum offenses (wrong only because a statute says so, like driving without a license) require the prosecution to independently prove criminal negligence.
 - **Source:** *People v. Datema*, 448 Mich. 585 (1995); chapter text
-- **Trap:** Students treat the distinction as clear-cut; they miss that the chapter flags it as "notoriously difficult to apply" and provides examples (alcohol to a minor, speeding in a school zone) where reasonable people disagree on classification.
+- **Trap:** Students choose [a clear-cut classification of the distinction] because they confuse [a clear-cut legal boundary] with [a notoriously difficult standard where reasonable people disagree on classification].
 - **Difficulty:** advanced
 - **Pivot fact:** If the predicate offense is selling alcohol to a minor, the outcome turns entirely on whether the court classifies it as malum in se or malum prohibitum — a contested classification the chapter does not resolve.
 - **Jurisdiction:** majority/minority — Michigan approach; not universally adopted.
@@ -206,7 +206,7 @@
 #### mm-dangerousness-ca: California's Dangerousness Requirement for Misdemeanor Manslaughter
 - **Rule:** California requires the predicate misdemeanor to be "dangerous under the circumstances of its commission" — committed with gross negligence — rather than merely dangerous in the abstract, imposing a fact-specific rather than categorical test.
 - **Source:** *People v. Wells*, 12 Cal.4th 979 (1996); chapter text
-- **Trap:** Students apply the abstract/elements test from felony murder's *Phillips* to misdemeanor manslaughter in California; California uses a fact-specific test for misdemeanor manslaughter, the opposite of its approach to felony murder.
+- **Trap:** Students choose [the abstract/elements test from felony murder] because they confuse [the abstract elements test from felony murder] with [California's fact-specific test for misdemeanor manslaughter].
 - **Difficulty:** advanced
 - **Pivot fact:** The same conduct (reckless speeding in a school zone) that might fail the abstract dangerousness test because speeding can be done safely passes the facts-as-committed test — showing the two approaches produce different results.
 - **Jurisdiction:** majority/minority — California-specific; contrasts with California's abstract approach to the felony murder "inherently dangerous" test.
@@ -214,7 +214,7 @@
 #### mm-mpc-rejection: MPC Rejects Misdemeanor Manslaughter Entirely
 - **Rule:** The MPC requires proof of recklessness for manslaughter and criminal negligence for negligent homicide; there is no provision for constructive manslaughter based on commission of an unlawful act, and roughly half of states have followed the MPC.
 - **Source:** Chapter text; MPC §§ 210.3, 210.4
-- **Trap:** Students assume the MPC and traditional rule are just on a spectrum; they miss that the MPC completely rejects the constructive approach rather than modifying it.
+- **Trap:** Students choose [the MPC approach as a mere modification of the traditional rule] because they confuse [a spectrum of liability modifying the traditional rule] with [the MPC's complete rejection of the constructive approach].
 - **Difficulty:** foundational
 - **Pivot fact:** In a jurisdiction that has followed the MPC, *Weitbrecht*'s prosecution would fail entirely — the only charges available would be negligent homicide (requiring proof of criminal negligence) or involuntary manslaughter (requiring recklessness).
 - **Jurisdiction:** split (traditional/MPC) — roughly half the states follow MPC; half retain some version of the rule.
@@ -222,7 +222,7 @@
 #### regulatory-gap: Misdemeanor Manslaughter and the Workplace Death Paradox
 - **Rule:** Misdemeanor manslaughter with regulatory violations (fire codes, building codes) as predicates can produce manslaughter charges for individual property owners while corporate actors killing dozens via willful regulatory violations face statutory caps of six months to one year under OSHA and MSHA — creating an inversion where the doctrine's harshest application falls on individuals, not corporations.
 - **Source:** *Weitbrecht* (5 years possible for one traffic death); Blankenship / Upper Big Branch (1 year for 29 deaths); Station nightclub fire; Ghost Ship fire; Harco Construction
-- **Trap:** Students treat misdemeanor manslaughter as a consistent liability rule; they miss the structural point that corporate defendants typically benefit from statutory caps in federal safety law that override state common law manslaughter charges.
+- **Trap:** Students choose [consistent misdemeanor manslaughter liability for all defendants] because they confuse [a universally consistent state liability rule] with [structural statutory caps in federal safety law that override state common law for corporate defendants].
 - **Difficulty:** advanced
 - **Pivot fact:** If OSHA's criminal penalties were felony-level rather than misdemeanor-level, the Blankenship prosecution would have been federal felony murder or at least federal felony manslaughter territory rather than a misdemeanor cap.
 - **Jurisdiction:** universal — the regulatory gap is a structural feature of federal law (OSHA, MSHA) affecting all jurisdictions.

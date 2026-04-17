@@ -41,7 +41,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### morissette-factor-1: Regulatory Purpose vs. Inherent Wrongfulness
 - **Rule:** A public welfare offense targets conduct harmful to the public order but not inherently immoral. Its purpose is social betterment — preventing harm, not condemning evil intent. Courts are more willing to dispense with mens rea when the statute does not mark the defendant as wicked.
 - **Source:** *Morissette v. United States*, 342 U.S. 246 (1952)
-- **Trap:** Students say strict liability applies whenever the statute has a public health purpose, because they confuse the presence of a regulatory purpose with satisfaction of all four Morissette factors.
+- **Trap:** Students choose [strict liability applies whenever the statute has a public health purpose] because they confuse [the presence of a regulatory purpose] with [satisfaction of all four Morissette factors].
 - **Difficulty:** foundational
 - **Pivot fact:** If the statute targets conduct that is *malum in se* (e.g., assault, fraud), the regulatory-purpose factor cuts against strict liability even if other factors are present.
 - **Jurisdiction:** universal
@@ -60,7 +60,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### morissette-factor-2-dangerous-items: The Dangerous Items Heuristic
 - **Rule:** A person who deals in items that are obviously dangerous — narcotics, hand grenades, toxic chemicals — is "put on notice" that those items are likely regulated, and cannot claim ignorance of the law as a defense. The dangerousness of the item substitutes for conscious knowledge of regulation.
 - **Source:** *United States v. Balint*, 258 U.S. 250 (1922); *Morissette*, 342 U.S. 246 (1952)
-- **Trap:** Students say any dangerous product triggers the heuristic, because they confuse general product danger (cars, ladders) with the specialized "puts-possessor-on-notice-of-regulation" danger the doctrine requires.
+- **Trap:** Students choose [any dangerous product triggers the heuristic] because they confuse [general product danger (cars, ladders)] with [the specialized "puts-possessor-on-notice-of-regulation" danger the doctrine requires].
 - **Difficulty:** foundational
 - **Pivot fact:** If the item has millions of lawful users and ordinary possession does not signal criminality, the dangerous-items heuristic does not apply even if the item can cause serious harm.
 - **Jurisdiction:** universal
@@ -69,7 +69,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### balint-narcotics-at-peril: Narcotics Dealers at Peril
 - **Rule:** A dealer in narcotics must ascertain at his peril whether what he sells falls within the statutory prohibition. The statute's silence on mens rea does not defeat conviction; Congress chose to protect innocent buyers at the expense of ignorant sellers.
 - **Source:** *United States v. Balint*, 258 U.S. 250 (1922)
-- **Trap:** Students say Balint requires the government to prove the defendant knew the substance was a narcotic, because they confuse the indictment's failure to allege knowledge (which was the defect Balint argued) with what the prosecution must prove at trial.
+- **Trap:** Students choose [Balint requires the government to prove the defendant knew the substance was a narcotic] because they confuse [the indictment's failure to allege knowledge (which was the defect Balint argued)] with [what the prosecution must prove at trial].
 - **Difficulty:** foundational
 - **Pivot fact:** If the substance Balint sold had been a legal supplement rather than a classified narcotic, the "at his peril" logic would not apply — the seller would not be on notice of regulation.
 - **Jurisdiction:** federal only (Harrison Narcotics Tax Act); principle is universal
@@ -78,7 +78,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### staples-firearms-limit: Ordinary Firearms Not Dangerous Enough for Strict Liability
 - **Rule:** Ordinary firearms are not in the same class as hand grenades and narcotics. Because millions of Americans own guns lawfully, mere possession of a firearm does not put the owner on notice of every special regulation; the government must prove the defendant knew his weapon possessed the specific characteristic (automatic fire) that made it a machinegun.
 - **Source:** *Staples v. United States*, 511 U.S. 600 (1994)
-- **Trap:** Students conclude that all weapons statutes require mens rea after Staples, because they confuse Staples' limitation on dangerous-items logic (for widely-owned items) with a general rule that weapons statutes always require knowledge.
+- **Trap:** Students choose [all weapons statutes require mens rea after Staples] because they confuse [Staples' limitation on dangerous-items logic (for widely-owned items)] with [a general rule that weapons statutes always require knowledge].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Staples had possessed a hand grenade or an unregistered sawed-off shotgun — not a weapon with millions of lawful civilian analogues — the Court likely would have required no proof of knowledge.
 - **Jurisdiction:** federal; principle applied case-by-case
@@ -87,7 +87,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### staples-outlier-serious-penalties: Staples as Outlier — Serious Penalties Presumed to Require Mens Rea
 - **Rule:** When a regulatory statute carries a very severe penalty — Staples faced ten years — courts presume Congress intended a mens rea requirement even when the statute is silent. Staples is often treated as an outlier confined to situations where serious criminal penalties attach to facially innocent conduct.
 - **Source:** *Staples v. United States*, 511 U.S. 600 (1994)
-- **Trap:** Students apply Staples' serious-penalty logic to override strict liability in all public welfare cases with substantial penalties, because they confuse Staples' holding (limited by the widespread-innocent-use tradition) with a general rule that high penalties always require proof of knowledge.
+- **Trap:** Students choose [Staples' serious-penalty logic overrides strict liability in all public welfare cases with substantial penalties] because they confuse [Staples' holding (limited by the widespread-innocent-use tradition)] with [a general rule that high penalties always require proof of knowledge].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the NFA registered-machinegun offense had carried only a $500 fine, the Court would likely have sustained strict liability without requiring proof of knowledge about automatic capability.
 - **Jurisdiction:** federal; principle broadly applied
@@ -105,7 +105,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### morissette-factor-3-capacity: Defendant in Position to Prevent Harm
 - **Rule:** Strict liability is appropriate when the defendant — not the victim — is the party who can cheaply and effectively prevent the harm. The seller of contaminated milk, the shipper of misbranded drugs, the corporate officer overseeing food production each has access to information and precautionary measures that consumers and inspectors do not.
 - **Source:** *Morissette*, 342 U.S. 246 (1952); chapter introduction (lines 13–15)
-- **Trap:** Students treat this as automatically satisfied whenever the defendant is a professional or business, because they confuse being in a regulated industry with having specific control over the hazard that materialized.
+- **Trap:** Students choose [the responsible corporate officer standard is automatically satisfied whenever the defendant is a professional or business] because they confuse [being in a regulated industry] with [having specific control over the hazard that materialized].
 - **Difficulty:** foundational
 - **Pivot fact:** If the contamination entered the supply chain after it left the defendant's control and the defendant had no reasonable way to prevent it, the capacity-to-prevent rationale weakens — though strict liability under most statutes would still apply.
 - **Jurisdiction:** universal
@@ -116,7 +116,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### morissette-factor-4-minor-penalties: Minor Penalties as Structural Constraint
 - **Rule:** The regulatory bargain for strict liability includes minor penalties — fines or short imprisonment — that limit the injustice of punishing someone who lacked a guilty mind. The penalty structure is both a description of public welfare offenses and a limit on their reach.
 - **Source:** *Morissette*, 342 U.S. 246 (1952); *Balint* (five-year penalty acknowledged as stretching the framework)
-- **Trap:** Students treat any criminal penalty as "minor" in this context, because they confuse the general description of public welfare offense penalties with a firm doctrinal rule.
+- **Trap:** Students choose [any criminal penalty is "minor" in this context] because they confuse [the general description of public welfare offense penalties] with [a firm doctrinal rule].
 - **Difficulty:** foundational
 - **Pivot fact:** The Balint statute carried a five-year penalty that the chapter describes as already "stretching" the minor-penalty criterion at strict liability's founding.
 - **Jurisdiction:** universal
@@ -127,7 +127,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### responsible-corporate-officer-dotterweich: The Responsible Corporate Officer Doctrine (Dotterweich)
 - **Rule:** Corporate officers who stand in "responsible relation" to a regulatory violation by their company may be convicted under food, drug, or consumer safety statutes even without personal knowledge, participation, or awareness of the specific violation.
 - **Source:** *United States v. Dotterweich*, 320 U.S. 277 (1943)
-- **Trap:** Students think Dotterweich requires proof that the officer knew about the specific violation, because they confuse the corporate-officer liability doctrine with ordinary respondeat superior, which requires the officer to have directed or ratified the wrongful act.
+- **Trap:** Students choose [Dotterweich requires proof that the officer knew about the specific violation] because they confuse [the corporate-officer liability doctrine] with [ordinary respondeat superior, which requires the officer to have directed or ratified the wrongful act].
 - **Difficulty:** foundational
 - **Pivot fact:** If the officer had no actual or constructive authority over the department where the violation occurred, the "responsible relation" element may not be satisfied.
 - **Jurisdiction:** federal (FDCA); doctrine adopted in various forms in other regulatory contexts
@@ -136,7 +136,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### park-doctrine-foresight-vigilance: Park Doctrine — Highest Standard of Foresight and Vigilance
 - **Rule:** Under Park, the FDCA imposes on responsible corporate agents not just a duty to correct violations after discovery but a proactive duty to implement systems ensuring violations do not occur. Delegating responsibility to subordinates is not a defense; the officer must ensure the system works.
 - **Source:** *United States v. Park*, 421 U.S. 658 (1975)
-- **Trap:** Students say delegation breaks the chain of responsibility under Park, because they confuse the duty to delegate with the duty to ensure the delegated task is actually performed.
+- **Trap:** Students choose [delegation breaks the chain of responsibility under Park] because they confuse [the duty to delegate] with [the duty to ensure the delegated task is actually performed].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Park had personally reviewed and confirmed the warehouse compliance reports rather than simply delegating, the Court still would have required him to ensure the system produced results — but a genuine good-faith compliance system with documented follow-through might bear on sentencing, not guilt.
 - **Jurisdiction:** federal (FDCA); extended by analogy to other regulatory contexts
@@ -145,7 +145,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### decoster-imprisonment-not-pure-strict: DeCoster — Imprisonment Under Park; "Not Pure Strict Liability"
 - **Rule:** Imprisonment is constitutionally permissible under the Park doctrine, but the Eighth Circuit in DeCoster noted the convictions rested on negligence, not "pure" strict liability — the DeCosters knew of risks and failed to act. This suggests judicial reluctance to imprison for truly blameless corporate conduct.
 - **Source:** *United States v. DeCoster*, 828 F.3d 626 (8th Cir. 2016)
-- **Trap:** Students say DeCoster proves corporate officers can always be imprisoned for regulatory violations, because they miss the court's caveat that the conviction was not "pure" strict liability and that some blameworthiness was present.
+- **Trap:** Students choose [DeCoster proves corporate officers can always be imprisoned for regulatory violations] because they confuse [the actual facts of DeCoster, which involved some blameworthiness] with [a blanket authorization to imprison corporate officers for "pure" strict liability violations].
 - **Difficulty:** advanced
 - **Pivot fact:** If the DeCosters had conducted rigorous testing, found no contamination, and the salmonella entered after shipping, the "not pure strict liability" caveat would have pointed toward the constitutional limits of imprisonment.
 - **Jurisdiction:** federal (8th Cir.)
@@ -154,7 +154,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### park-doctrine-enforcement-gap: Park Doctrine Honored in the Breach
 - **Rule:** Despite authorizing imprisonment for responsible corporate officers, the Park doctrine has been used to seek imprisonment roughly thirteen times in twenty-five years. The enforcement pyramid is steeply tapered: millions of individual enforcement actions at the base, near-zero corporate-officer prosecutions at the apex.
 - **Source:** Chapter enforcement data (lines 180–190)
-- **Trap:** Students assume strict liability for corporate officers generates robust enforcement comparable to individual strict liability prosecutions, because they confuse doctrinal authorization with actual enforcement practice.
+- **Trap:** Students choose [strict liability for corporate officers generates robust enforcement comparable to individual strict liability prosecutions] because they confuse [doctrinal authorization] with [actual enforcement practice].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Congress eliminated misdemeanor ceilings for Park-doctrine violations and authorized felony punishment, prosecutorial incentives might shift — though Blankenship's case shows juries may still acquit on felony charges even with strong evidence.
 - **Jurisdiction:** federal
@@ -164,7 +164,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### mpc-restrained-position: MPC § 2.05 — Strict Liability Confined to Violations
 - **Rule:** The Model Penal Code allows absolute liability only for "violations" (minor infractions punishable by fine, not imprisonment). If a legislature imposes strict liability on a more serious offense, the MPC reclassifies it as a violation regardless of the legislature's label.
 - **Source:** MPC § 2.05
-- **Trap:** Students think the MPC bans strict liability entirely, because they confuse its restrained approach (limiting strict liability to violations) with complete abolition.
+- **Trap:** Students choose [the MPC bans strict liability entirely] because they confuse [its restrained approach (limiting strict liability to violations)] with [complete abolition].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a statute makes strict liability the basis for a felony, the MPC would re-grade the offense as a violation on conviction; the legislature cannot impose both strict liability and imprisonment under the MPC framework.
 - **Jurisdiction:** split (MPC vs. federal common law — federal courts and most states have not adopted MPC § 2.05)
@@ -173,7 +173,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### liparota-reasonable-notice: Liparota Definition — Reasonable Person Notice
 - **Rule:** An item or activity is subject to strict liability when a reasonable person should know that the activity is subject to stringent public regulation and may seriously threaten community health or safety. This notice-based definition limits strict liability to circumstances where the defendant is fairly charged with awareness of the regulatory regime.
 - **Source:** *Liparota v. United States* (discussed in slides)
-- **Trap:** Students apply the Liparota definition to conclude that anything with a public health label is a public welfare offense, because they miss the slide's own challenge — the milk cases show that consumers *could not* know milk was dangerous, undercutting a "reasonable person should have known" standard.
+- **Trap:** Students choose [anything with a public health label is a public welfare offense under the Liparota definition] because they confuse [the literal application of a public health label] with [the underlying "reasonable person should have known" standard, which the milk cases show consumers could not inherently meet].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the regulated activity is highly technical and far from public attention (e.g., a specialized chemical process in a licensed facility), a reasonable person might not know it triggers criminal regulation, cutting against strict liability.
 - **Jurisdiction:** federal; widely cited
@@ -182,7 +182,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### carolene-products-rational-basis: Carolene Products — Rational Basis Review Sustains Strict Liability Statutes
 - **Rule:** Public welfare statutes face only rational basis review on constitutional challenge; courts will uphold them so long as the legislature could have had a rational basis for the regulation, even if the actual motivation was protectionist. The presumption of constitutionality is very strong.
 - **Source:** *United States v. Carolene Products Co.*, 304 U.S. 144 (1938)
-- **Trap:** Students think courts will invalidate a public welfare statute if its actual purpose was protectionist rather than safety-focused, because they confuse the stated-purpose requirement for legislative findings with the highly deferential rational-basis standard courts actually apply.
+- **Trap:** Students choose [courts will invalidate a public welfare statute if its actual purpose was protectionist rather than safety-focused] because they confuse [the stated-purpose requirement for legislative findings] with [the highly deferential rational-basis standard courts actually apply].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the legislature had made explicit findings that the product was safe (as witnesses at the Filled Milk Act hearings in fact conceded), the plaintiff might have mounted a stronger rational-basis challenge, though Carolene Products itself showed courts will defer even then.
 - **Jurisdiction:** federal constitutional law; universal
@@ -191,7 +191,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### footnote-four-tiered-scrutiny: Carolene Products Footnote Four — Birth of Tiered Scrutiny
 - **Rule:** While upholding the Filled Milk Act under rational basis review, Justice Stone's Footnote Four suggested heightened judicial scrutiny when legislation: (a) restricts the political process, (b) targets discrete and insular minorities, or (c) appears to violate a specific constitutional prohibition. From this footnote grew the entire modern framework of rational basis, intermediate, and strict scrutiny.
 - **Source:** *United States v. Carolene Products Co.*, 304 U.S. 144 (1938), Footnote Four
-- **Trap:** Students describe Carolene Products only as deferring to the legislature on economic regulation, because they miss the doctrinal significance of what the case created — the tiered-scrutiny framework — which arose from a milk-adulteration statute.
+- **Trap:** Students choose [Carolene Products only defers to the legislature on economic regulation] because they confuse [its surface holding on economic regulation] with [its broader doctrinal significance in creating the tiered-scrutiny framework, which arose from a milk-adulteration statute].
 - **Difficulty:** advanced
 - **Pivot fact:** If the Filled Milk Act had targeted a racial or religious minority rather than a product category, Footnote Four's heightened-scrutiny rationale would directly apply and rational-basis deference would give way.
 - **Jurisdiction:** federal constitutional law; universal
@@ -207,7 +207,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### loper-bright-chevron-overruled: Loper Bright — Chevron Overruled; Agency Authority Contracted
 - **Rule:** In *Loper Bright* (2024), the Supreme Court overruled *Chevron* deference, eliminating the judicial deference agencies had received when interpreting their own enabling statutes. This makes it easier for regulated parties to challenge agency rules and weakens the institutional architecture that supported strict liability enforcement.
 - **Source:** *Loper Bright Enterprises v. Raimondo*, 603 U.S. 369 (2024)
-- **Trap:** Students conflate Chevron deference (overruled by Loper Bright) with rational basis review (established by Carolene Products), because the slides describe Loper Bright as "overturning rational basis deference established in Carolene Products," which is a slight overstatement — the two doctrines are distinct.
+- **Trap:** Students choose [Chevron deference and rational basis review are the same doctrine] because they confuse [Chevron deference (overruled by Loper Bright)] with [rational basis review (established by Carolene Products)].
 - **Difficulty:** advanced
 - **Pivot fact:** If Congress had codified Chevron deference in a statute before Loper Bright, the Court could not have overruled it judicially — agencies would retain interpretive authority unless Congress itself acted.
 - **Jurisdiction:** federal constitutional/administrative law
@@ -216,7 +216,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### vanderstok-agency-authority: VanDerStok — Staples Does Not Disable All Firearms Regulation
 - **Rule:** Solicitude for gun owners under Staples does not prevent Congress from authorizing ATF to regulate parts kits that function as firearms. When the agency acts within statutory bounds and Congress has authorized rulemaking, courts will uphold the regulation even in an area of traditional private ownership.
 - **Source:** *Bondi v. VanDerStok*, 604 U.S. 458 (2025)
-- **Trap:** Students read VanDerStok as expanding Staples and meaning that all ghost-gun parts require proof of knowledge for criminal liability, because they confuse the statutory-authority question (can ATF regulate parts kits?) with the mens rea question (what must the defendant know?).
+- **Trap:** Students choose [VanDerStok expands Staples and means that all ghost-gun parts require proof of knowledge for criminal liability] because they confuse [the statutory-authority question (can ATF regulate parts kits?)] with [the mens rea question (what must the defendant know?)].
 - **Difficulty:** advanced
 - **Pivot fact:** If Congress had not authorized ATF rulemaking over "any combination of parts" in the Gun Control Act, the "two boxes" loophole argument would likely have succeeded.
 - **Jurisdiction:** federal
@@ -227,7 +227,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### rehaif-mens-rea-distributional: Rehaif — Mens Rea Requirements as Distributional Policy
 - **Rule:** Adding a mens rea requirement to a criminal statute is not merely a doctrinal choice — it has large-scale distributional consequences. After Rehaif required proof of felon status for felon-in-possession convictions, an estimated 2,365 convictions and 8,419 years of imprisonment were prevented in eight months; the affected population was overwhelmingly poor and disproportionately Black men.
 - **Source:** *Rehaif v. United States* (2019); chapter enforcement data (lines 188–190)
-- **Trap:** Students treat Rehaif as a narrow firearms case, because they confuse its holding (government must prove defendant knew he was a prohibited person) with the chapter's use of it as a natural experiment demonstrating the systemic stakes of mens rea doctrine.
+- **Trap:** Students choose [Rehaif is a narrow firearms case] because they confuse [its specific holding (government must prove defendant knew he was a prohibited person)] with [the chapter's broader use of it as a natural experiment demonstrating the systemic stakes of mens rea doctrine].
 - **Difficulty:** advanced
 - **Pivot fact:** If the same mens rea requirement were added to corporate officer liability under Park, the enforcement effect would likely run in the opposite distributional direction — toward fewer individual prosecutions of low-level workers, potentially with less effect on corporate officers who actually knew.
 - **Jurisdiction:** federal
@@ -236,7 +236,7 @@ Public welfare offenses dispense with the normal requirement that the prosecutio
 #### blankenship-penalty-asymmetry: Blankenship — Penalty Structure Asymmetry in Regulatory Statutes
 - **Rule:** The Federal Mine Safety and Health Act caps willful violations causing death at one year (misdemeanor); OSHA caps at six months; the Clean Air Act authorizes fifteen years for knowing endangerment without a fatality. The penalty for killing twenty-nine miners in a regulatory violation is lower at the statutory maximum than an environmental offense causing no deaths.
 - **Source:** Chapter discussion of Blankenship and penalty structures (lines 260–263)
-- **Trap:** Students assume that willful violations causing death receive the most severe penalties under regulatory schemes, because they confuse the magnitude of harm with the penalty structure Congress chose — often reflecting lobbying power rather than harm severity.
+- **Trap:** Students choose [willful violations causing death receive the most severe penalties under regulatory schemes] because they confuse [the magnitude of harm] with [the penalty structure Congress chose — often reflecting lobbying power rather than harm severity].
 - **Difficulty:** advanced
 - **Pivot fact:** If Congress raised the mine safety penalty to ten years' imprisonment for willful violations causing death, the Staples presumption of a mens rea requirement would likely attach, creating a mens rea floor as a side effect of increasing the penalty ceiling.
 - **Jurisdiction:** federal
