@@ -10,15 +10,12 @@ for scenario_file in files:
     out_file = base + "-full-exam.md"
     
     with open(scenario_file, "r") as f:
-        content = f.read()
+        content = f.read().strip()
         
-    # The scenario file has a title "# <name> Scenario" then JSON
-    lines = content.split("\n")
-    title = lines[0]
-    json_str = "\n".join(lines[2:])
+    title = f"# {os.path.basename(base)} Scenario"
     
     try:
-        data = json.loads(json_str)
+        data = json.loads(content)
         
         md_lines = [title, ""]
         md_lines.append("## Fact Pattern")
@@ -35,8 +32,9 @@ for scenario_file in files:
         md_lines.append("")
         
         scenario_md = "\n".join(md_lines)
-    except json.JSONDecodeError:
-        scenario_md = content
+    except json.JSONDecodeError as e:
+        print(f"Error decoding {scenario_file}: {e}")
+        scenario_md = f"{title}\n\n{content}\n\n---\n\n"
         
     with open(questions_file, "r") as f:
         questions_md = f.read()
