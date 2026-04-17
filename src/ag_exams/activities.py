@@ -198,7 +198,7 @@ async def dispatch_architect(
     extractor_prompt = build_architect_extractor_prompt(reasoning_md)
     result_json = await dispatch_gemini(
         extractor_prompt,
-        model="gemini-3.0-flash-preview",
+        model="gemini-3-flash-preview",
         use_diskcache=False,
         response_mime_type="application/json",
     )
@@ -247,7 +247,7 @@ async def dispatch_critic(
     extractor_prompt = build_critic_extractor_prompt(reasoning_md)
     result_json = await dispatch_gemini(
         extractor_prompt,
-        model="gemini-3.0-flash-preview",
+        model="gemini-3-flash-preview",
         use_diskcache=False,
         response_mime_type="application/json",
     )
