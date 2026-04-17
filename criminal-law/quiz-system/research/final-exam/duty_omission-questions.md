@@ -1,249 +1,195 @@
-**Q1.** Assume Alba and Bex are charged with possession of the 50 grams of fentanyl found in the lockbox. Based on their arrangement, is Bex guilty of possessing the fentanyl?
+**Q1.** Is Bex guilty of constructively possessing the fentanyl syringe located on her coffee table prior to Cody picking it up?
 
-(a) Guilty, because Bex had exclusive access to the lockbox and knew the drugs were inside, demonstrating the power and intent to exercise control over them. <!-- correct -->
-(b) Guilty, because Bex's mere presence in the apartment where drugs were sold creates an irrebuttable presumption of constructive possession.
-(c) Not guilty, because Alba directed all the sales and supplied the drugs, meaning Alba retained exclusive possession of the contraband.
-(d) Not guilty, because the drugs were inside a locked container rather than on Bex's physical person, which defeats the actus reus for possession.
-(e) Not guilty, because Bex only provided the location and did not take a share of the profits from the fentanyl sales.
-
-**Answer:** (a)
-
-**Explanation:** (a) is correct because constructive possession requires the power and intent to exercise control over an item; Bex having the combination to the lockbox establishes this element. (b) is incorrect because mere presence is insufficient for possession; awareness and control must be independently shown. (c) is incorrect because possession can be shared; Alba directing sales does not negate Bex's control over the lockbox. (d) is incorrect because constructive possession explicitly covers items not on the defendant's physical person. (e) is incorrect because ownership or taking a profit share is not legally required to establish possession.
-
-**Tags:** chapters: [15], topics: [constructive possession, elements], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 15 — Constructive possession requires both awareness and the power and intent to exercise control (cp-awareness-control, cp-exclusive-control).
-
----
-
-**Q2.** Assume Alba and Bex are charged with conspiracy to distribute fentanyl based on their initial arrangement. Are they guilty of this offense?
-
-(a) Guilty, because they verbally agreed to use the apartment to sell fentanyl and committed an overt act by storing the drugs in the lockbox. <!-- correct -->
-(b) Guilty, because Alba's status as a drug supplier creates an implied legal conspiracy with anyone who allows her drugs on their property.
-(c) Not guilty, because they did not formalize their agreement in writing or share equal financial control over the operation.
-(d) Not guilty, because Alba directed the sales, meaning they had unequal roles in the hierarchy, which defeats the bilateral agreement requirement.
-(e) Not guilty, because Bex merely provided the location and did not supply the actual drugs, meaning she lacked the required intent.
+(a) Guilty, because Bex had the power and shared the intent to exercise control over the drugs as part of the distribution agreement. <!-- correct -->
+(b) Guilty, because strict liability applies to any contraband found within a dwelling that is owned or leased by the defendant.
+(c) Not guilty, because Alba's active negotiation of the sale demonstrates that Alba retained exclusive physical control over the syringe.
+(d) Not guilty, because constructive possession cannot be established when a buyer ultimately takes physical possession of the illicit item.
+(e) Not guilty, because mere presence in the apartment where drugs are located is insufficient to establish possession without physical contact.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because a conspiracy requires an agreement to commit a crime and an overt act; verbally agreeing to use the stash house and storing the drugs satisfies both. (b) is incorrect because conspiracy requires a specific intent to agree, not just an implied relationship from drug supply. (c) is incorrect because an agreement need not be formal, written, or involve equal financial control. (d) is incorrect because conspirators often have hierarchical roles; equal status is not required for a bilateral agreement. (e) is incorrect because supplying the location establishes Bex's agreement to facilitate the conspiracy.
+**Explanation:** (a) is correct because constructive possession requires awareness of the contraband alongside the power and intent to exercise control over it. Bex's verbal agreement to distribute from her apartment and her active presence during the transaction establish her shared power and intent over the inventory, satisfying the required elements. (b) is incorrect because possession is not a strict liability offense; it requires knowing control. (c) is incorrect because constructive possession can be joint; Alba's negotiation of the sale does not legally defeat Bex's concurrent control over items in her apartment. (d) is incorrect because Bex possessed the drugs prior to the moment Cody picked them up. (e) is incorrect because while mere presence is insufficient alone, Bex's prior distribution agreement and active role elevate her status far beyond a mere bystander.
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement, overt act], difficulty: easy, cognitive: application
+**Tags:** chapters: [15], topics: [constructive-possession, elements], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 19 — Conspiracy requires an intent to agree and a purpose to commit the target offense; overt acts can be minimal (agreement-inference, overt-act-minimal).
-
----
-
-**Q3.** Assume the jurisdiction charges Bex with a homicide offense based purely on her failure to call 911 when Cody first collapsed, before Alba drew the gun. Did Bex owe a legal duty to seek medical aid for Cody?
-
-(a) Yes, because by handing Cody the loaded syringe, Bex engaged in prior conduct that created the perilous situation Cody faced. <!-- correct -->
-(b) Yes, because any person who witnesses a life-threatening medical emergency has a general legal duty to rescue under the common law.
-(c) No, because Cody voluntarily chose to inject the fentanyl, breaking any causal chain and relieving Bex of any duty.
-(d) No, because Bex was merely following Alba's instructions when she handed over the syringe, transferring any duty exclusively to Alba.
-(e) No, because the creation of peril category only establishes a duty if the defendant specifically intended to cause the underlying harm.
-
-**Answer:** (a)
-
-**Explanation:** (a) is correct because the creation of peril category imposes a duty to mitigate harm when a person creates a dangerous situation, such as providing a loaded syringe of fentanyl. (b) is incorrect because the common law explicitly rejects a general duty to rescue a stranger. (c) is incorrect because the victim's voluntary drug use does not negate the duty of the person who created or exacerbated the peril. (d) is incorrect because following orders from a co-conspirator does not absolve Bex of her independent legal duty. (e) is incorrect because the initial peril-creating act need not be intentional regarding the ultimate harm.
-
-**Tags:** chapters: [9], topics: [omissions, legal duty, creation of peril], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 9 — Creation of peril establishes a duty to act when prior conduct, even if not criminal or intentional, creates a dangerous situation (*State v. Voss*).
+**Grounding:** Ch 15, Drugs and Guns: Constructive Possession elements (awareness, power, intent to control)
 
 ---
 
-**Q4.** Assume that prior to Cody's collapse, neither Alba nor Bex owed him a legal duty. Did their act of dragging him into the windowless bathroom create a legal duty to aid him?
+**Q2.** Assume that Alba and Bex are charged with conspiracy to distribute fentanyl. The prosecutor also charges Cody with conspiracy. Is Cody guilty of conspiracy?
 
-(a) Yes, because by moving him into the bathroom and shutting the door, they voluntarily assumed care and secluded him from other potential sources of aid. <!-- correct -->
-(b) Yes, because any physical contact with a person experiencing a medical emergency automatically constitutes an assumption of a duty of care.
-(c) No, because they moved Cody for the explicit purpose of letting him die rather than for the purpose of providing medical treatment.
-(d) No, because a duty based on voluntary assumption requires a formal contractual agreement or a legally recognized status relationship.
-(e) No, because the law protects Good Samaritans by ensuring that intervening to move a victim never creates criminal liability.
-
-**Answer:** (a)
-
-**Explanation:** (a) is correct because a duty under voluntary assumption of care requires both an undertaking to help and secluding the victim from other sources of aid, which occurred by locking Cody in the windowless bathroom. (b) is incorrect because mere physical contact does not automatically assume a duty; seclusion or detrimental reliance is required. (c) is incorrect because the subjective purpose of letting him die satisfies the actus reus of seclusion while breaching the resulting duty. (d) is incorrect because voluntary assumption is a distinct category from status or contractual duties. (e) is incorrect because Good Samaritan protections apply to reasonable interventions, not isolating victims to prevent rescue.
-
-**Tags:** chapters: [9], topics: [omissions, voluntary assumption of care, seclusion], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 9 — Voluntary assumption of care requires that the defendant seclude the victim from other sources of aid (*Jones v. United States*).
-
----
-
-**Q5.** Assume Dane is charged with destruction of property for kicking in Bex's locked door. Is Dane likely to succeed in asserting the necessity defense?
-
-(a) Yes, because the harm of Cody dying clearly outweighed the $800 in property damage, and the threat to Cody's life was imminent. <!-- correct -->
-(b) Yes, because a bystander who witnesses a medical emergency is automatically immune from all property crimes under the Good Samaritan doctrine.
-(c) No, because Dane's actions were not compelled by an imminent threat of death or serious bodily injury directed at Dane himself.
-(d) No, because the necessity defense is categorically unavailable when the defendant violates the habitation rights of another person.
-(e) No, because the law required Dane to exhaust all legal alternatives, such as waiting for the police to arrive, regardless of the delay.
-
-**Answer:** (a)
-
-**Explanation:** (a) is correct because the necessity defense (choice of evils) justifies otherwise unlawful conduct if the harm avoided (Cody's death) clearly outweighs the harm caused (property damage) and the threat is imminent. (b) is incorrect because the Good Samaritan doctrine does not provide blanket immunity for all property crimes. (c) is incorrect because this standard describes duress, not necessity; necessity can be raised for threats to third parties. (d) is incorrect because necessity can justify property offenses, including breaking into a habitation, to save a life. (e) is incorrect because the requirement to use legal alternatives is judged by reasonableness; waiting for police while someone stops breathing is not a reasonable alternative.
-
-**Tags:** chapters: [21], topics: [necessity defense, choice of evils, proportionality], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 21 — Necessity requires a choice of evils where the harm avoided clearly outweighs the harm caused and the threat is imminent.
-
----
-
-**Q6.** Assume Alba is charged with attempted murder for striking Dane in the head with the butt of the handgun. Is Alba guilty of this charge?
-
-(a) Guilty, because Alba took a substantial step toward the commission of a homicide by striking Dane in the head with a deadly weapon.
-(b) Guilty, because it was reasonably foreseeable that striking someone in the head with a gun butt could cause death, establishing the required mens rea.
-(c) Not guilty, because Alba intended only to knock Dane out to prevent the rescue, and attempted murder requires the specific intent to kill. <!-- correct -->
-(d) Not guilty, because Dane survived the blow and fell unconscious, meaning the actus reus for attempted murder was not completed.
-(e) Not guilty, because Alba acted out of a desire to prevent Dane from intervening rather than out of malice aforethought toward Dane.
+(a) Guilty, because Cody's purchase of the fentanyl satisfied the bilateral agreement requirement necessary to form a criminal conspiracy.
+(b) Guilty, because Cody provided the cash that funded the operation, satisfying the overt act requirement for the distribution enterprise.
+(c) Not guilty, because a mere exchange of cash for drugs for personal use does not establish an agreement to join the distribution enterprise. <!-- correct -->
+(d) Not guilty, because Cody did not explicitly know about the prior verbal agreement between Alba and Bex to sell from the apartment.
+(e) Not guilty, because the conspiracy was already legally complete when Alba and Bex verbally agreed, so Cody could not join it later.
 
 **Answer:** (c)
 
-**Explanation:** (c) is correct because attempted murder requires the specific intent (purpose) to kill; Alba's intent to merely knock Dane out defeats this mens rea requirement. (a) is incorrect because although striking Dane is a substantial step, the specific intent to kill is missing. (b) is incorrect because attempt requires purpose, not just reasonable foreseeability or recklessness regarding the result. (d) is incorrect because surviving the blow is typical in attempted murder; the failure is the lack of specific intent, not the lack of a corpse. (e) is incorrect because malice aforethought is the standard for completed murder, but attempt strictly requires the specific intent to kill.
+**Explanation:** (c) is correct because the buyer-seller exception dictates that a simple purchase of drugs for personal use does not, without more, make the buyer a co-conspirator in the seller's distribution enterprise. Cody simply handed over cash for a syringe to use himself, which lacks the necessary intent to advance the broader distribution scheme. (a) is incorrect because buying drugs for personal use does not constitute an agreement to distribute them. (b) is incorrect because funding a single personal-use purchase is not a legally sufficient overt act in furtherance of the distribution conspiracy. (d) is incorrect because a conspirator need not know all other members or prior agreements, provided they actually intend to join the enterprise. (e) is incorrect because new members can legally join an ongoing conspiracy long after its initial formation.
 
-**Tags:** chapters: [17], topics: [attempt, specific intent], difficulty: medium, cognitive: application
+**Tags:** chapters: [19, 15], topics: [conspiracy, buyer-seller-exception], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17 — Attempt requires specific intent (purpose) to cause the resulting harm, even if the completed crime could be satisfied by a lesser mens rea like recklessness (*State v. White*).
-
----
-
-**Q7.** Assume Bex is charged with Alba's assault on Dane under the *Pinkerton* doctrine. Is Bex liable for this assault?
-
-(a) Yes, because the assault was committed in furtherance of the stash house conspiracy and violently preventing interference is a reasonably foreseeable consequence of operating an illegal drug enterprise. <!-- correct -->
-(b) Yes, because Bex's presence at the scene makes her strictly liable for any crimes Alba committed during the course of the drug operation.
-(c) No, because Alba's assault on Dane was an independent, spontaneous act that severed the causal chain from the original conspiracy.
-(d) No, because Bex did not personally strike Dane or share Alba's specific intent to commit the assault against the neighbor.
-(e) No, because the *Pinkerton* doctrine only applies to the specific target offenses the conspirators explicitly agreed to commit.
-
-**Answer:** (a)
-
-**Explanation:** (a) is correct under the *Pinkerton* doctrine, which holds conspirators vicariously liable for foreseeable substantive offenses committed by co-conspirators in furtherance of the conspiracy, such as violently protecting a stash house. (b) is incorrect because *Pinkerton* requires foreseeability and furtherance, not strict liability based merely on presence. (c) is incorrect because violently defending the drug operation from interference is a highly foreseeable consequence of a drug conspiracy, not a spontaneous departure. (d) is incorrect because *Pinkerton* explicitly dispenses with the requirement that the defendant personally share the intent or perform the act. (e) is incorrect because *Pinkerton* liability extends beyond target offenses to any reasonably foreseeable collateral crimes.
-
-**Tags:** chapters: [19], topics: [conspiracy, Pinkerton liability], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 19 — The *Pinkerton* doctrine holds conspirators liable for substantive offenses committed by co-conspirators that are reasonably foreseeable and in furtherance of the conspiracy.
+**Grounding:** Ch 19, Conspiracy: Buyer-Seller Exception
 
 ---
 
-**Q8.** Assume Alba is charged with criminal homicide for Cody's death, based on Alba's act of incapacitating Dane. Can the prosecution establish that this assault was a factual cause of Cody's death?
+**Q3.** Assume that, whether or not Cody is a conspirator, Alba and Bex are guilty of conspiracy to distribute fentanyl. Is Bex liable under the Pinkerton doctrine for Alba's assault on Dane?
 
-(a) Yes, because but for Alba striking Dane, Dane would have administered the Narcan and fully reversed Cody's overdose. <!-- correct -->
-(b) Yes, because Alba's action was a dependent intervening cause that superseded Cody's voluntary decision to inject the drugs.
-(c) No, because the medical examiner testified that Cody died from respiratory failure induced by the fentanyl, not from blunt force trauma.
-(d) No, because Cody had already injected a lethal dose of fentanyl before Alba assaulted Dane, making the assault irrelevant to the outcome.
-(e) No, because Alba only intended to knock Dane out, meaning Alba lacked the requisite mental state to cause Cody's death.
+(a) Not liable, because Bex did not share Alba's specific intent to commit an assault or to prevent the neighbor's rescue attempt.
+(b) Liable, because the assault was committed in furtherance of the drug conspiracy and violence is a foreseeable consequence of armed operations. <!-- correct -->
+(c) Not liable, because Bex's attempt to call emergency services legally severed the causal chain between the conspiracy and the assault.
+(d) Liable, because any criminal offense committed by one co-conspirator is automatically attributed to all other members regardless of its foreseeability.
+(e) Not liable, because an assault on a neighbor attempting a medical rescue is legally too remote from the core objective of selling drugs.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct because factual causation uses the "but-for" test; but for Alba striking Dane, the Narcan would have reversed the overdose, meaning Alba's act was necessary for Cody's death to occur when it did. (b) is incorrect because dependent intervening causes relate to proximate cause, not the empirical "but-for" factual test. (c) is incorrect because an act that prevents life-saving aid is a factual cause of the resulting death, even if the medical mechanism was drug-induced. (d) is incorrect because factual causation asks if the death would have occurred at that time and in that manner; without the assault, Cody would have survived. (e) is incorrect because factual causation is a purely empirical inquiry that operates independently of the defendant's mental state.
+**Explanation:** (b) is correct under the *Pinkerton* doctrine, which holds conspirators vicariously liable for the substantive crimes of their co-conspirators if those crimes are committed in furtherance of the conspiracy and are reasonably foreseeable. Striking an intruder to protect an armed drug operation clearly meets both the furtherance and foreseeability prongs. (a) is incorrect because *Pinkerton* specifically dispenses with the need to prove accomplice mens rea (shared intent) for the substantive offense. (c) is incorrect because dropping a phone does not meet the strict legal requirements for withdrawal, which requires taking affirmative steps to thwart the conspiracy or notifying law enforcement. (d) is incorrect because *Pinkerton* is not boundless; it requires the acts to be in furtherance of the conspiracy and foreseeable. (e) is incorrect because violently protecting a drug operation from discovery or interruption is highly foreseeable.
 
-**Tags:** chapters: [8], topics: [causation, factual cause, but-for test], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [pinkerton-liability, foreseeability], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 8 — Factual causation requires that the prohibited result would not have occurred "but for" the defendant's conduct, which includes thwarting a rescue.
-
----
-
-**Q9.** Assume that Alba's assault on Dane was a factual cause of Cody's death. Was Alba's act also a proximate cause of the death?
-
-(a) Yes, because it was reasonably foreseeable that violently preventing a paramedic from administering life-saving aid would result in the victim's death. <!-- correct -->
-(b) Yes, because the Model Penal Code establishes that any factual cause automatically satisfies the legal cause requirement for homicide.
-(c) No, because Dane's forced entry into the apartment was an independent, unforeseeable intervening act that broke the causal chain.
-(d) No, because the fentanyl itself was the sole direct cause of the respiratory failure that ultimately killed Cody.
-(e) No, because Alba could not have foreseen that Dane specifically possessed Narcan when Alba decided to strike him.
-
-**Answer:** (a)
-
-**Explanation:** (a) is correct because proximate cause requires the result to be a reasonably foreseeable consequence of the defendant's conduct; it is highly foreseeable that a victim will die if a rescuer is violently prevented from administering aid. (b) is incorrect because the MPC uses a "too remote or accidental" test for legal cause, not automatic satisfaction based on factual cause. (c) is incorrect because Dane's attempt to rescue was a dependent intervening cause (provoked by the emergency Alba helped create) and highly foreseeable, not a superseding chain-breaker. (d) is incorrect because proximate cause allows for multiple contributing causes; the fentanyl does not absolve Alba of liability for thwarting the rescue. (e) is incorrect because foreseeability applies to the general nature of the harm (preventing rescue leading to death), not the specific details of the medical equipment.
-
-**Tags:** chapters: [8], topics: [causation, proximate cause, foreseeability, intervening cause], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 8 — Proximate cause under the common law requires the result to be reasonably foreseeable; dependent intervening acts like rescue attempts do not sever the causal chain.
+**Grounding:** Ch 19, Conspiracy: Pinkerton Doctrine
 
 ---
 
-**Q10.** Assume Bex is charged as an accomplice to Alba's murder of Cody, based on her act of watching the hallway. Does Bex have the requisite mens rea for accomplice liability regarding Cody's death?
+**Q4.** Dane is charged with criminal mischief for destroying Bex's door during the forced entry. He asserts a necessity defense. Will this defense likely succeed?
 
-(a) Yes, because Bex knew that Alba intended to let Cody die when Bex agreed to watch the hallway.
-(b) Yes, because Bex's act of standing guard provided actual physical assistance to Alba's plan.
-(c) No, because Bex acted solely out of fear for her life and did not have the purpose to facilitate Cody's death. <!-- correct -->
-(d) No, because Bex's role was minor compared to Alba's actions in dragging Cody and fighting off the rescue attempt.
-(e) No, because accomplice liability requires the defendant to be the actual perpetrator of the resulting harm.
+(a) No, because Dane was an off-duty paramedic, and off-duty professionals cannot legally claim necessity for actions taken outside their official capacity.
+(b) No, because Cody's medical emergency was the result of a voluntary illegal drug transaction, which bars third parties from claiming necessity.
+(c) Yes, because Good Samaritan statutes provide absolute immunity from all criminal charges for any person rendering emergency medical assistance.
+(d) Yes, because Dane chose the lesser evil of property damage to prevent Cody's imminent death, and had no reasonable legal alternative. <!-- correct -->
+(e) No, because Dane was not personally threatened with any harm, and the common law necessity defense applies only to self-directed threats.
+
+**Answer:** (d)
+
+**Explanation:** (d) is correct because the necessity defense (choice of evils) justifies otherwise criminal conduct when the defendant acts to prevent a greater imminent harm, provided there is no reasonable legal alternative. Breaking a door (property damage) to save a life (Cody's overdose) classically satisfies this proportionality test, and Dane had no alternative means to access the dying patient. (a) is incorrect because professional status does not strip an individual of general justification defenses like necessity. (b) is incorrect because the victim's prior fault in creating the medical emergency does not negate a third-party rescuer's necessity defense. (c) is incorrect because Good Samaritan statutes typically immunize against civil negligence, not intentional criminal property damage, making necessity the proper framework. (e) is incorrect because necessity applies to protecting third parties from imminent harm, not just the defendant.
+
+**Tags:** chapters: [21], topics: [necessity, choice-of-evils, third-party-defense], difficulty: easy, cognitive: application
+
+**Grounding:** Ch 21, Necessity and Duress: Proportionality and elements
+
+---
+
+**Q5.** Assume that Alba is charged with the attempted murder of Dane. Is Alba guilty of this charge?
+
+(a) Guilty, because striking someone in the head with a loaded handgun constitutes a substantial step strongly corroborative of a homicidal purpose.
+(b) Guilty, because Alba acted with depraved-heart recklessness toward human life, which inherently satisfies the necessary mens rea for attempted murder.
+(c) Not guilty, because criminal attempt requires specific intent to cause the target result, and Alba only intended to incapacitate the paramedic. <!-- correct -->
+(d) Not guilty, because Dane survived the assault, making it legally impossible for Alba to be convicted of an attempted homicide offense.
+(e) Not guilty, because Alba abandoned the attempt by leaving Dane incapacitated on the floor rather than continuing to strike him until dead.
 
 **Answer:** (c)
 
-**Explanation:** (c) is correct because accomplice liability generally requires the specific intent (purpose) to facilitate the underlying offense; Bex acting solely out of fear for her life negates the purpose to help Alba kill Cody. (a) is incorrect because mere knowledge of the principal's intent is insufficient for accomplice liability; the accomplice must have the purpose to assist. (b) is incorrect because while standing guard satisfies the actus reus (assistance), liability fails without the required mens rea. (d) is incorrect because even a minor role like standing guard is sufficient for the actus reus of accomplice liability if the mens rea is present. (e) is incorrect because accomplice liability specifically exists to punish those who assist but do not personally perpetrate the harm.
+**Explanation:** (c) is correct because the mens rea for an attempt requires the specific intent (purpose) to commit the target offense. Even if the completed crime of murder can be satisfied by extreme recklessness (depraved heart), attempted murder always requires the specific intent to kill. Since the facts establish Alba only intended to knock Dane unconscious, the specific intent mens rea for attempted murder fails. (a) is incorrect because while the actus reus (substantial step) might be met, the required mens rea is lacking. (b) is incorrect because depraved-heart recklessness cannot legally support an attempt charge. (d) is incorrect because a victim's survival or the failure to complete the crime is the very definition of an attempt, not a defense to it. (e) is incorrect because Alba completed the intended act of incapacitation rather than voluntarily renouncing a plan to kill.
 
-**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, mens-rea, specific-intent], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 18 — Accomplice liability requires that the defendant act with the purpose of promoting or facilitating the commission of the offense (mr-purpose-not-knowledge).
-
----
-
-**Q11.** Based on Alba's actions after Cody's overdose began, what is the most accurate grading of Alba's homicide charge for Cody's death?
-
-(a) Extreme-indifference murder, because Alba's statement "Let him die," isolating Cody, and violently preventing his rescue demonstrate a depraved heart and extreme indifference to human life. <!-- correct -->
-(b) Intentional murder, because Alba supplied the lethal dose of fentanyl with the premeditated goal of killing a suspected informant.
-(c) Involuntary manslaughter, because Alba did not physically strike or shoot Cody, meaning the death was a result of gross negligence rather than malice.
-(d) Misdemeanor manslaughter, because Cody's death occurred as an accidental consequence of the misdemeanor assault on Dane.
-(e) Voluntary manslaughter, because Alba was provoked by the discovery that Cody was a police informant, causing a sudden heat of passion.
-
-**Answer:** (a)
-
-**Explanation:** (a) is correct because extreme-indifference (depraved heart) murder requires a gross deviation from the standard of care demonstrating an extreme indifference to the value of human life, clearly evidenced by Alba saying "let him die" and violently thwarting a rescue. (b) is incorrect because Alba supplied the drugs for profit, not with the premeditated specific intent to kill. (c) is incorrect because Alba's actions went far beyond gross negligence, escalating to extreme indifference by actively preventing life-saving medical intervention. (d) is incorrect because the death resulted from the extreme indifference of thwarting the rescue, which elevates the charge beyond a mere accidental consequence of a misdemeanor. (e) is incorrect because discovering someone is an informant does not constitute adequate legal provocation for voluntary manslaughter.
-
-**Tags:** chapters: [13], topics: [homicide, extreme indifference murder, depraved heart], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 13 — Extreme indifference murder is established when a defendant's conduct demonstrates a conscious disregard for human life that goes beyond ordinary recklessness, often seen in cases of prolonged neglect or thwarting rescue.
+**Grounding:** Ch 17, Attempts: Mens Rea (purpose requirement)
 
 ---
 
-**Q12.** Assume Bex is charged with the intentional murder of Cody based on an accomplice theory, and Bex raises the defense of duress regarding her act of watching the hallway. Under the common law, will this defense succeed?
+**Q6.** The prosecution charges both Alba and Bex with omission-based homicide for failing to summon medical aid for Cody. Did either defendant owe Cody a legal duty to act?
 
-(a) Not guilty, because Alba held a loaded gun to Bex's head, establishing an imminent threat of death or serious bodily injury.
-(b) Not guilty, because Bex did not personally inflict the fatal harm on Cody, allowing the duress defense to apply.
-(c) Guilty, because the common law categorically bars the defense of duress for an intentional murder charge, regardless of the severity of the threat. <!-- correct -->
-(d) Guilty, because the Model Penal Code requires that the threat be aimed at a family member rather than the defendant herself.
-(e) Guilty, because Bex failed to demonstrate that the threat was imminent, as Alba was focused on fighting Dane.
+(a) No, because the common law imposes no general duty to rescue a stranger, and Cody's voluntary drug use negates any prior relationship.
+(b) Yes, Alba owed a duty based on providing the drugs, but Bex owed no duty because she was merely present in the apartment.
+(c) No, because Bex attempted to call 911 and Alba intentionally stopped her, which legally discharged their respective duties to intervene.
+(d) Yes, both owed a duty under the voluntary assumption category, because moving Cody into the bathroom secluded him from other aid.
+(e) Yes, both owed a duty, because providing the drugs created the peril and moving Cody to the bathroom secluded him from aid. <!-- correct -->
+
+**Answer:** (e)
+
+**Explanation:** (e) is correct because criminal liability for an omission requires a legal duty to act. Both defendants satisfied the "creation of peril" category by engaging in the drug enterprise that provided the lethal dose. Furthermore, dragging Cody into a windowless bathroom satisfied the "voluntary assumption of care" category because it deliberately secluded him from other potential rescuers. (a) is incorrect because while there is no general duty to rescue, the defendants' affirmative actions trigger specific *Jones* duty categories. (b) is incorrect because Bex was not merely present; she agreed to distribute drugs and helped drag Cody, creating duties for herself. (c) is incorrect because Bex was prevented from completing the call, meaning she did not successfully discharge her duty. (d) is incorrect because it ignores the independent creation of peril duty that also firmly applies to both defendants.
+
+**Tags:** chapters: [9], topics: [omissions, duty-to-act, creation-of-peril, voluntary-assumption], difficulty: medium, cognitive: analysis
+
+**Grounding:** Ch 9, Omissions: Jones duty categories (State v. Voss, People v. Oliver)
+
+---
+
+**Q7.** Assume that Alba and Bex owed a legal duty to Cody. They argue that Cody's voluntary decision to inject the fentanyl was an independent intervening cause that severs their causal liability for his death. Will this argument succeed?
+
+(a) Yes, because a victim's fully voluntary decision to consume illegal drugs is an independent intervening act that traditionally severs the causal chain.
+(b) Yes, because the medical examiner testified that the fentanyl induced the respiratory failure, making Cody's injection the sole proximate cause.
+(c) No, because Cody's ingestion occurred prior to the defendants' failure to summon aid and concealment, so it cannot intervene to sever liability. <!-- correct -->
+(d) No, because the strict liability nature of felony murder prevents defendants from raising any causation defenses regarding the victim's actions.
+(e) No, because the common law completely abandoned the doctrine of intervening causation in favor of a pure but-for necessity test.
 
 **Answer:** (c)
 
-**Explanation:** (c) is correct because under the strict common law rule, the defense of duress is categorically barred for intentional murder, based on the rationale that a person cannot choose to sacrifice another's life to save their own. (a) is incorrect because even though the threat meets the standard for duress, the murder bar absolutely precludes the defense for this specific charge. (b) is incorrect because the common law murder bar traditionally applies even to accomplices charged with murder. (d) is incorrect because while being at fault for creating the situation can bar the defense, the absolute murder bar is the more direct and insurmountable obstacle here. (e) is incorrect because Alba pointing a gun at Bex's head satisfies the imminence requirement, but the murder bar still defeats the defense.
+**Explanation:** (c) is correct because an intervening cause must, by definition, occur *between* the defendant's culpable conduct and the resulting harm. The prosecution's omission and depraved-heart theories rely on the defendants' subsequent actions (failing to call 911, hiding the body, and incapacitating the rescuer). Because Cody's injection happened *before* these culpable acts, it cannot legally serve as an intervening cause. (a) is incorrect because while voluntary ingestion might sever liability for simply supplying drugs, it cannot sever liability for subsequent lethal omissions that effectively caused the death. (b) is incorrect because Cody would have survived with Narcan; the defendants' subsequent interference was a necessary but-for cause of his death. (d) is incorrect because proximate causation remains a required element even in felony murder contexts. (e) is incorrect because both common law and the MPC retain proximate causation limits.
 
-**Tags:** chapters: [21], topics: [duress, murder bar], difficulty: medium, cognitive: application
+**Tags:** chapters: [8], topics: [causation, independent-intervening-cause], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 21 — The common law strictly holds that duress is categorically unavailable as a defense to intentional murder (duress-murder-bar).
-
----
-
-**Q13.** If the jurisdiction charges Alba and Bex with felony murder predicated on the distribution of fentanyl, which of the following is the strongest defense argument against the charge?
-
-(a) Under the "in the abstract" test, the statute prohibiting fentanyl distribution can be violated in safe, medical contexts, so it is not an inherently dangerous predicate felony. <!-- correct -->
-(b) The felony murder rule requires the prosecution to prove that the defendants acted with extreme indifference to human life during the drug sale.
-(c) Cody's act of voluntarily injecting the drug constitutes an independent intervening act that shields the sellers from felony murder liability.
-(d) The distribution of fentanyl was complete once the drugs were handed over, so the death did not occur during the commission of the felony.
-(e) The underlying crime of selling drugs merges with the homicide under the independent felonious purpose doctrine.
-
-**Answer:** (a)
-
-**Explanation:** (a) is correct because the abstract approach to inherently dangerous felonies asks if the statute can be violated in a safe manner; since fentanyl distribution can occur in medical contexts, it is not inherently dangerous in the abstract. (b) is incorrect because felony murder is a strict liability doctrine regarding the death; it does not require proving extreme indifference. (c) is incorrect because the victim's voluntary drug use is generally considered a dependent, foreseeable consequence of the drug sale, not a superseding cause. (d) is incorrect because deaths occurring during the immediate aftermath or continuous transaction of the felony fall within the res gestae. (e) is incorrect because drug sales typically have an independent felonious purpose (profit) and do not merge with the homicide.
-
-**Tags:** chapters: [14], topics: [felony murder, inherently dangerous predicate], difficulty: hard, cognitive: analysis
-
-**Grounding:** Chapter 14 — The "in the abstract" test limits felony murder by excluding felonies that can be committed in ways not inherently dangerous to human life, such as regulatory drug distribution (enumerated-vs-unenumerated).
+**Grounding:** Ch 8, Causation: Intervening Causes (dependent vs independent)
 
 ---
 
-**Q14.** Can Alba successfully claim self-defense or defense of habitation for striking Dane when he kicked open the locked door?
+**Q8.** Assume that Alba is charged with murder for causing Cody's death, and Bex is charged as an accomplice. Disregarding any affirmative defenses, does Bex possess the mens rea required for accomplice liability regarding the homicide?
 
-(a) Yes, because the Castle Doctrine permits the use of deadly force against anyone who forcibly enters a dwelling, regardless of the intruder's intent.
-(b) Yes, because Dane committed a burglary by breaking down the door, entitling Alba to use protective force to defend the premises.
-(c) No, because Alba knew Dane was entering to perform a rescue, meaning Alba could not have had a reasonable belief that Dane posed an unlawful threat. <!-- correct -->
-(d) No, because Alba was an invitee rather than the lawful tenant of the apartment, depriving her of the right to invoke defense of habitation.
-(e) No, because Dane was an off-duty paramedic, and self-defense is never available against emergency responders.
+(a) Yes, because Bex knew that Alba's goal was to let Cody die, and knowing assistance automatically establishes the mens rea for accomplices.
+(b) Yes, because Bex acted with the purpose of protecting Alba's operation from discovery, which legally satisfies the specific intent to kill.
+(c) No, because traditional accomplice liability requires the true purpose to facilitate the crime, and Bex's sole purpose was to avoid being killed. <!-- correct -->
+(d) No, because standing by a door as a lookout constitutes mere presence, which fails to satisfy the actus reus requirement for accomplices.
+(e) No, because Bex's prior attempt to call 911 legally negated any subsequent mental state she formed while standing by the hallway door.
 
 **Answer:** (c)
 
-**Explanation:** (c) is correct because both self-defense and defense of habitation require a reasonable belief that the intruder poses an unlawful threat; Alba knowing Dane was entering to perform a life-saving rescue negates any reasonable belief of unlawful aggression. (a) is incorrect because the Castle Doctrine does not permit deadly force against someone known to be entering lawfully or under the privilege of necessity. (b) is incorrect because Dane's entry to save a life is justified by necessity, meaning it is not an unlawful burglary. (d) is incorrect because lawful guests and co-tenants can generally invoke defense of habitation, but the defense fails here due to the lack of an unlawful threat. (e) is incorrect because self-defense can be used against emergency responders if they are actually committing unlawful violence, but Dane was acting lawfully to save Cody.
+**Explanation:** (c) is correct because traditional accomplice liability requires that the defendant act with the *purpose* of promoting or facilitating the commission of the offense. Because the facts establish that Bex acted as a lookout "solely out of fear" that Alba would kill her, she lacked the purposeful mens rea to bring about Cody's death. (a) is incorrect because mere knowledge of the principal's intent is generally insufficient for traditional accomplice liability; purpose is required. (b) is incorrect because a general desire to avoid discovery is not legally equivalent to the specific purpose of facilitating a homicide. (d) is incorrect because acting as a lookout is a classic affirmative act of assistance that easily satisfies the actus reus element. (e) is incorrect because dropping the phone under duress does not legally immunize her; it simply underscores her lack of purposeful intent.
 
-**Tags:** chapters: [22], topics: [self-defense, defense of habitation, reasonable belief], difficulty: medium, cognitive: analysis
+**Tags:** chapters: [18], topics: [accomplice-liability, mens-rea, purpose-vs-knowledge], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 22 — Justification defenses require a reasonable belief that the force used is necessary to defend against an unlawful threat; force used against a justified rescuer is unlawful.
+**Grounding:** Ch 18, Accomplice Liability: Mens Rea (Purpose requirement)
+
+---
+
+**Q9.** Alba is charged with murder for Cody's death. The prosecution argues for a depraved-heart murder conviction. Is the evidence sufficient to support this grade of homicide?
+
+(a) No, because Alba did not possess the specific intent to kill Cody, which is a required element for any common law murder conviction.
+(b) Yes, because actively secluding a dying victim and violently incapacitating a paramedic demonstrates extreme indifference to the value of human life. <!-- correct -->
+(c) Yes, because any death resulting from the distribution of Schedule I narcotics automatically qualifies as depraved-heart murder under common law rules.
+(d) No, because Alba explicitly stated the intent only to knock Dane unconscious, which limits Alba's culpability for the death to gross negligence.
+(e) No, because Cody's death was caused by his own voluntary overdose, meaning Alba's conduct was merely a concurrent sufficient cause of death.
+
+**Answer:** (b)
+
+**Explanation:** (b) is correct because depraved-heart (or extreme recklessness) murder does not require a specific intent to kill. It requires conduct demonstrating a conscious disregard for an extreme and unjustified risk to human life. Dragging an overdosing person into a closed room and physically incapacitating the only medical professional capable of administering an antidote perfectly illustrates this extreme indifference. (a) is incorrect because specific intent to kill is only required for first-degree or intentional murder, whereas murder can also rest on depraved-heart recklessness. (c) is incorrect because depraved-heart murder requires a case-specific assessment of the defendant's recklessness, unlike the categorical approach of felony murder. (d) is incorrect because striking the rescuer ensured Cody's death, elevating the conduct far beyond gross criminal negligence. (e) is incorrect because Alba's subsequent actions were a proximate cause of death, not merely concurrent.
+
+**Tags:** chapters: [13], topics: [unintentional-homicide, depraved-heart, extreme-indifference], difficulty: medium, cognitive: application
+
+**Grounding:** Ch 13, Unintentional Homicide: Depraved-Heart Murder standard
+
+---
+
+**Q10.** Assume the jurisdiction charges Bex with felony murder, using the fentanyl distribution as the predicate felony. Bex asserts a duress defense to the felony murder charge. Under the recognized exception for duress in felony murder cases, will her defense succeed?
+
+(a) Yes, because she participated in the drug operation under a continuous threat of death from Alba, which satisfies the imminence requirement.
+(b) Yes, because the traditional murder bar does not apply to felony murder if the defendant was coerced into committing the underlying predicate felony.
+(c) No, because Bex voluntarily agreed to the fentanyl distribution conspiracy before any threat was made, meaning the predicate felony was not coerced. <!-- correct -->
+(d) No, because the felony-murder duress exception only applies to predicate offenses involving property crimes, not to dangerous drug distribution felonies.
+(e) No, because the Supreme Court has completely abolished the duress defense for any criminal charge that carries a potential life sentence.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct because the felony-murder duress exception only allows duress as a defense to felony murder if the defendant was actually coerced into committing the underlying predicate felony. Here, Bex verbally agreed to distribute fentanyl before Alba ever pulled a weapon or issued a threat. Because her participation in the predicate felony was voluntary, the exception does not apply. (a) is incorrect factually, as the threat arose only after the overdose, not during the formation of the drug distribution agreement. (b) is an accurate statement of the legal exception, but incorrect in application because Bex was not coerced into the predicate felony. (d) is incorrect because the exception, where recognized, applies to the coercion of the predicate felony regardless of whether it is a property or drug offense. (e) is incorrect because the Supreme Court has not broadly abolished the duress defense.
+
+**Tags:** chapters: [14, 21], topics: [felony-murder, duress, duress-exception], difficulty: hard, cognitive: analysis
+
+**Grounding:** Ch 21, Necessity and Duress: Felony-Murder Duress Exception (People v. Reichard)
+
+---
+
+**Q11.** Assume that Bex is instead charged with intentional murder under an accomplice theory for acting as a lookout while Cody died. She asserts a duress defense based on Alba's threat. Under the traditional common law rule, will her defense succeed?
+
+(a) Yes, because the threat of immediate death by a loaded handgun satisfies the strict imminence and severity requirements for the duress defense.
+(b) Yes, because a person of reasonable firmness in Bex's situation would have been unable to resist Alba's direct command to watch the hallway.
+(c) No, because Bex had a reasonable legal alternative to acting as a lookout, such as screaming for help or attempting to disarm Alba.
+(d) No, because the common law categorically bars the use of duress as a defense to intentional homicide, regardless of the severity of the threat. <!-- correct -->
+(e) No, because expert testimony on battering and coercive control is legally required to establish duress in cases involving armed co-conspirators.
+
+**Answer:** (d)
+
+**Explanation:** (d) is correct because the traditional common law rule categorically prohibits using duress as a defense to intentional murder. The rationale is that a defendant may not legally choose to sacrifice another innocent life to save their own, even under the most severe and imminent threat. (a) is incorrect because, although the threat of a loaded handgun perfectly satisfies the imminence and severity elements of duress, the categorical homicide bar precludes the defense. (b) is incorrect because the objective "reasonable firmness" standard is overridden by the absolute prohibition against applying the defense to murder. (c) is incorrect because attacking an armed, violent principal is generally not considered a "reasonable" legal alternative that a jury would demand. (e) is incorrect because expert testimony is a tool to help juries understand perception in specific relationship contexts, not a mandatory requirement for all duress claims.
+
+**Tags:** chapters: [21], topics: [duress, murder-bar], difficulty: medium, cognitive: application
+
+**Grounding:** Ch 21, Necessity and Duress: Common Law Duress Murder Bar
