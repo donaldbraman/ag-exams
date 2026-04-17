@@ -1,22 +1,17 @@
-## Scenario: The RV Laboratory
+# Scenario: Toxic Synthesis
 
 ### Facts
 
-1. Dr. Julian Vance, a tenured chemistry professor at a midwestern university, received a terminal pancreatic cancer diagnosis and began manufacturing synthetic narcotics in his mobile RV laboratory to fund his medical debts. He reconnected with his former student, Marcus Thorne, who had a history of street-level drug sales.
-2. Vance would text Thorne when a 'special project' was ready. Thorne would find buyers, bring them to the RV, and split the cash with Vance, though they meticulously avoided explicitly discussing an ongoing business arrangement or partnership.
-3. Due to a degraded precursor chemical, the inaugural batch's purity was unusually high and contained a toxic byproduct; Vance honestly believed the batch was standard-grade and safe, having omitted a final purity test.
-4. Thorne arranged to sell the first batch to a single recreational buyer, Leo Gable, in a secluded commuter parking lot. Vance insisted on being present in the RV during the transaction.
-5. The state is considering charging Vance under a health and safety code provision prohibiting the 'distribution of adulterated synthetic narcotics.' The statute is silent on mens rea and carries a maximum penalty of ten years in prison.
-6. Gable purchased the drug, immediately ingested a triple-normal dose while standing just outside the RV door, and within three minutes collapsed onto the pavement experiencing severe convulsions and respiratory distress.
-7. Thorne yelled, 'He's dying, call 911!' Vance dialed 9-1, but stopped, stating, 'If the police come, I lose my pension and my daughter gets nothing.' Vance pocketed the phone and ordered Thorne to drive away, leaving the convulsing Gable in the parking lot.
-8. Gable died 30 minutes later; the medical examiner established that Gable would have had a 90% chance of survival if paramedics had been called immediately, though Gable's decision to take a massive dose contributed to the rapid onset of the reaction.
-9. The state is evaluating felony-murder charges against Vance predicated on the felony of 'unlicensed manufacturing of a controlled substance.'
-10. The state is also evaluating whether Thorne can be charged with felony murder or as an accomplice to homicide for Gable's death, despite Vance's independent decision to abandon the victim.
-
-### Stem 1: The Initial Investigation
-
-The state analyzes liability for the initial drug sale, the ensuing overdose, and the abandonment of the victim in the parking lot.
-
-### Stem 2: The RV Impoundment
-
-Two days later, police arrested Vance and Thorne and impounded the RV. During a search, officers found a locked lockbox under the passenger seat containing 500 grams of the synthetic narcotic. Vance owned the RV and held the only key to the lockbox, but Thorne had a key to the passenger door, frequently slept in that seat, and knew the lockbox contained their inventory.
+1. Arthur Pendelton and his former graduate student, Silas Vance, spent three weeks working together in a rented commercial warehouse to synthesize and package a Schedule I synthetic cathinone.
+2. Due to an error in a purification step, the inaugural batch contained a highly toxic chemical byproduct.
+3. Based on a miscalibrated spectrometry machine, Arthur honestly and genuinely believed the batch was 99% pure and completely free of toxic byproducts.
+4. Arthur explicitly told Silas the batch was "perfectly safe and pure," and Silas genuinely believed him.
+5. In a motel room, Silas sold two grams of the stimulant to Julian for $200.
+6. Wanting to observe the drug's effects, Arthur encouraged Julian to try it, and Julian voluntarily snorted a line of the stimulant while Arthur and Silas watched.
+7. Within two minutes, Julian collapsed to the floor, convulsing and clutching his chest.
+8. Silas pulled out his cell phone and stated, "He's dying, I'm calling 911."
+9. Arthur knocked the phone out of Silas's hand, shattering it, and stated: "If the ambulance comes, the police come. I lose my treatment money. It's just a bad reaction, he will sleep it off."
+10. Arthur and Silas immediately left the motel room, and Arthur locked the door from the outside to ensure no one could easily enter.
+11. Silas verbally protested Arthur's actions, but panicked and drove their getaway car away from the motel to avoid getting caught.
+12. Julian died from acute cardiac arrhythmia. The medical examiner established that standard anti-arrhythmia medication would have provided a 95% chance of survival if paramedics had been called when Julian collapsed.
+13. After fleeing, Arthur placed the remaining 50 grams of the drug in the trunk of Silas's car. Silas kept the only set of car keys and knew the drugs were in the trunk, but he refused to distribute any more of it.
