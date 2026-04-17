@@ -1,0 +1,10 @@
+Starting ephemeral Temporal worker...
+Exam pipeline worker started, listening on: exam-pipeline
+Executing workflow: exam-duty_omission-self_defense-chemistry_professor_stem_a-1776464798
+  Scenarios: ['duty_omission', 'self_defense', 'chemistry_professor_stem_a']
+  Dry run: False
+  Output: criminal-law/quiz-system/research/final-exam
+
+Note: If the workflow pauses for human review, run in another terminal:
+  uv run python -m ag_exams.cli approve exam-duty_omission-self_defense-chemistry_professor_stem_a-1776464798
+
