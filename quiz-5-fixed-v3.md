@@ -437,7 +437,7 @@ Your supervisor hands you the case file for *State v. Immanuel Kant*. Kant is ch
 
 ---
 
-**Q17.** Assume that, whether or not Kant is found insane, he stabbed Officer Hand while genuinely believing, due entirely to a psychotic delusion, that Officer Hand was a demon dispatched to execute him. Evaluate Kant's eligibility for imperfect self-defense in California under *People v. Schuller* and *People v. Elmore*, and in a jurisdiction (e.g., New York) that rejects imperfect self-defense.
+**Q17.** Assume that, whether or not Kant is found insane, he stabbed Officer Hand while genuinely believing, due entirely to a psychotic delusion, that Officer Hand was a demon dispatched to execute him. Evaluate Kant's eligibility for imperfect self-defense in California under *People v. Schuller* and *People v. Elmore*, and in New York, which rejects imperfect self-defense.
 
 (a) Imperfect self-defense is available in California because Kant's genuine belief, though purely delusional, suffices under *Schuller* to negate malice; it is unavailable in New York, which rejects the doctrine.
 
