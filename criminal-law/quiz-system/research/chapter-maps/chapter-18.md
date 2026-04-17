@@ -42,7 +42,7 @@
 #### ar-low-threshold: Facilitation Without But-For Causation
 - **Rule:** The actus reus of accomplice liability is satisfied by any act that facilitated the result, even if the result would have occurred without it. There is no but-for causation requirement — the assistance need only have made it easier for the principal or deprived the victim of any chance.
 - **Source:** *State v. Tally*, 15 So. 722 (Ala. 1894) (note case)
-- **Trap:** Students conclude Tally was not liable because the Skeltons succeeded without his help. Students confuse the accomplice actus reus standard with but-for causation from homicide doctrine.
+- **Trap:** Students choose [Tally was not liable] because they confuse [but-for causation from homicide doctrine] with [the accomplice actus reus standard].
 - **Difficulty:** foundational
 - **Pivot fact:** If Judge Tally had attempted to intercept the telegram but failed (the message still got through), his actus reus would be the "attempt to aid," which also satisfies the MPC standard.
 - **Jurisdiction:** universal
@@ -51,7 +51,7 @@
 #### ar-presence-plus: Presence With Encouragement
 - **Rule:** Mere presence at the scene of a crime is insufficient actus reus. But presence accompanied by encouragement — even silent encouragement through demeanor, payment, or anticipated benefit — is sufficient.
 - **Source:** *Wilcox v. Jeffery*, 1 All E.R. 464 (England 1951) (main case)
-- **Trap:** Students argue Wilcox should have been acquitted because one person's presence among hundreds couldn't have mattered. Students confuse causal contribution with the encouragement rationale.
+- **Trap:** Students choose [Wilcox should have been acquitted] because they confuse [causal contribution] with [the encouragement rationale].
 - **Difficulty:** intermediate
 - **Pivot fact:** Had Wilcox booed or protested at the concert, the court indicated he might not have been found guilty — because his demeanor would have signaled disapproval rather than encouragement.
 - **Jurisdiction:** universal
@@ -60,7 +60,7 @@
 #### ar-attempt-to-aid: Attempted Assistance Counts
 - **Rule:** Under MPC § 2.06, the actus reus is satisfied not only by actual aid but by an *attempt* to aid, even if the attempt fails and the principal never knows of it. An accomplice can be convicted of the substantive offense even if the principal is unaware of the assistance.
 - **Source:** MPC § 2.06(3)(a)(ii) (statutory framework note, chapter p. 2)
-- **Trap:** Students assume failed assistance is irrelevant because it had no effect. Students confuse causation with the MPC's attempt-to-aid standard.
+- **Trap:** Students choose [failed assistance is irrelevant] because they confuse [causation] with [the MPC's attempt-to-aid standard].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the accomplice's failed assistance becomes known to the principal and the principal relies on it, this would satisfy both the MPC standard and arguably traditional doctrine.
 - **Jurisdiction:** split (traditional/MPC) — MPC explicitly covers attempts to aid; common law courts vary
@@ -70,7 +70,7 @@
 #### mr-purpose-not-knowledge: Purpose vs. Knowledge
 - **Rule:** The accomplice must act with *purpose* to promote or facilitate the offense — not mere knowledge that assistance will facilitate a crime. The stake-in-the-venture test (Judge Learned Hand, *Peoni*) asks whether the defendant associated himself with the venture and participated in it as something he wished to bring about.
 - **Source:** *State v. Gladstone*, 474 P.2d 274 (Wash. 1970) (main case); *United States v. Peoni*, 100 F.2d 401 (2d Cir. 1938) (note)
-- **Trap:** Students hold Gladstone liable because he knew Thompson wanted marijuana and directed him to a seller. Students confuse knowing facilitation with purposive association — there was no nexus between Gladstone and Kent, no shared venture.
+- **Trap:** Students choose [to hold Gladstone liable] because they confuse [knowing facilitation] with [purposive association requiring a nexus and shared venture].
 - **Difficulty:** foundational
 - **Pivot fact:** Had Gladstone communicated the referral to Kent or received a share of the sale proceeds, the nexus required for accomplice liability would likely have been established.
 - **Jurisdiction:** universal (MPC purpose requirement); minority jurisdictions accept knowledge in some commercial contexts
@@ -79,7 +79,7 @@
 #### mr-underlying-offense: Accomplice Must Share Principal's Criminal Intent
 - **Rule:** The accomplice must possess the mental state required by the underlying offense itself, not just the purpose to promote the assistance. If the crime requires specific intent (e.g., burglary's intent to commit a felony inside), the accomplice must share that specific intent.
 - **Source:** *Wilson v. People*, 87 P.2d 5 (Colo. 1939) (main case)
-- **Trap:** Students convict Wilson because he physically aided Pierce by boosting him through the transom. Students overlook that Wilson lacked the felonious intent required for burglary — his purpose was to catch Pierce, not to steal.
+- **Trap:** Students choose [to convict Wilson] because they confuse [the physical act of assistance] with [the requisite felonious intent to commit burglary].
 - **Difficulty:** foundational
 - **Pivot fact:** Had Wilson planned to steal from the store himself and used the entrapment scheme as a cover, he would have had the requisite felonious intent.
 - **Jurisdiction:** universal
@@ -88,7 +88,7 @@
 #### mr-temporal-advance-knowledge: Advance Knowledge and Meaningful Opportunity to Withdraw
 - **Rule:** The federal standard (*Rosemond*) adds a temporal dimension: the accomplice must have advance knowledge of the full scope of the crime (including, e.g., that a firearm would be used) at a time when he had a meaningful opportunity to walk away. Knowledge that arises mid-crime, after withdrawal is no longer possible, is insufficient.
 - **Source:** *Rosemond v. United States*, 572 U.S. 65 (2014) (note case)
-- **Trap:** Students conclude any defendant present during a crime who knew a gun was used is liable because they overlook the temporal requirement — that the defendant must have had advance knowledge while still able to walk away.
+- **Trap:** Students choose [any defendant present during a crime who knew a gun was used is liable] because they confuse [mere presence and contemporaneous knowledge] with [the temporal requirement of advance knowledge while still able to walk away].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Rosemond had known a gun would be used *before* meeting at the drug deal location, liability would clearly attach; if he learned about it only as the shooting began, the temporal requirement may not be satisfied.
 - **Jurisdiction:** federal only (as a formal doctrine, though the temporal principle has broader persuasive force)
@@ -99,7 +99,7 @@
 #### npc-traditional-rule: NPC Extends Liability to Foreseeable Crimes
 - **Rule:** Under the traditional NPC doctrine, an accomplice is liable not only for the crime intended but for any crime that is a natural and probable consequence of the agreed-upon criminal activity. Foreseeability, not intent, is the test.
 - **Source:** *People v. Luparello*, 187 Cal. App. 3d 410 (1986) (illustrative)
-- **Trap:** Students assume Luparello should have been acquitted of murder because he only authorized an interrogation, not a killing. Students forget that under NPC, the question is foreseeability — whether a killing was a natural and probable result of ordering associates to extract information "at any cost."
+- **Trap:** Students choose [Luparello should be acquitted of murder] because they confuse [authorization of the specific act] with [foreseeability under the natural and probable consequences doctrine].
 - **Difficulty:** intermediate
 - **Pivot fact:** Had Luparello hired unarmed associates with instructions to question the witness gently, a killing would arguably not be a "natural and probable consequence," potentially defeating liability under NPC.
 - **Jurisdiction:** majority/minority — traditional common law rule retained in many states; substantially reformed or eliminated in California and Minnesota
@@ -108,7 +108,7 @@
 #### npc-reform-sb1437: Reform Requiring Personal Malice
 - **Rule:** California SB 1437 (2018) eliminated murder liability under the NPC doctrine. After reform, an accomplice can be convicted of murder only if they personally acted with malice aforethought, or were a major participant in the underlying felony who acted with reckless indifference to human life.
 - **Source:** *People v. Gentile*, 10 Cal. 5th 830 (2020) (note case)
-- **Trap:** Students assume SB 1437 eliminated all accomplice murder liability because they read the reform as a complete bar, missing that major participant plus reckless indifference to human life remains a valid route to conviction.
+- **Trap:** Students choose [SB 1437 eliminated all accomplice murder liability] because they confuse [a complete statutory bar] with [the retained liability for major participants with reckless indifference to human life].
 - **Difficulty:** advanced
 - **Pivot fact:** If an accomplice who aided a robbery was present, armed, and continued after a co-felon shot someone, they might qualify as a major participant with reckless indifference — still liable for murder despite SB 1437.
 - **Jurisdiction:** majority/minority — California and Minnesota have enacted reform; most other states retain NPC
@@ -119,7 +119,7 @@
 #### dl-no-crime-principal: No Underlying Crime, No Derivative Liability
 - **Rule:** Accomplice liability is derivative: if the principal commits no crime (because the principal lacks felonious intent or is playing a law enforcement role without committing the actus reus), there is no crime from which the accomplice can derive liability.
 - **Source:** *State v. Hayes*, 16 S.W. 514 (Mo. 1891) (main case)
-- **Trap:** Students convict Hayes of burglary because he had felonious intent and physically assisted the entry. Students overlook that Hill's act of entry was not criminal — his innocent act cannot be imputed to Hayes as a criminal act.
+- **Trap:** Students choose [to convict Hayes of burglary] because they confuse [felonious intent and physical assistance] with [the requirement that the principal commit a criminal act that can be imputed to the accomplice].
 - **Difficulty:** foundational
 - **Pivot fact:** Had Hill entered the store with genuine felonious intent (even while also planning to entrap Hayes), Hayes's conviction would have been upheld.
 - **Jurisdiction:** universal
@@ -128,7 +128,7 @@
 #### dl-personal-defense-no-transfer: Personal Defense Does Not Transfer to Accomplice
 - **Rule:** Where the principal commits the criminal act but holds a personal defense (public authority, justification specific to the principal's status), that defense does not transfer to the accomplice. The crime occurred; only the principal's personal blameworthiness is negated.
 - **Source:** *Vaden v. State*, 768 P.2d 1102 (Alaska 1989) (note case)
-- **Trap:** Students reason Vaden cannot be liable because the government agent could not be prosecuted, confusing a personal defense that spares the principal from punishment with a justification that negates the underlying criminal act.
+- **Trap:** Students choose [Vaden cannot be liable] because they confuse [a personal defense that spares the principal from punishment] with [a justification that negates the underlying criminal act].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the government agent's shooting of the foxes had been legally authorized under a statutory license (not merely a public authority defense), the act itself would have been lawful — no underlying crime, and Vaden could not be convicted.
 - **Jurisdiction:** universal
@@ -137,7 +137,7 @@
 #### dl-justification-vs-excuse: Justification Negates Crime; Excuse Does Not
 - **Rule:** A principal's justification defense (self-defense, necessity) means the act was lawful — no crime occurred, so no derivative liability. A principal's excuse defense (insanity, duress) means the act was criminal but the principal is not blameworthy — the crime still occurred, so accomplice liability attaches.
 - **Source:** Slide 18 — "Modern Doctrine: Did a crime occur?" table (slides-only synthesis)
-- **Trap:** Students treat all principal defenses as equally blocking accomplice liability because they confuse justification (the act was lawful, so no crime occurred) with excuse (the act was criminal, but this defendant is not blameworthy).
+- **Trap:** Students choose [all principal defenses equally block accomplice liability] because they confuse [excuse defenses where the act was criminal but the defendant is not blameworthy] with [justification defenses where the act was lawful and no crime occurred].
 - **Difficulty:** advanced
 - **Pivot fact:** If the principal killed in genuine self-defense (justification), no accomplice liability for the aider; if the principal killed under duress (excuse), accomplice liability survives.
 - **Jurisdiction:** universal (the distinction is theoretically universal, though its application to accomplice liability varies)
@@ -146,7 +146,7 @@
 #### dl-mpc-independent-conviction: MPC Allows Conviction Even If Principal Acquitted
 - **Rule:** MPC § 2.06(7) provides that an accomplice may be convicted even if the principal has been acquitted, has immunity, or was convicted of a different offense — as long as the underlying criminal act occurred.
 - **Source:** MPC § 2.06(7) (statutory framework note, chapter p. 2)
-- **Trap:** Students assume an accomplice cannot be convicted if the principal walks free because they confuse the substantive floor (the principal must have committed the crime) with the procedural rule that the accomplice's conviction does not depend on the principal's conviction.
+- **Trap:** Students choose [an accomplice cannot be convicted if the principal walks free] because they confuse [the substantive floor that the principal must have committed the crime] with [the procedural rule that the accomplice's conviction does not depend on the principal's conviction].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the principal was acquitted due to jury nullification (not because no crime occurred), the accomplice could still be convicted.
 - **Jurisdiction:** split (traditional/MPC) — traditional rule required prior conviction of principal; MPC and most modern statutes permit independent conviction
@@ -157,7 +157,7 @@
 #### ii-gebardi: Legislative Exclusion of Necessary Participants
 - **Rule:** When a legislature defines an offense that necessarily requires two parties but punishes only one, the other necessary participant is implicitly excluded from accomplice liability. The test is whether the legislature intended to protect or spare the other party.
 - **Source:** *Gebardi v. United States*, 287 U.S. 112 (1932) (note case)
-- **Trap:** Students conclude the woman who willingly traveled aided and abetted the Mann Act violation because they apply general accomplice liability rules without checking whether the legislature intended to exclude the necessary victim-participant from punishment.
+- **Trap:** Students choose [the woman who willingly traveled aided and abetted the Mann Act violation] because they confuse [general accomplice liability rules] with [the legislative intent to exclude necessary victim-participants from punishment].
 - **Difficulty:** intermediate
 - **Pivot fact:** Had the woman actively recruited or organized the transportation scheme rather than merely consenting to travel, her role might exceed "inevitably incident" participation.
 - **Jurisdiction:** federal only (as Gebardi is a federal case), but the principle has broad influence
@@ -166,7 +166,7 @@
 #### ii-pino-perez-circumvention: Circumventing the Gebardi Shield Through Chain Charging
 - **Rule:** An outside supplier whose participation is not "inevitably incident" to a graded offense can be convicted as an accomplice even if the kingpin's own underlings are shielded. But this creates a risk: prosecutors may charge the shielded underlings as accomplices to the outside supplier, circumventing the Gebardi protection entirely.
 - **Source:** *United States v. Pino-Perez*, 870 F.2d 1230 (7th Cir. 1989) (en banc) (note case)
-- **Trap:** Students assume the Gebardi shield protects underlings from all accomplice charges simply because they are shielded from direct liability. Students miss the chain-charging problem — the shield applies to their relationship with the kingpin, not to a separately charged relationship with an outside supplier.
+- **Trap:** Students choose [the Gebardi shield protects underlings from all accomplice charges] because they confuse [shielding applied to the underling's relationship with the kingpin] with [immunity in a separately charged relationship with an outside supplier].
 - **Difficulty:** advanced
 - **Pivot fact:** If the underling had no direct dealings with the outside supplier, it would be harder to establish the nexus needed for an accomplice charge to the supplier's crime.
 - **Jurisdiction:** federal only (Pino-Perez is Seventh Circuit; other circuits may vary)
@@ -177,7 +177,7 @@
 #### gp-equal-punishment: The Equal-Punishment Rule and the Grading Problem
 - **Rule:** American law treats all accomplices — from principal to planner to minor helper — as principals, equally punishable with those who directly committed the offense. This collapses genuine culpability differences into a single charge and creates the "grading problem."
 - **Source:** Chapter introduction; Markel case; common law history note (chapter pp. 6–7)
-- **Trap:** Students assume equal punishment is always fair because "everyone played a role." Students overlook that the rule makes no distinctions based on how critical or proximate the assistance was.
+- **Trap:** Students choose [equal punishment is always fair because everyone played a role] because they confuse [the binary fact of participation] with [the critical or proximate nature of the assistance rendered].
 - **Difficulty:** foundational
 - **Pivot fact:** Had American law retained the accessory-before-the-fact/principal distinctions, Donna Adelson's role as financier and Charlie Adelson's role as mastermind might have carried lower sentences than the triggerman Garcia.
 - **Jurisdiction:** universal (in the U.S.); Germany and UK retain graded participation distinctions
@@ -186,7 +186,7 @@
 #### gp-sentencing-adjustments: Sentencing Guidelines as a Back-End Fix
 - **Rule:** Federal sentencing guidelines authorize upward adjustments for organizers and downward adjustments for minimal participants in multi-party crimes, reintroducing proportionality at the back end without reforming substantive liability doctrine.
 - **Source:** Chapter synthesis note (chapter p. 8); slide synthesis
-- **Trap:** Students treat sentencing adjustments as equivalent to genuine grading distinctions because they overlook that adjustments depend on judicial discretion and do not alter the conviction itself or guarantee proportionate outcomes.
+- **Trap:** Students choose [sentencing adjustments are equivalent to genuine grading distinctions] because they confuse [discretionary sentencing adjustments] with [genuine grading distinctions that alter the conviction and guarantee proportionate outcomes].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a minimal participant's judge declines to apply a downward adjustment, the defendant faces the same maximum sentence as the principal despite limited culpability.
 - **Jurisdiction:** federal only (as a formal doctrine); states vary
@@ -195,7 +195,7 @@
 #### gp-accessory-after-fact: Accessory After the Fact as Separate Offense
 - **Rule:** Helping someone escape detection or punishment *after* a crime is complete is a separate, lower-grade offense. Federal law caps the penalty at half the maximum for the principal's offense. The underlying logic is that post-crime assistance is qualitatively different from participation in the crime.
 - **Source:** Chapter history note (chapter p. 7); 18 U.S.C. § 3
-- **Trap:** Students lump post-crime assistance into accomplice liability because they miss the temporal cut-off — assistance rendered after the crime is complete is accessory after the fact, a separate lesser offense, not aiding and abetting.
+- **Trap:** Students choose [post-crime assistance creates accomplice liability] because they confuse [the separate lesser offense of accessory after the fact] with [aiding and abetting before or during the crime].
 - **Difficulty:** foundational
 - **Pivot fact:** If Donna Adelson had paid Garcia after the murder for his work rather than financing the plot in advance, she might have been charged as an accessory after the fact rather than as an accomplice to murder.
 - **Jurisdiction:** universal
@@ -206,7 +206,7 @@
 #### tech-concrete-nexus: Platform Liability Requires Concrete Nexus to Specific Act
 - **Rule:** General platform operation — even with knowledge that criminal actors use the platform — does not constitute aiding and abetting. The Supreme Court requires a "concrete nexus" between the defendant's assistance and the specific criminal act. Arm's-length, passive, and largely indifferent facilitation is not enough.
 - **Source:** *Twitter, Inc. v. Taamneh*, 598 U.S. 471 (2023) (note case)
-- **Trap:** Students analogize Taamneh to Wilcox and conclude platforms are liable because they knew of and profited from illegal activity, missing the distinction between personal attended purposive participation (Wilcox) and diffuse platform operation indifferent to any specific criminal act (Taamneh).
+- **Trap:** Students choose [platforms are liable because they knew of and profited from illegal activity] because they confuse [diffuse platform operation indifferent to specific criminal acts] with [personal attended purposive participation].
 - **Difficulty:** advanced
 - **Pivot fact:** If Twitter had received a specific, actionable warning that a specific user was planning a specific attack and deliberately failed to act on it, the "concrete nexus" requirement might be satisfied.
 - **Jurisdiction:** federal only (JASTA; U.S. Supreme Court)
@@ -215,7 +215,7 @@
 #### tech-deliberate-noncooperation: Deliberate Non-Cooperation as Potential Complicity
 - **Rule:** While passive hosting does not constitute complicity, active refusal to moderate criminal content or cooperate with judicial warrants may cross into complicity in some jurisdictions. The French prosecution of Telegram's CEO illustrates that deliberate non-cooperation with law enforcement is treated differently from mere passive facilitation.
 - **Source:** France v. Durov (2024) (illustrative comparison in chapter p. 11)
-- **Trap:** Students assume that because Taamneh exonerates platforms, all platform operators are protected. Students miss that deliberate non-cooperation (Durov) is distinct from passive hosting (Taamneh).
+- **Trap:** Students choose [all platform operators are protected because Taamneh exonerates platforms] because they confuse [passive hosting] with [deliberate non-cooperation].
 - **Difficulty:** advanced
 - **Pivot fact:** If Durov had responded to judicial warrants and moderated flagged content while criminals continued to use the platform, the "deliberate" element of non-cooperation would be absent.
 - **Jurisdiction:** majority/minority — U.S. rejects; France charges; other jurisdictions vary
@@ -226,7 +226,7 @@
 #### rd-racial-amplification: Accomplice Doctrine Amplifies Racial Disparities
 - **Rule:** Empirical evidence shows accomplice liability amplifies racial disparities in the criminal legal system. Accomplice-based felony murder conviction rates for Black defendants were 34x those for white defendants in New York — 2.5 times the already severe 14:1 disparity in principal-liability convictions.
 - **Source:** Binder & Harrington (2025); Moriearty et al. (2024); Cohen, Levinson & Hioki (2023) (note, chapter p. 9)
-- **Trap:** Students assume racial disparities reflect only policing and charging discretion, not the doctrine itself, because they miss that accomplice liability's structural reliance on group-membership inferences activates implicit bias in ways that principal liability does not.
+- **Trap:** Students choose [racial disparities reflect only policing and charging discretion, not the doctrine itself] because they confuse [disparities driven merely by policing and charging discretion] with [the doctrine's structural reliance on group-membership inferences that activate implicit bias].
 - **Difficulty:** advanced
 - **Pivot fact:** If jurors evaluated accomplice liability claims using explicit intent evidence only (no inferences from group membership), the 34x disparity would likely narrow toward the 14x baseline.
 - **Jurisdiction:** universal (U.S.)

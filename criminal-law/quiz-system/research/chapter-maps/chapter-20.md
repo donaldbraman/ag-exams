@@ -40,7 +40,7 @@
 #### boyle-three-part: Boyle's Three-Part Test for Association-in-Fact
 - **Rule:** An association-in-fact enterprise requires three structural features: (1) a shared purpose among associates, (2) relationships among those associated with the enterprise (not merely a common defendant), and (3) longevity sufficient to permit pursuit of that purpose. The enterprise need not have a formal hierarchy or written rules.
 - **Source:** *Boyle v. United States*, 556 U.S. 938 (2009) (discussed in § B note before *Pinson*)
-- **Trap:** Students say "they all knew Pinson, so they were associated" because they confuse relationships *to the hub* with relationships *among the spokes*.
+- **Trap:** Students choose ["they all knew Pinson, so they were associated"] because they confuse [relationships to the hub] with [relationships among the spokes].
 - **Difficulty:** foundational
 - **Pivot fact:** If the participants in each Pinson scheme had communicated with or relied on participants in the other schemes — not just on Pinson — the rim would hold.
 - **Jurisdiction:** federal only
@@ -49,7 +49,7 @@
 #### hub-spoke-no-rim: Hub-and-Spoke Without a Rim
 - **Rule:** A common actor at the center of multiple schemes is not sufficient to create a single enterprise. Without a rim — relationships among the spokes linking the separate ventures to each other — the structure yields multiple conspiracies, not one RICO enterprise.
 - **Source:** *United States v. Pinson*, 860 F.3d 152 (4th Cir. 2017); *Kotteakos v. United States*, 328 U.S. 750 (1946) (traditional conspiracy analogue)
-- **Trap:** Students find a RICO enterprise whenever there is a central defendant because they confuse "one mastermind" with "one enterprise" — the enterprise requires horizontal relationships, not just a vertical connection to the hub.
+- **Trap:** Students choose [a RICO enterprise exists whenever there is a central defendant] because they confuse ["one mastermind"] with ["one enterprise" requiring horizontal relationships].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Givens (SCSU scheme) had introduced Pinson to Mims (Village scheme) or the participants had shared resources, proceeds, or information across schemes, the rim would hold.
 - **Jurisdiction:** federal only
@@ -58,7 +58,7 @@
 #### rim-holds: When the Hub-and-Spoke Structure Survives — The Rim
 - **Rule:** When spokes of an enterprise are structurally integrated — sharing personnel, infrastructure, or know-how in service of a common purpose — the enterprise element is satisfied even if individual participants do not know the full scope of operations or the identities of all participants.
 - **Source:** *United States v. Christensen*, 828 F.3d 763 (9th Cir. 2016)
-- **Trap:** Students assume that because Arneson and Turner did not know Pellicano's full client list, they were not enterprise participants — missing that *Boyle* requires awareness of the "essential nature" of the enterprise, not full knowledge of its scope.
+- **Trap:** Students choose [Arneson and Turner were not enterprise participants] because they confuse [full knowledge of the enterprise's scope] with [awareness of the "essential nature" of the enterprise].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Arneson and Turner had simply sold their services independently to any client without Pellicano's coordination, there would be no integrated enterprise structure.
 - **Jurisdiction:** federal only
@@ -67,7 +67,7 @@
 #### corporate-enterprise: Legitimate Corporation as RICO Enterprise
 - **Rule:** A legitimate corporation can itself constitute the RICO enterprise when its ordinary business structure — sales force, compliance, call center — is repurposed to conduct or facilitate racketeering activity. The lawfulness of the corporation's formal charter does not shield it.
 - **Source:** Insys Therapeutics prosecution (NPR/DOJ note; no formal case excerpt)
-- **Trap:** Students think RICO requires an inherently criminal organization because they associate RICO with the Mafia — but courts have consistently held that lawful entities can serve as the enterprise.
+- **Trap:** Students choose [RICO requires an inherently criminal organization] because they confuse [an inherently criminal organization] with [lawful entities that can serve as the enterprise].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Insys executives had limited bribery to isolated rogue employees without using the company's formal sales and reimbursement infrastructure, the prosecution theory would be harder to sustain.
 - **Jurisdiction:** federal only
@@ -78,7 +78,7 @@
 #### predicate-acts-relatedness: Relatedness and Continuity of Predicate Acts
 - **Rule:** A pattern requires that predicate acts be related — connected by common purpose, results, participants, victims, or methods — and suggest continuity, either over a substantial period or by threat of future criminal conduct.
 - **Source:** 18 U.S.C. § 1961(5); § 1962 framework (§ A statutory structure)
-- **Trap:** Students assume any two crimes within ten years satisfy the pattern because they treat the statute's numerical floor (two acts) as the whole test — missing the relatedness and continuity requirements.
+- **Trap:** Students choose [any two crimes within ten years satisfy the pattern] because they confuse [the statute's numerical floor of two acts] with [the full test requiring relatedness and continuity].
 - **Difficulty:** foundational
 - **Pivot fact:** If the predicate acts had different victims, methods, and purposes with no connection to each other or the enterprise, the pattern requirement would fail even if two acts occurred within ten years.
 - **Jurisdiction:** federal only
@@ -87,7 +87,7 @@
 #### gang-pattern-common-benefit: Gang Pattern: More Than Reputational Benefit (AB 333)
 - **Rule:** Under California's reformed gang statute, predicate offenses must have commonly benefited the gang in a way that is "more than reputational." Crimes committed by gang members for purely personal gain, without a shared organizational benefit (financial, retaliatory, competitive), cannot establish the pattern.
 - **Source:** Cal. Penal Code § 186.22(e) as amended by AB 333 (2021); *People v. Cooper*, 14 Cal.5th 735 (2023)
-- **Trap:** Students assume a robbery or drug sale by a gang member automatically satisfies the pattern element because they rely on the "common knowledge" that gang members commit such crimes — but the statute now requires specific proof of organizational benefit.
+- **Trap:** Students choose [a robbery or drug sale by a gang member automatically satisfies the pattern element] because they confuse ["common knowledge" that gang members commit crimes] with [specific proof of organizational benefit].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the prosecution's expert had testified that the robbery proceeds were pooled into gang funds or that the drug sales occurred in gang-controlled territory with proceeds shared among members, the common benefit element would likely be satisfied.
 - **Jurisdiction:** majority/minority
@@ -98,7 +98,7 @@
 #### salinas-no-personal-acts: Conspirator Need Not Personally Commit Predicate Acts
 - **Rule:** A RICO conspirator is guilty if he or she agrees to further an endeavor that, if completed, would satisfy all elements of a substantive RICO offense — even if the conspirator never personally commits two predicate acts.
 - **Source:** *Salinas v. United States*, 522 U.S. 52 (1997) (discussed in *Rich* opinion)
-- **Trap:** Students say "no RICO conspiracy because defendant never committed racketeering acts" because they import the substantive offense's predicate act requirement into the conspiracy charge.
+- **Trap:** Students choose ["no RICO conspiracy because defendant never committed racketeering acts"] because they confuse [the substantive offense's predicate act requirement] with [the conspiracy charge's requirements].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the defendant had merely known about the enterprise without agreeing to further it, *Salinas* would not apply and the conspiracy charge would fail.
 - **Jurisdiction:** federal only
@@ -107,7 +107,7 @@
 #### rich-future-enterprise: Agreement to Form a Future Enterprise
 - **Rule:** An agreement to associate with and participate in a yet-to-be-formed racketeering enterprise can constitute a completed RICO conspiracy offense. The enterprise need not exist at the time of the agreement.
 - **Source:** *United States v. Rich*, 14 F.4th 489 (6th Cir. 2021)
-- **Trap:** Students say "no RICO conspiracy because no enterprise existed yet" because they assume conspiracy requires the target offense to be completable in the present — missing that *Salinas* applies to a conspiracy to commit a future substantive violation.
+- **Trap:** Students choose ["no RICO conspiracy because no enterprise existed yet"] because they confuse [a target offense completable in the present] with [a conspiracy to commit a future substantive violation under Salinas].
 - **Difficulty:** advanced
 - **Pivot fact:** If the jury instruction had required the enterprise to actually exist at the time of the agreement — rather than permitting a future-tense enterprise — the dissent's position would prevail.
 - **Jurisdiction:** federal only
@@ -116,7 +116,7 @@
 #### rich-dissent-limiting-principle: Dissent's Limiting Principle Concern
 - **Rule:** The dissent in *Rich* argued that *Salinas* addressed the pattern requirement (predicate acts), not the enterprise requirement — and that allowing conviction for agreeing to form a future enterprise effectively eliminates the enterprise as a constrained element, leaving no limiting principle.
 - **Source:** Judge Donald, dissenting in *United States v. Rich*, 14 F.4th 489 (6th Cir. 2021)
-- **Trap:** Students assume the majority and dissent simply disagreed on outcome — missing that the dissent raises a structural argument about what *Salinas* actually held and what element it addressed.
+- **Trap:** Students choose [the majority and dissent simply disagreed on outcome] because they confuse [a simple disagreement on outcome] with [a structural disagreement about what Salinas actually held and what element it addressed].
 - **Difficulty:** advanced
 - **Pivot fact:** If *Salinas* had expressly addressed the enterprise requirement rather than only the predicate acts requirement, the dissent's argument would lose its textual foundation.
 - **Jurisdiction:** federal only
@@ -127,7 +127,7 @@
 #### participation-vs-patronage: When Customers Become Enterprise Participants
 - **Rule:** Paying for illegal services does not automatically make one an enterprise participant. The line between participation and patronage depends on whether the customer directed operations, was integrated into the enterprise's structure, and knew the essential nature of the illegal scheme — not merely that illegal methods might be used.
 - **Source:** *United States v. Christensen*, 828 F.3d 763 (9th Cir. 2016) (Christensen/Pellicano); Insys doctors' discussion (§ Corporate RICO note)
-- **Trap:** Students say "Christensen is just a client, not a participant" because they think only those who physically perform criminal acts can be RICO participants — missing that directing, funding, and using the fruits of specific illegal acts constitutes participation.
+- **Trap:** Students choose ["Christensen is just a client, not a participant"] because they confuse [only those who physically perform criminal acts] with [those directing, funding, and using the fruits of illegal acts].
 - **Difficulty:** advanced
 - **Pivot fact:** If Christensen had merely hired Pellicano generally without authorizing or directing the wiretap of Bonder, his role might be reduced to that of a customer rather than a co-participant.
 - **Jurisdiction:** federal only
@@ -138,7 +138,7 @@
 #### membership-vs-participation: Constitutional Limit — Membership Cannot Be Punished
 - **Rule:** A statute that enhances punishment for mere gang membership, without requiring active participation in criminal activity through the organization, violates the right of association. RICO survives constitutional challenge because it punishes *participation in enterprise affairs through racketeering*, not membership.
 - **Source:** *State v. O.C.*, 748 So. 2d 945 (Fla. 1999) (note case)
-- **Trap:** Students say gang members can be punished simply for belonging to a gang because they conflate membership with criminal liability — missing the constitutional requirement that liability must attach to conduct, not status.
+- **Trap:** Students choose [gang members can be punished simply for belonging to a gang] because they confuse [membership status] with [conduct-based criminal liability].
 - **Difficulty:** foundational
 - **Pivot fact:** If Florida's statute had required that the predicate offense be committed in furtherance of the gang's criminal activities rather than merely by a member, it likely would have survived constitutional review.
 - **Jurisdiction:** universal
@@ -149,7 +149,7 @@
 #### georgia-vs-federal: Georgia RICO vs. Federal RICO — Structural Differences
 - **Rule:** Georgia's RICO statute is structurally broader than federal RICO: it requires no economic motive, no continuity in the pattern, permits false statements as predicate acts, adds "person" to the enterprise definition (enabling hub-and-spoke charges defeated under *Pinson*), and imposes no external pre-charge review requirement.
 - **Source:** Georgia RICO statute discussion; § Georgia RICO: Three Cases, One Statute
-- **Trap:** Students assume Georgia RICO analysis follows federal RICO precedents like *Pinson* — missing that the Georgia statute was amended specifically to reach hub-and-spoke structures that federal law rejects.
+- **Trap:** Students choose [Georgia RICO analysis follows federal RICO precedents like Pinson] because they confuse [federal RICO precedents rejecting hub-and-spoke structures] with [the amended Georgia statute specifically reaching hub-and-spoke structures].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Georgia had adopted federal RICO's DOJ approval requirement, the YSL, Cop City, and election prosecutions would have required centralized review before indictment.
 - **Jurisdiction:** majority/minority
@@ -158,7 +158,7 @@
 #### creative-expression-predicates: Creative Expression as RICO Predicate Evidence
 - **Rule:** Rap lyrics, social media posts, and artistic works have been admitted as enterprise evidence in RICO prosecutions. Critics argue courts treat rap as autobiographical confession rather than artistic expression, introducing racial bias. California (AB 2799) and proposed federal legislation (RAP Act) now impose pretrial review requirements before creative expression may be admitted.
 - **Source:** YSL prosecution; AB 2799 (2022); RAP Act discussion (§ Legislative Responses)
-- **Trap:** Students assume lyrics are straightforwardly admissible as admissions because they are out-of-court statements — missing the distinct constitutional and evidentiary concerns about treating artistic expression as literal confession.
+- **Trap:** Students choose [lyrics are straightforwardly admissible as admissions] because they confuse [standard out-of-court statements] with [artistic expression carrying distinct constitutional and evidentiary concerns].
 - **Difficulty:** advanced
 - **Pivot fact:** If the YSL prosecution had relied on physical evidence of criminal acts rather than lyrics, the First Amendment and racial bias concerns would be substantially reduced.
 - **Jurisdiction:** majority/minority
@@ -167,7 +167,7 @@
 #### protected-activity-predicates: Protected Activity as RICO Overt Acts
 - **Rule:** Prosecutors have used constitutionally protected activity — phone calls to officials, public statements, legal filings, protest activity, sharing food with protesters — as "overt acts" in RICO indictments. The line between using such activity as evidence of *intent* and treating it as the *predicate conduct* itself is contested and largely unreduced by current law.
 - **Source:** Cop City indictment (food sharing); election indictment (phone calls, statements, legal filings); § Georgia RICO: Three Cases discussion
-- **Trap:** Students assume that if an act is constitutionally protected it cannot be used in a RICO case at all — missing that the contested question is whether it serves as evidence of *purpose* versus functioning as the *criminal act itself*.
+- **Trap:** Students choose [if an act is constitutionally protected it cannot be used in a RICO case at all] because they confuse [the protected act functioning as the criminal act itself] with [the protected act serving as evidence of purpose].
 - **Difficulty:** advanced
 - **Pivot fact:** If the Cop City indictment had listed only the Molotov cocktail throwing (unprotected conduct) and not the food sharing (protected) as overt acts, the First Amendment concerns would largely disappear.
 - **Jurisdiction:** federal only
@@ -178,7 +178,7 @@
 #### federal-approval-requirement: Federal DOJ Pre-Charge Review
 - **Rule:** Federal RICO prosecutions require a detailed prosecution memorandum and draft indictment to be submitted to DOJ's Violent Crime and Racketeering Section at least fifteen days before seeking an indictment. The guidelines bar "imaginative" prosecutions far from RICO's congressional purpose. No equivalent exists at the state level.
 - **Source:** Justice Manual § 9-110.000; § Federal-State Asymmetry
-- **Trap:** Students assume federal prosecutors face the same constraints as state prosecutors bringing RICO charges — missing the structural difference that centralized federal review creates.
+- **Trap:** Students choose [federal prosecutors face the same constraints as state prosecutors bringing RICO charges] because they confuse [the constraints placed on state prosecutors] with [the centralized federal review constraints faced by federal prosecutors].
 - **Difficulty:** foundational
 - **Pivot fact:** If Georgia had adopted a similar centralized approval requirement, a prosecutor would need external review before charging protesters with racketeering for sharing food.
 - **Jurisdiction:** federal only
@@ -187,7 +187,7 @@
 #### selective-prosecution-armstrong: Selective Prosecution — Armstrong Standard
 - **Rule:** A defendant claiming selective prosecution must present credible evidence of both discriminatory effect AND discriminatory intent before a court will order discovery into the government's charging decisions. This standard is extremely difficult to satisfy without access to internal government files.
 - **Source:** *United States v. Armstrong*, 517 U.S. 456 (1996); § RICO in the Political Arena
-- **Trap:** Students assume discriminatory purpose alone, or disparate outcomes alone, suffices for a selective prosecution claim — missing that *Armstrong* requires both prongs and imposes a high evidentiary threshold before any discovery is available.
+- **Trap:** Students choose [discriminatory purpose alone, or disparate outcomes alone, suffices for a selective prosecution claim] because they confuse [proving either discriminatory purpose or disparate outcomes alone] with [the Armstrong requirement of proving both prongs].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the defendant could obtain discovery of the government's internal charging memoranda showing explicit consideration of political affiliation, the discriminatory intent prong would be easier to satisfy.
 - **Jurisdiction:** federal only

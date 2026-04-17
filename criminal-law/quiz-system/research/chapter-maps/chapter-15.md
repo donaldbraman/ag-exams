@@ -56,7 +56,7 @@
 #### cp-elements: The Three-Part Standard
 - **Rule:** The government must prove the defendant (1) knew of the contraband's presence, (2) had the power to exercise dominion and control over it, and (3) intended to do so. Proximity alone — no matter how close — never satisfies this test.
 - **Source:** *United States v. Jenkins*, 90 F.3d 814 (3d Cir. 1996)
-- **Trap:** Students choose "proximity = possession" because they assume sitting next to contraband on a table is enough; the court explicitly held it is not.
+- **Trap:** Students choose ["proximity = possession"] because they confuse [mere proximity to contraband] with [legally sufficient possession or control].
 - **Difficulty:** foundational
 - **Pivot fact:** If Jenkins had his fingerprints on the cocaine packaging or had made a single incriminating statement, the outcome might differ.
 - **Jurisdiction:** universal
@@ -65,7 +65,7 @@
 #### cp-snapshot-problem: The Snapshot Limitation
 - **Rule:** A "snapshot" showing a defendant near contraband, without evidence of participation in, or association with, the activity involving it, is insufficient to establish constructive possession.
 - **Source:** *United States v. Jenkins*, 90 F.3d 814 (3d Cir. 1996)
-- **Trap:** Students choose "the jury could infer it" because the dissent argues presence in an "operation" apartment establishes control; the majority rejects this inference without conduct evidence.
+- **Trap:** Students choose ["the jury could infer it"] because they confuse [the dissent's view that presence establishes control] with [the majority's requirement for specific conduct evidence].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Jenkins had been seen packaging drugs or handling the scales at any earlier point, the inference of control would be available.
 - **Jurisdiction:** universal (though circuits differ on how little indicia is enough to go to jury)
@@ -74,7 +74,7 @@
 #### cp-awareness-control: Awareness Is Not Dominion
 - **Rule:** A defendant's awareness that contraband is present is a necessary but not sufficient condition for constructive possession; the government must separately prove the defendant intended to exercise dominion and control.
 - **Source:** *State of Louisiana v. Gerald Manchip White*, No. 2024-K-01588 (La. 2025)
-- **Trap:** Students choose "he told the parole officer the gun was still there, so he knew it = possession" because they conflate knowledge with control; the court explicitly held awareness alone is insufficient.
+- **Trap:** Students choose ["he told the parole officer the gun was still there, so he knew it = possession"] because they confuse [mere knowledge or awareness of contraband] with [actual control required for constructive possession].
 - **Difficulty:** foundational
 - **Pivot fact:** If the defendant had moved the gun, locked it away, or given instructions about its storage, that exercise of control would likely establish dominion.
 - **Jurisdiction:** universal
@@ -83,7 +83,7 @@
 #### cp-exclusive-control: Exclusive Control by Co-Occupant
 - **Rule:** Where a space and its contents are within the exclusive control of a co-occupant (e.g., a dresser containing only the wife's belongings), the government cannot establish that the defendant had dominion and control over contraband found there.
 - **Source:** *State of Louisiana v. Gerald Manchip White*, No. 2024-K-01588 (La. 2025)
-- **Trap:** Students choose "shared household = shared possession of everything in it" because shared access to the house seems like shared access to all spaces; the court requires space-specific analysis.
+- **Trap:** Students choose ["shared household = shared possession of everything in it"] because they confuse [general shared access to a house] with [the space-specific analysis required to establish control].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the defendant's paperwork or belongings had also been in that dresser drawer, the inference of shared access becomes available.
 - **Jurisdiction:** universal
@@ -92,7 +92,7 @@
 #### cp-incriminating-statement: Incriminating Statements — Limits
 - **Rule:** A defendant's statement acknowledging that contraband is present ("the gun is still in the house") proves awareness but does not, without more, prove the intent to exercise dominion and control required for constructive possession.
 - **Source:** *State of Louisiana v. Gerald Manchip White*, No. 2024-K-01588 (La. 2025)
-- **Trap:** Students choose "admission proves possession" because any statement about knowing contraband's location sounds like ownership; the court draws a sharp line between knowing and controlling.
+- **Trap:** Students choose ["admission proves possession"] because they confuse [knowing the location of contraband] with [exercising legal control over it].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the defendant had told the parole officer "I'll get rid of it" or taken any affirmative step regarding the gun, his statement would evidence control, not merely knowledge.
 - **Jurisdiction:** universal
@@ -100,7 +100,7 @@
 #### cp-2a-concurrence: Second Amendment and Shared-Household Possession
 - **Rule:** In households where family members lawfully own firearms, requiring a felon co-occupant to exclude himself from the home to avoid constructive possession liability may unconstitutionally burden the other occupants' Second Amendment rights.
 - **Source:** *State of Louisiana v. Gerald Manchip White*, Weimer, C.J., concurring
-- **Trap:** Students choose "the Second Amendment is irrelevant to constructive possession analysis" because constructive possession is a question of fact, not constitutional law; the concurrence shows the constitutional dimension is real and may constrain prosecution.
+- **Trap:** Students choose ["the Second Amendment is irrelevant to constructive possession analysis"] because they confuse [constructive possession as a purely factual inquiry] with [the constitutional dimensions that may constrain prosecution].
 - **Difficulty:** advanced
 - **Pivot fact:** If only the felon, and not other family members, lived in the home, the Second Amendment argument disappears.
 - **Jurisdiction:** majority/minority (emerging post-*Bruen*; most circuits have not yet addressed this directly)
@@ -110,7 +110,7 @@
 #### pc-gap: The Arrest-to-Conviction Gap
 - **Rule:** Probable cause to arrest (reasonable ground for belief of guilt) is a far lower standard than proof beyond a reasonable doubt required for conviction; many defendants arrested for constructive possession in shared spaces plead guilty to charges that would fail at trial.
 - **Source:** Chapter discussion following *Jenkins* and *White* cases
-- **Trap:** Students choose "if there's enough to arrest, there's probably enough to convict" because plea rates (95%) obscure how often constructive possession evidence would fail at trial.
+- **Trap:** Students choose ["if there's enough to arrest, there's probably enough to convict"] because they confuse [high plea rates] with [the actual sufficiency of constructive possession evidence required to convict at trial].
 - **Difficulty:** advanced
 - **Pivot fact:** If cases went to trial at higher rates, the controlling law on what constitutes constructive possession would be tested more frequently and might become more defendant-protective.
 - **Jurisdiction:** universal
@@ -118,7 +118,7 @@
 #### cp-legislative-inference: Permissive Inference Statutes
 - **Rule:** A legislature may create a permissive inference that all vehicle occupants possess contraband found in the car, provided (a) the prosecution still bears the full burden of proof and (b) the jury may draw but is not required to draw the inference; this is constitutional. But a statute making mere voluntary presence in a vehicle with a firearm a standalone felony violates due process.
 - **Source:** New York Penal Law § 265.15 (upheld in *County Court of Ulster County v. Allen*, 442 U.S. 140 (1979)); D.C. Code § 22-2511 (struck in *Conley v. United States*, 79 A.3d 270 (D.C. 2013))
-- **Trap:** Students choose "both are valid because legislatures can define crimes" because both use proximity as a trigger; the key distinction is whether the statute permits the jury to reason from proximity or punishes proximity itself.
+- **Trap:** Students choose ["both are valid because legislatures can define crimes"] because they confuse [statutes that punish proximity itself] with [statutes that merely permit a jury to infer possession from proximity].
 - **Difficulty:** advanced
 - **Pivot fact:** If the D.C. statute had preserved the government's burden and framed the inference as permissive rather than a standalone offense, it likely would have survived.
 - **Jurisdiction:** majority/minority (most states use permissive inference; few went as far as D.C.)
@@ -128,7 +128,7 @@
 #### qty-pwid: Quantity as Proxy for Distribution Intent
 - **Rule:** In most jurisdictions, the quantity of drugs, combined with packaging, cash, scales, or other distribution indicia, can elevate simple possession to possession with intent to distribute, a far more serious offense.
 - **Source:** Chapter discussion of federal 21 U.S.C. § 841(b) and state comparisons
-- **Trap:** Students choose "quantity alone triggers PWID" because sentencing tables are quantity-keyed; federal mandatory minimums do key to weight, but PWID as a charge typically requires additional circumstantial distribution evidence.
+- **Trap:** Students choose ["quantity alone triggers PWID"] because they confuse [sentencing tables triggered by weight] with [the additional circumstantial evidence required to prove intent to distribute].
 - **Difficulty:** foundational
 - **Pivot fact:** If packaging and scales were absent and only a large amount of loose drugs were found, the distribution inference weakens significantly.
 - **Jurisdiction:** universal (quantity thresholds vary by jurisdiction)
@@ -136,7 +136,7 @@
 #### qty-mandatory-minimums: Federal Weight-Based Mandatory Minimums
 - **Rule:** Under 21 U.S.C. § 841(b), mandatory minimum sentences are triggered by drug weight alone — no proof of intent to distribute is required to activate the weight-based enhancement; the sentencing floor depends entirely on grams.
 - **Source:** 21 U.S.C. § 841(b); chapter drug-weight table
-- **Trap:** Students choose "the government must prove intent before the mandatory minimum applies" because the charge is "possession with intent to distribute"; weight alone triggers the sentence floor independent of what the prosecution proves about intent.
+- **Trap:** Students choose ["the government must prove intent before the mandatory minimum applies"] because they confuse [the elements required to prove the underlying charge] with [the drug weight that independently triggers the mandatory minimum sentence].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the defendant possessed 39 grams of fentanyl instead of 40, the 5-year mandatory minimum would not apply.
 - **Jurisdiction:** federal only (state minimums vary widely)
@@ -144,7 +144,7 @@
 #### qty-crack-powder: Crack-Powder Disparity
 - **Rule:** Federal law treated crack cocaine as 100 times more serious than powder cocaine for mandatory minimum purposes until the Fair Sentencing Act of 2010 reduced the ratio to 18:1; the substances are pharmacologically identical and differ primarily in the racial demographics of their user populations.
 - **Source:** 21 U.S.C. § 841(b); Fair Sentencing Act of 2010; chapter discussion of racial history
-- **Trap:** Students choose "the disparity reflects different harms" because the law says so; the chapter establishes the substances are pharmacologically identical, making the disparity a legal artifact of racial politics rather than pharmacological difference.
+- **Trap:** Students choose ["the disparity reflects different harms"] because they confuse [statutory disparities rooted in racial politics] with [actual pharmacological differences between identical substances].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the defendant possessed the same weight in powder cocaine rather than crack, the mandatory minimum threshold would be 500g vs. 28g — an 18:1 difference in how much triggers the same penalty.
 - **Jurisdiction:** federal only (states vary)
@@ -153,7 +153,7 @@
 #### qty-state-variation: State Penalty Variation
 - **Rule:** Identical drug conduct can result in a felony with potential prison time (e.g., Florida) or a gross misdemeanor with a treatment referral (e.g., Washington), depending solely on the state of prosecution.
 - **Source:** Fla. Stat. §§ 893.13, 893.135; RCW § 69.50.4013; chapter comparison table
-- **Trap:** Students choose "drug possession is always a felony" because federal law treats it as serious; state law varies enormously and Washington makes even repeat heroin possession a misdemeanor.
+- **Trap:** Students choose ["drug possession is always a felony"] because they confuse [the strict federal treatment of drug possession] with [the vast variation in state laws classifying such offenses].
 - **Difficulty:** intermediate
 - **Pivot fact:** The same defendant with the same drugs faces felony prosecution in Florida but misdemeanor diversion in Washington.
 - **Jurisdiction:** majority/minority (states span a wide spectrum)
@@ -161,7 +161,7 @@
 #### qty-fentanyl-homicide: Quantity, Fentanyl Potency, and Drug-Induced Homicide
 - **Rule:** Because a lethal dose of fentanyl is approximately two milligrams, even small quantities by weight represent enormous numbers of doses; the interaction of low quantity thresholds, weight-based mandatory minimums, and drug-induced homicide statutes means that someone constructively possessing a small amount of fentanyl in a shared space may face a homicide prosecution if someone dies.
 - **Source:** Chapter discussion; more than 30 states have enacted drug-induced homicide statutes
-- **Trap:** Students choose "you can only be charged with homicide if you distributed the drug" because the causal chain seems to require active distribution; drug-induced homicide statutes reach anyone who "distributes" a substance that causes death, and distribution can be informal sharing.
+- **Trap:** Students choose ["you can only be charged with homicide if you distributed the drug"] because they confuse [active commercial distribution] with [informal sharing that legally qualifies as distribution under drug-induced homicide statutes].
 - **Difficulty:** advanced
 - **Pivot fact:** If the substance were heroin rather than fentanyl, the 100-gram mandatory minimum threshold is far less likely to be triggered by small-quantity possession.
 - **Jurisdiction:** majority (over 30 states; federal law also reaches this via § 841(b)(1)(C))
@@ -171,7 +171,7 @@
 #### mens-rea-type: Knowledge of Substance Type
 - **Rule:** Under most federal circuits and *McFadden v. United States* (2015) for analogues, the government must prove the defendant knew the substance was a controlled substance (its general nature), but need not prove the defendant knew its precise chemical identity.
 - **Source:** *McFadden v. United States*, 576 U.S. 186 (2015); chapter discussion
-- **Trap:** Students choose "you can't be convicted of possessing something you didn't know you had" because ignorance of what specific drug you possess sounds like a defense; knowledge of the general nature ("I knew it was drugs") suffices.
+- **Trap:** Students choose ["you can't be convicted of possessing something you didn't know you had"] because they confuse [knowledge of the specific drug possessed] with [sufficient knowledge of the general illicit nature of the substance].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a defendant had no reason to know the substance had psychoactive or controlled properties at all (e.g., delivered unknowingly), the mens rea element is not satisfied.
 - **Jurisdiction:** federal only (the *McFadden* standard for analogues; most circuits apply general-nature rule for scheduled substances)
@@ -179,7 +179,7 @@
 #### mens-rea-fentanyl-asymmetry: The Fentanyl Substitution Problem
 - **Rule:** A defendant who purchases heroin may be convicted of possessing fentanyl — with its lower quantity thresholds and harsher mandatory minimums — even if they had no knowledge that their supply had been adulterated, because knowledge of the substance's general nature (not its specific identity) satisfies the mens rea requirement.
 - **Source:** Chapter discussion of *McFadden* applied to fentanyl substitutions
-- **Trap:** Students choose "if you didn't know it was fentanyl, you can't be convicted of a fentanyl offense" because intent normally matches the crime; the general-nature rule means conviction for the substance actually possessed, not the substance believed to be possessed.
+- **Trap:** Students choose ["if you didn't know it was fentanyl, you can't be convicted of a fentanyl offense"] because they confuse [intent to possess a specific drug] with [the general-nature rule punishing possession based on the substance actually possessed].
 - **Difficulty:** advanced
 - **Pivot fact:** If the jurisdiction required knowledge of specific substance identity, the defendant would be guilty only of heroin possession, not fentanyl possession.
 - **Jurisdiction:** federal only (circuits generally); split exists on how much specificity the government must prove
@@ -190,7 +190,7 @@
 #### gun-commerce-clause: Drug vs. Gun Constitutional Basis
 - **Rule:** Drug regulation rests on the Commerce Clause, giving Congress plenary authority; firearm regulation rests on the same Commerce Clause foundation but must also satisfy the Second Amendment's text-history-and-tradition test under *Bruen*.
 - **Source:** *Gonzales v. Raich* (2005) (drugs); *District of Columbia v. Heller* (2008); *New York State Rifle & Pistol Association v. Bruen* (2022)
-- **Trap:** Students choose "the government can restrict guns and drugs the same way" because both are federal crimes and both have Commerce Clause foundations; the Second Amendment imposes an additional structural constraint on firearm regulation that has no parallel in drug law.
+- **Trap:** Students choose ["the government can restrict guns and drugs the same way"] because they confuse [general Commerce Clause regulatory powers] with [the specific structural constraints imposed by the Second Amendment on firearm regulation].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the Second Amendment did not exist, felon-in-possession laws and regulations like New York's assault weapons restrictions would face only rational basis review under the Commerce Clause.
 - **Jurisdiction:** federal only (Second Amendment applied to states via *McDonald v. City of Chicago* (2010))
@@ -198,7 +198,7 @@
 #### gun-heller-mcdonald: Individual Right to Keep and Bear Arms
 - **Rule:** The Second Amendment protects an individual right to keep and bear arms for self-defense, unconnected with militia service (*Heller*), and this right is incorporated against the states (*McDonald*).
 - **Source:** *District of Columbia v. Heller* (2008); *McDonald v. City of Chicago* (2010)
-- **Trap:** Students choose "the Second Amendment is a collective right about militias" because this was the pre-*Heller* reading; *Heller* definitively held it is an individual right.
+- **Trap:** Students choose ["the Second Amendment is a collective right about militias"] because they confuse [the pre-Heller interpretation of a collective right] with [Heller's definitive holding of an individual right].
 - **Difficulty:** foundational
 - **Pivot fact:** If *Heller* had been decided 5-4 the other way, felon-in-possession statutes, handgun bans, and most federal gun regulations would be subject only to rational basis review.
 - **Jurisdiction:** universal (post-*McDonald*)
@@ -206,7 +206,7 @@
 #### gun-bruen-test: The Bruen Text-History-Tradition Test
 - **Rule:** When the Second Amendment's plain text covers the individual's conduct, the government must demonstrate that the regulation is "consistent with this Nation's historical tradition of firearm regulation" by identifying a relevantly similar historical analogue; a contemporary public health rationale alone is insufficient.
 - **Source:** *New York State Rifle & Pistol Association v. Bruen*, 597 U.S. 1 (2022)
-- **Trap:** Students choose "reasonable regulations survive as long as they serve important government interests" because this was the pre-*Bruen* means-end framework; *Bruen* abolished interest-balancing for Second Amendment cases.
+- **Trap:** Students choose ["reasonable regulations survive as long as they serve important government interests"] because they confuse [the pre-Bruen means-end interest-balancing framework] with [Bruen's abolition of interest-balancing in Second Amendment cases].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a regulation can be matched to a well-established 18th- or 19th-century analogue, it survives; without an analogue, no evidence of effectiveness or public safety benefit saves it.
 - **Jurisdiction:** universal
@@ -215,7 +215,7 @@
 #### gun-rahimi-soften: Rahimi — Historical Twin Not Required
 - **Rule:** Under *United States v. Rahimi* (2024), the government need not identify a precise historical twin; consistency with the "general principles underlying the historical tradition" of disarming persons dangerous to others is sufficient.
 - **Source:** *United States v. Rahimi*, 602 U.S. 680 (2024) (8-1)
-- **Trap:** Students choose "the government must find a Founding-era statute identical to the modern one" because *Bruen* spoke of a "relevantly similar" historical analogue; *Rahimi* clarified this does not require a historical twin, only alignment with underlying principles.
+- **Trap:** Students choose ["the government must find a Founding-era statute identical to the modern one"] because they confuse [a requirement for an identical historical twin statute] with [Rahimi's clarification requiring only a relevantly similar historical analogue aligned in principle].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the statute targeted violent offenders specifically, it survives under *Rahimi*; if it sweeps in purely nonviolent offenders with no dangerousness finding, the constitutional question remains open.
 - **Jurisdiction:** universal
@@ -223,7 +223,7 @@
 #### gun-922g-felon: Felon-in-Possession and the Open Constitutional Question
 - **Rule:** The constitutionality of § 922(g)(1) as applied to nonviolent felons is currently unresolved: *Range v. Attorney General* (3d Cir. 2023, en banc) held the statute unconstitutional as applied to a man convicted of food stamp fraud, that decision was vacated and remanded post-*Rahimi*, and multiple circuits have reached conflicting results.
 - **Source:** 18 U.S.C. § 922(g)(1); *Range v. Attorney General*, 69 F.4th 96 (3d Cir. 2023), vacated and remanded sub nom. *Garland v. Range*, 144 S. Ct. 2706 (2024)
-- **Trap:** Students choose "all felon-in-possession convictions are clearly constitutional" because *Heller* expressly approved "longstanding prohibitions on the possession of firearms by felons"; *Heller*'s dictum does not specify whether it covers nonviolent felons, and *Bruen*/*Rahimi* reopened the question.
+- **Trap:** Students choose ["all felon-in-possession convictions are clearly constitutional"] because they confuse [Heller's general dictum approving longstanding prohibitions on felons] with [the unresolved constitutionality regarding nonviolent felons reopened by Bruen and Rahimi].
 - **Difficulty:** advanced
 - **Pivot fact:** If the underlying felony involved violence or threat of violence, the *Rahimi* "dangerousness" principle likely sustains the disarmament; if purely nonviolent, the constitutional question is live.
 - **Jurisdiction:** split (circuits in active conflict)
@@ -233,7 +233,7 @@
 #### use-924c-trading-gun-for-drugs: Trading a Gun for Drugs = "Using" a Firearm
 - **Rule:** Under *Smith v. United States* (1993), a defendant who trades a gun for drugs "uses" a firearm during and in relation to a drug trafficking crime, triggering § 924(c)'s mandatory consecutive sentence.
 - **Source:** *Smith v. United States*, 508 U.S. 223 (1993)
-- **Trap:** Students choose "only pointing or firing a gun counts as 'using' it" because "use" in ordinary language connotes active deployment as a weapon; the Court read "use" to include use as currency in a drug transaction.
+- **Trap:** Students choose ["only pointing or firing a gun counts as 'using' it"] because they confuse [the ordinary meaning of actively deploying a weapon] with [the Court's broader interpretation including the use of a firearm as currency].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the defendant had merely displayed the gun without using it as currency for drugs, the § 924(c) enhancement might not apply (brandishing vs. use in trade).
 - **Jurisdiction:** federal only
@@ -242,7 +242,7 @@
 #### use-924c-trading-drugs-for-gun: Trading Drugs for a Gun ≠ "Using" a Firearm
 - **Rule:** Under *Watson v. United States* (2007), a defendant who trades drugs to acquire a gun does not "use" a firearm; only the party tendering the gun uses it as currency, not the party receiving it.
 - **Source:** *Watson v. United States*, 552 U.S. 74 (2007)
-- **Trap:** Students choose "both sides of the transaction equally 'use' the firearm" because of *Smith*'s symmetry logic; the Court held that a "seller does not 'use' a buyer's consideration."
+- **Trap:** Students choose ["both sides of the transaction equally 'use' the firearm"] because they confuse [a presumption of symmetry in the transaction] with [the Court's explicit holding that receiving a firearm as consideration does not constitute legal use].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Watson had carried or brandished the gun after receiving it in the same transaction, the § 924(c) carrying prong would apply even if the use-in-trade prong does not.
 - **Jurisdiction:** federal only
@@ -251,7 +251,7 @@
 #### use-ginsburg-weapon-only: Ginsburg's "Use as Weapon" Reading
 - **Rule:** Justice Ginsburg's *Watson* concurrence argues that "use" in § 924(c) should mean use as a weapon, not use as currency, which would overrule *Smith* and hold neither the gun-trader in *Smith* nor the drug-for-gun trader in *Watson* "used" a firearm.
 - **Source:** *Watson v. United States*, 552 U.S. 74 (2007), Ginsburg, J., concurring
-- **Trap:** Students choose "Ginsburg's view is current law" because she concurred in the judgment; her "use as weapon" reading is not the holding — it would require overruling *Smith*, which the majority declined to do.
+- **Trap:** Students choose ["Ginsburg's view is current law"] because they confuse [Ginsburg's concurrence advocating for a use-as-weapon reading] with [the binding majority holding that declined to overrule Smith].
 - **Difficulty:** advanced
 - **Pivot fact:** If Congress amended § 924(c) to define "use" as "use as a weapon," Ginsburg's reading would become the statutory baseline, eliminating currency-exchange applications entirely.
 - **Jurisdiction:** federal only
@@ -260,7 +260,7 @@
 #### use-924c-stacking: Section 924(c) Stacking and the First Step Act
 - **Rule:** Before the First Step Act of 2018, multiple § 924(c) convictions within a single indictment each triggered the 25-year mandatory minimum for a "second" offense; the Act eliminated intra-indictment stacking so the 25-year floor now applies only to genuinely prior convictions, not simultaneous counts.
 - **Source:** First Step Act of 2018; chapter discussion of Weldon Angelos
-- **Trap:** Students choose "stacking is still available for multiple offenses in the same case" because the 25-year mandatory for a second conviction still exists; post-First Step Act, "second" means a prior final conviction, not a second count in the same indictment.
+- **Trap:** Students choose ["stacking is still available for multiple offenses in the same case"] because they confuse [a second count within the same indictment] with [a prior final conviction required by the First Step Act].
 - **Difficulty:** intermediate
 - **Pivot fact:** Under pre-First Step Act law, Angelos received 55 years; under the Act, the same three offenses would yield far less.
 - **Jurisdiction:** federal only
@@ -271,7 +271,7 @@
 #### policy-enforcement-failure: Drug Enforcement Has Not Suppressed Markets
 - **Rule:** The dominant enforcement strategy (mass incarceration, mandatory minimums, interdiction) has not suppressed established drug markets: retail cocaine prices fell 80% as incarceration increased 10x; no statistically significant relationship exists between state imprisonment rates and drug use or overdose deaths.
 - **Source:** Pew Charitable Trusts; National Academies 2014 report; chapter "Costs of Drug Enforcement" discussion
-- **Trap:** Students choose "harsher enforcement reduces drug use" because that is the stated rationale for mandatory minimums; the empirical record shows the opposite trend and no positive relationship.
+- **Trap:** Students choose ["harsher enforcement reduces drug use"] because they confuse [the stated policy rationale for mandatory minimums] with [the empirical record demonstrating no positive relationship between harsher enforcement and reduced drug use].
 - **Difficulty:** foundational
 - **Pivot fact:** If severity of punishment deterred drug offenses, the 10x incarceration increase would have reduced drug market activity; instead prices fell, suggesting increased supply.
 - **Jurisdiction:** universal
@@ -280,7 +280,7 @@
 #### policy-iron-law: The Iron Law of Prohibition
 - **Rule:** As drug enforcement intensifies, suppliers shift to more potent, more concealable substances (opium → heroin; coca leaves → crack; prescription opioids → fentanyl), making the drug supply more dangerous as a direct consequence of enforcement pressure.
 - **Source:** Chapter "Costs of Drug Enforcement" discussion; Iron Law of Prohibition concept
-- **Trap:** Students choose "enforcement makes drug use safer by reducing supply" because less supply should mean less use; the Iron Law shows enforcement increases potency and unpredictability, creating a more dangerous supply.
+- **Trap:** Students choose ["enforcement makes drug use safer by reducing supply"] because they confuse [the theoretical assumption that less supply equals safer drug use] with [the Iron Law of Prohibition demonstrating that enforcement creates a more potent and dangerous supply].
 - **Difficulty:** intermediate
 - **Pivot fact:** If enforcement were removed entirely (or redirected), market incentives would favor less-potent, more brand-distinguishable products (as occurred with alcohol post-Prohibition).
 - **Jurisdiction:** universal
@@ -289,7 +289,7 @@
 #### policy-certainty-not-severity: Certainty, Not Severity, Deters
 - **Rule:** The deterrence literature is consistent: the certainty of apprehension — not the severity of punishment beyond moderate thresholds — drives behavioral change for drug and gun offenses.
 - **Source:** Chapter discussion citing RAND and deterrence literature
-- **Trap:** Students choose "harsher mandatory minimums deter more effectively" because punishment-severity intuition is widely shared; the empirical consensus is that certainty matters, severity (beyond a moderate threshold) does not.
+- **Trap:** Students choose ["harsher mandatory minimums deter more effectively"] because they confuse [widely shared intuition about punishment severity] with [the empirical consensus that certainty of punishment deters more effectively than severity].
 - **Difficulty:** intermediate
 - **Pivot fact:** A 20% increased chance of arrest would likely have more deterrent effect than doubling the sentence.
 - **Jurisdiction:** universal
@@ -298,7 +298,7 @@
 #### policy-mat-treatment: Medication-Assisted Treatment Effectiveness
 - **Rule:** Opioid agonist therapy (methadone, buprenorphine) cuts all-cause mortality roughly in half during treatment, is 7–12 times more cost-effective than enforcement, and reduces violent crime convictions; treatment outperforms incarceration for drug harms.
 - **Source:** 2021 JAMA Psychiatry meta-analysis; NIDA cost-effectiveness data; chapter "What Reduces Drug Harms?"
-- **Trap:** Students choose "incarceration is necessary because treatment is unproven" because mandatory minimums are defended as protective; the evidence strongly favors treatment as the dominant strategy on every outcome measure.
+- **Trap:** Students choose ["incarceration is necessary because treatment is unproven"] because they confuse [the defense of mandatory minimums as a protective necessity] with [the evidence strongly favoring treatment as the dominant strategy for positive outcomes].
 - **Difficulty:** foundational
 - **Pivot fact:** If MAT were available to all persons with opioid use disorder who sought it, the evidence suggests roughly 50% reduction in mortality compared to current enforcement-dominant approach.
 - **Jurisdiction:** universal
@@ -307,7 +307,7 @@
 #### policy-decriminalization-infrastructure: Decriminalization Without Infrastructure Fails
 - **Rule:** Removing criminal penalties for drug possession without simultaneously investing in treatment, harm reduction, and social services eliminates enforcement harms but does not produce public health gains; the contrast between Portugal (success, with infrastructure) and Oregon (failure, without infrastructure) illustrates the principle.
 - **Source:** Chapter "What Reduces Drug Harms?"; Oregon Measure 110 (2020–2024); Portugal (2001–present)
-- **Trap:** Students choose "decriminalization alone fixes the problem" because removing criminal penalties seems like the major reform; without infrastructure, decriminalization is neutral for health outcomes.
+- **Trap:** Students choose ["decriminalization alone fixes the problem"] because they confuse [the removal of criminal penalties as a standalone fix] with [the necessity of support infrastructure to actually improve health outcomes].
 - **Difficulty:** intermediate
 - **Pivot fact:** Oregon's decriminalization succeeded in reducing arrests but failed on health outcomes because treatment funding was delayed nearly two years.
 - **Jurisdiction:** majority/minority (comparative international; now tested in multiple U.S. states)
@@ -316,7 +316,7 @@
 #### policy-permit-to-purchase: Permit-to-Purchase Laws for Gun Violence
 - **Rule:** Permit-to-purchase laws (requiring buyers to obtain a license before acquiring a firearm, with background check plus waiting period) have the strongest evidence of any gun regulatory intervention: Missouri's repeal caused a 25% increase in firearm homicides; Connecticut's adoption caused a 40% decrease over a decade.
 - **Source:** *JAMA Network Open* 2024 panel study; chapter "What Reduces Gun Violence?"
-- **Trap:** Students choose "universal background checks and permit-to-purchase are the same thing" because both involve background checks; the proactive licensing component (coming to a government office to get a license) closes the private-sale loophole that makes background-checks-alone ineffective.
+- **Trap:** Students choose ["universal background checks and permit-to-purchase are the same thing"] because they confuse [systems relying on background checks alone] with [permit-to-purchase systems that require proactive licensing to close private-sale loopholes].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a state enacted background checks without the proactive licensing requirement, the evidence shows no significant effect on homicide.
 - **Jurisdiction:** majority/minority (approximately 9 states require permits; most do not)
@@ -325,7 +325,7 @@
 #### policy-project-exile: Project Exile — Racial Disparity Without Effect
 - **Rule:** Project Exile (routing gun cases to federal court for longer sentences) produced roughly 90% Black defendants without a detectable independent effect on homicides; the best available study attributed Richmond's homicide decline to regression to the mean.
 - **Source:** *United States v. Jones*, 36 F. Supp. 2d 304 (E.D. Va. 1999); chapter "What Reduces Gun Violence?"
-- **Trap:** Students choose "Project Exile worked because Richmond's homicides fell" because there is a temporal correlation; regression to the mean, not Project Exile, explains the decline in the best available study.
+- **Trap:** Students choose ["Project Exile worked because Richmond's homicides fell"] because they confuse [a mere temporal correlation with falling homicides] with [the statistical reality of regression to the mean].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Richmond's homicide rate had not been at a peak before Project Exile, the regression-to-the-mean explanation would be less available and the causal inference would be harder to rebut.
 - **Jurisdiction:** federal only (enforcement strategy)
@@ -334,7 +334,7 @@
 #### policy-sentencing-ratchet: The Sentencing Ratchet and Structural Disparity
 - **Rule:** The sentencing ratchet — differential arrest rates plus prior-conviction enhancements — produces exponentially diverging cumulative sentences for identical conduct without requiring any discriminatory intent; communities subject to more aggressive policing accumulate prior convictions faster, triggering enhancement regimes that lie dormant elsewhere.
 - **Source:** Chapter discussion; Braman, Fishman & Idowu, "The Prosecutor's Paradox" (forthcoming); Chapter 6 cross-reference
-- **Trap:** Students choose "the ratchet is a constitutional problem" because the disparate impact is severe; under *Whren*, *Armstrong*, and *McCleskey*, facially neutral laws that produce racially disparate outcomes are insulated from constitutional challenge absent discriminatory intent.
+- **Trap:** Students choose ["the ratchet is a constitutional problem"] because they confuse [severe racially disparate impacts] with [the discriminatory intent actually required to constitutionally challenge facially neutral laws].
 - **Difficulty:** advanced
 - **Pivot fact:** If enforcement were directed at high-crime areas without racial disparity in stop rates, the ratchet would still operate but its disparate racial impact would diminish.
 - **Jurisdiction:** universal
@@ -343,7 +343,7 @@
 #### policy-ramsey-county: Enforcement Alternatives — Ramsey County
 - **Rule:** When Ramsey County, Minnesota stopped prosecuting felony cases from non-public-safety stops: equipment stops fell 86%, searches dropped 92%, stops of Black drivers declined 66%, with no increase in crime and no change in gun seizures — demonstrating that enforcement intensity for possession offenses does not track public safety outcomes.
 - **Source:** Chapter "Enforcement Alternatives in Practice"
-- **Trap:** Students choose "fewer stops = more crime" because conventional policing doctrine assumes enforcement volume produces safety; the Ramsey County data refutes this inference directly.
+- **Trap:** Students choose ["fewer stops = more crime"] because they confuse [conventional policing doctrine equating enforcement volume with safety] with [empirical data directly refuting the link between stop volume and crime rates].
 - **Difficulty:** intermediate
 - **Pivot fact:** If crime had increased measurably after Ramsey County's policy change, it would have supported the enforcement-volume-equals-safety claim; it did not.
 - **Jurisdiction:** universal (enforcement policy)

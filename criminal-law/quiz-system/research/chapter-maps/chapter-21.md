@@ -50,7 +50,7 @@
 #### justification-vs-excuse: The Core Distinction
 - **Rule:** Necessity is a justification — the law treats the defendant's choice as correct and any third party who assists shares in the justification. Duress is an excuse — the act is still wrong, but the defendant is not blamed because unlawful coercion overrode her free will. Only justified acts can be "shared" by accomplices.
 - **Source:** Chapter introduction (opening paragraphs); Slide 3
-- **Trap:** Students treat the justification/excuse distinction as irrelevant once the defense succeeds, but it matters for derivative liability — an accomplice to a justified act has a defense; an accomplice to a merely excused act does not.
+- **Trap:** Students choose [to ignore the distinction between justification and excuse once the defense succeeds] because they confuse [the irrelevance of the distinction for the principal's own liability] with [its crucial relevance for the derivative liability of an accomplice].
 - **Difficulty:** foundational
 - **Pivot fact:** If the defendant's act is an excuse rather than a justification, a knowing helper receives no defense.
 - **Jurisdiction:** universal
@@ -63,7 +63,7 @@
 #### necessity-proportionality-standard: "Clearly Outweigh" vs. "Greater Than"
 - **Rule:** Under the common law, the harm avoided must "clearly outweigh" the harm caused. The MPC requires only that the harm avoided be "greater than" the harm caused. Both ask whether the balance tips in favor of the defendant, but the CL sets a higher proportionality threshold.
 - **Source:** Doctrinal Framework (Part I); Slide 4
-- **Trap:** Students apply "clearly outweighs" in MPC jurisdictions because it sounds more demanding and therefore correct; the MPC's lower bar is easily overlooked.
+- **Trap:** Students choose [to apply the "clearly outweighs" standard in MPC jurisdictions] because they confuse [the demanding standard of the common law] with [the MPC's lower bar of simply outweighing the harm].
 - **Difficulty:** foundational
 - **Pivot fact:** A roughly equal balancing of harms would fail the CL standard but satisfy the MPC standard.
 - **Jurisdiction:** split (traditional/MPC)
@@ -72,7 +72,7 @@
 #### necessity-cannot-compare-lives: The Categorical Bar on Homicide
 - **Rule:** Under the common law, necessity can never justify the deliberate taking of an innocent life, no matter how many lives the killing saves. This is the holding of Dudley and Stephens. The MPC rejects the categorical bar, reasoning that "the life of every individual must be taken in such a case to be of equal value and the numerical preponderance in the lives saved compared to those sacrificed surely should establish legal justification." But no reported case has applied the MPC position to uphold a homicide necessity defense.
 - **Source:** Regina v. Dudley and Stephens; Problem 4; Slide 9; Slide 10
-- **Trap:** Students assume the MPC clearly allows homicide necessity because the drafters said so; the relevant caveat is that no court in an MPC jurisdiction has ever upheld it in a reported case, so the CL bar remains the operative rule everywhere in practice.
+- **Trap:** Students choose [to assume homicide necessity is a viable defense in practice under the MPC] because they confuse [the theoretical allowance by the MPC drafters] with [the operative reality that no MPC court has ever upheld it, leaving the common law bar effectively in place].
 - **Difficulty:** intermediate
 - **Pivot fact:** Under the MPC, switching the defendant from a one-life-for-many scenario in a CL jurisdiction to an MPC jurisdiction would theoretically change the outcome — but no real court has made that move.
 - **Jurisdiction:** split (traditional/MPC) — CL: categorical bar; MPC: available but untested in any reported homicide case
@@ -85,7 +85,7 @@
 #### necessity-imminence: Strict CL Requirement vs. MPC Flexibility
 - **Rule:** The common law requires that the threat be imminent at the time of the defendant's criminal act. The MPC drops the strict imminence requirement, though imminence remains relevant to the overall balancing analysis.
 - **Source:** Doctrinal Framework (Part I); Slide 4
-- **Trap:** Students apply the MPC imminence rule to common law jurisdictions, concluding that a non-imminent threat still supports the defense; the CL treats imminence as a mandatory element.
+- **Trap:** Students choose [to allow a non-imminent threat to support a necessity defense in common law jurisdictions] because they confuse [the relaxed imminence rule of the MPC] with [the strict common law rule treating imminence as a mandatory element].
 - **Difficulty:** foundational
 - **Pivot fact:** A threat that is certain to materialize in two weeks is not imminent under the CL and would defeat the defense; under the MPC it remains part of the harm-balancing inquiry.
 - **Jurisdiction:** split (traditional/MPC)
@@ -98,7 +98,7 @@
 #### prison-escape-threshold: Judge vs. Jury on Reasonable Alternatives
 - **Rule:** Courts divide on whether specific factors — reporting to authorities before escaping, surrendering upon reaching safety — are strict legal prerequisites (decided by the judge and used to exclude the defense) or merely matters of weight and credibility (decided by the jury). Illinois (Unger) treats them as credibility factors. California (Sarnie) holds them closer to threshold requirements, finding no defense where the defendant made no showing that reporting would be futile.
 - **Source:** Problem 1 (People v. Unger; People v. Sarnie)
-- **Trap:** Students assume that failing to report to authorities automatically defeats the defense; under Unger, a jury can credit the defendant's account even without reporting, so failure to report alone is not dispositive in Illinois-type jurisdictions.
+- **Trap:** Students choose [to conclude that failing to report to authorities automatically defeats the necessity defense] because they confuse [a factor that weighs against a defendant's credibility] with [a dispositive rule barring the defense in Illinois-type jurisdictions].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the defendant shows a "history of futile complaints," or if the court is in an Unger-type jurisdiction, the failure to report does not automatically defeat the defense; in a Sarnie-type jurisdiction with no such showing, it likely does.
 - **Jurisdiction:** majority/minority — split among states; no universal rule
@@ -106,7 +106,7 @@
 #### civil-disobedience-no-exhaustion: Legal Alternatives in Indirect Civil Disobedience
 - **Rule:** When a defendant engages in "indirect" civil disobedience — violating one law to protest a broader policy — courts uniformly hold that legal alternatives are never exhausted so long as the political process (lobbying, petitioning, organizing) remains available. A defendant's past use of those channels and their failure to produce results does not establish exhaustion; it shows only that the efforts have not yet succeeded. The direct/indirect distinction matters: violating the very law being protested (direct) may be analyzed differently than violating an unrelated law (indirect).
 - **Source:** Problem 2 (State v. Higgins; State v. Ward)
-- **Trap:** Students confuse the direct/indirect distinction and assume any past political engagement establishes exhaustion; the Higgins/Schoon rule applies only to indirect disobedience, and even Ward's jury question survives only because he produced a genuine factual dispute, not a general rule that activists can always raise the defense.
+- **Trap:** Students choose [to assume any past political engagement establishes the exhaustion of alternatives for civil disobedience] because they confuse [a valid factual dispute regarding exhaustion in direct disobedience cases] with [the strict Higgins/Schoon rule barring the necessity defense for indirect disobedience].
 - **Difficulty:** advanced
 - **Pivot fact:** If Ward had no track record of prior political action and produced no expert evidence of climate harm, the Washington court would have found insufficient evidence to submit the defense to the jury — as did the Montana court in Higgins.
 - **Jurisdiction:** majority/minority — most courts follow Schoon/Higgins; Washington is the outlier allowing jury question in Ward
@@ -114,7 +114,7 @@
 #### legislative-preemption-absolute: Congressional Classification Forecloses Defense
 - **Rule:** When Congress or a legislature has already weighed the competing harms — for example by classifying marijuana as Schedule I — necessity is unavailable. A court applying the defense cannot second-guess a legislative determination of values. This rule is absolute: neither the quality of the legislative record nor state-law departures (e.g., California's medical marijuana law) affect federal preemption.
 - **Source:** Problem 3 (United States v. Oakland Cannabis Buyers' Cooperative; Gonzales v. Raich)
-- **Trap:** Students argue that a state's more rigorous evidentiary review (like Oregon's psilocybin program) should override a federal Schedule I classification; Oakland Cannabis says Congress's balancing forecloses the defense regardless of the evidentiary record behind the classification.
+- **Trap:** Students choose [to allow a state's rigorous evidentiary review to override a federal Schedule I classification] because they confuse [the state-level medical or scientific evidence] with [the Oakland Cannabis rule that Congress's balancing definitively forecloses the necessity defense].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Congress had never scheduled the substance, or had specifically exempted therapeutic use, the defense would survive.
 - **Jurisdiction:** universal — the preemption bar applies in any jurisdiction when the legislature (state or federal) has already addressed the specific conduct
@@ -126,7 +126,7 @@
 #### mpc-fault-calibration: Culpability Matching Across Charges
 - **Rule:** Under the MPC, a defendant who was at fault in creating the emergency is not automatically barred from necessity. Instead, compare the defendant's level of fault in creating the crisis (purpose, knowledge, recklessness, negligence) to the mental state required by each charged offense. If the defendant's fault is lower than what the offense demands, the defense survives for that charge. If it equals or exceeds what the offense demands, the defense fails for that charge. This means a single emergency can simultaneously justify some charges and not justify others.
 - **Source:** Doctrinal Framework (Part I) — camper hypothetical; Problem 4 — reckless driver hypothetical
-- **Trap:** Students treat fault in creating the crisis as an all-or-nothing bar (the CL rule) when applying the MPC; they either allow the defense for all charges or bar it for all charges, instead of running the comparison charge by charge.
+- **Trap:** Students choose [to treat fault in creating the crisis as an all-or-nothing bar when applying the MPC] because they confuse [the common law rule that entirely bars the defense] with [the MPC rule requiring a charge-by-charge comparison based on the requisite mens rea].
 - **Difficulty:** advanced
 - **Pivot fact:** A negligent defendant can justify intentional trespass (negligence < purpose/knowledge) but cannot justify negligent homicide (negligence = negligence); if the defendant were reckless, the analysis shifts — recklessness would equal recklessness, defeating manslaughter as well.
 - **Jurisdiction:** split (traditional/MPC) — MPC only; CL bars the defense entirely if the defendant was at fault
@@ -138,7 +138,7 @@
 #### duress-threat-threshold: Death/GBH vs. Unlawful Force
 - **Rule:** The common law requires a threat of death or serious bodily injury. The MPC requires only a threat of "unlawful force" — a significantly lower threshold. Under the MPC, a threat of minor physical harm could suffice, so long as a person of reasonable firmness in the defendant's situation would not have been able to resist.
 - **Source:** Doctrinal Framework (Part II); Slide 5; Slide 12
-- **Trap:** Students apply the MPC threshold in CL jurisdictions; a threat of something short of death or serious bodily injury does not support the defense under the CL even if it satisfies the MPC standard.
+- **Trap:** Students choose [to allow the duress defense for threats short of death or serious bodily injury in common law jurisdictions] because they confuse [the MPC's lower threshold of moderate force] with [the strict common law requirement of a threat of death or serious bodily injury].
 - **Difficulty:** foundational
 - **Pivot fact:** A threat to humiliate or financially ruin the defendant qualifies as unlawful force under the MPC but fails the CL's death/GBH requirement.
 - **Jurisdiction:** split (traditional/MPC)
@@ -147,7 +147,7 @@
 #### duress-target-scope: Close Relation vs. Any Person
 - **Rule:** Common law duress is available only when the threat targets the defendant or a close relation. The MPC extends the defense to threats against any person. This distinction matters whenever the threat targets a stranger, a distant acquaintance, or a vulnerable third party.
 - **Source:** Doctrinal Framework (Part II); Slide 5
-- **Trap:** Students apply the MPC's "any person" rule in CL jurisdictions, allowing the defense when the threat targets a stranger; the CL requires the target to be the defendant or a close relation.
+- **Trap:** Students choose [to allow the duress defense when a threat targets a stranger in common law jurisdictions] because they confuse [the MPC's broad "any person" rule] with [the common law's strict requirement that the target be the defendant or a close relative].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the threatened person is the defendant's coworker rather than a family member, the CL defense fails; the MPC defense survives.
 - **Jurisdiction:** split (traditional/MPC)
@@ -160,7 +160,7 @@
 #### duress-imminence-proximity: Rejecting the Strict Physical Presence Test
 - **Rule:** A growing number of federal circuits (Seventh, Ninth, Sixth, D.C.) reject the strict physical proximity test for imminence in duress cases. Under this approach, a pattern of continuous, sustained, and unpredictable abuse can create a reasonable perception of imminent threat even when the abuser is not physically present at the time of the crime. The Fifth and Tenth Circuits apply a stricter test, holding that imminence requires physical presence.
 - **Source:** United States v. Dingwall (Seventh Circuit); Problem 5 (United States v. Contento-Pachon); Slide 13; Slide 14
-- **Trap:** Students apply the strict physical proximity test because it is easier to administer, missing that the majority circuits have relaxed it; or conversely, students apply the relaxed Dingwall rule in a Fifth or Tenth Circuit case where the strict test still governs.
+- **Trap:** Students choose [to universally apply either the strict physical proximity test or the relaxed Dingwall rule] because they confuse [the strict proximity test still governing the Fifth and Tenth Circuits] with [the relaxed standard adopted by the majority of circuits].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Dingwall's abuser had been present in the store during each robbery, even the strictest circuit would find imminence; the case turns on whether continuous abuse without physical presence can satisfy imminence.
 - **Jurisdiction:** split (majority/minority) — Seventh/Ninth/Sixth/D.C. Circuits: no strict proximity requirement; Fifth/Tenth Circuits: stricter test
@@ -169,7 +169,7 @@
 #### duress-corrupt-authorities: When "No Reasonable Alternative" Includes Corrupt Police
 - **Rule:** When the defendant reasonably believed that reporting to authorities would be futile or dangerous (e.g., the police are paid informants for the threatening party), the "no reasonable legal alternative" element is satisfied — or at least presents a jury question — as in Contento-Pachon. The key question is whether the defendant's belief was objectively reasonable under the circumstances.
 - **Source:** Problem 5 (United States v. Contento-Pachon)
-- **Trap:** Students treat any availability of police as automatically defeating the "no alternative" element; the test is whether a reasonable person in the defendant's circumstances would have found police protection a genuine option.
+- **Trap:** Students choose [to automatically defeat the "no alternative" element whenever police are physically available] because they confuse [the theoretical availability of law enforcement] with [the actual test of whether a reasonable person in the defendant's circumstances would have found police protection a genuine option].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the defendant had access to uncorrupted law enforcement in the country where her family was threatened, the "no alternative" argument weakens significantly.
 - **Jurisdiction:** universal — applies in all duress contexts, but fact-intensive
@@ -181,7 +181,7 @@
 #### reasonable-firmness-objective: The Objective Standard and Professional Role
 - **Rule:** The "person of reasonable firmness in the defendant's situation" is an objective standard. "Situation" includes stark physical facts like size, strength, age, and health, but excludes temperament. Courts have not resolved whether professional role (e.g., military officer) raises the bar for what constitutes reasonable firmness. In Fleming, the court's finding that other soldiers in the same camp refused to cooperate was powerful evidence that a person of reasonable firmness could have resisted.
 - **Source:** Problem 6 (United States v. Fleming); Doctrinal Framework (Part II)
-- **Trap:** Students conflate the objective "reasonable firmness" standard with a fully subjective standard (what did this defendant believe?) or treat professional obligations as automatically heightening the standard rather than treating them as an unresolved question.
+- **Trap:** Students choose [to apply a fully subjective test or automatically heighten the standard for professional obligations in duress cases] because they confuse [the defendant's personal subjective beliefs] with [the objective "person of reasonable firmness" standard].
 - **Difficulty:** advanced
 - **Pivot fact:** If all other prisoners in Fleming's camp had also cooperated (none resisting), the inference that reasonable firmness required resistance would be far harder to draw.
 - **Jurisdiction:** universal — but professional-role question is unresolved
@@ -189,7 +189,7 @@
 #### burden-of-proof-duress: Who Bears the Burden
 - **Rule:** In federal court, the defendant bears the burden of proving duress by a preponderance of the evidence (Dixon v. United States). In many states, once the defendant produces sufficient evidence, the prosecution must disprove duress beyond a reasonable doubt. The same evidence of coercion may succeed or fail depending solely on which party bears the burden.
 - **Source:** Doctrinal Framework (Part II) — burden paragraph; Dixon v. United States
-- **Trap:** Students assume the prosecution always bears the burden of disproving affirmative defenses; federal duress reverses this and places it on the defendant.
+- **Trap:** Students choose [to place the burden of disproving federal duress on the prosecution] because they confuse [the general rule that the prosecution disproves affirmative defenses] with [the specific federal rule that places the burden of proving duress on the defendant].
 - **Difficulty:** intermediate
 - **Pivot fact:** In a close case where the evidence of coercion is credible but not overwhelming, shifting the burden from prosecution to defense could flip the verdict.
 - **Jurisdiction:** split (majority/minority) — federal: defendant bears burden; many states: prosecution must disprove
@@ -201,7 +201,7 @@
 #### duress-murder-bar: Traditional Categorical Bar
 - **Rule:** Under the common law, duress is categorically unavailable as a defense to murder. The rationale: a defendant may not take another life to save her own. Under the MPC, duress is available for all crimes, including murder. A small number of states (Arkansas, Connecticut) have followed the MPC.
 - **Source:** Doctrinal Framework (Part II); Slide 5 — homicide row
-- **Trap:** Students apply the MPC murder availability rule in CL jurisdictions, or fail to distinguish the murder bar from the felony murder exception carved out in Problem 7.
+- **Trap:** Students choose [to allow the duress defense for murder in common law jurisdictions] because they confuse [the MPC rule allowing duress for murder] with [the strict common law bar on intentional murder and its distinct felony murder exception].
 - **Difficulty:** foundational
 - **Pivot fact:** If the defendant pulled the trigger herself (intentional killing), even MPC-adjacent states apply the murder bar; the felony murder exception is narrower.
 - **Jurisdiction:** split (traditional/MPC)
@@ -210,7 +210,7 @@
 #### felony-murder-duress-exception: Breaking the Chain of Felony Murder Liability
 - **Rule:** Several states (Michigan, Maryland, California, Ohio) hold that duress may be raised as a defense to felony murder if the defense is available for the underlying predicate felony. The rationale: the traditional murder bar assumes the defendant chose between lives, but in felony murder the defendant is charged with murder for participating in a lesser crime — not for choosing to kill. If the defendant committed the underlying felony under duress, the chain of felony murder liability is broken.
 - **Source:** Problem 7 (People v. Reichard; McMillan v. State)
-- **Trap:** Students apply the blanket common law murder bar to felony murder without distinguishing the Michigan/Maryland exception; or they extend the exception to cases where the defendant knew her accomplice was armed and likely to kill, breaking the "not choosing between lives" rationale of the exception.
+- **Trap:** Students choose [to automatically apply the common law murder bar to felony murder or extend the exception when the accomplice is known to be deadly] because they confuse [the blanket common law murder bar] with [the specific Michigan/Maryland exception for felony murder where the defendant is not choosing between innocent lives].
 - **Difficulty:** advanced
 - **Pivot fact:** If the defendant in Reichard had known that Beatty intended to kill (not just rob), the "not choosing between lives" logic collapses and the exception may not apply — the awareness of likely lethal violence changes the analysis.
 - **Jurisdiction:** majority/minority — CL: murder bar applies to all forms; Michigan/Maryland/California/Ohio: exception for felony murder when predicate felony was coerced
@@ -222,7 +222,7 @@
 #### duty-to-protect-standard: Higher Bar for Omissions Involving One's Own Child
 - **Rule:** The Webb jury's split verdict — acquitting on accessory after the fact but convicting on failure to protect a child — implies that courts and juries apply a higher standard of "reasonable firmness" when the crime is a failure to protect one's own child. The defendant who is most vulnerable to coercion (her child is the abuser's leverage) may face the most demanding standard. This paradox is unresolved in the doctrine.
 - **Source:** Problem 8 (United States v. Webb; People v. Romero)
-- **Trap:** Students assume the "person of reasonable firmness" standard is invariant across crime types; the Webb split verdict suggests the standard implicitly accounts for the defendant's legal duty to protect when the victim is her own child.
+- **Trap:** Students choose [to treat the "person of reasonable firmness" standard as invariant across all crime types] because they confuse [a rigid, universal application of the reasonable firmness test] with [a contextual application that implicitly accounts for specific duties, such as a parent's legal duty to protect their child].
 - **Difficulty:** advanced
 - **Pivot fact:** If the victim were a stranger rather than June's child, the jury likely would have applied the same standard it used for the accessory count and acquitted on both.
 - **Jurisdiction:** universal — no jurisdiction has explicitly codified the higher standard, but it emerges from jury behavior and appellate analysis
@@ -234,7 +234,7 @@
 #### bwt-admissibility-split: The Evidentiary Gap
 - **Rule:** Expert testimony on battering and its effects (including "learned helplessness" and battered woman syndrome) is admissible in duress cases in the Seventh, Ninth, Sixth, and D.C. Circuits. The Fifth and Tenth Circuits hold it is "inherently subjective" and irrelevant to an objective reasonable-person standard. The Supreme Court has not resolved the split (Dixon v. United States addressed burden of proof but not admissibility). The majority view treats battering evidence as an objective circumstance — comparable to size, age, or disability — that informs how a reasonable person in that situation would have perceived the threat.
 - **Source:** Part III — The Evidentiary Gap; United States v. Dingwall; United States v. Willis (Fifth Circuit)
-- **Trap:** Students treat the minority (Fifth/Tenth Circuit) position as subjectivizing the test; the majority view insists this evidence is objective — it describes the defendant's circumstances, not her unique psychological reaction.
+- **Trap:** Students choose [to exclude Battered Woman Syndrome evidence under the objective duress standard in majority jurisdictions] because they confuse [the minority view that such evidence improperly subjectivizes the test] with [the majority view that the evidence objectively describes the defendant's circumstances].
 - **Difficulty:** advanced
 - **Pivot fact:** Excluding battering evidence shifts the decision from the jury (which would hear the full context) to the judge (who removes the case from the jury on a truncated record); admitting it does not guarantee acquittal but ensures the jury decides with complete information.
 - **Jurisdiction:** split (majority/minority) — Seventh/Ninth/Sixth/D.C. Circuits: admissible; Fifth/Tenth Circuits: excludable
@@ -243,7 +243,7 @@
 #### coercive-control-vs-bws: From Pathology to Pattern
 - **Rule:** Battered woman syndrome (BWS) explains why a victim might not leave, but frames the question as "what is wrong with the defendant?" Coercive control (Evan Stark) shifts the frame to the abuser's systematic pattern of domination — economic control, isolation, surveillance, threats against children — making the threat "ambient and continuous." At least a dozen states have codified coercive control in civil domestic violence statutes; Hawaii alone has criminalized it. Coercive control doctrine directly responds to the imminence problem: the threat is always present because the abuser's regime of control is always in effect.
 - **Source:** Part III — From Battered Woman Syndrome to Coercive Control; United States v. Marenghi (quoted)
-- **Trap:** Students conflate BWS and coercive control as interchangeable frameworks; they serve different purposes — BWS explains the victim's psychology, coercive control explains the abuser's conduct and eliminates the need for a discrete imminent threat.
+- **Trap:** Students choose [to treat Battered Woman Syndrome and coercive control as interchangeable frameworks] because they confuse [Battered Woman Syndrome, which explains the victim's psychological state] with [coercive control, which focuses on the abuser's conduct and eliminates the need for an imminent threat].
 - **Difficulty:** advanced
 - **Pivot fact:** If the defendant's relationship fits a codified coercive control statute, she can establish the "threat" element without identifying a specific discrete threat at the time of the crime.
 - **Jurisdiction:** majority/minority — civil statutes in ~12 states; Hawaii criminalizes it; no jurisdiction has adopted a standalone coercive control criminal defense
@@ -256,7 +256,7 @@
 #### reform-three-pathways: Doctrinal Reform vs. Sentencing Reform vs. New Defense
 - **Rule:** Three pathways have emerged to address the mismatch between traditional duress doctrine and intimate partner violence: (1) Doctrinal reform — relax imminence, admit battering evidence, extend duress to homicide, redefine the "recklessly placed" bar. (2) Sentencing-side reform (Survivors' Justice Acts) — intervene at sentencing and post-conviction; leave the conviction intact but allow courts to consider abuse as mitigation; now enacted in New York (2019), Illinois (2015/2024), Oklahoma (2024), Georgia (2025), New Jersey (2026). (3) A new standalone coercive control defense — bypass the traditional defense entirely. The three pathways differ in political feasibility, doctrinal completeness, and whether the conviction is left intact.
 - **Source:** Part III — Three Reform Pathways; Slide 19
-- **Trap:** Students assume that Survivors' Justice Acts reform the duress defense; they do not — they are sentencing statutes that leave the conviction and the doctrine untouched.
+- **Trap:** Students choose [to use Survivors' Justice Acts to acquit defendants under the duress doctrine] because they confuse [substantive reforms to the duress defense] with [sentencing statutes that merely alter punishment while leaving the underlying conviction and doctrine untouched].
 - **Difficulty:** advanced
 - **Pivot fact:** Under a Survivors' Justice Act, a defendant whose duress defense failed at trial still stands convicted; under doctrinal reform or a new defense, she might have been acquitted.
 - **Jurisdiction:** majority/minority — Survivors' Justice Acts in five states; no jurisdiction has adopted a standalone coercive control criminal defense

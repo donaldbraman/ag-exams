@@ -40,7 +40,7 @@
 #### agreement-inference: Inferring Agreement from Coordinated Conduct
 - **Rule:** Conspirators rarely announce their agreements. Courts infer agreement from coordinated conduct that has no plausible innocent explanation. No direct evidence—no written plan, no recorded conversation—is required.
 - **Source:** Dan Markel murder case (chapter introduction); Justice Coleridge's 1837 jury instruction (quoted in "Breaking Down the Elements")
-- **Trap:** Students choose ["there is no conspiracy because no one explicitly agreed"] because they confuse [the evidentiary standard of direct proof] with [the legal standard of inferred agreement from coordinated conduct].
+- **Trap:** Students choose [there is no conspiracy because no one explicitly agreed] because they confuse [the evidentiary standard of direct proof] with [the legal standard of inferred agreement from coordinated conduct].
 - **Difficulty:** foundational
 - **Pivot fact:** If each communication and payment had an independent, plausible innocent explanation, the inference of agreement would fail.
 - **Jurisdiction:** universal

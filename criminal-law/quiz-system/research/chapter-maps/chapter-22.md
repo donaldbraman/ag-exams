@@ -43,7 +43,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### justification-paradigm: Self-Defense as Justification
 - **Rule:** Self-defense is the paradigmatic *justification* — the defendant claims the use of force was morally right, not merely excusable. This distinguishes it from excuses (duress, insanity) where the act is wrong but the actor is not blamed.
 - **Source:** Chapter opening; Slide 4
-- **Trap:** Students classify self-defense as an excuse because the defendant avoids punishment, conflating the outcome (no conviction) with the doctrinal category (justification vs. excuse).
+- **Trap:** Students choose [to classify self-defense as an excuse] because they confuse [the outcome of no conviction] with [the doctrinal category of justification versus excuse].
 - **Difficulty:** foundational
 - **Pivot fact:** If self-defense is a justification, a third party who helps the defendant is also justified; if it were an excuse, the helper's liability would not be derivative.
 - **Jurisdiction:** universal
@@ -56,7 +56,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### objective-reasonableness-standard: Objective, Not Purely Subjective
 - **Rule:** The "reasonably believes" standard requires an objective element — what a reasonable person in the defendant's situation would have believed, not merely what the defendant personally believed. A purely subjective standard (whatever was "reasonable to him") would allow defendants with bizarre or aberrational thought patterns to set their own standards for deadly force.
 - **Source:** *People v. Goetz*; NY Penal Law § 35.15; Slide 7; Slide 10
-- **Trap:** Students choose to apply a purely external "objective standard" because they conflate objectivity with ignoring the defendant's circumstances, missing the court's holding that prior experiences, physical condition, and knowledge of the attacker are all incorporated.
+- **Trap:** Students choose [to apply a purely external "objective standard"] because they confuse [the legal requirement of objectivity] with [ignoring the defendant's circumstances, such as prior experiences, physical condition, and knowledge of the attacker].
 - **Difficulty:** foundational
 - **Pivot fact:** If the standard were purely subjective, Goetz's belief would be self-validating regardless of how aberrational — reinstating the objective element was what allowed the indictment to stand.
 - **Jurisdiction:** universal (though MPC uses a modified subjective standard for lesser-included recklessness/negligence)
@@ -65,7 +65,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### situational-incorporation: Prior Experiences and the Defendant's Circumstances
 - **Rule:** The objective standard incorporates the defendant's prior experiences, physical attributes, and particular knowledge of the attacker. A mugging victim's prior history is not merely subjective fear but informs what a reasonable person in that situation would have believed. The doctrine provides no mechanism for distinguishing prior experiences that legitimately inform the reasonableness inquiry from prior experiences that encode racial bias.
 - **Source:** *People v. Goetz* (Reasoning section); post-*Goetz* analysis (chapter text after case)
-- **Trap:** Students assume the defendant's personal fears automatically count as reasonable because the court uses the phrase "reasonable person in the defendant's situation," missing that the court still requires a *reasonable* person having those prior experiences would have reacted the same way.
+- **Trap:** Students choose [to assume the defendant's personal fears automatically count as reasonable] because they confuse [a purely subjective standard based on personal fears] with [the court's requirement that a reasonable person having those prior experiences would have reacted the same way].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Goetz had no prior mugging history, the incorporation argument would be weaker and a reasonable-person jury might have reached a different result.
 - **Jurisdiction:** universal (the specific contours vary by jurisdiction but the basic principle is widely shared)
@@ -74,7 +74,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### race-and-reasonableness: Whose Fear Is Reasonable?
 - **Rule:** The objective standard asks what a reasonable person in the defendant's situation would have believed, but "the defendant's situation" may include a racialized perception of danger. The doctrine has no mechanism for excluding racial bias from the reasonableness inquiry. Goetz's taped statement described intent to "murder them" and "make them suffer," yet the jury acquitted on all shooting charges. The case posed a question the doctrine has never fully answered: whose fears does the criminal legal system treat as reasonable?
 - **Source:** Post-*Goetz* analysis (chapter pp. 103–108); Slide 14
-- **Trap:** Students assume racial bias is excluded from the reasonableness inquiry because it is called an "objective" standard, missing that the doctrine has no mechanism for distinguishing racially biased prior experiences from legitimately informative ones.
+- **Trap:** Students choose [to assume racial bias is excluded from the reasonableness inquiry] because they confuse [an "objective" standard] with [a doctrine having a mechanism for distinguishing racially biased prior experiences from legitimately informative ones].
 - **Difficulty:** advanced
 - **Pivot fact:** If the four youths had been white, the racial dimension of the reasonableness inquiry would have been absent from the jury's calculus, potentially changing both deliberations and outcome.
 - **Jurisdiction:** universal (the doctrinal gap is not jurisdiction-specific, though its effects vary by local demographics and jury composition)
@@ -87,7 +87,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### imminence-requirement: The Traditional Rule
 - **Rule:** The threatened harm must be *immediate*. A person told "I will kill you next week" cannot use deadly force today. The logic is that if harm is not yet upon the defendant, there is still time to retreat, call police, or seek alternatives. The requirement forecloses self-defense claims based on future or speculative threats.
 - **Source:** Chapter Part I (Doctrinal Framework); *State v. Norman* (Majority); Slide 6
-- **Trap:** Students conflate the imminence requirement with the reasonable-belief requirement because both involve whether the defendant was justified in acting, missing that imminence is a temporal bar that forecloses the defense entirely before reasonableness is even reached.
+- **Trap:** Students choose [to conflate the imminence requirement with the reasonable-belief requirement] because they confuse [whether the defendant was justified in acting] with [the imminence requirement acting as a temporal bar that forecloses the defense entirely before reasonableness is reached].
 - **Difficulty:** foundational
 - **Pivot fact:** If Norman's husband had been awake and reaching for a weapon at the moment she fired, the imminence requirement would have been satisfied regardless of the abuse history.
 - **Jurisdiction:** universal (both CL and MPC require imminence, though MPC's requirement is slightly more flexible in practice for reckless/negligent homicide claims)
@@ -96,7 +96,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### imminence-battered-spouse: The Structural Problem for Abuse Survivors
 - **Rule:** The imminence requirement systematically prevents juries from hearing the facts needed to assess reasonableness in battered-spouse cases. A jury that hears only that a woman shot a sleeping man, without the twenty years preceding that moment, is not making an informed reasonableness judgment — it is judging a snapshot. The *Norman* majority held the imminence requirement was not satisfied when the abuser was asleep, even after a "reign of terror."
 - **Source:** *State v. Norman* (Majority and Dissent); "Telling the Full Story" section
-- **Trap:** Students treat the majority's ruling as a factual determination that Norman was not really in danger because they read imminence as a factual question about actual threat level, missing that the doctrine's definition of "imminent" is calibrated to single acute confrontations and forecloses the jury from reaching the reasonableness question at all.
+- **Trap:** Students choose [to treat the majority's ruling as a factual determination that Norman was not really in danger] because they confuse [imminence as a factual question about actual threat level] with [the doctrine's definition of "imminent" which is calibrated to single acute confrontations and forecloses the jury from reaching the reasonableness question].
 - **Difficulty:** intermediate
 - **Pivot fact:** If North Carolina had adopted the MPC approach or a "reasonable battered person" standard, the imminence instruction might have been submitted to the jury.
 - **Jurisdiction:** split — majority of jurisdictions follow the traditional acute-confrontation model; a minority and reform advocates urge a continuous-threat or coercive-control interpretation of imminence
@@ -105,7 +105,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### imminence-dissent-continuous-threat: The Dissent's Reframing
 - **Rule:** The dissent in *Norman* argued that "imminent" should be informed by the defendant's perceptions and all the circumstances, not bounded merely by measurable time. For a battered wife who believes escape is impossible and death inevitable, the next attack — which could be the final one — is perpetually imminent. A continuing assault may not pause because the abuser sleeps.
 - **Source:** *State v. Norman* (Dissent, Martin, J.)
-- **Trap:** Students read the dissent as arguing Norman should simply be acquitted because the abuse was severe enough, missing that the dissent's claim is narrower — it argues for a contextual interpretation of "imminent," not for abolishing the imminence requirement.
+- **Trap:** Students choose [to read the dissent as arguing Norman should simply be acquitted because the abuse was severe enough] because they confuse [abolishing the imminence requirement entirely] with [the dissent's narrower argument for a contextual interpretation of "imminent"].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the jury had been instructed on the dissent's interpretation of imminence — that a twenty-year assault constitutes a continuing "affray" — they would have reached the reasonableness question rather than being foreclosed by the instruction's denial.
 - **Jurisdiction:** minority (a small number of jurisdictions have adopted broader imminence definitions; most retain the traditional requirement)
@@ -113,7 +113,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### coercive-control-and-imminence: Cross-Chapter Connection
 - **Rule:** The coercive control framework (Chapter 21) reframes imminence around the continuity of threat. If the abuser has established ongoing control backed by credible threats of lethal violence, the threat is continuous — the lull in violence may be the only window when self-defense is physically possible. The chapter explicitly connects the two frameworks.
 - **Source:** Chapter text at Part III conclusion (p. 195)
-- **Trap:** Students analyze self-defense imminence in isolation because they treat each chapter's doctrine as self-contained, missing the chapter's explicit instruction to apply the coercive control framework from Chapter 21 to reframe what counts as a continuous threat.
+- **Trap:** Students choose [to analyze self-defense imminence in isolation] because they confuse [treating each chapter's doctrine as self-contained] with [the explicit instruction to apply the coercive control framework to reframe what counts as a continuous threat].
 - **Difficulty:** advanced
 - **Pivot fact:** If the legal system had classified Norman's relationship as coercive control (Chapter 21 framework) and admitted that evidence at trial, a jury might have understood the lull as the only practical window for self-defense.
 - **Jurisdiction:** emerging — a small number of jurisdictions are developing coercive control doctrine; not yet widespread
@@ -125,7 +125,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### expert-testimony-battering: Admissibility and Limitations
 - **Rule:** Most states now permit expert testimony on battering and its effects in self-defense cases (*State v. Kelly*, 1984). By 1996, all fifty states had admitted such testimony. The preferred framing is "evidence concerning battering and its effects" rather than "battered woman syndrome" — the latter pathologizes the defendant and implies a single pattern of response. Expert testimony does not automatically produce acquittals: 63 percent of convictions were upheld even when such testimony was admitted.
 - **Source:** "Expert Testimony and Battering" section; *State v. Kelly* (cited); 1996 VAWA report (cited)
-- **Trap:** Students assume expert battering testimony will secure acquittal because they treat it as dispositive proof of reasonable fear, missing that 63 percent of convictions were upheld even when such testimony was admitted.
+- **Trap:** Students choose [to assume expert battering testimony will secure acquittal] because they confuse [evidence functioning as dispositive proof of reasonable fear] with [evidence that is admissible but not dispositive, given that convictions are frequently upheld regardless].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the label "battered woman syndrome" is used (implying pathology) rather than "evidence of battering and its effects" (implying context), the jury may treat the testimony as explaining mental illness rather than as evidence of objective threat.
 - **Jurisdiction:** majority (all fifty states admit the evidence; federal circuits are split — Seventh, Sixth, Ninth, D.C. admit; Fifth and Tenth exclude)
@@ -137,7 +137,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### duty-to-retreat-general: Retreat Before Using Deadly Force
 - **Rule:** In retreat jurisdictions, a defendant must retreat before using deadly force if a safe retreat is possible. New York requires retreat to "complete personal safety." The requirement exists because if harm is not yet upon the defendant there are alternative means of protection — flight is one. Stand-your-ground jurisdictions impose no such duty.
 - **Source:** Chapter Part I (Doctrinal Framework); NY Penal Law § 35.15; jurisdictional comparison table
-- **Trap:** Students apply the duty-to-retreat to all uses of force because the general formulation of self-defense does not specify the limit, missing that the retreat requirement is triggered only by deadly force, not by any use of physical force.
+- **Trap:** Students choose [to apply the duty-to-retreat to all uses of force] because they confuse [the general formulation of self-defense] with [the specific rule that the retreat requirement is triggered only by deadly force].
 - **Difficulty:** foundational
 - **Pivot fact:** If a safe escape route existed and the defendant knew it, a New York jury would never reach the question of reasonable fear — the claim fails at retreat.
 - **Jurisdiction:** split — traditional jurisdictions require retreat; majority of modern U.S. jurisdictions (including Florida, California) do not
@@ -146,7 +146,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### castle-doctrine-scope: Exception to Duty to Retreat
 - **Rule:** Every jurisdiction recognizes that a person attacked in their own home need not retreat — "It is not now, and never has been the law that a man assailed in his own dwelling is bound to retreat." But jurisdictions sharply divide on whether this extends to the yard, car, or workplace, and whether it applies when the attacker is a co-occupant.
 - **Source:** Chapter Part I; *People v. Tomlins* (quoted); jurisdictional comparison table; Slide 17; Slide 18
-- **Trap:** Students assume the castle doctrine applies automatically whenever the defendant is at home because the paradigm case involves a stranger breaking in, missing that the doctrine is complicated or eliminated in some jurisdictions when the attacker is a co-occupant.
+- **Trap:** Students choose [to assume the castle doctrine applies automatically whenever the defendant is at home] because they confuse [the paradigm case involving a stranger breaking in] with [jurisdictional variations where the doctrine is complicated or eliminated when the attacker is a co-occupant].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Norman's husband had been a stranger rather than a co-occupant, the castle doctrine in most jurisdictions would have applied more cleanly.
 - **Jurisdiction:** universal (doctrine exists everywhere) but scope varies — New York applies it to co-occupants; Florida extends it to vehicles and creates a statutory presumption of fear
@@ -155,7 +155,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### stand-your-ground-statute: Florida's No-Retreat Regime
 - **Rule:** Florida's Stand Your Ground statute (Fla. Stat. § 776.012(2)) eliminates the duty to retreat for a person in a place where she has a right to be and is not engaged in criminal activity. A defendant may move to dismiss before trial based on SYG immunity. As of 2017, the prosecution must disprove immunity by clear and convincing evidence at the immunity hearing.
 - **Source:** Chapter Part IV; *Alexander v. State*; *Spencer v. State*
-- **Trap:** Students assume SYG immunity is straightforward to obtain because the statute appears to create a broad right to stand one's ground, missing that credibility determinations and factual findings at immunity hearings can deny immunity even to defendants with documented abuse histories and expert testimony.
+- **Trap:** Students choose [to assume SYG immunity is straightforward to obtain] because they confuse [a broad statutory right to stand one's ground] with [the reality that credibility determinations and factual findings at immunity hearings can deny immunity].
 - **Difficulty:** intermediate
 - **Pivot fact:** In Alexander's era (pre-2017), she bore the burden of proving immunity by preponderance; if the post-2017 prosecution-burden rule had applied, the outcome of her immunity hearing might have differed.
 - **Jurisdiction:** majority/minority — about half of U.S. states have SYG laws; Florida's procedural framework (immunity hearing + burden shift) is a specific feature of Florida law
@@ -167,7 +167,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### initial-aggressor-bar: No Self-Defense for the Fight-Starter
 - **Rule:** A person who starts a fight cannot claim self-defense. The right may revive if: (a) the initial aggressor withdraws and *clearly communicates* that withdrawal, or (b) in some jurisdictions, the victim responds to non-deadly provocation with sudden, disproportionate deadly force.
 - **Source:** Chapter Part I (Doctrinal Framework); jurisdictional comparison table (initial aggressor row)
-- **Trap:** Students assume withdrawal automatically revives self-defense rights because they focus on the physical act of stepping back, missing that the revivification rule requires *clear communication* of withdrawal — silent retreat is insufficient.
+- **Trap:** Students choose [to assume withdrawal automatically revives self-defense rights] because they confuse [the physical act of stepping back] with [the revivification rule requiring clear communication of withdrawal].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the initial aggressor clearly communicates withdrawal and the victim still attacks, the aggressor's right to self-defense revives — a factual dispute about whether communication was clear can determine guilt or acquittal.
 - **Jurisdiction:** universal (right exists everywhere; conditions for revival vary — Florida adds a "criminal activity" bar)
@@ -179,7 +179,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### imperfect-self-defense: Honest but Unreasonable Belief
 - **Rule:** In California (and some other jurisdictions), a defendant who *honestly but unreasonably* believed deadly force was necessary is entitled to a partial defense. The honest belief negates malice — the mental state distinguishing murder from manslaughter — reducing the charge to voluntary manslaughter. In most jurisdictions, an unreasonable belief is no defense at all.
 - **Source:** Chapter Part I; jurisdictional comparison table; *People v. Schuller* (2023) discussion; Slide 12
-- **Trap:** Students apply imperfect self-defense in all-or-nothing jurisdictions because they treat an honest belief as always worth something legally, missing that most jurisdictions require a *reasonable* belief for any self-defense benefit and give no effect to honest-but-unreasonable beliefs.
+- **Trap:** Students choose [to apply imperfect self-defense in all-or-nothing jurisdictions] because they confuse [an honest belief having legal value] with [the requirement of a reasonable belief, where honest-but-unreasonable beliefs have no legal effect].
 - **Difficulty:** intermediate
 - **Pivot fact:** A defendant in New York whose belief is honest but unreasonable is guilty of murder; the same defendant in California is guilty only of manslaughter.
 - **Jurisdiction:** majority/minority — California and some states recognize it; most jurisdictions treat self-defense as all-or-nothing
@@ -188,7 +188,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### schuller-genuineness-only: The California Genuineness Inquiry
 - **Rule:** In *People v. Schuller* (Cal. 2023), the California Supreme Court held that failure to instruct on imperfect self-defense was constitutional error when there was evidence of genuine (if bizarre or delusional) belief. Justice Liu's concurrence: "It should not matter why the killer perceived a need for self-defense" — the jury at the guilt phase "need not decide whether the defendant's belief was delusional, but only decide whether that belief was genuine." If genuineness alone is the threshold, this benefits both defendants with severe mental illness and abuse survivors whose threat perception has been shaped by years of violence.
 - **Source:** *People v. Schuller* discussion (Part III of chapter)
-- **Trap:** Students cite the Liu concurrence as the California rule because it appears in a Supreme Court opinion, missing that concurrences are not binding law — the *Schuller* majority's holding is narrower than Justice Liu's genuineness-only framework.
+- **Trap:** Students choose [to cite the Liu concurrence as the California rule] because they confuse [a concurrence appearing in a Supreme Court opinion] with [binding law such as the narrower holding of the majority].
 - **Difficulty:** advanced
 - **Pivot fact:** If genuineness is the only inquiry, Norman's honest belief in imminent danger — even if the majority deemed it legally insufficient for perfect self-defense — would at minimum support an imperfect self-defense instruction in California.
 - **Jurisdiction:** California (and potentially minority jurisdictions that recognize imperfect self-defense, depending on how each state frames the inquiry)
@@ -200,7 +200,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### syg-immunity-procedure: Pre-Trial Immunity Hearing
 - **Rule:** Florida's SYG immunity hearing is not a trial — no jury, only a judge who conducts an evidentiary hearing, weighs credibility, and makes factual findings. A grant of immunity also bars civil liability. A denial sends the case to a full jury trial where self-defense can be raised again. The defendant in Alexander's era bore the burden of proving immunity by preponderance; the prosecution now must disprove it by clear and convincing evidence.
 - **Source:** *Alexander v. State*; Chapter Part IV
-- **Trap:** Students assume a denied SYG immunity claim forecloses self-defense entirely because they treat the immunity hearing as the only opportunity to raise the defense, missing that self-defense remains available before the jury at trial under the standard reasonable-doubt framework.
+- **Trap:** Students choose [to assume a denied SYG immunity claim forecloses self-defense entirely] because they confuse [the immunity hearing] with [the only opportunity to raise the defense, missing that self-defense remains available before the jury at trial].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the burden-shift (post-2017) had applied to Alexander's case, the prosecution would have needed to disprove her immunity claim by clear and convincing evidence — a much higher bar than preponderance.
 - **Jurisdiction:** Florida (other SYG states vary in procedural implementation)
@@ -208,7 +208,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### mandatory-minimum-sentencing: 10-20-Life and Prosecutorial Leverage
 - **Rule:** Florida's 10-20-Life statute imposed mandatory minimums based on gun use regardless of outcome: pull a gun (10 years), pull the trigger (20 years), shoot someone (25 to life). The trial judge had no discretion. The statute transformed prosecutorial charging decisions and plea negotiations — Alexander's three-year plea offer became a threat of sixty years on retrial after she won her appeal.
 - **Source:** "The Trial and 10-20-Life" section
-- **Trap:** Students analyze Alexander's case solely through self-defense doctrine because the doctrinal question (reasonable belief) dominates the case discussion, missing that the mandatory minimum sentencing regime — which gave the prosecutor a threat of sixty years on retrial — determined the outcome as powerfully as any doctrinal ruling.
+- **Trap:** Students choose [to analyze Alexander's case solely through self-defense doctrine] because they confuse [the doctrinal question of reasonable belief] with [the practical reality that the mandatory minimum sentencing regime determined the outcome via prosecutorial threat].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Florida had no mandatory minimum for the trigger-pull tier, the trial judge might have imposed a sentence proportionate to the harm caused (zero injuries), and the appeal's threat of sixty years would not have existed.
 - **Jurisdiction:** Florida (other states have varying mandatory minimums; federal law has similar provisions for gun use in crimes of violence)
@@ -216,7 +216,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### syg-racial-disparities: Empirical Evidence on Race and Outcomes
 - **Rule:** Empirical research associates SYG laws with an 8 to 11 percent increase in firearm homicides nationally (*Degli Esposti et al.*, JAMA, 2022; RAND, 2023). Homicides involving white shooters and Black victims are ruled justifiable at significantly higher rates than the reverse. The Alexander/*Spencer* contrast — one Black woman fires a warning shot and faces twenty years; one man shoots an unarmed person and is discharged before trial — illustrates how the doctrine's practical operation can diverge dramatically by race and gender.
 - **Source:** *Spencer v. State* comparison; Chapter conclusion; empirical citations at p. 276
-- **Trap:** Students explain the Alexander/*Spencer* disparity entirely through the burden-shift because it is the most obvious structural difference, missing that the chapter explicitly identifies judicial credibility determinations, racial dynamics, and mandatory minimums as contributing factors that the burden-shift alone does not explain.
+- **Trap:** Students choose [to explain the Alexander/Spencer disparity entirely through the burden-shift] because they confuse [the burden-shift as the most obvious structural difference] with [a complex set of contributing factors including judicial credibility determinations, racial dynamics, and mandatory minimums].
 - **Difficulty:** advanced
 - **Pivot fact:** If Alexander had been the one shooting an unarmed person in 2025 (post-burden-shift), she might still have faced unfavorable credibility findings at the immunity hearing, suggesting the burden allocation is only one factor.
 - **Jurisdiction:** universal concern (racial disparities in SYG application documented nationally, not only Florida)
@@ -224,7 +224,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### burden-of-proof-self-defense: Who Bears the Burden
 - **Rule:** Once a defendant raises self-defense, the prosecution generally bears the burden of disproving it beyond a reasonable doubt. A jury instruction that requires the defendant to prove the victim guilty of aggression beyond a reasonable doubt improperly shifts the burden. This was the reversible error in *Alexander* — the instruction required proof "beyond a reasonable doubt" that Gray committed aggravated battery before self-defense could apply.
 - **Source:** *Alexander v. State* (Jury Instruction Error section)
-- **Trap:** Students assume a successful burden-shift appeal produces a favorable outcome for the defendant because reversal sounds like a win, missing that Alexander's reversal exposed her to a sixty-year retrial threat under the mandatory minimum, forcing a plea to time served.
+- **Trap:** Students choose [to assume a successful burden-shift appeal produces a favorable outcome for the defendant] because they confuse [an appellate reversal] with [a practically favorable outcome, missing that the reversal exposed the defendant to a sixty-year retrial threat].
 - **Difficulty:** foundational
 - **Pivot fact:** If the jury instructions had correctly placed the burden on the prosecution, the jury would have been asked whether the prosecution had disproved self-defense, not whether Alexander had proved Gray's aggression — potentially a different outcome on the same facts.
 - **Jurisdiction:** universal (prosecution bears burden of disproving self-defense in all U.S. jurisdictions once raised; federal courts vary on duress, but self-defense burden is consistent)
@@ -236,7 +236,7 @@ Self-defense is a **justification** — the defendant claims the use of force wa
 #### survivors-justice-acts: Post-Conviction Reform
 - **Rule:** Five states (New York, Illinois, Oklahoma, Georgia, New Jersey) have enacted Survivors' Justice Acts that intervene at three stages: trial (easier admission of abuse evidence), sentencing (abuse history as mitigation), and post-conviction (resentencing petitions). New York's DVSJA has produced over 215 applications, approximately 75 grants of relief; 70 percent of those relieved in the first 40 resentencings were people of color. These reforms leave the underlying doctrine — including the imminence requirement — intact.
 - **Source:** "Survivors' Justice Acts" section
-- **Trap:** Students treat Survivors' Justice Acts as doctrinal reform because they provide relief to abuse survivors, missing that these statutes work around the imminence requirement rather than changing it — a sleeping abuser is still not an "imminent" threat even in states with SJAs.
+- **Trap:** Students choose [to treat Survivors' Justice Acts as doctrinal reform] because they confuse [statutory mechanisms providing relief to abuse survivors] with [actual doctrinal reform that changes the imminence requirement].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the jurisdiction has not enacted a SJA, a defendant with a twenty-year abuse history has no post-conviction remedy even if she would have qualified for relief under New York's DVSJA.
 - **Jurisdiction:** majority/minority — five states only as of 2025; most jurisdictions have no comparable statute
