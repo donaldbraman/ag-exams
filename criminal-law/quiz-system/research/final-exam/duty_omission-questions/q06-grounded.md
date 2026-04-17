@@ -1,0 +1,17 @@
+**Q6.** The prosecution charges both Alba and Bex with omission-based homicide for failing to summon medical aid for Cody. Did either defendant owe Cody a legal duty to act?
+
+(a) No, because the common law imposes no general duty to rescue a stranger, and Cody's voluntary drug use negates any prior relationship.
+(b) Yes, Alba owed a duty based on providing the drugs, but Bex owed no duty because she was merely present in the apartment.
+(c) No, because Bex attempted to call 911 and Alba intentionally stopped her, which legally discharged their respective duties to intervene.
+(d) Yes, both owed a duty under the voluntary assumption category, because moving Cody into the bathroom secluded him from other aid.
+(e) Yes, both owed a duty, because providing the drugs created the peril and moving Cody to the bathroom secluded him from aid. <!-- correct -->
+
+**Answer:** (e)
+
+**Explanation:** (e) is correct because criminal liability for an omission requires a legal duty to act. Both defendants satisfied the "creation of peril" category by engaging in the drug enterprise that provided the lethal dose. Furthermore, dragging Cody into a windowless bathroom satisfied the "voluntary assumption of care" category because it deliberately secluded him from other potential rescuers. (a) is incorrect because while there is no general duty to rescue, the defendants' affirmative actions trigger specific *Jones* duty categories. (b) is incorrect because Bex was not merely present; she agreed to distribute drugs and helped drag Cody, creating duties for herself. (c) is incorrect because Bex was prevented from completing the call, meaning she did not successfully discharge her duty. (d) is incorrect because it ignores the independent creation of peril duty that also firmly applies to both defendants.
+
+**Tags:** chapters: [9], topics: [omissions, duty-to-act, creation-of-peril, voluntary-assumption], difficulty: medium, cognitive: analysis
+
+**Grounding:** Ch 9, Omissions: Jones duty categories (State v. Voss, People v. Oliver)
+
+<!-- grounding: GROUNDED — Omissions/Duty to Act, Ch 9, Refinements `jones-five-categories`, `voluntary-assumption-plus-seclusion`, and `creation-of-peril-category`. Rule paraphrased accurately. -->

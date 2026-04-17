@@ -1,0 +1,33 @@
+**Q6.** Assume the state charges Arthur with felony murder, using drug distribution as the predicate felony. In a jurisdiction applying the "abstract elements" approach, will this charge qualify as a valid predicate?
+
+(a) Yes, if the statutory definition of distributing Compound Y cannot be violated without creating a substantial risk to human life. <!-- correct -->
+(b) Yes, because Arthur's actual conduct in selling a lethal dose to Marcus proved highly dangerous in this specific instance.
+(c) Yes, because all drug distribution offenses are categorically enumerated as first-degree felony murder predicates under the modern common law.
+(d) No, because the abstract elements approach only permits directly assaultive felonies to serve as predicates for any felony murder charge.
+(e) No, because Arthur did not subjectively intend for the distribution of the drugs to proximately cause Marcus's fatal medical overdose.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct. The "abstract elements" approach (used in California) examines the statutory definition of the felony, ignoring the specific facts of the case. A felony qualifies as inherently dangerous only if the crime, by its very definition, cannot possibly be committed without creating a substantial risk to human life. (b) fails because looking at Arthur's actual fatal conduct is applying the competing "facts-as-committed" test, not the abstract elements test. (c) fails because drug distribution is typically a non-enumerated felony (enumerated ones are usually the BARRK felonies). (d) fails because the abstract elements approach tests for inherent danger, while the assaultive nature of a felony is analyzed under the separate merger doctrine. (e) fails because felony murder imposes strict liability for the death; subjective intent to cause death is never required.
+
+**Tags:** chapters: [14], topics: [elements-vs-facts-approach, inherently dangerous felony, felony murder], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 14; People v. Phillips (Abstract elements approach)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could strongly defend this option because it perfectly captures the standard for the "abstract elements" approach to the inherently dangerous felony limitation (e.g., *People v. Patterson*, *People v. Phillips*). Under this test, courts look strictly at the statutory elements of the offense rather than the defendant's specific acts. If the felony, by its very statutory definition, cannot be committed without creating a substantial risk to human life, it qualifies in the abstract as inherently dangerous.
+(b) Argument-for: A student could defend this option by arguing that even under an abstract elements test, the underlying conduct must still be proven to be actually dangerous to satisfy the core principles of proximate cause in felony murder. Because Arthur sold a "lethal dose," his conduct was highly dangerous in this specific instance, which definitively bridges the gap between the abstract danger of drug sales and the actual death of the victim. 
+(c) Argument-for: A student could defend this by pointing to the modern legislative trend of enumerating controlled substance deaths as felony murder predicates. Because many jurisdictions have updated their statutes to explicitly include drug distribution alongside traditional BARRK offenses, a student might reason that under "modern common law," drug distribution is a categorically enumerated first-degree predicate, completely bypassing the need for an abstract elements analysis.
+(d) Argument-for: A student could defend this by conflating the "inherently dangerous" limitation with the independent felony (merger) doctrine. Because courts want to limit the scope of felony murder, a student might incorrectly recall that the abstract elements test requires the felony to feature a directly assaultive threat of physical violence. Under this logic, property or contraband crimes like drug distribution would automatically fail in favor of felonies that are "directly assaultive" in the abstract.
+(e) Argument-for: A student could argue that while felony murder does not require the specific intent to kill, proximate cause rules for drug overdoses might require the defendant to have a subjective awareness of the fatal risk. Because the victim independently ingested the drugs, a student might reason that Arthur's lack of subjective intent to proximately cause a fatal medical overdose acts as an intervening shield, negating the felony murder charge.
+
+Head-to-head: Option (a) is the only legally accurate statement; it faithfully articulates the "abstract elements" rule, which evaluates the statutory definition of the crime for inherent danger independent of the facts. Option (b) explicitly contradicts the premise of the question by applying the competing "facts-as-committed" approach (looking at the "specific instance"). Option (c) relies on a sweeping, falsifiable absolute ("all drug distribution offenses are categorically enumerated") which is simply false under the common law. Option (d) incorrectly equates the abstract elements test with an assaultive requirement (falsely using the absolute "only permits directly assaultive felonies"), which actually runs directly counter to the merger doctrine (*People v. Ireland*). Option (e) relies on an explicit legal falsehood regarding felony murder's mens rea, stating it fails because of a lack of "subjective intent" to cause the death, despite felony murder imposing strict liability for the resulting death. 
+
+Falsifiable claim per distractor:
+- (b): "because Arthur's actual conduct ... proved highly dangerous in this specific instance" — wrong because relying on the specific factual instance is the exact opposite of the "abstract elements" approach requested in the prompt.
+- (c): "all drug distribution offenses are categorically enumerated as first-degree felony murder predicates under the modern common law" — wrong because the common law (and modern statutes) do not categorically enumerate *all* drug distribution as first-degree predicates (that is reserved for traditional BARRK felonies). 
+- (d): "only permits directly assaultive felonies to serve as predicates" — wrong because inherently dangerous felonies are often non-assaultive, and in fact, directly assaultive felonies are precisely the ones that *fail* to serve as predicates due to the merger doctrine.
+- (e): "because Arthur did not subjectively intend for the distribution of the drugs to proximately cause [death]" — wrong because felony murder imposes strict liability for the resultant death; subjective intent to cause death is never a requirement.
+
+Recommended fix: none
+-->

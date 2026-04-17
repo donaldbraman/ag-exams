@@ -1,0 +1,37 @@
+**Q10.** Assume that, whether or not the shooting was justified, Alex is charged with an offense based on leaving Blake bleeding on the lawn. Can Alex be held liable based on an omission?
+
+(a) He may be held liable based on an omission, because he created the peril that caused the victim's need for medical assistance, thereby imposing a binding legal duty to act. <!-- correct -->
+(b) He cannot be held liable based on an omission, because the criminal law imposes no duty to rescue unless there is a formal and pre-existing status relationship between the parties.
+(c) He may be held liable based on an omission, because the universal good-samaritan rule requires all adult citizens to immediately call emergency services when witnessing a serious physical injury.
+(d) He cannot be held liable based on an omission, because his sudden panic completely mentally incapacitated him, thereby negating the voluntary act requirement necessary for any omission liability.
+(e) He may be held liable based on an omission, because the underlying property line dispute legally established a binding contractual duty of care between the two neighboring residential homeowners.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because while criminal law generally does not punish omissions, a legal duty to act arises when the defendant wrongfully creates the peril that places the victim in danger. By shooting Blake and leaving him bleeding, Alex created the peril and therefore acquired a legal affirmative duty to seek assistance. (b) is wrong because a formal status relationship (like parent-child) is just one category that creates a duty; creation of peril is another independent category. (c) is wrong because the United States generally rejects universal good-samaritan rules and does not impose a duty to act simply because a citizen witnesses an injury. (d) is wrong because emotional panic does not legally equate to unconsciousness or physical incapacity sufficient to negate the voluntary act requirement. (e) is wrong because a contentious property line dispute does not establish any legally binding contractual duty of care to provide medical assistance.
+
+**Tags:** chapters: [9], topics: [omissions, creation of peril], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 9 - Omissions (Categories of affirmative duties, specifically creation of peril).
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under the common law doctrine of omissions, criminal liability generally requires a specific legal duty to act. One of the most firmly established exceptions to the "no duty to rescue" rule is the "creation of peril" doctrine. When an individual, through their own conduct (whether criminal or innocent), places another person in a position of danger or injury, they assume a legal duty to provide aid or summon help. Because Alex’s act of shooting Blake directly caused the life-threatening injury, Alex acquired a binding legal duty to assist, making his subsequent omission a basis for liability.
+
+(b) Argument-for: This option relies on the principle of legality and the traditional American rejection of "Bad Samaritan" laws. A defense attorney could argue that criminal duties must be narrowly construed to provide fair notice to citizens. Under a strict interpretation of duty, one might argue that only formal, pre-existing status relationships—such as parent and child or spouse and spouse—possess the clarity and historical pedigree required to transform a moral failure into a criminal omission. Since Alex and Blake were merely neighbors in conflict, the lack of a formal status relationship precludes the imposition of a criminal duty to act.
+
+(c) Argument-for: This argument suggests that the law should reflect an evolving social contract where the protection of human life is a paramount legal obligation. In several jurisdictions, "Good Samaritan" statutes have been codified to require individuals to provide or seek aid for those in peril if they can do so without risk to themselves. Proponents of this view argue that witnessing a serious injury creates a universal duty for all adult citizens to call emergency services. Under this legal framework, Alex’s failure to call for help would be a breach of a generalized duty to provide assistance to any person in grave physical distress.
+
+(d) Argument-for: Every crime requires a voluntary act (*actus reus*), and in the case of an omission, the failure to act must be voluntary and within the defendant's physical and mental control. If the trauma of the shooting and the sight of the bleeding victim caused Alex to experience a "sudden panic" or a dissociative state, his failure to act might not be the product of a conscious choice. By arguing that Alex was mentally incapacitated by shock, the defense seeks to demonstrate that he lacked the requisite physical or mental power to perform the act of calling for help, thereby negating the voluntary act requirement.
+
+(e) Argument-for: A legal duty to act can arise from a contract, either express or implied. In the context of residential property law, neighbors often have sets of mutual obligations regarding the maintenance and safety of shared borders or communal areas. If the property line dispute had resulted in a court order, an easement agreement, or a homeowner association (HOA) covenant regarding safety and neighborly conduct, such a document could be interpreted as creating a binding contractual duty of care. Therefore, the pre-existing legal entanglement regarding the property provides the necessary contractual nexus to mandate assistance.
+
+Head-to-head: Option (a) is the strongest because the "creation of peril" doctrine is a standard, widely accepted category of legal duty in criminal law. Option (b) fails because it uses an "unless" clause that incorrectly excludes creation of peril and contractual duties as sources of liability. Option (c) fails because there is no "universal" Good Samaritan rule in U.S. common law; it is a minority statutory creation. Option (d) fails because "panic" is a mental state that might affect *mens rea*, but it does not legally equate to the physical or mental involuntariness (like a seizure or coma) required to negate the *actus reus*. Option (e) fails because a property dispute is an adversarial relationship that is legally the opposite of a contractual agreement to provide medical care.
+
+Falsifiable claim per distractor:
+- (b): "the criminal law imposes no duty to rescue unless there is a formal and pre-existing status relationship" — wrong because creation of peril is a widely recognized independent source of duty.
+- (c): "the universal good-samaritan rule requires all adult citizens" — wrong because the U.S. generally rejects such a universal duty to act.
+- (d): "sudden panic... negating the voluntary act requirement" — wrong because emotional panic does not legally qualify as an involuntary physical state like an automaton or seizure.
+- (e): "property line dispute legally established a binding contractual duty of care" — wrong because a dispute over property does not, as a matter of law, create a contractual obligation to provide medical assistance.
+
+Recommended fix: none
+-->

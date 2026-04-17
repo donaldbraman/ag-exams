@@ -1,0 +1,69 @@
+# Fix Guidance for q01
+
+The QA pipeline flagged this question. Rewrite `q01.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
+
+## Issue 1 — audit
+
+**Q1.** What is Chris's liability for the completed conspiracy charge based on his actions during the walk to Blake's house?
+
+(a) Guilty of conspiracy, because the crime was complete upon the agreement and the overt act, rendering his subsequent withdrawal legally irrelevant to that charge. <!-- correct -->
+(b) Not guilty of conspiracy, because his statement "I'm going home" combined with dropping the bat constituted a clear and effective communication of his withdrawal.
+(c) Not guilty of conspiracy, because he abandoned the criminal enterprise before any physical harm occurred to the victim or any property was damaged.
+(d) Guilty of conspiracy, because he failed to thwart the success of the conspiracy or effectively report Alex's planned attack to law enforcement authorities.
+(e) Guilty of conspiracy, because the bilateral agreement requirement strictly demands that both parties remain committed until the target offense is attempted or completed.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because the crime of conspiracy is complete the moment an agreement is made and an overt act (grabbing bats and walking) is committed. While a valid withdrawal cuts off liability for future substantive crimes, it is not a defense to the already-completed conspiracy charge itself. (b) is wrong because withdrawal is a defense to future Pinkerton liability, not the completed conspiracy. (c) is wrong because conspiracy does not require actual harm or property damage to be completed. (d) is wrong because thwarting the conspiracy is a requirement for the MPC renunciation defense, which is distinct from traditional withdrawal. (e) is wrong because the bilateral agreement doctrine requires mutual assent at the time of the agreement, not continuous commitment until the end.
+
+**Tags:** chapters: [19], topics: [conspiracy, withdrawal], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 19 - Conspiracy (Withdrawal cuts off future liability but is not a defense to the completed conspiracy charge).
+
+<!-- audit: MUST FIX
+check 1: pass
+check 2: Option (d) is a defensible distractor. If a student applies the MPC, renunciation (thwarting the target offense) actually *is* an affirmative defense to the conspiracy charge itself. Under that framework, Chris would be guilty precisely because he failed to thwart the attack, making (d) legally accurate.
+check 3: pass
+check 4: The fact pattern is completely missing. The stem jumps straight to the call of the question ("What is Chris's liability... based on his actions during the walk to Blake's house?"), leaving students to reverse-engineer the facts about Chris, Alex, Blake, and the baseball bats from the answer choices.
+check 5: The question fails to stipulate the jurisdiction (Common Law vs. MPC). The distinction is fatal here because Option A relies on the Common Law rule (withdrawal is never a defense to the conspiracy charge), while Option D describes the failure of the MPC renunciation defense.
+check 6: pass
+check 7: pass
+Recommended fix: 1) Supply the missing fact pattern before the question stem. 2) explicitly stipulate a common law jurisdiction in the call of the question (e.g., "Under common law principles, what is Chris's liability..."). 
+-->
+
+## Issue 2 — argpass-opus
+
+**Q1.** What is Chris's liability for the completed conspiracy charge based on his actions during the walk to Blake's house?
+
+(a) Guilty of conspiracy, because the crime was complete upon the agreement and the overt act, rendering his subsequent withdrawal legally irrelevant to that charge. <!-- correct -->
+(b) Not guilty of conspiracy, because his statement "I'm going home" combined with dropping the bat constituted a clear and effective communication of his withdrawal.
+(c) Not guilty of conspiracy, because he abandoned the criminal enterprise before any physical harm occurred to the victim or any property was damaged.
+(d) Guilty of conspiracy, because he failed to thwart the success of the conspiracy or effectively report Alex's planned attack to law enforcement authorities.
+(e) Guilty of conspiracy, because the bilateral agreement requirement strictly demands that both parties remain committed until the target offense is attempted or completed.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because the crime of conspiracy is complete the moment an agreement is made and an overt act (grabbing bats and walking) is committed. While a valid withdrawal cuts off liability for future substantive crimes, it is not a defense to the already-completed conspiracy charge itself. (b) is wrong because withdrawal is a defense to future Pinkerton liability, not the completed conspiracy. (c) is wrong because conspiracy does not require actual harm or property damage to be completed. (d) is wrong because thwarting the conspiracy is a requirement for the MPC renunciation defense, which is distinct from traditional withdrawal. (e) is wrong because the bilateral agreement doctrine requires mutual assent at the time of the agreement, not continuous commitment until the end.
+
+**Tags:** chapters: [19], topics: [conspiracy, withdrawal], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 19 - Conspiracy (Withdrawal cuts off future liability but is not a defense to the completed conspiracy charge).
+
+<!-- argument-pass: MUST FIX
+(a) Argument-for: Under traditional common law and general federal law, a conspiracy is complete as soon as the agreement is made and, where required, an overt act is committed. Chris's grabbing of the bats and walking toward the house satisfies the overt act requirement. Because the crime of conspiracy is complete at that moment, any subsequent withdrawal by Chris can only serve as a defense to future substantive crimes (Pinkerton liability), making his withdrawal legally irrelevant to the conspiracy charge itself.
+(b) Argument-for: A student could argue that withdrawal from a conspiracy is a complete defense to all liability if it is effectively communicated. Chris's statement "I'm going home" and dropping his bat clearly and unequivocally communicated his withdrawal to his co-conspirator. Because he effectively withdrew before the target offense was committed, this argument posits that his withdrawal retroactively negates his liability for the conspiracy itself.
+(c) Argument-for: A student could argue that inchoate crimes like conspiracy require some actual harm or at least a dangerously close attempt at harm to be punishable, especially if voluntarily abandoned. Since Chris abandoned the enterprise before any physical harm occurred to Blake or his property, the ultimate evil the law seeks to prevent was avoided. Thus, the lack of actual harm or damage shields him from liability for the conspiracy.
+(d) Argument-for: A student might analyze the problem under the Model Penal Code (MPC), which recognizes the affirmative defense of renunciation. Under the MPC, a defendant is only relieved of conspiracy liability if he thwarts the success of the conspiracy under circumstances demonstrating a complete and voluntary renunciation. Because Chris merely went home and failed to thwart Alex or report the plan to law enforcement, his renunciation defense fails, effectively making him guilty of conspiracy.
+(e) Argument-for: A student could argue that the common law bilateral agreement requirement mandates mutual assent that must persist throughout the duration of the conspiracy. Under this view, because the doctrine strictly demands that both parties remain committed until the target offense is attempted or completed, Chris's premature departure breaks the required continuous bilateral commitment, cementing his guilt for failing to maintain the agreement.
+
+Head-to-head:
+Option (a) correctly identifies the majority rule that conspiracy is complete upon the agreement and overt act, making subsequent withdrawal no defense to the conspiracy charge itself. Option (b) falsely asserts withdrawal is a defense to the completed conspiracy charge. Option (c) relies on the false legal claim that actual physical harm or property damage is required. Option (e) falsely claims the bilateral agreement doctrine requires continuous commitment. Option (d), however, presents a critical flaw: under the Model Penal Code, Chris *would* be guilty specifically because he failed to thwart the conspiracy (the requirement for the renunciation defense). Because the question does not specify a jurisdiction, (d) is arguably a completely correct statement of law and application under the MPC. Since (d) lacks an absolute false legal claim, it competes directly with (a), triggering a MUST FIX.
+
+Falsifiable claim per distractor:
+- (b): "Not guilty of conspiracy, because his statement... constituted a clear and effective communication of his withdrawal" — wrong because effective withdrawal does not negate guilt for a completed conspiracy under the majority rule.
+- (c): "Not guilty of conspiracy, because he abandoned the criminal enterprise before any physical harm occurred" — wrong because conspiracy does not require actual physical harm or property damage.
+- (d): "Guilty of conspiracy, because he failed to thwart the success of the conspiracy..." — LACKS A FALSIFIABLE CLAIM under the MPC, where failing to thwart defeats the renunciation defense and correctly sustains a guilty verdict. 
+- (e): "the bilateral agreement requirement strictly demands that both parties remain committed until the target offense is attempted or completed." — wrong because the bilateral agreement doctrine requires mutual assent only at the time of formation, not continuous commitment.
+
+Recommended fix: Lock (d) with an explicit, universally false legal claim to eliminate the MPC ambiguity. Change (d) to: "Guilty of conspiracy, because traditional common law withdrawal categorically requires a defendant to physically thwart the success of the conspiracy."
+-->

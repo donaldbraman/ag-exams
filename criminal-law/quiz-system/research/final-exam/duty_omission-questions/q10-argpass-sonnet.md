@@ -1,0 +1,37 @@
+**Q10.** Assume the jurisdiction charges Bex with felony murder, using the fentanyl distribution as the predicate felony. Bex asserts a duress defense to the felony murder charge. Under the recognized exception for duress in felony murder cases, will her defense succeed?
+
+(a) Yes, because she participated in the drug operation under a continuous threat of death from Alba, which satisfies the imminence requirement.
+(b) Yes, because the traditional murder bar does not apply to felony murder if the defendant was coerced into committing the underlying predicate felony.
+(c) No, because Bex voluntarily agreed to the fentanyl distribution conspiracy before any threat was made, meaning the predicate felony was not coerced. <!-- correct -->
+(d) No, because the felony-murder duress exception only applies to predicate offenses involving property crimes, not to dangerous drug distribution felonies.
+(e) No, because the Supreme Court has completely abolished the duress defense for any criminal charge that carries a potential life sentence.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct because the felony-murder duress exception only allows duress as a defense to felony murder if the defendant was actually coerced into committing the underlying predicate felony. Here, Bex verbally agreed to distribute fentanyl before Alba ever pulled a weapon or issued a threat. Because her participation in the predicate felony was voluntary, the exception does not apply. (a) is incorrect factually, as the threat arose only after the overdose, not during the formation of the drug distribution agreement. (b) is an accurate statement of the legal exception, but incorrect in application because Bex was not coerced into the predicate felony. (d) is incorrect because the exception, where recognized, applies to the coercion of the predicate felony regardless of whether it is a property or drug offense. (e) is incorrect because the Supreme Court has not broadly abolished the duress defense.
+
+**Tags:** chapters: [14, 21], topics: [felony-murder, duress, duress-exception], difficulty: hard, cognitive: analysis
+
+**Grounding:** Ch 21, Necessity and Duress: Felony-Murder Duress Exception (People v. Reichard)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Bex can argue that her participation in the drug operation was governed by a "continuous threat" of death, a doctrine recognized in several jurisdictions to satisfy the imminence requirement of duress. Even if a specific weapon was not drawn at every moment of the conspiracy, the pervasive atmosphere of violence created by Alba meant Bex was never truly free to withdraw from the distribution. If a court finds that this ongoing atmosphere of coercion influenced her actions throughout the fentanyl distribution, the imminence requirement is legally met despite the initial voluntary contact. Therefore, (a) provides a factual and legal basis for the defense to succeed under a modern interpretation of the imminence standard.
+
+(b) Argument-for: This option correctly identifies the core legal rationale of the felony-murder duress exception: that the traditional common law bar on duress for murder should not apply when the defendant's culpability is derived from a predicate felony rather than an intent to kill. By shifting the focus of the duress analysis from the death itself to the underlying felony, the law recognizes that a coerced felon lacks the specific malice required to sustain a murder charge. Because this legal theory is the very foundation of the "recognized exception" mentioned in the prompt, (b) represents the most direct statement of the rule. A student could reasonably conclude that identifying the correct legal rule is the primary task of the question.
+
+(c) Argument-for: For any duress defense to succeed, the defendant must not have voluntarily or recklessly placed themselves in a situation where coercion was likely. Here, Bex agreed to the fentanyl distribution conspiracy of her own free will before any threats were issued by Alba, meaning the criminal intent was formed without coercion. Because the predicate felony—the drug distribution—was initiated voluntarily, subsequent threats do not retroactively excuse the original criminal conduct or the resulting death. Since the underlying felony was not "coerced" at its inception, the specific exception for felony murder cannot be triggered.
+
+(d) Argument-for: Courts often restrict the application of affirmative defenses to balance the defendant's rights against the high social cost of dangerous crimes. A student could argue that the "recognized exception" for duress in felony murder cases is strictly limited to non-violent predicate offenses, such as property crimes, where the inherent risk of death is low. Fentanyl distribution is an inherently dangerous activity that carries a foreseeable risk of overdose, placing it outside the policy goals of the duress exception. Thus, (d) provides a legally grounded categorical limitation that explains why Bex's defense would fail in a narcotics context.
+
+(e) Argument-for: This option posits that the Supreme Court has established a categorical bar on the duress defense for the most serious classes of crimes to maximize deterrence. Under this theory, any offense carrying a potential life sentence is deemed so grave that the law requires an individual to resist coercion rather than commit the criminal act. While strict, this "balance of evils" approach reflects a potential high-court standard aimed at ensuring that life-terminating crimes are never excused by personal threats. Therefore, (e) offers a bright-line legal rule that would result in the failure of Bex’s defense regardless of the specific timing of Alba's threats.
+
+Head-to-head: (c) is the strongest choice because it correctly applies the "voluntary entry" rule, which is a foundational prerequisite for any duress defense. While (b) accurately describes the legal mechanism of the felony-murder exception, it reaches the wrong conclusion ("Yes") because it ignores the fact that Bex’s specific predicate felony was not coerced. (a) relies on a "continuous threat" theory that is factually undermined by the voluntary agreement made before any threat existed. (d) and (e) propose categorical legal bars—limiting the exception to property crimes or claiming a Supreme Court abolition—that are legally inaccurate within the context of recognized duress doctrine. (c) remains the best answer as it identifies the specific factual failure (lack of initial coercion) that prevents the legal exception from applying.
+
+Falsifiable claim per distractor:
+- (a): "satisfies the imminence requirement" — wrong because a threat issued after the start of a voluntary criminal agreement cannot retroactively satisfy the imminence needed to excuse the initial criminal acts.
+- (b): "Yes" — wrong because even if the legal exception is recognized, the defendant must still satisfy the elements of duress for the predicate felony, which Bex fails to do.
+- (d): "only applies to predicate offenses involving property crimes" — wrong because the recognized exception (e.g., People v. Reichard) focuses on whether the predicate felony was coerced, not on whether the felony involves property or drugs.
+- (e): "the Supreme Court has completely abolished the duress defense for any criminal charge that carries a potential life sentence" — wrong because no such Supreme Court precedent exists, and duress remains an available defense for many life-eligible crimes.
+
+Recommended fix: none
+-->

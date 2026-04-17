@@ -1,0 +1,37 @@
+**Q5.** Assume that Alba is charged with the attempted murder of Dane. Is Alba guilty of this charge?
+
+(a) Guilty, because striking someone in the head with a loaded handgun constitutes a substantial step strongly corroborative of a homicidal purpose.
+(b) Guilty, because Alba acted with depraved-heart recklessness toward human life, which inherently satisfies the necessary mens rea for attempted murder.
+(c) Not guilty, because criminal attempt requires specific intent to cause the target result, and Alba only intended to incapacitate the paramedic. <!-- correct -->
+(d) Not guilty, because Dane survived the assault, making it legally impossible for Alba to be convicted of an attempted homicide offense.
+(e) Not guilty, because Alba abandoned the attempt by leaving Dane incapacitated on the floor rather than continuing to strike him until dead.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct because the mens rea for an attempt requires the specific intent (purpose) to commit the target offense. Even if the completed crime of murder can be satisfied by extreme recklessness (depraved heart), attempted murder always requires the specific intent to kill. Since the facts establish Alba only intended to knock Dane unconscious, the specific intent mens rea for attempted murder fails. (a) is incorrect because while the actus reus (substantial step) might be met, the required mens rea is lacking. (b) is incorrect because depraved-heart recklessness cannot legally support an attempt charge. (d) is incorrect because a victim's survival or the failure to complete the crime is the very definition of an attempt, not a defense to it. (e) is incorrect because Alba completed the intended act of incapacitation rather than voluntarily renouncing a plan to kill.
+
+**Tags:** chapters: [17], topics: [attempt, mens-rea, specific-intent], difficulty: medium, cognitive: analysis
+
+**Grounding:** Ch 17, Attempts: Mens Rea (purpose requirement)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under the Model Penal Code, the actus reus for attempt is satisfied by a "substantial step" that is "strongly corroborative of the actor's criminal purpose." Striking a victim in the head with a loaded firearm is an objectively lethal act that provides sufficient evidence for a jury to infer a homicidal purpose under the "deadly weapon doctrine." In many jurisdictions, the sheer dangerousness of this conduct creates a rebuttable presumption of intent to kill, meaning the act itself satisfies the legal requirements for an attempt conviction regardless of the defendant's later testimony regarding their subjective state of mind. Therefore, the corroborative nature of the blow is enough to sustain a guilty verdict.
+
+(b) Argument-for: Criminal law generally seeks to align the culpability of inchoate offenses with their completed counterparts. Since the completed crime of murder can be established through "depraved-heart" recklessness—acting with an extreme indifference to the value of human life—it follows that an attempt to commit that crime should be sustainable upon a showing of the same high-level recklessness. Alba’s decision to bludgeon a person in the skull with a loaded handgun represents a categorical disregard for human life. Because this mental state would suffice for a murder conviction had Dane died, it inherently satisfies the mens rea for attempted murder in jurisdictions that prioritize the dangerousness of the actor's mental state over the distinction between "purpose" and "recklessness."
+
+(c) Argument-for: It is a fundamental principle of criminal law that attempt is a specific intent crime, requiring the prosecution to prove that the defendant acted with the specific "purpose" to bring about the prohibited result. Even if a completed murder can be proven via recklessness or "depraved heart," an attempt charge always requires the higher standard of intent to kill. Because the facts stipulate that Alba only intended to incapacitate the paramedic, the necessary element of specific intent to cause death is missing. Without that purpose, the defendant cannot be convicted of attempted murder, as the law does not recognize "reckless attempt."
+
+(d) Argument-for: Legal impossibility serves as a defense when the defendant's intended acts, even if fully carried out, would not constitute the crime charged. If the offense is defined strictly as "attempted murder," and "murder" is legally defined as the killing of a human being, a defendant might argue that it is legally impossible to be guilty of an "attempted killing" when the result (death) is not present. This argument posits that because the "result" element of the target offense is missing, the charge is legally frustrated. In this view, the survival of the victim changes the legal character of the act from a homicide offense to a battery or assault offense, making a conviction for "murder" in any form legally unattainable.
+
+(e) Argument-for: The affirmative defense of abandonment (or renunciation) applies when a defendant voluntarily and completely withdraws from their criminal purpose before the crime is completed. By striking Dane only once and then leaving him incapacitated rather than firing the weapon or continuing the assault until death occurred, Alba demonstrated a voluntary desistance from a lethal path. This cessation occurred while Alba still had the means and opportunity to complete a killing, suggesting a change of heart or a lack of persistent homicidal intent. Because Alba stopped short of the "last proximate act" necessary to ensure death, he successfully abandoned the attempt.
+
+Head-to-head: Option (c) is the strongest because it correctly identifies the "specific intent" rule that is nearly universal in American attempt law. Option (b) fails because it incorrectly assumes that the mens rea for attempt is identical to the mens rea for the completed crime; however, attempt requires purpose even when the completed crime allows for recklessness. Option (a) focuses solely on the actus reus (substantial step) while ignoring the fact that a "corroborative" act cannot override the factual absence of specific intent. Option (e) fails because abandonment requires renouncing a criminal purpose that was already formed; if Alba never intended to kill, there was no murder attempt to "abandon." Option (d) is the weakest as it fundamentally misunderstands the difference between legal impossibility and the mere failure to complete a crime.
+
+Falsifiable claim per distractor:
+- (a): "striking someone... constitutes a substantial step strongly corroborative... [rendering Alba] Guilty" — wrong because even a corroborative act cannot sustain a conviction if the prosecution fails to prove the specific intent to kill.
+- (b): "depraved-heart recklessness... inherently satisfies the necessary mens rea for attempted murder" — wrong because attempted murder always requires a specific intent (purpose) to kill, regardless of the mens rea allowed for completed murder.
+- (d): "making it legally impossible for Alba to be convicted" — wrong because a victim's survival is the prerequisite for an attempt charge, not a basis for legal impossibility.
+- (e): "Alba abandoned the attempt" — wrong because abandonment requires a voluntary renunciation of a criminal purpose (to kill) that must have existed, whereas Alba never possessed that purpose to begin with, and he completed the act he actually intended (incapacitation).
+
+Recommended fix: none
+-->
