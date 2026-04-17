@@ -1,18 +1,18 @@
-**Q11.** Arthur and Silas are charged with conspiracy to distribute a Schedule I controlled substance. Arthur argues that because he genuinely misread the regulatory database and thought the chemical was legal, they lacked the specific intent to agree to commit a crime. Does this mistake negate the conspiracy?
+**Q11.** Does Arthur's mistaken belief that the substance was a legal nootropic defeat a charge of conspiracy to distribute a controlled substance?
 
-(a) Yes, because a conspiracy conviction requires proof of bilateral knowledge that the targeted conduct is strictly prohibited by the penal law at the time of agreement.
-(b) No, because ignorance of the penal law is no excuse, and they purposefully agreed to distribute the specific chemical structure, satisfying the required mens rea. <!-- correct -->
-(c) Yes, because Arthur's mistake regarding the drug's regulatory scheduling negates the specific intent required to purposefully agree to commit a statutorily defined criminal offense.
-(d) No, because the *Pinkerton* doctrine automatically imputes Silas's general criminal knowledge and prior drug record to Arthur, curing any defect in Arthur's personal legal understanding.
-(e) Yes, because Arthur's terminal illness provides a recognized necessity defense that legally negates the corrupt motive requirement essential for all common law conspiracy convictions.
+(a) No, because conspiracy requires only the purpose to distribute the specific chemical structure they agreed upon, and ignorance of the penal law's drug schedules is not a valid defense. <!-- correct -->
+(b) No, because conspiracy is treated as a general intent crime, requiring only the minimal intent to enter into any agreement with another person regardless of the objective.
+(c) Yes, because conspiracy is a specific intent crime that strictly requires the prosecution to prove the defendants subjectively knew their planned objective was prohibited by criminal law.
+(d) Yes, because Arthur's misreading of the regulatory database regarding the drug schedules constitutes a recognized official reliance defense that completely shields both conspirators from liability.
+(e) Yes, because the Pinkerton doctrine formally requires that all co-conspirators share identical subjective knowledge of the specific criminal statutes involved in their illicit agreement.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Arthur and Silas are guilty because ignorance of the penal law is no excuse; they had the specific purpose to distribute that exact chemical structure, which satisfies the intent requirement. (a) is wrong because conspiracy does not require knowledge of the penal code. (c) is wrong because a mistake of penal law does not negate the specific intent to commit the underlying acts. (d) is wrong because the *Pinkerton* doctrine imputes substantive crimes, not the required mens rea for the conspiracy agreement itself. (e) is wrong because a terminal illness is not a legally recognized necessity defense for drug trafficking.
+**Explanation:** (a) is correct. Conspiracy is a specific intent crime requiring the purpose to agree and the purpose to commit the target offense. Here, Arthur and Silas shared the purpose to distribute the specific chemical structure Arthur synthesized. Because the underlying offense does not require knowledge of the law (ignorance of the law is no excuse), the conspiracy charge similarly does not require proof that they knew the substance was on the Schedule I list. (b) is incorrect because conspiracy is definitively a specific intent crime, not general intent. (c) is incorrect because while conspiracy is specific intent, that intent applies to committing the actus reus of the target offense, not to knowing the conduct violates the penal code. (d) is incorrect because a personal misreading of a database is not an official statement of the law; official reliance requires relying on a judicial decision, agency order, or official interpretation. (e) is incorrect because *Pinkerton* dictates liability for substantive offenses committed in furtherance of the conspiracy, not the mental state required to form the conspiracy itself.
 
-**Tags:** chapters: [10, 19], topics: [conspiracy, mens rea, mistake of law], difficulty: medium, cognitive: application
+**Tags:** chapters: [10, 19], topics: [conspiracy, mens rea, mistake of law], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 10 (mol-traditional-rule), Chapter 19 (mens-rea-purpose)
+**Grounding:** Chapter 19 - Mens Rea (Purpose); Chapter 10 - Ignorance of the Law
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

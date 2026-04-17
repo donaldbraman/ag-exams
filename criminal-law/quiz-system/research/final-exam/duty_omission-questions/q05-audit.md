@@ -1,26 +1,26 @@
-**Q5.** Assume Dane is charged with destruction of property for kicking in Bex's locked door. Is Dane likely to succeed in asserting the necessity defense?
+**Q5.** Assume Blake is charged with attempted murder of Chris for complying with Alex and locking the door. Is Blake guilty of attempt?
 
-(a) Yes, because the harm of Cody dying clearly outweighed the $800 in property damage, and the threat to Cody's life was imminent. <!-- correct -->
-(b) Yes, because a bystander who witnesses a medical emergency is automatically immune from all property crimes under the Good Samaritan doctrine.
-(c) No, because Dane's actions were not compelled by an imminent threat of death or serious bodily injury directed at Dane himself.
-(d) No, because the necessity defense is categorically unavailable when the defendant violates the habitation rights of another person.
-(e) No, because the law required Dane to exhaust all legal alternatives, such as waiting for the police to arrive, regardless of the delay.
+(a) Guilty, because locking the door created a substantial risk of death that satisfies the mens rea for attempt.
+(b) Not guilty, because attempt requires the specific intent to kill, and Blake acted out of terror, not purpose. <!-- correct -->
+(c) Guilty, because his contractual duty to act as a medical caretaker replaces the need to prove subjective intent.
+(d) Not guilty, because locking a door is merely preparatory and does not constitute a substantial step toward murder.
+(e) Not guilty, because Dana's subsequent intervention makes it legally impossible for Blake to be convicted of any attempt.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct because the necessity defense (choice of evils) justifies otherwise unlawful conduct if the harm avoided (Cody's death) clearly outweighs the harm caused (property damage) and the threat is imminent. (b) is incorrect because the Good Samaritan doctrine does not provide blanket immunity for all property crimes. (c) is incorrect because this standard describes duress, not necessity; necessity can be raised for threats to third parties. (d) is incorrect because necessity can justify property offenses, including breaking into a habitation, to save a life. (e) is incorrect because the requirement to use legal alternatives is judged by reasonableness; waiting for police while someone stops breathing is not a reasonable alternative.
+**Explanation:** (b) is correct because criminal attempt is a specific intent crime. It requires the purpose to commit the target offense (here, the purpose to cause Chris's death). Even though Blake breached a duty and committed an actus reus, he locked the door out of sheer terror for his own life, lacking the specific intent to kill Chris. (a) is wrong because creating a substantial risk of death is recklessness, which is legally insufficient for attempt liability. (c) is wrong because a contractual duty establishes the actus reus for omission but does not substitute for the required mens rea of attempt. (d) is wrong because locking the door while a person is actively dying is a completed omission and easily satisfies the substantial step requirement. (e) is wrong because intervening causes affect completed homicide liability, not attempt.
 
-**Tags:** chapters: [21], topics: [necessity defense, choice of evils, proportionality], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, specific-intent], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21 — Necessity requires a choice of evils where the harm avoided clearly outweighs the harm caused and the threat is imminent.
+**Grounding:** Chapter 17 - Mens Rea for Attempt (Specific Intent)
 
 <!-- audit: MUST FIX
-Check 1: pass
-Check 2: pass
-Check 3: pass
-Check 4: Fails. The stem completely omits the factual scenario. It references "Cody dying," an "$800" property damage value, and a "medical emergency" in the answer choices and explanation, but absolutely none of these facts appear in the stem. A student cannot answer this without the missing fact pattern.
-Check 5: pass
-Check 6: pass
-Check 7: pass
-Recommended fix: Add the missing facts to the stem. For example: "Assume Dane sees Cody collapse and stop breathing inside Bex's house. To provide life-saving aid to Cody, Dane kicks in Bex's locked door, causing $800 in damage. If Dane is charged with destruction of property, is he likely to succeed in asserting the necessity defense?"
+Check 1: fails. The marked answer and explanation conflate motive (terror) with a lack of mens rea (purpose). A person acting under a threat (terror) can still act with the specific intent (purpose) to cause a result as a means of self-preservation. Duress/terror does not automatically negate specific intent.
+Check 2: fails. A prepared student could correctly identify that (b) relies on a false dichotomy between terror and purpose. If the missing facts show Blake locked the door intending for Chris to die to appease an attacker, Blake would have the requisite specific intent, making (b) incorrect.
+Check 3: fails. The explanation reinforces the false dichotomy, stating he acted out of terror "lacking the specific intent," without clarifying whether his conscious object was Chris's death or merely securing the door with knowledge of the risk to Chris.
+Check 4: fails. The question is a child question severed from its parent scenario. It relies on missing facts (Alex, Dana, Chris, a medical contract, locking a door) not provided in the stem.
+Check 5: pass.
+Check 6: pass.
+Check 7: pass.
+Recommended fix: Reattach the master fact pattern. Rewrite (b) and the explanation to rely squarely on the purpose vs. knowledge distinction for attempt mens rea (e.g., "Not guilty, because attempt requires the specific intent to kill, and Blake merely knew Chris might die rather than having Chris's death as his conscious object").
 -->

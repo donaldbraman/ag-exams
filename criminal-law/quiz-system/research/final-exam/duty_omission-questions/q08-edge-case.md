@@ -1,18 +1,18 @@
-**Q8.** Assume Alba is charged with criminal homicide for Cody's death, based on Alba's act of incapacitating Dane. Can the prosecution establish that this assault was a factual cause of Cody's death?
+**Q8.** Can Blake be convicted of possessing the opioids locked inside the combination safe?
 
-(a) Yes, because but for Alba striking Dane, Dane would have administered the Narcan and fully reversed Cody's overdose. <!-- correct -->
-(b) Yes, because Alba's action was a dependent intervening cause that superseded Cody's voluntary decision to inject the drugs.
-(c) No, because the medical examiner testified that Cody died from respiratory failure induced by the fentanyl, not from blunt force trauma.
-(d) No, because Cody had already injected a lethal dose of fentanyl before Alba assaulted Dane, making the assault irrelevant to the outcome.
-(e) No, because Alba only intended to knock Dane out, meaning Alba lacked the requisite mental state to cause Cody's death.
+(a) No, because constructive possession requires the defendant to be the exclusive tenant of the property where the drugs are discovered.
+(b) Yes, because his physical presence inside the cabin establishes a conclusive legal presumption of possession of all contraband found there.
+(c) Yes, because his knowledge of the combination gave him the ability to exercise dominion and control over the locked drugs. <!-- correct -->
+(d) No, because Alex personally transported the drugs and retained the primary ownership interest, precluding anyone else from having constructive possession.
+(e) No, because Blake was hired exclusively for security purposes and never explicitly agreed to take ownership of the drug supply.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct because factual causation uses the "but-for" test; but for Alba striking Dane, the Narcan would have reversed the overdose, meaning Alba's act was necessary for Cody's death to occur when it did. (b) is incorrect because dependent intervening causes relate to proximate cause, not the empirical "but-for" factual test. (c) is incorrect because an act that prevents life-saving aid is a factual cause of the resulting death, even if the medical mechanism was drug-induced. (d) is incorrect because factual causation asks if the death would have occurred at that time and in that manner; without the assault, Cody would have survived. (e) is incorrect because factual causation is a purely empirical inquiry that operates independently of the defendant's mental state.
+**Explanation:** (c) is correct because constructive possession requires proof that the defendant was aware of the contraband and had the ability to exercise dominion and control over it. Blake's knowledge of the safe's combination gave him direct access and control over the drugs, satisfying the elements of possession. (a) is wrong because constructive possession does not require exclusive tenancy; multiple people can simultaneously constructively possess an item. (b) is wrong because mere physical presence near contraband is insufficient without proving dominion and control. (d) is wrong because possession can be shared among multiple co-conspirators regardless of who originally transported the items. (e) is wrong because explicit legal ownership is not required for criminal possession; the practical ability to control the item suffices.
 
-**Tags:** chapters: [8], topics: [causation, factual cause, but-for test], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [possession, constructive-possession], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 8 — Factual causation requires that the prohibited result would not have occurred "but for" the defendant's conduct, which includes thwarting a rescue.
+**Grounding:** Chapter 15 - Constructive Possession
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

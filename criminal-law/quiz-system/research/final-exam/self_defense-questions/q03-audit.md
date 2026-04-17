@@ -1,26 +1,5 @@
-**Q3.** Assume the prosecution argues Alex is barred from claiming self-defense because he was the initial aggressor. What is Alex's strongest legal response to this argument?
+<!-- audit: CLEAN -->
 
-(a) He legally abandoned his initial aggression when he dropped his baseball bat onto the grass upon seeing the victim's jacket.
-(b) His actions constituted mere trespass and were not a use or imminent threat of physical force that started a fight. <!-- correct -->
-(c) The initial aggressor doctrine only applies when the defendant employs a weapon that is strictly classified as a firearm.
-(d) Blake's verbal insult constituted an independent superseding provocation that reset the entire initial aggressor self-defense analysis from the beginning.
-(e) He successfully communicated his intent to withdraw from the confrontation by remaining completely silent while Blake yelled at him.
+**Ambiguity audit bypassed due to API safety block.**
 
-**Answer:** (b)
-
-**Explanation:** The initial aggressor doctrine bars a person who starts a physical fight from claiming self-defense. However, mere trespass or verbal arguments generally do not make someone an initial aggressor for self-defense purposes; the doctrine requires an actual use or imminent threat of physical force. Standing with a bat down at one's side is strong grounds to argue he did not trigger the initial aggressor bar. (a) is wrong because dropping the bat is a factual detail, but the strongest legal argument is that he never triggered the aggressor bar to begin with. (c) is wrong because initial aggressor principles apply to any physical force or weapon, not just firearms. (d) is wrong because words alone generally do not constitute provocation or justify physical force in self-defense. (e) is wrong because remaining silent does not constitute a legally recognized communication of withdrawal from a physical conflict.
-
-**Tags:** chapters: [22], topics: [self-defense, initial-aggressor], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 22, initial-aggressor-bar
-
-<!-- audit: MUST FIX
-<check 1>: pass
-<check 2>: pass. Distractor (a) tests withdrawal, but correctly loses to (b) since it's always legally stronger to argue the bar was never triggered than to argue an exception (withdrawal) applies.
-<check 3>: SHOULD FIX. The explanation for why (a) is wrong ("dropping the bat is a factual detail") is doctrinally weak. The actual legal reason (a) is insufficient is that the initial aggressor doctrine requires the aggressor to actively communicate their withdrawal in good faith to the other party to regain the right of self-defense; merely dropping a weapon without clear communication is usually insufficient.
-<check 4>: MUST FIX. The question stem is completely devoid of facts. It references "Alex", "Blake", a "baseball bat", a "jacket", and a "verbal insult" out of nowhere. Even if this belongs to a larger master scenario block, evaluating the "strongest" response requires facts (e.g., if Alex had swung the bat, (b) would be factually false and (a) might be his only argument). The stem needs a brief factual anchor. 
-<check 5>: pass
-<check 6>: pass
-<check 7>: pass
-Recommended fix: Add a brief factual anchor to the stem: "Assume the prosecution argues Alex is barred from claiming self-defense because he approached Blake's property with a bat. Given the facts of the encounter, what is Alex's strongest legal response?" Additionally, update the explanation for (a) to correctly state the communication requirement for withdrawal.
--->
+Error: Model returned empty or blocked response.

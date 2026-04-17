@@ -1,17 +1,17 @@
-**Q12.** Assume Bex is charged with the intentional murder of Cody based on an accomplice theory, and Bex raises the defense of duress regarding her act of watching the hallway. Under the common law, will this defense succeed?
+**Q12.** Does Dana's conduct as a chemical supplier establish an agreement for purposes of conspiracy liability?
 
-(a) Not guilty, because Alba held a loaded gun to Bex's head, establishing an imminent threat of death or serious bodily injury.
-(b) Not guilty, because Bex did not personally inflict the fatal harm on Cody, allowing the duress defense to apply.
-(c) Guilty, because the common law categorically bars the defense of duress for an intentional murder charge, regardless of the severity of the threat. <!-- correct -->
-(d) Guilty, because the Model Penal Code requires that the threat be aimed at a family member rather than the defendant herself.
-(e) Guilty, because Bex failed to demonstrate that the threat was imminent, as Alba was focused on fighting Dane.
+(a) No, because as a freelance supplier, she lacked the specific intent required to formulate a legally binding agreement to manufacture.
+(b) Yes, because her knowledge of the illicit operation combined with a significant price premium demonstrates a stake in the venture. <!-- correct -->
+(c) Yes, because providing precursor chemicals is a strict liability offense that automatically presumes agreement with any downstream manufacturing or distribution.
+(d) No, because there is no evidence of an explicit oral or written contract between her and the operators of the laboratory.
+(e) No, because selling dual-use chemicals is inherently lawful, and lawful commerce cannot form the basis of a criminal drug conspiracy.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** (c) is correct because under the strict common law rule, the defense of duress is categorically barred for intentional murder, based on the rationale that a person cannot choose to sacrifice another's life to save their own. (a) is incorrect because even though the threat meets the standard for duress, the murder bar absolutely precludes the defense for this specific charge. (b) is incorrect because the common law murder bar traditionally applies even to accomplices charged with murder. (d) is incorrect because while being at fault for creating the situation can bar the defense, the absolute murder bar is the more direct and insurmountable obstacle here. (e) is incorrect because Alba pointing a gun at Bex's head satisfies the imminence requirement, but the murder bar still defeats the defense.
+**Explanation:** (b) is correct because under conspiracy doctrine, a supplier of legal goods can be held to have joined an illicit agreement if they acquire a "stake in the venture." Dana's decision to charge a 20% premium explicitly based on her knowledge of the illicit opioid operation proves she had a financial stake in its success, allowing the jury to infer agreement. (a) is wrong because the intent to agree can be inferred from conduct; no specific intent to physically manufacture the drugs is required of the supplier. (c) is wrong because providing dual-use items is not strict liability; it requires an inference of intent. (d) is wrong because conspiracies rarely involve formal contracts; tacit agreements are entirely sufficient. (e) is wrong because lawful commerce becomes criminal when combined with a stake in an illicit venture.
 
-**Tags:** chapters: [21], topics: [duress, murder bar], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, agreement-inference], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21 — The common law strictly holds that duress is categorically unavailable as a defense to intentional murder (duress-murder-bar).
+**Grounding:** Chapter 19 - Agreement Inferences (Lauria)
 
-<!-- grounding: GROUNDED — duress-murder-bar, Ch 21, Refinement `duress-murder-bar`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Lauria Inferences, Ch 19, Refinement `lauria-three-inferences`. Rule paraphrased accurately. -->

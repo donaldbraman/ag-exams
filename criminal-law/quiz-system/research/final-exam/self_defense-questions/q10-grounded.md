@@ -1,17 +1,21 @@
-**Q10.** Assume Alex owed a legal duty to summon aid and breached that duty. How will a court evaluate whether Alex's failure to call 911 was the actual (but-for) cause of Blake's death?
+**Q10.** Assume Florida's current Stand Your Ground statute applies to Alex's case. How will the procedural burden be allocated at Alex's pre-trial immunity hearing?
 
-(a) By determining if the delivery driver's eventual emergency call was an unforeseeable superseding act that entirely broke the chain of legal causation.
-(b) By assessing whether Alex's failure to act was the singular and exclusive mechanical mechanism that resulted in Blake's ultimate biological demise.
-(c) By asking whether Blake's death was a natural and probable consequence of a significantly delayed medical response by local emergency services personnel.
-(d) By concluding that omissions are legally incapable of causing physical harm because they universally lack an affirmative, voluntary physical act.
-(e) By asking whether Blake would have survived if Alex had fulfilled his legal duty and called emergency services immediately after the shooting. <!-- correct -->
+(a) The judge will dismiss the charges unless the prosecution disproves Alex's self-defense claim by clear and convincing evidence at the evidentiary hearing. <!-- correct -->
+(b) The judge will dismiss the charges unless the prosecution disproves Alex's self-defense claim by a preponderance of the evidence at the evidentiary hearing.
+(c) The judge will dismiss the charges only if Alex successfully proves his self-defense claim by clear and convincing evidence at the evidentiary hearing.
+(d) The judge will dismiss the charges only if Alex successfully proves his self-defense claim by a preponderance of the evidence at the evidentiary hearing.
+(e) The judge will automatically send the case to the jury, because conflicting evidence regarding self-defense cannot be resolved by a judge at a pre-trial hearing.
 
-**Answer:** (e)
+**Answer:** (a)
 
-**Explanation:** To establish actual (but-for) causation in an omission case, the factfinder must run a counterfactual inquiry: if the defendant had performed the required duty, would the harm have been avoided? Because the medical examiner concluded Blake would have survived if 911 had been called immediately, Alex's failure to call is a but-for cause of death. (a) is wrong because the delivery driver's call did not cause the death; it merely ended the omission period. (b) is wrong because a cause need not be the "sole and exclusive" mechanism; it only needs to be a necessary link in the chain. (c) is wrong because "natural and probable consequence" relates to proximate cause, not the actual but-for causation inquiry required here. (d) is wrong because the law explicitly recognizes that a failure to act, when a duty exists, can legally cause a result.
+**Explanation:** The prosecution bears the burden of disproving immunity by clear and convincing evidence. Under Florida's post-2017 Stand Your Ground procedural rules, once a defendant asserts SYG immunity at a pre-trial hearing, the burden shifts to the prosecution. If the prosecution fails to meet this high clear and convincing standard, the judge will dismiss the charges. 
+(b) fails because the standard is clear and convincing evidence, not a preponderance. 
+(c) fails because the burden rests on the prosecution, not the defendant. 
+(d) fails because it incorrectly assigns both the burden (to the defendant) and the standard (preponderance). 
+(e) fails because Florida law specifically authorizes judges to resolve these factual disputes at pre-trial immunity hearings.
 
-**Tags:** chapters: [8, 9], topics: [causation, omission, but-for-test], difficulty: medium, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, stand your ground, procedural immunity], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 8, but-for-test-basic
+**Grounding:** Chapter 22 (Florida SYG burden shift, clear and convincing evidence)
 
-<!-- grounding: GROUNDED — But-for causation (omissions), Ch 8, Refinement `but-for-test-basic`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Stand Your Ground immunity procedure, Ch 22, Refinement `syg-immunity-procedure`. Rule paraphrased accurately. -->

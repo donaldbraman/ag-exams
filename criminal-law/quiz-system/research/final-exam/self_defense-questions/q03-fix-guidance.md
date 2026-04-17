@@ -2,93 +2,31 @@
 
 The QA pipeline flagged this question. Rewrite `q03.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — audit
+## Issue 1 — edge-case
 
-**Q3.** Assume Alex is charged with assault and claims self-defense. In a standard jurisdiction, does the initial aggressor rule completely bar Alex from claiming self-defense?
+**Q3.** Assume that, whether or not Chris is liable, Alex is charged with criminal trespass for stepping onto the lawn. Can Alex successfully claim a mistake-of-law defense based on the County Clerk's map?
 
-(a) Yes, because entering another person's property while holding a deadly weapon automatically designates the trespasser as the initial physical aggressor.
-(b) Yes, because his initial text message to Chris demonstrated a premeditated plan to intentionally provoke a violent physical confrontation.
-(c) No, because Alex merely held the bat at his side and did not provoke a physical conflict with the unlawful use of force. <!-- correct -->
-(d) No, because Blake's aggressive verbal insult to Alex constituted the first legally recognized act of violence in the confrontation.
-(e) No, because Alex dropped the baseball bat before drawing his handgun, which legally constituted a clear communication of withdrawal.
+(a) Yes, because his reasonable reliance on an official document provided by the public officer responsible for administering those records satisfies the official-statement exception. <!-- correct -->
+(b) Yes, because any genuinely held belief about the legality of one's conduct automatically negates the mens rea required for a general intent property crime.
+(c) No, because mistake of law is never a valid defense unless the criminal statute itself explicitly requires proof that the defendant knew their conduct was illegal.
+(d) No, because the plat map was legally erroneous, and defendants assume the absolute risk of criminal liability when relying on incorrect administrative or clerical interpretations.
+(e) No, because the official-statement exception only applies to written interpretations issued by the highest appellate court or the legislature in the relevant jurisdiction.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct because being an initial aggressor generally requires starting a fight through the unlawful use or threat of physical force; standing with a bat at one's side (Fact 4) does not automatically meet this threshold. (a) is incorrect because trespassing with a weapon is not universally categorized as initiating a physical conflict without an accompanying threat. (b) is incorrect because subjective plans do not make one an initial aggressor without translating into aggressive physical acts. (d) is incorrect because "mere words" (Fact 5) do not constitute physical aggression. (e) is incorrect because dropping the bat did not communicate withdrawal from an active fight, as the physical fight had not yet started.
+**Explanation:** Alex has a valid mistake-of-law defense under the official-statement exception. While ignorance of the law is generally no excuse, a defendant may rely on an official statement of law (even if erroneous) given by a public officer or agency legally responsible for interpreting or administering that law, such as a County Clerk issuing an official plat map. 
+(b) fails because mistake of law does not generally negate the mens rea for general intent offenses. 
+(c) fails because it ignores the official-statement exception to the general rule. 
+(d) fails because the exception specifically exists to protect reasonable reliance on legally erroneous official statements. 
+(e) fails because the exception extends to responsible administrative officers, not just courts or legislatures.
 
-**Tags:** chapters: [22], topics: [initial aggressor, self-defense], difficulty: medium, cognitive: application
+**Tags:** chapters: [10], topics: [mistake of law, official statement], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22, Initial Aggressor Bar.
+**Grounding:** Chapter 10 (Mistake of Law, official statement exception)
 
-<!-- audit: MUST FIX
-<check 1>: fail (Cannot assess correct-answer accuracy because the underlying fact pattern is completely missing from the stem.)
-<check 2>: fail (Without a fact pattern, it is impossible to evaluate if any distractors are defensible.)
-<check 3>: fail (The explanation references "Fact 4" and "Fact 5", but there are no numbered facts in the prompt.)
-<check 4>: fail (The stem completely omits the fact pattern. Mentions of "Blake," "Chris," "text message," "bat," and "handgun" appear out of nowhere in the options and explanation.)
-<check 5>: pass (Stipulates a standard jurisdiction, which is fine for the baseline initial aggressor doctrine.)
-<check 6>: pass (No apparent excluded-topic bleed in the visible text.)
-<check 7>: pass (Initial aggressor bar is firmly covered in Ch 22 map under `initial-aggressor-bar`.)
-Recommended fix: Insert the missing fact pattern (including Facts 1-5, Alex, Blake, Chris, the bat, the handgun, and the text message) into the question stem.
--->
-
-## Issue 2 — edge-case
-
-**Q3.** Assume Alex is charged with assault and claims self-defense. In a standard jurisdiction, does the initial aggressor rule completely bar Alex from claiming self-defense?
-
-(a) Yes, because entering another person's property while holding a deadly weapon automatically designates the trespasser as the initial physical aggressor.
-(b) Yes, because his initial text message to Chris demonstrated a premeditated plan to intentionally provoke a violent physical confrontation.
-(c) No, because Alex merely held the bat at his side and did not provoke a physical conflict with the unlawful use of force. <!-- correct -->
-(d) No, because Blake's aggressive verbal insult to Alex constituted the first legally recognized act of violence in the confrontation.
-(e) No, because Alex dropped the baseball bat before drawing his handgun, which legally constituted a clear communication of withdrawal.
-
-**Answer:** (c)
-
-**Explanation:** (c) is correct because being an initial aggressor generally requires starting a fight through the unlawful use or threat of physical force; standing with a bat at one's side (Fact 4) does not automatically meet this threshold. (a) is incorrect because trespassing with a weapon is not universally categorized as initiating a physical conflict without an accompanying threat. (b) is incorrect because subjective plans do not make one an initial aggressor without translating into aggressive physical acts. (d) is incorrect because "mere words" (Fact 5) do not constitute physical aggression. (e) is incorrect because dropping the bat did not communicate withdrawal from an active fight, as the physical fight had not yet started.
-
-**Tags:** chapters: [22], topics: [initial aggressor, self-defense], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 22, Initial Aggressor Bar.
-
-<!-- edge-case-audit: SHOULD FIX
-1. Fact Pattern Booby Traps: Two issues. First, the question asks to assume Alex is charged with "assault," but the facts establish he shot Blake in the chest (which would be battery, attempted murder, or homicide). Second, the premise that Alex is definitively *not* the initial aggressor is highly debatable; many jurisdictions would treat armed trespass onto a bitter rival's lawn with the intent to intimidate as an implied threat of force, thus triggering the initial aggressor bar. 
-2. Cross-Doctrine Clashes: Pass. 
-3. Cross-Question Spoilers: Pass (though note a minor structural mismatch: this question is labeled Q3, but the stub list assigned Initial Aggressor to Q2 and Duty to Retreat to Q3).
-Recommended fix: Change "charged with assault" to "charged with criminal homicide or battery." To make (c) unambiguously correct, soften the phrasing to acknowledge the arguable nature of the act (e.g., "No, because a court could find that merely holding a bat at his side without a threatening gesture falls short of unlawfully initiating a physical conflict.").
--->
-
-## Issue 3 — argpass-opus
-
-**Q3.** Assume Alex is charged with assault and claims self-defense. In a standard jurisdiction, does the initial aggressor rule completely bar Alex from claiming self-defense?
-
-(a) Yes, because entering another person's property while holding a deadly weapon automatically designates the trespasser as the initial physical aggressor.
-(b) Yes, because his initial text message to Chris demonstrated a premeditated plan to intentionally provoke a violent physical confrontation.
-(c) No, because Alex merely held the bat at his side and did not provoke a physical conflict with the unlawful use of force. <!-- correct -->
-(d) No, because Blake's aggressive verbal insult to Alex constituted the first legally recognized act of violence in the confrontation.
-(e) No, because Alex dropped the baseball bat before drawing his handgun, which legally constituted a clear communication of withdrawal.
-
-**Answer:** (c)
-
-**Explanation:** (c) is correct because being an initial aggressor generally requires starting a fight through the unlawful use or threat of physical force; standing with a bat at one's side (Fact 4) does not automatically meet this threshold. (a) is incorrect because trespassing with a weapon is not universally categorized as initiating a physical conflict without an accompanying threat. (b) is incorrect because subjective plans do not make one an initial aggressor without translating into aggressive physical acts. (d) is incorrect because "mere words" (Fact 5) do not constitute physical aggression. (e) is incorrect because dropping the bat did not communicate withdrawal from an active fight, as the physical fight had not yet started.
-
-**Tags:** chapters: [22], topics: [initial aggressor, self-defense], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 22, Initial Aggressor Bar.
-
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under the initial aggressor doctrine, a person who initiates a conflict loses the right to self-defense. A student could argue that entering another's property while visibly armed with a deadly weapon constitutes an implied threat of deadly force. In some views, an armed trespasser creates such an inherently dangerous situation that they are automatically deemed the initial physical aggressor. Therefore, this armed trespass fundamentally initiated the conflict, making (a) correct.
-(b) Argument-for: The provocation exception to self-defense bars individuals who deliberately instigate a fight from claiming self-defense. A student could argue that Alex's text message established clear mens rea, proving a premeditated intent to provoke a violent confrontation. Because the law disfavors those who manufacture conflicts, this premeditated plan logically serves as the provocation that strips Alex of his self-defense claim, making (b) correct.
-(c) Argument-for: The initial aggressor rule universally requires an affirmative unlawful use or imminent threat of physical force. Merely holding a bat at one's side does not meet the threshold of an imminent threat or physical provocation. Since Alex did not initiate the physical conflict or make an aggressive move with the bat, he is not the initial aggressor and retains his right to self-defense, making (c) the correct answer.
-(d) Argument-for: Self-defense allows a response to imminent unlawful threats. A student could argue that in a highly charged confrontation, Blake's aggressive verbal insult transcended "mere words" and constituted a legally recognized act of violence or assault. If Blake's words are treated as the first aggressive act, then Blake, not Alex, is the initial aggressor, leaving Alex's self-defense right intact and making (d) correct.
-(e) Argument-for: The withdrawal doctrine restores the right to self-defense if an initial aggressor clearly abandons the conflict. A student could argue that by dropping his primary weapon (the baseball bat), Alex performed an overt act that legally communicated his withdrawal from the initial aggression. Because he successfully withdrew before escalating further, his right to self-defense was fully restored, making (e) correct.
-
-Head-to-head: 
-Option (c) is the strongest legally grounded argument because it accurately applies the initial aggressor rule, requiring an actual threat or use of force rather than just armed presence. The distractors rely on explicitly false legal claims: (a) incorrectly asserts that armed trespass "automatically" designates one as a physical aggressor regardless of conduct; (d) incorrectly elevates an insult to a "legally recognized act of violence," violating the mere words doctrine; and (e) incorrectly classifies dropping a bat to draw a gun as a "clear communication of withdrawal." Option (b) incorrectly implies that a text message demonstrating a premeditated plan triggers the bar, but it lacks absolute language to fully lock the falsifiability of this premise according to strict multiple-choice guidelines, making it slightly vulnerable to interpretation.
-
-Falsifiable claim per distractor:
-- (a): "automatically designates the trespasser as the initial physical aggressor" — wrong because armed trespass without an accompanying threat or use of force is not categorically considered the initiation of a physical conflict.
-- (b): "Yes, because his initial text message to Chris demonstrated a premeditated plan" — wrong conceptually because mere premeditation without an aggressive physical act doesn't trigger the bar, but it currently lacks an absolute word to lock the false proposition.
-- (d): "constituted the first legally recognized act of violence" — wrong because mere verbal insults do not constitute a legally recognized act of violence or physical aggression.
-- (e): "legally constituted a clear communication of withdrawal" — wrong because dropping one weapon to immediately draw another does not legally constitute an abandonment of the conflict or a clear communication of withdrawal.
-
-Recommended fix: To strictly lock the false legal claim in (b), add an absolute word. Change (b) to: "Yes, solely because his initial text message to Chris demonstrated a premeditated plan to intentionally provoke a violent physical confrontation."
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: The scenario describes a mistake of collateral law/fact (Alex's erroneous belief about the property boundary based on the plat map). This is traditionally a defense because it negates the required mens rea for trespass (knowing you are on the "property of another"). However, the question and Answer (a) improperly categorize this under the "official-statement exception." The official-statement exception (e.g., MPC 2.04(3)) applies to mistakes about the *penal law itself* (i.e., whether the conduct constitutes an offense), and reliance must be on an official responsible for interpreting or enforcing the *criminal* statute, not a County Clerk administering civil property records.
+3. Cross-Question Spoilers: pass
+Recommended fix: If the goal is to test the official-statement exception to a mistake of penal law, change the facts so an official responsible for enforcing criminal law (e.g., the local District Attorney) gives Alex an official interpretation stating that walking on the disputed grass does not violate the criminal trespass statute. Alternatively, change this question's focus and correct answer to test how a mistake of non-penal law (property records) negates the specific mens rea elements of the trespass charge.
 -->

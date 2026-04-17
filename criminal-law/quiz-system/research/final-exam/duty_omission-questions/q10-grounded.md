@@ -1,17 +1,17 @@
-**Q10.** Assume Bex is charged as an accomplice to Alba's murder of Cody, based on her act of watching the hallway. Does Bex have the requisite mens rea for accomplice liability regarding Cody's death?
+**Q10.** If Dana is charged with felony murder predicated on the burglary of the clinic, does the merger doctrine (independent felonious purpose) bar the charge?
 
-(a) Yes, because Bex knew that Alba intended to let Cody die when Bex agreed to watch the hallway.
-(b) Yes, because Bex's act of standing guard provided actual physical assistance to Alba's plan.
-(c) No, because Bex acted solely out of fear for her life and did not have the purpose to facilitate Cody's death. <!-- correct -->
-(d) No, because Bex's role was minor compared to Alba's actions in dragging Cody and fighting off the rescue attempt.
-(e) No, because accomplice liability requires the defendant to be the actual perpetrator of the resulting harm.
+(a) Yes, because the burglary was committed contemporaneously with the injection, merging the two acts into a single continuous fatal transaction.
+(b) Yes, because breaking into the clinic was an assaultive act directed at property that logically merges with the resulting homicide.
+(c) No, because the merger doctrine applies exclusively to lesser-included offenses like manslaughter and has no application to felony murder charges.
+(d) No, because her purpose in committing the burglary was to steal drugs, which is independent of the physical harm caused. <!-- correct -->
+(e) No, because she broke into a veterinary clinic rather than a human dwelling, thereby negating the underlying logic of merger.
 
-**Answer:** (c)
+**Answer:** (d)
 
-**Explanation:** (c) is correct because accomplice liability generally requires the specific intent (purpose) to facilitate the underlying offense; Bex acting solely out of fear for her life negates the purpose to help Alba kill Cody. (a) is incorrect because mere knowledge of the principal's intent is insufficient for accomplice liability; the accomplice must have the purpose to assist. (b) is incorrect because while standing guard satisfies the actus reus (assistance), liability fails without the required mens rea. (d) is incorrect because even a minor role like standing guard is sufficient for the actus reus of accomplice liability if the mens rea is present. (e) is incorrect because accomplice liability specifically exists to punish those who assist but do not personally perpetrate the harm.
+**Explanation:** (d) is correct because the merger doctrine bars felony murder only when the underlying felony is assaultive in nature and merges logically with the homicide itself (e.g., aggravated assault resulting in death). Here, Dana committed burglary with the independent property purpose of stealing drugs. Because the felony had an independent purpose, it does not merge and can support a felony murder charge. (a) is wrong because contemporaneity does not dictate merger; the legal purpose of the felony is the key factor. (b) is wrong because burglary to steal is an independent property crime, not an assaultive act. (c) is wrong because the merger doctrine's primary modern function is precisely to limit the application of felony murder. (e) is wrong because the building type does not dictate the merger analysis.
 
-**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose], difficulty: medium, cognitive: application
+**Tags:** chapters: [14], topics: [felony-murder, merger-doctrine], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 18 — Accomplice liability requires that the defendant act with the purpose of promoting or facilitating the commission of the offense (mr-purpose-not-knowledge).
+**Grounding:** Chapter 14 - Merger Doctrine (Independent Purpose)
 
-<!-- grounding: GROUNDED — Accomplice Liability (Mens Rea), Ch 18, Refinement `mr-purpose-not-knowledge`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Merger Doctrine (Independent Purpose), Ch 14, Refinement `merger-independent-purpose`. Rule paraphrased accurately. -->

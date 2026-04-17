@@ -1,17 +1,21 @@
-**Q1.** Is Chris guilty of the crime of conspiracy to assault Blake?
+**Q1.** Assume Chris is charged with conspiracy based on the agreement to bring bats. Is Chris guilty of the conspiracy offense itself under both the common law and the Model Penal Code (MPC)?
 
-(a) Yes, because his communication of withdrawal occurred after the agreement was formed and an overt act was committed. <!-- correct -->
-(b) Yes, because the bilateral agreement requirement demands that all parties physically arrive at the target destination.
-(c) No, because he completely and voluntarily abandoned his criminal purpose and communicated this to Alex.
-(d) No, because merely walking toward the property does not constitute a substantial step toward the commission of an assault.
-(e) No, because his act of dropping the bat legally nullified his initial verbal assent to the criminal agreement.
+(a) Yes, because the common law does not recognize withdrawal from the conspiracy offense itself, and his actions did not thwart the crime as required for an MPC renunciation defense. <!-- correct -->
+(b) No, because his act of dropping the bat and walking away constituted a complete and voluntary abandonment of the criminal enterprise under both legal standards.
+(c) Not guilty under the common law, because he communicated his withdrawal, but guilty under the MPC, because he failed to notify law enforcement about the impending attack.
+(d) Guilty under the common law, because he took an overt act, but not guilty under the MPC, because he effectively renounced the agreement before Alex encountered Blake.
+(e) No, because a conspiracy automatically dissolves under both standards when one co-conspirator physically leaves the scene before the target offense is committed.
 
 **Answer:** (a)
 
-**Explanation:** Withdrawal is generally not a defense to the crime of conspiracy itself once the crime is complete. A conspiracy is complete when the agreement is formed and an overt act in furtherance of it (here, grabbing bats and walking toward the property) is committed. Chris's subsequent abandonment does not undo the already completed crime of conspiracy. (b) is wrong because the bilateral agreement requirement refers to the shared intent to agree, not physical arrival at the scene. (c) is wrong because abandonment may be a defense to attempt, but traditional withdrawal does not erase the completed conspiracy offense. (d) is wrong because "substantial step" is the test for criminal attempt, whereas conspiracy only requires a minimal "overt act." (e) is wrong because subsequent actions cannot legally nullify an already perfected conspiracy.
+**Explanation:** Chris is guilty of conspiracy. Under the common law, withdrawal only prevents liability for future crimes of co-conspirators, but the conspiracy offense itself is already complete upon agreement and an overt act. Under the MPC, a defendant must completely and voluntarily renounce the criminal purpose AND successfully thwart the success of the conspiracy. Chris merely walked away, doing nothing to stop Alex. 
+(b) fails because voluntary abandonment without thwarting is insufficient under the MPC. 
+(c) fails because there is no requirement to notify law enforcement specifically, only to thwart. 
+(d) fails because the MPC renunciation defense requires thwarting, not just abandoning. 
+(e) fails because a conspiracy does not automatically dissolve when one member leaves.
 
-**Tags:** chapters: [19], topics: [conspiracy, withdrawal, completed-offense], difficulty: medium, cognitive: application
+**Tags:** chapters: [17, 19], topics: [conspiracy, renunciation, withdrawal], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19, withdrawal-requirements
+**Grounding:** Chapter 19 (withdrawal from Pinkerton vs conspiracy) and Chapter 17/19 (MPC renunciation)
 
-<!-- grounding: GROUNDED — withdrawal, Ch 19, Refinement `withdrawal-requirements`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Conspiracy Withdrawal and Renunciation, Ch 19 and Ch 17, Refinement `withdrawal-requirements` and `abandonment-mpc`. Rule paraphrased accurately. -->

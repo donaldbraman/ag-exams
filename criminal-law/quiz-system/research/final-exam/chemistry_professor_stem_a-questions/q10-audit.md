@@ -1,26 +1,26 @@
-**Q10.** Arthur argues that he cannot be charged with possessing the 500 grams of the chemical in his backpack because Silas was able to freely reach into the bag and remove two grams, destroying Arthur's exclusive control. Is Arthur correct?
+**Q10.** During the motel room transaction, can the prosecution establish that Arthur possessed the 500 grams of the substance remaining in his backpack?
 
-(a) Yes, because Silas's unrestricted physical access to the backpack permanently destroys the exclusive control element necessary to establish constructive possession over the remaining drugs.
-(b) No, because the law readily permits joint possession, and Silas's shared access does not negate Arthur's ongoing awareness of and power to control the backpack's contents. <!-- correct -->
-(c) Yes, because the backpack was located in a shared motel room, requiring the prosecution to prove that Arthur actually touched the specific drugs sold to the victim.
-(d) No, because Arthur's ownership of the backpack creates an irrebuttable legal presumption of exclusive control over all of its contents, regardless of who else accesses it.
-(e) Yes, because Arthur mistakenly believed the substance was a legal nootropic, which legally negates the specific intent required to exercise control over a scheduled controlled substance.
+(a) Yes, because Arthur maintained constructive possession of the backpack's contents by exercising dominion and control over it, even though Silas also had access to the materials inside. <!-- correct -->
+(b) Yes, but only because Arthur was the original manufacturer of the synthetic substance, which creates a permanent and unyielding legal presumption of possession until completely sold.
+(c) No, because Silas freely reached into the backpack to remove the two grams, demonstrating that Arthur lacked the exclusive control legally required to establish constructive possession.
+(d) No, because the legal concept of constructive possession applies exclusively to fixed premises or registered vehicles, not to easily movable personal containers like backpacks or luggage.
+(e) No, because Arthur's mistaken belief that the substance was a legal nootropic completely negates the subjective awareness required to establish possession of a scheduled controlled substance.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Arthur had constructive possession because the law explicitly permits joint possession, and Silas's access does not negate Arthur's power and intent to control the backpack's contents. (a) is wrong because exclusive control can be shared jointly among co-conspirators. (c) is wrong because physical touching is not required to establish constructive possession. (d) is wrong because criminal law does not recognize irrebuttable presumptions of possession based solely on ownership. (e) is wrong because a mistake of penal law does not negate the intent to possess the physical substance itself.
+**Explanation:** (a) is correct. Constructive possession requires knowledge of the item's presence and the power and intent to exercise dominion and control over it. Arthur brought the backpack and controlled its distribution. Crucially, possession need not be exclusive; joint possession exists when multiple people have access and control. (b) is incorrect because manufacturing does not create a permanent presumption of possession if the manufacturer subsequently relinquishes all control. (c) is incorrect because exclusive control is not required; Silas's access demonstrates joint possession, not the destruction of Arthur's possession. (d) is incorrect because constructive possession applies to any location or container where dominion and control can be established, including backpacks. (e) is incorrect because possession only requires awareness of the factual presence of the item; a mistake regarding its legal status on a regulatory schedule does not negate the actus reus of possession.
 
-**Tags:** chapters: [15], topics: [constructive possession, exclusive control], difficulty: easy, cognitive: application
+**Tags:** chapters: [15], topics: [possession, constructive possession, joint possession], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15 (cp-exclusive-control)
+**Grounding:** Chapter 15 - Constructive Possession Elements; Exclusive Control Limit
 
-<!-- audit: SHOULD FIX
-Check 1: pass
-Check 2: pass
-Check 3: finding. The explanation for (a) unnecessarily narrows joint possession to "co-conspirators" (it applies generally to those sharing power and intent to control). The explanation for (e) categorically dismisses Arthur's belief as a "mistake of penal law." Mistaking an illicit substance for a legal nootropic could be a mistake of fact as to the substance's identity, which would validly negate the mens rea for possession. Option (e) is incorrect primarily because it is non-responsive to Arthur's specific argument in the stem, not necessarily because the defense is legally invalid.
-Check 4: finding. Distractors (c) and (e) introduce orphaned facts ("shared motel room", "sold to the victim", "legal nootropic") that do not appear in the stem, indicating this was extracted from a larger fact pattern. This could confuse students evaluating it as a standalone question.
-Check 5: pass
-Check 6: pass
-Check 7: pass
-Recommended fix: Update the explanation for (a) to remove the reference to co-conspirators. Update the explanation for (e) to reflect that the option is non-responsive to the prompt's core premise. If this is used as a standalone question, edit distractors (c) and (e) to remove references to external facts.
+<!-- audit: MUST FIX
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: fails - The stem is missing the fact pattern entirely. It refers to "the motel room transaction," "Arthur," "Silas," and the "backpack" without introducing any of these facts or actors.
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Prepend the missing fact pattern to the question stem, establishing the motel room transaction, Arthur bringing the backpack, Silas reaching in to take two grams, and Arthur's belief about the substance's legality.
 -->

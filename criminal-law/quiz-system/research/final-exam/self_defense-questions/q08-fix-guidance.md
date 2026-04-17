@@ -2,35 +2,44 @@
 
 The QA pipeline flagged this question. Rewrite `q08.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — audit
+## Issue 1 — argpass-opus
 
-# Stem 2: Homicide, Causation, and Plea Negotiations
+**Q8.** Assume Alex argues his shooting was mitigated by Blake's insult ("worthless piece of trash"). Under traditional common-law rules, is Alex entitled to a heat-of-passion manslaughter reduction?
 
-Blake has died from his injuries in the hospital. The investigation into the aftermath of the shooting revealed a 45-minute delay in calling 911 and a major hospital error. I need you to evaluate Alex's homicide grading based on his emotional state, and analyze whether his omission or the medical error affects his liability for the completed homicide.
-
-**Q8.** Assume Alex is charged with murder in a jurisdiction that follows the Model Penal Code's Extreme Emotional Disturbance (EED) standard. Which of the following provides Alex's strongest argument for mitigating the charge to manslaughter?
-
-(a) Blake's insulting remark about Alex being a "pathetic loser" strictly meets the traditional common-law categorical requirements for adequate provocation by a victim.
-(b) The combination of Blake's insult and Alex's trespassing created a spontaneous mutual combat situation that automatically negates the malice aforethought requirement.
-(c) Alex acted under an extreme emotional disturbance for which there was a reasonable explanation, based partly on his severe depression following his wife's death. <!-- correct -->
-(d) Alex's sudden realization that he had shot an unarmed man caused him to panic, establishing that the actual killing occurred in the heat of passion.
-(e) Blake's sudden act of reaching into his heavy jacket provided adequate physical provocation that would cause an ordinary, reasonable man to lose all self-control.
+(a) Yes, because the insult was delivered during a highly emotional property dispute, which objectively constitutes adequate provocation for a reasonable person in that situation.
+(b) Yes, because Alex subjectively experienced a sudden and intense rage that temporarily overrode his capacity for rational thought and deliberate premeditation before firing.
+(c) No, because mere words and insults, no matter how offensive or enraging, are legally insufficient to constitute adequate provocation under the traditional categorical rules. <!-- correct -->
+(d) No, because Alex had sufficient cooling time during his walk across the lawn to reflect on his actions before encountering Blake on the property line.
+(e) No, because the heat-of-passion doctrine only applies when the victim commits a severe physical battery against the defendant before the fatal blow is struck.
 
 **Answer:** (c)
 
-**Explanation:** (c) is correct because the MPC's EED standard allows for subjective mitigation based on the defendant's emotional state, such as severe depression from recent trauma (Fact 1), rather than requiring a specific provocative act. (a) is incorrect because "mere words" (Fact 5) do not meet the strict common-law categories for adequate provocation. (b) is incorrect because mutual combat requires mutual physical engagement, not just an insult and a trespass. (d) is incorrect because the emotional disturbance must precede or coincide with the killing, not arise after the victim is shot (Fact 9). (e) is incorrect because reaching into a pocket (Fact 6) is analyzed under self-defense, not as a provocation causing a loss of self-control.
+**Explanation:** Alex is not entitled to a reduction. Under traditional common-law rules, adequate provocation is restricted to specific historical categories (such as observing spousal adultery or suffering a severe battery). The law strictly holds that mere words and insults, no matter how offensive, are categorically insufficient to constitute adequate provocation. 
+(a) fails because the objective standard under common law categorically excludes words as adequate provocation. 
+(b) fails because it focuses entirely on his subjective state, ignoring the objective adequacy requirement. 
+(d) fails because the claim fails at the provocation threshold before cooling time even needs to be assessed. 
+(e) fails because there are other valid categories besides severe battery (e.g., mutual combat), making this option too narrow.
 
-**Tags:** chapters: [12], topics: [extreme emotional disturbance, provocation, manslaughter], difficulty: medium, cognitive: application
+**Tags:** chapters: [12], topics: [intentional homicide, heat of passion, provocation], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 12, Extreme Emotional Disturbance (EED expands old categories and considers defendant's subjective state).
+**Grounding:** Chapter 12 (Common law provocation, words alone rule)
 
-<!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: finding (The explanation for (e) states that reaching into a pocket is analyzed under self-defense, not provocation. While true at common law, MPC EED allows for extreme fear or terror to mitigate murder to manslaughter; it is not limited to anger. The actual reason (e) is wrong under the MPC is that its wording ("ordinary, reasonable man," "adequate physical provocation") relies on the rigid common-law objective standard rather than the MPC's subjective "actor's situation" standard.)
-check 4: finding (The stem contains a blatant leaked AI prompt instruction: "I need you to evaluate Alex's homicide grading...". Additionally, the stem lacks the necessary facts to answer the question. The options and explanations rely on missing numbered facts like Alex's severe depression, Blake's insulting remark, and the pocket reach, indicating this question was detached from a larger shared fact pattern and is not self-contained.)
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Remove the leaked AI instruction from the stem. Integrate the missing facts (Alex's depression, the insult, the pocket reach) directly into the stem so the question is functionally self-contained. Revise the explanation for (e) to reflect that MPC EED can indeed involve fear, but the option fails because it uses the objective common-law standard instead of the MPC's standard.
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: Under modern interpretations (like the Model Penal Code's extreme emotional disturbance), words alone can sometimes mitigate murder to manslaughter. A student might confuse the traditional rule with this modern trend, arguing that an intense property dispute culminating in a vicious insult objectively provides adequate provocation for a reasonable person to lose control, thereby satisfying the objective prong of the defense.
+(b) Argument-for: The core of the heat-of-passion mitigation is distinguishing cold-blooded killers from those acting under overwhelming emotion. A student might argue that if Alex subjectively experienced a sudden and intense rage that overrode his rational thought, he lacked deliberate malice aforethought. This rationale assumes that a genuine subjective loss of control inherently dictates the legal outcome for mitigation.
+(c) Argument-for: Under traditional common law, the heat-of-passion doctrine strictly requires adequate provocation to fall into specific historical categories, such as suffering a battery or observing spousal adultery. The well-established "mere words" rule categorically dictates that insults, regardless of severity, are legally insufficient to constitute adequate provocation. Therefore, Alex's reliance on Blake's verbal insult unequivocally dooms his argument.
+(d) Argument-for: A successful heat-of-passion defense requires that the defendant act before there is a reasonable opportunity to cool off. A student could argue that Alex's physical walk across the lawn provided a sufficient temporal and spatial break to reflect on his actions. By doing so, the student would conclude that this objective gap legally defeats his claim before he even fired the shot.
+(e) Argument-for: Because the traditional common law heavily restricted heat-of-passion reductions, a student might over-extrapolate the severity requirement. Knowing that a severe battery is a classic example of adequate provocation, they might conclude the traditional doctrine categorically mandates a physical assault by the victim, making the lack of physical violence entirely fatal to Alex's claim.
+
+Head-to-head: Option (c) is unambiguously correct because it accurately applies the traditional common law's "mere words" rule to categorically deny the reduction. Option (a) makes a false legal claim by classifying an insult as objectively adequate provocation under traditional rules. Option (b) fails by reaching a legally false "Yes" conclusion based purely on subjective rage, improperly ignoring the objective standard. Option (e) contains a clear, absolute legal falsehood by claiming the doctrine "only" applies to severe physical battery, ignoring other recognized categories like spousal adultery. Option (d), however, relies on a highly debatable factual assertion ("had sufficient cooling time during his walk") rather than an explicitly locked, absolutely false legal rule, making it vulnerable to subjective interpretation over how long the walk actually took.
+
+Falsifiable claim per distractor:
+- (a): "which objectively constitutes adequate provocation" — wrong because traditional common-law strictly follows the categorical "mere words" rule, meaning an insult alone never objectively constitutes adequate provocation.
+- (b): "Yes, because Alex subjectively experienced..." — wrong because the conclusion "Yes" falsely implies that subjective rage alone is legally sufficient to earn a manslaughter reduction under traditional rules, bypassing the objective requirement.
+- (d): "because Alex had sufficient cooling time during his walk across the lawn" — wrong because a brief walk is factually and legally unlikely to constitute sufficient cooling time, though it lacks an absolute framing to guarantee it operates as a falsifiable rule of law.
+- (e): "doctrine only applies when the victim commits a severe physical battery" — wrong because the absolute phrase "only applies" legally excludes other traditional adequate provocation categories (e.g., mutual combat, discovering spousal adultery).
+
+Recommended fix: Update distractors (b) and (d) with absolute locking words to ensure strict legal falsifiability. 
+Change (b) to: "Yes, because a defendant's subjective experience of sudden and intense rage automatically satisfies the provocation requirement, regardless of objective circumstances."
+Change (d) to: "No, because any physical relocation away from the victim, such as walking across a lawn, categorically constitutes sufficient cooling time as a matter of law."
 -->

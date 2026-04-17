@@ -1,22 +1,22 @@
-**Q7.** Silas is charged with the substantive offenses of evidence tampering and false imprisonment based on Arthur stepping on the phone and locking the door. Under the *Pinkerton* doctrine, is Silas liable for Arthur's actions?
+**Q7.** Is Silas liable under the *Pinkerton* doctrine for Arthur's actions in locking the door and preventing the 911 call?
 
-(a) Yes, because Silas is strictly liable for any and all criminal acts committed by his co-conspirator, regardless of whether the acts were foreseeable or furthered the conspiracy.
-(b) No, because Silas explicitly protested Arthur's actions and attempted to call 911, which immediately severs his liability for any subsequent crimes Arthur committed in the room.
-(c) Yes, because preventing the victim's rescue to avoid police detection was an act in furtherance of their drug distribution conspiracy and was a reasonably foreseeable consequence. <!-- correct -->
-(d) No, because the doctrine only extends liability to the specific target offense of the conspiracy and never covers subsequent cover-up efforts or false imprisonment of victims.
-(e) Yes, because Silas's physical presence in the motel room establishes his direct accomplice liability for Arthur's acts, rendering the conspiracy doctrine's foreseeability requirement legally irrelevant.
+(a) Yes, because Arthur's actions were reasonably foreseeable efforts to conceal the drug distribution and avoid police detection, which were done in furtherance of the ongoing conspiracy. <!-- correct -->
+(b) Yes, because the Pinkerton doctrine imposes strict criminal liability on all co-conspirators for any crime committed by a confederate, regardless of its foreseeability or specific purpose.
+(c) No, because acts of concealment committed after the completion of the core objective of the drug sale fall strictly outside the temporal scope of Pinkerton liability.
+(d) No, because Silas verbally protested leaving the motel room, which legally severed his connection to Arthur's subsequent independent acts of knocking the phone and locking the door.
+(e) No, because Pinkerton liability only applies to crimes that the conspirators expressly agreed to commit at the explicit formation of the original criminal agreement.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Silas is liable because Arthur's actions in locking the door to avoid police detection are reasonably foreseeable and act in furtherance of the ongoing drug conspiracy. (a) is wrong because *Pinkerton* liability requires the acts to be foreseeable and in furtherance of the conspiracy, not just any random act. (b) is wrong because mere verbal protest without thwarting the crime or notifying police does not constitute legal withdrawal. (d) is wrong because *Pinkerton* explicitly covers foreseeable collateral crimes, including subsequent cover-ups. (e) is wrong because *Pinkerton* liability extends substantive liability based on the agreement itself, not merely physical presence at the scene.
+**Explanation:** (a) is correct. Under the *Pinkerton* doctrine, a conspirator is liable for all reasonably foreseeable substantive crimes committed by co-conspirators in furtherance of the conspiracy. Arthur explicitly stated his motive was to avoid police detection to protect the enterprise and his job. Acts to conceal the crime or escape detection immediately following the core offense are typically considered foreseeable acts in furtherance of the conspiracy. (b) is incorrect because *Pinkerton* is not strict liability; it requires the substantive crime to be foreseeable and in furtherance of the conspiracy. (c) is incorrect because the conspiracy does not instantly terminate the moment money and drugs change hands; immediate escape and concealment are within its scope. (d) is incorrect because a mere verbal protest without effectively thwarting the crime or withdrawing does not sever *Pinkerton* liability. (e) is incorrect because *Pinkerton* explicitly covers crimes that were not expressly agreed upon, provided they were foreseeable consequences of executing the agreement.
 
-**Tags:** chapters: [19], topics: [conspiracy, Pinkerton doctrine], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, Pinkerton liability, scope of conspiracy], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 (pinkerton-doctrine)
+**Grounding:** Chapter 19 - The Pinkerton Doctrine
 
 <!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: Pass.
-2. Cross-Doctrine Clashes: Silas's attempt to call 911 and his verbal protest arguably constitute a withdrawal from the conspiracy under some standards. If he successfully withdrew *before* Arthur locked the door, he would not be liable for the false imprisonment under *Pinkerton*. This makes the absolute correctness of (c) highly debatable without a stipulation.
-3. Cross-Question Spoilers: By concluding that Silas is definitely liable under *Pinkerton* for acts occurring after his 911 attempt, Q7 forces the conclusion that his withdrawal was legally ineffective. This directly spoils Q8, which explicitly tests Silas's withdrawal defense. Furthermore, Q7's explanation for (b) explicitly hands the student the legal rule to solve Q8.
-Recommended fix: Add a stipulation to the stem: "Assuming for the purposes of this question that Silas's actions did not constitute a legally effective withdrawal from the conspiracy..." Additionally, rewrite distractor (b) and its explanation to focus on a different limitation of *Pinkerton* (e.g., arguing the target crime of drug distribution was non-violent, so false imprisonment wasn't foreseeable) to avoid stepping on Q8's withdrawal analysis entirely.
+1. Fact Pattern Booby Traps: The act of "preventing the 911 call" is factually established as Arthur knocking the phone out of Silas's hand and destroying it. Silas is the victim of these specific acts (battery/criminal mischief). A defendant cannot be vicariously liable under Pinkerton for a crime of which he is the direct victim. Asking if Silas is liable for "Arthur's actions in... preventing the 911 call" inadvertently asks if Silas is liable for his own assault/property victimization. 
+2. Cross-Doctrine Clashes: The victim-exclusion principle in accomplice/vicarious liability clashes with applying Pinkerton to crimes committed against a co-conspirator. Also, Pinkerton creates liability for *crimes*, not just "actions."
+3. Cross-Question Spoilers: pass
+Recommended fix: Specify the substantive crime directed at the third party (Julian). Change the prompt to: "Is Silas liable under the Pinkerton doctrine for the false imprisonment (or homicide) of Julian resulting from Arthur locking the motel room door?" and remove references in the options to the acts committed against Silas.
 -->

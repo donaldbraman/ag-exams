@@ -1,21 +1,19 @@
-## Scenario: Stash House Overdose
+## Scenario: The Cabin Laboratory
 
 ### Facts
 
-1. The investigation established that Alba and Bex verbally agreed to use Bex's apartment as a stash house to sell fentanyl. Alba supplied 50 grams of the drug; Bex placed it in a kitchen lockbox to which only Bex had the combination, though Alba directed all sales.
-2. Cody arrived at the apartment to purchase drugs. Alba negotiated the sale, and Bex handed Cody a loaded syringe containing the fentanyl.
-3. Cody injected the fentanyl in the living room, immediately collapsed, and stopped breathing. Alba and Bex recognized this as a lethal overdose.
-4. Alba, recognizing Cody as a suspected police informant, stated, "He's a rat. Let him die. Grab his legs." Alba and Bex dragged Cody into a windowless bathroom and shut the door to isolate him from the main living area.
-5. Bex panicked and picked up a cell phone to dial 911. Alba immediately drew a loaded handgun, pointed it at Bex's head, and stated, "Put the phone down or I will blow your brains out."
-6. Bex dropped the phone. Alba ordered, "Go watch the hallway." Bex stood by the front door, looking through the peephole to ensure no one interrupted, acting solely out of fear for her own life and without any desire for Cody to die.
-7. Dane, who lived next door, heard the collapse and Cody's agonal breathing through the thin walls. Recognizing a medical emergency, Dane kicked open Bex's locked front door, causing $800 in property damage, intending to administer Narcan to the victim.
-8. As Dane entered, Alba struck Dane forcefully in the head with the butt of the handgun. The investigation established Alba intended only to knock Dane out to prevent the rescue, not to kill him. Dane fell unconscious to the floor.
-9. Cody died in the bathroom twenty minutes later. The medical examiner testified that Cody died from respiratory failure induced by the fentanyl, but confirmed that Dane's Narcan would have fully reversed the overdose had Dane not been incapacitated.
+1. Alex, Blake, and Chris operate out of an isolated rural cabin packaging a new synthetic opioid. Dana, a freelance chemist, legally sells dual-use precursor chemicals. She knows the trio is using her chemicals to manufacture opioids, so she charges them a 20% "special handling" premium above her standard market rate.
+2. Alex brings five kilograms of the opioid to the cabin and locks it inside a combination safe; only Alex and Blake know the combination.
+3. Alex pays Blake $500 a day under an oral agreement specifically to "act as Chris's bodyguard and primary medical caretaker," as Chris has a known history of severe adverse drug reactions.
+4. To test the batch, Alex personally prepares a dose of the opioid and hands it to Chris, who injects it and immediately collapses, turning blue and struggling to breathe.
+5. Blake pulls out his phone to call 911, but Alex draws a handgun, points it at Blake's chest, and states, "If the cops come, we all go to prison. Lock the door and stand guard, or I will shoot you right now."
+6. Blake, genuinely terrified for his life, complies. He locks the cabin's only heavy deadbolt and stands in front of the door, completely isolating Chris from any outside assistance.
+7. Evan, a delivery driver dropping off food, happens to be inside the cabin when Alex draws the gun. Panicked by the weapon, Evan helps Blake push the heavy deadbolt shut before breaking the back window and fleeing through it.
+8. Dana, who is outside and terrified that a dead body will ruin their profitable operation, breaks into a neighboring locked veterinary clinic to steal an animal-grade cardiac stimulant.
+9. Dana climbs into the cabin through the window Evan broke and forcefully injects Chris with the stolen veterinary stimulant.
+10. Expert medical testimony establishes that Chris would have died from the opioid overdose within ten minutes, but Dana's stimulant triggered an immediate and massive cardiac rupture that killed Chris instantly.
+11. Police subsequently raid the cabin, discovering the combination safe containing the 5 kilograms of opioids, along with hundreds of small plastic baggies and a digital scale.
 
-### Stem 1: Initial Charges
+### Memo Instruction
 
-We are prepping the initial drug and omission charges based on the events up to the moment they dragged the victim into the bathroom. I need you to break down the conspiracy, possession, and the specific legal duties owed to the victim by both Alba and Bex before the gun was drawn.
-
-### Stem 2: The Homicide and Defenses
-
-The file now includes the coercion of Bex, the neighbor's forced entry, the assault, and the victim's death. Evaluate the neighbor's property damage defense, Alba's liability for the assault and the homicide, and whether Bex's coercion claim can defeat a murder charge under the accomplice and Pinkerton theories. Also, analyze the potential for a felony murder charge based on the initial drug distribution.
+The District Attorney has just handed down a multi-count indictment against Alex, Blake, Dana, and Evan for the events at the cabin. I need you to draft a memo analyzing the viability of the state's theories of liability, particularly focusing on how the omissions, the chaotic rescue attempt, and the drug conspiracy intersect. Start with the core duties, the causation chain, and the inchoate liabilities.

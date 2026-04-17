@@ -1,22 +1,22 @@
-**Q13.** If the jurisdiction charges Alba and Bex with felony murder predicated on the distribution of fentanyl, which of the following is the strongest defense argument against the charge?
+**Q13.** Assume that, regardless of causation, Blake is charged with the intentional murder of Chris. Can Blake successfully raise the defense of duress?
 
-(a) Under the "in the abstract" test, the statute prohibiting fentanyl distribution can be violated in safe, medical contexts, so it is not an inherently dangerous predicate felony. <!-- correct -->
-(b) The felony murder rule requires the prosecution to prove that the defendants acted with extreme indifference to human life during the drug sale.
-(c) Cody's act of voluntarily injecting the drug constitutes an independent intervening act that shields the sellers from felony murder liability.
-(d) The distribution of fentanyl was complete once the drugs were handed over, so the death did not occur during the commission of the felony.
-(e) The underlying crime of selling drugs merges with the homicide under the independent felonious purpose doctrine.
+(a) Yes, because Alex pointing a loaded handgun at Blake's chest constitutes an imminent threat of death that overcomes free will.
+(b) Yes, because Blake's role was merely secondary, allowing the court to mitigate his criminal liability based on the coercive circumstances.
+(c) No, because the common law categorically bars duress as a defense to intentional homicide regardless of the severity of coercion. <!-- correct -->
+(d) No, because Blake could have attempted to disarm Alex or flee the cabin instead of complying with the unlawful order.
+(e) No, because accepting financial compensation to act as security legally forfeits the right to claim duress when threatened with violence.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct because the abstract approach to inherently dangerous felonies asks if the statute can be violated in a safe manner; since fentanyl distribution can occur in medical contexts, it is not inherently dangerous in the abstract. (b) is incorrect because felony murder is a strict liability doctrine regarding the death; it does not require proving extreme indifference. (c) is incorrect because the victim's voluntary drug use is generally considered a dependent, foreseeable consequence of the drug sale, not a superseding cause. (d) is incorrect because deaths occurring during the immediate aftermath or continuous transaction of the felony fall within the res gestae. (e) is incorrect because drug sales typically have an independent felonious purpose (profit) and do not merge with the homicide.
+**Explanation:** (c) is correct because the common law imposes an absolute categorical bar on the use of duress as a defense to intentional homicide. The underlying rationale is that a person may not choose to sacrifice an innocent life to save their own, no matter how severe or imminent the coercion. (a) is wrong because while the threat was imminent and deadly, the homicide bar legally precludes the defense. (b) is wrong because duress is an all-or-nothing excuse, not a mitigating factor for secondary actors in common law murder. (d) is wrong because the availability of alternatives is a standard element of duress, but the homicide bar preempts the defense before alternatives are evaluated. (e) is wrong because accepting a job does not legally forfeit defenses; the homicide bar is the disqualifying rule here.
 
-**Tags:** chapters: [14], topics: [felony murder, inherently dangerous predicate], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [21], topics: [duress, homicide-bar], difficulty: easy, cognitive: recall
 
-**Grounding:** Chapter 14 — The "in the abstract" test limits felony murder by excluding felonies that can be committed in ways not inherently dangerous to human life, such as regulatory drug distribution (enumerated-vs-unenumerated).
+**Grounding:** Chapter 21 - Duress Murder Bar
 
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: Option (a) incorrectly claims a criminal statute can be "violated in safe, medical contexts." Lawful medical distribution does not violate criminal statutes for unlawful distribution. The abstract test looks at the least dangerous *unlawful* way to commit the crime (e.g., unlawfully distributing a trace, non-lethal amount). 
-2. Cross-Doctrine Clashes: Option (d) is actually a highly viable, and often the prevailing, defense argument in traditional common law jurisdictions. The res gestae of drug distribution ends when the exchange is complete. Because the transaction was over before the victim injected and died, the death did not legally occur "during the commission" of the felony. This temporal disconnect is the exact reason many states had to pass specific "Len Bias" drug-induced homicide statutes. Thus, (d) competes with or overrides (a) as the "strongest" common law defense.
-3. Cross-Question Spoilers: pass
-Recommended fix: Rewrite (a) to correctly apply the abstract test without relying on lawful conduct (e.g., "the statute prohibiting distribution can be violated by distributing small, non-lethal quantities"). Rewrite (d) so it is a clearly incorrect application of the res gestae doctrine (e.g., "The res gestae of the felony ended when Bex dialed 911, breaking the felony murder chain").
+<!-- edge-case-audit: SHOULD FIX
+1. Fact Pattern Booby Traps: The facts establish that Blake committed both an omission (failing to call 911) and an affirmative act (locking the door). If the hypothetical murder charge is based on his omission, Blake wouldn't even need an affirmative defense—a core element of omission liability is that one has no legal duty to rescue if doing so puts their own life in peril (like facing a loaded gun). This would negate the *actus reus* entirely.
+2. Cross-Doctrine Clashes: The MPC explicitly abandoned the common law categorical bar on duress for murder (allowing it if a person of "reasonable firmness" would have yielded). Since the question stem doesn't explicitly restrict the jurisdiction to the common law, an astute student could argue that the defense *can* be successfully raised under the MPC.
+3. Cross-Question Spoilers: pass. (The "regardless of causation" caveat successfully inoculates this question from the fact that Dana's injection is the actual cause of death, protecting the hypothetical).
+Recommended fix: Update the stem to explicitly lock in the jurisdiction and the affirmative act: "Assume that, regardless of causation, Blake is charged under the common law with the intentional murder of Chris based on his affirmative act of locking the door. Can Blake successfully raise the defense of duress?"
 -->

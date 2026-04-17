@@ -1,18 +1,22 @@
-**Q8.** Assume the jurisdiction has adopted the Model Penal Code's Extreme Emotional Disturbance (EED) framework for manslaughter. Which of the following provides Alex's strongest argument for an EED instruction?
+**Q8.** Assume Alex argues his shooting was mitigated by Blake's insult ("worthless piece of trash"). Under traditional common-law rules, is Alex entitled to a heat-of-passion manslaughter reduction?
 
-(a) The victim's verbal insult constituted a legally adequate provocation under the strict traditional common-law categorical approach to the manslaughter reduction.
-(b) The requirement of a sudden heat of passion is completely eliminated if the defendant possesses a formally documented mental health diagnosis.
-(c) The jury can consider his severe depression and recent trauma in evaluating the reasonableness of his explanation for the extreme emotional state. <!-- correct -->
-(d) The EED defense operates as a complete justification if the defendant's emotional response was triggered by the victim's aggressive physical behavior.
-(e) The objective component of the EED test solely analyzes whether a typical person without underlying trauma would have fired a lethal weapon.
+(a) Yes, because the insult was delivered during a highly emotional property dispute, which objectively constitutes adequate provocation for a reasonable person in that situation.
+(b) Yes, because Alex subjectively experienced a sudden and intense rage that temporarily overrode his capacity for rational thought and deliberate premeditation before firing.
+(c) No, because mere words and insults, no matter how offensive or enraging, are legally insufficient to constitute adequate provocation under the traditional categorical rules. <!-- correct -->
+(d) No, because Alex had sufficient cooling time during his walk across the lawn to reflect on his actions before encountering Blake on the property line.
+(e) No, because the heat-of-passion doctrine only applies when the victim commits a severe physical battery against the defendant before the fatal blow is struck.
 
 **Answer:** (c)
 
-**Explanation:** The Model Penal Code's Extreme Emotional Disturbance (EED) defense softens the rigid common-law provocation rules. It allows the jury to consider the defendant's specific situation—including mental trauma like severe depression and grief—when evaluating the reasonableness of the explanation or excuse for the extreme emotional disturbance. (a) is wrong because common law categorically rejected "words alone" as adequate provocation. (b) is wrong because while EED removes the strict "suddenness" requirement, it does not automatically eliminate the standard simply because a diagnosis exists; the explanation must still be reasonable. (d) is wrong because EED is a partial excuse reducing murder to manslaughter, not a complete justification for violence. (e) is wrong because EED explicitly incorporates the defendant's subjective situation (including trauma) into the reasonableness inquiry.
+**Explanation:** Alex is not entitled to a reduction. Under traditional common-law rules, adequate provocation is restricted to specific historical categories (such as observing spousal adultery or suffering a severe battery). The law strictly holds that mere words and insults, no matter how offensive, are categorically insufficient to constitute adequate provocation. 
+(a) fails because the objective standard under common law categorically excludes words as adequate provocation. 
+(b) fails because it focuses entirely on his subjective state, ignoring the objective adequacy requirement. 
+(d) fails because the claim fails at the provocation threshold before cooling time even needs to be assessed. 
+(e) fails because there are other valid categories besides severe battery (e.g., mutual combat), making this option too narrow.
 
-**Tags:** chapters: [12], topics: [homicide, provocation, extreme-emotional-disturbance], difficulty: medium, cognitive: application
+**Tags:** chapters: [12], topics: [intentional homicide, heat of passion, provocation], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 12, eed-standard-elements
+**Grounding:** Chapter 12 (Common law provocation, words alone rule)
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

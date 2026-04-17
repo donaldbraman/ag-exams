@@ -1,18 +1,18 @@
-**Q6.** Assume Alba is charged with attempted murder for striking Dane in the head with the butt of the handgun. Is Alba guilty of this charge?
+**Q6.** Assume the state successfully proves a conspiracy to manufacture synthetic opioids. Can Alex be convicted of Dana's burglary under the Pinkerton doctrine?
 
-(a) Guilty, because Alba took a substantial step toward the commission of a homicide by striking Dane in the head with a deadly weapon.
-(b) Guilty, because it was reasonably foreseeable that striking someone in the head with a gun butt could cause death, establishing the required mens rea.
-(c) Not guilty, because Alba intended only to knock Dane out to prevent the rescue, and attempted murder requires the specific intent to kill. <!-- correct -->
-(d) Not guilty, because Dane survived the blow and fell unconscious, meaning the actus reus for attempted murder was not completed.
-(e) Not guilty, because Alba acted out of a desire to prevent Dane from intervening rather than out of malice aforethought toward Dane.
+(a) Guilty, because Dana's act of securing medical supplies to hide the operation falls within the foreseeable scope of the agreement.
+(b) Guilty, because any felony committed by a co-conspirator automatically establishes strict liability for all other members of the ongoing conspiracy.
+(c) Not guilty, because Alex did not personally participate in, intend, or explicitly authorize Dana to break into the veterinary clinic.
+(d) Not guilty, because property offenses like burglary cannot serve as predicate crimes for Pinkerton liability in drug distribution conspiracy cases.
+(e) Not guilty, because a panicked burglary of a veterinary clinic is an unforeseeable deviation from a synthetic opioid manufacturing conspiracy. <!-- correct -->
 
-**Answer:** (c)
+**Answer:** (e)
 
-**Explanation:** (c) is correct because attempted murder requires the specific intent (purpose) to kill; Alba's intent to merely knock Dane out defeats this mens rea requirement. (a) is incorrect because although striking Dane is a substantial step, the specific intent to kill is missing. (b) is incorrect because attempt requires purpose, not just reasonable foreseeability or recklessness regarding the result. (d) is incorrect because surviving the blow is typical in attempted murder; the failure is the lack of specific intent, not the lack of a corpse. (e) is incorrect because malice aforethought is the standard for completed murder, but attempt strictly requires the specific intent to kill.
+**Explanation:** (e) is correct because Pinkerton liability holds co-conspirators vicariously liable for substantive offenses committed by others only if those offenses are both in furtherance of the conspiracy and reasonably foreseeable. A freelance chemist breaking into a veterinary clinic to steal animal stimulants is a highly extraordinary, unforeseeable deviation from a standard opioid manufacturing scheme. (a) is wrong because although Dana acted to protect the operation, the specific crime fails the objective foreseeability requirement. (b) is wrong because Pinkerton liability is not strict liability; the foreseeable and in-furtherance requirements act as vital limits. (c) is wrong because Pinkerton explicitly dispenses with the need for personal participation or authorization. (d) is wrong because any crime can theoretically serve as a Pinkerton predicate if it meets the two-part test.
 
-**Tags:** chapters: [17], topics: [attempt, specific intent], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, pinkerton-doctrine], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17 — Attempt requires specific intent (purpose) to cause the resulting harm, even if the completed crime could be satisfied by a lesser mens rea like recklessness (*State v. White*).
+**Grounding:** Chapter 19 - Pinkerton Doctrine
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

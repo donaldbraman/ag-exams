@@ -1,0 +1,39 @@
+# Fix Guidance for q06
+
+The QA pipeline flagged this question. Rewrite `q06.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
+
+## Issue 1 — argpass-opus
+
+**Q6.** Assume the state successfully proves a conspiracy to manufacture synthetic opioids. Can Alex be convicted of Dana's burglary under the Pinkerton doctrine?
+
+(a) Guilty, because Dana's act of securing medical supplies to hide the operation falls within the foreseeable scope of the agreement.
+(b) Guilty, because any felony committed by a co-conspirator automatically establishes strict liability for all other members of the ongoing conspiracy.
+(c) Not guilty, because Alex did not personally participate in, intend, or explicitly authorize Dana to break into the veterinary clinic.
+(d) Not guilty, because property offenses like burglary cannot serve as predicate crimes for Pinkerton liability in drug distribution conspiracy cases.
+(e) Not guilty, because a panicked burglary of a veterinary clinic is an unforeseeable deviation from a synthetic opioid manufacturing conspiracy. <!-- correct -->
+
+**Answer:** (e)
+
+**Explanation:** (e) is correct because Pinkerton liability holds co-conspirators vicariously liable for substantive offenses committed by others only if those offenses are both in furtherance of the conspiracy and reasonably foreseeable. A freelance chemist breaking into a veterinary clinic to steal animal stimulants is a highly extraordinary, unforeseeable deviation from a standard opioid manufacturing scheme. (a) is wrong because although Dana acted to protect the operation, the specific crime fails the objective foreseeability requirement. (b) is wrong because Pinkerton liability is not strict liability; the foreseeable and in-furtherance requirements act as vital limits. (c) is wrong because Pinkerton explicitly dispenses with the need for personal participation or authorization. (d) is wrong because any crime can theoretically serve as a Pinkerton predicate if it meets the two-part test.
+
+**Tags:** chapters: [19], topics: [conspiracy, pinkerton-doctrine], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 19 - Pinkerton Doctrine
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: Under the Pinkerton doctrine, a co-conspirator is vicariously liable for substantive offenses committed in furtherance of the conspiracy that are reasonably foreseeable. A student could argue that in a clandestine drug manufacturing conspiracy, obtaining supplies—even through burglary—is a necessary and foreseeable part of the illicit operation. Therefore, Dana's act to hide the operation meets the Pinkerton test, making Alex guilty.
+(b) Argument-for: A student could argue that conspiracy creates a broad net of liability. Since Pinkerton holds co-conspirators liable for the substantive crimes of their partners, a student might overextend this principle. They might mistakenly believe this creates automatic strict liability for any felony committed by a co-conspirator during the ongoing conspiracy, regardless of foreseeability.
+(c) Argument-for: A student focusing on traditional accomplice liability or fundamental principles of mens rea might conclude that Alex cannot be guilty of a crime he didn't intend or participate in. Pinkerton liability can seem counterintuitive because it dispenses with these traditional requirements. Conflating accomplice liability with Pinkerton, a student would conclude that since Alex lacked personal involvement or explicit authorization for the burglary, he must be found not guilty.
+(d) Argument-for: A student might recall that Pinkerton liability is most frequently applied to substantive offenses directly related to the core of the conspiracy, such as weapon possession or drug distribution. They might assume that there are subject-matter limits to vicarious liability. As a result, they could wrongly conclude there is a categorical legal bar against using property crimes like burglary as predicate offenses when the underlying conspiracy is solely for drug manufacturing.
+(e) Argument-for: This option correctly applies the limits of the Pinkerton doctrine. The doctrine requires that the substantive crime be reasonably foreseeable and in furtherance of the conspiracy. A panicked burglary of a veterinary clinic is a highly unusual and erratic act that deviates significantly from a standard opioid manufacturing ring's operations. Therefore, it is an objectively unforeseeable consequence of the conspiracy, meaning Alex is not guilty.
+
+Head-to-head: Option (e) correctly limits Pinkerton liability by applying the foreseeability requirement, concluding that a panicked veterinary clinic burglary is an unforeseeable deviation from a standard drug manufacturing scheme. Options (b), (c), and (d) all contain explicit, falsifiable legal errors regarding the Pinkerton rule (asserting strict liability, requiring personal participation, and inventing a categorical bar on property offenses, respectively). However, Option (a) is the strongest distractor because it correctly recites the "foreseeable scope" standard but merely disagrees with (e) on the factual application. Because (a) lacks a false legal claim anchored by absolute words, a student could plausibly argue that securing supplies is actually a foreseeable consequence of an illegal manufacturing conspiracy. Since (a) relies on a disputable factual conclusion rather than a definitive legal error, the question requires a fix to make (a) explicitly false.
+
+Falsifiable claim per distractor:
+- (a): "falls within the foreseeable scope of the agreement" — wrong because the explanation asserts this specific burglary is unforeseeable, but this is a fact-bound conclusion rather than an explicitly false legal claim.
+- (b): "automatically establishes strict liability" — wrong because Pinkerton liability is not strict; the substantive crime must be reasonably foreseeable and in furtherance of the conspiracy.
+- (c): "did not personally participate in, intend, or explicitly authorize" — wrong because Pinkerton specifically allows for vicarious liability without any personal participation or explicit authorization.
+- (d): "property offenses like burglary cannot serve as predicate crimes" — wrong because any crime can serve as a Pinkerton predicate provided it meets the foreseeable and in-furtherance test.
+
+Recommended fix: Edit (a) to include an absolute legal claim so it is explicitly falsifiable regardless of factual interpretation. For example: "(a) Guilty, because any collateral crime committed by a co-conspirator to hide the operation categorically falls within the foreseeable scope of the agreement."
+-->

@@ -1,18 +1,22 @@
-**Q9.** Assume it is established that Alex is not guilty of any homicide offense based on the act of shooting Blake because the initial shot was justified by self-defense. The prosecution instead charges Alex with a homicide offense based on his failure to call 911. Under the traditional categories of omission liability, what is the basis for Alex's legal duty to act?
+**Q9.** Assume the jurisdiction applies the Model Penal Code (MPC). How does the analysis of Alex's emotional response to the insult differ from the common-law approach?
 
-(a) He assumed a voluntary duty to care for Blake by intentionally crossing the property line and entering into Blake's front yard.
-(b) He created the peril that placed Blake in severe danger of physical death by shooting him in the chest with a handgun. <!-- correct -->
-(c) He breached a statutory duty imposed on all citizens to formally report violent felonies to local emergency dispatch services immediately upon occurrence.
-(d) He established a special relationship with Blake through their shared physical property boundary and their ongoing civil legal dispute regarding the property.
-(e) He possessed an implied contractual obligation to mitigate any physical damages stemming directly from their ongoing and intensely bitter civil lawsuit proceedings.
+(a) Alex may seek a reduction, because the MPC eliminates the rigid categorical bars against words and instead evaluates the reasonableness of his emotional disturbance from his viewpoint. <!-- correct -->
+(b) Alex is completely barred from a reduction, because the MPC strictly requires that the emotional disturbance be triggered by a sudden physical assault rather than an ongoing dispute.
+(c) Alex may seek a reduction, because the MPC operates on a purely subjective standard where any genuine anger automatically reduces an intentional murder to manslaughter.
+(d) Alex is completely barred from a reduction, because the MPC requires the defendant to prove that they were suffering from a diagnosed psychiatric condition at the time.
+(e) Alex may seek a reduction, because the MPC formally categorizes property disputes as one of the adequately provoking circumstances that automatically mitigates an intentional killing.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Generally, criminal law imposes no legal duty to rescue or summon aid. However, there are five recognized exceptions. One exception is the "creation of peril" category: when a person's actions create the danger that puts another person at risk of harm, they incur a legal duty to take reasonable steps to rescue or seek help, regardless of whether the initial act was justified, accidental, or criminal. By shooting Blake, Alex created the peril. (a) is wrong because crossing a property line does not constitute a voluntary assumption of care for the property owner. (c) is wrong because standard criminal law does not impose a universal statutory duty on all citizens to report felonies. (d) and (e) are wrong because neighbors and civil litigants do not fall within the recognized special status or contractual relationships that create a legal duty to act.
+**Explanation:** Alex may seek a reduction under the MPC. The MPC's Extreme Emotional Disturbance (EED) framework abandons the common law's rigid categorical bars, including the rule that words alone are never enough. Instead, it asks whether the defendant suffered from an EED for which there is a reasonable explanation or excuse, evaluated from the defendant's viewpoint. 
+(b) fails because the MPC intentionally discarded the requirement for a physical assault. 
+(c) fails because the MPC still requires that the disturbance have a "reasonable explanation or excuse," rather than operating on a purely subjective standard. 
+(d) fails because EED does not require a formal psychiatric diagnosis or mental illness. 
+(e) fails because the MPC rejects formal categories entirely, rather than creating new ones for property disputes.
 
-**Tags:** chapters: [9], topics: [omissions, legal-duty, creation-of-peril], difficulty: easy, cognitive: application
+**Tags:** chapters: [12], topics: [intentional homicide, extreme emotional disturbance, MPC], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 9, creation-of-peril-category
+**Grounding:** Chapter 12 (MPC EED, rejection of categorical bars)
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

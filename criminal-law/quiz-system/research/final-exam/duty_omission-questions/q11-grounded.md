@@ -1,17 +1,17 @@
-**Q11.** Based on Alba's actions after Cody's overdose began, what is the most accurate grading of Alba's homicide charge for Cody's death?
+**Q11.** What evidence best supports an inference that Alex possessed the opioids with intent to distribute rather than for personal use?
 
-(a) Extreme-indifference murder, because Alba's statement "Let him die," isolating Cody, and violently preventing his rescue demonstrate a depraved heart and extreme indifference to human life. <!-- correct -->
-(b) Intentional murder, because Alba supplied the lethal dose of fentanyl with the premeditated goal of killing a suspected informant.
-(c) Involuntary manslaughter, because Alba did not physically strike or shoot Cody, meaning the death was a result of gross negligence rather than malice.
-(d) Misdemeanor manslaughter, because Cody's death occurred as an accidental consequence of the misdemeanor assault on Dane.
-(e) Voluntary manslaughter, because Alba was provoked by the discovery that Cody was a police informant, causing a sudden heat of passion.
+(a) The decision to lock the drugs in a safe proves that the narcotics had substantial street value intended for resale.
+(b) The fact that he hired a bodyguard establishes that he was operating a commercial enterprise rather than supporting an addiction.
+(c) The oral agreement paying five hundred dollars a day indicates that the operation possessed significant financial resources for illicit distribution.
+(d) The act of testing the batch on a victim demonstrates an intent to verify the product's quality for eventual buyers.
+(e) The five-kilogram quantity, along with the baggies and scale, creates an overwhelming inference of distribution intent beyond mere personal use. <!-- correct -->
 
-**Answer:** (a)
+**Answer:** (e)
 
-**Explanation:** (a) is correct because extreme-indifference (depraved heart) murder requires a gross deviation from the standard of care demonstrating an extreme indifference to the value of human life, clearly evidenced by Alba saying "let him die" and violently thwarting a rescue. (b) is incorrect because Alba supplied the drugs for profit, not with the premeditated specific intent to kill. (c) is incorrect because Alba's actions went far beyond gross negligence, escalating to extreme indifference by actively preventing life-saving medical intervention. (d) is incorrect because the death resulted from the extreme indifference of thwarting the rescue, which elevates the charge beyond a mere accidental consequence of a misdemeanor. (e) is incorrect because discovering someone is an informant does not constitute adequate legal provocation for voluntary manslaughter.
+**Explanation:** (e) is correct because possession with intent to distribute is typically inferred from circumstantial evidence of scale. Five kilograms of synthetic opioids is a massive commercial quantity, and the presence of packaging materials (baggies) and a digital scale are classic, legally recognized hallmarks of a distribution operation. (a) is wrong because storing drugs in a safe only proves protective custody, which a heavy personal user might also do. (b) is wrong because hiring security could theoretically occur in a personal-use stash house, making it weaker evidence than the physical tools of distribution. (c) is wrong because financial resources alone do not legally prove an intent to distribute. (d) is wrong because testing a dose is consistent with personal consumption just as much as commercial verification.
 
-**Tags:** chapters: [13], topics: [homicide, extreme indifference murder, depraved heart], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [possession-with-intent, quantity-inference], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 13 — Extreme indifference murder is established when a defendant's conduct demonstrates a conscious disregard for human life that goes beyond ordinary recklessness, often seen in cases of prolonged neglect or thwarting rescue.
+**Grounding:** Chapter 15 - Quantity Inferences for PWID
 
-<!-- grounding: GROUNDED — Extreme indifference murder, Ch 13, Refinement `extreme-indifference-standard`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Quantity Inferences for PWID, Ch 15, Refinement `qty-pwid`. Rule paraphrased accurately. -->

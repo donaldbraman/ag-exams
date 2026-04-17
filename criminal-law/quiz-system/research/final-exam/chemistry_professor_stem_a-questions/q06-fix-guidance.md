@@ -1,0 +1,12 @@
+# Fix Guidance for q06
+
+The QA pipeline flagged this question. Rewrite `q06.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
+
+## Issue 1 — edge-case
+
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The correct option (a) states that the felony qualifies as inherently dangerous under the facts-as-committed test "given the fatal overdose." This reasoning creates a legal tautology. Under the facts-as-committed approach, a court examines whether the *method of conduct* during the felony was foreseeably dangerous to human life (e.g., selling a newly synthesized, untested experimental chemical in an unregulated setting). Courts expressly forbid using the *ultimate result* (the death/overdose itself) as proof of the inherent danger, because doing so would completely nullify the limitation (since every felony murder case inherently involves a death). A sharp student would spot this logical fallacy, eliminate (a), and be left with no correct options.
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: Modify Option (a) to focus on the conduct rather than the result: "(a) The felony does not merge because distribution has an independent felonious purpose, and it will qualify as inherently dangerous under a facts-as-committed approach given the distribution of an untested, experimental chemical." Adjust the explanation to match.
+-->

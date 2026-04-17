@@ -1,17 +1,21 @@
-**Q5.** Assume Alex claims he reasonably believed Blake was about to use deadly force. Under the traditional objective standard of reasonableness, how will a court treat Alex's knowledge of Blake's concealed carry permit and prior threats?
+**Q5.** Assume that, whether or not the castle doctrine applies, it is established that Alex was the initial aggressor by bringing the baseball bat. Did dropping the bat revive his right to self-defense?
 
-(a) The court will exclude it because the objective standard focuses only on the immediate physical movements of the victim in the moment.
-(b) The court will exclude it because incorporating prior interactions conflates the justification of self-defense with the excuse of provocation.
-(c) The court will incorporate it because the standard asks what a reasonable person in the defendant's specific situation would have believed. <!-- correct -->
-(d) The court will incorporate it because the objective standard strictly requires assessing whether the defendant's subjective fear was factually accurate.
-(e) The court will incorporate it because the modern objective standard universally mandates deference to the defendant's honest but unreasonable beliefs.
+(a) Yes, because abandoning the deadly weapon constituted a complete physical cessation of his initial aggression, automatically restoring his full right to claim self-defense.
+(b) Yes, because Blake's act of reaching for his jacket pocket escalated the encounter to deadly force, bypassing the need for Alex to withdraw.
+(c) No, because a defendant who acts as the initial aggressor permanently forfeits the right to self-defense for the entire duration of that specific physical encounter.
+(d) No, because simply dropping the bat wordlessly failed to clearly communicate his intent to withdraw from the confrontation to the other party. <!-- correct -->
+(e) No, because revivification of self-defense rights requires the initial aggressor to physically run away from the scene, not merely drop their weapon in place.
 
-**Answer:** (c)
+**Answer:** (d)
 
-**Explanation:** The objective reasonableness standard for self-defense (as seen in *People v. Goetz*) is not evaluated in a vacuum. It asks what a reasonable person *in the defendant's situation* would believe, which legally incorporates the defendant's prior experiences and specific knowledge of the attacker—including knowledge of Blake's CCW permit and prior threats. (a) is wrong because the objective standard explicitly permits situational incorporation beyond just immediate physical movements. (b) is wrong because prior experiences legitimately inform the reasonable-belief element of the justification itself. (d) is wrong because self-defense requires only a reasonable belief, not a factually accurate one; a reasonable mistake is still a valid defense. (e) is wrong because an objective standard specifically requires the belief to be reasonable, rejecting pure deference to honest-but-unreasonable subjective fears.
+**Explanation:** Alex's right to self-defense did not revive. An initial aggressor can regain the right to self-defense only if they completely withdraw from the encounter and clearly communicate that withdrawal to the other party. Dropping a bat wordlessly in the middle of a confrontation fails to clearly communicate withdrawal. 
+(a) fails because physical cessation without clear communication is legally insufficient to revive the right. 
+(b) fails because an initial aggressor who brought a deadly weapon (the bat) cannot claim the victim's use of a weapon was a sudden disproportionate escalation. 
+(c) fails because initial aggressors can revive their rights through proper withdrawal. 
+(e) fails because revivification requires clear communication, not necessarily running away.
 
-**Tags:** chapters: [22], topics: [self-defense, objective-reasonableness, situational-incorporation], difficulty: medium, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, initial aggressor, revivification], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 22, objective-reasonableness-standard; situational-incorporation
+**Grounding:** Chapter 22 (Initial aggressor bar and clear communication requirement for withdrawal)
 
-<!-- grounding: GROUNDED — situational-incorporation, Ch 22, Refinement `situational-incorporation`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Initial Aggressor Bar, Ch 22, Refinement `initial-aggressor-bar`. Rule paraphrased accurately. -->

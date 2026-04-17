@@ -1,17 +1,21 @@
-**Q12.** The prosecutor leverages the 25-year mandatory minimum for the firearm enhancement to offer Alex a 5-year plea deal for manslaughter. Under prevailing constitutional doctrine and standard prosecutorial practices, how is this strategy viewed?
+**Q12.** Assume Alex is charged with Blake's death. How does Dr. Davis's gross medical negligence (ignoring the bright red allergy bracelet to look at his phone) affect Alex's liability?
 
-(a) It is strictly unconstitutional because it violates the Eighth Amendment's prohibition on cruel and unusual punishment by threatening decades in prison.
-(b) It is unconstitutional because the extreme mathematical disparity between the plea offer and the trial penalty constitutes vindictive prosecution as a matter of law.
-(c) It is a permissible exercise of executive discretion, reflecting the transfer of sentencing power from judges to prosecutors under mandatory minimum regimes. <!-- correct -->
-(d) It is a legally permissible use of the trial penalty, provided the trial judge formally pre-approves the plea offer during a preliminary hearing.
-(e) It is an impermissible circumvention of the jury's fact-finding role, as the prosecutor is unilaterally resolving structural elements of the charged offense.
+(a) It has no effect, because medical treatment provided to a gunshot victim is always considered a dependent intervening cause that cannot break the chain of proximate causation.
+(b) It severs the causal chain, because the doctor's gross negligence in actively ignoring the medical warning bracelet was highly extraordinary and unforeseeable. <!-- correct -->
+(c) It has no effect, because any negligence by a third party must be intentional or malicious in order to shield the original wrongdoer from homicide liability.
+(d) It severs the causal chain, because any subsequent act by a medical professional automatically breaks proximate cause and shifts the legal blame to the treating physician.
+(e) It has no effect, because a defendant takes their victim as they find them, including the victim's susceptibility to subsequent medical errors during emergency hospital treatment.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** Prosecutorial discretion is presumptively valid. The U.S. Supreme Court has consistently upheld the constitutionality of the "trial penalty"—where prosecutors threaten severe mandatory sentences (like a 25-to-life firearm enhancement) to leverage much lower plea deals (like 5 years). This reflects a structural reality of modern criminal law: mandatory minimums have transferred sentencing power from judges to prosecutors, allowing prosecutors to dictate outcomes through charging decisions. (a) is wrong because the Supreme Court has generally rejected Eighth Amendment challenges to severe mandatory sentences used in plea bargaining. (b) is wrong because a large disparity between a plea offer and a trial penalty is not considered legally vindictive. (d) is wrong because judges generally do not formally pre-approve the prosecutor's initial plea offers. (e) is wrong because plea bargaining is explicitly constitutional and not viewed as an impermissible circumvention of the jury's role.
+**Explanation:** The gross negligence severs the causal chain. While ordinary medical negligence is considered a foreseeable, dependent intervening cause that does not break proximate causation, gross medical negligence—such as a doctor deliberately ignoring a bright red allergy bracelet to look at a phone—is considered highly extraordinary and independent. This severs Alex's liability for the completed homicide. 
+(a) fails because only ordinary medical negligence is dependent; gross negligence breaks the chain. 
+(c) fails because gross, reckless negligence is sufficient to break the chain without requiring malicious intent. 
+(d) fails because it incorrectly asserts that any medical act, even ordinary care, breaks the chain. 
+(e) fails because the "eggshell skull" rule applies to pre-existing biological conditions, not subsequent extraordinary medical errors.
 
-**Tags:** chapters: [6], topics: [prosecutors, mandatory-minimums, trial-penalty], difficulty: medium, cognitive: analysis
+**Tags:** chapters: [8], topics: [causation, independent intervening cause, gross negligence], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 6, mandatory-minimums-power-transfer; plea-bargaining-trial-penalty
+**Grounding:** Chapter 8 (Proximate cause, medical gross negligence as independent intervening cause)
 
-<!-- grounding: GROUNDED — trial penalty/mandatory minimums power transfer, Ch 6, Refinement `plea-bargaining-trial-penalty`, `mandatory-minimums-power-transfer`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Proximate Causation (Intervening Causes), Ch 8, Refinement `dependent-vs-independent-intervening-cause` and `highly-extraordinary-result`. Rule paraphrased accurately. -->

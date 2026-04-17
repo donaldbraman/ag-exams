@@ -2,67 +2,51 @@
 
 The QA pipeline flagged this question. Rewrite `q02.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — audit
+## Issue 1 — edge-case
 
-**Q2.** Assume that, whether or not Arthur is guilty of manufacturing, he and Silas are charged with homicide. Arthur argues that Julian's voluntary ingestion of the drug was an independent intervening cause that severs the causal chain. How should the court rule on the causation element?
+<!-- edge-case-audit: SHOULD FIX
+1. Fact Pattern Booby Traps: The fact pattern entirely omits the actual transaction with Julian. It mentions Silas taking two grams from the backpack (Fact 5), and then suddenly Julian is dying (Fact 6). Because the facts never establish that Julian paid for the drugs, a sharp student might eliminate Option (c) because it explicitly relies on Julian being a "buyer" and there being a "sale." 
+2. Cross-Doctrine Clashes: Pass. The question cleanly isolates Julian's ingestion from Arthur's subsequent act of preventing rescue, avoiding a potential proximate cause clash for Silas.
+3. Cross-Question Spoilers: Pass.
 
-(a) Julian's ingestion severs the causal chain because voluntary acts by third parties are always independent intervening causes.
-(b) Julian's ingestion severs the causal chain because Arthur could not reasonably foresee that the substance would cause cardiac arrhythmia.
-(c) Julian's ingestion does not sever the causal chain because his use of the drug was a foreseeable, dependent intervening cause. <!-- correct -->
-(d) Julian's ingestion does not sever the causal chain because the victim's own actions can never constitute an intervening cause.
-(e) Julian's ingestion severs the causal chain under the highly extraordinary result test since the substance was a new supplement.
-
-**Answer:** (c)
-
-**Explanation:** (c) is correct. A dependent intervening cause is one set in motion by the defendant's act. Because Julian's ingestion of the provided drug was a highly foreseeable response to the distribution, it was a dependent intervening cause that does not sever the causal chain. (a) fails because voluntary acts are not automatically independent intervening causes if they are part of the targeted, foreseeable risk the defendant created. (b) fails because proximate cause foreseeability does not require the defendant to foresee the exact medical mechanism of death. (d) fails because a victim's own bizarre or highly unforeseeable actions can sometimes sever the causal chain. (e) fails because ingesting a distributed drug is not a "highly extraordinary" result of distributing it.
-
-**Tags:** chapters: [8], topics: [causation, dependent intervening cause, proximate cause], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 8, Dependent vs. Independent Intervening Causes.
-
-<!-- audit: MUST FIX
-Correct-answer accuracy: pass (assuming the missing facts align with the explanation)
-Defensible distractor: pass
-Explanation consistency: pass
-Sufficient facts: Fails. The stem is entirely missing the underlying fact pattern. It references Arthur, Silas, Julian, and "the drug" as though they are already known to the reader, indicating this is an orphaned follow-up question. A student cannot evaluate foreseeability or the nature of the substance without the facts.
-Jurisdictional clarity: pass
-Excluded-topic bleed: pass
-Coverage mismatch: pass
-Recommended fix: Integrate the missing fact pattern into the stem so the question can function standalone, detailing Arthur and Silas's conduct, the nature of the drug/supplement, and Julian's subsequent ingestion and death.
+Recommended fix: Modify Option (c) and the explanation to refer to distribution/supply rather than a sale (e.g., "because a user's consumption of the distributed substance is a dependent intervening cause set in motion by the supply"). Alternatively, add a brief sentence to the core fact pattern explicitly establishing the hand-to-hand sale to Julian.
 -->
 
 ## Issue 2 — argpass-opus
 
-**Q2.** Assume that, whether or not Arthur is guilty of manufacturing, he and Silas are charged with homicide. Arthur argues that Julian's voluntary ingestion of the drug was an independent intervening cause that severs the causal chain. How should the court rule on the causation element?
+**Q2.** Does Julian's voluntary act of ingesting the drug shield Arthur and Silas from liability for his death by severing the causal chain?
 
-(a) Julian's ingestion severs the causal chain because voluntary acts by third parties are always independent intervening causes.
-(b) Julian's ingestion severs the causal chain because Arthur could not reasonably foresee that the substance would cause cardiac arrhythmia.
-(c) Julian's ingestion does not sever the causal chain because his use of the drug was a foreseeable, dependent intervening cause. <!-- correct -->
-(d) Julian's ingestion does not sever the causal chain because the victim's own actions can never constitute an intervening cause.
-(e) Julian's ingestion severs the causal chain under the highly extraordinary result test since the substance was a new supplement.
+(a) The ingestion severs the causal chain because Julian's deliberate and voluntary decision to consume the experimental drug constitutes an independent superseding cause.
+(b) The ingestion severs the causal chain because it was highly extraordinary that a healthy individual would suffer acute cardiac arrhythmia from a two-gram dose.
+(c) The ingestion does not sever the causal chain because a buyer's consumption of the distributed substance is a dependent intervening cause set in motion by the sale. <!-- correct -->
+(d) The ingestion does not sever the causal chain because the defendants' prior conduct was the established factual "but-for" cause of the resulting death.
+(e) The ingestion does not sever the causal chain because the defendants owed Julian an affirmative legal duty to rescue him once the transaction was completed.
 
 **Answer:** (c)
 
-**Explanation:** (c) is correct. A dependent intervening cause is one set in motion by the defendant's act. Because Julian's ingestion of the provided drug was a highly foreseeable response to the distribution, it was a dependent intervening cause that does not sever the causal chain. (a) fails because voluntary acts are not automatically independent intervening causes if they are part of the targeted, foreseeable risk the defendant created. (b) fails because proximate cause foreseeability does not require the defendant to foresee the exact medical mechanism of death. (d) fails because a victim's own bizarre or highly unforeseeable actions can sometimes sever the causal chain. (e) fails because ingesting a distributed drug is not a "highly extraordinary" result of distributing it.
+**Explanation:** (c) is correct. A dependent intervening cause is one set in motion by the defendant's act, and it generally does not sever the causal chain. Selling drugs to a buyer makes the buyer's subsequent consumption of those drugs a highly foreseeable, dependent intervening act rather than a superseding one. (a) is incorrect because while the act was voluntary, it was not independent or unrelated to the defendants' conduct of supplying the drug for consumption. (b) is incorrect because death by overdose is a foreseeable risk of consuming experimental synthetic drugs, not a "highly extraordinary" result. (d) is incorrect because satisfying factual "but-for" causation is necessary but not sufficient; the legal (proximate) cause analysis must still be satisfied. (e) is incorrect because supplying drugs does not inherently create an affirmative duty to rescue under the five recognized categories of omission liability, though creation of peril might later apply.
 
-**Tags:** chapters: [8], topics: [causation, dependent intervening cause, proximate cause], difficulty: medium, cognitive: application
+**Tags:** chapters: [8], topics: [causation, intervening cause, dependent vs independent], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 8, Dependent vs. Independent Intervening Causes.
+**Grounding:** Chapter 8 - Legal Cause: Dependent vs. Independent Intervening Causes
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that voluntary human actions naturally break the chain of causation. The doctrine of *novus actus interveniens* often treats fully voluntary, knowing acts by competent individuals as superseding causes. Since Julian voluntarily ingested the drug, his free will supersedes Arthur's prior act of manufacturing it. Thus, under a strict free-will paradigm, voluntary ingestion categorically severs the causal chain.
-(b) Argument-for: A student could focus on the foreseeability requirement of proximate cause. Proximate cause dictates that the resulting harm must be a reasonably foreseeable consequence of the defendant's conduct. If the specific medical mechanism of death (cardiac arrhythmia) was completely unforeseeable because the substance was a novel supplement, a student might argue this unforeseeability destroys proximate cause. Therefore, Arthur's inability to foresee the precise physiological reaction arguably severs the causal chain.
-(c) Argument-for: A student would recognize that a dependent intervening cause is a foreseeable response to the defendant's act. When Arthur distributed the drug, Julian's act of ingesting it was not just highly foreseeable, but the exact intended outcome of the transaction. Because this intervening act was a normal and expected response rather than a bizarre coincidence, it is a dependent cause. Dependent causes do not break the chain of causation, making Arthur liable for the resulting homicide.
-(d) Argument-for: A student might recall that a victim's own contributory negligence or participation in the crime rarely excuses the defendant. Because the criminal law is designed to protect victims even from their own foolishness in the context of drug consumption, courts generally hold the provider responsible. A student could overextend this principle to conclude that a victim's actions can *never* act as a superseding intervening cause, making this distractor attractive.
-(e) Argument-for: A student could invoke the "highly extraordinary result" test for proximate causation. Since the fact pattern notes the substance was a new supplement, a student might reason that its lethal physiological effects were completely bizarre or anomalous compared to standard drugs. If the outcome is characterized as highly extraordinary, the intervening act of ingestion would break the causal chain. Therefore, the novelty of the supplement allegedly triggers this exception.
+(a) Argument-for: A student might choose this by misapplying the doctrine of novus actus interveniens. They could argue that a legally competent adult's voluntary, deliberate decision to consume a known experimental substance acts as a free-will superseding cause that cuts off the initial seller's liability for the ultimate medical outcome. Because the buyer breaks the chain via independent action, the sellers are shielded.
+(b) Argument-for: A student could argue that while some harm from drug use is foreseeable, a lethal acute cardiac arrhythmia specifically stemming from a "two-gram dose" in a healthy individual is a medically freakish or "highly extraordinary" result. Under proximate cause foreseeability tests, an outcome that is highly extraordinary and falls completely outside the scope of the normal expected risks can sever the causal chain.
+(c) Argument-for: This is the legally correct answer. Under proximate causation principles, an intervening act is "dependent" if it is a normal or expected response to the situation created by the defendant. The exact purpose of selling the drug was for Julian to consume it; therefore, the ingestion was set in motion by the sale, making it a dependent intervening cause that does not sever liability.
+(d) Argument-for: A student might focus strictly on factual causation, especially recalling strict liability contexts or specific statutes (like the federal Controlled Substances Act's "results from" language) where courts have held that "but-for" causation directly links the defendant to the death. The student might assume that establishing but-for causation inherently preserves the causal chain without needing a separate proximate cause analysis.
+(e) Argument-for: A student could argue that distributing a dangerous, experimental drug creates a situation of peril. Under omission liability, creating a peril imposes an affirmative duty to rescue. The student might conclude this duty attaches immediately upon the conclusion of the drug deal, keeping the causal chain intact through the defendants' ongoing failure to intervene or warn him as he ingested it.
 
-Head-to-head: Option (c) is the legally accurate application of dependent intervening causation; the victim's ingestion of a supplied drug is a highly foreseeable response that does not break the causal chain. Options (a) and (d) are robust distractors that appropriately use explicitly false absolute terms ("always" and "never") to make them falsifiable. Option (b) relies on the false legal premise that unforeseeability of the exact medical mechanism defeats proximate cause, but it lacks an absolute word to explicitly lock the falsifiable claim. Option (e) misapplies the "highly extraordinary result" test, but similarly lacks an absolute locking term, leaving a slight opening for ambiguity under the close-call standard.
+Head-to-head: Option (c) perfectly encapsulates the proximate cause doctrine by correctly classifying the ingestion of a sold drug as a foreseeable, dependent intervening cause. Option (a) incorrectly classifies a highly expected sequence of events as an "independent" cause. Option (b) improperly treats a foreseeable drug overdose as a legally "highly extraordinary" event, though its falsifiability currently relies slightly on an application of fact. Option (d) presents a false legal rule by equating factual "but-for" causation with the entirety of the proximate cause analysis. Option (e) falsely states that merely completing a transaction inherently triggers a legal duty to rescue before the actual peril (the overdose) has materialized. While all distractors contain errors, adding absolute modifiers would lock the falsifiable propositions so that they cannot be defended as implicit or partial truths.
 
 Falsifiable claim per distractor:
-- (a): "always independent intervening causes" — wrong because voluntary acts are dependent causes if they are the exact targeted, foreseeable risk created by the defendant.
-- (b): "severs the causal chain because Arthur could not reasonably foresee that the substance would cause cardiac arrhythmia" — wrong because proximate cause does not require foreseeability of the exact medical mechanism of harm.
-- (d): "can never constitute an intervening cause" — wrong because a victim's highly unforeseeable or bizarre actions (e.g., jumping from a moving car over a minor threat) can serve as superseding causes.
-- (e): "severs the causal chain under the highly extraordinary result test since the substance was a new supplement" — wrong because the act of ingesting a provided drug is a normal, expected result, not a "highly extraordinary" one, regardless of the drug's exact chemical novelty.
+- (a): "constitutes an independent superseding cause" — wrong because consuming a distributed drug is the expected, dependent result of the sale, not an independent unforeseeable force.
+- (b): "it was highly extraordinary that a healthy individual would suffer..." — wrong because death or severe medical reaction is the legally foreseeable risk of experimental drug use, not an extraordinary unforeseeable anomaly.
+- (d): "because the defendants' prior conduct was the established factual 'but-for' cause" — wrong because establishing but-for cause is never legally sufficient on its own to resolve the severing/proximate cause question.
+- (e): "owed Julian an affirmative legal duty to rescue him once the transaction was completed" — wrong because completing a commercial transaction does not instantly create an affirmative duty to rescue under omission liability; the duty arises upon the creation of active peril.
 
-Recommended fix: Edit (b) to lock the falsifiable claim: "...severs the causal chain solely because Arthur could not reasonably foresee..." Edit (e) to read: "...categorically severs the causal chain under the highly extraordinary result test..."
+Recommended fix: Add absolute words to lock the legal falsifiability of the distractors:
+- In (a), change to: "...experimental drug categorically constitutes an independent superseding cause."
+- In (d), change to: "...resulting death solely because the defendants' prior conduct was the established factual 'but-for' cause."
+- In (e), change to: "...defendants automatically owed Julian an affirmative legal duty to rescue him once the transaction was completed."
 -->

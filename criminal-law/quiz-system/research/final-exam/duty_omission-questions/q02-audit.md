@@ -1,26 +1,25 @@
-**Q2.** Assume Alba and Bex are charged with conspiracy to distribute fentanyl based on their initial arrangement. Are they guilty of this offense?
+**Q2.** Assume that, whether or not Blake had a duty, the state charges Alex with an omission-based offense. Does Alex have a legal duty to aid Chris?
 
-(a) Guilty, because they verbally agreed to use the apartment to sell fentanyl and committed an overt act by storing the drugs in the lockbox. <!-- correct -->
-(b) Guilty, because Alba's status as a drug supplier creates an implied legal conspiracy with anyone who allows her drugs on their property.
-(c) Not guilty, because they did not formalize their agreement in writing or share equal financial control over the operation.
-(d) Not guilty, because Alba directed the sales, meaning they had unequal roles in the hierarchy, which defeats the bilateral agreement requirement.
-(e) Not guilty, because Bex merely provided the location and did not supply the actual drugs, meaning she lacked the required intent.
+(a) No, because Chris voluntarily injected the dose, which entirely shifts the peril to the victim's own conduct.
+(b) Yes, because Alex's role as the ringleader of the operation automatically created a recognized status relationship.
+(c) Yes, because the combination safe and drug supply prove Alex intended to cause the resulting medical emergency.
+(d) Yes, because preparing and handing the untested dose to Chris constituted the creation of a perilous situation. <!-- correct -->
+(e) No, because Alex only provided the substance and did not physically force the victim to complete the injection.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** (a) is correct because a conspiracy requires an agreement to commit a crime and an overt act; verbally agreeing to use the stash house and storing the drugs satisfies both. (b) is incorrect because conspiracy requires a specific intent to agree, not just an implied relationship from drug supply. (c) is incorrect because an agreement need not be formal, written, or involve equal financial control. (d) is incorrect because conspirators often have hierarchical roles; equal status is not required for a bilateral agreement. (e) is incorrect because supplying the location establishes Bex's agreement to facilitate the conspiracy.
+**Explanation:** (d) is correct because the fifth Jones category imposes a legal duty to mitigate harm on someone who creates a dangerous situation. By personally preparing and handing Chris an untested synthetic opioid, Alex created the peril and acquired a legal duty to aid him once he collapsed. (a) is wrong because a victim's voluntary participation does not absolve the provider of their legal duty after they helped create the risk. (b) is wrong because being a ringleader is not a legally recognized status relationship (like parent or spouse). (c) is wrong because the duty to act relies on the objective creation of peril, not the subjective intent to cause harm. (e) is wrong because providing the means of the overdose is sufficient to establish the creation of peril under the full course of conduct.
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement, overt act], difficulty: easy, cognitive: application
+**Tags:** chapters: [9], topics: [omissions, creation-of-peril], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 — Conspiracy requires an intent to agree and a purpose to commit the target offense; overt acts can be minimal (agreement-inference, overt-act-minimal).
+**Grounding:** Chapter 9 - Creation of Peril Category (State v. Voss)
 
-<!-- audit: MUST FIX
-check 1: pass (assuming the missing facts support the elements, the application of general conspiracy doctrine is accurate).
-check 2: pass (distractors represent common conceptual errors like hierarchical defenses or mere presence, though evaluating (e) fully requires the missing facts to ensure Bex had the requisite purpose under Lauria).
-check 3: pass (explanation properly aligns with standard conspiracy requirements).
-check 4: fail (The question is entirely missing its fact pattern. It references "their initial arrangement," "the apartment," and "the lockbox," indicating it was orphaned from a larger composite scenario).
-check 5: pass (general jurisdiction is fine here for basic overt-act conspiracy).
-check 6: pass (no excluded topics).
-check 7: pass (matches Ch 19 tags: `agreement-inference`, `overt-act-minimal`, `lauria-knowledge-vs-purpose`).
-Recommended fix: Provide a self-contained fact pattern in the stem. Example: "Alba, a drug supplier, verbally agreed with Bex to use Bex's apartment to sell fentanyl. To facilitate the operation, Bex allowed Alba to store the drugs in a lockbox in the apartment. Assume Alba and Bex are charged with conspiracy..."
+<!-- audit: CLEAN
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: pass (assuming the facts referenced in the options—such as Alex preparing the dose and Chris collapsing—are established in the master scenario that this "Q2" attaches to)
+check 5: pass
+check 6: pass
+check 7: pass
 -->

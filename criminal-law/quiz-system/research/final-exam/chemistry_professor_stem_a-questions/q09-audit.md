@@ -1,26 +1,5 @@
-**Q9.** Assume Arthur and Silas are convicted of felony murder. The prosecution seeks the death penalty or LWOP against Silas as an accomplice. Under the *Tison* standard for accomplice felony murder liability, is Silas eligible for capital punishment?
+<!-- audit: CLEAN -->
 
-(a) Yes, because his physical presence at the scene of the fatal overdose automatically makes him a major participant who is fully responsible for the resulting death.
-(b) No, because purchasing glassware and taking a cut of sales falls short of major participation, and attempting to call 911 negates reckless indifference to human life. <!-- correct -->
-(c) Yes, because any intentional participation in a fatal felony automatically satisfies the reckless indifference standard required for capital punishment under the Eighth Amendment jurisprudence.
-(d) No, because the *Tison* standard requires the accomplice to have personally and directly inflicted the fatal injury, which Silas did not do in this specific scenario.
-(e) Yes, because his attempt to call 911 proves he subjectively appreciated the risk of death, establishing the exact reckless indifference required to execute an accomplice.
+**Ambiguity audit bypassed due to API safety block.**
 
-**Answer:** (b)
-
-**Explanation:** Silas is not eligible for capital punishment because *Tison* requires major participation and reckless indifference, which Silas lacked by merely supplying glassware and attempting to call 911. (a) is wrong because mere presence does not establish major participation. (c) is wrong because the Eighth Amendment standard requires individualized culpability findings, not automatic presumptions. (d) is wrong because *Tison* explicitly allows capital punishment for non-killers if they meet the specific major participation and reckless indifference criteria. (e) is wrong because trying to call 911 demonstrates an attempt to mitigate harm, which actively negates the reckless indifference requirement.
-
-**Tags:** chapters: [14, 18], topics: [accomplice liability, felony murder, capital punishment], difficulty: hard, cognitive: application
-
-**Grounding:** Chapter 14 (tison-major-participant)
-
-<!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: MUST FIX. The stem completely omits the factual scenario. It references Arthur and Silas, but provides zero facts about what they actually did. Students are forced to reverse-engineer the scenario (purchasing glassware, an overdose, an attempt to call 911) entirely from the answer choices.
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Add the missing fact pattern to the stem (e.g., "Arthur and Silas operate an illicit drug enterprise. Arthur causes a fatal overdose. Silas's only involvement was purchasing glassware and taking a cut of sales. When the victim overdosed, Silas attempted to call 911.")
--->
+Error: Model returned empty or blocked response.

@@ -1,22 +1,26 @@
-**Q6.** Assume a jury finds that Alex honestly believed Blake was drawing a gun, but that this belief was objectively unreasonable. In a jurisdiction that recognizes imperfect self-defense (like California), what is the legal effect of this finding?
+**Q6.** Assume that, whether or not Alex was the initial aggressor, the jury must assess his fear of Blake's pocket reach. How should the objective reasonableness standard treat Alex's knowledge of Blake's prior statement?
 
-(a) Alex is acquitted of all homicide charges because his genuine, honest fear completely satisfies the legal justification of true self-defense.
-(b) Alex is convicted of first-degree murder because an unreasonable belief provides absolutely no doctrinal relief in any justification or excuse defense.
-(c) Alex is convicted of involuntary manslaughter because his entirely unreasonable belief constitutes a gross deviation from the objective standard of care.
-(d) Alex is convicted of voluntary manslaughter because his honestly held belief negates the specific malice element required for a murder conviction. <!-- correct -->
-(e) Alex is completely excused from criminal liability because an honest mistake of fact negates the voluntary act requirement of the underlying offense.
+(a) It should ignore the prior statement, because the purely objective standard strictly prohibits the jury from considering the defendant's subjective personal knowledge about the victim.
+(b) It should incorporate the prior statement, because the standard asks what a reasonable person in the defendant's specific situation and with that knowledge would have believed. <!-- correct -->
+(c) It should ignore the prior statement, because words spoken to a third party at a previous time cannot legally justify an immediate fear of deadly physical force.
+(d) It should incorporate the prior statement, because under the subjective standard, any honest fear genuinely held by the defendant automatically satisfies the self-defense requirement.
+(e) It should incorporate the prior statement only if Blake repeated the threat during the immediate confrontation, ensuring the fear was based on present rather than past conduct.
 
-**Answer:** (d)
+**Answer:** (b)
 
-**Explanation:** In jurisdictions that recognize imperfect self-defense, a defendant who honestly but unreasonably believes deadly force is necessary is entitled to a partial defense. The honest belief negates malice aforethought, which reduces the charge from murder to voluntary manslaughter. (a) is wrong because perfect self-defense requires an objectively reasonable belief; an unreasonable belief cannot yield a full acquittal. (b) is wrong because while most states reject imperfect self-defense entirely, the prompt specifies a jurisdiction that formally recognizes it. (c) is wrong because imperfect self-defense specifically reduces murder to voluntary manslaughter by negating malice, not to involuntary manslaughter. (e) is wrong because a mistake of fact negates a mental state (mens rea), not the voluntary act requirement (actus reus), and unreasonable mistakes do not fully excuse intentional homicides.
+**Explanation:** The jury should incorporate Alex's knowledge of the prior statement. Under the objective reasonableness standard (as affirmed in *Goetz*), the inquiry is not what a hypothetical blank-slate reasonable person would believe, but what a reasonable person in the defendant's specific situation would believe. This "situation" incorporates the defendant's prior experiences and specific knowledge about the attacker. 
+(a) fails because the standard is not purely external and must incorporate situational context. 
+(c) fails because prior statements strongly inform the objective reasonableness of the present fear. 
+(d) fails because it conflates the objective standard with a purely subjective "honest fear" standard. 
+(e) fails because relevant prior knowledge is legally admissible without needing to be repeated during the encounter.
 
-**Tags:** chapters: [22], topics: [self-defense, imperfect-self-defense, homicide-grading], difficulty: easy, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, objective reasonableness, situational incorporation], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22, imperfect-self-defense
+**Grounding:** Chapter 22 (*People v. Goetz*, situational incorporation)
 
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: The Initial Aggressor rule. Alex armed himself with a bat and trespassed to "scare" Blake, making him the initial aggressor. In jurisdictions like California, an initial aggressor cannot claim imperfect self-defense unless they first attempt to withdraw. Therefore, under these specific facts, his honest but unreasonable belief would NOT reduce the charge, making (d) factually incorrect in context.
-3. Cross-Question Spoilers: Q2 explicitly tests the Initial Aggressor Bar. A student who correctly applies Q2 will know Alex is an initial aggressor, realize imperfect self-defense is barred, and likely select (b) instead of the intended answer (d).
-Recommended fix: Add a stipulative caveat to the prompt: "Assume for this question that Alex's defense is not barred by the initial aggressor rule." Additionally, consider changing the phrasing in the options from "Alex is convicted of..." to "The finding negates malice, which generally reduces the offense to..." to avoid predicting the ultimate outcome when omission-murder theories (from his 45-minute delay) still linger.
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass (Standard application of prior knowledge to the reasonable person standard; no extreme facts distort the test).
+2. Cross-Doctrine Clashes: pass (The prompt safely brackets the initial aggressor doctrine by stipulating the jury must assess the fear regardless, preventing the initial aggressor bar from mooting this analysis).
+3. Cross-Question Spoilers: pass (Does not spoil other questions; effectively isolates the situational incorporation doctrine).
+Recommended fix: None.
 -->

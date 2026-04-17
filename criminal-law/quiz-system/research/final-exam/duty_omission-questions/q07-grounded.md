@@ -1,17 +1,17 @@
-**Q7.** Assume Bex is charged with Alba's assault on Dane under the *Pinkerton* doctrine. Is Bex liable for this assault?
+**Q7.** Dana asserts a necessity defense under the Model Penal Code (MPC) to the burglary charge, claiming she acted to save Chris. How does her role in supplying chemicals affect her defense?
 
-(a) Yes, because the assault was committed in furtherance of the stash house conspiracy and violently preventing interference is a reasonably foreseeable consequence of operating an illegal drug enterprise. <!-- correct -->
-(b) Yes, because Bex's presence at the scene makes her strictly liable for any crimes Alba committed during the course of the drug operation.
-(c) No, because Alba's assault on Dane was an independent, spontaneous act that severed the causal chain from the original conspiracy.
-(d) No, because Bex did not personally strike Dane or share Alba's specific intent to commit the assault against the neighbor.
-(e) No, because the *Pinkerton* doctrine only applies to the specific target offenses the conspirators explicitly agreed to commit.
+(a) The defense fails completely because anyone who helps create an emergency is categorically barred from asserting necessity under the MPC.
+(b) The defense fails if the mental state required for burglary is equal to or lesser than her fault in the emergency. <!-- correct -->
+(c) The defense succeeds because the preservation of human life is always legally superior to the protection of a clinic's property.
+(d) The defense succeeds because she only supplied chemicals and was not physically present when Alex handed Chris the untested dose.
+(e) The defense is submitted to the jury with an instruction that her financial motive automatically negates any claim of justification.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct under the *Pinkerton* doctrine, which holds conspirators vicariously liable for foreseeable substantive offenses committed by co-conspirators in furtherance of the conspiracy, such as violently protecting a stash house. (b) is incorrect because *Pinkerton* requires foreseeability and furtherance, not strict liability based merely on presence. (c) is incorrect because violently defending the drug operation from interference is a highly foreseeable consequence of a drug conspiracy, not a spontaneous departure. (d) is incorrect because *Pinkerton* explicitly dispenses with the requirement that the defendant personally share the intent or perform the act. (e) is incorrect because *Pinkerton* liability extends beyond target offenses to any reasonably foreseeable collateral crimes.
+**Explanation:** (b) is correct because under the MPC's fault-calibration rule, a defendant who is at fault in creating the emergency is not categorically barred from raising a necessity defense. Instead, the defense is unavailable only if the mental state required for the charged offense (e.g., purpose or knowledge for burglary) is equal to or less than the defendant's level of fault in creating the underlying crisis. (a) is wrong because it describes the common law categorical bar, which the MPC expressly rejects. (c) is wrong because while human life outweighs property, the MPC still requires calibrating the culpability levels for creating the peril. (d) is wrong because physical presence is irrelevant to assessing her legal culpability in supplying the dangerous chemicals. (e) is wrong because a financial motive does not automatically bar a justification defense.
 
-**Tags:** chapters: [19], topics: [conspiracy, Pinkerton liability], difficulty: medium, cognitive: application
+**Tags:** chapters: [21], topics: [necessity, mpc-fault-calibration], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 19 — The *Pinkerton* doctrine holds conspirators liable for substantive offenses committed by co-conspirators that are reasonably foreseeable and in furtherance of the conspiracy.
+**Grounding:** Chapter 21 - Necessity Fault-Calibration Rule (MPC)
 
-<!-- grounding: GROUNDED — Pinkerton doctrine, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — MPC Fault-Calibration Rule, Ch 21, Refinement `mpc-fault-calibration`. Rule paraphrased accurately. -->

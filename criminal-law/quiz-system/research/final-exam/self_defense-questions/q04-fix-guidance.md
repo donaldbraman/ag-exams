@@ -2,63 +2,42 @@
 
 The QA pipeline flagged this question. Rewrite `q04.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — edge-case
+## Issue 1 — argpass-opus
 
-**Q4.** Assume that, whether or not Alex was the initial aggressor, the jurisdiction strictly enforces a duty to retreat before using deadly force. Does Alex's use of force violate the retreat requirement?
+**Q4.** Assume that, whether or not Alex is guilty of trespass, he claims self-defense for the shooting. In a traditional retreat jurisdiction, did the castle doctrine relieve Alex of his duty to retreat?
 
-(a) Yes, because Alex was outside his own home and the facts establish he had an unobstructed path to safely retreat to the street. <!-- correct -->
-(b) Yes, because an individual engaged in an active property dispute must always return to their own dwelling before deploying a firearm.
-(c) No, because the universally recognized castle doctrine applies to any location within a residential neighborhood where property lines are contested.
-(d) No, because a person facing an objectively imminent threat of deadly force from a firearm is never legally required to attempt a retreat.
-(e) No, because Blake's rapid motion toward his jacket pocket made it factually impossible for Alex to retreat with complete personal safety.
+(a) Yes, because the castle doctrine extends broadly to all real property owned or legitimately claimed by the defendant, including the lawn and any surrounding outdoor curtilage.
+(b) Yes, because a person who is standing on their own property never has a duty to retreat before using deadly force, regardless of the jurisdiction's standard.
+(c) No, because the castle doctrine exception to the duty to retreat is traditionally limited to the physical dwelling and does not extend to the surrounding yard. <!-- correct -->
+(d) No, because the castle doctrine is categorically unavailable whenever the defendant uses a firearm instead of relying on the physical security of the home itself.
+(e) No, because Alex forfeited any right to the castle doctrine by stepping out of his own house to confront Blake rather than remaining safely indoors.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct because in retreat jurisdictions, a defendant must retreat before using deadly force if a safe escape is possible; Alex had an unobstructed path to the street (Fact 7). (b) is incorrect because the law requires attempting any safe retreat, not specifically returning to one's dwelling. (c) is incorrect because the castle doctrine is limited to one's own home (and sometimes yard), not a neighbor's yard (Fact 4). (d) is incorrect because the duty to retreat expressly applies even to deadly threats if a safe retreat exists. (e) is incorrect because the facts explicitly state Alex had an unobstructed path to safely run away (Fact 7).
+**Explanation:** The castle doctrine does not relieve Alex of his duty to retreat. In traditional strict retreat jurisdictions (like New York), the castle doctrine exception only applies when the defendant is physically inside their dwelling. It does not extend to the surrounding yard or curtilage. Since Alex was outside on the lawn, the standard duty to retreat still applied. 
+(a) fails because the traditional rule does not extend the castle doctrine to the yard. 
+(b) fails because being on one's own property outside the dwelling does not eliminate the retreat duty in strict retreat states. 
+(d) fails because the use of a firearm does not categorically void the castle doctrine if the defendant is inside. 
+(e) fails because the correct geographic limitation is the yard itself, not the act of leaving the house.
 
-**Tags:** chapters: [22], topics: [duty to retreat, self-defense, castle doctrine], difficulty: easy, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, duty to retreat, castle doctrine scope], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22, Duty to retreat and Castle doctrine scope.
-
-<!-- edge-case-audit: SHOULD FIX
-1. Fact Pattern Booby Traps: finding: There is a classic doctrinal tension between Fact 7 ("safely run back") and Fact 6/7 (Alex subjectively believes a gun is being drawn). Under both the MPC (§ 3.04(2)(b)(ii)) and many common-law formulations, the duty to retreat only triggers if the defendant *knows* (or reasonably should know) that retreat can be made with complete safety. If a defendant subjectively believes a gun is being drawn, they typically do not "know" retreat is safe, because one cannot outrun a bullet. Top students may rightfully argue that (a) fails to account for Alex's subjective belief regarding the safety of the retreat. 
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
-Recommended fix: Clarify that the jurisdiction uses an objective standard for the safety of retreat in the prompt, or gently tweak (a) to read: "Yes, because the incident occurred outside Alex's home and the facts objectively establish he had an unobstructed path to safely retreat." This ensures students know to rely on the objective safety stipulation rather than Alex's subjective belief about the gun.
--->
-
-## Issue 2 — argpass-opus
-
-**Q4.** Assume that, whether or not Alex was the initial aggressor, the jurisdiction strictly enforces a duty to retreat before using deadly force. Does Alex's use of force violate the retreat requirement?
-
-(a) Yes, because Alex was outside his own home and the facts establish he had an unobstructed path to safely retreat to the street. <!-- correct -->
-(b) Yes, because an individual engaged in an active property dispute must always return to their own dwelling before deploying a firearm.
-(c) No, because the universally recognized castle doctrine applies to any location within a residential neighborhood where property lines are contested.
-(d) No, because a person facing an objectively imminent threat of deadly force from a firearm is never legally required to attempt a retreat.
-(e) No, because Blake's rapid motion toward his jacket pocket made it factually impossible for Alex to retreat with complete personal safety.
-
-**Answer:** (a)
-
-**Explanation:** (a) is correct because in retreat jurisdictions, a defendant must retreat before using deadly force if a safe escape is possible; Alex had an unobstructed path to the street (Fact 7). (b) is incorrect because the law requires attempting any safe retreat, not specifically returning to one's dwelling. (c) is incorrect because the castle doctrine is limited to one's own home (and sometimes yard), not a neighbor's yard (Fact 4). (d) is incorrect because the duty to retreat expressly applies even to deadly threats if a safe retreat exists. (e) is incorrect because the facts explicitly state Alex had an unobstructed path to safely run away (Fact 7).
-
-**Tags:** chapters: [22], topics: [duty to retreat, self-defense, castle doctrine], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 22, Duty to retreat and Castle doctrine scope.
+**Grounding:** Chapter 22 (Castle doctrine scope)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: This option correctly applies the strict duty to retreat standard. In jurisdictions requiring retreat, a defender must utilize any known, safe avenue of escape before resorting to deadly force. Because the facts stipulate Alex had an unobstructed and safe path to the street, his use of deadly force without retreating violates the requirement.
-(b) Argument-for: A student might argue that the duty to retreat is implicitly tied to the castle doctrine, meaning the duty specifically requires one to return to their "castle" (dwelling) to seek safety. If an altercation occurs over property, the only legally recognized "safe retreat" in a strict retreat jurisdiction might be assumed to be the home, thus making this option defensible to a confused student.
-(c) Argument-for: A student could argue that the castle doctrine extends beyond the physical walls of the home to the broader residential property lines or neighborhood, especially in a property dispute. Under this rationale, the castle doctrine universally applies anywhere property lines are contested, legally nullifying Alex's duty to retreat.
-(d) Argument-for: A student might argue that firearms inherently preclude the possibility of a "safe" retreat because a bullet can travel faster than a person can run. Therefore, as a matter of law, facing an objectively imminent threat of deadly force from a firearm categorically eliminates the duty to retreat.
-(e) Argument-for: A student could argue that the specific mechanics of the encounter—Blake reaching rapidly for a pocket—create an exigent circumstance where turning one's back is practically fatal. Under this view, the duty to retreat is excused because the rapid motion rendered any theoretical path to the street factually impossible to traverse with complete safety.
+(a) Argument-for: A student might choose (a) if they recall that outdoor curtilage is heavily protected under the Fourth Amendment, conflating this constitutional protection with the self-defense castle doctrine. They would argue that the "castle" conceptually encompasses the immediate, enclosed yard, thereby relieving the duty to retreat on the lawn.
+(b) Argument-for: A student could defend (b) by appealing to pure "Stand Your Ground" principles or property rights absolutism. They might argue that being a lawful property owner inherently negates the duty to retreat, erroneously applying this universal property logic "regardless of the jurisdiction's standard."
+(c) Argument-for: The keyed answer (c) correctly states the common law rule for traditional retreat states. Under this strict rule, the castle doctrine exception to the duty to retreat applies exclusively to the physical dwelling (and sometimes attached structures) but explicitly does not extend to the surrounding yard or driveway.
+(d) Argument-for: A student might choose (d) if they mistakenly believe the castle doctrine is strictly tied to relying on the physical barricade of the home. They would argue that choosing offensive force (a firearm) rather than locking the doors and relying on the structure's physical security categorically voids the exception.
+(e) Argument-for: A student could argue that the castle doctrine fundamentally protects residents who are "trapped" in their homes, and that by affirmatively "stepping out of his own house to confront Blake," Alex voluntarily abandoned his sanctuary. They would see the deliberate act of leaving the dwelling to engage in a confrontation as the operative forfeiture of the privilege, making this a highly plausible rationale.
 
-Head-to-head: Option (a) is the clear winner because it correctly applies the strict duty to retreat to the stipulated facts, recognizing that a safe path to the street triggers the requirement. Options (b), (c), and (d) all contain explicit, absolute false legal claims, making them excellent distractors. Option (e) is factually falsifiable because it contradicts the stipulated premise that Alex had a safe path to retreat. However, under the strict pipeline standard, (e) lacks an explicit false *legal* claim locked with absolute words, instead relying on a contrary factual assertion.
+Head-to-head: Options (a), (b), and (d) are easily falsifiable because they contain explicit, universally false legal statements about doctrine in a retreat jurisdiction, securely locked by strong phrasing ("extends broadly," "never has a duty... regardless," "categorically unavailable whenever"). Option (c) is the correct application of the traditional dwelling-only limitation. However, option (e) presents a dangerous close call. The explanation claims (e) is wrong because the limitation is purely geographic ("the yard itself") rather than the act of leaving the house. But under traditional rules, stepping out of the dwelling *does* place a person in the yard, effectively removing the castle doctrine's protection. Because (e) lacks an explicitly false legal claim and correctly observes that leaving the house functionally eliminates the castle doctrine, it is highly defensible as a correct answer.
 
 Falsifiable claim per distractor:
-- (b): "must always return to their own dwelling" — wrong because the duty to retreat only requires seeking safety, not categorically retreating all the way into one's own dwelling.
-- (c): "universally recognized castle doctrine applies to any location within a residential neighborhood" — wrong because the castle doctrine generally applies only to the home and its immediate curtilage, not universally to any contested residential neighborhood location.
-- (d): "never legally required to attempt a retreat" — wrong because in a strict retreat jurisdiction, if a safe retreat happens to be possible (even against a firearm threat), the defender must take it.
-- (e): "made it factually impossible for Alex to retreat with complete personal safety" — wrong because it explicitly contradicts the stipulated facts (establishing a safe path existed), but it lacks an absolute, explicitly false legal proposition.
+- (a): "extends broadly to all real property... including the lawn and any surrounding outdoor curtilage." — wrong because traditional retreat states expressly limit the castle doctrine to the physical dwelling, excluding the broader curtilage.
+- (b): "never has a duty to retreat... regardless of the jurisdiction's standard." — wrong because traditional retreat states explicitly impose a duty to retreat even on one's own property if outside the physical dwelling.
+- (d): "categorically unavailable whenever the defendant uses a firearm instead of relying on the physical security of the home itself." — wrong because the castle doctrine fully permits the use of deadly force (including firearms) within the dwelling; it does not mandate relying solely on physical security.
+- (e): "forfeited any right to the castle doctrine by stepping out of his own house" — Lacks an explicitly false, absolute legal claim. Stepping out of the house does, as a matter of legal and physical fact, result in losing the dwelling-based castle doctrine exception.
 
-Recommended fix: Update (e) to include a locked false legal claim. For example: "(e) No, because an opponent's rapid motion toward a suspected weapon categorically extinguishes the duty to retreat regardless of available safe paths."
+Recommended fix: Add a legally false absolute to (e) to make it explicitly wrong on doctrinal grounds. For example: "(e) No, because a resident who steps outside their physical dwelling categorically becomes an initial aggressor, which automatically voids any claim of self-defense."
 -->

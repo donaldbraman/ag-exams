@@ -1,17 +1,17 @@
-**Q5.** Arthur is charged with manslaughter for abandoning the convulsing Julian. Arthur testifies that he genuinely believed Julian was just having a "bad reaction" and would "sleep it off." Assuming the jury believes Arthur, can he still be convicted of manslaughter?
+**Q5.** Assuming the jurisdiction applies the common law framework from *Commonwealth v. Welansky*, can Arthur be convicted of manslaughter despite his genuine belief that Julian would recover?
 
-(a) Yes, because under the constructive recklessness standard, Arthur is held liable if an objectively reasonable person would have perceived the grave danger, despite his subjective belief. <!-- correct -->
-(b) No, because manslaughter requires actual subjective awareness of a substantial risk, meaning his genuine belief that Julian would survive completely negates the required mental state.
-(c) Yes, because any failure to rescue a person in medical distress constitutes extreme indifference to human life as a matter of law, regardless of the actor's belief.
-(d) No, because the constructive recklessness standard applies only to premises liability cases and cannot be extended to interpersonal omissions in temporary locations like a motel room.
-(e) Yes, because Arthur's prior diagnosis of terminal cancer proves he possessed the requisite depraved heart and general malice necessary for any degree of criminal homicide.
+(a) Yes, he is guilty of manslaughter because a reasonable person would have perceived the grave danger of abandoning a convulsing victim, which establishes constructive recklessness. <!-- correct -->
+(b) Yes, he is guilty of depraved heart murder because any drug distribution that results in death automatically demonstrates an extreme indifference to human life.
+(c) No, because his genuine belief that Julian would recover negates the conscious disregard of a substantial and unjustifiable risk required for any homicide charge.
+(d) No, because an omission to act cannot satisfy the wanton or reckless standard unless the defendant subjectively intended to cause the victim's death.
+(e) No, because his fear of losing his academic job and critical treatment money provides a legally valid excuse for his failure to perceive the medical risk.
 
 **Answer:** (a)
 
-**Explanation:** Arthur is liable under the *Welansky* constructive recklessness standard because a reasonable person would have perceived the grave danger of abandoning a convulsing victim, rendering Arthur's subjective belief that Julian would "sleep it off" irrelevant. (b) is wrong because constructive recklessness explicitly overrides the normal requirement for subjective awareness. (c) is wrong because not every failure to rescue automatically constitutes extreme indifference as a matter of law; it remains a fact-specific inquiry. (d) is wrong because the *Welansky* standard applies generally to wanton and reckless conduct, not just strictly to premises liability. (e) is wrong because a terminal illness does not automatically establish malice or a depraved heart.
+**Explanation:** (a) is correct. Under *Welansky*, a defendant who lacks actual subjective awareness of a risk can still be held to a "wanton or reckless" standard (constructive recklessness) if an ordinary reasonable person would have perceived the grave danger. A reasonable person would recognize that abandoning a convulsing overdose victim is extremely dangerous. (b) is incorrect because depraved heart murder requires a highly fact-specific showing of extreme indifference, not an automatic rule for drug distribution. (c) is incorrect because while a genuine belief might negate subjective recklessness under the pure MPC framework, *Welansky* explicitly permits conviction based on an objective assessment of what the defendant should have known. (d) is incorrect because *Welansky* explicitly held that an intentional omission where there is a duty of care can constitute wanton or reckless conduct without an intent to kill. (e) is incorrect because the reasonable person standard is objective and generally does not accommodate the defendant's personal financial or career fears as an excuse.
 
-**Tags:** chapters: [13], topics: [unintentional homicide, constructive recklessness, depraved heart], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [13], topics: [unintentional homicide, constructive recklessness, omission liability], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 13 (constructive-recklessness-welansky, extreme-indifference-standard)
+**Grounding:** Chapter 13 - Constructive Recklessness (Welansky)
 
-<!-- grounding: GROUNDED — constructive recklessness, Ch 13, Refinement `constructive-recklessness-welansky`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Constructive Recklessness (Welansky), Ch 13, Refinement `constructive-recklessness-welansky`. Rule paraphrased accurately. -->

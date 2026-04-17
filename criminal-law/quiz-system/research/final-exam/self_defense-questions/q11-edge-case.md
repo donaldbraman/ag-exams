@@ -1,22 +1,26 @@
-**Q11.** Assume the prosecution seeks to hold Alex liable for Blake's death based on the initial shooting. Alex argues that Dr. Davis's blood transfusion error breaks the chain of proximate causation. What is the standard legal framework for evaluating Alex's argument?
+**Q11.** Assume Alex argues he cannot be charged for fleeing without calling 911 because he had no special relationship with Blake. Is Alex legally obligated to seek assistance?
 
-(a) Medical malpractice breaks the causal chain only if the attending physician possessed a subjective criminal intent to harm the vulnerable patient.
-(b) Any intervening medical error immediately severs proximate causation because the original defendant has entirely lost physical control over the victim's body.
-(c) Ordinary medical negligence does not break the chain, but gross negligence or severe protocol violations may constitute an independent intervening cause. <!-- correct -->
-(d) Medical intervention is always classified as a dependent intervening cause regardless of how egregiously the treating physician deviates from standard care.
-(e) The causal chain is legally broken if the prosecution fails to prove that the defendant specifically foresaw the exact medical error.
+(a) No, because the law strictly imposes no duty to rescue a person unless a recognized status relationship, such as parent-child or spouses, exists between the parties.
+(b) No, because imposing a legal duty to aid an attacker after invoking self-defense would violate the defendant's constitutional privilege against self-incrimination.
+(c) Yes, because a person who physically creates a life-threatening peril, even if the initial act was justified, automatically acquires a legal duty to summon assistance. <!-- correct -->
+(d) Yes, because all property owners owe a general duty of care to anyone who is injured on their land, regardless of how the injury occurred.
+(e) No, because the duty to act only arises when a defendant voluntarily assumes the care of a helpless person and strictly secludes them from receiving other aid.
 
 **Answer:** (c)
 
-**Explanation:** Under proximate cause principles, subsequent medical treatment is generally considered a foreseeable, dependent intervening cause that does not break the causal chain connecting the defendant's act to the death. However, if the medical error is highly extraordinary, grossly negligent, or involves a severe violation of standard protocols (like administering the wrong blood type without checking a chart), a court may classify it as an independent superseding cause that relieves the defendant of homicide liability. (a) is wrong because gross negligence can break the chain; subjective intent to harm is not required. (b) is wrong because ordinary medical negligence does not break the chain. (d) is wrong because the rule is not absolute; extreme medical errors can sever proximate cause. (e) is wrong because the specific mechanism of medical error does not need to be precisely foreseen.
+**Explanation:** Alex has a legal duty to act because he created the peril. While the criminal law generally imposes no duty to rescue strangers, an established exception is the creation-of-peril doctrine. When a person's actions create a life-threatening hazard for another, even if the initial act was justified self-defense, they acquire an affirmative legal duty to summon assistance. 
+(a) fails because it ignores the creation-of-peril exception to the general no-duty rule. 
+(b) fails because courts have ruled that summoning emergency aid does not violate the Fifth Amendment. 
+(d) fails because it applies tort-like premises liability rather than the specific criminal law doctrine. 
+(e) fails because voluntary assumption is only one way to acquire a duty; creation of peril is another independent basis.
 
-**Tags:** chapters: [8], topics: [causation, proximate-cause, independent-intervening-cause], difficulty: hard, cognitive: application
+**Tags:** chapters: [9], topics: [omissions, creation of peril, duty to act], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 8, dependent-vs-independent-intervening-cause
+**Grounding:** Chapter 9 (Omissions, creation of peril exception to no-duty baseline)
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+Recommended fix: N/A
 -->

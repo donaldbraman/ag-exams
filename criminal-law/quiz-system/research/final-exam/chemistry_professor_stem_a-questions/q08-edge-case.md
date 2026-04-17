@@ -1,22 +1,21 @@
-**Q8.** Silas argues that he effectively withdrew from the conspiracy when he pulled out his phone, stated "I'm calling 911," and verbally protested Arthur's decision to leave Julian in the locked room. Will Silas's withdrawal defense succeed?
+**Q8.** Did Silas successfully withdraw from the conspiracy when he attempted to call 911 and protested leaving?
 
-(a) Yes, because by announcing his intent to call 911 and protesting, Silas clearly communicated his rejection of the conspiracy to his co-conspirator before the death occurred.
-(b) No, because Silas failed to actually thwart the success of the conspiracy, communicate his withdrawal to law enforcement, or completely abandon the enterprise before fleeing. <!-- correct -->
-(c) Yes, because his attempt to dial 911 constituted a substantial step toward abandoning the criminal enterprise, which legally nullifies his prior agreement to distribute the drugs.
-(d) No, because a co-conspirator can never legally withdraw from a conspiracy once the target offense has been partially completed and the victim has ingested the drugs.
-(e) Yes, because he verbally protested leaving the victim in the room, which fully satisfies the common law requirement for voluntary and complete renunciation of criminal purpose.
+(a) No, because withdrawal requires a complete renunciation of the criminal purpose and effective communication to co-conspirators before completion, which he failed to achieve by ultimately leaving with Arthur. <!-- correct -->
+(b) Yes, because pulling out his phone and explicitly stating his intention to call 911 constituted a legally sufficient overt act contrary to the conspiracy's overarching criminal purpose.
+(c) Yes, because his explicit verbal protest to Arthur sufficiently communicated his definitive abandonment of the enterprise, successfully severing his legal liability for all subsequent acts.
+(d) No, because withdrawal from any criminal conspiracy is legally impossible once an overt act has been committed by any member in furtherance of the original agreement.
+(e) No, because he accepted a 20% cut of the sales, meaning his vested financial stake legally prevented any valid withdrawal regardless of his subsequent physical actions.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Silas did not effectively withdraw because successful withdrawal requires completely abandoning the enterprise and typically thwarting the crime or notifying authorities, not just protesting and fleeing. (a) is wrong because merely protesting without taking further action to stop the ongoing crime is insufficient to establish withdrawal. (c) is wrong because dialing 911 without completing the call or stopping the crime fails the rigorous withdrawal standard. (d) is wrong because one can legally withdraw before the crime reaches completion, though Silas failed to do so properly. (e) is wrong because a verbal protest alone is not a complete and voluntary renunciation.
+**Explanation:** (a) is correct. Withdrawal from a conspiracy requires an affirmative act communicating withdrawal to co-conspirators in time to abandon the enterprise, and under the MPC, it requires thwarting the success of the conspiracy. Silas's brief attempt to call 911 and verbal protest failed to thwart the crime, and by ultimately complying and leaving the victim locked in the room, his actions did not constitute a complete and voluntary renunciation. (b) is incorrect because an aborted attempt to call 911 is insufficient if the defendant then abandons the rescue effort and complies with the co-conspirator. (c) is incorrect because a mere verbal protest is insufficient when followed by compliance with the principal's escape plan. (d) is incorrect because withdrawal is legally possible after an overt act, provided it occurs before the target offense is completed. (e) is incorrect because a financial stake does not render withdrawal legally impossible, though it may be evidence of original intent.
 
 **Tags:** chapters: [19], topics: [conspiracy, withdrawal], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 (withdrawal-requirements)
+**Grounding:** Chapter 19 - Withdrawal Requirements
 
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The facts state Silas pulled out his phone and told his co-conspirator, "I'm calling 911." Under common law, affirmatively communicating withdrawal to all co-conspirators is often sufficient to sever Pinkerton liability for future acts. Option (b) incorrectly penalizes him for failing to thwart or notify law enforcement, conflating the MPC renunciation defense (thwarting the crime itself) with common law Pinkerton withdrawal (communication).
-2. Cross-Doctrine Clashes: Distractor (d) is inadvertently legally correct. The target offense (distribution) has already been completed, and the victim has ingested the drugs. A defendant cannot legally withdraw from a conspiracy or felony murder after the predicate felony is factually complete. The explanation for (d) claims the crime hasn't reached completion, but factually, the distribution already occurred.
-3. Cross-Question Spoilers: Q7 applies Pinkerton to Silas for Arthur's subsequent act of locking the door. If Q8 tests withdrawal from that specific subsequent act, Silas's clear statement to Arthur strongly supports a valid withdrawal, making the "No" outcome of (b) highly debatable.
-Recommended fix: Clarify whether Silas is attempting to withdraw from the conspiracy itself (MPC renunciation) or Pinkerton liability for Arthur's subsequent omissions. Revise (b) to focus on how his acquiescence (following Arthur out of the room) negated his verbal withdrawal, rather than demanding thwarting/law enforcement notification. Change (d) so it does not accidentally state a true rule of law (e.g., change to "because withdrawal is never recognized for strict liability drug offenses").
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
 -->

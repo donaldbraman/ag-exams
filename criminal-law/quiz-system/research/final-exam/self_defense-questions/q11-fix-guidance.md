@@ -4,90 +4,73 @@ The QA pipeline flagged this question. Rewrite `q11.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q11.** Consider the effect of Dr. Davis administering the wrong blood type. Under standard proximate cause principles, does the doctor's error relieve Alex of homicide liability for the fatal result?
+**Q11.** Assume Alex argues he cannot be charged for fleeing without calling 911 because he had no special relationship with Blake. Is Alex legally obligated to seek assistance?
 
-(a) Yes, because a severe violation of standard hospital protocols is generally considered an independent, abnormal intervening cause that breaks the chain of causation. <!-- correct -->
-(b) Yes, because any medical treatment that demonstrably accelerates a victim's death automatically supersedes the initial injury as the primary legal cause.
-(c) No, because emergency room doctors are agents of the state, and their actions cannot break the chain of causation in criminal homicide prosecutions.
-(d) No, because medical malpractice, regardless of its severity or departure from protocols, is legally considered a dependent intervening cause that is always foreseeable.
-(e) No, because Alex's original gunshot wound was the factual but-for cause of Blake needing medical attention in the emergency room in the first place.
+(a) No, because the law strictly imposes no duty to rescue a person unless a recognized status relationship, such as parent-child or spouses, exists between the parties.
+(b) No, because imposing a legal duty to aid an attacker after invoking self-defense would violate the defendant's constitutional privilege against self-incrimination.
+(c) Yes, because a person who physically creates a life-threatening peril, even if the initial act was justified, automatically acquires a legal duty to summon assistance. <!-- correct -->
+(d) Yes, because all property owners owe a general duty of care to anyone who is injured on their land, regardless of how the injury occurred.
+(e) No, because the duty to act only arises when a defendant voluntarily assumes the care of a helpless person and strictly secludes them from receiving other aid.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct because while ordinary medical negligence is a foreseeable dependent intervening cause, gross negligence or a severe violation of protocols (Fact 11) constitutes an independent intervening cause that breaks the chain of proximate causation. (b) is incorrect because ordinary medical treatments that accidentally accelerate death do not automatically break the causal chain. (c) is incorrect because doctors' status as state agents (if applicable) is irrelevant to proximate causation analysis. (d) is incorrect because the law distinguishes between ordinary malpractice (foreseeable/dependent) and gross negligence (unforeseeable/independent). (e) is incorrect because establishing but-for causation is not sufficient to establish proximate causation when an independent intervening cause occurs.
+**Explanation:** Alex has a legal duty to act because he created the peril. While the criminal law generally imposes no duty to rescue strangers, an established exception is the creation-of-peril doctrine. When a person's actions create a life-threatening hazard for another, even if the initial act was justified self-defense, they acquire an affirmative legal duty to summon assistance. 
+(a) fails because it ignores the creation-of-peril exception to the general no-duty rule. 
+(b) fails because courts have ruled that summoning emergency aid does not violate the Fifth Amendment. 
+(d) fails because it applies tort-like premises liability rather than the specific criminal law doctrine. 
+(e) fails because voluntary assumption is only one way to acquire a duty; creation of peril is another independent basis.
 
-**Tags:** chapters: [8], topics: [proximate cause, independent intervening cause, gross negligence], difficulty: medium, cognitive: application
+**Tags:** chapters: [9], topics: [omissions, creation of peril, duty to act], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 8, Dependent vs. independent intervening cause.
+**Grounding:** Chapter 9 (Omissions, creation of peril exception to no-duty baseline)
 
 <!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: The stem lacks necessary facts. It is drafted as a localized question relying on a missing master fact pattern ("Alex," "Blake," "Dr. Davis"). The student must guess what Alex did, and the explanation explicitly relies on an external missing fact ("Fact 11") to establish the error was a severe protocol violation.
+check 1: fails (cannot determine if the correct answer is accurate without the missing facts; if Alex was a mere bystander, (a) would be correct)
+check 2: fails (if Alex is assumed to be a bystander due to missing facts, a student could validly choose (a))
+check 3: pass (the doctrine stated in the explanation correctly summarizes the creation of peril exception, but references facts entirely absent from the stem)
+check 4: fails (the stem completely lacks a fact pattern establishing how Blake was injured or whether Alex created the peril)
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Integrate the necessary facts into the stem so the question is self-contained (e.g., "Alex shoots Blake in the leg. At the hospital, Dr. Davis commits a severe violation of hospital protocols by failing to check the chart and administering the wrong blood type, causing Blake's death..."). Remove the reference to "(Fact 11)" in the explanation.
+Recommended fix: Add the missing factual premise to the stem. For example: "Alex severely injures Blake in a justified act of self-defense. Leaving Blake bleeding on the ground, Alex flees without calling 911. Assume Alex argues..."
 -->
 
-## Issue 2 — edge-case
+## Issue 2 — argpass-opus
 
-**Q11.** Consider the effect of Dr. Davis administering the wrong blood type. Under standard proximate cause principles, does the doctor's error relieve Alex of homicide liability for the fatal result?
+**Q11.** Assume Alex argues he cannot be charged for fleeing without calling 911 because he had no special relationship with Blake. Is Alex legally obligated to seek assistance?
 
-(a) Yes, because a severe violation of standard hospital protocols is generally considered an independent, abnormal intervening cause that breaks the chain of causation. <!-- correct -->
-(b) Yes, because any medical treatment that demonstrably accelerates a victim's death automatically supersedes the initial injury as the primary legal cause.
-(c) No, because emergency room doctors are agents of the state, and their actions cannot break the chain of causation in criminal homicide prosecutions.
-(d) No, because medical malpractice, regardless of its severity or departure from protocols, is legally considered a dependent intervening cause that is always foreseeable.
-(e) No, because Alex's original gunshot wound was the factual but-for cause of Blake needing medical attention in the emergency room in the first place.
+(a) No, because the law strictly imposes no duty to rescue a person unless a recognized status relationship, such as parent-child or spouses, exists between the parties.
+(b) No, because imposing a legal duty to aid an attacker after invoking self-defense would violate the defendant's constitutional privilege against self-incrimination.
+(c) Yes, because a person who physically creates a life-threatening peril, even if the initial act was justified, automatically acquires a legal duty to summon assistance. <!-- correct -->
+(d) Yes, because all property owners owe a general duty of care to anyone who is injured on their land, regardless of how the injury occurred.
+(e) No, because the duty to act only arises when a defendant voluntarily assumes the care of a helpless person and strictly secludes them from receiving other aid.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct because while ordinary medical negligence is a foreseeable dependent intervening cause, gross negligence or a severe violation of protocols (Fact 11) constitutes an independent intervening cause that breaks the chain of proximate causation. (b) is incorrect because ordinary medical treatments that accidentally accelerate death do not automatically break the causal chain. (c) is incorrect because doctors' status as state agents (if applicable) is irrelevant to proximate causation analysis. (d) is incorrect because the law distinguishes between ordinary malpractice (foreseeable/dependent) and gross negligence (unforeseeable/independent). (e) is incorrect because establishing but-for causation is not sufficient to establish proximate causation when an independent intervening cause occurs.
+**Explanation:** Alex has a legal duty to act because he created the peril. While the criminal law generally imposes no duty to rescue strangers, an established exception is the creation-of-peril doctrine. When a person's actions create a life-threatening hazard for another, even if the initial act was justified self-defense, they acquire an affirmative legal duty to summon assistance. 
+(a) fails because it ignores the creation-of-peril exception to the general no-duty rule. 
+(b) fails because courts have ruled that summoning emergency aid does not violate the Fifth Amendment. 
+(d) fails because it applies tort-like premises liability rather than the specific criminal law doctrine. 
+(e) fails because voluntary assumption is only one way to acquire a duty; creation of peril is another independent basis.
 
-**Tags:** chapters: [8], topics: [proximate cause, independent intervening cause, gross negligence], difficulty: medium, cognitive: application
+**Tags:** chapters: [9], topics: [omissions, creation of peril, duty to act], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 8, Dependent vs. independent intervening cause.
-
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: Fact 12 explicitly states Alex's 45-minute delay rendered Blake's condition "critical" and the doctor's error merely "accelerated his death." Under standard causation principles, if the defendant's actions leave the victim in a dying or critical condition and an intervening act merely accelerates the death, the original act remains an operating and substantial proximate cause. Thus, it is legally debatable or outright incorrect to conclude that the doctor's gross negligence definitively "relieves Alex of homicide liability" (Answer A).
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: If Answer A is correct and Alex is legally relieved of homicide liability due to the doctor breaking the chain of causation, it completely spoils Q6 (provocation/homicide grading) and Q7 (omission causation). You cannot evaluate mitigation grading for a completed homicide (Q6) or establish omission causation for the death (Q7) if this question establishes that an independent intervening cause relieved the defendant of homicide liability altogether.
-Recommended fix: Change the question to test the *classification* of the doctor's act without definitively concluding it relieves Alex of homicide liability (e.g., ask what Alex's best proximate cause *argument* would be, or change the correct answer to reflect that Alex is NOT relieved because his acts remained an operating and substantial cause despite the independent intervening negligence).
--->
-
-## Issue 3 — argpass-opus
-
-**Q11.** Consider the effect of Dr. Davis administering the wrong blood type. Under standard proximate cause principles, does the doctor's error relieve Alex of homicide liability for the fatal result?
-
-(a) Yes, because a severe violation of standard hospital protocols is generally considered an independent, abnormal intervening cause that breaks the chain of causation. <!-- correct -->
-(b) Yes, because any medical treatment that demonstrably accelerates a victim's death automatically supersedes the initial injury as the primary legal cause.
-(c) No, because emergency room doctors are agents of the state, and their actions cannot break the chain of causation in criminal homicide prosecutions.
-(d) No, because medical malpractice, regardless of its severity or departure from protocols, is legally considered a dependent intervening cause that is always foreseeable.
-(e) No, because Alex's original gunshot wound was the factual but-for cause of Blake needing medical attention in the emergency room in the first place.
-
-**Answer:** (a)
-
-**Explanation:** (a) is correct because while ordinary medical negligence is a foreseeable dependent intervening cause, gross negligence or a severe violation of protocols (Fact 11) constitutes an independent intervening cause that breaks the chain of proximate causation. (b) is incorrect because ordinary medical treatments that accidentally accelerate death do not automatically break the causal chain. (c) is incorrect because doctors' status as state agents (if applicable) is irrelevant to proximate causation analysis. (d) is incorrect because the law distinguishes between ordinary malpractice (foreseeable/dependent) and gross negligence (unforeseeable/independent). (e) is incorrect because establishing but-for causation is not sufficient to establish proximate causation when an independent intervening cause occurs.
-
-**Tags:** chapters: [8], topics: [proximate cause, independent intervening cause, gross negligence], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 8, Dependent vs. independent intervening cause.
+**Grounding:** Chapter 9 (Omissions, creation of peril exception to no-duty baseline)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: Standard proximate cause doctrine evaluates whether an intervening act is a foreseeable, dependent consequence of the defendant's act, or an unforeseeable, independent cause. While ordinary medical malpractice is deemed foreseeable, a gross departure from standard hospital protocols—such as administering the wrong blood type—is considered an abnormal, independent intervening cause. This gross negligence breaks the chain of proximate causation, relieving the defendant of homicide liability for the ensuing death. Option (a) accurately reflects this doctrinal distinction.
-(b) Argument-for: A student might reason that causation requires determining the most direct and immediate cause of death. If a medical treatment directly and demonstrably accelerates the victim's death, one could argue it alters the timeline so fundamentally that it becomes the new superseding cause. Under this theory, any act that affirmatively hastens death overtakes the original injury as the primary legal cause, thereby automatically breaking the chain and absolving the original actor of homicide.
-(c) Argument-for: Some students might view the hospital emergency room, often heavily regulated and sometimes publicly funded, as an apparatus of the state performing a public duty. Under this theory, because the state is intervening to save a life endangered by a criminal defendant, public policy dictates that the defendant cannot benefit from the state's failures. Therefore, one could argue that doctors acting in this capacity cannot, as a matter of law, commit an act that breaks the chain of causation in a criminal prosecution.
-(d) Argument-for: Foreseeability is the primary test for proximate cause, and a student could strongly argue that entering a hospital always entails a risk of severe medical errors. Because human error in high-pressure medical environments is a known reality, one might argue the law treats all forms of medical malpractice as dependent intervening causes. By putting the victim in the hospital, the defendant assumes the risk of any negligence, making it "always foreseeable" regardless of its severity.
-(e) Argument-for: Factual causation is the fundamental prerequisite for criminal liability. A student could rely heavily on the "but-for" test, arguing that but for Alex's gunshot, Blake would never have been exposed to the doctor's fatal error. By establishing this unbroken factual chain, a student might conclude that Alex's initial act is the true anchor of liability. Because the need for medical attention flowed directly from the gunshot, the factual causation alone sustains proximate causation.
+(a) Argument-for: A student might argue that the baseline rule of criminal law is that omissions are not punishable, and that the duty to rescue is extremely narrow. By relying strictly on the status relationship exception, a student could justify the position that no duty exists between strangers. They might further contend that "creation of peril" requires an unlawful act, so a justified self-defense act wouldn't trigger the duty, leaving status relationship as the only path.
+(b) Argument-for: The Fifth Amendment protects individuals from compelled self-incrimination. A student could argue that requiring a defendant who just engaged in a violent altercation to call 911 and identify themselves essentially forces them to admit involvement in a crime. Since the aftermath of a violent encounter is fraught with criminal exposure, mandating an affirmative report could be seen as inherently testimonial and incriminating.
+(c) Argument-for: Under the modern creation-of-peril doctrine (as seen in cases like State v. Kuntz), a legal duty to act arises when a person creates a dangerous situation, regardless of whether their initial conduct was justified. Because Alex's justified act of self-defense physically created a life-threatening hazard for Blake, Alex acquired an affirmative obligation to summon emergency assistance.
+(d) Argument-for: A student could draw on the premise that duties in criminal omissions can be imported from civil tort duties. If the incident occurred on Alex's property, an argument could be made that landowners owe an affirmative duty of care to individuals injured on their premises. By framing the duty to rescue as an extension of premises liability, the student could conclude that Alex's status as a property owner creates a legal obligation.
+(e) Argument-for: Another established exception to the general no-duty-to-rescue rule is the voluntary assumption of care. A student might argue that because Alex did not initiate any rescue efforts or isolate Blake to prevent others from helping, the conditions for an omission-based charge have not been met. They could view this as the sole applicable exception when parties are strangers, concluding that absent voluntary isolation, there is no duty.
 
-Head-to-head: Option (a) correctly applies the distinction between ordinary (dependent) and gross (independent) medical negligence. Options (b), (c), and (d) are strong distractors because they use explicit absolute language ("automatically supersedes", "cannot break", "regardless of its severity", "always foreseeable") to lock in false legal propositions. Option (e) asserts the incorrect conclusion ("No"), but its reasoning clause merely states a true factual premise ("because Alex's original gunshot wound was the factual but-for cause...") and relies on the implicit assumption that factual causation equals proximate causation. Under the strict close-call standard, (e) lacks an absolute word locking in its false legal claim, making it weaker than the other distractors.
+Head-to-head: Option (c) correctly identifies the creation-of-peril exception as the legal basis for the duty to act. However, its use of the word "automatically" makes the keyed answer potentially falsifiable, as some jurisdictions maintain the traditional rule that only *culpable* (not justified) creation of peril triggers a duty to act. Options (a) and (e) are structurally strong distractors that assert only ONE exception exists, which is easily falsifiable because multiple exceptions (statute, contract, etc.) are universally recognized. Option (b) fails because courts have rejected the Fifth Amendment argument regarding emergency medical reporting. Option (d) relies on an overbroad, falsifiable statement about property law. The question is structurally sound, but the key should be softened slightly.
 
 Falsifiable claim per distractor:
-- (b): "any medical treatment that demonstrably accelerates a victim's death automatically supersedes" — wrong because only unforeseeable or grossly negligent acts supersede; ordinary treatments that accidentally accelerate death do not automatically break the chain.
-- (c): "actions cannot break the chain of causation in criminal homicide prosecutions" — wrong because the status of a doctor does not categorically immunize their actions from being independent intervening causes.
-- (d): "regardless of its severity... is legally considered a dependent intervening cause that is always foreseeable" — wrong because the law explicitly distinguishes between ordinary negligence (foreseeable) and gross negligence (unforeseeable).
-- (e): "because Alex's original gunshot wound was the factual but-for cause" — wrong because it relies on the implicit false omission that but-for causation is sufficient to overcome an independent intervening cause, failing to explicitly lock the false claim with an absolute modifier.
+- (a): "strictly imposes no duty to rescue a person unless a recognized status relationship... exists" — wrong because it explicitly excludes all other established omission duties (contract, voluntary assumption, creation of peril).
+- (b): "would violate the defendant's constitutional privilege against self-incrimination" — wrong because courts (e.g., in Kuntz) have ruled that the duty to summon medical aid does not violate the Fifth Amendment.
+- (d): "all property owners owe a general duty of care... regardless of how the injury occurred" — wrong because property duties in tort are tiered (invitees vs. trespassers) and do not categorically apply "regardless of how the injury occurred," nor do they automatically translate to criminal duties to rescue strangers.
+- (e): "duty to act only arises when a defendant voluntarily assumes the care" — wrong because the word "only" explicitly negates the existence of other valid affirmative duties like status, contract, or creation of peril.
 
-Recommended fix: Edit (e) to lock in the false legal claim with an absolute word. Change (e) to: "No, solely because Alex's original gunshot wound was the factual but-for cause of Blake needing medical attention in the emergency room in the first place."
+Recommended fix: In (c), delete the word "automatically" to prevent the keyed answer from being technically false in jurisdictions that do not recognize innocent/justified creation of peril as a basis for criminal liability. Change to: "...even if the initial act was justified, acquires a legal duty to summon assistance."
 -->

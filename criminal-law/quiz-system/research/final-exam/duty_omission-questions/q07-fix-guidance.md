@@ -2,92 +2,40 @@
 
 The QA pipeline flagged this question. Rewrite `q07.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — audit
+## Issue 1 — argpass-opus
 
-**Q7.** Assume that, whether or not Alba is guilty of attempted murder, Alba is convicted of the aggravated assault of Dane. Prosecutors charge Bex with the assault under a Pinkerton theory. Which of the following best analyzes Bex's liability?
+**Q7.** Dana asserts a necessity defense under the Model Penal Code (MPC) to the burglary charge, claiming she acted to save Chris. How does her role in supplying chemicals affect her defense?
 
-(a) Guilty under Pinkerton because the assault was committed in furtherance of the stash-house conspiracy and was a reasonably foreseeable consequence of operating it. <!-- correct -->
-(b) Guilty under Pinkerton because Bex was physically present in the apartment hallway and actively looking through the peephole when Alba struck Dane.
-(c) Not guilty under Pinkerton because Alba's assault on Dane was an independent, intervening act that fell completely outside the scope of the original agreement.
-(d) Not guilty under Pinkerton because Bex acted solely out of fear for her own life when she stood guard, which retroactively withdrew her from the conspiracy.
-(e) Not guilty under Pinkerton because the underlying drug transaction had already concluded before Dane breached the door, legally terminating the conspiracy.
+(a) The defense fails completely because anyone who helps create an emergency is categorically barred from asserting necessity under the MPC.
+(b) The defense fails if the mental state required for burglary is equal to or lesser than her fault in the emergency. <!-- correct -->
+(c) The defense succeeds because the preservation of human life is always legally superior to the protection of a clinic's property.
+(d) The defense succeeds because she only supplied chemicals and was not physically present when Alex handed Chris the untested dose.
+(e) The defense is submitted to the jury with an instruction that her financial motive automatically negates any claim of justification.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Bex is liable under the Pinkerton doctrine because Alba's assault on the responding paramedic was committed in furtherance of protecting the drug conspiracy and was a reasonably foreseeable consequence of operating a clandestine stash house. (b) is wrong because Pinkerton liability is based on the conspiracy agreement and foreseeability, not mere physical presence. (c) is wrong because violence to protect a drug operation is generally considered a foreseeable outgrowth of the conspiracy. (d) is wrong because Bex's fear while standing guard does not constitute a legally effective withdrawal, which requires communicating renunciation to co-conspirators or police. (e) is wrong because the conspiracy to operate a stash house was ongoing.
+**Explanation:** (b) is correct because under the MPC's fault-calibration rule, a defendant who is at fault in creating the emergency is not categorically barred from raising a necessity defense. Instead, the defense is unavailable only if the mental state required for the charged offense (e.g., purpose or knowledge for burglary) is equal to or less than the defendant's level of fault in creating the underlying crisis. (a) is wrong because it describes the common law categorical bar, which the MPC expressly rejects. (c) is wrong because while human life outweighs property, the MPC still requires calibrating the culpability levels for creating the peril. (d) is wrong because physical presence is irrelevant to assessing her legal culpability in supplying the dangerous chemicals. (e) is wrong because a financial motive does not automatically bar a justification defense.
 
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton-doctrine], difficulty: medium, cognitive: analysis
+**Tags:** chapters: [21], topics: [necessity, mpc-fault-calibration], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 19 — Conspiracy: Pinkerton Liability
-
-<!-- audit: MUST FIX
-check 1: pass (the legal standard applied in A is accurate for Pinkerton liability, though impossible to verify factually without the prompt's missing facts)
-check 2: pass (distractors represent credible but flawed legal arguments regarding withdrawal, scope, and termination)
-check 3: pass (the explanation accurately reflects the Pinkerton rule and withdrawal requirements)
-check 4: FAILED. The question is completely missing its fact pattern. It references specific actors (Alba, Bex, Dane), settings (stash house, apartment hallway, peephole), and events (assaulting a responding paramedic, Dane breaching the door) that are not established anywhere in the stem. This appears to be an orphaned question severed from a master fact pattern.
-check 5: pass (the prompt explicitly instructs the student to evaluate "under a Pinkerton theory", mooting the common law vs. MPC split)
-check 6: pass
-check 7: pass (Pinkerton doctrine and withdrawal requirements are covered in the Ch 19 map)
-Recommended fix: Provide the underlying fact pattern in the stem, or ensure this question is explicitly linked to a preceding "Questions X-Y are based on the following fact pattern" block.
--->
-
-## Issue 2 — edge-case
-
-**Q7.** Assume that, whether or not Alba is guilty of attempted murder, Alba is convicted of the aggravated assault of Dane. Prosecutors charge Bex with the assault under a Pinkerton theory. Which of the following best analyzes Bex's liability?
-
-(a) Guilty under Pinkerton because the assault was committed in furtherance of the stash-house conspiracy and was a reasonably foreseeable consequence of operating it. <!-- correct -->
-(b) Guilty under Pinkerton because Bex was physically present in the apartment hallway and actively looking through the peephole when Alba struck Dane.
-(c) Not guilty under Pinkerton because Alba's assault on Dane was an independent, intervening act that fell completely outside the scope of the original agreement.
-(d) Not guilty under Pinkerton because Bex acted solely out of fear for her own life when she stood guard, which retroactively withdrew her from the conspiracy.
-(e) Not guilty under Pinkerton because the underlying drug transaction had already concluded before Dane breached the door, legally terminating the conspiracy.
-
-**Answer:** (a)
-
-**Explanation:** Bex is liable under the Pinkerton doctrine because Alba's assault on the responding paramedic was committed in furtherance of protecting the drug conspiracy and was a reasonably foreseeable consequence of operating a clandestine stash house. (b) is wrong because Pinkerton liability is based on the conspiracy agreement and foreseeability, not mere physical presence. (c) is wrong because violence to protect a drug operation is generally considered a foreseeable outgrowth of the conspiracy. (d) is wrong because Bex's fear while standing guard does not constitute a legally effective withdrawal, which requires communicating renunciation to co-conspirators or police. (e) is wrong because the conspiracy to operate a stash house was ongoing.
-
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton-doctrine], difficulty: medium, cognitive: analysis
-
-**Grounding:** Chapter 19 — Conspiracy: Pinkerton Liability
-
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: Alba holding a loaded gun to Bex's head right before the assault (Facts 5 & 6) gives Bex a valid duress defense to the assault charge. Furthermore, Bex's thwarted attempt to call 911 arguably constitutes a prospective withdrawal from the conspiracy. This makes the absolute "Guilty" conclusion in option (a) legally precarious. 
-2. Cross-Doctrine Clashes: Duress acts as a complete affirmative defense to aggravated assault (since it is not intentional murder), which overrides her prima facie Pinkerton attribution. 
-3. Cross-Question Spoilers: Q12 explicitly tests Bex's duress defense. Because students will be actively analyzing her coercion, they will correctly recognize she has a defense to the assault and will strongly resist choosing an option that brands her definitively "Guilty" without qualification.
-Recommended fix: Modify the question stem to add: "Assume for the purposes of this question that Bex is unable to successfully assert an affirmative defense of duress or withdrawal." Alternatively, soften option (a) to read: "Subject to prima facie Pinkerton liability, because the assault was committed in furtherance..."
--->
-
-## Issue 3 — argpass-opus
-
-**Q7.** Assume that, whether or not Alba is guilty of attempted murder, Alba is convicted of the aggravated assault of Dane. Prosecutors charge Bex with the assault under a Pinkerton theory. Which of the following best analyzes Bex's liability?
-
-(a) Guilty under Pinkerton because the assault was committed in furtherance of the stash-house conspiracy and was a reasonably foreseeable consequence of operating it. <!-- correct -->
-(b) Guilty under Pinkerton because Bex was physically present in the apartment hallway and actively looking through the peephole when Alba struck Dane.
-(c) Not guilty under Pinkerton because Alba's assault on Dane was an independent, intervening act that fell completely outside the scope of the original agreement.
-(d) Not guilty under Pinkerton because Bex acted solely out of fear for her own life when she stood guard, which retroactively withdrew her from the conspiracy.
-(e) Not guilty under Pinkerton because the underlying drug transaction had already concluded before Dane breached the door, legally terminating the conspiracy.
-
-**Answer:** (a)
-
-**Explanation:** Bex is liable under the Pinkerton doctrine because Alba's assault on the responding paramedic was committed in furtherance of protecting the drug conspiracy and was a reasonably foreseeable consequence of operating a clandestine stash house. (b) is wrong because Pinkerton liability is based on the conspiracy agreement and foreseeability, not mere physical presence. (c) is wrong because violence to protect a drug operation is generally considered a foreseeable outgrowth of the conspiracy. (d) is wrong because Bex's fear while standing guard does not constitute a legally effective withdrawal, which requires communicating renunciation to co-conspirators or police. (e) is wrong because the conspiracy to operate a stash house was ongoing.
-
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton-doctrine], difficulty: medium, cognitive: analysis
-
-**Grounding:** Chapter 19 — Conspiracy: Pinkerton Liability
+**Grounding:** Chapter 21 - Necessity Fault-Calibration Rule (MPC)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: Option (a) accurately applies the *Pinkerton* doctrine to the facts. Under *Pinkerton v. United States*, a conspirator is liable for the substantive offenses committed by a co-conspirator if those offenses are in furtherance of the conspiracy and are a reasonably foreseeable consequence of the agreement. Operating an illegal drug stash house carries a known risk of violent confrontation with law enforcement, intruders, or emergency responders. Therefore, Alba's assault to protect the operation fits precisely within Bex's vicarious liability scope.
-(b) Argument-for: A student could defend this option by arguing that Bex's active participation at the time of the offense satisfies the nexus required for liability. While *Pinkerton* liability stems from the agreement, being physically present and actively standing guard ("looking through the peephole") definitively makes the co-conspirator's act foreseeable. Therefore, her physical presence and active lookout duties are the very facts that trigger her *Pinkerton* liability for the assault occurring right in front of her.
-(c) Argument-for: A student could argue that assaulting a paramedic is an unforeseeable frolic that severs the causal chain. *Pinkerton* does not impose strict liability for literally every act a co-conspirator commits; acts that are independent and outside the scope of the original agreement do not trigger vicarious liability. Unprovoked violence against a medical professional serves no drug-trafficking purpose and thus constitutes an independent, intervening act for which Bex is not liable.
-(d) Argument-for: A student could argue that duress negates the voluntary intent required for ongoing conspiracy participation. If Bex stood guard "solely out of fear for her own life," she lacked the specific intent to further the stash-house enterprise at the moment the assault occurred. This total negation of mens rea operates as an involuntary withdrawal from the conspiracy, legally severing her liability for Alba's subsequent substantive crimes.
-(e) Argument-for: A student could argue that the temporal bounds of the conspiracy had closed. *Pinkerton* liability only attaches to substantive crimes committed while the conspiracy is active. If the underlying drug transaction had "already concluded," the objective of that specific agreement was achieved, effectively terminating the conspiracy. Any subsequent assault by Alba would thus be a post-conspiracy act for which Bex cannot be held vicariously liable.
+(a) Argument-for: Under common law, a person who is at fault in creating the circumstances giving rise to the necessity is wholly barred from raising the defense. A student might apply this clean-hands principle to Dana's role in supplying chemicals, reasoning that her contribution to the emergency categorically strips her of the defense under any framework, including the MPC.
+(b) Argument-for: Under MPC § 3.02(2), a defendant's fault in bringing about a perilous situation does not automatically preclude the necessity defense. Instead, the defense is only barred if the prosecution is for an offense whose required culpability matches or is lesser than the defendant's level of fault in creating the emergency. A student would recognize this fault-calibration rule and correctly determine that her defense fails only if the mental state for the charged crime is equal to or lesser than her fault.
+(c) Argument-for: The core of the necessity defense is the choice of evils, governed by MPC § 3.02(1)(a), which requires the harm avoided to be greater than the harm caused. A student could argue that preserving Chris's life is inherently and unequivocally legally superior to protecting a clinic's property. Relying on this absolute hierarchy of values, a student might deduce that the defense succeeds unconditionally because the balance of evils heavily favors the defendant.
+(d) Argument-for: A student might argue that criminal culpability in causing an emergency requires immediate physical proximity or direct causation. Since Dana merely supplied chemicals earlier and was physically absent when the dose was administered, a student could argue her contribution is too remote to trigger the fault-creation bar, allowing her necessity defense to succeed.
+(e) Argument-for: Justification defenses generally require the actor to be genuinely motivated by the desire to avoid the greater harm. A student could argue that Dana's financial motive in supplying the chemicals undercuts the requisite subjective belief for necessity. They might reason that an overriding desire for profit automatically negates the good-faith requirement of justification.
 
-Head-to-head: Option (a) correctly applies the specific elements of the *Pinkerton* doctrine (foreseeability + furtherance). Option (b) names the correct outcome but applies the wrong test, relying on physical presence (which is relevant to accomplice liability, not *Pinkerton* vicarious liability). Option (c) makes a definitively false legal conclusion that violence is "completely outside the scope" of a stash-house conspiracy, contradicting established precedent. Option (d) invents a fabricated legal doctrine ("retroactively withdrew"). Option (e) relies on the false legal premise that concluding a single transaction automatically terminates an ongoing stash-house conspiracy. All distractors have falsifiable elements, but (b) is slightly soft because it doesn't lock its false claim with an absolute word.
+Head-to-head: Option (b) correctly articulates the MPC's unique fault-calibration rule, making it the strongest and legally accurate answer. Distractor (a) uses the absolute phrase "categorically barred," correctly identifying a falsifiable claim since the MPC rejects the common law's absolute bar. Distractor (e) successfully uses the lock "automatically negates" to present an explicit false claim about subjective motives barring justification. However, distractors (c) and (d) violate the close-call standard by relying on implicit omissions rather than explicit false legal rules. Option (c) states that life is "always legally superior" to property—which is generally true—and concludes the defense succeeds based on that alone, implicitly omitting the fault rule but lacking an absolute falsifiable mechanism. Option (d) implicitly assumes physical absence precludes fault without using locking language to make that an explicit, categorical legal rule.
 
 Falsifiable claim per distractor:
-- (b): "because Bex was physically present" — wrong because *Pinkerton* liability is grounded in the foreseeability of acts in furtherance of the conspiracy, not physical presence (which tests accomplice liability).
-- (c): "completely outside the scope" — wrong because violence to protect a drug stash house or evade capture is legally recognized as a foreseeable outgrowth of a drug conspiracy, not categorically outside its scope.
-- (d): "retroactively withdrew her from the conspiracy" — wrong because withdrawal requires an affirmative act (communicating to co-conspirators or police) and it only terminates future liability; it never acts "retroactively."
-- (e): "legally terminating the conspiracy" — wrong because a stash house is an ongoing criminal enterprise that does not automatically terminate upon the conclusion of one specific transaction.
+- (a): "categorically barred" — wrong because the MPC uses a fault-calibration rule, not the absolute clean-hands bar found in the common law.
+- (c): "The defense succeeds because the preservation of human life is always legally superior" — lacks an explicit falsifiable error; the claim that life > property is generally true, making the distractor rely on an implicit omission of the fault-creation rule.
+- (d): "she only supplied chemicals and was not physically present" — lacks an explicit falsifiable error; relies on the implicit omission of proximate cause principles regarding fault rather than an explicitly false legal rule.
+- (e): "automatically negates any claim of justification" — wrong because an alternative motive like financial gain does not categorically vitiate a justification defense under the MPC if the objective choice-of-evils elements are satisfied.
 
-Recommended fix: Change (b) to "Guilty under Pinkerton solely because Bex was physically present..." to definitively lock the falsifiable claim with an absolute word, ensuring it cleanly fails the *Pinkerton* test.
+Recommended fix: Add absolute locking language to (c) and (d) to introduce explicit false legal claims. 
+Change (c) to: "The defense succeeds because the preservation of human life automatically overrides any fault in creating the emergency."
+Change (d) to: "The defense succeeds because a defendant's physical absence at the time of the emergency categorically shields them from the fault-creation bar."
 -->

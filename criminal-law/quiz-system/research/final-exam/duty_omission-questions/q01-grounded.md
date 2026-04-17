@@ -1,17 +1,19 @@
-**Q1.** Assume Alba and Bex are charged with possession of the 50 grams of fentanyl found in the lockbox. Based on their arrangement, is Bex guilty of possessing the fentanyl?
+## The Question
 
-(a) Guilty, because Bex had exclusive access to the lockbox and knew the drugs were inside, demonstrating the power and intent to exercise control over them. <!-- correct -->
-(b) Guilty, because Bex's mere presence in the apartment where drugs were sold creates an irrebuttable presumption of constructive possession.
-(c) Not guilty, because Alba directed all the sales and supplied the drugs, meaning Alba retained exclusive possession of the contraband.
-(d) Not guilty, because the drugs were inside a locked container rather than on Bex's physical person, which defeats the actus reus for possession.
-(e) Not guilty, because Bex only provided the location and did not take a share of the profits from the fentanyl sales.
+**Q1.** Assume the prosecution seeks to hold Blake liable for Chris's death based on his omission. Does Blake have a legal duty to seek medical aid for Chris under the Jones categories?
 
-**Answer:** (a)
+(a) Yes, because his physical presence at the scene of an overdose creates a statutory duty to provide assistance.
+(b) Yes, because an oral agreement in exchange for payment is sufficient to establish a contractual duty of care. <!-- correct -->
+(c) Yes, because his act of locking the door established a status relationship requiring him to protect the victim.
+(d) No, because a contractual duty under the Jones categories requires a formal written agreement to be legally binding.
+(e) No, because his primary role was security rather than healthcare, which negates any legal obligation to render aid.
 
-**Explanation:** (a) is correct because constructive possession requires the power and intent to exercise control over an item; Bex having the combination to the lockbox establishes this element. (b) is incorrect because mere presence is insufficient for possession; awareness and control must be independently shown. (c) is incorrect because possession can be shared; Alba directing sales does not negate Bex's control over the lockbox. (d) is incorrect because constructive possession explicitly covers items not on the defendant's physical person. (e) is incorrect because ownership or taking a profit share is not legally required to establish possession.
+**Answer:** (b)
 
-**Tags:** chapters: [15], topics: [constructive possession, elements], difficulty: easy, cognitive: application
+**Explanation:** (b) is correct because under the Jones categories, a legal duty to act can arise from a contract. Blake's oral agreement to act as Chris's medical caretaker for $500 a day satisfies this requirement, creating a duty to seek aid. (a) is wrong because statutory duties require an explicit legislative mandate, not mere physical presence. (c) is wrong because locking the door relates to creating peril or secluding the victim, not the status-relationship category (which requires a legally recognized bond like parent/child). (d) is wrong because an oral agreement is entirely sufficient to establish a contractual duty in criminal law. (e) is wrong because his agreement explicitly included acting as a "primary medical caretaker," defeating the claim that his role was solely security.
 
-**Grounding:** Chapter 15 — Constructive possession requires both awareness and the power and intent to exercise control (cp-awareness-control, cp-exclusive-control).
+**Tags:** chapters: [9], topics: [omissions, jones-categories], difficulty: easy, cognitive: application
 
-<!-- grounding: GROUNDED — constructive possession, Ch 15, Refinement `cp-awareness-control`. Rule paraphrased accurately. -->
+**Grounding:** Chapter 9 - The Five Jones Duty Categories (Contractual Duty)
+
+<!-- grounding: GROUNDED — Jones Categories (Contractual Duty), Ch 9, Refinement `contractual-duty-category`. Rule paraphrased accurately. -->

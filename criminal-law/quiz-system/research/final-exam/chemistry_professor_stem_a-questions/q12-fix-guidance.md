@@ -4,65 +4,66 @@ The QA pipeline flagged this question. Rewrite `q12.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q12.** Assume Silas is charged as an accomplice to Arthur's manufacturing of the substance. Silas argues he only provided glassware and wanted to make money, but did not care whether Arthur successfully synthesized the drug. Under the traditional common law standard for accomplice liability, does Silas have the required mens rea to be an accomplice to manufacturing?
+**Q12.** Can Silas be held liable as an accomplice to Arthur's manufacturing of the substance, despite not participating in the synthesis?
 
-(a) Yes, because Silas clearly knew what Arthur would use the glassware for, which perfectly satisfies the knowledge standard for accomplice liability.
-(b) Yes, because Silas's agreement to take a 20% cut of the sales gives him a financial stake in the venture, establishing purpose. <!-- correct -->
-(c) No, because Silas was not physically present during the synthesis and did not physically assist in the actual manufacturing process.
-(d) No, because Silas must possess the specific intent to personally manufacture the substance to be held liable as an accomplice.
-(e) No, because selling legal glassware is completely protected under the recognized buyer-seller exception, negating any potential accomplice mens rea.
+(a) Yes, because Silas provided the specialized glassware and took a 20% cut of the sales, demonstrating a financial stake that elevates his knowledge to purposeful facilitation of the manufacturing. <!-- correct -->
+(b) Yes, because providing any material assistance with mere knowledge of the principal's overarching criminal plan is always legally sufficient to establish accomplice liability for all resulting crimes.
+(c) No, because the agreed 20% cut was tied exclusively to the sales phase, meaning Silas objectively lacked the specific intent to facilitate the distinct manufacturing phase of the enterprise.
+(d) No, because establishing accomplice liability for the distinct offense of manufacturing strictly requires direct physical participation in the actual synthesis process of the controlled substance.
+(e) No, because Silas's purchase of glassware was a legally innocent act in isolation, which cannot form the required actus reus for accomplice liability regardless of his subjective mindset.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** (b) is correct. Under the traditional rule, accomplice liability requires that the defendant act with the *purpose* of promoting or facilitating the crime, not merely knowledge that it will occur. However, a vendor who provides lawful goods with knowledge of their illegal use can be found to have the required purpose if they have a "stake in the venture" (such as Silas's 20% cut of the sales). (a) fails because mere knowledge is insufficient under the traditional rule; purpose is required. (c) fails because physical presence or assistance is not required for accomplice liability if aid is provided beforehand. (d) fails because an accomplice need only have the purpose to facilitate the principal's crime, not the intent to personally execute the actus reus. (e) fails because the buyer-seller exception applies to basic drug transactions, not to accomplice liability where a financial stake exists.
+**Explanation:** (a) is correct. Accomplice liability requires the purpose to promote or facilitate the commission of the offense. Under the *Lauria* framework, providing materials with mere knowledge of criminal use is typically insufficient, but acquiring a financial stake in the venture's success (a 20% cut of sales) provides the specific intent (purpose) to facilitate the entire enterprise, including the necessary manufacturing phase. (b) is incorrect because mere knowledge of a principal's plan is generally insufficient for accomplice liability without a stake in the venture, special duty, or disproportionate volume. (c) is incorrect because the sales are directly dependent on the manufacturing; a stake in the outcome gives him a purpose to facilitate the production. (d) is incorrect because physical participation is not required; providing essential tools (glassware) satisfies the actus reus for aiding and abetting. (e) is incorrect because acts that are legally innocent in isolation can easily form the actus reus of accomplice liability if performed with the requisite mens rea.
 
-**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge, stake in the venture], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice liability, mens rea, stake in venture], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18, Mens rea: purpose not knowledge and the stake in the venture principle.
+**Grounding:** Chapter 18 - Mens Rea (Purpose); Stake in the Venture (Lauria)
 
 <!-- audit: MUST FIX
-check 1: pass (the legal principle in the correct answer is accurate)
-check 2: pass (distractors are appropriately flawed under the doctrine)
-check 3: pass (the explanation accurately captures the "stake in the venture" inference rule)
-check 4: MUST FIX. The stem completely omits the dispositive fact that Silas took a "20% cut of the sales." The stem merely states he "wanted to make money," which could imply a standard retail transaction (which would *not* establish purpose). Answer (b) and the explanation rely on the 20% cut to prove a stake in the venture. A prepared student would eliminate (b) for assuming facts not in the stem.
-check 5: pass (specifies the traditional common law standard)
-check 6: pass (no excluded topics)
-check 7: pass (purpose vs. knowledge and the stake in the venture principle align with Chapter 18 tags)
-Recommended fix: Add the 20% cut fact to the stem. Update the second sentence to read: "Silas argues he only provided glassware in exchange for a 20% cut of the subsequent drug sales and wanted to make money, but did not otherwise care whether Arthur successfully synthesized the drug."
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: MUST FIX. The question stem is completely missing its fact pattern. It asks "Can Silas be held liable..." without providing any facts about Arthur, Silas, the glassware, or the 20% cut. A student would have to reverse-engineer the facts from the answer choices to understand the scenario. 
+Check 5: pass
+Check 6: pass
+Check 7: SHOULD FIX. The explanation and Grounding rely heavily on the "Lauria framework" for the mens rea analysis. However, a grep of the meta-map reveals that Lauria is firmly situated in Chapter 19 (Conspiracy) under the `lauria-knowledge-vs-purpose` and `lauria-three-inferences` tags, not Chapter 18. While courts routinely apply Lauria inferences to accomplice liability, testing it under a Chapter 18 tag creates a strict coverage mismatch according to the map's taxonomy.
+Recommended fix: First, add the missing facts to the stem (e.g., "Arthur is manufacturing a controlled substance. Silas provides specialized glassware to Arthur in exchange for a 20% cut of the ultimate sales."). Second, add Chapter 19 to the chapter tags to properly ground the Lauria-based "stake in the venture" doctrine.
 -->
 
 ## Issue 2 — argpass-opus
 
-**Q12.** Assume Silas is charged as an accomplice to Arthur's manufacturing of the substance. Silas argues he only provided glassware and wanted to make money, but did not care whether Arthur successfully synthesized the drug. Under the traditional common law standard for accomplice liability, does Silas have the required mens rea to be an accomplice to manufacturing?
+**Q12.** Can Silas be held liable as an accomplice to Arthur's manufacturing of the substance, despite not participating in the synthesis?
 
-(a) Yes, because Silas clearly knew what Arthur would use the glassware for, which perfectly satisfies the knowledge standard for accomplice liability.
-(b) Yes, because Silas's agreement to take a 20% cut of the sales gives him a financial stake in the venture, establishing purpose. <!-- correct -->
-(c) No, because Silas was not physically present during the synthesis and did not physically assist in the actual manufacturing process.
-(d) No, because Silas must possess the specific intent to personally manufacture the substance to be held liable as an accomplice.
-(e) No, because selling legal glassware is completely protected under the recognized buyer-seller exception, negating any potential accomplice mens rea.
+(a) Yes, because Silas provided the specialized glassware and took a 20% cut of the sales, demonstrating a financial stake that elevates his knowledge to purposeful facilitation of the manufacturing. <!-- correct -->
+(b) Yes, because providing any material assistance with mere knowledge of the principal's overarching criminal plan is always legally sufficient to establish accomplice liability for all resulting crimes.
+(c) No, because the agreed 20% cut was tied exclusively to the sales phase, meaning Silas objectively lacked the specific intent to facilitate the distinct manufacturing phase of the enterprise.
+(d) No, because establishing accomplice liability for the distinct offense of manufacturing strictly requires direct physical participation in the actual synthesis process of the controlled substance.
+(e) No, because Silas's purchase of glassware was a legally innocent act in isolation, which cannot form the required actus reus for accomplice liability regardless of his subjective mindset.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** (b) is correct. Under the traditional rule, accomplice liability requires that the defendant act with the *purpose* of promoting or facilitating the crime, not merely knowledge that it will occur. However, a vendor who provides lawful goods with knowledge of their illegal use can be found to have the required purpose if they have a "stake in the venture" (such as Silas's 20% cut of the sales). (a) fails because mere knowledge is insufficient under the traditional rule; purpose is required. (c) fails because physical presence or assistance is not required for accomplice liability if aid is provided beforehand. (d) fails because an accomplice need only have the purpose to facilitate the principal's crime, not the intent to personally execute the actus reus. (e) fails because the buyer-seller exception applies to basic drug transactions, not to accomplice liability where a financial stake exists.
+**Explanation:** (a) is correct. Accomplice liability requires the purpose to promote or facilitate the commission of the offense. Under the *Lauria* framework, providing materials with mere knowledge of criminal use is typically insufficient, but acquiring a financial stake in the venture's success (a 20% cut of sales) provides the specific intent (purpose) to facilitate the entire enterprise, including the necessary manufacturing phase. (b) is incorrect because mere knowledge of a principal's plan is generally insufficient for accomplice liability without a stake in the venture, special duty, or disproportionate volume. (c) is incorrect because the sales are directly dependent on the manufacturing; a stake in the outcome gives him a purpose to facilitate the production. (d) is incorrect because physical participation is not required; providing essential tools (glassware) satisfies the actus reus for aiding and abetting. (e) is incorrect because acts that are legally innocent in isolation can easily form the actus reus of accomplice liability if performed with the requisite mens rea.
 
-**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge, stake in the venture], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice liability, mens rea, stake in venture], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18, Mens rea: purpose not knowledge and the stake in the venture principle.
+**Grounding:** Chapter 18 - Mens Rea (Purpose); Stake in the Venture (Lauria)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student might recall that some jurisdictions (or tests for facilitators of serious crimes) allow mere knowledge to suffice for accomplice liability. By clearly knowing the intended illicit use, Silas meets this lower threshold, which the student might mistakenly assume satisfies the "traditional common law standard."
-(b) Argument-for: Under the traditional common law rule (e.g., *Peoni*), accomplice liability requires the purpose to promote or facilitate the offense. A supplier of legal goods who takes a financial stake in the criminal venture's success (like a 20% profit cut) elevates their mens rea from mere knowledge to true purpose, because they now have a vested interest in the crime succeeding.
-(c) Argument-for: A student could conflate the requirements for principal actus reus with accomplice liability. They might argue that simply providing legal goods prior to the crime is mere preparation, and that true accomplice liability requires actual physical presence or direct physical assistance during the manufacturing process.
-(d) Argument-for: A strict but flawed reading of the mens rea requirement posits that an accomplice must share the exact intent to commit the crime as the principal. A student could interpret this to mean the accomplice must possess the specific intent to personally execute the actus reus of manufacturing.
-(e) Argument-for: The buyer-seller rule generally protects simple arm's-length commercial transactions from conspiracy and accomplice liability. A student could argue that selling unmodified legal glassware is fully protected under this exception, shielding the seller from accomplice mens rea regardless of their underlying financial arrangements.
+(a) Argument-for: The *Lauria* doctrine requires that a provider of goods have the purpose to facilitate the crime to be held liable as an accomplice. Purpose can be inferred from mere knowledge if the provider has a "stake in the venture." By securing a 20% cut of the sales, Silas obtained a direct financial stake in the success of the enterprise. Since the sales depend entirely on the successful manufacturing of the substance, this financial stake elevates his mens rea to purposeful facilitation of the manufacturing phase.
+(b) Argument-for: A student could argue that providing specialized material assistance (glassware) with full knowledge of the overarching criminal plan is enough to establish accomplice liability. Under natural and probable consequences or general facilitation theories, some might believe that giving material aid while knowing the ultimate goal provides both the actus reus and sufficient mens rea, making him liable for all crimes committed to effectuate that plan.
+(c) Argument-for: A student might view manufacturing and sales as severable, distinct offenses requiring independent mens rea analysis. Since Silas's 20% cut was tied explicitly to sales, his financial interest formally began only after manufacturing was complete. Therefore, one could argue that he objectively lacked the specific intent to aid the manufacturing itself, intending only to profit from distribution.
+(d) Argument-for: For a specialized offense like "manufacturing," a student might assume the actus reus is tightly bound to the statutory term. Under this view, mere provision of tools is preparatory and constitutes aiding a general conspiracy, but accomplice liability for the substantive crime of manufacturing strictly requires direct physical involvement in the actual chemical synthesis.
+(e) Argument-for: A student could argue that purchasing glassware is an inherently legal, commercially innocent act. Without an actus reus that is intrinsically wrongful or illegal, accomplice liability cannot attach, because allowing an innocent act to form the actus reus would improperly criminalize subjective thoughts or basic commerce, regardless of the provider's mindset.
 
-Head-to-head: The keyed answer (b) accurately applies the "stake in the venture" doctrine to find purposeful mens rea under the traditional common law standard. Distractor (d) is highly effective and cleanly falsifiable due to the word "must," correctly testing the misconception that accomplices need to intend to personally commit the actus reus. Distractor (e) uses "completely protected," rendering its absolute application of the buyer-seller exception explicitly false. Distractor (a) is explicitly falsifiable because it claims knowledge "perfectly satisfies" the traditional standard, which actually strictly requires purpose. Distractor (c) is the weakest because it lacks an absolute trigger word; it simply says "because Silas was not physically present," which implicitly relies on the false premise that presence is required, rather than explicitly stating it as a categorical rule.
+Head-to-head: 
+(a) is the correct application of the *Lauria* "stake in the venture" rule. (b) asserts that providing aid with knowledge of the plan is "always legally sufficient" for all crimes, which is a flatly false legal rule, as knowledge generally does not equate to purpose. (c) presents a plausible-sounding distractor about separating the manufacturing and sales phases, but fails because a stake in the sales inherently requires the manufacturing to succeed. However, (c) lacks a definitive, generalized false legal claim, relying instead on a flawed factual conclusion ("meaning Silas objectively lacked"). (d) wrongly claims that accomplice liability "strictly requires direct physical participation." (e) falsely states that an innocent act cannot form the actus reus "regardless of his subjective mindset." Because (c) lacks a locked falsifiable legal proposition, the question should be slightly revised.
 
 Falsifiable claim per distractor:
-- (a): "perfectly satisfies the knowledge standard for accomplice liability" — wrong because the traditional common law standard requires purpose, not mere knowledge.
-- (c): "because Silas was not physically present... and did not physically assist" — wrong because it relies on the false implicit premise that physical presence or assistance is required (aid beforehand is sufficient), but it lacks an absolute locking word to make the rule explicit.
-- (d): "must possess the specific intent to personally manufacture" — wrong because an accomplice needs the purpose to facilitate the principal's crime, not the intent to personally commit the actus reus.
-- (e): "completely protected under the recognized buyer-seller exception" — wrong because the exception is not absolute and is negated when the seller takes a stake in the venture.
+- (b): "always legally sufficient to establish accomplice liability" — wrong because mere knowledge is generally insufficient without a stake in the venture, no legitimate use, or a serious felony (per *Lauria*).
+- (c): "meaning Silas objectively lacked the specific intent" — wrong as an application to these facts, but it lacks a generalized absolute falsifiable legal claim, making it a "soft" distractor under the close-call standard.
+- (d): "strictly requires direct physical participation" — wrong because providing tools or materials clearly satisfies the actus reus for accomplice liability without physical participation in the crime itself.
+- (e): "cannot form the required actus reus... regardless of his subjective mindset" — wrong because otherwise innocent acts (like selling a dress or buying glassware) routinely form the actus reus if accompanied by the purpose to facilitate the crime.
 
-Recommended fix: In (c), add an absolute word to lock the false legal premise. Change (c) to: "No, because accomplice liability categorically requires the defendant to be physically present or physically assist in the actual manufacturing process."
+Recommended fix: Change (c) to "No, because a financial stake in the sales phase categorically cannot establish the specific intent required to facilitate the distinct preliminary offense of manufacturing."
 -->

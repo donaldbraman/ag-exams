@@ -4,65 +4,94 @@ The QA pipeline flagged this question. Rewrite `q14.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q14.** Assume that Alba claims self-defense and defense of habitation for striking Dane as he breached the door. Which of the following best analyzes these defenses?
+**Q14.** Is Blake's act of locking the door the factual (but-for) cause of Chris's death?
 
-(a) The defenses fail because Alba knew Dane's entry was for the purpose of a medical rescue, meaning Alba lacked a reasonable belief that Dane was an unlawful aggressor. <!-- correct -->
-(b) The defenses succeed because Dane violently breached the locked front door, which automatically triggers the castle doctrine and justifies force against any intruder.
-(c) The defenses fail because the apartment belonged to Bex, meaning Alba was merely a guest and had no legal standing to assert the defense of habitation.
-(d) The defenses succeed because Dane was an off-duty paramedic who failed to announce his official identity before entering, making Alba's use of force objectively reasonable.
-(e) The defenses fail because Alba responded to property damage with a weapon, which is categorically prohibited even when defending a legally occupied habitation.
+(a) No, because Dana's injection caused a massive cardiac rupture that killed Chris instantly, completely preempting the impending lethal overdose mechanism. <!-- correct -->
+(b) Yes, because locking the deadbolt was a necessary step in the continuous sequence of events leading directly to the death.
+(c) Yes, because Chris would have received medical assistance and survived if Blake had successfully completed the phone call to 911.
+(d) No, because Alex's action of drawing the weapon was the primary cause, rendering Blake's subsequent compliance merely a dependent variable.
+(e) No, because Chris's initial voluntary consumption of the untested synthetic opioid fundamentally severs any factual causation attributed to the bystanders.
 
 **Answer:** (a)
 
-**Explanation:** Self-defense and defense of habitation require an objectively reasonable belief that the intruder poses an unlawful threat. Because Alba knew Dane was a paramedic entering solely to conduct a life-saving rescue, Alba's belief was neither reasonable nor directed at an unlawful aggressor. (b) is wrong because the castle doctrine still requires a reasonable belief of an unlawful intrusion, which is negated by Alba's knowledge of the rescue. (c) is wrong because lawful guests generally have standing to assert defense of habitation, though the defense fails here on the merits. (d) is wrong because Alba already knew Dane's identity and purpose, making the lack of announcement irrelevant. (e) is wrong because deadly force is sometimes permitted to defend habitation, but the defense fails here due to the lack of an unlawful threat.
+**Explanation:** (a) is correct because factual (but-for) causation requires asking: "but for the defendant's act, would the result have occurred when and how it did?" Because Dana's injection caused a massive, immediate cardiac rupture that killed Chris instantly, Chris did not die from the delayed rescue or the overdose. Thus, locking the door was not the but-for cause of the specific death that occurred. (b) is wrong because Dana's action preempted the overdose sequence entirely. (c) is wrong because but-for causation evaluates the actual timeline, and the medical assistance was rendered moot by the sudden rupture. (d) is wrong because multiple actors can be concurrent but-for causes, but here the lethal mechanism changed entirely. (e) is wrong because voluntary consumption does not automatically sever factual causation for subsequent acts.
 
-**Tags:** chapters: [22], topics: [self-defense, objective-reasonableness-standard, initial-aggressor-bar], difficulty: medium, cognitive: analysis
+**Tags:** chapters: [8], topics: [causation, but-for-test], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22 — Self-Defense: Objective Reasonableness Standard
+**Grounding:** Chapter 8 - Factual Cause (But-For Test)
 
 <!-- audit: MUST FIX
-check 1: fails. The marked answer assumes that entering for a medical rescue means the person cannot be an "unlawful aggressor." However, if there is no actual emergency, Dane is technically a mistaken trespasser. A resident/guest can generally use non-deadly force to terminate a trespass, meaning Alba's defense of habitation *could* technically succeed if "striking" was non-deadly.
-check 2: pass. 
-check 3: fails. The explanation for (e) states "deadly force is sometimes permitted...", revealing the author implicitly assumes Alba used deadly force. However, the stem only says Alba was "striking Dane," which is presumptively non-deadly force.
-check 4: fails. The stem fails to establish two necessary facts: (1) whether the force used was deadly or non-deadly, and (2) whether an actual emergency existed (which would make Dane's entry legally justified under necessity rather than an unlawful trespass). 
-check 5: pass. 
-check 6: pass. 
-check 7: pass. Defense of habitation is a standard corollary taught alongside the Castle Doctrine in Ch 22.
-Recommended fix: Specify the level of force to eliminate the non-deadly trespass defense. Change "for striking Dane" to "for striking Dane with a deadly weapon." Then, tweak (a)'s rationale to focus on the force level: "...meaning Alba knew Dane posed no threat of a violent felony or physical harm that would justify deadly force."
+check 1: pass (assuming the missing facts align with the explanation).
+check 2: finding - Without the fact pattern, a student could argue that if locking the door trapped Chris inside with Dana, then locking the door *enabled* Dana to inject Chris. If so, locking the door *is* a but-for cause of the actual death (Dana's injection). 
+check 3: pass
+check 4: MUST FIX - The question entirely lacks a fact pattern. It references a complex scenario involving Blake locking a door, Alex drawing a weapon, Chris voluntarily taking an opioid, and Dana injecting Chris with a lethal substance, none of which is established in a prompt. 
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Provide the missing fact pattern. Additionally, when writing the facts, explicitly ensure that Blake locking the door did *not* facilitate Dana's injection (e.g., make it clear Dana was already inside and would have injected Chris regardless of the lock); otherwise, locking the door actually would be a but-for cause under standard doctrine.
 -->
 
-## Issue 2 — argpass-opus
+## Issue 2 — edge-case
 
-**Q14.** Assume that Alba claims self-defense and defense of habitation for striking Dane as he breached the door. Which of the following best analyzes these defenses?
+**Q14.** Is Blake's act of locking the door the factual (but-for) cause of Chris's death?
 
-(a) The defenses fail because Alba knew Dane's entry was for the purpose of a medical rescue, meaning Alba lacked a reasonable belief that Dane was an unlawful aggressor. <!-- correct -->
-(b) The defenses succeed because Dane violently breached the locked front door, which automatically triggers the castle doctrine and justifies force against any intruder.
-(c) The defenses fail because the apartment belonged to Bex, meaning Alba was merely a guest and had no legal standing to assert the defense of habitation.
-(d) The defenses succeed because Dane was an off-duty paramedic who failed to announce his official identity before entering, making Alba's use of force objectively reasonable.
-(e) The defenses fail because Alba responded to property damage with a weapon, which is categorically prohibited even when defending a legally occupied habitation.
+(a) No, because Dana's injection caused a massive cardiac rupture that killed Chris instantly, completely preempting the impending lethal overdose mechanism. <!-- correct -->
+(b) Yes, because locking the deadbolt was a necessary step in the continuous sequence of events leading directly to the death.
+(c) Yes, because Chris would have received medical assistance and survived if Blake had successfully completed the phone call to 911.
+(d) No, because Alex's action of drawing the weapon was the primary cause, rendering Blake's subsequent compliance merely a dependent variable.
+(e) No, because Chris's initial voluntary consumption of the untested synthetic opioid fundamentally severs any factual causation attributed to the bystanders.
 
 **Answer:** (a)
 
-**Explanation:** Self-defense and defense of habitation require an objectively reasonable belief that the intruder poses an unlawful threat. Because Alba knew Dane was a paramedic entering solely to conduct a life-saving rescue, Alba's belief was neither reasonable nor directed at an unlawful aggressor. (b) is wrong because the castle doctrine still requires a reasonable belief of an unlawful intrusion, which is negated by Alba's knowledge of the rescue. (c) is wrong because lawful guests generally have standing to assert defense of habitation, though the defense fails here on the merits. (d) is wrong because Alba already knew Dane's identity and purpose, making the lack of announcement irrelevant. (e) is wrong because deadly force is sometimes permitted to defend habitation, but the defense fails here due to the lack of an unlawful threat.
+**Explanation:** (a) is correct because factual (but-for) causation requires asking: "but for the defendant's act, would the result have occurred when and how it did?" Because Dana's injection caused a massive, immediate cardiac rupture that killed Chris instantly, Chris did not die from the delayed rescue or the overdose. Thus, locking the door was not the but-for cause of the specific death that occurred. (b) is wrong because Dana's action preempted the overdose sequence entirely. (c) is wrong because but-for causation evaluates the actual timeline, and the medical assistance was rendered moot by the sudden rupture. (d) is wrong because multiple actors can be concurrent but-for causes, but here the lethal mechanism changed entirely. (e) is wrong because voluntary consumption does not automatically sever factual causation for subsequent acts.
 
-**Tags:** chapters: [22], topics: [self-defense, objective-reasonableness-standard, initial-aggressor-bar], difficulty: medium, cognitive: analysis
+**Tags:** chapters: [8], topics: [causation, but-for-test], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22 — Self-Defense: Objective Reasonableness Standard
+**Grounding:** Chapter 8 - Factual Cause (But-For Test)
+
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The facts inadvertently create a valid argument that locking the door WAS a but-for cause. Because the door was locked, Evan broke the back window to escape, which Dana then used to enter. This allowed her to bypass the front door where an armed Alex and Blake were standing guard. If the door had been unlocked, Dana would have had to enter through the front door, likely encountering the guards who were ordered to block "outside assistance," potentially preventing her from injecting Chris. This arguably makes locking the door a but-for cause of her successful preemptive injection, complicating intended answer (A).
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: Q14’s correct legal logic (that Dana’s lethal injection completely preempted the overdose, meaning "Chris did not die from the delayed rescue") severely structurally clashes with Q9 and Q13. Q9 and Q13 ask the student to evaluate full murder liability based on Alex "blocking the rescue" and Blake’s "omission causing Chris's death." If Q14 teaches the student that the delayed rescue didn't factually cause the death, Q9 and Q13 are spoiled because the underlying murder charges would fail on basic causation before extreme indifference or duress are even analyzed.
+Recommended fix: Change Q14 to test whether Alex's initial act of supplying the opioid is the factual cause of Chris’s death (Answer: Yes, because it caused the overdose that triggered Dana’s dependent intervention). Alternatively, adjust the stems of Q9 and Q13 to explicitly analyze *Attempted* Murder so they align with Q14’s conclusion that the delayed rescue did not actually cause the death.
+-->
+
+## Issue 3 — argpass-opus
+
+**Q14.** Is Blake's act of locking the door the factual (but-for) cause of Chris's death?
+
+(a) No, because Dana's injection caused a massive cardiac rupture that killed Chris instantly, completely preempting the impending lethal overdose mechanism. <!-- correct -->
+(b) Yes, because locking the deadbolt was a necessary step in the continuous sequence of events leading directly to the death.
+(c) Yes, because Chris would have received medical assistance and survived if Blake had successfully completed the phone call to 911.
+(d) No, because Alex's action of drawing the weapon was the primary cause, rendering Blake's subsequent compliance merely a dependent variable.
+(e) No, because Chris's initial voluntary consumption of the untested synthetic opioid fundamentally severs any factual causation attributed to the bystanders.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because factual (but-for) causation requires asking: "but for the defendant's act, would the result have occurred when and how it did?" Because Dana's injection caused a massive, immediate cardiac rupture that killed Chris instantly, Chris did not die from the delayed rescue or the overdose. Thus, locking the door was not the but-for cause of the specific death that occurred. (b) is wrong because Dana's action preempted the overdose sequence entirely. (c) is wrong because but-for causation evaluates the actual timeline, and the medical assistance was rendered moot by the sudden rupture. (d) is wrong because multiple actors can be concurrent but-for causes, but here the lethal mechanism changed entirely. (e) is wrong because voluntary consumption does not automatically sever factual causation for subsequent acts.
+
+**Tags:** chapters: [8], topics: [causation, but-for-test], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 8 - Factual Cause (But-For Test)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: Self-defense and defense of habitation both require the defender to have an objectively reasonable belief that the intruder is an unlawful aggressor posing a threat. If Alba knew Dane was a paramedic entering solely to conduct a medical rescue, she knew his entry was privileged (lawful) and not for an aggressive purpose. Therefore, she could not reasonably believe force was necessary to repel an unlawful threat, causing both defenses to fail.
-(b) Argument-for: The castle doctrine provides heightened protection for occupants of a home. A student could argue that a violent breach of a locked front door triggers this doctrine, creating a legal presumption that the intruder intends to commit a felony or use unlawful force. Under broad "make my day" statutes, this violent entry alone automatically justifies the use of force against any intruder, regardless of their actual intent.
-(c) Argument-for: At strict common law, the defense of habitation was often restricted to the actual dweller or head of household protecting their own home and family. Since the apartment belonged to Bex, Alba, as a mere guest, might be argued to lack the requisite possessory right to invoke the defense of habitation, restricting her to standard self-defense.
-(d) Argument-for: The "knock and announce" rule generally requires agents acting under privilege to identify themselves. Since Dane failed to announce his official identity, Alba could argue that his violent breach appeared as an ordinary home invasion. Without an official announcement, Alba's use of force against a violent entry could be seen as objectively reasonable under the circumstances.
-(e) Argument-for: The law generally prohibits the use of deadly force (often implied by "weapon") solely to protect property. Because the breach of the door was initially property damage, a student could argue that Alba's use of a weapon violates the categorical rule against using deadly force to prevent mere property crimes, even within a habitation context.
+(a) Argument-for: Factual causation requires the defendant's act to be a necessary condition for the result occurring when and as it did. Because Dana's injection caused an immediate cardiac rupture that preempted the overdose sequence entirely, Blake's act of locking the door was not a but-for cause of the specific death that occurred. The lethal mechanism changed completely, making Dana's act the preemptive factual cause and rendering Blake's act causally moot. Therefore, (a) correctly applies the but-for test to preemptive causation.
+(b) Argument-for: Factual causation evaluates the continuous sequence of events leading to the harm. A student could argue that locking the deadbolt trapped Chris or delayed external intervention, creating the environment in which Dana's injection occurred. If Blake's locking of the door was a necessary step that allowed Dana to administer the injection, it would satisfy the factual causation threshold. This logic asserts that Blake's act was an indispensable link in the chain of events leading directly to the death.
+(c) Argument-for: Factual causation often involves counterfactual analysis of omissions. If Blake's failure to complete the 911 call prevented life-saving medical intervention, a student could argue that but for this omission, Chris would have survived. The argument hinges on the factual premise that medical assistance would have arrived in time to alter the outcome. Assuming this counterfactual, Blake's incomplete call is framed as a direct but-for cause of Chris's death.
+(d) Argument-for: Under causation principles, an overwhelming primary force can overshadow subsequent dependent acts. Alex drawing a weapon and forcing Blake's compliance implies Blake acted under duress, rendering his action an involuntary dependent variable. A student could argue that because Blake's act was completely controlled by Alex's primary act, factual causation flows exclusively to the primary actor. This would legally sever attribution to the coerced party, making Alex the sole factual cause.
+(e) Argument-for: The doctrine of causation must account for the victim's own initiating actions. Chris's voluntary consumption of the untested synthetic opioid set the hazardous scenario into motion. A student could argue that such a highly reckless and voluntary initial act functions as a fundamental superseding event. This perspective asserts that the victim's voluntary ingestion categorically severs the causal chain for all subsequent bystander actions, assigning sole factual causation to Chris.
 
-Head-to-head: Option (a) correctly applies the requirement of an unlawful threat to the assumed facts (Alba's actual knowledge of the medical rescue destroys the reasonableness of her belief). Option (b) relies on the false absolutes "automatically triggers" and "any intruder," ignoring privileged entries. Option (c) relies on the false absolute "no legal standing," as lawful guests can assert defense of habitation. Option (e) relies on the false absolute "categorically prohibited," as deadly force can be permissible to defend habitation against violent entry. Option (d) presents a false legal conclusion ("making Alba's use of force objectively reasonable") based on ignoring her actual knowledge, but it fails to lock this falsity with an absolute word.
+Head-to-head: Option (a) correctly identifies that Dana's instant lethal injection acts as a preemptive cause, rendering Blake's actions causally irrelevant to the death as it actually occurred. The distractors fail because they either rely on incorrect factual inferences or misstate causation doctrine. Option (b) factually assumes the lock was a necessary step, ignoring that the preemptive injection broke the required continuous sequence. Option (c) incorrectly relies on a counterfactual where medical help arrives, which is factually mooted by the instant rupture. Option (d) presents a false legal claim by asserting that a 'primary cause' inherently negates the factual causation of dependent acts, conflating culpability with factual causation. Option (e) falsely claims that a victim's voluntary act 'fundamentally severs any factual causation,' improperly applying proximate cause superseding rules to the but-for test. Distractors (b) and (c) rely on factual counterfactuals rather than explicit false legal claims, failing the close-call standard.
 
 Falsifiable claim per distractor:
-- (b): "automatically triggers... and justifies force against any intruder." — wrong because castle doctrines do not automatically justify force against privileged entrants or negate the requirement of reasonable belief.
-- (c): "had no legal standing to assert the defense of habitation." — wrong because lawful guests typically have the legal right to assert defense of habitation.
-- (d): "making Alba's use of force objectively reasonable." — wrong because Alba's actual knowledge of the rescue makes her force unreasonable, but this phrase lacks an absolute word to lock it as an explicit false legal rule rather than an implicit factual omission.
-- (e): "which is categorically prohibited even when defending a legally occupied habitation." — wrong because the use of weapons (deadly force) is not categorically prohibited in defense of habitation.
+- (b): "locking the deadbolt was a necessary step in the continuous sequence of events" — wrong because Dana's preemptive injection broke the causal sequence, making it factually incorrect; however, it lacks an explicitly false legal claim locked with an absolute.
+- (c): "Chris would have received medical assistance and survived" — wrong because medical assistance was rendered factually moot by the instant rupture; it relies on a factual counterfactual rather than a categorically false legal rule.
+- (d): "rendering Blake's subsequent compliance merely a dependent variable" — wrong because an act being a dependent variable or coerced does not negate its status as a concurrent factual cause.
+- (e): "fundamentally severs any factual causation attributed to the bystanders" — wrong because a victim's voluntary consumption may impact proximate causation but does not categorically sever factual (but-for) causation.
 
-Recommended fix: Change (d) to lock the false legal claim: "(d) The defenses succeed because Dane was an off-duty paramedic who failed to announce his official identity before entering, an omission that automatically makes any use of force objectively reasonable."
+Recommended fix: To strictly adhere to the close-call standard requiring explicit false legal claims locked with absolute words, revise distractors (b), (c), and (d):
+- Change (b) to: "Yes, because any deliberate act that precedes a criminal harm is automatically deemed a necessary step in the factual sequence, regardless of subsequent preemptive causes."
+- Change (c) to: "Yes, because failing to complete a 911 call categorically establishes factual causation for any subsequent death."
+- Change (d) to: "No, because the presence of a primary coerced cause automatically negates the factual causation of all subsequent dependent actions."
+- Change (e) to: "No, because a victim's voluntary consumption of illegal drugs categorically severs all factual causation attributed to the subsequent acts of others."
 -->

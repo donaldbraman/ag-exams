@@ -1,17 +1,17 @@
-**Q6.** The prosecution considers charging Arthur with felony murder, using drug distribution as the predicate felony. In a jurisdiction that applies the "facts-as-committed" test for inherent dangerousness and recognizes the merger doctrine, is this charge viable?
+**Q6.** If the prosecution charges Arthur with felony murder predicated on the drug distribution, how will the court evaluate whether the felony is a valid predicate?
 
-(a) Yes, because distributing a lethal chemical is inherently dangerous as committed, and the felony has an independent purpose of financial gain, so it does not merge. <!-- correct -->
-(b) No, because drug distribution has no independent felonious purpose beyond harming the victim, meaning it merges with the homicide and cannot serve as a predicate.
-(c) Yes, because under the abstract elements test, drug distribution can never be committed safely, and drug offenses are categorically exempt from the merger doctrine.
-(d) No, because drug distribution is not an assaultive crime, and only directly assaultive crimes can serve as inherently dangerous predicates under the facts-as-committed framework.
-(e) Yes, because any felony that results in death automatically qualifies as inherently dangerous, overriding the merger doctrine's requirement for an independent felonious purpose.
+(a) The felony does not merge because distribution has an independent felonious purpose, and it will qualify as inherently dangerous under a facts-as-committed approach given the fatal overdose. <!-- correct -->
+(b) The felony merges with the homicide because the distribution of a lethal substance is essentially assaultive, legally barring the application of the felony murder rule entirely.
+(c) The felony will automatically qualify in a jurisdiction using the abstract-elements test because any distribution of drugs is inherently dangerous to human life in all theoretical circumstances.
+(d) The felony will not qualify under the facts-as-committed test because Arthur genuinely believed the substance was a legal nootropic, negating the required objective dangerousness of the act.
+(e) The felony will merge because the resulting cardiac arrhythmia empirically demonstrates that the crime had no genuine purpose independent of causing severe bodily injury to the victim.
 
 **Answer:** (a)
 
-**Explanation:** The charge is viable because distributing lethal drugs is inherently dangerous as actually committed, and selling drugs has an independent financial purpose beyond the violence itself, meaning it does not merge. (b) is wrong because drug distribution has an independent purpose (financial gain) separate from harming the victim. (c) is wrong because under the abstract elements test, distribution might theoretically be committed safely, meaning it would likely fail as inherently dangerous. (d) is wrong because non-assaultive crimes can still be inherently dangerous under the facts-as-committed test. (e) is wrong because the merger doctrine still requires an independent purpose even if a death occurs.
+**Explanation:** (a) is correct. To serve as a valid predicate for felony murder, the felony must have an independent felonious purpose (so it does not merge) and must be inherently dangerous. Drug distribution's purpose is financial gain, not physical violence, so it has an independent purpose and does not merge. Under a facts-as-committed approach, selling an experimental substance that causes acute arrhythmia is factually dangerous. (b) is incorrect because distribution is not essentially assaultive; the independent purpose avoids merger. (c) is incorrect because under the abstract-elements test (like California's), drug distribution might not qualify since it is theoretically possible to distribute drugs safely. (d) is incorrect because the facts-as-committed test evaluates the objective factual danger of the conduct, not the defendant's subjective belief about legality. (e) is incorrect because the merger doctrine looks to the legal elements and primary purpose of the underlying felony, not merely the empirical outcome of the specific incident.
 
-**Tags:** chapters: [14], topics: [felony murder, inherently dangerous, merger doctrine], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [14], topics: [felony murder, inherently dangerous felony, merger doctrine], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 14 (elements-vs-facts-approach, merger-independent-purpose)
+**Grounding:** Chapter 14 - Elements vs. Facts Approach; Merger Doctrine
 
-<!-- grounding: GROUNDED — Felony Murder (Inherent Dangerousness and Merger), Ch 14, Refinement `elements-vs-facts-approach`, `merger-independent-purpose`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Felony Murder (Inherently Dangerous Felony & Merger Doctrine), Ch 14, Refinement `elements-vs-facts-approach` and `merger-independent-purpose`. Rule paraphrased accurately. -->

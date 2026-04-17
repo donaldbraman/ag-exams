@@ -2,42 +2,92 @@
 
 The QA pipeline flagged this question. Rewrite `q03.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — argpass-opus
+## Issue 1 — audit
 
-**Q3.** Assume that, prior to Alba drawing the weapon, prosecutors evaluate whether Bex owed Cody a legal duty to intervene when he collapsed. Which of the following best describes Bex's legal duty?
+**Q3.** Assume it is established that Alex breached a duty to Chris. Can Alex be held to have proximately caused Chris's death, given Dana's intervention?
 
-(a) Bex owed a legal duty to Cody because handing him the loaded syringe constituted the creation of peril, obligating her to mitigate the resulting harm. <!-- correct -->
-(b) Bex owed a legal duty to Cody because the drug transaction occurred inside an apartment where she was the lawful tenant, establishing a status relationship.
-(c) Bex owed a legal duty to Cody because their agreement to exchange drugs established a contractual duty of care for his physical safety.
-(d) Bex owed no legal duty to Cody because Cody's voluntary decision to inject the fentanyl constituted an independent act that absolved her of responsibility.
-(e) Bex owed no legal duty to Cody because individuals who purchase illegal narcotics are legally presumed to assume the risk of a fatal overdose.
+(a) Yes, because Dana's attempt to save the drug operation was a dependent intervening cause set in motion by Alex.
+(b) Yes, because Chris would have died from the overdose anyway, making the exact mechanism of death legally irrelevant.
+(c) No, because a medical intervention by a third party always constitutes a superseding cause that breaks proximate causation.
+(d) No, because Alex was not physically present when Dana climbed through the window to administer the fatal injection.
+(e) No, because Dana's forceful injection of animal-grade stimulant was an unforeseeable, independent intervening cause that severs the chain. <!-- correct -->
 
-**Answer:** (a)
+**Answer:** (e)
 
-**Explanation:** Under the creation of peril doctrine, Bex acquired a legal duty to act because she affirmatively handed Cody the loaded syringe, contributing to the dangerous situation that led to his overdose. (b) is wrong because the status relationship category applies to recognized legal bonds (like parent-child), not landlords and guests. (c) is wrong because illegal drug transactions do not create legally enforceable contractual duties of care. (d) is wrong because creating peril does not require forcing the victim; providing the means of harm is sufficient. (e) is wrong because criminal law does not recognize assumption of risk by victims as negating a defendant's duty.
+**Explanation:** (e) is correct because under common law proximate causation, an independent intervening cause severs liability if it is highly extraordinary or unforeseeable. A third party climbing through a broken window and forcefully injecting a dying person with stolen animal-grade cardiac stimulant is an unforeseeable, independent act that breaks the causal chain from Alex's initial conduct. (a) is wrong because Dana's action was completely independent and extraordinary, not a dependent, normal response (like routine medical treatment) set in motion by the overdose. (b) is wrong because factual and proximate causation require the result to occur via a foreseeable mechanism. (c) is wrong because normal, negligent medical intervention is usually a dependent intervening cause that does not break the chain. (d) is wrong because physical presence is not required to establish or sever proximate cause.
 
-**Tags:** chapters: [9], topics: [omissions, creation-of-peril-category], difficulty: medium, cognitive: application
+**Tags:** chapters: [8], topics: [causation, intervening-cause], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 9 — Omissions: Creation of Peril (State v. Voss)
+**Grounding:** Chapter 8 - Dependent vs. Independent Intervening Causes
+
+<!-- audit: MUST FIX
+check 1: fails. Option (e) doctrinally mislabels Dana's act as an "independent" intervening cause. Under common law, a third-party act that is a reaction/response to the condition created by the defendant (e.g., trying to revive an overdose victim) is a *dependent* intervening cause. A well-prepared student might eliminate (e) because they know Dana's act is responsive (dependent) rather than coincidental (independent).
+check 2: pass.
+check 3: fails. The explanation compounds the error in (e) by stating "(a) is wrong because Dana's action was completely independent... not a dependent, normal response." This conflates "dependent" with "normal." A responsive act is dependent by definition; it severs the causal chain *because* it is highly extraordinary, not because it becomes "independent."
+check 4: fails. The question stem is entirely missing its fact pattern. It references Alex, Chris, Dana, an overdose, a broken window, and an animal-grade injection without introducing any of these facts, indicating this is an orphaned question from a larger scenario.
+check 5: pass.
+check 6: pass.
+check 7: pass.
+Recommended fix: 1) Insert the missing fact pattern into the question stem. 2) Revise (e) to state: "No, because Dana's forceful injection of animal-grade stimulant was a highly extraordinary dependent intervening cause that severs the chain." 3) Correct the explanation to clarify that while Dana's act was a response to the overdose (dependent), its highly extraordinary nature makes it a superseding cause.
+-->
+
+## Issue 2 — edge-case
+
+**Q3.** Assume it is established that Alex breached a duty to Chris. Can Alex be held to have proximately caused Chris's death, given Dana's intervention?
+
+(a) Yes, because Dana's attempt to save the drug operation was a dependent intervening cause set in motion by Alex.
+(b) Yes, because Chris would have died from the overdose anyway, making the exact mechanism of death legally irrelevant.
+(c) No, because a medical intervention by a third party always constitutes a superseding cause that breaks proximate causation.
+(d) No, because Alex was not physically present when Dana climbed through the window to administer the fatal injection.
+(e) No, because Dana's forceful injection of animal-grade stimulant was an unforeseeable, independent intervening cause that severs the chain. <!-- correct -->
+
+**Answer:** (e)
+
+**Explanation:** (e) is correct because under common law proximate causation, an independent intervening cause severs liability if it is highly extraordinary or unforeseeable. A third party climbing through a broken window and forcefully injecting a dying person with stolen animal-grade cardiac stimulant is an unforeseeable, independent act that breaks the causal chain from Alex's initial conduct. (a) is wrong because Dana's action was completely independent and extraordinary, not a dependent, normal response (like routine medical treatment) set in motion by the overdose. (b) is wrong because factual and proximate causation require the result to occur via a foreseeable mechanism. (c) is wrong because normal, negligent medical intervention is usually a dependent intervening cause that does not break the chain. (d) is wrong because physical presence is not required to establish or sever proximate cause.
+
+**Tags:** chapters: [8], topics: [causation, intervening-cause], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 8 - Dependent vs. Independent Intervening Causes
+
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: MUST FIX. The question and explanation fundamentally misuse common law causation terminology. Doctrinally, Dana's intervention is a *dependent* (responsive) intervening cause because it was enacted directly in reaction to the peril created by Alex (the overdose). A dependent cause does not have to be "normal"; if it is a response, it is dependent. A dependent cause can sever liability, but only if it is "highly extraordinary" or "bizarre" (which this animal-grade injection is). Option (e) incorrectly labels it an "independent" (coincidental) cause, leaving no doctrinally accurate option for top-tier students who know the Dressler distinction.
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: MUST FIX. Q3 concludes that Alex did *not* proximately cause Chris's death due to a superseding cause. However, Q9 evaluates Alex for extreme-indifference murder "for causing Chris's death," and Q13 evaluates Blake for "his coerced omission causing Chris's death." If Q3 establishes that Dana severs the causal chain, Q9 and Q13 are completely spoiled because proximate causation—a mandatory prerequisite for those completed homicides—is legally destroyed.
+Recommended fix: Rewrite (e) to accurately reflect the doctrine: "No, because although Dana's intervention was a dependent (responsive) cause, her injection of animal-grade stimulant was highly extraordinary and bizarre, thereby severing the causal chain." Fix the explanation to match. Additionally, to fix the Q9/Q13 clashes, you must either change Dana's injection to be a "normal/foreseeable" medical failure (so Alex/Blake remain liable for the resulting death and Q3's answer becomes A), or shift Q9/Q13 to test Attempted Murder.
+-->
+
+## Issue 3 — argpass-opus
+
+**Q3.** Assume it is established that Alex breached a duty to Chris. Can Alex be held to have proximately caused Chris's death, given Dana's intervention?
+
+(a) Yes, because Dana's attempt to save the drug operation was a dependent intervening cause set in motion by Alex.
+(b) Yes, because Chris would have died from the overdose anyway, making the exact mechanism of death legally irrelevant.
+(c) No, because a medical intervention by a third party always constitutes a superseding cause that breaks proximate causation.
+(d) No, because Alex was not physically present when Dana climbed through the window to administer the fatal injection.
+(e) No, because Dana's forceful injection of animal-grade stimulant was an unforeseeable, independent intervening cause that severs the chain. <!-- correct -->
+
+**Answer:** (e)
+
+**Explanation:** (e) is correct because under common law proximate causation, an independent intervening cause severs liability if it is highly extraordinary or unforeseeable. A third party climbing through a broken window and forcefully injecting a dying person with stolen animal-grade cardiac stimulant is an unforeseeable, independent act that breaks the causal chain from Alex's initial conduct. (a) is wrong because Dana's action was completely independent and extraordinary, not a dependent, normal response (like routine medical treatment) set in motion by the overdose. (b) is wrong because factual and proximate causation require the result to occur via a foreseeable mechanism. (c) is wrong because normal, negligent medical intervention is usually a dependent intervening cause that does not break the chain. (d) is wrong because physical presence is not required to establish or sever proximate cause.
+
+**Tags:** chapters: [8], topics: [causation, intervening-cause], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 8 - Dependent vs. Independent Intervening Causes
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: Bex affirmatively provided the loaded fentanyl syringe, an inherently dangerous instrumentality. By placing Cody in a position of danger he otherwise would not have faced—supplying the direct means of his overdose—Bex's affirmative act triggered the creation of peril doctrine. This legally imposes an ongoing duty upon her to intervene and mitigate the resulting harm when he collapsed.
-(b) Argument-for: Status relationships impose legal duties when one party is in a legally recognized position of authority or control. Because Bex was the lawful tenant of the apartment, she exerted control over the premises and effectively hosted Cody as a guest. A student could argue that this property-based authority over an invitee establishes a status-based duty of care, obligating her to aid him when he became helpless on her property.
-(c) Argument-for: Legal duties to rescue or intervene can be established by contract. Bex and Cody engaged in a negotiated exchange of illegal drugs. A student could plausibly argue that this mutual, transactional agreement constitutes an implied contract, and that participants in such an intimate commercial exchange inherently establish a contractual duty of care for each other's physical safety during the completion of the transaction.
-(d) Argument-for: Criminal liability generally respects individual autonomy and causation requirements. Cody made a voluntary, free-will choice to inject the fentanyl. A student could argue that this intervening voluntary act by a competent adult breaks the causal chain of responsibility, meaning Cody's own action neutralized Bex's mere provision of the syringe and absolved her of any subsequent legal duty to rescue him from his independent choice.
-(e) Argument-for: Tort and liability laws often limit duty when a victim voluntarily assumes the risk of a highly dangerous activity. Purchasing and using illicit narcotics like fentanyl carries an obvious, inherent risk of fatal overdose. A student could argue that because Cody knowingly engaged in this highly dangerous criminal behavior, he is legally presumed to have assumed the risk, which strictly negates any duty Bex might have owed to intervene.
+(a) Argument-for: A dependent intervening cause is a normal or foreseeable response to the situation created by the defendant. Because Alex's breach caused Chris's overdose, Dana's intervention was an attempt to rescue or save him from that specific peril. Rescues, even botched ones, are conventionally deemed dependent intervening causes because they are directly provoked by the defendant's creation of an emergency. Therefore, a student could argue Alex's initial act set the rescue into motion, sustaining proximate cause.
+(b) Argument-for: The "general harm" rule dictates that a defendant is liable if the general type of harm is foreseeable, even if the precise mechanism is unusual. Since Chris was foreseeably dying from the overdose Alex caused, the fact that a bizarre intervention actually accelerated the death doesn't necessarily change the underlying causal trajectory. The law often deems the precise mechanical sequence irrelevant if the exact same result was already imminent due to the defendant's breach.
+(c) Argument-for: Proximate causation requires a reasonably direct connection between the defendant's act and the harm. When a third party deliberately intervenes with an uncertified medical procedure, it introduces a completely new set of risks. A student could argue that unauthorized medical interventions by third parties categorically sever the chain because they are distinct volitional acts that override the original conditions, acting as superseding causes.
+(d) Argument-for: Criminal and tort liability for a specific result usually requires a continuous chain of direct influence. Because Alex had departed and was not physically present to oversee or participate in the fatal injection, his direct causal influence had dissipated. Without physical presence during the actual lethal mechanism, one could argue the required temporal and spatial nexus for proximate causation is broken.
+(e) Argument-for: Under proximate cause principles, an independent intervening cause that is highly extraordinary or unforeseeable breaks the causal chain. A third party climbing through a broken window to forcibly administer an animal-grade stimulant is completely outside the scope of foreseeable risks associated with an overdose. Because Dana's bizarre act independently caused the death, it operates as a superseding cause that relieves Alex of liability.
 
-Head-to-head: Option (a) accurately identifies the creation of peril doctrine as the source of Bex's duty, aligning with cases like *State v. Voss* where supplying narcotics that lead to overdose triggers a duty to act. The distractors offer plausible alternative doctrines but rely on legally invalid applications. However, under the close-call standard requiring explicit, *absolute* false legal claims, the distractors currently lack the categorical locking words needed to make them completely unfalsifiable in every jurisdiction. For example, while (d) correctly notes Cody's voluntary act, it claims this "absolved" Bex without locking the phrase, allowing a student in a strict causation jurisdiction to arguably defend it. Adding absolute modifiers guarantees the distractors are universally false.
+Head-to-head: Options (b), (c), and (d) all contain explicit, falsifiable legal errors regarding proximate causation: (b) incorrectly asserts the mechanism of death is "legally irrelevant," (c) falsely claims medical interventions *always* break the chain, and (d) invents a physical presence requirement. Option (a), however, relies on mischaracterizing Dana's extraordinary act as a "dependent intervening cause." While the keyed answer (e) correctly identifies the act as unforeseeable and independent, (a) lacks a locked, absolute falsifier. A student could arguably defend (a) by claiming any rescue attempt prompted by an overdose is inherently a dependent act, making (a) a dispute over the application of fact rather than an explicitly false rule statement.
 
 Falsifiable claim per distractor:
-- (b): "establishing a status relationship" — wrong because property ownership or tenancy alone does not establish a special "status relationship" for criminal omissions, which is traditionally reserved for intimate bonds (parent-child, spouses).
-- (c): "established a contractual duty of care" — wrong because illegal drug agreements are void against public policy and categorically cannot establish legally enforceable contractual duties of care.
-- (d): "absolved her of responsibility" — wrong because under the creation of peril doctrine, the victim's voluntary ingestion of the provided instrument of harm does not sever the duty of the person who affirmatively created the peril.
-- (e): "are legally presumed to assume the risk" — wrong because assumption of risk is a civil tort concept that does not categorically negate a defendant's criminal duty or liability in omissions law.
+- (a): "was a dependent intervening cause set in motion by Alex" — wrong because the bizarre act was independent and unforeseeable, but lacks an absolute word to lock the false legal claim.
+- (b): "making the exact mechanism of death legally irrelevant" — wrong because the exact mechanism is highly legally relevant to determining if an intervening act is a superseding cause.
+- (c): "always constitutes a superseding cause" — wrong because normal medical negligence is a foreseeable dependent cause that does not break the causal chain.
+- (d): "because Alex was not physically present" — wrong because proximate cause does not require the defendant's physical presence at the time of the resulting harm.
 
-Recommended fix: Add absolute words to lock the false claims in the distractors.
-(b) Change to: "...lawful tenant, automatically establishing a status relationship."
-(c) Change to: "...categorically established a contractual duty..."
-(d) Change to: "...constituted an independent act that automatically absolved her..."
-(e) Change to: "...are always legally presumed to assume the risk..."
+Recommended fix: Edit (a) to include an absolute falsifier: "(a) Yes, because any attempt to rescue an overdose victim is categorically a dependent intervening cause set in motion by the initial actor."
 -->

@@ -1,17 +1,21 @@
-**Q7.** Assume the jurisdiction has enacted a Stand Your Ground statute with procedural protections identical to Florida's post-2017 regime. If Alex invokes this statute before trial, what procedural mechanism applies?
+**Q7.** Assume the jury concludes that Alex honestly but unreasonably believed Blake was drawing a revolver. What is the result in a jurisdiction that recognizes imperfect self-defense?
 
-(a) The trial judge will determine whether Alex is immune, and the prosecution must disprove self-defense by clear and convincing evidence. <!-- correct -->
-(b) The trial judge will grant automatic immunity from criminal prosecution but Alex will remain entirely subject to a civil wrongful death lawsuit.
-(c) The jury will decide the immunity question at trial, and the defense must prove the justification by a preponderance of the evidence.
-(d) The jury will evaluate the immunity claim as a specialized affirmative defense, requiring the state to prove malice beyond a reasonable doubt.
-(e) The trial judge will dismiss the case if Alex can show by a preponderance of the evidence that he was not the initial aggressor.
+(a) He is guilty of murder, because an unreasonable belief in the need for deadly force provides no legal defense whatsoever to an intentional homicide charge.
+(b) He is not guilty of any homicide, because his honest belief that his life was in danger entirely justifies his use of deadly force against the victim.
+(c) He is guilty of reckless manslaughter, because an unreasonable belief demonstrates a conscious disregard of a substantial risk that the victim was actually unarmed.
+(d) He is guilty only of voluntary manslaughter, because his honest belief in the need for deadly force negates the malice element required for a murder conviction. <!-- correct -->
+(e) He is guilty of aggravated assault, because imperfect self-defense operates as a complete defense to homicide but leaves the defendant liable for the underlying physical attack.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** Under Florida's post-2017 Stand Your Ground regime, immunity is determined pre-trial by a judge at an evidentiary hearing, not by a jury. At this hearing, the burden is placed on the prosecution to disprove the self-defense claim by clear and convincing evidence. (b) is wrong because a successful SYG immunity claim also bars civil liability. (c) and (d) are wrong because the defining feature of SYG immunity is that it is a pre-trial judicial determination, avoiding the need for a jury trial entirely if granted. (e) is wrong because the burden rests on the prosecution to disprove the claim by clear and convincing evidence, rather than on the defendant to prove it by a preponderance.
+**Explanation:** Alex is guilty of voluntary manslaughter. In jurisdictions that recognize imperfect self-defense (like California), a defendant who holds an honest but legally unreasonable belief that deadly force is necessary is spared a murder conviction. The honest belief negates malice, which is the requisite mental state for murder, reducing the charge to voluntary manslaughter. 
+(a) fails because it describes the majority rule, ignoring the prompt's specified jurisdiction. 
+(b) fails because an unreasonable belief is never a complete justification for homicide. 
+(c) fails because imperfect self-defense negates malice to yield voluntary manslaughter, not reckless manslaughter. 
+(e) fails because imperfect self-defense applies to the homicide charge itself as a partial mitigation, not as a complete defense.
 
-**Tags:** chapters: [22], topics: [self-defense, stand-your-ground, immunity-procedure], difficulty: hard, cognitive: application
+**Tags:** chapters: [22], topics: [imperfect self-defense, malice negation], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 22, syg-immunity-procedure; burden-of-proof-self-defense
+**Grounding:** Chapter 22 (Imperfect self-defense, honest but unreasonable belief)
 
-<!-- grounding: GROUNDED — Stand Your Ground immunity procedure, Ch 22, Refinement `syg-immunity-procedure`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — imperfect self-defense, Ch 22, Refinement `imperfect-self-defense`. Rule paraphrased accurately. -->

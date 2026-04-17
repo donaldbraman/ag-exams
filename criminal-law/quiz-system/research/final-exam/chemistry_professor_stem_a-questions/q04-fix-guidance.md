@@ -2,79 +2,56 @@
 
 The QA pipeline flagged this question. Rewrite `q04.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — argpass-sonnet
+## Issue 1 — audit
 
-**Q4.** Assume that it is established Arthur owed a legal duty to Julian. Arthur argues that his omission (failing to call 911) was not the but-for cause of Julian's death, since the cardiac arrhythmia was caused by the chemical itself. How should the court rule on factual causation?
+**Q4.** Can the prosecution establish that Arthur's omission—his failure to allow a 911 call—was the factual (but-for) cause of Julian's death?
 
-(a) Arthur's omission was the but-for cause because the chemical itself was not sufficient to cause death without his delay.
-(b) Arthur's omission was the but-for cause because Julian had a 95% chance of survival if paramedics had been called immediately. <!-- correct -->
-(c) Arthur's omission was not the but-for cause because the medical examiner concluded the substance physically stopped the victim's heart.
-(d) Arthur's omission was not the but-for cause because omissions can establish proximate cause but never factual cause in homicide cases.
-(e) Arthur's omission was not the but-for cause because Julian's voluntary ingestion of the substance was a concurrent sufficient cause of death.
+(a) Yes, because the medical examiner established that Julian would have had a 95% chance of survival if Arthur had not prevented the 911 call and abandoned him. <!-- correct -->
+(b) Yes, because Arthur's failure to call 911 was a concurrent sufficient cause that operates identically to the drug ingestion in establishing factual causation.
+(c) No, because the acute cardiac arrhythmia was already fully in progress before Arthur failed to call 911, breaking the chronological causal chain.
+(d) No, because the factual but-for test requires the defendant's omission to be the sole and exclusive cause of the harmful result.
+(e) No, because Arthur's genuine but mistaken belief that Julian would recover negates the factual causal link between his omission and the resulting death.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** (b) is correct. For an omission, the but-for test asks whether the victim would have survived if the defendant had performed the omitted duty. Because Julian had a 95% survival chance with prompt medical intervention, Arthur's failure to call 911 was a necessary condition (a but-for cause) for the death. (a) fails because the chemical was sufficient to cause death, but the omission prevented the rescue. (c) fails because factual causation can involve multiple but-for causes; the chemical's action does not negate the omission's role. (d) fails because omissions routinely satisfy factual causation when the omitted act would have prevented the harm. (e) fails because Julian's ingestion was not a concurrent *sufficient* cause in a way that defeats the but-for nature of the omitted rescue.
+**Explanation:** (a) is correct. Factual cause for an omission requires proving that but for the defendant's failure to act during the window when intervention could have saved the victim, the death would not have occurred. The ME's testimony that paramedics would have provided a 95% chance of survival easily satisfies this empirical requirement. (b) is incorrect because an omission to rescue is a necessary condition for the death in this scenario, not an independent concurrent sufficient cause (like two simultaneous fatal shots). (c) is incorrect because the chronological chain is not broken; the omission permitted an ongoing condition to become fatal when it could have been stopped. (d) is incorrect because the but-for test requires only that the defendant's conduct was necessary to the result, not the sole cause. (e) is incorrect because the defendant's subjective belief goes to mens rea, not to the empirical question of factual causation.
 
-**Tags:** chapters: [8, 9], topics: [causation, but-for cause, omissions], difficulty: easy, cognitive: application
+**Tags:** chapters: [8], topics: [causation, factual cause, but-for test], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 8, Factual Cause - But-For Test.
+**Grounding:** Chapter 8 - Factual Cause (But-For Test)
 
-<!-- argument-pass: MUST FIX
-(a) Argument-for: This option correctly identifies that factual causation exists when an omission is a necessary condition for a result. If the chemical's lethality was dependent on the absence of medical intervention, then the chemical alone was "insufficient" to ensure death in a context where rescue was possible. By demonstrating that the death required the combination of the chemical and the delay, the court establishes the delay as the "but-for" cause that transformed a treatable medical emergency into a fatality.
-
-(b) Argument-for: This is the standard application of the "but-for" test in omission cases. The counterfactual inquiry asks: "If the defendant had performed the duty, would the victim have lived?" Because the facts specify a 95% chance of survival with intervention, the failure to act is a necessary condition (factual cause) of the death. This probability exceeds the "more likely than not" threshold required for factual causation in criminal and civil law.
-
-(c) Argument-for: This argument prioritizes the physiological mechanism of death over legal counterfactuals. If the medical examiner identifies the chemical as the sole agent that physically stopped the heart, one could argue that the omission did not "cause" the death in a factual sense; rather, the substance was the active force. This draws a distinction between "causing" a death and "failing to prevent" a death already in progress by an external agent.
-
-(d) Argument-for: This relies on a categorical distinction between acts and omissions in homicide. It posits that "killing" requires a positive act that disturbs the status quo. Under this theory, while an omission may satisfy proximate cause (foreseeability) or satisfy a breach of duty, it "never" satisfies factual cause because the harm was physically generated by an independent force (the chemical), not the defendant's non-action.
-
-(e) Argument-for: Under the doctrine of concurrent sufficient causes, if two independent forces are each capable of producing the result, the "but-for" test is replaced by the "substantial factor" test. If Julian's voluntary ingestion is viewed as an independent, sufficient cause of the arrhythmia, then the omission was not a "but-for" cause because the death was already "set in motion" by a sufficient dose of the chemical, rendering the omission redundant in the causal chain.
-
-Head-to-head: (b) is the strongest answer because it directly utilizes the 95% survival statistic provided in the prompt to satisfy the but-for counterfactual. However, (a) is a significant problem because it reaches the same conclusion as (b) ("was the but-for cause") using reasoning that is logically consistent with the facts: if survival was 95% with help, then the chemical was indeed "not sufficient" to cause death on its own. (d) is the weakest distractor because it uses the absolute word "never" to make a claim that is legally false across all jurisdictions. (e) is a strong distractor but is falsified by the fact that the ingestion was not "sufficient" (given the 95% survival chance). (c) is a common student trap but is legally incorrect because physical mechanisms do not negate but-for counterfactuals.
-
-Falsifiable claim per distractor:
-- (a): "the chemical itself was not sufficient to cause death without his delay" — This is logically equivalent to the but-for test provided in (b), making (a) a second correct answer rather than a false claim.
-- (c): "not the but-for cause because the medical examiner concluded the substance physically stopped the victim's heart" — wrong because factual causation is a counterfactual test of necessity, not a limited inquiry into physical mechanics.
-- (d): "omissions can ... never [establish] factual cause in homicide cases" — wrong because the law categorically recognizes that omissions satisfy factual causation if the omitted act would have prevented the death.
-- (e): "Julian's voluntary ingestion ... was a concurrent sufficient cause" — wrong because a cause is not "sufficient" if there is a 95% chance the result would have been avoided with intervention.
-
-Recommended fix: Option (a) must be changed to "Arthur's omission was NOT the but-for cause..." to avoid having two options that reach the correct conclusion. Additionally, the explanation for (a) currently contains a logical contradiction with the facts of (b).
+<!-- audit: MUST FIX
+Check 1: Fails strictly on act vs. omission terminology. The question categorizes Arthur's conduct as an "omission" but then describes it as "failure to allow a 911 call" (stem) and "prevented the 911 call" (option a). Actively preventing someone from calling 911 or refusing to allow a call is an affirmative act of interference/seclusion, not an omission. This will cause cognitive friction for a well-prepared student who correctly identifies "preventing a call" as an act of commission. 
+Check 2: Pass. Despite the terminology error, (a) remains the only empirically correct application of the but-for test among the choices.
+Check 3: Pass. The explanation correctly maps the but-for counterfactual to the causal question, though it refers to "failure to act," further highlighting the terminology clash with option (a).
+Check 4: Fails. The fact pattern (stem) is completely missing from the prompt text; it assumes a shared scenario but cannot be evaluated completely standalone.
+Check 5: Pass. The empirical "but-for" counterfactual is jurisdictionally stable.
+Check 6: Pass. No excluded-topic bleed.
+Check 7: Pass. The but-for test and concurrent sufficient cause distractors are well-grounded in Chapter 8.
+Recommended fix: Harmonize the act vs. omission phrasing to stick cleanly to an omission framework. Change the stem to: "...Arthur's omission—his failure to call 911—was..." and change option (a) to: "Yes, because the medical examiner established that Julian would have had a 95% chance of survival if Arthur had called 911 instead of abandoning him."
 -->
 
-## Issue 2 — argpass-opus
+## Issue 2 — edge-case
 
-**Q4.** Assume that it is established Arthur owed a legal duty to Julian. Arthur argues that his omission (failing to call 911) was not the but-for cause of Julian's death, since the cardiac arrhythmia was caused by the chemical itself. How should the court rule on factual causation?
+**Q4.** Can the prosecution establish that Arthur's omission—his failure to allow a 911 call—was the factual (but-for) cause of Julian's death?
 
-(a) Arthur's omission was the but-for cause because the chemical itself was not sufficient to cause death without his delay.
-(b) Arthur's omission was the but-for cause because Julian had a 95% chance of survival if paramedics had been called immediately. <!-- correct -->
-(c) Arthur's omission was not the but-for cause because the medical examiner concluded the substance physically stopped the victim's heart.
-(d) Arthur's omission was not the but-for cause because omissions can establish proximate cause but never factual cause in homicide cases.
-(e) Arthur's omission was not the but-for cause because Julian's voluntary ingestion of the substance was a concurrent sufficient cause of death.
+(a) Yes, because the medical examiner established that Julian would have had a 95% chance of survival if Arthur had not prevented the 911 call and abandoned him. <!-- correct -->
+(b) Yes, because Arthur's failure to call 911 was a concurrent sufficient cause that operates identically to the drug ingestion in establishing factual causation.
+(c) No, because the acute cardiac arrhythmia was already fully in progress before Arthur failed to call 911, breaking the chronological causal chain.
+(d) No, because the factual but-for test requires the defendant's omission to be the sole and exclusive cause of the harmful result.
+(e) No, because Arthur's genuine but mistaken belief that Julian would recover negates the factual causal link between his omission and the resulting death.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** (b) is correct. For an omission, the but-for test asks whether the victim would have survived if the defendant had performed the omitted duty. Because Julian had a 95% survival chance with prompt medical intervention, Arthur's failure to call 911 was a necessary condition (a but-for cause) for the death. (a) fails because the chemical was sufficient to cause death, but the omission prevented the rescue. (c) fails because factual causation can involve multiple but-for causes; the chemical's action does not negate the omission's role. (d) fails because omissions routinely satisfy factual causation when the omitted act would have prevented the harm. (e) fails because Julian's ingestion was not a concurrent *sufficient* cause in a way that defeats the but-for nature of the omitted rescue.
+**Explanation:** (a) is correct. Factual cause for an omission requires proving that but for the defendant's failure to act during the window when intervention could have saved the victim, the death would not have occurred. The ME's testimony that paramedics would have provided a 95% chance of survival easily satisfies this empirical requirement. (b) is incorrect because an omission to rescue is a necessary condition for the death in this scenario, not an independent concurrent sufficient cause (like two simultaneous fatal shots). (c) is incorrect because the chronological chain is not broken; the omission permitted an ongoing condition to become fatal when it could have been stopped. (d) is incorrect because the but-for test requires only that the defendant's conduct was necessary to the result, not the sole cause. (e) is incorrect because the defendant's subjective belief goes to mens rea, not to the empirical question of factual causation.
 
-**Tags:** chapters: [8, 9], topics: [causation, but-for cause, omissions], difficulty: easy, cognitive: application
+**Tags:** chapters: [8], topics: [causation, factual cause, but-for test], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 8, Factual Cause - But-For Test.
+**Grounding:** Chapter 8 - Factual Cause (But-For Test)
 
-<!-- argument-pass: MUST FIX
-(a) Argument-for: A student could argue that if calling 911 would have prevented the death, the chemical alone was legally "insufficient" to guarantee death because it required the defendant's omission to be fatal. Therefore, the omission was the but-for cause because it was needed to complete the causal mechanism of death.
-(b) Argument-for: A student could argue that B correctly states the legal standard for omission causation (whether the victim would have survived but for the omission). Assuming the 95% survival chance is accepted as a factual premise, the failure to call 911 mathematically and logically constitutes a necessary condition (but-for cause) for the death.
-(c) Argument-for: A student could focus on the active physical cause of death. Since the medical examiner concluded the substance physically stopped the heart, the omission merely failed to arrest a fatal process. In some views, omissions cannot factually cause a physical result, making the chemical the sole factual cause.
-(d) Argument-for: A student could argue that omissions are conceptually distinct from physical acts and operate as a "nothing." Because an omission cannot physically act upon the world, liability for omissions is constructed entirely through duty and proximate cause, meaning omissions are never true "factual" causes in homicide cases.
-(e) Argument-for: A student could analogize to the concurrent sufficient cause doctrine. Since the ingestion of a deadly chemical is a sufficient cause of death, the but-for test is relaxed, and the substantial factor test applies. Because the chemical was a concurrent sufficient cause, the omission fails the strict but-for test.
-
-Head-to-head: 
-Option (b) correctly identifies that the omission was a but-for cause under the established legal test. However, it relies on a highly specific factual premise ("Julian had a 95% chance of survival") that is completely absent from the question stem. Without knowing whether calling 911 would have actually saved Julian, it is impossible for the court to rule on but-for causation; a student is forced to blindly guess this unstated fact to select (b). Distractors (a), (c), (d), and (e) contain identifiable legal errors, but the missing factual premise makes the keyed answer defective. 
-
-Falsifiable claim per distractor:
-- (a): "the chemical itself was not sufficient to cause death without his delay" — wrong because the chemical was physiologically sufficient to cause death; an omission does not render the active force insufficient.
-- (c): "because the medical examiner concluded the substance physically stopped the victim's heart" — wrong because a physical mechanism of death does not legally negate an omission's status as a but-for cause. (Would be stronger locked with an absolute word).
-- (d): "never factual cause in homicide cases" — wrong because omissions are routinely factual causes when the duty to act is omitted and the act would have saved the victim.
-- (e): "Julian's voluntary ingestion of the substance was a concurrent sufficient cause of death" — wrong because an active force and a failure to rescue do not constitute concurrent sufficient causes (which requires two independent, active forces like two fires).
-
-Recommended fix: Add "Medical experts agree that Julian would have had a 95% chance of survival if paramedics had been called immediately." to the question stem. Lock distractor (c) with an absolute word by changing it to "...not the but-for cause solely because the medical examiner..."
+<!-- edge-case-audit: SHOULD FIX
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: Mild clash - The prompt categorizes Arthur's conduct as an "omission—his failure to allow a 911 call." Actively knocking a phone out of someone's hand and locking a door to prevent rescue are affirmative acts (commissions), not omissions. A pure omission here would simply be his own failure to call 911. Blurring act and omission in the prompt could confuse students, particularly since Q3 specifically evaluates these affirmative acts for creating peril.
+3. Cross-Question Spoilers: pass
+Recommended fix: Change the prompt's phrasing from "omission—his failure to allow a 911 call" to simply "conduct" or "failure to call 911 and prevention of a rescue call".
 -->

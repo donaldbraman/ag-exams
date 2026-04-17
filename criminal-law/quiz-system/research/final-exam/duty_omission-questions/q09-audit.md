@@ -1,26 +1,26 @@
-**Q9.** Assume that Alba's assault on Dane was a factual cause of Cody's death. Was Alba's act also a proximate cause of the death?
+**Q9.** Assume causation is established. Can Alex's conduct support the mens rea for extreme indifference (depraved heart) murder?
 
-(a) Yes, because it was reasonably foreseeable that violently preventing a paramedic from administering life-saving aid would result in the victim's death. <!-- correct -->
-(b) Yes, because the Model Penal Code establishes that any factual cause automatically satisfies the legal cause requirement for homicide.
-(c) No, because Dane's forced entry into the apartment was an independent, unforeseeable intervening act that broke the causal chain.
-(d) No, because the fentanyl itself was the sole direct cause of the respiratory failure that ultimately killed Cody.
-(e) No, because Alba could not have foreseen that Dane specifically possessed Narcan when Alba decided to strike him.
+(a) No, because Alex only intended to protect the group from prison, not to cause the death of the struggling victim.
+(b) Yes, because manufacturing illicit drugs is an inherently dangerous felony that automatically establishes the mens rea for any resulting death.
+(c) No, because extreme indifference requires the defendant to inflict a physical blow rather than merely preventing others from providing aid.
+(d) Yes, because drawing a weapon to block a rescue while a victim struggles to breathe demonstrates a depraved, indifferent heart. <!-- correct -->
+(e) No, because the victim voluntarily injected the substance, which legally negates the defendant's malice regarding the subsequent failure to rescue.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** (a) is correct because proximate cause requires the result to be a reasonably foreseeable consequence of the defendant's conduct; it is highly foreseeable that a victim will die if a rescuer is violently prevented from administering aid. (b) is incorrect because the MPC uses a "too remote or accidental" test for legal cause, not automatic satisfaction based on factual cause. (c) is incorrect because Dane's attempt to rescue was a dependent intervening cause (provoked by the emergency Alba helped create) and highly foreseeable, not a superseding chain-breaker. (d) is incorrect because proximate cause allows for multiple contributing causes; the fentanyl does not absolve Alba of liability for thwarting the rescue. (e) is incorrect because foreseeability applies to the general nature of the harm (preventing rescue leading to death), not the specific details of the medical equipment.
+**Explanation:** (d) is correct because extreme indifference murder requires a mental state demonstrating a profound, callous disregard for the value of human life. Pointing a loaded gun at a would-be rescuer to stop them from calling 911 while a victim is visibly turning blue and dying easily satisfies this standard. (a) is wrong because an ultimate motive to avoid prison does not negate the extreme recklessness exhibited toward the dying victim. (b) is wrong because felony murder is a distinct doctrine; extreme indifference evaluates the actor's actual subjective mental state. (c) is wrong because an omission or the active blocking of aid can satisfy extreme indifference just as a physical blow can. (e) is wrong because the victim's initial voluntary act does not excuse or negate Alex's subsequent lethal indifference.
 
-**Tags:** chapters: [8], topics: [causation, proximate cause, foreseeability, intervening cause], difficulty: medium, cognitive: application
+**Tags:** chapters: [13], topics: [extreme-indifference-murder, mens-rea], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 8 — Proximate cause under the common law requires the result to be reasonably foreseeable; dependent intervening acts like rescue attempts do not sever the causal chain.
+**Grounding:** Chapter 13 - Extreme Indifference Standard
 
 <!-- audit: MUST FIX
-check 1: pass (the doctrinal conclusion matches standard common law on dependent intervening acts, assuming the missing facts align with the explanation)
+check 1: pass
 check 2: pass
-check 3: pass (the explanation accurately parses dependent/independent intervening causes and foreseeability specificity)
-check 4: fail (The stem is completely missing the underlying fact pattern. It refers to Alba, Dane, and Cody, but provides no facts about the fentanyl, the apartment, the rescue attempt, or the assault. This is a piggyback question that has been orphaned from its scenario.)
+check 3: pass
+check 4: MUST FIX (The stem is completely missing the fact pattern. It references "Alex's conduct" but provides no facts about what Alex did or the context of the situation, forcing the student to guess or reverse-engineer the scenario from the answer choices.)
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Integrate the missing factual scenario into the question stem so it can be answered as a standalone question.
+Recommended fix: Insert the missing fact pattern into the stem (e.g., "Alex and others were manufacturing illicit drugs. The victim voluntarily injected the drug, overdosed, and began struggling to breathe. When someone tried to call for help, Alex drew a weapon and blocked the rescue to protect the group from going to prison. The victim died. Assume causation is established. Can Alex's conduct support...")
 -->

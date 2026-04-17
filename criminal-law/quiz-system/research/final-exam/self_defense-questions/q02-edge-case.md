@@ -1,22 +1,26 @@
-**Q2.** Assume Chris is guilty of conspiracy. Is Chris liable under the Pinkerton doctrine for Alex's subsequent shooting of Blake?
+**Q2.** Assume that, whether or not Chris is guilty of conspiracy, the prosecutor seeks to charge him with Alex's subsequent weapon offenses under the *Pinkerton* doctrine. Is Chris liable for the shooting?
 
-(a) Yes, because the shooting was a foreseeable consequence of an armed confrontation and was in furtherance of the conspiracy.
-(b) Yes, because a conspirator remains strictly liable for any violent act committed by a co-conspirator until the victim is secured.
-(c) No, because Chris effectively withdrew by clearly communicating his departure to Alex before the shooting took place. <!-- correct -->
-(d) No, because Alex's decision to use a firearm was a substantial deviation from the agreed-upon plan to use baseball bats.
-(e) No, because the Pinkerton doctrine only applies when the co-conspirator is physically present at the scene of the substantive offense.
+(a) Liable, because the use of a firearm was a reasonably foreseeable consequence of a plan to assault a neighbor with baseball bats over a property dispute.
+(b) Liable, because Chris failed to take affirmative steps to stop the confrontation, such as calling the police, which is required to withdraw from vicarious liability.
+(c) Not liable, because Alex's unilateral decision to draw a handgun constituted a radical departure from the agreed-upon plan to only use baseball bats for intimidation.
+(d) Not liable, because Chris effectively communicated his withdrawal to Alex before the shooting occurred, severing his vicarious liability for his co-conspirator's future substantive crimes. <!-- correct -->
+(e) Liable, because an initial agreement to commit any violent act makes all conspirators strictly liable for any resulting harm, regardless of their subsequent attempts to withdraw.
 
-**Answer:** (c)
+**Answer:** (d)
 
-**Explanation:** Under the Pinkerton doctrine, a conspirator is liable for foreseeable substantive offenses committed by co-conspirators in furtherance of the conspiracy. However, an effective withdrawal—manifested by communicating departure to co-conspirators before the substantive offense occurs—terminates Pinkerton liability for future crimes. Chris told Alex "I'm going home" and walked away before the shooting occurred, shielding him from Pinkerton liability. (a) is wrong because it ignores the legal effect of Chris's valid withdrawal prior to the shooting. (b) is wrong because there is no rule imposing strict liability until a victim is secured. (d) is wrong because, while foreseeability limits Pinkerton liability, the timely withdrawal provides a complete defense regardless of whether the specific shooting was foreseeable. (e) is wrong because Pinkerton liability specifically targets co-conspirators who are *not* physically present at the scene of the substantive crime.
+**Explanation:** Chris is not liable for the shooting under *Pinkerton*. To avoid vicarious liability for the future substantive crimes of co-conspirators, a defendant must effectively communicate his withdrawal to the other conspirators before those crimes are committed. By explicitly telling Alex "I'm going home," Chris successfully communicated his withdrawal. 
+(a) fails because although the shooting was foreseeable, withdrawal cuts off liability. 
+(b) fails because *Pinkerton* withdrawal requires only communication to co-conspirators, not notifying the police. 
+(c) fails because the shooting was a foreseeable consequence, meaning the defense must rest on the withdrawal rather than an unforeseeability argument. 
+(e) fails because the law explicitly encourages and recognizes withdrawal to limit ongoing liability.
 
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton, withdrawal], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [Pinkerton liability, withdrawal], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19, pinkerton-doctrine
+**Grounding:** Chapter 19 (Pinkerton doctrine and communication requirement for withdrawal)
 
-<!-- edge-case-audit: CLEAN
+<!-- edge-case-audit: SHOULD FIX
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
+2. Cross-Doctrine Clashes: The phrasing "whether or not Chris is guilty of conspiracy" introduces a logical trap. *Pinkerton* liability strictly requires the defendant to be a member of the conspiracy at the time of the offense. If a student analyzes the "or not" scenario (i.e., assuming he is *not* guilty of conspiracy), Pinkerton liability would fail automatically because he isn't a conspirator, rendering the withdrawal rationale in (d) technically secondary or moot. 
 3. Cross-Question Spoilers: pass
-Recommended fix: N/A
+Recommended fix: Change the first sentence to: "Assume Chris is guilty of the initial conspiracy. If the prosecutor seeks to charge him with Alex's subsequent shooting under the *Pinkerton* doctrine, is Chris liable?"
 -->
