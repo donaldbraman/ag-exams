@@ -1,37 +1,38 @@
-**Q13.** Assume the court rules that Dr. Davis's gross negligence completely severed the chain of proximate causation. Can Alex still be convicted of attempted murder?
+**Q13.** Assume the court rules that the doctor's gross negligence broke the chain of causation, preventing Alex from being convicted of the completed homicide. Can Alex instead be convicted of attempted murder?
 
-(a) No, because the completed offense of aggravated assault fully absorbs the attempt charge once the defendant's bullet successfully strikes the intended victim.
-(b) No, because the unforeseeable intervention of the doctor makes the completion of the murder factually impossible, which operates as a complete defense to any attempt liability.
-(c) Yes, because he had the specific intent to kill Blake, and his act of shooting the victim clearly constituted a substantial step toward the commission of the offense. <!-- correct -->
-(d) Yes, because any defendant who uses a deadly weapon during a confrontation is strictly liable for attempted murder regardless of their actual subjective mental state.
-(e) No, because attempt liability requires that the defendant be the final direct cause of the victim's harm, which is precluded by the doctor's subsequent intervention.
+(a) Yes, because Alex had the specific intent to kill and fired the weapon, which easily satisfies the elements of attempt despite the broken chain of causation. <!-- correct -->
+(b) Yes, because attempted murder is automatically established whenever a defendant shoots someone with a deadly weapon, regardless of the defendant's specific mental state or intent.
+(c) No, because the doctor's subsequent and highly unforeseeable intervening act completely absolves Alex of any criminal liability arising from the initial confrontation with his neighbor.
+(d) No, because an attempt charge requires that the intended victim actually survive the encounter, whereas Blake ultimately died while receiving medical treatment for his injuries.
+(e) No, because criminal attempt requires the prosecution to prove that the defendant's initial wrongful act was the proximate cause of the ultimate harm suffered by the victim.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Alex can still be convicted of attempted murder. When a defendant acts with the specific intent to kill and takes a substantial step toward that goal (such as shooting the victim), attempt liability is established. The subsequent intervention of an independent cause that prevents the completed murder does not erase the attempt that has already occurred. 
-(a) fails because attempt homicide does not merge into assault; they are distinct statutory offenses. 
-(b) fails because factual impossibility or unexpected causal failures are not defenses to attempt liability. 
-(d) fails because attempt requires specific intent (purpose) to kill, not strict liability for using a weapon. 
-(e) fails because attempt specifically covers situations where the defendant's acts fail to directly cause the final intended harm.
+**Explanation:** Criminal attempt requires the specific intent to commit the target offense and an overt act constituting a substantial step toward its commission. Alex intended to kill Blake and took the substantial step of pulling the trigger and shooting him (Fact 7). When a completed offense fails due to an independent intervening cause breaking proximate causation, the defendant remains fully liable for the attempt, which was complete at the moment the trigger was pulled. 
 
-**Tags:** chapters: [17], topics: [attempt, specific intent, substantial step], difficulty: easy, cognitive: application
+(b) fails because attempt is never a strict liability offense; it fundamentally requires the specific intent to bring about the resulting harm. 
+(c) fails because intervening acts only sever causation for the *completed* result crime, not for the attempt which is already finished. 
+(d) fails because a victim dying from another cause does not negate a prior attempted murder charge against the original assailant. 
+(e) fails because attempt liability is inherently designed to punish culpable conduct when proximate causation for the completed offense is absent.
 
-**Grounding:** Chapter 17 (Attempt mens rea and actus reus when causation fails)
+**Tags:** chapters: [17], topics: [attempt, causation failure], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 17: mens-rea-specific-intent, actus-reus-substantial-step
 
 <!-- argument-pass: CLEAN
-(a) Argument-for: Under the merger doctrine, lesser-included offenses typically merge into completed greater offenses to prevent double jeopardy violations. A student could argue that once the bullet successfully struck the victim, the conduct constituted a completed aggravated assault. Thus, the uncompleted murder (the attempt) is "absorbed" by the completed battery/assault, precluding an independent attempt charge.
-(b) Argument-for: A student could argue that the doctor's gross negligence, acting as an unforeseeable superseding cause, makes the defendant's completion of the murder factually impossible. Under traditional common law arguments, if an external circumstance makes the completion of the crime impossible, it can operate as a defense. Therefore, the unforeseeable medical intervention completely shields the defendant from attempt liability.
-(c) Argument-for: Attempt liability under both the Model Penal Code and common law requires that the defendant possess the specific intent to commit the target offense and perform an act constituting a substantial step (or dangerous proximity) toward it. Shooting the intended victim firmly establishes the substantial step and corroborates the intent to kill. The fact that a superseding cause severed proximate causation for the completed murder simply means the crime remains an attempt.
-(d) Argument-for: The deadly weapon doctrine allows a factfinder to infer an intent to kill from the use of a deadly weapon on another human being. A student could misapply this evidentiary inference as a substantive rule of law, arguing that using such a weapon in a confrontation imposes strict liability for attempted murder. Under this view, the objective act of using the deadly weapon categorically overrides the need to prove a subjective mental state.
-(e) Argument-for: Causation principles demand a link between the defendant's conduct and the criminal result. A student could argue that even for attempt, the defendant's actions must be the final direct cause of the dangerous situation or the victim's harm. Because the doctor's gross negligence intervened and completely severed proximate cause, the defendant is precluded from being the final direct cause, defeating any criminal liability related to the death.
+(a) Argument-for: Attempt requires specific intent to commit the target crime and an overt act (a substantial step) toward its completion. Alex intended to kill and fired the weapon, satisfying both elements. The broken chain of causation only affects the completed homicide charge, leaving the attempt perfectly intact since it was completed the moment the trigger was pulled.
+(b) Argument-for: The deadly weapon doctrine allows juries to infer an intent to kill from the use of a deadly weapon. A student could argue that because this inference is so firmly established, shooting someone with a deadly weapon operates as a conclusive presumption of attempted murder, rendering the defendant's subjective mental state legally irrelevant.
+(c) Argument-for: Causation is a fundamental pillar of criminal liability. A student might argue that an independent, unforeseeable superseding cause destroys the legal nexus between the defendant's act and the entire sequence of events, functioning as a total shield that completely absolves the defendant of all criminal liability arising from the incident.
+(d) Argument-for: Attempted murder conceptually implies a failure to kill the victim. A student could logically deduce that if the victim actually dies—even from an intervening cause—the concept of "attempt" is factually precluded, meaning the law requires the victim to survive for an attempt charge to be viable.
+(e) Argument-for: Proximate cause is generally required to hold a defendant liable for an offense resulting in harm. Because Blake died, a student might assume that to convict Alex of any crime related to that encounter, including attempt, the prosecution must still prove the foundational requirement that Alex proximately caused the ultimate harm suffered.
 
-Head-to-head: Option (c) is unambiguously the correct application of attempt doctrine, correctly identifying that a failure in the causal chain for the completed offense does not negate the already-completed actus reus and mens rea for attempt. Every distractor contains a fatal, falsifiable misstatement of black-letter law. Option (a) incorrectly claims attempt merges into assault (they have distinct elements). Option (b) incorrectly states factual impossibility is a complete defense to attempt. Option (d) erroneously claims strict liability applies to attempt via deadly weapon use. Option (e) invents a requirement that attempt requires the defendant to be the "final direct cause" of harm.
+Head-to-head: Option (a) correctly applies the rules of attempt liability, noting that the completed actus reus and mens rea for attempt are unaffected by the failure of proximate causation for the completed result crime. Option (b) fails because it negates the fundamental specific intent requirement of attempt. Option (c) erroneously extends the severing of causation for the result crime to the inchoate crime. Option (d) invents a requirement that the victim must survive an attempt. Option (e) incorrectly assigns a proximate cause requirement for the ultimate harm to an attempt charge.
 
 Falsifiable claim per distractor:
-- (a): "fully absorbs the attempt charge once the defendant's bullet successfully strikes" — wrong because attempted murder and aggravated assault have distinct elements (Blockburger test) and do not merge; one can be charged with both.
-- (b): "makes the completion of the murder factually impossible, which operates as a complete defense to any attempt liability" — wrong because factual impossibility is categorically not a defense to attempt liability in modern jurisdictions.
-- (d): "strictly liable for attempted murder regardless of their actual subjective mental state" — wrong because attempt is a specific intent crime requiring the subjective purpose to commit the target offense.
-- (e): "attempt liability requires that the defendant be the final direct cause of the victim's harm" — wrong because attempt liability does not require the defendant to cause the intended harm at all; it focuses on the defendant's culpable steps toward the harm.
+- (b): "automatically established... regardless of the defendant's specific mental state or intent" — wrong because attempt is fundamentally a specific intent crime; the subjective mental state is an essential element that must be proven.
+- (c): "completely absolves Alex of any criminal liability" — wrong because superseding causes only relieve liability for the completed result crime, not for inchoate offenses like attempt that were already complete prior to the intervening act.
+- (d): "requires that the intended victim actually survive" — wrong because there is no survival element to attempt; an attempt is legally complete the moment the substantial step is taken with specific intent, regardless of whether the victim later dies from unrelated causes.
+- (e): "requires the prosecution to prove that the defendant's initial wrongful act was the proximate cause of the ultimate harm" — wrong because attempt inherently does not require proximate cause of the ultimate harm; it criminalizes the culpable act and intent when the target harm is not successfully completed or proximately caused.
 
 Recommended fix: none
 -->

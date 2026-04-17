@@ -4,54 +4,54 @@ The QA pipeline flagged this question. Rewrite `q05.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q5.** Assuming the jurisdiction applies the common law framework from *Commonwealth v. Welansky*, can Arthur be convicted of manslaughter despite his genuine belief that Julian would recover?
+**Q5.** Assume Arthur is charged with depraved heart murder in a common law jurisdiction. He argues that he cannot be convicted because he genuinely believed Julian was just having a "bad reaction" and would "sleep it off." How should the prosecution counter this defense?
 
-(a) Yes, he is guilty of manslaughter because a reasonable person would have perceived the grave danger of abandoning a convulsing victim, which establishes constructive recklessness. <!-- correct -->
-(b) Yes, he is guilty of depraved heart murder because any drug distribution that results in death automatically demonstrates an extreme indifference to human life.
-(c) No, because his genuine belief that Julian would recover negates the conscious disregard of a substantial and unjustifiable risk required for any homicide charge.
-(d) No, because an omission to act cannot satisfy the wanton or reckless standard unless the defendant subjectively intended to cause the victim's death.
-(e) No, because his fear of losing his academic job and critical treatment money provides a legally valid excuse for his failure to perceive the medical risk.
+(a) By arguing that under *Welansky*, an objective reasonable person would have perceived the grave danger of abandoning a convulsing victim, and this constructive recklessness establishes extreme indifference to human life. <!-- correct -->
+(b) By arguing that under the Model Penal Code, Arthur's subjective belief is entirely irrelevant because murder grading is strictly a question of law for the judge.
+(c) By arguing that Arthur's background as a chemistry professor automatically elevates any ordinary negligence to the level of gross negligence required for murder.
+(d) By arguing that Maryland's *Beckwitt* standard automatically upgrades any failure to rescue an incapacitated victim to the level of depraved heart murder.
+(e) By arguing that extreme indifference to human life requires only a showing of ordinary negligence when the defendant is operating in a commercial drug distribution setting.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. Under *Welansky*, a defendant who lacks actual subjective awareness of a risk can still be held to a "wanton or reckless" standard (constructive recklessness) if an ordinary reasonable person would have perceived the grave danger. A reasonable person would recognize that abandoning a convulsing overdose victim is extremely dangerous. (b) is incorrect because depraved heart murder requires a highly fact-specific showing of extreme indifference, not an automatic rule for drug distribution. (c) is incorrect because while a genuine belief might negate subjective recklessness under the pure MPC framework, *Welansky* explicitly permits conviction based on an objective assessment of what the defendant should have known. (d) is incorrect because *Welansky* explicitly held that an intentional omission where there is a duty of care can constitute wanton or reckless conduct without an intent to kill. (e) is incorrect because the reasonable person standard is objective and generally does not accommodate the defendant's personal financial or career fears as an excuse.
+**Explanation:** In many common law jurisdictions following *Commonwealth v. Welansky*, actual subjective awareness of risk is not required if an ordinary reasonable person would have recognized the grave danger. This "constructive recklessness" can satisfy the standard for manslaughter and, if the indifference is extreme, depraved heart murder. (b) is wrong because the MPC expressly requires subjective awareness for recklessness (rejecting constructive recklessness) and delegates grading to the jury, not the judge. (c) is wrong because the reasonable person standard is generally objective and not adjusted upward simply because of a defendant's title. (d) is wrong because *Beckwitt* actually creates a high ceiling for depraved heart murder, requiring the conduct be "likely, if not certain, to cause death." (e) is wrong because depraved heart murder requires extreme recklessness, not mere ordinary negligence.
 
-**Tags:** chapters: [13], topics: [unintentional homicide, constructive recklessness, omission liability], difficulty: hard, cognitive: application
+**Tags:** chapters: [13], topics: [unintentional homicide, constructive recklessness, depraved heart murder], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 13 - Constructive Recklessness (Welansky)
+**Grounding:** Chapter 13, constructive-recklessness-welansky, extreme-indifference-standard
 
-<!-- audit: SHOULD FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: fail. The question stem completely lacks the underlying fact pattern (the drug distribution, the convulsing victim, the abandonment, etc.). It appears to rely on a missing master fact pattern.
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: If this question is administered standalone, add a brief factual preamble to the stem (e.g., "Recall that Arthur abandoned a convulsing Julian out of fear for his job, though he genuinely believed Julian would recover. Assuming the jurisdiction...").
+<!-- audit: MUST FIX
+Check 1: Fails. Option (a) incorrectly states that *Welansky*'s "constructive recklessness establishes extreme indifference to human life." *Welansky* established an objective standard (constructive recklessness) for *involuntary manslaughter*. Depraved heart murder requires a distinct, heightened risk threshold (extreme indifference). Constructive recklessness alone does not automatically equate to or "establish" the extreme indifference required for murder.
+Check 2: Pass. No distractors are inadvertently correct.
+Check 3: Fails. The explanation notes constructive recklessness satisfies manslaughter and "if the indifference is extreme," depraved heart murder. However, Option (a) drops this nuance and conflates the two mens reas, flatly stating constructive recklessness *establishes* extreme indifference.
+Check 4: Fails. Option (a) grounds liability in "abandoning a convulsing victim." Because abandonment is an omission, Arthur must have a legal duty to act (Ch. 9). The stem provides zero facts establishing a duty (e.g., creation of peril, special relationship). A prepared student would correctly argue Arthur is innocent of all charges because he had no duty to rescue Julian.
+Check 5: Fails. The stem specifies "a common law jurisdiction," but common law jurisdictions deeply split on whether depraved heart murder requires subjective awareness (e.g., conscious disregard) or can be satisfied objectively. 
+Check 6: Pass. No excluded topics.
+Check 7: Pass. Doctrinal concepts mapped to Ch 13.
+Recommended fix: Add a fact establishing Arthur's duty to act (e.g., "Arthur, who had supplied Julian the drugs..."). Change the charge in the stem to involuntary manslaughter, and adjust Option (a) to reflect that an objective reasonable person would have perceived the grave danger, satisfying the *Welansky* standard for involuntary manslaughter.
 -->
 
 ## Issue 2 — edge-case
 
-**Q5.** Assuming the jurisdiction applies the common law framework from *Commonwealth v. Welansky*, can Arthur be convicted of manslaughter despite his genuine belief that Julian would recover?
+**Q5.** Assume Arthur is charged with depraved heart murder in a common law jurisdiction. He argues that he cannot be convicted because he genuinely believed Julian was just having a "bad reaction" and would "sleep it off." How should the prosecution counter this defense?
 
-(a) Yes, he is guilty of manslaughter because a reasonable person would have perceived the grave danger of abandoning a convulsing victim, which establishes constructive recklessness. <!-- correct -->
-(b) Yes, he is guilty of depraved heart murder because any drug distribution that results in death automatically demonstrates an extreme indifference to human life.
-(c) No, because his genuine belief that Julian would recover negates the conscious disregard of a substantial and unjustifiable risk required for any homicide charge.
-(d) No, because an omission to act cannot satisfy the wanton or reckless standard unless the defendant subjectively intended to cause the victim's death.
-(e) No, because his fear of losing his academic job and critical treatment money provides a legally valid excuse for his failure to perceive the medical risk.
+(a) By arguing that under *Welansky*, an objective reasonable person would have perceived the grave danger of abandoning a convulsing victim, and this constructive recklessness establishes extreme indifference to human life. <!-- correct -->
+(b) By arguing that under the Model Penal Code, Arthur's subjective belief is entirely irrelevant because murder grading is strictly a question of law for the judge.
+(c) By arguing that Arthur's background as a chemistry professor automatically elevates any ordinary negligence to the level of gross negligence required for murder.
+(d) By arguing that Maryland's *Beckwitt* standard automatically upgrades any failure to rescue an incapacitated victim to the level of depraved heart murder.
+(e) By arguing that extreme indifference to human life requires only a showing of ordinary negligence when the defendant is operating in a commercial drug distribution setting.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. Under *Welansky*, a defendant who lacks actual subjective awareness of a risk can still be held to a "wanton or reckless" standard (constructive recklessness) if an ordinary reasonable person would have perceived the grave danger. A reasonable person would recognize that abandoning a convulsing overdose victim is extremely dangerous. (b) is incorrect because depraved heart murder requires a highly fact-specific showing of extreme indifference, not an automatic rule for drug distribution. (c) is incorrect because while a genuine belief might negate subjective recklessness under the pure MPC framework, *Welansky* explicitly permits conviction based on an objective assessment of what the defendant should have known. (d) is incorrect because *Welansky* explicitly held that an intentional omission where there is a duty of care can constitute wanton or reckless conduct without an intent to kill. (e) is incorrect because the reasonable person standard is objective and generally does not accommodate the defendant's personal financial or career fears as an excuse.
+**Explanation:** In many common law jurisdictions following *Commonwealth v. Welansky*, actual subjective awareness of risk is not required if an ordinary reasonable person would have recognized the grave danger. This "constructive recklessness" can satisfy the standard for manslaughter and, if the indifference is extreme, depraved heart murder. (b) is wrong because the MPC expressly requires subjective awareness for recklessness (rejecting constructive recklessness) and delegates grading to the jury, not the judge. (c) is wrong because the reasonable person standard is generally objective and not adjusted upward simply because of a defendant's title. (d) is wrong because *Beckwitt* actually creates a high ceiling for depraved heart murder, requiring the conduct be "likely, if not certain, to cause death." (e) is wrong because depraved heart murder requires extreme recklessness, not mere ordinary negligence.
 
-**Tags:** chapters: [13], topics: [unintentional homicide, constructive recklessness, omission liability], difficulty: hard, cognitive: application
+**Tags:** chapters: [13], topics: [unintentional homicide, constructive recklessness, depraved heart murder], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 13 - Constructive Recklessness (Welansky)
+**Grounding:** Chapter 13, constructive-recklessness-welansky, extreme-indifference-standard
 
-<!-- edge-case-audit: SHOULD FIX
-1. Fact Pattern Booby Traps: Option (a) and the explanation refer to a "convulsing victim," but Fact 10 only establishes that Julian "collapsed" from acute cardiac arrhythmia. A student might get hung up on the phantom "convulsing" fact, making the answer feel slightly debatable or tricked. 
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The word "convulsing" in Option (a) introduces a fact not present in the shared fact pattern (the facts skip from Silas taking the drug to him saying "He's dying," without ever describing Julian's physical reaction). In law school exams, an option containing facts not in evidence is a classic distractor trap, which might cause sharp students to incorrectly eliminate the right answer.
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: Change "convulsing" to "collapsed" in option (a) and the explanation to strictly match the established facts.
+Recommended fix: Change "abandoning a convulsing victim" in option (a) to "abandoning an incapacitated victim" or "abandoning a dying victim" to perfectly align with the shared facts.
 -->

@@ -1,17 +1,17 @@
-**Q7.** Is Silas liable under the *Pinkerton* doctrine for Arthur's actions in locking the door and preventing the 911 call?
+**Q7.** Assume Silas is charged with the substantive crime of false imprisonment based on Arthur locking the motel room door. Under the *Pinkerton* doctrine, can Silas be convicted of this offense?
 
-(a) Yes, because Arthur's actions were reasonably foreseeable efforts to conceal the drug distribution and avoid police detection, which were done in furtherance of the ongoing conspiracy. <!-- correct -->
-(b) Yes, because the Pinkerton doctrine imposes strict criminal liability on all co-conspirators for any crime committed by a confederate, regardless of its foreseeability or specific purpose.
-(c) No, because acts of concealment committed after the completion of the core objective of the drug sale fall strictly outside the temporal scope of Pinkerton liability.
-(d) No, because Silas verbally protested leaving the motel room, which legally severed his connection to Arthur's subsequent independent acts of knocking the phone and locking the door.
-(e) No, because Pinkerton liability only applies to crimes that the conspirators expressly agreed to commit at the explicit formation of the original criminal agreement.
+(a) Yes, provided Arthur's act of locking the door was reasonably foreseeable and committed in furtherance of their joint conspiracy to distribute drugs. <!-- correct -->
+(b) Yes, because any crime committed by a co-conspirator at any time automatically creates absolute strict liability for all other members of the criminal conspiracy.
+(c) No, because false imprisonment requires physical contact with the victim, and Silas had already left the immediate area when Arthur locked the door.
+(d) No, because the Model Penal Code universally adopts the *Pinkerton* rule, meaning Silas must have specifically intended for the false imprisonment to occur.
+(e) No, because Silas vocally protested leaving Julian behind, which legally shields him from any derivative liability for Arthur's subsequent unilateral actions.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. Under the *Pinkerton* doctrine, a conspirator is liable for all reasonably foreseeable substantive crimes committed by co-conspirators in furtherance of the conspiracy. Arthur explicitly stated his motive was to avoid police detection to protect the enterprise and his job. Acts to conceal the crime or escape detection immediately following the core offense are typically considered foreseeable acts in furtherance of the conspiracy. (b) is incorrect because *Pinkerton* is not strict liability; it requires the substantive crime to be foreseeable and in furtherance of the conspiracy. (c) is incorrect because the conspiracy does not instantly terminate the moment money and drugs change hands; immediate escape and concealment are within its scope. (d) is incorrect because a mere verbal protest without effectively thwarting the crime or withdrawing does not sever *Pinkerton* liability. (e) is incorrect because *Pinkerton* explicitly covers crimes that were not expressly agreed upon, provided they were foreseeable consequences of executing the agreement.
+**Explanation:** The *Pinkerton* doctrine holds co-conspirators liable for the substantive offenses of their partners if those offenses are committed in furtherance of the conspiracy and are reasonably foreseeable as a necessary or natural consequence of the unlawful agreement. Arthur locking the door to protect the drug operation fits this standard. (b) is wrong because *Pinkerton* liability is not absolute; the act must be in furtherance of the conspiracy and reasonably foreseeable. (c) is wrong because false imprisonment is a constraint on liberty that does not require physical contact, and *Pinkerton* extends liability even if Silas did not personally commit the actus reus. (d) is wrong because the Model Penal Code explicitly rejects the *Pinkerton* doctrine. (e) is wrong because a mere verbal protest does not sever *Pinkerton* liability; an effective legal withdrawal is required.
 
-**Tags:** chapters: [19], topics: [conspiracy, Pinkerton liability, scope of conspiracy], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, Pinkerton doctrine], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - The Pinkerton Doctrine
+**Grounding:** Chapter 19, pinkerton-doctrine
 
 <!-- grounding: GROUNDED — Pinkerton doctrine, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->

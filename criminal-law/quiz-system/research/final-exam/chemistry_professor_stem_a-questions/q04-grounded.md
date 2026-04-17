@@ -1,17 +1,17 @@
-**Q4.** Can the prosecution establish that Arthur's omission—his failure to allow a 911 call—was the factual (but-for) cause of Julian's death?
+**Q4.** Assume Arthur is charged with homicide. Arthur argues that the toxic substance itself—not his subsequent delay in allowing emergency assistance—was the factual cause of Julian's death. How will a court apply the but-for test to Arthur's actions after Julian collapsed?
 
-(a) Yes, because the medical examiner established that Julian would have had a 95% chance of survival if Arthur had not prevented the 911 call and abandoned him. <!-- correct -->
-(b) Yes, because Arthur's failure to call 911 was a concurrent sufficient cause that operates identically to the drug ingestion in establishing factual causation.
-(c) No, because the acute cardiac arrhythmia was already fully in progress before Arthur failed to call 911, breaking the chronological causal chain.
-(d) No, because the factual but-for test requires the defendant's omission to be the sole and exclusive cause of the harmful result.
-(e) No, because Arthur's genuine but mistaken belief that Julian would recover negates the factual causal link between his omission and the resulting death.
+(a) Arthur is not a but-for cause, because the drug had already initiated the fatal arrhythmia before Arthur broke the phone.
+(b) Arthur is not a but-for cause, because under the concurrent sufficient causes doctrine, the drug alone was sufficient to cause death.
+(c) Arthur is a but-for cause, because he is strictly liable for any death resulting from a Schedule I substance distribution.
+(d) Arthur is a but-for cause, because if he had not destroyed the phone and locked the door, paramedics would have been called, giving Julian a 95% chance of survival. <!-- correct -->
+(e) Arthur is a but-for cause, because the law presumes that any failure to rescue an overdose victim constitutes the sole factual cause of their death.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** (a) is correct. Factual cause for an omission requires proving that but for the defendant's failure to act during the window when intervention could have saved the victim, the death would not have occurred. The ME's testimony that paramedics would have provided a 95% chance of survival easily satisfies this empirical requirement. (b) is incorrect because an omission to rescue is a necessary condition for the death in this scenario, not an independent concurrent sufficient cause (like two simultaneous fatal shots). (c) is incorrect because the chronological chain is not broken; the omission permitted an ongoing condition to become fatal when it could have been stopped. (d) is incorrect because the but-for test requires only that the defendant's conduct was necessary to the result, not the sole cause. (e) is incorrect because the defendant's subjective belief goes to mens rea, not to the empirical question of factual causation.
+**Explanation:** Factual cause requires asking whether the result would have occurred "but for" the defendant's conduct. Because Julian had a 95% chance of survival if paramedics had been called, Arthur's acts of smashing the phone and locking the door were a necessary condition for the death to occur at that time. (a) is wrong because a defendant can be a factual cause by accelerating or ensuring a death that could have been prevented with timely intervention. (b) is wrong because concurrent sufficient causes apply when two independent forces act simultaneously (e.g., two shooters); here, Arthur's omission removed a high-probability rescue. (c) is wrong because but-for causation is a factual empirical inquiry about necessity, not a strict liability rule. (e) is wrong because the law makes no such presumption; factual causation must always be proven specifically.
 
-**Tags:** chapters: [8], topics: [causation, factual cause, but-for test], difficulty: easy, cognitive: application
+**Tags:** chapters: [8], topics: [factual cause, but-for test], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 8 - Factual Cause (But-For Test)
+**Grounding:** Chapter 8, but-for-test-basic
 
-<!-- grounding: GROUNDED — Factual Cause (But-For Test), Ch 8, Refinement `but-for-test-basic` and `failure-to-prevent-affirmative-duty`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — but-for causation, Ch 8, Refinement `but-for-test-basic`. Rule paraphrased accurately. Distractor (b) correctly identifies the limitation of `concurrent-sufficient-causes`. -->

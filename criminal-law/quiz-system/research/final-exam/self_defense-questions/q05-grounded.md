@@ -1,21 +1,22 @@
-**Q5.** Assume that, whether or not the castle doctrine applies, it is established that Alex was the initial aggressor by bringing the baseball bat. Did dropping the bat revive his right to self-defense?
+**Q5.** Assume the jurisdiction determines Alex had no duty to retreat, but finds he was the initial aggressor for approaching Blake's property with a baseball bat. Can Alex successfully claim perfect self-defense for the shooting?
 
-(a) Yes, because abandoning the deadly weapon constituted a complete physical cessation of his initial aggression, automatically restoring his full right to claim self-defense.
-(b) Yes, because Blake's act of reaching for his jacket pocket escalated the encounter to deadly force, bypassing the need for Alex to withdraw.
-(c) No, because a defendant who acts as the initial aggressor permanently forfeits the right to self-defense for the entire duration of that specific physical encounter.
-(d) No, because simply dropping the bat wordlessly failed to clearly communicate his intent to withdraw from the confrontation to the other party. <!-- correct -->
-(e) No, because revivification of self-defense rights requires the initial aggressor to physically run away from the scene, not merely drop their weapon in place.
+(a) No, because he failed to clearly communicate his intent to withdraw from the confrontation before deciding to escalate and use deadly physical force against Blake. <!-- correct -->
+(b) No, because an initial aggressor who threatens a victim with physical force permanently forfeits the right to self-defense for the entire duration of the encounter.
+(c) Yes, because by dropping the baseball bat on the grass he legally abandoned his aggressor status, which instantly revived his right to use self-defense.
+(d) Yes, because Blake escalated the encounter to deadly force by reaching for what Alex genuinely, though mistakenly, believed was a concealed revolver in his jacket.
+(e) No, because the right to self-defense is categorically unavailable to any defendant who purposefully approaches a victim while armed with a dangerous physical weapon.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** Alex's right to self-defense did not revive. An initial aggressor can regain the right to self-defense only if they completely withdraw from the encounter and clearly communicate that withdrawal to the other party. Dropping a bat wordlessly in the middle of a confrontation fails to clearly communicate withdrawal. 
-(a) fails because physical cessation without clear communication is legally insufficient to revive the right. 
-(b) fails because an initial aggressor who brought a deadly weapon (the bat) cannot claim the victim's use of a weapon was a sudden disproportionate escalation. 
-(c) fails because initial aggressors can revive their rights through proper withdrawal. 
-(e) fails because revivification requires clear communication, not necessarily running away.
+**Explanation:** An initial aggressor cannot claim self-defense unless they withdraw and clearly communicate that withdrawal to the victim. Alex wordlessly dropped the baseball bat (Fact 7), which is insufficient to communicate withdrawal. Therefore, his right to self-defense did not revive. 
 
-**Tags:** chapters: [22], topics: [self-defense, initial aggressor, revivification], difficulty: hard, cognitive: application
+(b) fails because the right to self-defense is not permanently forfeited; it can revive if the aggressor effectively withdraws. 
+(c) fails because dropping a weapon wordlessly does not satisfy the requirement for clear communication of withdrawal. 
+(d) fails because while some jurisdictions allow revival if the victim responds to non-deadly provocation with sudden, disproportionate deadly force, Alex brought a deadly weapon (bat) to the fight, so Blake's perceived escalation was not sudden and disproportionate to a non-deadly threat. 
+(e) fails because an armed aggressor can still regain the right to self-defense by properly withdrawing and communicating that withdrawal.
 
-**Grounding:** Chapter 22 (Initial aggressor bar and clear communication requirement for withdrawal)
+**Tags:** chapters: [22], topics: [initial aggressor, withdrawal], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 22: initial-aggressor-bar
 
 <!-- grounding: GROUNDED — Initial Aggressor Bar, Ch 22, Refinement `initial-aggressor-bar`. Rule paraphrased accurately. -->

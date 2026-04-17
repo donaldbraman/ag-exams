@@ -1,22 +1,23 @@
-**Q1.** Assume Chris is charged with conspiracy based on the agreement to bring bats. Is Chris guilty of the conspiracy offense itself under both the common law and the Model Penal Code (MPC)?
+**Q1.** Is Chris guilty of the underlying conspiracy to assault or menace Blake?
 
-(a) Yes, because the common law does not recognize withdrawal from the conspiracy offense itself, and his actions did not thwart the crime as required for an MPC renunciation defense. <!-- correct -->
-(b) No, because his act of dropping the bat and walking away constituted a complete and voluntary abandonment of the criminal enterprise under both legal standards.
-(c) Not guilty under the common law, because he communicated his withdrawal, but guilty under the MPC, because he failed to notify law enforcement about the impending attack.
-(d) Guilty under the common law, because he took an overt act, but not guilty under the MPC, because he effectively renounced the agreement before Alex encountered Blake.
-(e) No, because a conspiracy automatically dissolves under both standards when one co-conspirator physically leaves the scene before the target offense is committed.
+(a) Guilty of conspiracy under both the common law and the MPC, because his communication only limits liability for future crimes and he failed to thwart the conspiracy's success. <!-- correct -->
+(b) Not guilty under the common law, because he clearly communicated his withdrawal to his co-conspirator Alex prior to the commission of any substantive target offense.
+(c) Not guilty under the MPC, because his voluntary decision to drop the bat and abandon the plan fully satisfies the requirements for the renunciation defense.
+(d) Guilty of conspiracy under the MPC but not the common law, because the common law allows a partner to withdraw up until the commission of the overt act.
+(e) Not guilty under either system, because dropping the bat and returning home permanently dissolved the bilateral agreement necessary to sustain the foundational conspiracy charge.
 
 **Answer:** (a)
 
-**Explanation:** Chris is guilty of conspiracy. Under the common law, withdrawal only prevents liability for future crimes of co-conspirators, but the conspiracy offense itself is already complete upon agreement and an overt act. Under the MPC, a defendant must completely and voluntarily renounce the criminal purpose AND successfully thwart the success of the conspiracy. Chris merely walked away, doing nothing to stop Alex. 
-(b) fails because voluntary abandonment without thwarting is insufficient under the MPC. 
-(c) fails because there is no requirement to notify law enforcement specifically, only to thwart. 
-(d) fails because the MPC renunciation defense requires thwarting, not just abandoning. 
-(e) fails because a conspiracy does not automatically dissolve when one member leaves.
+**Explanation:** Chris is guilty of conspiracy under both systems. Under the common law, the crime of conspiracy is complete once the agreement and overt act (walking toward the house) occur; withdrawal only blocks liability for subsequent substantive crimes, it does not undo the conspiracy itself. Under the MPC, renunciation is an affirmative defense only if the defendant thwarts the success of the conspiracy under circumstances manifesting a complete and voluntary renunciation. Chris merely went home to sleep. 
 
-**Tags:** chapters: [17, 19], topics: [conspiracy, renunciation, withdrawal], difficulty: medium, cognitive: application
+(b) fails because common-law withdrawal only cuts off Pinkerton liability for future crimes, not the conspiracy itself. 
+(c) fails because MPC renunciation requires actually thwarting the offense, which Chris did not do. 
+(d) fails because the common law does not permit a defendant to retroactively "undo" a completed conspiracy. 
+(e) fails because abandoning the physical act does not vitiate the prior completed agreement and overt act.
 
-**Grounding:** Chapter 19 (withdrawal from Pinkerton vs conspiracy) and Chapter 17/19 (MPC renunciation)
+**Tags:** chapters: [19], topics: [conspiracy, withdrawal, renunciation], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 19: withdrawal-requirements, mpc-renunciation
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

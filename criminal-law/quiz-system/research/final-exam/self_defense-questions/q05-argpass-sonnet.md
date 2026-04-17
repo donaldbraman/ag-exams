@@ -1,43 +1,42 @@
-**Q5.** Assume that, whether or not the castle doctrine applies, it is established that Alex was the initial aggressor by bringing the baseball bat. Did dropping the bat revive his right to self-defense?
+**Q5.** Assume the jurisdiction determines Alex had no duty to retreat, but finds he was the initial aggressor for approaching Blake's property with a baseball bat. Can Alex successfully claim perfect self-defense for the shooting?
 
-(a) Yes, because abandoning the deadly weapon constituted a complete physical cessation of his initial aggression, automatically restoring his full right to claim self-defense.
-(b) Yes, because Blake's act of reaching for his jacket pocket escalated the encounter to deadly force, bypassing the need for Alex to withdraw.
-(c) No, because a defendant who acts as the initial aggressor permanently forfeits the right to self-defense for the entire duration of that specific physical encounter.
-(d) No, because simply dropping the bat wordlessly failed to clearly communicate his intent to withdraw from the confrontation to the other party.
-(e) No, because revivification of self-defense rights requires the initial aggressor to physically run away from the scene, not merely drop their weapon in place.
+(a) No, because he failed to clearly communicate his intent to withdraw from the confrontation before deciding to escalate and use deadly physical force against Blake. <!-- correct -->
+(b) No, because an initial aggressor who threatens a victim with physical force permanently forfeits the right to self-defense for the entire duration of the encounter.
+(c) Yes, because by dropping the baseball bat on the grass he legally abandoned his aggressor status, which instantly revived his right to use self-defense.
+(d) Yes, because Blake escalated the encounter to deadly force by reaching for what Alex genuinely, though mistakenly, believed was a concealed revolver in his jacket.
+(e) No, because the right to self-defense is categorically unavailable to any defendant who purposefully approaches a victim while armed with a dangerous physical weapon.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** Alex's right to self-defense did not revive. An initial aggressor can regain the right to self-defense only if they completely withdraw from the encounter and clearly communicate that withdrawal to the other party. Dropping a bat wordlessly in the middle of a confrontation fails to clearly communicate withdrawal. 
-(a) fails because physical cessation without clear communication is legally insufficient to revive the right. 
-(b) fails because an initial aggressor who brought a deadly weapon (the bat) cannot claim the victim's use of a weapon was a sudden disproportionate escalation. 
-(c) fails because initial aggressors can revive their rights through proper withdrawal. 
-(e) fails because revivification requires clear communication, not necessarily running away.
+**Explanation:** An initial aggressor cannot claim self-defense unless they withdraw and clearly communicate that withdrawal to the victim. Alex wordlessly dropped the baseball bat (Fact 7), which is insufficient to communicate withdrawal. Therefore, his right to self-defense did not revive. 
 
-**Tags:** chapters: [22], topics: [self-defense, initial aggressor, revivification], difficulty: hard, cognitive: application
+(b) fails because the right to self-defense is not permanently forfeited; it can revive if the aggressor effectively withdraws. 
+(c) fails because dropping a weapon wordlessly does not satisfy the requirement for clear communication of withdrawal. 
+(d) fails because while some jurisdictions allow revival if the victim responds to non-deadly provocation with sudden, disproportionate deadly force, Alex brought a deadly weapon (bat) to the fight, so Blake's perceived escalation was not sudden and disproportionate to a non-deadly threat. 
+(e) fails because an armed aggressor can still regain the right to self-defense by properly withdrawing and communicating that withdrawal.
 
-**Grounding:** Chapter 22 (Initial aggressor bar and clear communication requirement for withdrawal)
+**Tags:** chapters: [22], topics: [initial aggressor, withdrawal], difficulty: medium, cognitive: application
 
-```
+**Grounding:** Chapter 22: initial-aggressor-bar
+
 <!-- argument-pass: CLEAN
-(a) Argument-for: Under a behaviorist interpretation of the initial aggressor rule, once the defendant ceases the conduct that constituted the aggression, the justification for the victim's counter-attack disappears. By dropping the bat, Alex eliminated the immediate deadly threat, meaning any subsequent force used by Blake would be retaliatory rather than defensive. In some jurisdictions, the physical act of disarming oneself is considered the most potent form of "withdrawal in fact," which should suffice to restore the right to protect one's own life.
+(a) Argument-for: Under the common law and Model Penal Code § 3.04(2)(b)(i), an initial aggressor loses the justification of self-defense unless they withdraw from the encounter and effectively communicate that withdrawal to the other party. Here, Alex wordlessly dropped the bat, which is an ambiguous physical act rather than a clear communication of an intent to cease hostilities. Because he remained in the confrontation and then escalated to deadly force, his status as the initial aggressor remains legally intact, barring the defense.
 
-(b) Argument-for: This option invokes the "sudden escalation" doctrine. Even if a party is an initial aggressor, if the other party responds with force so disproportionate that it represents a new, distinct deadly threat (such as reaching for a hidden firearm in a pocket), the original aggressor's right to self-defense is immediately revived. In such cases, the law does not require the formality of withdrawal because the "victim" has essentially become a new "initial aggressor" of a second, more lethal encounter.
+(b) Argument-for: This option represents a strict "clean hands" doctrine found in some older common law interpretations where the initial instigator of a conflict is held strictly liable for the consequences of that conflict. By approaching another's property with a weapon, the defendant has "forfeited" the protection of the law. Under this view, the legal system refuses to allow a wrongdoer to benefit from a "necessity" that they themselves created through their own criminal or provocative conduct.
 
-(c) Argument-for: This reflects a strict "clean hands" approach to self-defense doctrine. The argument is that an initial aggressor who introduces deadly force (the bat) into a situation assumes the risk of all resulting violence. To prevent defendants from "gaming" the system by starting fights and then claiming self-defense when they lose the upper hand, some legal theories suggest that the initial aggressor is categorically barred from the defense unless the encounter fully terminates and a second, unrelated encounter begins.
+(c) Argument-for: Withdrawal is often a question of fact regarding the cessation of the threat. By dropping the baseball bat—his only weapon—Alex performed a manifest act of disarmament that any reasonable observer would recognize as an abandonment of the aggression. This physical "white flag" effectively communicated the end of his role as the aggressor, thereby instantly reviving his right to defend himself when he perceived a new, deadly threat from Blake.
 
-(d) Argument-for: This is the majority common law and MPC position. For an initial aggressor to revive their right to self-defense, they must not only "withdraw in fact" but also "communicate" that withdrawal to the other party. Dropping a weapon is ambiguous; it could be an accidental loss of grip or a tactical ruse. Without a verbal declaration or a clear physical signal (like raising hands or turning to leave), the other party (Blake) cannot be reasonably expected to know the threat has ended, thus the right is not revived.
+(d) Argument-for: This option relies on the "sudden escalation" exception. While Alex was the initial aggressor, his use of the bat could be characterized as non-deadly force (depending on the manner of the approach). If a victim responds to non-deadly force with the threat of deadly force (the revolver), the initial aggressor’s right to self-defense is revived because the victim has become the new aggressor by disproportionately escalating the stakes of the encounter.
 
-(e) Argument-for: This argument relies on the historical "retreat to the wall" requirement, suggesting that "withdrawal" is not a mere gesture but a physical reality. In this view, as long as the aggressor remains within striking distance and on the "field of battle," the aggression is ongoing. Only by physically fleeing the scene or creating significant distance can an aggressor provide the objective proof required to show they have truly abandoned the conflict.
+(e) Argument-for: Several jurisdictions have statutory "aggression" bars that preclude the use of self-defense by anyone who "is attempting to commit, committing, or escaping after the commission of a forcible felony" or who "initially provokes the use of force against himself." Approaching a victim while armed with a dangerous instrument like a bat can be seen as a categorical disqualifier, ensuring that a defendant cannot manufacture a "self-defense" situation by menacing others with a weapon.
 
-Head-to-head: (d) is the strongest option because it correctly identifies the dual-requirement of the withdrawal doctrine: actual cessation and clear communication. Options (a) and (b) are legally vulnerable because they attempt to revive the right "automatically" or via "bypass," ignoring the communication requirement which is standard in almost all jurisdictions. Options (c) and (e) are vulnerable because they impose absolute barriers (permanent forfeiture or a requirement to run away) that the law generally does not require, as communication can be achieved through words or other non-flight signals.
+Head-to-head: (a) is the strongest answer because it accurately identifies the specific two-pronged legal requirement for revival (withdrawal + communication). (c) and (d) are "Yes" answers, which are legally difficult for an initial aggressor who has not clearly ended the encounter. (b) and (e) are "No" answers but use overly broad, absolute language ("permanently," "categorically") that ignores the universally recognized possibility of revival via withdrawal. (a) is the most precise application of the initial-aggressor-bar doctrine.
 
 Falsifiable claim per distractor:
-- (a): "automatically restoring his full right" — wrong because restoration requires communication of withdrawal, not just physical cessation.
-- (b): "bypassing the need for Alex to withdraw" — wrong because an initial deadly aggressor (with a bat) is not excused from the withdrawal requirement even if the victim responds with deadly force.
-- (c): "permanently forfeits the right" — wrong because self-defense rights can be revived via good-faith withdrawal.
-- (e): "requires the initial aggressor to physically run away" — wrong because withdrawal can be communicated through words or other clear physical gestures without fleeing the scene.
+- (b): "permanently forfeits the right to self-defense" — wrong because the right can be revived through withdrawal and communication.
+- (c): "instantly revived his right to use self-defense" — wrong because most jurisdictions require the additional step of clear communication of the intent to withdraw, which a wordless drop does not satisfy.
+- (d): "Yes, because Blake escalated" — wrong because a baseball bat is generally considered a deadly weapon/dangerous instrument, meaning Blake's response was not a disproportionate escalation to a non-deadly threat.
+- (e): "categorically unavailable to any defendant who purposefully approaches a victim while armed" — wrong because even an armed provoker can regain the right to self-defense if they effectively retreat and communicate that retreat.
 
 Recommended fix: none
 -->
-```

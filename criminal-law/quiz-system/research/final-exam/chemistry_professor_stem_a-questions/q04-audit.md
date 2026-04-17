@@ -1,26 +1,12 @@
-**Q4.** Can the prosecution establish that Arthur's omission—his failure to allow a 911 call—was the factual (but-for) cause of Julian's death?
-
-(a) Yes, because the medical examiner established that Julian would have had a 95% chance of survival if Arthur had not prevented the 911 call and abandoned him. <!-- correct -->
-(b) Yes, because Arthur's failure to call 911 was a concurrent sufficient cause that operates identically to the drug ingestion in establishing factual causation.
-(c) No, because the acute cardiac arrhythmia was already fully in progress before Arthur failed to call 911, breaking the chronological causal chain.
-(d) No, because the factual but-for test requires the defendant's omission to be the sole and exclusive cause of the harmful result.
-(e) No, because Arthur's genuine but mistaken belief that Julian would recover negates the factual causal link between his omission and the resulting death.
-
-**Answer:** (a)
-
-**Explanation:** (a) is correct. Factual cause for an omission requires proving that but for the defendant's failure to act during the window when intervention could have saved the victim, the death would not have occurred. The ME's testimony that paramedics would have provided a 95% chance of survival easily satisfies this empirical requirement. (b) is incorrect because an omission to rescue is a necessary condition for the death in this scenario, not an independent concurrent sufficient cause (like two simultaneous fatal shots). (c) is incorrect because the chronological chain is not broken; the omission permitted an ongoing condition to become fatal when it could have been stopped. (d) is incorrect because the but-for test requires only that the defendant's conduct was necessary to the result, not the sole cause. (e) is incorrect because the defendant's subjective belief goes to mens rea, not to the empirical question of factual causation.
-
-**Tags:** chapters: [8], topics: [causation, factual cause, but-for test], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 8 - Factual Cause (But-For Test)
-
+```markdown
 <!-- audit: MUST FIX
-Check 1: Fails strictly on act vs. omission terminology. The question categorizes Arthur's conduct as an "omission" but then describes it as "failure to allow a 911 call" (stem) and "prevented the 911 call" (option a). Actively preventing someone from calling 911 or refusing to allow a call is an affirmative act of interference/seclusion, not an omission. This will cause cognitive friction for a well-prepared student who correctly identifies "preventing a call" as an act of commission. 
-Check 2: Pass. Despite the terminology error, (a) remains the only empirically correct application of the but-for test among the choices.
-Check 3: Pass. The explanation correctly maps the but-for counterfactual to the causal question, though it refers to "failure to act," further highlighting the terminology clash with option (a).
-Check 4: Fails. The fact pattern (stem) is completely missing from the prompt text; it assumes a shared scenario but cannot be evaluated completely standalone.
-Check 5: Pass. The empirical "but-for" counterfactual is jurisdictionally stable.
-Check 6: Pass. No excluded-topic bleed.
-Check 7: Pass. The but-for test and concurrent sufficient cause distractors are well-grounded in Chapter 8.
-Recommended fix: Harmonize the act vs. omission phrasing to stick cleanly to an omission framework. Change the stem to: "...Arthur's omission—his failure to call 911—was..." and change option (a) to: "Yes, because the medical examiner established that Julian would have had a 95% chance of survival if Arthur had called 911 instead of abandoning him."
+check 1: pass
+check 2: pass
+check 3: finding (The explanation for (b) refers to "Arthur's omission" removing a rescue, but smashing a phone and locking a door are affirmative acts, which the explanation itself correctly notes in the main section. This inconsistency is doctrinally confusing.)
+check 4: finding (The stem fails to provide the operative facts. It mentions only a "delay in allowing emergency assistance," but the options and explanation rely on specific facts absent from the prompt: that Arthur smashed a phone, locked a door, and that Julian would have had a 95% chance of survival if paramedics were called.)
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Move the missing facts into the stem (e.g., "Julian collapsed from an overdose. Arthur smashed the phone and locked the door to prevent anyone from calling for help. Experts agree that with immediate paramedic intervention, Julian would have had a 95% chance of survival..."). Simplify option (d) accordingly, and change "omission" to "acts" in the explanation for (b).
 -->
+```

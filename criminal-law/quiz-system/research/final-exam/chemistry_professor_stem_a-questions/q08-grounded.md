@@ -1,17 +1,17 @@
-**Q8.** Did Silas successfully withdraw from the conspiracy when he attempted to call 911 and protested leaving?
+**Q8.** Assume Silas is charged with conspiracy. Silas argues that by attempting to call 911 and protesting Arthur's decision to leave, he legally withdrew from the conspiracy and cannot be held liable for subsequent acts. Will this defense succeed?
 
-(a) No, because withdrawal requires a complete renunciation of the criminal purpose and effective communication to co-conspirators before completion, which he failed to achieve by ultimately leaving with Arthur. <!-- correct -->
-(b) Yes, because pulling out his phone and explicitly stating his intention to call 911 constituted a legally sufficient overt act contrary to the conspiracy's overarching criminal purpose.
-(c) Yes, because his explicit verbal protest to Arthur sufficiently communicated his definitive abandonment of the enterprise, successfully severing his legal liability for all subsequent acts.
-(d) No, because withdrawal from any criminal conspiracy is legally impossible once an overt act has been committed by any member in furtherance of the original agreement.
-(e) No, because he accepted a 20% cut of the sales, meaning his vested financial stake legally prevented any valid withdrawal regardless of his subsequent physical actions.
+(a) Yes, because pulling out his phone and verbalizing his protest effectively communicated his abandonment of the criminal enterprise to his co-conspirator Arthur.
+(b) Yes, because under the Model Penal Code, any overt act demonstrating genuine remorse constitutes a complete and automatic defense to conspiracy liability.
+(c) No, because an effective withdrawal requires thwarting the conspiracy's success or notifying law enforcement, and Silas ultimately followed Arthur away from the scene. <!-- correct -->
+(d) No, because withdrawal from a conspiracy is legally impossible once the illicit agreement has been made, even if no overt acts have occurred.
+(e) No, because his twenty percent financial stake in the drug sales made him a principal, and principals are legally barred from claiming the withdrawal defense.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct. Withdrawal from a conspiracy requires an affirmative act communicating withdrawal to co-conspirators in time to abandon the enterprise, and under the MPC, it requires thwarting the success of the conspiracy. Silas's brief attempt to call 911 and verbal protest failed to thwart the crime, and by ultimately complying and leaving the victim locked in the room, his actions did not constitute a complete and voluntary renunciation. (b) is incorrect because an aborted attempt to call 911 is insufficient if the defendant then abandons the rescue effort and complies with the co-conspirator. (c) is incorrect because a mere verbal protest is insufficient when followed by compliance with the principal's escape plan. (d) is incorrect because withdrawal is legally possible after an overt act, provided it occurs before the target offense is completed. (e) is incorrect because a financial stake does not render withdrawal legally impossible, though it may be evidence of original intent.
+**Explanation:** To legally withdraw from a conspiracy, a defendant must communicate their withdrawal to all co-conspirators and take affirmative steps to thwart the conspiracy's success or notify authorities. Silas tried to call 911 but was stopped, and then he left with Arthur, failing to successfully thwart the crime or contact law enforcement. (a) is wrong because mere verbal protest or an interrupted attempt to call for help is insufficient if the defendant does not actually thwart the ongoing crime or notify authorities. (b) is wrong because the MPC requires a complete and voluntary renunciation that actually thwarts the success of the conspiracy, not merely remorse. (d) is wrong because withdrawal is legally possible and can limit liability for future substantive crimes. (e) is wrong because financial stakes or status as a principal do not categorically bar the withdrawal defense.
 
 **Tags:** chapters: [19], topics: [conspiracy, withdrawal], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - Withdrawal Requirements
+**Grounding:** Chapter 19, withdrawal-requirements
 
-<!-- grounding: GROUNDED — Withdrawal Requirements, Ch 19, Refinement `withdrawal-requirements`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Withdrawal/Renunciation, Ch 19, Refinement `withdrawal-requirements`. Rule paraphrased accurately. -->

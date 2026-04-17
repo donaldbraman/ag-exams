@@ -1,26 +1,6 @@
-**Q3.** Assume that, whether or not Chris is liable, Alex is charged with criminal trespass for stepping onto the lawn. Can Alex successfully claim a mistake-of-law defense based on the County Clerk's map?
-
-(a) Yes, because his reasonable reliance on an official document provided by the public officer responsible for administering those records satisfies the official-statement exception. <!-- correct -->
-(b) Yes, because any genuinely held belief about the legality of one's conduct automatically negates the mens rea required for a general intent property crime.
-(c) No, because mistake of law is never a valid defense unless the criminal statute itself explicitly requires proof that the defendant knew their conduct was illegal.
-(d) No, because the plat map was legally erroneous, and defendants assume the absolute risk of criminal liability when relying on incorrect administrative or clerical interpretations.
-(e) No, because the official-statement exception only applies to written interpretations issued by the highest appellate court or the legislature in the relevant jurisdiction.
-
-**Answer:** (a)
-
-**Explanation:** Alex has a valid mistake-of-law defense under the official-statement exception. While ignorance of the law is generally no excuse, a defendant may rely on an official statement of law (even if erroneous) given by a public officer or agency legally responsible for interpreting or administering that law, such as a County Clerk issuing an official plat map. 
-(b) fails because mistake of law does not generally negate the mens rea for general intent offenses. 
-(c) fails because it ignores the official-statement exception to the general rule. 
-(d) fails because the exception specifically exists to protect reasonable reliance on legally erroneous official statements. 
-(e) fails because the exception extends to responsible administrative officers, not just courts or legislatures.
-
-**Tags:** chapters: [10], topics: [mistake of law, official statement], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 10 (Mistake of Law, official statement exception)
-
 <!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: The scenario describes a mistake of collateral law/fact (Alex's erroneous belief about the property boundary based on the plat map). This is traditionally a defense because it negates the required mens rea for trespass (knowing you are on the "property of another"). However, the question and Answer (a) improperly categorize this under the "official-statement exception." The official-statement exception (e.g., MPC 2.04(3)) applies to mistakes about the *penal law itself* (i.e., whether the conduct constitutes an offense), and reliance must be on an official responsible for interpreting or enforcing the *criminal* statute, not a County Clerk administering civil property records.
-3. Cross-Question Spoilers: pass
-Recommended fix: If the goal is to test the official-statement exception to a mistake of penal law, change the facts so an official responsible for enforcing criminal law (e.g., the local District Attorney) gives Alex an official interpretation stating that walking on the disputed grass does not violate the criminal trespass statute. Alternatively, change this question's focus and correct answer to test how a mistake of non-penal law (property records) negates the specific mens rea elements of the trespass charge.
+1. Fact Pattern Booby Traps: The author uses a County Clerk's "plat map" (Fact 1) to trigger the "Official Statement" exception for Mistake of Law. However, a plat map about property lines creates a mistake of *fact* or a mistake of *collateral law*, not a mistake about the penal law. Alex doesn't mistakenly believe the crime of trespass is legal; he mistakenly believes he is on his own property. 
+2. Cross-Doctrine Clashes: This creates a severe doctrinal clash. A mistake about property ownership negates the *mens rea* for trespass (treated like a mistake of fact), which excuses a general intent crime if reasonable. It does *not* trigger the "Official Statement" affirmative defense, which requires reliance on an official interpretation of *the penal law defining the offense* (e.g., an AG stating the conduct is legally permitted under the criminal code). A top student will recognize that a County Clerk mapping property is not a public servant interpreting the criminal trespass statute, making (a) legally inaccurate.
+3. Cross-Question Spoilers: Pass.
+Recommended fix: If you want to test the Official Statement exception, change the facts so Alex relies on a formal statement about the criminal code (e.g., "The State Attorney General previously issued a formal advisory opinion stating that neighbors engaged in active civil boundary disputes are legally exempt from criminal trespass statutes..."). If you want to keep the plat map, change Q3 to test whether a reasonable mistake of fact/collateral law negates the *mens rea* of the trespass charge.
 -->

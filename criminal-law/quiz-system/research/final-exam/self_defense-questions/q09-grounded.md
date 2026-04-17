@@ -1,21 +1,22 @@
-**Q9.** Assume the jurisdiction applies the Model Penal Code (MPC). How does the analysis of Alex's emotional response to the insult differ from the common-law approach?
+**Q9.** Assume the jurisdiction has adopted the Model Penal Code's extreme emotional disturbance (EED) defense rather than the common law. How would Alex's mitigation claim fare compared to the traditional common-law approach?
 
-(a) Alex may seek a reduction, because the MPC eliminates the rigid categorical bars against words and instead evaluates the reasonableness of his emotional disturbance from his viewpoint. <!-- correct -->
-(b) Alex is completely barred from a reduction, because the MPC strictly requires that the emotional disturbance be triggered by a sudden physical assault rather than an ongoing dispute.
-(c) Alex may seek a reduction, because the MPC operates on a purely subjective standard where any genuine anger automatically reduces an intentional murder to manslaughter.
-(d) Alex is completely barred from a reduction, because the MPC requires the defendant to prove that they were suffering from a diagnosed psychiatric condition at the time.
-(e) Alex may seek a reduction, because the MPC formally categorizes property disputes as one of the adequately provoking circumstances that automatically mitigates an intentional killing.
+(a) The claim would be stronger under the MPC because EED does not require a sudden provoking event and incorporates Alex's subjective belief about the property line into the reasonableness inquiry. <!-- correct -->
+(b) The claim would be weaker under the MPC because EED requires proof of a diagnosed mental illness, whereas the common law requires only a sudden loss of control.
+(c) The claim would be identical under both systems because the MPC codified the common-law categories of adequate provocation without modifying them.
+(d) The claim would be stronger under the MPC because the standard is purely subjective, requiring only that Alex genuinely felt enraged when he pulled the trigger.
+(e) The claim would fail under the MPC because EED categorically excludes any emotional disturbance arising from a property dispute or verbal insult.
 
 **Answer:** (a)
 
-**Explanation:** Alex may seek a reduction under the MPC. The MPC's Extreme Emotional Disturbance (EED) framework abandons the common law's rigid categorical bars, including the rule that words alone are never enough. Instead, it asks whether the defendant suffered from an EED for which there is a reasonable explanation or excuse, evaluated from the defendant's viewpoint. 
-(b) fails because the MPC intentionally discarded the requirement for a physical assault. 
-(c) fails because the MPC still requires that the disturbance have a "reasonable explanation or excuse," rather than operating on a purely subjective standard. 
-(d) fails because EED does not require a formal psychiatric diagnosis or mental illness. 
-(e) fails because the MPC rejects formal categories entirely, rather than creating new ones for property disputes.
+**Explanation:** The MPC's Extreme Emotional Disturbance (EED) standard significantly broadens common-law provocation. It eliminates the strict categories (meaning words alone can suffice), eliminates the requirement of a sudden provoking event (it can build over time, like the bitter property dispute), and evaluates reasonableness "from the viewpoint of a person in the actor's situation under the circumstances as he believes them to be" (incorporating Alex's erroneous belief that the lawn was his). 
 
-**Tags:** chapters: [12], topics: [intentional homicide, extreme emotional disturbance, MPC], difficulty: medium, cognitive: application
+(b) fails because EED does not require a diagnosed mental illness. 
+(c) fails because the MPC explicitly rejected the strict common-law categories in favor of a flexible standard. 
+(d) fails because EED is not purely subjective; it requires a "reasonable explanation or excuse" for the disturbance, retaining a normative component. 
+(e) fails because the MPC eliminated categorical exclusions, leaving the adequacy of the explanation to the jury.
 
-**Grounding:** Chapter 12 (MPC EED, rejection of categorical bars)
+**Tags:** chapters: [12], topics: [extreme emotional disturbance, MPC], difficulty: medium, cognitive: analysis
 
-<!-- grounding: GROUNDED — MPC Extreme Emotional Disturbance (EED), Ch 12, Refinement `eed-standard-elements` and `eed-expands-old-categories`. Rule paraphrased accurately. -->
+**Grounding:** Chapter 12: eed-standard-elements
+
+<!-- grounding: GROUNDED — Extreme Emotional Disturbance (EED), Ch 12, Refinement `eed-standard-elements`. Rule paraphrased accurately. -->

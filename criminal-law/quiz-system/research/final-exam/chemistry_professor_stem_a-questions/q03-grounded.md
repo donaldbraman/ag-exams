@@ -1,17 +1,17 @@
-**Q3.** Did Arthur have an affirmative legal duty to seek medical assistance for Julian once he collapsed?
+**Q3.** Assume Arthur is charged with criminal homicide based specifically on his omission (failing to call 911 and preventing rescue). He claims he owed no legal duty to aid Julian. Which theory best establishes Arthur's duty to act?
 
-(a) Yes, because by supplying the drug to create the peril and then locking the door to seclude Julian from help, Arthur affirmatively assumed a duty of care. <!-- correct -->
-(b) Yes, because the sale of the drug created a legally recognized special status relationship between the dealer and the buyer that requires the provision of medical aid.
-(c) No, because Arthur did not owe Julian any explicit statutory or contractual duty of care, which are the only recognized bases for criminal omission liability.
-(d) No, because Arthur did not subjectively intend for Julian to suffer a fatal overdose when he supplied the drug and knocked the phone away.
-(e) No, because Julian voluntarily assumed the risk of adverse physiological effects by choosing to ingest an experimental and unverified synthetic substance.
+(a) He had a duty based on a special relationship, because the seller-buyer dynamic imposes fiduciary obligations of care under the common law.
+(b) He had a duty based on a contractual agreement, because the implied terms of a drug transaction include emergency medical support.
+(c) He had a duty based on creation of peril and seclusion, because he provided the dangerous substance and then isolated Julian to prevent others from rendering aid. <!-- correct -->
+(d) He had a duty based on a statutory mandate, because all jurisdictions have Good Samaritan laws requiring bystanders to summon medical assistance for overdose victims.
+(e) He had no legal duty to act, because Julian's overdose was self-induced and Arthur did not force him to consume the substance.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct. Criminal liability for an omission requires a legal duty to act. Arthur triggered at least two of the five *Jones* categories: he created the peril by supplying the lethal drug, and he voluntarily assumed care and secluded the victim by preventing Silas from calling 911 and locking the door. (b) is incorrect because drug dealer and buyer is not a recognized special status relationship (like parent-child or spouses) that automatically imposes a duty of care. (c) is incorrect because omission liability can also be based on creation of peril or voluntary assumption of care, not just statutes or contracts. (d) is incorrect because duty is established by the defendant's acts and relationship to the peril, not by whether the defendant specifically intended the ultimate fatal harm. (e) is incorrect because a victim's voluntary assumption of risk does not relieve a defendant of a duty triggered by the creation of peril and active seclusion.
+**Explanation:** Arthur falls under two recognized categories of legal duty: the creation of peril (providing the lethal substance) and voluntary assumption of care combined with seclusion (taking charge by locking Julian in a room with no phone, preventing others from helping). (a) is wrong because a commercial buyer-seller relationship does not qualify as a traditional status relationship (like parent-child) triggering an affirmative duty to rescue. (b) is wrong because illegal drug sales do not create enforceable contractual duties of care. (d) is wrong because only a few jurisdictions have general Good Samaritan duties, and the common law baseline is generally no duty to rescue. (e) is wrong because Arthur's active role in supplying the drug and secluding the victim squarely trigger exceptions to the no-duty baseline.
 
-**Tags:** chapters: [9], topics: [omissions, creation of peril, voluntary assumption of care], difficulty: medium, cognitive: application
+**Tags:** chapters: [9], topics: [omissions, legal duty, creation of peril, seclusion], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 9 - Jones Five Categories; Creation of Peril Category; Voluntary Assumption Plus Seclusion
+**Grounding:** Chapter 9, creation-of-peril-category, voluntary-assumption-plus-seclusion
 
-<!-- grounding: GROUNDED — Jones Five Categories, Ch 9, Refinement `jones-five-categories`, `creation-of-peril-category`, and `voluntary-assumption-plus-seclusion`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Omissions (Creation of Peril and Voluntary Assumption plus Seclusion), Ch 9, Refinement `creation-of-peril-category`, `voluntary-assumption-plus-seclusion`. Rule paraphrased accurately. -->

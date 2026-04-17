@@ -1,21 +1,22 @@
-**Q13.** Assume the court rules that Dr. Davis's gross negligence completely severed the chain of proximate causation. Can Alex still be convicted of attempted murder?
+**Q13.** Assume the court rules that the doctor's gross negligence broke the chain of causation, preventing Alex from being convicted of the completed homicide. Can Alex instead be convicted of attempted murder?
 
-(a) No, because the completed offense of aggravated assault fully absorbs the attempt charge once the defendant's bullet successfully strikes the intended victim.
-(b) No, because the unforeseeable intervention of the doctor makes the completion of the murder factually impossible, which operates as a complete defense to any attempt liability.
-(c) Yes, because he had the specific intent to kill Blake, and his act of shooting the victim clearly constituted a substantial step toward the commission of the offense. <!-- correct -->
-(d) Yes, because any defendant who uses a deadly weapon during a confrontation is strictly liable for attempted murder regardless of their actual subjective mental state.
-(e) No, because attempt liability requires that the defendant be the final direct cause of the victim's harm, which is precluded by the doctor's subsequent intervention.
+(a) Yes, because Alex had the specific intent to kill and fired the weapon, which easily satisfies the elements of attempt despite the broken chain of causation. <!-- correct -->
+(b) Yes, because attempted murder is automatically established whenever a defendant shoots someone with a deadly weapon, regardless of the defendant's specific mental state or intent.
+(c) No, because the doctor's subsequent and highly unforeseeable intervening act completely absolves Alex of any criminal liability arising from the initial confrontation with his neighbor.
+(d) No, because an attempt charge requires that the intended victim actually survive the encounter, whereas Blake ultimately died while receiving medical treatment for his injuries.
+(e) No, because criminal attempt requires the prosecution to prove that the defendant's initial wrongful act was the proximate cause of the ultimate harm suffered by the victim.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Alex can still be convicted of attempted murder. When a defendant acts with the specific intent to kill and takes a substantial step toward that goal (such as shooting the victim), attempt liability is established. The subsequent intervention of an independent cause that prevents the completed murder does not erase the attempt that has already occurred. 
-(a) fails because attempt homicide does not merge into assault; they are distinct statutory offenses. 
-(b) fails because factual impossibility or unexpected causal failures are not defenses to attempt liability. 
-(d) fails because attempt requires specific intent (purpose) to kill, not strict liability for using a weapon. 
-(e) fails because attempt specifically covers situations where the defendant's acts fail to directly cause the final intended harm.
+**Explanation:** Criminal attempt requires the specific intent to commit the target offense and an overt act constituting a substantial step toward its commission. Alex intended to kill Blake and took the substantial step of pulling the trigger and shooting him (Fact 7). When a completed offense fails due to an independent intervening cause breaking proximate causation, the defendant remains fully liable for the attempt, which was complete at the moment the trigger was pulled. 
 
-**Tags:** chapters: [17], topics: [attempt, specific intent, substantial step], difficulty: easy, cognitive: application
+(b) fails because attempt is never a strict liability offense; it fundamentally requires the specific intent to bring about the resulting harm. 
+(c) fails because intervening acts only sever causation for the *completed* result crime, not for the attempt which is already finished. 
+(d) fails because a victim dying from another cause does not negate a prior attempted murder charge against the original assailant. 
+(e) fails because attempt liability is inherently designed to punish culpable conduct when proximate causation for the completed offense is absent.
 
-**Grounding:** Chapter 17 (Attempt mens rea and actus reus when causation fails)
+**Tags:** chapters: [17], topics: [attempt, causation failure], difficulty: easy, cognitive: application
 
-<!-- grounding: GROUNDED — Attempt Liability, Ch 17, Refinement `mens-rea-specific-intent`, `actus-reus-substantial-step`, and `impossibility-traditional`. Rule paraphrased accurately. -->
+**Grounding:** Chapter 17: mens-rea-specific-intent, actus-reus-substantial-step
+
+<!-- grounding: GROUNDED — Attempt, Ch 17, Refinement `mens-rea-specific-intent` and `actus-reus-substantial-step`. Rule paraphrased accurately. -->

@@ -1,30 +1,31 @@
-**Q12.** Assume Alex is charged with Blake's death. How does Dr. Davis's gross medical negligence (ignoring the bright red allergy bracelet to look at his phone) affect Alex's liability?
+**Q12.** Assume the facts regarding Blake's medical treatment. Is Alex the proximate cause of Blake's death?
 
-(a) It has no effect, because medical treatment provided to a gunshot victim is always considered a dependent intervening cause that cannot break the chain of proximate causation.
-(b) It severs the causal chain, because the doctor's gross negligence in actively ignoring the medical warning bracelet was highly extraordinary and unforeseeable. <!-- correct -->
-(c) It has no effect, because any negligence by a third party must be intentional or malicious in order to shield the original wrongdoer from homicide liability.
-(d) It severs the causal chain, because any subsequent act by a medical professional automatically breaks proximate cause and shifts the legal blame to the treating physician.
-(e) It has no effect, because a defendant takes their victim as they find them, including the victim's susceptibility to subsequent medical errors during emergency hospital treatment.
+(a) No, because the doctor's gross medical negligence in actively ignoring a bright red warning bracelet was highly extraordinary and serves as an independent intervening cause. <!-- correct -->
+(b) No, because any medical error that is the immediate cause of death automatically breaks the chain of causation back to the original assailant.
+(c) Yes, because a victim seeking medical treatment for a gunshot wound is a dependent intervening cause, meaning the assailant remains liable for all subsequent medical errors.
+(d) Yes, because Alex's act of shooting Blake was a but-for cause of Blake being in the hospital, which satisfies both factual and proximate causation.
+(e) No, because the gunshot wound was easily survivable, meaning Alex lacked the requisite intent to cause death at the time of the shooting.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** The gross negligence severs the causal chain. While ordinary medical negligence is considered a foreseeable, dependent intervening cause that does not break proximate causation, gross medical negligence—such as a doctor deliberately ignoring a bright red allergy bracelet to look at a phone—is considered highly extraordinary and independent. This severs Alex's liability for the completed homicide. 
-(a) fails because only ordinary medical negligence is dependent; gross negligence breaks the chain. 
-(c) fails because gross, reckless negligence is sufficient to break the chain without requiring malicious intent. 
-(d) fails because it incorrectly asserts that any medical act, even ordinary care, breaks the chain. 
-(e) fails because the "eggshell skull" rule applies to pre-existing biological conditions, not subsequent extraordinary medical errors.
+**Explanation:** In causation doctrine, ordinary medical negligence is foreseeable and is treated as a dependent intervening cause that does not break the chain of proximate causation. However, gross medical negligence or highly extraordinary medical errors—such as Dr. Davis actively ignoring a bright red warning bracelet because he was distracted by his phone (Fact 10)—serve as an independent intervening cause that severs proximate cause, relieving the initial assailant of liability for the resulting homicide. 
 
-**Tags:** chapters: [8], topics: [causation, independent intervening cause, gross negligence], difficulty: medium, cognitive: application
+(b) fails because ordinary medical negligence does *not* break the chain of causation; only gross negligence or extraordinary acts do. 
+(c) fails because the assailant is not liable for *all* medical errors, specifically escaping liability when the error crosses into gross negligence. 
+(d) fails because but-for (factual) causation is not sufficient on its own; proximate cause is severed by the independent intervening cause. 
+(e) fails because survivability of the wound does not negate the initial specific intent to kill established in the facts (Fact 7).
 
-**Grounding:** Chapter 8 (Proximate cause, medical gross negligence as independent intervening cause)
+**Tags:** chapters: [8], topics: [proximate cause, independent intervening cause, medical negligence], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 8: dependent-vs-independent-intervening-cause
 
 <!-- audit: MUST FIX
 check 1: pass
 check 2: pass
 check 3: pass
-check 4: FAIL. The stem lacks essential foundational facts. It never states what Alex did to Blake or why Blake is receiving medical treatment, forcing the student to reverse-engineer the "gunshot" scenario entirely from distractor (a). It also fails to explicitly state that the allergic reaction from the doctor's negligence is what actually killed Blake.
+check 4: fail (The stem is missing the factual scenario entirely. It relies on a shared fact pattern, referencing "facts regarding Blake's medical treatment," "Fact 10," and "Fact 7," which are not provided in the text. As a standalone question, it is unanswerable).
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Revise the stem to establish the initial act and the actual cause of death. E.g., "Assume Alex shoots Blake, who is rushed to the hospital. There, Dr. Davis administers a medication that causes a fatal allergic reaction, killing Blake. If Dr. Davis's actions constituted gross medical negligence (ignoring a bright red allergy bracelet to look at his phone), how does this affect Alex's liability for the homicide?"
+Recommended fix: Integrate the relevant facts (e.g., Blake's initial wound, Dr. Davis actively ignoring the red warning bracelet due to phone distraction) directly into the question stem to make it self-contained.
 -->

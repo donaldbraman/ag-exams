@@ -1,7 +1,22 @@
-<!-- edge-case-audit: SHOULD FIX
-1. Fact Pattern Booby Traps: The fact pattern entirely omits the actual transaction with Julian. It mentions Silas taking two grams from the backpack (Fact 5), and then suddenly Julian is dying (Fact 6). Because the facts never establish that Julian paid for the drugs, a sharp student might eliminate Option (c) because it explicitly relies on Julian being a "buyer" and there being a "sale." 
-2. Cross-Doctrine Clashes: Pass. The question cleanly isolates Julian's ingestion from Arthur's subsequent act of preventing rescue, avoiding a potential proximate cause clash for Silas.
-3. Cross-Question Spoilers: Pass.
+**Q2.** Assume Arthur is charged with criminal homicide. Arthur argues that Julian's voluntary act of ingesting the drug broke the causal chain, relieving Arthur of homicide liability for Julian's death. How will the court evaluate this intervening act?
 
-Recommended fix: Modify Option (c) and the explanation to refer to distribution/supply rather than a sale (e.g., "because a user's consumption of the distributed substance is a dependent intervening cause set in motion by the supply"). Alternatively, add a brief sentence to the core fact pattern explicitly establishing the hand-to-hand sale to Julian.
+(a) It severs the causal chain, because a victim's voluntary and fully informed choice to consume drugs is an independent intervening cause.
+(b) It severs the causal chain, because Julian's ingestion was highly extraordinary and unforeseeable given the drug was experimental.
+(c) It does not sever the causal chain, because a buyer's voluntary ingestion of a drug is a dependent intervening cause that is reasonably foreseeable to the distributor. <!-- correct -->
+(d) It does not sever the causal chain, because the Model Penal Code imposes absolute liability for deaths resulting from the distribution of Schedule I substances.
+(e) It does not sever the causal chain, because any intervening act by a victim is legally irrelevant if the defendant provided the instrumentality of death.
+
+**Answer:** (c)
+
+**Explanation:** A dependent intervening cause—one set in motion by the defendant's acts or reasonably foreseeable—does not sever the causal chain. A buyer ingesting drugs purchased from a dealer is a highly foreseeable, dependent act that completes the expected transaction. (a) is wrong because a buyer's voluntary consumption of drugs supplied by the defendant is treated as a foreseeable dependent cause, not an independent superseding cause. (b) is wrong because ingestion is the exact intended use of the drug, making it entirely foreseeable rather than highly extraordinary. (d) is wrong because the MPC does not impose absolute liability for drug-induced homicide; causation must still be established. (e) is wrong because independent intervening acts by victims (e.g., suicide by an unexpected method) can sometimes sever causation, meaning victim acts are not categorically irrelevant.
+
+**Tags:** chapters: [8], topics: [causation, intervening causes, foreseeability], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 8, dependent-vs-independent-intervening-cause
+
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
 -->

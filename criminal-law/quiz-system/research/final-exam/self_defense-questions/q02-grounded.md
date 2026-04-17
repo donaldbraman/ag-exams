@@ -1,21 +1,22 @@
-**Q2.** Assume that, whether or not Chris is guilty of conspiracy, the prosecutor seeks to charge him with Alex's subsequent weapon offenses under the *Pinkerton* doctrine. Is Chris liable for the shooting?
+**Q2.** Assume Chris is guilty of the conspiracy. Is Chris liable under the *Pinkerton* doctrine for Alex's subsequent shooting of Blake?
 
-(a) Liable, because the use of a firearm was a reasonably foreseeable consequence of a plan to assault a neighbor with baseball bats over a property dispute.
-(b) Liable, because Chris failed to take affirmative steps to stop the confrontation, such as calling the police, which is required to withdraw from vicarious liability.
-(c) Not liable, because Alex's unilateral decision to draw a handgun constituted a radical departure from the agreed-upon plan to only use baseball bats for intimidation.
-(d) Not liable, because Chris effectively communicated his withdrawal to Alex before the shooting occurred, severing his vicarious liability for his co-conspirator's future substantive crimes. <!-- correct -->
-(e) Liable, because an initial agreement to commit any violent act makes all conspirators strictly liable for any resulting harm, regardless of their subsequent attempts to withdraw.
+(a) Not liable, because Chris effectively communicated his intent to withdraw from the conspiracy before Alex committed the shooting. <!-- correct -->
+(b) Liable, because the shooting was committed in furtherance of the ongoing property dispute that motivated the original conspiracy.
+(c) Liable, because dropping a bat and walking away does not constitute a valid withdrawal unless Chris also notified law enforcement.
+(d) Not liable, because the Pinkerton doctrine applies only to foreseeable acts, and an intentional shooting can never be a foreseeable result.
+(e) Liable, because the Pinkerton doctrine holds all conspirators strictly liable for any substantive offense committed by a co-conspirator.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** Chris is not liable for the shooting under *Pinkerton*. To avoid vicarious liability for the future substantive crimes of co-conspirators, a defendant must effectively communicate his withdrawal to the other conspirators before those crimes are committed. By explicitly telling Alex "I'm going home," Chris successfully communicated his withdrawal. 
-(a) fails because although the shooting was foreseeable, withdrawal cuts off liability. 
-(b) fails because *Pinkerton* withdrawal requires only communication to co-conspirators, not notifying the police. 
-(c) fails because the shooting was a foreseeable consequence, meaning the defense must rest on the withdrawal rather than an unforeseeability argument. 
-(e) fails because the law explicitly encourages and recognizes withdrawal to limit ongoing liability.
+**Explanation:** Under the common law, a defendant can effectively withdraw from a conspiracy—and thus cut off *Pinkerton* liability for the future substantive crimes of co-conspirators—by unequivocally communicating his withdrawal to his co-conspirators. Chris's statement ("I'm going home. This is stupid, don't do anything crazy") clearly communicated his withdrawal to Alex before the shooting occurred (Fact 3). 
 
-**Tags:** chapters: [19], topics: [Pinkerton liability, withdrawal], difficulty: medium, cognitive: application
+(b) fails because effective withdrawal severs the defendant from the conspiracy going forward. 
+(c) fails because notifying law enforcement is not strictly required at common law; communicating withdrawal to co-conspirators is sufficient. 
+(d) fails because a shooting could theoretically be a foreseeable result of confronting someone with a bat, but withdrawal provides the definitive bar here. 
+(e) fails because *Pinkerton* requires the acts to be foreseeable and in furtherance of the conspiracy, and it does not survive a valid withdrawal.
 
-**Grounding:** Chapter 19 (Pinkerton doctrine and communication requirement for withdrawal)
+**Tags:** chapters: [19], topics: [Pinkerton, withdrawal], difficulty: easy, cognitive: application
 
-<!-- grounding: GROUNDED — Pinkerton liability and withdrawal, Ch 19, Refinement `pinkerton-doctrine`, `withdrawal-requirements`. Rule paraphrased accurately. -->
+**Grounding:** Chapter 19: pinkerton-doctrine, withdrawal-requirements
+
+<!-- grounding: GROUNDED — Pinkerton doctrine and withdrawal, Ch 19, Refinement `pinkerton-doctrine`, `withdrawal-requirements`. Rule paraphrased accurately. -->

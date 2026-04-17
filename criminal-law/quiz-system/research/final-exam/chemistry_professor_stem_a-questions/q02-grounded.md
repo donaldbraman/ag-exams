@@ -1,17 +1,17 @@
-**Q2.** Does Julian's voluntary act of ingesting the drug shield Arthur and Silas from liability for his death by severing the causal chain?
+**Q2.** Assume Arthur is charged with criminal homicide. Arthur argues that Julian's voluntary act of ingesting the drug broke the causal chain, relieving Arthur of homicide liability for Julian's death. How will the court evaluate this intervening act?
 
-(a) The ingestion severs the causal chain because Julian's deliberate and voluntary decision to consume the experimental drug constitutes an independent superseding cause.
-(b) The ingestion severs the causal chain because it was highly extraordinary that a healthy individual would suffer acute cardiac arrhythmia from a two-gram dose.
-(c) The ingestion does not sever the causal chain because a buyer's consumption of the distributed substance is a dependent intervening cause set in motion by the sale. <!-- correct -->
-(d) The ingestion does not sever the causal chain because the defendants' prior conduct was the established factual "but-for" cause of the resulting death.
-(e) The ingestion does not sever the causal chain because the defendants owed Julian an affirmative legal duty to rescue him once the transaction was completed.
+(a) It severs the causal chain, because a victim's voluntary and fully informed choice to consume drugs is an independent intervening cause.
+(b) It severs the causal chain, because Julian's ingestion was highly extraordinary and unforeseeable given the drug was experimental.
+(c) It does not sever the causal chain, because a buyer's voluntary ingestion of a drug is a dependent intervening cause that is reasonably foreseeable to the distributor. <!-- correct -->
+(d) It does not sever the causal chain, because the Model Penal Code imposes absolute liability for deaths resulting from the distribution of Schedule I substances.
+(e) It does not sever the causal chain, because any intervening act by a victim is legally irrelevant if the defendant provided the instrumentality of death.
 
 **Answer:** (c)
 
-**Explanation:** (c) is correct. A dependent intervening cause is one set in motion by the defendant's act, and it generally does not sever the causal chain. Selling drugs to a buyer makes the buyer's subsequent consumption of those drugs a highly foreseeable, dependent intervening act rather than a superseding one. (a) is incorrect because while the act was voluntary, it was not independent or unrelated to the defendants' conduct of supplying the drug for consumption. (b) is incorrect because death by overdose is a foreseeable risk of consuming experimental synthetic drugs, not a "highly extraordinary" result. (d) is incorrect because satisfying factual "but-for" causation is necessary but not sufficient; the legal (proximate) cause analysis must still be satisfied. (e) is incorrect because supplying drugs does not inherently create an affirmative duty to rescue under the five recognized categories of omission liability, though creation of peril might later apply.
+**Explanation:** A dependent intervening cause—one set in motion by the defendant's acts or reasonably foreseeable—does not sever the causal chain. A buyer ingesting drugs purchased from a dealer is a highly foreseeable, dependent act that completes the expected transaction. (a) is wrong because a buyer's voluntary consumption of drugs supplied by the defendant is treated as a foreseeable dependent cause, not an independent superseding cause. (b) is wrong because ingestion is the exact intended use of the drug, making it entirely foreseeable rather than highly extraordinary. (d) is wrong because the MPC does not impose absolute liability for drug-induced homicide; causation must still be established. (e) is wrong because independent intervening acts by victims (e.g., suicide by an unexpected method) can sometimes sever causation, meaning victim acts are not categorically irrelevant.
 
-**Tags:** chapters: [8], topics: [causation, intervening cause, dependent vs independent], difficulty: medium, cognitive: application
+**Tags:** chapters: [8], topics: [causation, intervening causes, foreseeability], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 8 - Legal Cause: Dependent vs. Independent Intervening Causes
+**Grounding:** Chapter 8, dependent-vs-independent-intervening-cause
 
-<!-- grounding: GROUNDED — Dependent vs. Independent Intervening Causes, Ch 8, Refinement `dependent-vs-independent-intervening-cause`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — dependent vs. independent intervening cause, Ch 8, Refinement `dependent-vs-independent-intervening-cause`. Rule paraphrased accurately. -->

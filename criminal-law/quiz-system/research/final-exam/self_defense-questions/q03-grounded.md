@@ -1,21 +1,22 @@
-**Q3.** Assume that, whether or not Chris is liable, Alex is charged with criminal trespass for stepping onto the lawn. Can Alex successfully claim a mistake-of-law defense based on the County Clerk's map?
+**Q3.** Moving to Alex. Assume Alex is charged with criminal trespass (a strict liability or general intent offense) for stepping onto the lawn. Does he have a valid mistake of law defense?
 
-(a) Yes, because his reasonable reliance on an official document provided by the public officer responsible for administering those records satisfies the official-statement exception. <!-- correct -->
-(b) Yes, because any genuinely held belief about the legality of one's conduct automatically negates the mens rea required for a general intent property crime.
-(c) No, because mistake of law is never a valid defense unless the criminal statute itself explicitly requires proof that the defendant knew their conduct was illegal.
-(d) No, because the plat map was legally erroneous, and defendants assume the absolute risk of criminal liability when relying on incorrect administrative or clerical interpretations.
-(e) No, because the official-statement exception only applies to written interpretations issued by the highest appellate court or the legislature in the relevant jurisdiction.
+(a) Yes, because he reasonably relied on an official statement of law contained in a document issued by the public servant responsible for its interpretation. <!-- correct -->
+(b) Yes, because a genuine belief that one is acting lawfully automatically negates the general intent required for a typical criminal trespass charge.
+(c) No, because the mistake of law defense is only available when the official statement is later invalidated by a formal judicial ruling.
+(d) No, because the County Clerk's plat map was legally erroneous and therefore cannot serve as the legally cognizable basis for a valid defense.
+(e) No, because the traditional rule holds that ignorance of the law is never an excuse, strictly regardless of the source of the misinformation.
 
 **Answer:** (a)
 
-**Explanation:** Alex has a valid mistake-of-law defense under the official-statement exception. While ignorance of the law is generally no excuse, a defendant may rely on an official statement of law (even if erroneous) given by a public officer or agency legally responsible for interpreting or administering that law, such as a County Clerk issuing an official plat map. 
-(b) fails because mistake of law does not generally negate the mens rea for general intent offenses. 
-(c) fails because it ignores the official-statement exception to the general rule. 
-(d) fails because the exception specifically exists to protect reasonable reliance on legally erroneous official statements. 
-(e) fails because the exception extends to responsible administrative officers, not just courts or legislatures.
+**Explanation:** While ignorance of the law is generally no excuse, an established exception exists when a defendant reasonably relies on an official statement of the law afterward determined to be invalid or erroneous, if it is contained in a formal document or issued by a public servant legally responsible for its interpretation. The County Clerk's stamped plat map (Fact 1) qualifies as an official statement. 
+
+(b) fails because mistake of law generally does not negate general intent; it operates as an affirmative defense under the official statement exception. 
+(c) fails because the defense covers erroneous official statements, not just those invalidated by judicial rulings. 
+(d) fails because the defense explicitly exists to protect citizens who rely on official statements that turn out to be legally erroneous. 
+(e) fails because it ignores the official statement exception to the general rule.
 
 **Tags:** chapters: [10], topics: [mistake of law, official statement], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 10 (Mistake of Law, official statement exception)
+**Grounding:** Chapter 10: mol-official-statement
 
-<!-- grounding: GROUNDED — Mistake of Law (official statement exception), Ch 10, Refinement `mol-official-statement`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Mistake of Law (Official Statement), Ch 10, Refinement `mol-official-statement`. Rule paraphrased accurately. -->

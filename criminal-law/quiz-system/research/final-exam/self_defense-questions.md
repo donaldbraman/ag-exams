@@ -1,217 +1,296 @@
-**Q1.** Is Chris guilty of the crime of conspiracy to assault Blake?
+**Q1.** Is Chris guilty of the underlying conspiracy to assault or menace Blake?
 
-(a) Yes, because his communication of withdrawal occurred after the agreement was formed and an overt act was committed. <!-- correct -->
-(b) Yes, because the bilateral agreement requirement demands that all parties physically arrive at the target destination.
-(c) No, because he completely and voluntarily abandoned his criminal purpose and communicated this to Alex.
-(d) No, because merely walking toward the property does not constitute a substantial step toward the commission of an assault.
-(e) No, because his act of dropping the bat legally nullified his initial verbal assent to the criminal agreement.
-
-**Answer:** (a)
-
-**Explanation:** Withdrawal is generally not a defense to the crime of conspiracy itself once the crime is complete. A conspiracy is complete when the agreement is formed and an overt act in furtherance of it (here, grabbing bats and walking toward the property) is committed. Chris's subsequent abandonment does not undo the already completed crime of conspiracy. (b) is wrong because the bilateral agreement requirement refers to the shared intent to agree, not physical arrival at the scene. (c) is wrong because abandonment may be a defense to attempt, but traditional withdrawal does not erase the completed conspiracy offense. (d) is wrong because "substantial step" is the test for criminal attempt, whereas conspiracy only requires a minimal "overt act." (e) is wrong because subsequent actions cannot legally nullify an already perfected conspiracy.
-
-**Tags:** chapters: [19], topics: [conspiracy, withdrawal, completed-offense], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 19, withdrawal-requirements
-
----
-
-**Q2.** Assume Chris is guilty of conspiracy. Is Chris liable under the Pinkerton doctrine for Alex's subsequent shooting of Blake?
-
-(a) Yes, because the shooting was a foreseeable consequence of an armed confrontation and was in furtherance of the conspiracy.
-(b) Yes, because a conspirator remains strictly liable for any violent act committed by a co-conspirator until the victim is secured.
-(c) No, because Chris effectively withdrew by clearly communicating his departure to Alex before the shooting took place. <!-- correct -->
-(d) No, because Alex's decision to use a firearm was a substantial deviation from the agreed-upon plan to use baseball bats.
-(e) No, because the Pinkerton doctrine only applies when the co-conspirator is physically present at the scene of the substantive offense.
-
-**Answer:** (c)
-
-**Explanation:** Under the Pinkerton doctrine, a conspirator is liable for foreseeable substantive offenses committed by co-conspirators in furtherance of the conspiracy. However, an effective withdrawal—manifested by communicating departure to co-conspirators before the substantive offense occurs—terminates Pinkerton liability for future crimes. Chris told Alex "I'm going home" and walked away before the shooting occurred, shielding him from Pinkerton liability. (a) is wrong because it ignores the legal effect of Chris's valid withdrawal prior to the shooting. (b) is wrong because there is no rule imposing strict liability until a victim is secured. (d) is wrong because, while foreseeability limits Pinkerton liability, the timely withdrawal provides a complete defense regardless of whether the specific shooting was foreseeable. (e) is wrong because Pinkerton liability specifically targets co-conspirators who are *not* physically present at the scene of the substantive crime.
-
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton, withdrawal], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 19, pinkerton-doctrine
-
----
-
-**Q3.** Assume the prosecution argues Alex is barred from claiming self-defense because he was the initial aggressor. What is Alex's strongest legal response to this argument?
-
-(a) He legally abandoned his initial aggression when he dropped his baseball bat onto the grass upon seeing the victim's jacket.
-(b) His actions constituted mere trespass and were not a use or imminent threat of physical force that started a fight. <!-- correct -->
-(c) The initial aggressor doctrine only applies when the defendant employs a weapon that is strictly classified as a firearm.
-(d) Blake's verbal insult constituted an independent superseding provocation that reset the entire initial aggressor self-defense analysis from the beginning.
-(e) He successfully communicated his intent to withdraw from the confrontation by remaining completely silent while Blake yelled at him.
-
-**Answer:** (b)
-
-**Explanation:** The initial aggressor doctrine bars a person who starts a physical fight from claiming self-defense. However, mere trespass or verbal arguments generally do not make someone an initial aggressor for self-defense purposes; the doctrine requires an actual use or imminent threat of physical force. Standing with a bat down at one's side is strong grounds to argue he did not trigger the initial aggressor bar. (a) is wrong because dropping the bat is a factual detail, but the strongest legal argument is that he never triggered the aggressor bar to begin with. (c) is wrong because initial aggressor principles apply to any physical force or weapon, not just firearms. (d) is wrong because words alone generally do not constitute provocation or justify physical force in self-defense. (e) is wrong because remaining silent does not constitute a legally recognized communication of withdrawal from a physical conflict.
-
-**Tags:** chapters: [22], topics: [self-defense, initial-aggressor], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 22, initial-aggressor-bar
-
----
-
-**Q4.** Assume the jurisdiction imposes a traditional duty to retreat before using deadly force. Does Alex's self-defense claim survive the retreat requirement?
-
-(a) Yes, because the castle doctrine extends to any location where the defendant has a colorable property interest or boundary dispute.
-(b) Yes, because the duty to retreat is never triggered when the attacker is reasonably suspected of reaching for a concealed firearm.
-(c) No, because Alex was standing in Blake's yard rather than his own home and had an unobstructed path to public safety. <!-- correct -->
-(d) No, because the duty to retreat strictly requires an initial aggressor to flee even when retreat poses a significant mortal risk.
-(e) No, because a defendant who is armed with a permitted handgun statutorily forfeits the right to invoke any self-defense justification.
-
-**Answer:** (c)
-
-**Explanation:** In a retreat jurisdiction, a defendant must retreat before using deadly force if a safe retreat is available. The "castle doctrine" exception applies only in the defendant's own home, not in a neighbor's yard, and Alex had an unobstructed path to safely retreat to the street. (a) is wrong because the castle doctrine is universally limited to one's own home or curtilage, not disputed property boundaries. (b) is wrong because the duty to retreat explicitly applies to deadly force threats, provided a safe escape is actually possible. (d) is wrong because even initial aggressors are not required to retreat if doing so is demonstrably unsafe (though here Alex may not be an aggressor). (e) is wrong because lawful possession of a firearm does not automatically strip a defendant of the right to claim self-defense.
-
-**Tags:** chapters: [22], topics: [self-defense, duty-to-retreat, castle-doctrine], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 22, duty-to-retreat-general; castle-doctrine-scope
-
----
-
-**Q5.** Assume Alex claims he reasonably believed Blake was about to use deadly force. Under the traditional objective standard of reasonableness, how will a court treat Alex's knowledge of Blake's concealed carry permit and prior threats?
-
-(a) The court will exclude it because the objective standard focuses only on the immediate physical movements of the victim in the moment.
-(b) The court will exclude it because incorporating prior interactions conflates the justification of self-defense with the excuse of provocation.
-(c) The court will incorporate it because the standard asks what a reasonable person in the defendant's specific situation would have believed. <!-- correct -->
-(d) The court will incorporate it because the objective standard strictly requires assessing whether the defendant's subjective fear was factually accurate.
-(e) The court will incorporate it because the modern objective standard universally mandates deference to the defendant's honest but unreasonable beliefs.
-
-**Answer:** (c)
-
-**Explanation:** The objective reasonableness standard for self-defense (as seen in *People v. Goetz*) is not evaluated in a vacuum. It asks what a reasonable person *in the defendant's situation* would believe, which legally incorporates the defendant's prior experiences and specific knowledge of the attacker—including knowledge of Blake's CCW permit and prior threats. (a) is wrong because the objective standard explicitly permits situational incorporation beyond just immediate physical movements. (b) is wrong because prior experiences legitimately inform the reasonable-belief element of the justification itself. (d) is wrong because self-defense requires only a reasonable belief, not a factually accurate one; a reasonable mistake is still a valid defense. (e) is wrong because an objective standard specifically requires the belief to be reasonable, rejecting pure deference to honest-but-unreasonable subjective fears.
-
-**Tags:** chapters: [22], topics: [self-defense, objective-reasonableness, situational-incorporation], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 22, objective-reasonableness-standard; situational-incorporation
-
----
-
-**Q6.** Assume a jury finds that Alex honestly believed Blake was drawing a gun, but that this belief was objectively unreasonable. In a jurisdiction that recognizes imperfect self-defense (like California), what is the legal effect of this finding?
-
-(a) Alex is acquitted of all homicide charges because his genuine, honest fear completely satisfies the legal justification of true self-defense.
-(b) Alex is convicted of first-degree murder because an unreasonable belief provides absolutely no doctrinal relief in any justification or excuse defense.
-(c) Alex is convicted of involuntary manslaughter because his entirely unreasonable belief constitutes a gross deviation from the objective standard of care.
-(d) Alex is convicted of voluntary manslaughter because his honestly held belief negates the specific malice element required for a murder conviction. <!-- correct -->
-(e) Alex is completely excused from criminal liability because an honest mistake of fact negates the voluntary act requirement of the underlying offense.
-
-**Answer:** (d)
-
-**Explanation:** In jurisdictions that recognize imperfect self-defense, a defendant who honestly but unreasonably believes deadly force is necessary is entitled to a partial defense. The honest belief negates malice aforethought, which reduces the charge from murder to voluntary manslaughter. (a) is wrong because perfect self-defense requires an objectively reasonable belief; an unreasonable belief cannot yield a full acquittal. (b) is wrong because while most states reject imperfect self-defense entirely, the prompt specifies a jurisdiction that formally recognizes it. (c) is wrong because imperfect self-defense specifically reduces murder to voluntary manslaughter by negating malice, not to involuntary manslaughter. (e) is wrong because a mistake of fact negates a mental state (mens rea), not the voluntary act requirement (actus reus), and unreasonable mistakes do not fully excuse intentional homicides.
-
-**Tags:** chapters: [22], topics: [self-defense, imperfect-self-defense, homicide-grading], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 22, imperfect-self-defense
-
----
-
-**Q7.** Assume the jurisdiction has enacted a Stand Your Ground statute with procedural protections identical to Florida's post-2017 regime. If Alex invokes this statute before trial, what procedural mechanism applies?
-
-(a) The trial judge will determine whether Alex is immune, and the prosecution must disprove self-defense by clear and convincing evidence. <!-- correct -->
-(b) The trial judge will grant automatic immunity from criminal prosecution but Alex will remain entirely subject to a civil wrongful death lawsuit.
-(c) The jury will decide the immunity question at trial, and the defense must prove the justification by a preponderance of the evidence.
-(d) The jury will evaluate the immunity claim as a specialized affirmative defense, requiring the state to prove malice beyond a reasonable doubt.
-(e) The trial judge will dismiss the case if Alex can show by a preponderance of the evidence that he was not the initial aggressor.
+(a) Guilty of conspiracy under both the common law and the MPC, because his communication only limits liability for future crimes and he failed to thwart the conspiracy's success. <!-- correct -->
+(b) Not guilty under the common law, because he clearly communicated his withdrawal to his co-conspirator Alex prior to the commission of any substantive target offense.
+(c) Not guilty under the MPC, because his voluntary decision to drop the bat and abandon the plan fully satisfies the requirements for the renunciation defense.
+(d) Guilty of conspiracy under the MPC but not the common law, because the common law allows a partner to withdraw up until the commission of the overt act.
+(e) Not guilty under either system, because dropping the bat and returning home permanently dissolved the bilateral agreement necessary to sustain the foundational conspiracy charge.
 
 **Answer:** (a)
 
-**Explanation:** Under Florida's post-2017 Stand Your Ground regime, immunity is determined pre-trial by a judge at an evidentiary hearing, not by a jury. At this hearing, the burden is placed on the prosecution to disprove the self-defense claim by clear and convincing evidence. (b) is wrong because a successful SYG immunity claim also bars civil liability. (c) and (d) are wrong because the defining feature of SYG immunity is that it is a pre-trial judicial determination, avoiding the need for a jury trial entirely if granted. (e) is wrong because the burden rests on the prosecution to disprove the claim by clear and convincing evidence, rather than on the defendant to prove it by a preponderance.
+**Explanation:** Chris is guilty of conspiracy under both systems. Under the common law, the crime of conspiracy is complete once the agreement and overt act (walking toward the house) occur; withdrawal only blocks liability for subsequent substantive crimes, it does not undo the conspiracy itself. Under the MPC, renunciation is an affirmative defense only if the defendant thwarts the success of the conspiracy under circumstances manifesting a complete and voluntary renunciation. Chris merely went home to sleep. 
 
-**Tags:** chapters: [22], topics: [self-defense, stand-your-ground, immunity-procedure], difficulty: hard, cognitive: application
+(b) fails because common-law withdrawal only cuts off Pinkerton liability for future crimes, not the conspiracy itself. 
+(c) fails because MPC renunciation requires actually thwarting the offense, which Chris did not do. 
+(d) fails because the common law does not permit a defendant to retroactively "undo" a completed conspiracy. 
+(e) fails because abandoning the physical act does not vitiate the prior completed agreement and overt act.
 
-**Grounding:** Chapter 22, syg-immunity-procedure; burden-of-proof-self-defense
+**Tags:** chapters: [19], topics: [conspiracy, withdrawal, renunciation], difficulty: medium, cognitive: application
 
----
-
-### Stem 2: The Aftermath and Homicide Liability
-
-Blake has died from his injuries in the hospital. The investigation into the aftermath of the shooting revealed a 45-minute delay in calling 911 and a major hospital error. I need you to evaluate Alex's homicide grading based on his emotional state, and analyze whether his omission or the medical error affects his liability for the completed homicide.
-
-**Q8.** Assume the jurisdiction has adopted the Model Penal Code's Extreme Emotional Disturbance (EED) framework for manslaughter. Which of the following provides Alex's strongest argument for an EED instruction?
-
-(a) The victim's verbal insult constituted a legally adequate provocation under the strict traditional common-law categorical approach to the manslaughter reduction.
-(b) The requirement of a sudden heat of passion is completely eliminated if the defendant possesses a formally documented mental health diagnosis.
-(c) The jury can consider his severe depression and recent trauma in evaluating the reasonableness of his explanation for the extreme emotional state. <!-- correct -->
-(d) The EED defense operates as a complete justification if the defendant's emotional response was triggered by the victim's aggressive physical behavior.
-(e) The objective component of the EED test solely analyzes whether a typical person without underlying trauma would have fired a lethal weapon.
-
-**Answer:** (c)
-
-**Explanation:** The Model Penal Code's Extreme Emotional Disturbance (EED) defense softens the rigid common-law provocation rules. It allows the jury to consider the defendant's specific situation—including mental trauma like severe depression and grief—when evaluating the reasonableness of the explanation or excuse for the extreme emotional disturbance. (a) is wrong because common law categorically rejected "words alone" as adequate provocation. (b) is wrong because while EED removes the strict "suddenness" requirement, it does not automatically eliminate the standard simply because a diagnosis exists; the explanation must still be reasonable. (d) is wrong because EED is a partial excuse reducing murder to manslaughter, not a complete justification for violence. (e) is wrong because EED explicitly incorporates the defendant's subjective situation (including trauma) into the reasonableness inquiry.
-
-**Tags:** chapters: [12], topics: [homicide, provocation, extreme-emotional-disturbance], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 12, eed-standard-elements
+**Grounding:** Chapter 19: withdrawal-requirements, mpc-renunciation
 
 ---
 
-**Q9.** Assume it is established that Alex is not guilty of any homicide offense based on the act of shooting Blake because the initial shot was justified by self-defense. The prosecution instead charges Alex with a homicide offense based on his failure to call 911. Under the traditional categories of omission liability, what is the basis for Alex's legal duty to act?
+**Q2.** Assume Chris is guilty of the conspiracy. Is Chris liable under the *Pinkerton* doctrine for Alex's subsequent shooting of Blake?
 
-(a) He assumed a voluntary duty to care for Blake by intentionally crossing the property line and entering into Blake's front yard.
-(b) He created the peril that placed Blake in severe danger of physical death by shooting him in the chest with a handgun. <!-- correct -->
-(c) He breached a statutory duty imposed on all citizens to formally report violent felonies to local emergency dispatch services immediately upon occurrence.
-(d) He established a special relationship with Blake through their shared physical property boundary and their ongoing civil legal dispute regarding the property.
-(e) He possessed an implied contractual obligation to mitigate any physical damages stemming directly from their ongoing and intensely bitter civil lawsuit proceedings.
+(a) Not liable, because Chris effectively communicated his intent to withdraw from the conspiracy before Alex committed the shooting. <!-- correct -->
+(b) Liable, because the shooting was committed in furtherance of the ongoing property dispute that motivated the original conspiracy.
+(c) Liable, because dropping a bat and walking away does not constitute a valid withdrawal unless Chris also notified law enforcement.
+(d) Not liable, because the Pinkerton doctrine applies only to foreseeable acts, and an intentional shooting can never be a foreseeable result.
+(e) Liable, because the Pinkerton doctrine holds all conspirators strictly liable for any substantive offense committed by a co-conspirator.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Generally, criminal law imposes no legal duty to rescue or summon aid. However, there are five recognized exceptions. One exception is the "creation of peril" category: when a person's actions create the danger that puts another person at risk of harm, they incur a legal duty to take reasonable steps to rescue or seek help, regardless of whether the initial act was justified, accidental, or criminal. By shooting Blake, Alex created the peril. (a) is wrong because crossing a property line does not constitute a voluntary assumption of care for the property owner. (c) is wrong because standard criminal law does not impose a universal statutory duty on all citizens to report felonies. (d) and (e) are wrong because neighbors and civil litigants do not fall within the recognized special status or contractual relationships that create a legal duty to act.
+**Explanation:** Under the common law, a defendant can effectively withdraw from a conspiracy—and thus cut off *Pinkerton* liability for the future substantive crimes of co-conspirators—by unequivocally communicating his withdrawal to his co-conspirators. Chris's statement ("I'm going home. This is stupid, don't do anything crazy") clearly communicated his withdrawal to Alex before the shooting occurred (Fact 3). 
 
-**Tags:** chapters: [9], topics: [omissions, legal-duty, creation-of-peril], difficulty: easy, cognitive: application
+(b) fails because effective withdrawal severs the defendant from the conspiracy going forward. 
+(c) fails because notifying law enforcement is not strictly required at common law; communicating withdrawal to co-conspirators is sufficient. 
+(d) fails because a shooting could theoretically be a foreseeable result of confronting someone with a bat, but withdrawal provides the definitive bar here. 
+(e) fails because *Pinkerton* requires the acts to be foreseeable and in furtherance of the conspiracy, and it does not survive a valid withdrawal.
 
-**Grounding:** Chapter 9, creation-of-peril-category
+**Tags:** chapters: [19], topics: [Pinkerton, withdrawal], difficulty: easy, cognitive: application
 
----
-
-**Q10.** Assume Alex owed a legal duty to summon aid and breached that duty. How will a court evaluate whether Alex's failure to call 911 was the actual (but-for) cause of Blake's death?
-
-(a) By determining if the delivery driver's eventual emergency call was an unforeseeable superseding act that entirely broke the chain of legal causation.
-(b) By assessing whether Alex's failure to act was the singular and exclusive mechanical mechanism that resulted in Blake's ultimate biological demise.
-(c) By asking whether Blake's death was a natural and probable consequence of a significantly delayed medical response by local emergency services personnel.
-(d) By concluding that omissions are legally incapable of causing physical harm because they universally lack an affirmative, voluntary physical act.
-(e) By asking whether Blake would have survived if Alex had fulfilled his legal duty and called emergency services immediately after the shooting. <!-- correct -->
-
-**Answer:** (e)
-
-**Explanation:** To establish actual (but-for) causation in an omission case, the factfinder must run a counterfactual inquiry: if the defendant had performed the required duty, would the harm have been avoided? Because the medical examiner concluded Blake would have survived if 911 had been called immediately, Alex's failure to call is a but-for cause of death. (a) is wrong because the delivery driver's call did not cause the death; it merely ended the omission period. (b) is wrong because a cause need not be the "sole and exclusive" mechanism; it only needs to be a necessary link in the chain. (c) is wrong because "natural and probable consequence" relates to proximate cause, not the actual but-for causation inquiry required here. (d) is wrong because the law explicitly recognizes that a failure to act, when a duty exists, can legally cause a result.
-
-**Tags:** chapters: [8, 9], topics: [causation, omission, but-for-test], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 8, but-for-test-basic
+**Grounding:** Chapter 19: pinkerton-doctrine, withdrawal-requirements
 
 ---
 
-**Q11.** Assume the prosecution seeks to hold Alex liable for Blake's death based on the initial shooting. Alex argues that Dr. Davis's blood transfusion error breaks the chain of proximate causation. What is the standard legal framework for evaluating Alex's argument?
+**Q3.** Moving to Alex. Assume Alex is charged with criminal trespass (a strict liability or general intent offense) for stepping onto the lawn. Does he have a valid mistake of law defense?
 
-(a) Medical malpractice breaks the causal chain only if the attending physician possessed a subjective criminal intent to harm the vulnerable patient.
-(b) Any intervening medical error immediately severs proximate causation because the original defendant has entirely lost physical control over the victim's body.
-(c) Ordinary medical negligence does not break the chain, but gross negligence or severe protocol violations may constitute an independent intervening cause. <!-- correct -->
-(d) Medical intervention is always classified as a dependent intervening cause regardless of how egregiously the treating physician deviates from standard care.
-(e) The causal chain is legally broken if the prosecution fails to prove that the defendant specifically foresaw the exact medical error.
+(a) Yes, because he reasonably relied on an official statement of law contained in a document issued by the public servant responsible for its interpretation. <!-- correct -->
+(b) Yes, because a genuine belief that one is acting lawfully automatically negates the general intent required for a typical criminal trespass charge.
+(c) No, because the mistake of law defense is only available when the official statement is later invalidated by a formal judicial ruling.
+(d) No, because the County Clerk's plat map was legally erroneous and therefore cannot serve as the legally cognizable basis for a valid defense.
+(e) No, because the traditional rule holds that ignorance of the law is never an excuse, strictly regardless of the source of the misinformation.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Under proximate cause principles, subsequent medical treatment is generally considered a foreseeable, dependent intervening cause that does not break the causal chain connecting the defendant's act to the death. However, if the medical error is highly extraordinary, grossly negligent, or involves a severe violation of standard protocols (like administering the wrong blood type without checking a chart), a court may classify it as an independent superseding cause that relieves the defendant of homicide liability. (a) is wrong because gross negligence can break the chain; subjective intent to harm is not required. (b) is wrong because ordinary medical negligence does not break the chain. (d) is wrong because the rule is not absolute; extreme medical errors can sever proximate cause. (e) is wrong because the specific mechanism of medical error does not need to be precisely foreseen.
+**Explanation:** While ignorance of the law is generally no excuse, an established exception exists when a defendant reasonably relies on an official statement of the law afterward determined to be invalid or erroneous, if it is contained in a formal document or issued by a public servant legally responsible for its interpretation. The County Clerk's stamped plat map (Fact 1) qualifies as an official statement. 
 
-**Tags:** chapters: [8], topics: [causation, proximate-cause, independent-intervening-cause], difficulty: hard, cognitive: application
+(b) fails because mistake of law generally does not negate general intent; it operates as an affirmative defense under the official statement exception. 
+(c) fails because the defense covers erroneous official statements, not just those invalidated by judicial rulings. 
+(d) fails because the defense explicitly exists to protect citizens who rely on official statements that turn out to be legally erroneous. 
+(e) fails because it ignores the official statement exception to the general rule.
 
-**Grounding:** Chapter 8, dependent-vs-independent-intervening-cause
+**Tags:** chapters: [10], topics: [mistake of law, official statement], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 10: mol-official-statement
 
 ---
 
-**Q12.** The prosecutor leverages the 25-year mandatory minimum for the firearm enhancement to offer Alex a 5-year plea deal for manslaughter. Under prevailing constitutional doctrine and standard prosecutorial practices, how is this strategy viewed?
+**Q4.** Assume that, whether or not Alex is guilty of trespass, he claims self-defense for shooting Blake. Assume the jurisdiction strictly confines the castle doctrine to the interior of the dwelling and requires retreat elsewhere if safe. Did Alex have a duty to retreat?
 
-(a) It is strictly unconstitutional because it violates the Eighth Amendment's prohibition on cruel and unusual punishment by threatening decades in prison.
-(b) It is unconstitutional because the extreme mathematical disparity between the plea offer and the trial penalty constitutes vindictive prosecution as a matter of law.
-(c) It is a permissible exercise of executive discretion, reflecting the transfer of sentencing power from judges to prosecutors under mandatory minimum regimes. <!-- correct -->
-(d) It is a legally permissible use of the trial penalty, provided the trial judge formally pre-approves the plea offer during a preliminary hearing.
-(e) It is an impermissible circumvention of the jury's fact-finding role, as the prosecutor is unilaterally resolving structural elements of the charged offense.
+(a) He had a duty to retreat because he was outside the dwelling and had an unobstructed path to safely escape to the public street. <!-- correct -->
+(b) He had no duty to retreat because his reliance on the official plat map legally converted the lawn into his dwelling for purposes of the doctrine.
+(c) He had a duty to retreat because the duty applies universally in all locations, including inside a dwelling, whenever deadly force is threatened.
+(d) He had no duty to retreat because the threat of a firearm makes any attempt to retreat inherently unsafe as a matter of law.
+(e) He had a duty to retreat only if he was the initial aggressor in the physical confrontation that led to the shooting.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Prosecutorial discretion is presumptively valid. The U.S. Supreme Court has consistently upheld the constitutionality of the "trial penalty"—where prosecutors threaten severe mandatory sentences (like a 25-to-life firearm enhancement) to leverage much lower plea deals (like 5 years). This reflects a structural reality of modern criminal law: mandatory minimums have transferred sentencing power from judges to prosecutors, allowing prosecutors to dictate outcomes through charging decisions. (a) is wrong because the Supreme Court has generally rejected Eighth Amendment challenges to severe mandatory sentences used in plea bargaining. (b) is wrong because a large disparity between a plea offer and a trial penalty is not considered legally vindictive. (d) is wrong because judges generally do not formally pre-approve the prosecutor's initial plea offers. (e) is wrong because plea bargaining is explicitly constitutional and not viewed as an impermissible circumvention of the jury's role.
+**Explanation:** In a jurisdiction that limits the castle doctrine to the interior of a dwelling, the duty to retreat applies when the defendant is outside the home (such as in a yard) and a safe avenue of retreat is available. Because Alex had an unobstructed path to safely run back to the public street (Fact 7), he was legally required to retreat before resorting to deadly force. 
 
-**Tags:** chapters: [6], topics: [prosecutors, mandatory-minimums, trial-penalty], difficulty: medium, cognitive: analysis
+(b) fails because even if the lawn belonged to Alex, the jurisdiction specifically limits the castle doctrine to the interior of the dwelling. 
+(c) fails because the castle doctrine is a universally recognized exception inside the home, negating any universal duty to retreat. 
+(d) fails because the facts explicitly state Alex had an "unobstructed path to safely run back," establishing retreat was factually safe. 
+(e) fails because the duty to retreat applies to non-aggressors as well in retreat jurisdictions.
 
-**Grounding:** Chapter 6, mandatory-minimums-power-transfer; plea-bargaining-trial-penalty
+**Tags:** chapters: [22], topics: [duty to retreat, castle doctrine], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 22: duty-to-retreat-general, castle-doctrine-scope
+
+---
+
+**Q5.** Assume the jurisdiction determines Alex had no duty to retreat, but finds he was the initial aggressor for approaching Blake's property with a baseball bat. Can Alex successfully claim perfect self-defense for the shooting?
+
+(a) No, because he failed to clearly communicate his intent to withdraw from the confrontation before deciding to escalate and use deadly physical force against Blake. <!-- correct -->
+(b) No, because an initial aggressor who threatens a victim with physical force permanently forfeits the right to self-defense for the entire duration of the encounter.
+(c) Yes, because by dropping the baseball bat on the grass he legally abandoned his aggressor status, which instantly revived his right to use self-defense.
+(d) Yes, because Blake escalated the encounter to deadly force by reaching for what Alex genuinely, though mistakenly, believed was a concealed revolver in his jacket.
+(e) No, because the right to self-defense is categorically unavailable to any defendant who purposefully approaches a victim while armed with a dangerous physical weapon.
+
+**Answer:** (a)
+
+**Explanation:** An initial aggressor cannot claim self-defense unless they withdraw and clearly communicate that withdrawal to the victim. Alex wordlessly dropped the baseball bat (Fact 7), which is insufficient to communicate withdrawal. Therefore, his right to self-defense did not revive. 
+
+(b) fails because the right to self-defense is not permanently forfeited; it can revive if the aggressor effectively withdraws. 
+(c) fails because dropping a weapon wordlessly does not satisfy the requirement for clear communication of withdrawal. 
+(d) fails because while some jurisdictions allow revival if the victim responds to non-deadly provocation with sudden, disproportionate deadly force, Alex brought a deadly weapon (bat) to the fight, so Blake's perceived escalation was not sudden and disproportionate to a non-deadly threat. 
+(e) fails because an armed aggressor can still regain the right to self-defense by properly withdrawing and communicating that withdrawal.
+
+**Tags:** chapters: [22], topics: [initial aggressor, withdrawal], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 22: initial-aggressor-bar
+
+---
+
+**Q6.** Assume Alex is allowed to raise self-defense. At trial, he argues his fear of imminent death was reasonable based on Blake's prior statement about carrying a revolver. How does self-defense doctrine treat this prior knowledge?
+
+(a) It is incorporated into the objective standard, asking whether a reasonable person knowing of Blake's statement would have believed deadly force was necessary. <!-- correct -->
+(b) It is excluded from the reasonableness inquiry because the standard is purely objective and relies only on the physical movements observed in the moment.
+(c) It transforms the inquiry into a purely subjective standard, asking only whether Alex genuinely believed in his own mind that Blake was armed.
+(d) It is excluded because evidence of a victim's prior statements is barred by the initial aggressor rule unless the victim physically draws a weapon.
+(e) It is incorporated only to mitigate the charge to manslaughter, as prior knowledge cannot support a perfect self-defense claim for complete justification.
+
+**Answer:** (a)
+
+**Explanation:** The "objective" standard for self-defense is not purely external; it incorporates the defendant's prior experiences and specific knowledge of the attacker (situational incorporation). The jury must assess what a reasonable person *in the defendant's situation*—including knowing that Blake boasted about carrying a revolver for trespassers (Fact 6)—would have believed when Blake reached into his pocket. 
+
+(b) fails because the objective standard is not purely external; it legally incorporates the defendant's circumstances and prior knowledge. 
+(c) fails because incorporating prior knowledge does not abandon the objective requirement; the jury still asks what a *reasonable* person with that knowledge would do. 
+(d) fails because prior statements are highly relevant to assessing the reasonableness of the defendant's threat perception. 
+(e) fails because prior knowledge of an attacker's violent propensities or weapon habit goes directly to the reasonableness required for perfect self-defense.
+
+**Tags:** chapters: [22], topics: [self-defense, reasonableness, situational incorporation], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 22: objective-reasonableness-standard, situational-incorporation
+
+---
+
+**Q7.** Assume the jury determines Alex honestly believed Blake was drawing a revolver, but that this belief was objectively unreasonable. If the jurisdiction recognizes imperfect self-defense, what is the outcome?
+
+(a) Alex is guilty of voluntary manslaughter because his honest but objectively unreasonable belief legally negates the malice required for a murder conviction. <!-- correct -->
+(b) Alex is completely acquitted because an honest belief in the necessity of self-defense fully satisfies the justification requirement in these specific jurisdictions.
+(c) Alex is guilty of murder because self-defense fundamentally requires both an honest and objectively reasonable belief to provide any mitigating legal effect.
+(d) Alex is guilty of involuntary manslaughter because an unreasonable belief constitutes criminal negligence rather than a deliberate and intentional killing of another.
+(e) Alex is guilty of voluntary manslaughter because imperfect self-defense acts as a partial excuse by conclusively proving he suffered from an extreme emotional disturbance.
+
+**Answer:** (a)
+
+**Explanation:** In jurisdictions that recognize imperfect self-defense, a defendant who holds an honest but objectively unreasonable belief in the need for deadly force is not entitled to a full acquittal, but receives a partial defense. The honest belief negates the malice aforethought required for murder, reducing the conviction to voluntary manslaughter. 
+
+(b) fails because imperfect self-defense is a partial defense, not a complete justification yielding acquittal. 
+(c) fails because this states the all-or-nothing rule used in majority jurisdictions, not the rule for jurisdictions that explicitly recognize imperfect self-defense. 
+(d) fails because imperfect self-defense mitigates an intentional killing to voluntary manslaughter, not involuntary manslaughter. 
+(e) fails because imperfect self-defense negates malice based on honest fear of imminent harm, not by proving the separate defense of extreme emotional disturbance.
+
+**Tags:** chapters: [22], topics: [imperfect self-defense, mitigation], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 22: imperfect-self-defense
+
+---
+
+**Q8.** Assume Alex is denied any perfect or imperfect self-defense claims. He argues his charge should be reduced to manslaughter under the traditional common-law heat of passion doctrine because Blake's insult enraged him. Will this argument succeed?
+
+(a) No, because under traditional common law, mere words or insults are categorically insufficient to constitute adequate provocation for the purposes of reducing murder to manslaughter. <!-- correct -->
+(b) No, because the cooling off period between the property dispute originating and the physical confrontation was far too long to sustain a claim of sudden passion.
+(c) Yes, because being aggressively called a "worthless piece of trash" by a neighbor is easily sufficient to cause a reasonable person to suddenly lose all self-control.
+(d) Yes, because the modern jury is universally permitted to evaluate whether the specific insult was provocative enough to negate malice, completely ignoring strict categorical rules.
+(e) No, because the traditional heat of passion mitigation is exclusively available only when the defendant directly witnesses their spouse committing an act of physical adultery.
+
+**Answer:** (a)
+
+**Explanation:** Under the strict categories of traditional common-law provocation (as seen in *Girouard*), "mere words" or verbal insults, no matter how offensive, are categorically insufficient as a matter of law to constitute adequate provocation. Therefore, Blake calling Alex a "worthless piece of trash" cannot reduce the murder to manslaughter. 
+
+(b) fails because the provocation triggering the passion was the immediate insult, not the underlying property dispute, making cooling time irrelevant to this specific claim. 
+(c) fails because the traditional common law does not leave the adequacy of insults to the jury; it bars them categorically. 
+(d) fails because the question explicitly asks for the traditional common-law rule, which relies on strict categories rather than universal jury discretion. 
+(e) fails because while adultery is the most famous category, the common law recognized other categories (like extreme assault or mutual combat), making adultery not "exclusively" the only path.
+
+**Tags:** chapters: [12], topics: [heat of passion, adequate provocation], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 12: words-alone-girouard
+
+---
+
+**Q9.** Assume the jurisdiction has adopted the Model Penal Code's extreme emotional disturbance (EED) defense rather than the common law. How would Alex's mitigation claim fare compared to the traditional common-law approach?
+
+(a) The claim would be stronger under the MPC because EED does not require a sudden provoking event and incorporates Alex's subjective belief about the property line into the reasonableness inquiry. <!-- correct -->
+(b) The claim would be weaker under the MPC because EED requires proof of a diagnosed mental illness, whereas the common law requires only a sudden loss of control.
+(c) The claim would be identical under both systems because the MPC codified the common-law categories of adequate provocation without modifying them.
+(d) The claim would be stronger under the MPC because the standard is purely subjective, requiring only that Alex genuinely felt enraged when he pulled the trigger.
+(e) The claim would fail under the MPC because EED categorically excludes any emotional disturbance arising from a property dispute or verbal insult.
+
+**Answer:** (a)
+
+**Explanation:** The MPC's Extreme Emotional Disturbance (EED) standard significantly broadens common-law provocation. It eliminates the strict categories (meaning words alone can suffice), eliminates the requirement of a sudden provoking event (it can build over time, like the bitter property dispute), and evaluates reasonableness "from the viewpoint of a person in the actor's situation under the circumstances as he believes them to be" (incorporating Alex's erroneous belief that the lawn was his). 
+
+(b) fails because EED does not require a diagnosed mental illness. 
+(c) fails because the MPC explicitly rejected the strict common-law categories in favor of a flexible standard. 
+(d) fails because EED is not purely subjective; it requires a "reasonable explanation or excuse" for the disturbance, retaining a normative component. 
+(e) fails because the MPC eliminated categorical exclusions, leaving the adequacy of the explanation to the jury.
+
+**Tags:** chapters: [12], topics: [extreme emotional disturbance, MPC], difficulty: medium, cognitive: analysis
+
+**Grounding:** Chapter 12: eed-standard-elements
+
+---
+
+**Q10.** Assume the jurisdiction has a Stand Your Ground statute modeled on Florida's post-2017 procedural framework. Prior to trial, Alex moves to dismiss the charges based on self-defense immunity. At the immunity hearing, who bears the burden of proof and what is the standard?
+
+(a) The prosecution bears the burden to definitively disprove Alex's claim of self-defense by clear and convincing evidence. <!-- correct -->
+(b) Alex bears the burden to affirmatively prove his claim of self-defense by a preponderance of the submitted evidence.
+(c) The prosecution bears the burden to definitively disprove Alex's claim of self-defense beyond a reasonable doubt.
+(d) Alex bears the burden to affirmatively prove his claim of self-defense by providing clear and convincing evidence.
+(e) The judge decides immunity based on a probable cause standard, with no formal burden assigned to either participating party.
+
+**Answer:** (a)
+
+**Explanation:** Under Florida's post-2017 Stand Your Ground procedural framework, once a defendant asserts a prima facie claim of self-defense immunity, the burden shifts entirely to the prosecution. The state must overcome immunity at the pre-trial hearing by disproving the self-defense claim by "clear and convincing evidence." 
+
+(b) fails because this was the standard prior to the 2017 legislative change, which shifted the burden from the defendant to the prosecution. 
+(c) fails because "beyond a reasonable doubt" is the standard the prosecution must meet at trial before a jury, not at the pre-trial immunity hearing. 
+(d) fails because the defendant does not bear the burden, and certainly not at the clear and convincing level. 
+(e) fails because the statute explicitly assigns a formal burden of proof to the prosecution at the evidentiary hearing.
+
+**Tags:** chapters: [22], topics: [stand your ground, procedural immunity], difficulty: hard, cognitive: application
+
+**Grounding:** Chapter 22: syg-immunity-procedure
+
+---
+
+**Q11.** Assume Alex's act of shooting Blake is found to be unjustified. Does Alex have a legal duty to aid or summon help for Blake after the shooting that would support criminal liability for his subsequent omission?
+
+(a) Yes, because a person who creates a zone of danger or places another in peril has an affirmative legal duty to seek assistance, regardless of whether the initial act was intentional. <!-- correct -->
+(b) Yes, because the standard duty of care requires all citizens to call 911 when witnessing a life-threatening injury, creating a universal good-samaritan obligation.
+(c) No, because an actor who commits an intentional criminal act cannot logically be charged with an omission arising from the same transaction.
+(d) No, because Alex and Blake did not have a recognized special relationship, such as spouse, parent, or contractual caretaker.
+(e) Yes, because running back to his house and locking the door constituted a voluntary assumption of care that secluded Blake from other rescue.
+
+**Answer:** (a)
+
+**Explanation:** Criminal liability for an omission requires a legal duty to act. One of the recognized categories of legal duty under *Jones* is the "creation of peril" doctrine. When a person's conduct (even if criminal or accidental) creates a situation of peril for another, the actor has an affirmative legal duty to take reasonable steps to assist or summon help. Alex created the peril by shooting Blake (Fact 7). 
+
+(b) fails because the criminal law imposes no general "good samaritan" duty on bystanders to intervene or call for help. 
+(c) fails because the law routinely recognizes omission duties arising from prior criminal conduct (e.g., hit-and-run statutes). 
+(d) fails because while special relationships are one basis for duty, creation of peril is a separate, independent basis that does not require a relationship. 
+(e) fails because locking himself in his own house did not voluntarily assume care or seclude Blake from others; Blake was bleeding openly on the lawn.
+
+**Tags:** chapters: [9], topics: [omissions, creation of peril], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 9: creation-of-peril-category
+
+---
+
+**Q12.** Assume the facts regarding Blake's medical treatment. Is Alex the proximate cause of Blake's death?
+
+(a) No, because the doctor's gross medical negligence in actively ignoring a bright red warning bracelet was highly extraordinary and serves as an independent intervening cause. <!-- correct -->
+(b) No, because any medical error that is the immediate cause of death automatically breaks the chain of causation back to the original assailant.
+(c) Yes, because a victim seeking medical treatment for a gunshot wound is a dependent intervening cause, meaning the assailant remains liable for all subsequent medical errors.
+(d) Yes, because Alex's act of shooting Blake was a but-for cause of Blake being in the hospital, which satisfies both factual and proximate causation.
+(e) No, because the gunshot wound was easily survivable, meaning Alex lacked the requisite intent to cause death at the time of the shooting.
+
+**Answer:** (a)
+
+**Explanation:** In causation doctrine, ordinary medical negligence is foreseeable and is treated as a dependent intervening cause that does not break the chain of proximate causation. However, gross medical negligence or highly extraordinary medical errors—such as Dr. Davis actively ignoring a bright red warning bracelet because he was distracted by his phone (Fact 10)—serve as an independent intervening cause that severs proximate cause, relieving the initial assailant of liability for the resulting homicide. 
+
+(b) fails because ordinary medical negligence does *not* break the chain of causation; only gross negligence or extraordinary acts do. 
+(c) fails because the assailant is not liable for *all* medical errors, specifically escaping liability when the error crosses into gross negligence. 
+(d) fails because but-for (factual) causation is not sufficient on its own; proximate cause is severed by the independent intervening cause. 
+(e) fails because survivability of the wound does not negate the initial specific intent to kill established in the facts (Fact 7).
+
+**Tags:** chapters: [8], topics: [proximate cause, independent intervening cause, medical negligence], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 8: dependent-vs-independent-intervening-cause
+
+---
+
+**Q13.** Assume the court rules that the doctor's gross negligence broke the chain of causation, preventing Alex from being convicted of the completed homicide. Can Alex instead be convicted of attempted murder?
+
+(a) Yes, because Alex had the specific intent to kill and fired the weapon, which easily satisfies the elements of attempt despite the broken chain of causation. <!-- correct -->
+(b) Yes, because attempted murder is automatically established whenever a defendant shoots someone with a deadly weapon, regardless of the defendant's specific mental state or intent.
+(c) No, because the doctor's subsequent and highly unforeseeable intervening act completely absolves Alex of any criminal liability arising from the initial confrontation with his neighbor.
+(d) No, because an attempt charge requires that the intended victim actually survive the encounter, whereas Blake ultimately died while receiving medical treatment for his injuries.
+(e) No, because criminal attempt requires the prosecution to prove that the defendant's initial wrongful act was the proximate cause of the ultimate harm suffered by the victim.
+
+**Answer:** (a)
+
+**Explanation:** Criminal attempt requires the specific intent to commit the target offense and an overt act constituting a substantial step toward its commission. Alex intended to kill Blake and took the substantial step of pulling the trigger and shooting him (Fact 7). When a completed offense fails due to an independent intervening cause breaking proximate causation, the defendant remains fully liable for the attempt, which was complete at the moment the trigger was pulled. 
+
+(b) fails because attempt is never a strict liability offense; it fundamentally requires the specific intent to bring about the resulting harm. 
+(c) fails because intervening acts only sever causation for the *completed* result crime, not for the attempt which is already finished. 
+(d) fails because a victim dying from another cause does not negate a prior attempted murder charge against the original assailant. 
+(e) fails because attempt liability is inherently designed to punish culpable conduct when proximate causation for the completed offense is absent.
+
+**Tags:** chapters: [17], topics: [attempt, causation failure], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 17: mens-rea-specific-intent, actus-reus-substantial-step

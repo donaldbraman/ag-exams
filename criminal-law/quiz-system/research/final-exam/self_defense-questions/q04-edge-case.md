@@ -1,22 +1,23 @@
-**Q4.** Assume that, whether or not Alex is guilty of trespass, he claims self-defense for the shooting. In a traditional retreat jurisdiction, did the castle doctrine relieve Alex of his duty to retreat?
+**Q4.** Assume that, whether or not Alex is guilty of trespass, he claims self-defense for shooting Blake. Assume the jurisdiction strictly confines the castle doctrine to the interior of the dwelling and requires retreat elsewhere if safe. Did Alex have a duty to retreat?
 
-(a) Yes, because the castle doctrine extends broadly to all real property owned or legitimately claimed by the defendant, including the lawn and any surrounding outdoor curtilage.
-(b) Yes, because a person who is standing on their own property never has a duty to retreat before using deadly force, regardless of the jurisdiction's standard.
-(c) No, because the castle doctrine exception to the duty to retreat is traditionally limited to the physical dwelling and does not extend to the surrounding yard. <!-- correct -->
-(d) No, because the castle doctrine is categorically unavailable whenever the defendant uses a firearm instead of relying on the physical security of the home itself.
-(e) No, because Alex forfeited any right to the castle doctrine by stepping out of his own house to confront Blake rather than remaining safely indoors.
+(a) He had a duty to retreat because he was outside the dwelling and had an unobstructed path to safely escape to the public street. <!-- correct -->
+(b) He had no duty to retreat because his reliance on the official plat map legally converted the lawn into his dwelling for purposes of the doctrine.
+(c) He had a duty to retreat because the duty applies universally in all locations, including inside a dwelling, whenever deadly force is threatened.
+(d) He had no duty to retreat because the threat of a firearm makes any attempt to retreat inherently unsafe as a matter of law.
+(e) He had a duty to retreat only if he was the initial aggressor in the physical confrontation that led to the shooting.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** The castle doctrine does not relieve Alex of his duty to retreat. In traditional strict retreat jurisdictions (like New York), the castle doctrine exception only applies when the defendant is physically inside their dwelling. It does not extend to the surrounding yard or curtilage. Since Alex was outside on the lawn, the standard duty to retreat still applied. 
-(a) fails because the traditional rule does not extend the castle doctrine to the yard. 
-(b) fails because being on one's own property outside the dwelling does not eliminate the retreat duty in strict retreat states. 
-(d) fails because the use of a firearm does not categorically void the castle doctrine if the defendant is inside. 
-(e) fails because the correct geographic limitation is the yard itself, not the act of leaving the house.
+**Explanation:** In a jurisdiction that limits the castle doctrine to the interior of a dwelling, the duty to retreat applies when the defendant is outside the home (such as in a yard) and a safe avenue of retreat is available. Because Alex had an unobstructed path to safely run back to the public street (Fact 7), he was legally required to retreat before resorting to deadly force. 
 
-**Tags:** chapters: [22], topics: [self-defense, duty to retreat, castle doctrine scope], difficulty: medium, cognitive: application
+(b) fails because even if the lawn belonged to Alex, the jurisdiction specifically limits the castle doctrine to the interior of the dwelling. 
+(c) fails because the castle doctrine is a universally recognized exception inside the home, negating any universal duty to retreat. 
+(d) fails because the facts explicitly state Alex had an "unobstructed path to safely run back," establishing retreat was factually safe. 
+(e) fails because the duty to retreat applies to non-aggressors as well in retreat jurisdictions.
 
-**Grounding:** Chapter 22 (Castle doctrine scope)
+**Tags:** chapters: [22], topics: [duty to retreat, castle doctrine], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 22: duty-to-retreat-general, castle-doctrine-scope
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

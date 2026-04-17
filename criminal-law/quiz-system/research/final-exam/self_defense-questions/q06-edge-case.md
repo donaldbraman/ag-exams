@@ -1,26 +1,27 @@
-**Q6.** Assume that, whether or not Alex was the initial aggressor, the jury must assess his fear of Blake's pocket reach. How should the objective reasonableness standard treat Alex's knowledge of Blake's prior statement?
+**Q6.** Assume Alex is allowed to raise self-defense. At trial, he argues his fear of imminent death was reasonable based on Blake's prior statement about carrying a revolver. How does self-defense doctrine treat this prior knowledge?
 
-(a) It should ignore the prior statement, because the purely objective standard strictly prohibits the jury from considering the defendant's subjective personal knowledge about the victim.
-(b) It should incorporate the prior statement, because the standard asks what a reasonable person in the defendant's specific situation and with that knowledge would have believed. <!-- correct -->
-(c) It should ignore the prior statement, because words spoken to a third party at a previous time cannot legally justify an immediate fear of deadly physical force.
-(d) It should incorporate the prior statement, because under the subjective standard, any honest fear genuinely held by the defendant automatically satisfies the self-defense requirement.
-(e) It should incorporate the prior statement only if Blake repeated the threat during the immediate confrontation, ensuring the fear was based on present rather than past conduct.
+(a) It is incorporated into the objective standard, asking whether a reasonable person knowing of Blake's statement would have believed deadly force was necessary. <!-- correct -->
+(b) It is excluded from the reasonableness inquiry because the standard is purely objective and relies only on the physical movements observed in the moment.
+(c) It transforms the inquiry into a purely subjective standard, asking only whether Alex genuinely believed in his own mind that Blake was armed.
+(d) It is excluded because evidence of a victim's prior statements is barred by the initial aggressor rule unless the victim physically draws a weapon.
+(e) It is incorporated only to mitigate the charge to manslaughter, as prior knowledge cannot support a perfect self-defense claim for complete justification.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** The jury should incorporate Alex's knowledge of the prior statement. Under the objective reasonableness standard (as affirmed in *Goetz*), the inquiry is not what a hypothetical blank-slate reasonable person would believe, but what a reasonable person in the defendant's specific situation would believe. This "situation" incorporates the defendant's prior experiences and specific knowledge about the attacker. 
-(a) fails because the standard is not purely external and must incorporate situational context. 
-(c) fails because prior statements strongly inform the objective reasonableness of the present fear. 
-(d) fails because it conflates the objective standard with a purely subjective "honest fear" standard. 
-(e) fails because relevant prior knowledge is legally admissible without needing to be repeated during the encounter.
+**Explanation:** The "objective" standard for self-defense is not purely external; it incorporates the defendant's prior experiences and specific knowledge of the attacker (situational incorporation). The jury must assess what a reasonable person *in the defendant's situation*—including knowing that Blake boasted about carrying a revolver for trespassers (Fact 6)—would have believed when Blake reached into his pocket. 
 
-**Tags:** chapters: [22], topics: [self-defense, objective reasonableness, situational incorporation], difficulty: medium, cognitive: application
+(b) fails because the objective standard is not purely external; it legally incorporates the defendant's circumstances and prior knowledge. 
+(c) fails because incorporating prior knowledge does not abandon the objective requirement; the jury still asks what a *reasonable* person with that knowledge would do. 
+(d) fails because prior statements are highly relevant to assessing the reasonableness of the defendant's threat perception. 
+(e) fails because prior knowledge of an attacker's violent propensities or weapon habit goes directly to the reasonableness required for perfect self-defense.
 
-**Grounding:** Chapter 22 (*People v. Goetz*, situational incorporation)
+**Tags:** chapters: [22], topics: [self-defense, reasonableness, situational incorporation], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 22: objective-reasonableness-standard, situational-incorporation
 
 <!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass (Standard application of prior knowledge to the reasonable person standard; no extreme facts distort the test).
-2. Cross-Doctrine Clashes: pass (The prompt safely brackets the initial aggressor doctrine by stipulating the jury must assess the fear regardless, preventing the initial aggressor bar from mooting this analysis).
-3. Cross-Question Spoilers: pass (Does not spoil other questions; effectively isolates the situational incorporation doctrine).
-Recommended fix: None.
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
 -->

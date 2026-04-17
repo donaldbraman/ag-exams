@@ -1,17 +1,17 @@
-**Q1.** Is Arthur guilty of manufacturing a Schedule I substance despite his genuine belief it was a legal nootropic?
+**Q1.** Assume Arthur is charged with manufacturing a Schedule I controlled substance under a statute silent on mens rea. He argues that because he genuinely believed he was synthesizing a legal supplement, he lacked the requisite mental state. How should the court rule?
 
-(a) Yes, because under the dangerous items heuristic, a person who knows the specific chemical structure of a synthetic drug acts at their peril regarding its legal classification. <!-- correct -->
-(b) Yes, because the Morissette presumption against strict liability is automatically rebutted whenever a statute imposes severe felony penalties for public welfare offenses.
-(c) No, because his genuine mistake of fact regarding the chemical's classification negates the "knowing" mental state required for the manufacturing element.
-(d) No, because the statute's silence on mens rea means the prosecution must prove at least recklessness under the default rules of the Model Penal Code.
-(e) No, because a professor synthesizing chemicals is engaged in conduct that is entirely innocent, defeating the strict liability notice requirement established by precedent.
+(a) Guilty, because under the *Balint* doctrine, one who deals in dangerous items like chemical drugs must ascertain at his peril whether the substance falls within statutory prohibitions. <!-- correct -->
+(b) Guilty, because the *Morissette* presumption automatically imposes strict liability whenever a criminal statute lacks an explicit mens rea requirement.
+(c) Not guilty, because the *Staples* limit requires the prosecution to prove Arthur knew the specific regulatory characteristics that made the chemical illegal.
+(d) Not guilty, because his genuine but mistaken belief about the substance's legal status constitutes a valid mistake of fact that negates his culpability.
+(e) Not guilty, because chemical supplements are in widespread innocent use, meaning they do not trigger the dangerous-items heuristic for strict liability.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. Under the dangerous items heuristic established in *United States v. Balint*, individuals dealing in highly dangerous substances (like synthetic drugs) are placed on notice of their likely regulation and act at their peril. Arthur knew the exact chemical structure he was distributing, satisfying the actus reus and basic knowledge requirement; his mistake regarding its legal classification is an invalid mistake of law defense. (b) is incorrect because severe penalties generally trigger the *Staples* presumption of mens rea, rather than rebutting it. (c) is incorrect because his mistake is about the penal law classification, not the factual nature of the chemical structure itself. (d) is incorrect because the dangerous items heuristic displaces the MPC recklessness default for these specific public welfare offenses. (e) is incorrect because synthesizing powerful synthetic drugs does not constitute "entirely innocent" conduct like possessing an ordinary firearm.
+**Explanation:** Under *United States v. Balint*, the "dangerous items" heuristic establishes that those dealing in inherently dangerous substances like narcotics act at their peril and cannot claim ignorance of the regulatory classification as a defense. Arthur knew the exact molecular structure he was making; his mistake was purely about its legal status. (b) is wrong because *Morissette* actually presumes mens rea is required when a statute is silent, unless exceptions like the dangerous-items heuristic apply. (c) is wrong because *Staples* applies to items with widespread innocent use (like firearms), not novel synthetic chemicals. (d) is wrong because Arthur's error was a mistake of law (regulatory classification), not a mistake of fact. (e) is wrong because novel synthetic drugs are not recognized as having widespread innocent use comparable to standard firearms.
 
-**Tags:** chapters: [11], topics: [public welfare offenses, dangerous items, mistake of law], difficulty: medium, cognitive: application
+**Tags:** chapters: [11], topics: [public welfare offenses, strict liability, dangerous items], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 11 - Dangerous Items or Activities (Morissette Factor 2); United States v. Balint
+**Grounding:** Chapter 11, balint-narcotics-at-peril, dangerous items heuristic
 
-<!-- grounding: GROUNDED — dangerous items heuristic, Ch 11, Refinement `balint-narcotics-at-peril`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Balint doctrine, Ch 11, Refinement `balint-narcotics-at-peril`. Rule paraphrased accurately. -->

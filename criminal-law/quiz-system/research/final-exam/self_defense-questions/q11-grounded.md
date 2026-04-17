@@ -1,21 +1,22 @@
-**Q11.** Assume Alex argues he cannot be charged for fleeing without calling 911 because he had no special relationship with Blake. Is Alex legally obligated to seek assistance?
+**Q11.** Assume Alex's act of shooting Blake is found to be unjustified. Does Alex have a legal duty to aid or summon help for Blake after the shooting that would support criminal liability for his subsequent omission?
 
-(a) No, because the law strictly imposes no duty to rescue a person unless a recognized status relationship, such as parent-child or spouses, exists between the parties.
-(b) No, because imposing a legal duty to aid an attacker after invoking self-defense would violate the defendant's constitutional privilege against self-incrimination.
-(c) Yes, because a person who physically creates a life-threatening peril, even if the initial act was justified, automatically acquires a legal duty to summon assistance. <!-- correct -->
-(d) Yes, because all property owners owe a general duty of care to anyone who is injured on their land, regardless of how the injury occurred.
-(e) No, because the duty to act only arises when a defendant voluntarily assumes the care of a helpless person and strictly secludes them from receiving other aid.
+(a) Yes, because a person who creates a zone of danger or places another in peril has an affirmative legal duty to seek assistance, regardless of whether the initial act was intentional. <!-- correct -->
+(b) Yes, because the standard duty of care requires all citizens to call 911 when witnessing a life-threatening injury, creating a universal good-samaritan obligation.
+(c) No, because an actor who commits an intentional criminal act cannot logically be charged with an omission arising from the same transaction.
+(d) No, because Alex and Blake did not have a recognized special relationship, such as spouse, parent, or contractual caretaker.
+(e) Yes, because running back to his house and locking the door constituted a voluntary assumption of care that secluded Blake from other rescue.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Alex has a legal duty to act because he created the peril. While the criminal law generally imposes no duty to rescue strangers, an established exception is the creation-of-peril doctrine. When a person's actions create a life-threatening hazard for another, even if the initial act was justified self-defense, they acquire an affirmative legal duty to summon assistance. 
-(a) fails because it ignores the creation-of-peril exception to the general no-duty rule. 
-(b) fails because courts have ruled that summoning emergency aid does not violate the Fifth Amendment. 
-(d) fails because it applies tort-like premises liability rather than the specific criminal law doctrine. 
-(e) fails because voluntary assumption is only one way to acquire a duty; creation of peril is another independent basis.
+**Explanation:** Criminal liability for an omission requires a legal duty to act. One of the recognized categories of legal duty under *Jones* is the "creation of peril" doctrine. When a person's conduct (even if criminal or accidental) creates a situation of peril for another, the actor has an affirmative legal duty to take reasonable steps to assist or summon help. Alex created the peril by shooting Blake (Fact 7). 
 
-**Tags:** chapters: [9], topics: [omissions, creation of peril, duty to act], difficulty: medium, cognitive: application
+(b) fails because the criminal law imposes no general "good samaritan" duty on bystanders to intervene or call for help. 
+(c) fails because the law routinely recognizes omission duties arising from prior criminal conduct (e.g., hit-and-run statutes). 
+(d) fails because while special relationships are one basis for duty, creation of peril is a separate, independent basis that does not require a relationship. 
+(e) fails because locking himself in his own house did not voluntarily assume care or seclude Blake from others; Blake was bleeding openly on the lawn.
 
-**Grounding:** Chapter 9 (Omissions, creation of peril exception to no-duty baseline)
+**Tags:** chapters: [9], topics: [omissions, creation of peril], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 9: creation-of-peril-category
 
 <!-- grounding: GROUNDED — creation of peril, Ch 9, Refinement `creation-of-peril-category`. Rule paraphrased accurately. -->

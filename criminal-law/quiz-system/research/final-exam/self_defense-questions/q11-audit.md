@@ -1,30 +1,31 @@
-**Q11.** Assume Alex argues he cannot be charged for fleeing without calling 911 because he had no special relationship with Blake. Is Alex legally obligated to seek assistance?
+**Q11.** Assume Alex's act of shooting Blake is found to be unjustified. Does Alex have a legal duty to aid or summon help for Blake after the shooting that would support criminal liability for his subsequent omission?
 
-(a) No, because the law strictly imposes no duty to rescue a person unless a recognized status relationship, such as parent-child or spouses, exists between the parties.
-(b) No, because imposing a legal duty to aid an attacker after invoking self-defense would violate the defendant's constitutional privilege against self-incrimination.
-(c) Yes, because a person who physically creates a life-threatening peril, even if the initial act was justified, automatically acquires a legal duty to summon assistance. <!-- correct -->
-(d) Yes, because all property owners owe a general duty of care to anyone who is injured on their land, regardless of how the injury occurred.
-(e) No, because the duty to act only arises when a defendant voluntarily assumes the care of a helpless person and strictly secludes them from receiving other aid.
+(a) Yes, because a person who creates a zone of danger or places another in peril has an affirmative legal duty to seek assistance, regardless of whether the initial act was intentional. <!-- correct -->
+(b) Yes, because the standard duty of care requires all citizens to call 911 when witnessing a life-threatening injury, creating a universal good-samaritan obligation.
+(c) No, because an actor who commits an intentional criminal act cannot logically be charged with an omission arising from the same transaction.
+(d) No, because Alex and Blake did not have a recognized special relationship, such as spouse, parent, or contractual caretaker.
+(e) Yes, because running back to his house and locking the door constituted a voluntary assumption of care that secluded Blake from other rescue.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Alex has a legal duty to act because he created the peril. While the criminal law generally imposes no duty to rescue strangers, an established exception is the creation-of-peril doctrine. When a person's actions create a life-threatening hazard for another, even if the initial act was justified self-defense, they acquire an affirmative legal duty to summon assistance. 
-(a) fails because it ignores the creation-of-peril exception to the general no-duty rule. 
-(b) fails because courts have ruled that summoning emergency aid does not violate the Fifth Amendment. 
-(d) fails because it applies tort-like premises liability rather than the specific criminal law doctrine. 
-(e) fails because voluntary assumption is only one way to acquire a duty; creation of peril is another independent basis.
+**Explanation:** Criminal liability for an omission requires a legal duty to act. One of the recognized categories of legal duty under *Jones* is the "creation of peril" doctrine. When a person's conduct (even if criminal or accidental) creates a situation of peril for another, the actor has an affirmative legal duty to take reasonable steps to assist or summon help. Alex created the peril by shooting Blake (Fact 7). 
 
-**Tags:** chapters: [9], topics: [omissions, creation of peril, duty to act], difficulty: medium, cognitive: application
+(b) fails because the criminal law imposes no general "good samaritan" duty on bystanders to intervene or call for help. 
+(c) fails because the law routinely recognizes omission duties arising from prior criminal conduct (e.g., hit-and-run statutes). 
+(d) fails because while special relationships are one basis for duty, creation of peril is a separate, independent basis that does not require a relationship. 
+(e) fails because locking himself in his own house did not voluntarily assume care or seclude Blake from others; Blake was bleeding openly on the lawn.
 
-**Grounding:** Chapter 9 (Omissions, creation of peril exception to no-duty baseline)
+**Tags:** chapters: [9], topics: [omissions, creation of peril], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 9: creation-of-peril-category
 
 <!-- audit: MUST FIX
-check 1: fails (cannot determine if the correct answer is accurate without the missing facts; if Alex was a mere bystander, (a) would be correct)
-check 2: fails (if Alex is assumed to be a bystander due to missing facts, a student could validly choose (a))
-check 3: pass (the doctrine stated in the explanation correctly summarizes the creation of peril exception, but references facts entirely absent from the stem)
-check 4: fails (the stem completely lacks a fact pattern establishing how Blake was injured or whether Alex created the peril)
+check 1: pass
+check 2: pass
+check 3: pass as to doctrine, but the explanation refers to phantom facts ("Fact 7", "bleeding openly on the lawn").
+check 4: fails. The question is clearly orphaned from a larger fact pattern. Option (e) relies on facts ("running back to his house and locking the door") that do not exist in the stem, which will confuse students.
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Add the missing factual premise to the stem. For example: "Alex severely injures Blake in a justified act of self-defense. Leaving Blake bleeding on the ground, Alex flees without calling 911. Assume Alex argues..."
+Recommended fix: Incorporate the missing facts into the stem (e.g., "Assume Alex shoots Blake unjustifiably, then runs back to his house and locks the door, leaving Blake bleeding on the lawn.") and remove the reference to "Fact 7" in the explanation.
 -->

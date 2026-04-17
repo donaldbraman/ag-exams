@@ -1,22 +1,23 @@
-**Q8.** Assume Alex argues his shooting was mitigated by Blake's insult ("worthless piece of trash"). Under traditional common-law rules, is Alex entitled to a heat-of-passion manslaughter reduction?
+**Q8.** Assume Alex is denied any perfect or imperfect self-defense claims. He argues his charge should be reduced to manslaughter under the traditional common-law heat of passion doctrine because Blake's insult enraged him. Will this argument succeed?
 
-(a) Yes, because the insult was delivered during a highly emotional property dispute, which objectively constitutes adequate provocation for a reasonable person in that situation.
-(b) Yes, because Alex subjectively experienced a sudden and intense rage that temporarily overrode his capacity for rational thought and deliberate premeditation before firing.
-(c) No, because mere words and insults, no matter how offensive or enraging, are legally insufficient to constitute adequate provocation under the traditional categorical rules. <!-- correct -->
-(d) No, because Alex had sufficient cooling time during his walk across the lawn to reflect on his actions before encountering Blake on the property line.
-(e) No, because the heat-of-passion doctrine only applies when the victim commits a severe physical battery against the defendant before the fatal blow is struck.
+(a) No, because under traditional common law, mere words or insults are categorically insufficient to constitute adequate provocation for the purposes of reducing murder to manslaughter. <!-- correct -->
+(b) No, because the cooling off period between the property dispute originating and the physical confrontation was far too long to sustain a claim of sudden passion.
+(c) Yes, because being aggressively called a "worthless piece of trash" by a neighbor is easily sufficient to cause a reasonable person to suddenly lose all self-control.
+(d) Yes, because the modern jury is universally permitted to evaluate whether the specific insult was provocative enough to negate malice, completely ignoring strict categorical rules.
+(e) No, because the traditional heat of passion mitigation is exclusively available only when the defendant directly witnesses their spouse committing an act of physical adultery.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Alex is not entitled to a reduction. Under traditional common-law rules, adequate provocation is restricted to specific historical categories (such as observing spousal adultery or suffering a severe battery). The law strictly holds that mere words and insults, no matter how offensive, are categorically insufficient to constitute adequate provocation. 
-(a) fails because the objective standard under common law categorically excludes words as adequate provocation. 
-(b) fails because it focuses entirely on his subjective state, ignoring the objective adequacy requirement. 
-(d) fails because the claim fails at the provocation threshold before cooling time even needs to be assessed. 
-(e) fails because there are other valid categories besides severe battery (e.g., mutual combat), making this option too narrow.
+**Explanation:** Under the strict categories of traditional common-law provocation (as seen in *Girouard*), "mere words" or verbal insults, no matter how offensive, are categorically insufficient as a matter of law to constitute adequate provocation. Therefore, Blake calling Alex a "worthless piece of trash" cannot reduce the murder to manslaughter. 
 
-**Tags:** chapters: [12], topics: [intentional homicide, heat of passion, provocation], difficulty: easy, cognitive: application
+(b) fails because the provocation triggering the passion was the immediate insult, not the underlying property dispute, making cooling time irrelevant to this specific claim. 
+(c) fails because the traditional common law does not leave the adequacy of insults to the jury; it bars them categorically. 
+(d) fails because the question explicitly asks for the traditional common-law rule, which relies on strict categories rather than universal jury discretion. 
+(e) fails because while adultery is the most famous category, the common law recognized other categories (like extreme assault or mutual combat), making adultery not "exclusively" the only path.
 
-**Grounding:** Chapter 12 (Common law provocation, words alone rule)
+**Tags:** chapters: [12], topics: [heat of passion, adequate provocation], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 12: words-alone-girouard
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
