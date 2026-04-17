@@ -1,0 +1,10 @@
+Starting ephemeral Temporal worker...
+Exam pipeline worker started, listening on: exam-pipeline
+Executing workflow: exam-chemistry_professor_stem_a-1776460128
+  Scenarios: ['chemistry_professor_stem_a']
+  Dry run: False
+  Output: criminal-law/quiz-system/research/final-exam
+
+Note: If the workflow pauses for human review, run in another terminal:
+  uv run python -m ag_exams.cli approve exam-chemistry_professor_stem_a-1776460128
+
