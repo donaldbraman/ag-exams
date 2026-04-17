@@ -40,7 +40,7 @@
 #### agreement-inference: Inferring Agreement from Coordinated Conduct
 - **Rule:** Conspirators rarely announce their agreements. Courts infer agreement from coordinated conduct that has no plausible innocent explanation. No direct evidence—no written plan, no recorded conversation—is required.
 - **Source:** Dan Markel murder case (chapter introduction); Justice Coleridge's 1837 jury instruction (quoted in "Breaking Down the Elements")
-- **Trap:** Students say "there is no conspiracy because no one explicitly agreed" because they confuse the evidentiary standard (direct proof) with the legal standard (inferred agreement from coordinated conduct).
+- **Trap:** Students choose ["there is no conspiracy because no one explicitly agreed"] because they confuse [the evidentiary standard of direct proof] with [the legal standard of inferred agreement from coordinated conduct].
 - **Difficulty:** foundational
 - **Pivot fact:** If each communication and payment had an independent, plausible innocent explanation, the inference of agreement would fail.
 - **Jurisdiction:** universal
@@ -49,7 +49,7 @@
 #### interstate-circuit-adherence: Knowing Adherence Without Explicit Agreement
 - **Rule:** When parties know that concerted action is contemplated and invited, each party's knowing adherence to the scheme and participation in it can constitute agreement—even without explicit communication among all parties.
 - **Source:** *Interstate Circuit v. United States*, 306 U.S. 208 (1939)
-- **Trap:** Students say there was no agreement among the distributors because they never communicated with each other, missing that mutual awareness and parallel action can substitute for bilateral negotiation.
+- **Trap:** Students choose [that there was no agreement among the distributors because they never communicated with each other] because they confuse [the requirement of explicit communication or bilateral negotiation] with [the sufficiency of mutual awareness and parallel action].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the distributors had each independently reached the same pricing decision without seeing the O'Donnell letter that named all of them as addressees, the inference of agreement would be far weaker.
 - **Jurisdiction:** universal (federal antitrust origin but applied broadly)
@@ -58,7 +58,7 @@
 #### alvarez-minimal-inference: Agreement Inferred from Minimal Conduct
 - **Rule:** Courts have pushed the inference of agreement to its limit: a nod of the head and a smile, combined with surrounding circumstances, can be sufficient for a jury to infer conspiratorial agreement.
 - **Source:** *United States v. Alvarez*, 625 F.2d 1196 (5th Cir. 1980) (en banc)
-- **Trap:** Students think this is clearly insufficient and would vote to acquit, because they evaluate the nod in isolation rather than as part of the totality of circumstances.
+- **Trap:** Students choose [to acquit because the nod is clearly insufficient] because they confuse [evaluating the nod in isolation] with [evaluating the nod as part of the totality of circumstances].
 - **Difficulty:** advanced
 - **Pivot fact:** If Alvarez had simply unloaded his appliances and left without nodding or asking whether the agent was going on the plane, the en banc court may have found insufficient evidence.
 - **Jurisdiction:** majority (federal; some jurisdictions require stronger evidence)
@@ -67,7 +67,7 @@
 #### bilateral-unilateral: Bilateral vs. Unilateral Conspiracy (Undercover Agent Problem)
 - **Rule:** Traditional jurisdictions require bilateral agreement—two genuinely agreeing minds—so if the defendant's only coconspirator is a government agent, there is no conspiracy. The MPC and a majority of reformed state codes adopt the unilateral approach: the question is whether the defendant believed she was entering a genuine agreement and acted with the purpose to commit the crime; the agent's secret intentions are irrelevant.
 - **Source:** *State v. Pacheco*, 882 P.2d 183 (Wash. 1994) (bilateral); *Garcia v. State*, 394 N.E.2d 106 (Ind. 1979) (unilateral); MPC § 5.03
-- **Trap:** Students think the MPC approach is harsh and unusual, because they assume the common law bilateral rule is the majority position; in fact, a majority of reformed codes have adopted the unilateral approach.
+- **Trap:** Students choose [that the MPC approach is harsh and unusual] because they confuse [the common law bilateral rule being the majority position] with [the modern reality that a majority of reformed codes have adopted the unilateral approach].
 - **Difficulty:** intermediate
 - **Pivot fact:** Under the bilateral rule, the conspiracy conviction evaporates if the only agreeing party is an undercover agent; under the unilateral rule, the defendant's subjective belief of agreement is sufficient.
 - **Jurisdiction:** split (traditional/MPC) — traditional = bilateral; MPC/majority of reformed codes = unilateral
@@ -78,7 +78,7 @@
 #### mens-rea-purpose: Purpose Required Even When Underlying Crime Requires Less
 - **Rule:** Conspiracy is a specific intent crime requiring purpose to commit the target offense, even when the underlying crime itself would be satisfied by a lesser mental state (knowledge, recklessness, or general intent).
 - **Source:** Chapter text ("Breaking Down the Elements"); *State v. Pond* (cited rule)
-- **Trap:** Students say the conspiracy charge fails because the defendant only "knew" the others would commit the crime, not realizing that conspiracy requires *purpose*, not mere knowledge.
+- **Trap:** Students choose [to validate the conspiracy charge when the defendant only "knew" the others would commit the crime] because they confuse [mere knowledge of a crime] with [the specific purpose required to establish a conspiracy].
 - **Difficulty:** foundational
 - **Pivot fact:** If the defendant acted with purpose to commit the target crime, the conspiracy charge stands even if the underlying crime would require only knowledge or recklessness.
 - **Jurisdiction:** universal
@@ -87,7 +87,7 @@
 #### pond-specific-intent-elements: Specific Intent as to Every Element of the Target Offense
 - **Rule:** To be convicted of conspiracy to commit a crime, the defendant must specifically intend that every element of the planned offense be accomplished, including aggravating elements (e.g., use of a weapon) that carry no specific intent requirement for the principal.
 - **Source:** *State v. Pond*, 315 Conn. 451 (2015)
-- **Trap:** Students argue that because the principal (J) could commit armed robbery without specifically intending the weapon element, Pond (as conspirator) should be held to the same standard—missing the key move that conspiracy requires intent to *bring about* every element.
+- **Trap:** Students choose [that Pond should be held to the same mens rea standard as the principal for the weapon element] because they confuse [the mens rea required for the substantive offense] with [the specific intent required to bring about every element in a conspiracy].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Pond had been told that J planned to gesture as if armed, his conviction would be sustainable even under the majority rule.
 - **Jurisdiction:** majority (MPC and numerous jurisdictions; dissent notes the rule creates asymmetry)
@@ -96,7 +96,7 @@
 #### lauria-knowledge-vs-purpose: Knowledge vs. Purpose for Suppliers
 - **Rule:** A supplier of lawful goods or services who knows a customer will use them for criminal purposes is not a conspirator unless the supplier acts with the *purpose* of promoting the criminal enterprise. Knowledge alone is insufficient.
 - **Source:** *People v. Lauria*, 251 Cal. App. 2d 471 (1967)
-- **Trap:** Students say Lauria is guilty because he knew about the prostitution, confusing knowledge (knowing someone else will commit a crime) with purpose (wanting the crime to be committed).
+- **Trap:** Students choose [that Lauria is guilty because he knew about the prostitution] because they confuse [knowledge that someone else will commit a crime] with [purpose or wanting the crime to be committed].
 - **Difficulty:** foundational
 - **Pivot fact:** If Lauria had charged inflated prices reflecting a premium for criminal clients, or shared in the prostitutes' earnings, the inference of purpose would follow.
 - **Jurisdiction:** universal
@@ -105,7 +105,7 @@
 #### lauria-three-inferences: Lauria's Three Inferences of Purpose from Knowledge
 - **Rule:** Three circumstances allow a court to infer purpose from knowledge alone: (1) a stake in the venture (inflated prices, profit-sharing); (2) the product or service has no substantial legitimate use; (3) the crime is of such gravity that knowledge alone supports an intent inference.
 - **Source:** *People v. Lauria*, 251 Cal. App. 2d 471 (1967)
-- **Trap:** Students apply Lauria's factors as if all three must be present because they read the list as a conjunctive test rather than a disjunctive one where any single factor suffices.
+- **Trap:** Students choose [to apply Lauria's factors as if all three must be present] because they confuse [a conjunctive test requiring all factors] with [a disjunctive test where any single factor suffices].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Lauria's answering service had been explicitly advertised to prostitutes as a "discreet booking service," the stake or legitimate-use inference would likely flip the outcome.
 - **Jurisdiction:** universal (widely cited framework)
@@ -116,7 +116,7 @@
 #### overt-act-minimal: Overt Act Requirement Is Exceedingly Minimal
 - **Rule:** An overt act in furtherance of the conspiracy need not be illegal or substantial; it can be entirely legal and seemingly trivial—purchasing a plane ticket, making a phone call, checking out a library book.
 - **Source:** Chapter text ("Breaking Down the Elements"); *Hyde v. United States*, 225 U.S. 347, 388 (1912) (Holmes, J., dissenting)
-- **Trap:** Students say the overt act element requires a substantial preparatory step because they confuse the conspiracy overt act threshold with the "substantial step" test used for attempt.
+- **Trap:** Students choose [that the overt act element requires a substantial preparatory step] because they confuse [the "substantial step" test used for attempt] with [the minimal overt act threshold required for conspiracy].
 - **Difficulty:** foundational
 - **Pivot fact:** Under MPC § 5.03, conspiracy to commit a first- or second-degree felony does not require an overt act at all; the threshold matters for lesser offenses.
 - **Jurisdiction:** majority (most jurisdictions require overt act; MPC excuses it for serious felonies)
@@ -127,7 +127,7 @@
 #### pinkerton-doctrine: Pinkerton Vicarious Liability
 - **Rule:** Each conspirator is liable for the foreseeable substantive offenses committed by any coconspirator in furtherance of the conspiracy, even if the defendant did not directly participate or know of the specific act, so long as the conspiracy continues and the defendant has not withdrawn.
 - **Source:** *Pinkerton v. United States*, 328 U.S. 640 (1946)
-- **Trap:** Students say Daniel Pinkerton cannot be liable because he was in jail and did not participate in the specific crimes—missing that the ongoing conspiracy (which he never withdrew from) is the basis for liability.
+- **Trap:** Students choose [that Daniel Pinkerton cannot be liable because he was in jail and did not participate in the specific crimes] because they confuse [liability based on direct participation in specific crimes] with [liability based on an ongoing conspiracy from which he never withdrew].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Daniel had taken affirmative steps to communicate his withdrawal before Walter committed the substantive offenses, his liability would have ended.
 - **Jurisdiction:** split (traditional/MPC) — federal and many states = Pinkerton applies; MPC and majority of reformed codes reject Pinkerton
@@ -136,7 +136,7 @@
 #### pinkerton-mpc-rejection: MPC Rejection of Pinkerton
 - **Rule:** Under the MPC, a conspirator can only be held liable for a coconspirator's crimes if the traditional elements of accomplice liability are satisfied—the defendant must have actually aided, abetted, or encouraged the specific offense with purpose to promote it. Mere conspiracy membership is insufficient.
 - **Source:** MPC § 2.06; chapter note "The Model Penal Code Rejection of Pinkerton"
-- **Trap:** Students assume the MPC's rejection of Pinkerton reduces conspirator liability across the board because they overlook that the MPC separately elevates the purpose requirement, which independently constrains liability.
+- **Trap:** Students choose [that the MPC's rejection of Pinkerton reduces conspirator liability across the board] because they confuse [a general reduction in liability due to rejecting Pinkerton] with [the independent constraint on liability provided by the MPC's elevated purpose requirement].
 - **Difficulty:** intermediate
 - **Pivot fact:** Under the MPC, if A was the organizer and D stole a car knowing it would be used in a robbery, D is not liable for the robbery under conspiracy theory alone—the prosecution must prove D aided, abetted, or encouraged the robbery with purpose.
 - **Jurisdiction:** split (traditional/MPC)
@@ -147,7 +147,7 @@
 #### withdrawal-requirements: Withdrawal Is Demanding
 - **Rule:** To withdraw from a conspiracy, a defendant must (1) take affirmative steps to disavow or defeat the objectives of the conspiracy, and (2) communicate those acts to coconspirators or disclose the scheme to law enforcement. Getting cold feet is not enough.
 - **Source:** Chapter text ("Conspiracy as System Architecture" comparison table); slide 10 summary
-- **Trap:** Students say withdrawal is established by deciding not to participate or simply failing to show up because they treat a change of mind as legally sufficient without recognizing the affirmative-steps and communication requirements.
+- **Trap:** Students choose [that withdrawal is established by deciding not to participate or simply failing to show up] because they confuse [a mere change of mind or failure to appear] with [the legal requirement of affirmative steps and communication to withdraw].
 - **Difficulty:** foundational
 - **Pivot fact:** If Brad merely stopped answering Janet's calls but never disclosed the scheme to police or told her he was out, no effective withdrawal would occur; he would remain liable for subsequent acts.
 - **Jurisdiction:** universal (MPC and traditional both require affirmative steps; MPC focuses on terminating future liability)
@@ -158,7 +158,7 @@
 #### kotteakos-wheel: Wheel Conspiracy Without a Rim = Multiple Conspiracies
 - **Rule:** Where a central figure deals separately with multiple independent groups that have no knowledge of each other and no common purpose beyond their individual dealings, the result is multiple separate conspiracies, not a single overarching one. The "wheel without a rim" is the defining image.
 - **Source:** *Kotteakos v. United States*, 328 U.S. 750 (1946)
-- **Trap:** Students say there is one conspiracy because all the borrowers shared the same fraudulent scheme and the same central figure Brown—confusing a common criminal method with a shared criminal enterprise.
+- **Trap:** Students choose [that there is one conspiracy because all the borrowers shared the same fraudulent scheme and the same central figure Brown] because they confuse [a common criminal method] with [a shared criminal enterprise].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the borrowers knew of each other's participation and shared a common purpose (not merely individual fraudulent loans), the single-conspiracy theory would be viable.
 - **Jurisdiction:** universal
@@ -167,7 +167,7 @@
 #### scope-procedural-stakes: Scope Determines Who Is Tried Together and What Evidence Comes In
 - **Rule:** Whether conduct constitutes one conspiracy or many determines joinder (who is tried together), hearsay admissibility (coconspirator statements are admissible against all members of the *same* conspiracy), and Pinkerton liability. Mischarging a wheel as a single conspiracy is reversible error when prejudice results.
 - **Source:** *Kotteakos v. United States*; chapter discussion questions re: *Kotteakos*; Slide 27
-- **Trap:** Students treat the single-vs-multiple conspiracy question as merely academic because they miss that the answer determines whether each defendant's trial is contaminated by evidence generated by other, separate conspiracies.
+- **Trap:** Students choose [to treat the single-vs-multiple conspiracy question as merely academic] because they confuse [a purely theoretical or academic distinction] with [a procedural issue that determines whether a defendant's trial is contaminated by evidence from separate conspiracies].
 - **Difficulty:** advanced
 - **Pivot fact:** If all borrowers had been tried in separate trials, the hearsay statements of Brown and other borrowers would not have been admitted against each individual defendant.
 - **Jurisdiction:** universal
@@ -178,7 +178,7 @@
 #### whartons-rule: Wharton's Rule Bars Conspiracy Charges for Inherently Bilateral Crimes
 - **Rule:** When a crime by definition requires the participation of two persons (dueling, bigamy, adultery, incest, bribery), there is no separate conspiracy charge: the agreement is already an element of the offense. The rule is a rebuttable presumption, not a constitutional bar; legislatures can override it, and it does not apply if more persons participate than are logically necessary.
 - **Source:** Chapter text ("Structural Limits on Conspiracy"); *Iannelli v. United States*, 420 U.S. 770 (1975)
-- **Trap:** Students treat Wharton's Rule as an absolute categorical bar because they overlook that it is a rebuttable presumption that disappears when a third party participates or the legislature expressly overrides it.
+- **Trap:** Students choose [to treat Wharton's Rule as an absolute categorical bar] because they confuse [an absolute categorical bar to conspiracy charges] with [a rebuttable presumption that disappears when a third party participates or the legislature expressly overrides it].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a third-party intermediary helped arrange the bribery, the Wharton's Rule bar would not apply and a conspiracy charge could lie.
 - **Jurisdiction:** majority (judicial presumption; overridable by statute)
@@ -187,7 +187,7 @@
 #### gebardi-legislative-exemption: Legislative Exemption Bars Conspiracy Charges for Protected Class
 - **Rule:** When a legislature deliberately excludes one class of participants from criminal liability under a statute, that class cannot be prosecuted for conspiring to commit the offense. The exemption reflects a legislative policy judgment that should not be circumvented through conspiracy law.
 - **Source:** *Gebardi v. United States*, 287 U.S. 112 (1932); chapter text
-- **Trap:** Students say the woman in *Gebardi* can be charged with conspiracy because she voluntarily participated in the transportation—missing that the Mann Act's structure implicitly excluded the transported woman from liability, and conspiracy cannot restore what the statute withheld.
+- **Trap:** Students choose [that the woman in Gebardi can be charged with conspiracy because she voluntarily participated in the transportation] because they confuse [general voluntary participation establishing conspiracy liability] with [the statutory structure of the Mann Act implicitly excluding the transported woman from liability].
 - **Difficulty:** advanced
 - **Pivot fact:** If the statute had been silent on the transported woman's liability (rather than implicitly protecting her), the *Gebardi* principle would not apply.
 - **Jurisdiction:** universal (federal rule; widely applied)
@@ -198,7 +198,7 @@
 #### buyer-seller-exception: Buyer-Seller Relationship Alone Is Not Conspiracy
 - **Rule:** A simple agreement to purchase drugs for personal use or resale does not establish a conspiracy to distribute. Conspiracy requires a shared purpose to further distribution, evidenced by prolonged dealing, coded language, or credit arrangements ("fronting").
 - **Source:** *United States v. Pauling*, 924 F.3d 649 (2d Cir. 2019); chapter note "The Buyer-Seller Exception"
-- **Trap:** Students say any drug purchase agreement is automatically a conspiracy because both parties know drugs are illegal—missing that mere buyer-seller transactions lack the shared purpose to further distribution that conspiracy requires.
+- **Trap:** Students choose [that any drug purchase agreement is automatically a conspiracy because both parties know drugs are illegal] because they confuse [a mere buyer-seller transaction with mutual knowledge of illegality] with [an agreement with the shared purpose to further distribution that conspiracy requires].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the seller extended credit ("fronting"), demonstrating mutual investment in the buyer's continued distribution, the relationship would cross from buyer-seller to conspiracy.
 - **Jurisdiction:** majority (federal circuits; widely adopted)
@@ -209,7 +209,7 @@
 #### system-architecture-interactions: How Conspiracy Doctrine Features Interact
 - **Rule:** Unilateral conspiracy + substantial step (attempt) + mandatory minimums + civil asset forfeiture interact to produce government-manufactured prosecutions with built-in financial incentives and no demonstrated crime-reduction effect. Each feature is independently defensible; their combination enables a distinctive enforcement pathology.
 - **Source:** Chapter section "Conspiracy as System Architecture"; Slides 39, 40
-- **Trap:** Students evaluate each doctrinal feature (unilateral conspiracy, substantial step, mandatory minimums, asset forfeiture) in isolation and conclude each is defensible because they miss the emergent pathologies that arise only from the features' interaction.
+- **Trap:** Students choose [that the doctrinal features are defensible because they evaluate them in isolation] because they confuse [evaluating each doctrinal feature in isolation] with [recognizing the emergent pathologies that arise from the interaction of these features].
 - **Difficulty:** advanced
 - **Pivot fact:** If the federal Equitable Sharing Program were closed (eliminating the financial incentive), the frequency of reverse sting operations would likely fall significantly even without changing conspiracy doctrine.
 - **Jurisdiction:** federal only (Equitable Sharing is federal; some state features vary)
@@ -218,7 +218,7 @@
 #### prosecution-advantages: Procedural Advantages of Conspiracy Charges
 - **Rule:** Conspiracy charges provide prosecutors with: (1) additional punishment (conspiracy + substantive offense cumulation under traditional law); (2) flexible venue (any jurisdiction where an overt act occurred); (3) extended statute of limitations (runs from last act by any member); (4) coconspirator hearsay (statements by any member in furtherance are admissible against all); (5) joint trial (guilt-by-association risk); and (6) Pinkerton (expansive vicarious liability).
 - **Source:** Chapter text throughout; Slide 35 — "Benefits to Prosecution"
-- **Trap:** Students focus solely on elements and defenses when analyzing conspiracy charges because they overlook the procedural advantages (coconspirator hearsay, joint trial, flexible venue) that often determine outcomes as much as the substantive doctrine.
+- **Trap:** Students choose [to focus solely on elements and defenses when analyzing conspiracy charges] because they confuse [a strict focus on substantive elements and defenses] with [the procedural advantages that often determine outcomes as much as substantive doctrine].
 - **Difficulty:** intermediate
 - **Pivot fact:** If coconspirator hearsay were inadmissible in conspiracy trials, many multi-defendant prosecutions would collapse for lack of evidence.
 - **Jurisdiction:** universal (traditional); MPC eliminates cumulative punishment (merger rule)
@@ -227,7 +227,7 @@
 #### girlfriend-problem: Mandatory Minimums + Conspiracy Quantity Attribution
 - **Rule:** Because conspiracy holds each member liable for the *total quantity* handled by all coconspirators, and federal mandatory minimums are triggered by quantity, a peripheral participant can face the same sentence as the organizer. The primary escape valve—cooperation—requires information to trade, which minor participants typically lack.
 - **Source:** Chapter section "Drug Stings and Manufactured Conspiracy"
-- **Trap:** Students assume sentencing severity tracks individual culpability because they do not realize that mandatory minimums are triggered by the total quantity attributed to the entire conspiracy, not only what the individual defendant personally handled or agreed to.
+- **Trap:** Students choose [that sentencing severity tracks individual culpability] because they confuse [sentencing based on what the individual defendant personally handled or agreed to] with [mandatory minimums triggered by the total quantity attributed to the entire conspiracy].
 - **Difficulty:** advanced
 - **Pivot fact:** If quantity attribution for sentencing purposes were limited to the amount each defendant personally handled or agreed to, the disparity between organizer and peripheral participant would collapse.
 - **Jurisdiction:** federal only (federal mandatory minimums; state structures vary)

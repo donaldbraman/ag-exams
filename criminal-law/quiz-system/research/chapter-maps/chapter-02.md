@@ -43,7 +43,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### deterrence-rational-actor: The Rational Actor Assumption
 - **Rule:** Deterrence theory assumes individuals are rational actors who weigh costs and benefits; punishment deters crime by raising the cost side of the ledger.
 - **Source:** Bentham, *The Rationale of Punishment* (1830)
-- **Trap:** Students choose "deterrence always works" because they confuse the theoretical model with empirical reality — Bentham himself acknowledges punishment is an evil justified only where it produces net benefit.
+- **Trap:** Students choose ["deterrence always works"] because they confuse [the theoretical model of deterrence] with [the empirical reality that punishment is an evil justified only by a net social benefit].
 - **Difficulty:** foundational
 - **Pivot fact:** If offenders do not believe apprehension is likely, raising the severity of punishment alone will not deter; only increasing the *perceived* probability of punishment changes behavior.
 - **Jurisdiction:** universal
@@ -52,7 +52,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### deterrence-four-limits: Bentham's Four Conditions Against Punishment
 - **Rule:** Punishment ought not be inflicted where it is (1) groundless, (2) inefficacious, (3) too expensive relative to benefit, or (4) needless because the harm would cease without it.
 - **Source:** Bentham, *An Introduction to the Principles of Morals and Legislation*
-- **Trap:** Students choose "deterrence justifies all punishment" because they confuse Bentham's general endorsement of deterrence with his equally strong insistence that punishment itself is an evil to be minimized.
+- **Trap:** Students choose ["deterrence justifies all punishment"] because they confuse [Bentham's general endorsement of deterrence] with [his equally strong insistence that punishment itself is an evil to be minimized].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a particular crime produces trivial social harm, Bentham's framework requires *no* punishment even if enforcement would be technically possible.
 - **Jurisdiction:** universal
@@ -61,7 +61,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### deterrence-specific-general-incapacitation: Three Modes of Utilitarian Punishment
 - **Rule:** Utilitarian theory operates through three modes: specific deterrence (updating the offender's cost-benefit calculus), general deterrence (updating all potential offenders' calculations through public punishment), and incapacitation (removing undeterrable persons from society).
 - **Source:** Chapter note on Social Utility & Deterrence (lines 37-38)
-- **Trap:** Students choose "deterrence = general deterrence only" because they fail to distinguish the three modes and thus cannot explain why imprisonment for someone with no future criminal intent might still be justified on utilitarian grounds.
+- **Trap:** Students choose ["deterrence = general deterrence only"] because they confuse [general deterrence] with [the other modes of deterrence that can justify imprisonment for individuals with no future criminal intent on utilitarian grounds].
 - **Difficulty:** foundational
 - **Pivot fact:** If an offender is genuinely undeterrable (e.g., extreme addiction, mental illness), incapacitation becomes the only utilitarian justification; specific or general deterrence arguments collapse.
 - **Jurisdiction:** universal
@@ -72,7 +72,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### retribution-categorical-imperative: Punishment as Categorical Obligation
 - **Rule:** Kant holds that punishment must be imposed because justice demands it, not to serve any social purpose; to punish for social benefit alone is to treat the offender as a mere instrument, violating human dignity.
 - **Source:** Kant, *The Philosophy of Law* 194-98 (W. Hastie trans., 1887)
-- **Trap:** Students choose "retribution permits lenient sentences when no social harm results" because they confuse retributivism with consequentialism — Kant explicitly requires punishment even if society is about to dissolve.
+- **Trap:** Students choose ["retribution permits lenient sentences when no social harm results"] because they confuse [consequentialism] with [retributivism, where Kant explicitly requires punishment even if society is about to dissolve].
 - **Difficulty:** foundational
 - **Pivot fact:** If a murderer could be kept alive only by submitting to medical experiments, Kant would still prohibit that arrangement because it treats punishment as a bargaining chip.
 - **Jurisdiction:** universal
@@ -81,7 +81,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### retribution-proportionality: Proportionality as a Retributive Requirement
 - **Rule:** Retribution demands that punishment be proportional to the crime — neither more severe (which would be unjust to the offender) nor more lenient (which would fail justice for the victim).
 - **Source:** Chapter note on Retribution (lines 61-62)
-- **Trap:** Students choose "deterrence and retribution both support harsh sentences" because they miss that retribution *caps* punishment at what the crime deserves — using severe punishment to deter others exceeds what retribution permits.
+- **Trap:** Students choose ["deterrence and retribution both support harsh sentences"] because they confuse [deterrence's allowance for severe punishment to deter others] with [retribution's strict cap on punishment based on what the crime deserves].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a minor theft is punished harshly to deter an epidemic of theft, retributivism condemns the sentence as unjust even if the social utility calculus approves it.
 - **Jurisdiction:** universal
@@ -92,7 +92,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### expression-insult-message: Crime as Insulting Message
 - **Rule:** An immoral action sends a message challenging the victim's worth — the wrongdoer implicitly says "I count but you do not." This is distinct from merely causing harm.
 - **Source:** Hampton, *An Expressive Theory of Retribution* (1992), drawing on Murphy
-- **Trap:** Students choose "punishment is only about harm prevention" because they confuse the harm dimension of crime with its expressive/moral dimension — Hampton distinguishes actions that injure from actions that insult.
+- **Trap:** Students choose ["punishment is only about harm prevention"] because they confuse [the harm dimension of crime involving actions that injure] with [the expressive and moral dimension of crime involving actions that insult, as distinguished by Hampton].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a wrongdoer did not intend to demean the victim, Hampton argues the action is *still* insulting — the insult is structural, not merely intentional.
 - **Jurisdiction:** universal
@@ -101,7 +101,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### expression-proportionality-value: Proportionality as Value Communication
 - **Rule:** The severity of punishment communicates how much society values the victim; lenient punishment signals the victim was not worth protecting, which functions as a further injury.
 - **Source:** Hampton, *The Retributive Idea*, in Murphy & Hampton, *Forgiveness and Mercy* (1988)
-- **Trap:** Students choose "any punishment satisfies the expressive function" because they confuse the fact of punishment with its adequacy — Hampton explains that *under*punishment conveys that the victim lacked full value.
+- **Trap:** Students choose ["any punishment satisfies the expressive function"] because they confuse [the mere fact of punishment] with [the adequacy of punishment, where Hampton explains that underpunishment conveys the victim lacked full value].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a crime targeting a minority community results in a lenient sentence, the community may reasonably interpret the sentence as a signal of their diminished social value — not merely inadequate deterrence.
 - **Jurisdiction:** universal
@@ -110,7 +110,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### expression-community-signal: Community-Level Expressive Effects
 - **Rule:** When a persistent pattern of underpunishment tracks group membership, the message is not merely about individual victims but about the entire community's standing in society.
 - **Source:** Chapter note on Expressive Condemnation (lines 97-98)
-- **Trap:** Students choose "expressive theory only concerns individual victims" because they confuse Hampton's victim-focused account with its community-level implications developed in the chapter notes.
+- **Trap:** Students choose ["expressive theory only concerns individual victims"] because they confuse [Hampton's victim-focused account] with [the theory's broader community-level implications developed in the chapter notes].
 - **Difficulty:** advanced
 - **Pivot fact:** If enforcement disparities are reversed — if members of a previously disfavored group begin receiving proportionate punishment while the majority does not — the expressive message to the community changes.
 - **Jurisdiction:** universal
@@ -121,7 +121,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### rehabilitation-martinson-nothing-works: The "Nothing Works" Crisis
 - **Rule:** Robert Martinson's 1974 review of 231 correctional treatment studies was widely interpreted as concluding rehabilitation does not reduce recidivism, leading to a policy pivot toward incapacitation and deterrence.
 - **Source:** Chapter text on Rehabilitation (lines 103-104), citing Martinson, *What Works?*
-- **Trap:** Students choose "empirical research has proven rehabilitation fails" because they accept Martinson's popularized interpretation rather than the subsequent meta-analytic literature that has rehabilitated rehabilitation.
+- **Trap:** Students choose ["empirical research has proven rehabilitation fails"] because they confuse [Martinson's popularized interpretation that rehabilitation fails] with [the subsequent meta-analytic literature that has actually rehabilitated rehabilitation].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the 1974 timing had not coincided with spiking crime rates, Martinson's findings might have been read more cautiously rather than triggering a wholesale policy reversal.
 - **Jurisdiction:** universal
@@ -130,7 +130,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### rehabilitation-modern-evidence: Empirical Revival of Rehabilitation
 - **Rule:** Recent meta-analyses show correctional education reduces recidivism odds by 43% (RAND) and therapeutic community programs significantly reduce reoffending (Lancet); rehabilitation-focused prison systems (Norway) substantially reduce reoffending for unemployed persons.
 - **Source:** Chapter text on Rehabilitation (lines 105-107), citing RAND, NBER, *Lancet* meta-analysis, Canadian provincial prison study
-- **Trap:** Students choose "rehabilitation is proven effective across all contexts" because they over-generalize the positive findings — the chapter notes that some programs show modest or null effects and methodological weaknesses persist.
+- **Trap:** Students choose ["rehabilitation is proven effective across all contexts"] because they confuse [over-generalized positive findings] with [the reality that some programs show modest or null effects and methodological weaknesses persist].
 - **Difficulty:** intermediate
 - **Pivot fact:** If adequate funding and program quality cannot be ensured at scale, the positive recidivism results from well-designed programs may not translate to the U.S. mass incarceration context.
 - **Jurisdiction:** universal
@@ -141,7 +141,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### accountability-passive-vs-active: Punishment Is Passive; Accountability Is Active
 - **Rule:** Prison requires only that offenders endure their sentence — it is passive. Accountability requires acknowledging responsibility, acknowledging impact, expressing genuine remorse, repairing harm, and not reoffending; these demands cannot be met by mere suffering.
 - **Source:** Sered, *Until We Reckon: Violence, Mass Incarceration, and a Road to Repair* (2019) (lines 214-226)
-- **Trap:** Students choose "punishment and accountability are the same thing" because they confuse the state's imposition of suffering with the relational demands of genuine accountability — Sered argues prison is "nowhere softer on crime" precisely because it excuses offenders from facing what they have done.
+- **Trap:** Students choose ["punishment and accountability are the same thing"] because they confuse [the state's imposition of passive suffering] with [the relational demands of genuine accountability, where Sered notes prison excuses offenders from facing what they have done].
 - **Difficulty:** intermediate
 - **Pivot fact:** If an incarcerated person never confronts their victim or faces the human impact of their conduct, prison may have punished them without holding them accountable in any meaningful sense.
 - **Jurisdiction:** universal
@@ -150,7 +150,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### accountability-community-demand: Community Demand for Pro-Social Requirements
 - **Rule:** Inner-city families and communities want criminal sanctions to *require* offenders to take pro-social actions (drug treatment, work, family support) — not merely offer optional services — because passive incarceration reinforces irresponsibility and harms non-offenders.
 - **Source:** Braman, *Punishment and Accountability*, 53 UCLA L. Rev. 1143 (2006) (lines 163-191)
-- **Trap:** Students choose "accountability theory is just rehabilitation" because they miss the relational and community-harm dimension — Braman's interviewees want *mandatory* demands, and they are as concerned with what non-offenders deserve as with what offenders deserve.
+- **Trap:** Students choose ["accountability theory is just rehabilitation"] because they confuse [traditional rehabilitation focused only on the offender] with [accountability theory's relational and community-harm dimensions involving mandatory demands and non-offender concerns].
 - **Difficulty:** advanced
 - **Pivot fact:** If Derek's incarceration required drug treatment and work rather than mere confinement, Londa would still be harmed by his absence but would not experience the additional injury of his enforced unaccountability.
 - **Jurisdiction:** universal
@@ -159,7 +159,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### accountability-extends-all-three: Accountability Exceeds All Three Traditional Theories
 - **Rule:** Community preferences for accountability-reinforcing sanctions exceed what retribution, deterrence, and expressive condemnation explain: fairness concerns extend beyond desert, welfare concerns extend beyond offender deterrence to non-offender harms, and expressive concerns address responsible behavior norms beyond mere condemnation.
 - **Source:** Braman, *Punishment and Accountability* (lines 180-191)
-- **Trap:** Students choose "accountability theory is just a political gloss on retribution" because they miss the structural argument that the traditional theories are jointly incomplete — each is real but none captures the full set of community concerns.
+- **Trap:** Students choose ["accountability theory is just a political gloss on retribution"] because they confuse [retribution] with [a distinct accountability theory addressing the structural reality that traditional theories are jointly incomplete and fail to capture the full set of community concerns].
 - **Difficulty:** advanced
 - **Pivot fact:** If criminal law added mandatory restitution, drug treatment, and child support requirements, these measures would be expressive of responsible-behavior norms that go beyond condemnation — an addition Braman argues the traditional theories cannot fully explain.
 - **Jurisdiction:** universal
@@ -170,7 +170,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### restorative-justice-theory: Core Theory and Contrast with Punishment
 - **Rule:** Restorative justice emphasizes repairing harm and reintegrating offender and victim through facilitated processes, rather than imposing deserved suffering; it gives victims a meaningful voice and addresses underlying causes of offending.
 - **Source:** Chapter text on Restorative Justice (lines 232-239)
-- **Trap:** Students choose "restorative justice is insufficiently punitive" because they confuse punishment (passive suffering imposed by the state) with accountability (active repair demanded by the community) — critics' concern about leniency conflates these two concepts.
+- **Trap:** Students choose ["restorative justice is insufficiently punitive"] because they confuse [punishment as passive suffering imposed by the state] with [accountability as active repair demanded by the community].
 - **Difficulty:** foundational
 - **Pivot fact:** If a victim refuses to participate, restorative justice cannot function as designed — the process requires voluntary engagement in ways that traditional criminal prosecution does not.
 - **Jurisdiction:** majority/minority (growing but not universal adoption)
@@ -179,7 +179,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### restorative-justice-dv-rct: Empirical Support: Domestic Violence RCT
 - **Rule:** A randomized controlled trial of "Circles of Peace" for domestic violence offenders found 53% fewer new arrests and 52% lower crime severity scores over 24 months compared to standard batterer intervention alone.
 - **Source:** Mills, Barocas, Butters & Ariel, *A Randomized Controlled Trial*, 3 Nature Hum. Behav. 1284 (2019) (lines 241-251)
-- **Trap:** Students choose "restorative justice is inappropriate for domestic violence" because they accept the conventional critique without engaging the empirical evidence — the RCT explicitly tested the highest-skepticism context.
+- **Trap:** Students choose ["restorative justice is inappropriate for domestic violence"] because they confuse [the conventional critique of restorative justice] with [the empirical evidence from an RCT that explicitly tested and supported it in the highest-skepticism context].
 - **Difficulty:** intermediate
 - **Pivot fact:** If participation is not conditioned on victim consent, the protective benefits of the program could be reversed; the study required opt-in victim participation.
 - **Jurisdiction:** universal (evidence-based; not jurisdiction-specific)
@@ -188,7 +188,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### restorative-justice-expressive-overdetermination: Cross-Spectrum Political Support
 - **Rule:** Restorative justice attracts support across the political spectrum — progressives value rehabilitation and community involvement; conservatives value personal responsibility and concrete amends — a phenomenon scholars call "expressive overdetermination."
 - **Source:** Chapter text on Restorative Justice (lines 239)
-- **Trap:** Students choose "restorative justice is a progressive alternative to punishment" because they miss the conservative accountability dimension — the chapter explicitly notes the policy's bipartisan appeal.
+- **Trap:** Students choose ["restorative justice is a progressive alternative to punishment"] because they confuse [a purely progressive alternative to punishment] with [a policy containing a conservative accountability dimension that gives it explicit bipartisan appeal].
 - **Difficulty:** intermediate
 - **Pivot fact:** If framed only as rehabilitation, restorative justice loses conservative support; its political viability depends on simultaneously satisfying expressive demands from both ends of the spectrum.
 - **Jurisdiction:** universal
@@ -199,7 +199,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### corporate-theory-mismatch: Traditional Theories Fail for Corporations
 - **Rule:** Deterrence, retribution, expressive condemnation, and rehabilitation all presuppose a human offender; corporations cannot be imprisoned, feel no shame, and are not moral agents — the theories must be adapted or replaced for corporate defendants.
 - **Source:** Chapter text, Part II introduction (lines 285-286); Braman & Gabaldon, *A Charter for Justice*, 59 U.C. Davis L. Rev. 429 (2025)
-- **Trap:** Students choose "corporate fines are the corporate equivalent of individual punishment" because they assume the punishment framework transfers — the chapter argues fines function as a cost of doing business and fail the deterrence logic for highly profitable misconduct.
+- **Trap:** Students choose ["corporate fines are the corporate equivalent of individual punishment"] because they confuse [individual punishment frameworks] with [corporate fines that function merely as a cost of doing business and fail the deterrence logic for highly profitable misconduct].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a corporation anticipates that fines will be smaller than profits from the misconduct, no amount of fine-based deterrence will prevent the harm; structural restructuring is required.
 - **Jurisdiction:** universal
@@ -208,7 +208,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### corporate-charter-restructuring: Public Benefit Corporation as Accountability Tool
 - **Rule:** Unlike individuals, corporations' objective functions and operational routines can be directly altered through charter restructuring — a form of accountability impossible with human offenders; this approach fits the accountability-enhancing and restorative justice model.
 - **Source:** Braman & Gabaldon, *A Charter for Justice* (lines 302-305); Purdue Pharma restructuring (lines 308-327)
-- **Trap:** Students choose "the Purdue restructuring into a public benefit corporation is retributive punishment" because they confuse the form (corporate transformation) with the theory (restorative/accountability-focused, not retributive).
+- **Trap:** Students choose ["the Purdue restructuring into a public benefit corporation is retributive punishment"] because they confuse [the form of corporate transformation] with [the actual restorative and accountability-focused theory underlying it, which is not retributive].
 - **Difficulty:** advanced
 - **Pivot fact:** If the Sackler family retained ownership of the new entity, the restructuring would fail as accountability — it is the forfeiture of ownership alongside the mission change that gives the restructuring its accountability character.
 - **Jurisdiction:** federal (Purdue outcome under federal bankruptcy; charter restructuring varies by state)
@@ -219,7 +219,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### legitimacy-equal-application: Enforcement Must Track Conduct, Not Group Identity
 - **Rule:** Punishment theories presuppose a unified community applying universal principles; when enforcement tracks group membership, retribution cannot track desert, deterrence cannot send clear signals, and expressive condemnation fractures by sending different messages to different audiences.
 - **Source:** Chapter text, Part III (lines 346-350)
-- **Trap:** Students choose "political conflict about enforcement is irrelevant to punishment theory" because they treat theories as purely abstract — the chapter argues that perceived group-based enforcement destabilizes the theoretical foundations themselves.
+- **Trap:** Students choose ["political conflict about enforcement is irrelevant to punishment theory"] because they confuse [purely abstract theories of punishment] with [the reality that perceived group-based enforcement destabilizes those theoretical foundations themselves].
 - **Difficulty:** advanced
 - **Pivot fact:** If a significant portion of the population perceives enforcement as group-based domination rather than neutral justice, compliance declines and punishment becomes harder to justify even if the theory is otherwise sound.
 - **Jurisdiction:** universal
@@ -228,7 +228,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### legitimacy-attention-economy: Attention Economy Amplifies Enforcement Conflicts
 - **Rule:** Social media platforms reward moral-emotional content (each moral-emotional word raises spread by ~20%), outrage expression is learned through positive reinforcement, and out-group hostility is 4.8× more predictive of viral spread than negative emotion — this systematically amplifies perceived enforcement disparities.
 - **Source:** Chapter text on Attention Economy (lines 358-365), citing PNAS, *Science Advances*, Berry & Sobieraj
-- **Trap:** Students choose "political polarization is a separate problem from criminal law" because they miss the chapter's argument that the attention economy specifically targets criminal enforcement narratives as emotional and identity-laden content.
+- **Trap:** Students choose ["political polarization is a separate problem from criminal law"] because they confuse [general political polarization] with [the specific targeting of criminal enforcement narratives by the attention economy as emotional and identity-laden content].
 - **Difficulty:** advanced
 - **Pivot fact:** If platforms optimized for user satisfaction rather than engagement, outrage content about criminal enforcement would spread less virally — the structural incentive, not the underlying facts, drives amplification.
 - **Jurisdiction:** universal
@@ -237,7 +237,7 @@ Constraints on when punishment is justified or what forms it may legitimately ta
 #### legitimacy-mass-incarceration-scale: Scale of American Punishment System
 - **Rule:** The U.S. holds 20%+ of the world's prisoners despite having less than 5% of the world's population; nearly 2 million people are incarcerated; 1 in 3 Black boys can expect imprisonment; racial disparities pervade the system. These facts are not merely background — they constitute the empirical context within which any theory of punishment must operate.
 - **Source:** Chapter text on American Punishment System in Numbers (lines 125-128); Natapoff, *Punishment Without Crime* (2018) (lines 135-143)
-- **Trap:** Students choose "statistical disparities are sociological, not legal" because they separate the empirical reality from the theoretical frameworks — the chapter pairs the statistics directly with the theories to ask whether any theory can justify this system.
+- **Trap:** Students choose ["statistical disparities are sociological, not legal"] because they confuse [purely sociological data] with [empirical realities that directly implicate legal theoretical frameworks by questioning whether any theory can justify the system].
 - **Difficulty:** foundational
 - **Pivot fact:** If enforcement disparities in misdemeanor cases (whites are 75% more likely to have charges dropped or reduced) were reversed, the expressive theory would send a dramatically different message about whose liberty the system protects.
 - **Jurisdiction:** universal

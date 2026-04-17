@@ -206,6 +206,8 @@ def _print_usage() -> None:
     )
     print("  uv run python -m ag_exams approve WORKFLOW_ID [FEEDBACK]")
     print("  uv run python -m ag_exams status WORKFLOW_ID")
+    print("  uv run python -m ag_exams qa-maps [--chapter NUMBER | --all]")
+    print("  uv run python -m ag_exams fix-traps [--chapter NUMBER | --all]")
     sys.exit(1)
 
 
@@ -231,6 +233,34 @@ def main() -> None:
             print("Usage: status WORKFLOW_ID")
             sys.exit(1)
         asyncio.run(get_status(sys.argv[2]))
+    elif command == "qa-maps":
+        from ag_exams.qa_chapter_maps import run_all
+        import argparse
+        parser = argparse.ArgumentParser(prog="uv run python -m ag_exams qa-maps")
+        parser.add_argument("--chapter", "-c", type=int, help="Chapter number to QA")
+        parser.add_argument("--all", action="store_true", help="QA all chapters")
+        qa_args = parser.parse_args(sys.argv[2:])
+        
+        if qa_args.all:
+            asyncio.run(run_all())
+        elif qa_args.chapter:
+            asyncio.run(run_all([qa_args.chapter]))
+        else:
+            parser.print_help()
+    elif command == "fix-traps":
+        from ag_exams.fix_map_traps import run_all
+        import argparse
+        parser = argparse.ArgumentParser(prog="uv run python -m ag_exams fix-traps")
+        parser.add_argument("--chapter", "-c", type=int, help="Chapter number to fix")
+        parser.add_argument("--all", action="store_true", help="Fix all chapters")
+        fix_args = parser.parse_args(sys.argv[2:])
+        
+        if fix_args.all:
+            asyncio.run(run_all())
+        elif fix_args.chapter:
+            asyncio.run(run_all([fix_args.chapter]))
+        else:
+            parser.print_help()
     else:
         print(f"Unknown command: {command}")
         sys.exit(1)

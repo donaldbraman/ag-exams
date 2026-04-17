@@ -35,7 +35,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### criminal-law-vs-system: Criminal Law vs. Criminal Legal System
 - **Rule:** "Criminal law" refers to the agreed-upon norms about what constitutes a public wrong; the "criminal legal system" refers to the people, practices, and resources that enforce those norms. Both are aspirational and imperfect.
 - **Source:** Chapter introduction (lines 3–6)
-- **Trap:** Students conflate the two, treating systemic failures as inevitable features of the law rather than as design choices about how to allocate enforcement resources.
+- **Trap:** Students choose [to treat systemic failures as inevitable features of the law] because they confuse [inevitable features of the law] with [design choices about how to allocate enforcement resources].
 - **Difficulty:** foundational
 - **Pivot fact:** If a statute clearly criminalizes conduct but enforcement resources are never deployed, the criminal law exists but the system has chosen not to enforce it — the two can diverge sharply.
 - **Jurisdiction:** universal
@@ -44,7 +44,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### classical-model-exception: The Classical Model as Exception
 - **Rule:** The idealized account of criminal justice (crime → report → investigate → arrest → charge → trial → verdict → sentence → appeal) is, in contemporary American practice, an increasingly rare exception rather than the rule. Most cases are resolved through plea bargaining without trial.
 - **Source:** Chapter introduction (lines 5–7)
-- **Trap:** Students assume the appellate cases they read represent typical criminal justice. They do not — they represent the rare cases that survived to appellate review, systematically excluding the mass processing of low-level offenses.
+- **Trap:** Students choose [that appellate cases represent typical criminal justice] because they confuse [the rare cases that survived to appellate review] with [typical criminal justice involving the mass processing of low-level offenses].
 - **Difficulty:** foundational
 - **Pivot fact:** If a defendant cannot afford counsel or bail, the classical model's safeguards often collapse entirely, producing outcomes determined by institutional pressure rather than evidence.
 - **Jurisdiction:** universal
@@ -53,7 +53,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### procedural-justice-four-principles: The Four Principles of Procedural Justice
 - **Rule:** Research consistently shows that public trust in the criminal justice system depends on four meta-norms: (1) voice — giving every person an opportunity to tell their story; (2) neutrality — making decisions based on consistent, transparent reasoning; (3) respect — treating people with dignity and professionalism; (4) trustworthiness — acting with genuine concern for well-being.
 - **Source:** Chapter § "Criminal Law, Trust, and Democracy" (lines 17–19)
-- **Trap:** Students treat procedural justice as a legal standard with legal consequences. It is an empirical framework for evaluating systemic legitimacy, not a doctrine that triggers liability or reversal.
+- **Trap:** Students choose [procedural justice as a legal standard that triggers liability or reversal] because they confuse [a legal doctrine with legal consequences] with [an empirical framework for evaluating systemic legitimacy].
 - **Difficulty:** foundational
 - **Pivot fact:** A system that produces correct outcomes but does so through disrespectful, opaque, or coercive processes loses legitimacy even if the outcomes are accurate — the process itself damages trust.
 - **Jurisdiction:** universal
@@ -62,7 +62,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### status-competition-and-criminal-law: Status Competition and Criminalization
 - **Rule:** Because the criminal law targets serious wrongs, it is often a site of intense status competition between social groups. Proxy battles over specific rules (which drugs or sexual acts to criminalize) are frequently battles over whose values govern and who holds power. This can cause people to punish conduct based on symbolic group conflict rather than actual harm.
 - **Source:** Chapter § "Criminal Law, Trust, and Democracy" (lines 11–13)
-- **Trap:** Students assume that criminalization decisions track harm. Research shows that value conflicts can cause people to perceive conduct as harmful irrespective of evidence, so the legal status of conduct does not reliably track its actual social costs.
+- **Trap:** Students choose [that criminalization decisions track actual social harm] because they confuse [criminalization based on value conflicts and perceptions] with [criminalization based on actual evidence of social costs].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a behavior is criminalized primarily because it signals a different moral worldview rather than because it causes measurable harm, the resulting enforcement erodes democratic legitimacy even if the law is technically valid.
 - **Jurisdiction:** universal
@@ -71,7 +71,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### anticitizenship-and-trust: Anticitizenship and Democratic Legitimacy
 - **Rule:** Repeated encounters with the criminal legal system characterized by suspicion, coercion, and disrespect "educate" citizens about their relationship to the state in ways that produce what scholars call "anticitizenry" — individuals who have learned through experience that the state is not their ally. This directly undermines democratic participation.
 - **Source:** Chapter § "Criminal Law, Trust, and Democracy" (lines 21–25), citing Justice & Meares
-- **Trap:** Students focus on individual outcomes (was this person wrongly convicted?) rather than systemic effects (what does the pattern of enforcement teach communities about government legitimacy?).
+- **Trap:** Students choose [to focus solely on individual outcomes] because they confuse [individual outcomes like wrongful convictions] with [systemic effects regarding patterns of enforcement and government legitimacy].
 - **Difficulty:** intermediate
 - **Pivot fact:** If enforcement patterns shift so that the same communities experiencing aggressive policing for minor infractions also receive robust protection from serious crimes, the legitimacy-eroding effect can be reversed.
 - **Jurisdiction:** universal
@@ -82,7 +82,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### purpose-defined: Purpose (Intent)
 - **Rule:** A defendant acts with *purpose* when it is their conscious object to cause a particular result or to engage in particular conduct. This is the highest level of criminal culpability.
 - **Source:** Chapter § "The Asymmetry of Enforcement" (lines 99–101); illustrated by Garcia conviction
-- **Trap:** Students use "intentional" and "purposeful" interchangeably when some jurisdictions distinguish them (MPC uses "purpose"; common law uses "intent"). The terms map differently across frameworks.
+- **Trap:** Students choose [to use "intentional" and "purposeful" interchangeably] because they confuse [the Model Penal Code's use of "purpose"] with [the common law's use of "intent"].
 - **Difficulty:** foundational
 - **Pivot fact:** Garcia pulled the trigger after stalking Markel — the specific targeting shows his conscious object was Markel's death, not merely that he was reckless about the risk.
 - **Jurisdiction:** split (traditional/MPC)
@@ -91,7 +91,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### knowledge-defined: Knowledge
 - **Rule:** A defendant acts with *knowledge* when they are aware that a particular result is nearly certain to follow from their conduct, even if they do not specifically intend it.
 - **Source:** Chapter § "The Asymmetry of Enforcement" (lines 99–101)
-- **Trap:** Students conflate knowledge with purpose. The distinction matters: a defendant who knows death is virtually certain but whose conscious object is something else (e.g., financial gain) acts with knowledge, not purpose.
+- **Trap:** Students choose [that a defendant acts with purpose when they know an outcome is virtually certain] because they confuse [knowledge that an outcome is virtually certain] with [the conscious object or purpose to cause that outcome].
 - **Difficulty:** foundational
 - **Pivot fact:** An executive who markets an addictive drug knowing the death toll will rise but whose primary objective is revenue acts with knowledge (near-certain harm) rather than purpose (harm as the goal itself).
 - **Jurisdiction:** split (traditional/MPC)
@@ -100,7 +100,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### recklessness-defined: Recklessness
 - **Rule:** A defendant acts with *recklessness* when they consciously disregard a substantial and unjustifiable risk that a prohibited result will occur. Recklessness requires awareness of the risk — unlike negligence, which requires only that a reasonable person would have been aware.
 - **Source:** Chapter § "The Asymmetry of Enforcement" (lines 99–101)
-- **Trap:** Students think recklessness is just "taking risks." The key distinguishing element is conscious disregard — the defendant must have been subjectively aware of the risk and chosen to proceed anyway.
+- **Trap:** Students choose [that recklessness is merely taking risks] because they confuse [objective risk-taking without awareness] with [conscious disregard where the defendant is subjectively aware of the risk].
 - **Difficulty:** foundational
 - **Pivot fact:** If Purdue executives were aware through internal documents that their drug caused widespread addiction and death, yet proceeded without adequate warning, they acted recklessly even if their purpose was only profit.
 - **Jurisdiction:** split (traditional/MPC)
@@ -109,7 +109,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### negligence-defined: Negligence
 - **Rule:** A defendant acts with *negligence* when they fail to perceive a substantial and unjustifiable risk that a reasonable person would have recognized. Unlike recklessness, negligence requires no subjective awareness of the risk.
 - **Source:** Chapter § "The Asymmetry of Enforcement" (lines 99–101)
-- **Trap:** Students import the civil negligence standard without recognizing that criminal and civil negligence standards may differ (the distinction is developed in later chapters; Chapter 1 introduces only the basic definition).
+- **Trap:** Students choose [to apply the civil negligence standard to criminal cases] because they confuse [the civil negligence standard] with [the distinct criminal negligence standard].
 - **Difficulty:** foundational
 - **Pivot fact:** If an executive genuinely had no access to evidence about addiction risks (no internal memos, no sales data), they might be negligent rather than reckless — though the chapter strongly implies this was not the case for Purdue.
 - **Jurisdiction:** split (traditional/MPC)
@@ -118,7 +118,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### mens-rea-hierarchy: The Mens Rea Hierarchy and Its Significance
 - **Rule:** The four mental states form a hierarchy of culpability: purpose > knowledge > recklessness > negligence. Higher culpability corresponds to more serious charges and greater punishment. The same physical act can produce vastly different charges depending on which mental state is proven.
 - **Source:** Chapter § "The Asymmetry of Enforcement" (lines 99–101); illustrated by contrast between Garcia (purpose → life) and Purdue executives (strict liability misdemeanor → probation)
-- **Trap:** Students focus on what the defendant did rather than what mental state the prosecution can prove. Proof of the higher mental state is often the hardest part of the case and determines the severity of charges.
+- **Trap:** Students choose [to focus entirely on the defendant's acts rather than the required mental state] because they confuse [the objective conduct of the defendant] with [the specific mental state the prosecution must prove for the charge].
 - **Difficulty:** intermediate
 - **Pivot fact:** The Purdue executives were charged under a strict liability misdemeanor (Park Doctrine) precisely because proving knowledge or recklessness was deemed too difficult — the mental state dictated the charge, not the severity of the harm.
 - **Jurisdiction:** split (traditional/MPC)
@@ -129,7 +129,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### actus-reus-prerequisite: Actus Reus as a Prerequisite
 - **Rule:** A crime requires some form of conduct — the actus reus or "bad act." In homicide, the conduct is causing the death of a human being. No mental state, however culpable, suffices without a corresponding prohibited act.
 - **Source:** Chapter § "The Asymmetry of Enforcement" (lines 99)
-- **Trap:** Students sometimes reason that sufficiently bad intent should be enough for criminal liability. The actus reus requirement functions as a constraint: Chapter 1 states that a crime requires "some form of conduct" — the specific implication that thoughts alone are not punishable is a general principle developed more fully in later chapters.
+- **Trap:** Students choose [that sufficiently bad intent alone is enough for criminal liability] because they confuse [punishable thoughts or bad intent] with [the actus reus requirement that a crime requires some form of conduct].
 - **Difficulty:** foundational
 - **Pivot fact:** If Purdue's executives held meetings planning to obscure addiction risks but never actually implemented the plan, actus reus would be absent — the criminal conduct required the actual marketing campaign, not merely the intent behind it.
 - **Jurisdiction:** universal
@@ -138,7 +138,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### park-doctrine-strict-liability: Park Doctrine and Strict Liability Misdemeanors
 - **Rule:** The Park Doctrine allows prosecutors to charge corporate officers with "misbranding" as a strict liability misdemeanor — meaning no proof of mental state is required. This creates a strategic off-ramp: executives can plead guilty without admitting they knew about or were reckless toward the risks of their products.
 - **Source:** Chapter § "United States v. Purdue Pharma" (lines 87–89)
-- **Trap:** Students assume that a guilty plea to a criminal charge establishes moral culpability for the underlying harm. A strict liability plea requires no mental state and allows executives to resolve a case without ever admitting awareness of the harm they caused.
+- **Trap:** Students choose [that a guilty plea to a strict liability charge establishes moral culpability or awareness of harm] because they confuse [a strict liability plea requiring no mental state] with [a plea establishing actual moral culpability for the underlying harm].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the Park Doctrine did not exist, prosecutors would have had to prove the executives acted with knowledge or recklessness — a much higher bar that might have led to acquittal rather than allowing the plea to a lesser charge.
 - **Jurisdiction:** federal only
@@ -149,7 +149,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### over-enforcement-minor-offenses: Over-Enforcement of Minor Offenses
 - **Rule:** The American criminal legal system aggressively polices minor offenses and technical violations, particularly in low-income communities. "Pretextual stops" justify minor-violation stops as opportunities to search for other evidence. The costs include extraction of wealth from poor communities, erosion of public trust, and civic education in state-as-predator.
 - **Source:** Chapter § "City of Ferguson v. Keilee Fant" (lines 47–67); § "The Asymmetry of Enforcement" (lines 103–108)
-- **Trap:** Students treat the severity of an offense as the primary driver of enforcement intensity. In practice, enforcement intensity is often inversely related to severity — the system deploys enormous resources to minor offenses against people without power while leaving serious corporate crimes unprosecuted.
+- **Trap:** Students choose [that the severity of an offense is the primary driver of enforcement intensity] because they confuse [high enforcement intensity for minor offenses against people without power] with [the actual severity of the offenses including unprosecuted serious corporate crimes].
 - **Difficulty:** intermediate
 - **Pivot fact:** Ferguson issued over 32,000 warrants for a population of 21,000 — more warrants than residents — demonstrating that enforcement was organized around revenue extraction rather than public safety.
 - **Jurisdiction:** universal
@@ -158,7 +158,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### under-enforcement-corporate-harm: Under-Enforcement of Corporate Harm
 - **Rule:** The American criminal legal system is extremely deferential to powerful actors. Corporate conduct that kills far more Americans than all violent crime combined proceeds largely without criminal enforcement. The costs are measured in preventable deaths and the loss of trust that comes from treating the powerful with far greater deference than those without means.
 - **Source:** Chapter § "United States v. Purdue Pharma" (lines 71–89); § "The Asymmetry of Enforcement" (lines 93–108)
-- **Trap:** Students assume that the severity of harm drives prosecution decisions. The chapter shows that the opposite is often true: severity of harm, when it implicates powerful actors, may actually reduce the likelihood of prosecution because of political resistance and legal complexity.
+- **Trap:** Students choose [that the severity of harm always drives prosecution decisions] because they confuse [the reduced likelihood of prosecution for severe harms implicating powerful actors] with [a straightforward system where prosecution decisions track the severity of harm].
 - **Difficulty:** intermediate
 - **Pivot fact:** Purdue Pharma's $600 million fine was readily absorbed by a company generating billions in annual revenue from the same product that caused the harm — the fine had no deterrent effect because it was cheaper than compliance would have been.
 - **Jurisdiction:** universal
@@ -167,7 +167,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### pretextual-stops-logic-and-reality: Pretextual Stops: Logic vs. Reality
 - **Rule:** Pretextual stops use minor traffic or equipment violations as legal justification to conduct searches beyond the stated reason for the stop. Proponents argue this deters crime generally and surfaces weapons or fugitives. In practice, officers are often posted where technical violations are common in low-income communities, with high-volume stops as a countable output rather than a public safety tool.
 - **Source:** Chapter § "City of Ferguson v. Keilee Fant," callout box (lines 51–57)
-- **Trap:** Students accept the stated public-safety rationale without questioning the empirical premises. The chapter explicitly flags this rationale as "highly disputed" — the justification and the reality of pretextual stops diverge substantially.
+- **Trap:** Students choose [to accept the stated public-safety rationale for stops without questioning its empirical premises] because they confuse [the stated public-safety justification] with [the highly disputed reality of pretextual stops].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the high-volume stop strategy genuinely reduced serious crime rates in proportion to its costs (wealth extraction, lost trust), the legitimacy calculus would be different — the chapter implies the evidence does not support this tradeoff.
 - **Jurisdiction:** universal
@@ -176,7 +176,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### case-method-blind-spot: The Case Method's Systematic Blind Spot
 - **Rule:** Traditional legal education using the case method (reading appellate opinions) creates a systematic blind spot: it teaches the law as applied in the rare cases that survived to appellate review. This excludes both the mass processing of the poor (resolved by plea, generating no appellate law) and the near-total immunity of the powerful (rarely prosecuted, generating no appellate law either).
 - **Source:** Chapter § "Thinking Like a System Architect" (lines 116–118)
-- **Trap:** Students treat the cases in the casebook as representative samples of criminal justice. They are not — they are selected examples that are systematically unrepresentative of how criminal justice actually operates.
+- **Trap:** Students choose [that the cases in the casebook represent typical criminal justice operations] because they confuse [systematically unrepresentative selected examples found in the casebook] with [representative samples of how criminal justice actually operates].
 - **Difficulty:** advanced
 - **Pivot fact:** If future prosecutors are trained only on this canonical appellate law, they may lack the tools to prosecute corporate crime effectively and may simply replicate historical enforcement patterns — the educational structure of law school has downstream effects on prosecution policy.
 - **Jurisdiction:** universal
@@ -185,7 +185,7 @@ None applicable — this chapter introduces the idea that structural features of
 #### human-centered-design-reform: Human-Centered Design as a Reform Framework
 - **Rule:** Human-Centered Design (HCD) is a cyclical reform process: understand the problem (listening to affected people) → imagine better alternatives (convene stakeholders) → pilot interventions at small scale → evaluate rigorously against community-defined metrics → adopt, adapt, or abandon based on evidence. It is increasingly adopted by prosecutors and government officials across the ideological spectrum.
 - **Source:** Chapter § "Thinking Like a System Architect" (lines 126–131)
-- **Trap:** Students see HCD as a management theory irrelevant to legal doctrine. The chapter presents it as the technical methodology that complements procedural justice's moral architecture — together they provide a framework for evidence-based reform of the criminal legal system.
+- **Trap:** Students choose [that Human-Centered Design (HCD) is a management theory irrelevant to legal doctrine] because they confuse [a management theory irrelevant to legal doctrine] with [a technical methodology that complements procedural justice for evidence-based reform].
 - **Difficulty:** advanced
 - **Pivot fact:** Without a structured feedback loop (pilot → evaluate → adopt/abandon), well-intentioned reforms may persist even when evidence shows they are harmful — the HCD cycle is designed to prevent institutional entrenchment of failed practices.
 - **Jurisdiction:** universal

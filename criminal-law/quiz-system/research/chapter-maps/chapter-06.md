@@ -48,7 +48,7 @@ For exam purposes, the core analytical framework is:
 #### absolute-immunity-scope: Absolute Immunity for Prosecutorial Functions
 - **Rule:** Prosecutors are absolutely immune from civil liability under § 1983 for conduct "intimately associated with the judicial phase of the criminal process," including intentional suppression and even destruction of exculpatory evidence, as long as the conduct is framed as a prosecutorial decision rather than an administrative or investigative act.
 - **Source:** *Price v. Montgomery County*, 72 F.4th 711 (6th Cir. 2023); *Imbler v. Pachtman*, 424 U.S. 409 (1976)
-- **Trap:** Students assume that egregious misconduct (telling a witness to destroy court-ordered evidence) breaks through immunity because they conflate the "shocks the conscience" standard from substantive due process with the functional test for immunity. Immunity attaches to the *function*, not the degree of misconduct.
+- **Trap:** Students choose [egregious misconduct breaks through immunity] because they confuse [the "shocks the conscience" standard from substantive due process] with [the functional test for immunity].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the prosecutor's conduct occurs during investigation rather than the judicial phase — e.g., directing police during an arrest rather than advising a witness during litigation — qualified rather than absolute immunity may apply.
 - **Jurisdiction:** universal (federal § 1983 doctrine; state analogues vary)
@@ -57,7 +57,7 @@ For exam purposes, the core analytical framework is:
 #### ethics-law-gap: The Gap Between Ethics and Legal Accountability
 - **Rule:** Conduct that is "ethically reprehensible" under bar rules and the *Berger* standard may nonetheless be legally immunized. Professional discipline and reversal on appeal are the only practical remedies when civil immunity applies.
 - **Source:** *Price v. Montgomery County* (Readler, J., majority: "ethically reprehensible — but legally protected")
-- **Trap:** Students conclude that if conduct violates the *Berger* standard it is also actionable in court, conflating professional ethics with constitutional rights.
+- **Trap:** Students choose [conduct that violates the *Berger* standard is actionable in court] because they confuse [professional ethics] with [constitutional rights].
 - **Difficulty:** foundational
 - **Pivot fact:** If the victim of prosecutorial misconduct can show a *Brady* violation leading to wrongful conviction, post-conviction relief (not civil damages) is the avenue — the structural remedy differs from the civil one.
 - **Jurisdiction:** universal
@@ -66,7 +66,7 @@ For exam purposes, the core analytical framework is:
 #### historical-foundations-critique: Historical Foundations of Immunity May Be Shaky
 - **Rule:** Recent scholarship suggests the common law at the time of § 1983's enactment did not recognize immunity as broad as *Imbler* established — meaning the entire edifice of absolute and qualified immunity may rest on questionable historical foundations.
 - **Source:** *Price v. Montgomery County*, Nalbandian, J., concurring
-- **Trap:** Students treat *Imbler* as settled constitutional text rather than a policy choice the Court could revisit.
+- **Trap:** Students choose [*Imbler* is settled constitutional text] because they confuse [a policy choice the Court could revisit] with [settled constitutional text].
 - **Difficulty:** advanced
 - **Pivot fact:** If the Supreme Court re-examines *Imbler* under originalist methodology (as Nalbandian's concurrence invites), absolute immunity could contract significantly.
 - **Jurisdiction:** federal only (§ 1983; state tort immunity varies by state)
@@ -77,7 +77,7 @@ For exam purposes, the core analytical framework is:
 #### cvra-pre-charge-black-hole: CVRA Rights Attach Only After Formal Charges
 - **Rule:** The Crime Victims' Rights Act grants victims the right to confer with prosecutors, but that right attaches only after formal criminal proceedings are instituted. A prosecutor's decision to resolve a case through a pre-charge non-prosecution agreement — even one concealed from victims — is unreviewable under the CVRA.
 - **Source:** *Doe v. United States* (*In re Wild*), 994 F.3d 1244 (11th Cir. 2021) (en banc) (the Epstein case)
-- **Trap:** Students assume that conduct that violates the statute's spirit (deceiving victims while negotiating) necessarily violates its letter. The court held that when no "criminal proceeding" exists, the statute simply does not apply, regardless of what prosecutors told victims.
+- **Trap:** Students choose [conduct violating the statute's spirit necessarily violates its letter] because they confuse [violating the spirit of the statute (deceiving victims)] with [violating the letter of the statute (requiring a "criminal proceeding")].
 - **Difficulty:** intermediate
 - **Pivot fact:** If federal charges had been formally filed before the NPA was negotiated, CVRA rights would have attached and the secret deal would have been legally problematic.
 - **Jurisdiction:** federal only (18 U.S.C. § 3771; state victim rights statutes vary widely)
@@ -86,7 +86,7 @@ For exam purposes, the core analytical framework is:
 #### executive-discretion-vs-victim-rights: Executive Charging Discretion Limits Judicial Oversight of Pre-Charge Deals
 - **Rule:** Extending judicial oversight to pre-charge negotiations would infringe on the Executive's exclusive power to decide whether to prosecute. The prosecutorial discretion to *not* charge is so absolute that it creates a domain — the "pre-charge black hole" — where victims have no statutory standing.
 - **Source:** *In re Wild* (majority reasoning)
-- **Trap:** Students conflate legal accountability (which the court found absent) with political accountability (which forced the prosecutor's resignation). The distinction between legal and political accountability is the core teaching of this case.
+- **Trap:** Students choose [legal accountability is present when political accountability forces a resignation] because they confuse [legal accountability (which the court found absent)] with [political accountability (which forced the prosecutor's resignation)].
 - **Difficulty:** intermediate
 - **Pivot fact:** Congressional amendment of the CVRA to expressly apply pre-charge would override the court's statutory interpretation — this is a legislative fix, not a constitutional one.
 - **Jurisdiction:** federal only
@@ -97,7 +97,7 @@ For exam purposes, the core analytical framework is:
 #### code-expansion-one-way-ratchet: Criminal Code Expansion Creates a One-Way Ratchet
 - **Rule:** Legislative incentives are asymmetrically skewed toward criminalization: legislators face political credit for being "tough" when adding offenses and political blame when removing them. Criminal codes therefore expand but rarely contract, giving prosecutors an ever-wider menu of charges.
 - **Source:** Chapter analysis (citing Stuntz); *United States v. Batchelder*, 442 U.S. 114 (1979)
-- **Trap:** Students assume that legislative overcriminalization is a temporary problem subject to correction. The chapter argues the dynamics that produced it remain in place — reform requires unusual political conditions (fiscal pressure or cross-ideological coalitions).
+- **Trap:** Students choose [legislative overcriminalization is a temporary problem subject to correction] because they confuse [a temporary problem subject to correction] with [a permanent dynamic requiring unusual political conditions for reform].
 - **Difficulty:** foundational
 - **Pivot fact:** When a legislature faces unusual fiscal pressure (e.g., prison overcrowding crises), the ratchet can be partially reversed, as the First Step Act demonstrated for § 924(c).
 - **Jurisdiction:** universal (federal and state)
@@ -106,7 +106,7 @@ For exam purposes, the core analytical framework is:
 #### batchelder-overlapping-statutes: Prosecutorial Discretion to Choose Among Overlapping Statutes Is Unreviewable
 - **Rule:** When the same conduct is covered by two statutes carrying different maximum penalties, the prosecutor has unreviewable discretion to charge under whichever statute she chooses, including the one with the harsher penalty. This does not violate equal protection or due process.
 - **Source:** *United States v. Batchelder*, 442 U.S. 114 (1979)
-- **Trap:** Students argue that choosing the harsher of two applicable statutes is vindictive or unconstitutionally punitive. *Batchelder* forecloses this: the availability of overlapping statutes is a feature the Court blessed, not a constitutional defect.
+- **Trap:** Students choose [choosing the harsher of two applicable statutes is vindictive or unconstitutionally punitive] because they confuse [an unconstitutional defect or vindictiveness] with [a permissible feature of overlapping statutes blessed by *Batchelder*].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the prosecutor selects the harsher statute *because* of the defendant's race (proven with discriminatory purpose evidence), an equal protection claim survives — but the standard is nearly impossible to meet.
 - **Jurisdiction:** universal
@@ -115,7 +115,7 @@ For exam purposes, the core analytical framework is:
 #### plea-bargaining-trial-penalty: Plea Bargaining and the Trial Penalty Are Constitutional
 - **Rule:** A prosecutor does not violate due process by threatening to seek a more serious charge (carrying a much harsher sentence) if the defendant refuses a plea offer, so long as probable cause supports the threatened charge. The "trial penalty" — sentences three to ten times longer for those who go to trial — is a permissible attribute of a system that tolerates plea bargaining.
 - **Source:** *Bordenkircher v. Hayes*, 434 U.S. 357 (1978)
-- **Trap:** Students apply the vindictive prosecution doctrine (which protects defendants from retaliatory charges *after* they exercise rights) to plea negotiation threats *before* trial. *Bordenkircher* holds that pre-trial threats do not trigger vindictiveness doctrine so long as probable cause exists.
+- **Trap:** Students choose [the vindictive prosecution doctrine applies to plea negotiation threats before trial] because they confuse [post-rights exercise retaliatory charges (vindictive prosecution)] with [pre-trial plea negotiation threats supported by probable cause (*Bordenkircher*)].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the prosecutor lacks probable cause to support the threatened charge, the threat may constitute impermissible coercion — but probable cause is a low threshold easily met.
 - **Jurisdiction:** universal
@@ -124,7 +124,7 @@ For exam purposes, the core analytical framework is:
 #### mandatory-minimums-power-transfer: Mandatory Minimums Transfer Sentencing Power from Judges to Prosecutors
 - **Rule:** By selecting charges that trigger mandatory minimums, prosecutors effectively determine sentences before any judge is involved. A prosecutor who adds a § 924(c) firearms count converts judicial discretion into a ministerial function — the judge cannot impose less than the mandatory term.
 - **Source:** *United States v. Angelos*, 345 F. Supp. 2d 1227 (D. Utah 2004); 18 U.S.C. § 924(c) (pre-First Step Act)
-- **Trap:** Students assume judges retain meaningful sentencing discretion when mandatory minimums apply. *Angelos* illustrates the opposite: Judge Cassell called the 55-year sentence "unjust, cruel, and irrational" but had no legal authority to impose less.
+- **Trap:** Students choose [judges retain meaningful sentencing discretion when mandatory minimums apply] because they confuse [meaningful sentencing discretion] with [a lack of legal authority to impose less than the mandatory minimum (*Angelos*)].
 - **Difficulty:** foundational
 - **Pivot fact:** After the First Step Act (2018), § 924(c) stacking within a single indictment was eliminated — if Angelos were charged today, the mandatory exposure would be 10 years, not 55.
 - **Jurisdiction:** federal (§ 924(c)); state mandatory minimums vary widely
@@ -133,7 +133,7 @@ For exam purposes, the core analytical framework is:
 #### 924c-stacking: Section 924(c) Consecutive Stacking (Pre–First Step Act)
 - **Rule:** Under § 924(c) as originally construed, each additional firearms count in a single indictment triggered a 25-year consecutive mandatory minimum — on top of the 5-year mandatory for the first count. A defendant with three firearms counts faced a mandatory 55 years regardless of the underlying offense severity.
 - **Source:** *United States v. Angelos* (Cassell, J.)
-- **Trap:** Students assume proportionality between the underlying offense and the mandatory sentence. *Angelos* shows that an 18-year-old music producer with no prior record, whose underlying offense was marijuana sales, could receive a sentence exceeding those for murder, rape, and terrorism under the stacking rules.
+- **Trap:** Students choose [there is proportionality between the underlying offense and the mandatory sentence] because they confuse [a proportional sentence for an underlying offense] with [disproportionate mandatory sentences resulting from stacking rules (*Angelos*)].
 - **Difficulty:** intermediate
 - **Pivot fact:** Prosecution after the First Step Act (2018) eliminates stacking within a single indictment, capping the § 924(c) mandatory exposure at 10 years no matter how many counts are charged.
 - **Jurisdiction:** federal only
@@ -153,7 +153,7 @@ For exam purposes, the core analytical framework is:
 #### armstrong-discovery-catch22: Armstrong's Catch-22: Discovery Requires What Discovery Would Provide
 - **Rule:** To obtain discovery for a selective prosecution claim, a defendant must first produce "credible evidence" that similarly situated defendants of other races could have been prosecuted but were not. But that evidence is in the government's hands — unavailable without discovery. The standard effectively forecloses most selective prosecution claims.
 - **Source:** *United States v. Armstrong*, 517 U.S. 456 (1996)
-- **Trap:** Students assume a defendant with strong statistical evidence (e.g., 100% of charged defendants in a category were Black) can obtain discovery. *Armstrong* requires evidence about specific similarly situated white defendants who *weren't* charged — a standard statistical evidence alone cannot meet.
+- **Trap:** Students choose [a defendant with strong statistical evidence of racial disparity can obtain discovery] because they confuse [strong aggregate statistical evidence of racial disparity] with [evidence of specific similarly situated white defendants who were not charged (*Armstrong*)].
 - **Difficulty:** advanced
 - **Pivot fact:** If a defendant produces a specific example of an identically situated white defendant who was charged federally in a similar case but had charges dropped while comparable Black defendants were not, the Armstrong threshold might be met.
 - **Jurisdiction:** universal (federal standard; states vary)
@@ -162,7 +162,7 @@ For exam purposes, the core analytical framework is:
 #### mccleskey-statistical-evidence: Statistical Evidence of Systemic Discrimination Is Insufficient for Individual Claims
 - **Rule:** Sophisticated statistical evidence showing that defendants charged with killing white victims were 4.3 times more likely to receive a death sentence than those charged with killing Black victims does not establish a constitutional violation — the defendant must prove discriminatory intent in his *specific case*, not in the system generally.
 - **Source:** *McCleskey v. Kemp*, 481 U.S. 279 (1987) (Baldus study)
-- **Trap:** Students conflate systemic discrimination (what the Baldus study showed) with individual constitutional injury (what the Court required). The Court acknowledged the statistics but held they were insufficient because "discretion is essential to the criminal justice process."
+- **Trap:** Students choose [systemic discrimination proves an individual constitutional injury] because they confuse [systemic discrimination (what the Baldus study showed)] with [individual constitutional injury (what the Court required)].
 - **Difficulty:** advanced
 - **Pivot fact:** If a prosecutor's office kept records explicitly documenting that race of victim was considered in seeking death — i.e., if the systemic pattern had individual-case documentation — the *McCleskey* barrier could be overcome.
 - **Jurisdiction:** universal
@@ -171,7 +171,7 @@ For exam purposes, the core analytical framework is:
 #### yick-wo-gap: Yick Wo's Promise and Its Erosion
 - **Rule:** *Yick Wo* (1886) held that facially neutral laws administered "with an evil eye and an unequal hand" violate equal protection — appearing to authorize courts to police racially discriminatory enforcement. But *Yick Wo* has been called "the first and last case" where the Court invalidated a prosecution as racially motivated, because subsequent doctrine built barriers that make the claim nearly impossible to prove.
 - **Source:** *Yick Wo v. Hopkins*, 118 U.S. 356 (1886)
-- **Trap:** Students cite *Yick Wo* as establishing a robust equal protection constraint on discriminatory enforcement, overlooking the century of subsequent doctrine (*Wayte*, *Armstrong*, *McCleskey*) that effectively neutralized it.
+- **Trap:** Students choose [*Yick Wo* establishes a robust equal protection constraint on discriminatory enforcement] because they confuse [a robust equal protection constraint on discriminatory enforcement (*Yick Wo*)] with [the century of subsequent doctrine (*Wayte*, *Armstrong*, *McCleskey*) that effectively neutralized it].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the discriminatory enforcement is as naked as in *Yick Wo* itself — 100% of one race prosecuted, 0% of others in identical circumstances, with no legitimate explanation — a selective prosecution claim remains viable in theory.
 - **Jurisdiction:** universal
@@ -182,7 +182,7 @@ For exam purposes, the core analytical framework is:
 #### whren-pretext-constitutional: Pretextual Traffic Stops Are Constitutional Under the Fourth Amendment
 - **Rule:** A traffic stop is constitutional under the Fourth Amendment as long as officers have probable cause to believe a traffic violation occurred, regardless of the officer's actual subjective motivation. Racial discrimination claims must be brought under the Equal Protection Clause, not the Fourth Amendment.
 - **Source:** *Whren v. United States*, 517 U.S. 806 (1996)
-- **Trap:** Students argue that a stop whose "real" purpose was drug investigation rather than traffic enforcement is unconstitutional. *Whren* forecloses this: the Fourth Amendment does not inquire into subjective intent when objective probable cause exists.
+- **Trap:** Students choose [a pretextual traffic stop for drug investigation is unconstitutional] because they confuse [subjective intent (the "real" purpose of the stop)] with [objective probable cause under the Fourth Amendment (*Whren*)].
 - **Difficulty:** foundational
 - **Pivot fact:** If officers lacked probable cause for even the pretextual traffic violation — e.g., the alleged infraction did not occur — the stop is unconstitutional regardless of motive.
 - **Jurisdiction:** universal (federal constitutional floor; some states provide broader protection under state constitutions)
@@ -191,7 +191,7 @@ For exam purposes, the core analytical framework is:
 #### whren-equal-protection-gap: Whren Channels Racial Challenges to Equal Protection, Which Fails Under Armstrong
 - **Rule:** *Whren* said racial challenges to pretextual stops belong under equal protection, not the Fourth Amendment. But equal protection selective prosecution claims require proof of discriminatory intent under *Armstrong* — a standard that is nearly impossible to meet for traffic stops. The two doctrines together create a zone of effective unreviewability for racially motivated enforcement.
 - **Source:** *Whren v. United States*; *Armstrong* (synthesized in chapter text)
-- **Trap:** Students assume the Court left open a viable equal protection route in *Whren*. The chapter shows that *Armstrong* effectively closes that route — the two doctrines work together to insulate pretextual enforcement.
+- **Trap:** Students choose [the Court left open a viable equal protection route in *Whren*] because they confuse [a viable equal protection route left open in *Whren*] with [the closure of that route by *Armstrong*, which insulates pretextual enforcement].
 - **Difficulty:** advanced
 - **Pivot fact:** If a state adopts a statutory or constitutional rule that prohibits pretextual stops outright (some states have done so), the federal *Whren* standard is irrelevant — the state provides a broader protection.
 - **Jurisdiction:** split (federal constitutional rule; some states broader under state law)
@@ -200,7 +200,7 @@ For exam purposes, the core analytical framework is:
 #### volume-engine-low-yield: Pretextual Stops Generate High Contact, Low Yield
 - **Rule:** Studies show that contraband "hit rates" in traffic stops are typically under 5% and under 1% for non-public-safety stops. This raises a cost-benefit question: stops generate racial friction, records, and cascade consequences (arrest → warrant → job loss) without proportionate public safety returns.
 - **Source:** Chapter text (Ramsey County data; general studies cited)
-- **Trap:** Students assume that because stops sometimes yield contraband, the enforcement pattern is presumptively justified. The chapter asks about *aggregate* yield vs. aggregate cost — a policy rather than individual-case analysis.
+- **Trap:** Students choose [an enforcement pattern is presumptively justified because stops sometimes yield contraband] because they confuse [individual-case justification (stops sometimes yield contraband)] with [policy analysis based on aggregate yield versus aggregate cost].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the yield rate in a specific enforcement program exceeds a meaningful threshold and targets objectively dangerous conduct (e.g., DUI stops), the cost-benefit calculus changes and the pretextual-stop critique loses force.
 - **Jurisdiction:** universal (policy analysis, not doctrinal)
@@ -209,7 +209,7 @@ For exam purposes, the core analytical framework is:
 #### stop-to-spiral: The Stop-to-Spiral Cascade
 - **Rule:** A pretextual stop that reveals an outstanding warrant (often generated by unpaid fines from prior stops) triggers arrest → detention → job loss → record → enhanced future charges. Each prosecutorial decision applies neutral rules to a defendant whose record was shaped by over-policing, compounding disparity across interactions.
 - **Source:** Chapter text (Part III analysis)
-- **Trap:** Students analyze each criminal justice decision in isolation (was the arrest valid? was the charge appropriate?) without examining the enforcement pattern that generated the underlying record.
+- **Trap:** Students choose [criminal justice decisions can be evaluated strictly in isolation] because they confuse [isolated analyses of individual criminal justice decisions] with [an examination of the aggregate enforcement pattern that generated the underlying record].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the outstanding warrant was generated by an unconstitutional stop under state law (broader protection), evidence discovered as a result may be suppressible, breaking the cascade.
 - **Jurisdiction:** universal (policy analysis)
@@ -220,7 +220,7 @@ For exam purposes, the core analytical framework is:
 #### prosecutors-paradox: Neutral Processing of Biased Inputs Produces Biased Outputs
 - **Rule:** A prosecutor who treats every case identically — same charges for same conduct, same plea offers for same records — will produce racially disparate outcomes if the arrest pool is itself shaped by racially disparate enforcement. Individual fairness (treating like cases alike) does not produce systemic fairness when the categories that define "like" (prior arrests, prior convictions) are products of over-policing.
 - **Source:** Chapter text (Part II analysis, citing drug use survey data vs. arrest rate data)
-- **Trap:** Students assume that procedural neutrality (treating every defendant the same) is sufficient to satisfy equality norms. The chapter argues this conflates individual fairness with systemic fairness — they are different standards with different implications.
+- **Trap:** Students choose [procedural neutrality is sufficient to satisfy equality norms] because they confuse [individual fairness (procedural neutrality)] with [systemic fairness].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a prosecutor actively examines enforcement patterns in her jurisdiction and adjusts charging policy to account for documented over-policing (as Ramsey County did), she moves from individual to systemic fairness analysis.
 - **Jurisdiction:** universal (policy analysis)
@@ -229,7 +229,7 @@ For exam purposes, the core analytical framework is:
 #### individual-vs-systemic-fairness: Individual Fairness vs. Systemic Fairness
 - **Rule:** Individual fairness asks whether each defendant was treated the same as similarly situated defendants. Systemic fairness asks whether the system produces equitable outcomes across groups. These can conflict: scrupulous individual fairness can coexist with profound systemic disparity when the inputs are unequal.
 - **Source:** Chapter text (Part II, "The Limits of Individual Fairness")
-- **Trap:** Students equate procedural neutrality with justice, concluding that if no individual was treated differently based on race, there is no racial injustice. The chapter challenges this assumption at the systemic level.
+- **Trap:** Students choose [there is no racial injustice as long as there is procedural neutrality] because they confuse [procedural neutrality (treating no individual differently based on race)] with [systemic justice].
 - **Difficulty:** foundational
 - **Pivot fact:** If the underlying enforcement patterns were race-neutral (equal stop and arrest rates across groups), neutral prosecution would produce racially equal outcomes — the paradox dissolves when the inputs are equalized.
 - **Jurisdiction:** universal
@@ -240,7 +240,7 @@ For exam purposes, the core analytical framework is:
 #### ramsey-county-declination-policy: Prosecutorial Declination as a Reform Tool
 - **Rule:** A prosecutor can use the same discretion that drives disparity to reduce it — by declining to prosecute cases arising from enforcement patterns shown to generate disparity without public safety benefit. Ramsey County declined felony cases arising from non-public-safety stops unless independent probable cause existed before the stop.
 - **Source:** Chapter text (Part IV, Ramsey County experiment)
-- **Trap:** Students characterize prosecutorial declination policies as "nullification" (refusing to enforce valid laws). The chapter distinguishes declination based on evidence-based policy analysis from nullification based on ideological disagreement with the law.
+- **Trap:** Students choose [prosecutorial declination policies are equivalent to nullification] because they confuse [nullification based on ideological disagreement with the law] with [declination based on evidence-based policy analysis].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a declination policy produces a documented increase in violent crime, the evidence-based justification evaporates — the "no crime increase" finding is load-bearing for the Ramsey County reform's legitimacy.
 - **Jurisdiction:** universal (prosecutorial discretion exists everywhere; specific policy choices vary)
@@ -249,7 +249,7 @@ For exam purposes, the core analytical framework is:
 #### justice-design-cycle: The Justice Design Cycle (Understand → Imagine → Pilot → Adopt/Adapt/Abandon)
 - **Rule:** Prosecutorial reform can follow a systematic four-phase design method: (1) diagnose problems through data and stakeholder listening; (2) co-design solutions with affected communities; (3) pilot interventions with pre-defined success metrics and safety tripwires; (4) scale, refine, or abandon based on results.
 - **Source:** Chapter text (Part IV, "The Justice Design Cycle")
-- **Trap:** Students dismiss reform efforts as merely ideological ("progressive" or "tough on crime"). The chapter argues the design method is separable from substantive policy — offices with different political orientations have applied it.
+- **Trap:** Students choose [reform efforts are merely ideological labels like "progressive" or "tough on crime"] because they confuse [substantive ideological policy orientations] with [a separable design method applied across different political orientations].
 - **Difficulty:** foundational
 - **Pivot fact:** If a design-based reform produces results that contradict its objectives (e.g., a diversion program increases recidivism), the method requires abandonment — ideological commitment without measurement is not the method.
 - **Jurisdiction:** universal
@@ -258,7 +258,7 @@ For exam purposes, the core analytical framework is:
 #### nullification-vs-declination: Nullification Distinguished from Evidence-Based Declination
 - **Rule:** Prosecutorial nullification means refusing to enforce laws based on the prosecutor's ideological disagreement with them. Evidence-based declination means declining cases where data show enforcement does not advance public safety goals. The distinction is whether the decision is grounded in empirical analysis of outcomes or in policy preferences about what the law *should* be.
 - **Source:** Chapter text (Part IV discussion questions)
-- **Trap:** Students treat any categorical declination policy as nullification. The chapter argues the key distinction is the evidentiary basis: Ramsey County did not decline marijuana prosecutions because the prosecutor opposed drug laws — it declined cases arising from stops that demonstrably failed a cost-benefit analysis.
+- **Trap:** Students choose [any categorical declination policy is nullification] because they confuse [nullification based on ideological opposition to laws] with [categorical declination based on a demonstrable evidentiary cost-benefit analysis].
 - **Difficulty:** advanced
 - **Pivot fact:** If the declination policy is based on a prosecutor's categorical disagreement with a law (e.g., "I will never prosecute gun violations") rather than empirical analysis of enforcement patterns, it looks more like nullification regardless of the label.
 - **Jurisdiction:** universal
@@ -267,7 +267,7 @@ For exam purposes, the core analytical framework is:
 #### constraining-discretion-limits: Limits on Internal Guidelines and Legislative Reform
 - **Rule:** Internal charging guidelines can constrain prosecutorial discretion but depend entirely on the chief prosecutor's commitment — successors can rescind them and line prosecutors can ignore them without consequence. Only legislative reform (reducing overlapping statutes, eliminating mandatory minimums) produces durable constraint.
 - **Source:** Chapter text (Part VII reform analysis)
-- **Trap:** Students assume that internal guidelines or DOJ memoranda constitute binding law on prosecutors. They are administrative policies, not legal constraints — a new administration or chief prosecutor can eliminate them overnight.
+- **Trap:** Students choose [internal guidelines or DOJ memoranda constitute binding law on prosecutors] because they confuse [binding legal constraints] with [revocable administrative policies].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a legislature codifies a declination policy (e.g., expressly prohibiting prosecution of certain low-level offenses), it becomes law rather than policy — far more durable than an internal guideline.
 - **Jurisdiction:** universal
@@ -276,7 +276,7 @@ For exam purposes, the core analytical framework is:
 #### transparency-metrics: Data Transparency and Outcome Metrics as Accountability Tools
 - **Rule:** Publishing prosecutorial data (charging rates, plea rates, outcomes by offense, race, and neighborhood) enables scrutiny of patterns that would otherwise be invisible. Changing performance metrics from conviction rates and sentence lengths to recidivism reduction, victim satisfaction, and racial equity changes what prosecutors optimize.
 - **Source:** Chapter text (Part VII, "Requiring Transparency")
-- **Trap:** Students equate transparency with accountability, assuming that publishing data automatically produces reform. The chapter notes transparency enables reform but does not guarantee it.
+- **Trap:** Students choose [publishing data automatically produces reform] because they confuse [transparency (which merely enables reform)] with [accountability (which guarantees reform)].
 - **Difficulty:** foundational
 - **Pivot fact:** If an office publishes data showing severe racial disparities and no corrective action follows, transparency without enforcement mechanisms produces scrutiny but not change.
 - **Jurisdiction:** universal

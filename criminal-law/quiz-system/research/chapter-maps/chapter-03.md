@@ -40,7 +40,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### core-offense-consensus: Broad Consensus at the Core
 - **Rule:** Most people across cultures agree that homicide, assault, theft, robbery, and fraud belong in the criminal code. But the consensus is shallower than it appears — the category label ("murder") commands agreement while the boundary cases (killing a sleeping abuser, corporate manslaughter, wage theft) do not.
 - **Source:** Chapter introduction; Paul Robinson naturalism discussion; Markel case reference
-- **Trap:** Students [assume consensus on the label "murder is wrong" means consensus on boundary cases] because [they conflate agreement on the offense category with agreement on its edges — felony murder, corporate manslaughter, and wage theft all sit at contested boundaries where the framework provides no automatic answer].
+- **Trap:** Students choose [consensus on boundary cases based on the label "murder is wrong"] because they confuse [agreement on the offense category] with [agreement on its edges, where felony murder, corporate manslaughter, and wage theft sit at contested boundaries without automatic answers].
 - **Difficulty:** foundational
 - **Pivot fact:** If the chapter asked whether a corporation that negligently marketed an opioid should face homicide charges, the consensus framing collapses — the offense is "homicide-shaped" but rarely prosecuted as such.
 - **Jurisdiction:** universal
@@ -49,7 +49,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### system-involvement-scale: System-Involvement Offenses Dominate Practice
 - **Rule:** Violent and property offenses together account for less than 18% of all arrests. The bulk of criminal enforcement — approximately 60% — involves "other offenses": failure to appear, bench warrant arrests, driving on suspended license, probation violations, disorderly conduct, and similar conduct. These are offenses against the system or public order, not against persons or property.
 - **Source:** FBI UCR 2024 data; chapter arrest table
-- **Trap:** Students [treat the casebook curriculum as representative of criminal practice] because [they confuse what law school teaches with what courts actually process — violent and property crimes are the doctrinal core but not the enforcement core, which is dominated by system-involvement offenses].
+- **Trap:** Students choose [the casebook curriculum as representative of criminal practice] because they confuse [what law school teaches, which focuses on the doctrinal core of violent and property crimes,] with [what courts actually process, which is dominated by system-involvement offenses].
 - **Difficulty:** foundational
 - **Pivot fact:** If the arrest statistics were reversed — 60% violent/property, 18% system-involvement — the argument that criminal law over-uses system-involvement offenses would collapse.
 - **Jurisdiction:** universal
@@ -58,7 +58,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### three-offense-families: Three Families of Core Offenses
 - **Rule:** Criminal codes organize core offenses into (1) crimes against persons (homicide, assault, sexual offenses, kidnapping); (2) crimes against property (theft, robbery, burglary, arson); and (3) fraud and deception (wire fraud, identity theft, forgery, securities violations). This taxonomy maps onto what is broadly agreed to belong in the criminal code.
 - **Source:** Chapter Part I orientation
-- **Trap:** Students [conflate crimes against property and fraud] because [both involve economic harm, but fraud requires deception/misrepresentation as a distinct element while robbery requires force or threat — the families differ in the harm mechanism, not just severity].
+- **Trap:** Students choose [fraud as identical or broadly equivalent to crimes against property like robbery] because they confuse [fraud, which requires deception or misrepresentation as a distinct element,] with [crimes against property like robbery, which require force or threat, meaning the families differ in the harm mechanism, not just severity].
 - **Difficulty:** foundational
 - **Pivot fact:** If wage theft (property harm, no violence, no deception) were systematically prosecuted at the same rate as street theft, the "crimes against property" family would look very different in practice.
 - **Jurisdiction:** universal
@@ -69,7 +69,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### bayesian-policy-standard: Bayesian Standard for Policy Decisions
 - **Rule:** Policy decisions rarely have the luxury of certainty. The appropriate standard is Bayesian: given the available evidence, which approach do the odds favor? A 55/45 advantage for Intervention A over B is sufficient reason to choose A — waiting for certainty means accepting worse outcomes on average.
 - **Source:** Chapter Part II, evidence methodology discussion
-- **Trap:** Students [demand certainty before endorsing an evidence-supported policy over another] because [they apply the "beyond reasonable doubt" criminal standard to policy questions, when the correct standard is "what do the odds favor" — waiting for certainty means accepting worse outcomes on average].
+- **Trap:** Students choose [demanding certainty before endorsing an evidence-supported policy] because they confuse [the criminal standard of "beyond reasonable doubt"] with [the correct policy standard of "what do the odds favor", where waiting for certainty means accepting worse outcomes on average].
 - **Difficulty:** intermediate
 - **Pivot fact:** If one side had RCT evidence showing 55% effectiveness and the other had no experimental evidence at all, the Bayesian standard requires choosing the RCT-supported intervention even absent certainty.
 - **Jurisdiction:** universal
@@ -78,7 +78,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### evidence-grade-hierarchy: Evidence Quality Hierarchy
 - **Rule:** Evidence quality varies. RCTs with large samples (FTA reminders) carry more weight than quasi-experimental studies (license suspension) or observational data (Housing First for housing outcomes). The chapter uses GRADE-style certainty assessments; students should evaluate the strength of evidence claims, not just whether a study exists.
 - **Source:** Chapter footnote on GRADE methodology; FTA reminders vs. homelessness evidence discussion
-- **Trap:** Students [treat any cited study as equally probative] because [they fail to distinguish meta-analyses of RCTs (highest quality) from quasi-experimental studies from observational data, treating the homelessness evidence as equally strong as the FTA reminder evidence when it is not].
+- **Trap:** Students choose [treating any cited study as equally probative] because they confuse [observational data and quasi-experimental studies] with [meta-analyses of RCTs, treating weaker homelessness evidence as equally strong as robust FTA reminder evidence].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the FTA reminder studies had been observational rather than RCTs published in *Science*, the case for text reminders over criminalization would be weaker but not eliminated.
 - **Jurisdiction:** universal
@@ -89,7 +89,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### fta-reminders-evidence: Text Reminders Reduce FTA
 - **Rule:** Court date reminders (text, phone, or postcard) significantly reduce failure-to-appear rates. A 2023 meta-analysis found effect sizes of 20–39%. A landmark RCT in NYC found text reminders reduced FTA by 36%, preventing 30,000 arrest warrants over three years at under $1 per person.
 - **Source:** Fishbane, Ouss & Shah (*Science* 2020); Zottola et al. (2023 meta-analysis)
-- **Trap:** Students assume criminalization (warrants, added charges) deters FTA because that's the standard legal response. They miss that most people miss court for logistical reasons (forgot, work conflict, no transportation, no notice), not defiance — so threatened punishment doesn't prevent the behavior.
+- **Trap:** Students choose [criminalization, such as warrants and added charges, deters failure to appear] because they confuse [the standard legal response of threatened punishment for defiant behavior] with [the reality that most people miss court for logistical reasons, meaning threatened punishment doesn't prevent the behavior].
 - **Difficulty:** foundational
 - **Pivot fact:** If people who missed court were primarily doing so intentionally to evade the system, criminalization might have deterrent value; the evidence shows most miss court for logistical reasons.
 - **Jurisdiction:** majority/minority (some courts have adopted reminders; most still criminalize)
@@ -98,7 +98,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### cash-bail-fta-failure: Cash Bail Does Not Reduce FTA
 - **Rule:** Cash bail does not reduce failure-to-appear rates compared to non-monetary release conditions. The empirical evidence does not support cash bail as an FTA-prevention mechanism.
 - **Source:** Ouss & Stevenson study; NIJ deterrence review
-- **Trap:** Students assume cash bail must deter FTA because forfeiting money creates a financial incentive to appear. They miss that the populations most affected by cash bail are also least able to post it — so bail primarily detains them pretrial rather than incentivizing appearance.
+- **Trap:** Students choose [cash bail must deter failure to appear] because they confuse [a theoretical financial incentive to appear] with [the reality that populations most affected by cash bail lack the ability to post it, so bail primarily detains them pretrial rather than incentivizing appearance].
 - **Difficulty:** intermediate
 - **Pivot fact:** If cash bail were uniformly set at amounts people could actually afford, the deterrence theory would at least be testable; current practice uses it primarily as a detention mechanism.
 - **Jurisdiction:** split (traditional/MPC) — traditional systems rely on cash bail; reform states have moved to risk-based assessment
@@ -109,7 +109,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### debt-suspension-ineffective: Debt-Based License Suspension Does Not Increase Payment
 - **Rule:** Suspending driver's licenses for unpaid fines does not increase fine collection rates. California's collection rates *increased* 8.9% after ending debt-based suspension. Crozier & Garrett's analysis of 1.225 million suspensions in North Carolina found no correlation between suspension and collection.
 - **Source:** Crozier & Garrett (*Duke Law Journal* 2020); California AB 103
-- **Trap:** Students [assume license suspension works as a fine collection tool] because [they expect the threat of suspension to motivate payment, missing that the populations subject to suspension are those who already cannot pay — the threat cannot compel payment from people who lack the funds].
+- **Trap:** Students choose [license suspension works as an effective fine collection tool] because they confuse [the expectation that the threat of suspension will motivate payment] with [the reality that populations subject to suspension already cannot pay, meaning the threat cannot compel payment from people lacking funds].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the populations who received debt-based suspensions had disposable income to pay fines, the deterrence theory might hold; the evidence shows these are low-income individuals for whom the suspension creates new crimes without producing payment.
 - **Jurisdiction:** majority/minority (25 states have reformed; half still suspend for debt)
@@ -118,7 +118,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### debt-suspension-racial-disparity: Debt-Based Suspension Produces Racial Disparities
 - **Rule:** Debt-based license suspension produces significant racial disparities in the crime of driving while suspended. In North Carolina, Black drivers account for 54% of driving-while-suspended charges but only 21% of the adult population.
 - **Source:** Crozier & Garrett (North Carolina data)
-- **Trap:** Students [treat driving-while-suspended as a neutral traffic enforcement issue] because [they miss that the offense is structurally generated by debt-based suspension — suspended people must continue driving for work and lack alternatives, so suspension creates a new crime rather than changing behavior].
+- **Trap:** Students choose [driving-while-suspended is a neutral traffic enforcement issue] because they confuse [standard, behavior-changing traffic enforcement] with [an offense structurally generated by debt-based suspension, where suspended people must continue driving for work and lack alternatives, creating a new crime].
 - **Difficulty:** intermediate
 - **Pivot fact:** If public transit were widely available, suspended individuals could comply without driving — the harms of suspension are compounded by the absence of alternatives.
 - **Jurisdiction:** universal (disparate impact documented across states)
@@ -129,7 +129,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### technical-violations-incarceration: Incarceration for Technical Violations Does Not Reduce Recidivism
 - **Rule:** Incarcerating people for probation/parole technical violations (missed appointments, failed drug tests, curfew violations) produces null effects or slight *increases* in reoffending compared to community-based alternatives. A meta-analysis of 116 studies (Petrich et al. 2021) supports this finding.
 - **Source:** Petrich et al. (*Crime & Justice* 2021); HOPE program failed replication
-- **Trap:** Students assume incarceration for violations deters future violations because punishment creates consequences. They miss that technical violations often involve behaviors driven by addiction, poverty, or instability — not defiance — and incarceration does not address underlying causes.
+- **Trap:** Students choose [incarceration for violations deters future violations] because they confuse [punishment creating consequences for defiant behavior] with [technical violations driven by addiction, poverty, or instability, which are underlying causes that incarceration does not address].
 - **Difficulty:** intermediate
 - **Pivot fact:** If technical violations primarily reflected deliberate defiance of supervision conditions, swift certain consequences might have deterrent value; the evidence suggests violations typically reflect inability to comply rather than unwillingness.
 - **Jurisdiction:** universal
@@ -138,7 +138,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### hope-program-failure: HOPE Program Failed to Replicate
 - **Rule:** The HOPE program (swift, certain, fair consequences for probation violations) showed promising initial results in Hawaii, but NIJ's rigorous four-site replication found no effect on recidivism and *more* probation violations than control groups. CrimeSolutions rates HOPE as having "No Effects."
 - **Source:** Lattimore et al. (NIJ 2016); HOPE Demonstration Field Experiment
-- **Trap:** Students [cite the original HOPE program results as evidence that swift certain punishment works for probation violations] because [they give decisive weight to a single-site promising result without recognizing that a rigorous four-site RCT replication found null effects and more violations in the treatment group — a failed replication outweighs an initial promising study].
+- **Trap:** Students choose [the original HOPE program results as definitive evidence that swift certain punishment works for probation violations] because they confuse [a single-site promising result] with [a rigorous four-site RCT replication that found null effects and more violations in the treatment group, demonstrating that a failed replication outweighs an initial promising study].
 - **Difficulty:** advanced
 - **Pivot fact:** If the NIJ replication had used the same single-site design as the original study rather than a randomized four-site design, the null results might not have emerged — the failure to replicate depends on methodological rigor.
 - **Jurisdiction:** federal only (NIJ-funded study) — but the program has spread to over 30 states
@@ -147,7 +147,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### supervision-violations-scale: Supervision Violations Account for 40% of Prison Admissions
 - **Rule:** Supervision violations account for nearly 40% of all state prison admissions — approximately 200,000 people annually, over half for technical violations alone. States spend $10 billion annually on this with no demonstrated public safety return.
 - **Source:** CSG Justice Center data; chapter statistics
-- **Trap:** Students [treat prison admissions for supervision violations as an expected consequence of supervision] because [they fail to recognize the scale — 200,000 people annually, $10 billion, no demonstrated safety return — and that reforming states (Missouri, Oklahoma) have substantially reduced these numbers without crime increases, showing incarceration is a policy choice, not an inevitability].
+- **Trap:** Students choose [prison admissions for supervision violations as an expected and inevitable consequence of supervision] because they confuse [an inevitable outcome of community supervision] with [a massive, costly policy choice that reforming states have substantially reduced without crime increases, demonstrating it is not an inevitability].
 - **Difficulty:** foundational
 - **Pivot fact:** Missouri reduced technical violation admissions by 45%, Oklahoma by 59% — demonstrating that reform is achievable without crime increase.
 - **Jurisdiction:** universal
@@ -158,7 +158,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### criminalization-homelessness-ineffective: Criminalizing Homelessness Does Not Reduce Homelessness
 - **Rule:** Camping bans, loitering ordinances, and encampment sweeps do not reduce homelessness. The only nationwide empirical study (Lebovits & Sullivan 2025) found no statistically significant reduction in homelessness following passage of criminalization ordinances.
 - **Source:** Lebovits & Sullivan (*Policy Studies Journal* 2025); Grants Pass aftermath data
-- **Trap:** Students assume criminalization deters homeless encampments because penalties create incentives to relocate or seek shelter. They miss that the deterrence logic — "choose not to be homeless to avoid citation" — fails when homelessness is not a choice.
+- **Trap:** Students choose [criminalization deters homeless encampments by creating incentives to relocate or seek shelter] because they confuse [deterrence logic where penalties incentivize a choice to relocate] with [situations where homelessness is not a choice, meaning deterrence logic fails entirely].
 - **Difficulty:** foundational
 - **Pivot fact:** If adequate shelter were available before citations issued, criminalization might function as incentive to use shelter; Grants Pass applied criminalization even when no shelter was available.
 - **Jurisdiction:** universal (post-*Grants Pass*)
@@ -167,7 +167,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### housing-first-evidence: Housing First Has Strongest Evidence Base
 - **Rule:** Housing First (immediate permanent housing without preconditions) dramatically reduces homelessness. A meta-analysis of 26 studies found Housing First decreased homelessness by 88%. The Canadian At Home/Chez Soi 6-year RCT found 85.5% stable housing for high-need participants vs. 60.3% for treatment as usual. Important nuance: Housing First solves homelessness but does not improve psychiatric symptoms or reduce substance use.
 - **Source:** At Home/Chez Soi 6-year follow-up (*Lancet Psychiatry* 2019); Community Guide meta-analysis (2020)
-- **Trap:** Students [treat Housing First as a comprehensive mental health and addiction treatment program] because [they conflate solving homelessness (which Housing First does with strong evidence) with treating psychiatric symptoms and substance use (which it does not — Housing First provides stability from which treatment can be sought, but is not a substitute for it)].
+- **Trap:** Students choose [Housing First as a comprehensive mental health and addiction treatment program] because they confuse [solving homelessness by providing stability from which treatment can be sought] with [treating psychiatric symptoms and substance use, for which Housing First is not a substitute].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Housing First also reduced psychiatric symptoms and substance use, it would be a complete intervention; evidence shows it solves the housing problem but not the co-occurring conditions.
 - **Jurisdiction:** universal (strong international evidence base)
@@ -176,7 +176,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### grants-pass-context: *City of Grants Pass v. Johnson* (2024)
 - **Rule:** The Supreme Court held in 2024 that cities may criminally punish homeless people for sleeping outdoors even when no shelter is available. This eliminated a circuit-split holding that such punishment violated the Eighth Amendment when no shelter alternatives exist.
 - **Source:** *City of Grants Pass v. Johnson*, 603 U.S. ___ (2024)
-- **Trap:** Students [assume *Grants Pass* addressed whether homelessness can be criminalized as a general matter] because [they miss the precise holding: the Court rejected the "no shelter available" Eighth Amendment defense, permitting criminalization of outdoor sleeping even absent shelter alternatives — the narrow question was whether the absence of shelter bars criminal enforcement].
+- **Trap:** Students choose [*Grants Pass* addressed whether homelessness can be criminalized as a general matter] because they confuse [a broad ruling on whether homelessness can be criminalized generally] with [the precise holding rejecting the "no shelter available" Eighth Amendment defense, which permitted criminalization of outdoor sleeping even absent shelter alternatives].
 - **Difficulty:** intermediate
 - **Pivot fact:** If adequate shelter had been available and the plaintiff had refused it, the constitutional argument for protection would have been much weaker even before *Grants Pass*.
 - **Jurisdiction:** federal only (Supreme Court constitutional holding)
@@ -187,7 +187,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### ferguson-revenue-machine: Ferguson as Revenue-Extraction System
 - **Rule:** The Ferguson DOJ investigation revealed a municipal court system transformed into a revenue-extraction machine: explicit Finance Director pressure for a "10% increase" in court revenue; 32,975 arrest warrants in 2013 for a population of 21,000; a debt cascade where minor violations spiraled into insurmountable fees through FTA charges, warrant fees, and jail fees.
 - **Source:** DOJ Ferguson Report (March 2015); Fant v. City of Ferguson
-- **Trap:** Students [treat Ferguson as an anomaly caused by uniquely corrupt officials] because [they miss that the DOJ report identified structural incentives — explicit revenue targets, fee cascades, warrant machines — that operate wherever municipal budgets depend on court revenue, making Ferguson a documented example of a widespread pattern rather than an outlier].
+- **Trap:** Students choose [Ferguson was an anomaly caused by uniquely corrupt officials] because they confuse [an anomaly caused by uniquely corrupt officials] with [a documented example of a widespread pattern of structural incentives that operate wherever municipal budgets depend on court revenue].
 - **Difficulty:** foundational
 - **Pivot fact:** If Ferguson's municipal budget did not depend on court revenue, the pressure to generate enforcement would have been absent — the dysfunction was structurally incentivized, not purely the result of individual wrongdoing.
 - **Jurisdiction:** universal (pattern documented across U.S. jurisdictions)
@@ -196,7 +196,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### ferguson-racial-disparities: Racial Disparities in Ferguson Enforcement
 - **Rule:** Black residents comprised 67% of Ferguson's population but 85% of vehicle stops, 90% of citations, 93% of arrests, and 92% of arrest warrants in 2013. These disparities were documented by the DOJ and linked to explicit racial bias in internal communications.
 - **Source:** DOJ Ferguson Report at 4-5, 62-63
-- **Trap:** Students [assume racial disparities in enforcement require proof of conscious discriminatory intent to be legally or analytically significant] because [they conflate the doctrinal intent requirement for an Equal Protection claim with the empirical question of whether racially disparate outcomes occurred — the DOJ documented both explicit bias and structural disparities operating independently of intent].
+- **Trap:** Students choose [racial disparities in enforcement require proof of conscious discriminatory intent to be legally or analytically significant] because they confuse [the doctrinal intent requirement for an Equal Protection claim] with [the empirical question of whether racially disparate outcomes occurred, as structural disparities can operate independently of explicit bias].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Ferguson's population had been predominantly white with identical income and wealth levels, the revenue-extraction system would likely have produced lower measured racial disparities — showing the interaction between economic targeting and racial demographics.
 - **Jurisdiction:** universal (disparate enforcement documented in many jurisdictions)
@@ -205,7 +205,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### keilee-fant-story: The Keilee Fant Case
 - **Rule:** Keilee Fant, a certified nursing assistant and lead plaintiff in the Ferguson class action, was jailed over a dozen times for unpaid traffic tickets, including once for nearly 50 days without soap, shower, or change of clothes. She died during the litigation. The class action settled in 2024 for $4.5 million.
 - **Source:** LPE Project; *Fant v. City of Ferguson* settlement (2024)
-- **Trap:** Students [treat Fant's repeated jailing for unpaid tickets as an extreme outlier] because [they miss the chapter's structural point: the debt cascade — FTA charges, warrant fees, repeated incarceration — is what the Ferguson system was designed to produce, and inability to pay (not culpability) was the driver throughout, making Fant's experience the endpoint of normal practice for the poorest defendants].
+- **Trap:** Students choose [Fant's repeated jailing for unpaid tickets was an extreme outlier] because they confuse [an extreme outlier] with [the endpoint of normal practice for the poorest defendants, produced by a structurally designed debt cascade driven by inability to pay rather than culpability].
 - **Difficulty:** foundational
 - **Pivot fact:** If Fant had been able to pay the initial traffic fines, the entire cascade — FTA charges, warrant fees, repeated jailing — would not have occurred; inability to pay, not culpability, drove the system involvement.
 - **Jurisdiction:** universal (the debt cascade pattern is not unique to Ferguson)
@@ -216,7 +216,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### motivated-cognition-mechanism: How Motivated Cognition Works
 - **Rule:** When people hold strong moral commitments, their factual beliefs fall into line. Studies supporting their moral intuition seem rigorous; contradicting studies seem flawed. People do not experience this as bias — it feels like clear thinking. The result: people on opposite sides of a moral question can look at the same evidence and reach opposite factual conclusions, each genuinely convinced the other ignores data.
 - **Source:** Chapter Part III introduction; Kahan et al. motivated numeracy research
-- **Trap:** Students [assume motivated cognition is a bias that applies to others but not themselves] because [the mechanism is precisely that it does not feel like bias — people experience motivated reasoning as clear thinking, making self-exemption the most common error and the reason the research finding is so important to internalize].
+- **Trap:** Students choose [motivated cognition is a bias that applies to others but not themselves] because they confuse [the feeling of clear, unbiased thinking] with [the mechanism of motivated reasoning, which does not feel like bias and leads to self-exemption].
 - **Difficulty:** foundational
 - **Pivot fact:** If people were simply uninformed rather than motivated in their reasoning, better information and education would solve the problem; motivated cognition is precisely the finding that more information does not help when moral commitments shape evidence evaluation.
 - **Jurisdiction:** universal
@@ -225,7 +225,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### numeracy-paradox: Higher Numeracy Increases Polarization
 - **Rule:** People with higher numeracy (ability to reason with numbers) show *greater* political polarization on contested scientific questions, not less. More numerate partisans are better at selectively interpreting data to support their prior beliefs — they use analytical skills as weapons for their side, not as tools for truth-seeking.
 - **Source:** Kahan et al., *Motivated Numeracy and Enlightened Self-Government* (*Behavioral Public Policy* 2017)
-- **Trap:** Students [assume that teaching better quantitative reasoning will reduce disagreement on contested empirical questions] because [they conflate numeracy (ability to reason with numbers) with truth-seeking, missing that more numerate partisans are better at selectively interpreting data to support prior beliefs when moral commitments are engaged — analytical capacity amplifies the problem rather than solving it].
+- **Trap:** Students choose [teaching better quantitative reasoning will reduce disagreement on contested empirical questions] because they confuse [numeracy and analytical capacity] with [truth-seeking, since more numerate partisans are actually better at selectively interpreting data to support prior beliefs, amplifying the problem].
 - **Difficulty:** advanced
 - **Pivot fact:** If the questions put to numerate partisans had no connection to contested moral issues (e.g., a neutral statistical puzzle), numeracy would predict accurate reasoning — the paradox only appears when moral commitments are engaged.
 - **Jurisdiction:** universal
@@ -234,7 +234,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### science-curiosity-remedy: Science Curiosity Reduces Polarization
 - **Rule:** Science curiosity — the intrinsic motivation to seek out information for the pleasure of learning — reduces political polarization on contested scientific questions. Unlike numeracy, curiosity leads people to engage with challenging evidence. As curiosity increases, the polarizing effects of higher numeracy dissipate.
 - **Source:** Kahan et al., *Science Curiosity and Political Information Processing* (*Political Psychology* 2017)
-- **Trap:** Students [assume the remedy for motivated cognition is more rigorous analytical training] because [they conflate numeracy with the disposition that actually reduces polarization — science curiosity, the intrinsic motivation to engage with challenging findings — which works by treating surprising evidence as interesting rather than threatening rather than deploying analytical skill to rebut it].
+- **Trap:** Students choose [the remedy for motivated cognition is more rigorous analytical training] because they confuse [numeracy and analytical skill deployed to rebut evidence] with [science curiosity, which reduces polarization by intrinsically motivating people to treat surprising evidence as interesting rather than threatening].
 - **Difficulty:** advanced
 - **Pivot fact:** If science curiosity merely meant "interested in confirmatory science" rather than specifically the disposition to engage with *challenging* findings, it would not reduce polarization.
 - **Jurisdiction:** universal
@@ -245,7 +245,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### cultural-cognition-guns: Cultural Cognition Shapes Gun Debate
 - **Rule:** Attitudes toward guns correlate with cultural worldviews (hierarchical/individualist vs. egalitarian/communitarian) more than with actual knowledge of gun risks. Greater numeracy *increases* this polarization. The debate is fundamentally about what guns *mean* — self-reliance and tradition vs. violence — not about risk assessment.
 - **Source:** Braman & Kahan (*Emory Law Journal* 2006); Kahan et al. (*Journal of Risk Research* 2011)
-- **Trap:** Students [assume the gun debate can be resolved by presenting better risk statistics] because [they treat the debate as primarily empirical when cultural cognition research shows symbolic meaning shapes perceived risk — people who see guns as symbolizing self-reliance perceive them as safer regardless of what risk data shows, so more data does not reduce disagreement].
+- **Trap:** Students choose [the gun debate can be resolved by presenting better risk statistics] because they confuse [a primarily empirical debate resolvable by risk data] with [a debate shaped by cultural cognition and symbolic meaning, where people who see guns as symbolizing self-reliance perceive them as safer regardless of risk data].
 - **Difficulty:** intermediate
 - **Pivot fact:** If gun ownership had become culturally associated with urban crime rather than rural self-reliance, the hierarchical/individualist worldview might predict *opposition* to gun ownership — showing the contingency of the cultural association.
 - **Jurisdiction:** universal (U.S. context; cultural cognition is a general psychological mechanism)
@@ -254,7 +254,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### contested-domains-hollowed-common-ground: Hollowed-Out Common Ground
 - **Rule:** In contested domains (abortion, firearms), large majorities support specific compromise policies (contraception access + family leave; universal background checks + red flag laws) that would advance goals both sides claim to share. These policies fail not because anyone opposes them on the merits, but because culture war framing prevents cross-cutting coalitions — supporting any compromise risks betraying one's tribe.
 - **Source:** Pew abortion polling (2024); Pew gun polling (2021 — 81% support background checks)
-- **Trap:** Students [assume policy failure on contested measures reflects genuine substantive disagreement about those measures] because [they miss that 80%+ majorities can support specific policies (background checks, red flag laws) while those policies still fail legislatively when cultural identity framing prevents cross-cutting coalitions — the opposition is tribal, not substantive].
+- **Trap:** Students choose [policy failure on contested measures reflects genuine substantive disagreement about those measures] because they confuse [genuine substantive disagreement over specific policies] with [tribal opposition and cultural identity framing that prevents cross-cutting coalitions even when massive majorities support the specific policies].
 - **Difficulty:** intermediate
 - **Pivot fact:** If compromise measures were not identifiable as coming from one side's agenda (i.e., if they were offered in culturally neutral framing), cross-cutting coalitions might form around them.
 - **Jurisdiction:** universal (U.S. political context)
@@ -265,7 +265,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### criminalization-drug-use-weak: Criminalization Does Not Reliably Deter Drug Use
 - **Rule:** The evidence that criminal penalties deter drug use is weak. Portugal decriminalized personal possession of all drugs in 2001 without increase in drug use; overdose deaths, HIV infections, and incarceration fell substantially. Cross-national comparisons find no consistent relationship between penalty severity and prevalence of use. NIJ concludes severity of punishment has little effect; certainty of consequences matters more — and consequences need not mean incarceration.
 - **Source:** Hughes & Stevens (*British Journal of Criminology* 2010); Reuter & Trautmann (European Commission 2009); NIJ Five Things About Deterrence
-- **Trap:** Students assume criminalization deters drug use because threatened punishment reduces demand. They miss that the empirical evidence shows severity of punishment has little deterrent effect, and that decriminalization in Portugal did not increase use — suggesting the assumed causal mechanism does not operate as predicted.
+- **Trap:** Students choose [criminalization deters drug use because threatened punishment reduces demand] because they confuse [an assumed causal mechanism where threatened punishment reduces demand] with [empirical evidence showing severity of punishment has little deterrent effect and decriminalization does not increase use].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Portugal's decriminalization had been accompanied by reduced treatment investment, use might have increased — the evidence supports decriminalization combined with treatment infrastructure, not decriminalization alone.
 - **Jurisdiction:** split — Portugal decriminalized; most U.S. states still criminalize (with some recent reversals)
@@ -274,7 +274,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### mat-evidence-gap: Medication-Assisted Treatment Evidence vs. Access Gap
 - **Rule:** Methadone and buprenorphine reduce overdose deaths, decrease illicit opioid use, improve treatment retention, and reduce criminal justice involvement. Observational studies find mortality rates 3–4 times lower for people in MAT. Yet as of 2022, only ~25% of people with opioid use disorder received MAT. Many correctional facilities prohibit it entirely despite high overdose risk upon release.
 - **Source:** National Academies *Medications for Opioid Use Disorder Save Lives* (2019); Sordo et al. (*BMJ* 2017); CDC MMWR (2024)
-- **Trap:** Students [assume the MAT access gap primarily reflects individual choice not to seek treatment] because [they miss the structural barriers operating upstream of individual choice — federal prescribing restrictions, institutional bans in corrections, stigma — that prevent evidence-based treatment from reaching people with opioid use disorder regardless of their preferences].
+- **Trap:** Students choose [the MAT access gap primarily reflects individual choice not to seek treatment] because they confuse [individual choice not to seek treatment] with [upstream structural barriers, such as federal prescribing restrictions, institutional bans, and stigma, that prevent evidence-based treatment from reaching people regardless of preferences].
 - **Difficulty:** intermediate
 - **Pivot fact:** Rhode Island provided MAT to all incarcerated individuals with OUD and saw a 61% reduction in overdose deaths upon release — demonstrating that the gap is a policy choice, not an inherent limit of the intervention.
 - **Jurisdiction:** federal only (federal restrictions on MAT prescribing; Rhode Island state reform)
@@ -283,7 +283,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### lead-deflection: LEAD Program — Deflection Without Arrest
 - **Rule:** Law Enforcement Assisted Diversion (LEAD), developed in Seattle, redirects people engaged in low-level drug offenses to case managers for housing, treatment, and services without arrest or prosecution. A controlled evaluation found LEAD participants were 58% less likely to be arrested after enrollment than similar individuals processed through the traditional system.
 - **Source:** Collins et al. (*Journal of Substance Abuse Treatment* 2017); LEAD National Support Bureau
-- **Trap:** Students assume diversion programs are fundamentally the same as criminalization because they still involve officer discretion and the threat of arrest motivates participation. They miss that the legal and practical consequences differ substantially — LEAD participants avoid arrest records, pretrial detention, and prosecution while gaining service connections.
+- **Trap:** Students choose [diversion programs are fundamentally the same as criminalization] because they confuse [the shared elements of officer discretion and threat of arrest] with [the substantially different legal and practical consequences, where diversion participants avoid arrest records and prosecution while gaining service connections].
 - **Difficulty:** intermediate
 - **Pivot fact:** If LEAD participation were entirely voluntary with no threat of arrest, the program might have lower uptake — the threat of arrest is partly what motivates engagement with services; but the outcome (services, not jail) is what produces the 58% recidivism reduction.
 - **Jurisdiction:** majority/minority (program in dozens of jurisdictions; not universal)
@@ -292,7 +292,7 @@ This chapter does not teach traditional criminal law elements (actus reus, mens 
 #### oregon-implementation-failure: Oregon Measure 110 — Decriminalization Without Infrastructure
 - **Rule:** Oregon's Measure 110 (2020) decriminalized personal possession of all drugs and funded treatment, but implementation failures (inadequate treatment infrastructure, confusing process) and rising overdose deaths led the legislature to recriminalize possession in 2024 (HB 4002). The lesson is not that decriminalization failed, but that decriminalization without adequate service infrastructure is incomplete policy.
 - **Source:** Oregon Legislative Assembly, HB 4002 (2024); policy analyses of Measure 110 implementation
-- **Trap:** Students [treat Oregon's 2024 recriminalization as evidence that decriminalization itself doesn't work] because [they conflate the policy (decriminalization) with its implementation (treatment funding was not deployed effectively), missing the chapter's narrower lesson: decriminalization without adequate service infrastructure is incomplete policy, not a failed experiment — the Oregon failure also illustrates that motivated cognition affects advocates as well as opponents].
+- **Trap:** Students choose [Oregon's 2024 recriminalization is evidence that decriminalization itself doesn't work] because they confuse [a failure of the decriminalization policy itself] with [a failure in implementation, where decriminalization without effectively deployed treatment funding is an incomplete policy rather than a fundamentally flawed experiment].
 - **Difficulty:** advanced
 - **Pivot fact:** If Oregon had deployed the treatment funding effectively before decriminalization took effect, the outcomes (and political sustainability) might have been different — the experiment tested decriminalization without treatment infrastructure, not decriminalization with it.
 - **Jurisdiction:** federal only (Oregon state experiment)

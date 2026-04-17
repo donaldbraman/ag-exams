@@ -49,7 +49,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### sixth-amendment-incorporation: Jury Trial as Fundamental Right
 - **Rule:** The Sixth Amendment jury trial right applies to the states via the Fourteenth Amendment because jury trial is "fundamental to the American scheme of justice." It serves as a safeguard against corrupt prosecutors and compliant judges.
 - **Source:** *Duncan v. Louisiana* (1968)
-- **Trap:** Students assume jury trial was always constitutionally required in state courts because they confuse the existence of the right with its earlier non-incorporation — before *Duncan*, states could and did deny jury trials for state crimes.
+- **Trap:** Students choose [the assumption that jury trials were always constitutionally required in state courts] because they confuse [the existence of the Sixth Amendment right] with [its earlier non-incorporation against the states before Duncan].
 - **Difficulty:** foundational
 - **Pivot fact:** If Duncan had been charged with a federal offense (not a state offense), the jury trial right would have applied without the incorporation question.
 - **Jurisdiction:** universal (post-1968)
@@ -58,7 +58,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### serious-offense-threshold: The Petty Offense Line
 - **Rule:** Jury trial applies to "serious" offenses — crimes carrying potential imprisonment of more than six months. Minor offenses below this threshold are excluded as "petty."
 - **Source:** *Duncan v. Louisiana* (1968) (holding crime punishable by two years constitutes serious offense); *Baldwin v. New York* (1970) (establishing six-month line)
-- **Trap:** Students misapply the threshold by looking at the sentence actually imposed rather than the potential maximum — the test is the maximum authorized sentence, not the actual punishment received.
+- **Trap:** Students choose [the sentence actually imposed as the threshold for the jury trial right] because they confuse [the actual punishment received] with [the maximum authorized sentence].
 - **Difficulty:** foundational
 - **Pivot fact:** If Louisiana's maximum penalty for simple battery had been six months rather than two years, Duncan would have had no jury trial right.
 - **Jurisdiction:** universal
@@ -67,7 +67,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### federalism-laboratory-dissent: State Experimentation vs. Individual Liberty
 - **Rule:** Justice Harlan's dissent argues that states should retain freedom to experiment with criminal procedure under a federalism "laboratories of democracy" rationale; the majority rejects this when individual liberty is at stake.
 - **Source:** *Duncan v. Louisiana* (1968), Harlan dissent (citing *New State Ice Co. v. Liebmann*)
-- **Trap:** Students treat the laboratory metaphor as dispositive because they forget that incorporation forecloses state experimentation on rights deemed fundamental — the metaphor has limits when the subject is liberty deprivation.
+- **Trap:** Students choose [to treat the states-as-laboratories metaphor as dispositive for state experimentation] because they confuse [permissible state experimentation] with [experimentation on fundamental rights foreclosed by incorporation].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Duncan's conviction had resulted only in a fine rather than imprisonment, the balance between state experimentation and individual liberty might have shifted.
 - **Jurisdiction:** universal (constitutional floor)
@@ -78,7 +78,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### batson-framework: Three-Step Test for Discriminatory Peremptory Challenges
 - **Rule:** *Batson* establishes a three-step framework: (1) defendant makes prima facie showing of purposeful discrimination; (2) prosecutor offers race-neutral explanation; (3) trial court determines whether intentional discrimination occurred. Extended to gender (*J.E.B. v. Alabama*, 1994) and defense attorneys (*Georgia v. McCollum*, 1992).
 - **Source:** *Batson v. Kentucky* (1986)
-- **Trap:** Students think *Batson* only applies to prosecutors because they forget the extension to defense attorneys in *McCollum* — both sides are constrained.
+- **Trap:** Students choose [the conclusion that Batson only applies to prosecutors] because they confuse [the original application of Batson to state actors] with [its extension to constrain defense attorneys under McCollum].
 - **Difficulty:** foundational
 - **Pivot fact:** If the trial court at step three finds the prosecutor's explanation pretextual, the peremptory strike is invalidated and the juror is seated.
 - **Jurisdiction:** universal
@@ -86,7 +86,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### batson-gap: The Practical Failure of Batson
 - **Rule:** Statistical evidence demonstrates *Batson* has not eliminated race discrimination in jury selection. In North Carolina capital cases, prosecutors struck 53% of eligible Black jurors vs. 26% of others; in some Alabama counties, 80% of qualified Black jurors were struck. Courts can always find facially neutral reasons if they look hard enough.
 - **Source:** Chapter empirical discussion (Section: "Batson in Practice")
-- **Trap:** Students treat *Batson* compliance as proof of non-discrimination because they conflate formal compliance (providing a race-neutral reason) with substantive equality — the framework is easy to satisfy formally while masking discrimination.
+- **Trap:** Students choose [to treat Batson compliance as proof of non-discrimination] because they confuse [formal compliance through providing a race-neutral reason] with [substantive equality free from masked discrimination].
 - **Difficulty:** intermediate
 - **Pivot fact:** If trial courts scrutinized the pattern of strikes across the entire jury selection rather than each strike in isolation, *Batson* violations would be much easier to establish.
 - **Jurisdiction:** universal (but enforcement varies dramatically by jurisdiction)
@@ -96,7 +96,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### bench-trial-consent: Government Consent Requirement
 - **Rule:** In federal court, a defendant may waive jury trial only with the approval of both the court and the government. The defendant cannot unilaterally choose a bench trial — the government retains a veto.
 - **Source:** Fed. R. Crim. P. 23(a); *Singer v. United States* (1965)
-- **Trap:** Students assume the right to jury trial is purely the defendant's to waive because they invert the constitutional logic — *Singer* treats jury trial as a public institution protecting against both acquittal bias and conviction bias, not just a defendant's personal preference.
+- **Trap:** Students choose [the assumption that the right to a jury trial is purely the defendant's to waive] because they confuse [a defendant's personal preference] with [the constitutional logic of Singer treating the jury as a public institution protecting against both acquittal and conviction bias].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the case involved circumstances of "passion, prejudice, or public feeling" so extreme that a jury could not be impartial, the court might allow a bench trial even over government objection under *Singer*'s narrow exception.
 - **Jurisdiction:** federal only (states vary; many do not require government consent)
@@ -106,7 +106,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### power-vs-right: Nullification as Power Without Legal Right
 - **Rule:** Juries possess the factual *power* to acquit despite proof beyond a reasonable doubt, and this acquittal is unreviewable under the Double Jeopardy Clause. However, juries have no legal *right* to nullify — they have no entitlement to be informed of this power, and courts have a duty to prevent it through instructions.
 - **Source:** *United States v. Dougherty* (1972); *United States v. Kleinman* (2018)
-- **Trap:** Students conflate power with right — they argue that because nullification cannot be reversed, it must be legally permitted, but courts consistently hold that unreviewability of the power does not create a right or an obligation to inform.
+- **Trap:** Students choose [the argument that jury nullification is a legally permitted right because it cannot be reversed] because they confuse [the unreviewable power of the jury to acquit] with [a legal right or obligation to inform the jury of this power].
 - **Difficulty:** foundational
 - **Pivot fact:** If a defendant were constitutionally entitled to a nullification instruction, courts would have to inform juries of the power, fundamentally changing how trials work.
 - **Jurisdiction:** universal
@@ -115,7 +115,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### anti-nullification-instruction-limits: The Line Between Permissible and Coercive Instructions
 - **Rule:** Courts may instruct juries that they must follow the law and cannot substitute their sense of justice. However, courts may *not* instruct jurors that (1) they could be punished for nullification, or (2) that nullification is impossible or invalid. Instructions implying punishment cross into coercion.
 - **Source:** *United States v. Kleinman* (2018) (finding last two sentences of instruction "technically erroneous" but harmless)
-- **Trap:** Students think any anti-nullification instruction is permissible because they focus on the court's general authority to instruct rather than the specific line against implying punishment — the distinction is between directing the jury's legal duty and threatening consequences.
+- **Trap:** Students choose [the conclusion that any anti-nullification instruction is permissible] because they confuse [the court's general authority to direct the jury's legal duty] with [impermissible instructions that threaten consequences or imply punishment].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Kleinman's evidence had been weak rather than overwhelming, the erroneous instruction might not have been harmless error — the same instruction would have reversed.
 - **Jurisdiction:** universal
@@ -123,7 +123,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### dougherty-informal-governor: Deliberate Nondisclosure as System Design
 - **Rule:** The *Dougherty* majority holds that the legal system is not being deceptive when it limits jurors' awareness of nullification power to "informal input." This deliberate limitation serves as a "governor" — reserving nullification for exceptional cases while generally ensuring rule-following.
 - **Source:** *United States v. Dougherty* (D.C. Cir. 1972), Leventhal opinion
-- **Trap:** Students accept the "governor" rationale without questioning whether it is coherent because they do not engage with Bazelon's dissent — the majority treats selective disclosure as neutral system design rather than as deliberate suppression.
+- **Trap:** Students choose [to blindly accept the majority's "governor" rationale for selective disclosure] because they confuse [a neutral system design] with [deliberate suppression of the jury's nullification power as critiqued in Bazelon's dissent].
 - **Difficulty:** intermediate
 - **Pivot fact:** If jurors received standardized education about nullification before trials, the informal/formal distinction that *Dougherty* relies on would collapse.
 - **Jurisdiction:** universal (D.C. Circuit but widely cited)
@@ -131,7 +131,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### bazelon-deliberate-candor: The Case for Disclosure
 - **Rule:** Chief Judge Bazelon's dissent in *Dougherty* argues that limiting juror awareness to haphazard informal communication is a form of "deliberate lack of candor" that benefits educated and well-connected jurors over others. The power of nullification should be formally disclosed.
 - **Source:** *United States v. Dougherty* (1972), Bazelon dissent
-- **Trap:** Students treat this as a fringe position because it lost in *Dougherty* — but many legal scholars and at least one state (Indiana) have moved toward some form of disclosure; the question is doctrinally open for legislative action.
+- **Trap:** Students choose [to treat informing the jury of nullification as a universally rejected fringe position] because they confuse [the specific federal defeat in Dougherty] with [the doctrinally open possibility for legislative action and adoption in states like Indiana].
 - **Difficulty:** advanced
 - **Pivot fact:** If studies showed that nullification instructions caused more, not fewer, just outcomes (reducing bias rather than enabling it), the *Dougherty* majority's prudential concern would lose its evidentiary foundation.
 - **Jurisdiction:** majority/minority (most jurisdictions reject disclosure; Indiana explicitly permits it)
@@ -141,7 +141,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### nullification-historical-roots: Dual Legacy of Nullification
 - **Rule:** Nullification has been used to protect defendants from unjust laws (colonial juries acquitting Zenger; antebellum juries defying the Fugitive Slave Act) and to shield perpetrators of racial violence (southern juries refusing to convict white defendants for crimes against Black victims). This dual legacy informs the contemporary debate.
 - **Source:** Chapter discussion (Section: "The Debate: Nullification and Race"); *Bushell's Case* (1670)
-- **Trap:** Students treat nullification's positive historical examples as settling the normative question because they forget the exact same mechanism produced some of the worst racial injustices in American history — the same power can serve either justice or oppression.
+- **Trap:** Students choose [to treat nullification's positive historical examples as settling the normative question] because they confuse [the power's capacity to serve justice] with [the power's historical mechanism for producing extreme racial oppression].
 - **Difficulty:** foundational
 - **Pivot fact:** If historical nullification had only been used to protect the unpopular from unjust laws (never to shield white perpetrators of racial violence), the contemporary debate would be much simpler.
 - **Jurisdiction:** universal (historical context)
@@ -150,7 +150,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### butler-race-conscious-nullification: Race-Conscious Nullification as Democratic Protest
 - **Rule:** Professor Paul Butler argues that Black jurors should engage in race-conscious nullification for nonviolent offenses, particularly drug crimes. The exclusion of Black Americans from meaningful political participation that produced these laws legitimates using jury nullification as the "most direct form of democracy we have."
 - **Source:** Paul Butler, chapter discussion (Section: "Paul Butler's Proposal")
-- **Trap:** Students think Butler's proposal is self-evidently unlawful because they confuse the power/right distinction — nullification cannot be punished, and Butler is describing a moral argument for exercising an unreviewable power, not a legal claim to a new right.
+- **Trap:** Students choose [the conclusion that Butler's proposal for racially based nullification is self-evidently unlawful] because they confuse [a legal claim to a new right] with [a moral argument for exercising the jury's unreviewable power].
 - **Difficulty:** advanced
 - **Pivot fact:** If political exclusion of Black Americans were remediated and criminal law reformed through normal democratic channels, Butler's predicate for race-conscious nullification would weaken.
 - **Jurisdiction:** universal (academic proposal, not positive law)
@@ -159,7 +159,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### kennedy-nullification-critique: The Costs of Solidarity-Based Nullification
 - **Rule:** Professor Randall Kennedy argues that race-conscious nullification ignores law-abiding community members who bear the costs of crime and reflects "destructive racial kinship" that undermines the neutrality and trustworthiness of the system. It is a low-visibility protest that risks backlash.
 - **Source:** Randall Kennedy, chapter discussion (Section: "Randall Kennedy's Response")
-- **Trap:** Students treat Kennedy's critique as purely conservative or pro-prosecution because they miss his argument from within the Black community — his core point is about whose interests within the affected community are being represented.
+- **Trap:** Students choose [to dismiss Kennedy's critique of race-based nullification as purely conservative or pro-prosecution] because they confuse [traditional pro-prosecution arguments] with [Kennedy's core point about representing the interests of victims within the affected Black community].
 - **Difficulty:** advanced
 - **Pivot fact:** If crime affected perpetrators' communities at negligible rates (rather than disproportionately), Kennedy's argument about ignoring law-abiding neighbors would lose force.
 - **Jurisdiction:** universal (academic)
@@ -168,7 +168,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### gregory-racial-bias-amplification: When the Jury Amplifies Rather than Corrects Bias
 - **Rule:** *State v. Gregory* (Wash. 2018) struck down Washington's death penalty based on evidence that Black defendants were 4.5 times more likely to receive death sentences than similarly situated white defendants, even controlling for aggravating factors. This contrasts with *McCleskey v. Kemp* (1987), which required proof of discriminatory intent in the specific case — a virtually impossible standard.
 - **Source:** *State v. Gregory* (Wash. 2018); *McCleskey v. Kemp* (1987)
-- **Trap:** Students think statistical evidence of racial disparity is always sufficient to prove an Equal Protection violation because they overlook *McCleskey*'s individualized-intent requirement — the federal constitutional standard is far more demanding than the Washington state standard applied in *Gregory*.
+- **Trap:** Students choose [the assertion that statistical evidence of racial disparity is always sufficient to prove an Equal Protection violation] because they confuse [the less demanding Washington state standard applied in Gregory] with [the demanding federal constitutional standard requiring individualized intent under McCleskey].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the defendant in *McCleskey* had been able to show a discriminatory statement by the specific prosecutor or judge in his case, the outcome would have differed — systemic evidence alone was insufficient.
 - **Jurisdiction:** split (Washington state constitution vs. federal Equal Protection Clause)
@@ -178,7 +178,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### jury-polling-braman: Systematic Community Feedback Through Post-Verdict Surveys
 - **Rule:** Braman's "jury polling" proposal would have judges survey jurors about their sentencing preferences after conviction. Responses would be non-binding on judges but aggregated to reveal systematic disconnections between law and community values. The mechanism is feasible — demonstrated by Judge Gwin's study — but faces institutional resistance.
 - **Source:** Chapter discussion (Braman proposal, Gwin study, Section: "Jury Polling")
-- **Trap:** Students dismiss jury polling as advisory and therefore harmless because they miss the structural insight — aggregated data over thousands of cases creates accountability pressure even without binding effect, transforming individual anecdote into systemic evidence.
+- **Trap:** Students choose [to dismiss non-binding jury polling as purely advisory and therefore harmless] because they confuse [a lack of binding legal effect in individual cases] with [the structural accountability pressure created by aggregating systemic evidence over thousands of cases].
 - **Difficulty:** intermediate
 - **Pivot fact:** If federal guidelines were advisory rather than semi-mandatory, the gap Gwin documented (jurors recommending 19% of Guidelines sentences) would translate more directly into actual sentence reductions.
 - **Jurisdiction:** federal only (as implemented; state adaptation is possible)
@@ -187,7 +187,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### gwin-study-findings: Empirical Evidence of Gap Between Jury Values and Guidelines
 - **Rule:** In 22 criminal trials, Judge Gwin surveyed 261 jurors. Median juror-recommended sentences were 19% of the median Guidelines range; 88% of jurors recommended below the Guidelines minimum; the Guidelines were on average 445% of the median juror recommendation. The only category exceeding Guidelines was white-collar crime.
 - **Source:** Judge James Gwin, Northern District of Ohio study (2010); *United States v. Pusey* (example)
-- **Trap:** Students interpret the gap as simply showing jurors lack information about deterrence and public safety because they overlook the deliberative democracy point — Fishkin's research suggests that deliberation under good conditions produces *more considered* judgments than raw public opinion, not less informed ones.
+- **Trap:** Students choose [the interpretation that the gap between polling and verdicts simply shows jurors lack information about deterrence and public safety] because they confuse [uninformed raw public opinion] with [the more considered judgments produced through deliberation under good conditions].
 - **Difficulty:** intermediate
 - **Pivot fact:** If jurors had been asked to recommend sentences with full knowledge of guidelines and sentencing rationales (deterrence, incapacitation), their recommendations might have risen — but the study did not test this.
 - **Jurisdiction:** federal only (Guidelines context)
@@ -196,7 +196,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### deliberation-effect: Deliberation Transforms Preferences
 - **Rule:** James Fishkin's research on deliberative democracy shows that when randomly selected citizens receive balanced information and deliberate — as jurors do — their preferences often diverge substantially from raw public opinion. The punitive turn in criminal law may reflect non-deliberative political processes (low-information elections, fear-based messaging) rather than authentic community values.
 - **Source:** James Fishkin, chapter discussion (Section: "The Deliberation Effect")
-- **Trap:** Students assume that public support for tough sentencing policies reflects what citizens would actually want upon deliberation because they confuse raw poll results with considered judgment — the very point of deliberative polling is that these differ systematically.
+- **Trap:** Students choose [the assumption that public support for tough sentencing policies reflects what citizens actually want] because they confuse [raw poll results] with [the systematically different considered judgments revealed by deliberative polling].
 - **Difficulty:** advanced
 - **Pivot fact:** If sentencing policy were set by citizen assemblies using deliberative processes rather than legislatures responding to electoral cycles, the resulting policies would likely be substantially less punitive.
 - **Jurisdiction:** universal (empirical research)
@@ -204,7 +204,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### bail-nullification: Community Bail Funds as Extra-Judicial Feedback
 - **Rule:** Simonson argues that community bail funds practice "bail nullification" — injecting community norms into pretrial detention decisions, checking government power, and resisting practices that systematically disadvantage the poor. The Bronx Freedom Fund demonstrated that over 95% returned to court and more than half had cases dismissed — challenging the flight-risk premise of money bail.
 - **Source:** Jocelyn Simonson, *Bail Nullification*, 115 MICH. L. REV. 585 (2017), chapter discussion
-- **Trap:** Students treat bail funds as purely charitable organizations because they miss Simonson's analytic move — she frames them as democratic participation that produces evidence challenging judicial determinations, parallel to jury nullification in function.
+- **Trap:** Students choose [to treat community bail funds as purely charitable organizations] because they confuse [traditional philanthropic charity] with [Simonson's analytic framework of bail funds as democratic participation that challenges judicial determinations].
 - **Difficulty:** intermediate
 - **Pivot fact:** If return rates for bailed individuals were low rather than 95%+, the evidentiary challenge to money bail's flight-risk premise would disappear.
 - **Jurisdiction:** universal (reform proposal)
@@ -212,7 +212,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### participatory-defense: Community Voice Outside the Courtroom
 - **Rule:** Participatory defense (Silicon Valley De-Bug model, 55+ hubs nationally) mobilizes community members to create "social biography packets" and appear at hearings, injecting community voice into plea bargains and bench proceedings — the 95%+ of cases that never go to a jury. Claims approximately 25,000 years of avoided incarceration.
 - **Source:** Raj Jayadev / National Participatory Defense Network, chapter discussion
-- **Trap:** Students think participatory defense is only relevant to jury trials because they miss its deliberate focus on the non-trial majority — it is specifically designed to insert community voice where the jury never operates.
+- **Trap:** Students choose [the assumption that participatory defense is only relevant to jury trials] because they confuse [traditional jury trial advocacy] with [a deliberate mechanism designed to insert community voice into the non-trial majority of cases].
 - **Difficulty:** intermediate
 - **Pivot fact:** If over 95% of cases did not end in guilty pleas (i.e., if trials were more common), the need for extra-trial community voice mechanisms would be less acute.
 - **Jurisdiction:** universal (reform practice)
@@ -220,7 +220,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### grand-jury-reform: Grand Jury 2.0 as Oversight Mechanism
 - **Rule:** Fairfax argues that historically grand juries exercised broad civic oversight (taxation, public works, appointments) but have been reduced to rubber-stamping charging decisions (indictment rates exceeding 90%). "Grand Jury 2.0" would expand functions to cover plea bargains, sentencing recommendations, and prosecutorial priorities.
 - **Source:** Roger Fairfax, *Grand Jury Innovation*, 19 WM. & MARY BILL RTS. J. 339 (2010), chapter discussion
-- **Trap:** Students assume grand juries are constitutionally required in all criminal cases because they forget *Hurtado v. California* (1884) held that the grand jury requirement was not incorporated against the states — many states use preliminary hearings instead, and reform proposals would require legislative action.
+- **Trap:** Students choose [the assumption that grand juries are constitutionally required in all state and federal criminal cases] because they confuse [the Fifth Amendment federal grand jury requirement] with [the unincorporated status of the right against the states established in Hurtado v. California].
 - **Difficulty:** advanced
 - **Pivot fact:** If grand jury proceedings were public rather than secret, the rubber-stamp critique would be harder to maintain or easier to remedy — transparency itself would create accountability.
 - **Jurisdiction:** federal only (constitutional requirement); majority/minority (state use varies)
@@ -228,7 +228,7 @@ The chapter is not organized around elements of a crime. It is organized around 
 #### error-reporting-just-culture: Blame-Free Error Reporting for System Learning
 - **Rule:** Dekker's "just culture" model, illustrated by the FAA's Aviation Safety Reporting System, suggests that most failures are system-level rather than individual. A blame-free reporting system for criminal legal errors — prosecutorial overreach, inadequate defense, judicial misapplication — would surface systemic problems rather than punishing individuals and suppressing information.
 - **Source:** Sidney Dekker, *Just Culture* (2007), chapter discussion (W. Edwards Deming: ~94% of problems are system-level)
-- **Trap:** Students think individual accountability and system learning are compatible because they underestimate the chilling effect — when individuals face punishment for reporting errors, the errors go unreported and systemic problems remain hidden.
+- **Trap:** Students choose [the conclusion that individual accountability and system learning are naturally compatible] because they confuse [effective systemic problem-solving] with [punitive environments that create a chilling effect and keep errors hidden].
 - **Difficulty:** advanced
 - **Pivot fact:** If prosecutors, defenders, and judges had institutional protection from retaliation for self-reporting errors, adoption rates for error reporting would rise dramatically.
 - **Jurisdiction:** universal (reform proposal)

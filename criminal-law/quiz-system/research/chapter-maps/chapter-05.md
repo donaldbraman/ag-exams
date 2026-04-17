@@ -41,7 +41,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### legality-common-law-crimes
 - **Rule:** Courts may not enforce common law crimes that were never legislatively enacted. A reception statute preserving "common law" does not itself constitute enactment of specific common law offenses.
 - **Source:** *State v. Palendrano* (1972); Robertson (discussed in text re: legality doctrine); D.C. common scold hypothetical
-- **Trap:** Students think legality prohibits all judge-made law because they confuse the ban on common law crimes with the permissibility of judicial interpretation of enacted statutes.
+- **Trap:** Students choose [thinking legality prohibits all judge-made law] because they confuse [the ban on common law crimes] with [the permissibility of judicial interpretation of enacted statutes].
 - **Difficulty:** foundational
 - **Pivot fact:** Whether the jurisdiction has a reception statute that explicitly names the specific offense versus one that merely preserves "common law" generally.
 - **Jurisdiction:** majority (MPC and most modern codes reject common law crimes; some states retain broader reception)
@@ -50,7 +50,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### legality-no-retroactivity
 - **Rule:** Courts may not expand criminal statutes to cover conduct not clearly within the legislative text. A new judicial construction that extends a statute's reach cannot be applied to conduct that preceded the expansion.
 - **Source:** Legality doctrine discussion (text lines 51–53): "Courts may not expand criminal statutes to cover conduct not clearly within the legislative text"; *McNally* (Court refuses to expand "scheme to defraud" beyond its text)
-- **Trap:** Students apply legality only to newly enacted statutes because they forget that retroactive judicial expansion of a statute's scope is also a legality violation.
+- **Trap:** Students choose [applying legality only to newly enacted statutes] because they confuse [the rule against newly enacted retrospective statutes] with [the rule against retroactive judicial expansion of a statute's scope].
 - **Difficulty:** intermediate
 - **Pivot fact:** Whether the court's new interpretation of the statute was announced before or after the defendant's conduct.
 - **Jurisdiction:** universal
@@ -61,7 +61,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### vagueness-two-prong-test
 - **Rule:** A statute is void for vagueness if it (1) fails to give ordinary people fair notice of prohibited conduct, or (2) authorizes arbitrary or discriminatory enforcement. Both prongs are independent grounds.
 - **Source:** *State v. Palendrano* (1972); *Johnson v. United States*, 576 U.S. 591 (2015)
-- **Trap:** Students argue vagueness only when a statute has no definition because they confuse "no definition exists" (fair notice prong) with "enforcement is standardless" (arbitrary enforcement prong)—a statute can be clear but still void if it invites discriminatory enforcement.
+- **Trap:** Students choose [arguing vagueness only when a statute has no definition] because they confuse ["no definition exists" under the fair notice prong] with ["enforcement is standardless" under the arbitrary enforcement prong, where clear statutes can still invite discriminatory enforcement].
 - **Difficulty:** foundational
 - **Pivot fact:** Whether the conduct the defendant engaged in was clearly within or outside a reasonable reading of the statute's scope.
 - **Jurisdiction:** universal (constitutional, Fourteenth/Fifth Amendment)
@@ -70,7 +70,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### vagueness-as-applied-vs-facial
 - **Rule:** A vagueness challenge can be "as applied" (this statute is unconstitutional as applied to this defendant's specific conduct) or "facial" (the statute is unconstitutional in all its applications). As-applied challenges are more common and require showing the defendant lacked fair notice as to her specific conduct.
 - **Source:** *Robertson* (court reads statute as applied to clothed women on public transit; vagueness not explicitly invoked but legality/lenity fill same function)
-- **Trap:** Students raise a facial vagueness challenge when an as-applied challenge is stronger because they default to the broader argument without analyzing whether the defendant's conduct specifically lacked notice.
+- **Trap:** Students choose [raising a facial vagueness challenge when an as-applied challenge is stronger] because they confuse [a general challenge to a statute's breadth] with [the specific analysis of whether the defendant's own conduct lacked notice].
 - **Difficulty:** intermediate
 - **Pivot fact:** Whether the defendant's specific conduct falls within a clearly prohibited core versus a genuinely uncertain penumbra of the statute.
 - **Jurisdiction:** universal
@@ -79,7 +79,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### vagueness-cant-delegate-to-blackstone
 - **Rule:** A statute does not give fair notice if ordinary citizens would need to consult historical common law materials (like Blackstone's *Commentaries*) to know what is prohibited.
 - **Source:** *State v. Palendrano* (1972) ("the average citizen would be obliged to carry a pocket edition of Blackstone")
-- **Trap:** Students treat historical common law definitions as sufficient notice because they assume sophisticated citizens research legal history before acting.
+- **Trap:** Students choose [treating historical common law definitions as sufficient notice] because they confuse [the theoretical assumption that citizens research legal history] with [the reality of actual fair notice in real-world decision-making].
 - **Difficulty:** intermediate
 - **Pivot fact:** Whether the statute references a defined body of law (e.g., "as defined in Title 18") versus an undefined historical tradition.
 - **Jurisdiction:** universal
@@ -90,7 +90,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### lenity-genuine-ambiguity-required
 - **Rule:** Lenity applies only when a statute is genuinely ambiguous after applying all ordinary tools of construction (text, structure, history, purpose). It is a last resort, not a first resort.
 - **Source:** *McNally* (Court invokes lenity to choose the narrower of "two rational readings"); *Yates v. United States*, 574 U.S. 528 (2015)
-- **Trap:** Students invoke lenity whenever there is any possible narrower reading because they treat it as a trump card rather than a tiebreaker.
+- **Trap:** Students choose [invoking lenity whenever there is any possible narrower reading] because they confuse [lenity as a trump card] with [lenity as a tiebreaker of last resort].
 - **Difficulty:** intermediate
 - **Pivot fact:** Whether a court applying standard interpretive tools finds one reading clearly dominant, or whether two readings remain plausible after exhausting those tools.
 - **Jurisdiction:** universal (federal and most states; MPC does not require lenity but does require strict construction)
@@ -99,7 +99,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### lenity-harsher-reading-requires-clear-congress
 - **Rule:** When a criminal statute has two rational readings—one harsher, one narrower—courts choose the harsher only when Congress has spoken in "clear and definite language."
 - **Source:** *McNally v. United States* (1987) (mail fraud statute limited to property rights; intangible rights excluded absent clear congressional statement)
-- **Trap:** Students assume Congress meant to capture obvious harms because they confuse the policy goal of a statute with its enacted scope.
+- **Trap:** Students choose [assuming Congress meant to capture obvious harms] because they confuse [the policy goal of a statute] with [its enacted scope].
 - **Difficulty:** intermediate
 - **Pivot fact:** Whether the statute's text expressly reaches the conduct at issue or whether reaching it requires inference from purpose.
 - **Jurisdiction:** federal (federal courts; state courts apply similar rule but phrasing varies)
@@ -108,7 +108,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### lenity-fish-not-tangible-object
 - **Rule:** Lenity applies even when the ordinary meaning of a word could cover the conduct, if the statutory context and purpose suggest a narrower scope. Statutory words are read in their context, not in isolation.
 - **Source:** *Yates v. United States*, 574 U.S. 528 (2015) (fish not a "tangible object" under Sarbanes-Oxley's financial fraud provision)
-- **Trap:** Students accept a plain-meaning argument as defeating lenity because they miss that context can narrow even unambiguous text.
+- **Trap:** Students choose [accepting a plain-meaning argument as defeating lenity] because they confuse [unambiguous textual plain-meaning] with [statutory context that can narrow even unambiguous text].
 - **Difficulty:** advanced
 - **Pivot fact:** Whether the statute's surrounding provisions and purposes confine the meaning of an otherwise capacious word.
 - **Jurisdiction:** federal
@@ -119,7 +119,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### equal-protection-gender-specific-offense
 - **Rule:** A criminal offense that by its text or tradition can only be committed by persons of one gender violates the Fourteenth Amendment's equal protection clause.
 - **Source:** *State v. Palendrano* (1972) (*communis rixatrix* grammatically feminine; Blackstone confined offense to women)
-- **Trap:** Students miss the equal protection argument because they focus on vagueness because the common scold problem foregrounded vagueness, causing them to overlook the per se constitutional bar.
+- **Trap:** Students choose [missing the equal protection argument to focus on vagueness] because they confuse [the foregrounded vagueness issue in the common scold problem] with [the per se constitutional bar of equal protection].
 - **Difficulty:** foundational
 - **Pivot fact:** Whether the statute's text or traditional enforcement is explicitly sex-specific or merely more commonly applied to one sex.
 - **Jurisdiction:** universal (Fourteenth Amendment)
@@ -130,7 +130,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### desuetude-prolonged-nonenforcement
 - **Rule:** Prolonged failure to enforce a law in the face of widespread violations may render it void as desuetude. Most American courts reject this doctrine on separation-of-powers grounds—if the legislature wants to repeal a law, it may.
 - **Source:** *Commonwealth v. Stowell*, 449 N.E.2d 357 (Mass. 1983) (adultery statute in "comprehensive desuetude" but court declines to invalidate); D.C. common scold hypothetical (last prosecuted 1829)
-- **Trap:** Students argue desuetude as a strong independent ground because they miss that most jurisdictions reject it, making it a weak argument compared to vagueness or legality.
+- **Trap:** Students choose [arguing desuetude as a strong independent ground] because they confuse [the theoretical concept of desuetude] with [the reality that most jurisdictions reject it as a weak argument compared to vagueness or legality].
 - **Difficulty:** intermediate
 - **Pivot fact:** Whether the jurisdiction has affirmatively adopted the desuetude doctrine in prior cases versus merely acknowledged it.
 - **Jurisdiction:** minority (most states reject; some states and D.C. have used it)
@@ -139,7 +139,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### desuetude-separation-of-powers-limit
 - **Rule:** The primary objection to desuetude is separation of powers: courts lack authority to repeal statutes; only legislatures may repeal laws. Courts that decline desuetude invoke this structural constraint.
 - **Source:** *Stowell* discussion (text line 55); synthesis section
-- **Trap:** Students treat desuetude as equivalent to vagueness because both respond to unenforced or unclear laws—missing that desuetude is a structural/democratic objection while vagueness is a constitutional notice objection.
+- **Trap:** Students choose [treating desuetude as equivalent to vagueness] because they confuse [desuetude as a structural/democratic objection to unenforced laws] with [vagueness as a constitutional notice objection to unclear laws].
 - **Difficulty:** advanced
 - **Pivot fact:** Whether framing the claim as judicial repeal versus constitutional invalidity changes the separation-of-powers analysis.
 - **Jurisdiction:** universal principle (though application varies)
@@ -150,7 +150,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### asymmetric-correction-under-over-inclusive
 - **Rule:** Under-inclusive judicial interpretations (harmful conduct escapes punishment) are politically easy to correct because legislatures gain politically by "closing loopholes." Over-inclusive interpretations (innocent conduct is punished) are politically hard to correct because narrowing statutes invites attacks for being "soft on crime." Jeremy Bentham identified this same asymmetry in punishment calibration nearly two centuries ago: errors of under-punishment are "clear and manifest, and easy to be remedied," while errors of over-punishment reflect what "legislators and men in general are naturally inclined" toward.
 - **Source:** Asymmetric error correction section (lines 104–128); Bentham quote (lines 120–124); *Robertson* (Massachusetts legislature amended within one year)
-- **Trap:** Students treat the asymmetric correction argument as a simple explanation for why narrow interpretation is always correct because they miss the chapter's own critique—the model doesn't always work as predicted.
+- **Trap:** Students choose [treating the asymmetric correction argument as a simple explanation for why narrow interpretation is always correct] because they confuse [a flawless predictive model] with [the chapter's own critique that the model does not always work as predicted].
 - **Difficulty:** intermediate
 - **Pivot fact:** Whether the legislature has responded (or failed to respond) to a prior court narrowing of the same or similar statute.
 - **Jurisdiction:** universal (descriptive/normative theory, not jurisdiction-specific doctrine)
@@ -159,7 +159,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### asymmetric-correction-notice-liberty-instrumental
 - **Rule:** Under the asymmetric correction model, fair notice and liberty are instrumental rather than intrinsic values—they matter because over-inclusive errors tend to persist uncorrected, not because notice and liberty are inherently required.
 - **Source:** Asymmetric error correction section (lines 126–128)
-- **Trap:** Students treat notice and liberty as absolute values because they recall the standard justifications and miss the chapter's reframing of them as contingent on the likelihood of legislative correction.
+- **Trap:** Students choose [treating notice and liberty as absolute values] because they confuse [the standard justifications of these values] with [the chapter's reframing of them as contingent on the likelihood of legislative correction].
 - **Difficulty:** advanced
 - **Pivot fact:** Whether a particular type of over-inclusive error would predictably generate political pressure to correct it (undermining the instrumental argument).
 - **Jurisdiction:** universal (theoretical)
@@ -168,7 +168,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### asymmetric-correction-model-failure
 - **Rule:** The asymmetric correction model predicts that under-inclusive judicial interpretations will be corrected. But the federal corruption case study shows this prediction fails: Congress did not correct *Skilling*, *McDonnell*, *Kelly*, *Ciminelli*, or *Snyder* even after bipartisan bills were introduced.
 - **Source:** Corruption case study (lines 200–247); synthesis section
-- **Trap:** Students conclude the asymmetric model is correct from the *McNally*/*§ 1346* example because they treat that single confirming instance as proof and overlook the pattern of non-correction that followed.
+- **Trap:** Students choose [concluding the asymmetric model is correct based on the McNally/§ 1346 example] because they confuse [a single confirming instance of legislative correction] with [the broader pattern of non-correction that followed].
 - **Difficulty:** advanced
 - **Pivot fact:** Whether the political dynamics that drove correction after *McNally* (complete elimination of doctrine, clear prosecutor interest, no organized opposition) were present after subsequent narrowing decisions.
 - **Jurisdiction:** universal (theoretical critique)
@@ -177,7 +177,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### reform-commissions-mixed-results
 - **Rule:** Legislatures sometimes respond to accumulated criminal code errors by creating reform commissions, but results are mixed: some succeed (Illinois CLEAR Commission reduced the code by one-third over eight years) while others fail (D.C. Criminal Code Reform Commission passed unanimously, then was overturned by Congress despite 83% public support).
 - **Source:** Reform Commissions callout note (lines 130–140)
-- **Trap:** Students argue that legislative reform commissions reliably correct accumulated errors because they focus on procedural correctness (bipartisan support, expert design) while missing that national political dynamics can override even unanimous local reform.
+- **Trap:** Students choose [arguing that legislative reform commissions reliably correct accumulated errors] because they confuse [procedural correctness like bipartisan support and expert design] with [the reality that national political dynamics can override even unanimous local reform].
 - **Difficulty:** intermediate
 - **Pivot fact:** Whether the criminal code reform is purely local/state in scope (reducing political interference) or requires federal approval or involves nationally charged political issues.
 - **Jurisdiction:** universal principle; D.C./federal context specifically
@@ -188,7 +188,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### honest-services-mcnally-narrowing
 - **Rule:** Federal mail and wire fraud statutes protect property rights, not intangible rights. Before Congress enacted § 1346, the "honest services" theory of fraud was invalid.
 - **Source:** *McNally v. United States* (1987) (kickback scheme dismissed as not protecting money/property)
-- **Trap:** Students apply the honest services doctrine without checking whether the conduct involves a bribe or kickback because they remember *McNally* was overruled but forget that *Skilling* reimposed a narrowing.
+- **Trap:** Students choose [applying the honest services doctrine without checking whether the conduct involves a bribe or kickback] because they confuse [the legislative overruling of McNally] with [the judicial narrowing reimposed by Skilling].
 - **Difficulty:** foundational
 - **Pivot fact:** Whether the defendant received or paid money *in exchange for* a future official action (bribe/kickback) versus *after* an official action as appreciation (gratuity).
 - **Jurisdiction:** federal
@@ -197,7 +197,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### honest-services-skilling-bribery-kickback-only
 - **Rule:** Section 1346 criminalizes only bribery and kickback schemes. Self-dealing by officials (undisclosed conflicts of interest, misuse of position for personal benefit without a bribe) does not constitute honest services fraud after *Skilling*.
 - **Source:** *Skilling v. United States* (2010) (Enron CEO's self-dealing not a bribe or kickback; honest services conviction reversed)
-- **Trap:** Students charge self-dealing executives with honest services fraud because they equate corrupt *conduct* with the statutory crime—missing that *Skilling* specifically excluded self-dealing absent a quid pro quo.
+- **Trap:** Students choose [charging self-dealing executives with honest services fraud] because they confuse [general corrupt self-dealing conduct] with [the specific statutory crime requiring a quid pro quo under Skilling].
 - **Difficulty:** intermediate
 - **Pivot fact:** Whether there is a discrete payment or benefit flowing to the official *in exchange for* a specific official act, versus a general conflict of interest or undisclosed self-interest.
 - **Jurisdiction:** federal
@@ -206,7 +206,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### corruption-bribe-vs-gratuity
 - **Rule:** Under § 666 (covering state and local officials), a bribe is a payment made *before* an official act to influence it; a gratuity is a payment made *after* an official act as appreciation. Section 666 covers only bribes.
 - **Source:** *Snyder v. United States* (2024) (mayor's $13,000 post-act payment for truck contract is gratuity, not bribe)
-- **Trap:** Students classify post-act payments as bribes because they focus on the corrupt appearance of the payment rather than the timing relative to the official act.
+- **Trap:** Students choose [classifying post-act payments as bribes] because they confuse [the corrupt appearance of the payment] with [the necessary timing relative to the official act].
 - **Difficulty:** intermediate
 - **Pivot fact:** Whether the payment was agreed to or made *before* the official act (to induce it) or only *after* the official act (as appreciation).
 - **Jurisdiction:** federal (§ 666; state laws vary)
@@ -215,7 +215,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### corruption-official-acts-narrowing
 - **Rule:** Arranging meetings, hosting events, and making phone calls on a benefactor's behalf do not constitute "official acts" under federal bribery statutes. An official act requires a formal decision or action on a matter pending before the official's office.
 - **Source:** *McDonnell v. United States* (2016) (Governor's efforts to promote businessman's products not official acts)
-- **Trap:** Students conclude that officials who use their position to help benefactors have committed bribery because they conflate the corruption of influence with the legal definition of an official act.
+- **Trap:** Students choose [concluding that officials who use their position to help benefactors have committed bribery] because they confuse [the corruption of influence] with [the strict legal definition of an official act].
 - **Difficulty:** intermediate
 - **Pivot fact:** Whether the official exercised formal governmental decision-making authority (voting, issuing permits, approving contracts) versus informal influence (setting up meetings, making introductions).
 - **Jurisdiction:** federal
@@ -224,7 +224,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### corruption-fraud-property-requirement
 - **Rule:** Wire fraud requires a scheme to obtain "money or property." Political retaliation schemes and deprivation of regulatory choices ("right to control" information) do not satisfy the property element.
 - **Source:** *Kelly v. United States* (2020) (Bridgegate lane closures not property fraud); *Ciminelli v. United States* (2023) (right to control economic information not property)
-- **Trap:** Students charge public officials with fraud for any wrongful use of government resources because they assume any valuable thing can be "property" under the fraud statute.
+- **Trap:** Students choose [charging public officials with fraud for any wrongful use of government resources] because they confuse [the wrongful use of any valuable thing] with [the deprivation of actionable "property" under the fraud statute].
 - **Difficulty:** advanced
 - **Pivot fact:** Whether the scheme was designed to obtain money or tangible property for the defendant/third party, versus to cause regulatory harm or extract information.
 - **Jurisdiction:** federal
@@ -235,7 +235,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### bearden-rule
 - **Rule:** Courts cannot revoke probation and imprison someone solely for inability to pay a fine or restitution. Before imprisoning for non-payment, courts must inquire into the reasons for failure to pay and consider alternative measures if non-payment was not willful.
 - **Source:** *Bearden v. Georgia* (1983) (Fourteenth Amendment prohibits imprisonment for indigent probationer's inability to pay)
-- **Trap:** Students conclude that non-payment always bars incarceration because they remember the rule's protective thrust but miss that willful refusal to pay still permits revocation.
+- **Trap:** Students choose [concluding that non-payment always bars incarceration] because they confuse [the rule's general protective thrust against debtors' prisons] with [the specific exception that willful refusal to pay still permits revocation].
 - **Difficulty:** foundational
 - **Pivot fact:** Whether the probationer made *bona fide efforts* to pay (incarceration prohibited) or willfully refused despite ability to pay (incarceration permitted).
 - **Jurisdiction:** universal (constitutional, Fourteenth Amendment)
@@ -244,7 +244,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### bearden-circumvention-fees-not-fines
 - **Rule:** Constitutional protections can be circumvented through institutional design. By characterizing supervision fees as administrative charges rather than fines, Georgia created a system that formally complied with *Bearden* while substantively evading it.
 - **Source:** Georgia private probation case study (lines 299–333); HB 310 reform discussion
-- **Trap:** Students conclude *Bearden* ended debtors' prisons because they remember the constitutional holding without studying how the decision was formally preserved but substantively circumvented.
+- **Trap:** Students choose [concluding Bearden ended debtors' prisons] because they confuse [the formal constitutional holding] with [how the decision is substantively circumvented in practice].
 - **Difficulty:** advanced
 - **Pivot fact:** Whether the payment being enforced is characterized as a fine/restitution (directly governed by *Bearden*) or as a supervision/administrative fee (falling outside *Bearden*'s explicit holding).
 - **Jurisdiction:** universal principle; Georgia statutory context
@@ -253,7 +253,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### bearden-hb310-adaptation
 - **Rule:** Legislative reforms can be circumvented by institutional actors who add nominal additional conditions to avoid the reform's scope. Georgia's three-month cap on "pay-only" probation was avoided by courts routinely adding non-payment conditions (drug tests, online classes) to restart the clock.
 - **Source:** Georgia private probation case study, HB 310 reform and adaptation (lines 318–333)
-- **Trap:** Students treat legislative reform as resolving the problem because they assume that well-drafted legislation eliminates the targeted practice—missing that actors with incentives to evade will adapt.
+- **Trap:** Students choose [treating legislative reform as fully resolving the problem] because they confuse [the theoretical elimination of the targeted practice by well-drafted legislation] with [the reality that actors with incentives to evade will adapt].
 - **Difficulty:** advanced
 - **Pivot fact:** Whether the probation imposed has *any* condition beyond payment (triggering the exception to the cap) or exclusively a payment condition (subject to the cap).
 - **Jurisdiction:** Georgia statutory (but principle is universal)
@@ -264,7 +264,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### notice-rationale-fiction
 - **Rule:** The fair notice rationale—that citizens consult criminal statutes before acting—is largely fictional. Most defendants did not research the law before the conduct at issue. Notice may function as a legal fiction that organizes doctrine without describing real-world decision-making.
 - **Source:** Text lines 71–73 (Anne Royall did not check common scold law; Marion Palendrano did not research reception of English common law)
-- **Trap:** Students defend the notice rationale in a policy question as protecting real-world decision-making because they accept the doctrinal rationale at face value without engaging the chapter's empirical critique.
+- **Trap:** Students choose [defending the notice rationale in a policy question as protecting real-world decision-making] because they confuse [the doctrinal rationale at face value] with [the chapter's empirical critique of real-world notice].
 - **Difficulty:** intermediate
 - **Pivot fact:** Whether there is evidence the defendant was *actually* deterred or guided by knowledge of the statute, versus acting without any consultation of the law.
 - **Jurisdiction:** universal (theoretical)
@@ -273,7 +273,7 @@ This chapter is not about a substantive crime with elements to prove. It address
 #### legislative-supremacy-overcrimination
 - **Rule:** The legislative supremacy rationale assumes that legislatures make criminal law. But when statutes are drafted broadly (e.g., "disorderly conduct," "serious potential risk"), effective lawmaking is delegated to prosecutors. The rationale is undermined by the reality that legislatures often enact broad delegations rather than specific rules.
 - **Source:** Text lines 73–74 (broad statutes delegate lawmaking to prosecutors)
-- **Trap:** Students cite legislative supremacy as a complete answer to why courts defer to statutory text because they miss the chapter's point that broad statutes make prosecutors—not legislatures—the effective lawmakers.
+- **Trap:** Students choose [citing legislative supremacy as a complete answer to why courts defer to statutory text] because they confuse [theoretical legislative supremacy] with [the reality that broad statutes make prosecutors, rather than legislatures, the effective lawmakers].
 - **Difficulty:** advanced
 - **Pivot fact:** Whether the statute defines prohibited conduct with specificity (legislative supremacy rationale applies) or uses broad terms that confer prosecutorial discretion (rationale undermined).
 - **Jurisdiction:** universal (theoretical)

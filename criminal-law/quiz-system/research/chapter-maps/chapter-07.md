@@ -36,7 +36,7 @@
 #### mpc-voluntary-act-definition: MPC 2.01 and What "Voluntary" Means
 - **Rule:** A person is not guilty unless their liability is based on conduct that includes a voluntary act. MPC 2.01(2) provides a negative definition: reflexes, convulsions, movements during unconsciousness or sleep, hypnotic conduct, and bodily movements "not a product of the effort or determination of the actor, either conscious or habitual" are not voluntary.
 - **Source:** MPC § 2.01
-- **Trap:** Students assume "voluntary" means intentional or deliberate, and miss that habitual conduct also qualifies as voluntary while reflexes do not.
+- **Trap:** Students choose [that habitual conduct is involuntary] because they confuse [the requirement of a voluntary act] with [intentional or deliberate action].
 - **Difficulty:** foundational
 - **Pivot fact:** If the defendant's movement was a reflex triggered by a startling stimulus rather than a conscious decision, the element fails even though the defendant was awake.
 - **Jurisdiction:** split (traditional/MPC) — MPC codifies this; many common law jurisdictions apply the same principle without statutory codification.
@@ -49,7 +49,7 @@
 #### unconsciousness-complete-defense: Unconsciousness as a Complete Defense
 - **Rule:** Where a defendant was involuntarily unconscious at the moment of the harmful act, unconsciousness is a complete defense to the criminal charge — including homicide. "Unconscious" does not require coma or physical incapacity; it is enough that the defendant "physically acts in fact but is not, at the time, conscious of acting."
 - **Source:** *People v. Newton*, 8 Cal. App. 3d 359 (1970)
-- **Trap:** Students assume the defendant must be comatose or physically incapacitated; the court explicitly holds that partial awareness or automatic physical movement can still qualify as unconsciousness.
+- **Trap:** Students choose [that the unconsciousness defense requires the defendant to be comatose or physically incapacitated] because they confuse [complete physical incapacitation] with [the legal standard of unconsciousness which includes partial awareness or automatic physical movement].
 - **Difficulty:** foundational
 - **Pivot fact:** If the defendant had not been shot in the abdomen before firing, there would be no basis for the unconsciousness inference, and no instruction would be required.
 - **Jurisdiction:** universal in principle; burden allocation varies (see below).
@@ -58,7 +58,7 @@
 #### unconsciousness-instruction-threshold: Threshold for Requiring a Jury Instruction on Unconsciousness
 - **Rule:** Where a defendant produces substantial evidence of involuntary unconsciousness, the trial court must instruct the jury on unconsciousness as a complete defense. "Substantial evidence" means evidence sufficient for a reasonable jury to find for the defendant — however incredible the court may find it, a defendant is entitled to an instruction based on the hypothesis that their testimony is true.
 - **Source:** *People v. Newton*; *People v. James*, 238 Cal. App. 4th 794 (2015)
-- **Trap:** Students think the judge can refuse the instruction if the evidence is weak or unbelievable. The court holds the instruction is required whenever there is *any* substantial evidence, even if the court personally disbelieves it.
+- **Trap:** Students choose [that a judge can refuse to give an instruction if the evidence is weak or unbelievable] because they confuse [the judge's personal assessment of credibility] with [the legal requirement to issue the instruction whenever there is any substantial evidence].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Newton's only evidence were his own uncorroborated testimony (without Dr. Diamond's medical testimony), the question becomes whether that alone constitutes "substantial evidence" — courts have held it can.
 - **Jurisdiction:** universal principle; specific instruction mechanics vary by jurisdiction.
@@ -67,7 +67,7 @@
 #### psychotic-break-unconsciousness: Psychotic Episode as Unconsciousness (Not Insanity)
 - **Rule:** A defendant experiencing a severe psychotic episode — who has no awareness of or recollection of their actions — may raise an unconsciousness defense in the guilt phase of trial, even if they also have an insanity defense. Unconsciousness and insanity are not mutually exclusive; the trial court must instruct on unconsciousness if substantial evidence supports it, regardless of the insanity plea.
 - **Source:** *People v. James*, 238 Cal. App. 4th 794 (2015)
-- **Trap:** Students (and the trial court in *James*) conclude that a psychotic state is just "altered reality" or "consciousness on a different plane" — not unconsciousness. The appellate court rejects this, holding that lack of awareness of one's own actions satisfies the unconsciousness standard.
+- **Trap:** Students choose [that a psychotic state cannot qualify as unconsciousness] because they confuse [consciousness on a different plane or altered reality] with [the legal standard for unconsciousness requiring a lack of awareness of one's own actions].
 - **Difficulty:** intermediate
 - **Pivot fact:** If James had been aware of what he was doing during the episode — even if unable to stop himself — the unconsciousness defense would fail and only insanity would remain.
 - **Jurisdiction:** California rule post-*James*; other jurisdictions vary on whether psychosis-based unconsciousness is a viable guilt-phase defense.
@@ -76,7 +76,7 @@
 #### unconsciousness-insanity-distinction: Practical Consequences of Unconsciousness vs. Insanity
 - **Rule:** Acquittal based on unconsciousness is an outright acquittal — the defendant is free. Acquittal based on insanity (NGI) typically results in involuntary commitment to a psychiatric facility, often for a period tied to the maximum sentence. Because the consequences differ dramatically, defendants may strategically prefer an unconsciousness defense when the evidence supports it.
 - **Source:** *People v. James*; Postscript; Slide 17
-- **Trap:** Students treat NGI and unconsciousness acquittal as equivalent outcomes; they fail to see that the distinction carries enormous practical stakes for the defendant.
+- **Trap:** Students choose [that an NGI verdict and an unconsciousness acquittal are equivalent outcomes] because they confuse [the practical and legal consequences of an NGI verdict] with [the complete release following an unconsciousness acquittal].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the jurisdiction did not authorize involuntary commitment for NGI verdicts, the strategic incentive to pursue an unconsciousness defense instead would largely disappear.
 - **Jurisdiction:** majority/minority — most U.S. states treat NGI as resulting in commitment proceedings; a few treat it more like acquittal.
@@ -85,7 +85,7 @@
 #### sleepwalking-automatism: Sleepwalking, Automatism, and Parasomnia
 - **Rule:** The unconsciousness defense extends to sleepwalking and other automatism states (parasomnia). A defendant who commits violence while genuinely sleepwalking lacks the voluntary act required for criminal liability. This is a complete defense resulting in acquittal, not merely a mitigating factor.
 - **Source:** Note: Sleepwalking and Automatism (Joseph Mitchell case, North Carolina 2015)
-- **Trap:** Students assume sleepwalking is implausible or will always fail because the defendant appears to be moving purposefully. The Mitchell case illustrates that juries can credit this defense; one juror who disbelieved the defendant still felt compelled to acquit due to the jury instruction.
+- **Trap:** Students choose [that a sleepwalking defense will always fail if the defendant appears to be moving purposefully] because they confuse [purposeful-looking physical movement] with [the legal standard for unconsciousness that mandates acquittal if instructed].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the jurisdiction permitted a lesser verdict of manslaughter (rather than "murder or not guilty"), the Mitchell jury indicated it would have convicted of the lesser offense — suggesting the all-or-nothing structure of the unconsciousness instruction significantly affects outcomes.
 - **Jurisdiction:** universal — sleepwalking as a defense is recognized across U.S. jurisdictions; acceptance by juries varies.
@@ -93,7 +93,7 @@
 #### voluntary-intoxication-unconsciousness: Self-Induced Unconsciousness Does Not Excuse
 - **Rule:** Unconsciousness caused by voluntary intoxication does not constitute a complete defense. The law distinguishes between involuntary unconscious states and states the defendant brought about through their own choices. Where the unconsciousness is self-induced, the defendant cannot claim the defense.
 - **Source:** *People v. Newton* (dicta); MPC § 2.01; Discussion Questions on Sleepwalking Note
-- **Trap:** Students think that any genuine unconsciousness excuses — including blackouts caused by voluntary drinking. The self-induced limitation forecloses this.
+- **Trap:** Students choose [that blackouts caused by voluntary drinking excuse criminal conduct] because they confuse [genuine unconsciousness from involuntary causes] with [self-induced unconsciousness which is legally foreclosed as a defense].
 - **Difficulty:** intermediate
 - **Pivot fact:** If a person has a known parasomnia triggered by alcohol but consumes alcohol anyway and then commits violence while sleepwalking, the question is whether the unconsciousness was "self-induced" — courts are split.
 - **Jurisdiction:** universal — the voluntary intoxication limitation on unconsciousness is broadly recognized.
@@ -105,7 +105,7 @@
 #### jacobs-rule-impulse-no-defense: Conscious Emotional States Do Not Negate Voluntariness
 - **Rule:** Impulses, compulsions, and overwhelming emotional states — no matter how powerful or "unreasoning" — do not negate the voluntary act requirement. The law presumes that conscious individuals retain the capacity for self-governance. Evidence of an "excitable temperament" that made self-control temporarily impossible is no defense.
 - **Source:** *Jacobs v. Commonwealth*, 121 Pa. 586 (1888); *People v. Cogsdill*, 2023 IL App (4th) 220300-U
-- **Trap:** Students confuse the Jacobs rule with insanity or diminished capacity. The court does not deny that Jacobs was overwhelmed — it holds that being overwhelmed while conscious is simply not a legal defense to the act requirement.
+- **Trap:** Students choose [that being overwhelmed while conscious negates the voluntary act requirement] because they confuse [the Jacobs rule governing voluntary acts] with [defenses based on insanity or diminished capacity].
 - **Difficulty:** foundational
 - **Pivot fact:** If Jacobs had been unconscious rather than merely enraged — if the passion had rendered him literally unaware of his actions — the result might differ; the line is between conscious (no defense) and unconscious (possible defense).
 - **Jurisdiction:** universal
@@ -118,7 +118,7 @@
 #### status-conduct-distinction: The Government May Not Punish Pure Status
 - **Rule:** The Eighth Amendment bars punishing a person for a status (e.g., being an addict, being homeless) rather than for conduct. However, courts consistently hold that statutes targeting conduct — even conduct that is an inevitable consequence of a status — are constitutional, unless the conduct and status collapse entirely because the defendant has no private place or alternative.
 - **Source:** *Powell v. Texas*, 392 U.S. 514 (1968); *City of Grants Pass v. Johnson*, 603 U.S. ___ (2024); *Manning v. Caldwell*, 930 F.3d 264 (4th Cir. 2019)
-- **Trap:** Students think *Robinson v. California* controls and that any statute targeting addicts or homeless people is unconstitutional. *Powell* and *Grants Pass* show that the Court draws the line at pure status; conduct statutes are almost always upheld unless the *Manning* collapse applies.
+- **Trap:** Students choose [that any statute targeting addicts or homeless people is unconstitutional under Robinson v. California] because they confuse [the unconstitutional punishment of pure status] with [the constitutional punishment of conduct as permitted by Powell and Grants Pass].
 - **Difficulty:** intermediate
 - **Pivot fact:** In *Manning*, the Fourth Circuit found the status/conduct distinction collapsed because the defendant was homeless and addicted — he could not drink privately. If Manning had had a home or other private space, the court would likely have upheld the prosecution.
 - **Jurisdiction:** federal constitutional floor (Eighth Amendment); states may provide more protection.
@@ -127,7 +127,7 @@
 #### powell-white-concurrence: Justice White's Concurrence: Homelessness and No Private Space
 - **Rule:** Justice White in *Powell* suggested that where a defendant has no private place to engage in conduct that is an inevitable consequence of their condition (e.g., being drunk as a chronic alcoholic with no home), criminalizing that conduct may effectively criminalize status. This was taken up by the *Manning* court and rejected by the *Grants Pass* majority.
 - **Source:** *Powell v. Texas* (White, J., concurring); *Manning v. Caldwell*; *City of Grants Pass v. Johnson* (majority and Sotomayor dissent)
-- **Trap:** Students assume White's concurrence is now law. The *Grants Pass* majority (2024) expressly did not adopt it; it remains a dissenting/minority position.
+- **Trap:** Students choose [that Justice White's concurrence represents binding law] because they confuse [Justice White's minority position] with [the binding Grants Pass majority rule that expressly declined to adopt it].
 - **Difficulty:** advanced
 - **Pivot fact:** If the *Grants Pass* plaintiffs had also had evidence that the city had no available shelter beds (so sleeping outside was literally the only option), the dissent would argue even the majority's "conduct" framing should yield — but the majority rejected this reasoning.
 - **Jurisdiction:** split — *Manning* (Fourth Circuit) credits White's reasoning; *Grants Pass* (Supreme Court) does not.
@@ -140,7 +140,7 @@
 #### martin-principle-state-created-actus-reus: State Cannot Manufacture Actus Reus by Moving Defendant
 - **Rule:** The voluntary act requirement presupposes a voluntary *appearance* at the location where the offense occurs. When the state physically transports a defendant to the location where the offense elements are satisfied, the actus reus is manufactured by the government — not by the defendant — and conviction is barred.
 - **Source:** *Martin v. State*, 31 Ala. App. 334 (1944)
-- **Trap:** Students focus on whether the defendant was drunk (he was), rather than asking whether his *appearance* in public was voluntary. The offense requires voluntary appearance, not just a voluntary act of being drunk.
+- **Trap:** Students choose [that being voluntarily drunk satisfies the voluntary act requirement for public intoxication] because they confuse [the voluntary act of consuming alcohol] with [the required voluntary act of appearing in public].
 - **Difficulty:** foundational
 - **Pivot fact:** If Martin had walked out of his house of his own accord after the officers arrived, his appearance would have been voluntary even if prompted by police presence.
 - **Jurisdiction:** universal — the *Martin* principle is broadly accepted.
@@ -149,7 +149,7 @@
 #### beltz-continuing-possession-voluntary-act: Continuing Possession as the Relevant Voluntary Act (Time-Framing)
 - **Rule:** Even when a defendant's presence at a location is involuntary (e.g., transported to jail by police), a subsequent voluntary act — such as *continuing to possess* contraband after receiving notice that possession in the facility is a separate offense — can satisfy the voluntariness requirement. The court identifies the voluntary act not as entry into the facility but as the knowing retention of contraband.
 - **Source:** *Beltz v. State*, 551 P.3d 583 (Alaska App. 2024)
-- **Trap:** Students conflate *Martin* and *Beltz* and conclude that any involuntary presence bars prosecution. The key distinction is that *Beltz* had a later voluntary act (retention after notice) that *Martin* lacked.
+- **Trap:** Students choose [that any initial involuntary presence totally bars prosecution] because they confuse [the pure involuntary presence in Martin] with [the subsequent voluntary act of retention after notice in Beltz].
 - **Difficulty:** intermediate
 - **Pivot fact:** In *Beltz*, the actual indictment was reversed because there was no evidence the defendant received notice — if notice had been given and documented, the conviction would have stood.
 - **Jurisdiction:** majority/minority — continuing possession as a voluntary act is widely recognized; the specific notice requirement varies.
@@ -162,7 +162,7 @@
 #### time-framing-seizure-driving: Time-Framing: Prior Voluntary Choice Creates Liability for Later Involuntary Conduct
 - **Rule:** When a defendant makes a voluntary choice that foreseeably creates the risk that they will later engage in involuntary harmful conduct, courts trace liability back to the prior voluntary act. The involuntary conduct at the moment of harm does not break the chain. The key cases involve drivers who know they suffer from seizure disorders and choose to drive anyway.
 - **Source:** *People v. Decina*, 2 N.Y.2d 133 (1956); Note: Time-Framing and Seizure Disorders (Hayes, Parker cases)
-- **Trap:** Students assume the defendant must be conscious and in control at the *moment* of the harmful act. Time-framing allows conviction where the defendant was unconscious during the crash, so long as a prior voluntary act created the foreseeable risk.
+- **Trap:** Students choose [that the defendant must be conscious and in control at the exact moment of the harmful act] because they confuse [liability based on the specific moment of harm] with [liability established through time-framing based on a prior voluntary act that created foreseeable risk].
 - **Difficulty:** intermediate
 - **Pivot fact:** In *Decina*, if the defendant had never been diagnosed with epilepsy and had no prior seizures, the voluntary act of driving would not foreseeably create the risk — and the time-framing theory would fail.
 - **Jurisdiction:** universal — recognized across jurisdictions as a matter of common law and statute (vehicular homicide codes in most states).
@@ -171,7 +171,7 @@
 #### spejcher-voluntary-intoxication-time-framing: Voluntary Intoxication and Time-Framing
 - **Rule:** Where a defendant voluntarily consumes a substance that triggers a psychotic episode or impairment, the voluntary act of consumption may be the basis for liability even if the defendant was involuntarily incapacitated at the moment of the harmful act. The result depends on whether the impairment was foreseeable — which is why the same conduct (voluntary cannabis use causing psychosis) produced different results in the Spejcher case than in jurisdictions with strict voluntary intoxication rules.
 - **Source:** In the News: The Bryn Spejcher Case (California 2024)
-- **Trap:** Students think that because Spejcher was found to lack control during the stabbing, she should be acquitted entirely. The time-framing question is whether her earlier voluntary consumption created foreseeable risk.
+- **Trap:** Students choose [that complete acquittal is required if a defendant lacks control during the immediate harmful act] because they confuse [lack of control during the stabbing] with [liability established through an earlier voluntary consumption that created foreseeable risk].
 - **Difficulty:** advanced
 - **Pivot fact:** If Spejcher had previously experienced a cannabis-induced psychotic episode (putting her on notice of the risk), the time-framing theory of liability would be much stronger.
 - **Jurisdiction:** split — California in Spejcher applied a narrow foreseeeability lens; other jurisdictions apply stricter voluntary intoxication rules.
@@ -179,7 +179,7 @@
 #### autopilot-time-framing: Automated Driving Systems and the Voluntary Act
 - **Rule:** When a driver delegates control to an automated system and the system causes harm, the prosecution's voluntary act theory is that the driver's prior choices — engaging the automation, failing to monitor, choosing to rely on the system — constitute the relevant voluntary acts. This is analogous to the seizure-driving cases: the voluntary act precedes the moment of harm.
 - **Source:** In the News: Autopilot, Automation, and the Voluntary Act (Riad case, 2022)
-- **Trap:** Students assume that because the machine (not the human) was "driving" at impact, there was no human voluntary act causing the harm. The prosecution identifies earlier voluntary acts.
+- **Trap:** Students choose [that there is no human voluntary act when an automated machine is driving at impact] because they confuse [the machine's physical control at the moment of harm] with [the human's earlier voluntary acts that caused the harm].
 - **Difficulty:** advanced
 - **Pivot fact:** If Riad had been asleep when Autopilot was engaged (rather than hands on the wheel), the analysis would shift — it would be closer to the seizure cases where prior knowledge of risk and choice to drive is the key voluntary act.
 - **Jurisdiction:** emerging — no settled doctrine; first U.S. prosecution of its kind.
@@ -191,7 +191,7 @@
 #### burden-majority-prosecution: Majority Rule: Prosecution Must Prove Consciousness Beyond Reasonable Doubt
 - **Rule:** Under the majority (California) approach, unconsciousness negates an element of the offense. The defendant must produce some evidence of unconsciousness, but once that threshold is met, the prosecution bears the burden of proving consciousness beyond a reasonable doubt. If the jury has a reasonable doubt, it must acquit.
 - **Source:** *People v. Newton*; *People v. James*; *State v. Ireland* (describing California as the contrasting approach)
-- **Trap:** Students assume the defendant always bears the burden for "defenses." Unconsciousness under the California approach is a *negative* defense — it raises reasonable doubt about an element, not an affirmative excuse.
+- **Trap:** Students choose [that the defendant always bears the burden of proof for an unconsciousness defense] because they confuse [an affirmative defense that acts as an excuse] with [a negative defense under the California approach that merely raises reasonable doubt about an element].
 - **Difficulty:** intermediate
 - **Pivot fact:** If the California legislature reclassified unconsciousness as an affirmative defense (as Ohio did), the burden would shift to the defendant.
 - **Jurisdiction:** majority rule in U.S. jurisdictions.
@@ -200,7 +200,7 @@
 #### burden-minority-defendant: Minority Rule: Defendant Must Prove Unconsciousness by Preponderance (Ohio)
 - **Rule:** Under the Ohio approach, blackout/unconsciousness is treated as an affirmative defense. The defendant must prove unconsciousness by a preponderance of the evidence. The rationale is that the mental state during a blackout is "peculiarly within the knowledge of the accused." If the jury is uncertain, the defendant loses.
 - **Source:** *State v. Ireland*, 155 Ohio St.3d 287 (2018)
-- **Trap:** Students think that because voluntariness is technically an element of every offense, the prosecution must always prove it. Ohio holds that the legislature may properly reclassify unconsciousness as an affirmative defense without violating due process.
+- **Trap:** Students choose [that the prosecution must always prove voluntariness because it is an element of the offense] because they confuse [the general classification of voluntariness as an element] with [Ohio's constitutionally valid reclassification of unconsciousness as an affirmative defense].
 - **Difficulty:** intermediate
 - **Pivot fact:** If Ohio classified unconsciousness as negating an element of the offense rather than as an affirmative defense, Ireland would have won on the same evidence — because the jury's uncertainty would have required acquittal rather than conviction.
 - **Jurisdiction:** minority rule; Ohio and some other states.
@@ -209,7 +209,7 @@
 #### negative-vs-affirmative-defense: Negative vs. Affirmative Defense — Structural Distinction
 - **Rule:** A *negative* defense raises reasonable doubt about an element of the offense — the prosecution retains the burden. An *affirmative* defense concedes the elements and offers an excuse or justification — the defendant bears the burden of proof by preponderance. Whether unconsciousness is classified as negative (California) or affirmative (Ohio) determines who bears the burden when the evidence is uncertain.
 - **Source:** *State v. Ireland*; Slide 29
-- **Trap:** Students think this is a fine procedural point with little practical consequence. As *Ireland* shows, the structural choice determines the outcome when the evidence is genuinely in doubt.
+- **Trap:** Students choose [that the allocation of the burden of proof is a minor procedural point with little consequence] because they confuse [a purely theoretical procedural distinction] with [the determinative structural choice that dictates the outcome when evidence is genuinely in doubt].
 - **Difficulty:** advanced
 - **Pivot fact:** If the jury in *Ireland* was genuinely uncertain (50/50) about whether Ireland was conscious, the California rule would require acquittal while the Ohio rule requires conviction.
 - **Jurisdiction:** split (traditional/MPC) — the classification varies by jurisdiction.
