@@ -1,21 +1,26 @@
-**Q7.** Assume Silas is charged with the substantive crime of false imprisonment based on Arthur locking the motel room door. Under the *Pinkerton* doctrine, can Silas be convicted of this offense?
+**Q7.** Assume Silas is charged with Julian's homicide. The prosecution argues Silas is liable for Arthur's actions (knocking the phone away and locking the door) under the *Pinkerton* doctrine. Will this theory succeed?
 
-(a) Yes, provided Arthur's act of locking the door was reasonably foreseeable and committed in furtherance of their joint conspiracy to distribute drugs. <!-- correct -->
-(b) Yes, because any crime committed by a co-conspirator at any time automatically creates absolute strict liability for all other members of the criminal conspiracy.
-(c) No, because false imprisonment requires physical contact with the victim, and Silas had already left the immediate area when Arthur locked the door.
-(d) No, because the Model Penal Code universally adopts the *Pinkerton* rule, meaning Silas must have specifically intended for the false imprisonment to occur.
-(e) No, because Silas vocally protested leaving Julian behind, which legally shields him from any derivative liability for Arthur's subsequent unilateral actions.
+(a) Yes, because Silas was a co-conspirator, and Arthur's acts to avoid police detection and protect the drug proceeds were in furtherance of the conspiracy and reasonably foreseeable. <!-- correct -->
+(b) No, because Silas explicitly protested leaving the motel room, which immediately and legally severed his ongoing liability for any subsequent criminal acts committed by Arthur.
+(c) Yes, because under the strict Pinkerton doctrine, a co-conspirator is automatically liable for any crime committed by a partner, regardless of whether it furthered the conspiracy.
+(d) No, because homicide is an inherently violent crime, and the original conspiratorial agreement was strictly limited solely to the non-violent commercial distribution of narcotics.
+(e) Yes, because Silas was physically present at the scene of the crime, which automatically makes him a principal in the first degree for all of Arthur's actions.
 
 **Answer:** (a)
 
-**Explanation:** The *Pinkerton* doctrine holds co-conspirators liable for the substantive offenses of their partners if those offenses are committed in furtherance of the conspiracy and are reasonably foreseeable as a necessary or natural consequence of the unlawful agreement. Arthur locking the door to protect the drug operation fits this standard. (b) is wrong because *Pinkerton* liability is not absolute; the act must be in furtherance of the conspiracy and reasonably foreseeable. (c) is wrong because false imprisonment is a constraint on liberty that does not require physical contact, and *Pinkerton* extends liability even if Silas did not personally commit the actus reus. (d) is wrong because the Model Penal Code explicitly rejects the *Pinkerton* doctrine. (e) is wrong because a mere verbal protest does not sever *Pinkerton* liability; an effective legal withdrawal is required.
+**Explanation:** (a) is correct. Under the *Pinkerton* doctrine, a conspirator is liable for the foreseeable substantive crimes committed by a co-conspirator in furtherance of the conspiracy. Arthur's acts to prevent the 911 call were foreseeable actions taken to avoid police detection and protect the drug enterprise. 
 
-**Tags:** chapters: [19], topics: [conspiracy, Pinkerton doctrine], difficulty: medium, cognitive: application
+(b) is incorrect because mere verbal protest is insufficient to constitute legal withdrawal from a conspiracy. 
+(c) is incorrect because *Pinkerton* liability strictly requires the substantive crime to be reasonably foreseeable and in furtherance of the conspiracy. 
+(d) is incorrect because violence or homicide can be a foreseeable consequence of a drug conspiracy, even if the initial agreement was non-violent. 
+(e) is incorrect because mere presence does not make one a principal in the first degree; liability here relies on conspiracy principles.
 
-**Grounding:** Chapter 19, pinkerton-doctrine
+**Tags:** chapters: [19], topics: [conspiracy, Pinkerton liability], difficulty: medium, cognitive: application
+**Grounding:** Chapter 19; Pinkerton v. United States
 
-<!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass (Harmonizes perfectly with Q8's test of withdrawal; option A relies on conditional language ("provided... reasonably foreseeable and committed in furtherance") that correctly states the rule without legally spoiling whether Silas's attempted 911 call severed the conspiracy).
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The premise of (a) relies on Arthur’s extreme actions (locking a victim in a room to die after physically attacking Silas’s phone) being a "reasonably foreseeable" consequence of a conspiracy to distribute what they genuinely believed was a safe, legal supplement. This stretches Pinkerton foreseeability past the breaking point, making (a) highly debatable if not outright legally incorrect.
+2. Cross-Doctrine Clashes: Silas genuinely believed the drug was a legal "nootropic." Since conspiracy requires specific intent (purpose), he arguably lacks the mens rea for a criminal conspiracy to distribute a controlled substance. If there is no underlying criminal conspiracy, Pinkerton liability cannot attach. 
+3. Cross-Question Spoilers: Q8 correctly recognizes Silas’s attempt to call 911 as a live withdrawal issue. Under conspiracy law, Silas’s affirmative physical attempt to thwart the crime and get help (communicated directly to Arthur) likely constitutes a valid withdrawal *before* Arthur locked the door. If Silas withdrew, the conclusion in (a) is false because Silas is severed from Arthur's subsequent acts. Furthermore, the explanation for (b) contradicts the prompt by reducing Silas's actions to a "mere verbal protest," ignoring his physical attempt to call 911.
+Recommended fix: Convert this question to test the *limits* of Pinkerton liability. Instead of forcing a "Yes" via (a), frame the correct answer around why Pinkerton would likely fail here (e.g., unforeseeability of the extreme independent acts, or Silas's withdrawal prior to the door being locked).
 -->

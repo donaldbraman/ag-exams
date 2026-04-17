@@ -1,17 +1,21 @@
-**Q10.** Assume Arthur is charged with possession. Arthur argues that because Silas freely reached into his backpack to grab the two grams, Arthur did not have exclusive control over the backpack and therefore lacked constructive possession of the remaining 500 grams. Is Arthur's argument legally sound?
+**Q10.** The police later find the remaining 498 grams of the substance in Arthur's backpack. Arthur argues he did not have exclusive control over the backpack because Silas freely reached into it during the sale. Is Arthur in constructive possession of the 498 grams?
 
-(a) Yes, because constructive possession requires absolute and exclusive physical dominion over the area where the illegal contraband is discovered by authorities.
-(b) Yes, because Silas's act of taking the drugs demonstrates that Silas, not Arthur, was the true owner of the substance at that specific moment.
-(c) No, because constructive possession only requires the power and intent to exercise control over an item, and such possession may be joint rather than exclusive. <!-- correct -->
-(d) No, because the snapshot problem doctrine creates a tournament-style legal presumption that whoever originally packs a backpack retains permanent ownership of all its contents.
-(e) No, because Arthur originally manufactured the drug, making him strictly liable for its ongoing possession regardless of his physical proximity or control over it.
+(a) Yes, because Arthur owned the backpack and maintained constructive control over it, and Silas's access merely establishes joint possession without destroying Arthur's own legal control. <!-- correct -->
+(b) No, because Silas's ability to freely reach into the unzipped backpack proves that Arthur completely abandoned his exclusive expectation of privacy in the container.
+(c) Yes, because Arthur was the sole individual who actually synthesized the drug, which legally precludes any other person from ever possessing it under the law.
+(d) No, because criminal possession strictly requires continuous physical holding of the contraband item at the exact moment of police arrest, which Arthur was not doing.
+(e) Yes, because under the public welfare doctrine, absolute strict liability applies to the mere proximity of any container holding more than 100 grams of a Schedule I substance.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Constructive possession exists when a person lacks physical custody but has the power and intent to exercise control over an item. It does not require exclusive control; two or more people can have joint constructive possession of the same contraband. (a) is wrong because exclusive control is explicitly not required to establish constructive possession. (b) is wrong because ownership is legally distinct from possession, and Silas's access does not defeat Arthur's power to control the backpack he brought to the motel. (d) is wrong because the "snapshot problem" refers to the evidentiary difficulty of proving who possessed an item at a specific moment in time, not a strict presumption of permanent ownership. (e) is wrong because manufacturing is a separate offense, and current possession still requires proof of the actus reus at the time charged.
+**Explanation:** (a) is correct. Constructive possession requires awareness of the contraband and the ability to exercise control over it. Arthur owned the backpack and maintained control; Silas reaching in establishes joint possession but does not negate Arthur's exclusive ownership and constructive control. 
 
-**Tags:** chapters: [15], topics: [constructive possession, exclusive control, joint possession], difficulty: easy, cognitive: application
+(b) is incorrect because sharing access to a container does not constitute legal abandonment of property or control. 
+(c) is incorrect because synthesizing a drug does not legally preclude others from subsequently possessing or co-possessing it. 
+(d) is incorrect because constructive possession explicitly covers items within a person's dominion and control, even if not physically held. 
+(e) is incorrect because strict liability public welfare doctrines do not redefine the physical/constructive parameters of legal possession.
 
-**Grounding:** Chapter 15, cp-exclusive-control
+**Tags:** chapters: [15], topics: [possession, constructive possession, joint control], difficulty: medium, cognitive: application
+**Grounding:** Chapter 15; Constructive possession doctrines
 
-<!-- grounding: GROUNDED — constructive possession, Ch 15, Refinement `cp-exclusive-control`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Constructive Possession, Ch 15, Refinement `cp-exclusive-control`. Rule paraphrased accurately. -->

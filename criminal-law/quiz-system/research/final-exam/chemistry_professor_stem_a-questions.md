@@ -1,213 +1,261 @@
-**Q1.** Assume that Arthur is charged with manufacturing a Schedule I controlled substance. Arthur argues that his genuine belief that the substance was a legal "nootropic" negates his liability. How will a court likely rule on this defense?
+**Q1.** Arthur argues that because he genuinely believed he was synthesizing a legal "nootropic," he lacked the mens rea for manufacturing a Schedule I controlled substance. Is Arthur's defense viable?
 
-(a) Guilty, because dealing in inherently dangerous chemical structures puts a manufacturer on notice of regulation, and he acts at his peril regarding its legal schedule. <!-- correct -->
-(b) Not guilty, because Arthur lacked the specific intent to manufacture a controlled substance, which is required for all severe public welfare offenses.
-(c) Not guilty, because Arthur's misreading of the regulatory database constitutes an honest and reasonable mistake of fact that negates his criminal liability.
-(d) Guilty, but only if the prosecution can prove that Arthur acted with criminal negligence in his failure to properly search the regulatory database.
-(e) Not guilty, because the federal presumption against strict liability requires the government to prove the defendant knew the item's prohibited legal status.
+(a) No, because under the public welfare offense doctrine, those who deal in inherently dangerous items like narcotics must ascertain at their peril whether the substance is regulated. <!-- correct -->
+(b) Yes, because manufacturing a controlled substance is a specific intent offense that requires the defendant to know the legality of their actions, which his mistake negates.
+(c) No, because his reliance on a personal misreading of a regulatory database does not qualify as an official statement of the law under the reliance defense.
+(d) Yes, because a genuine mistake of fact about the substance's identity negates the required mental state of knowledge regarding the nature of the specific chemical.
+(e) No, because the Morissette presumption automatically applies strict liability to any federal or state statute that protects broad public health and safety from dangerous chemicals.
 
 **Answer:** (a)
 
-**Explanation:** Arthur is guilty because under the *Balint* dangerous-items heuristic, dealing in inherently dangerous chemical structures puts a manufacturer on notice of regulation, meaning he acts at his peril regarding its legal schedule. His mistaken belief about the specific regulatory status is irrelevant. (b) is wrong because public welfare offenses routinely dispense with specific intent. (c) is wrong because his misreading of the regulatory database is a mistake of penal law, not a defense here. (d) is wrong because strict liability applies, removing the negligence requirement entirely. (e) is wrong because the dangerous items heuristic specifically overrides the normal presumption of mens rea.
+**Explanation:** (a) is correct. Under the *Balint* public welfare offense doctrine, individuals dealing in inherently dangerous items (like narcotics) are put on notice of likely regulation and must ascertain the law at their peril; strict liability applies to the regulatory status of the drug. 
+
+(b) is incorrect because drug manufacturing does not require specific intent to violate the law. 
+(c) is incorrect because a personal misreading of a database is not an official statement of law (like a court order). 
+(d) is incorrect because Arthur's mistake was about the drug's legal status (mistake of law), not its physical chemical identity (mistake of fact). 
+(e) is incorrect because the *Morissette* presumption cuts against strict liability for traditional crimes, while *Balint* creates the dangerous-items exception.
 
 **Tags:** chapters: [11], topics: [public welfare offenses, strict liability, dangerous items], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 11 (balint-narcotics-at-peril, dangerous items heuristic)
+**Grounding:** Chapter 11; United States v. Balint
 
 ---
 
-**Q2.** Assume Arthur is charged with homicide for providing the drug to Julian. Arthur argues that Julian's voluntary decision to ingest the substance broke the causal chain. How should the court analyze Julian's ingestion?
+**Q2.** Assume that Arthur's drug distribution charges move forward. Arthur argues that he is not the proximate cause of Julian's death because Julian voluntarily ingested the drug, which serves as a superseding intervening cause. Is Arthur correct?
 
-(a) Julian's voluntary ingestion is an independent intervening cause that entirely severs the causal chain because individuals are strictly responsible for their own voluntary consumption.
-(b) Julian's voluntary ingestion is a dependent intervening cause that does not sever the causal chain because a buyer consuming the distributed drugs is highly foreseeable. <!-- correct -->
-(c) Julian's voluntary ingestion is a superseding cause because the drug overdose constitutes an unforeseeable mechanical failure of Julian's cardiovascular system.
-(d) Julian's voluntary ingestion is legally irrelevant because drug distribution is a strict liability offense that explicitly eliminates the proximate causation requirement for any resulting harms.
-(e) Julian's voluntary ingestion is an independent intervening cause only if the medical examiner proves that Julian was subjectively aware of the chemical's cardiac risks.
+(a) Yes, because the voluntary and deliberate act of a fully informed third party categorically breaks the chain of proximate causation in all criminal homicide prosecutions.
+(b) No, because Julian's voluntary ingestion was a dependent intervening cause that was a completely foreseeable and expected consequence of distributing the recreational drug. <!-- correct -->
+(c) Yes, because Julian's sudden ingestion of the drug was a highly extraordinary result that Arthur could not have reasonably anticipated during the transaction.
+(d) No, because under the common law approach, any but-for cause is completely sufficient to establish proximate causation regardless of any subsequent intervening acts.
+(e) Yes, because Julian's ingestion was an independent intervening cause since it occurred chronologically after Arthur had entirely completed the physical act of distribution.
 
 **Answer:** (b)
 
-**Explanation:** Julian's ingestion is a dependent intervening cause because a buyer consuming sold drugs is a highly foreseeable consequence of distributing them, meaning it does not break the causal chain. (a) is wrong because a victim's voluntary ingestion is not automatically an independent intervening cause when the defendant supplied the fatal substance. (c) is wrong because an overdose resulting from drug ingestion is entirely foreseeable, not a superseding act. (d) is wrong because homicide convictions always require proof of proximate causation, even when the underlying distribution offense is strict liability. (e) is wrong because proximate cause relies on an objective foreseeability standard, not the victim's subjective awareness.
+**Explanation:** (b) is correct. In drug distribution cases, a buyer's voluntary ingestion of the drug is highly foreseeable and dependent on the seller providing it, making it a dependent intervening cause that does not sever proximate causation. 
 
-**Tags:** chapters: [8], topics: [causation, intervening causes], difficulty: medium, cognitive: application
+(a) is incorrect because voluntary acts of victims do not categorically sever causation if they are foreseeable dependent acts. 
+(c) is incorrect because ingesting purchased drugs is entirely ordinary, not highly extraordinary. 
+(d) is incorrect because common law requires proximate cause in addition to but-for causation to fairly assign liability. 
+(e) is incorrect because an intervening cause being subsequent in time does not automatically make it independent; it must be unforeseeable and unrelated to the defendant's conduct.
 
-**Grounding:** Chapter 8 (dependent-vs-independent-intervening-cause)
-
----
-
-**Q3.** The prosecution charges Arthur with homicide based on his failure to summon medical aid for Julian. Arthur argues he owed no legal duty to rescue a buyer who voluntarily took drugs. Is Arthur correct?
-
-(a) No, because Arthur created the peril by providing the drug and then secluded Julian by locking the door, both of which independently establish a legal duty to act. <!-- correct -->
-(b) Yes, because a drug transaction is an illicit relationship that cannot give rise to a recognized status-based duty of care under traditional common law omission principles.
-(c) No, because the law imposes a universal Good Samaritan duty on anyone who witnesses a life-threatening medical emergency to summon paramedics if they can do so safely.
-(d) Yes, because Julian's initial voluntary assumption of the risk of ingestion permanently relieved Arthur of any subsequent legal obligation to intervene when the medical emergency occurred.
-(e) No, because Arthur and Julian's commercial transaction created a contractual duty of care that required Arthur to guarantee Julian's safety while inside the shared motel room.
-
-**Answer:** (a)
-
-**Explanation:** Arthur is liable for the omission because providing the fatal drug created the peril, and locking the door secluded the victim from other potential rescuers, both of which independently establish a legal duty to act. (b) is wrong because Arthur's actions create a duty regardless of whether a recognized formal status relationship exists. (c) is wrong because the criminal law generally imposes no universal Good Samaritan duty to rescue. (d) is wrong because a victim's voluntary ingestion does not erase the affirmative duty arising from a defendant's seclusion and peril creation. (e) is wrong because an illicit drug deal does not create a formal contractual safety guarantee.
-
-**Tags:** chapters: [9], topics: [omissions, creation of peril, seclusion], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 9 (creation-of-peril-category, voluntary-assumption-plus-seclusion)
+**Tags:** chapters: [8], topics: [causation, intervening cause], difficulty: medium, cognitive: application
+**Grounding:** Chapter 8; People v. Kibbe / Dependent vs. Independent Causes
 
 ---
 
-**Q4.** Arthur's defense counsel argues that Arthur cannot be the factual cause of Julian's death because the chemical itself triggered the arrhythmia. Based on the medical examiner's findings, is the delay in calling paramedics a factual cause of death?
+**Q3.** Assume that, whether or not the drug caused the initial collapse, Arthur argues that he cannot be charged with homicide for his subsequent inaction because he committed no affirmative act that killed Julian, and he had no duty to rescue him. Did Arthur have a legal duty to act?
 
-(a) Yes, because the ME established a 95% chance of survival if paramedics were called, proving that the death would not have occurred but for Arthur's delay. <!-- correct -->
-(b) No, because the chemical substance was a concurrent sufficient cause of the arrhythmia, which breaks the but-for causal chain under standard factual causation analysis.
-(c) Yes, because omissions that breach a duty of care automatically satisfy the factual causation requirement regardless of the statistical probability of the victim's survival.
-(d) No, because the 5% chance of death even with treatment means the failure to call 911 was not strictly and absolutely necessary for the death to occur.
-(e) Yes, but only if the prosecution can additionally prove that Arthur subjectively recognized that his refusal to call paramedics would definitely result in Julian's death.
+(a) No, because Arthur and Julian were merely engaged in a commercial transaction, which does not create a recognized special status relationship requiring affirmative rescue.
+(b) Yes, because by knocking the phone away and locking the door, Arthur secluded Julian and prevented others from rendering necessary life-saving medical aid. <!-- correct -->
+(c) No, because the affirmative duty to rescue only applies to licensed medical professionals or those who have explicitly and contractually assumed a duty of care.
+(d) Yes, because Arthur created the peril by synthesizing the chemical drug, which automatically imposes a strict liability duty to prevent any resulting physical harm.
+(e) No, because Arthur's genuine, subjective belief that Julian would naturally recover completely negates any statutory duty to intervene or summon emergency medical assistance.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** The delay is a factual cause because the 95% survival chance establishes beyond a reasonable doubt that the delay was a necessary but-for condition for Julian's death. (b) is wrong because the drug and the delay can be concurrent causes, and the delay still contributed as a but-for cause. (c) is wrong because factual cause requires an empirical showing that the omission actually changed the outcome, not an automatic presumption. (d) is wrong because 100% absolute certainty is not required to establish factual causation beyond a reasonable doubt. (e) is wrong because factual cause is an objective empirical inquiry that does not depend on the defendant's subjective recognition.
+**Explanation:** (b) is correct. While there is generally no duty to rescue, Arthur assumed a duty through seclusion and the creation of peril. By knocking the phone away and locking the door, he affirmatively secluded Julian from others who could help, establishing a clear duty to act. 
 
-**Tags:** chapters: [8], topics: [factual causation, but-for test], difficulty: easy, cognitive: application
+(a) is incorrect because the duty here arises from seclusion and creating peril, not a commercial status relationship. 
+(c) is incorrect because duties also arise from creation of peril or seclusion, not just contracts or medical licenses. 
+(d) is incorrect because synthesizing drugs does not automatically impose a strict liability duty to rescue buyers. 
+(e) is incorrect because a subjective belief that the victim will recover does not negate an established legal duty to intervene when peril exists.
 
-**Grounding:** Chapter 8 (but-for-test-basic)
-
----
-
-**Q5.** Arthur is charged with manslaughter for abandoning the convulsing Julian. Arthur testifies that he genuinely believed Julian was just having a "bad reaction" and would "sleep it off." Assuming the jury believes Arthur, can he still be convicted of manslaughter?
-
-(a) Yes, because under the constructive recklessness standard, Arthur is held liable if an objectively reasonable person would have perceived the grave danger, despite his subjective belief. <!-- correct -->
-(b) No, because manslaughter requires actual subjective awareness of a substantial risk, meaning his genuine belief that Julian would survive completely negates the required mental state.
-(c) Yes, because any failure to rescue a person in medical distress constitutes extreme indifference to human life as a matter of law, regardless of the actor's belief.
-(d) No, because the constructive recklessness standard applies only to premises liability cases and cannot be extended to interpersonal omissions in temporary locations like a motel room.
-(e) Yes, because Arthur's prior diagnosis of terminal cancer proves he possessed the requisite depraved heart and general malice necessary for any degree of criminal homicide.
-
-**Answer:** (a)
-
-**Explanation:** Arthur is liable under the *Welansky* constructive recklessness standard because a reasonable person would have perceived the grave danger of abandoning a convulsing victim, rendering Arthur's subjective belief that Julian would "sleep it off" irrelevant. (b) is wrong because constructive recklessness explicitly overrides the normal requirement for subjective awareness. (c) is wrong because not every failure to rescue automatically constitutes extreme indifference as a matter of law; it remains a fact-specific inquiry. (d) is wrong because the *Welansky* standard applies generally to wanton and reckless conduct, not just strictly to premises liability. (e) is wrong because a terminal illness does not automatically establish malice or a depraved heart.
-
-**Tags:** chapters: [13], topics: [unintentional homicide, constructive recklessness, depraved heart], difficulty: hard, cognitive: analysis
-
-**Grounding:** Chapter 13 (constructive-recklessness-welansky, extreme-indifference-standard)
+**Tags:** chapters: [9], topics: [omissions, creation of peril, duty to rescue], difficulty: medium, cognitive: application
+**Grounding:** Chapter 9; Jones v. United States
 
 ---
 
-**Q6.** The prosecution considers charging Arthur with felony murder, using drug distribution as the predicate felony. In a jurisdiction that applies the "facts-as-committed" test for inherent dangerousness and recognizes the merger doctrine, is this charge viable?
+**Q4.** Assume that Arthur had a legal duty to act. Arthur argues that he cannot be the factual cause of Julian's death because the drug itself stopped Julian's heart, not Arthur's delay in seeking help. Is Arthur the factual cause of Julian's death?
 
-(a) Yes, because distributing a lethal chemical is inherently dangerous as committed, and the felony has an independent purpose of financial gain, so it does not merge. <!-- correct -->
-(b) No, because drug distribution has no independent felonious purpose beyond harming the victim, meaning it merges with the homicide and cannot serve as a predicate.
-(c) Yes, because under the abstract elements test, drug distribution can never be committed safely, and drug offenses are categorically exempt from the merger doctrine.
-(d) No, because drug distribution is not an assaultive crime, and only directly assaultive crimes can serve as inherently dangerous predicates under the facts-as-committed framework.
-(e) Yes, because any felony that results in death automatically qualifies as inherently dangerous, overriding the merger doctrine's requirement for an independent felonious purpose.
-
-**Answer:** (a)
-
-**Explanation:** The charge is viable because distributing lethal drugs is inherently dangerous as actually committed, and selling drugs has an independent financial purpose beyond the violence itself, meaning it does not merge. (b) is wrong because drug distribution has an independent purpose (financial gain) separate from harming the victim. (c) is wrong because under the abstract elements test, distribution might theoretically be committed safely, meaning it would likely fail as inherently dangerous. (d) is wrong because non-assaultive crimes can still be inherently dangerous under the facts-as-committed test. (e) is wrong because the merger doctrine still requires an independent purpose even if a death occurs.
-
-**Tags:** chapters: [14], topics: [felony murder, inherently dangerous, merger doctrine], difficulty: hard, cognitive: analysis
-
-**Grounding:** Chapter 14 (elements-vs-facts-approach, merger-independent-purpose)
-
----
-
-**Q7.** Silas is charged with the substantive offenses of evidence tampering and false imprisonment based on Arthur stepping on the phone and locking the door. Under the *Pinkerton* doctrine, is Silas liable for Arthur's actions?
-
-(a) Yes, because Silas is strictly liable for any and all criminal acts committed by his co-conspirator, regardless of whether the acts were foreseeable or furthered the conspiracy.
-(b) No, because Silas explicitly protested Arthur's actions and attempted to call 911, which immediately severs his liability for any subsequent crimes Arthur committed in the room.
-(c) Yes, because preventing the victim's rescue to avoid police detection was an act in furtherance of their drug distribution conspiracy and was a reasonably foreseeable consequence. <!-- correct -->
-(d) No, because the doctrine only extends liability to the specific target offense of the conspiracy and never covers subsequent cover-up efforts or false imprisonment of victims.
-(e) Yes, because Silas's physical presence in the motel room establishes his direct accomplice liability for Arthur's acts, rendering the conspiracy doctrine's foreseeability requirement legally irrelevant.
+(a) Yes, because Arthur's affirmative physical conduct of locking the door was the sole and exclusive medical cause of Julian's fatal acute cardiac arrhythmia.
+(b) No, because Julian would have inevitably suffered the exact same cardiac arrhythmia regardless of whether Arthur had allowed Silas to complete the 911 call.
+(c) Yes, because but for Arthur preventing the 911 call and locking the door, Julian would have received medication that provided a 95% chance of survival. <!-- correct -->
+(d) No, because factual causation strictly requires the defendant's affirmative act to simultaneously coincide with the victim's underlying physiological and biological mechanism of death.
+(e) Yes, because under the concurrent sufficient causes doctrine, Arthur's omission and the drug's toxicity are legally treated as simultaneous independent actors causing the death.
 
 **Answer:** (c)
 
-**Explanation:** Silas is liable because Arthur's actions in locking the door to avoid police detection are reasonably foreseeable and act in furtherance of the ongoing drug conspiracy. (a) is wrong because *Pinkerton* liability requires the acts to be foreseeable and in furtherance of the conspiracy, not just any random act. (b) is wrong because mere verbal protest without thwarting the crime or notifying police does not constitute legal withdrawal. (d) is wrong because *Pinkerton* explicitly covers foreseeable collateral crimes, including subsequent cover-ups. (e) is wrong because *Pinkerton* liability extends substantive liability based on the agreement itself, not merely physical presence at the scene.
+**Explanation:** (c) is correct. Factual causation uses the "but-for" test. The medical examiner established that but for Arthur's delay (preventing the 911 call and locking the door), Julian would have had a 95% chance of survival, making Arthur's omission a factual but-for cause of death. 
 
-**Tags:** chapters: [19], topics: [conspiracy, Pinkerton doctrine], difficulty: medium, cognitive: application
+(a) is incorrect because but-for cause does not require the defendant's act to be the sole cause, only a necessary one. 
+(b) is incorrect because the facts explicitly state Julian would likely have survived the arrhythmia with timely treatment. 
+(d) is incorrect because omissions can be factual causes even if they do not physically coincide with the biological mechanism of death. 
+(e) is incorrect because concurrent sufficient causation applies when two independent acts could each cause the harm independently, which is not the case here.
 
-**Grounding:** Chapter 19 (pinkerton-doctrine)
+**Tags:** chapters: [8], topics: [causation, factual cause, but-for test], difficulty: easy, cognitive: application
+**Grounding:** Chapter 8; Standard but-for causation
 
 ---
 
-**Q8.** Silas argues that he effectively withdrew from the conspiracy when he pulled out his phone, stated "I'm calling 911," and verbally protested Arthur's decision to leave Julian in the locked room. Will Silas's withdrawal defense succeed?
+**Q5.** Assume the jurisdiction applies common law homicide doctrines. Arthur argues he cannot be convicted of depraved heart murder because he genuinely believed Julian was just having a bad reaction and would recover. Will Arthur's subjective belief prevent a murder conviction?
 
-(a) Yes, because by announcing his intent to call 911 and protesting, Silas clearly communicated his rejection of the conspiracy to his co-conspirator before the death occurred.
-(b) No, because Silas failed to actually thwart the success of the conspiracy, communicate his withdrawal to law enforcement, or completely abandon the enterprise before fleeing. <!-- correct -->
-(c) Yes, because his attempt to dial 911 constituted a substantial step toward abandoning the criminal enterprise, which legally nullifies his prior agreement to distribute the drugs.
-(d) No, because a co-conspirator can never legally withdraw from a conspiracy once the target offense has been partially completed and the victim has ingested the drugs.
-(e) Yes, because he verbally protested leaving the victim in the room, which fully satisfies the common law requirement for voluntary and complete renunciation of criminal purpose.
+(a) Yes, because depraved heart murder strictly requires that the defendant subjectively intend for the specific victim to suffer serious bodily harm or imminent death.
+(b) No, because extreme indifference can be established constructively if a reasonable person would have easily perceived the grave danger of abandoning a convulsing victim. <!-- correct -->
+(c) Yes, because his subjective, genuine belief drops his culpability to ordinary negligence, which can legally only support an involuntary manslaughter conviction at most.
+(d) No, because Arthur's underlying conduct involved an illegal drug transaction, which automatically elevates any resulting death to premeditated first-degree murder under the common law.
+(e) Yes, because constructive recklessness historically only applies to corporate officers and commercial property owners who willfully fail to maintain safe premises for their patrons.
 
 **Answer:** (b)
 
-**Explanation:** Silas did not effectively withdraw because successful withdrawal requires completely abandoning the enterprise and typically thwarting the crime or notifying authorities, not just protesting and fleeing. (a) is wrong because merely protesting without taking further action to stop the ongoing crime is insufficient to establish withdrawal. (c) is wrong because dialing 911 without completing the call or stopping the crime fails the rigorous withdrawal standard. (d) is wrong because one can legally withdraw before the crime reaches completion, though Silas failed to do so properly. (e) is wrong because a verbal protest alone is not a complete and voluntary renunciation.
+**Explanation:** (b) is correct. Under *Welansky*, recklessness can be established constructively. Even if Arthur subjectively believed Julian would recover, he is held to a wanton or reckless standard because a reasonable person would have perceived the grave danger of abandoning a convulsing victim. 
+
+(a) is incorrect because depraved heart murder requires extreme recklessness, not specific intent to kill or harm. 
+(c) is incorrect because constructive knowledge of grave risk elevates culpability to recklessness, supporting murder, rather than ordinary negligence. 
+(d) is incorrect because not all drug transactions automatically elevate deaths to first-degree murder without applying specific felony murder predicates. 
+(e) is incorrect because constructive recklessness applies generally to individuals who breach a duty of care, not just corporate officers.
+
+**Tags:** chapters: [13], topics: [unintentional homicide, constructive recklessness, depraved heart], difficulty: hard, cognitive: application
+**Grounding:** Chapter 13; Commonwealth v. Welansky
+
+---
+
+**Q6.** The state alternatively charges Arthur with felony murder, using the drug distribution as the predicate felony. The defense argues the charge is legally barred by limiting doctrines. Which of the following accurately describes how limiting doctrines apply to this charge?
+
+(a) The charge is barred by the merger doctrine, because distributing drugs has no independent felonious purpose beyond the physical harm it causes to the victim.
+(b) The charge is valid under the facts-as-committed approach, but might fail under the abstract elements approach if drug distribution can theoretically be committed safely. <!-- correct -->
+(c) The charge is barred under the abstract elements approach, because all drug distribution offenses are categorically considered malum prohibitum rather than malum in se.
+(d) The charge is valid under the merger doctrine, because drug distribution is an inherently assaultive felony that automatically triggers strict first-degree felony murder liability.
+(e) The charge is barred by both modern approaches, because drug distribution requires specific intent, which cannot legally substitute for the malice aforethought required for murder.
+
+**Answer:** (b)
+
+**Explanation:** (b) is correct. For felony murder, the abstract elements approach asks if the crime can theoretically be committed safely (which might exclude drug distribution, depending on the court). The facts-as-committed approach looks at the specific dangerous execution (which here includes a fatal overdose). 
+
+(a) is incorrect because drug distribution has an independent felonious purpose (selling drugs) and therefore does not merge like an assault. 
+(c) is incorrect because drug distribution is often considered malum in se, and the abstract test relies on inherent dangerousness, not the malum prohibitum distinction. 
+(d) is incorrect because drug distribution is not an assaultive felony. 
+(e) is incorrect because felony murder specifically exists to substitute the intent to commit the felony for malice aforethought.
+
+**Tags:** chapters: [14], topics: [felony murder, inherently dangerous, merger doctrine], difficulty: hard, cognitive: analysis
+**Grounding:** Chapter 14; People v. Phillips; People v. Wilson
+
+---
+
+**Q7.** Assume Silas is charged with Julian's homicide. The prosecution argues Silas is liable for Arthur's actions (knocking the phone away and locking the door) under the *Pinkerton* doctrine. Will this theory succeed?
+
+(a) Yes, because Silas was a co-conspirator, and Arthur's acts to avoid police detection and protect the drug proceeds were in furtherance of the conspiracy and reasonably foreseeable. <!-- correct -->
+(b) No, because Silas explicitly protested leaving the motel room, which immediately and legally severed his ongoing liability for any subsequent criminal acts committed by Arthur.
+(c) Yes, because under the strict Pinkerton doctrine, a co-conspirator is automatically liable for any crime committed by a partner, regardless of whether it furthered the conspiracy.
+(d) No, because homicide is an inherently violent crime, and the original conspiratorial agreement was strictly limited solely to the non-violent commercial distribution of narcotics.
+(e) Yes, because Silas was physically present at the scene of the crime, which automatically makes him a principal in the first degree for all of Arthur's actions.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct. Under the *Pinkerton* doctrine, a conspirator is liable for the foreseeable substantive crimes committed by a co-conspirator in furtherance of the conspiracy. Arthur's acts to prevent the 911 call were foreseeable actions taken to avoid police detection and protect the drug enterprise. 
+
+(b) is incorrect because mere verbal protest is insufficient to constitute legal withdrawal from a conspiracy. 
+(c) is incorrect because *Pinkerton* liability strictly requires the substantive crime to be reasonably foreseeable and in furtherance of the conspiracy. 
+(d) is incorrect because violence or homicide can be a foreseeable consequence of a drug conspiracy, even if the initial agreement was non-violent. 
+(e) is incorrect because mere presence does not make one a principal in the first degree; liability here relies on conspiracy principles.
+
+**Tags:** chapters: [19], topics: [conspiracy, Pinkerton liability], difficulty: medium, cognitive: application
+**Grounding:** Chapter 19; Pinkerton v. United States
+
+---
+
+**Q8.** Assume Silas argues that by pulling out his phone, stating "I'm calling 911," and protesting Arthur's decision to leave, he effectively withdrew from the conspiracy before Julian died. Did Silas legally withdraw?
+
+(a) Yes, because his prompt attempt to call 911 for the dying victim constituted an affirmative physical act fundamentally inconsistent with the conspiracy's criminal purpose.
+(b) No, because withdrawal requires a defendant to either successfully thwart the crime or clearly communicate withdrawal to all co-conspirators in time to stop it, which Silas failed to accomplish. <!-- correct -->
+(c) Yes, because his clear verbal protest to Arthur effectively communicated his complete withdrawal and instantly severed his legal liability for the ongoing criminal enterprise.
+(d) No, because formal withdrawal from a conspiracy to distribute Schedule I substances is legally impossible once the illegal drugs have been successfully synthesized and transported.
+(e) Yes, because Silas's frantic actions during the medical emergency definitively demonstrated he no longer possessed the requisite specific intent to distribute the controlled substance.
+
+**Answer:** (b)
+
+**Explanation:** (b) is correct. To effectively withdraw from a conspiracy under the traditional rule, a defendant must take affirmative steps to either successfully thwart the crime or communicate withdrawal to all co-conspirators in time to stop the target offense. Silas merely protested and left with Arthur. 
+
+(a) is incorrect because an uncompleted attempt to call 911 that fails to thwart the crime is legally insufficient for withdrawal. 
+(c) is incorrect because verbal protest without effectively stopping the crime or permanently severing ties is insufficient. 
+(d) is incorrect because withdrawal is possible before the completion of the target offenses (such as the homicide or ongoing distribution). 
+(e) is incorrect because losing the desire to participate does not constitute legal withdrawal without the required affirmative acts.
 
 **Tags:** chapters: [19], topics: [conspiracy, withdrawal], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 19 (withdrawal-requirements)
-
----
-
-**Q9.** Assume Arthur and Silas are convicted of felony murder. The prosecution seeks the death penalty or LWOP against Silas as an accomplice. Under the *Tison* standard for accomplice felony murder liability, is Silas eligible for capital punishment?
-
-(a) Yes, because his physical presence at the scene of the fatal overdose automatically makes him a major participant who is fully responsible for the resulting death.
-(b) No, because purchasing glassware and taking a cut of sales falls short of major participation, and attempting to call 911 negates reckless indifference to human life. <!-- correct -->
-(c) Yes, because any intentional participation in a fatal felony automatically satisfies the reckless indifference standard required for capital punishment under the Eighth Amendment jurisprudence.
-(d) No, because the *Tison* standard requires the accomplice to have personally and directly inflicted the fatal injury, which Silas did not do in this specific scenario.
-(e) Yes, because his attempt to call 911 proves he subjectively appreciated the risk of death, establishing the exact reckless indifference required to execute an accomplice.
-
-**Answer:** (b)
-
-**Explanation:** Silas is not eligible for capital punishment because *Tison* requires major participation and reckless indifference, which Silas lacked by merely supplying glassware and attempting to call 911. (a) is wrong because mere presence does not establish major participation. (c) is wrong because the Eighth Amendment standard requires individualized culpability findings, not automatic presumptions. (d) is wrong because *Tison* explicitly allows capital punishment for non-killers if they meet the specific major participation and reckless indifference criteria. (e) is wrong because trying to call 911 demonstrates an attempt to mitigate harm, which actively negates the reckless indifference requirement.
-
-**Tags:** chapters: [14, 18], topics: [accomplice liability, felony murder, capital punishment], difficulty: hard, cognitive: application
-
-**Grounding:** Chapter 14 (tison-major-participant)
+**Grounding:** Chapter 19; Withdrawal Requirements
 
 ---
 
-**Q10.** Arthur argues that he cannot be charged with possessing the 500 grams of the chemical in his backpack because Silas was able to freely reach into the bag and remove two grams, destroying Arthur's exclusive control. Is Arthur correct?
+**Q9.** Assume the jurisdiction applies the *Tison* standard for felony murder liability for non-killer accomplices. If Silas is convicted of felony murder, does he meet the constitutional threshold for capital punishment or life without parole under *Tison*?
 
-(a) Yes, because Silas's unrestricted physical access to the backpack permanently destroys the exclusive control element necessary to establish constructive possession over the remaining drugs.
-(b) No, because the law readily permits joint possession, and Silas's shared access does not negate Arthur's ongoing awareness of and power to control the backpack's contents. <!-- correct -->
-(c) Yes, because the backpack was located in a shared motel room, requiring the prosecution to prove that Arthur actually touched the specific drugs sold to the victim.
-(d) No, because Arthur's ownership of the backpack creates an irrebuttable legal presumption of exclusive control over all of its contents, regardless of who else accesses it.
-(e) Yes, because Arthur mistakenly believed the substance was a legal nootropic, which legally negates the specific intent required to exercise control over a scheduled controlled substance.
+(a) Yes, because Silas was physically present at the motel scene and shared in the financial profits, which fully satisfies the requirement for specific intent to kill.
+(b) No, because Silas's immediate attempt to call 911 for the dying victim actively demonstrates that he did not act with reckless indifference to human life. <!-- correct -->
+(c) Yes, because Silas's initial purchase of the specialized glassware made him a major participant, thereby automatically satisfying the reckless indifference requirement for capital punishment.
+(d) No, because Silas did not physically hand the illicit drug directly to Julian, legally placing him on the remote outer fringes of the criminal conspiracy.
+(e) Yes, because the modern Tison standard strictly imposes capital liability on any accomplice who is physically present when a death occurs during an enumerated felony.
 
 **Answer:** (b)
 
-**Explanation:** Arthur had constructive possession because the law explicitly permits joint possession, and Silas's access does not negate Arthur's power and intent to control the backpack's contents. (a) is wrong because exclusive control can be shared jointly among co-conspirators. (c) is wrong because physical touching is not required to establish constructive possession. (d) is wrong because criminal law does not recognize irrebuttable presumptions of possession based solely on ownership. (e) is wrong because a mistake of penal law does not negate the intent to possess the physical substance itself.
+**Explanation:** (b) is correct. The *Tison* standard requires a non-killer accomplice to be a "major participant" who acted with "reckless indifference to human life." Silas's immediate attempt to call 911 to save Julian negates the reckless indifference element, barring capital punishment. 
 
-**Tags:** chapters: [15], topics: [constructive possession, exclusive control], difficulty: easy, cognitive: application
+(a) is incorrect because presence and profit-sharing do not automatically establish specific intent to kill. 
+(c) is incorrect because purchasing glassware might make him a major participant, but it does not establish the separate requirement of reckless indifference to life. 
+(d) is incorrect because purchasing equipment and being present in the room means he was not on the remote outer fringes. 
+(e) is incorrect because *Tison* requires individualized findings of culpability, rejecting strict liability for capital punishment.
 
-**Grounding:** Chapter 15 (cp-exclusive-control)
+**Tags:** chapters: [14, 18], topics: [felony murder, accomplice liability, capital punishment], difficulty: hard, cognitive: analysis
+**Grounding:** Chapter 14; Tison v. Arizona
 
 ---
 
-**Q11.** Arthur and Silas are charged with conspiracy to distribute a Schedule I controlled substance. Arthur argues that because he genuinely misread the regulatory database and thought the chemical was legal, they lacked the specific intent to agree to commit a crime. Does this mistake negate the conspiracy?
+**Q10.** The police later find the remaining 498 grams of the substance in Arthur's backpack. Arthur argues he did not have exclusive control over the backpack because Silas freely reached into it during the sale. Is Arthur in constructive possession of the 498 grams?
 
-(a) Yes, because a conspiracy conviction requires proof of bilateral knowledge that the targeted conduct is strictly prohibited by the penal law at the time of agreement.
-(b) No, because ignorance of the penal law is no excuse, and they purposefully agreed to distribute the specific chemical structure, satisfying the required mens rea. <!-- correct -->
-(c) Yes, because Arthur's mistake regarding the drug's regulatory scheduling negates the specific intent required to purposefully agree to commit a statutorily defined criminal offense.
-(d) No, because the *Pinkerton* doctrine automatically imputes Silas's general criminal knowledge and prior drug record to Arthur, curing any defect in Arthur's personal legal understanding.
-(e) Yes, because Arthur's terminal illness provides a recognized necessity defense that legally negates the corrupt motive requirement essential for all common law conspiracy convictions.
+(a) Yes, because Arthur owned the backpack and maintained constructive control over it, and Silas's access merely establishes joint possession without destroying Arthur's own legal control. <!-- correct -->
+(b) No, because Silas's ability to freely reach into the unzipped backpack proves that Arthur completely abandoned his exclusive expectation of privacy in the container.
+(c) Yes, because Arthur was the sole individual who actually synthesized the drug, which legally precludes any other person from ever possessing it under the law.
+(d) No, because criminal possession strictly requires continuous physical holding of the contraband item at the exact moment of police arrest, which Arthur was not doing.
+(e) Yes, because under the public welfare doctrine, absolute strict liability applies to the mere proximity of any container holding more than 100 grams of a Schedule I substance.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Arthur and Silas are guilty because ignorance of the penal law is no excuse; they had the specific purpose to distribute that exact chemical structure, which satisfies the intent requirement. (a) is wrong because conspiracy does not require knowledge of the penal code. (c) is wrong because a mistake of penal law does not negate the specific intent to commit the underlying acts. (d) is wrong because the *Pinkerton* doctrine imputes substantive crimes, not the required mens rea for the conspiracy agreement itself. (e) is wrong because a terminal illness is not a legally recognized necessity defense for drug trafficking.
+**Explanation:** (a) is correct. Constructive possession requires awareness of the contraband and the ability to exercise control over it. Arthur owned the backpack and maintained control; Silas reaching in establishes joint possession but does not negate Arthur's exclusive ownership and constructive control. 
 
-**Tags:** chapters: [10, 19], topics: [conspiracy, mens rea, mistake of law], difficulty: medium, cognitive: application
+(b) is incorrect because sharing access to a container does not constitute legal abandonment of property or control. 
+(c) is incorrect because synthesizing a drug does not legally preclude others from subsequently possessing or co-possessing it. 
+(d) is incorrect because constructive possession explicitly covers items within a person's dominion and control, even if not physically held. 
+(e) is incorrect because strict liability public welfare doctrines do not redefine the physical/constructive parameters of legal possession.
 
-**Grounding:** Chapter 10 (mol-traditional-rule), Chapter 19 (mens-rea-purpose)
+**Tags:** chapters: [15], topics: [possession, constructive possession, joint control], difficulty: medium, cognitive: application
+**Grounding:** Chapter 15; Constructive possession doctrines
 
 ---
 
-**Q12.** Silas is charged as an accomplice to manufacturing the controlled substance. Silas argues he only provided glassware and did not participate in the synthesis, meaning he merely had knowledge of the crime, not the purpose to facilitate it. Will Silas's defense succeed?
+**Q11.** Arthur and Silas are charged with conspiracy to distribute a controlled substance. They argue they lacked the intent to form a criminal conspiracy because Arthur genuinely believed the substance was a legal "nootropic," and Silas relied on this. Is their defense valid?
 
-(a) Yes, because merely purchasing legal glassware without directly participating in the chemical synthesis cannot constitute the required actus reus for accomplice liability under any circumstances.
-(b) No, because his twenty percent cut of the sales establishes a financial stake in the venture, which legally elevates his knowledge of the crime to purposed facilitation. <!-- correct -->
-(c) Yes, because he did not know the exact chemical structure Arthur was synthesizing, meaning he lacked the specific intent required to manufacture that specific scheduled substance.
-(d) No, because the law strictly presumes that anyone physically present at a drug transaction automatically shares the primary manufacturer's unlawful intent to produce the narcotics.
-(e) Yes, because Silas's low-level drug record proves he lacked the sophisticated chemical knowledge required to purposefully assist a tenured professor in manufacturing complex designer supplements.
+(a) Yes, because criminal conspiracy is a specific intent crime that strictly requires the defendants to subjectively know their shared objective violates the penal law.
+(b) No, because ignorance of the penal law is no excuse, and their purposeful agreement to distribute this specific molecular structure completely satisfies the conspiracy mens rea. <!-- correct -->
+(c) Yes, because the mistake of law was objectively reasonable given that Arthur was a tenured chemistry professor who carefully checked a government regulatory database.
+(d) No, because conspiracy to distribute narcotics is a unique strict liability offense that requires absolutely no mens rea regarding the formation of the agreement itself.
+(e) Yes, because a mutual, bilateral mistake of fact regarding the legal status of a chemical item completely voids the conspiratorial agreement from its very inception.
 
 **Answer:** (b)
 
-**Explanation:** Silas is an accomplice because taking a 20% cut gives him a financial stake in the venture, effectively elevating his knowledge of the manufacturing crime to purposed facilitation. (a) is wrong because providing essential supplies with the requisite intent fully satisfies the actus reus for accomplice liability. (c) is wrong because he knew the supplies were for drug manufacturing, even if he didn't know the exact molecular structure. (d) is wrong because mere presence does not create a strict presumption of shared intent. (e) is wrong because sophisticated chemical expertise is not required to be an accomplice to manufacturing.
+**Explanation:** (b) is correct. Ignorance of the law is generally no excuse. Conspiracy requires the purpose to agree and the purpose to commit the target offense (distributing the specific chemical structure). Their mistake regarding its regulatory status does not negate their purpose to distribute it. 
 
-**Tags:** chapters: [18], topics: [accomplice liability, mens rea, stake in the venture], difficulty: medium, cognitive: application
+(a) is incorrect because conspiracy does not require knowledge that the agreed-upon objective is illegal, only the intent to commit the acts constituting the offense. 
+(c) is incorrect because reasonable reliance on a personal misreading of a database is not a recognized mistake of law exception. 
+(d) is incorrect because conspiracy is not a strict liability offense; it requires specific intent to agree and achieve the target offense. 
+(e) is incorrect because a bilateral mistake of law does not void criminal agreements.
 
-**Grounding:** Chapter 18 (mr-purpose-not-knowledge)
+**Tags:** chapters: [10, 19], topics: [conspiracy, mistake of law, mens rea], difficulty: hard, cognitive: analysis
+**Grounding:** Chapter 10; Traditional Ignorance of Law Rule
+
+---
+
+**Q12.** Silas argues he cannot be charged as an accomplice to the *manufacturing* of the drug because he merely purchased glassware and did not participate in the synthesis. Is Silas an accomplice to manufacturing?
+
+(a) No, because providing ordinary laboratory glassware is a legally neutral act that categorically cannot constitute the required actus reus for any form of accomplice liability.
+(b) Yes, because Silas provided the glassware knowing its intended use and retained a 20% stake in the venture, elevating his mental state from mere knowledge to purpose. <!-- correct -->
+(c) No, because accomplice liability for illegal manufacturing strictly requires the defendant to be physically present in the laboratory during the actual chemical synthesis process.
+(d) Yes, because under the natural and probable consequences doctrine, anyone who buys specialized laboratory equipment is strictly liable for any resulting illicit manufacturing activity.
+(e) No, because Silas's financial contribution was merely preparatory and did not constitute a substantial step toward the actual physical completion of the manufacturing offense.
+
+**Answer:** (b)
+
+**Explanation:** (b) is correct. To be an accomplice, the defendant must have the purpose to promote or facilitate the offense. While providing ordinary goods with mere knowledge is sometimes insufficient, Silas retained a 20% "stake in the venture," which elevates his mental state from knowledge to purpose. 
+
+(a) is incorrect because providing materials can constitute the actus reus for accomplice liability if accompanied by the required purpose. 
+(c) is incorrect because physical presence is not required to be an accomplice if the defendant aids, abets, or encourages the crime beforehand. 
+(d) is incorrect because the natural and probable consequences doctrine applies to foreseeability of subsequent crimes, not strict liability for buying equipment. 
+(e) is incorrect because providing essential equipment is an act of aiding and abetting, not merely an uncompleted attempt.
+
+**Tags:** chapters: [18], topics: [accomplice liability, mens rea, stake in venture], difficulty: medium, cognitive: application
+**Grounding:** Chapter 18; Accomplice Liability Mens Rea

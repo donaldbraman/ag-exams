@@ -1,17 +1,21 @@
-**Q6.** Assume Arthur is charged with felony murder based on the underlying felony of drug distribution. If the jurisdiction limits felony murder using the "abstract elements" test and the merger doctrine, how will the court analyze the predicate felony?
+**Q6.** The state alternatively charges Arthur with felony murder, using the drug distribution as the predicate felony. The defense argues the charge is legally barred by limiting doctrines. Which of the following accurately describes how limiting doctrines apply to this charge?
 
-(a) The court will look at whether Arthur's specific method of distribution was dangerous, and will merge the felony because the ingested drug directly assaulted Julian's body.
-(b) The court will determine if drug distribution can theoretically be committed safely in the abstract; it may serve as a predicate if it is inherently dangerous by its elements and does not merge. <!-- correct -->
-(c) The court will apply the "facts-as-committed" test to evaluate if Arthur's actual conduct was lethal, and refuse to merge the felony because distribution is a violent crime.
-(d) The court will automatically classify drug distribution as a merged assaultive felony, regardless of whether it is considered inherently dangerous under the abstract elements test.
-(e) The court will reject felony murder entirely because drug distribution is a strict liability offense that lacks the requisite mens rea to supply constructive malice.
+(a) The charge is barred by the merger doctrine, because distributing drugs has no independent felonious purpose beyond the physical harm it causes to the victim.
+(b) The charge is valid under the facts-as-committed approach, but might fail under the abstract elements approach if drug distribution can theoretically be committed safely. <!-- correct -->
+(c) The charge is barred under the abstract elements approach, because all drug distribution offenses are categorically considered malum prohibitum rather than malum in se.
+(d) The charge is valid under the merger doctrine, because drug distribution is an inherently assaultive felony that automatically triggers strict first-degree felony murder liability.
+(e) The charge is barred by both modern approaches, because drug distribution requires specific intent, which cannot legally substitute for the malice aforethought required for murder.
 
 **Answer:** (b)
 
-**Explanation:** California's abstract elements test requires the court to look at the statutory elements of the felony, not the defendant's actual conduct. If the felony can be committed safely in any circumstance, it is not inherently dangerous. The court must also verify the felony does not merge (drug distribution typically does not merge because it has an independent felonious purpose beyond violence). (a) and (c) are wrong because they describe the "facts-as-committed" test, which directly contradicts the abstract elements approach. (d) is wrong because drug distribution is not an inherently assaultive crime; its primary purpose is commercial/profit, so it survives the merger doctrine. (e) is wrong because the core function of traditional felony murder is to supply malice constructively without requiring a homicidal mens rea, and distribution is not categorically excluded on that basis.
+**Explanation:** (b) is correct. For felony murder, the abstract elements approach asks if the crime can theoretically be committed safely (which might exclude drug distribution, depending on the court). The facts-as-committed approach looks at the specific dangerous execution (which here includes a fatal overdose). 
 
-**Tags:** chapters: [14], topics: [felony murder, inherently dangerous felony, abstract elements test, merger doctrine], difficulty: hard, cognitive: analysis
+(a) is incorrect because drug distribution has an independent felonious purpose (selling drugs) and therefore does not merge like an assault. 
+(c) is incorrect because drug distribution is often considered malum in se, and the abstract test relies on inherent dangerousness, not the malum prohibitum distinction. 
+(d) is incorrect because drug distribution is not an assaultive felony. 
+(e) is incorrect because felony murder specifically exists to substitute the intent to commit the felony for malice aforethought.
 
-**Grounding:** Chapter 14, elements-vs-facts-approach, merger-independent-purpose
+**Tags:** chapters: [14], topics: [felony murder, inherently dangerous, merger doctrine], difficulty: hard, cognitive: analysis
+**Grounding:** Chapter 14; People v. Phillips; People v. Wilson
 
-<!-- grounding: GROUNDED — Inherently Dangerous Felony / Merger Doctrine, Ch 14, Refinement `elements-vs-facts-approach` and `merger-independent-purpose`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Felony murder limiting doctrines (inherent dangerousness and merger), Ch 14, Refinement `elements-vs-facts-approach`. Rule paraphrased accurately. -->

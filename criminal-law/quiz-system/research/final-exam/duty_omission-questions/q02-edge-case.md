@@ -1,22 +1,22 @@
-**Q2.** Assume that, whether or not Blake had a duty, the state charges Alex with an omission-based offense. Does Alex have a legal duty to aid Chris?
+**Q2.** Can Alex's actions establish a legal duty to act under the creation of peril category?
 
-(a) No, because Chris voluntarily injected the dose, which entirely shifts the peril to the victim's own conduct.
-(b) Yes, because Alex's role as the ringleader of the operation automatically created a recognized status relationship.
-(c) Yes, because the combination safe and drug supply prove Alex intended to cause the resulting medical emergency.
-(d) Yes, because preparing and handing the untested dose to Chris constituted the creation of a perilous situation. <!-- correct -->
-(e) No, because Alex only provided the substance and did not physically force the victim to complete the injection.
+(a) Yes, because Alex's full course of conduct in providing the drug and blocking the door created a dangerous situation, imposing a duty to mitigate the harm. <!-- correct -->
+(b) Yes, because providing an untested drug constitutes an express statutory duty under the controlled substances act.
+(c) No, because Alex did not physically force Chris to inject the drug, meaning Chris assumed the risk of the overdose.
+(d) No, because creation of peril only applies if the defendant's prior conduct in creating the danger was non-criminal.
+(e) No, because blocking the door was an intentional act, whereas the creation of peril category only applies to negligent omissions.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** (d) is correct because the fifth Jones category imposes a legal duty to mitigate harm on someone who creates a dangerous situation. By personally preparing and handing Chris an untested synthetic opioid, Alex created the peril and acquired a legal duty to aid him once he collapsed. (a) is wrong because a victim's voluntary participation does not absolve the provider of their legal duty after they helped create the risk. (b) is wrong because being a ringleader is not a legally recognized status relationship (like parent or spouse). (c) is wrong because the duty to act relies on the objective creation of peril, not the subjective intent to cause harm. (e) is wrong because providing the means of the overdose is sufficient to establish the creation of peril under the full course of conduct.
+**Explanation:** A person who creates a dangerous situation through prior conduct acquires a legal duty to mitigate the resulting harm. Courts assess the full course of conduct—providing the drug, preparing the dose, and blocking aid—which clearly creates peril (Voss). (b) is wrong because statutory duties require express legislative mandates to act, not general drug prohibitions. (c) is wrong because the victim's voluntary ingestion does not negate the peril Alex created by supplying the drug. (d) is wrong because the prior conduct creating the peril can be either criminal or non-criminal. (e) is wrong because creation of peril applies regardless of whether the creating acts were intentional or negligent.
 
-**Tags:** chapters: [9], topics: [omissions, creation-of-peril], difficulty: medium, cognitive: application
+**Tags:** chapters: [9], topics: [creation-of-peril-category, omissions], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 9 - Creation of Peril Category (State v. Voss)
+**Grounding:** Chapter 9, State v. Voss
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
+2. Cross-Doctrine Clashes: pass (Although Alex's act of blocking the door is an affirmative act of interference that can support direct commission liability for homicide, it is well-established that it concurrently establishes/exacerbates the peril for the purposes of omission liability. The question limits its scope strictly to the establishment of the duty).
+3. Cross-Question Spoilers: pass (Does not spoil Q3's causation analysis or Q9's extreme indifference analysis).
 Recommended fix: n/a
 -->

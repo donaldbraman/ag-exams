@@ -1,26 +1,26 @@
-**Q14.** Is Blake's act of locking the door the factual (but-for) cause of Chris's death?
+**Q14.** In a prosecution of Blake for Chris's death, the defense argues that Blake's failure to call 911 was not the factual (but-for) cause of Chris's death. Which of the following facts best supports this argument?
 
-(a) No, because Dana's injection caused a massive cardiac rupture that killed Chris instantly, completely preempting the impending lethal overdose mechanism. <!-- correct -->
-(b) Yes, because locking the deadbolt was a necessary step in the continuous sequence of events leading directly to the death.
-(c) Yes, because Chris would have received medical assistance and survived if Blake had successfully completed the phone call to 911.
-(d) No, because Alex's action of drawing the weapon was the primary cause, rendering Blake's subsequent compliance merely a dependent variable.
-(e) No, because Chris's initial voluntary consumption of the untested synthetic opioid fundamentally severs any factual causation attributed to the bystanders.
+(a) Dana's subsequent injection killed Chris instantly, meaning Chris would have died at that exact moment even if Blake had called 911, so the omission was not a but-for cause. <!-- correct -->
+(b) Alex originally handed Chris the untested dose of the opioid, making Alex the sole proximate cause of the death.
+(c) Chris had a known history of severe adverse drug reactions, making his collapse an entirely foreseeable event.
+(d) Evan helped push the heavy deadbolt shut, meaning Blake was not acting alone in secluding Chris.
+(e) Expert testimony established that Chris would have died within ten minutes from the overdose regardless of any intervention.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because factual (but-for) causation requires asking: "but for the defendant's act, would the result have occurred when and how it did?" Because Dana's injection caused a massive, immediate cardiac rupture that killed Chris instantly, Chris did not die from the delayed rescue or the overdose. Thus, locking the door was not the but-for cause of the specific death that occurred. (b) is wrong because Dana's action preempted the overdose sequence entirely. (c) is wrong because but-for causation evaluates the actual timeline, and the medical assistance was rendered moot by the sudden rupture. (d) is wrong because multiple actors can be concurrent but-for causes, but here the lethal mechanism changed entirely. (e) is wrong because voluntary consumption does not automatically sever factual causation for subsequent acts.
+**Explanation:** Factual (but-for) causation requires that the result would not have occurred when it did but for the defendant's conduct. Because Dana's injection killed Chris instantly, the failure to call 911 did not actually contribute to the death; emergency services could not have arrived in time to prevent the instant death. (b) is wrong because there can be multiple proximate causes, but the question asks about factual causation. (c) is wrong because foreseeability relates to proximate cause, not but-for causation. (d) is wrong because concurrent sufficient causes do not defeat but-for causation. (e) is wrong because Dana's injection preempted the 10-minute timeline, altering the actual mechanism and timing of death.
 
-**Tags:** chapters: [8], topics: [causation, but-for-test], difficulty: medium, cognitive: application
+**Tags:** chapters: [8], topics: [but-for-test-basic, factual-causation], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 8 - Factual Cause (But-For Test)
+**Grounding:** Chapter 8, Factual Cause
 
 <!-- audit: MUST FIX
-check 1: pass (assuming the missing facts align with the explanation).
-check 2: finding - Without the fact pattern, a student could argue that if locking the door trapped Chris inside with Dana, then locking the door *enabled* Dana to inject Chris. If so, locking the door *is* a but-for cause of the actual death (Dana's injection). 
-check 3: pass
-check 4: MUST FIX - The question entirely lacks a fact pattern. It references a complex scenario involving Blake locking a door, Alex drawing a weapon, Chris voluntarily taking an opioid, and Dana injecting Chris with a lethal substance, none of which is established in a prompt. 
+check 1: pass
+check 2: pass
+check 3: finding (Explanation (d) says "concurrent sufficient causes do not defeat but-for causation." Technically, they *do* defeat the strict but-for test, which is why courts use workarounds to find factual causation anyway. Better phrasing: "do not defeat a finding of factual causation.")
+check 4: fails (The stem is missing the entire factual scenario. It introduces Dana, Alex, Evan, an overdose, a deadbolt, and a lethal injection out of nowhere. Students cannot answer this without the missing fact pattern.)
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Provide the missing fact pattern. Additionally, when writing the facts, explicitly ensure that Blake locking the door did *not* facilitate Dana's injection (e.g., make it clear Dana was already inside and would have injected Chris regardless of the lock); otherwise, locking the door actually would be a but-for cause under standard doctrine.
+Recommended fix: Prepend the missing fact pattern to the stem (e.g., "Alex gives Chris an untested opioid, causing an overdose. Blake and Evan lock Chris in a room, and Blake fails to call 911. Before Chris dies from the overdose, Dana enters and instantly kills Chris with a lethal injection.") and update explanation (d) to say "do not defeat a finding of factual causation."
 -->

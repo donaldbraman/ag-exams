@@ -1,17 +1,17 @@
-**Q6.** Assume the state successfully proves a conspiracy to manufacture synthetic opioids. Can Alex be convicted of Dana's burglary under the Pinkerton doctrine?
+**Q6.** In a jurisdiction applying the federal Pinkerton doctrine, can Alex be held liable for Dana's burglary of the veterinary clinic?
 
-(a) Guilty, because Dana's act of securing medical supplies to hide the operation falls within the foreseeable scope of the agreement.
-(b) Guilty, because any felony committed by a co-conspirator automatically establishes strict liability for all other members of the ongoing conspiracy.
-(c) Not guilty, because Alex did not personally participate in, intend, or explicitly authorize Dana to break into the veterinary clinic.
-(d) Not guilty, because property offenses like burglary cannot serve as predicate crimes for Pinkerton liability in drug distribution conspiracy cases.
-(e) Not guilty, because a panicked burglary of a veterinary clinic is an unforeseeable deviation from a synthetic opioid manufacturing conspiracy. <!-- correct -->
+(a) Yes, if the burglary was committed in furtherance of the drug conspiracy and was a reasonably foreseeable consequence of the conspiracy's operations. <!-- correct -->
+(b) Yes, because any crime committed by a co-conspirator during the timeframe of the conspiracy is automatically attributed to all members.
+(c) No, because Pinkerton liability requires that the defendant intentionally assisted or encouraged the specific target offense.
+(d) No, because burglary is a crime of violence, and the target of the conspiracy was solely non-violent drug distribution.
+(e) No, because the federal system explicitly rejected the Pinkerton doctrine, requiring proof of purposeful aid for all co-conspirator crimes.
 
-**Answer:** (e)
+**Answer:** (a)
 
-**Explanation:** (e) is correct because Pinkerton liability holds co-conspirators vicariously liable for substantive offenses committed by others only if those offenses are both in furtherance of the conspiracy and reasonably foreseeable. A freelance chemist breaking into a veterinary clinic to steal animal stimulants is a highly extraordinary, unforeseeable deviation from a standard opioid manufacturing scheme. (a) is wrong because although Dana acted to protect the operation, the specific crime fails the objective foreseeability requirement. (b) is wrong because Pinkerton liability is not strict liability; the foreseeable and in-furtherance requirements act as vital limits. (c) is wrong because Pinkerton explicitly dispenses with the need for personal participation or authorization. (d) is wrong because any crime can theoretically serve as a Pinkerton predicate if it meets the two-part test.
+**Explanation:** Under the Pinkerton doctrine, a conspirator is liable for the substantive offenses of co-conspirators if the offenses are committed in furtherance of the conspiracy and are reasonably foreseeable. Dana breaking in to get a stimulant to save the operation fits this test. (b) is wrong because Pinkerton is not absolute; it requires the acts to be foreseeable and in furtherance of the conspiracy. (c) is wrong because intentional assistance defines accomplice liability, whereas Pinkerton extends liability without specific intent for the collateral crime. (d) is wrong because violent crimes can be foreseeable consequences of drug conspiracies. (e) is wrong because the federal system uses Pinkerton; it is the MPC that rejected it.
 
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton-doctrine], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [pinkerton-doctrine, conspiracy], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - Pinkerton Doctrine
+**Grounding:** Chapter 19, Pinkerton Doctrine
 
 <!-- grounding: GROUNDED — Pinkerton doctrine, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->

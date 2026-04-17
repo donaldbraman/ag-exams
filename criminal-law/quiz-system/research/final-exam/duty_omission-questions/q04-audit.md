@@ -1,26 +1,26 @@
-**Q4.** Assume Evan is charged as an accomplice to Blake's crime of locking the door. Can Evan successfully assert a derivative defense based on Blake's coercion?
+**Q4.** Evan is charged as an accomplice to Blake's crime of false imprisonment for helping push the deadbolt shut. Evan argues that because Blake acted under duress, Evan cannot be convicted. Is Evan correct?
 
-(a) Evan cannot claim the defense because duress is an excuse that applies only to the specific coerced individual. <!-- correct -->
-(b) Evan can claim the defense because he acted under the same immediate threat that compelled Blake's original action.
-(c) Evan can claim the defense because Blake's duress is a justification that legally transfers to any knowing accomplice.
-(d) Evan cannot claim the defense because he fled through the window rather than remaining to complete the offense.
-(e) Evan cannot claim the defense because justification defenses require an official statutory authorization to use protective physical force.
+(a) No, because duress is an excuse that relieves the principal of personal culpability but does not justify the act itself, so an accomplice receives no derivative defense. <!-- correct -->
+(b) No, because the MPC explicitly requires accomplices to prove their own necessity defense regardless of the principal's mental state.
+(c) Yes, because under the common law, if the principal is acquitted for any reason, all accomplices are automatically exonerated.
+(d) Yes, because duress is a justification that renders the act legally permissible, meaning anyone who assists is also justified.
+(e) Yes, because Evan was only present at the scene and mere presence plus knowledge is insufficient for accomplice liability.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because duress is an excuse, meaning it reflects a lack of moral culpability due to coercion but does not render the underlying act legally "correct" or justified. Because it is a personal excuse, it cannot be derivatively claimed by an accomplice assisting the coerced actor. (b) is wrong because Evan was not threatened by Alex; his general panic does not constitute the specific directed threat required for duress. (c) is wrong because duress is an excuse, not a justification. (d) is wrong because Evan successfully completed the actus reus of aiding the lock before fleeing, meaning the derivative liability attached. (e) is wrong because justification defenses include necessity and self-defense, neither of which require statutory authorization to be raised in criminal proceedings.
+**Explanation:** Duress is an excuse, not a justification. A justification makes the act legally correct, allowing accomplices to share the defense. An excuse only negates the blameworthiness of the specific actor, meaning an accomplice to an excused act receives no derivative defense. (b) is wrong because it uses the wrong terminology and rule framework. (c) is wrong because the common law allows conviction of an accomplice even if the principal is excused by a personal defense. (d) is wrong because it misclassifies duress as a justification rather than an excuse. (e) is wrong because the facts state Evan affirmatively "helps Blake push the heavy deadbolt shut," which goes beyond mere presence.
 
-**Tags:** chapters: [18, 21], topics: [accomplice-liability, justification-vs-excuse], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [18, 21], topics: [justification-vs-excuse, accomplice-liability, duress], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21 - Justification vs. Excuse (The Core Distinction)
+**Grounding:** Chapter 21, Justification vs. Excuse
 
-<!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: MUST FIX (The explanation relies on facts—"threatened by Alex," "general panic"—that do not appear anywhere in the stem.)
-check 4: MUST FIX (The stem is missing the master fact pattern entirely. It refers to "Blake's crime of locking the door," but the options and explanation refer to phantom facts like "Alex," "fled through the window," and Evan's "general panic." This looks like a sub-question that was severed from its narrative.)
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Import the missing narrative into the stem. (e.g., "Assume Alex threatened Blake with a weapon, forcing Blake to lock a door. Evan, in a general panic but not directly threatened by Alex, helped Blake lock the door and then fled through a window. Evan is charged as an accomplice...")
+<!-- audit: SHOULD FIX
+Check 1: pass
+Check 2: pass
+Check 3: The explanation for (c) states "the common law allows conviction of an accomplice even if the principal is excused." However, the chapter map includes `npc-traditional-rule`, meaning students were taught the strict historical common law procedural bar where an accessory could *not* be convicted if the principal was acquitted for any reason. The explanation needs to clarify that it is referring to the *modern* common law (or the substantive rule distinct from the old procedural bar).
+Check 4: pass
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Recommended fix: Update the explanation for (c) to read: "(c) is wrong because modern law has abolished the traditional common law procedural bar that required the principal's conviction. Substantively, a principal's personal excuse does not transfer to an accomplice."
 -->

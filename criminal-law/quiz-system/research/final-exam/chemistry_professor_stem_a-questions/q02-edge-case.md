@@ -1,22 +1,6 @@
-**Q2.** Assume Arthur is charged with criminal homicide. Arthur argues that Julian's voluntary act of ingesting the drug broke the causal chain, relieving Arthur of homicide liability for Julian's death. How will the court evaluate this intervening act?
-
-(a) It severs the causal chain, because a victim's voluntary and fully informed choice to consume drugs is an independent intervening cause.
-(b) It severs the causal chain, because Julian's ingestion was highly extraordinary and unforeseeable given the drug was experimental.
-(c) It does not sever the causal chain, because a buyer's voluntary ingestion of a drug is a dependent intervening cause that is reasonably foreseeable to the distributor. <!-- correct -->
-(d) It does not sever the causal chain, because the Model Penal Code imposes absolute liability for deaths resulting from the distribution of Schedule I substances.
-(e) It does not sever the causal chain, because any intervening act by a victim is legally irrelevant if the defendant provided the instrumentality of death.
-
-**Answer:** (c)
-
-**Explanation:** A dependent intervening cause—one set in motion by the defendant's acts or reasonably foreseeable—does not sever the causal chain. A buyer ingesting drugs purchased from a dealer is a highly foreseeable, dependent act that completes the expected transaction. (a) is wrong because a buyer's voluntary consumption of drugs supplied by the defendant is treated as a foreseeable dependent cause, not an independent superseding cause. (b) is wrong because ingestion is the exact intended use of the drug, making it entirely foreseeable rather than highly extraordinary. (d) is wrong because the MPC does not impose absolute liability for drug-induced homicide; causation must still be established. (e) is wrong because independent intervening acts by victims (e.g., suicide by an unexpected method) can sometimes sever causation, meaning victim acts are not categorically irrelevant.
-
-**Tags:** chapters: [8], topics: [causation, intervening causes, foreseeability], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 8, dependent-vs-independent-intervening-cause
-
-<!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The facts state Arthur genuinely believed he was selling a legal, unscheduled "nootropic" supplement. Option B assumes the transaction was for a "recreational drug." If Arthur marketed and sold it as a harmless nootropic, it contradicts the premise that Julian knowingly ingested a dangerous recreational drug, which complicates the foreseeability analysis.
+2. Cross-Doctrine Clashes: The question explicitly tests the "dependent vs. independent intervening cause" doctrine, but the correct answer (B) and its explanation fundamentally misapply the rule. Under common law, a victim's deliberate, voluntary ingestion of drugs is an *independent* intervening cause (an act of free will), not a *dependent* intervening cause (which must be a reflex, reaction, or response to a peril created by the defendant, like fleeing a fire or receiving medical treatment). The explanation incorrectly defines a dependent cause as something that is "dependent on the seller providing it" (which is just basic but-for factual causation, not proximate cause). Because voluntary ingestion is highly foreseeable, it is an independent intervening cause that does *not* supersede. 
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+Recommended fix: Change Option (b) to: "No, because although Julian's voluntary ingestion was an independent intervening cause, it was a completely foreseeable and expected consequence of distributing the drug." Update the explanation to clarify that while voluntary ingestion is an independent act of free will (and thus an independent intervening cause), it does not supersede proximate causation because it is highly foreseeable.
 -->

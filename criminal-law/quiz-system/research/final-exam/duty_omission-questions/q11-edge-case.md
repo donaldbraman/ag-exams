@@ -1,18 +1,18 @@
-**Q11.** What evidence best supports an inference that Alex possessed the opioids with intent to distribute rather than for personal use?
+**Q11.** The police discover 5 kilograms of opioids, hundreds of small plastic baggies, and a digital scale in the safe. Alex is charged with possession with intent to distribute. How will the prosecution use this evidence?
 
-(a) The decision to lock the drugs in a safe proves that the narcotics had substantial street value intended for resale.
-(b) The fact that he hired a bodyguard establishes that he was operating a commercial enterprise rather than supporting an addiction.
-(c) The oral agreement paying five hundred dollars a day indicates that the operation possessed significant financial resources for illicit distribution.
-(d) The act of testing the batch on a victim demonstrates an intent to verify the product's quality for eventual buyers.
-(e) The five-kilogram quantity, along with the baggies and scale, creates an overwhelming inference of distribution intent beyond mere personal use. <!-- correct -->
+(a) The large quantity of drugs, combined with packaging materials and a scale, permits the jury to infer an intent to distribute rather than mere personal use. <!-- correct -->
+(b) The presence of the digital scale establishes a conclusive presumption of drug trafficking, shifting the burden of proof to the defendant.
+(c) The 5 kilograms of opioids automatically trigger a mandatory minimum sentence for simple possession under the commerce clause.
+(d) The evidence demonstrates that Alex had actual, rather than constructive, possession of the drugs at the moment of the police raid.
+(e) The packaging materials prove that the drugs were adulterated, which is a required element of possession with intent to distribute.
 
-**Answer:** (e)
+**Answer:** (a)
 
-**Explanation:** (e) is correct because possession with intent to distribute is typically inferred from circumstantial evidence of scale. Five kilograms of synthetic opioids is a massive commercial quantity, and the presence of packaging materials (baggies) and a digital scale are classic, legally recognized hallmarks of a distribution operation. (a) is wrong because storing drugs in a safe only proves protective custody, which a heavy personal user might also do. (b) is wrong because hiring security could theoretically occur in a personal-use stash house, making it weaker evidence than the physical tools of distribution. (c) is wrong because financial resources alone do not legally prove an intent to distribute. (d) is wrong because testing a dose is consistent with personal consumption just as much as commercial verification.
+**Explanation:** Juries are permitted to infer an intent to distribute from circumstantial evidence such as a large quantity of drugs that exceeds personal use, packaging materials (baggies), and scales. (b) is wrong because conclusive presumptions against a criminal defendant violate due process. (c) is wrong because quantity triggers distribution inferences or enhancements, not simple possession mandatory minimums based on the commerce clause. (d) is wrong because the drugs were in a safe, meaning possession was constructive, not actual. (e) is wrong because adulteration is not a required element for a possession with intent to distribute charge.
 
-**Tags:** chapters: [15], topics: [possession-with-intent, quantity-inference], difficulty: easy, cognitive: application
+**Tags:** chapters: [15], topics: [qty-pwid, intent-to-distribute], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 15 - Quantity Inferences for PWID
+**Grounding:** Chapter 15, PWID Inferences
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

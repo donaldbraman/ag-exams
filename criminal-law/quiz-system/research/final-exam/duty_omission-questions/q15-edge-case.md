@@ -1,22 +1,22 @@
-**Q15.** Assume that instead of locking the door, Blake had drawn his own weapon and shot Alex. Would Blake have a valid self-defense claim?
+**Q15.** Assume that instead of locking the door, Blake drew his own concealed weapon and shot Alex to prevent Alex from killing him. Blake claims self-defense. How would a court evaluate the imminence of the threat?
 
-(a) No, because participating in an illegal drug manufacturing operation completely revokes the right to assert a valid claim of self-defense.
-(b) Yes, because his status as a hired bodyguard provided him with an elevated legal privilege to use protective lethal force.
-(c) Yes, because a pointed gun and an explicit threat to shoot created an objectively reasonable belief of imminent lethal harm. <!-- correct -->
-(d) No, because Blake should have attempted to retreat through the broken back window before escalating the encounter to deadly violence.
-(e) No, because the threat was conditional upon Blake's refusal to lock the door, meaning the danger was not strictly immediate.
+(a) The threat was imminent because Alex had a drawn handgun pointed at Blake's chest, presenting an immediate danger of death or serious bodily harm. <!-- correct -->
+(b) The threat was not imminent because Blake had an absolute duty to retreat through the broken back window before using deadly force.
+(c) The threat was imminent under the Battered Woman Syndrome framework because Blake was trapped in a coercive control environment.
+(d) The threat was not imminent because Alex's condition for shooting Blake ("Lock the door... or I will shoot") made the threat conditional rather than immediate.
+(e) The threat was imminent because the castle doctrine presumes any threat inside a dwelling is inherently immediate.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct because a valid self-defense claim requires an objectively reasonable belief that imminent deadly force is necessary. Alex drawing a handgun and threatening to "shoot you right now" if Blake did not comply constitutes an immediate, deadly threat justifying lethal self-defense. (a) is wrong because participating in illegal activity does not completely revoke the right to self-defense against an unprovoked lethal threat from a co-conspirator. (b) is wrong because hired bodyguards do not possess elevated legal privileges for self-defense above ordinary citizens. (d) is wrong because even in jurisdictions requiring retreat, one is not required to retreat if doing so (e.g., fleeing through a window) cannot be done safely against a pointed gun. (e) is wrong because a conditional deadly threat ("do this or I shoot") still constitutes imminent peril.
+**Explanation:** Imminence for self-defense requires a threat of immediate harm. A drawn gun pointed at the defendant's chest, even with a condition ("do this or I will shoot"), presents a clear and present danger satisfying the imminence requirement. (b) is wrong because duty to retreat does not negate the imminence of the threat, and retreat is often not required when facing an immediate firearm threat. (c) is wrong because BWS and coercive control address non-traditional imminence where the threat is not immediate; here, the gun makes it immediate. (d) is wrong because conditional threats backed by immediate capability (a drawn gun) satisfy imminence. (e) is wrong because the castle doctrine relates to the duty to retreat, not the imminence of the threat.
 
-**Tags:** chapters: [22], topics: [self-defense, imminence], difficulty: medium, cognitive: application
+**Tags:** chapters: [22], topics: [imminence-requirement, self-defense], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 22 - Objective Reasonableness and Imminence
+**Grounding:** Chapter 22, Objective Reasonableness Standard
 
-<!-- edge-case-audit: SHOULD FIX
-1. Fact Pattern Booby Traps: Distractor (d) contains a timeline error. Fact 7 establishes that Evan breaks the back window *after* Blake locks the deadbolt. If Blake shoots Alex *instead* of locking the door, the window has not been broken yet. This allows sharp students to eliminate (d) purely on a factual anomaly rather than testing their knowledge of the retreat doctrine.
-2. Cross-Doctrine Clashes: pass
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass (Although Blake's participation in a drug felony might restrict his overall self-defense claim in some jurisdictions, the question is narrowly scoped to asking *only* how the court evaluates the "imminence" element of the threat itself, protecting it from this clash).
 3. Cross-Question Spoilers: pass
-Recommended fix: Change "broken back window" to "back window" in option (d).
+Recommended fix: n/a
 -->

@@ -1,22 +1,22 @@
-**Q5.** Assume Blake is charged with attempted murder of Chris for complying with Alex and locking the door. Is Blake guilty of attempt?
+**Q5.** Assume it is established that Blake owed Chris a duty of care. The prosecution charges Blake with attempted murder by omission for failing to call 911. Will this charge likely succeed?
 
-(a) Guilty, because locking the door created a substantial risk of death that satisfies the mens rea for attempt.
-(b) Not guilty, because attempt requires the specific intent to kill, and Blake acted out of terror, not purpose. <!-- correct -->
-(c) Guilty, because his contractual duty to act as a medical caretaker replaces the need to prove subjective intent.
-(d) Not guilty, because locking a door is merely preparatory and does not constitute a substantial step toward murder.
-(e) Not guilty, because Dana's subsequent intervention makes it legally impossible for Blake to be convicted of any attempt.
+(a) No, because attempt requires the specific intent or purpose to cause the prohibited result, and Blake acted out of terror rather than a purpose to kill Chris. <!-- correct -->
+(b) No, because it is categorically impossible to commit an attempt crime through an act of omission under any legal circumstances.
+(c) Yes, because Blake's deliberate failure to act constituted a direct and substantial step toward the commission of the offense.
+(d) Yes, because Blake knew with practical certainty that his failure to call 911 would result in Chris's death.
+(e) Yes, because the mental state for attempt automatically matches the extreme indifference standard of the underlying homicide.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** (b) is correct because criminal attempt is a specific intent crime. It requires the purpose to commit the target offense (here, the purpose to cause Chris's death). Even though Blake breached a duty and committed an actus reus, he locked the door out of sheer terror for his own life, lacking the specific intent to kill Chris. (a) is wrong because creating a substantial risk of death is recklessness, which is legally insufficient for attempt liability. (c) is wrong because a contractual duty establishes the actus reus for omission but does not substitute for the required mens rea of attempt. (d) is wrong because locking the door while a person is actively dying is a completed omission and easily satisfies the substantial step requirement. (e) is wrong because intervening causes affect completed homicide liability, not attempt.
+**Explanation:** Attempt is a specific intent crime. To be guilty of attempted murder, the defendant must act with the purpose to cause death. Blake locked the door because of Alex's threat, not with the conscious object of killing Chris. (b) is wrong because omission liability can support an attempt charge if the duty and specific intent are present. (c) is wrong because it ignores the missing mens rea element entirely. (d) is wrong because attempt requires purpose, not mere knowledge or practical certainty. (e) is wrong because attempt mens rea does not match the underlying crime; it always elevates to specific intent/purpose.
 
-**Tags:** chapters: [17], topics: [attempt, specific-intent], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [mens-rea-specific-intent, attempt], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17 - Mens Rea for Attempt (Specific Intent)
+**Grounding:** Chapter 17, Attempt Mens Rea (Purpose)
 
-<!-- edge-case-audit: SHOULD FIX
-1. Fact Pattern Booby Traps: Option (b) implies that "terror" and "purpose" are mutually exclusive. Under criminal law, one can have the specific intent to kill even while acting out of terror (e.g., shooting someone because a gun is to your head). Blake lacked the specific intent to kill because his conscious object was merely to lock the door and appease Alex, not because terror conceptually negates purpose. Furthermore, the explanation for (d) contains a blatant doctrinal error by calling "locking the door" a "completed omission." Locking a deadbolt to isolate someone is an affirmative act (commission), whereas his failure to call 911 was the omission.
-2. Cross-Doctrine Clashes: pass
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass (Note: Under MPC § 5.01(1)(b), attempt for a result element can be satisfied by "belief" that the result will occur without further conduct. Thus, (d) would be a much stronger distractor or potentially arguable under MPC, but the question strictly applies the common law specific intent/purpose standard, which fits standard course structures for this doctrine).
 3. Cross-Question Spoilers: pass
-Recommended fix: Revise Option (b) to: "Not guilty, because attempt requires the specific intent to kill, and Blake's purpose was merely to save his own life, not to cause Chris's death." Revise the explanation for (d) to describe locking the door as an "affirmative act preventing rescue" rather than a "completed omission."
+Recommended fix: N/A
 -->

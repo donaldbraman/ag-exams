@@ -1,26 +1,26 @@
-**Q15.** Assume that instead of locking the door, Blake had drawn his own weapon and shot Alex. Would Blake have a valid self-defense claim?
+**Q15.** Assume that instead of locking the door, Blake drew his own concealed weapon and shot Alex to prevent Alex from killing him. Blake claims self-defense. How would a court evaluate the imminence of the threat?
 
-(a) No, because participating in an illegal drug manufacturing operation completely revokes the right to assert a valid claim of self-defense.
-(b) Yes, because his status as a hired bodyguard provided him with an elevated legal privilege to use protective lethal force.
-(c) Yes, because a pointed gun and an explicit threat to shoot created an objectively reasonable belief of imminent lethal harm. <!-- correct -->
-(d) No, because Blake should have attempted to retreat through the broken back window before escalating the encounter to deadly violence.
-(e) No, because the threat was conditional upon Blake's refusal to lock the door, meaning the danger was not strictly immediate.
+(a) The threat was imminent because Alex had a drawn handgun pointed at Blake's chest, presenting an immediate danger of death or serious bodily harm. <!-- correct -->
+(b) The threat was not imminent because Blake had an absolute duty to retreat through the broken back window before using deadly force.
+(c) The threat was imminent under the Battered Woman Syndrome framework because Blake was trapped in a coercive control environment.
+(d) The threat was not imminent because Alex's condition for shooting Blake ("Lock the door... or I will shoot") made the threat conditional rather than immediate.
+(e) The threat was imminent because the castle doctrine presumes any threat inside a dwelling is inherently immediate.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct because a valid self-defense claim requires an objectively reasonable belief that imminent deadly force is necessary. Alex drawing a handgun and threatening to "shoot you right now" if Blake did not comply constitutes an immediate, deadly threat justifying lethal self-defense. (a) is wrong because participating in illegal activity does not completely revoke the right to self-defense against an unprovoked lethal threat from a co-conspirator. (b) is wrong because hired bodyguards do not possess elevated legal privileges for self-defense above ordinary citizens. (d) is wrong because even in jurisdictions requiring retreat, one is not required to retreat if doing so (e.g., fleeing through a window) cannot be done safely against a pointed gun. (e) is wrong because a conditional deadly threat ("do this or I shoot") still constitutes imminent peril.
+**Explanation:** Imminence for self-defense requires a threat of immediate harm. A drawn gun pointed at the defendant's chest, even with a condition ("do this or I will shoot"), presents a clear and present danger satisfying the imminence requirement. (b) is wrong because duty to retreat does not negate the imminence of the threat, and retreat is often not required when facing an immediate firearm threat. (c) is wrong because BWS and coercive control address non-traditional imminence where the threat is not immediate; here, the gun makes it immediate. (d) is wrong because conditional threats backed by immediate capability (a drawn gun) satisfy imminence. (e) is wrong because the castle doctrine relates to the duty to retreat, not the imminence of the threat.
 
-**Tags:** chapters: [22], topics: [self-defense, imminence], difficulty: medium, cognitive: application
+**Tags:** chapters: [22], topics: [imminence-requirement, self-defense], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 22 - Objective Reasonableness and Imminence
+**Grounding:** Chapter 22, Objective Reasonableness Standard
 
-<!-- audit: SHOULD FIX
-Check 1: pass
-Check 2: pass
-Check 3: The explanation garbles the core legal standard by stating self-defense requires a "belief that imminent deadly force is necessary." This improperly conflates the imminence of the *threat* with the necessity of the *response*. It should properly read "belief that deadly force is necessary to prevent imminent deadly harm." Additionally, it entirely omits the subjective element of the defense (missing the `schuller-genuineness-only` requirement that the belief be genuinely held).
-Check 4: The explanation dismisses (d) by asserting that retreating through a window "cannot be done safely against a pointed gun." Whether an avenue of retreat is safe is a fact-dependent jury question. To decisively eliminate (d) as a matter of law, the facts must explicitly establish that the window retreat was unsafe.
-Check 5: The question lacks a jurisdictional stipulation. In a Stand Your Ground jurisdiction, Blake's participation in an unlawful drug operation would likely strip his SYG immunity, imposing a duty to retreat. This makes the factual assumption about the safety of the window in Check 4 a credible vector for a student challenge.
-Check 6: pass
-Check 7: pass
-Recommended fix: 1) Rewrite the explanation for (c): "(c) is correct because a valid self-defense claim requires an actual and objectively reasonable belief that the use of deadly force is necessary to prevent imminent death or serious bodily harm." 2) Add a brief clause to the stem (or the overarching fact pattern) confirming that the broken window offered no safe avenue of retreat.
+<!-- audit: MUST FIX
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: missing facts (orphan from a vignette). The stem begins "Assume that instead of locking the door..." and relies on facts (Alex pointing a gun, a conditional threat, a broken window) that are absent from the prompt.
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Integrate the necessary facts into the stem. For example: "Alex points a drawn handgun at Blake's chest and says, 'Lock the door or I will shoot.' Blake is standing near a broken back window. Instead of retreating, Blake draws his own weapon and shoots Alex. Blake claims self-defense. How would a court evaluate the imminence of the threat?"
 -->

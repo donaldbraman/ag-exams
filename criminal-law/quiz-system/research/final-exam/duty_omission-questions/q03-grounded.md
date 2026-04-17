@@ -1,17 +1,17 @@
-**Q3.** Assume it is established that Alex breached a duty to Chris. Can Alex be held to have proximately caused Chris's death, given Dana's intervention?
+**Q3.** Assume Alex is charged with homicide, and he argues Dana's lethal injection severed the causal chain. Which of the following is the strongest argument that the chain was NOT severed?
 
-(a) Yes, because Dana's attempt to save the drug operation was a dependent intervening cause set in motion by Alex.
-(b) Yes, because Chris would have died from the overdose anyway, making the exact mechanism of death legally irrelevant.
-(c) No, because a medical intervention by a third party always constitutes a superseding cause that breaks proximate causation.
-(d) No, because Alex was not physically present when Dana climbed through the window to administer the fatal injection.
-(e) No, because Dana's forceful injection of animal-grade stimulant was an unforeseeable, independent intervening cause that severs the chain. <!-- correct -->
+(a) Dana's action was a dependent intervening cause because it was a medical response set in motion by the overdose Alex caused, and dependent causes generally do not sever liability. <!-- correct -->
+(b) Dana's action was an independent intervening cause because it arose from an unrelated source, but independent causes never sever liability.
+(c) Dana's action satisfied the "highly extraordinary result" test, which automatically assigns joint liability to all concurrent actors.
+(d) Dana's action was a concurrent sufficient cause, because Chris would have died in ten minutes regardless of the injection.
+(e) Dana's action was an omission, and omissions cannot break a causal chain established by an affirmative act.
 
-**Answer:** (e)
+**Answer:** (a)
 
-**Explanation:** (e) is correct because under common law proximate causation, an independent intervening cause severs liability if it is highly extraordinary or unforeseeable. A third party climbing through a broken window and forcefully injecting a dying person with stolen animal-grade cardiac stimulant is an unforeseeable, independent act that breaks the causal chain from Alex's initial conduct. (a) is wrong because Dana's action was completely independent and extraordinary, not a dependent, normal response (like routine medical treatment) set in motion by the overdose. (b) is wrong because factual and proximate causation require the result to occur via a foreseeable mechanism. (c) is wrong because normal, negligent medical intervention is usually a dependent intervening cause that does not break the chain. (d) is wrong because physical presence is not required to establish or sever proximate cause.
+**Explanation:** A dependent intervening cause is one set in motion by the defendant's act, such as medical treatment of a condition the defendant caused. Dependent causes generally do not sever the causal chain, making this the strongest argument to preserve Alex's liability. (b) is wrong because independent causes are the most potent chain-breakers, so arguing it was independent would hurt the prosecution. (c) is wrong because a highly extraordinary result would sever the chain, defeating liability, not assigning it jointly. (d) is wrong because Chris did not die simultaneously from both causes; Dana's injection killed him instantly, meaning Alex's overdose was not a concurrent sufficient cause. (e) is wrong because Dana's forceful injection was an affirmative act, not an omission.
 
-**Tags:** chapters: [8], topics: [causation, intervening-cause], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [8], topics: [dependent-vs-independent-intervening-cause, proximate-cause], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 8 - Dependent vs. Independent Intervening Causes
+**Grounding:** Chapter 8, Dependent vs. Independent Intervening Causes
 
-<!-- grounding: GROUNDED — Dependent vs. Independent Intervening Causes, Ch 8, Refinement `dependent-vs-independent-intervening-cause`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Dependent vs. Independent Intervening Cause, Ch 8, Refinement `dependent-vs-independent-intervening-cause`. Rule paraphrased accurately. -->

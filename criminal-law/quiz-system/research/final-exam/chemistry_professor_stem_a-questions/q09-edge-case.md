@@ -1,22 +1,26 @@
-**Q9.** Assume Silas is charged with felony murder. Under the Eighth Amendment standard established in *Tison v. Arizona* (and adopted in reformed state statutes like California's SB 1437), what must the prosecution prove to hold Silas fully liable for Julian's death?
+**Q9.** Assume the jurisdiction applies the *Tison* standard for felony murder liability for non-killer accomplices. If Silas is convicted of felony murder, does he meet the constitutional threshold for capital punishment or life without parole under *Tison*?
 
-(a) That Silas was physically present at the scene and foresaw a remote possibility that someone might die during the course of the drug transaction.
-(b) That Silas was the actual killer who directly administered the fatal dose of the substance, rather than merely acting as an accomplice to the distribution.
-(c) That Silas was a major participant in the underlying felony and acted with a reckless indifference to human life during the course of the crime. <!-- correct -->
-(d) That Silas acted with specific intent to kill Julian or possessed a specific intent to inflict grievous bodily harm upon him during the transaction.
-(e) That Silas's participation was on the remote outer fringes of the joint venture, which is sufficient to satisfy the Eighth Amendment requirement for accomplices.
+(a) Yes, because Silas was physically present at the motel scene and shared in the financial profits, which fully satisfies the requirement for specific intent to kill.
+(b) No, because Silas's immediate attempt to call 911 for the dying victim actively demonstrates that he did not act with reckless indifference to human life. <!-- correct -->
+(c) Yes, because Silas's initial purchase of the specialized glassware made him a major participant, thereby automatically satisfying the reckless indifference requirement for capital punishment.
+(d) No, because Silas did not physically hand the illicit drug directly to Julian, legally placing him on the remote outer fringes of the criminal conspiracy.
+(e) Yes, because the modern Tison standard strictly imposes capital liability on any accomplice who is physically present when a death occurs during an enumerated felony.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** *Tison v. Arizona* set the constitutional floor (used by reformed state statutes as the general liability standard) that a non-killer accomplice can be liable for felony murder only if they were a "major participant" in the felony who exhibited "reckless indifference to human life." (a) is wrong because mere presence and remote foreseeability do not meet the high standard of major participation and reckless indifference. (b) is wrong because the *Tison* standard specifically outlines when an accomplice who is *not* the actual killer can be held liable. (d) is wrong because specific intent to kill is not required for felony murder under the *Tison* standard; reckless indifference suffices. (e) is wrong because *Commonwealth v. Brown* held that accomplices on the "remote outer fringes" are less culpable and face reduced grading, not full liability.
+**Explanation:** (b) is correct. The *Tison* standard requires a non-killer accomplice to be a "major participant" who acted with "reckless indifference to human life." Silas's immediate attempt to call 911 to save Julian negates the reckless indifference element, barring capital punishment. 
 
-**Tags:** chapters: [14], topics: [felony murder, accomplice liability, major participant], difficulty: medium, cognitive: recall
+(a) is incorrect because presence and profit-sharing do not automatically establish specific intent to kill. 
+(c) is incorrect because purchasing glassware might make him a major participant, but it does not establish the separate requirement of reckless indifference to life. 
+(d) is incorrect because purchasing equipment and being present in the room means he was not on the remote outer fringes. 
+(e) is incorrect because *Tison* requires individualized findings of culpability, rejecting strict liability for capital punishment.
 
-**Grounding:** Chapter 14, tison-major-participant, sb-1437-major-participant
+**Tags:** chapters: [14, 18], topics: [felony murder, accomplice liability, capital punishment], difficulty: hard, cognitive: analysis
+**Grounding:** Chapter 14; Tison v. Arizona
 
-<!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: Silas's subsequent act of abandoning the overdosing victim in a locked motel room (Fact 8) heavily undermines the claim in (b) that his initial 911 attempt categorically establishes he lacked reckless indifference. Fleeing and leaving a dying victim behind in a secluded location without further attempting to summon help is a classic factor that courts use to *affirm* reckless indifference under Tison, making (b) highly debatable or legally incorrect as written.
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+Recommended fix: Soften (b) to encompass his overall resistance ("No, because his immediate attempt to call 911 and verbal protests against leaving the victim demonstrate a lack of the extreme reckless indifference required..."), or modify the fact pattern to state that Arthur physically forced Silas out of the room or threatened him, which would definitively sever Silas's ability to help and shield him from reckless indifference.
 -->

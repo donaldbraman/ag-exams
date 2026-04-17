@@ -4,29 +4,29 @@ The QA pipeline flagged this question. Rewrite `q09.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q9.** Assume causation is established. Can Alex's conduct support the mens rea for extreme indifference (depraved heart) murder?
+**Q9.** Assume Alex is charged with extreme indifference murder for forcing Blake to lock the door and block aid to Chris. Which of the following is required to satisfy the mental state for this charge?
 
-(a) No, because Alex only intended to protect the group from prison, not to cause the death of the struggling victim.
-(b) Yes, because manufacturing illicit drugs is an inherently dangerous felony that automatically establishes the mens rea for any resulting death.
-(c) No, because extreme indifference requires the defendant to inflict a physical blow rather than merely preventing others from providing aid.
-(d) Yes, because drawing a weapon to block a rescue while a victim struggles to breathe demonstrates a depraved, indifferent heart. <!-- correct -->
-(e) No, because the victim voluntarily injected the substance, which legally negates the defendant's malice regarding the subsequent failure to rescue.
+(a) Proof that Alex's conduct demonstrated a gross deviation from the standard of care and manifested an extreme indifference to the value of human life. <!-- correct -->
+(b) Proof that Alex had the specific purpose or conscious object of directly causing Chris's physical death.
+(c) Proof that Alex deliberately premeditated and calculated about blocking the door before drawing his weapon.
+(d) Proof that Alex acted with a reasonable belief that Chris was already dead when he ordered the door locked.
+(e) Proof that Alex's actions were the sole but-for cause of the overdose, regardless of his awareness of the risk.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** (d) is correct because extreme indifference murder requires a mental state demonstrating a profound, callous disregard for the value of human life. Pointing a loaded gun at a would-be rescuer to stop them from calling 911 while a victim is visibly turning blue and dying easily satisfies this standard. (a) is wrong because an ultimate motive to avoid prison does not negate the extreme recklessness exhibited toward the dying victim. (b) is wrong because felony murder is a distinct doctrine; extreme indifference evaluates the actor's actual subjective mental state. (c) is wrong because an omission or the active blocking of aid can satisfy extreme indifference just as a physical blow can. (e) is wrong because the victim's initial voluntary act does not excuse or negate Alex's subsequent lethal indifference.
+**Explanation:** Extreme indifference (or depraved-heart) murder requires proof of a heightened degree of recklessness that manifests an extreme indifference to the value of human life. (b) is wrong because purpose or conscious object defines intentional murder, not extreme indifference murder. (c) is wrong because premeditation and deliberation are elements of first-degree intentional murder. (d) is wrong because a belief that Chris was already dead would negate the conscious disregard of a substantial risk of death. (e) is wrong because extreme indifference is a mens rea standard requiring subjective awareness of the risk, not just a strict liability factual causation test.
 
-**Tags:** chapters: [13], topics: [extreme-indifference-murder, mens-rea], difficulty: medium, cognitive: application
+**Tags:** chapters: [13], topics: [extreme-indifference-standard, unintentional-homicide], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 13 - Extreme Indifference Standard
+**Grounding:** Chapter 13, Extreme Indifference Standard
 
 <!-- audit: MUST FIX
-check 1: pass
+check 1: Correct answer (a) describes an objective negligence standard ("gross deviation from the standard of care") rather than recklessness, failing to include the subjective "conscious disregard" requirement for extreme indifference murder.
 check 2: pass
-check 3: pass
-check 4: MUST FIX (The stem is completely missing the fact pattern. It references "Alex's conduct" but provides no facts about what Alex did or the context of the situation, forcing the student to guess or reverse-engineer the scenario from the answer choices.)
+check 3: Explanation contradicts option (a). The explanation correctly notes that extreme indifference "requires subjective awareness of the risk," but option (a) contains no subjective awareness language. A prepared student would correctly eliminate (a) for omitting mens rea.
+check 4: The stem does not state that Chris was overdosing or that he died, making the references to an "overdose" in (e) and a "weapon" in (c) disjointed from the fact pattern.
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Insert the missing fact pattern into the stem (e.g., "Alex and others were manufacturing illicit drugs. The victim voluntarily injected the drug, overdosed, and began struggling to breathe. When someone tried to call for help, Alex drew a weapon and blocked the rescue to protect the group from going to prison. The victim died. Assume causation is established. Can Alex's conduct support...")
+Recommended fix: Change option (a) to: "Proof that Alex consciously disregarded a substantial and unjustifiable risk of death, under circumstances manifesting an extreme indifference to the value of human life." Additionally, clarify in the stem that Chris was overdosing and died.
 -->

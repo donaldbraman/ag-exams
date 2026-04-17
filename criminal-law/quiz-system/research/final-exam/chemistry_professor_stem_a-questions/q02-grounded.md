@@ -1,17 +1,21 @@
-**Q2.** Assume Arthur is charged with criminal homicide. Arthur argues that Julian's voluntary act of ingesting the drug broke the causal chain, relieving Arthur of homicide liability for Julian's death. How will the court evaluate this intervening act?
+**Q2.** Assume that Arthur's drug distribution charges move forward. Arthur argues that he is not the proximate cause of Julian's death because Julian voluntarily ingested the drug, which serves as a superseding intervening cause. Is Arthur correct?
 
-(a) It severs the causal chain, because a victim's voluntary and fully informed choice to consume drugs is an independent intervening cause.
-(b) It severs the causal chain, because Julian's ingestion was highly extraordinary and unforeseeable given the drug was experimental.
-(c) It does not sever the causal chain, because a buyer's voluntary ingestion of a drug is a dependent intervening cause that is reasonably foreseeable to the distributor. <!-- correct -->
-(d) It does not sever the causal chain, because the Model Penal Code imposes absolute liability for deaths resulting from the distribution of Schedule I substances.
-(e) It does not sever the causal chain, because any intervening act by a victim is legally irrelevant if the defendant provided the instrumentality of death.
+(a) Yes, because the voluntary and deliberate act of a fully informed third party categorically breaks the chain of proximate causation in all criminal homicide prosecutions.
+(b) No, because Julian's voluntary ingestion was a dependent intervening cause that was a completely foreseeable and expected consequence of distributing the recreational drug. <!-- correct -->
+(c) Yes, because Julian's sudden ingestion of the drug was a highly extraordinary result that Arthur could not have reasonably anticipated during the transaction.
+(d) No, because under the common law approach, any but-for cause is completely sufficient to establish proximate causation regardless of any subsequent intervening acts.
+(e) Yes, because Julian's ingestion was an independent intervening cause since it occurred chronologically after Arthur had entirely completed the physical act of distribution.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** A dependent intervening cause—one set in motion by the defendant's acts or reasonably foreseeable—does not sever the causal chain. A buyer ingesting drugs purchased from a dealer is a highly foreseeable, dependent act that completes the expected transaction. (a) is wrong because a buyer's voluntary consumption of drugs supplied by the defendant is treated as a foreseeable dependent cause, not an independent superseding cause. (b) is wrong because ingestion is the exact intended use of the drug, making it entirely foreseeable rather than highly extraordinary. (d) is wrong because the MPC does not impose absolute liability for drug-induced homicide; causation must still be established. (e) is wrong because independent intervening acts by victims (e.g., suicide by an unexpected method) can sometimes sever causation, meaning victim acts are not categorically irrelevant.
+**Explanation:** (b) is correct. In drug distribution cases, a buyer's voluntary ingestion of the drug is highly foreseeable and dependent on the seller providing it, making it a dependent intervening cause that does not sever proximate causation. 
 
-**Tags:** chapters: [8], topics: [causation, intervening causes, foreseeability], difficulty: easy, cognitive: application
+(a) is incorrect because voluntary acts of victims do not categorically sever causation if they are foreseeable dependent acts. 
+(c) is incorrect because ingesting purchased drugs is entirely ordinary, not highly extraordinary. 
+(d) is incorrect because common law requires proximate cause in addition to but-for causation to fairly assign liability. 
+(e) is incorrect because an intervening cause being subsequent in time does not automatically make it independent; it must be unforeseeable and unrelated to the defendant's conduct.
 
-**Grounding:** Chapter 8, dependent-vs-independent-intervening-cause
+**Tags:** chapters: [8], topics: [causation, intervening cause], difficulty: medium, cognitive: application
+**Grounding:** Chapter 8; People v. Kibbe / Dependent vs. Independent Causes
 
-<!-- grounding: GROUNDED — dependent vs. independent intervening cause, Ch 8, Refinement `dependent-vs-independent-intervening-cause`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Proximate Cause (Intervening Causes), Ch 8, Refinement `dependent-vs-independent-intervening-cause`. Rule paraphrased accurately. -->

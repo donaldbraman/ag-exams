@@ -1,17 +1,21 @@
-**Q3.** Assume Arthur is charged with criminal homicide based specifically on his omission (failing to call 911 and preventing rescue). He claims he owed no legal duty to aid Julian. Which theory best establishes Arthur's duty to act?
+**Q3.** Assume that, whether or not the drug caused the initial collapse, Arthur argues that he cannot be charged with homicide for his subsequent inaction because he committed no affirmative act that killed Julian, and he had no duty to rescue him. Did Arthur have a legal duty to act?
 
-(a) He had a duty based on a special relationship, because the seller-buyer dynamic imposes fiduciary obligations of care under the common law.
-(b) He had a duty based on a contractual agreement, because the implied terms of a drug transaction include emergency medical support.
-(c) He had a duty based on creation of peril and seclusion, because he provided the dangerous substance and then isolated Julian to prevent others from rendering aid. <!-- correct -->
-(d) He had a duty based on a statutory mandate, because all jurisdictions have Good Samaritan laws requiring bystanders to summon medical assistance for overdose victims.
-(e) He had no legal duty to act, because Julian's overdose was self-induced and Arthur did not force him to consume the substance.
+(a) No, because Arthur and Julian were merely engaged in a commercial transaction, which does not create a recognized special status relationship requiring affirmative rescue.
+(b) Yes, because by knocking the phone away and locking the door, Arthur secluded Julian and prevented others from rendering necessary life-saving medical aid. <!-- correct -->
+(c) No, because the affirmative duty to rescue only applies to licensed medical professionals or those who have explicitly and contractually assumed a duty of care.
+(d) Yes, because Arthur created the peril by synthesizing the chemical drug, which automatically imposes a strict liability duty to prevent any resulting physical harm.
+(e) No, because Arthur's genuine, subjective belief that Julian would naturally recover completely negates any statutory duty to intervene or summon emergency medical assistance.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** Arthur falls under two recognized categories of legal duty: the creation of peril (providing the lethal substance) and voluntary assumption of care combined with seclusion (taking charge by locking Julian in a room with no phone, preventing others from helping). (a) is wrong because a commercial buyer-seller relationship does not qualify as a traditional status relationship (like parent-child) triggering an affirmative duty to rescue. (b) is wrong because illegal drug sales do not create enforceable contractual duties of care. (d) is wrong because only a few jurisdictions have general Good Samaritan duties, and the common law baseline is generally no duty to rescue. (e) is wrong because Arthur's active role in supplying the drug and secluding the victim squarely trigger exceptions to the no-duty baseline.
+**Explanation:** (b) is correct. While there is generally no duty to rescue, Arthur assumed a duty through seclusion and the creation of peril. By knocking the phone away and locking the door, he affirmatively secluded Julian from others who could help, establishing a clear duty to act. 
 
-**Tags:** chapters: [9], topics: [omissions, legal duty, creation of peril, seclusion], difficulty: medium, cognitive: application
+(a) is incorrect because the duty here arises from seclusion and creating peril, not a commercial status relationship. 
+(c) is incorrect because duties also arise from creation of peril or seclusion, not just contracts or medical licenses. 
+(d) is incorrect because synthesizing drugs does not automatically impose a strict liability duty to rescue buyers. 
+(e) is incorrect because a subjective belief that the victim will recover does not negate an established legal duty to intervene when peril exists.
 
-**Grounding:** Chapter 9, creation-of-peril-category, voluntary-assumption-plus-seclusion
+**Tags:** chapters: [9], topics: [omissions, creation of peril, duty to rescue], difficulty: medium, cognitive: application
+**Grounding:** Chapter 9; Jones v. United States
 
-<!-- grounding: GROUNDED — Omissions (Creation of Peril and Voluntary Assumption plus Seclusion), Ch 9, Refinement `creation-of-peril-category`, `voluntary-assumption-plus-seclusion`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — omissions, Ch 9, Refinement `voluntary-assumption-plus-seclusion`. Rule paraphrased accurately. -->

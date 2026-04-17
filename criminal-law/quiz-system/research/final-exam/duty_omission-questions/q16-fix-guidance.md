@@ -2,71 +2,39 @@
 
 The QA pipeline flagged this question. Rewrite `q16.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — audit
+## Issue 1 — argpass-opus
 
-**Q16.** Assume Alex is charged with attempted extreme-indifference murder for handing Chris the untested dose. Can Alex be convicted?
+**Q16.** The prosecution wishes to charge Alex with attempted extreme-indifference murder for handing Chris the untested, highly lethal dose of opioids. Is this a legally viable charge?
 
-(a) Yes, because testing the synthetic opioid on a human subject demonstrated a depraved heart and a profound disregard for life.
-(b) Yes, because his subsequent refusal to allow Blake to call for medical assistance provided the necessary substantial step for attempt.
-(c) No, because handing someone a drug dose is merely preparatory conduct and falls short of the proximity required for attempt.
-(d) No, because attempt requires a specific intent to kill, and extreme indifference murder is by definition an unintentional homicide offense. <!-- correct -->
-(e) No, because Chris survived the initial overdose before Dana intervened, making the attempt legally impossible to complete under these facts.
+(a) No, because attempt requires the specific intent or purpose to cause the prohibited result, and one cannot logically attempt to commit a reckless or extreme-indifference crime. <!-- correct -->
+(b) No, because extreme-indifference murder requires an act of omission, and handing someone a drug is an affirmative act.
+(c) Yes, because handing an untested, highly lethal drug to a vulnerable person constitutes a substantial step toward murder.
+(d) Yes, because attempt liability follows the mental state of the target offense, making extreme indifference sufficient for attempt.
+(e) Yes, because the MPC allows for attempt convictions based on the negligent creation of a risk of death.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** (d) is correct because the crime of attempt inherently requires the specific intent (purpose) to complete the target offense. Extreme indifference murder is, by definition, a reckless, unintentional homicide. It is logically impossible to specifically intend to commit an unintentional crime. (a) is wrong because while the act demonstrates a depraved heart, attempt requires purpose, not extreme recklessness. (b) is wrong because the substantial step analysis only matters if the required mens rea for attempt is present. (c) is wrong because handing over a lethal dose could satisfy the proximity or substantial step requirement if the intent to kill was present. (e) is wrong because the victim's survival is irrelevant to the legal impossibility of attempting a reckless homicide.
+**Explanation:** Attempt is a specific intent crime. A defendant must act with the purpose of causing the prohibited result. Because extreme indifference murder involves recklessness, one cannot have the specific intent to act recklessly or the specific intent to cause an unintended result. (b) is wrong because extreme-indifference murder can be committed through affirmative acts. (c) is wrong because it focuses solely on the actus reus (substantial step) while ignoring the missing specific intent. (d) is wrong because attempt mens rea does not match the underlying target offense; it requires purpose. (e) is wrong because the MPC does not permit attempt liability based on negligence.
 
-**Tags:** chapters: [17], topics: [attempt, specific-intent], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [17], topics: [attempt-specific-intent, attempt], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17 - Attempt Mens Rea (Specific Intent)
-
-<!-- audit: SHOULD FIX
-check 1: pass
-check 2: finding: A well-prepared, pedantic student might reject (d) because the clause "attempt requires a specific intent to kill" is technically false as a general statement of attempt law (e.g., attempted robbery requires specific intent to rob, not to kill). While clear in context, this distracts from the core doctrinal test.
-check 3: pass
-check 4: pass
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Change (d) to: "No, because attempted murder requires a specific intent to kill, and extreme indifference murder is by definition an unintentional homicide offense."
--->
-
-## Issue 2 — argpass-opus
-
-**Q16.** Assume Alex is charged with attempted extreme-indifference murder for handing Chris the untested dose. Can Alex be convicted?
-
-(a) Yes, because testing the synthetic opioid on a human subject demonstrated a depraved heart and a profound disregard for life.
-(b) Yes, because his subsequent refusal to allow Blake to call for medical assistance provided the necessary substantial step for attempt.
-(c) No, because handing someone a drug dose is merely preparatory conduct and falls short of the proximity required for attempt.
-(d) No, because attempt requires a specific intent to kill, and extreme indifference murder is by definition an unintentional homicide offense. <!-- correct -->
-(e) No, because Chris survived the initial overdose before Dana intervened, making the attempt legally impossible to complete under these facts.
-
-**Answer:** (d)
-
-**Explanation:** (d) is correct because the crime of attempt inherently requires the specific intent (purpose) to complete the target offense. Extreme indifference murder is, by definition, a reckless, unintentional homicide. It is logically impossible to specifically intend to commit an unintentional crime. (a) is wrong because while the act demonstrates a depraved heart, attempt requires purpose, not extreme recklessness. (b) is wrong because the substantial step analysis only matters if the required mens rea for attempt is present. (c) is wrong because handing over a lethal dose could satisfy the proximity or substantial step requirement if the intent to kill was present. (e) is wrong because the victim's survival is irrelevant to the legal impossibility of attempting a reckless homicide.
-
-**Tags:** chapters: [17], topics: [attempt, specific-intent], difficulty: hard, cognitive: analysis
-
-**Grounding:** Chapter 17 - Attempt Mens Rea (Specific Intent)
+**Grounding:** Chapter 17, Attempt Mens Rea
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student might argue that because extreme indifference murder relies on a "depraved heart" mens rea, attempting it simply requires proving the defendant acted with that exact same profound disregard for human life. If the act of human testing demonstrates this extreme recklessness, a conviction should follow.
-(b) Argument-for: Under the Model Penal Code, an attempt requires a "substantial step" corroborating the actor's criminal purpose. A student could argue that Alex's refusal to allow medical assistance constituted an overt omission (violating a duty to rescue) that served as the substantial step, justifying a conviction based on actus reus.
-(c) Argument-for: A student could apply the strict "dangerous proximity" test and argue that merely handing over a drug is not proximate enough to the actual harm, since the victim must still independently ingest it. Therefore, the act remains in the zone of mere preparation and cannot support an attempt conviction.
-(d) Argument-for: The majority common law and MPC rule dictates that attempt is a specific-intent crime requiring the purpose to bring about the target offense. Because extreme indifference murder is inherently unintentional and reckless, it is logically impossible to specifically intend an unintentional crime, making the conviction legally barred.
-(e) Argument-for: A student might confuse factual and legal impossibility, arguing that because Chris survived the overdose before any intervention, the completion of the murder was impossible under the circumstances, thus triggering the doctrine of legal impossibility to bar the conviction.
+(a) Argument-for: Attempt is an inchoate offense that universally requires the specific intent, or purpose, to complete the target crime. Extreme-indifference murder (or depraved-heart murder) requires a mens rea of recklessness—a conscious disregard of a substantial and unjustifiable risk. It is a logical impossibility to specifically intend to commit an unintentional, reckless act. Therefore, the charge of attempted extreme-indifference murder is not legally viable, making this option definitively correct.
+(b) Argument-for: A student might argue that extreme indifference to human life is best demonstrated when a defendant fails to act despite a profound duty to do so (such as starving a dependent). Under this theory, affirmative acts of violence might be categorically charged as intentional murder, leaving extreme indifference solely for egregious omissions. If extreme indifference strictly requires an omission, then handing someone a drug (an affirmative act) precludes the charge.
+(c) Argument-for: Under the Model Penal Code, the actus reus for attempt is a "substantial step" strongly corroborative of the actor's criminal purpose. A student could argue that giving someone a highly lethal, untested dose of opioids objectively meets this threshold. If a jurisdiction treats such an extreme risk-creating act as inherently establishing the elements of inchoate murder, the charge would be legally viable based entirely on this substantial step.
+(d) Argument-for: A student could argue that attempt liability should simply adopt the mental state required for the completed target offense to avoid rewarding defendants who fail to complete their crimes. Under this theory, if extreme indifference is sufficient to convict for completed murder, it should logically be sufficient for attempted murder. If attempt mens rea tracks the underlying target offense, the charge would be legally viable.
+(e) Argument-for: The Model Penal Code features various provisions addressing risk creation, such as reckless endangerment. A student could mistakenly believe that the MPC's attempt provisions broadly encompass the negligent or reckless creation of a risk of death. If the MPC allowed attempt liability to be founded on the negligent creation of lethal risk, then handing over untested lethal drugs would justify an attempt conviction.
 
-Head-to-head: Option (d) correctly states the deeply entrenched majority rule that attempt requires specific intent (purpose), precluding attempts of reckless crimes like extreme-indifference murder. Options (a) and (b) incorrectly conclude that Alex can be convicted by relying solely on the target crime's mens rea (recklessness) or an actus reus (substantial step) without the requisite specific intent. Option (c) makes a rigid claim that handing over drugs is "merely preparatory," which fails under the MPC and many proximity tests where such an act is recognized as proximate. Option (e) explicitly conflates factual impossibility (the victim surviving) with "legal impossibility." While all distractors contain inherently flawed legal claims, they lack the absolute modifiers requested by the close-call standard to solidly "lock" them as definitively falsifiable. 
+Head-to-head:
+Option (a) correctly states the universally accepted legal principle: attempt requires specific intent, making an attempt to commit a reckless crime logically impossible. Option (b) explicitly and falsely claims that extreme-indifference murder requires an act of omission, whereas it is routinely committed via affirmative acts (e.g., shooting into a crowd). Option (d) contains the explicitly false claim that attempt mens rea mirrors the target offense, and (e) explicitly and falsely claims the MPC allows attempt for negligence. Option (c), however, is arguably weaker as a distractor under strict standards because it relies on an implicit omission; its rationale (that the act constitutes a substantial step) is not strictly legally false on its face, as the act *could* be a substantial step if intent were present. The option is wrong because it ignores the mens rea requirement to reach the "Yes" conclusion, failing to lock an explicitly false premise. 
 
 Falsifiable claim per distractor:
-- (a): "Yes, because testing the synthetic opioid... demonstrated a depraved heart" — wrong because demonstrating a depraved heart is legally insufficient for attempt; attempt requires specific intent to commit the target offense.
-- (b): "Yes, because his subsequent refusal... provided the necessary substantial step" — wrong because an attempt conviction requires specific intent, not just the actus reus of a substantial step.
-- (c): "handing someone a drug dose is merely preparatory conduct" — wrong as a definitive claim; handing over the lethal dose is widely recognized as a substantial step or proximate act.
-- (e): "making the attempt legally impossible to complete" — wrong because a victim's survival is a classic example of factual impossibility, not legal impossibility.
+- (b): "extreme-indifference murder requires an act of omission" — wrong because extreme-indifference murder can be, and often is, committed through affirmative acts.
+- (c): "Yes, because handing an untested, highly lethal drug to a vulnerable person constitutes a substantial step toward murder." — wrong in its ultimate conclusion ("Yes"), but lacks a definitively false legal rationale in the "because" clause, relying instead on the implicit omission of the mens rea requirement.
+- (d): "attempt liability follows the mental state of the target offense" — wrong because attempt requires specific intent (purpose), even when the target offense requires only recklessness or negligence.
+- (e): "the MPC allows for attempt convictions based on the negligent creation of a risk of death" — wrong because the MPC requires purpose or belief for attempt liability, not negligence.
 
-Recommended fix: Add absolute words to lock in the falsifiable claims.
-- In (a), change to: "Yes, because demonstrating a depraved heart automatically satisfies the mens rea for attempt."
-- In (b), change to: "Yes, because the substantial step of refusing medical assistance categorically permits an attempt conviction regardless of specific intent."
-- In (c), change to: "No, because handing someone a drug dose is always merely preparatory conduct..."
-- In (e), change to: "No, because Chris's survival makes the attempt categorically legally impossible..."
+Recommended fix: Add a locking absolute to (c) to make its legal reasoning explicitly false. Edit (c) to: "Yes, because satisfying the substantial step actus reus requirement is automatically sufficient for attempt liability, regardless of the actor's intent."
 -->

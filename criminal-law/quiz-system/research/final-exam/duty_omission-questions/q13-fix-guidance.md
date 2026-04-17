@@ -2,64 +2,39 @@
 
 The QA pipeline flagged this question. Rewrite `q13.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — edge-case
+## Issue 1 — argpass-opus
 
-**Q13.** Assume that, regardless of causation, Blake is charged with the intentional murder of Chris. Can Blake successfully raise the defense of duress?
+**Q13.** Assume Blake is charged with the intentional murder of Chris based on his omission in failing to call 911, and he raises a duress defense based on Alex's threat to shoot him. Under the common law, will this defense succeed?
 
-(a) Yes, because Alex pointing a loaded handgun at Blake's chest constitutes an imminent threat of death that overcomes free will.
-(b) Yes, because Blake's role was merely secondary, allowing the court to mitigate his criminal liability based on the coercive circumstances.
-(c) No, because the common law categorically bars duress as a defense to intentional homicide regardless of the severity of coercion. <!-- correct -->
-(d) No, because Blake could have attempted to disarm Alex or flee the cabin instead of complying with the unlawful order.
-(e) No, because accepting financial compensation to act as security legally forfeits the right to claim duress when threatened with violence.
+(a) No, because under the common law, duress is categorically unavailable as a defense to intentional homicide. <!-- correct -->
+(b) No, because Alex's threat to shoot Blake did not constitute a threat of death or serious bodily injury.
+(c) Yes, because a person of reasonable firmness in Blake's situation would have been unable to resist Alex's demand.
+(d) Yes, because the common law allows a duress defense for homicide if the defendant's act was merely an omission rather than an affirmative killing.
+(e) Yes, because Blake's fear of Alex was objectively reasonable, and the threat of the drawn weapon was immediately imminent.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct because the common law imposes an absolute categorical bar on the use of duress as a defense to intentional homicide. The underlying rationale is that a person may not choose to sacrifice an innocent life to save their own, no matter how severe or imminent the coercion. (a) is wrong because while the threat was imminent and deadly, the homicide bar legally precludes the defense. (b) is wrong because duress is an all-or-nothing excuse, not a mitigating factor for secondary actors in common law murder. (d) is wrong because the availability of alternatives is a standard element of duress, but the homicide bar preempts the defense before alternatives are evaluated. (e) is wrong because accepting a job does not legally forfeit defenses; the homicide bar is the disqualifying rule here.
+**Explanation:** The common law imposes a categorical bar preventing duress from being used as a defense to intentional murder, based on the rationale that a person must not take an innocent life to save their own. (b) is wrong because a pointed gun clearly constitutes a threat of death. (c) and (e) are wrong because despite meeting the elements of duress, the murder bar absolutely precludes the defense. (d) is wrong because the common law murder bar does not distinguish between affirmative killings and homicidal omissions.
 
-**Tags:** chapters: [21], topics: [duress, homicide-bar], difficulty: easy, cognitive: recall
+**Tags:** chapters: [21], topics: [duress-murder-bar, duress], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 21 - Duress Murder Bar
-
-<!-- edge-case-audit: SHOULD FIX
-1. Fact Pattern Booby Traps: The facts establish that Blake committed both an omission (failing to call 911) and an affirmative act (locking the door). If the hypothetical murder charge is based on his omission, Blake wouldn't even need an affirmative defense—a core element of omission liability is that one has no legal duty to rescue if doing so puts their own life in peril (like facing a loaded gun). This would negate the *actus reus* entirely.
-2. Cross-Doctrine Clashes: The MPC explicitly abandoned the common law categorical bar on duress for murder (allowing it if a person of "reasonable firmness" would have yielded). Since the question stem doesn't explicitly restrict the jurisdiction to the common law, an astute student could argue that the defense *can* be successfully raised under the MPC.
-3. Cross-Question Spoilers: pass. (The "regardless of causation" caveat successfully inoculates this question from the fact that Dana's injection is the actual cause of death, protecting the hypothetical).
-Recommended fix: Update the stem to explicitly lock in the jurisdiction and the affirmative act: "Assume that, regardless of causation, Blake is charged under the common law with the intentional murder of Chris based on his affirmative act of locking the door. Can Blake successfully raise the defense of duress?"
--->
-
-## Issue 2 — argpass-opus
-
-**Q13.** Assume that, regardless of causation, Blake is charged with the intentional murder of Chris. Can Blake successfully raise the defense of duress?
-
-(a) Yes, because Alex pointing a loaded handgun at Blake's chest constitutes an imminent threat of death that overcomes free will.
-(b) Yes, because Blake's role was merely secondary, allowing the court to mitigate his criminal liability based on the coercive circumstances.
-(c) No, because the common law categorically bars duress as a defense to intentional homicide regardless of the severity of coercion. <!-- correct -->
-(d) No, because Blake could have attempted to disarm Alex or flee the cabin instead of complying with the unlawful order.
-(e) No, because accepting financial compensation to act as security legally forfeits the right to claim duress when threatened with violence.
-
-**Answer:** (c)
-
-**Explanation:** (c) is correct because the common law imposes an absolute categorical bar on the use of duress as a defense to intentional homicide. The underlying rationale is that a person may not choose to sacrifice an innocent life to save their own, no matter how severe or imminent the coercion. (a) is wrong because while the threat was imminent and deadly, the homicide bar legally precludes the defense. (b) is wrong because duress is an all-or-nothing excuse, not a mitigating factor for secondary actors in common law murder. (d) is wrong because the availability of alternatives is a standard element of duress, but the homicide bar preempts the defense before alternatives are evaluated. (e) is wrong because accepting a job does not legally forfeit defenses; the homicide bar is the disqualifying rule here.
-
-**Tags:** chapters: [21], topics: [duress, homicide-bar], difficulty: easy, cognitive: recall
-
-**Grounding:** Chapter 21 - Duress Murder Bar
+**Grounding:** Chapter 21, Traditional Murder Bar
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that Alex pointing a loaded handgun at Blake constitutes a textbook imminent threat of death. Since the threat is severe enough to objectively overcome free will, it seemingly satisfies the fundamental elements of the duress defense. A student relying solely on these general elements might mistakenly conclude that the defense successfully applies here, ignoring specific categorical exceptions to the rule.
-(b) Argument-for: A student could argue that modern criminal law often scales liability based on the defendant's degree of participation. If Blake was merely a secondary actor in the murder, a student might reason that the court has the equitable power to mitigate his liability based on the extreme coercion. This makes the option an attractive choice for those conflating complete affirmative defenses with mitigating circumstances.
-(c) Argument-for: The common law universally dictates that duress is categorically barred as a defense to intentional homicide. The rationale is that a person may not legally choose to sacrifice an innocent life to save their own, regardless of the severity of the threat faced. Because Blake is explicitly charged with intentional murder, this categorical bar definitively precludes the defense, making this option completely legally sound and correct.
-(d) Argument-for: A strict requirement of the duress defense is that the defendant must have had no reasonable opportunity to escape the threatened harm. A student could argue that Blake failed to exhaust his alternatives, such as disarming Alex or fleeing the cabin, thereby forfeiting the defense. This option correctly identifies a standard limitation on duress, making it a plausible reason for the defense's failure if one assumes those facts.
-(e) Argument-for: Duress is generally unavailable if the defendant recklessly or willingly placed themselves in a situation where they were likely to be subjected to coercion. A student could argue that by accepting financial compensation to act as security in a dangerous setting, Blake assumed the risk of violence. Therefore, this option plausibly but incorrectly applies the "fault in creating the situation" limitation on the duress defense.
+(a) Argument-for: Under the strict common law rule, the defense of duress is categorically unavailable for an intentional killing. A student would recognize this categorical bar, which rests on the principle that one cannot sacrifice an innocent person's life to save one's own. Therefore, no matter how severe the threat to Blake, the defense cannot succeed.
+(b) Argument-for: A student might argue that unless the gun was explicitly known to be loaded or the threat was completely unconditional, it might not legally qualify as an immediate threat of death or serious bodily injury. Under this view, Alex's threat would fail to meet the necessary threshold for duress. Consequently, the defense would fail not because of the murder bar, but because the foundational elements of the threat were legally insufficient.
+(c) Argument-for: A student might confuse the Model Penal Code standard with the traditional common law standard. Under the MPC, duress relies on the "person of reasonable firmness" test and does not contain a categorical bar against applying to murder in all circumstances. Believing this modern approach applies, a student could reasonably conclude that Blake's inability to resist Alex's demand justifies a successful defense.
+(d) Argument-for: A thoughtful student could reason that the traditional murder bar's rationale—preventing someone from actively taking an innocent life—should logically not apply to a mere omission like failing to call 911. They might conclude the common law recognizes a principled exception for non-affirmative acts. If this distinction holds, duress could be deployed to excuse an omission even when the charge is intentional murder.
+(e) Argument-for: A student who remembers the general elements of duress—an imminent threat and objectively reasonable fear—but forgets the specific categorical exception for murder would likely choose this option. They would see that the prompt's facts perfectly satisfy the standard requirements for a duress defense. Operating under the assumption that duress applies generally to all crimes once these elements are met, they would logically, albeit incorrectly, conclude the defense works here.
 
 Head-to-head:
-Option (c) provides the legally definitive answer because the common law imposes an absolute bar on using duress as a defense to intentional homicide. Distractors (b) and (e) contain explicit, falsifiable legal misstatements (duress acting merely as a mitigating factor, and security work legally forfeiting the defense). However, distractors (a) and (d) lack explicit false legal rules. Option (a) relies on an implicit omission of the homicide bar rather than stating an absolutely false legal proposition, while option (d) relies entirely on a factual assumption about Blake's ability to flee rather than a definitive legal claim. Thus, (a) and (d) fail the strict falsifiability standard.
+Option (a) correctly states the common law categorical bar against duress for intentional homicide. Option (d) presents a strong distractor by positing a plausible, yet explicitly false, legal exception for omissions. Option (b) makes a factually and legally absurd claim that a threat to shoot isn't a threat of death/SBI. Options (c) and (e) correctly state either the MPC or general common law elements of duress but arrive at the wrong outcome ("Yes") by implicitly omitting the murder bar. Neither (c) nor (e) contains an explicit, universally false legal proposition in its rationale, relying instead on an implicit omission, making them weak under the strict close-call standard. 
 
 Falsifiable claim per distractor:
-- (a): "Yes, because Alex pointing a loaded handgun at Blake's chest constitutes an imminent threat of death that overcomes free will." — wrong because it relies on an implicit omission (the homicide bar) rather than a stated false legal rule. It lacks an absolute, falsifiable legal claim.
-- (b): "allowing the court to mitigate his criminal liability based on the coercive circumstances" — wrong because duress at common law is a complete excuse, not a mitigating factor that reduces an intentional murder charge for a secondary actor.
-- (d): "because Blake could have attempted to disarm Alex or flee the cabin" — wrong because it asserts a factual conclusion about Blake's options rather than an explicit, false legal proposition.
-- (e): "accepting financial compensation to act as security legally forfeits the right to claim duress" — wrong because accepting lawful employment as security does not legally trigger the "fault in creating the situation" exception to categorically forfeit the duress defense.
+- (b): "did not constitute a threat of death or serious bodily injury." — wrong because a threat to shoot a person categorically qualifies as a threat of death or serious bodily injury.
+- (c): "a person of reasonable firmness in Blake's situation would have been unable to resist Alex's demand." — wrong primarily because it applies the MPC standard rather than the common law, but it fails the strict test by lacking an explicit false legal rule, relying instead on an implicit omission of the murder bar.
+- (d): "the common law allows a duress defense for homicide if the defendant's act was merely an omission rather than an affirmative killing." — wrong because the common law murder bar applies categorically to intentional homicides, regardless of whether committed by an affirmative act or an omission.
+- (e): "Yes, because Blake's fear of Alex was objectively reasonable, and the threat of the drawn weapon was immediately imminent." — wrong outcome, but the rationale merely lists factually true elements of duress, failing to provide an explicitly false legal rule locked by absolute words (an implicit omission distractor).
 
-Recommended fix: Edit (a) to include an absolute legal claim, e.g., "Yes, because an imminent threat of death automatically excuses any criminal act, including intentional homicide." Edit (d) to assert a false legal rule, e.g., "No, because the duress defense is categorically unavailable unless the defendant first sustains physical injury before complying." (Ensure the broader fact pattern introducing Alex, Chris, the cabin, and the security job is visible to the student).
+Recommended fix: Update (c) and (e) to include explicit false legal claims using absolute words. For example, change (c) to: "Yes, because every jurisdiction allows a duress defense for homicide if a person of reasonable firmness could not resist the threat." Change (e) to: "Yes, because the common law categorically excuses all crimes, regardless of the charge, solely because an imminent threat of death was present."
 -->

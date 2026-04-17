@@ -4,65 +4,54 @@ The QA pipeline flagged this question. Rewrite `q04.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q4.** Assume Evan is charged as an accomplice to Blake's crime of locking the door. Can Evan successfully assert a derivative defense based on Blake's coercion?
+**Q4.** Evan is charged as an accomplice to Blake's crime of false imprisonment for helping push the deadbolt shut. Evan argues that because Blake acted under duress, Evan cannot be convicted. Is Evan correct?
 
-(a) Evan cannot claim the defense because duress is an excuse that applies only to the specific coerced individual. <!-- correct -->
-(b) Evan can claim the defense because he acted under the same immediate threat that compelled Blake's original action.
-(c) Evan can claim the defense because Blake's duress is a justification that legally transfers to any knowing accomplice.
-(d) Evan cannot claim the defense because he fled through the window rather than remaining to complete the offense.
-(e) Evan cannot claim the defense because justification defenses require an official statutory authorization to use protective physical force.
+(a) No, because duress is an excuse that relieves the principal of personal culpability but does not justify the act itself, so an accomplice receives no derivative defense. <!-- correct -->
+(b) No, because the MPC explicitly requires accomplices to prove their own necessity defense regardless of the principal's mental state.
+(c) Yes, because under the common law, if the principal is acquitted for any reason, all accomplices are automatically exonerated.
+(d) Yes, because duress is a justification that renders the act legally permissible, meaning anyone who assists is also justified.
+(e) Yes, because Evan was only present at the scene and mere presence plus knowledge is insufficient for accomplice liability.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because duress is an excuse, meaning it reflects a lack of moral culpability due to coercion but does not render the underlying act legally "correct" or justified. Because it is a personal excuse, it cannot be derivatively claimed by an accomplice assisting the coerced actor. (b) is wrong because Evan was not threatened by Alex; his general panic does not constitute the specific directed threat required for duress. (c) is wrong because duress is an excuse, not a justification. (d) is wrong because Evan successfully completed the actus reus of aiding the lock before fleeing, meaning the derivative liability attached. (e) is wrong because justification defenses include necessity and self-defense, neither of which require statutory authorization to be raised in criminal proceedings.
+**Explanation:** Duress is an excuse, not a justification. A justification makes the act legally correct, allowing accomplices to share the defense. An excuse only negates the blameworthiness of the specific actor, meaning an accomplice to an excused act receives no derivative defense. (b) is wrong because it uses the wrong terminology and rule framework. (c) is wrong because the common law allows conviction of an accomplice even if the principal is excused by a personal defense. (d) is wrong because it misclassifies duress as a justification rather than an excuse. (e) is wrong because the facts state Evan affirmatively "helps Blake push the heavy deadbolt shut," which goes beyond mere presence.
 
-**Tags:** chapters: [18, 21], topics: [accomplice-liability, justification-vs-excuse], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [18, 21], topics: [justification-vs-excuse, accomplice-liability, duress], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21 - Justification vs. Excuse (The Core Distinction)
+**Grounding:** Chapter 21, Justification vs. Excuse
 
-<!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: MUST FIX (The explanation relies on facts—"threatened by Alex," "general panic"—that do not appear anywhere in the stem.)
-check 4: MUST FIX (The stem is missing the master fact pattern entirely. It refers to "Blake's crime of locking the door," but the options and explanation refer to phantom facts like "Alex," "fled through the window," and Evan's "general panic." This looks like a sub-question that was severed from its narrative.)
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Import the missing narrative into the stem. (e.g., "Assume Alex threatened Blake with a weapon, forcing Blake to lock a door. Evan, in a general panic but not directly threatened by Alex, helped Blake lock the door and then fled through a window. Evan is charged as an accomplice...")
+<!-- audit: SHOULD FIX
+Check 1: pass
+Check 2: pass
+Check 3: The explanation for (c) states "the common law allows conviction of an accomplice even if the principal is excused." However, the chapter map includes `npc-traditional-rule`, meaning students were taught the strict historical common law procedural bar where an accessory could *not* be convicted if the principal was acquitted for any reason. The explanation needs to clarify that it is referring to the *modern* common law (or the substantive rule distinct from the old procedural bar).
+Check 4: pass
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Recommended fix: Update the explanation for (c) to read: "(c) is wrong because modern law has abolished the traditional common law procedural bar that required the principal's conviction. Substantively, a principal's personal excuse does not transfer to an accomplice."
 -->
 
-## Issue 2 — argpass-opus
+## Issue 2 — edge-case
 
-**Q4.** Assume Evan is charged as an accomplice to Blake's crime of locking the door. Can Evan successfully assert a derivative defense based on Blake's coercion?
+**Q4.** Evan is charged as an accomplice to Blake's crime of false imprisonment for helping push the deadbolt shut. Evan argues that because Blake acted under duress, Evan cannot be convicted. Is Evan correct?
 
-(a) Evan cannot claim the defense because duress is an excuse that applies only to the specific coerced individual. <!-- correct -->
-(b) Evan can claim the defense because he acted under the same immediate threat that compelled Blake's original action.
-(c) Evan can claim the defense because Blake's duress is a justification that legally transfers to any knowing accomplice.
-(d) Evan cannot claim the defense because he fled through the window rather than remaining to complete the offense.
-(e) Evan cannot claim the defense because justification defenses require an official statutory authorization to use protective physical force.
+(a) No, because duress is an excuse that relieves the principal of personal culpability but does not justify the act itself, so an accomplice receives no derivative defense. <!-- correct -->
+(b) No, because the MPC explicitly requires accomplices to prove their own necessity defense regardless of the principal's mental state.
+(c) Yes, because under the common law, if the principal is acquitted for any reason, all accomplices are automatically exonerated.
+(d) Yes, because duress is a justification that renders the act legally permissible, meaning anyone who assists is also justified.
+(e) Yes, because Evan was only present at the scene and mere presence plus knowledge is insufficient for accomplice liability.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because duress is an excuse, meaning it reflects a lack of moral culpability due to coercion but does not render the underlying act legally "correct" or justified. Because it is a personal excuse, it cannot be derivatively claimed by an accomplice assisting the coerced actor. (b) is wrong because Evan was not threatened by Alex; his general panic does not constitute the specific directed threat required for duress. (c) is wrong because duress is an excuse, not a justification. (d) is wrong because Evan successfully completed the actus reus of aiding the lock before fleeing, meaning the derivative liability attached. (e) is wrong because justification defenses include necessity and self-defense, neither of which require statutory authorization to be raised in criminal proceedings.
+**Explanation:** Duress is an excuse, not a justification. A justification makes the act legally correct, allowing accomplices to share the defense. An excuse only negates the blameworthiness of the specific actor, meaning an accomplice to an excused act receives no derivative defense. (b) is wrong because it uses the wrong terminology and rule framework. (c) is wrong because the common law allows conviction of an accomplice even if the principal is excused by a personal defense. (d) is wrong because it misclassifies duress as a justification rather than an excuse. (e) is wrong because the facts state Evan affirmatively "helps Blake push the heavy deadbolt shut," which goes beyond mere presence.
 
-**Tags:** chapters: [18, 21], topics: [accomplice-liability, justification-vs-excuse], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [18, 21], topics: [justification-vs-excuse, accomplice-liability, duress], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21 - Justification vs. Excuse (The Core Distinction)
+**Grounding:** Chapter 21, Justification vs. Excuse
 
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: This option correctly identifies the fundamental doctrinal distinction between justifications and excuses. Because duress is an excuse, it focuses on the individual's diminished culpability due to coercion, rather than rendering the act legally permissible. Thus, excuse defenses are entirely personal and cannot be derivatively claimed by an accomplice. Evan is liable regardless of Blake's personal excuse.
-(b) Argument-for: A student might argue that if a threat is pervasive or immediate enough to coerce the principal, the "zone of danger" applies to the accomplice as well. Under this logic, the underlying rationale for duress—that a reasonable person would yield—would theoretically protect anyone acting within that same coercive environment, justifying a shared or derived defense.
-(c) Argument-for: A student could easily misclassify duress as a justification defense, confusing it with necessity (the choice of evils). Under justification doctrine, a justified act is legally correct and socially desirable, meaning the justification transfers to anyone who assists. If Blake's duress were a justification, Evan would legally derive that protection.
-(d) Argument-for: A student might apply the rules of abandonment or withdrawal to conclude that fleeing the scene severs Evan's legal connection to the principal's defenses. If the student incorrectly believes that derivative defenses require the accomplice to remain until the crime's completion, Evan's flight through the window would logically preclude him from claiming Blake's defense.
-(e) Argument-for: A student might conflate public duty defenses with general justification defenses. Because execution of a public duty requires statutory authorization, the student could mistakenly deduce that all justification defenses (and thus any argument for derivative justification) require official statutory authorization to use physical force.
-
-Head-to-head: Option (a) correctly applies the core black-letter rule that excuses are personal and do not transfer to accomplices, making it cleanly correct. Options (c) and (e) contain explicit, falsifiable legal errors regarding the classification of duress and the requirements for justification defenses. Option (d) presents a false legal condition by claiming that fleeing precludes a defense that would otherwise attach at the moment of assistance. However, option (b) primarily relies on a factual contradiction (the explanation notes Evan was not threatened) rather than an explicitly falsifiable legal claim, making it weaker as a distractor under the strict adversarial standard. 
-
-Falsifiable claim per distractor:
-- (b): "he acted under the same immediate threat" — wrong because it relies on a factual mismatch with the unseen prompt rather than an explicit, absolute false legal claim about derivative defenses.
-- (c): "Blake's duress is a justification" — wrong because duress is canonically classified as an excuse defense, not a justification.
-- (d): "because he fled through the window rather than remaining" — wrong because legally, the right to a derivative defense is not negated by fleeing after the actus reus of aiding has already been completed.
-- (e): "justification defenses require an official statutory authorization" — wrong because necessity and self-defense are common justification defenses available to private individuals without official statutory authorization.
-
-Recommended fix: Revise (b) to include an explicitly false legal absolute. For example: "(b) Evan can claim the defense because an accomplice automatically derives any duress defense successfully claimed by the principal."
+<!-- edge-case-audit: SHOULD FIX
+1. Fact Pattern Booby Traps: The facts state Evan acted "Panicked by the weapon" and then immediately fled. This strongly implies Evan either had his own independent duress defense or lacked the specific intent/purpose to facilitate the false imprisonment, meaning he actually *cannot* be convicted. Asking "Is Evan correct [that he cannot be convicted]?" may confuse students who recognize he should be acquitted on these other grounds.
+2. Cross-Doctrine Clashes: Accomplice mens rea (purpose to facilitate) and independent duress clash with the premise that Evan's ultimate liability hinges solely on Blake's derivative defense. 
+3. Cross-Question Spoilers: pass
+Recommended fix: Change the call of the question from "Is Evan correct?" to "Is Evan's derivative defense argument legally valid?" or "Will this specific argument succeed?" to cleanly isolate the justification-vs-excuse distinction without inadvertently ruling out Evan's other valid paths to acquittal.
 -->

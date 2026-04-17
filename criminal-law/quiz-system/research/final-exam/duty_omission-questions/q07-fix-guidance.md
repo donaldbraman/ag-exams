@@ -2,40 +2,31 @@
 
 The QA pipeline flagged this question. Rewrite `q07.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — argpass-opus
+## Issue 1 — audit
 
-**Q7.** Dana asserts a necessity defense under the Model Penal Code (MPC) to the burglary charge, claiming she acted to save Chris. How does her role in supplying chemicals affect her defense?
+**Q7.** Assume Dana is charged with burglary and asserts a necessity defense under the MPC, claiming she broke in to save Chris. How does the fact that Dana was part of the drug conspiracy affect her defense?
 
-(a) The defense fails completely because anyone who helps create an emergency is categorically barred from asserting necessity under the MPC.
-(b) The defense fails if the mental state required for burglary is equal to or lesser than her fault in the emergency. <!-- correct -->
-(c) The defense succeeds because the preservation of human life is always legally superior to the protection of a clinic's property.
-(d) The defense succeeds because she only supplied chemicals and was not physically present when Alex handed Chris the untested dose.
-(e) The defense is submitted to the jury with an instruction that her financial motive automatically negates any claim of justification.
+(a) Under the MPC fault-calibration rule, she may still raise necessity, but if her fault in creating the crisis equaled or exceeded the mental state required for burglary, the defense will fail. <!-- correct -->
+(b) Under the MPC, she is categorically barred from raising the defense because she was at fault in creating the emergency by supplying the drugs.
+(c) Under the MPC, she may raise the defense without restriction because the code explicitly abolished all fault-based limitations on justification defenses.
+(d) Under the MPC, she is barred from raising the defense because the legislature has preempted necessity by criminalizing the distribution of precursor chemicals.
+(e) Under the MPC, her involvement in the conspiracy converts the defense from a complete justification into a partial excuse mitigating the crime to a misdemeanor.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** (b) is correct because under the MPC's fault-calibration rule, a defendant who is at fault in creating the emergency is not categorically barred from raising a necessity defense. Instead, the defense is unavailable only if the mental state required for the charged offense (e.g., purpose or knowledge for burglary) is equal to or less than the defendant's level of fault in creating the underlying crisis. (a) is wrong because it describes the common law categorical bar, which the MPC expressly rejects. (c) is wrong because while human life outweighs property, the MPC still requires calibrating the culpability levels for creating the peril. (d) is wrong because physical presence is irrelevant to assessing her legal culpability in supplying the dangerous chemicals. (e) is wrong because a financial motive does not automatically bar a justification defense.
+**Explanation:** The MPC's fault-calibration rule holds that a defendant who creates an emergency is not categorically barred from necessity. Instead, her level of fault in creating the crisis is compared to the mental state required for the charged offense. (b) is wrong because the categorical bar on self-created emergencies is the common law rule, not the MPC rule. (c) is wrong because the MPC retains a fault-based limitation through its calibration rule. (d) is wrong because legislative preemption applies when the legislature has explicitly weighed the exact choice of evils, not generally criminalized related conduct. (e) is wrong because necessity remains a justification; it does not convert to an excuse or mitigate the grade.
 
-**Tags:** chapters: [21], topics: [necessity, mpc-fault-calibration], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [21], topics: [mpc-fault-calibration, necessity], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 21 - Necessity Fault-Calibration Rule (MPC)
+**Grounding:** Chapter 21, MPC Fault Calibration
 
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under common law, a person who is at fault in creating the circumstances giving rise to the necessity is wholly barred from raising the defense. A student might apply this clean-hands principle to Dana's role in supplying chemicals, reasoning that her contribution to the emergency categorically strips her of the defense under any framework, including the MPC.
-(b) Argument-for: Under MPC § 3.02(2), a defendant's fault in bringing about a perilous situation does not automatically preclude the necessity defense. Instead, the defense is only barred if the prosecution is for an offense whose required culpability matches or is lesser than the defendant's level of fault in creating the emergency. A student would recognize this fault-calibration rule and correctly determine that her defense fails only if the mental state for the charged crime is equal to or lesser than her fault.
-(c) Argument-for: The core of the necessity defense is the choice of evils, governed by MPC § 3.02(1)(a), which requires the harm avoided to be greater than the harm caused. A student could argue that preserving Chris's life is inherently and unequivocally legally superior to protecting a clinic's property. Relying on this absolute hierarchy of values, a student might deduce that the defense succeeds unconditionally because the balance of evils heavily favors the defendant.
-(d) Argument-for: A student might argue that criminal culpability in causing an emergency requires immediate physical proximity or direct causation. Since Dana merely supplied chemicals earlier and was physically absent when the dose was administered, a student could argue her contribution is too remote to trigger the fault-creation bar, allowing her necessity defense to succeed.
-(e) Argument-for: Justification defenses generally require the actor to be genuinely motivated by the desire to avoid the greater harm. A student could argue that Dana's financial motive in supplying the chemicals undercuts the requisite subjective belief for necessity. They might reason that an overriding desire for profit automatically negates the good-faith requirement of justification.
-
-Head-to-head: Option (b) correctly articulates the MPC's unique fault-calibration rule, making it the strongest and legally accurate answer. Distractor (a) uses the absolute phrase "categorically barred," correctly identifying a falsifiable claim since the MPC rejects the common law's absolute bar. Distractor (e) successfully uses the lock "automatically negates" to present an explicit false claim about subjective motives barring justification. However, distractors (c) and (d) violate the close-call standard by relying on implicit omissions rather than explicit false legal rules. Option (c) states that life is "always legally superior" to property—which is generally true—and concludes the defense succeeds based on that alone, implicitly omitting the fault rule but lacking an absolute falsifiable mechanism. Option (d) implicitly assumes physical absence precludes fault without using locking language to make that an explicit, categorical legal rule.
-
-Falsifiable claim per distractor:
-- (a): "categorically barred" — wrong because the MPC uses a fault-calibration rule, not the absolute clean-hands bar found in the common law.
-- (c): "The defense succeeds because the preservation of human life is always legally superior" — lacks an explicit falsifiable error; the claim that life > property is generally true, making the distractor rely on an implicit omission of the fault-creation rule.
-- (d): "she only supplied chemicals and was not physically present" — lacks an explicit falsifiable error; relies on the implicit omission of proximate cause principles regarding fault rather than an explicitly false legal rule.
-- (e): "automatically negates any claim of justification" — wrong because an alternative motive like financial gain does not categorically vitiate a justification defense under the MPC if the objective choice-of-evils elements are satisfied.
-
-Recommended fix: Add absolute locking language to (c) and (d) to introduce explicit false legal claims. 
-Change (c) to: "The defense succeeds because the preservation of human life automatically overrides any fault in creating the emergency."
-Change (d) to: "The defense succeeds because a defendant's physical absence at the time of the emergency categorically shields them from the fault-creation bar."
+<!-- audit: MUST FIX
+check 1: pass (accurately states MPC § 3.02(2) fault-calibration logic).
+check 2: pass
+check 3: pass
+check 4: fails. The stem completely omits the factual nexus between the drug conspiracy and the emergency involving Chris. Options (a) and (b) both assume Dana "created the crisis" or "supplied the drugs", but the stem never states that the conspiracy actually caused the emergency. A well-prepared student could argue that if the conspiracy is unrelated to the crisis, fault-calibration isn't even triggered.
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Update the stem to explicitly connect her conspiracy involvement to the creation of the emergency. For example: "Assume Dana is charged with burglary and asserts a necessity defense under the MPC, claiming she broke into a pharmacy to save Chris, who was overdosing on drugs she had supplied to him as part of a drug conspiracy. How does..."
 -->
