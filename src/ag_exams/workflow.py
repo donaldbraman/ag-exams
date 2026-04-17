@@ -5,6 +5,7 @@ from __future__ import annotations
 import asyncio
 import json
 import re
+from dataclasses import dataclass
 from datetime import timedelta
 from pathlib import PurePosixPath
 
@@ -42,14 +43,45 @@ with workflow.unsafe.imports_passed_through():
 FIX_LOOP_CAP = 3
 
 
+@dataclass
+class ScenarioInput:
+    config: ExamConfig
+    scenario_name: str
+    priorities: list[str]
+
+
+@dataclass
+class ScenarioResult:
+    name: str
+    converged: bool
+    rounds: int
+    questions: int
+    package_json: str | None
+
+
+def _extract_json(text: str) -> str:
+    """Extract JSON from text that may be wrapped in code fences."""
+    text = text.strip()
+    if text.startswith("{") or text.startswith("["):
+        return text
+    match = re.search(r"```(?:json)?\s*\n?(.*?)\n?```", text, re.DOTALL)
+    if match:
+        return match.group(1).strip()
+    start = text.find("{")
+    end = text.rfind("}")
+    if start != -1 and end != -1:
+        return text[start : end + 1]
+    return text
+
+
 @workflow.defn
-class BuildFinalExam:
-    """Orchestrates the multi-scenario exam generation pipeline."""
+class BuildScenarioWorkflow:
+    """Orchestrates whiteboarding and QA loops for a single scenario."""
 
     def __init__(self) -> None:
         self._human_approved = False
         self._human_feedback: str | None = None
-        self._status: dict = {"phase": "init", "scenario": None, "round": 0}
+        self._status: dict = {"phase": "init", "round": 0}
 
     @workflow.signal
     async def approve_scenario(self, feedback: str = "") -> None:
@@ -68,78 +100,20 @@ class BuildFinalExam:
         return self._status
 
     @workflow.run
-    async def run(self, config: ExamConfig) -> ExamResult:
-        self._status = {"phase": "init", "scenario": None, "round": 0}
+    async def run(self, input: ScenarioInput) -> ScenarioResult:
+        config = input.config
+        scenario_name = input.scenario_name
+        priorities = input.priorities
 
-        tracker = (
-            CoverageTracker.from_json(config.tracker_state)
-            if config.tracker_state
-            else CoverageTracker(self._default_weights())
-        )
+        scenario = SCENARIO_MAP.get(scenario_name)
+        if not scenario:
+            raise ValueError(f"Unknown scenario: {scenario_name}")
 
-        scenario_names = (
-            list(SCENARIO_MAP.keys()) if "all" in config.scenarios else config.scenarios
-        )
-
-        completed_scenarios: list[dict] = []
-
-        for i, scenario_name in enumerate(scenario_names):
-            if scenario_name in config.completed_scenarios:
-                continue
-
-            scenario = SCENARIO_MAP.get(scenario_name)
-            if not scenario:
-                workflow.logger.warning(f"Unknown scenario: {scenario_name}")
-                continue
-
-            result = await self._process_scenario(config, scenario_name, scenario, tracker)
-            completed_scenarios.append(result)
-
-            # Continue-as-new between scenarios to manage history size
-            remaining = scenario_names[i + 1 :]
-            if remaining:
-                workflow.logger.info(f"Continuing to next scenario. {len(remaining)} remaining.")
-                new_config = ExamConfig(
-                    scenarios=remaining,
-                    target_questions=config.target_questions,
-                    skip_grounding=config.skip_grounding,
-                    skip_adversarial=config.skip_adversarial,
-                    dry_run=config.dry_run,
-                    output_dir=config.output_dir,
-                    reuse_whiteboard=config.reuse_whiteboard,
-                    tracker_state=tracker.to_json(),
-                    completed_scenarios=config.completed_scenarios + [scenario_name],
-                )
-                workflow.continue_as_new(new_config)
-
-        # Phase 3: Assembly
-        self._status = {"phase": "assembly", "scenario": None, "round": 0}
-        report = tracker.coverage_report()
-        gaps = tracker.uncovered_doctrines(min_weight=3)
-
-        return ExamResult(
-            exam_file=f"{config.output_dir}/exam-final.md",
-            total_questions=sum(s.get("questions", 0) for s in completed_scenarios),
-            scenarios_completed=[s["name"] for s in completed_scenarios],
-            coverage_report=report,
-            gaps=gaps,
-        )
-
-    async def _process_scenario(
-        self,
-        config: ExamConfig,
-        scenario_name: str,
-        scenario: object,
-        tracker: CoverageTracker,
-    ) -> dict:
-        """Process a single scenario through whiteboarding and question generation."""
-        priorities = tracker.next_priorities(15)
         chapters = scenario.chapters  # type: ignore[attr-defined]
 
         if config.reuse_whiteboard:
             self._status = {
                 "phase": "reuse-whiteboard",
-                "scenario": scenario_name,
                 "round": 0,
             }
             package_json = await workflow.execute_activity(
@@ -152,7 +126,7 @@ class BuildFinalExam:
                 f"Skipped whiteboarding for {scenario_name} — reused existing package"
             )
         else:
-            self._status = {"phase": "whiteboarding", "scenario": scenario_name, "round": 0}
+            self._status = {"phase": "whiteboarding", "round": 0}
             package_json, converged = await self._whiteboard(scenario, priorities, chapters)
 
             await workflow.execute_activity(
@@ -161,16 +135,14 @@ class BuildFinalExam:
                 start_to_close_timeout=timedelta(minutes=1),
             )
 
-        # Update coverage even in dry-run (for accurate reporting)
-        self._update_coverage(tracker, package_json)
-
         if config.dry_run:
-            return {
-                "name": scenario_name,
-                "converged": converged,
-                "rounds": self._status["round"],
-                "questions": 0,
-            }
+            return ScenarioResult(
+                name=scenario_name,
+                converged=converged,
+                rounds=self._status["round"],
+                questions=0,
+                package_json=package_json,
+            )
 
         # Human review gate
         self._human_approved = False
@@ -189,8 +161,6 @@ class BuildFinalExam:
             start_to_close_timeout=timedelta(minutes=1),
         )
 
-        self._update_coverage(tracker, package_json)
-
         # Auto-commit to Git at the very end
         git_result = await workflow.execute_activity(
             commit_run_to_git,
@@ -199,12 +169,13 @@ class BuildFinalExam:
         )
         workflow.logger.info(f"Git auto-commit result: {git_result}")
 
-        return {
-            "name": scenario_name,
-            "converged": converged,
-            "rounds": self._status["round"],
-            "questions": questions_text.count("**Q"),
-        }
+        return ScenarioResult(
+            name=scenario_name,
+            converged=converged,
+            rounds=self._status["round"],
+            questions=questions_text.count("**Q"),
+            package_json=package_json,
+        )
 
     async def _whiteboard(
         self,
@@ -261,7 +232,7 @@ class BuildFinalExam:
     ) -> tuple[bool, str | None]:
         """Check convergence and apply critic diffs to the package."""
         try:
-            critique = json.loads(self._extract_json(critique_json))
+            critique = json.loads(_extract_json(critique_json))
             package_json = self._apply_critic_diffs(package_json, critique)
             if critique.get("status") == "CONVERGED":
                 workflow.logger.info(f"Converged at round {round_num}")
@@ -274,7 +245,7 @@ class BuildFinalExam:
     def _apply_critic_diffs(package_json: str | None, critique: dict) -> str:
         """Merge critic diffs into the scenario package (deterministic Python)."""
         try:
-            package = json.loads(BuildFinalExam._extract_json(package_json or "{}"))
+            package = json.loads(_extract_json(package_json or "{}"))
         except json.JSONDecodeError:
             return package_json or "{}"
 
@@ -709,10 +680,74 @@ class BuildFinalExam:
         )
         return "\n".join(lines)
 
+
+@workflow.defn
+class BuildFinalExam:
+    """Orchestrates the multi-scenario exam generation pipeline."""
+
+    def __init__(self) -> None:
+        self._status: dict = {"phase": "init"}
+
+    @workflow.query
+    def get_status(self) -> dict:
+        """Query current workflow status."""
+        return self._status
+
+    @workflow.run
+    async def run(self, config: ExamConfig) -> ExamResult:
+        self._status = {"phase": "dispatching-scenarios"}
+
+        tracker = (
+            CoverageTracker.from_json(config.tracker_state)
+            if config.tracker_state
+            else CoverageTracker(self._default_weights())
+        )
+
+        scenario_names = (
+            list(SCENARIO_MAP.keys()) if "all" in config.scenarios else config.scenarios
+        )
+
+        inputs: list[ScenarioInput] = []
+        for scenario_name in scenario_names:
+            if scenario_name in config.completed_scenarios:
+                continue
+
+            priorities = tracker.next_priorities(15)
+            inputs.append(ScenarioInput(config, scenario_name, priorities))
+
+        child_tasks = []
+        for inp in inputs:
+            child_tasks.append(
+                workflow.execute_child_workflow(
+                    BuildScenarioWorkflow.run,
+                    inp,
+                    id=f"build-scenario-{inp.scenario_name}-{workflow.info().run_id}",
+                )
+            )
+
+        results: list[ScenarioResult] = await asyncio.gather(*child_tasks)
+
+        # Merge actual coverage back into tracker
+        for result in results:
+            self._update_coverage(tracker, result.package_json)
+
+        # Phase 3: Assembly
+        self._status = {"phase": "assembly"}
+        report = tracker.coverage_report()
+        gaps = tracker.uncovered_doctrines(min_weight=3)
+
+        return ExamResult(
+            exam_file=f"{config.output_dir}/exam-final.md",
+            total_questions=sum(r.questions for r in results),
+            scenarios_completed=[r.name for r in results],
+            coverage_report=report,
+            gaps=gaps,
+        )
+
     def _update_coverage(self, tracker: CoverageTracker, package_json: str | None) -> None:
         """Extract doctrines from package and record coverage."""
         try:
-            pkg = json.loads(self._extract_json(package_json or "{}"))
+            pkg = json.loads(_extract_json(package_json or "{}"))
             for doctrine in pkg.get("doctrines_covered", []):
                 if doctrine in tracker.static_weight:
                     tracker.record_coverage(doctrine)
@@ -755,18 +790,3 @@ class BuildFinalExam:
             "conspiracy-withdrawal": 5,
             "conspiracy-scope-kotteakos": 5,
         }
-
-    @staticmethod
-    def _extract_json(text: str) -> str:
-        """Extract JSON from text that may be wrapped in code fences."""
-        text = text.strip()
-        if text.startswith("{") or text.startswith("["):
-            return text
-        match = re.search(r"```(?:json)?\s*\n?(.*?)\n?```", text, re.DOTALL)
-        if match:
-            return match.group(1).strip()
-        start = text.find("{")
-        end = text.rfind("}")
-        if start != -1 and end != -1:
-            return text[start : end + 1]
-        return text
