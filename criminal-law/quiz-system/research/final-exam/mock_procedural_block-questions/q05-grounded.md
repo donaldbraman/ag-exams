@@ -1,17 +1,17 @@
-**Q5.** Silas is charged with felony murder for the pedestrian's death. The jurisdiction's felony murder statute includes evading police at high speeds as an enumerated predicate felony. Is Silas guilty of felony murder?
+**Q5.** Moving to the racketeering charges, the prosecution examines Elias Thorne's decision to manage the altered shipping manifests. Thorne argues he was merely acting as an outside legal advisor. Applying the Reves "operation or management" test, how should Thorne's liability for the RICO enterprise be evaluated?
 
-(a) Yes, because the pedestrian's death occurred directly during the perpetration of a statutorily enumerated inherently dangerous felony. <!-- correct -->
-(b) Yes, because his intent to evade the police legally transfers to supply the specific intent required to kill the pedestrian.
-(c) No, because the pedestrian's death was completely unintentional and therefore lacks the express malice aforethought typically required for a murder conviction.
-(d) No, because the felony of evading police merges with the homicide, precluding a separate conviction for felony murder.
-(e) No, because jumping the curb was a highly unusual independent intervening cause that legally severed the proximate causation chain.
+(a) Thorne satisfies the Reves test because taking over the daily approval of altered shipping manifests constitutes direct participation in the operation of the enterprise. <!-- correct -->
+(b) Thorne does not satisfy the Reves test because he is an outside attorney providing professional legal services rather than a formal employee of Apex Freight.
+(c) Thorne satisfies the Reves test because simply knowing about the impending state racketeering indictment is sufficient to establish participation in the criminal drug enterprise.
+(d) Thorne does not satisfy the Reves test because his actions were restricted to reviewing paperwork rather than physically handling the unmarked crates of fentanyl.
+(e) Thorne satisfies the Reves test because the attorney-client privilege is automatically pierced when a lawyer agrees to represent a known narcotics trafficking organization.
 
 **Answer:** (a)
 
-**Explanation:** Felony murder imposes strict liability for deaths that occur during the commission or attempted commission of certain enumerated felonies. Since evading police at high speeds is an enumerated felony in this jurisdiction, the pedestrian's death during the flight satisfies the elements of felony murder. (b) is wrong because felony murder does not use transferred intent; it substitutes the intent to commit the felony for the intent to kill. (c) is wrong because felony murder explicitly dispenses with the requirement of proving malice aforethought regarding the death itself. (d) is wrong because evading police has an independent felonious purpose from the assaultive act that caused death, so the merger doctrine does not apply. (e) is wrong because losing control of a vehicle during a high-speed chase is a highly foreseeable consequence, not an independent intervening cause.
+**Explanation:** The Reves "operation or management" test requires a defendant to have some part in directing the enterprise's affairs to be liable under 18 U.S.C. § 1962(c). Thorne taking over the daily review and approval of altered manifests (Fact 3) crosses the line from providing outside legal advice to directly participating in the operation of the enterprise. Option (b) is wrong because an outside attorney can satisfy Reves if they step beyond traditional legal services into operational management. Option (c) is wrong because mere knowledge of the enterprise or impending indictments is insufficient without actual participation in operation or management. Option (d) is wrong because directing the enterprise's affairs through paperwork and manifest approval satisfies Reves without requiring physical handling of the drugs. Option (e) is wrong because attorney-client privilege rules do not dictate the substantive elements of Reves participation.
 
-**Tags:** chapters: [14], topics: [felony-murder, strict-liability], difficulty: easy, cognitive: application
+**Tags:** chapters: [10], topics: [rico enterprise, reves test], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 14: strict-liability-substitution
+**Grounding:** Reves v. Ernst & Young, operation or management test for RICO enterprise participation.
 
-<!-- grounding: GROUNDED — Felony Murder (Strict Liability Substitution), Ch 14, Refinement `strict-liability-substitution`. Rule paraphrased accurately. -->
+<!-- GROUNDING-FAIL: Reves "operation or management" test is not in any chapter map. The closest taught doctrines are: none available (meta-map artifact missing). Correct answer must rely on one of those instead. -->

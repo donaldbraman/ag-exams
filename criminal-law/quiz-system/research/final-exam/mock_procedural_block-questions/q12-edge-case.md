@@ -1,22 +1,22 @@
-**Q12.** Under federal law, Silas and Thorne are charged with conspiracy to obstruct justice based on their encrypted texts agreeing to use cartel funds. Is the explicit agreement sufficient to satisfy the core element of conspiracy?
+**Q12.** Finally, prosecutors look at the new warehouse employee, Carter, who was caught driving the altered manifests to the incinerator. Carter claims he thought the boxes only contained old tax records. How does Carter's mistake of fact affect his potential liability for evidence tampering?
 
-(a) Yes, because an explicit verbal or written agreement to commit an unlawful act automatically satisfies the overt act requirement in all modern jurisdictions.
-(b) Yes, because the explicit bilateral agreement to illegally obstruct the legal proceedings directly constitutes the required meeting of the minds for criminal conspiracy. <!-- correct -->
-(c) No, because the attorney-client privilege strictly and absolutely bars the state from charging a defense lawyer and their client with a joint criminal conspiracy.
-(d) No, because the conspiracy doctrine strictly requires the prosecution to prove that Thorne and Silas successfully completed the underlying obstruction of justice.
-(e) No, because a legally valid conspiracy charge requires the involvement of at least three participants when the target crime involves institutional corruption.
+(a) Carter is not guilty of evidence tampering because his genuine belief that the boxes contained old tax records negates the specific intent required to obstruct justice. <!-- correct -->
+(b) Carter is guilty of evidence tampering because his failure to personally inspect the sealed boxes constitutes willful blindness to the criminal nature of the altered manifests.
+(c) Carter is not guilty of evidence tampering because a newly hired employee is legally immune from prosecution for any actions directed by their corporate superiors.
+(d) Carter is guilty of evidence tampering because the strict liability nature of document destruction renders his subjective belief about the boxes' contents completely irrelevant.
+(e) Carter is not guilty of evidence tampering because he was arrested two miles away, completely negating any inference of his internal mental state or criminal intent.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** The core element of conspiracy is an agreement between two or more persons to commit a criminal act. The explicit encrypted texts between Silas and Thorne to use cartel funds to obstruct proceedings demonstrate this bilateral agreement. (a) is wrong because while the agreement is the core element, many jurisdictions still require an independent "overt act" in furtherance of the conspiracy, which is distinct from the agreement itself. (c) is wrong because the attorney-client privilege does not protect communications made in furtherance of a crime or fraud. (d) is wrong because conspiracy is an inchoate offense that is complete upon agreement (and an overt act, if required), regardless of whether the target crime is successful. (e) is wrong because conspiracy only requires two participants.
+**Explanation:** Mistake of fact is a valid defense if it negates the requisite mens rea for the crime. Because Carter genuinely believed he was merely burning old tax records (Fact 10), he lacked the specific intent required for evidence tampering or obstruction of justice. Option (b) is wrong because willful blindness requires a high probability of awareness and deliberate avoidance of the truth, not merely a failure to inspect your boss's boxes. Option (c) is wrong because employees have no general legal immunity for criminal acts directed by superiors, unless they lack the necessary mens rea. Option (d) is wrong because evidence tampering and obstruction are specific intent crimes, not strict liability offenses, making the defendant's subjective belief highly relevant. Option (e) is wrong because physical distance from the crime scene does not legally negate the internal mental state; the subjective belief does.
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement], difficulty: easy, cognitive: application
+**Tags:** chapters: [4], topics: [mistake of fact, mens rea, specific intent], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 19: bilateral-unilateral
+**Grounding:** Mistake of fact doctrine negating the specific intent required for a crime.
 
-<!-- edge-case-audit: CLEAN
+<!-- edge-case-audit: SHOULD FIX
 1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+3. Cross-Question Spoilers: Q13's proposed stub explicitly plans to use the phrasing "assuming for the sake of this question that Carter possessed the requisite mens rea." If Q13 is drafted this way, it will implicitly telegraph to students that Carter lacked the mens rea in the actual fact pattern, completely giving away the answer to Q12.
+Recommended fix: Advise the author of Q13 to test the actus reus without explicitly stating "assuming he possessed the mens rea" (e.g., by asking "Regardless of Carter's mental state, did his physical conduct satisfy..."), or combine Q12 and Q13 into a single multiple-issue question.
 -->

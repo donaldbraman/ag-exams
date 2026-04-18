@@ -2,69 +2,88 @@
 
 The QA pipeline flagged this question. Rewrite `q03.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — audit
+## Issue 1 — grounding
 
-**Q3.** Silas is charged with possessing the drugs located inside the locked bedroom of the stash house. Can the state establish that Silas possessed the drugs in that room?
+**Q3.** Assume Willis is charged with felony murder based on his participation in the underlying fentanyl distribution felony. Under traditional proximate cause principles, will Willis likely be convicted?
 
-(a) Yes, because holding the only key to the locked bedroom demonstrates his power and intention to exercise exclusive control over the contraband inside. <!-- correct -->
-(b) No, because the police interrupted him in the living room before he could physically access the locked bedroom or directly touch the drugs.
-(c) Yes, because his presence in the same overall building creates an irrebuttable legal presumption of possession for all illegal substances on the premises.
-(d) No, because constructive possession requires proof that he actually purchased or manufactured the drugs, rather than merely having temporary access to the room.
-(e) Yes, because constructive possession only requires mere proximity to the illegal items, regardless of whether the defendant had the ability to control them.
+(a) Yes, because any death that occurs during the commission of a continuing felony automatically satisfies the felony murder rule's proximate causation and furtherance elements.
+(b) Yes, because chasing the journalist who discovered the operation was an act done in furtherance of the felony, and the ensuing death was reasonably foreseeable. <!-- correct -->
+(c) No, because the bus driver's act of striking the journalist constitutes an independent superseding cause that breaks the required chain of proximate causation.
+(d) No, because the felony murder rule only applies when the defendant physically strikes the fatal blow during the commission of the predicate felony.
+(e) No, because felony murder requires the prosecution to prove that the defendant specifically intended to cause the victim's death during the course of the predicate felony.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Constructive possession is established when a person lacks physical custody but possesses the power and intention to exercise control over the item. Holding the sole key to a locked room containing contraband establishes exclusive control. (b) is wrong because actual physical contact is not required for constructive possession. (c) is wrong because mere presence in a building does not create an irrebuttable presumption of possession. (d) is wrong because possession relies on current control, not historical procurement or manufacture. (e) is wrong because mere proximity without the power to exercise control is insufficient to prove constructive possession.
+**Explanation:** Felony murder requires that a death occur in furtherance of the predicate felony and be proximately caused by the felon's actions. Chasing a witness to protect the operation is an act in furtherance, and being hit by a bus while fleeing into a busy street is a foreseeable consequence, satisfying proximate cause (Fact 2). (b) is correct. (a) is wrong because temporal coincidence is insufficient; the death must be proximately caused by an act in furtherance of the felony. (c) is wrong because foreseeable intervening forces, like a bus on a busy street, do not constitute superseding causes. (d) is wrong because the felony murder rule does not require the defendant to personally deliver the fatal blow if their dangerous conduct proximately causes the death. (e) is wrong because felony murder functions as a strict liability or recklessness substitute, expressly eliminating the need to prove specific intent to kill.
 
-**Tags:** chapters: [15], topics: [constructive-possession, drugs], difficulty: easy, cognitive: application
+**Tags:** chapters: [4], topics: [felony-murder, proximate-cause, in-furtherance], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 15, Section: Possession Mechanics
+**Grounding:** Common law felony murder elements (in furtherance and proximate causation)
+
+<!-- GROUNDING-FAIL: felony murder proximate cause is not in any chapter map. The closest taught doctrines are: N/A (meta-map artifact is missing). Correct answer must rely on one of those instead. -->
+
+## Issue 2 — audit
+
+**Q3.** Assume Willis is charged with felony murder based on his participation in the underlying fentanyl distribution felony. Under traditional proximate cause principles, will Willis likely be convicted?
+
+(a) Yes, because any death that occurs during the commission of a continuing felony automatically satisfies the felony murder rule's proximate causation and furtherance elements.
+(b) Yes, because chasing the journalist who discovered the operation was an act done in furtherance of the felony, and the ensuing death was reasonably foreseeable. <!-- correct -->
+(c) No, because the bus driver's act of striking the journalist constitutes an independent superseding cause that breaks the required chain of proximate causation.
+(d) No, because the felony murder rule only applies when the defendant physically strikes the fatal blow during the commission of the predicate felony.
+(e) No, because felony murder requires the prosecution to prove that the defendant specifically intended to cause the victim's death during the course of the predicate felony.
+
+**Answer:** (b)
+
+**Explanation:** Felony murder requires that a death occur in furtherance of the predicate felony and be proximately caused by the felon's actions. Chasing a witness to protect the operation is an act in furtherance, and being hit by a bus while fleeing into a busy street is a foreseeable consequence, satisfying proximate cause (Fact 2). (b) is correct. (a) is wrong because temporal coincidence is insufficient; the death must be proximately caused by an act in furtherance of the felony. (c) is wrong because foreseeable intervening forces, like a bus on a busy street, do not constitute superseding causes. (d) is wrong because the felony murder rule does not require the defendant to personally deliver the fatal blow if their dangerous conduct proximately causes the death. (e) is wrong because felony murder functions as a strict liability or recklessness substitute, expressly eliminating the need to prove specific intent to kill.
+
+**Tags:** chapters: [4], topics: [felony-murder, proximate-cause, in-furtherance], difficulty: hard, cognitive: analysis
+
+**Grounding:** Common law felony murder elements (in furtherance and proximate causation)
 
 <!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: fails. The stem completely omits the critical facts that are referenced in the answer choices (that Silas held the only key, and that he was interrupted in the living room). The student has to infer the facts from the answers, which violates standard exam drafting principles.
-check 5: pass
-check 6: pass
-check 7: pass
-check 8: pass
-Recommended fix: Add the missing facts to the stem. For example: "Police raid a stash house and find Silas in the living room. They discover drugs in a locked bedroom. Silas is found to be carrying the only key to that bedroom. Silas is charged..."
+Check 1: pass (Under the stipulated proximate cause theory, liability attaches for reasonably foreseeable deaths caused by third parties.)
+Check 2: pass (Distractors are well-crafted but doctrinally incorrect; a bus on a busy street is a foreseeable intervening cause, not a superseding one.)
+Check 3: pass
+Check 4: fail (The question stem completely omits the factual scenario needed to answer the question. It refers to a journalist, a bus driver, and an operation without introducing them, and the explanation references a missing "Fact 2".)
+Check 5: pass (The stem explicitly specifies "Under traditional proximate cause principles," cleanly resolving the agency vs. proximate cause jurisdictional split.)
+Check 6: pass
+Check 7: pass
+Check 8: pass (Options are symmetrical in length and structure.)
+Recommended fix: If this is a standalone question, explicitly integrate the necessary facts into the stem (e.g., "Willis, running a fentanyl distribution ring, chases a journalist who discovered the operation into a busy street, where the journalist is fatally struck by a bus..."). If it relies on a shared fact pattern, ensure the fact pattern is visibly attached.
 -->
 
-## Issue 2 — argpass-opus
+## Issue 3 — argpass-opus
 
-**Q3.** Silas is charged with possessing the drugs located inside the locked bedroom of the stash house. Can the state establish that Silas possessed the drugs in that room?
+**Q3.** Assume Willis is charged with felony murder based on his participation in the underlying fentanyl distribution felony. Under traditional proximate cause principles, will Willis likely be convicted?
 
-(a) Yes, because holding the only key to the locked bedroom demonstrates his power and intention to exercise exclusive control over the contraband inside. <!-- correct -->
-(b) No, because the police interrupted him in the living room before he could physically access the locked bedroom or directly touch the drugs.
-(c) Yes, because his presence in the same overall building creates an irrebuttable legal presumption of possession for all illegal substances on the premises.
-(d) No, because constructive possession requires proof that he actually purchased or manufactured the drugs, rather than merely having temporary access to the room.
-(e) Yes, because constructive possession only requires mere proximity to the illegal items, regardless of whether the defendant had the ability to control them.
+(a) Yes, because any death that occurs during the commission of a continuing felony automatically satisfies the felony murder rule's proximate causation and furtherance elements.
+(b) Yes, because chasing the journalist who discovered the operation was an act done in furtherance of the felony, and the ensuing death was reasonably foreseeable. <!-- correct -->
+(c) No, because the bus driver's act of striking the journalist constitutes an independent superseding cause that breaks the required chain of proximate causation.
+(d) No, because the felony murder rule only applies when the defendant physically strikes the fatal blow during the commission of the predicate felony.
+(e) No, because felony murder requires the prosecution to prove that the defendant specifically intended to cause the victim's death during the course of the predicate felony.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Constructive possession is established when a person lacks physical custody but possesses the power and intention to exercise control over the item. Holding the sole key to a locked room containing contraband establishes exclusive control. (b) is wrong because actual physical contact is not required for constructive possession. (c) is wrong because mere presence in a building does not create an irrebuttable presumption of possession. (d) is wrong because possession relies on current control, not historical procurement or manufacture. (e) is wrong because mere proximity without the power to exercise control is insufficient to prove constructive possession.
+**Explanation:** Felony murder requires that a death occur in furtherance of the predicate felony and be proximately caused by the felon's actions. Chasing a witness to protect the operation is an act in furtherance, and being hit by a bus while fleeing into a busy street is a foreseeable consequence, satisfying proximate cause (Fact 2). (b) is correct. (a) is wrong because temporal coincidence is insufficient; the death must be proximately caused by an act in furtherance of the felony. (c) is wrong because foreseeable intervening forces, like a bus on a busy street, do not constitute superseding causes. (d) is wrong because the felony murder rule does not require the defendant to personally deliver the fatal blow if their dangerous conduct proximately causes the death. (e) is wrong because felony murder functions as a strict liability or recklessness substitute, expressly eliminating the need to prove specific intent to kill.
 
-**Tags:** chapters: [15], topics: [constructive-possession, drugs], difficulty: easy, cognitive: application
+**Tags:** chapters: [4], topics: [felony-murder, proximate-cause, in-furtherance], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 15, Section: Possession Mechanics
+**Grounding:** Common law felony murder elements (in furtherance and proximate causation)
 
-<!-- argument-pass: MUST FIX
-(a) Argument-for: Option (a) correctly states the rule for constructive possession, which applies when a defendant lacks actual physical custody but has the power and intent to control an item. By positing that Silas holds the only key to the locked bedroom, the option establishes his exclusive dominion and control over the drugs inside. This perfectly satisfies the standard for constructive possession, leading to the correct conclusion that the state can establish possession.
-(b) Argument-for: A student could argue that constructive possession requires a present and immediate ability to exercise control over the contraband. Because the police intercepted Silas in the living room, he was geographically and physically separated from the drugs by a locked door. Consequently, one could argue he lacked the imminent "power" required for possession, meaning the interception successfully prevented the crime of possession from vesting.
-(c) Argument-for: If a student views the location as a dedicated "stash house," they might believe special rules apply to such criminally purposed properties. One could argue that entering a purely illegal environment inherently establishes complicity and control over the contents. Under this theory, the law might impose an irrebuttable presumption of joint possession for anyone found inside, making his mere presence legally sufficient to establish possession.
-(d) Argument-for: Constructive possession requires not just power, but the intention to exercise control over the item. A student could argue that mere temporary access to a room does not prove intent to control the specific contraband inside unless there is evidence of ownership or a proprietary relationship to the drugs. Therefore, proving he purchased or manufactured them would be necessary to establish the requisite intent, distinguishing him from a mere visitor.
-(e) Argument-for: In the context of a stash house, a student might argue that the standard for possession is significantly relaxed due to the nature of the premises. They could argue that because the entire house is devoted to illegal drugs, anyone in close physical proximity is deemed to possess them. Thus, proximity alone becomes the operational standard for constructive possession, overriding the traditional need to prove a specific ability to control.
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student could argue that the felony murder rule functions as a strict liability mechanism extending to the entire res gestae of the crime. Under this broad interpretation, any death that happens temporally and spatially during a continuing felony is attributed to the felon. This would lead the student to conclude that causation and furtherance are inherently and automatically satisfied by the ongoing nature of the felony.
+(b) Argument-for: This is the correct answer. Under traditional proximate cause principles for felony murder, the death must be a foreseeable consequence of the felon's dangerous actions in furtherance of the felony. Chasing a witness to prevent the operation's discovery is an act in furtherance. Forcing someone to flee into a busy street makes being struck by a vehicle highly foreseeable, satisfying proximate cause.
+(c) Argument-for: A student might argue that an intervening physical act by a third party—here, a bus driver—constitutes a superseding cause. Because Willis did not control the bus or directly push the journalist into it, traditional causation principles could be misconstrued to suggest the bus breaks the chain of causation. A student focusing on the direct physical cause of death would conclude Willis is absolved of proximate liability.
+(d) Argument-for: A student might argue that under a strict agency theory of felony murder, liability only attaches to acts committed directly by the felon or their accomplices. If the defendant did not personally strike the fatal blow (the bus did), the student might believe the rule precludes liability. Therefore, Willis cannot be convicted since he did not physically deliver the lethal force.
+(e) Argument-for: A student might argue that murder traditionally requires malice aforethought, which encompasses an intent to kill. To avoid the harsh strict liability outcomes of felony murder, a student might mistakenly believe that modern jurisdictions require the prosecution to prove some underlying specific intent toward the death. Because Willis only intended to chase the journalist, the lack of specific intent to kill would defeat the charge.
 
-Head-to-head: 
-Option (a) presents a textbook application of constructive possession, correctly noting that holding the sole key establishes the requisite dominion and control. However, (a) relies on a critical fact ("holding the only key") that is entirely absent from the question stem! The distractors (b), (c), (d), and (e) are all properly constructed with explicitly false, falsifiable legal rules locked by absolute language (e.g., "irrebuttable legal presumption," "requires proof that he actually purchased," "regardless of whether"). Because the correct answer relies on unstated facts, it cannot logically follow from the prompt as written. This mandates a fix to the stem.
+Head-to-head: Option (b) correctly states the legal standard for proximate cause and applies it accurately to the facts. Distractor (a) provides a strictly falsifiable claim using "automatically satisfies," wrongly asserting that temporal coincidence alone guarantees proximate causation. Distractor (d) uses "only applies" to state a definitively false rule, ignoring accomplice liability and proximate cause theories. Distractor (e) uses "requires" to falsely assert that felony murder demands specific intent to kill, completely contradicting the doctrine's purpose. Distractor (c) correctly identifies the bus driver's act but misapplies the law by labeling a foreseeable intervening act a "superseding cause"; however, it lacks an absolute locking word to make the legal proposition universally falsifiable independent of the fact pattern.
 
 Falsifiable claim per distractor:
-- (b): "[N]o, because the police interrupted him... before he could physically access... or directly touch the drugs" — wrong because constructive possession categorically does not require physical access or direct touching; power and intent to control suffice.
-- (c): "[C]reates an irrebuttable legal presumption of possession for all illegal substances" — wrong because mere presence never creates an irrebuttable presumption of possession in criminal law.
-- (d): "[C]onstructive possession requires proof that he actually purchased or manufactured the drugs" — wrong because dominion and control do not require historical procurement or manufacture; a person can constructively possess drugs belonging to or made by someone else.
-- (e): "[C]onstructive possession only requires mere proximity... regardless of whether the defendant had the ability to control them" — wrong because the ability to control is a definitional, mandatory requirement of constructive possession.
+- (a): "any death... automatically satisfies" — wrong because it falsely claims temporal coincidence categorically satisfies proximate cause and furtherance, ignoring the required causal nexus.
+- (c): "constitutes an independent superseding cause" — wrong under these facts because foreseeable intervening forces do not break the causal chain, but lacks an absolute word to make the rule statement inherently false.
+- (d): "only applies when the defendant physically strikes the fatal blow" — wrong because felony murder broadly applies to deaths proximately caused by the felon's conduct, regardless of who physically strikes the blow.
+- (e): "requires the prosecution to prove that the defendant specifically intended to cause" — wrong because felony murder specifically dispenses with the requirement to prove an intent to kill.
 
-Recommended fix: Add "When arrested, Silas was holding the only key to that bedroom." to the end of the question stem.
+Recommended fix: Add an absolute locking word to (c) to ensure it asserts a categorically false legal rule. For example, change (c) to: "No, because any intervening physical act by a third party categorically constitutes an independent superseding cause that breaks the required chain of proximate causation."
 -->

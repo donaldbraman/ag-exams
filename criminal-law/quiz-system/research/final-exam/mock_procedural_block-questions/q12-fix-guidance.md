@@ -4,30 +4,30 @@ The QA pipeline flagged this question. Rewrite `q12.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q12.** Are Silas and Thorne guilty of conspiracy for their encrypted text exchanges regarding the cartel funds?
+**Q12.** Assume Carter is charged with destruction of evidence, an offense requiring the specific intent to destroy evidence of a crime. Can Carter successfully assert a mistake of fact defense?
 
-(a) Yes, because their encrypted texts constitute a bilateral agreement with the shared specific purpose to commit the illegal object of obstructing legal proceedings. <!-- correct -->
-(b) No, because an attorney cannot legally form a criminal conspiracy with their own client due to the protections inherent in the attorney-client privilege.
-(c) Yes, because any conversation involving cartel funds automatically satisfies the overt act requirement for a money laundering conspiracy under federal law.
-(d) No, because their agreement was merely preparatory and no funds had yet been physically transferred to further the planned obstruction of proceedings.
-(e) Yes, because Silas's knowledge of Thorne's aggressive tactics inherently establishes an implicit conspiracy to commit any necessary collateral crimes.
+(a) Yes, because Carter genuinely believed the boxes contained old tax records, which negates the specific intent required for the crime of destruction of evidence. <!-- correct -->
+(b) Yes, because the mistake of fact defense applies strictly whenever a defendant lacks actual knowledge of the underlying federal investigation targeting their employer.
+(c) No, because the doctrine of transferred intent imputes Vance's criminal purpose to Carter as soon as Carter took physical possession of the sealed boxes.
+(d) No, because a mistake of fact must be objectively reasonable to serve as a defense, and failing to check the sealed boxes was inherently unreasonable.
+(e) No, because destruction of evidence is a strict liability regulatory offense that does not permit a mistake of fact defense under any circumstances whatsoever.
 
 **Answer:** (a)
 
-**Explanation:** A conspiracy requires an agreement between two or more persons to commit an unlawful act, with the specific intent to achieve that objective. The encrypted texts reveal an explicit, bilateral agreement to illegally obstruct proceedings using cartel funds, perfectly satisfying the elements. (b) is wrong because attorney-client privilege protects confidential legal advice, not the active planning of future crimes (the crime-fraud exception). (c) is wrong because an overt act requires an external step in furtherance, not merely the conversation forming the agreement itself. (d) is wrong because the crime of conspiracy is complete upon the agreement and an overt act; the funds do not need to actually change hands to establish the conspiracy. (e) is wrong because mere knowledge of "aggressive tactics" is insufficient; there must be a specific agreement to commit the unlawful objective.
+**Explanation:** Destruction of evidence is a specific intent crime. A mistake of fact is a defense to a specific intent crime if it negates the required specific mens rea, regardless of whether the mistake is reasonable or unreasonable (as long as it is honest). Carter genuinely believed he was destroying old tax records, which completely negates the intent to destroy evidence of a crime (Fact 10). (a) is correct. (b) is wrong because the defense relies on negating the mens rea regarding the nature of the evidence, not merely proving ignorance of the broader federal investigation. (c) is wrong because transferred intent applies to intended harms against different victims (e.g., in homicide), not imputing a principal's mens rea to an innocent agent. (d) is wrong because an honest, even if unreasonable, mistake of fact is a valid defense to a specific intent crime. (e) is wrong because destruction of evidence requires specific intent and is not a strict liability offense.
 
-**Tags:** chapters: [19], topics: [conspiracy-agreement, bilateral-agreement, mens-rea], difficulty: easy, cognitive: application
+**Tags:** chapters: [3], topics: [mistake-of-fact, specific-intent, mens-rea], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19, Section: The Agreement Requirement
+**Grounding:** Common law mistake of fact doctrine for specific intent crimes
 
 <!-- audit: MUST FIX
-<check 1>: fails - (a) states they are guilty based solely on the text exchanges forming the agreement. However, the explanation states an overt act is required and that the agreement conversation itself cannot serve as the overt act. If there is no overt act, they cannot be guilty under the explanation's own rules. 
-<check 2>: pass - no distractor is perfectly correct, but a student could credibly attack (a) for ignoring the overt act requirement.
-<check 3>: fails - the explanation is internally contradictory. It claims the elements are "perfectly satisfied" by the bilateral agreement in the texts, but then in the rationales for (c) and (d), it explicitly relies on the rule that conspiracy requires "an agreement and an overt act" and that the agreement conversation is not an overt act.
-<check 4>: fails - the entire fact pattern is missing! The stem begins mid-scenario referencing Silas, Thorne, and cartel funds without any factual setup.
-<check 5>: fails - no jurisdiction is stipulated to resolve whether an overt act is actually required (common law) or not (many modern statutes/MPC depending on the offense grade).
-<check 6>: pass
-<check 7>: pass
-<check 8>: pass
-Recommended fix: 1. Add the missing fact pattern. 2. Include a clear overt act *subsequent* to the agreement (e.g., opening a bank account, making a phone call) in the facts to satisfy the overt act requirement. 3. Update option (a) to explicitly reference both the bilateral agreement and the subsequent overt act.
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: Fails. The stem completely lacks the factual scenario necessary to answer the question (e.g., who is Carter, what were the sealed boxes, who is Vance, what were the tax records). While this appears to be pulled from a macro fact pattern, as a standalone question it is unanswerable without assumptions beyond the stem.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: Integrate the missing facts into the question stem, e.g., "Assume Carter, who was given sealed boxes by Vance and genuinely believed they contained old tax records, is charged with destruction of evidence..."
 -->

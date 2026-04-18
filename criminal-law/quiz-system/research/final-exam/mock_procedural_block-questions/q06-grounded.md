@@ -1,17 +1,17 @@
-**Q6.** Assume the jurisdiction has abolished the felony murder rule. The prosecution instead charges Silas with depraved-heart (extreme reckless) murder for the pedestrian's death. Is Silas guilty of this charge?
+**Q6.** Assume that whether or not Thorne satisfies the operation or management test, the government charges him with RICO conspiracy. Thorne defends himself by pointing out he never committed any substantive predicate acts like drug distribution. Does Thorne satisfy the agreement element for a RICO conspiracy?
 
-(a) Yes, because driving 90 mph erratically through a crowded residential neighborhood demonstrates an extreme indifference to the value of human life. <!-- correct -->
-(b) Yes, because any violation of a state traffic law that results in a death automatically satisfies the gross negligence standard for murder.
-(c) No, because Silas subjectively desired to escape the police rather than cause physical harm, negating the required mental state of malice.
-(d) No, because the pedestrian inherently assumed the risk of injury by standing near the roadway during an active high-speed police pursuit.
-(e) No, because depraved-heart murder typically requires the use of a traditional deadly weapon, and an automobile cannot legally qualify as such.
+(a) Thorne satisfies the RICO agreement element because he explicitly agreed to facilitate the enterprise's affairs, even if he did not commit the predicate acts himself. <!-- correct -->
+(b) Thorne does not satisfy the RICO agreement element because he did not personally load or distribute the unmarked fentanyl crates for the Apex Freight operation.
+(c) Thorne satisfies the RICO agreement element because simply meeting with a criminal defendant establishes an implicit agreement to join their ongoing substantive criminal conduct.
+(d) Thorne does not satisfy the RICO agreement element because his agreement was merely to review paperwork rather than to direct the overall corporate racketeering structure.
+(e) Thorne satisfies the RICO agreement element because any defense attorney who accepts exorbitant hourly fees is presumed to agree to their client's underlying criminal objectives.
 
 **Answer:** (a)
 
-**Explanation:** Depraved-heart (or extreme reckless) murder requires conduct that demonstrates a conscious disregard of a substantial and unjustifiable risk to human life, manifesting an extreme indifference to the value of human life. Weaving at 90 mph through a crowded residential area clearly meets this standard. (b) is wrong because a mere traffic violation only supports ordinary or perhaps gross negligence, not the extreme recklessness required for murder. (c) is wrong because extreme recklessness requires a conscious disregard of the risk, not a subjective desire to cause the harm. (d) is wrong because victim assumption of risk is generally not a defense to criminal homicide. (e) is wrong because a vehicle used in a highly dangerous manner can easily satisfy the requirement for extreme indifference to life.
+**Explanation:** Under Salinas v. United States, a RICO conspiracy requires the defendant to agree to facilitate the overarching criminal enterprise, but they do not need to agree to commit the two requisite predicate acts themselves. Thorne's explicit agreement to help the operation evade law enforcement (Fact 3) satisfies this element. Option (b) is wrong because the Supreme Court expressly rejected the requirement that a RICO conspirator must personally commit or agree to commit predicate acts. Option (c) is wrong because simply meeting with a client does not constitute an implicit agreement to join their criminal enterprise. Option (d) is wrong because agreeing to manage the fraudulent manifests is sufficient to facilitate the enterprise's affairs, even without directing the entire corporate structure. Option (e) is wrong because accepting exorbitant fees, while ethically concerning, does not establish an irrebuttable presumption of criminal agreement without specific intent.
 
-**Tags:** chapters: [13], topics: [unintentional-homicide, extreme-indifference-standard], difficulty: medium, cognitive: application
+**Tags:** chapters: [10], topics: [rico conspiracy, salinas], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 13: extreme-indifference-standard
+**Grounding:** Salinas v. United States, establishing the agreement element for RICO conspiracy without requiring predicate acts.
 
-<!-- grounding: GROUNDED — extreme indifference standard, Ch 13, Refinement `extreme-indifference-standard`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — RICO conspiracy (Salinas), Ch 10, Refinement `rico-conspiracy-salinas`. Rule paraphrased accurately. -->

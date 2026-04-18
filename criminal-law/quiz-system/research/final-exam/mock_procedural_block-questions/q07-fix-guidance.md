@@ -2,57 +2,52 @@
 
 The QA pipeline flagged this question. Rewrite `q07.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — audit
+## Issue 1 — grounding
 
-**Q7.** Assume the trial proceeds and Thorne formally files a motion for discovery on selective prosecution. Under the *Armstrong* standard, will Thorne succeed in obtaining discovery?
+**Q7.** Under 18 U.S.C. § 666 (Federal Program Bribery) and the Supreme Court's ruling in *Snyder v. United States*, does Vance's $50,000 payment to Judge Caldwell constitute a criminal violation?
 
-(a) No, because he must first produce credible evidence that similarly situated individuals of a different race could have been prosecuted but were not. <!-- correct -->
-(b) Yes, because a 95% disparate impact constitutes overwhelming statistical proof of discriminatory intent, shifting the burden of production to the prosecution.
-(c) No, because selective prosecution claims can only be raised during post-conviction proceedings and are explicitly barred from the pretrial discovery phase.
-(d) Yes, because defense attorneys have an absolute right to prosecutorial records whenever a disparate impact claim is formally alleged during a criminal trial.
-(e) No, because statistical evidence of racial disparity must be exclusively handled through the Batson framework rather than through selective prosecution motions.
+(a) Yes, because the payment was intended to influence a future official act, as established by the corrupt agreement formed prior to the suppression hearing.
+(b) Yes, because Section 666 criminalizes both bribes given before an official act and gratuities given afterward to reward an official for a favorable past action.
+(c) No, because the Supreme Court ruled that Section 666 criminalizes only bribes involving a quid pro quo and does not cover after-the-fact gratuities. <!-- correct -->
+(d) No, because a state trial judge does not qualify as an agent of an organization receiving federal funds unless those specific funds are tied to the case.
+(e) No, because the $50,000 payment does not meet the jurisdictional monetary threshold required to trigger federal prosecution under the federal program bribery statute.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct because under *Armstrong*, a defendant seeking discovery for selective prosecution must provide credible evidence that similarly situated individuals of a different race could have been prosecuted but were not; aggregate statistical impact alone is insufficient. (b) is incorrect because *McCleskey* and *Armstrong* explicitly reject aggregate statistics as sufficient proof of individual discriminatory intent. (c) is incorrect because selective prosecution claims can be raised pretrial if the demanding evidentiary threshold is met. (d) is incorrect because there is no absolute right to prosecutorial records; the presumption of regularity protects prosecutors absent threshold evidence. (e) is incorrect because *Batson* applies only to jury selection, while *Armstrong* governs selective prosecution claims.
+**Explanation:** In *Snyder v. United States*, the Supreme Court held that 18 U.S.C. § 666 criminalizes bribes (payments made with a corrupt intent to influence an official act before it occurs) but does not criminalize after-the-fact gratuities (payments rewarding past actions without a prior corrupt agreement). Since the $50,000 was a "thank you" gift prepared three weeks after the ruling with no evidence of a prior agreement, it is an uncriminalized gratuity under the statute (Fact 4). (c) is correct. (a) is wrong on the facts; there is no evidence of a corrupt agreement formed prior to the suppression hearing. (b) is wrong because *Snyder* explicitly held that § 666 does not cover gratuities. (d) is wrong because § 666 covers agents of state agencies receiving >$10k in federal funds generally; a strict nexus to the specific case is not required. (e) is wrong because the $50,000 payment easily exceeds the $5,000 value threshold of § 666.
 
-**Tags:** chapters: [6], topics: [selective prosecution, Armstrong, discovery], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [8], topics: [federal-program-bribery, snyder, gratuity], difficulty: medium, cognitive: recall
 
-**Grounding:** Chapter 6 - United States v. Armstrong; armstrong-discovery-catch22
+**Grounding:** Snyder v. United States, 144 S. Ct. 1947 (2024)
+
+<!-- GROUNDING-FAIL: Federal Program Bribery / Snyder v. United States is not in any chapter map. The closest taught doctrines are: None (meta-map artifact missing). Correct answer must rely on one of those instead. -->
+
+## Issue 2 — audit
+
+**Q7.** Under 18 U.S.C. § 666 (Federal Program Bribery) and the Supreme Court's ruling in *Snyder v. United States*, does Vance's $50,000 payment to Judge Caldwell constitute a criminal violation?
+
+(a) Yes, because the payment was intended to influence a future official act, as established by the corrupt agreement formed prior to the suppression hearing.
+(b) Yes, because Section 666 criminalizes both bribes given before an official act and gratuities given afterward to reward an official for a favorable past action.
+(c) No, because the Supreme Court ruled that Section 666 criminalizes only bribes involving a quid pro quo and does not cover after-the-fact gratuities. <!-- correct -->
+(d) No, because a state trial judge does not qualify as an agent of an organization receiving federal funds unless those specific funds are tied to the case.
+(e) No, because the $50,000 payment does not meet the jurisdictional monetary threshold required to trigger federal prosecution under the federal program bribery statute.
+
+**Answer:** (c)
+
+**Explanation:** In *Snyder v. United States*, the Supreme Court held that 18 U.S.C. § 666 criminalizes bribes (payments made with a corrupt intent to influence an official act before it occurs) but does not criminalize after-the-fact gratuities (payments rewarding past actions without a prior corrupt agreement). Since the $50,000 was a "thank you" gift prepared three weeks after the ruling with no evidence of a prior agreement, it is an uncriminalized gratuity under the statute (Fact 4). (c) is correct. (a) is wrong on the facts; there is no evidence of a corrupt agreement formed prior to the suppression hearing. (b) is wrong because *Snyder* explicitly held that § 666 does not cover gratuities. (d) is wrong because § 666 covers agents of state agencies receiving >$10k in federal funds generally; a strict nexus to the specific case is not required. (e) is wrong because the $50,000 payment easily exceeds the $5,000 value threshold of § 666.
+
+**Tags:** chapters: [8], topics: [federal-program-bribery, snyder, gratuity], difficulty: medium, cognitive: recall
+
+**Grounding:** Snyder v. United States, 144 S. Ct. 1947 (2024)
 
 <!-- audit: MUST FIX
-<check 1>: pass
-<check 2>: pass
-<check 3>: pass
-<check 4>: fails. The question relies on a missing vignette ("Assume the trial proceeds and Thorne..."). Without knowing what evidence Thorne actually submitted, we cannot definitively conclude he will fail to obtain discovery. If the missing vignette established he *did* provide comparator evidence, (a) would be incorrect in outcome. 
-<check 5>: pass
-<check 6>: pass
-<check 7>: pass
-<check 8>: pass
-Recommended fix: Add the necessary factual premise to the stem to make it standalone. E.g., "Thorne, relying solely on a study showing a 95% racial disparate impact in charging, formally files a motion for discovery on selective prosecution. Under the Armstrong standard, will Thorne succeed in obtaining discovery?"
--->
-
-## Issue 2 — edge-case
-
-**Q7.** Assume the trial proceeds and Thorne formally files a motion for discovery on selective prosecution. Under the *Armstrong* standard, will Thorne succeed in obtaining discovery?
-
-(a) No, because he must first produce credible evidence that similarly situated individuals of a different race could have been prosecuted but were not. <!-- correct -->
-(b) Yes, because a 95% disparate impact constitutes overwhelming statistical proof of discriminatory intent, shifting the burden of production to the prosecution.
-(c) No, because selective prosecution claims can only be raised during post-conviction proceedings and are explicitly barred from the pretrial discovery phase.
-(d) Yes, because defense attorneys have an absolute right to prosecutorial records whenever a disparate impact claim is formally alleged during a criminal trial.
-(e) No, because statistical evidence of racial disparity must be exclusively handled through the Batson framework rather than through selective prosecution motions.
-
-**Answer:** (a)
-
-**Explanation:** (a) is correct because under *Armstrong*, a defendant seeking discovery for selective prosecution must provide credible evidence that similarly situated individuals of a different race could have been prosecuted but were not; aggregate statistical impact alone is insufficient. (b) is incorrect because *McCleskey* and *Armstrong* explicitly reject aggregate statistics as sufficient proof of individual discriminatory intent. (c) is incorrect because selective prosecution claims can be raised pretrial if the demanding evidentiary threshold is met. (d) is incorrect because there is no absolute right to prosecutorial records; the presumption of regularity protects prosecutors absent threshold evidence. (e) is incorrect because *Batson* applies only to jury selection, while *Armstrong* governs selective prosecution claims.
-
-**Tags:** chapters: [6], topics: [selective prosecution, Armstrong, discovery], difficulty: hard, cognitive: analysis
-
-**Grounding:** Chapter 6 - United States v. Armstrong; armstrong-discovery-catch22
-
-<!-- edge-case-audit: SHOULD FIX
-1. Fact Pattern Booby Traps: The phrase "Assume the trial proceeds" chronologically places a pretrial discovery motion during the trial phase. While the distractors focus on the substantive *Armstrong* standard, a sharp student might be distracted by the procedural timing anomaly. Furthermore, the question should explicitly specify that Thorne is relying on the statistical data mentioned in the fact pattern.
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
-Recommended fix: Change "Assume the trial proceeds and Thorne formally files a motion for discovery on selective prosecution." to "Assume that prior to trial, Thorne formally files a motion for discovery on selective prosecution based on the leaked statistical data."
+Check 1: pass
+Check 2: pass (distractors are legally well-crafted given the intended facts)
+Check 3: pass
+Check 4: FAIL. The stem is completely missing the fact pattern needed to answer the question. It abruptly refers to "Vance's $50,000 payment to Judge Caldwell," and the explanation references "Fact 4", a "suppression hearing," and a "thank you" gift made "three weeks after the ruling." Without these facts, a student cannot distinguish between option (a) (a prior corrupt agreement) and option (c) (an after-the-fact gratuity).
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: Insert the missing fact pattern into the question stem (or ensure it is explicitly tethered to a shared, multi-question fact pattern document).
 -->

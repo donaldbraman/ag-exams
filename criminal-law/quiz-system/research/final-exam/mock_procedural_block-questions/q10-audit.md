@@ -1,27 +1,27 @@
-**Q10.** Assume that following Thorne's closing argument, Judge Mercer instructs the jury: "If you acquit the defendant contrary to the evidence, you will have violated your legal oath, and you may face judicial sanctions for contempt of court." Under *United States v. Kleinman*, is this instruction permissible?
+**Q10.** At the end of Willis's trial, a sworn affidavit reveals Juror #4's racially charged statements during deliberations. Willis files a motion to impeach the verdict. Applying the Peña-Rodriguez exception to the general rule against jury impeachment, how should the court rule on the affidavit's admissibility?
 
-(a) Yes, because trial courts have a mandatory constitutional duty to actively forestall jury nullification through strong, potentially coercive admonitions during the trial proceedings.
-(b) Yes, because juries only possess the factual power to nullify, not a legal right, meaning courts can freely threaten them to prevent its exercise.
-(c) No, because the instruction explicitly implies jurors could be punished for nullification, which crosses the legal line into impermissible and unconstitutional judicial coercion. <!-- correct -->
-(d) No, because criminal defendants possess a fundamental Sixth Amendment right to receive an affirmative jury instruction explaining their power to nullify.
-(e) No, because the Double Jeopardy Clause strictly prohibits trial judges from instructing juries on the precise meaning and consequences of their oaths.
+(a) The affidavit is admissible because Juror #4's statement demonstrates clear racial animus that significantly influenced the verdict, triggering the constitutional exception to the no-impeachment rule. <!-- correct -->
+(b) The affidavit is inadmissible because the strict no-impeachment rule unconditionally bars all post-verdict juror testimony regarding internal deliberation statements to protect finality.
+(c) The affidavit is admissible because any post-verdict evidence of juror misconduct automatically pierces the secrecy of deliberations regardless of the specific content of the statements.
+(d) The affidavit is inadmissible because Juror #4 did not explicitly use a racial slur, which is strictly required to overcome the presumption of juror impartiality.
+(e) The affidavit is admissible because juror affidavits submitted within two days of conviction are exempt from the standard evidentiary barriers protecting internal jury room deliberations.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Under *United States v. Kleinman*, while courts may instruct juries that they must follow the law and may tell them there is no right to nullify, they cross the line into impermissible coercion if they state or imply that jurors could be punished or sanctioned for their verdict. The power to acquit is unreviewable. (a) and (b) are wrong because while courts can discourage nullification, threatening sanctions is strictly prohibited because it undermines juror independence. (d) is wrong because defendants have no right to a pro-nullification instruction. (e) is wrong because judges routinely instruct juries on their oaths; the error is threatening punishment.
+**Explanation:** Rule 606(b) generally bars juror testimony about deliberations, but Peña-Rodriguez v. Colorado established a constitutional exception where a juror makes a clear statement indicating reliance on racial stereotypes or animus to convict. Juror #4's statement about "Black guys" (Fact 6) clearly triggers this exception. Option (b) is wrong because Peña-Rodriguez explicitly created an exception to the strict no-impeachment rule for clear evidence of racial bias. Option (c) is wrong because the exception is narrowly tailored to racial animus, not a blanket admission for any post-verdict evidence of general misconduct. Option (d) is wrong because explicit racial slurs are not required; clear statements relying on racial stereotypes to infer guilt are sufficient to satisfy the standard. Option (e) is wrong because there is no arbitrary two-day temporal exemption to the no-impeachment rule; admissibility depends strictly on the substantive content demonstrating racial bias.
 
-**Tags:** chapters: [4], topics: [jury-nullification, jury-instructions], difficulty: medium, cognitive: application
+**Tags:** chapters: [2], topics: [jury impeachment, rule 606b, pena-rodriguez], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 4: anti-nullification-instruction-limits
+**Grounding:** Peña-Rodriguez v. Colorado, exception to the no-impeachment rule for clear statements of racial animus.
 
-<!-- audit: SHOULD FIX
-Check 1: pass (with minor phrasing critique — see fix)
-Check 2: pass
-Check 3: pass
-Check 4: pass
-Check 5: pass
-Check 6: pass
-Check 7: pass
-Check 8: pass
-Recommended fix: In option (c), change the oxymoronic and slightly inaccurate phrase "explicitly implies" to "explicitly states" (or "states or implies"). Because the instruction literally says "you may face judicial sanctions," it is an explicit statement of punishment, not an implication. A pedantic student could argue (c) is technically false as drafted. Changing to "states or implies" removes the issue and perfectly aligns with the explanation's standard.
+<!-- audit: MUST FIX
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: fails. The stem refers vaguely to "racially charged statements," but the explanation relies on a phantom "Fact 6" and a specific statement about "Black guys" to justify the correct answer. The question was clearly severed from a master fact pattern and is missing the facts necessary to determine if the Peña-Rodriguez standard is met.
+check 5: pass
+check 6: pass
+check 7: pass
+check 8: pass
+Recommended fix: Integrate the missing facts into the stem (e.g., "reveals that Juror #4 explicitly relied on racial stereotypes about 'Black guys' to argue for a conviction") and remove the reference to "(Fact 6)" from the explanation.
 -->

@@ -1,29 +1,27 @@
-## The Question
+**Q2.** Assume for the sake of this question that Willis is charged with homicide, but the prosecution decides not to rely on felony murder. They are debating whether to charge him with depraved heart murder or involuntary manslaughter for the journalist's death. How should Willis's actions in the street pursuit be classified under homicide grading principles?
 
-**Q2.** Assume the jurisdiction applies the Model Penal Code (MPC) "substantial step" test. Silas is charged with attempted tampering with physical evidence for pouring gasoline on the cocaine and holding a lighter. Is Silas guilty of attempt?
+(a) Willis committed depraved heart murder because chasing a fleeing person into a busy street demonstrated an extreme indifference to the value of human life. <!-- correct -->
+(b) Willis committed involuntary manslaughter because his shouting indicates he merely intended to frighten the journalist rather than cause a fatal collision with a bus.
+(c) Willis committed intentional murder because his angry pursuit of the victim transferred his general malice directly to the lethal actions of the bus driver.
+(d) Willis committed depraved heart murder because any statutory traffic violation committed during the pursuit strictly elevates the resulting accidental death to criminal homicide.
+(e) Willis committed involuntary manslaughter because he did not actually inflict the physical trauma on the journalist before the bus struck and killed him.
 
-(a) Guilty, because he completed the offense the moment he formed the specific intent to destroy the evidence in the stash house.
-(b) Guilty, because his actions strongly corroborated his criminal purpose and went far beyond mere preparation to destroy the drugs. <!-- correct -->
-(c) Not guilty, because the police intervened before he could ignite the lighter, meaning he did not complete the final proximate act.
-(d) Not guilty, because his trembling hand indicates he had not yet formed a firm and irrevocable intent to commit the underlying offense.
-(e) Not guilty, because it was factually impossible for him to destroy the cocaine once the police had already breached the front door.
+**Answer:** (a)
 
-**Answer:** (b)
+**Explanation:** Depraved heart murder requires extreme recklessness manifesting an extreme indifference to human life. Chasing a fleeing person into a busy street (Fact 2) creates a grave and highly foreseeable risk of death, demonstrating this extreme indifference. Option (b) is wrong because Willis's actions went beyond merely frightening the victim and created a lethal risk satisfying depraved heart culpability. Option (c) is wrong because transferred intent applies when a defendant aims at one victim but hits another, not when general anger leads to an accidental striking by an independent third party. Option (d) is wrong because not all statutory traffic violations strictly elevate accidental deaths to murder without independent extreme recklessness. Option (e) is wrong because direct physical contact by the defendant is not required if their reckless actions proximately cause the fatal result.
 
-**Explanation:** Under the MPC's substantial step test, an attempt occurs when a defendant acts with the requisite mens rea and takes a substantial step toward the commission of the crime that strongly corroborates their criminal purpose. Pouring gasoline and holding a lighter clearly satisfies this standard. (a) is wrong because attempt requires both mens rea and an actus reus beyond mere thought. (c) is wrong because the MPC specifically rejects the common-law "last proximate act" test. (d) is wrong because a trembling hand does not negate mens rea, and "firm and irrevocable intent" is not the legal test. (e) is wrong because police intervention makes the crime incomplete, but factual impossibility is generally not a defense under the MPC.
+**Tags:** chapters: [5], topics: [homicide, depraved heart, involuntary manslaughter], difficulty: medium, cognitive: application
 
-**Tags:** chapters: [17], topics: [attempt, substantial-step], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 17: actus-reus-substantial-step
+**Grounding:** Depraved heart murder requires extreme recklessness manifesting an extreme indifference to human life.
 
 <!-- audit: MUST FIX
-Check 1: pass
-Check 2: pass
-Check 3: SHOULD FIX. The explanation for (e) loosely characterizes police intervention in a way that blends it with factual impossibility. Police stopping an actor is merely an outside interrupting force; "factual impossibility" refers to circumstances inherent to the act unknown to the defendant that make the crime impossible (e.g., shooting a corpse, picking an empty pocket). 
-Check 4: MUST FIX. The stem lacks essential facts. It does not state Silas's mens rea (specific intent to destroy the evidence), and it entirely omits the police intervention. Without knowing *why* Silas didn't spark the lighter, a well-prepared student could argue he voluntarily abandoned the attempt—a complete affirmative defense under MPC § 5.01(4). Furthermore, distractors (a), (c), and (e) reference facts (the "stash house," the "breached door," and "police intervening") that appear nowhere in the stem.
-Check 5: pass
-Check 6: pass
-Check 7: pass
-Check 8: pass
-Recommended fix: Update the stem to provide the full scenario: "As police breached the front door of his stash house, Silas poured gasoline on a pile of cocaine and grabbed a lighter, intending to burn the drugs. Officers tackled him before he could strike the lighter." Also, correct the explanation for (e) to clarify that police intervention is an interrupting cause, not factual impossibility (and that the MPC rejects factual impossibility anyway).
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: fails; the stem is completely missing the fact pattern it relies upon. It refers to "Willis's actions," "the journalist's death," a "street pursuit," and a "bus," while the explanation explicitly references "(Fact 2)". Students cannot answer this without the overarching scenario.
+check 5: pass
+check 6: pass
+check 7: pass
+check 8: pass
+Recommended fix: Integrate the missing facts into the stem so the question is self-contained. Furthermore, ensure the facts of the pursuit clearly establish "extreme indifference" rather than standard recklessness to firmly distinguish depraved heart murder from involuntary manslaughter.
 -->

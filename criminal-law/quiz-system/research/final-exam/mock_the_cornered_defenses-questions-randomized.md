@@ -1,4 +1,4 @@
-**Q1.** Under the Model Penal Code, which affirmative defense or defenses may Artie validly raise for the theft of the nitrogen tanker?
+**Q1.** Theft in this jurisdiction is defined as "purposely depriving another of their movable property." Assuming Artie was negligent with respect to creating the risk of an explosion, under the Model Penal Code, which affirmative defense or defenses may he validly raise for the theft of the nitrogen tanker?
 
 (a) Both necessity, because the theft avoided a greater catastrophic harm, and duress, because he faced an imminent threat of death. <!-- correct -->
 (b) Neither, because his initial voluntary participation in the illegal drug operation automatically forecloses both affirmative defenses regardless of threat.
@@ -34,7 +34,7 @@
 
 ---
 
-**Q3.** Under traditional doctrine, assume that, regardless of your answer to the previous question, Benny acted with the required purpose to aid Artie. How does the classification of Artie's affirmative defense legally impact Benny's derivative liability?
+**Q3.** Assume that, regardless of your answer to the previous question, Benny acted with the required purpose to aid Artie. Under traditional common law doctrine, how does the classification of Artie's affirmative defense legally impact Benny's derivative liability?
 
 (a) Benny remains fully liable in all circumstances because derivative accomplice liability irrevocably attaches the moment the principal commits the prohibited physical act.
 (b) If Artie succeeds on a duress defense, Benny is shielded from liability because the duress excuse automatically transfers to any accomplice at the scene.
@@ -106,12 +106,12 @@
 
 ---
 
-**Q7.** Under the traditional common law, is Dante guilty of felony murder for the death of Vargas?
+**Q7.** Under the traditional common law, assume the jurisdiction explicitly enumerates illicit drug manufacturing as a predicate offense in its first-degree murder statute. Is Dante guilty of felony murder for the death of Vargas?
 
 (a) Guilty, because the modern felony murder rule operates as a strict liability offense that explicitly ignores whether the underlying crime was inherently dangerous.
 (b) Not guilty, because Silas's severe mental illness acts as an independent intervening cause that legally breaks the necessary chain of proximate causation.
 (c) Not guilty, because the modern agency approach to felony murder categorically bars derivative liability whenever the fatal blow is struck by a co-felon.
-(d) Guilty, because the homicide occurred during the perpetration of an inherently dangerous drug manufacturing felony in which Dante was a willing participant. <!-- correct -->
+(d) Guilty, because the homicide occurred during the perpetration of an enumerated drug manufacturing felony in which Dante was a willing participant. <!-- correct -->
 (e) Not guilty, because Dante completely lacked the specific intent to kill Vargas, which is a mandatory prerequisite for any valid murder conviction.
 
 **Answer:** (d)
@@ -124,7 +124,7 @@
 
 ---
 
-**Q8.** In a majority jurisdiction, have Leo, Artie, Silas, and Dante legally satisfied the prima facie elements of criminal conspiracy?
+**Q8.** In a jurisdiction that strictly enforces the bilateral requirement for agreement to a conspiracy, have Leo, Artie, Silas, and Dante legally satisfied the prima facie elements of criminal conspiracy?
 
 (a) Yes, because the agreement to manufacture Schedule II narcotics is a strict liability conspiracy that does not require any overt act to be prosecutable.
 (b) No, because the active presence of an undercover agent is strictly required to establish a legally valid conspiracy prosecution under the traditional Wharton Rule.

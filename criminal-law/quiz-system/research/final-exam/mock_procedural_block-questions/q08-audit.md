@@ -1,27 +1,27 @@
-**Q8.** During jury selection, Thorne objects to DA Miller striking all five Black prospective jurors. Miller states: "These jurors reside in neighborhoods with high drug-crime rates, making them inherently biased against police testimony." Under the *Batson* framework, how should the trial court evaluate Miller's strike?
+**Q8.** Assume for the sake of this question that providing the $50,000 constitutes an unlawful bribery objective. Prosecutors wish to charge Thorne with conspiracy to bribe the judge. Based on Thorne's statement to his law partner regarding his exorbitant hourly fees, does Thorne possess the requisite mens rea for a conspiracy agreement?
 
-(a) The court must uphold the strike because residency in a high-crime neighborhood constitutes a per se valid, race-neutral justification under step two of *Batson*.
-(b) The court must uphold the strike because the defense fundamentally failed to prove a persistent pattern of discriminatory strikes across multiple unrelated trials.
-(c) The court must invalidate the strike because striking jurors based on neighborhood demographics frequently operates as an impermissible and unconstitutional proxy for race. <!-- correct -->
-(d) The court must invalidate the strike because prosecutors are strictly prohibited from using peremptory challenges in any felony trial involving minority defendants.
-(e) The court must invalidate the strike because the prosecutor failed to provide documentary evidence proving the jurors actually distrusted the police.
+(a) Thorne possesses the requisite mens rea because his pursuit of exorbitant hourly fees demonstrates a financial stake that elevates his knowledge to purposeful intent. <!-- correct -->
+(b) Thorne lacks the requisite mens rea because his explicit statement to his partner conclusively negates any inferred intent to achieve the conspiracy's unlawful objective.
+(c) Thorne possesses the requisite mens rea because mere knowledge that the briefcase contained a cash payoff is always sufficient to establish criminal conspiracy liability.
+(d) Thorne lacks the requisite mens rea because delivering a briefcase to a judge is an inherently neutral act that cannot support a finding of corrupt intent.
+(e) Thorne possesses the requisite mens rea because his status as Vance's legal counsel imposes strict liability for any criminal transactions he physically facilitates.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Under the *Batson* framework, a prosecutor cannot use peremptory strikes to exclude jurors on account of race. While a prosecutor must offer a "race-neutral" reason at step two, courts often find that striking jurors based on residency in high-crime neighborhoods serves as an impermissible proxy for race, demonstrating discriminatory intent at step three. (a) is wrong because while it may be facially neutral, courts scrutinize such proxy justifications at step three to determine if they mask intentional discrimination. (b) is wrong because *Batson* allows a defendant to prove discrimination based solely on the facts of their own case. (d) is wrong because prosecutors retain peremptory challenges; they simply cannot use them discriminatorily. (e) is wrong because step two requires only a facial explanation, not documentary proof, though the proxy nature is evaluated at step three.
+**Explanation:** Conspiracy requires the specific intent (purpose) to achieve the unlawful objective. Under Direct Sales Co. v. United States, a provider of lawful goods or services can be shown to have purposeful intent if they have a "stake in the venture," which can be inferred from charging exorbitant, above-market fees or specialized services (Fact 5). Option (b) is wrong because a defendant's self-serving statement to a partner does not conclusively legally negate intent if objective facts (like exorbitant fees) demonstrate a stake. Option (c) is wrong because mere knowledge of illegal conduct is generally insufficient for conspiracy; the prosecution must prove purpose or specific intent. Option (d) is wrong because delivering a briefcase known to contain a cash payoff to a judge is not an inherently neutral act. Option (e) is wrong because attorneys are not strictly liable for their clients' criminal acts; the specific mens rea for conspiracy must still be proven.
 
-**Tags:** chapters: [4], topics: [jury, batson-framework], difficulty: medium, cognitive: analysis
+**Tags:** chapters: [6], topics: [conspiracy agreement, mens rea, direct sales], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 4: batson-framework
+**Grounding:** Direct Sales Co. v. United States, inferring specific intent/purpose from a financial stake or exorbitant fees.
 
-<!-- audit: MUST FIX
-Check 1: Fails. Under the standard federal *Batson* framework, a trial court is NOT required to invalidate a strike based on residency in a high-crime neighborhood. In fact, courts routinely uphold such proxy justifications at Step 3—which forms the core of the "Batson gap" critique taught in Chapter 4. Modern state-level reforms (like WA GR 37) mandate invalidation here, but standard *Batson* does not.
-Check 2: Fails. A well-prepared student would recognize that under standard *Batson*, strikes based on neighborhood demographics often survive review. They might be forced to guess between (a) (which incorrectly says it "must" be upheld at Step 2) and (c) (which incorrectly says it "must" be invalidated).
-Check 3: Fails. The explanation claims courts "often find" this to be an impermissible proxy at Step 3, contradicting the casebook's likely teaching on the `batson-gap`, which emphasizes how often courts *accept* these proxies.
-Check 4: Pass.
-Check 5: Pass.
-Check 6: Pass.
-Check 7: Pass.
-Check 8: Pass.
-Recommended fix: Change the question to test the `batson-gap` directly by asking why the strike is likely to *survive* review under the standard framework. E.g., rewrite the correct answer to: "The court may uphold the strike because residency in a high-crime neighborhood is facially race-neutral at step two, and trial courts frequently accept such proxy explanations at step three."
+<!-- audit: SHOULD FIX
+<check 1>: pass
+<check 2>: pass
+<check 3>: pass
+<check 4>: fails. The question relies on an external fact pattern (referencing "Thorne's statement" in the stem and "Fact 5" in the explanation) that is missing from the prompt. Without the exact text of Thorne's statement, it is impossible to fully evaluate whether option (b) could serve as a defensible distractor for a smart student. 
+<check 5>: pass
+<check 6>: pass
+<check 7>: pass
+<check 8>: pass
+Recommended fix: If this is a standalone question, incorporate the relevant facts (Thorne's statement and the context of his exorbitant fees) directly into the question stem.
 -->

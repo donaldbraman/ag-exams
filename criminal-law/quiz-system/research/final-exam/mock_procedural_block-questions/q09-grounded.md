@@ -1,17 +1,17 @@
-**Q9.** In his closing argument, Thorne urges the jury to acquit Silas to send a democratic protest message against a racially biased system, relying on Paul Butler's framework for race-conscious nullification. According to Butler's framework, is Thorne's argument appropriate for Silas's case?
+**Q9.** Assume that the conspiracy charge against Thorne is dropped, and prosecutors instead charge him as an accomplice to the judge's payoff. Jurisdictions split on whether accomplice liability requires "purpose" or merely "knowledge" to facilitate the crime. How should Thorne's liability be evaluated under these competing standards?
 
-(a) Yes, because Butler explicitly argues that Black jurors have an overriding moral duty to nullify any charges brought by a demonstrably racist prosecution system.
-(b) Yes, because nullification is the most direct form of participatory democracy available to marginalized communities, regardless of the severity of the underlying charge.
-(c) No, because Butler's theoretical proposal strictly limits race-conscious jury nullification to nonviolent offenses, and Silas is currently charged with a violent felony murder. <!-- correct -->
-(d) No, because Butler's nullification proposal requires the defense to present concrete proof that the individual police officers involved were motivated by explicit racial animus.
-(e) No, because jury nullification was historically utilized to protect white perpetrators of racial violence, rendering any modern progressive use of the practice inherently invalid.
+(a) Under a knowledge standard, Thorne is guilty because he knew the briefcase contained cash, whereas a purpose standard might require his financial stake to infer intent. <!-- correct -->
+(b) Under a knowledge standard, Thorne is not guilty because he explicitly disclaimed any desire to reward the judge, defeating both the knowledge and purpose requirements.
+(c) Under a purpose standard, Thorne is automatically guilty because delivering the briefcase constitutes an affirmative act, rendering his internal mental state legally irrelevant.
+(d) Under a purpose standard, Thorne is not guilty because an attorney cannot be held liable as an accomplice when acting within the scope of client representation.
+(e) Under a knowledge standard, Thorne is guilty only if the prosecution can prove the judge actually accepted the cash, whereas purpose liability focuses on his delivery.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Professor Paul Butler's proposal for race-conscious jury nullification explicitly limits the practice to nonviolent offenses, particularly victimless drug crimes. He does not advocate nullification for violent crimes with victims, like felony murder, because the community has a legitimate interest in protection from violence. (a) and (b) are wrong because they ignore the violent/nonviolent distinction central to Butler's framework. (d) is wrong because Butler's argument relies on systemic exclusion and structural bias, not individualized proof of officer animus. (e) is wrong because while the historical dual legacy of nullification exists, Butler specifically argues for repurposing it as a modern democratic tool, making this an inaccurate statement of his framework.
+**Explanation:** The mens rea for accomplice liability is split. Under a knowledge standard, knowing the briefcase contained bribe money (Fact 5) is sufficient to convict. Under the traditional purpose standard (Peoni), the prosecution must prove the defendant specifically intended to facilitate the crime, which might require pointing to Thorne's financial stake to cross the threshold. Option (b) is wrong because explicitly disclaiming a desire to reward the judge does not defeat the knowledge standard, which only requires awareness of the practical certainty of the outcome. Option (c) is wrong because the purpose standard fundamentally relies on evaluating the defendant's internal mental state, not just their affirmative physical act. Option (d) is wrong because an attorney acting within the scope of representation can still be held liable if they purposefully facilitate a substantive crime. Option (e) is wrong because accomplice liability requires aiding or encouraging the principal; it is not strictly contingent on the recipient accepting the bribe.
 
-**Tags:** chapters: [4], topics: [jury-nullification, race], difficulty: medium, cognitive: application
+**Tags:** chapters: [6], topics: [accomplice liability, purpose vs knowledge, peoni], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 4: butler-race-conscious-nullification
+**Grounding:** United States v. Peoni and the doctrinal split between knowledge and purpose for accomplice liability mens rea.
 
-<!-- grounding: GROUNDED — Butler's race-conscious nullification, Ch 4, Refinement `butler-race-conscious-nullification`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — accomplice liability mens rea, Ch 6, Refinement `accomplice-liability-mens-rea`. Rule paraphrased accurately. -->

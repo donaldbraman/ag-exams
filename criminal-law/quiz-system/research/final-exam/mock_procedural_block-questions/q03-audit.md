@@ -1,27 +1,27 @@
-**Q3.** Silas is charged with possession of the packaged cocaine found in the locked bedroom. The prosecution relies on the doctrine of constructive possession. Is the evidence sufficient to establish constructive possession?
+**Q3.** Assume instead that the prosecution charges Willis with felony murder based on the underlying narcotics distribution conspiracy. Willis argues that the city bus was a superseding cause and that the death was unintended. How does the felony murder doctrine apply to Willis regarding the journalist's death?
 
-(a) Yes, because fleeing into a secured house containing illegal drugs automatically establishes joint constructive possession with whoever actually owns the premises.
-(b) Yes, because carrying the only key to the locked bedroom demonstrates he had the power and intention to exercise control over the drugs. <!-- correct -->
-(c) No, because constructive possession requires the defendant to be physically present in the exact room where the contraband is located.
-(d) No, because the state cannot prove he had exclusive ownership of the stash house rather than merely being a temporary trespasser.
-(e) No, because pouring gasoline on drugs in the living room proves he intended to destroy them rather than possess them for distribution.
+(a) Willis is guilty of felony murder because chasing a witness to protect the operation is a reasonably foreseeable consequence in furtherance of the drug conspiracy. <!-- correct -->
+(b) Willis is not guilty of felony murder because the city bus was an unforeseeable superseding cause that legally breaks the chain of proximate causation.
+(c) Willis is guilty of felony murder because the journalist assumed the risk of being struck by running into the street during an active criminal conspiracy.
+(d) Willis is not guilty of felony murder because the journalist's death was not the specific intended object of the underlying fentanyl trafficking conspiracy.
+(e) Willis is not guilty of felony murder because he did not personally inflict the fatal blow that killed the journalist during the warehouse altercation.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Constructive possession exists when a person lacks physical custody of an item but has both the power and intention to exercise dominion and control over it. Holding the only key to the locked room where the drugs were stored demonstrates this power and intent. (a) is wrong because merely being in a house with drugs does not automatically establish constructive possession. (c) is wrong because physical presence in the specific room is not required for constructive possession. (d) is wrong because ownership of the premises is not required if the defendant controls the specific area. (e) is wrong because intent to destroy does not retroactively negate the control and dominion already exercised over the drugs.
+**Explanation:** Felony murder applies when a death occurs during and in furtherance of a qualifying felony, provided the death is a foreseeable consequence. Chasing a witness to prevent them from "ruining" the drug operation (Fact 2) is an act in furtherance of the conspiracy, and running into traffic is highly foreseeable. Option (b) is wrong because running into a busy street is a highly foreseeable consequence of being aggressively chased, meaning the bus is not an unforeseeable superseding cause. Option (c) is wrong because victims fleeing a crime do not legally "assume the risk" of death to shield the perpetrator from liability. Option (d) is wrong because felony murder specifically criminalizes unintended deaths; the death need not be the specific object of the underlying felony. Option (e) is wrong because the defendant need not personally inflict the fatal blow if the death is proximately caused by the in-furtherance actions.
 
-**Tags:** chapters: [15], topics: [constructive-possession, drugs], difficulty: medium, cognitive: application
+**Tags:** chapters: [5], topics: [felony murder, causation, in furtherance], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15: cp-awareness-control
+**Grounding:** Felony murder doctrine and foreseeability of a victim's death during an escape or pursuit.
 
 <!-- audit: MUST FIX
-Check 1: pass (assuming missing facts are incorporated)
+Check 1: finding: Correct answer assumes that a narcotics distribution conspiracy is a qualifying felony for felony murder, which varies heavily by jurisdiction and is not inherently true under common law BARRK limitations.
 Check 2: pass
 Check 3: pass
-Check 4: fail - The stem is completely missing the underlying fact pattern. It uses definite articles ("the packaged cocaine", "the locked bedroom") for facts never introduced, and the options rely on highly specific unstated facts (e.g., carrying the only key, fleeing into a secured house, pouring gasoline). 
-Check 5: pass
+Check 4: finding: Stem relies on an external master fact pattern ("Fact 2" and "the warehouse altercation"). While acceptable in a multi-part exam, it lacks sufficient facts as a standalone question.
+Check 5: finding: MUST FIX. The question fails to stipulate the jurisdiction's felony murder rule. Since the definition of a "qualifying felony" varies wildly (e.g., enumerated BARRK felonies only, inherently dangerous in the abstract, or inherently dangerous as committed), the stem must explicitly stipulate that the conspiracy qualifies to avoid requiring rote assumption or penalizing students who know conspiracy often doesn't qualify.
 Check 6: pass
 Check 7: pass
 Check 8: pass
-Recommended fix: Insert the missing factual scenario into the stem before the call of the question so students have the facts necessary to evaluate the options (e.g., detailing Silas's flight, the gasoline pouring in the living room, and his possession of the sole key to the locked bedroom containing cocaine).
+Recommended fix: Amend the stem to stipulate the jurisdictional rule: "Assume the applicable jurisdiction includes narcotics distribution conspiracy as a qualifying felony for felony murder."
 -->

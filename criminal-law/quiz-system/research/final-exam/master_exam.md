@@ -714,7 +714,7 @@ e. Yes, because the imperfect self-defense doctrine mitigates the killing of any
 
 ---
 
-**Q38.** Under the common law, assume the prosecution pursues a depraved heart murder charge against Locke for the clerk's death. If the jury believes Locke only fired to scare the hijackers and did not subjectively intend to kill the clerk, is his legal argument correct?
+**Q38.** Under the common law, assume the prosecution pursues a depraved heart murder charge against Locke for the clerk's death. If the jury believes Locke only fired to scare the hijackers and did not subjectively intend to kill the clerk, may the jury still convict him of unintentional depraved-heart murder?
 
 a. Yes, because depraved heart murder strictly requires the prosecution to prove the defendant acted with the conscious purpose of killing a specific human being.
 b. No, because firing a high-powered rifle blindly into an occupied convenience store demonstrates a conscious disregard of a substantial and unjustifiable risk, showing extreme indifference to human life. <!-- correct -->
@@ -935,11 +935,11 @@ a. Guilty, because striking Omar occurred continuously during the exact same tim
 b. Guilty, because the lack of a valid driver's license constructively supplies the necessary malice to establish criminal homicide.
 c. Not guilty, because the specific unlawful aspect of lacking a valid license did not causally produce the fatal vehicular collision. <!-- correct -->
 d. Not guilty, because driving with a suspended license is merely a malum prohibitum regulatory offense rather than a malum in se crime.
-e. Not guilty, because the Model Penal Code rejects the misdemeanor manslaughter doctrine entirely in favor of proving actual recklessness.
+e. Not guilty, because the common law famously rejects the misdemeanor manslaughter doctrine entirely in favor of proving actual recklessness.
 
 **Answer:** (c)
 
-**Explanation:** The proximate-cause limitation to misdemeanor manslaughter requires that the specific *unlawful aspect* of the conduct be causally connected to the death. Lacking a valid piece of plastic (the license suspension) does not inherently cause a crash; the dangerous manner of driving (80 mph) causes the crash, but the predicate asked about was strictly the suspended license. Option (b) incorrectly states the strict liability structure without applying the proximate-cause limitation requested by the stem. Option (a) applies a mere "but for" or temporal coincidence test, which the proximate-cause limitation explicitly rejects. Option (d) relies on the malum in se limitation, which is a different doctrine than proximate cause. Option (e) correctly states the MPC rule, but the stem specifies a jurisdiction utilizing the traditional rule's proximate-cause limit.
+**Explanation:** The proximate-cause limitation to misdemeanor manslaughter requires that the specific *unlawful aspect* of the conduct be causally connected to the death. Lacking a valid piece of plastic (the license suspension) does not inherently cause a crash; the dangerous manner of driving (80 mph) causes the crash, but the predicate asked about was strictly the suspended license. Option (b) incorrectly states the strict liability structure without applying the proximate-cause limitation requested by the stem. Option (a) applies a mere "but for" or temporal coincidence test, which the proximate-cause limitation explicitly rejects. Option (d) relies on the malum in se limitation, which is a different doctrine than proximate cause. Option (e) is factually incorrect because the traditional common law created and routinely applies the misdemeanor manslaughter doctrine; it is the Model Penal Code that rejects it.
 
 
 
@@ -1081,7 +1081,7 @@ e. It does not qualify as an enterprise, because federal law requires a legally 
 
 ---
 
-**Q56.** Under the Model Penal Code, which affirmative defense or defenses may Artie validly raise for the theft of the nitrogen tanker?
+**Q56.** Theft in this jurisdiction is defined as "purposely depriving another of their movable property." Assuming Artie was negligent with respect to creating the risk of an explosion, under the Model Penal Code, which affirmative defense or defenses may he validly raise for the theft of the nitrogen tanker?
 
 a. Both necessity, because the theft avoided a greater catastrophic harm, and duress, because he faced an imminent threat of death. <!-- correct -->
 b. Neither, because his initial voluntary participation in the illegal drug operation automatically forecloses both affirmative defenses regardless of threat.
@@ -1113,7 +1113,7 @@ e. Guilty, because providing specialized hotwiring tools to commit a crime autom
 
 ---
 
-**Q58.** Under traditional doctrine, assume that, regardless of your answer to the previous question, Benny acted with the required purpose to aid Artie. How does the classification of Artie's affirmative defense legally impact Benny's derivative liability?
+**Q58.** Assume that, regardless of your answer to the previous question, Benny acted with the required purpose to aid Artie. Under traditional common law doctrine, how does the classification of Artie's affirmative defense legally impact Benny's derivative liability?
 
 a. Benny remains fully liable in all circumstances because derivative accomplice liability irrevocably attaches the moment the principal commits the prohibited physical act.
 b. If Artie succeeds on a duress defense, Benny is shielded from liability because the duress excuse automatically transfers to any accomplice at the scene.
@@ -1177,12 +1177,12 @@ e. Not liable, because Dante was not physically present at the warehouse when th
 
 ---
 
-**Q62.** Under the traditional common law, is Dante guilty of felony murder for the death of Vargas?
+**Q62.** Under the traditional common law, assume the jurisdiction explicitly enumerates illicit drug manufacturing as a predicate offense in its first-degree murder statute. Is Dante guilty of felony murder for the death of Vargas?
 
 a. Guilty, because the modern felony murder rule operates as a strict liability offense that explicitly ignores whether the underlying crime was inherently dangerous.
 b. Not guilty, because Silas's severe mental illness acts as an independent intervening cause that legally breaks the necessary chain of proximate causation.
 c. Not guilty, because the modern agency approach to felony murder categorically bars derivative liability whenever the fatal blow is struck by a co-felon.
-d. Guilty, because the homicide occurred during the perpetration of an inherently dangerous drug manufacturing felony in which Dante was a willing participant. <!-- correct -->
+d. Guilty, because the homicide occurred during the perpetration of an enumerated drug manufacturing felony in which Dante was a willing participant. <!-- correct -->
 e. Not guilty, because Dante completely lacked the specific intent to kill Vargas, which is a mandatory prerequisite for any valid murder conviction.
 
 **Answer:** (d)
@@ -1193,7 +1193,7 @@ e. Not guilty, because Dante completely lacked the specific intent to kill Varga
 
 ---
 
-**Q63.** In a majority jurisdiction, have Leo, Artie, Silas, and Dante legally satisfied the prima facie elements of criminal conspiracy?
+**Q63.** In a jurisdiction that strictly enforces the bilateral requirement for agreement to a conspiracy, have Leo, Artie, Silas, and Dante legally satisfied the prima facie elements of criminal conspiracy?
 
 a. Yes, because the agreement to manufacture Schedule II narcotics is a strict liability conspiracy that does not require any overt act to be prosecutable.
 b. No, because the active presence of an undercover agent is strictly required to establish a legally valid conspiracy prosecution under the traditional Wharton Rule.

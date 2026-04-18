@@ -1,27 +1,27 @@
-**Q9.** In his closing argument, Thorne urges the jury to acquit Silas to send a democratic protest message against a racially biased system, relying on Paul Butler's framework for race-conscious nullification. According to Butler's framework, is Thorne's argument appropriate for Silas's case?
+**Q9.** Assume that the conspiracy charge against Thorne is dropped, and prosecutors instead charge him as an accomplice to the judge's payoff. Jurisdictions split on whether accomplice liability requires "purpose" or merely "knowledge" to facilitate the crime. How should Thorne's liability be evaluated under these competing standards?
 
-(a) Yes, because Butler explicitly argues that Black jurors have an overriding moral duty to nullify any charges brought by a demonstrably racist prosecution system.
-(b) Yes, because nullification is the most direct form of participatory democracy available to marginalized communities, regardless of the severity of the underlying charge.
-(c) No, because Butler's theoretical proposal strictly limits race-conscious jury nullification to nonviolent offenses, and Silas is currently charged with a violent felony murder. <!-- correct -->
-(d) No, because Butler's nullification proposal requires the defense to present concrete proof that the individual police officers involved were motivated by explicit racial animus.
-(e) No, because jury nullification was historically utilized to protect white perpetrators of racial violence, rendering any modern progressive use of the practice inherently invalid.
+(a) Under a knowledge standard, Thorne is guilty because he knew the briefcase contained cash, whereas a purpose standard might require his financial stake to infer intent. <!-- correct -->
+(b) Under a knowledge standard, Thorne is not guilty because he explicitly disclaimed any desire to reward the judge, defeating both the knowledge and purpose requirements.
+(c) Under a purpose standard, Thorne is automatically guilty because delivering the briefcase constitutes an affirmative act, rendering his internal mental state legally irrelevant.
+(d) Under a purpose standard, Thorne is not guilty because an attorney cannot be held liable as an accomplice when acting within the scope of client representation.
+(e) Under a knowledge standard, Thorne is guilty only if the prosecution can prove the judge actually accepted the cash, whereas purpose liability focuses on his delivery.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Professor Paul Butler's proposal for race-conscious jury nullification explicitly limits the practice to nonviolent offenses, particularly victimless drug crimes. He does not advocate nullification for violent crimes with victims, like felony murder, because the community has a legitimate interest in protection from violence. (a) and (b) are wrong because they ignore the violent/nonviolent distinction central to Butler's framework. (d) is wrong because Butler's argument relies on systemic exclusion and structural bias, not individualized proof of officer animus. (e) is wrong because while the historical dual legacy of nullification exists, Butler specifically argues for repurposing it as a modern democratic tool, making this an inaccurate statement of his framework.
+**Explanation:** The mens rea for accomplice liability is split. Under a knowledge standard, knowing the briefcase contained bribe money (Fact 5) is sufficient to convict. Under the traditional purpose standard (Peoni), the prosecution must prove the defendant specifically intended to facilitate the crime, which might require pointing to Thorne's financial stake to cross the threshold. Option (b) is wrong because explicitly disclaiming a desire to reward the judge does not defeat the knowledge standard, which only requires awareness of the practical certainty of the outcome. Option (c) is wrong because the purpose standard fundamentally relies on evaluating the defendant's internal mental state, not just their affirmative physical act. Option (d) is wrong because an attorney acting within the scope of representation can still be held liable if they purposefully facilitate a substantive crime. Option (e) is wrong because accomplice liability requires aiding or encouraging the principal; it is not strictly contingent on the recipient accepting the bribe.
 
-**Tags:** chapters: [4], topics: [jury-nullification, race], difficulty: medium, cognitive: application
+**Tags:** chapters: [6], topics: [accomplice liability, purpose vs knowledge, peoni], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 4: butler-race-conscious-nullification
+**Grounding:** United States v. Peoni and the doctrinal split between knowledge and purpose for accomplice liability mens rea.
 
-<!-- audit: CLEAN
-check 1: pass - Option (c) perfectly aligns with Butler's explicit line-drawing that excludes violent crimes (malum in se) from his race-conscious nullification proposal.
-check 2: pass - The distractors are distinct and represent common misinterpretations of Butler's thesis (e.g., that it applies to all crimes, requires individual racist intent, or that historical misuse categorically prevents modern progressive use). No strong secondary arguments exist.
-check 3: pass - The explanation concisely states Butler's exact rationale regarding community protection and accurately dismantles the distractors.
-check 4: pass - The stem provides the single dispositive fact needed under this framework: that Silas is charged with a violent felony murder.
-check 5: pass - Not a jurisdictional question; the "jurisdiction" is defined by the bounds of Butler's theoretical framework, which the prompt clearly establishes.
-check 6: pass - Mentions felony murder but does not cross into prohibited or needlessly graphic excluded topics (DV/SA).
-check 7: pass - The doctrine is explicitly grounded in Chapter 4 (`butler-race-conscious-nullification`).
-check 8: pass - Exceptional length parity across all options (all between 21 and 25 words). No test-taking meta-gaming vulnerabilities.
-Recommended fix: None needed.
+<!-- audit: MUST FIX
+check 1: Correct-answer accuracy fails. Option (a) states Thorne is guilty under a knowledge standard because he "knew the briefcase contained cash." Mere knowledge of cash does not satisfy the accomplice liability knowledge standard; the accomplice must know of the principal's criminal purpose (i.e., that the cash is a bribe). A prepared student would correctly identify that (a) is legally inaccurate as written.
+check 2: pass
+check 3: Explanation consistency fails. The explanation states the standard is met by "knowing the briefcase contained bribe money," which conflicts with option (a)'s much weaker assertion of knowing it merely contained "cash."
+check 4: The global fact pattern (stem) is entirely missing from the prompt, relying on external context ("Thorne", "Fact 5", "the judge's payoff"). It is impossible to fully evaluate fact-application without the parent scenario.
+check 5: pass
+check 6: pass
+check 7: pass
+check 8: pass
+Recommended fix: Revise option (a) to read: "Under a knowledge standard, Thorne is guilty because he knew the briefcase contained bribe money..." to align with the legal standard and the explanation. (Also ensure the global fact pattern is paired with this question).
 -->

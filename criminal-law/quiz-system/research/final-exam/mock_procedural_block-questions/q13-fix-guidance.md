@@ -2,88 +2,80 @@
 
 The QA pipeline flagged this question. Rewrite `q13.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — grounding
+## Issue 1 — argpass-sonnet
 
-**Q13.** Thorne delivered $20,000 to Senator Vance three days before the bill's introduction. Under federal anti-corruption law (*Snyder v. United States*), how is this payment properly classified?
+**Q13.** Assume for the sake of this question that Carter actually knew the boxes contained evidence of a crime. Applying the Model Penal Code's "substantial step" test versus the common law "dangerous proximity" test, which conclusion is most accurate regarding Carter's liability for attempted destruction of evidence?
 
-(a) It is a bribe, because the payment was made prior to the official act specifically to influence Vance's agreement to sponsor the pending legislation. <!-- correct -->
-(b) It is a gratuity, because Thorne explicitly characterized the transfer as a standard campaign contribution rather than an illicit quid pro quo exchange.
-(c) It is a bribe, because any cash payment to a sitting state legislator exceeding ten thousand dollars automatically triggers federal bribery statutes.
-(d) It is a gratuity, because Senator Vance had not yet formally introduced the legislation, meaning no official action had been fully completed at that time.
-(e) It is neither, because state legislators are exclusively governed by state ethics rules and cannot be prosecuted under federal anti-corruption statutes.
+(a) Carter is guilty under both tests, because driving toward the incinerator with the boxes constitutes both a substantial step and dangerous proximity to the underlying crime.
+(b) Carter is guilty under the substantial step test for strongly corroborating his intent, but he avoids liability under dangerous proximity because he was two miles away. <!-- correct -->
+(c) Carter is guilty under the dangerous proximity test because placing boxes in his trunk created a risk, but he is not guilty under the substantial step test.
+(d) Carter is not guilty under either test, because he had not yet physically arrived at the municipal incinerator or taken the boxes out of his vehicle.
+(e) Carter's liability depends solely on whether the FBI agents had a valid warrant, as an illegal stop automatically nullifies any prior attempt actus reus in criminal law.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Under 18 U.S.C. § 666 and *Snyder v. United States*, the temporal relationship to the official act defines the offense. A bribe is a payment made *before* an official act with the corrupt intent to influence it. A gratuity is a payment made *after* an act as appreciation. Because Thorne paid Vance before the bill was introduced to secure his sponsorship, it is a bribe. (b) is wrong because labeling a bribe a "campaign contribution" does not legally reclassify an explicit quid pro quo exchange. (c) is wrong because there is no automatic $10,000 threshold that converts any payment into a bribe; the quid pro quo intent is required. (d) is wrong because bribery specifically targets the *future* performance of an official act. (e) is wrong because § 666 explicitly applies to state and local officials whose agencies receive federal funding.
+**Explanation:** The Model Penal Code "substantial step" test is broad and focuses on acts that strongly corroborative criminal intent, which Carter satisfied by driving the evidence toward the incinerator (Fact 10). The common law "dangerous proximity" test is stricter, requiring the defendant to be physically very close to completing the crime. Being pulled over two miles away leaves enough physical and temporal distance to potentially avoid liability under proximity. (b) is correct. (a) is wrong because dangerous proximity is typically not satisfied when the defendant is still miles away from the target location. (c) is wrong because the substantial step test is easier to meet than proximity; if he satisfies proximity, he would definitely satisfy substantial step. (d) is wrong because the substantial step test explicitly does not require the defendant to arrive at the final location or complete the last proximate act. (e) is wrong because a Fourth Amendment violation suppresses evidence but does not negate the substantive legal actus reus.
 
-**Tags:** chapters: [5], topics: [corruption-bribe-vs-gratuity, federal-corruption, bribery], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [10], topics: [attempt-actus-reus, substantial-step, dangerous-proximity], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 5, Section: Honest Services Fraud (*Snyder v. United States*)
-
-<!-- GROUNDING-FAIL: Bribery vs. Gratuity (Snyder v. United States) is not in any chapter map. The closest taught doctrines are: Chapter 5 covers only Legality, Vagueness, Lenity, Equal Protection, and Desuetude; nearest tags in Chapter 6 are `code-expansion-one-way-ratchet` and `batchelder-overlapping-statutes`. Correct answer must rely on one of those instead. -->
-
-## Issue 2 — audit
-
-**Q13.** Thorne delivered $20,000 to Senator Vance three days before the bill's introduction. Under federal anti-corruption law (*Snyder v. United States*), how is this payment properly classified?
-
-(a) It is a bribe, because the payment was made prior to the official act specifically to influence Vance's agreement to sponsor the pending legislation. <!-- correct -->
-(b) It is a gratuity, because Thorne explicitly characterized the transfer as a standard campaign contribution rather than an illicit quid pro quo exchange.
-(c) It is a bribe, because any cash payment to a sitting state legislator exceeding ten thousand dollars automatically triggers federal bribery statutes.
-(d) It is a gratuity, because Senator Vance had not yet formally introduced the legislation, meaning no official action had been fully completed at that time.
-(e) It is neither, because state legislators are exclusively governed by state ethics rules and cannot be prosecuted under federal anti-corruption statutes.
-
-**Answer:** (a)
-
-**Explanation:** Under 18 U.S.C. § 666 and *Snyder v. United States*, the temporal relationship to the official act defines the offense. A bribe is a payment made *before* an official act with the corrupt intent to influence it. A gratuity is a payment made *after* an act as appreciation. Because Thorne paid Vance before the bill was introduced to secure his sponsorship, it is a bribe. (b) is wrong because labeling a bribe a "campaign contribution" does not legally reclassify an explicit quid pro quo exchange. (c) is wrong because there is no automatic $10,000 threshold that converts any payment into a bribe; the quid pro quo intent is required. (d) is wrong because bribery specifically targets the *future* performance of an official act. (e) is wrong because § 666 explicitly applies to state and local officials whose agencies receive federal funding.
-
-**Tags:** chapters: [5], topics: [corruption-bribe-vs-gratuity, federal-corruption, bribery], difficulty: intermediate, cognitive: application
-
-**Grounding:** Chapter 5, Section: Honest Services Fraud (*Snyder v. United States*)
-
-<!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: MUST FIX. The stem lacks sufficient facts to establish mens rea (corrupt intent/quid pro quo). It simply states Thorne delivered money before the bill's introduction. Without specifying Thorne's intent, the payment cannot automatically be classified as a bribe. Option (a) assumes facts not provided in the stem ("specifically to influence Vance's agreement").
-check 5: pass
-check 6: pass
-check 7: MUST FIX. Coverage mismatch. *Snyder v. United States*, 18 U.S.C. § 666, and federal bribery/gratuity doctrines are entirely absent from the Meta-Map. Chapter 5 covers Legality, Vagueness, Lenity, Equal Protection, and Desuetude. This question tests a topic outside the scope of the curriculum.
-check 8: pass
-Recommended fix: Delete the question entirely, as the doctrine is not taught in the course. If the topic were in bounds, the stem would still need to be rewritten to explicitly state Thorne's corrupt intent to establish the required quid pro quo exchange.
--->
-
-## Issue 3 — argpass-sonnet
-
-**Q13.** Thorne delivered $20,000 to Senator Vance three days before the bill's introduction. Under federal anti-corruption law (*Snyder v. United States*), how is this payment properly classified?
-
-(a) It is a bribe, because the payment was made prior to the official act specifically to influence Vance's agreement to sponsor the pending legislation. <!-- correct -->
-(b) It is a gratuity, because Thorne explicitly characterized the transfer as a standard campaign contribution rather than an illicit quid pro quo exchange.
-(c) It is a bribe, because any cash payment to a sitting state legislator exceeding ten thousand dollars automatically triggers federal bribery statutes.
-(d) It is a gratuity, because Senator Vance had not yet formally introduced the legislation, meaning no official action had been fully completed at that time.
-(e) It is neither, because state legislators are exclusively governed by state ethics rules and cannot be prosecuted under federal anti-corruption statutes.
-
-**Answer:** (a)
-
-**Explanation:** Under 18 U.S.C. § 666 and *Snyder v. United States*, the temporal relationship to the official act defines the offense. A bribe is a payment made *before* an official act with the corrupt intent to influence it. A gratuity is a payment made *after* an act as appreciation. Because Thorne paid Vance before the bill was introduced to secure his sponsorship, it is a bribe. (b) is wrong because labeling a bribe a "campaign contribution" does not legally reclassify an explicit quid pro quo exchange. (c) is wrong because there is no automatic $10,000 threshold that converts any payment into a bribe; the quid pro quo intent is required. (d) is wrong because bribery specifically targets the *future* performance of an official act. (e) is wrong because § 666 explicitly applies to state and local officials whose agencies receive federal funding.
-
-**Tags:** chapters: [5], topics: [corruption-bribe-vs-gratuity, federal-corruption, bribery], difficulty: intermediate, cognitive: application
-
-**Grounding:** Chapter 5, Section: Honest Services Fraud (*Snyder v. United States*)
+**Grounding:** Model Penal Code § 5.01 (Substantial Step) vs. Common Law Attempt (Dangerous Proximity)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under *Snyder v. United States* and 18 U.S.C. § 666, the critical distinction between a bribe and a gratuity is the temporal arrangement and the presence of a *quid pro quo*. Because the payment was made *prior* to the official act (introduction of the bill), it strongly infers a forward-looking corrupt intent to influence. Option (a) accurately aligns the ex ante timing with the legal definition of bribery, making it the most doctrinally sound choice.
-(b) Argument-for: Under *McCormick v. United States*, campaign contributions walk a fine line with bribery and require an explicit *quid pro quo* to be criminalized. A student could argue that if Thorne characterized the payment as a standard contribution—and the prompt lacks explicit facts proving a corrupt bargain—the payment cannot be a bribe. Therefore, it might be classified as a gratuity or a lawful contribution, respecting the presumption against criminalizing standard political donations.
-(c) Argument-for: Federal anti-corruption law under 18 U.S.C. § 666 contains specific jurisdictional dollar thresholds (e.g., $10,000 in federal funding, $5,000 transaction value). A student might plausibly confuse these jurisdictional triggers with a strict-liability substantive threshold, concluding that a $20,000 cash payment to a legislator is so large that it automatically constitutes a bribe as a matter of law, bypassing the need for subjective intent.
-(d) Argument-for: Bribery requires an agreement regarding an official act. A student could argue that because the bill had not yet been formally introduced, the "official act" was not yet ripe or completed. Therefore, the payment could only be considered a gratuity (a reward for general preliminary support or drafting) rather than a bribe for a completed, definitively agreed-upon official act. 
-(e) Argument-for: *Snyder v. United States* (2024) heavily emphasized federalism, warning against interpreting federal statutes in a way that would subject state and local officials to federal prosecution for run-of-the-mill state ethics violations. A student could extrapolate from this holding that the Supreme Court categorically exempted state legislators from federal anti-corruption statutes, leaving them "exclusively governed by state ethics rules."
+(a) Argument-for: Under a flexible reading of the common law dangerous proximity test, the gravity of the harm and the apprehension of the defendant are weighed against the spatial distance. Because Carter had the specific intent to destroy evidence and the physical means in his vehicle, his drive toward the incinerator placed him in dangerous proximity to success. Thus, he has completed the actus reus under both the MPC substantial step and common law proximity tests.
+(b) Argument-for: The MPC's substantial step test criminalizes acts that strongly corroborate the actor's criminal purpose, such as gathering materials and moving toward the crime scene. Carter easily satisfies this by driving toward the incinerator with the evidence. Conversely, the common law dangerous proximity test strictly requires the actor to be physically close to completion. Being two miles away leaves enough spatial and temporal distance that he could still turn back, meaning he avoids liability under proximity.
+(c) Argument-for: Placing the boxes in the trunk removes the evidence from its original, secure location, creating an immediate danger of its permanent loss. Thus, Carter is guilty under the dangerous proximity test because the risk of destruction is imminent. However, under the MPC, one could argue that merely putting boxes in a car does not strongly corroborate intent to destroy them without further context, meaning he might fail the substantial step test.
+(d) Argument-for: Criminal attempt requires more than mere preparation under both the MPC and the common law. Because Carter was still two miles away and had not yet arrived at the incinerator or removed the boxes, his actions constitute mere preparation. Until he is at the location and ready to commit the act, he has not taken a substantial step or reached dangerous proximity. Thus, he is not guilty under either test.
+(e) Argument-for: Criminal liability cannot be established if the foundational evidence is obtained unconstitutionally. If the FBI stop was illegal, all subsequent evidence regarding the boxes and Carter's intent must be excluded under the exclusionary rule. Without this evidence, the attempt actus reus is practically nullified, making his liability depend solely on the validity of the warrant.
 
-Head-to-head: Option (a) is the only choice that correctly identifies the forward-looking *quid pro quo* intent as the hallmark of a bribe. However, the question stem is flawed: the prompt itself does not contain the facts establishing Thorne's intent (the *quid pro quo*), meaning option (a) supplies the necessary facts ("specifically to influence Vance's agreement") rather than just stating a legal conclusion derived from the prompt. Despite this drafting flaw, the distractors all fail due to explicitly false claims of law. (b) falsely claims that a donor's subjective characterization controls the legal classification. (c) falsely relies on an "automatic trigger." (d) fails because the incomplete nature of an act actually points *away* from a gratuity (which is typically an ex post reward for a completed act). (e) falsely relies on a categorical exemption for state officials. 
+Head-to-head: Option (b) is the clear winner because it accurately applies the canonical distinction between the MPC (which focuses on strongly corroborative steps like driving toward the scene) and the common law (which requires physical proximity to the target). Option (a) incorrectly claims two miles of distance satisfies dangerous proximity. Option (c) incorrectly inverts the stringency of the tests. Option (d) incorrectly implies that physical arrival is necessary for the MPC substantial step test. Option (e) falsely conflates evidentiary suppression with the substantive negation of the actus reus. While (b) is undoubtedly the best legal answer, distractors (a), (c), and (d) lack the absolute words mandated by the strict close-call standard to formally lock their false propositions against subjective, outlier arguments, requiring minor revisions.
 
 Falsifiable claim per distractor:
-- (b): "because Thorne explicitly characterized the transfer as a standard campaign contribution" — wrong because a defendant's subjective label or characterization does not legally preclude a transaction from being classified as a bribe if a *quid pro quo* exists.
-- (c): "automatically triggers federal bribery statutes" — wrong because federal bribery requires corrupt intent (*mens rea*); no dollar amount functions as a strict-liability automatic trigger.
-- (d): "It is a gratuity, because Senator Vance had not yet formally introduced the legislation" — wrong because a gratuity is a reward for a *past* act; the fact that the action was not yet completed is indicative of a forward-looking bribe, not a gratuity.
-- (e): "exclusively governed by state ethics rules and cannot be prosecuted under federal anti-corruption statutes" — wrong because 18 U.S.C. § 666 explicitly applies to state and local officials whose agencies receive over $10,000 in federal funds.
+- (a): "driving toward the incinerator with the boxes constitutes both a substantial step and dangerous proximity" — wrong because being two miles away canonically fails the dangerous proximity test (which requires physical closeness), but it lacks an absolute word to preclude outlier jurisdictional arguments.
+- (c): "he is not guilty under the substantial step test" — wrong because driving with the materials strongly corroborates intent under the MPC, but it lacks an absolute modifier.
+- (d): "because he had not yet physically arrived at the municipal incinerator or taken the boxes out" — wrong because the MPC substantial step test explicitly does not require arriving at the final location, but lacks an absolute word asserting arrival is always required.
+- (e): "an illegal stop automatically nullifies any prior attempt actus reus" — wrong because Fourth Amendment suppression prevents the introduction of evidence; it does not legally erase the substantive criminal actus reus itself.
 
-Recommended fix: Add the *mens rea* / intent to the prompt so option (a) does not have to invent facts. Change the first sentence to: "Thorne delivered $20,000 to Senator Vance three days before the bill's introduction, pursuant to an agreement that Vance would sponsor the legislation."
+Recommended fix: Add absolute words to lock the false claims in (a), (c), and (d).
+- (a) Change to: "...driving toward the incinerator with the boxes categorically constitutes both..."
+- (c) Change to: "...but he is automatically not guilty under the substantial step test."
+- (d) Change to: "Carter is not guilty under either test, because attempt liability always requires that a defendant physically arrive..."
+-->
+
+## Issue 2 — argpass-opus
+
+**Q13.** Assume for the sake of this question that Carter actually knew the boxes contained evidence of a crime. Applying the Model Penal Code's "substantial step" test versus the common law "dangerous proximity" test, which conclusion is most accurate regarding Carter's liability for attempted destruction of evidence?
+
+(a) Carter is guilty under both tests, because driving toward the incinerator with the boxes constitutes both a substantial step and dangerous proximity to the underlying crime.
+(b) Carter is guilty under the substantial step test for strongly corroborating his intent, but he avoids liability under dangerous proximity because he was two miles away. <!-- correct -->
+(c) Carter is guilty under the dangerous proximity test because placing boxes in his trunk created a risk, but he is not guilty under the substantial step test.
+(d) Carter is not guilty under either test, because he had not yet physically arrived at the municipal incinerator or taken the boxes out of his vehicle.
+(e) Carter's liability depends solely on whether the FBI agents had a valid warrant, as an illegal stop automatically nullifies any prior attempt actus reus in criminal law.
+
+**Answer:** (b)
+
+**Explanation:** The Model Penal Code "substantial step" test is broad and focuses on acts that strongly corroborate criminal intent, which Carter satisfied by driving the evidence toward the incinerator (Fact 10). The common law "dangerous proximity" test is stricter, requiring the defendant to be physically very close to completing the crime. Being pulled over two miles away leaves enough physical and temporal distance to potentially avoid liability under proximity. (b) is correct. (a) is wrong because dangerous proximity is typically not satisfied when the defendant is still miles away from the target location. (c) is wrong because the substantial step test is easier to meet than proximity; if he satisfies proximity, he would definitely satisfy substantial step. (d) is wrong because the substantial step test explicitly does not require the defendant to arrive at the final location or complete the last proximate act. (e) is wrong because a Fourth Amendment violation suppresses evidence but does not negate the substantive legal actus reus.
+
+**Tags:** chapters: [10], topics: [attempt-actus-reus, substantial-step, dangerous-proximity], difficulty: hard, cognitive: analysis
+
+**Grounding:** Model Penal Code § 5.01 (Substantial Step) vs. Common Law Attempt (Dangerous Proximity)
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student could argue that packing the boxes and driving directly to the incinerator set a chain of events in motion that would inevitably end in destruction. Under a broad interpretation of the common law, driving to the site places the defendant in dangerous proximity to success, satisfying both the MPC and the common law attempt tests.
+(b) Argument-for: This tracks the doctrinal distinction between the Model Penal Code and the common law. Under MPC § 5.01, driving the evidence strongly corroborates criminal purpose, satisfying the "substantial step" actus reus. However, the common law "dangerous proximity to success" test requires the defendant to be very near completion; being two miles away fails this strict standard.
+(c) Argument-for: A student might theorize that placing the boxes in the trunk creates a specific "danger" to the evidence, satisfying the dangerous proximity test. They might then incorrectly assume the MPC's "substantial step" test is even more rigorous, requiring the final physical step before completion, thus concluding Carter satisfies proximity but fails substantial step.
+(d) Argument-for: A student might apply an overly strict interpretation of attempt liability, concluding that "mere preparation" always extends until the defendant arrives at the target location. Because Carter was arrested two miles away, the student could argue that he lacked the requisite overt act under both tests because the actual crime was still entirely remote.
+(e) Argument-for: This option appeals to a student conflating substantive criminal law with criminal procedure. Because an illegal stop suppresses evidence under the exclusionary rule, a student might incorrectly assume this procedural remedy (the "fruit of the poisonous tree") legally and automatically nullifies the substantive criminal attempt actus reus itself.
+
+Head-to-head: Option (b) is the clear doctrinal winner, accurately contrasting the broader MPC substantial step test with the stricter common law dangerous proximity test. Option (e) is an excellent distractor because it explicitly asserts a false legal rule (procedural suppression nullifying substantive actus reus) using absolute language ("automatically nullifies"). However, options (a), (c), and (d) fail the close-call standard because they rely on debatable factual applications or implicit legal misstatements rather than hardened, categorical legal falsehoods. In particular, (a) merely states a conclusion that Carter's actions constitute dangerous proximity, which is factually weak but lacks the absolute phrasing necessary to make it an unambiguously false legal claim in all jurisdictions. 
+
+Falsifiable claim per distractor:
+- (a): "driving toward the incinerator with the boxes constitutes both a substantial step and dangerous proximity" — wrong because two miles away is doctrinally considered mere preparation under common law, but lacks absolute language to make it categorically false.
+- (c): "guilty under the dangerous proximity test... but he is not guilty under the substantial step test" — wrong because it reverses the breadth of the tests (substantial step is broader), but lacks explicit absolute phrasing.
+- (d): "because he had not yet physically arrived at the municipal incinerator" — wrong because the MPC expressly allows liability prior to physical arrival, but phrased as a factual conclusion rather than a categorical legal rule.
+- (e): "an illegal stop automatically nullifies any prior attempt actus reus" — wrong because the exclusionary rule suppresses evidence; it does not legally erase substantive conduct.
+
+Recommended fix: Lock the distractors with absolute language to ensure explicit legal falsehoods. 
+Edit (a) to: "(a) Carter is guilty under both tests, because driving toward a crime scene categorically satisfies the dangerous proximity test in every jurisdiction."
+Edit (c) to: "(c) Carter is guilty under the dangerous proximity test, but he is not guilty under the substantial step test, because the MPC always requires physical arrival at the scene."
+Edit (d) to: "(d) Carter is not guilty under either test, because attempt liability categorically requires the defendant to have physically arrived at the target location regardless of the test applied."
 -->

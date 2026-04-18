@@ -1,17 +1,17 @@
-**Q1.** Silas files a motion to suppress the evidence gathered after the traffic stop, arguing that the stop violated the Fourth Amendment because internal communications proved it was purely a pretext for a drug investigation. Is the stop constitutional under *Whren v. United States*?
+**Q1.** As prosecutors review the initial loading of the unmarked crates, they must establish Vance's liability for the drugs. Assume that Vance never physically handled the crates himself. Under the doctrine of constructive possession, how should Vance's liability for the fentanyl crates be evaluated?
 
-(a) Yes, because an officer's subjective motivation does not invalidate a stop so long as objective probable cause of a traffic violation exists. <!-- correct -->
-(b) Yes, because a cracked taillight creates a reasonable suspicion that the vehicle might be transporting illegal narcotics across state lines.
-(c) No, because the police communications proved their primary objective was investigating drugs rather than enforcing standard traffic safety regulations.
-(d) No, because pretextual stops are only permissible if the alleged traffic violation constitutes a misdemeanor rather than a mere infraction.
-(e) No, because the officers failed to issue a traffic citation before escalating the encounter into a full narcotics investigation.
+(a) Vance possesses the fentanyl because his remote ability to reroute the trucks establishes his power and intent to exercise dominion over the contraband. <!-- correct -->
+(b) Vance does not possess the fentanyl because he lacked actual physical custody of the unmarked crates at the time they were loaded onto the trucks.
+(c) Vance does not possess the fentanyl because directing warehouse managers constitutes mere facilitation rather than direct dominion and control over the drugs.
+(d) Vance possesses the fentanyl because his role as corporate CEO automatically imputes possession of all company cargo to him under vicarious liability.
+(e) Vance does not possess the fentanyl because the crates were comingled with legitimate cargo, precluding him from exercising exclusive control over the drugs.
 
 **Answer:** (a)
 
-**Explanation:** Under *Whren v. United States*, a traffic stop is constitutional under the Fourth Amendment as long as officers have objective probable cause to believe a traffic violation occurred (here, the cracked taillight). The officers' subjective motivation (an unsupported hunch about drugs) is irrelevant to the Fourth Amendment analysis. (b) is incorrect because a cracked taillight does not create reasonable suspicion of narcotics transport. (c) is incorrect because subjective intent is disregarded under *Whren*. (d) is incorrect because there is no misdemeanor limitation on pretextual stops. (e) is incorrect because the constitutionality of the initial stop does not depend on whether a citation is ultimately issued.
+**Explanation:** Constructive possession applies when a defendant lacks actual physical custody but possesses the power and intention to exercise dominion and control over an object. By using his authority to direct the loading of fentanyl and maintaining remote control to reroute the trucks (Fact 1), Vance established constructive possession. Option (b) is wrong because actual physical custody is not required. Option (c) is wrong because directing subordinates and controlling vehicle routes constitutes direct dominion, not mere facilitation. Option (d) is wrong because criminal possession requires specific power and intent over the contraband, not strict vicarious liability based merely on a corporate title. Option (e) is wrong because exclusive control is not required; joint or comingled possession still qualifies if the requisite dominion and control are present.
 
-**Tags:** chapters: [6], topics: [prosecutors, fourth-amendment, pretextual-stops], difficulty: easy, cognitive: application
+**Tags:** chapters: [4], topics: [constructive possession, actus reus], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 6: whren-pretext-constitutional
+**Grounding:** Constructive possession requires power and intention to exercise control over the object.
 
-<!-- grounding: GROUNDED — Whren pretextual stops, Ch 6, Refinement `whren-pretext-constitutional`. Rule paraphrased accurately. -->
+<!-- GROUNDING-FAIL: constructive possession is not in any chapter map. The closest taught doctrines are: N/A (meta-map missing from prompt context). Correct answer must rely on one of those instead. -->
