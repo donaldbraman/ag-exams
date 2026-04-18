@@ -144,14 +144,7 @@ class BuildScenarioWorkflow:
                 package_json=package_json,
             )
 
-        # Human review gate
-        self._human_approved = False
-        self._status["phase"] = "awaiting-review"
-        workflow.logger.info(
-            f"Scenario {scenario_name} ready for review. "
-            "Send 'approve_scenario' signal to continue."
-        )
-        await workflow.wait_condition(lambda: self._human_approved)
+        # Human review gate removed per user request
 
         questions_text = await self._write_and_verify(config, scenario, package_json)
 
