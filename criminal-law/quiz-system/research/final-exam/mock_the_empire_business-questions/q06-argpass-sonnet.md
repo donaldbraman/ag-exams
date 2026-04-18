@@ -1,0 +1,35 @@
+Local PD just forwarded us a homicide file that intersects with our Apex investigation. Locke was involved in a shootout on his route. Analyze Locke's liability for acquiring the new weapon and the resulting homicide, and evaluate whether we can hook Thorne for the fallout.
+
+**Q6.** The government charges Locke with "using" a firearm during and in relation to a drug trafficking crime under 18 U.S.C. § 924(c), based solely on his transaction exchanging the fentanyl for the AR-15. Locke moves to dismiss this specific charge. Under controlling Supreme Court precedent, how should the court rule?
+
+(a) Deny the motion, because actively trading illegal narcotics to acquire a firearm is legally indistinguishable from trading a firearm to acquire narcotics.
+(b) Deny the motion, because Locke expressly stated he needed the rifle for "heavier firepower," demonstrating an intent to deploy the weapon in the future.
+(c) Grant the motion, because only the party tendering the firearm in a barter transaction uses it as currency, whereas the party receiving the gun does not. <!-- correct -->
+(d) Grant the motion, because Justice Ginsburg's controlling concurrence established that "use" strictly requires discharging the weapon during the transaction.
+(e) Grant the motion, because the transaction involved fentanyl rather than a traditional narcotic, which legally exempts the exchange from the federal statute.
+
+**Answer:** (c)
+
+**Explanation:** Under *Watson v. United States*, a person who receives a firearm in exchange for drugs does not "use" the firearm under § 924(c). Only the party offering the gun as payment (as in *Smith v. United States*) "uses" it as currency. (a) is wrong because the Court specifically distinguishes the two directions of the trade. (b) is wrong because future intended deployment does not constitute active "use" during the immediate transaction. (d) is wrong because Justice Ginsburg's view (that "use" must mean use as a weapon) was a concurrence and would have required overturning *Smith*; the majority simply held that receiving a gun is not using it. (e) is wrong because fentanyl is a federally controlled substance and trafficking it triggers the statute.
+
+**Tags:** chapters: [15], topics: [Watson rule, 924(c) use], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 15, "Using" a Firearm Under § 924(c) (Watson v. United States)
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student could argue that under *Smith v. United States*, the Supreme Court established that trading a firearm in a drug transaction constitutes "use" of that firearm. Since a barter transaction is a singular exchange where both items act as consideration, the distinction between which party brings the drugs and which brings the gun might seem like a semantic technicality rather than a substantive difference. Therefore, a student could conclude that actively trading narcotics for a firearm is legally indistinguishable from the reverse, making Locke liable under § 924(c).
+(b) Argument-for: A student could argue that while mere possession or receipt of a firearm is not "use" under *Bailey v. United States*, expressing a specific intent to employ the weapon elevates the conduct. By expressly stating his intended deployment for "heavier firepower," a student might believe Locke moved beyond passive receipt and injected the weapon's purpose into the drug crime. Thus, they could conclude his stated intent to deploy the weapon in the future is sufficient to deny the motion.
+(c) Argument-for: A student could argue that under *Watson v. United States*, the Supreme Court drew a firm line between the two sides of a guns-for-drugs trade. While *Smith* held that the person offering the gun as payment "uses" it, *Watson* clarified that the person receiving the gun does not. Therefore, since Locke only received the AR-15 in exchange for fentanyl, the motion to dismiss the "use" charge must be granted because receiving a gun is not using it.
+(d) Argument-for: A student could argue that the Supreme Court's jurisprudence on § 924(c) has progressively narrowed the definition of "use." A student might recall Justice Ginsburg's skepticism in these cases and mistakenly believe she authored a controlling concurrence redefining "use" strictly to its function as a weapon. Thus, the student would conclude that "use" strictly requires discharging or physically employing the weapon during the transaction, mandating dismissal of Locke's charge.
+(e) Argument-for: A student could argue that federal drug trafficking statutes often differentiate between traditional narcotics and synthetic opioids. They might mistakenly believe that because fentanyl is a synthetic opioid, it requires a different statutory trigger or is exempt from the specific predicate drug trafficking crimes under § 924(c). Therefore, they would conclude the unique nature of fentanyl legally exempts the exchange from the federal statute.
+
+Head-to-head: Option (c) is the correct answer because it accurately applies *Watson v. United States*, distinguishing the receipt of a firearm from its use as currency. Option (a) presents a strong distractor but relies on a claim that is explicitly false under *Watson*. Option (d) relies on a fabricated controlling concurrence and an incorrect legal standard (strict discharge requirement). Option (e) relies on an easily falsifiable claim, as fentanyl is definitively a federally controlled substance. Option (b), however, lacks an absolute, falsifiable legal rule; it relies on an implicit premise that stating an intent to deploy a weapon in the future satisfies the "use" requirement, which violates the close-call standard requiring explicit false legal claims.
+
+Falsifiable claim per distractor:
+- (a): "actively trading illegal narcotics to acquire a firearm is legally indistinguishable from trading a firearm to acquire narcotics" — wrong because *Watson* explicitly distinguishes the two directions of the trade.
+- (b): None. The distractor asserts that Locke's statements demonstrate an intent to deploy the weapon in the future, but it does not contain an explicit, absolute false legal claim that future intent automatically equals "use."
+- (d): "Justice Ginsburg's controlling concurrence established that 'use' strictly requires discharging the weapon" — wrong because there is no such controlling concurrence, and *Smith* establishes that trading a gun for drugs is "use" without any discharge.
+- (e): "which legally exempts the exchange from the federal statute" — wrong because fentanyl is a federally controlled substance and triggers the statute's drug trafficking provisions.
+
+Recommended fix: Change (b) to: "Deny the motion, because expressing an intent to deploy a newly acquired weapon in the future categorically qualifies as active 'use' under the statute."
+-->

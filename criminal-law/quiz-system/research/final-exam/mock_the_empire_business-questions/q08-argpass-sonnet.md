@@ -1,0 +1,33 @@
+**Q8.** Assume the prosecution pursues a depraved heart (extreme indifference) murder charge against Locke for the clerk's death. Locke argues that because he only fired to scare the hijackers and did not subjectively intend to kill the clerk, he cannot be convicted of murder. Is Locke's legal argument correct?
+
+(a) Yes, because depraved heart murder strictly requires the prosecution to prove the defendant acted with the conscious purpose of killing a specific human being.
+(b) Yes, because firing a weapon strictly to scare attackers is a legally recognized mitigating circumstance that automatically reduces any resulting death to manslaughter.
+(c) No, because firing a high-powered rifle blindly into an occupied convenience store demonstrates a conscious disregard of a substantial and unjustifiable risk, showing extreme indifference to human life. <!-- correct -->
+(d) No, because the felony murder rule automatically converts any accidental death occurring during a commercial delivery route into first-degree intentional murder.
+(e) No, because the transferred intent doctrine perfectly transfers his intent to scare the hijackers into the specific intent to premeditate the clerk's murder.
+
+**Answer:** (c)
+
+**Explanation:** Depraved heart (extreme indifference) murder does not require the specific intent to kill. It requires recklessness (conscious disregard of a substantial and unjustifiable risk) under circumstances manifesting an extreme indifference to the value of human life. Firing a rifle blindly into an occupied store easily satisfies this standard. (a) is wrong because it incorrectly describes extreme indifference murder as requiring specific intent. (b) is wrong because "intending to scare" does not automatically mitigate extreme recklessness to manslaughter. (d) is wrong because commercial deliveries are not inherently dangerous enumerated felonies, and felony murder does not convert accidents into "intentional" murder. (e) is wrong because transferred intent applies when the defendant intends to kill person A but kills person B; Locke only intended to scare, so there is no intent to kill to transfer.
+
+**Tags:** chapters: [13], topics: [extreme indifference murder, unintentional homicide, depraved heart], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 13, Extreme Indifference Standard
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could argue that true murder requires malice aforethought, traditionally understood as an intent to kill or cause grievous bodily harm. Because depraved heart murder is a sub-category of murder, an advocate might claim that it still demands a constructive or conscious purpose to kill a specific victim to differentiate it from mere manslaughter. Under this rigid (and incorrect) reading of murder's mens rea, Locke's lack of subjective intent to kill would make his legal argument correct, validating option (a).
+(b) Argument-for: Firing to scare hijackers involves a defensive motive, touching upon doctrines like imperfect self-defense. A student might argue that acting to repel attackers, even recklessly, negates "depraved heart" malice because the underlying motive is self-preservation rather than an extreme indifference to human life. If this mitigation applied, the law would reduce the homicide to manslaughter, making option (b) arguably correct.
+(c) Argument-for: Extreme indifference murder is defined by a mens rea of recklessness that is so severe it demonstrates a depraved heart. By firing a high-powered rifle blindly into an occupied store, Locke consciously disregarded a massive, unjustifiable risk of death. This conduct perfectly satisfies the elements of the charge, nullifying his defense that he lacked subjective intent to kill.
+(d) Argument-for: The felony murder rule holds defendants strictly liable for deaths occurring during the commission of certain actions. A student completely misunderstanding the bounds of felony murder might argue that any dangerous activity (like discharging a weapon during a commercial route) triggers strict liability for homicide. Under this twisted logic, the accidental death is legally converted into first-degree murder, making option (d) the reason Locke's argument fails.
+(e) Argument-for: The doctrine of transferred intent ensures defendants cannot escape liability merely because they harm the wrong victim. If Locke had the specific intent to commit an assault by scaring the hijackers, a student might argue this malicious intent seamlessly transfers to the clerk. Because the intent transfers, the student could mistakenly argue it legally elevates into the premeditated murder of the unintended victim.
+
+Head-to-head: Option (c) clearly and correctly applies the depraved heart murder standard to the facts, demonstrating why Locke's lack of subjective intent to kill is not a valid defense. Distractor (a) introduces a patently false requirement that extreme indifference murder needs a conscious purpose to kill. Distractor (b) relies on an invented rule that "intending to scare" categorically mitigates the crime to manslaughter. Distractor (d) invents a bizarre application of felony murder, falsely claiming a commercial delivery route triggers it and that it converts accidents to "intentional" murder. Distractor (e) misapplies transferred intent, falsely stating it can upgrade an intent to scare into the specific intent to premeditate. All distractors contain lock-tight falsifiable errors, leaving (c) as the undisputed correct answer.
+
+Falsifiable claim per distractor:
+- (a): "strictly requires... the conscious purpose of killing a specific human being" — wrong because extreme indifference murder is expressly defined by unintentional extreme recklessness, not conscious purpose.
+- (b): "automatically reduces any resulting death to manslaughter" — wrong because an intent to scare attackers does not categorically negate extreme indifference murder or automatically trigger manslaughter mitigation.
+- (d): "automatically converts any accidental death occurring during a commercial delivery route into first-degree intentional murder" — wrong because commercial delivery is not an inherently dangerous felony, and felony murder does not render a death "intentional."
+- (e): "perfectly transfers his intent to scare... into the specific intent to premeditate" — wrong because transferred intent cannot magically elevate a lower mens rea (intent to scare) into a higher one (premeditated intent to kill).
+
+Recommended fix: none
+-->

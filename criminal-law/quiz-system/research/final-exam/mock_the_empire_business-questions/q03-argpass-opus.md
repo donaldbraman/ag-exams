@@ -1,0 +1,33 @@
+**Q3.** Assume Thorne is additionally charged as an accomplice to Vance's substantive drug distribution. Thorne argues he cannot be convicted as an accomplice because he lacked the "purpose" to promote the crime, merely routing the crates while harboring personal disdain for the operation. How should the court rule on this defense?
+
+(a) Thorne is not guilty as an accomplice, because mere knowledge of the principal's criminal actions never establishes accomplice liability under any legal standard.
+(b) Thorne is not guilty as an accomplice, because his personal disdain for the drug trade proves his objective was exclusively to earn lawful compensation.
+(c) Thorne is guilty as an accomplice, because any employee who follows a supervisor's illegal orders is automatically strictly liable as a co-principal.
+(d) Thorne is guilty as an accomplice, because his twenty percent salary premium establishes a purposeful desire to facilitate the underlying drug distribution. <!-- correct -->
+(e) Thorne is guilty as an accomplice, because the common law always equates mere physical presence at a facility with the purpose to assist the crime.
+
+**Answer:** (d)
+
+**Explanation:** Accomplice liability requires that the defendant act with the "purpose" of promoting or facilitating the commission of the offense. As in conspiracy, a financial stake in the success of the crime (the 20% bump) demonstrates the requisite purpose to facilitate it, even if the defendant's broader emotional attitude is disdain. (a) is wrong because while mere knowledge is insufficient, the financial premium elevates his involvement to purpose. (b) is wrong because personal disdain does not negate purposeful facilitation aimed at securing a financial reward. (c) is wrong because accomplice liability requires specific intent, not strict liability for following orders. (e) is wrong because mere presence is never sufficient for accomplice liability.
+
+**Tags:** chapters: [18], topics: [accomplice liability, purpose vs knowledge], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 18, Mens Rea: Purpose vs. Knowledge
+
+<!-- argument-pass: MUST FIX
+(a) Argument-for: A student could argue that under the classic *Peoni* standard, an accomplice must associate themselves with the venture and participate in it as something they wish to bring about. Mere knowledge of a principal's criminal actions is widely taught as insufficient for accomplice liability. By adopting the strict "purpose" requirement of the Model Penal Code, one could assert that knowledge categorically fails to meet the threshold for accomplice liability across standard formulations.
+(b) Argument-for: A student could argue that specific intent requires a true desire for the criminal result. If Thorne harbors personal disdain and only routes crates, his intent is tied strictly to his job duties, not the crime. The defense could successfully argue that his emotional distaste for the drugs means his sole objective was securing his everyday paycheck, thus precluding a finding of the required "purpose."
+(c) Argument-for: A student could defend this by analogizing to doctrines where employees committing the actus reus on orders are held directly liable as primary actors. The argument would assert that actively executing the physical acts of a crime (routing crates) under a supervisor's orders makes one a principal in the first degree. The student might mistakenly believe that criminal law applies strict liability to the affirmative execution of illegal acts regardless of personal intent.
+(d) Argument-for: A student could argue that a financial stake in a criminal venture is the classic method for elevating mere knowledge to purpose. Relying on doctrines established in cases like *Lauria*, charging a premium for illicit services demonstrates a vested interest in the crime's success. Even if Thorne has personal disdain, his acceptance of a 20% premium for the illegal crates establishes the requisite purpose to facilitate the distribution.
+(e) Argument-for: A student could mistakenly rely on the concept that presence combined with an active job duty equates to complicity. The argument would be that while mere passive presence is insufficient, presence at a facility while actively performing job duties (routing crates) is legally equated with purpose. Thus, by remaining at the facility and physically interacting with the crates, the common law imputes the necessary purpose to assist.
+
+Head-to-head: Option (d) correctly states the legal doctrine that a financial stake elevates knowledge to purpose, but it relies on a fatal factual flaw: the "twenty percent salary premium" is completely missing from the question stem. This omission makes (d) unchoosable based strictly on the provided text, rendering distractors like (a) and (b) arguably stronger to a careful reader. Meanwhile, the distractors all contain cleanly falsifiable absolute claims. Option (a) relies on "never... under any legal standard," which is false because facilitation statutes or severe-crime exceptions allow knowledge to suffice. Option (b) makes the definitive but legally unsound leap that personal disdain "proves" exclusivity of lawful compensation. Option (c) invents an "automatically strictly liable" standard for employees. Option (e) falsely claims the common law "always equates mere physical presence" with purpose, directly contradicting actual doctrine.
+
+Falsifiable claim per distractor:
+- (a): "never establishes accomplice liability under any legal standard" — wrong because statutory "facilitation" offenses and certain jurisdictional rules for serious felonies allow knowledge to establish liability.
+- (b): "proves his objective was exclusively to earn lawful compensation" — wrong because personal disdain does not logically or legally rule out an objective to earn unlawful compensation or purposefully facilitate a crime.
+- (c): "automatically strictly liable as a co-principal" — wrong because accomplice liability requires specific mens rea (purpose or knowledge) and is never a strict liability offense.
+- (e): "always equates mere physical presence at a facility with the purpose" — wrong because the common law explicitly dictates that mere presence is never enough to establish accomplice liability.
+
+Recommended fix: MUST FIX. Add the 20% premium fact to the question stem so the correct answer is supported. Change stem to: "Assume Thorne is additionally charged as an accomplice to Vance's substantive drug distribution. Thorne routed the crates for a twenty percent salary premium, but argues he cannot be convicted because he lacked the 'purpose' to promote the crime, harboring personal disdain for the operation."
+-->

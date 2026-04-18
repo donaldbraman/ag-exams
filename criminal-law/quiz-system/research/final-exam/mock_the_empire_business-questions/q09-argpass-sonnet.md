@@ -1,0 +1,33 @@
+**Q9.** The prosecution charges Thorne with the clerk's homicide under a *Pinkerton* conspiracy theory. Thorne argues he cannot be held liable because he was sitting at his dispatch desk miles away, never approved Locke's acquisition of the AR-15, and despises violence. Will Thorne's defense against the *Pinkerton* charge succeed?
+
+(a) Yes, because *Pinkerton* liability strictly requires the prosecution to prove the absent co-conspirator specifically authorized the physical act that caused the death.
+(b) Yes, because Thorne's genuine personal disdain for the drug trade and violent acts severs the required causal chain between the conspiracy and the homicide.
+(c) No, because as a co-conspirator, Thorne is strictly liable for any and all crimes Locke commits, regardless of whether those crimes were related to the conspiracy.
+(d) No, because a fatal shootout is a reasonably foreseeable consequence of a high-volume narcotics distribution conspiracy, making Thorne liable for Locke's actions in furtherance of it. <!-- correct -->
+(e) No, because the MPC explicitly rejects the *Pinkerton* doctrine, meaning Thorne is automatically liable under standard accomplice liability principles instead.
+
+**Answer:** (d)
+
+**Explanation:** Under the *Pinkerton* doctrine, a conspirator is liable for the substantive offenses committed by co-conspirators if those offenses are in furtherance of the conspiracy and are reasonably foreseeable consequences of the unlawful agreement. A fatal shootout/weapon escalation is widely recognized as a reasonably foreseeable consequence of a large-scale drug trafficking conspiracy. (a) is wrong because *Pinkerton* specifically bypasses the need for explicit authorization or accomplice-level participation in the substantive crime. (b) is wrong because personal disdain does not negate foreseeability. (c) is wrong because *Pinkerton* is not boundless; the crime must be foreseeable and in furtherance of the conspiracy. (e) is wrong because while the MPC rejects *Pinkerton*, standard accomplice liability is *harder* to prove (requiring purposeful facilitation of the specific crime), so rejecting *Pinkerton* would aid Thorne, not automatically convict him.
+
+**Tags:** chapters: [19], topics: [Pinkerton liability, foreseeability, conspiracy], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 19, Pinkerton Doctrine
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could argue that holding a defendant liable for homicide requires some level of direct culpability or mens rea for the killing itself. Under a misapplication of standard accomplice liability blended with conspiracy, a student might reason that vicarious liability under *Pinkerton* cannot stretch to a completed homicide without proof that Thorne specifically authorized the fatal act, making (a) seem correct.
+(b) Argument-for: A student might believe that *Pinkerton* foreseeability is entirely subjective. If Thorne has a genuine disdain for violence, one could argue that a fatal shootout was not subjectively foreseeable to him. Therefore, a student might conclude that his personal characteristics negate the foreseeability prong, effectively severing the causal chain for the substantive homicide charge.
+(c) Argument-for: A student could easily misinterpret the breadth of the *Pinkerton* doctrine, believing it creates absolute vicarious liability for any act committed by a co-conspirator. Because Thorne is part of the conspiracy, a student might assume that the law punishes the agreement itself so harshly that it holds conspirators strictly liable for all actions of their peers, regardless of the "in furtherance" limitation.
+(d) Argument-for: Under the *Pinkerton* doctrine, a defendant is vicariously liable for the substantive crimes of his co-conspirators if those crimes are committed in furtherance of the conspiracy and are reasonably foreseeable. Because courts consistently hold that armed conflicts and shootings are a reasonably foreseeable consequence of a high-volume narcotics distribution conspiracy, Thorne is liable for the homicide despite being miles away and not explicitly approving the weapon.
+(e) Argument-for: A student might correctly recall that the Model Penal Code rejects the *Pinkerton* doctrine's imposition of vicarious liability solely based on conspiracy. However, they might incorrectly assume that the MPC automatically substitutes standard accomplice liability in its place in a way that guarantees a conviction, incorrectly concluding that Thorne is automatically liable as an accomplice simply for being a co-conspirator.
+
+Head-to-head: Option (d) perfectly captures the black-letter rule of *Pinkerton* liability, accurately applying the objective foreseeability and "in furtherance" prongs. Option (a) invents an explicit requirement for specific authorization, directly contradicting *Pinkerton*'s vicarious nature. Option (b) incorrectly claims personal disdain severs the causal chain, completely ignoring the objective foreseeability standard and the strict rules for legal withdrawal. Option (c) relies on an absolute misstatement of law by omitting the essential "in furtherance" and foreseeability limitations. Option (e) incorrectly states that rejecting *Pinkerton* automatically triggers standard accomplice liability, whereas accomplice liability has much stricter mens rea requirements (purpose) that Thorne does not meet. Every distractor is structurally locked with a clearly falsifiable, legally erroneous absolute claim.
+
+Falsifiable claim per distractor:
+- (a): "strictly requires the prosecution to prove the absent co-conspirator specifically authorized the physical act" — wrong because *Pinkerton* explicitly allows for conviction on foreseeable substantive crimes in furtherance of the conspiracy without specific authorization.
+- (b): "severs the required causal chain between the conspiracy and the homicide" — wrong because personal disdain does not constitute legal withdrawal or negate the objective foreseeability of co-conspirator actions.
+- (c): "strictly liable for any and all crimes Locke commits, regardless of whether those crimes were related to the conspiracy" — wrong because *Pinkerton* liability expressly requires the substantive crime to be committed in furtherance of the conspiracy.
+- (e): "automatically liable under standard accomplice liability principles instead" — wrong because accomplice liability under the MPC requires the purpose of promoting or facilitating the specific offense; liability is never "automatic" solely because an individual is in a conspiracy.
+
+Recommended fix: none
+-->

@@ -1,0 +1,34 @@
+**Q12.** Assume the jurisdiction applies the MPC. Locke argues that even if his actions constituted a substantial step toward robbing the safe, he is entitled to the affirmative defense of abandonment because he texted his crew "I'm out" and threw his ski mask away before the robbery occurred. Will Locke's abandonment defense succeed?
+
+(a) Yes, because texting "I'm out" and discarding his mask definitively proves he permanently and completely renounced his criminal purpose without external pressure.
+(b) Yes, because the MPC requires courts to dismiss any attempt charge if the defendant physically destroys the criminal instrumentalities before the police arrive.
+(c) No, because his withdrawal was motivated by a fear of police apprehension rather than a genuine, voluntary change of heart regarding the criminal endeavor. <!-- correct -->
+(d) No, because the abandonment defense is strictly unavailable for any crime involving an organized conspiracy or the participation of multiple co-defendants.
+(e) No, because under the MPC, any act that qualifies as a substantial step immediately triggers absolute liability, permanently barring any subsequent abandonment claims.
+
+**Answer:** (c)
+
+**Explanation:** The MPC recognizes abandonment as an affirmative defense, but requires that the renunciation be complete and voluntary. A withdrawal is not "voluntary" if it is motivated by circumstances not present at the inception of the conduct that increase the probability of detection or apprehension. Locke's text citing "too much police heat" demonstrates his withdrawal was motivated by fear of apprehension, not a genuine change of heart. (a) is wrong because the text explicitly shows external pressure (police heat) drove the decision. (b) is wrong because destroying evidence does not automatically trigger the defense if the motive wasn't voluntary. (d) is wrong because abandonment can apply to conspiracies (though the withdrawer must often thwart the plot, the premise that it's "strictly unavailable" is false). (e) is wrong because the MPC specifically created the abandonment defense to give defendants an incentive to stop *after* crossing the substantial step threshold.
+
+**Tags:** chapters: [17], topics: [attempt, abandonment defense, MPC], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 17, Abandonment: The MPC Defense
+
+<!-- argument-pass: MUST FIX
+(a) Argument-for: Under the MPC, abandonment is a valid affirmative defense if the renunciation of criminal purpose is complete and voluntary. The prompt states Locke texted his crew "I'm out" and discarded his ski mask, with no mention of police presence or external pressure. Given the facts as stated, these actions objectively manifest a complete and permanent withdrawal. A student could logically conclude that these facts definitively prove a voluntary change of heart, making (a) perfectly correct under the text of the prompt.
+(b) Argument-for: A student could argue that discarding the ski mask constitutes physical destruction of the criminal instrumentality. While the MPC emphasizes the psychological state of renunciation, destroying the means to commit the crime physically prevents its completion. A student might mistake the MPC's subjective standard for a bright-line objective rule requiring the physical destruction of evidence prior to police arrival to guarantee a dismissal.
+(c) Argument-for: Assuming the context of a wider fact pattern where Locke's text mentioned police heat (as explicitly indicated by the explanation), a student would identify that his withdrawal was not "voluntary" under MPC § 5.01(4). The MPC excludes withdrawals motivated by circumstances that increase the probability of apprehension. Therefore, Locke's fear of police apprehension legally nullifies the abandonment defense, making (c) the correct application of doctrine.
+(d) Argument-for: The prompt mentions Locke texted "his crew," indicating a conspiracy or multi-defendant endeavor. Under some restrictive interpretations of accessorial liability, merely walking away without thwarting the crime is insufficient to withdraw from a conspiracy. A student might incorrectly assume this translates to the attempt abandonment defense being strictly unavailable whenever multiple co-defendants are involved.
+(e) Argument-for: Under traditional common law, the crime of attempt is complete the moment the requisite actus reus (e.g., a substantial step) is taken, and abandonment is no defense. A student might believe that the MPC's "substantial step" test—which moves the line of attempt earlier than the common law—retains this strict absolute liability approach, permanently barring any subsequent abandonment claims once the step is taken.
+
+Head-to-head:
+This question suffers from a fatal flaw: the prompt entirely omits a critical fact needed to select the correct answer. The explanation relies on the fact that Locke's text cited "too much police heat," but the prompt merely says he texted "I'm out." Without the fact regarding police heat, option (c)'s premise ("motivated by a fear of police apprehension") introduces facts not in evidence. Worse, option (a) becomes the most legally sound choice based on the written prompt, as discarding a mask and stating "I'm out" without any stated external pressure looks exactly like voluntary renunciation. The distractors (b), (d), and (e) are excellent, utilizing strong falsifiable absolutes ("requires courts to dismiss," "strictly unavailable," "absolute liability"). Because the correct answer hinges on unstated facts, this is a MUST FIX.
+
+Falsifiable claim per distractor:
+- (a): "definitively proves he permanently and completely renounced his criminal purpose without external pressure" — wrong because (once the prompt is fixed) his text explicitly mentions police heat, which proves the presence of external pressure.
+- (b): "requires courts to dismiss any attempt charge if the defendant physically destroys the criminal instrumentalities" — wrong because the MPC has no such categorical rule; renunciation must be voluntary, regardless of evidence destruction.
+- (d): "strictly unavailable for any crime involving an organized conspiracy" — wrong because the MPC permits renunciation in conspiracy cases (usually requiring the defendant to thwart the plot).
+- (e): "immediately triggers absolute liability, permanently barring any subsequent abandonment claims" — wrong because the MPC specifically recognizes the abandonment defense precisely to apply *after* a substantial step has been taken.
+
+Recommended fix: Insert the missing fact into the prompt. Change 'texted his crew "I'm out"' to 'texted his crew "I'm out, too much police heat"' so that option (c) and the explanation are supported by the facts.
+-->
