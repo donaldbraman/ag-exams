@@ -192,7 +192,7 @@ e. The felony does not merge because the merger doctrine only applies to inheren
 
 a. Not guilty of attempt because the police raid constitutes an involuntary abandonment of the criminal enterprise, which serves as a complete defense.
 b. Guilty of attempt because lifting the catalyst to pour it into the vat constituted a substantial step that was strongly corroborative of his criminal purpose.
-c. Guilty of attempt because his prior act of verbally agreeing with Benny satisfied the strict physical proximity test for attempt.
+c. Guilty of attempt because his prior act of verbally agreeing with Benny satisfied the strict dangerous proximity test for attempt.
 d. Not guilty of attempt because he had not yet mixed the chemicals, meaning he had not crossed the threshold from mere preparation.
 e. Not guilty of attempt because attempt liability requires the actual production of a usable quantity of the prohibited substance.
 
@@ -686,7 +686,7 @@ e. No, because the Second Amendment entirely prohibits the government from prose
 
 ---
 
-**Q41.** The government uncovers Locke's aborted plan to rob the Apex safe. The prosecution charges Locke with attempted robbery. Under the Common Law physical proximity test versus the Model Penal Code (MPC) substantial step test, how would Locke's conduct (drawing a map and buying ski masks) likely be evaluated?
+**Q41.** The government uncovers Locke's aborted plan to rob the Apex safe. The prosecution charges Locke with attempted robbery. Under the Common Law dangerous proximity test versus the Model Penal Code (MPC) substantial step test, how would Locke's conduct (drawing a map and buying ski masks) likely be evaluated?
 
 a. He is guilty under the Common Law but not the MPC, because the Common Law focuses on the defendant's dangerousness while the MPC focuses on physical closeness.
 b. He is guilty under both tests, because purchasing any specialized equipment always satisfies both the proximity requirement and the substantial step requirement.
@@ -730,7 +730,7 @@ e. No, because under the MPC, any act that qualifies as a substantial step immed
 
 7. With Vance dead, Deacon directed his enforcer, Trey, to break into Vance's commercial storage unit to steal Vance's remaining drug proceeds. Deacon provided Trey with a crowbar but no weapons, and remained at his own home.
 
-8. Trey drove his van to the storage facility and parked down the block. He put on a ski mask, grabbed the crowbar, and walked toward the outer perimeter fence. Before he could reach the fence or attempt to scale it, a patrolling security guard spotted him and called the police.
+8. Trey drove to a location five blocks from the storage facility and parked. He put on a ski mask and was about to grab his crowbar when spotted a security officer who appeared to be looking at him and calling the police, then heard sirens. Trey drove away.
 
 9. To escape, Trey committed the state-law predicate offense of 'Felony Evasion' (statutorily defined strictly as 'willfully fleeing a pursuing police vehicle in a motor vehicle'). During the chase, Trey drove 80 mph through a residential area while his driver's license was suspended. He struck a pedestrian, Omar, killing him instantly.
 
