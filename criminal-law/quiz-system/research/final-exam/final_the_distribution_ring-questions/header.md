@@ -1,22 +1,20 @@
-# Scenario: Court Kings
+# Scenario: The Pit
 
 ### Facts
 
-1. The "Court Kings" drug distribution network, led by Crew Chief Marcus, included street-level dealers like Darius. The group held mandatory weekly meetings to discuss operations and logistics.
-2. On Wednesday night, Darius decided to assassinate rival crew leader Vance. Darius loaded a 9mm handgun and spent two hours driving around Vance's neighborhood searching for him.
-3. Before Darius could locate Vance or Vance's vehicle, Darius was pulled over by a police patrol for a broken taillight. Officers spotted the handgun on the passenger seat, and Darius immediately confessed, "I'm hunting Vance."
-4. On Thursday afternoon, inside his apartment, Marcus decided to retaliate against a rival 5th Street stash house. Marcus handed a loaded handgun to Silas, the crew's enforcer, and said, "If anyone is inside, eliminate them. We need to send a message." Silas nodded and replied, "Consider it done."
-5. Later that afternoon, Trey, whom Silas had recruited solely to drive the getaway car, drove Silas to the 5th Street stash house. Trey parked in the alley and kept the engine running, genuinely believing the plan was only for Silas to intimidate the rivals and steal their product.
-6. Trey had stepped out of the car to smoke a cigarette when the first shot rang out.
-7. Inside, Silas had kicked open the front door and was immediately confronted by the stash house guard, Dexter, who lunged at Silas with a raised machete. Silas smoothly drew his concealed handgun and fatally shot Dexter in the chest, then grabbed a duffel bag containing two kilograms of cocaine.
-8. As Silas jumped into the passenger seat, he pointed the bloody gun at Trey and yelled, "I just had to smoke the guard! Drive or you're next!" Trey, terrified, immediately sped away.
-9. On Friday, police executed a search warrant at Marcus's apartment and arrested him. On his nightstand, officers found a single brass key that unlocked a heavy, unmarked floor safe located in the building's communal, unlocked basement.
-10. Inside the basement safe, police recovered 500 grams of white powder packaged for individual sale. Lab tests later revealed the powder was entirely baking soda, though text messages on Marcus's phone confirmed he had purchased it believing it was pure cocaine.
+1. Marcus operated a drug distribution ring called "The Pit." He assigned set shifts to several subordinates who were paid a flat weekly percentage of their sales, and he maintained a ledger tracking inventory and revenues.
+2. On Tuesday, a rival dealer named Vance began sending his own sellers to the edges of the complex. Marcus called a meeting with his subordinates, Darius and Leon. Pacing the room, Marcus ordered: "Vance's crew is moving on our corners. Keep them out of the Court by any means necessary. Beat them down if you have to." Without a word, Darius and Leon turned and took up coordinated watch positions on opposite sides of the courtyard.
+3. Later that evening, Darius saw a dark silhouette sitting in a parked car near his corner. Believing it to be one of Vance's dealers, Darius drew a loaded pistol and began walking toward the car, intending to kill the occupant.
+4. When Darius was twenty feet away from the car, a passing patrol officer spotted the weapon, tackled, and disarmed him. Investigators subsequently determined the "silhouette" was merely a pile of dark trash bags in the driver's seat.
+5. On Thursday, Marcus recruited a new associate, Silas, to rob Vance's stash house. Marcus also hired Trey, an independent ride-share driver who was not part of The Pit, offering him $500 (triple his usual daily earnings) to "just idle in the alley no matter what you hear." Out of Trey's line of sight, Marcus handed Silas a loaded handgun.
+6. Inside the stash house, Silas was immediately confronted by the guard, Dexter, who lunged at Silas with a raised machete. Silas drew the concealed handgun, fatally shot Dexter in the chest, grabbed a duffel bag of cocaine, and sprinted back out the door.
+7. As Silas sprinted down the alley toward Trey's idling car, he pointed the gun backward over his shoulder without turning his head or aiming at any specific target. He squeezed the trigger once, firing blindly into the dark street to deter pursuit. The bullet struck a passing pedestrian in the shoulder.
+8. On Friday, police executed a search warrant at Marcus's apartment, arresting him. On Marcus's nightstand, officers found a single brass key. The key unlocked a heavy, unmarked floor safe located in the apartment building's communal, unlocked basement. Inside the safe, police found 500 grams of packaged cocaine and the operation's ledger.
 
-### Stem 1: Darius and the Enterprise
+### Stem 1: Turf Defense and Intercepted Shooting
 
-We are preparing indictments for several members of the "Court Kings" organization. I need you to evaluate the initial investigation into Marcus and Darius. Focus on the structural elements of their enterprise and Darius's aborted shooting. I specifically need to know how the differing jurisdictional approaches to attempt will impact Darius's exposure, how his attempt might be graded, and whether Marcus can be held vicariously liable for the shooting.
+Draft a memo evaluating the initial turf defense plan and the intercepted shooting at the vehicle. Focus on how conspiracy and attempt doctrines apply under both traditional and MPC frameworks, and whether Marcus is on the hook for Darius's actions.
 
-### Stem 2: The Stash House and Broader Network
+### Stem 2: Stash House Robbery and Arrest
 
-The investigation expanded after Thursday's stash house raid and Friday's search warrant. We need to look at Trey, Silas, and Marcus for the events on 5th Street, the recovered narcotics, and the broader enterprise. Evaluate Trey's accomplice liability versus accessory liability, and compare traditional NPC doctrine to the modern SB 1437 reform for the homicide. Assess Silas's homicide charges, Marcus's liability for Silas's actions, Marcus's drug possession, and the overall RICO enterprise.
+Update the memo to cover the stash house robbery and Marcus's eventual arrest. I need to know Trey's exact accomplice exposure given his limited role and lack of knowledge about the gun. Also, break down Silas's liability for the shootings, whether the entire operation constitutes one overarching conspiracy or several, and if we can wrap Marcus's operation up under RICO.

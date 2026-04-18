@@ -1,17 +1,17 @@
-**Q9.** The prosecution charges Carmine with the murder of Ben. Is Carmine liable for Ben's death under the *Pinkerton* doctrine?
+**Q9.** Can Dominic be convicted under 18 U.S.C. § 922(g)(1) (felon in possession) if he genuinely believed his prior fraud conviction carried a maximum sentence of six months?
 
-(a) Guilty, because the shooting occurred during the execution of the agreed-upon burglary and an armed confrontation was a reasonably foreseeable consequence. <!-- correct -->
-(b) Guilty, because any death caused by a co-conspirator automatically results in strict liability for all members, regardless of its foreseeability.
-(c) Not guilty, because Carmine did not explicitly authorize or formally agree to the fatal shooting of Ben Miller in the warehouse.
-(d) Not guilty, because Marcus fired blindly with his eyes closed, breaking the causal chain between the conspiracy and the resulting death.
-(e) Not guilty, because the Pinkerton doctrine only applies strictly to federal drug trafficking offenses, not property crimes or state homicides.
+(a) No, because the government must prove he knew he belonged to the prohibited class, and his mistake negates the mens rea for this status element. <!-- correct -->
+(b) Yes, because ignorance of the law is never an excuse, and his misunderstanding of the statutory penalty has no bearing on his criminal liability.
+(c) No, because the prior offense was a nonviolent commercial fraud, which exempts him from the federal prohibition on firearm possession entirely.
+(d) Yes, because the Morissette presumption applies only to the conduct element of possessing the firearm, not to his underlying criminal record.
+(e) No, because collateral mistakes regarding prior state-level convictions cannot be used to establish the requisite intent for a federal criminal offense.
 
 **Answer:** (a)
 
-**Explanation:** Carmine is guilty under the *Pinkerton* doctrine. *Pinkerton* holds that a conspirator is liable for any substantive offenses committed by a co-conspirator that are in furtherance of the conspiracy, fall within its scope, and are reasonably foreseeable as a necessary or natural consequence. An armed confrontation and resulting death is a highly foreseeable consequence of burglarizing a rival's warehouse at midnight. (b) fails because *Pinkerton* requires the substantive crime to be reasonably foreseeable, not an automatic strict liability for any act. (c) fails because explicit authorization of the specific target offense (the shooting) is not required; foreseeability of the act in furtherance of the conspiracy suffices. (d) fails because firing blindly is exactly the type of reckless action foreseeable during an interrupted burglary. (e) fails because *Pinkerton* applies generally to all conspiracies across most jurisdictions, not just federal drug cases.
+**Explanation:** Under *Rehaif v. United States*, the government must prove the defendant knew he belonged to the relevant category of persons barred from possessing a firearm (here, someone convicted of a crime punishable by more than one year). His genuine belief that the maximum sentence was six months negates this mens rea. (b) is wrong because *Rehaif* explicitly requires knowledge of the status element; this is an exception to the strict mistake of law rule. (c) is wrong because § 922(g)(1) applies to all felonies, not just violent ones (though its constitutionality is debated). (d) is wrong because *Rehaif* explicitly extended the presumption of scienter to the status element. (e) is wrong because the mistake actually exculpates him by negating mens rea; it's not a bar to proving intent, it's a failure of proof.
 
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton-liability], difficulty: medium, cognitive: application
+**Tags:** chapters: [10, 15], topics: [Rehaif, mistake-of-fact, status-element], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 19 (Pinkerton Doctrine)
+**Grounding:** Chapter 10 - Rehaif v. United States
 
-<!-- grounding: GROUNDED — Pinkerton doctrine, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Rehaif status element, Ch 10, Refinement `rehaif-status-element`. Rule paraphrased accurately. -->

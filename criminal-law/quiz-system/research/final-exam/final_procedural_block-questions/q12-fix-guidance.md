@@ -4,65 +4,38 @@ The QA pipeline flagged this question. Rewrite `q12.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q12.** Evaluate defense attorney Rossi's use of peremptory challenges under the Batson framework.
+<!-- audit: MUST FIX -->
 
-(a) Subject to a Batson challenge, because the prohibition on race-based strikes applies equally to defense attorneys, and the court must determine if the reason is pretextual. <!-- correct -->
-(b) Insulated from judicial review, because the Batson framework applies exclusively to prosecutorial strikes, protecting the criminal defendant's absolute constitutional right to aggressively shape the jury.
-(c) Automatically invalid at step one, because striking six out of seven members of a protected class constitutes per se unconstitutional discrimination requiring no further analysis.
-(d) Automatically valid at step two, because asserting a juror is "hostile to corporate business" serves as a legally irrebuttable race-neutral explanation that definitively ends the inquiry.
-(e) Subject to a Batson challenge, but only if the prosecution can successfully prove that Rossi possesses a documented historical pattern of striking minority jurors in previous cases.
+**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
 
-**Answer:** (a)
+Error: Model returned empty or blocked response.
 
-**Explanation:** (a) is correct because *Georgia v. McCollum* extended the *Batson* framework to defense attorneys. The trial court must proceed to step three to determine whether the facially race-neutral reason ("hostile to corporate business") is actually a pretext for racial discrimination. (b) is incorrect because the Equal Protection Clause protects the jurors' right not to be excluded based on race, which restricts defense attorneys as well as prosecutors. (c) is incorrect because statistical disparities at step one only establish a *prima facie* case requiring an explanation; they do not render the strikes per se unconstitutional. (d) is incorrect because a facially neutral reason at step two does not end the inquiry; the judge must still evaluate its genuineness at step three. (e) is incorrect because a *Batson* challenge does not require proof of a historical pattern; it can be established based entirely on the strikes in the current case.
+## Issue 2 — edge-case
 
-**Tags:** chapters: [4], topics: [Batson-framework, equal-protection], difficulty: medium, cognitive: application
+**Q12.** Assume Dominic and Senator Sterling move to dismiss the joint RICO indictment, arguing their conduct does not constitute a RICO violation. Will this challenge succeed?
 
-**Grounding:** Chapter 4 - The Jury (Batson framework, McCollum extension to defense attorneys)
-
-<!-- audit: MUST FIX
-check 1: pass (The legal framework regarding Georgia v. McCollum and Batson steps is perfectly accurate).
-check 2: pass (None of the distractors represent defensible alternative interpretations of Batson).
-check 3: pass (The explanation correctly applies the three-step framework and the Equal Protection rationale for defense attorneys).
-check 4: FAILS. The stem is missing the factual scenario entirely. The options and the explanation reference highly specific facts (striking "six out of seven members" and giving the reason that a juror is "hostile to corporate business") that never appear in the prompt. A student reading the stem alone has nothing to evaluate.
-check 5: pass (Uniform federal constitutional rule).
-check 6: pass (No excluded topics).
-check 7: pass (batson-framework appears in Ch 4 meta-map tags).
-Recommended fix: Insert the missing fact pattern into the stem. E.g., "Defense attorney Rossi is defending a corporate executive. During voir dire, Rossi uses peremptory challenges to strike six out of seven minority jurors. When challenged, Rossi asserts that the stricken jurors appeared 'hostile to corporate business.' Evaluate Rossi's use of peremptory challenges..."
--->
-
-## Issue 2 — argpass-sonnet
-
-**Q12.** Evaluate defense attorney Rossi's use of peremptory challenges under the Batson framework.
-
-(a) Subject to a Batson challenge, because the prohibition on race-based strikes applies equally to defense attorneys, and the court must determine if the reason is pretextual. <!-- correct -->
-(b) Insulated from judicial review, because the Batson framework applies exclusively to prosecutorial strikes, protecting the criminal defendant's absolute constitutional right to aggressively shape the jury.
-(c) Automatically invalid at step one, because striking six out of seven members of a protected class constitutes per se unconstitutional discrimination requiring no further analysis.
-(d) Automatically valid at step two, because asserting a juror is "hostile to corporate business" serves as a legally irrebuttable race-neutral explanation that definitively ends the inquiry.
-(e) Subject to a Batson challenge, but only if the prosecution can successfully prove that Rossi possesses a documented historical pattern of striking minority jurors in previous cases.
+(a) Yes, because Sterling's sporadic zoning assistance and the core loansharking operation lack the relatedness required to form a cohesive pattern of racketeering activity. <!-- correct -->
+(b) Yes, because a legitimate elected government official cannot legally be categorized as part of the exact same criminal enterprise as an organized syndicate boss.
+(c) No, because any two independent predicate offenses committed within a continuous ten-year period automatically satisfy the pattern of racketeering requirement.
+(d) No, because the Waterfront Syndicate qualifies as an enterprise and strict vicarious liability applies to all members for any predicate acts committed.
+(e) No, because political corruption and criminal extortion are specifically enumerated predicate acts that bypass the need to prove relatedness or continuity under the statute.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because *Georgia v. McCollum* extended the *Batson* framework to defense attorneys. The trial court must proceed to step three to determine whether the facially race-neutral reason ("hostile to corporate business") is actually a pretext for racial discrimination. (b) is incorrect because the Equal Protection Clause protects the jurors' right not to be excluded based on race, which restricts defense attorneys as well as prosecutors. (c) is incorrect because statistical disparities at step one only establish a *prima facie* case requiring an explanation; they do not render the strikes per se unconstitutional. (d) is incorrect because a facially neutral reason at step two does not end the inquiry; the judge must still evaluate its genuineness at step three. (e) is incorrect because a *Batson* challenge does not require proof of a historical pattern; it can be established based entirely on the strikes in the current case.
+**Explanation:** The correct answer is (a). RICO requires proof that the defendant engaged in a "pattern of racketeering activity," which the Supreme Court interprets as requiring that the predicate acts be *related* to each other and amount to or pose a threat of continued criminal activity. An isolated instance of accepting a gratuity for a zoning vote lacks the structural nexus and relatedness to the Syndicate's core loansharking and extortion rackets (Facts 8, 9).
 
-**Tags:** chapters: [4], topics: [Batson-framework, equal-protection], difficulty: medium, cognitive: application
+(b) is incorrect because government officials and legitimate entities frequently serve as or participate in RICO enterprises alongside organized crime figures.
+(c) is incorrect because while two predicates are the statutory minimum, the Supreme Court has clarified they must also be related and continuous; two completely independent acts do not form a pattern.
+(d) is incorrect because RICO is not a strict vicarious liability statute; each defendant must personally conduct or participate in the enterprise's affairs through their own pattern of racketeering activity.
+(e) is incorrect because the relatedness and continuity requirements apply to all predicate acts under RICO, regardless of whether they are enumerated.
 
-**Grounding:** Chapter 4 - The Jury (Batson framework, McCollum extension to defense attorneys)
+**Tags:** chapters: [20], topics: [RICO-enterprise, predicate-acts-relatedness], difficulty: hard, cognitive: analysis
 
-<!-- argument-pass: MUST FIX
-(a) Argument-for: Under *Georgia v. McCollum*, the *Batson* framework applies to peremptory strikes exercised by criminal defense attorneys. A prosecutor may object to defense strikes on equal protection grounds. The trial court must then move through the three-step *Batson* process, ultimately determining at step three whether the proffered race-neutral reason is merely a pretext for discrimination.
-(b) Argument-for: The Sixth Amendment guarantees a criminal defendant the right to an impartial jury, and peremptory challenges are traditionally a core component of the defense strategy to eliminate potentially biased jurors without cause. One could argue that applying *Batson* to the defense impinges on this constitutional right. The original *Batson* ruling specifically addressed state action via the prosecutor, leading a student to conclude the framework protects the defendant from the state, not the other way around.
-(c) Argument-for: Striking six out of seven members of a protected class is an overwhelming statistical disparity that establishes an undeniable inference of discriminatory intent. A student might argue that such an extreme pattern shifts the inquiry entirely, moving past a mere *prima facie* case to a conclusive finding of discrimination at step one. In extreme cases of disparate impact, the sheer numbers might be argued to render the strike *per se* invalid.
-(d) Argument-for: Step two of the *Batson* framework requires only that the striking party offer a facially race-neutral reason. "Hostile to corporate business" contains no reference to race or protected characteristics. Since the Supreme Court in *Purkett v. Elem* held that a reason need not be persuasive or even plausible at step two, a student could argue that offering such a legally neutral reason definitively satisfies the proponent's burden and effectively ends the inquiry at that stage if uncontested.
-(e) Argument-for: Proving discriminatory intent at step three is notoriously difficult without a pattern of behavior. Before *Batson*, *Swain v. Alabama* required showing a systemic, historical pattern of striking protected jurors. A student might conflate this older standard with *Batson*, arguing that establishing defense pretext requires the prosecution to point to documented historical practices rather than relying solely on the current trial's strikes.
+**Grounding:** Chapter 20 - RICO and Enterprise Liability > Predicate acts relatedness
 
-Head-to-head: The distractors are actually incredibly well-crafted and comply perfectly with the close-call standard. They effectively use absolute language ("exclusively," "automatically invalid," "definitively ends," "only if") to lock in falsifiable legal propositions. Option (a) correctly applies *McCollum*. The catastrophic failure here, however, is the question stem itself: there is no fact pattern. Options (c) and (d) reference specific facts ("six out of seven members," "hostile to corporate business") that never appear in the prompt, making the question completely incoherent as written. Thus, despite the excellent distractors, the question warrants a MUST FIX.
-
-Falsifiable claim per distractor:
-- (b): "applies exclusively to prosecutorial strikes" — wrong because *Georgia v. McCollum* extended the *Batson* framework to criminal defense attorneys.
-- (c): "constitutes per se unconstitutional discrimination requiring no further analysis" — wrong because step one statistics only establish a rebuttable *prima facie* case and never bypass steps two and three.
-- (d): "legally irrebuttable race-neutral explanation that definitively ends the inquiry" — wrong because step two reasons are rebuttable and must be evaluated for pretext at step three.
-- (e): "only if the prosecution can successfully prove that Rossi possesses a documented historical pattern" — wrong because *Batson* explicitly overruled the *Swain* requirement for a historical pattern, allowing proof based solely on the current case.
-
-Recommended fix: Add the missing fact pattern to the question stem. Change the stem to: "During jury selection for a white-collar criminal trial, defense attorney Rossi uses peremptory challenges to strike six out of seven Black prospective jurors. When the prosecution raises an objection, Rossi states that he struck them because they appeared 'hostile to corporate business.' Evaluate defense attorney Rossi's use of peremptory challenges under the Batson framework."
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The explanation for Answer A relies on Sterling's conduct being an "isolated instance," but Fact 8 explicitly establishes two separate instances of zoning/permitting favors in exchange for money over a period of months (the casino rezoning and the wellness center permit). 
+2. Cross-Doctrine Clashes: Under RICO jurisprudence, predicate acts are typically deemed "related" if they have the same purpose, participants, or simply advance the affairs of the same enterprise. Dismissing a joint RICO indictment definitively on the grounds that zoning bribery is too dissimilar from the enterprise's loansharking contradicts the principle that the enterprise itself can provide the required nexus for relatedness. A court is highly unlikely to grant a motion to dismiss on these grounds.
+3. Cross-Question Spoilers: Pass.
+Recommended fix: Change the call of the question to "What is Sterling's strongest argument for challenging the pattern requirement?" and change (a) to reflect a defense argument rather than a definitive "Yes, the motion will succeed." Alternatively, re-write the explanation and correct answer to "No, because predicate acts that benefit or are coordinated through the same enterprise generally satisfy the relatedness requirement."
 -->

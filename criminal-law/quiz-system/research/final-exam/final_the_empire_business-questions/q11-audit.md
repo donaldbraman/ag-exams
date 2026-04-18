@@ -1,26 +1,26 @@
-**Q11.** Assume for this question only that the jurisdiction has abolished the felony-murder rule. What is Marcus's highest level of homicide liability for the death of Ben?
+**Q11.** Can Dominic successfully claim self-defense against Victor's heavy ledger strike?
 
-(a) Depraved heart murder, because emptying a magazine in a small occupied room demonstrates an extreme indifference to the value of human life. <!-- correct -->
-(b) Intentional murder, because the law automatically presumes the specific intent to kill whenever a firearm is discharged at another person.
-(c) Voluntary manslaughter, because Marcus fired in response to adequate provocation when Ben unexpectedly charged at him with a heavy crowbar.
-(d) Involuntary manslaughter, because firing with his eyes closed constitutes gross negligence rather than the conscious disregard required for criminal recklessness.
-(e) No criminal homicide liability, because closing his eyes negates the voluntary act requirement necessary for any level of criminal homicide.
+(a) No, because an individual who initiates an armed, felonious confrontation is barred from claiming self-defense unless they clearly withdraw from the encounter. <!-- correct -->
+(b) Yes, because Victor escalated the encounter by throwing a heavy ledger, introducing the imminent threat of serious bodily injury to the situation.
+(c) No, because self-defense is only available when the defendant faces an immediate threat from a firearm or other traditional deadly weapon.
+(d) Yes, because Dominic had a legal right to stand his ground in the restaurant since he was not legally required to retreat under these circumstances.
+(e) No, because the ledger was not thrown with sufficient force to create a reasonable apprehension of imminent death or serious bodily harm.
 
 **Answer:** (a)
 
-**Explanation:** Marcus is guilty of extreme indifference or depraved heart murder. Even without specific intent to kill, emptying a six-round magazine blindly in a small, enclosed space occupied by another person is an act of extreme recklessness that manifests a depraved indifference to human life, elevating the homicide from manslaughter to second-degree murder. (b) fails because firing blindly with closed eyes does not automatically prove a specific purpose or knowledge that death will result (intentional murder). (c) fails because a victim's lawful use of force against a burglar is not legally "adequate provocation" sufficient to trigger the heat-of-passion mitigation. (d) fails because discharging a firearm multiple times in an occupied room is a conscious disregard of a substantial and unjustifiable risk, not mere negligence. (e) fails because closing one's eyes is a voluntary choice, not an involuntary reflex or automatism.
+**Explanation:** The initial aggressor rule bars a defendant who initiates a violent or felonious confrontation (such as an armed extortion) from claiming self-defense unless they clearly withdraw and communicate that withdrawal to the victim. (b) is wrong because a victim's lawful resistance to a felony does not restore the initial aggressor's right to self-defense. (c) is wrong because self-defense can be used against any threat of serious bodily injury, not just traditional weapons. (d) is wrong because stand-your-ground laws do not protect initial aggressors or those actively committing a felony. (e) is wrong because even if the ledger could cause serious injury, the initial aggressor bar strictly precludes the defense entirely.
 
-**Tags:** chapters: [13], topics: [homicide-grading, extreme-recklessness, depraved-heart], difficulty: medium, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, initial-aggressor], difficulty: foundational, cognitive: application
 
-**Grounding:** Chapter 13 (Unintentional Homicide; Extreme Indifference Standard)
+**Grounding:** Chapter 22 - Initial Aggressor Bar
 
 <!-- audit: MUST FIX
-Check 1: MUST FIX. Option (a) asserts that Depraved Heart is the "highest level" of liability. However, the facts embedded in the options (firing a six-round magazine in response to Ben charging at him with a heavy crowbar) describe a target-directed shooting. Firing at a charging attacker strongly establishes Intentional Murder (or intent-to-cause-GBH murder). Closing one's eyes in fear while shooting an attacker does not legally negate purpose or knowledge. Therefore, Depraved Heart is likely under-grading the homicide.
-Check 2: MUST FIX. Because Intentional Murder is highly supported by the facts, a smart student is trapped. Option (b) correctly identifies Intentional Murder but pairs it with a fatally flawed legal rationale (the law does not "automatically presume" specific intent; that violates *Sandstrom*). The student must choose between an option with the true highest grade but a false rationale (b), and an option with a lower grade but a defensible rationale (a). 
-Check 3: pass. The explanation accurately tracks the distinction between extreme indifference and simple negligence.
-Check 4: MUST FIX. The question stem contains no facts. It relies entirely on a missing macro-scenario. To function properly, the core facts (Marcus burglarizing, Ben charging with a crowbar, Marcus closing his eyes and emptying his magazine) must be integrated into the stem.
-Check 5: pass. The stem resolves jurisdictional ambiguity regarding the felony-murder rule by explicitly stipulating its abolition.
-Check 6: pass. No excluded topics.
-Check 7: pass. The doctrine is covered under Ch 13 (`extreme-indifference-standard`).
-Recommended fix: First, move the necessary facts into the stem. Second, to resolve the substantive flaw, change the call of the question from "What is Marcus's highest level of homicide liability?" to "Which of the following is the most accurate statement regarding Marcus's homicide liability?" This removes the "highest level" constraint, allowing (a) to be cleanly correct without forcing students to weigh it against Intentional Murder. Alternatively, fix (b) to be the correct answer by providing a valid rationale (e.g., "...because firing six times at a charging person supports a finding of intent to kill or cause serious bodily harm, even if his eyes were closed").
+check 1: pass on the doctrine (the rule in 'a' accurately describes the initial aggressor bar), but impossible to verify accuracy of application without facts.
+check 2: pass (impossible to evaluate distractors without the fact pattern).
+check 3: FAIL (explanation refers to "an armed extortion" which appears nowhere in the text).
+check 4: FAIL. The question is entirely missing its fact pattern. It asks about Dominic, Victor, a "restaurant," and a "ledger," but provides absolutely no scenario establishing that Dominic initiated an armed extortion or describing the encounter.
+check 5: pass
+check 6: pass
+check 7: pass (initial-aggressor-bar is properly mapped to Ch 22).
+Recommended fix: Add the missing paragraph to the question stem detailing the facts of the encounter (e.g., Dominic attempting an armed extortion of Victor in a restaurant, and Victor fighting back with a heavy ledger).
 -->

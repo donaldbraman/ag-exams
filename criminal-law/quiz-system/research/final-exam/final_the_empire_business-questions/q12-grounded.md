@@ -1,17 +1,17 @@
-**Q12.** Assume that the jurisdiction's conspiracy statute requires proof of an overt act. Are Carmine and Marcus guilty of conspiracy to commit arson immediately following their May 1 interaction?
+**Q12.** Is Dominic guilty of felony murder for the death of Victor?
 
-(a) Not guilty, because while they formed a bilateral agreement, neither party committed an overt act in furtherance of the conspiracy prior to arrest. <!-- correct -->
-(b) Not guilty, because Carmine only ordered Marcus to commit the crime and did not agree to participate in the arson himself.
-(c) Guilty, because Marcus's express verbal agreement to execute the arson the following night independently satisfies the overt act requirement.
-(d) Guilty, because the underlying offense of arson is considered severe enough to legally dispense with the overt act requirement entirely.
-(e) Guilty, because their mutual understanding to eliminate the competition satisfies both the agreement and overt act elements simultaneously.
+(a) Yes, because Victor's death occurred during the perpetration of an inherently dangerous felony, regardless of Dominic's specific intent to kill. <!-- correct -->
+(b) No, because Victor's decision to resist by throwing the ledger constituted an independent intervening cause that severed the chain of liability.
+(c) Yes, because extortion is an enumerated malum prohibitum offense that triggers strict liability for any deaths that occur on the premises.
+(d) No, because the felony murder rule only applies when the defendant kills a bystander, not when the actual victim of the underlying felony is killed.
+(e) Yes, because the agency approach to felony murder requires the fatal act to be committed by someone unaffiliated with the criminal enterprise.
 
 **Answer:** (a)
 
-**Explanation:** They are not guilty. A conspiracy requires an agreement to commit a target crime. However, in jurisdictions that require an overt act, the act must be distinct from the agreement itself. Since they only ordered and agreed (forming the bilateral agreement), no overt act was committed. (b) fails because a boss who orders a crime and agrees to its commission is fully liable as a co-conspirator, even without personal participation in the final act. (c) fails because the verbal agreement constitutes the agreement element, and an overt act must be a subsequent step in furtherance. (d) fails because statutory overt act requirements generally apply across offenses unless specifically exempted, and severity alone does not waive the element. (e) fails because the agreement and the overt act must be distinct factual elements.
+**Explanation:** Felony murder applies when a death occurs in the perpetration of an inherently dangerous felony (such as armed extortion or robbery). It functions as a strict liability substitution for the malice requirement. (b) is wrong because victim resistance is highly foreseeable during a violent felony and does not break the causal chain. (c) is wrong because extortion is malum in se (wrong in itself), not malum prohibitum. (d) is wrong because felony murder frequently applies when the target of the felony is killed. (e) is wrong because the agency approach limits liability when a non-felon (like police or a victim) does the killing; here, the felon himself (Dominic) pulled the trigger.
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement, overt-act], difficulty: medium, cognitive: application
+**Tags:** chapters: [14], topics: [felony-murder, inherently-dangerous-felony], difficulty: foundational, cognitive: application
 
-**Grounding:** Chapter 19 (Overt Act Requirement)
+**Grounding:** Chapter 14 - strict-liability-substitution
 
-<!-- grounding: GROUNDED — Overt Act Requirement, Ch 19, Refinement `overt-act-minimal`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Felony Murder, Ch 14, Refinement `strict-liability-substitution`. Rule paraphrased accurately. -->

@@ -1,33 +1,43 @@
-**Q10.** Is AUSA Vance's threat to charge Marcus under a harsher overlapping statute constitutionally permissible during plea negotiations?
+**Q10.** Assume Marcus challenges AUSA Vance's threat to add the mandatory-minimum weapons enhancement as unconstitutional prosecutorial vindictiveness. How will the court rule?
 
-(a) Yes, because prosecutors have unreviewable discretion to choose among overlapping statutes and may threaten harsher charges to induce a guilty plea. <!-- correct -->
-(b) No, because threatening a harsher charge solely to penalize a defendant for exercising the constitutional right to a trial violates due process rules against vindictiveness.
-(c) Yes, but only if Vance can affirmatively prove that Marcus's conduct satisfies distinct additional elements not present in the lesser overlapping charge.
-(d) No, because the 10-year mandatory minimum constitutes an excessive trial penalty that coerces an involuntary and unconstitutional guilty plea.
-(e) Yes, because federal plea negotiations are entirely exempt from constitutional scrutiny regardless of the prosecutor's specific tactics, motivations, or coercive threats.
+(a) Uphold the threat, because a prosecutor may lawfully threaten a harsher charge during plea negotiations as long as that specific charge is supported by probable cause. <!-- correct -->
+(b) Uphold the threat, because the constitutional separation of powers prevents judicial officers from reviewing any executive branch charging decisions or negotiations.
+(c) Invalidate the threat, because leveraging a mandatory minimum to aggressively coerce a guilty plea blatantly violates the defendant's Sixth Amendment trial right.
+(d) Invalidate the threat, because a prosecutor cannot threaten to add new substantive charges that were not included in the initial grand jury indictment document.
+(e) Invalidate the threat, because the resulting trial penalty creates a structural imbalance that inherently denies defendants their right to effective assistance of counsel.
 
 **Answer:** (a)
 
-**Explanation:** Under *Bordenkircher v. Hayes*, prosecutors may constitutionally threaten harsher charges to induce a guilty plea, provided there is probable cause to support the threatened charge. Furthermore, under *Batchelder*, prosecutors have unreviewable discretion to choose among overlapping statutes with different penalties. (b) fails because the Supreme Court has held that pre-trial threats during plea negotiations do not constitute unconstitutional vindictiveness. (c) fails because *Batchelder* applies even when two overlapping statutes cover the exact same conduct without differing elements. (d) fails because the threat of a mandatory minimum does not legally render a plea involuntary or coerced. (e) fails because plea negotiations are still subject to some baseline constitutional scrutiny (e.g., the requirement of probable cause for the charge).
+**Explanation:** The correct answer is (a). Under *Bordenkircher v. Hayes*, it is not a violation of due process for a prosecutor to threaten a defendant with a more severe charge during plea negotiations if the defendant refuses to plead guilty, provided that the threatened charge is supported by probable cause. This leverages the trial penalty to transfer sentencing power to prosecutors, which the Court deemed constitutional (Fact 7).
 
-**Tags:** chapters: [6], topics: [plea-bargaining, Batchelder-overlapping-statutes, trial-penalty], difficulty: medium, cognitive: application
+(b) is incorrect because courts do have the authority to review executive charging decisions for constitutional violations (like vindictive prosecution or selective prosecution), even though they grant wide deference.
+(c) is incorrect because the Supreme Court has explicitly rejected the argument that leveraging severe penalties during plea bargaining unconstitutionally burdens the trial right.
+(d) is incorrect because a prosecutor is perfectly free to threaten to return to the grand jury to obtain a superseding indictment with enhanced charges.
+(e) is incorrect because the Supreme Court permits the trial penalty, viewing it as an inevitable attribute of any system that tolerates plea bargaining.
 
-**Grounding:** Chapter 6 (Prosecutors) - Bordenkircher and Batchelder doctrines
+**Tags:** chapters: [6], topics: [plea-bargaining-trial-penalty, mandatory-minimums-power-transfer], difficulty: medium, cognitive: application
 
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under *Batchelder* and *Bordenkircher*, prosecutors can choose between overlapping statutes and threaten harsher charges to induce pleas. A student would argue that the discretion to select which overlapping statute to charge is extremely broad, making this option correct in asserting the constitutionality of the prosecutor's threat.
-(b) Argument-for: A student could argue *Blackledge v. Perry* prohibits vindictive prosecution. If the prosecutor threatens a harsher charge to penalize a defendant for asserting their Sixth Amendment right to trial, a student might reason this runs afoul of due process rules against vindictiveness.
-(c) Argument-for: A student might rely on the *Blockburger* test to argue that different statutes must have distinct elements. Therefore, the prosecutor can only threaten the harsher charge if it contains an additional element; otherwise, applying different penalties to identical conduct violates equal protection.
-(d) Argument-for: A student could argue that while plea bargaining is generally permitted, threatening a disproportionate 10-year mandatory minimum crosses the line into unconstitutional coercion. They might reason this effectively punishes the defendant for going to trial and renders any resulting plea involuntary.
-(e) Argument-for: A student might mistakenly believe that *Bordenkircher*'s tolerance for "hardball" tactics means courts have declared plea negotiations completely off-limits to judicial review. The absolute phrasing appeals to a superficial understanding of the broad deference given to prosecutors.
+**Grounding:** Chapter 6 - Prosecutors > Plea bargaining trial penalty
 
-Head-to-head: Option (a) is the keyed answer, correctly synthesizing *Batchelder* and *Bordenkircher*. However, (a) contains a technically false absolute: prosecutorial discretion is broad but not strictly "unreviewable" (it remains subject to Equal Protection constraints like race or religion under *Wayte*). The distractors all contain clear falsifiable claims: (b) contradicts *Bordenkircher*'s holding that threatening harsher charges in plea negotiations is not unconstitutional vindictiveness. (c) inserts an "additional elements" requirement explicitly rejected by *Batchelder*. (d) falsely categorizes a mandatory minimum threat as unconstitutional coercion, contradicting *Bordenkircher* (which upheld a life sentence threat). (e) relies on the false absolute that plea negotiations are "entirely exempt" from scrutiny. Because the keyed answer itself contains a falsifiable absolute ("unreviewable"), the question should be revised.
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student would argue that *Bordenkircher v. Hayes* directly controls this scenario. The Supreme Court established that due process is not violated when a prosecutor threatens a defendant with more severe charges during plea negotiations, provided those charges are supported by probable cause. Plea bargaining inherently involves the give-and-take of negotiation, and threatening to add a mandatory-minimum enhancement is a legitimate exercise of prosecutorial discretion designed to encourage a plea. 
+
+(b) Argument-for: A student could defend this option by appealing to the broad deference courts give to prosecutorial discretion under separation of powers principles (e.g., *Wayte v. United States*). Since charging decisions and plea negotiations are core executive functions, one could argue that courts are categorically barred from reviewing them to avoid encroaching on executive power. This reflects the reality that prosecutors rarely face judicial interference when structuring charges and plea offers.
+
+(c) Argument-for: A student could argue that aggressively leveraging a mandatory minimum solely to coerce a plea penalizes the defendant for exercising their Sixth Amendment right to a jury trial. The "trial penalty" in this context is so severe—using mandatory minimums to vastly alter the sentencing exposure—that it functions as unconstitutional coercion rather than a free choice. Thus, it impermissibly chills the exercise of trial rights, requiring invalidation.
+
+(d) Argument-for: A student might contend that once a grand jury has indicted a defendant, the prosecutor's power to unilaterally threaten new, unindicted charges is heavily constrained. This option relies on the premise that a prosecutor cannot bypass the grand jury's initial charging document to leverage substantive additions during negotiations without first obtaining a superseding indictment. Therefore, threatening unindicted substantive charges before securing them constitutes unlawful vindictiveness.
+
+(e) Argument-for: A student could argue that the extreme leverage granted by mandatory minimums effectively sidelines defense counsel, rendering their assistance structurally ineffective. Because the trial penalty is so massive, defense attorneys are forced to advise pleading guilty regardless of the case's merits. This systemic imbalance inherently denies the defendant meaningful Sixth Amendment effective assistance of counsel, requiring the court to strike down the threat.
+
+Head-to-head: 
+Option (a) correctly states the black-letter rule from *Bordenkircher v. Hayes*, explicitly linking the threat of harsher charges to the probable cause requirement. Distractor (b) fails because its absolute prohibition on judicial review ignores established exceptions for selective prosecution (*United States v. Armstrong*) or post-conviction vindictiveness (*Blackledge v. Perry*). Distractors (c), (d), and (e) all incorrectly predict the court will invalidate the threat, relying on policy arguments against the "trial penalty" that the Supreme Court has explicitly rejected. Each of these distractors contains a lock-tight falsifiable claim that contradicts controlling doctrine.
 
 Falsifiable claim per distractor:
-- (b): "violates due process rules against vindictiveness" — wrong because *Bordenkircher* explicitly held that threatening a harsher charge to induce a plea during the "give-and-take" of negotiations is not unconstitutional vindictiveness.
-- (c): "only if Vance can affirmatively prove that Marcus's conduct satisfies distinct additional elements" — wrong because *Batchelder* holds that prosecutors can choose between overlapping statutes even if they cover the exact same conduct without distinct elements.
-- (d): "constitutes an excessive trial penalty that coerces an involuntary and unconstitutional guilty plea" — wrong because the Supreme Court has upheld threats of much higher mandatory minimums (e.g., a mandatory life sentence in *Bordenkircher*) as not legally coercive.
-- (e): "entirely exempt from constitutional scrutiny regardless..." — wrong because plea negotiations remain subject to baseline constitutional constraints (e.g., probable cause for the charges, equal protection).
+- (b): "prevents judicial officers from reviewing any executive branch charging decisions" — wrong because courts absolutely retain the power to review executive charging decisions for unconstitutional selective or vindictive prosecution.
+- (c): "blatantly violates the defendant's Sixth Amendment trial right" — wrong because the Supreme Court ruled in *Bordenkircher* that threatening harsher charges to induce a plea does not violate the defendant's constitutional rights.
+- (d): "prosecutor cannot threaten to add new substantive charges that were not included in the initial grand jury indictment" — wrong because prosecutors are legally permitted to threaten returning to the grand jury to obtain a superseding indictment as part of plea negotiations.
+- (e): "inherently denies defendants their right to effective assistance of counsel" — wrong because the Supreme Court has never held that the trial penalty or plea leverage inherently creates a structural *Strickland* violation.
 
-Recommended fix: In (a) and the Explanation, change "unreviewable discretion" to "broad discretion" to avoid creating a false absolute in the correct answer.
+Recommended fix: none
 -->

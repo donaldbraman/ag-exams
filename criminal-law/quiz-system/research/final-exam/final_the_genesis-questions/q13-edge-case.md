@@ -1,22 +1,22 @@
-**Q13.** Assume that, whether or not the jurisdiction recognizes *Pinkerton* liability, the prosecution must prove Avon's liability for the chemical storage solely under an accomplice liability theory. Under the majority common law approach, is Avon liable as an accomplice to the chemical storage offense?
+**Q13.** Assuming the jurisdiction applies the *Pinkerton* doctrine, is Avon liable for the substantive crimes that caused Inspector Greggs's death?
 
-(a) Yes, because Avon's statement to just get it done demonstrates his specific purpose to facilitate whatever illegal methods Marlowe ultimately chose.
-(b) Yes, because Avon's mere knowledge that Marlowe would stockpile hazardous chemicals is legally sufficient to establish criminal accomplice liability here.
-(c) No, because Avon did not personally supply the hazardous chemicals himself or physically assist in their unauthorized storage at the warehouse.
-(d) No, because while Avon knew Marlowe would stockpile chemicals, his indifference demonstrates he lacked the specific purpose to facilitate that offense. <!-- correct -->
-(e) No, because a person legally cannot be charged as an accomplice to a regulatory offense that is entirely silent on mental state.
+(a) Yes, because any resulting death in a conspiracy is automatically attributed to the syndicate boss, regardless of foreseeability.
+(b) Yes, because a chemical fire and its resulting consequences were reasonably foreseeable substantive offenses committed in furtherance of the drug manufacturing conspiracy. <!-- correct -->
+(c) No, because the *Pinkerton* doctrine only applies to the intended object of the conspiracy, which was drug distribution.
+(d) No, because Avon did not specifically agree to, or participate in, the acts that directly caused the fire.
+(e) No, because the Model Penal Code framework explicitly requires the defendant to be present when the substantive offense occurs.
 
-**Answer:** (d)
+**Answer:** (b)
 
-**Explanation:** The majority common law approach to accomplice liability requires that the defendant act with the specific purpose of facilitating the underlying offense. While Avon knew Marlowe might stockpile chemicals, his statement "I don't care how you process it" (Fact 2) demonstrates indifference rather than a conscious object or purpose to facilitate the unauthorized storage of hazardous chemicals. (a) is wrong because "just get it done" shows a purpose for the drug operation, but indifference toward the specific chemical storage crime. (b) is wrong because mere knowledge is generally insufficient for accomplice liability; purpose is required. (c) is wrong because physical assistance is not strictly required if words of encouragement are given with the requisite purpose. (e) is wrong because one can be an accomplice to a regulatory offense if they act with the purpose to facilitate it.
+**Explanation:** (b) is correct. Under the *Pinkerton* doctrine, a conspirator is criminally liable for the substantive offenses committed by co-conspirators if those offenses are in furtherance of the conspiracy and are reasonably foreseeable as a necessary or natural consequence of the unlawful agreement. A chemical fire is a foreseeable consequence of an illicit chemical drug lab. (a) is incorrect because *Pinkerton* liability is not automatic; it strictly requires foreseeability. (c) is wrong because *Pinkerton* specifically extends liability to collateral offenses beyond the core target crime. (d) is false; the entire purpose of *Pinkerton* is to impose liability for acts the defendant did not specifically agree to or participate in. (e) is incorrect because physical presence is not required under *Pinkerton*.
 
-**Tags:** chapters: [18], topics: [accomplice liability, purpose vs knowledge], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [19], topics: [pinkerton-liability, conspiracy, foreseeability], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 18, Accomplice Liability Mens Rea (the majority rule requires the specific purpose to facilitate the underlying crime, not mere knowledge)
+**Grounding:** Chapter 19: Conspiracy — pinkerton-doctrine
 
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The scenario uses the crime boss (Avon) to test "mere knowledge" vs. "purpose." However, because Avon is the mastermind who explicitly commanded the enterprise, stands to profit from it (a "stake in the venture"), and ordered the operation to be "completely off the books," courts would likely find he *did* have the specific purpose to facilitate the permit-less chemical storage as a necessary and approved means to his drug empire. Classifying a syndicate boss's explicit authorization of a necessary illegal step as mere "indifference" misapplies the doctrine, making (d) legally flawed and (a) highly defensible. 
-2. Cross-Doctrine Clashes: Avon's explicit command to "keep it completely off the books" (Fact 2) provides direct evidence of specific purpose regarding the "without a federal permit" element of the chemical storage statute. He literally ordered the permit-less aspect of the crime.
+<!-- edge-case-audit: SHOULD FIX
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: To cleanly test the "knowledge vs. purpose" distinction for accomplice liability, test a third-party merchant (e.g., the chemical supplier) instead of the syndicate boss. A merchant who sells the Acetone-FX knowing Marlowe's illicit plans, but merely wanting to make a standard retail sale, perfectly illustrates "mere knowledge" without a stake in the venture or specific purpose.
+Recommended fix: Reword (b) to: "Yes, because the substantive offenses resulting in the death were reasonably foreseeable consequences of the illicit drug manufacturing conspiracy." Calling "a chemical fire" a "substantive offense committed in furtherance" is grammatically and legally inaccurate (a fire is a factual event, not an offense; the substantive offenses would be felony murder or manslaughter).
 -->

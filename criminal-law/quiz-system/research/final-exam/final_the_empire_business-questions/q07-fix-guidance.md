@@ -12,98 +12,61 @@ Error: Model returned empty or blocked response.
 
 ## Issue 2 — edge-case
 
-**Q7.** Assume Dominic is convicted of the fentanyl offense, and the government seeks a mandatory minimum sentence based on the 2-kilogram quantity. Dominic argues the mandatory minimum cannot apply because he did not intend to distribute that specific quantity of fentanyl, as he thought it was heroin. How will the court rule?
+**Q7.** Assume Dominic's prior conviction validly prohibits him from possessing a firearm. Can he be convicted of constructively possessing the 9mm handgun found during the search?
 
-(a) The mandatory minimum applies because the statutory sentence floor is triggered by the actual drug weight alone, regardless of his specific intent regarding substance type. <!-- correct -->
-(b) The mandatory minimum applies because possessing two kilograms of any controlled substance automatically triggers the highest available federal sentencing enhancements under the guidelines.
-(c) The mandatory minimum does not apply because the government must explicitly prove he had the specific intent to distribute at least the threshold amount of fentanyl.
-(d) The mandatory minimum does not apply because the Eighth Amendment strictly prohibits imposing severe sentencing enhancements based on entirely unknown factual circumstances.
-(e) The mandatory minimum does not apply because the exact drug quantity was not explicitly listed as a material element in the underlying federal charging document.
+(a) No, because the handgun was located in a space within his wife's exclusive control, defeating any inference of his dominion and control. <!-- correct -->
+(b) Yes, because spouses living in a shared household are legally presumed to have joint constructive possession of all firearms located within the home.
+(c) No, because the handgun was legally registered to his wife, which completely immunizes him from any constructive possession liability.
+(d) Yes, because he had general access to the master bedroom, which legally satisfies the requirement of power to exercise dominion and control.
+(e) No, because constructive possession requires the government to conclusively prove that the defendant's fingerprints or DNA were recovered from the firearm.
 
 **Answer:** (a)
 
-**Explanation:** Under 21 U.S.C. § 841(b), federal mandatory minimum sentences are triggered strictly by the actual weight of the drug involved. The prosecution does not need to prove that the defendant intended to distribute that specific quantity or substance type to trigger the enhancement; the penalty floor is based entirely on the objective grams possessed. (b) is wrong because different substances have vastly different quantity thresholds for enhancements. (c) is wrong because intent only applies to the underlying distribution charge, not the weight-based sentencing enhancement. (d) is wrong because courts consistently uphold weight-based mandatory minimums against Eighth Amendment challenges, provided the base offense is proven. (e) is wrong because while drug weight must be charged and proven to a jury under *Apprendi*, the defendant's intent regarding that weight is irrelevant.
+**Explanation:** Where contraband is found in a space within the exclusive control of a co-occupant (like a personal bedside drawer containing only her belongings), the government cannot establish that the defendant had dominion and control over it (*State v. White*). (b) is wrong because courts require space-specific analysis, not a blanket presumption for spouses. (c) is wrong because legal registration to another does not legally bar a constructive possession charge if the defendant actually exercised control. (d) is wrong because general access to the room is insufficient when the specific space (the drawer) was exclusively hers. (e) is wrong because physical evidence like fingerprints is not strictly required if other evidence of dominion and control exists.
 
-**Tags:** chapters: [15], topics: [drugs, mandatory-minimums, quantity], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [15], topics: [constructive-possession, exclusive-control], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 15, Federal Weight-Based Mandatory Minimums
+**Grounding:** Chapter 15 - State v. White (Exclusive Control)
 
-<!-- edge-case-audit: SHOULD FIX
-1. Fact Pattern Booby Traps: The intended substance and weight (2kg of heroin) triggers the exact same 10-year mandatory minimum under 21 U.S.C. § 841(b)(1)(A) as the actual substance (2kg of fentanyl). This renders Dominic's argument factually moot and weakens the doctrinal test, as a court could reject his defense simply because his intended conduct carried the identical mandatory penalty anyway. 
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
-Recommended fix: Ideally, change Dominic's belief in the global facts to a substance that carries no mandatory minimum at 2kg (e.g., marijuana) to create a true asymmetry. Alternatively, tweak Option A to clarify that the actual drug *type and weight* strictly control the statutory floor, making his specific subjective belief legally irrelevant regardless of what he thought he possessed.
+3. Cross-Question Spoilers: Fact 11 contains Dominic's admission that he knew the gun was there and instructed his wife to get rid of it. This directly provides the "additional nexus" needed to overcome the wife's exclusive control (which Q8 is designed to test). Because students read the full fact pattern, they will know Fact 11 exists, making Q7's Answer A ("No") legally incorrect or highly confusing in context.
+Recommended fix: Modify the Q7 prompt to deliberately isolate the facts: "Assume Dominic's prior conviction validly prohibits him from possessing a firearm, and assume for the purposes of this question that he made no statements to the agents. Can he be..."
 -->
 
-## Issue 3 — argpass-sonnet
+## Issue 3 — argpass-opus
 
-**Q7.** Assume Dominic is convicted of the fentanyl offense, and the government seeks a mandatory minimum sentence based on the 2-kilogram quantity. Dominic argues the mandatory minimum cannot apply because he did not intend to distribute that specific quantity of fentanyl, as he thought it was heroin. How will the court rule?
+**Q7.** Assume Dominic's prior conviction validly prohibits him from possessing a firearm. Can he be convicted of constructively possessing the 9mm handgun found during the search?
 
-(a) The mandatory minimum applies because the statutory sentence floor is triggered by the actual drug weight alone, regardless of his specific intent regarding substance type. <!-- correct -->
-(b) The mandatory minimum applies because possessing two kilograms of any controlled substance automatically triggers the highest available federal sentencing enhancements under the guidelines.
-(c) The mandatory minimum does not apply because the government must explicitly prove he had the specific intent to distribute at least the threshold amount of fentanyl.
-(d) The mandatory minimum does not apply because the Eighth Amendment strictly prohibits imposing severe sentencing enhancements based on entirely unknown factual circumstances.
-(e) The mandatory minimum does not apply because the exact drug quantity was not explicitly listed as a material element in the underlying federal charging document.
+(a) No, because the handgun was located in a space within his wife's exclusive control, defeating any inference of his dominion and control. <!-- correct -->
+(b) Yes, because spouses living in a shared household are legally presumed to have joint constructive possession of all firearms located within the home.
+(c) No, because the handgun was legally registered to his wife, which completely immunizes him from any constructive possession liability.
+(d) Yes, because he had general access to the master bedroom, which legally satisfies the requirement of power to exercise dominion and control.
+(e) No, because constructive possession requires the government to conclusively prove that the defendant's fingerprints or DNA were recovered from the firearm.
 
 **Answer:** (a)
 
-**Explanation:** Under 21 U.S.C. § 841(b), federal mandatory minimum sentences are triggered strictly by the actual weight of the drug involved. The prosecution does not need to prove that the defendant intended to distribute that specific quantity or substance type to trigger the enhancement; the penalty floor is based entirely on the objective grams possessed. (b) is wrong because different substances have vastly different quantity thresholds for enhancements. (c) is wrong because intent only applies to the underlying distribution charge, not the weight-based sentencing enhancement. (d) is wrong because courts consistently uphold weight-based mandatory minimums against Eighth Amendment challenges, provided the base offense is proven. (e) is wrong because while drug weight must be charged and proven to a jury under *Apprendi*, the defendant's intent regarding that weight is irrelevant.
+**Explanation:** Where contraband is found in a space within the exclusive control of a co-occupant (like a personal bedside drawer containing only her belongings), the government cannot establish that the defendant had dominion and control over it (*State v. White*). (b) is wrong because courts require space-specific analysis, not a blanket presumption for spouses. (c) is wrong because legal registration to another does not legally bar a constructive possession charge if the defendant actually exercised control. (d) is wrong because general access to the room is insufficient when the specific space (the drawer) was exclusively hers. (e) is wrong because physical evidence like fingerprints is not strictly required if other evidence of dominion and control exists.
 
-**Tags:** chapters: [15], topics: [drugs, mandatory-minimums, quantity], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [15], topics: [constructive-possession, exclusive-control], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 15, Federal Weight-Based Mandatory Minimums
+**Grounding:** Chapter 15 - State v. White (Exclusive Control)
 
-<!-- argument-pass: MUST FIX
-(a) Argument-for: Under 21 U.S.C. § 841, the statutory maximums and mandatory minimums are determined by the actual type and quantity of the controlled substance. The Supreme Court has held that the mens rea requirement (knowingly or intentionally) applies only to the fact that the defendant is dealing with some controlled substance, not to the specific type or quantity. Therefore, Dominic's mistaken belief that he possessed heroin rather than fentanyl does not save him from the fentanyl mandatory minimum. The strict liability nature of drug quantity and type for sentencing means the actual weight triggers the floor.
-(b) Argument-for: A student could argue that possessing a massive quantity of drugs like two kilograms of any Schedule I or II substance indicates high-level trafficking. The Federal Sentencing Guidelines often apply severe base offense levels for large quantities. The student might conclude that a threshold of two kilograms is a universal trigger for top-tier enhancements regardless of the exact substance, making the type irrelevant because the quantity alone maxes out the penalty.
-(c) Argument-for: The core of criminal law is that actus reus must be accompanied by mens rea. A student could argue that under general principles of culpability, a defendant cannot be held strictly liable for a sentencing enhancement that drastically increases their punishment. To trigger the fentanyl-specific mandatory minimum, the government should have to prove he had the specific intent to distribute fentanyl in that amount, matching the mens rea to the aggravating circumstance.
-(d) Argument-for: The Eighth Amendment prohibits cruel and unusual punishment, which includes grossly disproportionate sentences. A student might argue that imposing a mandatory minimum for a substance and quantity the defendant had no knowledge of offends the Eighth Amendment's proportionality principle. Punishing someone for "entirely unknown factual circumstances" could be seen as inherently arbitrary and thus constitutionally prohibited under modern sentencing jurisprudence.
-(e) Argument-for: Under Apprendi and Alleyne, any fact that increases the mandatory minimum sentence must be submitted to a jury and found beyond a reasonable doubt. This means the drug quantity must be explicitly charged in the indictment as a material element. If the charging document merely alleged "a controlled substance" without the exact quantity, the court cannot constitutionally impose the mandatory minimum, making this a procedurally correct reason the enhancement fails.
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: This option correctly identifies the core limitation on constructive possession in shared dwellings. When a specific space is under the exclusive control of a co-occupant, the defendant lacks the necessary dominion and control over the contraband within it. This aligns directly with *State v. White*, establishing that mere co-occupancy of the broader premises cannot overcome the lack of control over the specific locus, making a conviction legally impossible on these facts.
+(b) Argument-for: A student could argue that in the context of marriage and shared marital property, firearms kept in the shared marital home are equally accessible. Some broader interpretations of joint possession might be mistakenly read to imply that spouses share dominion over all items in the home. Thus, a student could incorrectly infer a legal presumption of joint possession for married couples sharing a residence.
+(c) Argument-for: A student could argue that a gun's legal registration establishes an exclusive legal owner who bears sole possession rights. If the firearm is legally registered to the wife, she is the lawful possessor, and Dominic cannot legally claim it. Thus, the legal registration to a third party arguably creates a barrier to attributing possession to a prohibited person, rendering him legally immune to the charge.
+(d) Argument-for: General access to the room where contraband is found is often a key factor in establishing the power and intent to exercise dominion and control. Since the handgun was in the shared master bedroom, Dominic has unfettered access to the overarching space. A student could argue that this spatial proximity and access to the room itself are legally sufficient to establish his power to control the item.
+(e) Argument-for: To prove constructive possession beyond a reasonable doubt for a hidden item, physical evidence linking the defendant to the weapon is heavily relied upon by defense attorneys. A student might argue that without definitive forensic evidence like fingerprints or DNA, the government lacks the necessary nexus to conclusively link Dominic to the firearm, meaning the charge must fail as a matter of law.
 
-Head-to-head: (a) correctly states that drug type and quantity operate as strict liability elements under § 841(b) once the base mens rea is met. Distractors (b), (c), and (d) all make explicitly false legal claims regarding sentencing guidelines, specific intent, and Eighth Amendment jurisprudence respectively. However, (e) lacks a falsifiable legal error. Under Alleyne, it is legally true that the quantity must be explicitly listed in the charging document to trigger a mandatory minimum. Option (e) acts as a distractor solely by assuming a fact not provided in the prompt (that the quantity was omitted from the indictment), meaning it tests reading comprehension/factual assumption rather than legal knowledge.
-
-Falsifiable claim per distractor:
-- (b): "possessing two kilograms of any controlled substance automatically triggers the highest available federal sentencing enhancements" — wrong because different substances (e.g., marijuana vs. fentanyl) have wildly different quantity thresholds for enhancements.
-- (c): "the government must explicitly prove he had the specific intent to distribute at least the threshold amount of fentanyl" — wrong because specific intent is not required for the type or quantity under federal drug sentencing laws.
-- (d): "the Eighth Amendment strictly prohibits imposing severe sentencing enhancements based on entirely unknown factual circumstances" — wrong because courts routinely uphold strict liability weight-based mandatory minimums against Eighth Amendment challenges.
-- (e): LACKS A FALSE LEGAL CLAIM. The premise that a mandatory minimum fails if the quantity "was not explicitly listed as a material element in the underlying federal charging document" is legally correct under Alleyne. It is only "wrong" here because it assumes a fact not in the prompt.
-
-Recommended fix: Revise (e) to contain a definitively false legal claim. For example: "(e) The mandatory minimum does not apply because federal drug enhancements categorically require the underlying charging document to allege the defendant's specific subjective belief regarding the substance's identity."
--->
-
-## Issue 4 — argpass-opus
-
-**Q7.** Assume Dominic is convicted of the fentanyl offense, and the government seeks a mandatory minimum sentence based on the 2-kilogram quantity. Dominic argues the mandatory minimum cannot apply because he did not intend to distribute that specific quantity of fentanyl, as he thought it was heroin. How will the court rule?
-
-(a) The mandatory minimum applies because the statutory sentence floor is triggered by the actual drug weight alone, regardless of his specific intent regarding substance type. <!-- correct -->
-(b) The mandatory minimum applies because possessing two kilograms of any controlled substance automatically triggers the highest available federal sentencing enhancements under the guidelines.
-(c) The mandatory minimum does not apply because the government must explicitly prove he had the specific intent to distribute at least the threshold amount of fentanyl.
-(d) The mandatory minimum does not apply because the Eighth Amendment strictly prohibits imposing severe sentencing enhancements based on entirely unknown factual circumstances.
-(e) The mandatory minimum does not apply because the exact drug quantity was not explicitly listed as a material element in the underlying federal charging document.
-
-**Answer:** (a)
-
-**Explanation:** Under 21 U.S.C. § 841(b), federal mandatory minimum sentences are triggered strictly by the actual weight of the drug involved. The prosecution does not need to prove that the defendant intended to distribute that specific quantity or substance type to trigger the enhancement; the penalty floor is based entirely on the objective grams possessed. (b) is wrong because different substances have vastly different quantity thresholds for enhancements. (c) is wrong because intent only applies to the underlying distribution charge, not the weight-based sentencing enhancement. (d) is wrong because courts consistently uphold weight-based mandatory minimums against Eighth Amendment challenges, provided the base offense is proven. (e) is wrong because while drug weight must be charged and proven to a jury under *Apprendi*, the defendant's intent regarding that weight is irrelevant.
-
-**Tags:** chapters: [15], topics: [drugs, mandatory-minimums, quantity], difficulty: intermediate, cognitive: application
-
-**Grounding:** Chapter 15, Federal Weight-Based Mandatory Minimums
-
-<!-- argument-pass: MUST FIX
-(a) Argument-for: This tracks established federal jurisprudence under 21 U.S.C. § 841(b). The mens rea requirement (knowledge) applies only to the fact that the substance is *some* controlled substance. Once the base offense is proven, the penalty enhancements—including mandatory minimums—operate as strict liability factors based entirely on the actual type and quantity of the drugs involved. 
-(b) Argument-for: A student might reason that two kilograms is an objectively massive quantity of narcotics. They could conclude that under the federal sentencing scheme, possessing such a large commercial quantity of *any* drug is severely punished, thus "automatically" triggering maximum enhancements across the board.
-(c) Argument-for: Relying on general principles of mens rea and the Supreme Court’s ruling in *Alleyne v. United States* (which made mandatory minimum triggers elements of the offense rather than mere sentencing factors), a student could argue that specific intent must logically attach to all material elements, meaning the government must prove Dominic intended the specific threshold quantity.
-(d) Argument-for: A student might invoke the Eighth Amendment's prohibition on cruel and unusual punishment and its embedded proportionality principle. They could argue that imposing a severe mandatory minimum based on an "entirely unknown factual circumstance" (fentanyl disguised as heroin) creates a grossly disproportionate sentence relative to Dominic's subjective culpability.
-(e) Argument-for: Under *Apprendi* and *Alleyne*, any fact that increases the statutory maximum or mandatory minimum must be charged in the indictment and proven to a jury. Since the prompt merely states Dominic was "convicted of the fentanyl offense" without specifying that the 2-kilogram quantity was explicitly charged, a student might assume this mandatory procedural step was missed, thereby invalidating the enhancement.
-
-Head-to-head: (a) is the clearly correct legal standard, but (e) creates a fatal structural issue. Distractor (e) does not assert a false legal rule; rather, it asserts a factual condition ("was not explicitly listed") that is neither confirmed nor contradicted by the prompt. If a student assumes this fact is true because the prompt omitted it, (e) becomes legally correct under *Alleyne*. Furthermore, the provided explanation for (e) attacks a legal premise ("defendant's intent regarding that weight") that does not actually appear in the text of option (e). This disconnect, combined with the fact that (e) could be correct if its factual assumption is granted, elevates this to a MUST FIX.
+Head-to-head: Option (a) correctly states the legal standard from *State v. White*, acknowledging that a specific space exclusively controlled by a co-occupant defeats the constructive possession nexus. Option (b) locks a false legal claim using the absolute "all firearms." Option (c) is strongly locked by the phrase "completely immunizes." Option (e) is definitively locked by "requires the government to conclusively prove." However, option (d) claims general access "legally satisfies the requirement." While this is demonstrably a false legal claim (general access to a room does not satisfy the requirement if the specific drawer is exclusively controlled by someone else), it lacks a pure absolute word like "automatically" or "categorically" to immunize it completely against a student arguing "legally satisfies" just means "can satisfy" under the totality of the circumstances. Adding an absolute word guarantees the distractor fails the close-call standard.
 
 Falsifiable claim per distractor:
-- (b): "possessing two kilograms of any controlled substance automatically triggers the highest available federal sentencing enhancements" — wrong because quantity thresholds vary wildly by substance (e.g., 2kg of marijuana does not trigger the highest enhancement).
-- (c): "government must explicitly prove he had the specific intent to distribute at least the threshold amount" — wrong because § 841(b) mandatory minimums operate as strict liability regarding the exact quantity and type, once general mens rea for distribution is established.
-- (d): "Eighth Amendment strictly prohibits imposing severe sentencing enhancements based on entirely unknown factual circumstances" — wrong because courts categorically uphold strict liability weight/type enhancements against Eighth Amendment disproportionality challenges.
-- (e): Lacks a falsifiable legal error. "because the exact drug quantity was not explicitly listed..." makes a factual assertion about the prompt's unstated background rather than presenting a false legal rule. 
+- (b): "legally presumed to have joint constructive possession of all firearms" — wrong because there is no such blanket marital presumption for contraband in a shared home; courts require space-specific analysis.
+- (c): "completely immunizes him from any constructive possession liability" — wrong because legal registration to another does not bar a charge if the defendant actually exercised dominion and control over the item.
+- (d): "which legally satisfies the requirement" — wrong because general access to the broader room is legally insufficient when the specific locus is exclusively controlled by another.
+- (e): "requires the government to conclusively prove that the defendant's fingerprints or DNA were recovered" — wrong because constructive possession can be proven entirely by circumstantial evidence of dominion and control, without physical forensic evidence.
 
-Recommended fix: Rewrite (e) so it makes a false legal claim that aligns with the current explanation. 
-Change (e) to: "The mandatory minimum does not apply because the Sixth Amendment right to a jury trial categorically requires the government to prove the defendant explicitly knew the exact weight of the drugs."
+Recommended fix: In (d), insert the word "categorically" or "automatically" so it reads: "which automatically legally satisfies the requirement of power to exercise dominion and control."
 -->

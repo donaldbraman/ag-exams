@@ -1,0 +1,39 @@
+**Q15.** Assume the judge evaluates the community advocates' proposal. Under accountability theory, which rationale best supports choosing restorative mediation over the 13-year prison sentence?
+
+(a) Accountability requires active obligations like repairing harm and undergoing treatment, whereas prison allows offenders to passively evade facing the actual consequences of their actions. <!-- correct -->
+(b) Accountability theory explicitly argues that any punishment exceeding the minimum required for specific deterrence is an unjustifiable and immoral waste of limited state resources.
+(c) Accountability relies heavily on the core premise that severe custodial sentences inevitably fail to deter future crime due to the fundamental flaws in the rational actor assumption.
+(d) Accountability mandates that the criminal justice system strictly prioritize the public expressive condemnation of the syndicate over the individualized penalization of the specific offender.
+(e) Accountability demands that all non-violent drug offenses be immediately diverted from the traditional criminal legal system directly to administrative public health and medical agencies.
+
+**Answer:** (a)
+
+**Explanation:** The correct answer is (a). As established by Sered and Braman, accountability theory posits that traditional prison is functionally "passive" because it demands only that the offender endure suffering, allowing them to evade actual responsibility. True accountability requires "active" demands, such as acknowledging harm to victims, undergoing drug treatment, and repairing community damage, which aligns perfectly with the restorative mediation proposal (Fact 12).
+
+(b) is incorrect because Bentham's utilitarian deterrence limits—not accountability theory—focus on avoiding excess punishment beyond what is required for deterrence.
+(c) is incorrect because critiques of the rational actor assumption belong to deterrence theory; accountability theory focuses on relational demands and repair, not calculating deterrence probability.
+(d) is incorrect because expressive condemnation theory focuses on communicating the victim's worth to society; it does not prioritize general syndicates over individual accountability.
+(e) is incorrect because while accountability favors active treatment, it often demands these pro-social requirements as mandatory *criminal* sanctions, not purely as a total administrative diversion that removes all justice system oversight.
+
+**Tags:** chapters: [2], topics: [accountability-passive-vs-active, deterrence-four-limits], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 2 - Why and How We Punish > Accountability (passive vs. active)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under accountability theory (e.g., Sered and Braman), traditional incarceration is critiqued as "passive" because it merely subjects the offender to suffering without requiring them to actively make amends. Restorative mediation, conversely, imposes "active" obligations like facing victims, completing treatment, and repairing harm. This directly answers the prompt by contrasting the passive evasion of prison with the active demands of mediation. Therefore, (a) perfectly captures the theoretical distinction justifying the community advocates' proposal.
+(b) Argument-for: A student could argue that accountability naturally limits the state's right to punish, intersecting with principles of parsimony. Under this view, if a 13-year sentence exceeds what is necessary to prevent recidivism, it becomes an unjustifiable waste of resources. By choosing restorative mediation, the judge achieves accountability while respecting the limits of specific deterrence. Thus, accountability could be construed to incorporate limits against excessive state resource waste.
+(c) Argument-for: A student might connect the push for restorative mediation to the failure of custodial deterrence. Accountability theory arises precisely because severe sentences do not work; the rational actor assumption is flawed, meaning 13-year sentences fail to reliably deter. By acknowledging this failure, accountability theory pivots toward relational repair rather than custodial threats. Therefore, the core premise for choosing mediation over prison is the failure of deterrence assumptions.
+(d) Argument-for: One could argue that accountability serves an expressive function, communicating societal condemnation. In the context of a syndicate, holding the offender accountable via mediation might involve prioritizing a public reckoning for the syndicate's broader harms. Accountability could thus be seen as mandating expressive condemnation to validate victims. Under this rationale, mediation offers a superior platform for public denunciation than individualized penalization in a secluded cell.
+(e) Argument-for: A student could reason that true accountability for non-violent drug offenses lies in medical and public health interventions, not criminal sanctions. Because traditional courts often fail to provide adequate addiction treatment, accountability theory would demand diversion to agencies equipped to handle root causes. Thus, choosing mediation represents this required categorical diversion from the traditional criminal system.
+
+Head-to-head: 
+Option (a) is the only accurate representation of accountability theory, properly contrasting the "active" demands of restorative justice with the "passive" nature of incarceration. Distractor (b) incorrectly attributes Bentham's utilitarian deterrence limits (parsimony and specific deterrence) to accountability theory. Distractor (c) misidentifies the critique of the rational actor model—a deterrence issue—as the "core premise" of accountability. Distractor (d) incorrectly fuses accountability with expressive condemnation theory and wrongly claims it prioritizes syndicate condemnation over individual accountability. Distractor (e) uses absolute language ("demands that all," "immediately diverted") to falsely claim accountability theory rejects the criminal justice system entirely in favor of administrative public health diversion, whereas accountability often retains criminal justice oversight to enforce active obligations. All distractors contain safely falsifiable, explicit legal errors.
+
+Falsifiable claim per distractor:
+- (b): "Accountability theory explicitly argues that any punishment exceeding the minimum required for specific deterrence is an unjustifiable..." — wrong because this is the limiting principle of utilitarian deterrence (Bentham's parsimony), not accountability theory.
+- (c): "Accountability relies heavily on the core premise that severe custodial sentences inevitably fail to deter future crime due to the fundamental flaws in the rational actor assumption." — wrong because critiques of the rational actor model belong to deterrence theory; accountability's core premise is the need for active relational repair versus passive suffering.
+- (d): "Accountability mandates that the criminal justice system strictly prioritize the public expressive condemnation of the syndicate over the individualized penalization..." — wrong because accountability focuses heavily on the individualized responsibility of the offender to repair harm, not strictly prioritizing syndicate condemnation over the individual.
+- (e): "Accountability demands that all non-violent drug offenses be immediately diverted from the traditional criminal legal system directly to administrative public health..." — wrong because accountability permits (and often relies on) the criminal legal system to mandate active pro-social requirements; it does not categorically demand immediate and total diversion to administrative agencies for all drug offenses.
+
+Recommended fix: none
+-->

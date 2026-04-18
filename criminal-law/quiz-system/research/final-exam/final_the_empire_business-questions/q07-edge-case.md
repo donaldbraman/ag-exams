@@ -1,22 +1,22 @@
-**Q7.** Assume David is charged as an accomplice to the burglary for providing the security codes. Can David successfully raise a defense to the accomplice liability charge?
+**Q7.** Assume Dominic's prior conviction validly prohibits him from possessing a firearm. Can he be convicted of constructively possessing the 9mm handgun found during the search?
 
-(a) Yes, because Carmine's immediate threat to shoot him in the head satisfies the strict imminence requirement for a complete duress defense. <!-- correct -->
-(b) Yes, because a defendant can only be convicted as an accomplice if they are physically present at the scene of the burglary.
-(c) No, because David knew the security codes would be used for a burglary, which conclusively satisfies the mens rea for accomplice liability.
-(d) No, because the affirmative defense of duress is categorically unavailable for any offenses that ultimately result in a human death.
-(e) No, because David failed to seek protection from law enforcement before handing over the security codes to the criminal enterprise.
+(a) No, because the handgun was located in a space within his wife's exclusive control, defeating any inference of his dominion and control. <!-- correct -->
+(b) Yes, because spouses living in a shared household are legally presumed to have joint constructive possession of all firearms located within the home.
+(c) No, because the handgun was legally registered to his wife, which completely immunizes him from any constructive possession liability.
+(d) Yes, because he had general access to the master bedroom, which legally satisfies the requirement of power to exercise dominion and control.
+(e) No, because constructive possession requires the government to conclusively prove that the defendant's fingerprints or DNA were recovered from the firearm.
 
 **Answer:** (a)
 
-**Explanation:** David has a valid duress defense. Duress acts as a complete excuse when a defendant commits a crime under an imminent threat of death or serious bodily injury. Carmine placing a loaded gun on the desk and threatening to shoot David right then satisfies the strict imminence requirement. (b) fails because accomplice liability does not require physical presence at the scene (e.g., providing codes from afar). (c) fails for two reasons: David lacked the *purpose* to facilitate the crime (he only had knowledge), and even if knowledge sufficed, duress provides a complete excuse. (d) fails because the common-law murder bar for duress only prevents using duress as a defense to the charge of *intentional murder*, not to the underlying burglary charge. (e) fails because the threat was immediate, leaving no safe avenue of escape to contact law enforcement.
+**Explanation:** Where contraband is found in a space within the exclusive control of a co-occupant (like a personal bedside drawer containing only her belongings), the government cannot establish that the defendant had dominion and control over it (*State v. White*). (b) is wrong because courts require space-specific analysis, not a blanket presumption for spouses. (c) is wrong because legal registration to another does not legally bar a constructive possession charge if the defendant actually exercised control. (d) is wrong because general access to the room is insufficient when the specific space (the drawer) was exclusively hers. (e) is wrong because physical evidence like fingerprints is not strictly required if other evidence of dominion and control exists.
 
-**Tags:** chapters: [18, 21], topics: [accomplice-liability, duress, imminence], difficulty: medium, cognitive: analysis
+**Tags:** chapters: [15], topics: [constructive-possession, exclusive-control], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 21 (Duress Imminence Requirement); Chapter 18 (Mens Rea: Purpose vs. Knowledge)
+**Grounding:** Chapter 15 - State v. White (Exclusive Control)
 
-<!-- edge-case-audit: SHOULD FIX
+<!-- edge-case-audit: MUST FIX
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: Prior Fault Exception to Duress. Under both the common law and the MPC, the duress defense is categorically unavailable if the defendant recklessly or voluntarily placed themselves in a situation where it was probable they would be subjected to coercion (such as voluntarily joining a violent gang or criminal syndicate). Because Facts 1 and 2 establish that David has been willingly running a massive illicit drug distribution ring with Carmine for years, a sharp student would argue that his prior fault bars him from raising duress entirely, making option (a) incorrect. 
-3. Cross-Question Spoilers: pass
-Recommended fix: Add a parenthetical stipulation to the question stem: "(Assume for this question that David's prior participation in the enterprise does not legally bar him from asserting affirmative defenses.)"
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: Fact 11 contains Dominic's admission that he knew the gun was there and instructed his wife to get rid of it. This directly provides the "additional nexus" needed to overcome the wife's exclusive control (which Q8 is designed to test). Because students read the full fact pattern, they will know Fact 11 exists, making Q7's Answer A ("No") legally incorrect or highly confusing in context.
+Recommended fix: Modify the Q7 prompt to deliberately isolate the facts: "Assume Dominic's prior conviction validly prohibits him from possessing a firearm, and assume for the purposes of this question that he made no statements to the agents. Can he be..."
 -->

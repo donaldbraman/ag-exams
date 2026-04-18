@@ -1,26 +1,26 @@
-**Q6.** Assume Marlowe is charged with a homicide offense for Greggs's death. Does Marlowe have a legal duty to act that satisfies the actus reus requirement for his omission (fleeing without calling 911)?
+**Q6.** Marlowe is charged with attempted distribution of drugs for his aborted delivery attempt. He was arrested two miles from the meeting point. Which of the following correctly analyzes his liability under the common law "dangerous proximity" test and the MPC "substantial step" test?
 
-(a) Yes, because he had a formal contractual duty to protect Wallace and Greggs as the logistics manager of the warehouse.
-(b) Yes, because by ordering the mixing that sparked the fire, he created the peril, giving rise to a legal duty. <!-- correct -->
-(c) No, because he did not personally knock over the vat, rendering him a mere bystander with no obligation to act.
-(d) No, because the criminal law never imposes a duty to rescue a stranger without a recognized special status relationship existing.
-(e) Yes, because all bystanders have an affirmative statutory duty to call emergency services when witnessing a severe chemical structure fire.
+(a) He is guilty under both tests because driving toward the meeting point demonstrates his clear purpose to commit the offense.
+(b) He is not guilty under both tests because he had not yet encountered the buyer, leaving an opportunity to abandon the effort.
+(c) He is guilty under the dangerous proximity test because two miles is close enough, but not guilty under the substantial step test because his actions were uncorroborated.
+(d) He is guilty under the substantial step test because driving to the meeting strongly corroborates his purpose, but not guilty under the dangerous proximity test because he was not yet on the verge of committing the crime. <!-- correct -->
+(e) He is guilty under the substantial step test because he completed the preparation phase, and guilty under the dangerous proximity test because the drugs were in his control.
 
-**Answer:** (b)
+**Answer:** (d)
 
-**Explanation:** While there is generally no duty to rescue a stranger, the common law recognizes an exception when a person creates the peril. Marlowe ordered the mixing of the volatile chemicals that sparked the severe fire (Facts 4 and 5), thereby creating the peril. This imposes a legal duty on him to act, such as by calling 911. (a) is wrong because logistics managers do not have an inherent contractual duty to protect first responders. (c) is wrong because ordering the mixing makes him responsible for creating the dangerous situation, even if he didn't personally knock over the vat. (d) is wrong because the creation of peril is a recognized exception to the no-duty-to-rescue rule. (e) is wrong because there is no general statutory duty for all bystanders to call 911 absent a specific Good Samaritan statute.
+**Explanation:** (d) is correct. The MPC "substantial step" test only requires an act strongly corroborative of the actor's criminal purpose, which driving to a meeting point with the drugs clearly satisfies. The common law "dangerous proximity" test is much stricter, requiring the defendant to be very near the completion of the crime, which being two miles away typically fails to satisfy. (a) ignores the distinct actus reus requirements of both tests. (b) incorrectly concludes he fails the substantial step test. (c) completely reverses the relative difficulty of the two tests. (e) mistakenly conflates mere control of the contraband with dangerous proximity to the transaction.
 
-**Tags:** chapters: [9], topics: [omissions, duty to act, creation of peril], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, substantial-step, dangerous-proximity], difficulty: intermediate, cognitive: analysis
 
-**Grounding:** Chapter 9, Jones v. United States (creation of peril imposes a legal duty to act/rescue)
+**Grounding:** Chapter 17: Attempts — actus-reus-substantial-step, actus-reus-proximity-test
 
 <!-- audit: MUST FIX
-Check 1: finding (Doctrinal accuracy is shaky. The "creation of peril" exception under the *Jones* framework typically requires the defendant's own physical conduct to directly cause the danger. Imposing criminal omission liability on a manager through "vicarious" creation of peril—merely because they ordered a lawful/unlawful task that another person botched—is highly debated and stretches black-letter doctrine.)
-Check 2: finding (A prepared student could credibly challenge (b) and argue for (c). If someone else actually knocked over the vat, the student would correctly argue that the *other person* created the peril. Marlowe's remote act of "ordering the mixing" is a but-for cause, but doctrinally too attenuated to establish the direct "creation" necessary to impose an affirmative duty to rescue strangers under criminal law, rendering him a legal bystander.)
-Check 3: pass
-Check 4: finding (The stem relies on an external master fact pattern—"Facts 4 and 5"—and does not self-contain the facts about Marlowe ordering the mixing or the vat being knocked over. Without the master facts, the student must assume facts injected by the options.)
-Check 5: pass
-Check 6: pass
-Check 7: pass
-Recommended fix: To cleanly test the "creation of peril" doctrine without introducing proximate-cause or vicarious-duty ambiguities, revise the facts/options so Marlowe *personally* knocked over the vat or directly caused the spark. This squarely triggers the duty and removes the defensibility of (c).
+<check 1>: pass (assuming the attempt was involuntarily thwarted, the application of the two actus reus tests to these facts is doctrinally sound).
+<check 2>: finding (A prepared student could credibly argue for (b). The word "aborted" commonly implies the actor voluntarily chose to stop. If Marlowe voluntarily "aborted" the delivery before being arrested, he would have a valid affirmative defense of abandonment/renunciation under the MPC, making him not guilty under both tests.)
+<check 3>: pass (Explanation correctly maps the standards for substantial step and dangerous proximity).
+<check 4>: finding (The facts are insufficient. The stem states it was an "aborted delivery attempt" but does not specify *why* or *how* it was aborted. To test actus reus safely without triggering the `abandonment-mpc` defense, the facts must make clear the police thwarted the attempt, rather than Marlowe voluntarily terminating it).
+<check 5>: pass (Directly tests specific, named multijurisdictional frameworks).
+<check 6>: pass (No excluded topics).
+<check 7>: pass (Doctrines are thoroughly represented in Chapter 17 tags).
+Recommended fix: Replace "his aborted delivery attempt. He was arrested two miles from the meeting point." with "his attempt to deliver drugs. He was en route to the meeting point when police pulled his car over and arrested him two miles away."
 -->

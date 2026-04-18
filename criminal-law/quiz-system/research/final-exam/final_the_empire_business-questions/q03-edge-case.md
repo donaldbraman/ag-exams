@@ -1,22 +1,22 @@
-**Q3.** Assume that Marcus is also charged under 18 U.S.C. § 924(c) with "using" a firearm during and in relation to a drug trafficking crime. Based on his acceptance of the handguns in exchange for cocaine, is Marcus guilty?
+**Q3.** Is Marcus liable as an accomplice to drug distribution based on his initial act of routing the trucks before Carmine threatened him?
 
-(a) Not guilty, because a person who merely receives a firearm as consideration in a drug transaction does not "use" the firearm. <!-- correct -->
-(b) Not guilty, because Marcus did not intend to use the unregistered firearms for any subsequent violent crimes or armed robberies.
-(c) Guilty, because the acquired firearms directly facilitated the completion of his underlying federal drug trafficking offense.
-(d) Guilty, because both parties in a barter transaction are legally considered to actively employ the items being exchanged.
-(e) Guilty, because he accepted unregistered firearms, which is classified as an inherently violent act under federal law.
+(a) Not liable, because he lacked the specific purpose to promote or facilitate the drug distribution, having only knowledge and receiving his regular salary. <!-- correct -->
+(b) Liable, because his knowledge of the illegal drug activity combined with his voluntary affirmative act of routing the trucks satisfies the requisite mens rea.
+(c) Not liable, because an employee of a legitimate corporation cannot be held liable as an accomplice for performing their ordinary, pre-existing job duties.
+(d) Liable, because he acted recklessly by continuing to route the trucks while consciously disregarding the substantial risk that they contained illegal drugs.
+(e) Not liable, because he expressly communicated his non-participation to Carmine, which legally constitutes an effective withdrawal from the criminal scheme.
 
 **Answer:** (a)
 
-**Explanation:** Marcus is not guilty under § 924(c) for "using" the firearm. In *Watson v. United States*, the Supreme Court held that a defendant who trades drugs to acquire a gun does not "use" the firearm; only the party tendering the gun uses it as consideration. (b) fails because the statute addresses conduct during the immediate drug crime, not future intent. (c) fails because broad facilitation is not the legal standard for "using" a firearm. (d) fails because *Watson* expressly rejected this symmetry argument, establishing that a seller does not "use" a buyer's consideration. (e) fails because receiving an unregistered firearm is a separate regulatory offense, but it does not magically convert the receipt itself into a "use" under § 924(c).
+**Explanation:** Accomplice liability requires the purpose to promote or facilitate the underlying offense. Mere knowledge of the crime, combined with providing ordinary commercial services for a regular salary without a stake in the venture, is insufficient to establish purpose. (b) is wrong because knowledge is not enough for accomplice liability; the standard is purpose. (c) is wrong because performing ordinary job duties can constitute actus reus for accomplice liability if done with the requisite purpose. (d) is wrong because recklessness does not satisfy the mens rea requirement for accomplice liability, which requires purpose as to the conduct. (e) is wrong because his verbal statement merely clarified his mental state (lack of purpose); he actually performed the routing, so he didn't "withdraw" from an act he executed.
 
-**Tags:** chapters: [15], topics: [use-924c, trading-drugs-for-gun], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice-liability, mens-rea, purpose-vs-knowledge], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 15 (Watson v. United States)
+**Grounding:** Chapter 18 - Mens Rea (Purpose) / Lauria
 
 <!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass
+1. Fact Pattern Booby Traps: pass (While routing trucks around weigh stations could arguably be viewed as a "specialized service" from which purpose might be inferred under Lauria, Marcus's explicit rejection of a stake in the venture ("I don't want a cut... just my regular salary") firmly locks in his mens rea as mere knowledge, making A the definitively correct application of the doctrine).
 2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+3. Cross-Question Spoilers: pass (The question stem successfully isolates the correct time period by explicitly saying "before Carmine threatened him," preventing Q4's duress doctrine from bleeding into the analysis here).
+Recommended fix: N/A
 -->

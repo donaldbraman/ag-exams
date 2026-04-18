@@ -1,17 +1,22 @@
-**Q4.** Prior to the police swapping the drugs, did Marcus and Chloe legally possess the narcotics stored in the gym locker?
+**Q4.** Assume that, whether or not Leo asserts self-defense, the prosecution charges Dominic with the murder of the rival distributor. Is Dominic guilty?
 
-(a) Marcus had constructive possession because he maintained power and intent to control the drugs, but Chloe did not because she lacked knowledge that the items were narcotics. <!-- correct -->
-(b) Both Marcus and Chloe had constructive possession because they shared the combination code and therefore had equal joint access to the locker.
-(c) Neither individual had constructive possession because the drugs were stored in a public gym facility where management maintained ultimate physical access.
-(d) Chloe had exclusive constructive possession because she was given the code to retrieve the bag, legally terminating Marcus's control over the specific items.
-(e) Marcus had constructive possession because he was the original owner, but Chloe's liability is limited to conspiracy because she had not yet opened the locker.
+(a) Not guilty, because Dominic did not personally participate in, explicitly order, or have specific advanced knowledge of the territorial dispute.
+(b) Not guilty, because the murder was an independent, intervening act by Leo that broke the legal chain of causation from the initial drug conspiracy.
+(c) Guilty, because under the strict liability framework of enterprise law, any violence committed by a gang member is automatically imputed to the leader.
+(d) Guilty, because the murder of a rival distributor was a reasonably foreseeable consequence of the drug conspiracy and committed in furtherance of it. <!-- correct -->
+(e) Guilty, because Dominic is held absolutely liable for any homicides that occur within the established geographic territory of the Waterfront Syndicate.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** Constructive possession requires both the power and intent to exercise control over an item, as well as knowledge of the item's illicit character. Marcus maintained joint access and control by keeping his gear in the locker. Chloe had access but lacked the requisite mens rea because she honestly believed the bag contained cash, not narcotics. Therefore, she did not possess narcotics. (b) fails because joint physical access is insufficient without knowledge of the contraband's character. (c) fails because storing items in a public facility does not defeat constructive possession if the defendant maintains the combination code. (d) fails because code sharing creates joint, not exclusive, control. (e) fails because Chloe is not liable for conspiracy to possess narcotics without intent to possess narcotics.
+**Explanation:** The correct answer is (d). Under the *Pinkerton* doctrine, a co-conspirator is liable for the substantive offenses committed by other co-conspirators if those offenses were committed in furtherance of the conspiracy and were reasonably foreseeable consequences of the agreement. A fatal territorial dispute with a rival is highly foreseeable in an armed narcotics distribution conspiracy (Facts 1, 2, 4).
 
-**Tags:** chapters: [15, 10], topics: [constructive-possession, mistake-of-fact], difficulty: hard, cognitive: analysis
+(a) is incorrect because *Pinkerton* liability specifically dispenses with the requirement that the defendant personally participate in or explicitly order the substantive offense.
+(b) is incorrect because acts by co-conspirators in furtherance of the conspiracy do not sever the chain of liability; they are the very mechanism of *Pinkerton* liability.
+(c) is incorrect because liability is grounded in conspiracy doctrine (*Pinkerton*), not a general "enterprise strict liability" rule for gangs.
+(e) is incorrect because geographic location alone does not create liability; the crime must be in furtherance of the conspiracy and reasonably foreseeable.
 
-**Grounding:** Chapter 15 (Drugs and Guns) - Constructive Possession; Chapter 10 (Mistake of Fact)
+**Tags:** chapters: [19], topics: [Pinkerton-liability, conspiracy], difficulty: medium, cognitive: application
 
-<!-- grounding: GROUNDED — Constructive Possession & Mistake of Fact, Ch 15 & Ch 10, Refinement `cp-awareness-control` and `mof-mental-state-negation`. Rule paraphrased accurately. -->
+**Grounding:** Chapter 19 - Conspiracy > Pinkerton Doctrine
+
+<!-- grounding: GROUNDED — Pinkerton Doctrine, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->

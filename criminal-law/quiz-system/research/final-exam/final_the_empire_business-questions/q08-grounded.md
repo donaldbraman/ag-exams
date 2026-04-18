@@ -1,17 +1,17 @@
-**Q8.** Marcus is charged with criminal homicide for the shooting of Ben. Will Marcus be completely acquitted based on the justification of self-defense?
+**Q8.** Does Dominic's statement to the agents ("I told my wife to get rid of that 9mm... I knew it was still in the house") establish constructive possession?
 
-(a) No, because Marcus was the initial aggressor in the burglary and did not withdraw or attempt to retreat before using deadly force. <!-- correct -->
-(b) No, because an objectively reasonable person would never perceive a lunging strike with a crowbar as a threat of imminent serious injury.
-(c) Yes, because Ben escalated the encounter by lunging with a deadly weapon, which instantly restored Marcus's right to defend himself.
-(d) Yes, because Marcus closed his eyes and fired blindly, proving he lacked the specific intent required to commit an unlawful homicide.
-(e) Yes, because a burglar has no duty to retreat when unexpectedly confronted by an armed property owner inside a commercial building.
+(a) No, because acknowledging the presence of contraband proves awareness but does not, without more, prove the intent to exercise dominion and control. <!-- correct -->
+(b) Yes, because giving instructions to another person about disposing of a weapon constitutes an undeniable admission of physical ownership.
+(c) No, because statements made during the execution of a search warrant are generally inadmissible to prove the mental state of the defendant.
+(d) Yes, because any statement indicating knowledge of a firearm's location in a shared household automatically satisfies the dominion requirement.
+(e) No, because he instructed his wife to get rid of the firearm, which legally constitutes an effective abandonment of his possessory interest.
 
 **Answer:** (a)
 
-**Explanation:** Marcus cannot claim self-defense. Under the initial aggressor bar, a person who initiates the confrontation—especially by committing an armed felony like burglary—loses the right to claim self-defense unless they clearly withdraw from the conflict and communicate that withdrawal. Marcus did not attempt to retreat out the open door. (b) fails because a heavy steel crowbar swung by an adult is objectively capable of causing death or serious bodily injury. (c) fails because a victim's use of force to resist a home invasion or burglary does not restore the initial aggressor's right to self-defense. (d) fails because self-defense is an affirmative justification, and firing blindly can still constitute extremely reckless homicide regardless of specific intent. (e) fails because the castle doctrine (no duty to retreat) protects lawful occupants in their own home, not intruders committing burglary.
+**Explanation:** A defendant's statement acknowledging that contraband is present in a shared home proves awareness but does not prove the intent to exercise dominion and control required for constructive possession (*State v. White*). Telling someone else to get rid of *their* gun reinforces that he knew about it but did not control it. (b) is wrong because telling the owner to dispose of it does not show his ownership; it shows awareness. (c) is wrong because voluntary statements during a search are admissible evidence of mental state. (d) is wrong because courts draw a sharp line between knowing and controlling; awareness alone is insufficient. (e) is wrong because abandonment requires first having possession, which the facts do not establish he ever had.
 
-**Tags:** chapters: [22], topics: [self-defense, initial-aggressor, objective-reasonableness], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [constructive-possession, incriminating-statement], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 22 (Initial Aggressor Bar; Duty to Retreat)
+**Grounding:** Chapter 15 - State v. White (Incriminating Statements)
 
-<!-- grounding: GROUNDED — Initial Aggressor Bar, Ch 22, Refinement `initial-aggressor-bar`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Constructive Possession (Incriminating Statements), Ch 15, Refinement `cp-incriminating-statement`. Rule paraphrased accurately. -->

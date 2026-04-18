@@ -1,18 +1,18 @@
-**Q13.** Assume that, despite the location of the gun, Dominic is prosecuted under 18 U.S.C. § 922(g) for being a felon in possession of a firearm. Dominic argues he cannot be convicted because he genuinely believed his prior commercial fraud conviction was only a misdemeanor. Under the federal standard established in Rehaif, will this defense succeed?
+**Q13.** Assume Dominic is charged with intentional murder. Can he mitigate the charge to voluntary manslaughter based on provocation from Victor throwing the ledger?
 
-(a) Yes, because the Morissette presumption requires the government to prove that the defendant knew he belonged to the prohibited class of felons. <!-- correct -->
-(b) Yes, because mistake of law is always a complete defense when the underlying penal statute regulates otherwise innocent conduct like possessing a firearm.
-(c) No, because the felon-in-possession statute is a strict liability public welfare offense, rendering the defendant's mental state regarding his criminal record irrelevant.
-(d) No, because the traditional rule that "ignorance of the law is no excuse" bars any defense based on a misunderstanding of one's prior conviction status.
-(e) No, because the statute's "knowingly" mens rea requirement applies only to the physical act of possessing the firearm, not to the attendant status circumstance.
+(a) No, because a victim's lawful resistance to an ongoing violent felony does not constitute legally adequate provocation to mitigate murder to manslaughter. <!-- correct -->
+(b) Yes, because being struck in the face by a heavy object is universally recognized as adequate provocation that causes a sudden heat of passion.
+(c) No, because the provocation doctrine explicitly requires the defendant to discover spousal adultery, which remains the sole surviving category at common law.
+(d) Yes, because the jury could find that the sudden ledger strike triggered an extreme emotional disturbance for which there was a reasonable explanation.
+(e) No, because Dominic drew his weapon immediately, meaning there was insufficient cooling time for the voluntary manslaughter mitigation to legally apply.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because under *Rehaif v. United States*, the *Morissette* presumption of mens rea applies to status elements. The government must prove the defendant knew he belonged to the prohibited category (that he knew he had a felony conviction). (b) is incorrect because this is an exception to the mistake of law rule based on a status element, not a categorical rule that penal statutes regulating innocent conduct allow mistake of law defenses. (c) is incorrect because *Rehaif* explicitly rejected the argument that § 922(g) is a strict liability public welfare offense. (d) is incorrect because knowing one's conviction status is treated as a factual/status element under the statute, overcoming the general ignorance of the law bar. (e) is incorrect because *Rehaif* expressly extended the "knowingly" mens rea to the attendant circumstance of felon status.
+**Explanation:** Provocation (heat of passion) requires legally adequate provocation. A victim's lawful right of self-defense or resistance to an ongoing violent felony committed by the defendant is never legally adequate provocation. (b) is wrong because while battery is a traditional category, it does not apply when the battery is a lawful response to the defendant's own felonious attack. (c) is wrong because common law recognized several categories (battery, mutual combat), not just adultery. (d) is wrong because under EED, the emotional disturbance must have a reasonable explanation, and courts do not recognize an armed extortionist being resisted as reasonable. (e) is wrong because immediate action *supports* a heat of passion claim (no cooling time); his claim fails because the provocation was legally inadequate, not because he cooled off.
 
-**Tags:** chapters: [10], topics: [mistake-of-fact, mistake-of-law, status-element, rehaif], difficulty: medium, cognitive: application
+**Tags:** chapters: [12, 13], topics: [homicide-grading, provocation, heat-of-passion], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 10 (Rehaif v. United States; Morissette Presumption)
+**Grounding:** Chapter 12 - Historical Categories / Provocation
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

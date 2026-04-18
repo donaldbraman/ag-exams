@@ -1,18 +1,23 @@
-**Q1.** Can Dominic be convicted of a substantive RICO violation and RICO conspiracy based on the Waterfront Syndicate's operations?
+**Q1.** Assume the prosecution charges Dominic and Leo with conspiracy to distribute narcotics. Will this charge succeed?
 
-(a) Yes, because the syndicate functions as a continuing unit with an ongoing organizational structure, and Dominic agreed to participate in its racketeering activities. <!-- correct -->
-(b) No, because the syndicate lacks an official legal, corporate, or publicly recognized business structure required to establish a valid enterprise.
-(c) Yes, because any group of individuals committing two or more predicate acts automatically creates an enterprise and a conspiracy by operation of law.
-(d) No, because the enterprise's activities are exclusively criminal, whereas a RICO conviction requires the enterprise to maintain a legitimate commercial front.
-(e) Yes, because Dominic's explicit claim to the title of "boss" establishes the hierarchy necessary for an enterprise and strictly bypasses the agreement requirement.
+(a) Not guilty, because "locking down a market" is too vague to constitute a legally cognizable unlawful objective under conspiracy law.
+(b) Not guilty, because Leo unilaterally recruited the street crew without Dominic's express knowledge or prior explicit authorization.
+(c) Guilty of conspiracy, because their exchange of mutual commitments to control the market satisfies the bilateral agreement requirement. <!-- correct -->
+(d) Guilty of conspiracy, because Dominic is strictly liable for any planning offenses committed by his organizational subordinates.
+(e) Not guilty, because the agreement lacked an explicit overt act toward the distribution of narcotics at the exact time of the conversation.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** Under the Supreme Court's *Boyle* standard, a RICO enterprise must have a purpose, relationships, and longevity sufficient to function as a continuing unit, but it does not require formal legal or corporate structure. Dominic's oversight of the organized syndicate and agreement to conduct its affairs through a pattern of racketeering satisfies both substantive RICO and conspiracy requirements. (b) fails because a formal or legal structure is not required for an "associated-in-fact" enterprise. (c) describes a pattern of racketeering, but incorrectly states this automatically creates an enterprise. (d) is wrong because entirely illicit enterprises fall squarely within RICO's scope. (e) is wrong because a title does not bypass the fundamental requirement of an agreement for conspiracy.
+**Explanation:** The correct answer is (c). Conspiracy requires an agreement between two or more people to commit an unlawful act. Dominic's statement of the goal ("lock down the East End pill market") and Leo's commitment to action ("I'll recruit the street crew today") demonstrate a clear meeting of the minds and bilateral agreement to distribute narcotics (Facts 1 and 2). 
 
-**Tags:** chapters: [20], topics: [RICO-enterprise, RICO-conspiracy], difficulty: medium, cognitive: application
+(a) is incorrect because the context of the Syndicate clearly indicates that locking down a pill market is an agreement to distribute narcotics.
+(b) is incorrect because Leo's agreement with Dominic formed the conspiracy; the specific details of recruiting do not negate their mutual commitment.
+(d) is incorrect because Pinkerton liability applies to substantive offenses committed during a conspiracy, not the formation of the agreement itself.
+(e) is incorrect because an overt act (which Leo later committed by hiring Marcus) does not need to occur at the exact moment the verbal agreement is formed.
 
-**Grounding:** Chapter 20 (RICO and Enterprise Liability) - Boyle v. United States
+**Tags:** chapters: [19], topics: [conspiracy, agreement-inference, bilateral-unilateral], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 19 - Conspiracy > Intent to agree & Bilateral requirement
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

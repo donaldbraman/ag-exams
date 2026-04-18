@@ -1,25 +1,27 @@
-**Q8.** Which of the following is the most accurate assessment of Leo's liability for the rival's death?
+**Q8.** Assume Marcus files a motion to suppress the drugs, arguing the lane violation stop was an unconstitutional pretext motivated by racial profiling. How will the court rule?
 
-(a) He is guilty of felony murder, and his act of initiating an armed robbery makes him the initial aggressor, completely barring any claim of self-defense. <!-- correct -->
-(b) He is guilty of extreme-recklessness homicide, but he can successfully claim self-defense because the rival escalated the encounter by lunging with a lethal weapon.
-(c) He is not guilty of felony murder because the gun discharged accidentally, meaning the death was not caused in furtherance of the underlying robbery.
-(d) He is guilty of felony murder, but the initial-aggressor bar does not apply because he was stumbling backward, satisfying the duty to retreat.
-(e) He is not guilty of extreme-recklessness homicide because the sudden and unexpected lunge by the rival legally breaks the chain of proximate causation.
+(a) Grant the motion, because the objective evidence clearly demonstrates the police were using a minor traffic infraction to conduct an unconstitutional drug sweep.
+(b) Grant the motion, because the statistical evidence of severe racial disparities invalidates the standard presumption of regularity for the municipal traffic stop.
+(c) Deny the motion, because under the Fourth Amendment, an officer's subjective investigative motives are completely irrelevant if objective probable cause existed. <!-- correct -->
+(d) Deny the motion, because the subsequent discovery of fentanyl inside the vehicle retroactively justifies the officers' initial pretextual traffic stop decision.
+(e) Deny the motion, because traffic violations operate as strict public welfare offenses that completely bypass traditional Fourth Amendment warrant requirements.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** Felony murder applies to any death—even an accidental one—caused in the perpetration of a dangerous felony like robbery. Furthermore, by initiating an armed robbery, Leo became the initial aggressor. The initial aggressor rule completely bars a self-defense claim unless the aggressor effectively withdraws from the encounter, which Leo did not do. (b) fails because the victim's defensive lunge does not restore the initial aggressor's right to self-defense. (c) fails because felony murder explicitly covers accidental deaths during the commission of the felony. (d) fails because stumbling backward during an active armed robbery does not constitute legal withdrawal or retreat. (e) fails because a victim resisting a robbery is highly foreseeable and does not break proximate causation.
+**Explanation:** The correct answer is (c). Under *Whren v. United States*, a traffic stop is constitutional under the Fourth Amendment as long as the officers had objective probable cause to believe a traffic violation occurred. The Supreme Court held that the officers' subjective motivations (such as using the stop as a pretext to look for drugs) do not invalidate the stop under the Fourth Amendment. 
 
-**Tags:** chapters: [14, 22], topics: [felony-murder, initial-aggressor-bar], difficulty: medium, cognitive: analysis
+(a) is incorrect because *Whren* explicitly permits using minor traffic infractions as pretexts for drug investigations.
+(b) is incorrect because statistical evidence of racial disparities raises an Equal Protection issue, but it does not invalidate the Fourth Amendment reasonableness of the specific stop.
+(d) is incorrect because Fourth Amendment analysis depends on the justification at the inception of the stop, not retroactive justification from subsequently discovered evidence.
+(e) is incorrect because traffic stops still require Fourth Amendment justification (probable cause or reasonable suspicion), even if they do not require warrants.
 
-**Grounding:** Chapter 14 (Felony Murder); Chapter 22 (Self-Defense) - Initial Aggressor Bar
+**Tags:** chapters: [6], topics: [Whren-pretext-constitutional, volume-engine-low-yield], difficulty: easy, cognitive: application
 
-### Stem 2: Procedural and Appellate Review
-
-The case has moved to the pre-trial and trial phases under AUSA Vance. Review Vance's procedural tactics with Marcus, Senator Sterling's corruption charge, and the trial court's jury rulings to anticipate the defense's appellate arguments.
+**Grounding:** Chapter 6 - Prosecutors > Whren pretext constitutional
 
 <!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass (Accidental discharge does not negate felony murder because the underlying felony and wielding of the weapon were voluntary acts; self-defense is also correctly framed as being barred due to his status as the initial deadly aggressor).
-2. Cross-Doctrine Clashes: pass (No merger issues with robbery and felony murder; proximate cause remains intact despite the victim's defensive response).
-3. Cross-Question Spoilers: pass (The result smoothly aligns with Q3 testing Pinkerton liability for the co-conspirator).
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: N/A
 -->

@@ -4,105 +4,146 @@ The QA pipeline flagged this question. Rewrite `q05.md` addressing each numbered
 
 ## Issue 1 — audit
 
-<!-- audit: MUST FIX -->
+**Q5.** Assume Marcus is charged with attempted distribution of narcotics based on his interception during Operation Sweep. Is he guilty?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) Not guilty, because he had not yet arrived at the delivery location, meaning he remained safely within the legal zone of mere preparation.
+(b) Not guilty, because the police intervention made the completion of the crime impossible, establishing a valid and complete factual impossibility defense.
+(c) Guilty, because driving to the delivery location constitutes a substantial step that is strongly corroborative of his underlying criminal purpose. <!-- correct -->
+(d) Guilty, because agreeing to the delivery under threat from Leo automatically satisfies the affirmative actus reus requirement for criminal attempt.
+(e) Guilty, because his possession of the drugs in the vehicle completed the target offense, merging the attempt into the final completed criminal act.
 
-Error: Model returned empty or blocked response.
+**Answer:** (c)
+
+**Explanation:** The correct answer is (c). Under the Model Penal Code and majority modern approaches, the actus reus for attempt requires a "substantial step" in a course of conduct planned to culminate in the commission of the crime, and the step must be strongly corroborative of the actor's criminal purpose. Marcus possessing the stash and driving en route to the delivery clearly satisfies this standard (Fact 5).
+
+(a) is incorrect because the substantial step test reaches further back in time than common-law proximity tests, criminalizing conduct well before the defendant arrives at the final location.
+(b) is incorrect because factual impossibility (the police intercepting him before he could succeed) is not a valid defense to attempt.
+(d) is incorrect because an agreement alone constitutes conspiracy, but attempt requires an overt act that amounts to a substantial step toward commission.
+(e) is incorrect because while possession was completed, the target offense of *distribution* was not completed, meaning attempt is the correct charge.
+
+**Tags:** chapters: [17], topics: [attempt, actus-reus-substantial-step], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 17 - Attempts > Actus reus (substantial step)
+
+<!-- audit: MUST FIX
+check 1: Fails. The marked answer concludes Marcus is "Guilty" based on the MPC substantial step test. However, if the jurisdiction uses a common law proximity test, he might not be guilty. Additionally, option (d) mentions Marcus acting "under threat from Leo," which introduces a potential duress defense (Ch 21); if duress applies, Marcus would be not guilty. 
+check 2: Fails. Without a stipulated jurisdiction, a prepared student could argue for (a) using common law "dangerous proximity" or "physical proximity" tests, under which driving to a location is often deemed mere preparation.
+check 3: Fails. The explanation relies on "Fact 5," confirming that this question was separated from a larger, missing fact pattern. 
+check 4: Fails completely. The stem introduces "Marcus," "Operation Sweep," and "Fact 5," and option (d) introduces a "threat from Leo," but none of these facts are provided in the question stem. The student cannot answer this without the missing fact pattern.
+check 5: Fails. The attempt actus reus split (MPC substantial step vs. common law proximity) is not resolved by the stem, leaving the question hopelessly ambiguous.
+check 6: pass
+check 7: pass
+Recommended fix: Provide the self-contained facts within the stem (what Marcus did, the fact that he was stopped by police en route, the drugs in the car, etc.). Second, explicitly stipulate the jurisdiction (e.g., "Under the Model Penal Code...") so students know to apply the substantial step test rather than common law proximity. Third, either resolve the "threat from Leo" to preclude a duress defense or remove it.
+-->
 
 ## Issue 2 — edge-case
 
-**Q5.** Assume Chloe is charged with attempted possession of narcotics for retrieving the bag of fake powder. Which of the following is correct?
+**Q5.** Assume Marcus is charged with attempted distribution of narcotics based on his interception during Operation Sweep. Is he guilty?
 
-(a) Not guilty because her honest belief that the bag contained stolen cash negates the specific intent required for an attempted narcotics possession conviction. <!-- correct -->
-(b) Guilty because her arrival at the gym to retrieve the bag constitutes a substantial step that automatically satisfies the mens rea for attempt.
-(c) Guilty because factual impossibility is never a valid defense to an attempt charge, meaning her mistake about the powder is legally irrelevant.
-(d) Not guilty because her arrest before opening the locker means her actions constituted mere preparation rather than a substantial step toward the offense.
-(e) Guilty because she is held strictly liable for whatever the bag originally contained before the police replaced the narcotics two days prior.
+(a) Not guilty, because he had not yet arrived at the delivery location, meaning he remained safely within the legal zone of mere preparation.
+(b) Not guilty, because the police intervention made the completion of the crime impossible, establishing a valid and complete factual impossibility defense.
+(c) Guilty, because driving to the delivery location constitutes a substantial step that is strongly corroborative of his underlying criminal purpose. <!-- correct -->
+(d) Guilty, because agreeing to the delivery under threat from Leo automatically satisfies the affirmative actus reus requirement for criminal attempt.
+(e) Guilty, because his possession of the drugs in the vehicle completed the target offense, merging the attempt into the final completed criminal act.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct because attempt requires the specific intent (purpose) to commit the target offense. Under the mistake of fact doctrine, Chloe's honest belief that the bag contained stolen cash negates the mens rea required for attempted narcotics possession, as she did not intend to possess drugs. (b) is incorrect because although arriving at the gym is a substantial step, she still lacks the required specific intent for the drug offense. (c) is incorrect because while factual impossibility (the bag containing fake powder) is not a defense, her subjective lack of intent to possess narcotics is a valid defense. (d) is incorrect because walking through the front doors to retrieve the target item typically crosses the line from preparation to a substantial step. (e) is incorrect because attempt is a specific intent crime that never imposes strict liability based on prior contents.
+**Explanation:** The correct answer is (c). Under the Model Penal Code and majority modern approaches, the actus reus for attempt requires a "substantial step" in a course of conduct planned to culminate in the commission of the crime, and the step must be strongly corroborative of the actor's criminal purpose. Marcus possessing the stash and driving en route to the delivery clearly satisfies this standard (Fact 5).
 
-**Tags:** chapters: [10, 17], topics: [attempt-mens-rea, mistake-of-fact, impossibility], difficulty: hard, cognitive: application
+(a) is incorrect because the substantial step test reaches further back in time than common-law proximity tests, criminalizing conduct well before the defendant arrives at the final location.
+(b) is incorrect because factual impossibility (the police intercepting him before he could succeed) is not a valid defense to attempt.
+(d) is incorrect because an agreement alone constitutes conspiracy, but attempt requires an overt act that amounts to a substantial step toward commission.
+(e) is incorrect because while possession was completed, the target offense of *distribution* was not completed, meaning attempt is the correct charge.
 
-**Grounding:** Chapter 17 - Attempts (Mens rea specific intent); Chapter 10 - Mistake of Fact
+**Tags:** chapters: [17], topics: [attempt, actus-reus-substantial-step], difficulty: easy, cognitive: application
 
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: Factual contradiction. The prompt for Q5 states Chloe is charged "for retrieving the bag," and Fact 5 similarly states "When Chloe retrieved the bag...". However, Fact 6 and Option (d) explicitly state she was intercepted and arrested at the front doors *before* ever opening the locker. This makes the sequence of events incoherent.
-2. Cross-Doctrine Clashes: Pass. Even under the "Legal Wrong" exception to the mistake of fact doctrine (MPC 2.04(2)), Chloe would only be liable for the crime she intended to commit (attempted possession of stolen property), not the charged specific-intent crime of attempted possession of narcotics. Option (a) remains legally sound.
-3. Cross-Question Spoilers: Pass.
-Recommended fix: Update the Q5 prompt to resolve the temporal contradiction: "Assume Chloe is charged with attempted possession of narcotics after being arrested at the gym." (Note: The author should also lightly amend Fact 5 in the global prompt from "When Chloe retrieved the bag..." to "When Chloe agreed to retrieve the bag...").
+**Grounding:** Chapter 17 - Attempts > Actus reus (substantial step)
+
+<!-- edge-case-audit: SHOULD FIX
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: The blanket question "Is he guilty?" forces an evaluation of Marcus's potential duress and mistake-of-fact defenses (Fact 6), which could alter the ultimate conclusion of guilt. 
+3. Cross-Question Spoilers: Q6 and Q7 explicitly test Marcus's mens rea/mistake-of-fact and duress defenses. Asking "Is he guilty?" in Q5 steps on those questions by implicitly requiring students to resolve those defenses here to confidently select "Guilty."
+Recommended fix: Add a clarifying assumption to the stem, such as: "Assuming Marcus had the requisite mens rea and lacks any affirmative defenses, is he guilty?" or ask directly about the element: "Did Marcus's conduct satisfy the actus reus requirement for attempt?"
 -->
 
 ## Issue 3 — argpass-sonnet
 
-**Q5.** Assume Chloe is charged with attempted possession of narcotics for retrieving the bag of fake powder. Which of the following is correct?
+**Q5.** Assume Marcus is charged with attempted distribution of narcotics based on his interception during Operation Sweep. Is he guilty?
 
-(a) Not guilty because her honest belief that the bag contained stolen cash negates the specific intent required for an attempted narcotics possession conviction. <!-- correct -->
-(b) Guilty because her arrival at the gym to retrieve the bag constitutes a substantial step that automatically satisfies the mens rea for attempt.
-(c) Guilty because factual impossibility is never a valid defense to an attempt charge, meaning her mistake about the powder is legally irrelevant.
-(d) Not guilty because her arrest before opening the locker means her actions constituted mere preparation rather than a substantial step toward the offense.
-(e) Guilty because she is held strictly liable for whatever the bag originally contained before the police replaced the narcotics two days prior.
+(a) Not guilty, because he had not yet arrived at the delivery location, meaning he remained safely within the legal zone of mere preparation.
+(b) Not guilty, because the police intervention made the completion of the crime impossible, establishing a valid and complete factual impossibility defense.
+(c) Guilty, because driving to the delivery location constitutes a substantial step that is strongly corroborative of his underlying criminal purpose. <!-- correct -->
+(d) Guilty, because agreeing to the delivery under threat from Leo automatically satisfies the affirmative actus reus requirement for criminal attempt.
+(e) Guilty, because his possession of the drugs in the vehicle completed the target offense, merging the attempt into the final completed criminal act.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct because attempt requires the specific intent (purpose) to commit the target offense. Under the mistake of fact doctrine, Chloe's honest belief that the bag contained stolen cash negates the mens rea required for attempted narcotics possession, as she did not intend to possess drugs. (b) is incorrect because although arriving at the gym is a substantial step, she still lacks the required specific intent for the drug offense. (c) is incorrect because while factual impossibility (the bag containing fake powder) is not a defense, her subjective lack of intent to possess narcotics is a valid defense. (d) is incorrect because walking through the front doors to retrieve the target item typically crosses the line from preparation to a substantial step. (e) is incorrect because attempt is a specific intent crime that never imposes strict liability based on prior contents.
+**Explanation:** The correct answer is (c). Under the Model Penal Code and majority modern approaches, the actus reus for attempt requires a "substantial step" in a course of conduct planned to culminate in the commission of the crime, and the step must be strongly corroborative of the actor's criminal purpose. Marcus possessing the stash and driving en route to the delivery clearly satisfies this standard (Fact 5).
 
-**Tags:** chapters: [10, 17], topics: [attempt-mens-rea, mistake-of-fact, impossibility], difficulty: hard, cognitive: application
+(a) is incorrect because the substantial step test reaches further back in time than common-law proximity tests, criminalizing conduct well before the defendant arrives at the final location.
+(b) is incorrect because factual impossibility (the police intercepting him before he could succeed) is not a valid defense to attempt.
+(d) is incorrect because an agreement alone constitutes conspiracy, but attempt requires an overt act that amounts to a substantial step toward commission.
+(e) is incorrect because while possession was completed, the target offense of *distribution* was not completed, meaning attempt is the correct charge.
 
-**Grounding:** Chapter 17 - Attempts (Mens rea specific intent); Chapter 10 - Mistake of Fact
+**Tags:** chapters: [17], topics: [attempt, actus-reus-substantial-step], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 17 - Attempts > Actus reus (substantial step)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: This is the legally correct application of doctrine. Attempt is categorically a specific intent crime requiring the defendant to act with the purpose of committing the target offense. Under the mistake of fact doctrine, Chloe’s honest belief that the bag contained stolen cash means she lacked the mens rea to possess narcotics. Without the specific intent to possess drugs, she cannot be guilty of attempted narcotics possession.
-(b) Argument-for: A student could argue that arriving at the gym is an objective manifestation of intent that satisfies the Model Penal Code’s "substantial step" test. Since the physical act strongly corroborates criminal purpose, one might reason that completing this substantial step merges the actus reus and mens rea requirements, solidifying liability for an attempt charge.
-(c) Argument-for: A student might rely on the modern rule that factual impossibility (the bag containing fake powder instead of real drugs) is not a defense to attempt. If factual impossibility is categorically rejected, a student could incorrectly conclude that any mistake regarding the actual contents of the bag is overridden by the impossibility doctrine, making her subjective belief legally irrelevant.
-(d) Argument-for: Under traditional common law proximity tests (e.g., the "dangerous proximity" test), attempt requires the defendant to come very close to success. A student could argue that being arrested merely upon entering the gym—without even opening the locker—leaves too many intervening steps remaining. Thus, as a matter of law under these strict tests, her conduct falls short of a substantial step and remains mere preparation.
-(e) Argument-for: A student might argue that certain drug possession offenses carry strict liability elements. Since the bag actually contained narcotics two days prior and she is retrieving the specific container tied to that illicit origin, one could argue she constructively inherits liability for its original contents, regardless of her intent or the police intervention.
+(a) Argument-for: Under strict common-law physical proximity tests, a defendant must be within striking distance of completing the crime to be liable for attempt. A student could reasonably argue that because Marcus had not even arrived at the delivery location, he lacked the requisite proximity to the final act of distribution. Thus, under this older standard, his conduct would remain safely within the zone of mere preparation rather than crossing into attempt.
+(b) Argument-for: Factual impossibility occurs when a defendant's intended end constitutes a crime, but they fail to consummate it because of an external circumstance unknown to them. A student might observe that the police interception via Operation Sweep physically prevented Marcus from completing the distribution. If the student incorrectly remembers factual impossibility as an exculpatory doctrine, they would find this option appealing as a complete legal defense.
+(c) Argument-for: The Model Penal Code's "substantial step" standard is the modern majority rule for attempt actus reus. Under this test, a defendant's conduct must be strongly corroborative of their underlying criminal purpose. Driving toward the delivery location with a stash of narcotics clearly fulfills this requirement, demonstrating a firm, concrete commitment to distributing the drugs.
+(d) Argument-for: An agreement to commit a crime is the hallmark of conspiracy, which often requires a minimal overt act. A student might conflate the doctrines of conspiracy and attempt, arguing that the agreement with Leo itself constitutes the requisite actus reus for attempt. Additionally, the option's reference to the threat might lead a student to mistakenly conclude that coerced agreements automatically fulfill the threshold for attempt liability.
+(e) Argument-for: Marcus physically possessed the narcotics while driving his vehicle. A student could argue that this possession alone is a completed crime, meaning attempt doctrine is no longer necessary. By confusing the completed crime of possession with the uncompleted target crime of distribution, a student could easily rationalize that the attempt merged into the completed possessory act.
 
-Head-to-head: Option (a) is the decisively correct answer because it accurately applies the mistake of fact doctrine to the specific intent requirement of attempt. Option (b) fails by falsely claiming the actus reus (substantial step) "automatically satisfies" the mens rea. Option (c) conflates factual impossibility with mistake of fact. Option (e) falsely applies strict liability to attempt. Option (d), however, presents a structural issue: it claims her arrest before opening the locker "means her actions constituted mere preparation." In jurisdictions utilizing the dangerous proximity doctrine rather than the MPC substantial step test, this could arguably be a true statement. Because the explanation concedes her actions "typically" (rather than definitively) cross the line, (d) lacks an absolute word to lock it as an unambiguously false legal claim in all jurisdictions. 
+Head-to-head: Option (c) clearly states the correct modern standard (MPC substantial step) and correctly applies it to the facts. The distractors all contain distinct legal or factual errors, but option (a) relies on an implicit assumption about the governing jurisdiction. Option (b) explicitly invokes factual impossibility as a valid defense, which is universally false in modern criminal law. Option (d) utilizes the absolute "automatically satisfies," which falsely equates conspiracy's agreement element with attempt's actus reus. Option (e) explicitly and falsely states that the target offense (distribution) was completed. Option (a), however, lacks an absolute word to lock its falsifiability; its conclusion that Marcus remained in "mere preparation" could arguably be technically correct in a jurisdiction still applying a strict common-law physical proximity test. Therefore, (a) should be updated to ensure it is universally false.
 
 Falsifiable claim per distractor:
-- (b): "automatically satisfies the mens rea for attempt" — wrong because performing a substantial step (actus reus) does not automatically satisfy or replace the independent requirement of specific intent (mens rea).
-- (c): "meaning her mistake about the powder is legally irrelevant" — wrong because her mistake of fact (believing it was cash) negates specific intent, which operates as a completely distinct and valid defense from factual impossibility.
-- (d): "means her actions constituted mere preparation" — wrong under the MPC, but potentially defensible under common law proximity tests since it lacks an absolute qualifier (like "categorically"). 
-- (e): "she is held strictly liable for whatever the bag originally contained" — wrong because attempt is categorically a specific intent crime and does not permit strict liability.
+- (a): "remained safely within the legal zone of mere preparation" — wrong under the MPC, but arguably defensible under older common-law proximity tests; lacks an absolute locking word.
+- (b): "establishing a valid and complete factual impossibility defense" — wrong because factual impossibility is universally rejected as a defense to criminal attempt.
+- (d): "automatically satisfies the affirmative actus reus requirement" — wrong because an agreement constitutes conspiracy, not the affirmative actus reus for attempt.
+- (e): "completed the target offense" — wrong because the target offense of distribution was undeniably uncompleted; only possession was completed.
 
-Recommended fix: Add absolute language to (d) to ensure it is demonstrably false regardless of jurisdiction. Change (d) to: "Not guilty because her arrest before opening the locker categorically prevents her actions from constituting a substantial step in any jurisdiction."
+Recommended fix: Change (a) to include an absolute phrase ensuring it is wrong across all attempt tests. Edit to: "(a) Not guilty, because he had not yet arrived at the delivery location, meaning he categorically remained within the legal zone of mere preparation."
 -->
 
 ## Issue 4 — argpass-opus
 
-**Q5.** Assume Chloe is charged with attempted possession of narcotics for retrieving the bag of fake powder. Which of the following is correct?
+**Q5.** Assume Marcus is charged with attempted distribution of narcotics based on his interception during Operation Sweep. Is he guilty?
 
-(a) Not guilty because her honest belief that the bag contained stolen cash negates the specific intent required for an attempted narcotics possession conviction. <!-- correct -->
-(b) Guilty because her arrival at the gym to retrieve the bag constitutes a substantial step that automatically satisfies the mens rea for attempt.
-(c) Guilty because factual impossibility is never a valid defense to an attempt charge, meaning her mistake about the powder is legally irrelevant.
-(d) Not guilty because her arrest before opening the locker means her actions constituted mere preparation rather than a substantial step toward the offense.
-(e) Guilty because she is held strictly liable for whatever the bag originally contained before the police replaced the narcotics two days prior.
+(a) Not guilty, because he had not yet arrived at the delivery location, meaning he remained safely within the legal zone of mere preparation.
+(b) Not guilty, because the police intervention made the completion of the crime impossible, establishing a valid and complete factual impossibility defense.
+(c) Guilty, because driving to the delivery location constitutes a substantial step that is strongly corroborative of his underlying criminal purpose. <!-- correct -->
+(d) Guilty, because agreeing to the delivery under threat from Leo automatically satisfies the affirmative actus reus requirement for criminal attempt.
+(e) Guilty, because his possession of the drugs in the vehicle completed the target offense, merging the attempt into the final completed criminal act.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct because attempt requires the specific intent (purpose) to commit the target offense. Under the mistake of fact doctrine, Chloe's honest belief that the bag contained stolen cash negates the mens rea required for attempted narcotics possession, as she did not intend to possess drugs. (b) is incorrect because although arriving at the gym is a substantial step, she still lacks the required specific intent for the drug offense. (c) is incorrect because while factual impossibility (the bag containing fake powder) is not a defense, her subjective lack of intent to possess narcotics is a valid defense. (d) is incorrect because walking through the front doors to retrieve the target item typically crosses the line from preparation to a substantial step. (e) is incorrect because attempt is a specific intent crime that never imposes strict liability based on prior contents.
+**Explanation:** The correct answer is (c). Under the Model Penal Code and majority modern approaches, the actus reus for attempt requires a "substantial step" in a course of conduct planned to culminate in the commission of the crime, and the step must be strongly corroborative of the actor's criminal purpose. Marcus possessing the stash and driving en route to the delivery clearly satisfies this standard (Fact 5).
 
-**Tags:** chapters: [10, 17], topics: [attempt-mens-rea, mistake-of-fact, impossibility], difficulty: hard, cognitive: application
+(a) is incorrect because the substantial step test reaches further back in time than common-law proximity tests, criminalizing conduct well before the defendant arrives at the final location.
+(b) is incorrect because factual impossibility (the police intercepting him before he could succeed) is not a valid defense to attempt.
+(d) is incorrect because an agreement alone constitutes conspiracy, but attempt requires an overt act that amounts to a substantial step toward commission.
+(e) is incorrect because while possession was completed, the target offense of *distribution* was not completed, meaning attempt is the correct charge.
 
-**Grounding:** Chapter 17 - Attempts (Mens rea specific intent); Chapter 10 - Mistake of Fact
+**Tags:** chapters: [17], topics: [attempt, actus-reus-substantial-step], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 17 - Attempts > Actus reus (substantial step)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: Attempt requires the specific intent, or purpose, to commit the target offense. Under the mistake of fact doctrine, Chloe's subjective, honest belief that the bag contained stolen cash prevents her from forming the requisite intent to possess narcotics. Without the mens rea for the specific target crime of narcotics possession, she cannot be guilty of an attempt to commit it.
-(b) Argument-for: Under the Model Penal Code, attempt requires a "substantial step" strongly corroborative of the actor's criminal purpose. A student might argue that taking the physical step of arriving at the gym to retrieve the contraband crosses the line from mere preparation to a valid actus reus. If the act is so clearly established, one could mistakenly infer that the mens rea requirement is thereby automatically satisfied by the overt act.
-(c) Argument-for: Factual impossibility occurs when a defendant intends to commit a crime but fails due to an unknown factual circumstance. Because modern jurisdictions overwhelmingly reject factual impossibility as a defense to attempt, a student could argue that Chloe's mistake about the bag's contents is simply an impossibility issue. This leads to the conclusion that her mistake about the powder is legally irrelevant to her liability.
-(d) Argument-for: Under the common law "dangerous proximity" test, a defendant must be very close to completing the crime to be convicted of attempt. A student could argue that because Chloe was arrested before even opening the locker, she was not dangerously close to possession. Consequently, one might conclude that her distance from the final act means she was only in the preparation phase.
-(e) Argument-for: Some drug possession statutes include strict liability elements regarding the nature or quantity of the substance. A student might argue that this strict liability transfers to the attempt charge, making her accountable for the actual prior contents of the bag. Therefore, she would be held legally accountable for the bag's original illicit nature before the police substituted them, regardless of her subjective intent.
+(a) Argument-for: Under the strict common-law "last proximate act" test, an attempt actus reus is not satisfied until the defendant performs the final act necessary to complete the crime. Since Marcus had not yet arrived at the delivery location or interacted with the buyer, he had not performed the last proximate act. A student could therefore argue he remained in the "mere preparation" zone and is thus not guilty.
+(b) Argument-for: A student could argue that because the police intervened, it was factually impossible for Marcus to actually distribute the narcotics. Conflating different impossibility doctrines, the student might mistakenly conclude that this creates a valid and complete defense against an attempt charge. Because the police physically prevented the target offense from occurring, they might view factual impossibility as absolving Marcus.
+(c) Argument-for: Under the modern majority and Model Penal Code approach, the actus reus for attempt requires a "substantial step" strongly corroborative of the defendant's criminal purpose. Driving to the delivery location while possessing the narcotics clearly qualifies as a substantial step. Therefore, a student would correctly conclude he is guilty under the governing standard.
+(d) Argument-for: A student might conflate the actus reus of conspiracy (agreement) with that of attempt. Because Marcus agreed to the delivery, the student could incorrectly reason that this agreement "automatically satisfies" the actus reus for criminal attempt. This relies on the false assumption that any affirmative criminal agreement immediately triggers attempt liability.
+(e) Argument-for: A student might recognize that Marcus completed the crime of possessing the narcotics. Misapplying the merger doctrine, they could argue that because he completed a possessory offense, the attempt to distribute merges into that completed act. The student would mistakenly conclude that any completed crime during the course of conduct forces a merger that extinguishes the attempt charge.
 
-Head-to-head: Option (a) correctly identifies that attempt is a specific intent crime and Chloe's mistake of fact negates this mens rea. Option (b) is legally false because the actus reus (substantial step) does not automatically satisfy the mens rea. Option (c) wrongly conflates her mistake of fact (which negates intent) with factual impossibility (which assumes intent but fails due to facts), falsely stating her mistake is legally irrelevant. Option (d) falsely suggests that failing to open the locker definitively prevents a substantial step finding; however, it lacks an absolute locking word like "categorically," making it a potentially debatable conclusion rather than an explicitly falsifiable rule. Option (e) falsely applies strict liability to an attempt charge, which always requires specific intent. Because (d) relies on the softer verb "means" rather than an absolute lock, a minor edit is recommended to fully lock the distractor.
+Head-to-head: Option (c) correctly applies the modern substantial step test. Option (b) explicitly and falsely claims factual impossibility is a valid defense. Option (d) uses the absolute word "automatically" to falsely equate agreement with attempt actus reus. Option (e) explicitly and falsely claims that possession completed the target offense of distribution. Option (a) concludes he remained safely in the zone of "mere preparation," which is false under the MPC but potentially arguable under minority strict proximity tests. Because (a) lacks an absolute lock-word to render it universally false across all jurisdictions and tests, it should be fixed.
 
 Falsifiable claim per distractor:
-- (b): "automatically satisfies the mens rea for attempt" — wrong because establishing the actus reus never automatically satisfies the independent requirement to prove specific intent.
-- (c): "meaning her mistake about the powder is legally irrelevant" — wrong because her mistake relates to her intent (thinking it was cash), making it a mistake of fact that negates mens rea, which is legally relevant.
-- (d): "means her actions constituted mere preparation rather than a substantial step" — wrong because arriving at the location to retrieve an item often qualifies as a substantial step or dangerous proximity, so an early arrest does not absolutely rule out an attempt. (Lacks an absolute word).
-- (e): "she is held strictly liable for whatever the bag originally contained" — wrong because attempt is categorically a specific intent crime and cannot be based on strict liability.
+- (a): "meaning he remained safely within the legal zone of mere preparation" — wrong under majority approaches, but lacks an absolute word to categorically preclude arguments under minority "last proximate act" standards.
+- (b): "establishing a valid and complete factual impossibility defense" — wrong because factual impossibility is categorically not a valid defense to attempt.
+- (d): "automatically satisfies the affirmative actus reus requirement for criminal attempt" — wrong because agreement is the actus reus for conspiracy, not attempt, and "automatically" renders it rigidly false.
+- (e): "his possession of the drugs in the vehicle completed the target offense" — wrong because the target offense of distribution was undeniably incomplete.
 
-Recommended fix: In (d), change "means her actions constituted" to "categorically renders her actions".
+Recommended fix: Change (a) to: "Not guilty, because he had not yet arrived at the delivery location, meaning he categorically remained within the legal zone of mere preparation."
 -->

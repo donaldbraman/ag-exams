@@ -1,17 +1,17 @@
-**Q1.** Wallace is charged with arson for sparking the chemical fire. What is his best defense regarding the actus reus of the offense?
+**Q1.** Wallace is charged with starting the chemical fire. He argues that he did not perform a voluntary act because his body was involuntarily convulsing during a seizure when he knocked the vat over. Under the time-framing doctrine, how should the court rule?
 
-(a) Not guilty, because his bodily movements were convulsions while unconscious, which the MPC explicitly excludes from voluntary acts. <!-- correct -->
-(b) Not guilty, because Marlowe compelled him to mix the chemicals, making his actions involuntary under the Fourth Amendment.
-(c) Guilty, because his initial voluntary act of mixing the chemicals foreseeably led to the fire through time-framing.
-(d) Guilty, because an omission to secure the vat easily satisfies the fundamental actus reus requirement for criminal arson.
-(e) Not guilty, because the chemical plume was a dependent intervening cause that effectively severed his direct criminal liability.
+(a) The voluntary act requirement is satisfied because Wallace's prior conscious choice to mix the chemicals despite the doctor's specific warning foreseeably created the danger. <!-- correct -->
+(b) The voluntary act requirement is not satisfied because the specific bodily movement of knocking over the vat was not the product of his conscious effort.
+(c) The voluntary act requirement is satisfied because a seizure is an internal medical condition rather than an external physical force applied by a third party.
+(d) The voluntary act requirement is not satisfied because the state cannot manufacture the actus reus by relying on a spontaneous, involuntary medical event.
+(e) The voluntary act requirement is satisfied because the Model Penal Code defines "voluntary" to include both intentional choices and habitual workplace conduct.
 
 **Answer:** (a)
 
-**Explanation:** Under MPC § 2.01, a person is not guilty of an offense unless liability is based on conduct that includes a voluntary act. The MPC explicitly states that bodily movements which are reflexes or convulsions, or movements during unconsciousness, are not voluntary acts. Because Wallace suffered a massive neurological convulsion and lost consciousness (Fact 5), his thrashing was involuntary, negating the actus reus. (b) is wrong because Fourth Amendment coercion does not negate the voluntary act requirement. (c) is wrong because time-framing requires the prior voluntary act to foreseeably create the risk, which doesn't apply to a surprise chemical reaction. (d) is wrong because an omission only creates liability where there is a legal duty. (e) is wrong because a dependent intervening cause does not sever liability.
+**Explanation:** (a) is correct. Under the time-framing doctrine (*Decina*), when a defendant makes a voluntary choice that foreseeably creates a risk of involuntary harmful conduct (like choosing to expose oneself to seizure-inducing fumes), liability is traced back to that prior voluntary act. (b) ignores the time-framing rule. (c) relies on an incorrect legal distinction, as involuntary internal events still defeat the basic voluntary act requirement without time-framing. (d) misapplies the state-created actus reus limit from *Martin*, as the state did not move Wallace. (e) misapplies the MPC definition, as having a seizure is not habitual conduct.
 
-**Tags:** chapters: [7], topics: [actus reus, voluntary act, mpc 2.01, unconsciousness], difficulty: easy, cognitive: application
+**Tags:** chapters: [7], topics: [actus-reus, time-framing, voluntariness], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 7, MPC § 2.01(2) (excluding reflexes and convulsions during unconsciousness from voluntary acts)
+**Grounding:** Chapter 7: Actus Reus — time-framing-seizure-driving
 
-<!-- grounding: GROUNDED — Voluntary Act / Unconsciousness, Ch 7, Refinement `mpc-voluntary-act-definition`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — time-framing, Ch 7, Refinement `time-framing-seizure-driving`. Rule paraphrased accurately. -->

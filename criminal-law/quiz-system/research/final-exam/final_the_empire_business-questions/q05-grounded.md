@@ -1,5 +1,17 @@
-<!-- grounding: GROUNDING-FAIL -->
+**Q5.** Did Dominic "use" a firearm under 18 U.S.C. § 924(c) when he acquired the AR-15 rifles in exchange for the narcotics?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) No, because a defendant who trades drugs to receive a firearm does not "use" the firearm during a drug trafficking crime under the statute. <!-- correct -->
+(b) Yes, because receiving firearms as consideration in a drug transaction constitutes active employment of the weapons in interstate commerce.
+(c) No, because the AR-15 rifles were unregistered, meaning they did not qualify as legally recognized firearms under the federal statute.
+(d) Yes, because both parties to a drugs-for-guns transaction equally utilize the firearms as a medium of exchange to facilitate the drug deal.
+(e) No, because Dominic did not explicitly brandish or discharge the AR-15 rifles during the course of the underlying narcotics trafficking transaction.
 
-Error: Model returned empty or blocked response.
+**Answer:** (a)
+
+**Explanation:** Under *Watson v. United States*, a defendant who trades drugs to acquire a gun does not "use" a firearm under § 924(c). Only the party tendering the gun uses it as consideration; a "seller does not 'use' a buyer's consideration." (b) is wrong because the Supreme Court expressly rejected this exact interpretation in *Watson*. (c) is wrong because registration status is irrelevant to whether an object is a firearm under § 924(c). (d) is wrong because *Watson* expressly held that the transaction is asymmetrical regarding "use." (e) is wrong because while brandishing would qualify, *Smith* established that trading a gun for drugs *is* "using" it; Dominic's charge fails because he was the one receiving the gun, not because he didn't brandish it.
+
+**Tags:** chapters: [15], topics: [924c, use-of-firearm], difficulty: intermediate, cognitive: application
+
+**Grounding:** Chapter 15 - Watson v. United States
+
+<!-- grounding: GROUNDED — § 924(c) "use" of a firearm (trading drugs for a gun), Ch 15, Refinement `use-924c-trading-drugs-for-gun`. Rule paraphrased accurately. -->

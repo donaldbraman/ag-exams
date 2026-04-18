@@ -1,17 +1,17 @@
-**Q10.** Avon is charged with possession of the 5 kilograms of cocaine found in the lockbox at the warehouse. Which of the following best establishes his constructive possession of the drugs?
+**Q10.** Stringer is alternatively charged with conspiracy to manufacture drugs. Under the *Lauria* standard for conspiracy, does Stringer possess the requisite mens rea to be convicted?
 
-(a) He owned the commercial warehouse, making him strictly liable for any illegal contraband found anywhere on the corporate premises.
-(b) He had exclusive physical control over the heavy steel lockbox at the exact time the packaged drugs were officially discovered.
-(c) He had the power and intention to exercise dominion and control over the drugs, as evidenced by his text directing the courier. <!-- correct -->
-(d) He was physically present at the stash house when the cocaine shipments were initially delivered and packaged into individual baggies.
-(e) He employed Marlowe as logistics manager, and a subordinate employee's actual possession is automatically imputed to the supervising employer.
+(a) Yes, because an agreement to commit a crime can be automatically inferred whenever a merchant sells goods to a known criminal.
+(b) Yes, because Acetone-FX is a highly specialized chemical with no legitimate uses, proving his intent to participate.
+(c) No, because a supplier must have a purpose to further the illegal objective, which cannot be inferred from a standard-rate sale of unrestricted goods. <!-- correct -->
+(d) No, because a conspiracy conviction requires proof that the supplier actively participated in the overt act of the conspiracy.
+(e) No, because the *Lauria* standard categorically prohibits prosecuting mere suppliers of goods under conspiracy laws.
 
 **Answer:** (c)
 
-**Explanation:** Constructive possession requires that the defendant have both the power and the intention to exercise dominion and control over the contraband. Avon's text message directing the Courier to "Pick up the 5 kilos at the stash house right now" (Fact 8) demonstrates he had the authority and intent to control the disposition of the drugs, establishing constructive possession. (a) is wrong because mere ownership of the premises is insufficient without knowing power and intent to control the specific contraband. (b) is wrong because the drugs were in a lockbox at a warehouse, not in his exclusive physical control. (d) is wrong because physical presence during packaging is not required if he maintains constructive control. (e) is wrong because actual possession by an employee is not automatically imputed without proof of the employer's intent to control.
+**Explanation:** (c) is correct. The *Lauria* standard holds that conspiracy requires the purpose to further the illegal objective. Purpose cannot be inferred from mere knowledge in a standard-rate commercial transaction involving goods with legitimate uses; there must be a stake in the venture, no legitimate use, or a disproportionate volume. (a) is incorrect because automatic inference from knowledge is exactly what *Lauria* rejects. (b) fails on the facts; Acetone is a common industrial chemical with legitimate uses. (d) is wrong because any co-conspirator can commit the overt act; the supplier need not actively participate in it. (e) is false; *Lauria* permits prosecuting suppliers if their purpose can be inferred from the surrounding circumstances.
 
-**Tags:** chapters: [15], topics: [constructive possession, drugs], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, lauria-standard, mens-rea-purpose], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 15, Constructive Possession (power and intent to exercise dominion and control)
+**Grounding:** Chapter 19: Conspiracy — lauria-knowledge-vs-purpose
 
-<!-- grounding: GROUNDED — constructive possession, Ch 15, Refinement `cp-elements`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Lauria standard, Ch 19, Refinement `lauria-knowledge-vs-purpose`. Rule paraphrased accurately. -->

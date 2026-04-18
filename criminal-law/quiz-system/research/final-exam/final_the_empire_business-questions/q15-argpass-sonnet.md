@@ -1,0 +1,34 @@
+**Q15.** Assume Dominic is charged with attempted murder of Elias. How does his conduct fare under the competing actus reus tests for attempt?
+
+(a) He is guilty under the substantial step test because lying in wait strongly corroborates criminal purpose, and likely guilty under the proximity test because he was fully armed at the target location. <!-- correct -->
+(b) He is guilty under the proximity test because he possessed the specific intent to kill, but not guilty under the substantial step test because he had not yet pointed the weapon at Elias.
+(c) He is not guilty under either test because mere preparation, such as buying a rifle and parking a car, can never satisfy the actus reus requirement for an attempted homicide charge.
+(d) He is guilty under the substantial step test because purchasing the rifle crossed the line of liability, but not guilty under the proximity test because Elias was not yet present outside the house.
+(e) He is not guilty under either test because the police intervention occurred before he could commit the final indispensable act necessary to complete the substantive offense of murder.
+
+**Answer:** (a)
+
+**Explanation:** The MPC substantial step test explicitly lists "lying in wait" as conduct that satisfies the actus reus. Under the common law dangerous proximity test, arriving at the scene fully armed and ready to shoot is generally close enough to completion to satisfy the test, as he was in dangerous proximity to success. (b) is wrong because the substantial step test reaches further back than pointing the weapon. (c) is wrong because his actions went far beyond mere preparation under both tests. (d) is wrong because purchasing the rifle alone is merely preparatory; it was driving to the location and lying in wait that satisfied the tests. (e) is wrong because neither test requires the "last act" before completion; both allow intervention earlier.
+
+**Tags:** chapters: [17], topics: [attempt, actus-reus, substantial-step, proximity-test], difficulty: advanced, cognitive: analysis
+
+**Grounding:** Chapter 17 - Actus Reus (Substantial Step vs. Proximity)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under the MPC's substantial step test, "lying in wait" or "possessing materials to be employed in the commission of the crime, at or near the place of commission" strongly corroborates the actor's criminal purpose and satisfies the actus reus. Under the common law dangerous proximity test, arriving at the target location fully armed places the defendant in close spatial and temporal proximity to the completed crime. Therefore, this option correctly concludes he is guilty under the MPC and likely guilty under the proximity test.
+(b) Argument-for: A student might argue that the proximity test focuses heavily on the defendant's clear intent, meaning his specific intent to kill inherently satisfies the test's actus reus requirements when combined with his presence. Furthermore, they could argue that under a strict interpretation of attempt actus reus, only an immediate act like pointing the weapon constitutes a substantial step. Thus, they would conclude he has not yet crossed the line into attempt liability under the MPC until the gun is actually aimed.
+(c) Argument-for: Under early common law jurisprudence, courts often drew a firm line between "mere preparation" and "attempt." A student might assert that buying a rifle and parking a car are purely preparatory acts that are too temporally and spatially remote from the completion of the crime. Relying on early rigid interpretations, they would conclude these acts can never satisfy the actus reus for an attempted homicide charge.
+(d) Argument-for: A student could argue that the substantial step test reaches very far back in the timeline of the crime, such that the initial purchase of the murder weapon is the very act that strongly corroborates intent and crosses the line into liability. Concurrently, relying on cases like *People v. Rizzo*, they could argue that the physical absence of the victim prevents the defendant from reaching "dangerous proximity" to success, meaning he escapes liability under the common law test.
+(e) Argument-for: A student might conflate the competing actus reus tests with the stringent "last act" test. Under this view, they would argue that neither the substantial step test nor the proximity test is satisfied unless the defendant completes the final, indispensable act necessary to trigger the substantive offense (e.g., pulling the trigger). Because police intervened earlier, they would wrongly conclude the actus reus requirement remains unmet across all standards.
+
+Head-to-head: 
+Option (a) accurately reflects the application of the MPC (which specifically enumerates lying in wait) and the dangerous proximity test (which generally finds being fully armed at the target location sufficient). Option (b) fails because the proximity test is an actus reus standard, not one satisfied merely by proving specific intent, and the substantial step test explicitly reaches further back than pointing a weapon. Option (c) fails due to its absolute claim that such preparatory acts "can never" satisfy the requirement, ignoring the MPC framework where acts like parking at the scene can be sufficient if they corroborate criminal purpose. Option (d) incorrectly states that purchasing a standard rifle satisfies the substantial step test, an act that is universally considered mere preparation even under the MPC. Option (e) falsely equates both the proximity and substantial step tests with the "last act" test, completely misstating the legal standard for both.
+
+Falsifiable claim per distractor:
+- (b): "guilty under the proximity test because he possessed the specific intent to kill" — wrong because the proximity test evaluates actus reus (dangerous physical proximity to success) and cannot be satisfied solely by possessing specific intent.
+- (c): "mere preparation, such as buying a rifle and parking a car, can never satisfy the actus reus requirement" — wrong because the MPC expressly allows certain preparatory acts (e.g., possessing materials at the scene) to satisfy the actus reus if they strongly corroborate criminal purpose.
+- (d): "guilty under the substantial step test because purchasing the rifle crossed the line of liability" — wrong because purchasing a generic weapon is universally considered mere preparation and does not, on its own, constitute a substantial step under the MPC.
+- (e): "not guilty under either test because the police intervention occurred before he could commit the final indispensable act" — wrong because both the substantial step and dangerous proximity tests explicitly reject the strict "last act" requirement to find liability.
+
+Recommended fix: none
+-->

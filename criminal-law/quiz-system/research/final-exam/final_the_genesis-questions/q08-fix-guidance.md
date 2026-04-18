@@ -12,100 +12,61 @@ Error: Model returned empty or blocked response.
 
 ## Issue 2 — edge-case
 
-**Q8.** Putting aside the felony murder rule, what is Marlowe's homicide liability for Greggs's death under traditional proximate causation principles?
+**Q8.** The government prosecutes Avon, the CEO, under the strict-liability warehouse health statute. Avon argues he was never at the warehouse and did not personally supervise the unpermitted storage. Under the *Park* doctrine (responsible corporate officer doctrine), is Avon criminally liable?
 
-(a) Murder, because his extreme indifference to the value of human life created the deadly chemical fire scenario.
-(b) Manslaughter, because his reckless omission to call 911 was the direct cause of the ceiling beam collapsing.
-(c) Negligent homicide, because a reasonable person would have checked the chemical warning labels before ordering them mixed.
-(d) Not guilty of homicide, because the inspector's death from a termite-rotted beam was an unforeseeable, highly extraordinary event. <!-- correct -->
-(e) Not guilty of homicide, because the inspector's death was caused by her own negligence in entering the burning building.
+(a) Yes, because as the CEO who orchestrated the use of the warehouse for corporate illicit purposes, he stood in a responsible relation to the regulatory violation. <!-- correct -->
+(b) Yes, because the doctrine imposes absolute vicarious liability on all corporate officers for any employee's criminal act, regardless of the officer's specific operational authority.
+(c) No, because the doctrine requires the prosecution to prove that the corporate officer had actual, subjective knowledge of the specific missing permit for the warehouse.
+(d) No, because the doctrine requires proof that the executive purposefully directed the subordinate to commit the specific regulatory infraction leading to the criminal charge.
+(e) No, because Avon's lack of physical presence at the warehouse severs the causal chain between his corporate role and the specific regulatory violation at issue.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** (d) is correct because under both common law foreseeability tests and the MPC's "too remote or accidental" standard, a death caused entirely by unrelated termite rot is a highly extraordinary intervening event that severs proximate cause, precluding any homicide grading. (a) fails because extreme indifference murder still requires proximate causation to be established. (b) fails factually because his omission did not cause the beam to collapse. (c) fails because negligence still requires the resulting harm to be proximately caused by the negligent act. (e) fails because a firefighter entering a burning building is foreseeable and not considered an independent negligent act.
+**Explanation:** The *Park* doctrine allows corporate officers to be convicted of strict-liability public welfare offenses if they stand in a "responsible relation" to the violation, meaning they had the authority to prevent or correct it. As CEO who explicitly agreed to use the warehouse for the drug lab, Avon had clear authority over the operation. (b) fails because the doctrine is not pure vicarious liability; it requires the officer to have a responsible relation and authority to prevent the harm. (c) and (d) fail because the doctrine specifically dispenses with the need for actual knowledge or purposeful direction. (e) fails because physical presence is irrelevant to corporate authority and the affirmative duty to exercise vigilance.
 
-**Tags:** chapters: [8, 13], topics: [proximate cause, homicide grading, highly extraordinary result], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [11], topics: [Park doctrine, responsible corporate officer, strict liability], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 8 - Causation (Highly Extraordinary Result / Proximate Cause Foreseeability)
+**Grounding:** Chapter 11 (responsible-corporate-officer-dotterweich; park-doctrine-foresight-vigilance)
 
 <!-- edge-case-audit: SHOULD FIX
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: The independent intervening cause facts completely preempt the homicide grading analysis. Because proximate cause is severed by the termite rot, grading is moot, turning a purported "homicide grading" question into a duplicative causation question.
-3. Cross-Question Spoilers: Q8's correct answer (D) explicitly resolves Q2. By stating that the termite-rotted beam is an "unforeseeable, highly extraordinary event" that precludes liability, Q8 gives away the exact legal conclusion required to answer Q2's evaluation of independent intervening causes.
-Recommended fix: Revise Q8's prompt to "Assuming for this question that proximate causation is established, what is Marlowe's homicide liability?" and rewrite the options to test his mens rea (recklessness vs. negligence) regarding his decision to trust the invoice over the chemical warning labels.
+2. Cross-Doctrine Clashes: Fact 3 establishes that the public welfare statute is graded as a "strict-liability felony." Applying the *Park* doctrine (which dispenses with conventional mens rea) to a felony strongly clashes with the due process limits on public welfare offenses (e.g., *Morissette*, *Staples*), which generally restrict strict liability to misdemeanors with light penalties. Advanced students might argue *Park* cannot constitutionally apply here because courts would strike down a strict-liability felony or read a mens rea requirement into it.
+3. Cross-Question Spoilers: pass
+Recommended fix: Add a clarifying sentence to the question stem (e.g., "Assume the jurisdiction constitutionally permits the application of strict liability to this felony regulatory offense") or coordinate with the fact-pattern author to downgrade the charge in Fact 3 to a misdemeanor.
 -->
 
-## Issue 3 — argpass-sonnet
+## Issue 3 — argpass-opus
 
-**Q8.** Putting aside the felony murder rule, what is Marlowe's homicide liability for Greggs's death under traditional proximate causation principles?
+**Q8.** The government prosecutes Avon, the CEO, under the strict-liability warehouse health statute. Avon argues he was never at the warehouse and did not personally supervise the unpermitted storage. Under the *Park* doctrine (responsible corporate officer doctrine), is Avon criminally liable?
 
-(a) Murder, because his extreme indifference to the value of human life created the deadly chemical fire scenario.
-(b) Manslaughter, because his reckless omission to call 911 was the direct cause of the ceiling beam collapsing.
-(c) Negligent homicide, because a reasonable person would have checked the chemical warning labels before ordering them mixed.
-(d) Not guilty of homicide, because the inspector's death from a termite-rotted beam was an unforeseeable, highly extraordinary event. <!-- correct -->
-(e) Not guilty of homicide, because the inspector's death was caused by her own negligence in entering the burning building.
+(a) Yes, because as the CEO who orchestrated the use of the warehouse for corporate illicit purposes, he stood in a responsible relation to the regulatory violation. <!-- correct -->
+(b) Yes, because the doctrine imposes absolute vicarious liability on all corporate officers for any employee's criminal act, regardless of the officer's specific operational authority.
+(c) No, because the doctrine requires the prosecution to prove that the corporate officer had actual, subjective knowledge of the specific missing permit for the warehouse.
+(d) No, because the doctrine requires proof that the executive purposefully directed the subordinate to commit the specific regulatory infraction leading to the criminal charge.
+(e) No, because Avon's lack of physical presence at the warehouse severs the causal chain between his corporate role and the specific regulatory violation at issue.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** (d) is correct because under both common law foreseeability tests and the MPC's "too remote or accidental" standard, a death caused entirely by unrelated termite rot is a highly extraordinary intervening event that severs proximate cause, precluding any homicide grading. (a) fails because extreme indifference murder still requires proximate causation to be established. (b) fails factually because his omission did not cause the beam to collapse. (c) fails because negligence still requires the resulting harm to be proximately caused by the negligent act. (e) fails because a firefighter entering a burning building is foreseeable and not considered an independent negligent act.
+**Explanation:** The *Park* doctrine allows corporate officers to be convicted of strict-liability public welfare offenses if they stand in a "responsible relation" to the violation, meaning they had the authority to prevent or correct it. As CEO who explicitly agreed to use the warehouse for the drug lab, Avon had clear authority over the operation. (b) fails because the doctrine is not pure vicarious liability; it requires the officer to have a responsible relation and authority to prevent the harm. (c) and (d) fail because the doctrine specifically dispenses with the need for actual knowledge or purposeful direction. (e) fails because physical presence is irrelevant to corporate authority and the affirmative duty to exercise vigilance.
 
-**Tags:** chapters: [8, 13], topics: [proximate cause, homicide grading, highly extraordinary result], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [11], topics: [Park doctrine, responsible corporate officer, strict liability], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 8 - Causation (Highly Extraordinary Result / Proximate Cause Foreseeability)
-
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that Marlowe's extreme recklessness in creating a deadly chemical fire satisfies the "depraved heart" mens rea for murder. If a victim dies in a fire scenario created by the defendant, some might erroneously believe the specific mechanism of death within the zone of danger does not need to be perfectly foreseeable. Therefore, the extreme indifference to human life correctly identifies the culpability level, leading the student to select murder.
-(b) Argument-for: A student might argue that Marlowe had a duty to mitigate the danger he created, making his failure to call 911 a reckless omission. Because the omission allowed the fire to persist, leading to the inspector being under the beam when it collapsed, a student could conclude this omission was the direct cause of the collapse. This leads to manslaughter based on reckless omission.
-(c) Argument-for: A student could conclude that failing to check warning labels before mixing chemicals is a clear deviation from the standard of care, establishing negligence. If the fire would not have happened but for this negligence, a student might reason that negligent homicide is the correct charge, overlooking the nuanced proximate cause requirement for the specific mechanism of death.
-(d) Argument-for: This is the correct answer. Traditional proximate causation requires the harm to be a foreseeable result of the defendant's conduct. A ceiling beam collapsing entirely due to unrelated termite rot, rather than the fire, is a highly extraordinary and unforeseeable intervening event. This superseding cause severs the chain of legal causation, meaning Marlowe is not guilty of homicide.
-(e) Argument-for: A student could argue that an inspector entering a burning building constitutes a voluntary assumption of risk or contributory negligence. If the inspector's own actions put her in harm's way, a student might conclude her negligence was a superseding cause of her death. Thus, Marlowe is absolved of homicide liability because the victim's own conduct broke the causal chain.
-
-Head-to-head: Option (d) correctly identifies that the termite-rotted beam acts as an unforeseeable superseding cause, breaking proximate causation. However, distractors (a) and (c) are structurally weak because they merely state a true premise about mens rea (extreme indifference / failure to act as a reasonable person) but fail to supply an explicitly false legal rule bridging that premise to the incorrect conclusion, relying instead on the implicit omission of the proximate cause requirement. Distractor (b) contains a clear factual/legal error by labeling the omission the "direct cause" of the collapse. Distractor (e) incorrectly classifies a first responder's foreseeable entry as superseding negligence. To meet the close-call standard, (a) and (c) must be locked with absolute language.
-
-Falsifiable claim per distractor:
-- (a): "created the deadly chemical fire scenario" — wrong because this relies on an implicit omission of proximate cause; it provides no explicitly false legal rule asserting that creating the scenario is sufficient for liability regardless of the mechanism of death.
-- (b): "was the direct cause of the ceiling beam collapsing" — wrong because an omission to call 911 is neither factually nor legally the direct cause of a structural collapse triggered by independent termite rot.
-- (c): "because a reasonable person would have checked" — wrong because, like (a), it relies on an implicit omission of proximate causation and lacks a falsifiable assertion that negligence automatically guarantees liability.
-- (e): "her own negligence in entering the burning building" — wrong because a first responder entering a burning building is legally foreseeable and does not constitute an independent superseding negligent act.
-
-Recommended fix: Edit (a) and (c) to include absolute words that assert an explicitly false legal claim. Change (a) to: "Murder, because creating a deadly fire automatically satisfies proximate causation for any subsequent death on the premises." Change (c) to: "Negligent homicide, because failing to check chemical warning labels categorically establishes liability regardless of intervening causes."
--->
-
-## Issue 4 — argpass-opus
-
-**Q8.** Putting aside the felony murder rule, what is Marlowe's homicide liability for Greggs's death under traditional proximate causation principles?
-
-(a) Murder, because his extreme indifference to the value of human life created the deadly chemical fire scenario.
-(b) Manslaughter, because his reckless omission to call 911 was the direct cause of the ceiling beam collapsing.
-(c) Negligent homicide, because a reasonable person would have checked the chemical warning labels before ordering them mixed.
-(d) Not guilty of homicide, because the inspector's death from a termite-rotted beam was an unforeseeable, highly extraordinary event. <!-- correct -->
-(e) Not guilty of homicide, because the inspector's death was caused by her own negligence in entering the burning building.
-
-**Answer:** (d)
-
-**Explanation:** (d) is correct because under both common law foreseeability tests and the MPC's "too remote or accidental" standard, a death caused entirely by unrelated termite rot is a highly extraordinary intervening event that severs proximate cause, precluding any homicide grading. (a) fails because extreme indifference murder still requires proximate causation to be established. (b) fails factually because his omission did not cause the beam to collapse. (c) fails because negligence still requires the resulting harm to be proximately caused by the negligent act. (e) fails because a firefighter entering a burning building is foreseeable and not considered an independent negligent act.
-
-**Tags:** chapters: [8, 13], topics: [proximate cause, homicide grading, highly extraordinary result], difficulty: hard, cognitive: analysis
-
-**Grounding:** Chapter 8 - Causation (Highly Extraordinary Result / Proximate Cause Foreseeability)
+**Grounding:** Chapter 11 (responsible-corporate-officer-dotterweich; park-doctrine-foresight-vigilance)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that Marlowe's creation of a deadly chemical fire satisfies the elements of depraved-heart murder. By demonstrating extreme indifference, he established the actual cause that brought the inspector to the scene. Since the fire necessitated an emergency response, a broad foreseeability test might encompass any death occurring during that response. Thus, his extreme indifference justifies a murder conviction despite the precise mechanism of death.
-(b) Argument-for: A student could argue that Marlowe had a duty to act after creating the peril, making his failure to call 911 a reckless omission. By delaying emergency services, the omission factually allowed the fire to persist, leading to the beam's collapse at the exact moment the inspector was underneath. Because the collapse would not have injured her had he called promptly, it can be framed as the direct cause. Therefore, manslaughter is appropriate.
-(c) Argument-for: A student could argue that ordering chemicals mixed without checking warning labels is a gross deviation from the standard of care. Because this negligence sparked the fire that ultimately led to the inspector's death, factual causation is met. Applying a strict approach to negligent acts that result in death, a student could conclude proximate cause is satisfied by the mere creation of the hazard. Thus, negligent homicide applies.
-(d) Argument-for: A student could argue this is correct because proximate causation requires the resulting harm to be within the scope of foreseeable risks. A termite-rotted beam collapsing is an independent, preexisting condition unrelated to the fire's foreseeable risks (like burns or smoke inhalation). Under traditional proximate causation and the MPC, such a highly extraordinary intervening event breaks the causal chain. Consequently, Marlowe cannot be held liable for any degree of homicide.
-(e) Argument-for: A student could argue that the inspector's decision to enter a burning building was a voluntary, independent act of negligence. If a victim knowingly walks into a hazardous scenario, their own conduct can sometimes sever the causal chain. By treating the inspector's entry as a superseding intervening act, Marlowe is relieved of homicide liability.
+(a) Argument-for: Under the *Park* doctrine, corporate officers can be held criminally liable for strict-liability public welfare offenses if they have a "responsible relation" to the violation. This means the officer had the authority to prevent or correct the violation, even without personal supervision. As CEO, Avon possessed the ultimate authority over corporate operations, fulfilling the responsible relation requirement. Furthermore, if he orchestrated the warehouse's use, this directly establishes his power to prevent the unpermitted storage.
+(b) Argument-for: One could argue that because public welfare offenses are strict liability, the responsible corporate officer doctrine functionally operates as absolute vicarious liability. If an employee commits a criminal act within the scope of corporate operations, the CEO is strictly liable by virtue of their title. Thus, Avon is liable automatically due to his status as CEO, rendering his specific operational authority or personal involvement irrelevant to the strict-liability analysis.
+(c) Argument-for: An argument could be made that criminal liability, even under the responsible corporate officer doctrine, requires some minimum mens rea to satisfy due process. One could contend that a CEO cannot be held liable for an omission unless they had actual, subjective knowledge of the specific missing permit. Since Avon did not supervise the storage and had no knowledge of the permit issue, he cannot be convicted.
+(d) Argument-for: A student might argue that the *Park* doctrine still requires some affirmative act or purposeful direction to connect the executive to the crime, differentiating it from purely vicarious liability. In this view, a CEO is only liable if they purposefully directed the subordinate to commit the specific regulatory infraction. Because Avon merely lacked presence and didn't supervise, he did not purposefully direct the infraction and thus avoids liability.
+(e) Argument-for: One could argue that causation requires some proximity to the offense. The *Park* doctrine holds officers liable for failing to prevent harm, but an officer who is entirely physically removed from a facility might lack the practical ability to exercise vigilance. Under this theory, Avon's total lack of physical presence at the warehouse severs the causal chain between his executive role and the local regulatory violation, precluding criminal liability.
 
-Head-to-head: Option (d) is clearly the best answer because it correctly identifies the termite rot as a highly extraordinary superseding cause that severs proximate causation. However, distractors (a) and (c) merely provide correct statements of mens rea and actual cause while implicitly omitting the proximate cause requirement. Because they lack absolute words, they do not contain explicitly falsifiable legal claims. Option (b) correctly fails by asserting an omission directly caused a physical collapse, which is factually falsifiable. Option (e) fails by misapplying the "fireman's rule" but lacks absolute framing to lock in the legal error.
+Head-to-head: Option (a) accurately articulates the *Park* doctrine's "responsible relation" standard, correctly capturing that an officer with authority to prevent or correct a violation is liable regardless of personal supervision. Options (b), (c), (d), and (e) each fail because they make explicit, categorically false legal claims about the *Park* doctrine. Option (b) ignores the requirement for operational authority, while (c) and (d) improperly import mens rea requirements (subjective knowledge and purposeful direction) into a strict-liability framework. Option (e) incorrectly elevates physical presence to a legal requirement for causation. However, option (a) introduces facts ("orchestrated the use of the warehouse for corporate illicit purposes") not present in the standalone prompt, which could confuse a test-taker.
 
 Falsifiable claim per distractor:
-- (a): "created the deadly chemical fire scenario" — wrong because it ignores superseding causes, but fails the standard because it relies on an implicit omission rather than an explicitly false absolute legal claim.
-- (b): "was the direct cause of the ceiling beam collapsing" — wrong because a failure to call 911 cannot factually or legally be the "direct cause" of a structural collapse.
-- (c): "because a reasonable person would have checked the chemical warning labels" — wrong because it merely establishes a breach of duty and implicitly skips proximate cause, lacking an absolute claim.
-- (e): "caused by her own negligence in entering the burning building" — wrong because an inspector entering a fire is highly foreseeable and not a superseding cause, though the distractor lacks absolute phrasing.
+- (b): "absolute vicarious liability on all corporate officers... regardless of the officer's specific operational authority" — wrong because *Park* explicitly requires that the officer have a responsible relation and operational authority to prevent or correct the violation.
+- (c): "requires the prosecution to prove that the corporate officer had actual, subjective knowledge" — wrong because the *Park* doctrine explicitly dispenses with the requirement of actual knowledge.
+- (d): "requires proof that the executive purposefully directed the subordinate" — wrong because liability under *Park* can be based on an omission or failure to exercise vigilance without purposeful direction.
+- (e): "lack of physical presence at the warehouse severs the causal chain" — wrong because physical presence is not a legal prerequisite; authority and responsibility establish the causal link regardless of geography.
 
-Recommended fix: Add absolute wording to distractors to lock in the false legal propositions. For example: 
-(a) "Murder, because creating a deadly fire scenario automatically establishes proximate cause regardless of how the victim dies." 
-(c) "Negligent homicide, because a factual breach of duty categorically satisfies liability for any resulting death." 
-(e) "Not guilty of homicide, because an official entering a burning building always constitutes a superseding cause."
+Recommended fix: Remove the external facts from option (a) so it relies only on the prompt. Change (a) to: "Yes, because as the CEO with the authority to prevent or correct the unpermitted storage, he stood in a responsible relation to the regulatory violation."
 -->

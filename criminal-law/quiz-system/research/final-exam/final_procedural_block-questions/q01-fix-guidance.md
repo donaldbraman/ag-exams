@@ -4,8 +4,34 @@ The QA pipeline flagged this question. Rewrite `q01.md` addressing each numbered
 
 ## Issue 1 — audit
 
-<!-- audit: MUST FIX -->
+**Q1.** Assume the prosecution charges Dominic and Leo with conspiracy to distribute narcotics. Will this charge succeed?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) Not guilty, because "locking down a market" is too vague to constitute a legally cognizable unlawful objective under conspiracy law.
+(b) Not guilty, because Leo unilaterally recruited the street crew without Dominic's express knowledge or prior explicit authorization.
+(c) Guilty of conspiracy, because their exchange of mutual commitments to control the market satisfies the bilateral agreement requirement. <!-- correct -->
+(d) Guilty of conspiracy, because Dominic is strictly liable for any planning offenses committed by his organizational subordinates.
+(e) Not guilty, because the agreement lacked an explicit overt act toward the distribution of narcotics at the exact time of the conversation.
 
-Error: Model returned empty or blocked response.
+**Answer:** (c)
+
+**Explanation:** The correct answer is (c). Conspiracy requires an agreement between two or more people to commit an unlawful act. Dominic's statement of the goal ("lock down the East End pill market") and Leo's commitment to action ("I'll recruit the street crew today") demonstrate a clear meeting of the minds and bilateral agreement to distribute narcotics (Facts 1 and 2). 
+
+(a) is incorrect because the context of the Syndicate clearly indicates that locking down a pill market is an agreement to distribute narcotics.
+(b) is incorrect because Leo's agreement with Dominic formed the conspiracy; the specific details of recruiting do not negate their mutual commitment.
+(d) is incorrect because Pinkerton liability applies to substantive offenses committed during a conspiracy, not the formation of the agreement itself.
+(e) is incorrect because an overt act (which Leo later committed by hiring Marcus) does not need to occur at the exact moment the verbal agreement is formed.
+
+**Tags:** chapters: [19], topics: [conspiracy, agreement-inference, bilateral-unilateral], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 19 - Conspiracy > Intent to agree & Bilateral requirement
+
+<!-- audit: MUST FIX
+Check 1: pass (conditional on missing facts)
+Check 2: pass
+Check 3: pass
+Check 4: fails. The question is entirely missing its fact pattern. The stem asks if a charge will succeed but provides zero facts about Dominic and Leo's conduct. The explanation relies on "Facts 1 and 2" (Dominic's statement, Leo's response, and hiring Marcus), which are nowhere in the prompt.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Recommended fix: Integrate the missing scenario facts directly into the question stem (e.g., "Dominic tells Leo, 'We need to lock down the East End pill market.' Leo replies, 'I'll recruit the street crew today,' and later hires Marcus...").
+-->

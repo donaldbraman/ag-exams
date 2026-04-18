@@ -1,6 +1,22 @@
+**Q6.** Marlowe is charged with attempted distribution of drugs for his aborted delivery attempt. He was arrested two miles from the meeting point. Which of the following correctly analyzes his liability under the common law "dangerous proximity" test and the MPC "substantial step" test?
+
+(a) He is guilty under both tests because driving toward the meeting point demonstrates his clear purpose to commit the offense.
+(b) He is not guilty under both tests because he had not yet encountered the buyer, leaving an opportunity to abandon the effort.
+(c) He is guilty under the dangerous proximity test because two miles is close enough, but not guilty under the substantial step test because his actions were uncorroborated.
+(d) He is guilty under the substantial step test because driving to the meeting strongly corroborates his purpose, but not guilty under the dangerous proximity test because he was not yet on the verge of committing the crime. <!-- correct -->
+(e) He is guilty under the substantial step test because he completed the preparation phase, and guilty under the dangerous proximity test because the drugs were in his control.
+
+**Answer:** (d)
+
+**Explanation:** (d) is correct. The MPC "substantial step" test only requires an act strongly corroborative of the actor's criminal purpose, which driving to a meeting point with the drugs clearly satisfies. The common law "dangerous proximity" test is much stricter, requiring the defendant to be very near the completion of the crime, which being two miles away typically fails to satisfy. (a) ignores the distinct actus reus requirements of both tests. (b) incorrectly concludes he fails the substantial step test. (c) completely reverses the relative difficulty of the two tests. (e) mistakenly conflates mere control of the contraband with dangerous proximity to the transaction.
+
+**Tags:** chapters: [17], topics: [attempt, substantial-step, dangerous-proximity], difficulty: intermediate, cognitive: analysis
+
+**Grounding:** Chapter 17: Attempts — actus-reus-substantial-step, actus-reus-proximity-test
+
 <!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass (The prompt clearly isolates the *actus reus* element (duty to act based on creation of peril), neatly avoiding the messy but-for causation issue of whether failing to call 911 actually caused Greggs's death, since she responded to the smoke anyway.)
-2. Cross-Doctrine Clashes: pass (Wallace's act being an involuntary convulsion strengthens, rather than weakens, Marlowe's creation of peril since Wallace acts as an innocent instrumentality of Marlowe's order.)
-3. Cross-Question Spoilers: pass (Q2 addresses the termite rot causation, leaving Q6 to cleanly evaluate the foundational duty element without stepping on the causation analysis.)
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
 Recommended fix: n/a
 -->

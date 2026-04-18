@@ -4,127 +4,66 @@ The QA pipeline flagged this question. Rewrite `q12.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q12.** Assume Avon and Marlowe are guilty of conspiracy to distribute narcotics. Is Avon liable for Marlowe's federal felony of storing hazardous chemicals without a permit under the Pinkerton doctrine?
+**Q12.** Avon is charged with possession of the drugs found in the wall safe in his personal office. He argues he has not opened the safe in months. Under the doctrine of constructive possession, will this defense succeed?
 
-(a) Liable, because he explicitly told Marlowe he did not care how the processing was done, establishing direct participation.
-(b) Liable, because storing hazardous chemicals was a reasonably foreseeable consequence of the drug conspiracy and done in furtherance of it. <!-- correct -->
-(c) Not liable, because the federal chemical statute requires specific intent, which cannot be imputed through a conspiracy.
-(d) Not liable, because he did not personally sign the invoice for the hazardous chemicals purchased by his manager.
-(e) Not liable, because chemical storage is a regulatory offense rather than a traditional inherently dangerous common law felony.
+(a) Yes, because the government must prove actual, physical handling of the contraband at the exact time of the arrest to establish criminal possession.
+(b) Yes, because the lack of temporal proximity to his last use of the safe definitively negates the mental state required for knowing possession.
+(c) No, because his exclusive knowledge of the safe's code establishes his power and intention to exercise control over the drugs within the safe. <!-- correct -->
+(d) No, because a corporate officer is strictly liable for any contraband found anywhere within the corporate headquarters, regardless of direct access.
+(e) No, because constructive possession automatically applies to any individual who holds an ownership stake in the property where the contraband is found.
 
-**Answer:** (b)
+**Answer:** (c)
 
-**Explanation:** (b) is correct because under the *Pinkerton* doctrine, a conspirator is vicariously liable for the substantive offenses committed by co-conspirators if those offenses are reasonably foreseeable and committed in furtherance of the conspiracy. Setting up a secret chemical processing lab is foreseeable in a drug distribution network. (a) fails because *Pinkerton* liability is vicarious and does not require direct participation in the target offense. (c) fails because *Pinkerton* imputes liability regardless of the target offense's specific mens rea, provided the conspiracy nexus is met. (d) fails because vicarious liability bypasses the need for personal execution. (e) fails because *Pinkerton* applies to regulatory federal felonies.
+**Explanation:** Constructive possession exists when a person lacks physical custody but has the power and intention to exercise dominion and control over an item. Avon's exclusive knowledge of the code to his personal safe clearly establishes his dominion and control over its contents. (a) fails because physical handling is actual possession; the law recognizes constructive possession as a substitute. (b) fails because possession is a continuing offense, and not recently opening the safe does not terminate constructive possession. (d) fails because officers are not strictly liable for all corporate premises; specific control and intent must be established. (e) fails because mere ownership of a building is insufficient; the defendant must have a nexus of control over the specific contraband.
 
-**Tags:** chapters: [19], topics: [pinkerton doctrine, vicarious liability, foreseeability], difficulty: medium, cognitive: analysis
+**Tags:** chapters: [15], topics: [constructive possession, dominion and control], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 19 - Conspiracy (Pinkerton Doctrine)
+**Grounding:** Chapter 15 (cp-exclusive-control)
 
 <!-- audit: MUST FIX
 check 1: pass
-check 2: A prepared student could point out that without facts establishing Marlowe stored the chemicals *for* the distribution conspiracy rather than for his own separate, independent project, liability cannot be established. Thus, (b) assumes a factual conclusion that isn't supported by the stem.
+check 2: pass
 check 3: pass
-check 4: MUST FIX. The stem is entirely missing the factual scenario needed to answer the question. It provides merely one sentence ("Assume Avon and Marlowe..."). Furthermore, distractors (a) ("explicitly told Marlowe") and (d) ("invoice... purchased by his manager") refer to highly specific factual details that are completely absent from the prompt, suggesting this question was orphaned from a broader fact pattern. 
+check 4: fails. The correct answer (c) and the explanation rely on a dispositive fact—Avon's "exclusive knowledge of the safe's code"—that is entirely missing from the stem. A well-prepared student will eliminate (c) because they are trained not to assume facts not in evidence (e.g., that it's a combination safe rather than a key safe, or that no one else has the code/access). 
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Provide the full fact pattern in the stem. Detail the nature of Avon and Marlowe's operation, the conversation about "processing" that option (a) references, the invoice/manager dynamic in option (d), and facts demonstrating that the chemical storage was actually done in furtherance of their joint drug enterprise.
+Recommended fix: Add the missing fact to the stem: "...found in the wall safe in his personal office, to which only he knows the combination." Alternatively, generalize (c) to match the stem: "No, because his control over his personal office and the safe within it establishes his power and intention to exercise control over the drugs."
 -->
 
-## Issue 2 — edge-case
+## Issue 2 — argpass-opus
 
-**Q12.** Assume Avon and Marlowe are guilty of conspiracy to distribute narcotics. Is Avon liable for Marlowe's federal felony of storing hazardous chemicals without a permit under the Pinkerton doctrine?
+**Q12.** Avon is charged with possession of the drugs found in the wall safe in his personal office. He argues he has not opened the safe in months. Under the doctrine of constructive possession, will this defense succeed?
 
-(a) Liable, because he explicitly told Marlowe he did not care how the processing was done, establishing direct participation.
-(b) Liable, because storing hazardous chemicals was a reasonably foreseeable consequence of the drug conspiracy and done in furtherance of it. <!-- correct -->
-(c) Not liable, because the federal chemical statute requires specific intent, which cannot be imputed through a conspiracy.
-(d) Not liable, because he did not personally sign the invoice for the hazardous chemicals purchased by his manager.
-(e) Not liable, because chemical storage is a regulatory offense rather than a traditional inherently dangerous common law felony.
+(a) Yes, because the government must prove actual, physical handling of the contraband at the exact time of the arrest to establish criminal possession.
+(b) Yes, because the lack of temporal proximity to his last use of the safe definitively negates the mental state required for knowing possession.
+(c) No, because his exclusive knowledge of the safe's code establishes his power and intention to exercise control over the drugs within the safe. <!-- correct -->
+(d) No, because a corporate officer is strictly liable for any contraband found anywhere within the corporate headquarters, regardless of direct access.
+(e) No, because constructive possession automatically applies to any individual who holds an ownership stake in the property where the contraband is found.
 
-**Answer:** (b)
+**Answer:** (c)
 
-**Explanation:** (b) is correct because under the *Pinkerton* doctrine, a conspirator is vicariously liable for the substantive offenses committed by co-conspirators if those offenses are reasonably foreseeable and committed in furtherance of the conspiracy. Setting up a secret chemical processing lab is foreseeable in a drug distribution network. (a) fails because *Pinkerton* liability is vicarious and does not require direct participation in the target offense. (c) fails because *Pinkerton* imputes liability regardless of the target offense's specific mens rea, provided the conspiracy nexus is met. (d) fails because vicarious liability bypasses the need for personal execution. (e) fails because *Pinkerton* applies to regulatory federal felonies.
+**Explanation:** Constructive possession exists when a person lacks physical custody but has the power and intention to exercise dominion and control over an item. Avon's exclusive knowledge of the code to his personal safe clearly establishes his dominion and control over its contents. (a) fails because physical handling is actual possession; the law recognizes constructive possession as a substitute. (b) fails because possession is a continuing offense, and not recently opening the safe does not terminate constructive possession. (d) fails because officers are not strictly liable for all corporate premises; specific control and intent must be established. (e) fails because mere ownership of a building is insufficient; the defendant must have a nexus of control over the specific contraband.
 
-**Tags:** chapters: [19], topics: [pinkerton doctrine, vicarious liability, foreseeability], difficulty: medium, cognitive: analysis
+**Tags:** chapters: [15], topics: [constructive possession, dominion and control], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 19 - Conspiracy (Pinkerton Doctrine)
-
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: Calling the chemical storage "Marlowe's federal felony" as a definitive noun phrase implicitly confirms that Marlowe committed the offense. This spoils Q3 (which tests whether the silent federal statute requires mens rea under Morissette and whether Marlowe's mistaken belief exculpates him) and Q7 (felony murder based on the underlying chemical felony). 
-Recommended fix: Explicitly make Marlowe's guilt part of the assumption to avoid confirming it for the student. Change the stem to: "Assume Avon and Marlowe are guilty of conspiracy to distribute narcotics, and assume Marlowe's chemical storage constitutes a federal felony. Is Avon liable for the storage offense under the Pinkerton doctrine?"
--->
-
-## Issue 3 — argpass-sonnet
-
-**Q12.** Assume Avon and Marlowe are guilty of conspiracy to distribute narcotics. Is Avon liable for Marlowe's federal felony of storing hazardous chemicals without a permit under the Pinkerton doctrine?
-
-(a) Liable, because he explicitly told Marlowe he did not care how the processing was done, establishing direct participation.
-(b) Liable, because storing hazardous chemicals was a reasonably foreseeable consequence of the drug conspiracy and done in furtherance of it. <!-- correct -->
-(c) Not liable, because the federal chemical statute requires specific intent, which cannot be imputed through a conspiracy.
-(d) Not liable, because he did not personally sign the invoice for the hazardous chemicals purchased by his manager.
-(e) Not liable, because chemical storage is a regulatory offense rather than a traditional inherently dangerous common law felony.
-
-**Answer:** (b)
-
-**Explanation:** (b) is correct because under the *Pinkerton* doctrine, a conspirator is vicariously liable for the substantive offenses committed by co-conspirators if those offenses are reasonably foreseeable and committed in furtherance of the conspiracy. Setting up a secret chemical processing lab is foreseeable in a drug distribution network. (a) fails because *Pinkerton* liability is vicarious and does not require direct participation in the target offense. (c) fails because *Pinkerton* imputes liability regardless of the target offense's specific mens rea, provided the conspiracy nexus is met. (d) fails because vicarious liability bypasses the need for personal execution. (e) fails because *Pinkerton* applies to regulatory federal felonies.
-
-**Tags:** chapters: [19], topics: [pinkerton doctrine, vicarious liability, foreseeability], difficulty: medium, cognitive: analysis
-
-**Grounding:** Chapter 19 - Conspiracy (Pinkerton Doctrine)
+**Grounding:** Chapter 15 (cp-exclusive-control)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student might argue that Avon's reckless delegation or authorization constitutes direct participation, making him liable. They could mistakenly believe that Pinkerton liability requires direct involvement or authorization in the specific act, viewing this option as a correct synthesis of factual complicity and the doctrine.
-(b) Argument-for: Under the Pinkerton doctrine, a co-conspirator is vicariously liable for the substantive offenses of other conspirators if those crimes are reasonably foreseeable and committed in furtherance of the conspiracy. Processing narcotics requires chemicals, making Marlowe’s storage of them a foreseeable consequence of the drug conspiracy, thus perfectly satisfying the Pinkerton elements.
-(c) Argument-for: A student might argue that specific intent crimes require the defendant to personally hold the requisite mens rea. They could conclude that while Pinkerton imputes the actus reus for general intent crimes, it categorically cannot impute a specific mens rea for regulatory felonies without direct proof of the defendant's state of mind.
-(d) Argument-for: A student might focus on the physical actus reus requirement, arguing that for specific regulatory offenses like unpermitted chemical storage, personal action is necessary. By noting Avon did not personally sign the invoice, the student argues he lacks the necessary physical involvement, defeating Pinkerton liability.
-(e) Argument-for: A student could argue that Pinkerton, as a common law doctrine, was uniquely designed to impute liability for traditional, inherently dangerous felonies like robbery or murder. They might conclude that extending this vicarious liability to modern statutory or regulatory offenses stretches the doctrine beyond its limits, rendering it inapplicable here.
+(a) Argument-for: A student might argue that criminal possession strictly requires a contemporaneous actus reus. Under a hyper-strict evidentiary view, if the defendant is not physically holding the item when apprehended, the government cannot concretely establish the act of possession. Therefore, to ensure no innocent person is convicted, the government must prove actual, physical handling at the exact time of the arrest.
+(b) Argument-for: A student could assert that knowing possession is an active state of mind that requires ongoing temporal proximity. Because Avon has not opened the safe in months, this massive gap severs the temporal nexus necessary to prove mens rea. Thus, this lack of recent use definitively negates the knowing mental state required for criminal possession.
+(c) Argument-for: A student would argue that constructive possession relies on the power and intention to exercise dominion and control over contraband. Since the safe is in Avon's personal office, it is a direct inference that he controls access to it. His exclusive ability to access the safe establishes his ongoing control over the drugs inside, rendering his lack of recent access irrelevant.
+(d) Argument-for: A student might analogize to the responsible corporate officer doctrine, arguing that high-level officers bear strict liability for legal violations within their business purview. Because the safe is located in the corporate headquarters, his status as an officer makes him strictly liable for any contraband found anywhere on the premises.
+(e) Argument-for: A student could argue that property law principles of ownership cleanly extend to criminal possession. If an individual holds an ownership stake in the property, the law imputes dominion and control over everything physically located inside it. Therefore, constructive possession automatically applies to him solely because of his ownership interest.
 
-Head-to-head: Option (b) correctly identifies the core elements of Pinkerton liability (foreseeability and in furtherance of the conspiracy). Option (a) incorrectly attributes liability to "direct participation," which directly contradicts the vicarious nature of Pinkerton, and it introduces facts absent from the prompt. Option (c) contains an explicit false legal claim about the inability to impute specific intent. Option (d) offers an irrelevant factual negative ("did not personally sign") without explicitly locking in the false legal premise it relies upon. Option (e) provides a clear, falsifiable legal distinction regarding regulatory versus common law offenses. Because options (a) and (d) rely on implicit legal errors or unstated facts rather than explicit, absolute legal claims, the question falls short of the strict close-call standard and should be fixed.
-
-Falsifiable claim per distractor:
-- (a): "establishing direct participation" — wrong because Pinkerton creates vicarious liability, not direct participation liability; additionally, it relies on fabricated facts about what Avon "explicitly told" Marlowe rather than an absolute legal rule.
-- (c): "specific intent, which cannot be imputed through a conspiracy" — wrong because Pinkerton explicitly permits imputing the required mens rea of foreseeable substantive offenses committed in furtherance of the conspiracy, including specific intent.
-- (d): "because he did not personally sign the invoice" — wrong because it relies on an implicitly false legal assumption (that personal acts are required) rather than stating an explicit, absolute claim; under Pinkerton, personal execution is categorically unnecessary.
-- (e): "because chemical storage is a regulatory offense rather than a traditional inherently dangerous common law felony" — wrong because Pinkerton applies equally to federal statutory and regulatory offenses, not just traditional common law felonies.
-
-Recommended fix: Revise (a) and (d) to remove fabricated facts and lock in explicit false legal claims. Change (a) to: "Liable, solely because Pinkerton categorically applies to any crime committed by a co-conspirator, regardless of foreseeability." Change (d) to: "Not liable, because Pinkerton liability categorically requires the defendant to personally participate in the actus reus of the target offense."
--->
-
-## Issue 4 — argpass-opus
-
-**Q12.** Assume Avon and Marlowe are guilty of conspiracy to distribute narcotics. Is Avon liable for Marlowe's federal felony of storing hazardous chemicals without a permit under the Pinkerton doctrine?
-
-(a) Liable, because he explicitly told Marlowe he did not care how the processing was done, establishing direct participation.
-(b) Liable, because storing hazardous chemicals was a reasonably foreseeable consequence of the drug conspiracy and done in furtherance of it. <!-- correct -->
-(c) Not liable, because the federal chemical statute requires specific intent, which cannot be imputed through a conspiracy.
-(d) Not liable, because he did not personally sign the invoice for the hazardous chemicals purchased by his manager.
-(e) Not liable, because chemical storage is a regulatory offense rather than a traditional inherently dangerous common law felony.
-
-**Answer:** (b)
-
-**Explanation:** (b) is correct because under the *Pinkerton* doctrine, a conspirator is vicariously liable for the substantive offenses committed by co-conspirators if those offenses are reasonably foreseeable and committed in furtherance of the conspiracy. Setting up a secret chemical processing lab is foreseeable in a drug distribution network. (a) fails because *Pinkerton* liability is vicarious and does not require direct participation in the target offense. (c) fails because *Pinkerton* imputes liability regardless of the target offense's specific mens rea, provided the conspiracy nexus is met. (d) fails because vicarious liability bypasses the need for personal execution. (e) fails because *Pinkerton* applies to regulatory federal felonies.
-
-**Tags:** chapters: [19], topics: [pinkerton doctrine, vicarious liability, foreseeability], difficulty: medium, cognitive: analysis
-
-**Grounding:** Chapter 19 - Conspiracy (Pinkerton Doctrine)
-
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student might choose this option if they conflate *Pinkerton* liability with accomplice liability. They could argue that Avon’s alleged instruction that he "did not care" how the processing was done provides the requisite authorization to establish direct participation. Because they mistakenly believe direct participation is required or sufficient for this specific doctrine, they would view this factual assumption as the strongest basis for liability.
-(b) Argument-for: This option perfectly encapsulates the core elements of the *Pinkerton* doctrine. A co-conspirator is vicariously liable for the substantive crimes of their co-conspirators if those offenses are reasonably foreseeable and committed in furtherance of the conspiracy. Given that narcotics distribution requires chemical processing, storing hazardous chemicals is a reasonably foreseeable act in furtherance of the conspiracy.
-(c) Argument-for: A student could defend this by arguing that specific intent offenses require a specialized mens rea that vicarious liability doctrines cannot satisfy. They might believe that while general intent crimes can be imputed, specific intent crimes demand the defendant personally harbor the intent. Therefore, they would conclude that the conspiracy alone cannot impute the necessary mental state for this offense.
-(d) Argument-for: A student might defend this option by viewing the chemical storage felony as an administrative or paperwork offense. They might argue that criminal liability for failing to sign an invoice strictly requires the defendant to be the party responsible for the administrative process. Thus, Avon's lack of personal involvement in signing the paperwork seemingly shields him from vicarious liability.
-(e) Argument-for: A student could argue that the *Pinkerton* doctrine is a common law concept historically limited to inherently dangerous felonies like robbery or murder. They might conclude that applying vicarious liability to a modern regulatory or strict-liability offense overextends the doctrine beyond its historical boundaries. Thus, they would select this option under the belief that *Pinkerton* categorically excludes regulatory administrative felonies.
-
-Head-to-head:
-Option (b) is the only correct statement of the law, properly applying the *Pinkerton* foreseeability standard. Options (a) and (d) introduce phantom facts (an explicit instruction, an invoice signed by a manager) not present in the brief prompt, making them procedurally flawed. Legally, (a) incorrectly equates *Pinkerton* with direct participation, while (d) implies personal execution is required. Options (c) and (e) offer explicitly false legal rules: (c) claims specific intent cannot be imputed, and (e) implies the doctrine is restricted to common law felonies. Because (a) and (d) rely on unstated facts and several distractors lack absolute locking words, a fix is recommended to tighten the options.
+Head-to-head: 
+Option (c) correctly articulates the rule for constructive possession—power and intention to exercise control. However, (c) imports a fact ("exclusive knowledge of the safe's code") that is never established in the prompt, which only states it is a safe in "his personal office." While students can reasonably infer he has the code, injecting unstated facts makes the keyed answer slightly flawed. The distractors, however, are securely and explicitly false. Option (a) relies on the falsifiable claim that actual physical handling "at the exact time" is required. Option (b) falsely claims a time gap "definitively negates" the mental state. Option (d) incorrectly applies strict liability to "anywhere within the corporate headquarters." Option (e) uses the absolute phrase "automatically applies." Because the correct answer assumes a fact not in evidence, a minor adjustment is recommended.
 
 Falsifiable claim per distractor:
-- (a): "establishing direct participation" — wrong because *Pinkerton* imposes vicarious liability, rendering direct participation legally irrelevant to the application of the doctrine.
-- (c): "which cannot be imputed through a conspiracy" — wrong because *Pinkerton* explicitly allows the imputation of the requisite mens rea, including specific intent, for substantive offenses.
-- (d): "because he did not personally sign the invoice" — wrong because *Pinkerton* imposes vicarious liability precisely when the defendant did not personally execute the actus reus.
-- (e): "rather than a traditional inherently dangerous common law felony" — wrong because *Pinkerton* liability applies fully to federal regulatory and statutory felonies and is not restricted to common law crimes.
+- (a): "must prove actual, physical handling of the contraband at the exact time of the arrest" — wrong because constructive possession exists precisely as a legal substitute for actual possession, and the actus reus does not require simultaneous physical contact at the moment of arrest.
+- (b): "definitively negates the mental state required" — wrong because possession is a continuing offense; a lack of recent physical access does not categorically extinguish a defendant's knowledge of or intent to control the contents.
+- (d): "strictly liable for any contraband found anywhere within the corporate headquarters" — wrong because strict liability does not categorically apply to corporate officers for general possession offenses simply because contraband is located somewhere in the building.
+- (e): "automatically applies to any individual who holds an ownership stake" — wrong because mere ownership of a property does not automatically or categorically establish the specific nexus, knowledge, and control required for constructive possession.
 
-Recommended fix: Integrate the missing facts into the prompt (e.g., "Avon told Marlowe he didn't care how the processing was done, and Marlowe's manager purchased the chemicals without Avon signing the invoice"). To enforce the close-call standard with absolute words, revise (a) to end with "establishing direct participation, which is categorically required," revise (d) to start with "Not liable solely because...", and revise (e) to read "Not liable, because Pinkerton categorically excludes regulatory offenses..."
+Recommended fix: Either alter the prompt to include the missing fact ("Avon is charged with possession of the drugs found in the wall safe in his personal office, to which only he has the code.") OR alter (c) to rely entirely on the given text ("No, because his control over the safe in his personal office establishes his power and intention to exercise control over the drugs within it.").
 -->

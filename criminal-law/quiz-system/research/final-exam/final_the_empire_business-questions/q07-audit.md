@@ -1,26 +1,5 @@
-**Q7.** Assume David is charged as an accomplice to the burglary for providing the security codes. Can David successfully raise a defense to the accomplice liability charge?
+<!-- audit: MUST FIX -->
 
-(a) Yes, because Carmine's immediate threat to shoot him in the head satisfies the strict imminence requirement for a complete duress defense. <!-- correct -->
-(b) Yes, because a defendant can only be convicted as an accomplice if they are physically present at the scene of the burglary.
-(c) No, because David knew the security codes would be used for a burglary, which conclusively satisfies the mens rea for accomplice liability.
-(d) No, because the affirmative defense of duress is categorically unavailable for any offenses that ultimately result in a human death.
-(e) No, because David failed to seek protection from law enforcement before handing over the security codes to the criminal enterprise.
+**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
 
-**Answer:** (a)
-
-**Explanation:** David has a valid duress defense. Duress acts as a complete excuse when a defendant commits a crime under an imminent threat of death or serious bodily injury. Carmine placing a loaded gun on the desk and threatening to shoot David right then satisfies the strict imminence requirement. (b) fails because accomplice liability does not require physical presence at the scene (e.g., providing codes from afar). (c) fails for two reasons: David lacked the *purpose* to facilitate the crime (he only had knowledge), and even if knowledge sufficed, duress provides a complete excuse. (d) fails because the common-law murder bar for duress only prevents using duress as a defense to the charge of *intentional murder*, not to the underlying burglary charge. (e) fails because the threat was immediate, leaving no safe avenue of escape to contact law enforcement.
-
-**Tags:** chapters: [18, 21], topics: [accomplice-liability, duress, imminence], difficulty: medium, cognitive: analysis
-
-**Grounding:** Chapter 21 (Duress Imminence Requirement); Chapter 18 (Mens Rea: Purpose vs. Knowledge)
-
-<!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: fails; the stem entirely lacks the factual scenario needed to answer the question. It relies on a missing master fact pattern, using definite articles ("the burglary", "the security codes") and relying on facts introduced only in the options/explanation (Carmine, the gun, the threat to shoot him in the head). A student cannot evaluate the imminence of the threat without the facts.
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Integrate the missing facts into the stem so the question can stand alone (e.g., "David, a security guard, is approached by Carmine, who places a loaded gun on the desk and threatens to shoot David immediately unless David provides the building's security codes for a burglary. David complies. Assume David is charged...").
--->
+Error: Model returned empty or blocked response.

@@ -1,17 +1,17 @@
-**Q2.** Assume that Leo is charged under 18 U.S.C. § 924(c) with "using" a firearm during and in relation to a drug trafficking crime. Based on his exchange of five handguns for 500 grams of cocaine, is Leo guilty?
+**Q2.** Can Carmine be convicted of a RICO conspiracy under § 1962(d) for the agreement regarding the future narcotics side-operation?
 
-(a) Guilty, because tendering firearms as currency in exchange for drugs constitutes an active employment and "use" of the weapons under the statute. <!-- correct -->
-(b) Guilty, because any simultaneous possession of drugs and a firearm automatically satisfies the "use" requirement regardless of the specific circumstances.
-(c) Not guilty, because "using" a firearm under the statute strictly requires deploying it as a weapon, such as by pointing or firing it.
-(d) Not guilty, because he did not carry the firearms on his person while transporting the drugs across an established state boundary line.
-(e) Not guilty, because receiving drugs in exchange for a gun makes him a mere personal purchaser rather than an active drug trafficker.
+(a) Guilty, because an agreement to associate with and participate in a yet-to-be-formed racketeering enterprise constitutes a completed RICO conspiracy under federal law. <!-- correct -->
+(b) Not guilty, because the substantive enterprise must already exist at the time of the initial agreement for a conspiracy charge to legally attach.
+(c) Guilty, but only if Dominic personally completed at least two predicate acts of racketeering in furtherance of the newly formed drug operation.
+(d) Not guilty, because an agreement to commit future crimes lacks the necessary continuity requirement to establish a completed pattern of racketeering activity.
+(e) Guilty, because any agreement to commit a drug trafficking offense automatically triggers RICO liability under federal inchoate criminal conspiracy laws.
 
 **Answer:** (a)
 
-**Explanation:** Leo is guilty under § 924(c). In *Smith v. United States*, the Supreme Court held that a defendant who trades a gun for drugs "uses" a firearm during and in relation to a drug trafficking crime because "use" includes active employment of the weapon as an item of barter. (b) fails because mere simultaneous possession without active employment or carrying does not satisfy the statute's use prong. (c) fails because this relies on Justice Ginsburg's rejected "use as a weapon" concurrence; the majority held use includes barter. (d) fails because the statute does not require interstate transportation of the drugs during the commission of the crime. (e) fails because exchanging weapons for trafficking quantities (500 grams) qualifies as a drug trafficking crime, not mere personal possession.
+**Explanation:** An agreement to associate with and participate in a yet-to-be-formed racketeering enterprise can constitute a completed RICO conspiracy offense (*United States v. Rich*). The enterprise need not exist at the time of the agreement. (b) is wrong because *Rich* explicitly permits convictions for agreeing to form a future enterprise. (c) is wrong because *Salinas* holds that a RICO conspirator need not personally commit two predicate acts. (d) is wrong because conspiracy is an inchoate offense targeting the agreement itself, not the completed pattern. (e) is wrong because ordinary drug conspiracies do not automatically constitute RICO violations; they must target an enterprise structure.
 
-**Tags:** chapters: [15], topics: [use-924c, trading-gun-for-drugs], difficulty: medium, cognitive: application
+**Tags:** chapters: [20], topics: [RICO, conspiracy, rich-future-enterprise], difficulty: advanced, cognitive: application
 
-**Grounding:** Chapter 15 (Smith v. United States)
+**Grounding:** Chapter 20 - United States v. Rich
 
-<!-- grounding: GROUNDED — § 924(c) "use" (trading gun for drugs), Ch 15, Refinement `use-924c-trading-gun-for-drugs`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — United States v. Rich (future enterprise), Ch 20, Refinement `rich-future-enterprise`. Rule paraphrased accurately. -->

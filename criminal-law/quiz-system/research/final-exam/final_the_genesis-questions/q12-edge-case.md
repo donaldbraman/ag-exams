@@ -1,22 +1,22 @@
-**Q12.** Under the *Pinkerton* doctrine, can Avon be held liable for the substantive federal offense of storing hazardous chemicals without a permit committed by Marlowe?
+**Q12.** Police charge Avon with possession of the drugs found in the wall safe in his personal office. Avon claims he hasn't opened the safe in months. Under the doctrine of constructive possession, will this charge likely succeed?
 
-(a) Yes, because Avon is the CEO of the corporation and is strictly liable for all crimes committed by his subordinate employees.
-(b) Yes, because Marlowe's storage of processing chemicals was in furtherance of the drug conspiracy and a reasonably foreseeable consequence of it. <!-- correct -->
-(c) No, because Avon explicitly stated he did not care how Marlowe processed the drugs, which legally negates his specific criminal intent.
-(d) No, because the federal Pinkerton doctrine legally applies exclusively to violent common-law felonies, not to silent strict-liability regulatory storage offenses.
-(e) No, because Avon was not physically present at the commercial warehouse when the hazardous chemicals were actually delivered or improperly stored.
+(a) Yes, because constructive possession automatically applies to all illegal items found anywhere within a corporate headquarters.
+(b) Yes, because his exclusive control over the safe's code gives him the power and intention to exercise control over its contents. <!-- correct -->
+(c) No, because actual physical handling of the drugs at the time of the raid is required to prove possession.
+(d) No, because the state cannot prove Avon placed the drugs in the safe himself, which is a required element.
+(e) No, because his statement that he had not opened the safe in months negates the voluntary act requirement.
 
 **Answer:** (b)
 
-**Explanation:** Under the *Pinkerton* doctrine, a conspirator is liable for the substantive offenses committed by a co-conspirator if the crimes were committed in furtherance of the conspiracy and were a reasonably foreseeable consequence of the unlawful agreement. Storing processing chemicals was necessary to process the narcotics and was a reasonably foreseeable consequence of "setting up the drug operation." (a) is wrong because *Pinkerton* requires the crime to be in furtherance of a conspiracy, not just an employer-employee relationship. (c) is wrong because *Pinkerton* relies on the conspiratorial agreement to substitute for the mens rea of the substantive offense, regardless of his indifference to the method. (d) is wrong because *Pinkerton* applies to any foreseeable substantive offense in furtherance of the conspiracy, including regulatory crimes. (e) is wrong because physical presence is not required for *Pinkerton* liability.
+**Explanation:** (b) is correct. Constructive possession is established when a person has the power and intention to exercise control over an object, even if it is not in their physical custody. Having the sole code to a personal wall safe clearly establishes this power and intention. (a) is overly broad; constructive possession requires a specific nexus of awareness and control, not just physical presence in a building. (c) is wrong because constructive possession was developed specifically to cover situations where actual physical handling is absent. (d) is incorrect; placing the drugs there is not required, only current control. (e) is false; continuing to possess or maintain control over an item satisfies the voluntary act requirement.
 
-**Tags:** chapters: [19], topics: [pinkerton doctrine, conspiracy, substantive liability], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [constructive-possession, awareness-control], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 19, Pinkerton v. United States (liability for foreseeable substantive crimes committed in furtherance of the conspiracy)
+**Grounding:** Chapter 15: Drugs and Guns — cp-awareness-control
 
-<!-- edge-case-audit: SHOULD FIX
+<!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: By stating "the substantive federal offense... committed by Marlowe," the stem confirms Marlowe's guilt for the chemical storage charge as a definitive fact. This spoils Q3 (which tests whether the statute requires a mental state that Marlowe may or may not satisfy under Morissette) and Q7 (which relies on determining if Marlowe actually committed this underlying felony for felony murder).
-Recommended fix: Change the question stem to conditional/hypothetical phrasing: "Assuming Marlowe is guilty of the substantive federal offense of storing hazardous chemicals without a permit, can Avon be held liable for it under the *Pinkerton* doctrine?"
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
 -->

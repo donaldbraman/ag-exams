@@ -10,100 +10,79 @@ The QA pipeline flagged this question. Rewrite `q02.md` addressing each numbered
 
 Error: Model returned empty or blocked response.
 
-## Issue 2 — edge-case
+## Issue 2 — argpass-sonnet
 
-**Q2.** Assume Marlowe is charged with homicide for the death of Inspector Greggs. Does the ceiling collapse constitute an independent intervening cause?
+**Q2.** Assume that, whether or not the voluntary act requirement is met, the prosecution must prove Wallace proximately caused Inspector Greggs's death. Under the *Arzon* "sufficiently direct cause" standard, is Wallace the proximate cause of Greggs's death?
 
-(a) Dependent, because Inspector Greggs would not have entered the warehouse but for the fire started by the chemicals.
-(b) Dependent, because a building collapse is a reasonably foreseeable consequence of a severe chemical fire.
-(c) Independent, because the beam collapsed entirely due to preexisting termite rot rather than the ongoing fire. <!-- correct -->
-(d) Independent, because Inspector Greggs voluntarily assumed the risk by entering a burning commercial building.
-(e) Independent, because Marlowe had already fled the scene and was no longer participating in the causal chain.
+(a) Yes, because it is reasonably foreseeable that a first responder will be placed in a position of particular vulnerability by responding to a massive chemical fire. <!-- correct -->
+(b) Yes, because a defendant takes their victim's environment as they find it, meaning the preexisting termite damage is an irrelevant dependent intervening cause.
+(c) No, because the severe termite rot in the wooden pillar was an independent, unforeseeable intervening cause that entirely severs the causal chain.
+(d) No, because the specific mechanism of death—a ceiling collapse triggered by a termite-weakened pillar—was a highly extraordinary and entirely unpredictable result.
+(e) No, because the prosecution must prove that the chemical fire was the sole and exclusive cause of the structural failure that killed the police inspector.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct because the collapse was caused entirely by a preexisting structural defect (termite rot) unrelated to the fire, making it an independent, unforeseeable superseding cause that severs proximate liability. (a) fails because factual "but-for" causation does not automatically establish legal proximate causation. (b) fails factually; while a fire-induced collapse is foreseeable, this specific collapse was caused entirely by termite rot, not the fire. (d) fails because the rescue doctrine generally makes rescuer injury foreseeable, not an independent chain-breaker. (e) fails because fleeing the scene does not sever liability for prior causal contributions.
+**Explanation:** Under the *Arzon* sufficiently-direct-cause standard, a defendant is the proximate cause if their conduct was a sufficiently direct cause and the ultimate harm was reasonably related to their acts. It is inherently foreseeable that firefighters and first responders will be vulnerable to independent forces when responding to a blaze. (b) fails because "eggshell skull" rules generally apply to personal physical vulnerabilities, not to building structures in proximate cause analysis. (c) fails because the termite rot, while independent, combined with the foreseeable fire response to cause the death, which *Arzon* holds is sufficient. (d) fails because *Arzon* does not require the exact specific mechanism of death to be foreseeable, only the general type of harm. (e) fails because *Arzon* explicitly rejects the requirement that the defendant must be the sole cause.
 
-**Tags:** chapters: [8], topics: [proximate cause, dependent vs independent intervening cause], difficulty: medium, cognitive: application
+**Tags:** chapters: [8], topics: [causation, proximate cause, intervening cause], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 8 - Causation (Dependent vs. Independent Intervening Causes)
-
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: By definitively concluding that the collapse is an independent superseding cause that "severs proximate liability," Q2 legally terminates Marlowe's responsibility for Greggs's death. This directly spoils Q7 (felony murder) and Q8 (homicide grading) by rendering them moot—if proximate cause is severed here, Marlowe has absolutely no homicide liability to analyze or grade in subsequent questions.
-Recommended fix: Change Fact 6 and Q2 to state that the fire *partially contributed* to or hastened the collapse of the termite-weakened beam. This transforms the collapse into a dependent (responsive) intervening cause that does not sever liability, thereby keeping the causal chain intact so Q7 and Q8 can legitimately test their respective doctrines.
--->
-
-## Issue 3 — argpass-sonnet
-
-**Q2.** Assume Marlowe is charged with homicide for the death of Inspector Greggs. Does the ceiling collapse constitute an independent intervening cause?
-
-(a) Dependent, because Inspector Greggs would not have entered the warehouse but for the fire started by the chemicals.
-(b) Dependent, because a building collapse is a reasonably foreseeable consequence of a severe chemical fire.
-(c) Independent, because the beam collapsed entirely due to preexisting termite rot rather than the ongoing fire. <!-- correct -->
-(d) Independent, because Inspector Greggs voluntarily assumed the risk by entering a burning commercial building.
-(e) Independent, because Marlowe had already fled the scene and was no longer participating in the causal chain.
-
-**Answer:** (c)
-
-**Explanation:** (c) is correct because the collapse was caused entirely by a preexisting structural defect (termite rot) unrelated to the fire, making it an independent, unforeseeable superseding cause that severs proximate liability. (a) fails because factual "but-for" causation does not automatically establish legal proximate causation. (b) fails factually; while a fire-induced collapse is foreseeable, this specific collapse was caused entirely by termite rot, not the fire. (d) fails because the rescue doctrine generally makes rescuer injury foreseeable, not an independent chain-breaker. (e) fails because fleeing the scene does not sever liability for prior causal contributions.
-
-**Tags:** chapters: [8], topics: [proximate cause, dependent vs independent intervening cause], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 8 - Causation (Dependent vs. Independent Intervening Causes)
+**Grounding:** Chapter 8 (sufficiently-direct-cause-standard; People v. Arzon)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student might choose this by focusing on factual causation and the chronological sequence of events. Since Greggs only entered the warehouse due to the fire, the student could argue that everything happening to Greggs inside is logically dependent on Marlowe's initial arson. Because his entry was a direct response, the ensuing collapse appears as part of a dependent causal chain.
-(b) Argument-for: A student could reason that dependent intervening causes are often tied to the foreseeability of the harm's type. Because a building collapse is a highly foreseeable risk during a severe chemical fire, the student might conclude that the collapse is legally dependent on the fire's occurrence, regardless of the precise mechanism of the collapse.
-(c) Argument-for: This is the correct answer. An independent intervening cause is a coincidence that operates independently of the defendant's act. Because the beam collapsed entirely due to preexisting termite rot—not the fire itself—it is an independent, abnormal coincidence. This entirely unrelated mechanism breaks the causal chain as an unforeseeable superseding cause.
-(d) Argument-for: A student might conflate tort assumption of risk or superseding acts by victims with this scenario. They could argue that Greggs's deliberate choice to enter a highly dangerous burning building was a voluntary, independent act that supersedes Marlowe's liability, thereby breaking the causal chain.
-(e) Argument-for: A student could argue that once a defendant's active participation ends, any subsequent injury is independent of their direct actions. Because Marlowe fled and was no longer at the scene, the student might think his role in the causal chain had finalized, rendering later events independent.
+(a) Argument-for: Under *People v. Arzon*, a defendant whose conduct places emergency responders in a vulnerable position is the proximate cause of their injury, even if an independent force contributes to the ultimate harm. It is inherently foreseeable that first responders will be exposed to life-threatening hazards, such as unseen structural defects or compounding independent events, when battling a massive fire. *Arzon* explicitly ruled that the defendant need not foresee the exact sequence of events, only that their actions would place responders in such a perilous position. Therefore, (a) accurately applies the standard to find Wallace is the proximate cause.
+(b) Argument-for: A student could argue that proximate cause incorporates the "eggshell victim" rule, forcing a defendant to take their victim as they find them. By logical extension, a defendant takes the physical environment—such as a building with severe termite rot—as they find it. Under this theory, the termite damage is not an independent intervening act but merely a preexisting condition or dependent intervening cause triggered by the fire's stress. Because dependent intervening causes do not sever liability, Wallace remains the proximate cause.
+(c) Argument-for: A student could argue that an independent, unforeseeable intervening act supersedes the defendant's conduct and breaks the causal chain. While the fire prompted the victim's presence, the collapse was triggered by preexisting severe termite rot, which is a completely independent force entirely unrelated to Wallace's actions. Because Wallace could not have foreseen this hidden defect, the termite rot acts as a superseding cause that relieves him of liability. Therefore, (c) correctly asserts that the causal chain is completely severed.
+(d) Argument-for: A student could argue that for proximate cause to hold, the ultimate harm must not occur in a highly extraordinary or bizarre manner. Even if injury to a first responder is generally foreseeable, death caused by a sudden ceiling collapse specifically triggered by unseen termite damage is arguably a highly unpredictable mechanism of death. When the specific mechanism of harm is so unforeseeable that it defies normal expectations, proximate causation fails. Thus, (d) offers a valid argument that the bizarre nature of the collapse precludes liability.
+(e) Argument-for: A student could assert that criminal proximate cause demands a strict nexus between the defendant's act and the resulting harm. If the structural failure was primarily caused by the termite rot rather than the chemical fire itself, the fire was not the definitive cause of the inspector's death. Option (e) posits that the prosecution must prove the fire was the sole and exclusive cause. Since it was not, proximate cause is not satisfied, correctly making Wallace not liable under this strict reading.
 
-Head-to-head: Option (c) correctly identifies that a causal mechanism completely divorced from the defendant's act (termite rot) is an independent intervening cause. Distractor (a) falsely implies that factual "but-for" causation of the victim's presence is sufficient to classify the subsequent injury mechanism as dependent. Distractor (b) incorrectly uses the general foreseeability of a fire-induced collapse to classify a completely unrelated, coincident collapse as dependent. Distractor (d) wrongly categorizes the rescue doctrine/victim's response as an independent chain-breaker. Distractor (e) falsely claims that fleeing the scene severs proximate causation. However, under the strict close-call standard, the distractors currently rely on implicit legal misunderstandings or factual misapplications (especially b, which the explanation admits merely "fails factually") rather than explicit, absolute false legal propositions.
+Head-to-head: Option (a) is the strongest and correctly keys to the *Arzon* rule, which holds that placing a first responder in a position of vulnerability satisfies proximate cause even if an independent condition contributes to the harm. Option (b) invents an "environment as they find it" legal doctrine and mischaracterizes preexisting rot as a "dependent intervening cause." Option (c) makes a false claim under *Arzon* by stating the independent cause "entirely severs" the chain; *Arzon* explicitly holds it does not. Option (e) is categorically false because *Arzon* directly rejects the "sole and exclusive cause" standard. Option (d) is the weakest distractor structurally because it relies on a factual characterization ("highly extraordinary and entirely unpredictable result") to imply a legal omission, rather than locking in an explicit, falsifiable legal claim about the requirements of proximate cause. 
 
 Falsifiable claim per distractor:
-- (a): "Dependent, because Inspector Greggs would not have entered the warehouse but for the fire" — wrong because mere "but-for" causation of a victim's presence does not legally transform an unrelated mechanism into a dependent cause, but it lacks absolute language locking this in as a rule.
-- (b): "Dependent, because a building collapse is a reasonably foreseeable consequence" — wrong because foreseeability of a general outcome does not make an unrelated causal mechanism legally "dependent," but this functions as a factual mischaracterization rather than an explicit false legal claim.
-- (d): "Independent, because Inspector Greggs voluntarily assumed the risk" — wrong because rescuer intervention is generally foreseeable and dependent, not an independent superseding cause, but it lacks absolute phrasing.
-- (e): "Independent, because Marlowe had already fled the scene" — wrong because physical absence does not legally sever a causal chain, but lacks a definitive absolutist trigger.
+- (b): "takes their victim's environment as they find it, meaning the preexisting termite damage is an irrelevant dependent intervening cause" — wrong because there is no such environmental extension to the eggshell skull rule, and preexisting defects are not "dependent intervening causes."
+- (c): "entirely severs the causal chain" — wrong because under *Arzon*, an independent contributing cause does not automatically sever liability if the defendant placed responders in harm's way.
+- (d): "was a highly extraordinary and entirely unpredictable result" — wrong because *Arzon* only requires the general type of harm to be foreseeable, not the specific mechanism; however, as written, it lacks a definitively locked-in false legal claim.
+- (e): "must prove that the chemical fire was the sole and exclusive cause" — wrong because proximate cause (and *Arzon* specifically) categorically rejects the "sole and exclusive cause" requirement.
 
-Recommended fix: Lock the false legal claims with absolute words to meet the close-call standard. (a) "Dependent, because any event that would not have occurred but for the defendant's conduct is automatically a dependent cause." (b) "Dependent, because foreseeable outcomes are categorically dependent causes regardless of their actual mechanism." (d) "Independent, solely because a victim's voluntary entry into a burning building always constitutes a superseding act." (e) "Independent, automatically because the defendant had already fled and was no longer physically participating."
+Recommended fix: Lock in falsifiable legal propositions for (d) and (c) by adding absolute words. 
+Change (d) to: "No, because proximate cause categorically requires the specific mechanism of death to be foreseeable, and the termite-triggered collapse was entirely unpredictable."
+Change (c) to: "No, because any independent intervening cause automatically severs the causal chain, regardless of whether the victim was placed in a vulnerable position."
 -->
 
-## Issue 4 — argpass-opus
+## Issue 3 — argpass-opus
 
-**Q2.** Assume Marlowe is charged with homicide for the death of Inspector Greggs. Does the ceiling collapse constitute an independent intervening cause?
+**Q2.** Assume that, whether or not the voluntary act requirement is met, the prosecution must prove Wallace proximately caused Inspector Greggs's death. Under the *Arzon* "sufficiently direct cause" standard, is Wallace the proximate cause of Greggs's death?
 
-(a) Dependent, because Inspector Greggs would not have entered the warehouse but for the fire started by the chemicals.
-(b) Dependent, because a building collapse is a reasonably foreseeable consequence of a severe chemical fire.
-(c) Independent, because the beam collapsed entirely due to preexisting termite rot rather than the ongoing fire. <!-- correct -->
-(d) Independent, because Inspector Greggs voluntarily assumed the risk by entering a burning commercial building.
-(e) Independent, because Marlowe had already fled the scene and was no longer participating in the causal chain.
+(a) Yes, because it is reasonably foreseeable that a first responder will be placed in a position of particular vulnerability by responding to a massive chemical fire. <!-- correct -->
+(b) Yes, because a defendant takes their victim's environment as they find it, meaning the preexisting termite damage is an irrelevant dependent intervening cause.
+(c) No, because the severe termite rot in the wooden pillar was an independent, unforeseeable intervening cause that entirely severs the causal chain.
+(d) No, because the specific mechanism of death—a ceiling collapse triggered by a termite-weakened pillar—was a highly extraordinary and entirely unpredictable result.
+(e) No, because the prosecution must prove that the chemical fire was the sole and exclusive cause of the structural failure that killed the police inspector.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct because the collapse was caused entirely by a preexisting structural defect (termite rot) unrelated to the fire, making it an independent, unforeseeable superseding cause that severs proximate liability. (a) fails because factual "but-for" causation does not automatically establish legal proximate causation. (b) fails factually; while a fire-induced collapse is foreseeable, this specific collapse was caused entirely by termite rot, not the fire. (d) fails because the rescue doctrine generally makes rescuer injury foreseeable, not an independent chain-breaker. (e) fails because fleeing the scene does not sever liability for prior causal contributions.
+**Explanation:** Under the *Arzon* sufficiently-direct-cause standard, a defendant is the proximate cause if their conduct was a sufficiently direct cause and the ultimate harm was reasonably related to their acts. It is inherently foreseeable that firefighters and first responders will be vulnerable to independent forces when responding to a blaze. (b) fails because "eggshell skull" rules generally apply to personal physical vulnerabilities, not to building structures in proximate cause analysis. (c) fails because the termite rot, while independent, combined with the foreseeable fire response to cause the death, which *Arzon* holds is sufficient. (d) fails because *Arzon* does not require the exact specific mechanism of death to be foreseeable, only the general type of harm. (e) fails because *Arzon* explicitly rejects the requirement that the defendant must be the sole cause.
 
-**Tags:** chapters: [8], topics: [proximate cause, dependent vs independent intervening cause], difficulty: medium, cognitive: application
+**Tags:** chapters: [8], topics: [causation, proximate cause, intervening cause], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 8 - Causation (Dependent vs. Independent Intervening Causes)
+**Grounding:** Chapter 8 (sufficiently-direct-cause-standard; People v. Arzon)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A dependent intervening cause is a normal, foreseeable response to the dangerous situation created by the defendant. The rescue doctrine dictates that "danger invites rescue," meaning a first responder entering a burning building is a highly foreseeable consequence of arson. Because Greggs' presence in the warehouse was factually dependent on Marlowe's fire, a student could argue that the entire sequence of events leading to his death must be classified as dependent.
-(b) Argument-for: Foreseeability is the primary metric for determining proximate causation. It is highly foreseeable that a severe chemical fire will weaken structural supports and cause a building to collapse. Because the general nature of the harm (a structural collapse during a fire) is a reasonably foreseeable consequence of Marlowe's actions, a student could argue this foreseeability renders the collapse a dependent intervening cause, regardless of the precise mechanical trigger (termites).
-(c) Argument-for: An independent intervening cause is a force or event that operates independently of the defendant's actions and is not a direct response to it. Since the collapse was caused entirely by preexisting termite rot rather than being weakened by the ongoing fire, the collapse was a coincidental act of nature/structural failure. Because the termite rot operated completely independently of Marlowe's fire, it constitutes an unforeseeable independent superseding cause that severs proximate liability.
-(d) Argument-for: A victim's voluntary, knowing, and unreasonable assumption of risk can serve as an independent superseding cause that breaks the chain of liability. By voluntarily choosing to enter a burning commercial building, a student could argue that Inspector Greggs performed a free, deliberate, and informed human intervention. This voluntary undertaking constitutes an independent act that shifts proximate cause away from the arsonist.
-(e) Argument-for: To be held proximately liable, a defendant's active force must generally remain in operation. Once Marlowe fled the scene, his active participation ceased, and subsequent events unfolded without his direct involvement. A student could argue that because Marlowe was no longer physically participating in the causal chain when the ceiling fell, the ensuing collapse acts as an independent intervening cause.
+(a) Argument-for: Under the *Arzon* "sufficiently direct cause" standard, a defendant is liable if they set in motion a chain of events that predictably exposes a victim to a fatal harm. A student could argue that starting a massive chemical fire inherently foreseeably places first responders in a highly vulnerable position. Even if another independent force (like termite rot) contributes to the death, the defendant's act remains a sufficiently direct cause.
+(b) Argument-for: A student could argue that the "eggshell skull" doctrine forces a defendant to take the situation as they find it, including the building's structural integrity. By starting a fire in a building with preexisting termite damage, the defendant inherits the risk of that damage. Therefore, the structural failure is merely a dependent intervening cause that does not sever liability.
+(c) Argument-for: A student could argue that while *Arzon* accepts concurrent foreseeable causes, a completely hidden, preexisting condition like severe termite rot constitutes an independent, unforeseeable intervening cause. Because the rot was not created by the fire and caused the ceiling to collapse in an unpredictable manner, it constitutes a superseding cause that entirely severs the causal chain.
+(d) Argument-for: A student could argue that proximate cause requires foreseeability regarding the harm. If the specific mechanism of death—a ceiling collapse specifically triggered by hidden termite rot—was a highly extraordinary and entirely unpredictable result, general tort and criminal law principles dictate that proximate cause is severed.
+(e) Argument-for: A student might argue that for a defendant to be criminally culpable, their act must be the direct, primary cause of the fatal mechanism. If the structural failure was fundamentally due to termites, the prosecution must prove the fire was the sole and exclusive cause of the failure to satisfy the strict criminal standard of proximate causation.
 
-Head-to-head:
-Option (c) correctly classifies the collapse as an independent cause because preexisting termite rot is an independent force unprompted by the fire. Option (a) incorrectly implies that but-for factual causation is sufficient to establish a dependent cause, ignoring that the question asks specifically about the ceiling collapse. Option (b) presents a strong distractor by invoking the foreseeability of the *type* of harm, but it falsely classifies the cause as "Dependent"; under criminal law, an independent preexisting defect cannot be definitionaly "dependent," which requires being stimulated by the defendant's act. Option (d) incorrectly applies assumption of risk to a first responder, contravening the rescue doctrine. Option (e) relies on the legally false premise that a defendant's physical absence severs proximate causation. While all distractors contain falsifiable concepts, (a) and (b) lack absolute modifiers to securely lock their false legal claims, risking ambiguity.
+Head-to-head: Option (a) correctly synthesizes the *Arzon* rule, correctly identifying that placing a first responder in a dangerous environment makes the ultimate harm foreseeable, even if an independent force contributes. Option (e) works perfectly as a distractor because it contains an explicitly false legal claim (that the fire must be the "sole and exclusive cause"). However, distractors (c) and (d) fail the close-call standard. They lack explicit, absolute false legal claims. Instead, (c) and (d) merely assert factual conclusions (that the termite rot was "unforeseeable" or "highly extraordinary"). If a student assumes those facts to be true, (c) and (d) would represent correct legal outcomes under general proximate cause principles. They rely on implicit legal errors (e.g., assuming the law requires the specific mechanism to be foreseeable) rather than stating the false rule explicitly. Option (b) misapplies the term "dependent intervening cause" to a preexisting condition but lacks a legally falsifiable absolute.
 
 Falsifiable claim per distractor:
-- (a): "Dependent, because Inspector Greggs would not have entered..." — wrong because it assumes factual "but-for" causation alone is sufficient to legally classify the subsequent building collapse as a dependent intervening cause.
-- (b): "Dependent, because a building collapse is a reasonably foreseeable consequence..." — wrong because it categorically labels an independent force (preexisting termite rot) as a "Dependent" cause purely based on the foreseeability of the end result.
-- (d): "Independent, because Inspector Greggs voluntarily assumed the risk..." — wrong because it legally classifies a first responder's entry as an independent superseding assumption of risk, ignoring the rescue doctrine.
-- (e): "Independent, because Marlowe had already fled the scene..." — wrong because it relies on the false legal claim that fleeing the scene and ceasing active participation terminates a defendant's proximate liability.
+- (b): "...meaning the preexisting termite damage is an irrelevant dependent intervening cause." — wrong because it misclassifies a preexisting condition as an intervening cause, but it lacks an absolute locking word to make it categorically false.
+- (c): "...was an independent, unforeseeable intervening cause that entirely severs the causal chain." — lacks a falsifiable legal claim; it relies on the factual assumption that the rot was unforeseeable, in which case it actually *would* sever the causal chain.
+- (d): "...the specific mechanism of death... was a highly extraordinary and entirely unpredictable result." — lacks an explicit false legal claim; it merely makes a factual assertion, implicitly relying on the false premise that the law requires the exact mechanism to be foreseeable.
+- (e): "...the prosecution must prove that the chemical fire was the sole and exclusive cause..." — explicitly false, as *Arzon* explicitly rejects the requirement that the defendant's act be the sole cause of death.
 
-Recommended fix: To fully adhere to the close-call standard's requirement for absolute words in false legal claims, lock the distractors. Change (a) to: "Dependent, solely because Inspector Greggs would not have entered..." and change (b) to: "Dependent, because any foreseeable type of harm automatically qualifies as a dependent intervening cause."
+Recommended fix: Add absolute, explicitly false legal propositions to (b), (c), and (d).
+- (b): "Yes, because the 'eggshell skull' rule categorically applies to physical structures, meaning preexisting termite damage is legally irrelevant."
+- (c): "No, because the presence of any independent intervening cause automatically severs the causal chain, regardless of the foreseeability of the ultimate harm."
+- (d): "No, because proximate cause categorically requires the prosecution to prove that the specific, exact mechanism of death was foreseeable."
 -->

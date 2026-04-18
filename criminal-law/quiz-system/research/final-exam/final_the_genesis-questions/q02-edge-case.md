@@ -1,22 +1,22 @@
-**Q2.** Assume that Marlowe's act of fleeing is considered a but-for cause of Inspector Greggs entering the building. Is Marlowe the proximate cause of Greggs's death under the common law?
+**Q2.** Assume the voluntary act requirement is satisfied. Wallace is charged with homicide for Inspector Greggs's death. Wallace argues he did not proximately cause her death because the ceiling collapsed due to pre-existing termite rot, not fire damage. The jurisdiction applies the *Arzon* "sufficiently direct cause" standard. How should the court rule on proximate causation?
 
-(a) Yes, because a first responder entering a burning building is a dependent intervening cause that never severs liability.
-(b) Yes, because the ceiling collapse of any wooden structure during a severe fire is always a reasonably foreseeable result.
-(c) No, because the ceiling beam collapsed entirely due to preexisting termite rot, making it an unforeseeable independent intervening cause. <!-- correct -->
-(d) No, because Inspector Greggs voluntarily assumed the risk of death by choosing to enter the burning commercial building.
-(e) Yes, because Marlowe's omission in failing to call 911 was the direct and proximate cause of the ceiling collapse.
+(a) Wallace proximately caused the death because the termite rot was a dependent intervening cause set in motion by the fire.
+(b) Wallace proximately caused the death because the fire was a sufficiently direct cause and the ultimate harm to a responding official was reasonably related to his acts. <!-- correct -->
+(c) Wallace did not proximately cause the death because the specific mechanism of the pillar snapping from rot was neither foreseen nor foreseeable.
+(d) Wallace did not proximately cause the death because the termite-weakened pillar was an independent intervening cause that severed the causal chain.
+(e) Wallace did not proximately cause the death because a reasonable person would not have foreseen that a structurally compromised pillar existed.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** Proximate cause requires that the result be a reasonably foreseeable consequence of the defendant's conduct. An independent intervening cause—one that is unforeseeable and acts entirely independently of the defendant's actions—severs the causal chain. Here, the heavy ceiling beam collapsed entirely due to decades of termite rot rather than the current fire (Fact 6). This makes the collapse an independent, unforeseeable intervening cause that breaks proximate causation. (a) is wrong because a dependent intervening cause like rescue efforts is foreseeable, but the termite collapse is independent. (b) is wrong because the facts explicitly state the collapse was entirely due to termite rot, not the fire. (d) is wrong because a rescuer entering a fire does not sever the original arsonist's causal chain under the rescue doctrine. (e) is wrong because the omission to call 911 did not proximately cause the termite rot collapse.
+**Explanation:** (b) is correct. Under the *Arzon* standard, the defendant's conduct need only be a sufficiently direct cause, and the ultimate harm must be reasonably related to the acts. It is foreseeable that causing a massive fire will draw first responders who are placed in vulnerable positions. (a) is incorrect because the termite rot existed before the fire; it was a pre-existing condition, not a dependent intervening cause. (c) applies the narrower *Warner-Lambert* specific-mechanism test rather than *Arzon*. (d) mischaracterizes a passive pre-existing condition as an independent, active intervening cause. (e) defines foreseeability too narrowly, as the exact structural defect need not be foreseen under *Arzon*.
 
-**Tags:** chapters: [8], topics: [causation, proximate cause, dependent vs independent intervening cause], difficulty: medium, cognitive: application
+**Tags:** chapters: [8], topics: [proximate-cause, intervening-cause, sufficiently-direct-cause], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 8, Proximate Cause (an unforeseeable, independent act—like a termite-weakened beam collapsing entirely independently of the fire—severs the causal chain)
+**Grounding:** Chapter 8: Causation — sufficiently-direct-cause-standard
 
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: MUST FIX. Option (c) legally misclassifies "preexisting termite rot" as an "independent intervening cause." In criminal law, a preexisting condition is governed by the "eggshell skull" rule (you take your victim/property as you find them); it is inherently not an *intervening* act. Because Fact 6 states the beam was only "weakened" by rot, sharp students will correctly infer that the severe fire triggered the final collapse. This makes the collapse a *dependent* consequence of the fire acting on a pre-weakened structure, thereby destroying the intended doctrinal rationale for (c) and leaving the question without a legally sound correct answer.
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: MUST FIX. Q8 asks to "Evaluate the appropriate grading of Marlowe's liability for Greggs's death." This phrasing forces the premise that Marlowe *has* homicide liability. If the intended correct answer to Q2 is that proximate cause is severed (meaning zero homicide liability), Q8 becomes a broken question. Savvy test-takers will use Q8 as a meta-clue that Marlowe must be the proximate cause in Q2, forcing them to reject (c) and guess an incorrect "Yes" option to ensure consistency across their exam.
-Recommended fix: Revise Q2 to test the "eggshell skull / preexisting condition" doctrine directly, making a "Yes" answer correct (e.g., "Yes, because under the eggshell-skull rule, preexisting termite rot is a condition, not a superseding intervening cause"). Alternatively, to keep the superseding cause angle, change Fact 6 to an actual unforeseeable intervening act (e.g., a completely unrelated earthquake) and soften Q8's prompt so it doesn't definitively presume liability.
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
 -->

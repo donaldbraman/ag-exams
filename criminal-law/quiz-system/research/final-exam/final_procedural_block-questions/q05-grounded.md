@@ -1,17 +1,22 @@
-**Q5.** Assume that Chloe is charged with attempted possession of narcotics after police intercepted her at the gym doors. Which of the following best assesses her liability?
+**Q5.** Assume Marcus is charged with attempted distribution of narcotics based on his interception during Operation Sweep. Is he guilty?
 
-(a) Guilty of attempt, because the doctrine of factual impossibility does not excuse her from taking substantial steps to retrieve the gym bag.
-(b) Not guilty of attempt, because her honest belief that the bag contained stolen cash negates the specific intent required for narcotics possession. <!-- correct -->
-(c) Guilty of attempt, because walking through the gym doors constitutes a substantial step that is strongly corroborative of a criminal purpose.
-(d) Not guilty of attempt, because the police had already removed the narcotics, making the completion of the target offense legally impossible.
-(e) Guilty of attempt, because her intent to retrieve what she believed was illicit stolen cash automatically transfers to the actual narcotics.
+(a) Not guilty, because he had not yet arrived at the delivery location, meaning he remained safely within the legal zone of mere preparation.
+(b) Not guilty, because the police intervention made the completion of the crime impossible, establishing a valid and complete factual impossibility defense.
+(c) Guilty, because driving to the delivery location constitutes a substantial step that is strongly corroborative of his underlying criminal purpose. <!-- correct -->
+(d) Guilty, because agreeing to the delivery under threat from Leo automatically satisfies the affirmative actus reus requirement for criminal attempt.
+(e) Guilty, because his possession of the drugs in the vehicle completed the target offense, merging the attempt into the final completed criminal act.
 
-**Answer:** (b)
+**Answer:** (c)
 
-**Explanation:** Attempt is a specific intent crime requiring the defendant to act with the purpose of committing the target offense. Because Chloe honestly believed the bag contained stolen cash, she lacked the specific intent to possess narcotics. Her mistake of fact negates the mens rea for the attempted offense. (a) fails because while factual impossibility is not a defense, it only applies if the defendant actually possessed the requisite specific intent. (c) fails because the actus reus of a substantial step cannot cure the lack of specific mens rea. (d) improperly relies on legal impossibility for what is actually a factual swap. (e) fails because the doctrine of transferred intent does not transfer mens rea across entirely different statutory offenses.
+**Explanation:** The correct answer is (c). Under the Model Penal Code and majority modern approaches, the actus reus for attempt requires a "substantial step" in a course of conduct planned to culminate in the commission of the crime, and the step must be strongly corroborative of the actor's criminal purpose. Marcus possessing the stash and driving en route to the delivery clearly satisfies this standard (Fact 5).
 
-**Tags:** chapters: [17, 10], topics: [attempt, mistake-of-fact], difficulty: medium, cognitive: application
+(a) is incorrect because the substantial step test reaches further back in time than common-law proximity tests, criminalizing conduct well before the defendant arrives at the final location.
+(b) is incorrect because factual impossibility (the police intercepting him before he could succeed) is not a valid defense to attempt.
+(d) is incorrect because an agreement alone constitutes conspiracy, but attempt requires an overt act that amounts to a substantial step toward commission.
+(e) is incorrect because while possession was completed, the target offense of *distribution* was not completed, meaning attempt is the correct charge.
 
-**Grounding:** Chapter 17 (Attempts) - Mens Rea; Chapter 10 (Mistake of Fact)
+**Tags:** chapters: [17], topics: [attempt, actus-reus-substantial-step], difficulty: easy, cognitive: application
 
-<!-- grounding: GROUNDED — Attempt Mens Rea and Mistake of Fact, Ch 17 & 10, Refinement `mens-rea-specific-intent` and `mof-mental-state-negation`. Rule paraphrased accurately. -->
+**Grounding:** Chapter 17 - Attempts > Actus reus (substantial step)
+
+<!-- grounding: GROUNDED — Actus reus (substantial step), Ch 17, Refinement `actus-reus-substantial-step`. Rule paraphrased accurately. -->

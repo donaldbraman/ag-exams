@@ -1,17 +1,22 @@
-**Q12.** Does the *Batson* framework apply to defense attorney Rossi's peremptory strikes of Black jurors?
+**Q12.** Assume Dominic and Senator Sterling move to dismiss the joint RICO indictment, arguing their conduct does not constitute a RICO violation. Will this challenge succeed?
 
-(a) Yes, because the Equal Protection Clause prohibits defense attorneys, not just prosecutors, from executing race-based peremptory strikes during voir dire. <!-- correct -->
-(b) No, because the *Batson* framework applies exclusively to state actors and prosecutors, leaving defense attorneys constitutionally free to strike jurors for any reason.
-(c) Yes, but the strikes will be automatically upheld because hostility to corporate business is a per se valid, race-neutral justification under the third step of *Batson*.
-(d) No, because Rossi struck only six of the seven Black jurors, failing to establish the complete pattern of systemic exclusion required for a constitutional challenge.
-(e) Yes, because any peremptory strike executed by a defense attorney requires a showing of compelling cause to ensure a fair and impartial jury selection process.
+(a) Yes, because Sterling's sporadic zoning assistance and the core loansharking operation lack the relatedness required to form a cohesive pattern of racketeering activity. <!-- correct -->
+(b) Yes, because a legitimate elected government official cannot legally be categorized as part of the exact same criminal enterprise as an organized syndicate boss.
+(c) No, because any two independent predicate offenses committed within a continuous ten-year period automatically satisfy the pattern of racketeering requirement.
+(d) No, because the Waterfront Syndicate qualifies as an enterprise and strict vicarious liability applies to all members for any predicate acts committed.
+(e) No, because political corruption and criminal extortion are specifically enumerated predicate acts that bypass the need to prove relatedness or continuity under the statute.
 
 **Answer:** (a)
 
-**Explanation:** In *Georgia v. McCollum*, the Supreme Court extended *Batson* to defense attorneys, holding that the Equal Protection Clause protects jurors from race-based exclusion regardless of which side executes the strike. (b) is the primary trap, as students often assume *Batson* only restricts the government. (c) fails because step three of *Batson* requires the trial judge to evaluate whether the facially neutral reason is actually pretextual; it is never "automatically upheld." (d) fails because striking six out of seven Black jurors is more than sufficient to establish a prima facie case of discrimination. (e) fails because peremptory strikes do not generally require cause unless a successful *Batson* challenge shifts the burden.
+**Explanation:** The correct answer is (a). RICO requires proof that the defendant engaged in a "pattern of racketeering activity," which the Supreme Court interprets as requiring that the predicate acts be *related* to each other and amount to or pose a threat of continued criminal activity. An isolated instance of accepting a gratuity for a zoning vote lacks the structural nexus and relatedness to the Syndicate's core loansharking and extortion rackets (Facts 8, 9).
 
-**Tags:** chapters: [4], topics: [Batson-framework], difficulty: easy, cognitive: application
+(b) is incorrect because government officials and legitimate entities frequently serve as or participate in RICO enterprises alongside organized crime figures.
+(c) is incorrect because while two predicates are the statutory minimum, the Supreme Court has clarified they must also be related and continuous; two completely independent acts do not form a pattern.
+(d) is incorrect because RICO is not a strict vicarious liability statute; each defendant must personally conduct or participate in the enterprise's affairs through their own pattern of racketeering activity.
+(e) is incorrect because the relatedness and continuity requirements apply to all predicate acts under RICO, regardless of whether they are enumerated.
 
-**Grounding:** Chapter 4 (The Jury and Nullification) - Batson framework
+**Tags:** chapters: [20], topics: [RICO-enterprise, predicate-acts-relatedness], difficulty: hard, cognitive: analysis
 
-<!-- grounding: GROUNDED — Batson framework, Ch 4, Refinement `batson-framework`. Rule paraphrased accurately. -->
+**Grounding:** Chapter 20 - RICO and Enterprise Liability > Predicate acts relatedness
+
+<!-- grounding: GROUNDED — Predicate acts relatedness, Ch 20, Refinement `predicate-acts-relatedness`. Rule paraphrased accurately. -->

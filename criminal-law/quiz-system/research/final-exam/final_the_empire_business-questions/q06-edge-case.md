@@ -1,22 +1,22 @@
-**Q6.** Assume that Marcus is arrested on May 1 immediately after agreeing to execute the arson of the garbage trucks. Is Marcus guilty of attempted arson based solely on this interaction?
+**Q6.** Assume Dominic is charged with distributing fentanyl. Can he be convicted of the fentanyl offense despite his genuine belief that the substance was heroin?
 
-(a) Not guilty under both attempt tests, because his mere agreement constitutes preparation and is neither a substantial step nor in dangerous proximity to success. <!-- correct -->
-(b) Guilty under the substantial step test but not the proximity test, because his express verbal agreement strongly corroborates his criminal purpose.
-(c) Guilty under the proximity test but not the substantial step test, because agreeing to commit the crime the following night made the harm imminent.
-(d) Guilty under both attempt tests, because forming a clear verbal agreement with a co-conspirator completes the required actus reus for an attempt.
-(e) Not guilty under both attempt tests, because an attempt requires the defendant to be physically present at the scene of the target crime.
+(a) Yes, because knowledge of the substance's general nature as a controlled substance satisfies the mens rea requirement for the specific drug possessed. <!-- correct -->
+(b) No, because the government must prove that the defendant knew the specific chemical identity of the controlled substance he was actively distributing.
+(c) Yes, because strict liability applies to all elements of federal drug trafficking offenses, completely eliminating any mens rea requirement.
+(d) No, because his mistake of fact regarding the drug's true identity completely negates the specific intent required to commit a fentanyl distribution offense.
+(e) Yes, because under the federal analogue act, fentanyl and heroin are considered legally identical substances for the purposes of criminal liability.
 
 **Answer:** (a)
 
-**Explanation:** Marcus is not guilty of attempt. Both the common-law dangerous proximity test and the MPC substantial step test require an actus reus beyond mere preparation. A verbal agreement to commit a crime in the future is the essence of conspiracy, but it does not cross the line into an attempt, as no concrete action has been taken toward the target offense itself. (b) fails because an agreement without action does not constitute a substantial step, even if it corroborates criminal purpose. (c) fails because he is not in dangerous physical or temporal proximity to committing the arson yet. (d) fails because an agreement forms a conspiracy, not an attempt. (e) fails because physical presence is not universally required (e.g., mailing a bomb or hiring a hitman can be a substantial step).
+**Explanation:** The general-nature rule holds that the government must prove the defendant knew the substance was a controlled substance, but need not prove knowledge of its precise chemical identity (*McFadden* logic applied to fentanyl substitutions). (b) is wrong because the precise chemical identity need not be known by the defendant. (c) is wrong because drug trafficking is not a strict liability offense; it requires knowledge of the substance's general nature. (d) is wrong because the mistake does not negate the required mens rea, which is only that he knew he possessed *some* controlled substance. (e) is wrong because fentanyl and heroin are distinct scheduled substances with different penalty thresholds, not merely analogues of each other.
 
-**Tags:** chapters: [17], topics: [attempt, actus-reus, substantial-step, proximity-test], difficulty: easy, cognitive: application
+**Tags:** chapters: [10, 15], topics: [mens-rea, mistake-of-fact, fentanyl-asymmetry], difficulty: advanced, cognitive: application
 
-**Grounding:** Chapter 17 (Actus Reus: Substantial Step vs. Proximity Test)
+**Grounding:** Chapter 15 - mens-rea-fentanyl-asymmetry
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+Recommended fix: N/A
 -->

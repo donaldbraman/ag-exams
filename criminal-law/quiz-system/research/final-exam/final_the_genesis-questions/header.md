@@ -1,3 +1,16 @@
-### Stem 2: Narcotics Enterprise and Distribution
+# Scenario: Corporate Syndicate
 
-"Now that we have the scene locked down and the initial homicide and regulatory charges mapped out, I want to explore pushing liability up the chain for the narcotics. I need you to evaluate Avon's liability for the drug enterprise and the chemical storage, as well as the Courier's aborted pickup."
+### Facts
+
+1. Avon Commercial Properties Inc. is a legally registered real estate corporation that processes legitimate rent checks and holds regular board meetings. In reality, CEO Avon systematically uses its assets to shield an illicit drug network. Avon and his logistics manager, Marlowe, explicitly agree to use a vacant corporate warehouse as an off-the-books drug processing lab.
+2. Stringer, an industrial chemical supplier, sells a 50-gallon drum of 'Acetone-FX' to Marlowe at standard market prices. Stringer knows Marlowe uses the chemical to manufacture illicit drugs, but Stringer has no stake in the operation's profits and only cares about being paid his flat rate.
+3. Marlowe stores the drum at the warehouse but fails to register the site as a chemical storage facility, violating a state public welfare statute graded as a strict-liability felony. The drum's invoice mislabels the chemical as a 'non-hazardous water-based solvent.' Marlowe genuinely believes the invoice and never reads the bold red warning labels printed on the drum.
+4. Marlowe hires Wallace to mix the chemicals into drug paste, providing no protective gear. Wallace has a severe seizure disorder. A week prior, Wallace's neurologist explicitly warned him: 'Inhaling strong chemical fumes without a specialized respirator will trigger immediate, severe, and involuntary convulsions.' Desperate for cash, Wallace agrees to mix the chemicals.
+5. Wallace sets up the mixing station directly next to a glowing, open-coil space heater. He subjectively recognizes the extreme risk that a seizure could cause him to drop the volatile Acetone-FX onto the heater and trigger a lethal explosion, but he proceeds anyway because he needs the money. The fumes trigger a seizure; Wallace collapses, involuntarily knocking the vat onto the heater and causing a massive chemical fire.
+6. Inspector Greggs enters the burning building to search for occupants. Blinded by the dense chemical smoke from the fire, she stumbles and heavily strikes a wooden support pillar. The pillar—weakened entirely by decades of termite rot rather than the fire—snaps under the impact, causing the ceiling to collapse and kill her.
+7. After the fire, Marlowe salvages a lockbox of packaged drugs. He agrees to sell them to a buyer across town. Marlowe puts the drugs in his car and drives toward the meeting point, but is pulled over for a broken taillight two miles away from the destination. He is arrested before seeing the buyer.
+8. During a subsequent raid on corporate headquarters, police find another stash of drugs manufactured at the warehouse inside a wall safe in Avon's personal office. Avon holds the only code to the safe, though he claims he hasn't opened it in months.
+
+### Stem 1: The Warehouse Fire
+
+The DA wants to charge Wallace with murder, and Marlowe with the regulatory offenses and felony murder. Analyze Wallace's liability for the fire and Greggs's death—focus on the voluntary act, proximate causation, and homicide grading. For Marlowe, assess his mistake of fact regarding the chemical storage and whether that storage triggers felony murder.

@@ -1,33 +1,33 @@
-**Q7.** Assume the jurisdiction applies the common law felony murder rule. Whether or not Marlowe owed a duty to act, if he argues that he cannot be convicted of felony murder for Greggs's death, what is his strongest doctrinal defense?
+**Q7.** Marlowe is charged with violating the original strict-liability felony statute for failing to register the warehouse as a chemical storage facility. Under the *Morissette* and *Staples* framework, how should a court interpret this statute?
 
-(a) The underlying federal chemical storage felony is a strict liability regulatory offense that legally cannot serve as a proper predicate.
-(b) The termite-rot collapse was an independent, unforeseeable intervening cause that severed the proximate causation required for felony murder liability. <!-- correct -->
-(c) Inspector Greggs's tragic death was caused by an agency outside the conspiracy, barring the application of the felony murder rule.
-(d) He did not specifically intend for the ceiling to collapse, which negates the mens rea required for a homicide conviction.
-(e) The merger doctrine prohibits using any property-related felony as a predicate for felony murder under the strict elements test approach.
+(a) The court should enforce strict liability because the statute serves a regulatory purpose, which automatically dispenses with mens rea.
+(b) The court should enforce strict liability because dealing with dangerous industrial chemicals puts Marlowe on notice of regulation.
+(c) The court should read a mens rea requirement into the statute because courts presume a mens rea requirement when serious felony penalties are attached. <!-- correct -->
+(d) The court should read a mens rea requirement into the statute because the common law requires specific intent for all omission offenses.
+(e) The court should strike down the statute because the Model Penal Code constitutionally bars strict liability for any offense.
 
-**Answer:** (b)
+**Answer:** (c)
 
-**Explanation:** Felony murder requires that the underlying felony be the proximate cause of the victim's death. As established, the ceiling beam collapsed entirely due to preexisting termite rot, not the fire (Fact 6). This makes the collapse an unforeseeable, independent intervening cause that severs the proximate causal chain, which shields Marlowe from felony murder liability for the death. (a) is wrong because even if the federal statute were strict liability, some jurisdictions allow regulatory felonies as predicates if they are inherently dangerous. (c) is wrong because the agency rule applies to killings committed by non-felons, not structural collapses. (d) is wrong because felony murder is a strict liability substitution for the homicide mens rea; intent for the death is not required. (e) is wrong because the merger doctrine applies to assaultive felonies, not property or regulatory felonies.
+**Explanation:** (c) is correct. Under *Staples*, when a regulatory statute carries a very severe penalty (such as a felony), courts presume the legislature intended a mens rea requirement even when the statute is silent, treating minor penalties as a structural constraint of strict liability. (a) is incorrect because regulatory purpose alone is insufficient; the penalty must also typically be minor. (b) is wrong because while dangerous items provide notice, the severe felony penalty overrides the strict liability presumption under *Staples*. (d) is false; omission offenses do not inherently require specific intent. (e) is wrong because the MPC is a model code, not a constitutional bar, and allows absolute liability for minor violations.
 
-**Tags:** chapters: [14], topics: [felony murder, proximate cause limit], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [11], topics: [public-welfare-offense, staples-penalty-presumption, strict-liability], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 14, Felony Murder Causation (the independent intervening cause of the termite rot severs proximate causation, which is still required for felony murder)
+**Grounding:** Chapter 11: Public Welfare Offenses — staples-outlier-serious-penalties
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that strict liability offenses lack the inherent danger or wrongful intent required by common law limitations on felony murder. The inherently dangerous felony limitation often excludes regulatory offenses. Thus, a strict liability chemical storage offense would fail to qualify as a valid predicate, making this a strong defense.
-(b) Argument-for: Felony murder requires the felony to be the proximate cause of the victim's death. If the ceiling collapse was entirely due to preexisting termite rot (an independent, unforeseeable intervening cause), it severs the causal chain. A student would recognize this as the classic doctrine of proximate causation applied to felony murder.
-(c) Argument-for: The agency limit to felony murder holds that a felon is not liable for deaths caused by a non-felon (an "agency" outside the conspiracy). A student might argue that the term "agency" could be stretched to include independent structural forces like a collapsing roof, thereby barring application of the rule.
-(d) Argument-for: Homicide traditionally requires mens rea. A student could argue that because Marlowe did not specifically intend for the ceiling to collapse and kill Greggs, he lacks the mental state required for any murder conviction, including under the felony murder rule.
-(e) Argument-for: The merger doctrine limits felony murder predicates. A student might argue that this doctrine extends to all property-related felonies, effectively prohibiting their use as predicates under a strict elements approach, thus shielding Marlowe from liability.
+(a) Argument-for: Under the public welfare doctrine established in *Morissette*, statutes regulating public health and safety often dispense with mens rea. A student could argue that because regulating chemical storage is a classic public welfare purpose, this regulatory aim automatically negates the need for mens rea to protect the public.
+(b) Argument-for: Under *United States v. Freed* and *International Minerals*, dealing with highly dangerous items like industrial chemicals puts a defendant on notice of strict regulation. A student could argue that this inherent danger satisfies the mens rea proxy, justifying strict liability even for a felony.
+(c) Argument-for: Under *Staples*, courts presume a mens rea requirement for criminal statutes. The presence of a severe felony penalty acts as a structural constraint that takes the offense out of the "public welfare" exception, meaning the court should read in a mens rea requirement.
+(d) Argument-for: Omissions punish the failure to act, which raises notice and due process concerns (e.g., *Lambert*). A student might argue that the common law requires specific intent for all omission offenses to ensure the defendant willfully defied a known legal duty.
+(e) Argument-for: The Model Penal Code strictly limits absolute liability to non-criminal "violations." A student could argue that this reflects a broader constitutional bar against imposing strict liability for true felony offenses.
 
-Head-to-head: Option (b) is the correct answer because it accurately applies proximate cause principles to the facts; an unforeseeable independent intervening act severs proximate cause. Option (a) makes a strong doctrinal point about limitations, but asserts a prohibition that doesn't exist universally, though it lacks an absolute word to firmly lock its falsity. Option (c) misapplies the agency rule, which applies to human actors (e.g., police, victims), not inanimate objects or natural forces. Option (d) contradicts the core premise of felony murder, which substitutes the intent to commit the felony for the intent to kill. Option (e) falsely claims the merger doctrine applies to "any" property-related felony, when it is specifically aimed at assaultive offenses.
+Head-to-head: (c) is the best answer because *Staples* specifically emphasizes that serious felony penalties are generally incompatible with strict liability, strongly raising the presumption of mens rea. However, (b) is a very strong distractor because the Supreme Court has upheld strict liability for felonies involving highly dangerous items (*Freed* - hand grenades; *Balint* - narcotics), and industrial chemicals might qualify. Because (b) lacks an absolute modifier (e.g., "categorically overrides"), it is technically a true statement of legal rationale applied to the facts, failing the close-call standard's requirement for an explicit, falsifiable error. 
 
 Falsifiable claim per distractor:
-- (a): "that legally cannot serve as a proper predicate" — wrong because strict liability regulatory offenses are not universally barred from serving as predicates in all common law jurisdictions (e.g., if committed in an inherently dangerous manner).
-- (c): "caused by an agency outside the conspiracy" — wrong because the agency rule applies exclusively to human actors committing the fatal act, not to structural failures or natural forces.
-- (d): "negates the mens rea required for a homicide conviction" — wrong because felony murder acts as a strict liability substitute for mens rea, making specific intent for the homicide legally irrelevant.
-- (e): "prohibits using any property-related felony" — wrong because the merger doctrine applies to assaultive felonies that are integral to the homicide, not property felonies, which are classic predicates.
+- (a): "automatically dispenses with mens rea" — wrong because regulatory purpose alone does not categorically dispense with mens rea, especially when severe penalties are involved.
+- (b): "because dealing with dangerous industrial chemicals puts Marlowe on notice of regulation" — lacks an explicit, absolute false legal claim. The rationale (notice from dangerousness) is a valid *Freed* argument that courts sometimes use to uphold felony strict liability.
+- (d): "requires specific intent for all omission offenses" — wrong because omission offenses do not categorically require specific intent; many require only general intent or recklessness.
+- (e): "constitutionally bars strict liability" — wrong because the MPC is a model statute, not constitutional law.
 
-Recommended fix: In (a), insert an absolute word to lock the falsifiable claim by changing "that legally cannot serve" to "that categorically cannot serve".
+Recommended fix: Change (b) to lock the falsifiable claim: "(b) The court should enforce strict liability because dealing with dangerous industrial chemicals categorically dispenses with mens rea regardless of the penalty."
 -->

@@ -1,22 +1,22 @@
-**Q8.** Assume that, whether or not the termite rot severed the causal chain, it is established for this question that Marlowe is the proximate cause of Greggs's death. Under the Model Penal Code, how should Marlowe's liability for the homicide be graded based on his mental state regarding the risk of fire?
+**Q8.** Avon is charged under the state's public welfare statute as a "responsible corporate officer" for the unregistered chemical storage. He argues he had no direct involvement in the warehouse operations and was unaware Marlowe stored chemicals there. Under the *Park* doctrine, is Avon guilty?
 
-(a) Murder, because fleeing a chemical fire without calling for help shows a conscious object to cause the death of first responders.
-(b) Manslaughter, because relying on the invoice despite seeing the hazard symbols establishes a conscious disregard of a substantial fire risk.
-(c) Negligent homicide, because by assuming the invoice was accurate, he failed to perceive a substantial risk of which he should be aware. <!-- correct -->
-(d) Murder, because storing chemicals without a permit inherently manifests an extreme indifference to the value of human life under the MPC.
-(e) No criminal homicide, because relying on a trusted supplier's invoice is objectively reasonable as a matter of law in this context.
+(a) Yes, because as CEO, Avon is strictly liable for any crime committed by a corporate employee, regardless of his authority over the specific activity.
+(b) Yes, because as CEO, Avon stood in a responsible relation to the violation and had the authority to implement systems to prevent it. <!-- correct -->
+(c) No, because the *Park* doctrine requires proof that the corporate officer was at least negligent regarding the specific violation.
+(d) No, because Avon explicitly delegated the warehouse operations to Marlowe, which breaks the chain of responsibility.
+(e) No, because the *Park* doctrine only applies to traditional *malum in se* offenses, not to regulatory violations.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** Under the MPC, recklessness requires consciously disregarding a substantial and unjustifiable risk, while negligence involves failing to perceive a risk of which one should be aware. Marlowe noticed the hazard symbols but "consciously assumed" his supplier's invoice ("water-based solvent") was accurate. Because he genuinely (even if unreasonably) believed the invoice, he failed to perceive the risk of fire. This constitutes negligence. (a) is wrong because fleeing a fire shows self-preservation, not a conscious purpose to kill responders. (b) is wrong because assuming the invoice was accurate means he did not consciously disregard the fire risk; he mistakenly thought there was no risk. (d) is wrong because his reliance on the invoice negates the extreme indifference required for murder. (e) is wrong because ignoring red hazard symbols on a chemical drum is objectively unreasonable.
+**Explanation:** (b) is correct. The *Park* doctrine holds that corporate officers who stand in "responsible relation" to a regulatory violation can be convicted without personal knowledge or direct involvement, provided they had the authority and responsibility to prevent the violation. (a) is too broad; liability is not automatic for *any* crime, but depends on the officer's responsible relation and authority to prevent it. (c) is incorrect because *Park* allows conviction without traditional mens rea, imposing an affirmative duty of foresight and vigilance. (d) is wrong because delegating responsibility to subordinates is not a defense under *Park*. (e) is entirely backward; *Park* applies specifically to public welfare regulatory offenses.
 
-**Tags:** chapters: [13], topics: [unintentional homicide, homicide grading, negligence, mpc mental states], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [11], topics: [park-doctrine, corporate-liability, public-welfare-offense], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 13 & Chapter 10, MPC Culpability Defaults (failing to perceive a substantial risk when assuming the invoice was accurate constitutes negligence)
+**Grounding:** Chapter 11: Public Welfare Offenses — park-doctrine-foresight-vigilance
 
 <!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: Marlowe's flight without calling 911 (after creating the peril) would constitute a reckless omission, elevating his homicide liability to Manslaughter or Murder. The question attempts to isolate his initial act but does so imperfectly, leaving the omission unaddressed in the correct answer.
-2. Cross-Doctrine Clashes: Under MPC § 210, homicide grading depends on the defendant's mens rea regarding the result of *death*. The prompt asks students to grade his homicide liability based on his "mental state regarding the risk of fire," which misapplies MPC culpability requirements. 
-3. Cross-Question Spoilers: Q6 explicitly tests Marlowe's omission duty for fleeing the fire. A student who correctly analyzes Q6 will conclude Marlowe was reckless as to death by abandoning the burning building without calling for help, directly conflicting with (c)'s conclusion that he is only liable for Negligent Homicide.
-Recommended fix: Clarify the prompt to isolate the initial act and correct the mens rea target: "Setting aside any liability for his subsequent failure to call 911, how should Marlowe's liability for the homicide be graded based on his mental state regarding the risk of death when he relied on the invoice?"
+1. Fact Pattern Booby Traps: Avon explicitly agreed to set up the off-the-books drug lab (Fact 1). Applying the *Park* doctrine—which typically penalizes a negligent failure to supervise legitimate corporate operations—to a CEO who explicitly commissioned the illegal lab makes the answer's rationale ("authority to implement systems to prevent it") factually incongruous.
+2. Cross-Doctrine Clashes: "Strict-liability felony" is a doctrinal oxymoron. Under *Morissette* and *Staples*, public welfare offenses (and *Park* doctrine vicarious liability) are constitutionally restricted to minor penalties (misdemeanors/fines). Due process generally forbids imposing strict liability on a corporate officer for a felony.
+3. Cross-Question Spoilers: Fact 3 grades the regulatory offense as a "strict-liability felony" specifically so Q4 can test felony murder. However, this forced felony grading destroys the legal basis for the *Park* doctrine in Q8, which relies on the offense having a minor penalty to justify strict vicarious liability without mens rea.
+Recommended fix: In Fact 3, change "strict-liability felony" to "strict-liability misdemeanor" to preserve the *Park* doctrine and public welfare validity for Q8. Q4's felony murder question can then be cleanly pivoted to use the actual illicit drug manufacturing as the predicate felony, rather than the regulatory storage violation.
 -->

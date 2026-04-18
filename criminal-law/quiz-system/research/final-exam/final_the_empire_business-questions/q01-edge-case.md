@@ -1,22 +1,21 @@
-**Q1.** Assume that the government seeks to indict David under RICO. Based on his use of Apex's dispatch center to route drug distributions and his collection of a 5% premium, is David a participant in a RICO enterprise?
+**Q1.** Is Pinnacle Waste a valid RICO enterprise despite being a lawfully chartered corporation with a legitimate primary business?
 
-(a) Yes, because a legitimate corporation's infrastructure can constitute a RICO enterprise, and David's direction and premium charge establish participation rather than mere patronage. <!-- correct -->
-(b) Yes, because any employee of a legal corporation who commits a crime on company time is strictly liable as a RICO participant regardless of their role.
-(c) No, because Apex Waste Solutions is a legally chartered and profitable corporation, which categorically precludes it from being considered a RICO enterprise.
-(d) No, because David acted merely as a patron who provided a dispatching service without ever personally handling or distributing the illicit drugs.
-(e) No, because establishing a RICO enterprise requires proof of an informal association-in-fact among the individuals that is entirely separate from the corporate structure.
+(a) Valid, because a legitimate corporation can serve as a RICO enterprise when its ordinary business structure is repurposed to conduct or facilitate illegal racketeering activity. <!-- correct -->
+(b) Invalid, because a lawfully chartered corporation with a legitimate primary business cannot legally be classified simultaneously as a criminal association-in-fact enterprise.
+(c) Invalid, because the government must establish that the organizational structure had an exclusively criminal purpose rather than a mixed or predominantly legal business purpose.
+(d) Valid, but only if the executives formalized their illegal extortion agreements into the official corporate bylaws or official charter documents of the company.
+(e) Invalid, because a corporate enterprise requires all employees, including the civilian dispatchers, to be consciously aware of the underlying illegal racketeering activity.
 
 **Answer:** (a)
 
-**Explanation:** David is guilty of participating in a RICO enterprise. A legitimate corporation like Apex Waste Solutions can serve as a RICO enterprise when its ordinary business structure (the dispatch center) is repurposed for racketeering activity. Furthermore, David is a participant, not a mere patron, because he actively directed operations and funded the scheme by charging a premium. (b) fails because RICO participation requires conducting the enterprise's affairs through racketeering, not mere employment. (c) fails because lawful entities can routinely function as RICO enterprises if manipulated for illicit purposes. (d) fails because directing and profiting from the enterprise constitutes participation, even without personally touching the drugs. (e) fails because a formal corporation is an explicitly enumerated enterprise under the statute; proving an association-in-fact is an alternative theory, not a strict requirement.
+**Explanation:** A legitimate corporation can constitute a RICO enterprise when its ordinary business structure—such as its dispatch center and billing department—is repurposed to conduct or facilitate racketeering activity. (b) is wrong because courts routinely hold that lawful entities can serve as the enterprise. (c) is wrong because an enterprise need not have an exclusively criminal purpose to satisfy the statute. (d) is wrong because the lawfulness of the formal charter does not shield the entity, nor does RICO require illegal bylaws. (e) is wrong because an enterprise does not require every employee to be aware of the illegal nature of the operations; only the participants charged must have the requisite nexus.
 
-**Tags:** chapters: [20], topics: [corporate-enterprise, participation-vs-patronage], difficulty: medium, cognitive: application
+**Tags:** chapters: [20], topics: [RICO, corporate-enterprise], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 20 (Insys Therapeutics note; United States v. Christensen)
+**Grounding:** Chapter 20 - Insys Therapeutics Prosecution (Corporate Enterprise)
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
 -->

@@ -1,17 +1,22 @@
-**Q3.** Assume that, whether or not the conspiracy was valid, Leo fatally shot the rival dealer. Is Dominic liable for the rival's death under the *Pinkerton* doctrine?
+**Q3.** Assume Leo is charged with the murder of the rival distributor and raises a self-defense claim because the rival drew a weapon. How should the court rule?
 
-(a) Liable, because the fatal shooting was a reasonably foreseeable consequence of the conspiracy to aggressively lock down the pill market. <!-- correct -->
-(b) Not liable, because Dominic did not personally authorize, attend, or directly participate in the armed robbery at the nightclub.
-(c) Liable, because the *Pinkerton* doctrine holds co-conspirators strictly liable for any and all crimes committed by syndicate members.
-(d) Not liable, because the gun discharged accidentally after the rival lunged, which legally breaks the chain of reasonable foreseeability.
-(e) Liable, because Dominic's recognized status as the syndicate boss creates automatic vicarious liability for his subordinates' acts.
+(a) Not guilty, because Leo was legally permitted to defend his life once the rival distributor introduced deadly force into the encounter.
+(b) Guilty of manslaughter, because his subjective belief in the absolute need for self-defense mitigates the killing even if he initiated the encounter.
+(c) Guilty of murder, because he killed the rival during an attempted robbery and the initial aggressor bar completely precludes his self-defense claim. <!-- correct -->
+(d) Guilty of murder, because the initial use of a firearm in a territorial dispute creates an irrebuttable presumption of premeditation and deliberation.
+(e) Guilty of manslaughter, because the sudden escalation by the rival constitutes adequate provocation, successfully negating the required malice aforethought.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** Under the *Pinkerton* doctrine, a conspirator is liable for the substantive offenses committed by a co-conspirator if those offenses were in furtherance of the conspiracy and were reasonably foreseeable consequences of it. An armed confrontation leading to death is highly foreseeable when conspirators agree to aggressively take over a rival drug market. (b) fails because *Pinkerton* explicitly dispenses with the need for personal participation or specific authorization. (c) fails because *Pinkerton* requires foreseeability and furtherance, not strict liability for any crime. (d) fails because an accidental discharge during a foreseeable armed robbery does not break the chain of proximate causation or foreseeability. (e) fails because status alone does not create vicarious liability; the act must still be in furtherance of the specific conspiracy.
+**Explanation:** The correct answer is (c). Self-defense is entirely unavailable to an initial aggressor who uses or threatens deadly force without first effectively withdrawing from the conflict. Furthermore, because Leo killed the rival while attempting an inherently dangerous felony (robbery—drawing a gun and demanding the stash), he is strictly liable for murder under the felony-murder rule (Fact 4).
 
-**Tags:** chapters: [19], topics: [Pinkerton-liability], difficulty: medium, cognitive: application
+(a) is incorrect because the initial aggressor bar strips Leo of the right to claim self-defense, regardless of the rival's response.
+(b) is incorrect because imperfect self-defense is unavailable to a defendant who wrongfully initiated the deadly confrontation as the initial aggressor.
+(d) is incorrect because felony murder, not an irrebuttable presumption of premeditation, provides the malice aforethought, and constitutional rules generally forbid mandatory irrebuttable presumptions of mens rea elements.
+(e) is incorrect because the rival's lawful or foreseeable response to Leo's armed robbery attempt does not constitute legally adequate provocation to reduce murder to manslaughter.
 
-**Grounding:** Chapter 19 (Conspiracy) - Pinkerton Doctrine
+**Tags:** chapters: [14, 22], topics: [initial-aggressor-bar, felony-murder, homicide-grading], difficulty: medium, cognitive: application
 
-<!-- grounding: GROUNDED — Pinkerton doctrine, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->
+**Grounding:** Chapter 22 - Self-Defense > Initial aggressor bar; Chapter 14 - Felony Murder > Strict liability substitution
+
+<!-- grounding: GROUNDED — Initial Aggressor Bar & Strict Liability Substitution, Ch 22 & 14, Refinements `initial-aggressor-bar`, `strict-liability-substitution`. Rule paraphrased accurately. -->

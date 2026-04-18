@@ -1,34 +1,39 @@
-**Q7.** Is Bruno liable as an accomplice to the robbery based on his failure to intervene?
+**Q7.** Assume Marcus asserts a duress defense to the distribution charge, citing Leo's threat to "put a bullet in your head" tomorrow. Will this defense succeed?
 
-(a) Guilty, because his intentional failure to act breached a specific contractual duty to intervene, satisfying the actus reus for accomplice liability. <!-- correct -->
-(b) Not guilty, because accomplice liability rigidly requires an affirmative physical act of assistance or direct verbal encouragement to the principal.
-(c) Guilty, because his mere presence at the scene as head of security implicitly encouraged Leo to confidently commit the violent offense.
-(d) Not guilty, because a private employment contract cannot establish a binding legal duty of care for the purposes of criminal liability.
-(e) Guilty, because anyone who witnesses a violent felony and deliberately fails to intervene becomes legally liable as a criminal accomplice.
+(a) Yes, because a threat of death or serious bodily injury from a known syndicate enforcer creates a reasonable fear of harm that excuses the criminal conduct.
+(b) Yes, because the severe threat overbore his free will and he lacked any realistic safe avenue to report the syndicate to municipal law enforcement.
+(c) No, because duress is never a legally valid defense to narcotics distribution offenses, as they are designated as inherently dangerous to the general public.
+(d) No, because Leo's threat to track down and harm Marcus the following day fails to satisfy the doctrinal requirement of a present and imminent threat. <!-- correct -->
+(e) No, because Marcus voluntarily joined the criminal syndicate, which means he entirely forfeits his right to raise a duress defense for any future violent threats.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** An omission constitutes an actus reus for accomplice liability when the defendant has a legal duty to act and intentionally fails to do so to facilitate the crime. Bruno had a formal contractual duty to intervene, and he intentionally watched without acting, thereby protecting Leo's endeavor. (b) fails because an omission can substitute for an affirmative act when a legal duty exists. (c) fails because mere presence is insufficient without a duty to act or intent to encourage. (d) fails because employment contracts routinely establish legal duties to act under the *Jones* categories. (e) fails because bystanders without a legal duty have no general obligation to intervene.
+**Explanation:** The correct answer is (d). At common law, duress requires a present, imminent, and impending threat of death or serious bodily injury. A threat of future harm—even a severe threat like "tomorrow"—fails the imminence requirement because it theoretically leaves the defendant time to escape or seek help from law enforcement (Fact 6).
 
-**Tags:** chapters: [18, 9], topics: [accomplice-liability, omission, duty-to-act], difficulty: medium, cognitive: application
+(a) is incorrect because while the threat is severe, it lacks the strictly required temporal element of imminence.
+(b) is incorrect because the law objectively presumes that a non-imminent threat provides an avenue for escape or police intervention, regardless of the defendant's subjective belief about safety.
+(c) is incorrect because duress is generally available for all crimes except intentional murder; it is not categorically barred for drug distribution.
+(e) is incorrect because while voluntarily joining a criminal enterprise can defeat a duress claim, the failure of the imminence element is the primary and direct doctrinal bar to the defense here.
 
-**Grounding:** Chapter 18 (Accomplice Liability) - Actus Reus; Chapter 9 (Omissions) - Contractual Duty
+**Tags:** chapters: [21], topics: [duress, duress-imminence-proximity], difficulty: easy, cognitive: application
 
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under the *Jones* omission doctrine, a legal duty to act can be established by contract. When a person with a legal duty to intervene intentionally fails to do so with the purpose of facilitating a crime, their omission satisfies the actus reus for accomplice liability. Bruno’s intentional failure to act breached his contractual duty, fulfilling both the actus reus and mens rea requirements for aiding and abetting.
-(b) Argument-for: A student could argue that accomplice liability fundamentally requires affirmative conduct, as seen in cases emphasizing active participation or encouragement. Because omissions are generally insufficient for liability unless specifically outlined by statute, the student might conclude that a mere failure to act cannot substitute for the physical or verbal aid traditionally required for accomplices.
-(c) Argument-for: A student might rely on the principle that "mere presence" can escalate to culpable encouragement when the defendant holds a special position of authority or duty (e.g., *State v. Walden* or *Wilcox v. Jeffery*). Because Bruno is the head of security, a student could argue his deliberate presence without intervening sent an implicit message of approval, satisfying the actus reus of accomplice liability through psychological encouragement.
-(d) Argument-for: A student could argue that while contracts create civil obligations, they cannot unilaterally impose criminal liability without a corresponding statutory mandate or special status relationship. They might reason that extending criminal omission liability based solely on a private employment contract violates the principle of legality by improperly blurring civil breaches and criminal acts.
-(e) Argument-for: A student might confuse accomplice liability with misprision of a felony or a generalized moral duty to rescue. They could argue that for exceptionally violent felonies, public policy imposes a universal legal duty on all citizens to intervene, meaning that any deliberate failure to do so transforms a bystander into an accomplice by omission.
+**Grounding:** Chapter 21 - Necessity and Duress > Duress imminence/proximity
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under the Model Penal Code, the strict common-law imminence requirement is sometimes relaxed in favor of a "person of reasonable firmness" standard. A student could argue that an ordinary person would yield to a death threat from a known syndicate enforcer, even if the harm is scheduled for "tomorrow," thus making "reasonable fear" the operative standard to excuse the conduct.
+(b) Argument-for: A student could argue that the core of duress is whether the defendant's free will was overborne and whether they lacked a legal alternative. If Marcus subjectively and objectively lacked any realistic safe avenue to report to the police (e.g., due to corruption or the syndicate's reach), the future nature of the threat ("tomorrow") becomes functionally imminent, justifying a successful defense.
+(c) Argument-for: A student could argue that public policy and criminal doctrine categorically bar the duress defense for inherently dangerous felonies. By analogizing narcotics distribution to the common-law rule that duress cannot excuse intentional murder, a student might conclude that major drug offenses are similarly excluded.
+(d) Argument-for: At common law, a successful duress defense requires a present, imminent, and impending threat of death or serious bodily injury. A threat to inflict harm "tomorrow" is universally classified as a future threat, which fails the imminence requirement because it affords the defendant time to seek help or escape.
+(e) Argument-for: Under both the common law and the MPC, a defendant who recklessly or voluntarily places himself in a situation where duress is probable loses the defense. A student could argue that Marcus's voluntary membership in the syndicate triggers this forfeiture rule, serving as the actual doctrinal bar to him raising duress.
 
 Head-to-head: 
-Option (a) correctly applies the *Jones* framework, recognizing that a contractual duty combined with intentional failure to act satisfies the elements of accomplice liability. Option (b) provides an explicitly false claim by stating that accomplice liability "rigidly requires" an affirmative act, ignoring omission liability entirely. Option (d) features a clear falsifiable error by claiming a private contract "cannot establish" a legal duty for criminal purposes, directly contradicting *Jones*. Option (e) uses absolute language ("anyone who witnesses") to falsely assert a universal duty to rescue. However, option (c) lacks a universally falsifiable legal claim; it relies merely on the implicit omission of the mens rea requirement and posits a factual conclusion ("implicitly encouraged Leo") that could arguably be true. Since implicit omissions do not suffice under the close-call standard, (c) must be tightened.
+Option (d) relies on the classic common-law imminence rule, correctly identifying that "tomorrow" constitutes a non-imminent future threat. Options (a) and (b) arrive at the wrong legal conclusion ("Yes") because common law strictly requires imminence, and even under the MPC, Marcus's voluntary syndicate membership would bar the defense. Option (c) invents a categorical bar that does not exist; duress is generally only barred for intentional homicide, not narcotics distribution. Option (e) is a very strong distractor because voluntary participation in a criminal enterprise does defeat a duress claim. However, (e) overstates the law by claiming Marcus "entirely forfeits" the defense for "any future violent threats"—a legally false absolute, as the forfeiture applies only to threats probable from the situation he placed himself in, not completely unrelated violent threats (e.g., an unrelated mugging). 
 
 Falsifiable claim per distractor:
-- (b): "rigidly requires an affirmative physical act of assistance or direct verbal encouragement" — wrong because an omission combined with a legal duty to act legally suffices for accomplice liability.
-- (c): None. Lacks an absolute falsifiable legal claim, relying instead on an implicit omission of the intent element and a potentially debatable factual claim about implicit encouragement.
-- (d): "a private employment contract cannot establish a binding legal duty of care for the purposes of criminal liability" — wrong because *Jones v. United States* explicitly recognizes contractual duties as a valid basis for criminal omission liability.
-- (e): "anyone who witnesses a violent felony and deliberately fails to intervene becomes legally liable" — wrong because American criminal law categorically rejects a generalized legal duty to rescue or intervene.
+- (a): "Yes, because a threat of death... creates a reasonable fear of harm that excuses the criminal conduct." — wrong because reasonable fear of future harm does not legally excuse criminal conduct at common law; strict imminence is required.
+- (b): "Yes, because the severe threat overbore his free will" — wrong because even a severe threat that overbears free will does not validly excuse the conduct if the threat is not legally imminent.
+- (c): "duress is never a legally valid defense to narcotics distribution offenses" — wrong because there is no such categorical bar; the primary absolute exception is intentional murder.
+- (e): "entirely forfeits his right to raise a duress defense for any future violent threats" — wrong because the forfeiture rule is not absolute for "any" future threat; it applies only to threats foreseeable or probable from his syndicate involvement.
 
-Recommended fix: Edit (c) to include an absolute, falsifiable claim. For example: "(c) Guilty, because a security guard's mere presence at a crime scene automatically establishes accomplice liability, regardless of whether they intended to encourage the crime."
+Recommended fix: none
 -->

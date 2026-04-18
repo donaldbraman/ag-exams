@@ -1,22 +1,27 @@
-**Q11.** Under federal anti-corruption law, is Senator Sterling guilty of accepting a bribe?
+**Q11.** Assume Senator Sterling is charged with federal bribery for accepting the $25,000 and contacting the zoning official. Is he guilty of bribery?
 
-(a) Not guilty of bribery, because the payment was received after the official act as a reward rather than agreed upon beforehand to influence the act. <!-- correct -->
-(b) Guilty of bribery, because the substantial $25,000 payment was directly connected to his official capacity and duties as a state senator.
-(c) Not guilty of bribery, because municipal zoning changes are legislative functions rather than formal "official acts" under the federal bribery statute.
-(d) Guilty of bribery, because accepting any substantial financial gift from a known criminal syndicate is per se corrupt under federal anti-corruption law.
-(e) Not guilty of bribery, because Dominic did not explicitly specify which specific zoning vote the token of appreciation was intended to financially reward.
+(a) Yes, because receiving significant money from a known criminal syndicate creates an irrebuttable legal presumption of corrupt legislative intent under federal law.
+(b) Yes, because a campaign donation combined with informal lobbying assistance constitutes a formal official act under the strict federal corruption statute.
+(c) No, because the payment was a post-act gratuity rather than a pre-act quid pro quo, and making an informal phone call does not constitute a formal official act. <!-- correct -->
+(d) No, because his zoning vote was a core legislative function protected by absolute immunity, shielding him from any criminal corruption charges whatsoever.
+(e) No, because the $25,000 was explicitly characterized as a token of appreciation, which officially triggers the safe harbor provision for routine political contributions.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** In *Snyder v. United States*, the Supreme Court held that the federal bribery statute (§ 666) criminalizes pre-act bribes intended to influence an official action, but does not criminalize post-act gratuities given merely as a reward or token of appreciation without a prior agreement. (b) fails because it conflates a non-criminal gratuity with a criminal bribe. (c) fails because legislative zoning votes are classic formal "official acts," unlike the informal meetings in *McDonnell*. (d) fails because there is no per se bribery rule based solely on the donor's criminal status. (e) fails because the failure to specify the exact vote is not the distinguishing factor; the timing and lack of a prior quid pro quo make it a gratuity.
+**Explanation:** The correct answer is (c). Federal bribery law has been strictly narrowed. First, under *Snyder*, a payment received *after* the vote as a "token of appreciation" is a gratuity, not a bribe, because bribery requires a pre-act quid pro quo agreement. Second, under *McDonnell*, making phone calls or informally expediting matters does not constitute a formal "official act" within the meaning of the federal corruption statutes (Fact 8).
 
-**Tags:** chapters: [5], topics: [corruption, bribe-vs-gratuity], difficulty: medium, cognitive: application
+(a) is incorrect because the source of the funds (a syndicate) does not alter the doctrinal distinction between a bribe and a gratuity under federal law.
+(b) is incorrect because *McDonnell* explicitly held that informal lobbying, arranging meetings, or making phone calls falls outside the definition of an "official act."
+(d) is incorrect because legislative immunity does not shield a senator from bribery charges based on corruptly selling their vote.
+(e) is incorrect because characterizing cash as a "token of appreciation" does not create a safe harbor; rather, the timing indicates it is a gratuity, which falls outside the bribery statute under *Snyder*.
 
-**Grounding:** Chapter 5 (Legislatures and Courts) - Snyder v. United States (Bribe vs. Gratuity)
+**Tags:** chapters: [5], topics: [corruption-bribe-vs-gratuity, corruption-official-acts-narrowing], difficulty: hard, cognitive: application
 
-<!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass
+**Grounding:** Chapter 5 - Legislatures and Courts > Corruption bribe vs gratuity & Official acts narrowing
+
+<!-- edge-case-audit: SHOULD FIX
+1. Fact Pattern Booby Traps: The correct answer choice (c) relies on a misstated fact ("making an informal phone call") that directly contradicts Fact 8 ("formally contacted a city zoning official"). A sharp student might erroneously eliminate (c) because it inaccurately quotes the fact pattern. 
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+Recommended fix: Change "making an informal phone call" in option (c) and the explanation to "merely contacting another official" to ensure it aligns perfectly with Fact 8 while preserving the McDonnell doctrine application.
 -->

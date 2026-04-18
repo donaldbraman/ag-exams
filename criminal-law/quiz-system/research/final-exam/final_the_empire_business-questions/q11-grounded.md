@@ -1,17 +1,17 @@
-**Q11.** Assume for this question only that the jurisdiction has abolished the felony-murder rule. What is Marcus's highest level of homicide liability for the death of Ben?
+**Q11.** Can Dominic successfully claim self-defense against Victor's heavy ledger strike?
 
-(a) Depraved heart murder, because emptying a magazine in a small occupied room demonstrates an extreme indifference to the value of human life. <!-- correct -->
-(b) Intentional murder, because the law automatically presumes the specific intent to kill whenever a firearm is discharged at another person.
-(c) Voluntary manslaughter, because Marcus fired in response to adequate provocation when Ben unexpectedly charged at him with a heavy crowbar.
-(d) Involuntary manslaughter, because firing with his eyes closed constitutes gross negligence rather than the conscious disregard required for criminal recklessness.
-(e) No criminal homicide liability, because closing his eyes negates the voluntary act requirement necessary for any level of criminal homicide.
+(a) No, because an individual who initiates an armed, felonious confrontation is barred from claiming self-defense unless they clearly withdraw from the encounter. <!-- correct -->
+(b) Yes, because Victor escalated the encounter by throwing a heavy ledger, introducing the imminent threat of serious bodily injury to the situation.
+(c) No, because self-defense is only available when the defendant faces an immediate threat from a firearm or other traditional deadly weapon.
+(d) Yes, because Dominic had a legal right to stand his ground in the restaurant since he was not legally required to retreat under these circumstances.
+(e) No, because the ledger was not thrown with sufficient force to create a reasonable apprehension of imminent death or serious bodily harm.
 
 **Answer:** (a)
 
-**Explanation:** Marcus is guilty of extreme indifference or depraved heart murder. Even without specific intent to kill, emptying a six-round magazine blindly in a small, enclosed space occupied by another person is an act of extreme recklessness that manifests a depraved indifference to human life, elevating the homicide from manslaughter to second-degree murder. (b) fails because firing blindly with closed eyes does not automatically prove a specific purpose or knowledge that death will result (intentional murder). (c) fails because a victim's lawful use of force against a burglar is not legally "adequate provocation" sufficient to trigger the heat-of-passion mitigation. (d) fails because discharging a firearm multiple times in an occupied room is a conscious disregard of a substantial and unjustifiable risk, not mere negligence. (e) fails because closing one's eyes is a voluntary choice, not an involuntary reflex or automatism.
+**Explanation:** The initial aggressor rule bars a defendant who initiates a violent or felonious confrontation (such as an armed extortion) from claiming self-defense unless they clearly withdraw and communicate that withdrawal to the victim. (b) is wrong because a victim's lawful resistance to a felony does not restore the initial aggressor's right to self-defense. (c) is wrong because self-defense can be used against any threat of serious bodily injury, not just traditional weapons. (d) is wrong because stand-your-ground laws do not protect initial aggressors or those actively committing a felony. (e) is wrong because even if the ledger could cause serious injury, the initial aggressor bar strictly precludes the defense entirely.
 
-**Tags:** chapters: [13], topics: [homicide-grading, extreme-recklessness, depraved-heart], difficulty: medium, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, initial-aggressor], difficulty: foundational, cognitive: application
 
-**Grounding:** Chapter 13 (Unintentional Homicide; Extreme Indifference Standard)
+**Grounding:** Chapter 22 - Initial Aggressor Bar
 
-<!-- grounding: GROUNDED — Extreme Indifference Standard, Ch 13, Refinement `extreme-indifference-standard`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Initial Aggressor Bar, Ch 22, Refinement `initial-aggressor-bar`. Rule paraphrased accurately. -->

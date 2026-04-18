@@ -1,17 +1,17 @@
-**Q3.** Marlowe is charged under the federal statute for storing hazardous chemicals without a permit. The statute is silent on mental state, but carries a maximum penalty of 10 years in prison. Under the *Morissette* presumption and *Staples*, what must the prosecution prove regarding Marlowe's mental state?
+**Q3.** Assume Wallace is found to be the legal cause of Greggs's death. The jurisdiction applies the Model Penal Code grading structure for unintentional homicides. The prosecution charges Wallace with murder. Is Wallace guilty of MPC murder?
 
-(a) Nothing, because the federal statute's total silence on mental state conclusively indicates it is a strict liability regulatory offense.
-(b) Nothing, because hazardous chemicals are dangerous items that automatically put Marlowe on direct notice of federal criminal regulation.
-(c) The prosecution must prove he knew the chemicals were hazardous, because the severe felony penalty presumes a mens rea requirement. <!-- correct -->
-(d) The prosecution must prove he acted purposefully to violate the permit requirement, as silence defaults to the highest culpability.
-(e) The prosecution must prove he acted with gross negligence regarding the storage of the chemicals under the federal common law.
+(a) Yes, because Wallace acted with gross criminal negligence by proceeding to mix dangerous chemicals without any protective gear.
+(b) Yes, because Wallace consciously disregarded an extreme risk of a lethal explosion, satisfying the extreme indifference standard. <!-- correct -->
+(c) No, because Wallace's conscious object was only to make money, not to cause the death of any person or create an explosion.
+(d) No, because the extreme indifference standard requires that the defendant's conduct be practically certain to cause death.
+(e) No, because under the MPC, all deaths caused by reckless conduct are graded as manslaughter rather than murder.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** Under *Staples*, while dangerous items like hazardous chemicals might ordinarily put a person on notice of regulation (defeating a mens rea requirement), statutes that impose severe felony penalties (like 10 years in prison) are presumed to require a culpable mental state. The severe penalty overcomes the public welfare offense exception. Thus, the prosecution must prove he knew the chemicals were hazardous. (a) is wrong because the *Morissette* presumption reads mens rea into silent statutes to avoid strict liability for serious crimes. (b) is wrong because the 10-year penalty makes this an outlier where the dangerous-item heuristic fails. (d) is wrong because the presumption requires knowledge of the facts that make the conduct illegal, not the specific purpose to violate the law. (e) is wrong because federal courts typically read in knowledge or recklessness, not gross negligence, for silent statutes.
+**Explanation:** (b) is correct. Under the MPC, a killing committed recklessly and "under circumstances manifesting extreme indifference to the value of human life" is elevated to murder. Wallace subjectively recognized the extreme risk of a lethal explosion and chose to proceed anyway. (a) is wrong because gross negligence only establishes negligent homicide or manslaughter, not murder. (c) incorrectly applies the definition of purpose, which is not required for extreme indifference murder. (d) conflates the definition of knowledge (practically certain) with extreme indifference recklessness. (e) is factually incorrect; the MPC explicitly grades extreme indifference recklessness as murder.
 
-**Tags:** chapters: [11, 10], topics: [public welfare offenses, morissette presumption, staples, dangerous items], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [13], topics: [homicide-grading, mpc-recklessness, extreme-indifference], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 11, Staples v. United States (holding that despite dangerous items, severe felony penalties presume a mens rea requirement)
+**Grounding:** Chapter 13: Unintentional Homicide — extreme-indifference-standard
 
-<!-- grounding: GROUNDED — Staples limit on public welfare offenses (serious penalties), Ch 11, Refinement `staples-outlier-serious-penalties`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — extreme indifference standard, Ch 13, Refinement `extreme-indifference-standard`. Rule paraphrased accurately. -->

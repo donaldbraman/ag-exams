@@ -2,77 +2,81 @@
 
 The QA pipeline flagged this question. Rewrite `q06.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — argpass-sonnet
+## Issue 1 — audit
 
-**Q6.** Assume the bartender is charged as an accomplice to Leo's initial assault on the rival. Which of the following is correct?
+<!-- audit: MUST FIX -->
 
-(a) Guilty as an accomplice to assault because turning off the security cameras provided material assistance with the purpose of facilitating the planned attack. <!-- correct -->
-(b) Not guilty as an accomplice to assault because the bartender did not physically participate in the actual violence against the rival pill dealer.
-(c) Not guilty as an accomplice to assault because the bartender possessed only knowledge of Leo's plan, not the specific intent to assist it.
-(d) Guilty as an accomplice to armed robbery because turning off the cameras imposes strict liability for any escalated crime Leo subsequently chose to commit.
-(e) Not guilty as an accomplice to assault because the bartender was completely unaware that Leo was secretly carrying a loaded gun into the club.
+**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
 
-**Answer:** (a)
+Error: Model returned empty or blocked response.
 
-**Explanation:** (a) is correct because the bartender provided material assistance (turning off the cameras) with the specific purpose of facilitating Leo's assault on the rival to protect syndicate turf. This purposeful facilitation meets the highest mens rea standard for accomplice liability. (b) is incorrect because accomplice liability explicitly covers individuals who aid or abet the crime without physically participating in the *actus reus* of the offense. (c) is incorrect because the bartender did not merely have knowledge; turning off the cameras to help Leo "avoid detection" demonstrates a purpose to aid. (d) is incorrect because an accomplice is only liable for the target crime and its natural and probable consequences, not strictly liable for any unforeseeable escalated crime. (e) is incorrect because the bartender does not need to know about the gun to be guilty as an accomplice to the intended assault.
+## Issue 2 — edge-case
 
-**Tags:** chapters: [18], topics: [accomplice-purpose-vs-knowledge, actus-reus-assistance], difficulty: medium, cognitive: application
+**Q6.** Assume Marcus is charged with distributing fentanyl. He raises a mistake-of-fact defense, arguing he believed he was only distributing counterfeit Adderall. Will this succeed?
 
-**Grounding:** Chapter 18 - Accomplice Liability (Mens rea purpose vs knowledge)
+(a) Yes, because a genuine, good-faith mistake regarding the specific type of drug completely negates the mental state required for the severe felony conviction.
+(b) Yes, because under the Model Penal Code, his liability must be categorically reduced to the misdemeanor grade of the specific offense he believed he was committing.
+(c) No, because drug offenses typically apply strict liability to the specific substance type once the defendant knowingly possesses any illegal controlled substance. <!-- correct -->
+(d) No, because his mistake was objectively unreasonable given his employment by a known criminal syndicate operating a major pill market on the East End.
+(e) No, because mistake of fact is only a valid defense for specific intent crimes, and all narcotics distribution offenses are strict liability public welfare offenses.
 
-<!-- argument-pass: MUST FIX
-(a) Argument-for: Under both the Model Penal Code and common law, accomplice liability requires the *actus reus* of aiding or encouraging the principal, coupled with the *mens rea* of purpose to promote or facilitate the target crime. Turning off the security cameras clearly constitutes material assistance by eliminating the risk of detection. Because the bartender performed this act with the specific purpose of facilitating Leo's attack, both elements are fully satisfied, making him firmly guilty as an accomplice to the initial assault.
-(b) Argument-for: A student could argue this option by relying on an outdated, overly strict interpretation of principal-in-the-first-degree requirements. Historically, actual physical presence and participation were required to be a principal. If the bartender merely altered the physical environment from afar (turning off cameras) without touching the victim or being present during the violence, a student might mistakenly conclude his actions fall short of the active participation required to attach liability for a violent assault.
-(c) Argument-for: A student could defend this option by citing the classic *Peoni* standard, which establishes that mere knowledge of a crime is insufficient for accomplice liability without a shared "stake in the venture." If the student interprets the bartender's actions as a mere knowing accommodation—doing his job but indifferent to Leo's success—then the bartender lacks specific intent. Option (c) explicitly raises this exact, legally valid defense: that lacking specific intent and possessing "only knowledge" negates accomplice liability.
-(d) Argument-for: A student could argue for this option based on a flawed understanding of the "natural and probable consequences" doctrine. Under this doctrine, an accomplice can be liable for foreseeable crimes the principal commits beyond the target offense. A student might assume that armed robbery is a natural escalation of a syndicate assault and mistakenly conclude that triggering the initial accomplice liability (turning off the cameras) imposes "strict liability" for whatever crime Leo subsequently decided to commit during the episode.
-(e) Argument-for: A student could argue that the *mens rea* for accomplice liability must encompass the specific nature of the crime as it was actually executed. If Leo committed an aggravated assault with a deadly weapon, the bartender's total ignorance of the gun implies he did not share the intent for an armed attack. Therefore, the student might conclude the bartender cannot be guilty of the assault because the presence of the concealed weapon fundamentally altered the nature and severity of the intended crime.
+**Answer:** (c)
 
-Head-to-head: Option (a) is correctly keyed because it seamlessly applies the dual requirements of accomplice liability (material assistance + purpose). Options (b), (d), and (e) rely on recognizable legal fallacies: (b) invents a physical participation requirement, (d) mischaracterizes extended liability as "strict liability," and (e) assumes ignorance of a weapon negates liability for the base assault. However, Option (c) presents a critical structural flaw. Under the Close-call standard, distractors must contain an explicit, identifiable false *legal* claim. Option (c)'s legal premise—that mere knowledge without specific intent defeats accomplice liability—is a perfectly accurate statement of law in most jurisdictions. It is only "wrong" because it contradicts the examiner's factual assumption that turning off the cameras proved purpose. Because (c) is a valid legal rule applied to a disputed factual premise, it lacks a falsifiable legal error. Furthermore, distractors (b) and (e) fail to lock their implicit legal errors with absolute words. 
+**Explanation:** The correct answer is (c). In narcotics distribution cases, the mens rea requirement typically only demands that the defendant know they are possessing *a* controlled substance. Once that threshold is met, the defendant is strictly liable for the actual type and quantity of the drug they possess, creating a severe distributional asymmetry when the drug turns out to be deadlier (like fentanyl) than expected (Fact 6).
 
-Falsifiable claim per distractor:
-- (b): "because the bartender did not physically participate in the actual violence" — wrong because it relies on the implicit false rule that physical participation is required, but it lacks absolute wording to lock the claim.
-- (c): "because the bartender possessed only knowledge of Leo's plan, not the specific intent" — entirely lacks a false legal claim. It is a legally true statement that serves as a valid defense, failing only as a factual mismatch with the prompt's intended narrative.
-- (d): "imposes strict liability for any escalated crime" — explicitly false because the natural and probable consequences doctrine requires foreseeability, not strict liability for *any* crime. (Passes standard).
-- (e): "because the bartender was completely unaware" — wrong because it relies on the implicit false rule that ignorance of a weapon negates liability for a base assault, but it lacks absolute wording.
+(a) is incorrect because the law does not require the prosecution to prove the defendant knew the exact chemical identity of the substance, only that it was a controlled substance.
+(b) is incorrect because while the MPC has a grade-reduction mechanism for mistakes (MPC 2.04(2)), federal and state drug laws heavily reject this in favor of strict liability as to type and quantity.
+(d) is incorrect because the defense fails as a matter of law regarding the strict liability element of drug type, regardless of whether the mistake was factually reasonable.
+(e) is incorrect because narcotics distribution is not a pure strict liability public welfare offense; it requires the mens rea of knowing possession of a prohibited substance.
 
-Recommended fix: Rewrite the distractors to include explicit false legal claims locked with absolute words. 
-- Fix for (b): "Not guilty as an accomplice to assault because accomplice liability categorically requires physical participation in the *actus reus* of the target offense."
-- Fix for (c) to test the knowledge/purpose distinction properly: "Guilty as an accomplice to assault because possessing mere knowledge of a planned attack automatically satisfies the mens rea for accomplice liability in every jurisdiction."
-- Fix for (e): "Not guilty as an accomplice to assault because an accomplice is categorically immune from liability if they are unaware of the principal's concealed weapon."
+**Tags:** chapters: [10, 15], topics: [mistake-of-fact, mens-rea-fentanyl-asymmetry], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 15 - Drugs and Guns > Mens rea asymmetry (type/quantity strict liability)
+
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The phrase "counterfeit Adderall (a misdemeanor)" creates a fatal mens rea trap. If Marcus genuinely believes the pills are merely "counterfeit" (e.g., fake sugar or caffeine pills passed off as real, which constitutes a misbranding/fraud misdemeanor), he completely lacks the foundational mens rea required for narcotics distribution (e.g., *McFadden v. U.S.*, which requires knowing possession of *a* controlled substance). If he doesn't believe it is a controlled substance at all, his mistake-of-fact defense legally succeeds in negating the mens rea, invalidating answer (c).
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: The Q6 stem asks to assume Marcus is charged with completed "distributing," but Fact 5 and Q5 establish he was intercepted en route and only committed "attempt" (or possession with intent). This creates unnecessary factual friction between Q5 and Q6.
+Recommended fix: Change the charge in the stem to "possession with intent to distribute fentanyl" (to perfectly align with Fact 5/Q5), and change his underlying belief in Fact 6 and the stem to a recognized lower-grade controlled substance, such as "Schedule IV sedatives (a lesser offense)." This ensures he holds the baseline mens rea required to trigger the strict-liability asymmetry tested in (c).
 -->
 
-## Issue 2 — argpass-opus
+## Issue 3 — argpass-opus
 
-**Q6.** Assume the bartender is charged as an accomplice to Leo's initial assault on the rival. Which of the following is correct?
+**Q6.** Assume Marcus is charged with distributing fentanyl. He raises a mistake-of-fact defense, arguing he believed he was only distributing counterfeit Adderall. Will this succeed?
 
-(a) Guilty as an accomplice to assault because turning off the security cameras provided material assistance with the purpose of facilitating the planned attack. <!-- correct -->
-(b) Not guilty as an accomplice to assault because the bartender did not physically participate in the actual violence against the rival pill dealer.
-(c) Not guilty as an accomplice to assault because the bartender possessed only knowledge of Leo's plan, not the specific intent to assist it.
-(d) Guilty as an accomplice to armed robbery because turning off the cameras imposes strict liability for any escalated crime Leo subsequently chose to commit.
-(e) Not guilty as an accomplice to assault because the bartender was completely unaware that Leo was secretly carrying a loaded gun into the club.
+(a) Yes, because a genuine, good-faith mistake regarding the specific type of drug completely negates the mental state required for the severe felony conviction.
+(b) Yes, because under the Model Penal Code, his liability must be categorically reduced to the misdemeanor grade of the specific offense he believed he was committing.
+(c) No, because drug offenses typically apply strict liability to the specific substance type once the defendant knowingly possesses any illegal controlled substance. <!-- correct -->
+(d) No, because his mistake was objectively unreasonable given his employment by a known criminal syndicate operating a major pill market on the East End.
+(e) No, because mistake of fact is only a valid defense for specific intent crimes, and all narcotics distribution offenses are strict liability public welfare offenses.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct because the bartender provided material assistance (turning off the cameras) with the specific purpose of facilitating Leo's assault on the rival to protect syndicate turf. This purposeful facilitation meets the highest mens rea standard for accomplice liability. (b) is incorrect because accomplice liability explicitly covers individuals who aid or abet the crime without physically participating in the *actus reus* of the offense. (c) is incorrect because the bartender did not merely have knowledge; turning off the cameras to help Leo "avoid detection" demonstrates a purpose to aid. (d) is incorrect because an accomplice is only liable for the target crime and its natural and probable consequences, not strictly liable for any unforeseeable escalated crime. (e) is incorrect because the bartender does not need to know about the gun to be guilty as an accomplice to the intended assault.
+**Explanation:** The correct answer is (c). In narcotics distribution cases, the mens rea requirement typically only demands that the defendant know they are possessing *a* controlled substance. Once that threshold is met, the defendant is strictly liable for the actual type and quantity of the drug they possess, creating a severe distributional asymmetry when the drug turns out to be deadlier (like fentanyl) than expected (Fact 6).
 
-**Tags:** chapters: [18], topics: [accomplice-purpose-vs-knowledge, actus-reus-assistance], difficulty: medium, cognitive: application
+(a) is incorrect because the law does not require the prosecution to prove the defendant knew the exact chemical identity of the substance, only that it was a controlled substance.
+(b) is incorrect because while the MPC has a grade-reduction mechanism for mistakes (MPC 2.04(2)), federal and state drug laws heavily reject this in favor of strict liability as to type and quantity.
+(d) is incorrect because the defense fails as a matter of law regarding the strict liability element of drug type, regardless of whether the mistake was factually reasonable.
+(e) is incorrect because narcotics distribution is not a pure strict liability public welfare offense; it requires the mens rea of knowing possession of a prohibited substance.
 
-**Grounding:** Chapter 18 - Accomplice Liability (Mens rea purpose vs knowledge)
+**Tags:** chapters: [10, 15], topics: [mistake-of-fact, mens-rea-fentanyl-asymmetry], difficulty: medium, cognitive: application
 
-<!-- argument-pass: MUST FIX
-(a) Argument-for: As the keyed answer, this option correctly identifies that the bartender satisfied both the actus reus and mens rea for accomplice liability. By turning off the security cameras, the bartender provided material assistance to the principal. Furthermore, acting with the purpose of facilitating the planned attack satisfies the specific intent requirement under the Model Penal Code and common law precedent (e.g., *Gladstone*), establishing solid legal grounds for accomplice liability.
-(b) Argument-for: A student could defend this option by drawing on the historical distinction between principals in the first degree and accessories. Under strict early common law interpretations, actual physical presence and participation were required to be charged as a principal. A student might argue that because the bartender only provided remote assistance and did not engage in the actual violence, they cannot be convicted of the substantive offense itself.
-(c) Argument-for: A student could argue that turning off the cameras might have been a routine task or done out of fear, meaning the bartender knew of the plan but lacked a "stake in the venture" as required by *United States v. Peoni*. Under this factual interpretation, the bartender possessed mere knowledge rather than the specific intent to promote the crime. The student would correctly apply the majority legal rule that mere knowledge is insufficient for accomplice liability, thus excusing the bartender.
-(d) Argument-for: A student might rely on the "natural and probable consequences" doctrine, arguing that escalated violence or armed robbery is a foreseeable outcome of a planned syndicate assault. By intentionally aiding the initial attack, the accomplice becomes liable for reasonably foreseeable subsequent crimes committed by the principal. The student could incorrectly interpret this doctrine as establishing strict liability for any and all escalated crimes committed during the joint enterprise.
-(e) Argument-for: A student could contend that the introduction of a deadly weapon transforms the intended crime, altering the nature of the assault. If the bartender was completely unaware of the loaded gun, they lacked the requisite mental state regarding that specific aggravating circumstance. The student might conclude that this absolute lack of knowledge concerning the weapon wholly severs accomplice liability for the assault as it actually unfolded.
+**Grounding:** Chapter 15 - Drugs and Guns > Mens rea asymmetry (type/quantity strict liability)
 
-Head-to-head: Option (a) correctly applies the core elements of accomplice liability (purposeful mens rea and material assistance actus reus) to the facts. Option (b) relies on an outdated or flawed understanding of physical participation, but states it as a factual application rather than an absolute legal rule. Option (c) is a purely factual distractor: legally, it correctly states that mere knowledge without specific intent is insufficient for liability, but it fails as a distractor because it simply contradicts the prompt's implied facts without offering a false legal claim. Option (d) contains an explicit, falsifiable legal claim by asserting that accomplice liability imposes "strict liability for any escalated crime," which misstates the limits of the natural and probable consequences doctrine. Option (e) incorrectly suggests that awareness of a concealed weapon is required for basic assault liability, but it lacks absolute locking language. Option (c) is the weakest distractor because a perfectly correct legal rule is embedded inside a factual contradiction.
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student could argue that due process and the presumption of mens rea require the government to prove the defendant knew the specific facts that make his conduct subject to severe penalties. If he thought he was distributing Adderall, his lack of knowledge about the fentanyl means he lacks the precise mens rea for a fentanyl-specific conviction, meaning his mistake negates the required mental state.
+(b) Argument-for: A student could point to the Model Penal Code § 2.04(2), which addresses situations where a defendant's mistake of fact still leaves them committing a lesser crime. Under this provision, the defense is available but the grade of the offense is reduced to the one the defendant believed he was committing, meaning he should only be liable for the lesser offense he intended.
+(c) Argument-for: This reflects the legally correct standard in most jurisdictions, including federal law under *McFadden*. The mens rea requirement for drug distribution is satisfied if the defendant knows they are distributing *a* controlled substance. Once they have this general knowledge, courts apply strict liability regarding the specific chemical type and quantity of the drug, meaning the mistake defense fails.
+(d) Argument-for: A student could argue that mistake of fact defenses generally require the mistake to be reasonable, particularly for general intent crimes. Since Marcus is assumed to be working in a major illicit pill market, believing the pills were merely Adderall is objectively unreasonable, meaning his defense must fail on those factual grounds.
+(e) Argument-for: A student could argue that narcotics offenses originated as public welfare offenses designed to protect public health, which often dispense with mens rea entirely. Under this view, drug distribution is a strict liability crime in its entirety, meaning mistake of fact is categorically inapplicable because the offense does not require specific intent or knowledge.
+
+Head-to-head: Option (c) correctly identifies that drug offenses apply strict liability to the specific substance type once knowing possession of a controlled substance is established. Option (a) is incorrect because the mistake does not "completely negate" the mental state; the defendant still knew it was a controlled substance. Option (b) misapplies the MPC by claiming it "must be categorically reduced to the misdemeanor grade," whereas distributing Adderall is typically a felony, not a misdemeanor. Option (e) is explicitly false in claiming that "all narcotics distribution offenses are strict liability public welfare offenses," as they require knowledge that the substance is illicit. Option (d) attempts to fail the defense based on objective unreasonableness and invents outside facts not found in the prompt, but it lacks an absolute claim locking its legal error.
 
 Falsifiable claim per distractor:
-- (b): "because the bartender did not physically participate in the actual violence" — wrong because modern accomplice liability does not require physical participation in the substantive offense, though the option lacks absolute locking words.
-- (c): "because the bartender possessed only knowledge of Leo's plan, not the specific intent to assist it" — lacking a false legal claim; the legal premise (knowledge alone is insufficient) is actually true, making this merely a factually false distractor.
-- (d): "imposes strict liability for any escalated crime" — wrong because accomplice liability for extended crimes is bound by the "natural and probable consequences" doctrine, not "strict liability for any" escalated crime.
-- (e): "because the bartender was completely unaware that Leo was secretly carrying a loaded gun" — wrong because the target offense of basic assault does not require the use or knowledge of a gun, though the distractor lacks absolute words.
+- (a): "completely negates the mental state required" — wrong because knowing possession of *any* controlled substance satisfies the threshold mens rea.
+- (b): "must be categorically reduced to the misdemeanor grade" — wrong because distributing Adderall is a felony, and MPC 2.04(2) reduces to the grade of the believed offense, not an automatic misdemeanor.
+- (d): "because his mistake was objectively unreasonable" — wrong because reasonableness is legally irrelevant to the element of drug type, which carries strict liability; however, it lacks an absolute modifier.
+- (e): "all narcotics distribution offenses are strict liability public welfare offenses" — wrong because they require the mens rea of knowing possession of a prohibited substance.
 
-Recommended fix: MUST FIX. Option (c) relies on a true legal rule and is merely factually incorrect. Revise it to assert a false legal claim (e.g., "(c) Guilty as an accomplice to assault because mere knowledge of a planned crime automatically satisfies the mens rea for accomplice liability in every jurisdiction."). Additionally, add absolute locking words to (b) and (e) (e.g., in (b) "...because accomplice liability categorically requires physical participation..." and in (e) "...because an accomplice is strictly exempt from liability if completely unaware of the specific weapon used.").
+Recommended fix: Change (d) to lock the false legal premise with an absolute word and remove the unprompted facts. Example: "(d) No, because a mistake regarding specific drug type categorically fails as a defense unless the defendant proves the belief was objectively reasonable."
 -->

@@ -1,17 +1,17 @@
-**Q5.** Avon is charged as a responsible corporate officer for the municipal safety certificate violation. Which of the following is true regarding his liability under the *Park* doctrine?
+**Q5.** Assume the state has a separate statute prohibiting "knowingly storing hazardous chemicals without a permit." Marlowe is charged under this statute. He argues he genuinely believed the invoice stating the chemical was a "non-hazardous water-based solvent." If the jury believes Marlowe, does he have a valid mistake of fact defense under the Model Penal Code?
 
-(a) He is not liable because he explicitly delegated warehouse operations to Marlowe and possessed no personal knowledge of the lapse.
-(b) He is liable only if the prosecution proves he intentionally directed Marlowe to ignore the municipal safety code certificate requirement.
-(c) He is liable if he stood in a responsible relation and failed to exercise foresight and vigilance to prevent the violation. <!-- correct -->
-(d) He is not liable because the Park doctrine applies exclusively to federal Food, Drug, and Cosmetic Act violations, not local codes.
-(e) He is liable because any corporate CEO is strictly liable for all crimes committed by any employee on corporate property.
+(a) Yes, because his genuine belief that the chemical was non-hazardous negates the knowledge mental state required by the statute. <!-- correct -->
+(b) Yes, because he had no conscious purpose to violate the state's storage permitting laws.
+(c) No, because under the MPC, the mental state of "knowingly" only applies to the act of storing, not the attendant circumstance of whether the chemical is hazardous.
+(d) No, because his mistake was unreasonable, given that he failed to read the bold red warning labels on the drum.
+(e) No, because mistake of fact is never a defense to statutes regulating dangerous industrial chemicals.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** The *Park* doctrine holds that a corporate officer can be criminally liable for a strict-liability public welfare offense if they stand in a "responsible relation" to the violation and fail to exercise the "highest standard of foresight and vigilance" to prevent it. Avon, as CEO, has the authority to prevent the lapse. (a) is wrong because delegation does not shield a responsible corporate officer from liability under *Park*. (b) is wrong because the doctrine imposes strict liability without requiring intentional direction. (d) is wrong because the *Park* doctrine has been extended by analogy to other regulatory contexts beyond the FDCA. (e) is wrong because the doctrine requires the officer to stand in a responsible relation to the specific violation, not absolute liability for any employee crime anywhere.
+**Explanation:** (a) is correct. Under the MPC's "one for all" rule (§ 2.02(4)), the stated mens rea of "knowingly" applies to all material elements of the offense, including the attendant circumstance that the chemical is hazardous. A genuine mistake negates knowledge. (b) applies the wrong mental state (purpose instead of knowledge). (c) reverses the MPC rule, which explicitly extends the mens rea to attendant circumstances unless a contrary purpose plainly appears. (d) is wrong because under the MPC, an unreasonable but genuine mistake still negates a knowledge requirement. (e) is incorrect because explicit mens rea terms in a statute override strict liability presumptions.
 
-**Tags:** chapters: [11], topics: [public welfare offenses, park doctrine, responsible corporate officer], difficulty: medium, cognitive: application
+**Tags:** chapters: [10], topics: [mistake-of-fact, mpc-mens-rea, attendant-circumstances], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 11, United States v. Park (imposing highest standard of foresight and vigilance on responsible corporate officers)
+**Grounding:** Chapter 10: Mistake of Fact — mof-mental-state-negation, mpc-one-for-all
 
-<!-- grounding: GROUNDED — Park Doctrine, Ch 11, Refinement `park-doctrine-foresight-vigilance`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Mistake of Fact / MPC One-for-All, Ch 10, Refinement `mpc-one-for-all` and `mof-mental-state-negation`. Rule paraphrased accurately. -->
