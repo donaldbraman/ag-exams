@@ -99,6 +99,7 @@ async def dispatch_gemini(
             if "MALFORMED_FUNCTION_CALL" in str(finish_reason):
                 if attempt < 2:
                     logger.warning(f"Caught MALFORMED_FUNCTION_CALL. Retrying {attempt+1}/3...")
+                    prompt += f"\n\n<!-- retry perturbation {attempt} -->"
                     await asyncio.sleep(2)
                     continue
             err_msg = f"Text extraction failed ({e}). Finish Reason: {finish_reason}. Raw prompt preview: {prompt[:100]}..."
@@ -110,6 +111,7 @@ async def dispatch_gemini(
             if "MALFORMED_FUNCTION_CALL" in str(finish_reason):
                 if attempt < 2:
                     logger.warning(f"Caught MALFORMED_FUNCTION_CALL on empty string. Retrying {attempt+1}/3...")
+                    prompt += f"\n\n<!-- retry perturbation {attempt} -->"
                     await asyncio.sleep(2)
                     continue
             err_msg = f"Empty string returned. Finish Reason: {finish_reason}. Raw prompt preview: {prompt[:100]}..."
