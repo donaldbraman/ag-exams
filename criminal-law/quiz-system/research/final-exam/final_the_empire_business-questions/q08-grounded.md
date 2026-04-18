@@ -1,0 +1,17 @@
+**Q8.** Dominic is charged with felony murder for the death of Victor. Dominic argues that he only shot Victor because Victor pulled a knife on him, and therefore the killing was a defensive reaction, not murder. Is Dominic guilty of felony murder?
+
+(a) Yes, because a defendant who kills during the commission of an inherently dangerous enumerated felony is strictly liable for murder, regardless of his defensive intent. <!-- correct -->
+(b) Yes, because Victor pulling a knife constitutes an intervening independent cause that legally transfers the malice aforethought from the victim to the defendant.
+(c) No, because the agency rule precludes felony murder liability when the victim initiates the use of deadly force against the felon to protect their property.
+(d) No, because a defensive killing during a felony breaks the causal chain and triggers the misdemeanor manslaughter rule instead of felony murder.
+(e) No, because the merger doctrine prohibits using an assaultive act like shooting a robbery victim as the predicate for a felony murder conviction.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because felony murder imposes strict liability for any death caused during the commission of an inherently dangerous enumerated felony (like robbery). Dominic's intent in shooting Victor (even if defensive) is irrelevant because malice is substituted by the intent to commit the robbery. (b) is incorrect because the victim's defensive resistance is a foreseeable consequence of an armed robbery, not an independent intervening cause. (c) is incorrect because the agency rule only prevents liability when a non-felon fires the fatal shot, not when the felon himself shoots. (d) is incorrect because deaths caused by the felon during the res gestae of a felony are felony murder, not misdemeanor manslaughter. (e) is incorrect because the merger doctrine applies to standalone assaultive felonies, not independent felonies with an independent purpose like robbery.
+
+**Tags:** chapters: [14], topics: [felony-murder, strict-liability, merger-doctrine], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 14 (Felony Murder Strict Liability Structure)
+
+<!-- grounding: GROUNDED — Felony Murder Strict Liability, Ch 14, Refinement `strict-liability-substitution`. Rule paraphrased accurately. -->

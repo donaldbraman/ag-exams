@@ -1,22 +1,20 @@
-# Scenario: Apex Waste Solutions
+# Scenario: Pinnacle Waste
 
 ### Facts
 
-1. Apex Waste Solutions is a legally chartered, profitable corporation with a dispatch center, payroll system, and a fleet of twenty garbage trucks. David serves as CEO, Carmine as an independent 'consultant,' and Marcus as a route supervisor.
-2. From 2023 to 2025, David regularly used Apex's dispatch center software to route Marcus to specific locations for illicit drug distributions. Instead of a flat software fee, David charged a 5% off-the-books premium on the volume of illicit drugs moved.
-3. On March 1, Marcus met with Leo to sell 500 grams of powder cocaine. Leo lacked cash, so he tendered five unregistered handguns as payment. Marcus accepted the firearms in exchange for the cocaine.
-4. On April 10, the FBI executed a search warrant on the Apex executive suite, which contains two desks used equally by David and Carmine.
-5. Agents found 40 grams of fentanyl inside a locked filing cabinet located strictly on Carmine's side of the suite. Carmine possessed the only key to the cabinet.
-6. During the search, David voluntarily told agents, 'I knew the fentanyl was in the cabinet because Carmine told me last week, but I never touched it and I don't have the key.'
-7. On May 1, Carmine explicitly ordered Marcus to 'eliminate our competition' by burning the garbage trucks owned by rival hauler Ben Miller. Marcus expressly agreed to execute the arson the following night.
-8. Carmine explicitly ordered Marcus to 'eliminate Ben Miller's business, starting by burning his garbage trucks.' Marcus expressly agreed to the ongoing campaign.
-9. On June 15, Carmine approached David in the Apex office, placed a loaded handgun on David's desk, and stated in a flat tone: 'I need the security codes to Ben's warehouse right now so Marcus can break in tonight. Write them down or I will shoot you in the head.' David, trembling, immediately wrote down the codes and handed them to Carmine.
-10. At midnight, Marcus used the security codes to enter Ben's warehouse to steal client hard drives. Ben unexpectedly entered the narrow office and discovered Marcus. Ben grabbed a heavy steel crowbar and lunged toward Marcus. Marcus, acting as the initial aggressor in the burglary, did not attempt to retreat out the open door behind him. Instead, to stop the charge, Marcus closed his eyes, pointed his weapon in Ben's general direction, and emptied his six-round magazine in a sweeping arc across the small room. One bullet struck Ben's chest, killing him.
+1. Carmine owned "Pinnacle Waste," a lawfully chartered waste management corporation with a dispatch center, a fleet of trucks, and a corporate billing department.
+2. Carmine and his capo, Dominic, used Pinnacle's dispatch center to coordinate illicit robberies of local businesses, and used the billing department to launder the stolen proceeds.
+3. Looking to expand, Carmine and Dominic agreed to form a new side-operation to distribute narcotics, explicitly agreeing to use Pinnacle trucks to transport the drugs in the future. At the time of this agreement, the drug operation did not yet exist.
+4. Carmine later directed Marcus, the Pinnacle dispatcher, to route the drug-carrying trucks around state weigh stations. Marcus replied, "I know you're moving drugs, but I don't want a cut of that money. I just want my regular salary." Marcus then routed the trucks as directed.
+5. Two months later, Marcus attempted to quit. Carmine told Marcus, "If you ever stop routing my trucks, I will track you down and put you in a compactor." Marcus continued routing the trucks for four more months without contacting authorities.
+6. Dominic personally handled the first major drug acquisition. He met a supplier and traded 2 kilograms of a controlled substance in exchange for five unregistered AR-15 rifles to arm his extortion crew.
+7. Chemical testing later established that the 2 kilograms Dominic traded were 100% pure fentanyl. Dominic had no idea the substance was fentanyl, genuinely believing it to be heroin.
+8. During a subsequent robbery of a local restaurant to collect "protection" money, Dominic confronted the restaurant owner, Victor. Victor pulled out a knife to defend his property. Dominic immediately shot and killed Victor.
+9. Following Victor's death, Dominic decided to preemptively eliminate a rival gang leader, Elias. Dominic purchased a sniper rifle, drove to Elias's house, and was sitting in his parked car with the rifle loaded, waiting for Elias to emerge, when the FBI arrested him.
+10. Following Dominic's arrest, the FBI executed a search warrant at the home Dominic shared with his wife. Inside his wife's personal bedside dresser drawer—which contained only her personal belongings—agents found a 9mm handgun legally registered to her.
+11. During the search, Dominic stated to the agents, "I knew my wife's 9mm was still in her drawer, but I never touch her stuff."
+12. Dominic was charged under 18 U.S.C. § 922(g) (felon-in-possession) based on the 9mm. Ten years prior, Dominic was convicted of state commercial fraud. Dominic genuinely believed this prior conviction was a misdemeanor, but under state law, it was classified as a felony.
 
-### Stem 1: Initial Investigation
+### Stem 1: Phase 1 Investigation
 
-You are an Assistant United States Attorney. Review the FBI's initial investigative file on Apex Waste Solutions (Facts 1-6). Assess the RICO structure, the drug and gun transactions, and possession liability.
-
-### Stem 2: Escalation
-
-The situation escalated over the summer into an aborted arson and a fatal extortion scheme (Facts 7-10). Analyze the inchoate liability, defenses, and homicide outcomes.
+The U.S. Attorney has handed us Phase 1 of the FBI's investigative report on the Pinnacle Waste syndicate. I need a memo analyzing the potential criminal liability for Carmine, Dominic, and Marcus based on the enterprise structure and the initial drug-and-gun transactions.

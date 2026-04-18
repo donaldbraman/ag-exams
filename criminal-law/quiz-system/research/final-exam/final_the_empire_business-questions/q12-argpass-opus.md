@@ -1,0 +1,34 @@
+**Q12.** The government charges Dominic with constructively possessing the 9mm handgun found in his wife's bedside drawer. Dominic's statement confirms he knew the gun was there. Will the government succeed in proving constructive possession?
+
+(a) Yes, because a defendant's admission that he is aware of the presence of contraband in his home conclusively establishes constructive possession.
+(b) Yes, because spouses in a shared household are legally presumed to have joint dominion and control over all items within the shared residence.
+(c) No, because the government must prove Dominic intended to exercise dominion and control, and the gun was in a space within his wife's exclusive control. <!-- correct -->
+(d) No, because the Second Amendment prevents the government from charging a felon with constructive possession if another household member legally owns the weapon.
+(e) No, because the snapshot rule requires the government to present direct evidence of the defendant physically handling the contraband at some point.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct because constructive possession requires both awareness and the intent to exercise dominion and control. Because the gun was found in a space within his wife's exclusive control (her personal dresser drawer), and Dominic stated he never touches her items, the government cannot establish his dominion and control. (a) is incorrect because awareness alone is a necessary but insufficient condition for constructive possession. (b) is incorrect because shared households require space-specific analysis, not a presumption of joint control over all items. (d) is incorrect because while the Second Amendment dimension is emerging, constructive possession inherently requires a fact-based analysis of dominion and control which fails here first. (e) is incorrect because the "snapshot" limitation refers to proximity without conduct, not a requirement for photographic evidence.
+
+**Tags:** chapters: [15], topics: [constructive-possession, exclusive-control, dominion-and-control], difficulty: hard, cognitive: application
+
+**Grounding:** Chapter 15 (State of Louisiana v. White; Exclusive Control)
+
+<!-- argument-pass: MUST FIX
+(a) Argument-for: A student could choose this option by focusing on the standard elements of constructive possession in shared dwelling cases. To establish constructive possession, the government must prove knowledge and access. Because Dominic lives in the home and explicitly admitted he knew the gun was present, he satisfies both the *mens rea* of awareness and the physical proximity required. Therefore, his admission bridges the gap from mere proximity to actual knowledge, practically assuring a constructive possession conviction.
+(b) Argument-for: A student might select this by applying principles of marital property and shared tenancy to criminal possession. In a marital household, spouses generally share unrestricted access to the bedroom and its furniture. Thus, the law can logically presume that married partners exercise joint dominion and control over the items kept within their shared private quarters. Under this view, the bedside drawer is simply part of the joint marital space, giving Dominic constructive possession of its contents.
+(c) Argument-for: This is the correct answer because constructive possession requires both knowledge of the item and the capability/intent to exercise dominion and control over it. Even though Dominic knew the gun was in the room, it was located in his wife's bedside drawer—a distinct, personal space typically reserved for her exclusive control. Without evidence that he accesses or intends to exercise control over items in her personal drawer, the government's case fails on the dominion-and-control prong.
+(d) Argument-for: A student could defend this by pointing to recent Second Amendment jurisprudence and the rights of non-prohibited household members. If a felon could be charged with constructive possession merely because their non-felon spouse lawfully keeps a firearm in the shared home for self-defense, it would effectively chill the non-prohibited spouse's constitutional rights. Thus, one could argue that constitutional protections erect a bar against constructive possession charges in this specific marital-ownership scenario.
+(e) Argument-for: A student might choose this by misapplying evidentiary rules regarding proximity. The "snapshot rule" or similar doctrines often caution against convicting someone based merely on a "snapshot" in time where they happen to be near contraband. To ensure proximity isn't mistaken for possession, a student might reason that the government must supply direct evidence—such as fingerprints, DNA, or witness testimony of prior physical handling—to prove actual or constructive dominion.
+
+Head-to-head: 
+The distractors are well-constructed with strong falsifiable claims, locking in their incorrectness via absolute phrasing ("conclusively establishes", "legally presumed... over all items", "categorically prevents", "requires direct evidence"). However, the question has a fatal flaw: the explanation for the keyed answer (c) explicitly relies on a crucial fact ("and Dominic stated he never touches her items") that is completely missing from the question stem. Without this fact, the conclusion that Dominic did not intend to exercise dominion and control becomes highly debatable, as a jury could easily find joint control over a bedside drawer in a shared marital bedroom. Option (c) is not cleanly derivable from the provided facts.
+
+Falsifiable claim per distractor:
+- (a): "conclusively establishes" — wrong because awareness/knowledge is only one prong of constructive possession; the government must also prove the intent and capability to exercise dominion and control.
+- (b): "legally presumed to have joint dominion and control over all items" — wrong because criminal law requires a fact-specific analysis of control over specific spaces (like a personal drawer), lacking a blanket presumption over "all items."
+- (d): "Second Amendment prevents... if another household member legally owns the weapon" — wrong because a prohibited person can absolutely be convicted of constructively possessing a spouse's lawfully owned weapon if they exercise dominion and control over it.
+- (e): "snapshot rule requires... direct evidence of the defendant physically handling" — wrong because constructive possession, by definition, can be proven entirely through circumstantial evidence without any direct proof of physical handling.
+
+Recommended fix: Add the missing fact to the question stem to justify the correct answer and match the explanation. Change the stem to: "The government charges Dominic with constructively possessing the 9mm handgun found in his wife's bedside drawer. Dominic's statement confirms he knew the gun was there, but he maintained that he never opens or touches her personal drawers."
+-->

@@ -1,0 +1,26 @@
+**Q9.** Assume Dominic is charged with intentional murder (rather than felony murder) and raises a claim of self-defense, arguing he shot Victor only to protect himself from Victor's knife. Will Dominic's self-defense claim succeed?
+
+(a) Yes, because Victor's use of a deadly weapon created an imminent threat of death or great bodily harm, satisfying the objective reasonableness standard.
+(b) Yes, because the castle doctrine allows a person to use deadly force without retreating when confronted by an armed individual during a business dispute.
+(c) No, because a defendant who initiates an armed robbery is the initial aggressor and is barred from claiming self-defense against the victim's lawful resistance. <!-- correct -->
+(d) No, because Dominic failed to seek a safe and viable avenue of retreat before deploying deadly force against Victor in the restaurant.
+(e) No, because the imperfect self-defense doctrine strictly requires the defendant's belief in the need for deadly force to be objectively and subjectively reasonable.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct because a defendant who initiates an armed robbery is the initial aggressor. The initial aggressor doctrine bars a person who starts a deadly confrontation from claiming self-defense against the victim's lawful use of defensive force. (a) is incorrect because the initial aggressor bar supersedes the objective reasonableness of the threat. (b) is incorrect because the castle doctrine applies to defending one's own home or business, not to an armed robber invading someone else's business. (d) is incorrect because while retreat is generally required, Dominic's claim is categorically barred by his status as the initial aggressor before the retreat analysis even applies. (e) is incorrect because imperfect self-defense involves a genuine but objectively unreasonable belief; here, the claim fails entirely due to the initial aggressor bar.
+
+**Tags:** chapters: [22], topics: [self-defense, initial-aggressor], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 22 (Self-Defense; Initial Aggressor Bar)
+
+<!-- audit: MUST FIX
+check 1: pass
+check 2: FAIL. Because the stem lacks the necessary facts, a student could easily argue for (a) based solely on the stem's text that Victor attacked with a knife.
+check 3: pass
+check 4: FAIL. The stem completely lacks the factual scenario needed to answer the question. There is no mention of an armed robbery, a restaurant, or a business dispute in the stem. This question appears to have been orphaned from a master fact pattern.
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Integrate the missing master facts into the stem (e.g., "Assume Dominic initiates an armed robbery of Victor's restaurant. Victor pulls a knife to defend himself, and Dominic shoots him...").
+-->

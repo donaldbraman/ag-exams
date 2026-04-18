@@ -1,0 +1,22 @@
+**Q6.** The government charges Dominic with possession with intent to distribute fentanyl. Dominic argues he cannot be convicted of a fentanyl offense because he genuinely believed the substance was heroin. Under the federal standard for controlled substance mens rea, will this defense succeed?
+
+(a) Yes, because the government must affirmatively prove that the defendant knew the specific chemical identity of the substance he possessed.
+(b) Yes, because a defendant cannot be held liable for a more severe fentanyl offense when he only possessed the mens rea for a lesser heroin offense.
+(c) No, because controlled substance offenses are strict liability crimes that require no proof whatsoever of the defendant's mental state regarding the substance.
+(d) No, because the government only needs to prove the defendant knew the substance's general nature as a controlled substance, not its precise identity. <!-- correct -->
+(e) No, because the iron law of prohibition creates a conclusive legal presumption that anyone distributing heroin is aware it might contain fentanyl.
+
+**Answer:** (d)
+
+**Explanation:** (d) is correct because under *McFadden* and the federal standard, the government must prove the defendant knew the substance was a controlled substance (its general nature), but need not prove the defendant knew its precise chemical identity (fentanyl vs. heroin). (a) is incorrect because specific chemical identity is not required; knowledge of the general nature suffices. (b) is incorrect because the general-nature rule allows conviction for the substance actually possessed, regardless of the defendant's belief about which specific drug it was. (c) is incorrect because controlled substance possession is not a strict liability offense; it requires the mens rea of knowledge regarding the substance's general nature. (e) is incorrect because there is no conclusive legal presumption regarding fentanyl awareness; liability rests purely on the general-nature mens rea standard.
+
+**Tags:** chapters: [15], topics: [fentanyl, mens-rea, controlled-substances], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 15 (McFadden v. United States; mens-rea-fentanyl-asymmetry)
+
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: N/A
+-->

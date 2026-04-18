@@ -1,0 +1,35 @@
+Phase 2 of the FBI's investigation covers Dominic's violent escalation, his arrest, and the subsequent search of his home. We need to evaluate the homicide, the attempt on Elias, and the firearm possession charges.
+
+**Q8.** Dominic is charged with felony murder for the death of Victor. Dominic argues that he only shot Victor because Victor pulled a knife on him, and therefore the killing was a defensive reaction, not murder. Is Dominic guilty of felony murder?
+
+(a) Yes, because a defendant who kills during the commission of an inherently dangerous enumerated felony is strictly liable for murder, regardless of his defensive intent. <!-- correct -->
+(b) Yes, because Victor pulling a knife constitutes an intervening independent cause that legally transfers the malice aforethought from the victim to the defendant.
+(c) No, because the agency rule precludes felony murder liability when the victim initiates the use of deadly force against the felon to protect their property.
+(d) No, because a defensive killing during a felony breaks the causal chain and triggers the misdemeanor manslaughter rule instead of felony murder.
+(e) No, because the merger doctrine prohibits using an assaultive act like shooting a robbery victim as the predicate for a felony murder conviction.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because felony murder imposes strict liability for any death caused during the commission of an inherently dangerous enumerated felony (like robbery). Dominic's intent in shooting Victor (even if defensive) is irrelevant because malice is substituted by the intent to commit the robbery. (b) is incorrect because the victim's defensive resistance is a foreseeable consequence of an armed robbery, not an independent intervening cause. (c) is incorrect because the agency rule only prevents liability when a non-felon fires the fatal shot, not when the felon himself shoots. (d) is incorrect because deaths caused by the felon during the res gestae of a felony are felony murder, not misdemeanor manslaughter. (e) is incorrect because the merger doctrine applies to standalone assaultive felonies, not independent felonies with an independent purpose like robbery.
+
+**Tags:** chapters: [14], topics: [felony-murder, strict-liability, merger-doctrine], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 14 (Felony Murder Strict Liability Structure)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A core tenet of the felony murder doctrine is that it operates as a strict liability mechanism for homicides occurring during the res gestae of an inherently dangerous felony (such as robbery). A felon cannot claim self-defense against a victim who is lawfully resisting the felony. Therefore, Dominic's subjective "defensive" intent when the victim pulled a knife is legally irrelevant, as the requisite malice for murder is conclusively imputed from his intent to commit the underlying felony.
+(b) Argument-for: A student could argue that Victor pulling a knife fundamentally alters the dynamics of the encounter, introducing a new lethal threat. Under this theory, the victim's violent escalation is framed as an intervening act that shifts the legal fault. The student might conclude that this act "transfers" the malice aforethought into a new causal sequence, satisfying the elements of murder while acknowledging the victim's role in the escalation. 
+(c) Argument-for: Under the agency approach to felony murder, liability is restricted based on the identity of the person who commits the fatal act. A student could argue that if the victim (Victor) introduces deadly force (pulling a knife) to protect their property, this justifies the immediate violence. They might incorrectly deduce that the agency rule shields the felon from murder liability if the direct trigger for the death was the victim's justified escalation rather than the felon's unprovoked attack.
+(d) Argument-for: This option relies on the concept of severing the chain of causation. A student could argue that if Dominic shot purely in self-defense against a sudden lethal threat, this defensive reaction snaps the res gestae chain of the underlying felony because the killing is no longer strictly "in furtherance" of the crime. Under this mistaken theory, the broken causal chain downgrades the homicide from felony murder to a lesser charge like misdemeanor manslaughter.
+(e) Argument-for: The merger doctrine (the rule in *Ireland*) prevents felonies that are integral to the homicide (such as assault with a deadly weapon) from serving as the predicate for felony murder. A student could focus heavily on the fact that Dominic's act of shooting Victor was a direct assaultive act. Viewing the shooting itself as the predicate, they could persuasively argue that this assault merges with the resulting homicide, thereby prohibiting a felony murder conviction.
+
+Head-to-head: Option (a) correctly applies the felony murder rule, recognizing that malice is imputed from the underlying felony and self-defense is unavailable to an armed felon committing a dangerous crime, rendering them strictly liable for the resulting death. Option (b) invents a nonsensical legal doctrine ("transfers the malice aforethought from the victim"), as transferred malice applies to unintended targets, not victim-to-defendant causation. Option (c) misstates the agency rule, which requires the fatal blow to be struck by a non-felon to preclude liability, not merely that the victim initiated defensive force. Option (d) makes a clear false legal claim that a victim's resistance breaks the causal chain and categorically "triggers the misdemeanor manslaughter rule." Option (e) falsely claims the merger doctrine applies to "shooting a robbery victim," ignoring that the independent felonious purpose of the robbery defeats the merger doctrine. All distractors contain clearly falsifiable, explicit legal errors.
+
+Falsifiable claim per distractor:
+- (b): "transfers the malice aforethought from the victim to the defendant" — wrong because transferred intent applies when a defendant aims at one person and hits another; malice cannot be "transferred" from a defending victim to an attacking defendant.
+- (c): "agency rule precludes felony murder liability when the victim initiates the use of deadly force" — wrong because the agency rule precludes liability only when a non-felon commits the actual fatal act, not when the felon himself commits the fatal act in response to victim resistance.
+- (d): "breaks the causal chain and triggers the misdemeanor manslaughter rule" — wrong because a victim's foreseeable resistance during a felony does not break the causal chain, nor does it categorically trigger misdemeanor manslaughter.
+- (e): "prohibits using an assaultive act like shooting a robbery victim as the predicate" — wrong because the predicate felony for felony murder in this scenario is the robbery (which has an independent felonious purpose), not the assaultive act of shooting the victim. 
+
+Recommended fix: none
+-->

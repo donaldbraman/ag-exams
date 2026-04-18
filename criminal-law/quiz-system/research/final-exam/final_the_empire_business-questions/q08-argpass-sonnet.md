@@ -1,0 +1,33 @@
+Dominic is charged with felony murder for the death of Victor. Dominic argues that he only shot Victor because Victor pulled a knife on him, and therefore the killing was a defensive reaction, not murder. Is Dominic guilty of felony murder?
+
+(a) Yes, because a defendant who kills during the commission of an inherently dangerous enumerated felony is strictly liable for murder, regardless of his defensive intent. <!-- correct -->
+(b) Yes, because Victor pulling a knife constitutes an intervening independent cause that legally transfers the malice aforethought from the victim to the defendant.
+(c) No, because the agency rule precludes felony murder liability when the victim initiates the use of deadly force against the felon to protect their property.
+(d) No, because a defensive killing during a felony breaks the causal chain and triggers the misdemeanor manslaughter rule instead of felony murder.
+(e) No, because the merger doctrine prohibits using an assaultive act like shooting a robbery victim as the predicate for a felony murder conviction.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because felony murder imposes strict liability for any death caused during the commission of an inherently dangerous enumerated felony (like robbery). Dominic's intent in shooting Victor (even if defensive) is irrelevant because malice is substituted by the intent to commit the robbery. (b) is incorrect because the victim's defensive resistance is a foreseeable consequence of an armed robbery, not an independent intervening cause. (c) is incorrect because the agency rule only prevents liability when a non-felon fires the fatal shot, not when the felon himself shoots. (d) is incorrect because deaths caused by the felon during the res gestae of a felony are felony murder, not misdemeanor manslaughter. (e) is incorrect because the merger doctrine applies to standalone assaultive felonies, not independent felonies with an independent purpose like robbery.
+
+**Tags:** chapters: [14], topics: [felony-murder, strict-liability, merger-doctrine], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 14 (Felony Murder Strict Liability Structure)
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student would select this because it accurately captures the core function of the felony murder rule. During the commission of an inherently dangerous enumerated felony, the felon is strictly liable for any resulting deaths. Defensive intent is legally irrelevant because the malice aforethought is supplied by the intent to commit the underlying felony, nullifying self-defense claims for the initial aggressor.
+(b) Argument-for: A student might choose this believing that a victim drawing a weapon introduces an intervening cause. The student could construct a theory that the victim's escalation "transfers malice" or creates a new chain of causation, effectively making the defendant's reaction an independent event that utilizes transferred malice to sustain a felony murder charge.
+(c) Argument-for: A student could conflate the agency rule's limitations on liability with victim-initiated force. They might reason that because the victim escalated to deadly force, the agency rule acts as a shield to protect the felon from liability for a death that was responsive to the victim's own defensive agency.
+(d) Argument-for: A student might recall that imperfect defenses can downgrade murder to manslaughter. They could argue that a defensive killing during a felony breaks the immediate causal chain of the felony itself, downgrading the strict liability of felony murder to misdemeanor manslaughter due to the presence of a self-defense motive.
+(e) Argument-for: A student familiar with the merger doctrine (the Ireland rule) knows it prevents bootstrapping assault into felony murder. They could argue that because the actual killing mechanism was a purely assaultive act (shooting), it merges with the homicide, precluding felony murder liability despite the broader context of an ongoing robbery.
+
+Head-to-head: Option (a) correctly applies the felony murder doctrine, establishing that the underlying felony strictly substitutes for malice, overriding any self-defense claims by the initial aggressor. Option (b) invents a nonsensical legal doctrine of transferring malice from a victim to a defendant. Option (c) misstates the agency rule, which applies to *who* causes the death (a non-felon), not who initiated the force. Option (d) invents a false categorical rule that defensive killings break the causal chain and trigger misdemeanor manslaughter. Option (e) correctly states a legal rule in a vacuum (the merger doctrine *does* prohibit using the shooting itself as the predicate) but arrives at the wrong conclusion via misapplication (the state is using the robbery as the predicate, not the shooting). Because (e)'s doctrinal statement is technically true, it fails the close-call standard for lacking an explicit falsifiable claim.
+
+Falsifiable claim per distractor:
+- (b): "legally transfers the malice aforethought from the victim to the defendant" — wrong because malice is never transferred from a victim's lawful resistance to the defendant; the defendant's malice is supplied by the felony itself.
+- (c): "the agency rule precludes felony murder liability when the victim initiates the use of deadly force" — wrong because the agency rule only precludes liability when a non-felon is the actual killer, not when the felon themselves shoots the victim.
+- (d): "breaks the causal chain and triggers the misdemeanor manslaughter rule instead of felony murder" — wrong because a felon's defensive killing of a resisting victim is a highly foreseeable part of the res gestae and does not legally trigger misdemeanor manslaughter.
+- (e): "the merger doctrine prohibits using an assaultive act like shooting a robbery victim as the predicate" — wrong application, but technically the statement that you can't use the shooting as the predicate is a TRUE legal rule. The falsity lies in the implicit assumption that the state is using the shooting, rather than the robbery, as the predicate.
+
+Recommended fix: Revise E to contain an explicitly false legal claim locked with an absolute word. Change (e) to: "No, because the merger doctrine automatically merges any assaultive act into the homicide, categorically precluding a felony murder conviction even when an independent robbery is committed." Additionally, insert absolute words into B, C, and D (e.g., "automatically transfers," "always precludes," "categorically breaks").
+-->

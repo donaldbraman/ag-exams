@@ -1,0 +1,34 @@
+**Q5.** Assume that Dominic is charged under 18 U.S.C. § 924(c) with "using" a firearm during and in relation to a drug trafficking crime based on his acquisition of the AR-15 rifles. Is Dominic guilty of this offense?
+
+(a) Yes, because acquiring firearms to arm an extortion crew demonstrates an active employment of the weapons in a continuing criminal enterprise.
+(b) Yes, because exchanging drugs for firearms treats the weapons as an item of barter, which constitutes using a firearm under the statute.
+(c) No, because a person who receives a firearm in exchange for drugs does not "use" the firearm within the meaning of § 924(c). <!-- correct -->
+(d) No, because Justice Ginsburg's controlling concurrence established that "use" only applies when a firearm is deployed as a weapon of intimidation.
+(e) No, because the AR-15 rifles were unregistered, meaning they fall under the separate purview of the National Firearms Act rather than § 924(c).
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct because the Supreme Court held in *Watson v. United States* that a defendant who receives a firearm in exchange for drugs does not "use" the firearm under § 924(c); only the party tendering the gun uses it as currency. (a) is incorrect because the statute requires using the firearm during the transaction, not merely acquiring it for future criminal enterprise use. (b) is incorrect because *Watson* distinguished the drug-for-gun trade from the gun-for-drug trade in *Smith*, holding the receiver does not "use" the barter item. (d) is incorrect because Justice Ginsburg's "use as a weapon" reading was a concurrence, not the majority holding. (e) is incorrect because § 924(c) applies to any firearm used in a drug trafficking crime, regardless of NFA registration status.
+
+**Tags:** chapters: [15], topics: [section-924c, firearms, watson], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 15 (Watson v. United States; use-924c-trading-drugs-for-gun)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could defend this option by relying on the "active employment" standard from *Bailey v. United States*. The student might argue that if Dominic is acquiring the AR-15s specifically to arm an extortion crew, this acquisition is an active step in effectuating a continuing criminal enterprise. By linking the acquisition to the immediate arming of the crew, the student could argue the firearms are actively employed in the broader scheme, thereby satisfying the "use" requirement.
+(b) Argument-for: A student could defend this option by drawing an analogy to *Smith v. United States*, which held that trading a firearm for drugs constitutes "use" as an item of barter. The student might reason that a barter transaction inherently involves two sides, and both parties are actively utilizing the exchanged items as currency. Therefore, Dominic "used" the firearms by participating in a transaction where the guns served as the medium of exchange for his drugs.
+(c) Argument-for: A student could defend this correct option by citing the direct holding of *Watson v. United States*. The Supreme Court in *Watson* strictly ruled that a defendant who receives a firearm in exchange for drugs does not "use" the firearm within the meaning of 18 U.S.C. § 924(c). Applying this precedent, because Dominic was the recipient of the AR-15s and provided the drugs, he cannot be convicted of "using" the firearms under the statute.
+(d) Argument-for: A student could defend this by recalling Justice Ginsburg’s concurrence in *Watson*, where she expressed that § 924(c) should be limited to instances where a firearm is used as a weapon. The student might mistakenly elevate this concurrence to a controlling rule, arguing that because Dominic only acquired the rifles as barter merchandise rather than deploying them to intimidate someone during the drug deal, he did not "use" them under the statute's supposedly current, restricted construction.
+(e) Argument-for: A student could defend this option by invoking the canon of statutory construction that specific statutes govern over general ones. Because unregistered AR-15 rifles implicate the strict regulatory regime of the National Firearms Act (NFA), the student could argue that Dominic’s possession is exclusively governed by the NFA. Under this logic, specific NFA charges displace the general § 924(c) drug-trafficking firearm enhancement.
+
+Head-to-head:
+Option (c) correctly states the precise holding of *Watson v. United States*, identifying that receiving a gun in exchange for drugs is not "use." Option (a) is incorrect because it falsely equates the act of acquiring firearms for future criminal activities with "active employment" during a drug crime, which directly contravenes *Watson*. Option (b) is wrong because it misstates the doctrine by applying the *Smith* "barter" rationale to the receiver of the firearm, rather than the provider. Option (d) presents a clearly falsifiable claim by elevating Justice Ginsburg's concurrence to a "controlling" holding and falsely asserting that "use" only applies to intimidation, which ignores the still-valid *Smith* precedent. Option (e) relies on the falsifiable proposition that NFA weapons are categorically excluded from § 924(c)'s purview, which is false since § 924(c) applies regardless of (and even contains enhancements for) NFA status. The distractors are highly plausible, rely on distinguishable concepts, and lock in explicit, falsifiable legal assertions.
+
+Falsifiable claim per distractor:
+- (a): "acquiring firearms to arm an extortion crew demonstrates an active employment" — wrong because *Watson* expressly held that acquiring/receiving a firearm in a drug trade does not constitute "use" (or active employment) under the statute.
+- (b): "exchanging drugs for firearms treats the weapons as an item of barter, which constitutes using a firearm under the statute" — wrong because while giving a gun for drugs constitutes "use" (*Smith*), receiving a gun for drugs is categorically not "use" (*Watson*).
+- (d): "Justice Ginsburg's controlling concurrence established that 'use' only applies when a firearm is deployed as a weapon of intimidation" — wrong because her concurrence was not a controlling majority holding, and *Smith* remains binding precedent that "use" extends beyond intimidation to include trading a gun as currency.
+- (e): "fall under the separate purview of the National Firearms Act rather than § 924(c)" — wrong because a firearm's unregistered NFA status does not preempt or exempt it from § 924(c); the statutes operate concurrently.
+
+Recommended fix: none
+-->

@@ -1,0 +1,17 @@
+**Q4.** Assume that Marcus is charged as an accomplice for routing the trucks after Carmine's threat, and Marcus raises a duress defense. Will Marcus's duress defense succeed?
+
+(a) Yes, because Carmine's threat to put Marcus in a compactor would cause a person of reasonable firmness to succumb to the coercion.
+(b) Yes, because Marcus subjectively believed that his life was in imminent danger if he refused to comply with Carmine's routing instructions.
+(c) No, because Marcus failed to take advantage of a reasonable opportunity to escape the threatened harm by contacting the authorities during the four months. <!-- correct -->
+(d) No, because the defense of duress is never available as a matter of law for crimes involving the distribution of narcotics or controlled substances.
+(e) No, because Marcus's initial voluntary employment at Pinnacle Waste legally precludes him from raising duress for any subsequent workplace coercion.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct because the duress defense requires the defendant to take advantage of any reasonable opportunity to escape the threatened harm. Marcus continued routing trucks for four months without contacting the authorities, failing the imminence and lack-of-escape-opportunity requirements. (a) is incorrect because the threat must be imminent, and the four-month delay defeats imminence. (b) is incorrect because the standard for duress is objective (a person of reasonable firmness), not merely subjective belief. (d) is incorrect because duress is generally available for drug offenses; the primary categorical exception is for intentional murder. (e) is incorrect because initial voluntary employment does not legally forfeit a future duress defense if an employee is later coerced into committing a crime.
+
+**Tags:** chapters: [21], topics: [duress, imminence, escape-opportunity], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 21 (Duress — Imminence and Proximity)
+
+<!-- grounding: GROUNDED — Duress (Imminence and Escape Opportunity), Ch 21, Refinement `duress-imminence-proximity`. Rule paraphrased accurately. -->

@@ -1,0 +1,33 @@
+**Q6.** The government charges Dominic with possession with intent to distribute fentanyl. Dominic argues he cannot be convicted of a fentanyl offense because he genuinely believed the substance was heroin. Under the federal standard for controlled substance mens rea, will this defense succeed?
+
+(a) Yes, because the government must affirmatively prove that the defendant knew the specific chemical identity of the substance he possessed.
+(b) Yes, because a defendant cannot be held liable for a more severe fentanyl offense when he only possessed the mens rea for a lesser heroin offense.
+(c) No, because controlled substance offenses are strict liability crimes that require no proof whatsoever of the defendant's mental state regarding the substance.
+(d) No, because the government only needs to prove the defendant knew the substance's general nature as a controlled substance, not its precise identity. <!-- correct -->
+(e) No, because the iron law of prohibition creates a conclusive legal presumption that anyone distributing heroin is aware it might contain fentanyl.
+
+**Answer:** (d)
+
+**Explanation:** (d) is correct because under *McFadden* and the federal standard, the government must prove the defendant knew the substance was a controlled substance (its general nature), but need not prove the defendant knew its precise chemical identity (fentanyl vs. heroin). (a) is incorrect because specific chemical identity is not required; knowledge of the general nature suffices. (b) is incorrect because the general-nature rule allows conviction for the substance actually possessed, regardless of the defendant's belief about which specific drug it was. (c) is incorrect because controlled substance possession is not a strict liability offense; it requires the mens rea of knowledge regarding the substance's general nature. (e) is incorrect because there is no conclusive legal presumption regarding fentanyl awareness; liability rests purely on the general-nature mens rea standard.
+
+**Tags:** chapters: [15], topics: [fentanyl, mens-rea, controlled-substances], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 15 (McFadden v. United States; mens-rea-fentanyl-asymmetry)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under the general presumption of mens rea, when a statute penalizes the possession of a specific substance, the "knowingly" requirement should naturally distribute down to that specific material element. A student could argue that due process requires the government to affirmatively prove the defendant knew the specific chemical identity of the substance he possessed. Because Dominic genuinely thought he had heroin, he lacks the specific mens rea required for a fentanyl conviction.
+(b) Argument-for: A student could rely on the principle of proportionality and the lesser-legal-wrong doctrine to support this option. If a defendant only has the mens rea to commit a lesser offense (e.g., heroin distribution), punishing him for a more severe offense (fentanyl distribution, which frequently carries steeper sentencing enhancements) violates basic culpability principles. Therefore, a court would bar the fentanyl conviction because a defendant categorically cannot be held liable for an aggravated offense when he solely possessed the mens rea for a lesser one.
+(c) Argument-for: Public welfare offenses sometimes dispense with mens rea requirements entirely to protect the public from highly dangerous, heavily regulated activities. Given the uniquely lethal nature of fentanyl, a student might argue that courts treat controlled substance possession as a strict liability crime. Under this theory, the statute requires no proof whatsoever of the defendant's mental state regarding the substance, making Dominic's mistake-of-fact defense entirely invalid.
+(d) Argument-for: This option perfectly captures the federal mens rea standard established by the Supreme Court in *McFadden v. United States*. The Court held that the government satisfies the "knowingly" requirement of 21 U.S.C. § 841 by proving the defendant knew he possessed some controlled substance, even if he did not know its precise identity. Because Dominic knew he possessed heroin (a controlled substance), his ignorance that it was actually fentanyl does not shield him from liability for the fentanyl offense.
+(e) Argument-for: The "iron law of prohibition" posits that drug markets become more potent and adulterated under strict enforcement. Given the pervasive and well-known contamination of the modern heroin supply with fentanyl, a student could argue that federal courts have integrated this reality into doctrine, creating a conclusive legal presumption that anyone distributing heroin assumes the risk of fentanyl. Therefore, his defense automatically fails because the law imputes awareness.
+
+Head-to-head: Option (d) is the only legally accurate statement, directly applying the *McFadden* "general nature" rule. Option (a) directly contradicts *McFadden* by demanding specific chemical knowledge. Option (b) inaccurately asserts a categorical mens rea cap based on drug severity, which federal drug law rejects (defendants assume the risk of the actual substance possessed so long as they knew it was illegal). Option (c) relies on a strict liability theory that violates the explicit "knowingly or intentionally" statutory text of 21 U.S.C. § 841. Option (e) invents a "conclusive legal presumption" based on a sociological concept (the iron law of prohibition), which does not exist in federal criminal law. Every distractor is anchored by an explicitly false legal claim.
+
+Falsifiable claim per distractor:
+- (a): "the government must affirmatively prove that the defendant knew the specific chemical identity" — wrong because *McFadden* expressly rejected this, holding that knowledge of the substance's general nature as a controlled substance is sufficient.
+- (b): "cannot be held liable for a more severe fentanyl offense when he only possessed the mens rea for a lesser heroin offense" — wrong because federal law allows conviction for the actual substance possessed so long as the defendant knew it was a controlled substance, regardless of the relative severity of what he thought he possessed.
+- (c): "controlled substance offenses are strict liability crimes that require no proof whatsoever" — wrong because 21 U.S.C. § 841 expressly requires the defendant to "knowingly or intentionally" possess the substance.
+- (e): "creates a conclusive legal presumption" — wrong because no such conclusive legal presumption exists in federal controlled substances law, which still demands factual proof of the general-nature mens rea.
+
+Recommended fix: none
+-->

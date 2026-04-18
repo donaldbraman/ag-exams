@@ -1,0 +1,3 @@
+### Stem 2: The Botched Hit
+
+The pharmaceutical fentanyl hijacking went completely sideways and left a pedestrian dead in a police shootout. Dom is claiming he legally abandoned the robbery before anyone got hurt, and Leo says he had no idea there would be a gun or that drugs were in the car. Analyze Frankie's liability for supplying the car, evaluate Dom's attempt actus reus and abandonment defense, break down the felony murder exposure for the whole crew, assess Carmine's Pinkerton liability, and address Leo's drug possession charge.

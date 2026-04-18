@@ -1,0 +1,33 @@
+**Q1.** The government charges Carmine with violating RICO under 18 U.S.C. § 1962(c), alleging that Pinnacle Waste is a racketeering enterprise. Can a lawfully chartered corporation serve as a RICO enterprise under these facts?
+
+(a) Yes, because a legitimate corporation can constitute a RICO enterprise when its ordinary business structure is repurposed to facilitate racketeering activity. <!-- correct -->
+(b) Yes, because any business owned by a person who commits two or more predicate acts automatically becomes a RICO enterprise as a matter of law.
+(c) No, because an association-in-fact enterprise requires a wholly illicit purpose and cannot be formed using the infrastructure of a legitimate commercial operation.
+(d) No, because Pinnacle Waste's formal charter establishes it as a lawful entity, which categorically shields it from being designated a criminal enterprise.
+(e) No, because the government must prove that the corporation itself, rather than its individual officers, committed the predicate racketeering acts.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because under RICO, a legitimate corporation like Pinnacle Waste can serve as an enterprise when its ordinary business infrastructure is repurposed to conduct racketeering activity, such as laundering extortion proceeds. (b) is incorrect because an enterprise requires structural features (relationships, shared purpose), not just a single owner committing crimes. (c) is incorrect because courts consistently hold that lawful entities can serve as an enterprise. (d) is incorrect because a formal legal charter does not immunize an entity from being an enterprise. (e) is incorrect because the statute punishes the individuals who conduct the enterprise's affairs through racketeering, not just the corporate entity itself.
+
+**Tags:** chapters: [20], topics: [RICO, corporate-enterprise], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 20 (Insys Therapeutics Note; corporate-enterprise)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under 18 U.S.C. § 1961(4), the definition of a RICO enterprise explicitly includes any "corporation." The Supreme Court held in *United States v. Turkette* that both legitimate and illegitimate entities can serve as RICO enterprises. When a lawful corporation's ordinary structure is used by a defendant to conduct a pattern of racketeering activity, it perfectly fulfills the enterprise requirement of § 1962(c). Therefore, Pinnacle Waste can serve as the enterprise, making this option legally accurate.
+(b) Argument-for: A student could argue that RICO's broad remedial purpose effectively collapses the enterprise and pattern requirements when a business is utilized by a racketeer. If a person owns a business and commits a pattern of racketeering acts (two or more), the business inevitably provides the nexus for the crimes. Under this view, the statutory definition is automatically satisfied by the commission of the acts through the owner's legal entity. Thus, the business automatically becomes the enterprise as a matter of law without requiring further proof of structure.
+(c) Argument-for: A student might correctly recall that an association-in-fact enterprise requires an ongoing organization functioning as a continuing unit. They could argue that if Pinnacle Waste is a chartered, legitimate corporation, it cannot simultaneously be classified as a racketeering enterprise because legitimate commercial infrastructure cannot be the basis for an illicit enterprise. Under this reasoning, a true criminal enterprise requires a wholly illicit purpose distinct from lawful corporate operations.
+(d) Argument-for: A student could argue that a lawful corporate charter inherently contradicts the concept of a "racketeering enterprise" under state and federal law. Because state law grants corporations their existence for lawful purposes, the corporate form is categorically shielded from being defined entirely as a criminal enterprise. Under this theory, while individuals within the corporation can be prosecuted, the legally chartered entity itself retains its lawful status and cannot be weaponized as the "enterprise" element.
+(e) Argument-for: A student might confuse the distinct roles of the "person" and the "enterprise" in § 1962(c) jurisprudence. Because § 1962(c) requires a culpable "person" who conducts the enterprise's affairs, a student could assume that to implicate the corporation in the RICO framework, the government must prove the corporation itself is directly liable for the predicate acts under corporate criminal liability doctrines (like respondeat superior). If only individual officers committed the acts, the student might conclude the corporate entity is shielded from being the enterprise.
+
+Head-to-head: Option (a) is the only legally sound choice because § 1961(4) explicitly lists corporations as potential enterprises, and *Turkette* confirms that legitimate entities can serve this role. Option (b) fails because an enterprise requires proof of an entity distinct from the mere commission of predicate acts; it does not "automatically" become an enterprise simply because crimes occurred. Option (c) fails because *Turkette* explicitly rejected the idea that an enterprise requires a "wholly illicit purpose." Option (d) fails because a formal charter does not "categorically shield" an entity; § 1961(4) expressly includes chartered corporations. Option (e) fails because under § 1962(c), the "enterprise" is the passive instrument or victim, and the government need not prove that the corporation itself committed the predicate acts; rather, the "person" (Carmine) must commit them.
+
+Falsifiable claim per distractor:
+- (b): "automatically becomes a RICO enterprise as a matter of law" — wrong because the existence of an enterprise is an element that must be proven separately from the pattern of racketeering activity, requiring a distinct structure.
+- (c): "requires a wholly illicit purpose" — wrong because the Supreme Court in *Turkette* held that a RICO enterprise can be a legitimate entity and does not require an exclusively illicit purpose.
+- (d): "categorically shields it from being designated a criminal enterprise" — wrong because 18 U.S.C. § 1961(4) explicitly defines "enterprise" to include any lawful corporation.
+- (e): "must prove that the corporation itself... committed the predicate racketeering acts" — wrong because under § 1962(c), the defendant "person" commits the acts to conduct the enterprise's affairs; the enterprise itself is not required to commit the crimes.
+
+Recommended fix: none
+-->

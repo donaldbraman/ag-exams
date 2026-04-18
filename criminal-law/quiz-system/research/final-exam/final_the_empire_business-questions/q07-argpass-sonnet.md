@@ -1,0 +1,33 @@
+**Q7.** Assume Dominic is convicted of the fentanyl offense. At sentencing, the government argues that a weight-based mandatory minimum under 21 U.S.C. § 841(b) applies due to the 2 kilograms of fentanyl. Does the mandatory minimum apply?
+
+(a) Yes, because federal mandatory minimums are triggered by the weight of the drug alone, regardless of the defendant's knowledge of the specific substance. <!-- correct -->
+(b) Yes, because the government proved beyond a reasonable doubt that Dominic purposely intended to distribute the specific 2-kilogram quantity of fentanyl.
+(c) No, because applying a fentanyl mandatory minimum to a defendant who believed he possessed heroin violates the Due Process Clause's fair notice requirement.
+(d) No, because mandatory minimums only apply if the prosecution proves the defendant knew both the precise weight and chemical makeup of the drugs involved.
+(e) No, because the Fair Sentencing Act of 2010 eliminated weight-based mandatory minimums for all substances other than crack cocaine and methamphetamine.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because under 21 U.S.C. § 841(b), federal mandatory minimums are triggered entirely by the actual weight of the drugs involved. No proof of intent regarding the specific substance or quantity is required to activate the enhancement. (b) is incorrect because the government does not need to prove intent or knowledge regarding the specific weight. (c) is incorrect because courts have consistently upheld weight-based mandatory minimums against Due Process challenges even when defendants are mistaken about the substance. (d) is incorrect because the sentencing floor relies solely on objective weight, not the defendant's subjective knowledge. (e) is incorrect because the Fair Sentencing Act adjusted the crack-powder ratio but did not eliminate weight-based mandatory minimums for fentanyl or other substances.
+
+**Tags:** chapters: [15], topics: [mandatory-minimums, sentencing, drug-weight], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 15 (Quantity as Proxy; Federal Mandatory Minimums)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under 21 U.S.C. § 841, a defendant must knowingly possess a controlled substance with intent to distribute. However, federal case law establishes that the specific type and quantity of the drug are strict liability elements for sentencing purposes. Once the baseline mens rea is met, mandatory minimums are triggered objectively by the actual substance and weight involved. Therefore, Dominic is subject to the fentanyl minimum regardless of his specific knowledge, making this option legally accurate.
+(b) Argument-for: Under *Alleyne v. United States*, any fact that increases the mandatory minimum sentence is an element that must be proved to a jury beyond a reasonable doubt. A student could argue that for the mandatory minimum to apply, the government must have proved the drug type and weight elements beyond a reasonable doubt at trial. Option (b) suggests the mandatory minimum applies specifically because the prosecution met this heavy constitutional burden regarding Dominic's specific intent, framing it as the legally safest route to trigger the enhancement.
+(c) Argument-for: The Due Process Clause mandates that criminal defendants receive fair notice of the penalties their conduct may incur. Punishing Dominic with a severe fentanyl-based mandatory minimum when he subjectively believed he possessed heroin could be viewed as a grossly disproportionate penalty lacking mens rea. A student could rely on fundamental fairness and cases like *Lambert v. California* to argue that imposing strict liability on elements that drastically increase sentences violates due process.
+(d) Argument-for: The Supreme Court has recently emphasized the presumption of mens rea in criminal statutes, applying it to elements that aggravate penalties or establish jurisdiction (e.g., *Rehaif v. United States*). Since 21 U.S.C. § 841 requires a "knowing" violation, a student might reason that this knowledge requirement extends to all aggravating elements that increase the penalty, such as weight and chemical makeup. Thus, under modern statutory interpretation principles, the prosecution must prove Dominic's subjective knowledge of the precise substance.
+(e) Argument-for: The Fair Sentencing Act of 2010 was a landmark reform that aimed to reduce draconian federal drug sentences, most notably by slashing the crack-to-powder cocaine ratio. A student might broadly recall the narrative of federal sentencing reform and believe the Act eliminated rigid weight-based mandatory minimums for most drugs in favor of a discretionary Guidelines system. Under this historical assumption, option (e) captures the shift away from mandatory weight proxies.
+
+Head-to-head: Option (a) is the established rule: under § 841(b), drug type and quantity are strictly objective factors requiring no specific mens rea once the defendant knows they possess a controlled substance. Option (b) fails because it predicates the application of the minimum on the government proving specific intent regarding quantity, falsely asserting this as the legal standard. Option (c) fails because courts uniformly reject due process challenges to this strict liability penalty enhancement. Option (d) fails because it falsely asserts a legal rule requiring proof of subjective knowledge of weight and makeup, directly contradicting the strict liability standard. Option (e) fails factually, as the Fair Sentencing Act definitively did not eliminate weight-based minimums for fentanyl. All distractors present explicit, falsifiable errors.
+
+Falsifiable claim per distractor:
+- (b): "because the government proved beyond a reasonable doubt that Dominic purposely intended to distribute the specific 2-kilogram quantity" — wrong because the law requires no such proof of purposeful intent regarding quantity to trigger the mandatory minimum.
+- (c): "violates the Due Process Clause's fair notice requirement" — wrong because courts categorically uphold these strict liability enhancements against Due Process challenges.
+- (d): "mandatory minimums only apply if the prosecution proves the defendant knew both the precise weight and chemical makeup" — wrong because subjective knowledge of precise weight and chemical makeup is not legally required.
+- (e): "eliminated weight-based mandatory minimums for all substances other than crack cocaine and methamphetamine" — wrong because the FSA did not eliminate weight-based mandatory minimums for fentanyl and most other covered substances.
+
+Recommended fix: none
+-->
