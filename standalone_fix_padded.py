@@ -107,8 +107,8 @@ async def process_rewrite(sem, q_name, original_question, scenario_text, reasons
                     return q_name, original_question # fallback
 
 async def main():
-    qa_file = Path("qa_results_padded.md")
-    quiz_file = Path("quiz-5-padded-final.md")
+    qa_file = Path("qa_results_padded_final_v2.md")
+    quiz_file = Path("quiz-5-padded-final-fixed.md")
     out_path = "quiz-5-padded-final-fixed.md"
     
     qa_text = qa_file.read_text(encoding="utf-8")
