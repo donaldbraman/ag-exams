@@ -1,26 +1,27 @@
-**Q5.** (Moving to Thursday's events) Trey is charged as an accomplice to the stash house robbery. He argues he is not guilty because he only idled in the car, did not help Silas inside, and his actions were not a but-for cause of the robbery's success. Is Trey guilty as an accomplice?
+**Q5.** Assume George is guilty of attempted murder. The prosecution charges Felix with attempted murder under the Pinkerton doctrine.
 
-(a) No, because mere presence at the scene of a crime, even with prior knowledge, is insufficient to establish the actus reus of accomplice liability.
-(b) No, because his passive idling did not materially contribute to Silas's successful theft of the cocaine.
-(c) Yes, because his agreement to drive the getaway vehicle constitutes a substantial step toward the completion of the robbery.
-(d) Yes, because providing a getaway option, however minor, constitutes facilitation, and accomplice liability does not require but-for causation. <!-- correct -->
-(e) Yes, because under the naturally and probable consequences doctrine, all individuals present at a crime scene are strictly liable for the principal's offenses.
+(a) Guilty, because George's attempted murder was a foreseeable act committed by a coconspirator in furtherance of the ongoing turf defense conspiracy. <!-- correct -->
+(b) Guilty, because the Model Penal Code explicitly endorses Pinkerton liability for all foreseeable substantive acts committed by any coconspirators.
+(c) Not guilty, because Felix did not explicitly authorize George to shoot a rival, limiting his liability strictly to the agreed-upon warning shots.
+(d) Not guilty, because the target crime of attempted murder requires specific intent, which cannot be established vicariously through another conspirator's actions.
+(e) Not guilty, because Felix effectively withdrew from the conspiracy by turning his back and walking away before George left for 4th Street.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** The actus reus of accomplice liability is extremely low—any assistance or encouragement is sufficient, and it does not need to be a but-for cause of the crime's success. By agreeing to serve as the getaway driver and idling in the alley, Trey facilitated the robbery. (a) mischaracterizes Trey's role; he was a hired getaway driver, not a "merely present" bystander. (b) imposes a but-for causation requirement that does not exist in complicity doctrine. (c) analyzes the problem under attempt doctrine (substantial step) rather than accomplice liability. (e) drastically overstates the natural and probable consequences doctrine, which is not a strict liability rule for bystanders.
+**Explanation:** Under Pinkerton, a conspirator is vicariously liable for the substantive offenses of coconspirators committed in furtherance of the ongoing conspiracy, provided they are reasonably foreseeable. Attempted murder of a rival is highly foreseeable in an armed "turf defense" conspiracy. (b) is wrong because the MPC explicitly rejects Pinkerton liability. (c) is wrong because Pinkerton liability extends to foreseeable acts, not just explicitly authorized ones. (d) is wrong because Pinkerton specifically allows vicarious liability even for specific intent crimes. (e) is wrong because walking away is not an affirmative step communicating withdrawal to law enforcement or coconspirators.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, ar-low-threshold], difficulty: easy, cognitive: application
+**Tags:** chapters: [19], topics: [Pinkerton doctrine, vicarious liability, withdrawal], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 - Facilitation Without But-For Causation
+**Grounding:** Chapter 19 - Pinkerton Doctrine (Pinkerton v. United States)
 
-<!-- audit: MUST FIX
-check 1: pass
-check 2: Option (a) is highly defensible based strictly on the text provided. Because the stem omits the fact that Trey agreed to be the driver, a student could argue he was "merely present" idling in his car. 
-check 3: pass
-check 4: The stem lacks the facts necessary to reach the correct answer. It only states Trey's defense argument ("he only idled in the car"), but never actually states that he agreed to act as the getaway driver or possessed the mens rea to facilitate the robbery. The explanation relies on him being a "hired getaway driver," but this crucial fact is missing from the stem. Even if this is established in a master fact pattern, failing to remind the student of his role makes the standalone question unanswerable.
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Insert the missing agreement into the stem. Change the first sentence to: "Trey, who agreed to act as the getaway driver, is charged as an accomplice to the stash house robbery."
+<!-- audit: SHOULD FIX
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: fail (The stem relies entirely on facts from a missing macro fact pattern, referencing a "turf defense conspiracy," "agreed-upon warning shots," "4th Street," and Felix "walking away." It cannot be answered as a standalone question without these facts.)
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: Integrate the necessary facts into the stem, or ensure this question is explicitly grouped with its macro fact pattern in the final exam format.
 -->

@@ -1,0 +1,27 @@
+**Q18.** Assume Felix is charged with the stash house robbery. Compare his liability under the traditional Pinkerton doctrine versus the Model Penal Code (MPC).
+
+(a) He is likely guilty under Pinkerton due to the robbery's foreseeability, but not guilty under the MPC because he did not aid with purpose. <!-- correct -->
+(b) He is guilty under both standards, because his formal role as crew chief creates strict vicarious liability for all subordinate criminal activities.
+(c) He is not guilty under either standard, because Ian and Helen independently devised the stash house raid without Felix's explicit prior authorization.
+(d) He is not guilty under Pinkerton because the raid was a separate conspiracy, but guilty under the MPC because he funded the turf defense.
+(e) He is likely guilty under Pinkerton due to the robbery's foreseeability, and guilty under the MPC because the MPC formally retains the Pinkerton doctrine.
+
+**Answer:** (a)
+
+**Explanation:** Under Pinkerton, a conspirator is vicariously liable for the foreseeable crimes of coconspirators committed in furtherance of the conspiracy. The MPC rejects this, requiring proof that the defendant aided the specific crime with the purpose to promote it. (b) is wrong because vicarious liability requires an ongoing conspiracy and foreseeability, not just a formal title like "crew chief." (c) is wrong because Pinkerton covers foreseeable independent planning by coconspirators in furtherance of the goal. (d) is wrong because funding the general turf defense does not constitute purposive aiding of the uncommunicated stash house raid under the MPC. (e) is wrong because the MPC explicitly rejects the Pinkerton doctrine.
+
+**Tags:** chapters: [19], topics: [Pinkerton doctrine, Model Penal Code, vicarious liability], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 19 - Pinkerton Doctrine vs. MPC Rejection of Pinkerton
+
+<!-- audit: MUST FIX
+<check 1>: pass
+<check 2>: pass
+<check 3>: pass
+<check 4>: Fail. The stem is completely missing the underlying fact pattern. It references Felix, Ian, Helen, a "stash house raid", a "turf defense", and Felix's role as a "crew chief" without any context. As a standalone question, it is completely unanswerable.
+<check 5>: pass
+<check 6>: pass
+<check 7>: pass
+<check 8>: pass
+Recommended fix: Prepend the shared/relevant fact pattern into the stem so students have the facts necessary to determine foreseeability under Pinkerton and lack of purpose under the MPC.
+-->

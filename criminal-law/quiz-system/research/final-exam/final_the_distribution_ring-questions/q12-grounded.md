@@ -1,5 +1,17 @@
-<!-- grounding: GROUNDING-FAIL -->
+**Q12.** Assume Helen is charged as an accomplice to the completed stash house robbery. She asserts a withdrawal defense based on her actions after hearing the gunshot.
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) The defense will fail, because withdrawal requires affirmative steps to defeat the crime before it is completed, not merely fleeing afterward. <!-- correct -->
+(b) The defense will fail, because a valid withdrawal from accomplice liability requires the defendant to physically prevent the principal from escaping.
+(c) The defense will succeed, because her verbal declaration out loud effectively communicated her complete withdrawal to the principal in the house.
+(d) The defense will succeed, because running from the corner severed her physical presence and neutralized the impact of her prior assistance.
+(e) The defense will succeed, because she abandoned the criminal effort and left the scene before the police arrived to investigate the shooting.
 
-Error: Model returned empty or blocked response.
+**Answer:** (a)
+
+**Explanation:** To successfully withdraw from complicity or conspiracy, a defendant must take affirmative steps to disavow the crime and neutralize their prior assistance before the crime is completed. Helen only ran away and yelled to herself after the fatal shot was fired. (b) is wrong because the law requires communicating the withdrawal or notifying police, not necessarily physically restraining the principal. (c) is wrong because yelling to herself did not effectively communicate her withdrawal to Ian. (d) is wrong because fleeing does not neutralize the fact that she had already successfully acted as a lookout. (e) is wrong because the crime of homicide was already completed when she abandoned the effort.
+
+**Tags:** chapters: [18, 19], topics: [withdrawal defense, abandonment], difficulty: medium, cognitive: application
+
+**Grounding:** Chapters 18 & 19 - Withdrawal Requirements
+
+<!-- GROUNDING-FAIL: withdrawal defense is not in any chapter map. The closest taught doctrines are: none. Correct answer must rely on one of those instead. -->

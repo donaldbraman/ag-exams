@@ -1,0 +1,17 @@
+**Q17.** Assume Helen is charged with the guard's murder. Compare her liability under the traditional NPC doctrine versus modern NPC reform (like SB 1437).
+
+(a) She is likely guilty under traditional NPC based on foreseeability, but not guilty under modern reform unless she acted with reckless indifference. <!-- correct -->
+(b) She is guilty under both standards, because acting as a lookout is inherently dangerous and satisfies the foreseeability requirement of both rules.
+(c) She is not guilty under either standard, because she only agreed to a robbery with a baseball bat and the firearm escalation was unforeseeable.
+(d) She is not guilty under traditional NPC because she lacked malice, but guilty under modern reform because she successfully facilitated the predicate felony.
+(e) She is likely guilty under traditional NPC based on foreseeability, and guilty under modern reform because the reform explicitly targets armed robbery lookouts.
+
+**Answer:** (a)
+
+**Explanation:** The traditional NPC doctrine holds accomplices liable for foreseeable crimes (like a shooting during a stash house raid). Modern reform (SB 1437) eliminated foreseeability-based murder liability, requiring the accomplice to be a major participant acting with reckless indifference to human life. (b) is wrong because modern reform rejects foreseeability as sufficient. (c) is wrong because a jury could find a shooting foreseeable during an armed cartel robbery under traditional NPC. (d) is wrong because traditional NPC does not require personal malice, and modern reform requires more than mere successful facilitation of the predicate felony. (e) is wrong because modern reform protects peripheral actors like lookouts rather than explicitly targeting them.
+
+**Tags:** chapters: [18], topics: [natural and probable consequences, NPC reform, SB 1437], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 18 - Natural and Probable Consequences Doctrine and Reform
+
+<!-- GROUNDING-FAIL: Natural and Probable Consequences / SB 1437 is not in any chapter map. The closest taught doctrines are: None (meta-map missing). Correct answer must rely on one of those instead. -->

@@ -1,5 +1,17 @@
-<!-- grounding: GROUNDING-FAIL -->
+**Q3.** Assume George committed attempted murder. The prosecution charges Felix as an accomplice to attempted murder.
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) Not guilty, because Felix's shrug and walking away do not establish that he acted with the purpose to promote or facilitate a killing. <!-- correct -->
+(b) Guilty, because Felix provided the loaded handgun to George with the knowledge that George intended to put someone in the ground.
+(c) Guilty, because Felix's initial instruction to fire into the air made him strictly liable for any subsequent lethal escalation by George.
+(d) Not guilty, because Felix was not physically present at the scene when George cruised the blocks looking for a rival to shoot.
+(e) Not guilty, because an accomplice must possess advance knowledge of a weapon before the crime commences, which Felix lacked here.
 
-Error: Model returned empty or blocked response.
+**Answer:** (a)
+
+**Explanation:** Accomplice liability requires the purpose to promote or facilitate the offense. Felix's shrug after George announced his intent to kill does not establish a purposive stake in the murder; his stated purpose was only to scare lookouts. (b) is wrong because mere knowledge of George's intent is insufficient for complicity under the Gladstone standard. (c) is wrong because complicity does not impose strict liability for a principal's escalation absent natural and probable consequences. (d) is wrong because physical presence is not required to be an accomplice. (e) is wrong because Felix actually supplied the weapon, making advance knowledge irrelevant here.
+
+**Tags:** chapters: [18], topics: [accomplice mens rea, purpose vs knowledge], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 18 - Purpose vs. Knowledge (State v. Gladstone)
+
+<!-- GROUNDING-FAIL: purpose vs knowledge is not in any chapter map. The closest taught doctrines are: none found (meta-map artifact is missing). Correct answer must rely on one of those instead. -->

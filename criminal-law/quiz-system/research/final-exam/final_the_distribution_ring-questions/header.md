@@ -1,10 +1,23 @@
-# Scenario: The Pit
+# Scenario: Turf War
 
-1. Marcus operated a drug distribution ring called "The Pit." He assigned set shifts to subordinates who were paid a flat weekly percentage of their sales, and he maintained a ledger tracking inventory and revenues.
-2. On Tuesday, a rival dealer named Vance began sending sellers to the edges of the complex. Marcus called a meeting with his subordinates, Darius and Trey. Pacing the room, Marcus ordered: "Vance's crew is moving on our corners. Keep them out of the Court by any means necessary. Beat them down if you have to." Without a word, Darius and Trey turned and took up coordinated watch positions on opposite sides of the courtyard.
-3. Later that night, Darius spotted a dark silhouette in a parked car that he believed to be one of Vance's enforcers. He drew a concealed handgun and crept toward the vehicle, intending to kill the occupant.
-4. When Darius was twenty feet away from the car, a passing patrol officer spotted the weapon, tackled, and disarmed him. Investigators subsequently determined the "silhouette" was merely a pile of dark trash bags.
-5. On Thursday, Marcus recruited a new associate, Silas, to rob Vance's stash house. Marcus told Trey to act as the getaway driver, offering him $500 to "just idle in the alley no matter what you hear. Silas will sneak in and grab the bags while Vance's guard is asleep." Out of Trey's line of sight, Marcus handed Silas a loaded handgun.
-6. Inside, Silas was immediately confronted by the stash house guard, Dexter, who lunged at Silas with a raised machete. Silas drew the concealed handgun, fatally shot Dexter in the chest, grabbed a duffel bag of cocaine, and sprinted back out the door.
-7. As Silas sprinted down the alley toward Trey's idling car, he pointed the gun backward over his shoulder without turning his head or aiming at any specific target. He squeezed the trigger once, firing into the dark street. The bullet struck a passing pedestrian in the shoulder.
-8. On Friday, police executed a search warrant at Marcus's apartment, arresting him. On Marcus's nightstand, officers found a single brass key. The key unlocked a heavy, unmarked floor safe located in the apartment building's communal, unlocked basement, which contained 500 grams of packaged cocaine and the operation's ledger.
+### Facts
+
+1. Investigators established that Felix had exclusive control of a key to a central courtyard vault that contained bulk quantities of fentanyl, a digital scale, and hundreds of empty glassine envelopes.
+2. Facing armed encroachment from a rival crew, Felix called a meeting with George, Helen, and Ian. Felix placed $1,500 on the table and stated, "We defend this turf against the rivals by any means necessary. Nobody sells here but us."
+3. George, Helen, and Ian all nodded silently, each taking $500 from the table to seal the arrangement.
+4. Felix handed George a loaded 9mm handgun, instructing him: "Go to 4th Street and fire into the air to scare their lookouts away." George replied, "I'll do more than scare them. I'm going to put one of them in the ground." Felix shrugged, turned his back, and walked away.
+5. George drove toward 4th Street, slowly cruising the blocks to locate a rival lookout to shoot. While he was still three blocks away and had not yet spotted anyone, police pulled him over for a broken taillight. Officers saw the loaded 9mm on the passenger seat and arrested him.
+6. The following evening, Ian proposed to Helen that they raid the rival crew's stash house. Ian stated, "I'm only bringing this baseball bat to smash their equipment and grab the cash." Helen agreed to act as a lookout.
+7. Helen stood on the corner and texted Ian when the street was clear, successfully facilitating Ian's entry into the stash house.
+8. Inside the stash house, Ian was confronted by a rival guard who drew a weapon. Ian immediately dropped the bat, drew a concealed handgun that he had secretly brought without Helen's knowledge, and shot the guard dead before the guard could fire.
+9. Hearing the gunshot, Helen ran from the corner, yelling to herself, "I'm completely out of this!"
+10. Ten minutes later, Ian knocked on Helen's apartment door asking to hide from the police. Helen let him in and gave him a change of clothes.
+11. Felix was asleep in his apartment during the stash house robbery. He had neither authorized nor been informed of Ian and Helen's specific plan to raid the stash house.
+
+### Stem 1: The Turf Defense
+
+Review the investigation file regarding the turf agreement and George's arrest. Evaluate the initial conspiracy, George's attempt liability, and what charges we can bring against Felix for George's actions.
+
+### Stem 2: The Stash House Raid
+
+The situation escalated the next night with the stash house raid. Evaluate Ian's liability for the homicide, Helen's liability as a lookout, and whether Felix is on the hook for this new development under vicarious liability theories.

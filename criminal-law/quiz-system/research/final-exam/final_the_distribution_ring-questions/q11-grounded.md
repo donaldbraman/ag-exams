@@ -1,17 +1,17 @@
-**Q11.** Assume Marcus is charged with possession of the 500 grams of cocaine found in the basement safe. Does the evidence establish constructive possession?
+**Q11.** The jurisdiction has enacted modern NPC reform identical to California's SB 1437. The prosecution charges Helen with murder.
 
-(a) Yes, because the presence of the key on his nightstand and his operation's ledger in the safe demonstrates both his awareness of the drugs and his intent and ability to exercise control over them. <!-- correct -->
-(b) Yes, because as the leader of the drug ring, Marcus is strictly liable for any narcotics found within the physical boundaries of his residence.
-(c) No, because the safe was located in a communal, unlocked basement, defeating the requirement of exclusive control.
-(d) No, because Marcus was arrested in his apartment, meaning the drugs in the basement were not within his immediate grab area.
-(e) No, because finding a key on a nightstand is mere circumstantial evidence, which is insufficient to prove the required mens rea for drug possession.
+(a) Not guilty of murder, unless the jury finds she was a major participant in the felony who acted with reckless indifference to human life. <!-- correct -->
+(b) Not guilty of murder, because the reform entirely abolished all forms of felony murder and accomplice liability for homicide in the jurisdiction.
+(c) Guilty of murder, because the reform merely requires that the underlying felony of robbery be inherently dangerous to human life.
+(d) Guilty of murder, because acting as a lookout and sending a text message constitutes per se reckless indifference to human life.
+(e) Not guilty of murder, because the reform requires the prosecution to prove she specifically intended for the rival guard to die.
 
 **Answer:** (a)
 
-**Explanation:** Constructive possession requires proof that the defendant had knowledge of the contraband and the intent and ability to exercise dominion and control over it. Marcus's possession of the sole key on his nightstand and the presence of his personal ledger inside the safe strongly establish his control, despite the safe's location in a communal area. (b) invents a strict liability rule for drug ring leaders. (c) is incorrect because exclusive physical control of the premises is not required if other evidence establishes individual dominion. (d) describes actual physical possession, not constructive possession. (e) is wrong because circumstantial evidence is routinely sufficient to prove mens rea.
+**Explanation:** Under modern NPC reform like California's SB 1437, an accomplice can no longer be convicted of murder based solely on foreseeability. They must personally act with malice or be a major participant who acts with reckless indifference to human life. (b) is wrong because the reform did not abolish all felony murder; it preserved liability for major participants acting with reckless indifference. (c) is wrong because the reform requires an individual assessment of the defendant's participation and mindset, not just the nature of the felony. (d) is wrong because being a peripheral lookout does not constitute per se reckless indifference. (e) is wrong because specific intent to kill is not strictly required if the major participant/reckless indifference test is met.
 
-**Tags:** chapters: [15], topics: [drugs-and-guns, cp-awareness-control, cp-exclusive-control], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [natural and probable consequences reform, SB 1437, felony murder], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 15 - Constructive Possession: Awareness and Control
+**Grounding:** Chapter 18 - NPC Reform (People v. Gentile; California SB 1437)
 
-<!-- grounding: GROUNDED — Constructive Possession, Ch 15, Refinement `cp-awareness-control`. Rule paraphrased accurately. -->
+<!-- GROUNDING-FAIL: NPC reform / SB 1437 is not in any chapter map. The closest taught doctrines are: none (meta-map and focus maps are missing from the prompt context). Correct answer must rely on one of those instead. -->

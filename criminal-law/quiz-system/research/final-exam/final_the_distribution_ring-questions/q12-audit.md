@@ -1,26 +1,27 @@
-Assume the prosecution charges Marcus, Darius, Trey, and Silas with a single, overarching conspiracy encompassing both the turf defense and the stash house robbery. Silas objects, arguing that he was hired strictly for the robbery and had no knowledge of or agreement regarding Darius's earlier turf defense. How should the court rule on the structure of the conspiracy?
+**Q12.** Assume Helen is charged as an accomplice to the completed stash house robbery. She asserts a withdrawal defense based on her actions after hearing the gunshot.
 
-(a) There is a single conspiracy because Marcus served as the central hub connecting all the participants.
-(b) There is a single conspiracy because Silas's robbery and Darius's turf defense both ultimately benefited the same criminal enterprise.
-(c) There are multiple conspiracies because Silas and Darius had no knowledge of each other and no shared purpose, creating a "wheel without a rim." <!-- correct -->
-(d) There are multiple conspiracies because the Wharton's Rule bar applies when multiple defendants participate in crimes with different objectives.
-(e) There are multiple conspiracies because conspiracy doctrine requires all participants to meet face-to-face to establish a single agreement.
+(a) The defense will fail, because withdrawal requires affirmative steps to defeat the crime before it is completed, not merely fleeing afterward. <!-- correct -->
+(b) The defense will fail, because a valid withdrawal from accomplice liability requires the defendant to physically prevent the principal from escaping.
+(c) The defense will succeed, because her verbal declaration out loud effectively communicated her complete withdrawal to the principal in the house.
+(d) The defense will succeed, because running from the corner severed her physical presence and neutralized the impact of her prior assistance.
+(e) The defense will succeed, because she abandoned the criminal effort and left the scene before the police arrived to investigate the shooting.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Under Kotteakos v. United States, when a central figure (Marcus) deals separately with different groups who have no knowledge of each other and no overarching shared purpose, the structure is a "wheel without a rim," resulting in multiple separate conspiracies. Silas had no connection to Darius's turf defense. (a) is incorrect because a hub is insufficient without a "rim" of shared purpose connecting the spokes. (b) describes a general common benefit but fails the strict shared purpose requirement. (d) misapplies Wharton's Rule, which applies to inherently bilateral crimes like dueling. (e) is factually incorrect, as conspirators do not need to meet face-to-face.
+**Explanation:** To successfully withdraw from complicity or conspiracy, a defendant must take affirmative steps to disavow the crime and neutralize their prior assistance before the crime is completed. Helen only ran away and yelled to herself after the fatal shot was fired. (b) is wrong because the law requires communicating the withdrawal or notifying police, not necessarily physically restraining the principal. (c) is wrong because yelling to herself did not effectively communicate her withdrawal to Ian. (d) is wrong because fleeing does not neutralize the fact that she had already successfully acted as a lookout. (e) is wrong because the crime of homicide was already completed when she abandoned the effort.
 
-**Tags:** chapters: [19], topics: [conspiracy, kotteakos-wheel, scope-procedural-stakes], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [18, 19], topics: [withdrawal defense, abandonment], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - Wheel Conspiracy Without a Rim
+**Grounding:** Chapters 18 & 19 - Withdrawal Requirements
 
-<!-- audit: SHOULD FIX
-check 1: pass (assuming the court treats Silas's argument as proven fact, (c) correctly applies Kotteakos).
-check 2: pass
-check 3: pass
-check 4: finding (The stem is clearly severed from a larger fact pattern. It references "the turf defense," "the stash house robbery," and a cast of characters without defining their roles or establishing Marcus as the central hub. Additionally, stating that Silas is merely "arguing" he had no knowledge leaves it ambiguous whether the court must treat this as established fact).
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Make the stem self-contained and stipulate the facts. Example: "Marcus organized two separate criminal operations: a turf defense involving Darius and Trey, and a stash house robbery involving Silas. The prosecution charges all four with a single, overarching conspiracy. Silas moves to dismiss the overarching charge, and it is undisputed that he was hired strictly for the robbery and had no knowledge of or shared purpose regarding the turf defense. How should the court rule on the structure of the conspiracy?"
+<!-- audit: MUST FIX
+Check 1: correct-answer accuracy fails. Option (a) claims withdrawal requires affirmative steps to "defeat the crime." This overstates the law. An accomplice must neutralize their prior assistance, communicate withdrawal, or notify authorities, but they are not required to successfully "defeat" the crime (the principal may still complete the crime despite a valid withdrawal). A prepared student would rule out (a) based on this doctrinal error.
+Check 2: pass. The distractors are factually or legally incorrect (e.g., relying on post-crime actions).
+Check 3: explanation consistency fails. The explanation accurately states that a defendant must "neutralize their prior assistance," which directly contradicts option (a)'s far broader "defeat the crime" formulation.
+Check 4: pass (assuming this question relies on a shared master fact pattern; otherwise, the stem lacks the specific facts of her fleeing and yelling).
+Check 5: pass. Both the Model Penal Code and Common Law require withdrawal actions to occur before the crime is committed. 
+Check 6: pass. No excluded-topic bleed.
+Check 7: pass. Withdrawal from complicity/conspiracy is appropriately mapped.
+Check 8: pass. Options exhibit structural and length parity.
+Recommended fix: Change option (a) to: "The defense will fail, because withdrawal requires affirmative steps to neutralize prior assistance or communicate withdrawal before the crime is completed, not merely fleeing afterward."
 -->

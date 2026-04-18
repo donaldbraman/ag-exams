@@ -2,11 +2,11 @@
 
 We just opened a grand jury investigation into Apex Freight. Review the FBI's initial surveillance file. I need a memo evaluating the core structure of this enterprise, Thorne's liability for the distribution ring, and Locke's exposure for the drugs and his service weapon.
 
-**Q1.** The government intends to indict Vance for a RICO violation, alleging that Apex Freight constitutes an "enterprise." Vance files a pre-trial motion to dismiss, arguing that Apex is a formally chartered, legitimate corporation with genuine legal operations, and therefore cannot be characterized as a criminal enterprise. How should the court rule?
+**Q1.** Vance's attorney files a pre-trial motion to dismiss the RICO indictment. The defense introduces Apex Freight's active state incorporation charter, its annual federal tax returns, and its perfectly clean safety record for legitimate commercial shipments, arguing the company is a fully lawful business entity. How should the court rule on the motion to dismiss the enterprise element?
 
 (a) Grant the motion, because RICO was designed exclusively to target inherently criminal organizations rather than legally chartered corporate businesses.
 (b) Grant the motion, because Vance's use of the warehouse for drug distribution was a personal frolic completely distinct from the company's legal shipments.
-(c) Deny the motion, because a legitimate corporation can serve as a RICO enterprise when its ordinary business structure is repurposed for racketeering activity. <!-- correct -->
+(c) Deny the motion, because a legitimate corporation satisfies the enterprise element when its legal infrastructure, such as payroll and dispatch, is utilized to facilitate racketeering activity. <!-- correct -->
 (d) Deny the motion, because the existence of any illegal activity within a corporate facility automatically voids the corporation's legal charter under state law.
 (e) Deny the motion, because Vance, as the sole mastermind of the drug routing, forms an independent association-in-fact enterprise with himself under federal law.
 
@@ -38,13 +38,13 @@ We just opened a grand jury investigation into Apex Freight. Review the FBI's in
 
 ---
 
-**Q3.** Under the Model Penal Code, assume Thorne is additionally charged as an accomplice to Vance's substantive drug distribution. Thorne argues he cannot be convicted as an accomplice because he lacked the "purpose" to promote the crime, merely routing the crates while harboring personal disdain for the operation. How should the court rule on this defense?
+**Q3.** Under the Model Penal Code, assume Thorne is charged as an accomplice to Vance's substantive drug distribution. At trial, Thorne testifies: "I despise the drug trade. I only routed those specific crates because Vance paid me a 20% premium to keep my mouth shut, not because I wanted his cartel to succeed." If the jury believes his testimony, does it constitute a valid defense to accomplice liability?
 
-(a) Thorne is not guilty as an accomplice, because mere knowledge of the principal's criminal actions never establishes accomplice liability under any legal standard.
-(b) Thorne is not guilty as an accomplice, because his personal disdain for the drug trade proves his objective was exclusively to earn lawful compensation.
-(c) Thorne is guilty as an accomplice, because any employee who follows a supervisor's illegal orders is automatically strictly liable as a co-principal.
-(d) Thorne is guilty as an accomplice, because his twenty percent salary premium establishes a purposeful desire to facilitate the underlying drug distribution. <!-- correct -->
-(e) Thorne is guilty as an accomplice, because the MPC always equates mere physical presence at a facility with the purpose to assist the crime.
+(a) Yes, because a subjective feeling of disdain for the underlying crime completely negates the specific intent required to promote or facilitate the offense.
+(b) Yes, because his testimony establishes he merely possessed knowledge of the principal's actions, which never satisfies the standard for accomplice liability.
+(c) No, because any employee who physically executes a supervisor's illegal operational orders is held strictly liable as a co-principal.
+(d) No, because accepting the 20% premium gives him a direct financial stake in the venture, establishing the requisite purpose to facilitate the distribution regardless of his personal disdain. <!-- correct -->
+(e) No, because under the Model Penal Code, an employee's physical presence and routine administrative actions inherently establish the purpose to assist the crime.
 
 **Answer:** (d)
 
@@ -132,13 +132,13 @@ Local PD just forwarded us a homicide file that intersects with our Apex investi
 
 (a) No, because depraved heart murder strictly requires the prosecution to prove the defendant acted with the conscious purpose of killing a specific human being.
 (b) No, because firing a weapon strictly to scare attackers is a legally recognized mitigating circumstance that automatically reduces any resulting death to manslaughter.
-(c) Yes, because firing a high-powered rifle blindly into an occupied convenience store demonstrates a conscious disregard of a substantial and unjustifiable risk, showing extreme indifference to human life. <!-- correct -->
+(c) Yes, because firing a high-powered rifle blindly into an occupied convenience store demonstrates a conscious disregard of a substantial and unjustifiable risk of death to innocent bystanders, showing extreme indifference to human life. <!-- correct -->
 (d) No, because any crime involving firing a weapon automatically merges with homicide, precluding felony murder.
 (e) Yes, because the transferred intent doctrine perfectly transfers his intent to scare the hijackers into the specific intent to premeditate the clerk's murder.
 
 **Answer:** (c)
 
-**Explanation:** The jury may still convict him because depraved heart (extreme indifference) murder does not require the specific intent to kill. It requires recklessness (conscious disregard of a substantial and unjustifiable risk) under circumstances manifesting an extreme indifference to the value of human life. Firing a rifle blindly into an occupied store easily satisfies this standard. (a) is wrong because it incorrectly describes extreme indifference murder as requiring specific intent. (b) is wrong because "intending to scare" does not automatically mitigate extreme recklessness to manslaughter. (d) is wrong because the merger doctrine (which limits felony murder) is entirely irrelevant to barring a depraved heart charge, confusing two distinct theories of homicide. (e) is wrong because transferred intent applies when the defendant intends to kill person A but kills person B; Locke only intended to scare, so there is no intent to kill to transfer.
+**Explanation:** The jury may still convict him because depraved heart (extreme indifference) murder does not require the specific intent to kill. It requires recklessness (conscious disregard of a substantial and unjustifiable risk of death) under circumstances manifesting an extreme indifference to the value of human life. Firing a rifle blindly into an occupied store easily satisfies this standard. (a) is wrong because it incorrectly describes extreme indifference murder as requiring specific intent. (b) is wrong because "intending to scare" does not automatically mitigate extreme recklessness to manslaughter. (d) is wrong because the merger doctrine (which limits felony murder) is entirely irrelevant to barring a depraved heart charge, confusing two distinct theories of homicide. (e) is wrong because transferred intent applies when the defendant intends to kill person A but kills person B; Locke only intended to scare, so there is no intent to kill to transfer.
 
 **Tags:** chapters: [13], topics: [extreme indifference murder, unintentional homicide, depraved heart], difficulty: medium, cognitive: application
 
@@ -190,13 +190,13 @@ We executed a search warrant on the Apex warehouse last night. We found Locke's 
 
 ---
 
-**Q11.** The government uncovers Locke's aborted plan to rob the Apex safe. The prosecution charges Locke with attempted robbery. Under the Common Law dangerous proximity test versus the Model Penal Code (MPC) substantial step test, how would Locke's conduct (drawing a map and buying ski masks) likely be evaluated?
+**Q11.** Assume Locke had been arrested immediately after throwing his ski mask away, before he texted the crew. The prosecution charges him with attempted robbery. If the court evaluates his conduct (drawing the map and buying masks) by comparing the Common Law dangerous proximity test to the Model Penal Code (MPC) substantial step test, what is the most likely legal conclusion?
 
-(a) The conduct satisfies both tests, because purchasing any specialized equipment always satisfies both the proximity requirement and the substantial step requirement.
-(b) The conduct fails both tests, because drawing a map and buying masks are constitutionally protected acts that cannot be criminalized under any attempt standard.
-(c) The conduct satisfies the Common Law but not the MPC, because the Common Law focuses on the defendant's dangerousness while the MPC focuses on physical closeness.
-(d) The conduct satisfies the MPC but not the Common Law, because his acts strongly corroborate his intent under the MPC but are not dangerously proximate enough to commission of the crime. <!-- correct -->
-(e) The conduct satisfies the MPC but not the Common Law, because the MPC strictly eliminates the mens rea requirement for all inchoate property offenses.
+(a) The conduct satisfies the required actus reus under both tests, because purchasing specialized equipment for a felony inherently demonstrates dangerous proximity and a substantial step.
+(b) The conduct fails both tests, because drawing a map and buying clothing are legally neutral acts that cannot corroborate criminal intent under any standard.
+(c) The conduct satisfies the Common Law but not the MPC, because the Common Law focuses on the defendant's internal dangerousness while the MPC requires physical closeness to the target.
+(d) The conduct satisfies the MPC but not the Common Law, because his acts strongly corroborate his criminal purpose under the MPC but leave too many steps remaining to satisfy dangerous proximity. <!-- correct -->
+(e) The conduct satisfies the MPC but not the Common Law, because the MPC explicitly eliminates the specific intent requirement for property crimes once any overt act is committed.
 
 **Answer:** (d)
 
@@ -208,13 +208,13 @@ We executed a search warrant on the Apex warehouse last night. We found Locke's 
 
 ---
 
-**Q12.** Assume the jurisdiction applies the MPC. If Locke establishes he texted his crew "I'm out" and threw his ski mask away before the robbery occurred, will his affirmative defense of abandonment succeed?
+**Q12.** Assume the jurisdiction applies the Model Penal Code. At trial for attempted robbery, Locke's attorney introduces the text message ("I'm out. Too much police heat...") and testimony that Locke threw the ski mask in a dumpster to support an affirmative defense of abandonment. Will the defense succeed?
 
-(a) Yes, because texting "I'm out" and discarding his mask definitively proves he permanently and completely renounced his criminal purpose without external pressure.
-(b) Yes, because the MPC requires courts to dismiss any attempt charge if the defendant physically destroys the criminal instrumentalities before the police arrive.
-(c) No, because his withdrawal was motivated by a fear of police apprehension rather than a genuine, voluntary change of heart regarding the criminal endeavor. <!-- correct -->
-(d) No, because the abandonment defense is strictly unavailable for any crime involving an organized conspiracy or the participation of multiple co-defendants.
-(e) No, because under the MPC, any act that qualifies as a substantial step immediately triggers absolute liability, permanently barring any subsequent abandonment claims.
+(a) Yes, because texting his co-conspirators and discarding the instrumentality definitively proves he permanently and completely renounced the criminal purpose.
+(b) Yes, because the MPC strictly requires courts to dismiss an attempt charge if the defendant physically destroys the criminal instrumentalities before the police intervene.
+(c) No, because his withdrawal was motivated by an increased risk of apprehension rather than a genuine, voluntary change of heart. <!-- correct -->
+(d) No, because the abandonment defense is strictly unavailable for any crime involving the participation of multiple co-defendants.
+(e) No, because under the MPC, accumulating criminal instrumentalities crosses the substantial step threshold and imposes absolute liability, permanently barring any subsequent abandonment claims.
 
 **Answer:** (c)
 

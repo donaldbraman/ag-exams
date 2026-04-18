@@ -1,26 +1,27 @@
-**Q1.** Assume Marcus is charged with conspiracy to commit assault. He argues that no conspiracy formed because Darius and Trey never spoke or verbally agreed to his order. Is this a valid defense?
+**Q1.** Assume that, whether or not a conspiracy existed, it is established that the vault contained fentanyl. The prosecution charges Felix with possession of fentanyl with intent to distribute.
 
-(a) No, because an agreement can be inferred from their coordinated conduct of taking up watch positions immediately following Marcus's directive. <!-- correct -->
-(b) No, because under the unilateral approach, Marcus's solicitation alone is sufficient to establish a conspiracy regardless of his subordinates' reactions.
-(c) Yes, because conspiracy requires explicit mutual understanding and communication between all parties to the agreement.
-(d) Yes, because a mere employer-employee relationship does not constitute the shared criminal purpose required for conspiracy.
-(e) Yes, because mere presence at a meeting where a crime is proposed is insufficient to establish knowing adherence to the scheme.
+(a) Guilty, because his exclusive control of the key to the vault establishes the power and intent to exercise dominion over the narcotics. <!-- correct -->
+(b) Not guilty, because he was not physically holding or carrying the narcotics on his person when investigators located the stash.
+(c) Not guilty, because there is no direct evidence that he personally packaged or physically handled the specific glassine envelopes.
+(d) Guilty, because his mere presence in the same building as a vault containing narcotics is legally sufficient to establish constructive possession.
+(e) Guilty, because the discovery of a digital scale alongside the narcotics establishes a strict liability presumption of intent to distribute.
 
 **Answer:** (a)
 
-**Explanation:** Under the agreement inference doctrine, courts can infer an agreement from coordinated conduct that lacks a plausible innocent explanation. Here, Darius and Trey's immediate execution of Marcus's orders by taking up coordinated watch positions suffices to infer an agreement, even without verbal confirmation. (b) misstates the unilateral approach, which still requires the defendant to believe an agreement exists. (c) is legally false, as explicit communication is not required. (d) fails because an employer-employee relationship does not preclude forming a shared criminal purpose. (e) is a true rule that fails on these facts, as they actively participated by taking up positions.
+**Explanation:** Constructive possession requires the power and intent to exercise dominion or control over the contraband. Felix's exclusive control of the key to the vault establishes his power over the narcotics inside. (b) is wrong because physical possession is not required. (c) is wrong because handling the exact packaging is unnecessary when dominion over the stash is proven. (d) is wrong because mere presence without control is legally insufficient. (e) is wrong because a scale is circumstantial evidence of intent to distribute, not a strict liability trigger that waives the intent requirement.
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement-inference], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [constructive possession, actus reus], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 19 - Inferring Agreement from Coordinated Conduct
+**Grounding:** Chapter 15 - Constructive possession elements
 
 <!-- audit: MUST FIX
-check 1: pass
-check 2: FAIL. Because the stem omits what Darius and Trey actually did after the order, a well-prepared student could reasonably choose (e), assuming they merely listened and did nothing ("mere presence").
-check 3: pass
-check 4: FAIL. The stem completely omits the crucial facts (that Darius and Trey took up watch positions). Option (a) introduces these facts, making it impossible to answer based solely on the stem. If the subordinates just walked away, there is no conspiracy.
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Add the missing factual premise to the stem. Change it to: "Assume Marcus is charged with conspiracy to commit assault. After Marcus ordered Darius and Trey to stand guard, they immediately took up watch positions without speaking. Marcus later argues that no conspiracy formed because Darius and Trey never spoke or verbally agreed to his order. Is this a valid defense?"
+Check 1: fails. Option (A) concludes Felix is "Guilty" of "possession of fentanyl with intent to distribute," but its rationale only addresses the possession element. It completely ignores the "intent to distribute" element, meaning the reasoning is insufficient to fully support the verdict for the charged crime.
+Check 2: pass
+Check 3: fails. The explanation states that the key establishes "his power over the narcotics," but Option (A) asserts it establishes both "power and intent." A key establishes power (control), but intent to exercise dominion over the specific contraband usually requires knowledge of its presence, which the explanation glosses over.
+Check 4: fails. The question relies on a completely missing fact pattern. It references "Felix," "the vault," his "exclusive control of the key," and a "digital scale," none of which are established in the provided stem.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: (1) Provide the missing fact pattern in the stem. (2) Change the charged crime to simple "possession of fentanyl" OR modify Option (A) to also address the intent to distribute (e.g., "...and the digital scale establishes intent to distribute"). (3) Adjust Option (A) to clarify that his exclusive control of the key, combined with his knowledge of the contents, establishes constructive possession.
 -->

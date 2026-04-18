@@ -1,17 +1,17 @@
-**Q7.** Assume Trey is charged with the murder of Dexter. In a jurisdiction that has enacted strict natural and probable consequences (NPC) reform (such as California's SB 1437), is Trey guilty of murder?
+**Q7.** The prosecution charges Ian with murder for shooting the guard. Ian asserts a claim of self-defense.
 
-(a) Yes, because a fatal shootout is a natural and probable consequence of an armed stash house robbery.
-(b) Yes, because the felony-murder rule strictly imputes malice to all accomplices in a robbery regardless of their individual mental state.
-(c) No, because the reform requires that an accomplice personally act with malice or be a major participant acting with reckless indifference to human life, neither of which applies to Trey. <!-- correct -->
-(d) No, because Trey's status as an independent contractor explicitly shields him from liability under the inevitably incident exception.
-(e) No, because Dexter initiated the violence by lunging with a machete, which acts as a supervening cause severing Trey's liability.
+(a) Ian's self-defense claim will fail, because he was the initial aggressor actively committing a robbery when the guard drew a weapon. <!-- correct -->
+(b) Ian's self-defense claim will succeed, because the guard escalated the encounter by drawing a lethal weapon while Ian only held a bat.
+(c) Ian's self-defense claim will fail, because his use of a concealed handgun violates the proportionality requirement against a drawn weapon.
+(d) Ian's self-defense claim will succeed, because he dropped the baseball bat and shot only to prevent his own imminent death.
+(e) Ian's self-defense claim will fail, because the specific intent required for murder automatically negates any available justification or excuse defenses.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** NPC reform (like SB 1437) eliminated second-degree murder liability under the natural and probable consequences doctrine. To be convicted of murder, an accomplice must personally act with malice or be a major participant in the felony who acts with reckless indifference to human life. Trey, an idling driver unaware of the gun, is neither. (a) applies the traditional NPC rule, which the prompt specifies has been reformed. (b) ignores that NPC reform explicitly limits felony murder to major participants. (d) misapplies the inevitably incident exception (Gebardi), which shields necessary victims, not getaway drivers. (e) is incorrect because victim resistance does not sever causal chains.
+**Explanation:** A defendant cannot claim self-defense if they are the initial aggressor or are actively committing a forcible felony (like robbery) that provokes the defensive response. Ian's armed invasion of the stash house makes him the initial aggressor. (b) is wrong because the guard's lethal response to an armed robbery is legally justified, meaning it does not restore Ian's right to self-defense. (c) is wrong because the initial aggressor bar defeats the claim entirely, regardless of proportionality. (d) is wrong because dropping the bat does not constitute a valid withdrawal when he immediately draws a gun. (e) is wrong because a valid self-defense claim acts as a justification that negates criminal liability even for specific intent crimes.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, npc-reform-sb1437], difficulty: medium, cognitive: analysis
+**Tags:** chapters: [13, 14], topics: [self-defense, initial aggressor, robbery], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 - Reform Requiring Personal Malice
+**Grounding:** Chapters on Justification/Homicide - Initial aggressor limitation on self-defense
 
-<!-- grounding: GROUNDED — NPC Reform (SB 1437), Ch 18, Refinement `npc-reform-sb1437`. Rule paraphrased accurately. (Note: The Q successfully pulls in `ii-gebardi` for distractor D and intersects with Ch 14's `sb-1437-major-participant` logic). -->
+<!-- grounding: GROUNDED — initial aggressor, Ch 14, Refinement `initial-aggressor`. Rule paraphrased accurately. -->

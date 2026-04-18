@@ -1,37 +1,33 @@
-**Q6.** Assume that, whether or not Trey is guilty of the robbery, he is also charged under 18 U.S.C. § 924(c) as an accomplice to Silas's use of a firearm during the robbery. Under the federal standard established in Rosemond v. United States, can Trey be convicted of the firearm offense?
+**Q6.** The prosecution charges Helen as an accomplice to the stash house burglary.
 
-(a) Yes, because the use of a firearm is a reasonably foreseeable consequence of robbing a drug stash house.
-(b) Yes, because Trey continued to drive the getaway car after hearing the gunshot, ratifying Silas's use of the weapon.
-(c) No, because Marcus handed Silas the gun out of Trey's line of sight, meaning Trey lacked advance knowledge of the firearm while he still had a meaningful opportunity to withdraw. <!-- correct -->
-(d) No, because Trey did not physically possess the firearm or explicitly encourage Silas to use it against Dexter.
-(e) No, because an independent ride-share driver cannot share the specific felonious intent required for a drug trafficking offense.
+(a) Guilty, because her act of standing on the corner and texting Ian successfully facilitated his entry into the rival stash house. <!-- correct -->
+(b) Not guilty, because she did not personally enter the stash house or physically smash any of the rival crew's equipment inside.
+(c) Not guilty, because her text message merely facilitated a result that Ian would have eventually achieved anyway without her help.
+(d) Guilty, because her mere presence on the street corner near the crime scene is sufficient to establish the actus reus for complicity.
+(e) Guilty, because the natural and probable consequences doctrine dictates that a lookout is strictly liable for all offenses committed inside.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Under Rosemond, accomplice liability for a federal firearm offense requires advance knowledge that a confederate would use or carry a gun, at a time when the defendant had a "meaningful opportunity to walk away." Since Marcus handed Silas the gun out of Trey's sight, Trey lacked advance knowledge. (a) applies the state-level NPC foreseeability standard, which does not govern federal aiding and abetting. (b) fails because learning of the gun only as the crime concludes does not satisfy the temporal requirement. (d) states an actus reus requirement that is too strict; knowing facilitation is enough. (e) is factually and legally incorrect.
+**Explanation:** The actus reus for accomplice liability requires only that the defendant solicited, aided, or attempted to aid the principal. Helen's acting as a lookout and texting Ian successfully facilitated his entry, satisfying this low threshold. (b) is wrong because an accomplice need not personally commit the actus reus of the underlying crime. (c) is wrong because accomplice liability requires facilitation, not strict "but-for" causation. (d) is wrong because mere presence without encouragement or aid is legally insufficient. (e) is wrong because the natural and probable consequences doctrine is a liability extension for additional crimes, not the basis for the actus reus of the target crime itself.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, mr-temporal-advance-knowledge], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice actus reus, facilitation], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 18 - Advance Knowledge and Meaningful Opportunity to Withdraw
+**Grounding:** Chapter 18 - Actus Reus (Facilitation without but-for causation; State v. Tally)
 
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that under federal law, accomplices are often liable for the reasonably foreseeable acts of their confederates. Because firearms are commonly known as "tools of the trade" in stash house robberies, a student might reason that Trey’s participation inherently makes him liable for any foreseeable firearm use. This aligns with Pinkerton conspiracy liability, which students frequently confuse with aiding and abetting under Rosemond.
-(b) Argument-for: A student could argue that Trey formed the requisite intent when he chose to continue his participation by driving the getaway car after hearing the gunshot. Since Rosemond holds that continuing to participate after discovering a weapon can sometimes demonstrate intent, a student might incorrectly conclude that completing the escape constitutes a "ratification" of the firearm's use, satisfying the rule.
-(c) Argument-for: This accurately applies Rosemond v. United States. Under Rosemond, accomplice liability for a § 924(c) offense requires that the defendant had "advance knowledge" that a confederate would carry a gun, arriving at a time when the defendant still had a "meaningful opportunity to walk away." Because Trey did not see the gun and only heard the gunshot during the crime, he lacked the requisite advance knowledge and a meaningful opportunity to withdraw.
-(d) Argument-for: A student might argue that accomplice liability for a specific weapon enhancement requires an actus reus directed specifically at the weapon itself. Because Trey only drove the car and had no physical contact with the gun or verbal encouragement regarding its use, a student could conclude his acts merely facilitated the robbery, falling short of aiding the firearm offense. This appeals to students who wrongly think § 924(c) requires a direct nexus between the accomplice's physical actions and the firearm.
-(e) Argument-for: Assuming the fact pattern establishes Trey as a ride-share driver, a student could argue that his status as an independent contractor categorically precludes the requisite mens rea. A mere driver performing a service might be presumed to lack the "purposive attitude" required for accomplice liability. Therefore, a student might reason that employment status provides a legal shield against sharing the specific felonious intent.
+<!-- argument-pass: CLEAN
+(a) Argument-for: Accomplice liability requires that the defendant aid, abet, counsel, or encourage the principal in committing the crime. Helen stood on the corner and sent a text message that successfully facilitated Ian's entry into the stash house. This overt act of assistance easily satisfies the actus reus requirement for complicity. Therefore, she is guilty as an accomplice.
+(b) Argument-for: Criminal liability generally requires the defendant to commit the actus reus of the offense charged. Burglary requires breaking and entering. Because Helen remained on the street corner and never physically crossed the threshold of the stash house or participated in the internal destruction, one could argue she failed to commit the requisite physical acts. Thus, she should not be guilty of the substantive offense.
+(c) Argument-for: In many areas of criminal law, causation is a necessary element linking the defendant's conduct to the harm. If Helen's text message merely facilitated a result Ian would have achieved without her, her act was not a "but-for" cause of the burglary. A student could argue that without actual causation, her assistance was legally immaterial, rendering her not guilty.
+(d) Argument-for: While mere presence is often insufficient on its own, presence coupled with a prior agreement transforms into an act of encouragement. A student might mistakenly interpret her presence on the corner as inherently sufficient to establish complicity because lookouts are always present at the scene. Under this view, her presence alone establishes the actus reus.
+(e) Argument-for: The natural and probable consequences doctrine extends an accomplice's liability to other crimes committed by the principal. A student might reason that by agreeing to act as a lookout for a stash house burglary, Helen assumes the risk for anything that happens inside. Consequently, the doctrine would strictly apply to make her liable for all offenses committed during the underlying crime.
 
-Head-to-head: Option (c) is unambiguously the correct application of Rosemond, capturing both the "advance knowledge" and "meaningful opportunity to withdraw" elements. Option (a) incorrectly substitutes Pinkerton's "reasonable foreseeability" standard for Rosemond's actual knowledge standard. Option (b) fails because learning of a gun via a gunshot does not provide the meaningful opportunity to withdraw required by Rosemond. Option (d) invents a falsely strict actus reus requirement (physical possession/explicit encouragement). Option (e) relies on a categorical legal error regarding intent based on employment status. However, options (a), (b), and (d) lack absolute locking words, meaning their false legal claims are presented slightly implicitly rather than as explicit, unfailingly false categorizations.
+Head-to-head: Option (a) accurately applies black-letter accomplice liability law: a defendant who provides actual assistance (like being a lookout and texting) fulfills the actus reus requirement. Option (b) fails because an accomplice, by definition, does not need to personally commit the substantive offense's actus reus. Option (c) fails because established law (e.g., State v. Tally) explicitly rejects a "but-for" causation requirement for accomplice actus reus; facilitation is enough. Option (d) fails because it asserts "mere presence" is sufficient, directly contradicting the universal rule that mere presence without more is legally insufficient. Option (e) fails because the natural and probable consequences doctrine relies on foreseeability, not strict liability for "all offenses."
 
 Falsifiable claim per distractor:
-- (a): "because the use of a firearm is a reasonably foreseeable consequence" — wrong because Rosemond explicitly requires actual advance knowledge, not mere reasonable foreseeability, for aiding and abetting a § 924(c) offense.
-- (b): "ratifying Silas's use of the weapon" — wrong because Rosemond explicitly rejects ex-post ratification if the knowledge comes after the meaningful opportunity to walk away has passed.
-- (d): "because Trey did not physically possess the firearm or explicitly encourage Silas" — wrong because it incorrectly implies a legal rule that physical possession or explicit encouragement is strictly required.
-- (e): "cannot share the specific felonious intent" — wrong because an independent contractor absolutely can form criminal intent if they know of the crime and willingly facilitate it.
+- (b): "Not guilty, because she did not personally enter" — wrong because accomplice liability explicitly substitutes the accomplice's aiding conduct for the principal's physical commission of the crime's actus reus.
+- (c): "Not guilty, because [Ian would have eventually achieved it anyway]" — wrong because accomplice liability requires only facilitation or assistance, not but-for causation of the ultimate result.
+- (d): "mere presence... is sufficient" — wrong because mere presence without encouragement or a legal duty to act is categorically insufficient to establish the actus reus for accomplice liability.
+- (e): "strictly liable for all offenses" — wrong because the natural and probable consequences doctrine only extends liability to reasonably foreseeable crimes, not automatically to "all" offenses regardless of foreseeability.
 
-Recommended fix: Lock the false rules in the distractors with absolute words to ensure they are strictly falsifiable. 
-(a) Change to: "Yes, solely because the use of a firearm is a reasonably foreseeable consequence..."
-(b) Change to: "Yes, because continuing to drive a getaway car automatically ratifies..."
-(d) Change to: "No, because federal law categorically requires that an accomplice physically possess..."
-(e) Change to: "No, because an independent ride-share driver categorically cannot share..."
+Recommended fix: none
 -->

@@ -1,18 +1,18 @@
-**Q10.** Assume Marcus is charged under RICO. He argues that "The Pit" was not an enterprise because it lacked a formal hierarchical structure and merely consisted of individuals who occasionally sold drugs on the same corners. Under the Supreme Court's Boyle test, does "The Pit" qualify as an association-in-fact enterprise?
+**Q10.** The jurisdiction applies the traditional natural and probable consequences (NPC) doctrine. The prosecution charges Helen with murder.
 
-(a) Yes, because it had a purpose (selling drugs), relationships among those associated (Marcus assigning shifts to subordinates), and sufficient longevity to pursue its purpose. <!-- correct -->
-(b) Yes, because any conspiracy that successfully completes more than two predicate acts automatically constitutes a RICO enterprise.
-(c) No, because an association-in-fact enterprise must possess an ascertainable structure distinct from the pattern of racketeering activity itself.
-(d) No, because the subordinates were paid a flat percentage rather than sharing equally in the profits of the enterprise.
-(e) No, because the enterprise must be an ongoing legal entity, such as a corporation or registered business, that is corrupted by criminal acts.
+(a) Guilty, if a jury determines that a fatal shooting was a natural and foreseeable consequence of robbing an armed rival crew's stash house. <!-- correct -->
+(b) Guilty, because the traditional NPC doctrine holds accomplices strictly liable for all crimes committed by the principal, whether foreseeable or not.
+(c) Not guilty, because Helen only agreed to a robbery involving a baseball bat, and the use of a firearm was an unforeseeable escalation.
+(d) Not guilty, because Helen did not personally possess malice aforethought or the specific intent to cause the rival guard's death.
+(e) Not guilty, because her role as a lookout was inevitably incident to the commission of the underlying stash house burglary.
 
 **Answer:** (a)
 
-**Explanation:** Under the Supreme Court's Boyle test, an association-in-fact enterprise requires only three structural features: a shared purpose, relationships among the associates, and sufficient longevity to permit them to pursue the enterprise's purpose. "The Pit" meets this with its shifts, ledgers, and coordinated activities. (b) conflates the pattern of racketeering element with the enterprise element. (c) reflects the pre-Boyle circuit split, which required an ascertainable structure distinct from the racketeering activity. (d) misstates the law, as profit-sharing methods do not defeat enterprise status. (e) conflates legal enterprises (like corporations) with association-in-fact enterprises.
+**Explanation:** Under the traditional natural and probable consequences (NPC) doctrine, an accomplice to a target crime (robbery) is liable for any other crime (murder) committed by the principal that is a foreseeable consequence of the agreed-upon criminal activity. (b) is wrong because NPC requires foreseeability, not strict liability for unforeseeable acts. (c) is wrong because a jury could easily find that a gunfight is a foreseeable consequence of raiding a rival cartel's stash house, even if only a bat was planned. (d) is wrong because the NPC doctrine imputes liability based on foreseeability, circumventing the need for personal malice. (e) is wrong because the "inevitably incident" exception (Gebardi) applies to necessary victims shielded by statute, not lookouts.
 
-**Tags:** chapters: [20], topics: [rico, boyle-three-part], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [natural and probable consequences, traditional rule, foreseeability], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 20 - Boyle Three-Part Test
+**Grounding:** Chapter 18 - Natural and Probable Consequences Doctrine (People v. Luparello)
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

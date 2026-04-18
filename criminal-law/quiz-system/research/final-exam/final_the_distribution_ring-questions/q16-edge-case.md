@@ -1,0 +1,22 @@
+**Q16.** Assume it is established that Felix constructively possessed the fentanyl. The prosecution charges him with possession with intent to distribute.
+
+(a) Guilty, because the presence of bulk quantities, a digital scale, and empty glassine envelopes strongly corroborates the intent to distribute. <!-- correct -->
+(b) Not guilty, because he did not verbally confess to selling the drugs or engage in a direct hand-to-hand transaction with an undercover buyer.
+(c) Not guilty, because the digital scale and empty envelopes are equally consistent with the personal recreational use of bulk fentanyl.
+(d) Guilty, because constructive possession of any measurable amount of narcotics automatically triggers a mandatory commercial distribution enhancement.
+(e) Guilty, because the law strictly presumes that anyone who holds a key to a shared central courtyard vault operates as a drug distributor.
+
+**Answer:** (a)
+
+**Explanation:** Intent to distribute can be proven circumstantially. The presence of bulk quantities of fentanyl, a digital scale, and hundreds of empty glassine envelopes strongly corroborates the intent to package and distribute the drugs. (b) is wrong because direct evidence (confession or observed sale) is not required. (c) is wrong because bulk quantities combined with packaging materials (envelopes) and a scale are not equally consistent with mere personal use. (d) is wrong because constructive possession of any measurable amount does not automatically trigger a mandatory enhancement; intent must be proven. (e) is wrong because the law does not strictly presume commercial distribution solely from possessing a key to a courtyard vault.
+
+**Tags:** chapters: [15], topics: [intent to distribute, circumstantial evidence], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 15 - Proving Intent to Distribute
+
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: N/A
+-->

@@ -4,86 +4,102 @@ The QA pipeline flagged this question. Rewrite `q04.md` addressing each numbered
 
 ## Issue 1 — audit
 
-<!-- audit: MUST FIX -->
+**Q4.** George is charged with attempted murder. How would his conduct be analyzed under the common law dangerous proximity test versus the MPC substantial step test?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) He is guilty of attempt under both tests. Driving a vehicle with a loaded weapon is universally recognized as the dangerous commencement of any violent criminal offense.
+(b) He is not guilty of attempt under either test. Because he had not yet spotted a victim, completing the crime was factually impossible and therefore not punishable.
+(c) He is guilty under the proximity test but not the MPC. Being armed satisfies the proximity requirement, but the MPC requires a physical strike to corroborate his criminal intent.
+(d) He is guilty under the MPC but likely not under proximity. Searching for a victim is a substantial step, but being three blocks away is not dangerously near completion. <!-- correct -->
+(e) He is guilty under proximity but not under the MPC. Three blocks is a short physical distance, but the MPC categorically excludes any acts involving a motor vehicle.
 
-Error: Model returned empty or blocked response.
+**Answer:** (d)
+
+**Explanation:** Under the MPC substantial step test, searching for a victim while armed strongly corroborates criminal purpose and crosses the attempt threshold. Under the common law dangerous proximity test (*Rizzo*), cruising three blocks away without spotting a victim is merely preparatory and not dangerously near completion. (a) is wrong because driving with a weapon does not satisfy the strict dangerous proximity test. (b) is wrong because failing to find a victim is not factual impossibility; it is an incomplete attempt. (c) is wrong because it inverses the outcomes of the two tests. (e) is wrong because the MPC does not categorically exclude acts involving motor vehicles.
+
+**Tags:** chapters: [17], topics: [attempt actus reus, substantial step, dangerous proximity], difficulty: medium, cognitive: analysis
+
+**Grounding:** Chapter 17 - Actus Reus: Proximity vs. Substantial Step (*People v. Rizzo*, MPC § 5.01)
+
+<!-- audit: MUST FIX
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: The stem completely lacks a fact pattern. It states "George is charged with attempted murder" but does not describe his conduct. The answers and explanation refer to facts (driving a vehicle, having a loaded weapon, searching for a victim, being three blocks away) that are never stated in the question stem.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: Add the missing fact pattern to the stem (e.g., "George plans to kill his rival. He loads a weapon, gets into his car, and drives to the rival's neighborhood, actively searching for him. Police stop George three blocks away before he spots his target.").
+-->
 
 ## Issue 2 — argpass-sonnet
 
-**Q4.** Assume Darius is guilty of attempted murder. Under the traditional *Pinkerton* doctrine, is Marcus guilty of Darius's attempted murder?
+**Q4.** George is charged with attempted murder. How would his conduct be analyzed under the common law dangerous proximity test versus the MPC substantial step test?
 
-(a) Yes, because attempted murder was a reasonably foreseeable consequence of Marcus ordering his crew to "beat them down by any means necessary" to defend the turf. <!-- correct -->
-(b) No, because Marcus ordered them to "beat them down," meaning Darius's unilateral intent to kill exceeded the scope of the conspiratorial agreement.
-(c) Yes, because as the leader of the conspiracy, Marcus is strictly liable for any and all crimes committed by his subordinates, regardless of foreseeability.
-(d) No, because Marcus was not present at the scene and did not provide the specific weapon Darius used in the attempted murder.
-(e) Yes, because under the MPC's rejection of *Pinkerton*, Marcus's purpose to facilitate an assault automatically transfers to the attempted murder.
+(a) He is guilty of attempt under both tests. Driving a vehicle with a loaded weapon is universally recognized as the dangerous commencement of any violent criminal offense.
+(b) He is not guilty of attempt under either test. Because he had not yet spotted a victim, completing the crime was factually impossible and therefore not punishable.
+(c) He is guilty under the proximity test but not the MPC. Being armed satisfies the proximity requirement, but the MPC requires a physical strike to corroborate his criminal intent.
+(d) He is guilty under the MPC but likely not under proximity. Searching for a victim is a substantial step, but being three blocks away is not dangerously near completion. <!-- correct -->
+(e) He is guilty under proximity but not under the MPC. Three blocks is a short physical distance, but the MPC categorically excludes any acts involving a motor vehicle.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** (a) is correct. Under the traditional *Pinkerton* doctrine, a conspirator is vicariously liable for the foreseeable substantive crimes of co-conspirators committed in furtherance of the conspiracy. An attempted murder is a foreseeable escalation of an order to defend drug turf "by any means necessary." (b) is incorrect because *Pinkerton* extends liability to foreseeable acts that further the conspiracy, even if they exceed the explicit terms of the initial agreement. (c) is incorrect because *Pinkerton* requires foreseeability and furtherance of the conspiracy, not strict liability for all acts. (d) is incorrect because physical presence and direct facilitation are not required for *Pinkerton* liability. (e) is incorrect because the MPC rejects *Pinkerton* entirely, requiring traditional accomplice liability for substantive offenses.
+**Explanation:** Under the MPC substantial step test, searching for a victim while armed strongly corroborates criminal purpose and crosses the attempt threshold. Under the common law dangerous proximity test (*Rizzo*), cruising three blocks away without spotting a victim is merely preparatory and not dangerously near completion. (a) is wrong because driving with a weapon does not satisfy the strict dangerous proximity test. (b) is wrong because failing to find a victim is not factual impossibility; it is an incomplete attempt. (c) is wrong because it inverses the outcomes of the two tests. (e) is wrong because the MPC does not categorically exclude acts involving motor vehicles.
 
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton-doctrine, vicarious-liability], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt actus reus, substantial step, dangerous proximity], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 19: Conspiracy > Liability Extensions > Pinkerton Doctrine
+**Grounding:** Chapter 17 - Actus Reus: Proximity vs. Substantial Step (*People v. Rizzo*, MPC § 5.01)
 
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: The *Pinkerton* doctrine holds conspirators vicariously liable for the foreseeable substantive crimes committed by co-conspirators in furtherance of the conspiracy. Marcus agreed to defend the turf and explicitly ordered his crew to do so "by any means necessary." An attempted murder is a natural, reasonably foreseeable consequence of a violent, unrestricted turf defense. Because Darius committed the act while executing Marcus’s broad directive, Marcus is liable. This makes (a) a direct and correct application of black-letter law to the facts.
+<!-- argument-pass: MUST FIX
+(a) Argument-for: A student reading the options would infer that George was driving with a loaded weapon to commit murder. The student might argue that arming oneself and mobilizing toward the target shows an irrevocable commitment to the crime. Relying on this, they could mistakenly conclude that both tests treat vehicular mobilization with a deadly weapon as crossing the threshold into attempt, satisfying both the MPC and the common law.
+(b) Argument-for: Based on the facts inferred from the option, George had not yet spotted his victim. A student could conceptualize the absence of the victim as an insurmountable factual barrier to committing the murder at that exact moment. Confusing the nuances of factual and legal impossibility, the student might erroneously conclude that since he could not physically kill a victim who wasn't there, the attempt was factually impossible and therefore unpunishable under any test.
+(c) Argument-for: A student might argue that being armed in the vicinity of a target creates an immediate, severe risk of harm, thereby satisfying the common law dangerous proximity test. At the same time, they might misunderstand the Model Penal Code's "substantial step" requirement, assuming it is a stricter standard that requires an overt, violent act against the victim's person. Under this flawed assumption, they would conclude George is guilty under proximity but falls short of the MPC's requirements.
+(d) Argument-for: Assuming the facts implied by the options, George was driving around searching for a victim but was intercepted three blocks away. Under the MPC, "searching for or following the contemplated victim of the crime" is explicitly defined as a substantial step (§ 5.01(2)(a)). However, under the common law dangerous proximity test—as famously established in *People v. Rizzo*—driving around looking for a victim who has not been located is merely preparatory and not "dangerously close" to success, meaning he is only guilty under the MPC.
+(e) Argument-for: A student could argue that being merely three blocks away is geographically close enough to satisfy the spatial requirements of the dangerous proximity test. For the MPC analysis, the student might invent or misremember a rule, incorrectly believing the code contains a specific categorical exclusion for preparatory acts involving motor vehicles (e.g., cruising). Based on this false premise, George's conduct would be actionable under common law but insulated from MPC attempt liability.
 
-(b) Argument-for: A student could argue that *Pinkerton* liability is strictly bounded by the explicit scope of the original agreement. Marcus's order to "beat them down" typically contemplates a battery or assault, not a specific-intent crime like attempted murder. By forming a unilateral intent to kill, Darius engaged in an independent frolic that fundamentally changed the nature of the crime. Therefore, vicarious liability should not attach to this unforeseen and unauthorized escalation.
-
-(c) Argument-for: A student might conflate *Pinkerton* liability with broader concepts of strict liability for enterprise ringleaders. Since Marcus is the leader who ordered the crew to violently defend the turf, he is the ultimate factual and proximate cause of the resulting bloodshed. The argument goes that a leader issuing a "by any means necessary" command assumes total responsibility for all resulting actions of his subordinates. Thus, he would be strictly liable for the attempted murder.
-
-(d) Argument-for: This option appeals to students who confuse *Pinkerton* vicarious liability with traditional accomplice liability. To be an accomplice, one typically must aid, abet, or encourage the specific crime, which often implies direct involvement or facilitation. A student could argue that Marcus's general order from afar is insufficiently direct for liability to attach to the specific attempted murder. Without physical presence or providing the specific murder weapon, the causal chain under this erroneous view is simply too attenuated.
-
-(e) Argument-for: The Model Penal Code explicitly rejects the broad reach of the traditional *Pinkerton* doctrine, leading a student to search for alternative theories of vicarious liability. Under this view, a student might mistakenly believe that the MPC replaces *Pinkerton* with a doctrine of "transferred intent" for natural consequences. The argument is that Marcus's specific purpose to facilitate the underlying assault is legally transferred to the resulting attempted murder, satisfying the MPC's requirements through an automatic proxy.
-
-Head-to-head: Option (a) is definitively the best answer because it correctly applies the twin pillars of *Pinkerton* liability: furtherance of the conspiracy and foreseeability. Distractor (c) correctly identifies Marcus's guilt but uses the explicitly false premise of strict liability locked by the absolute word "regardless." Distractor (e) incorrectly relies on the MPC (which rejects *Pinkerton*) and falsely claims intent "automatically transfers." Distractors (b) and (d), however, rely on implicit omissions rather than locked, falsifiable absolute claims. Option (b) argues the act "exceeded the scope," which is factually arguable and lacks an absolute word stating that exceeding the explicit agreement *automatically* defeats liability. Option (d) similarly lacks an absolute word like "solely because." 
+Head-to-head: The keyed option (d) correctly states the divergent outcomes of the MPC and common law (*Rizzo*) tests. However, the question stem completely omits the fact pattern—it simply states "George is charged," meaning there is no actual "conduct" described to analyze. A student must guess the operative facts (George is driving, armed, searching for a victim, three blocks away) entirely from the answer choices. This makes the question unanswerable as written, mandating a MUST FIX verdict. That said, the distractors themselves are exceptionally well-crafted, successfully locking in explicitly falsifiable legal claims using absolute language.
 
 Falsifiable claim per distractor:
-- (b): "meaning Darius's unilateral intent to kill exceeded the scope of the conspiratorial agreement" — wrong because *Pinkerton* covers foreseeable escalations beyond the explicit agreement, but this distractor lacks an absolute word to strictly lock it as a false legal rule rather than a factual dispute.
-- (c): "strictly liable... regardless of foreseeability" — wrong because *Pinkerton* explicitly requires foreseeability and furtherance, categorically rejecting strict liability.
-- (d): "because Marcus was not present at the scene and did not provide the specific weapon" — wrong because *Pinkerton* does not require presence or specific facilitation, but it lacks a locking absolute word.
-- (e): "automatically transfers" — wrong because the MPC rejects *Pinkerton* and does not automatically transfer purpose from an assault to an attempted murder.
+- (a): "universally recognized as the dangerous commencement" — wrong because common law jurisdictions (like New York in *Rizzo*) frequently hold that driving around looking for a victim is merely preparatory.
+- (b): "completing the crime was factually impossible and therefore not punishable" — wrong because factual impossibility is categorically not a defense to attempt under the MPC or modern common law.
+- (c): "the MPC requires a physical strike to corroborate his criminal intent" — wrong because the MPC explicitly lists non-striking acts (like searching for a victim or possessing materials) as sufficient substantial steps.
+- (e): "the MPC categorically excludes any acts involving a motor vehicle" — wrong because there is no such categorical exclusion in the MPC.
 
-Recommended fix: Add absolute words to (b) and (d) to ensure they fail the strict close-call standard. 
-Change (b) to: "No, because Darius's unilateral intent to kill exceeded the explicit agreement, which categorically defeats *Pinkerton* liability."
-Change (d) to: "No, solely because Marcus was not present at the scene and did not provide the specific weapon Darius used."
+Recommended fix: Insert the missing fact pattern into the question stem. For example: "George decided to murder his rival. He loaded a handgun, got into his car, and drove toward the rival's neighborhood. George was slowly driving around searching for the rival when police pulled him over three blocks away. He had not yet spotted the victim. George is charged with attempted murder. How would his conduct be analyzed..."
 -->
 
 ## Issue 3 — argpass-opus
 
-**Q4.** Assume Darius is guilty of attempted murder. Under the traditional *Pinkerton* doctrine, is Marcus guilty of Darius's attempted murder?
+**Q4.** George is charged with attempted murder. How would his conduct be analyzed under the common law dangerous proximity test versus the MPC substantial step test?
 
-(a) Yes, because attempted murder was a reasonably foreseeable consequence of Marcus ordering his crew to "beat them down by any means necessary" to defend the turf. <!-- correct -->
-(b) No, because Marcus ordered them to "beat them down," meaning Darius's unilateral intent to kill exceeded the scope of the conspiratorial agreement.
-(c) Yes, because as the leader of the conspiracy, Marcus is strictly liable for any and all crimes committed by his subordinates, regardless of foreseeability.
-(d) No, because Marcus was not present at the scene and did not provide the specific weapon Darius used in the attempted murder.
-(e) Yes, because under the MPC's rejection of *Pinkerton*, Marcus's purpose to facilitate an assault automatically transfers to the attempted murder.
+(a) He is guilty of attempt under both tests. Driving a vehicle with a loaded weapon is universally recognized as the dangerous commencement of any violent criminal offense.
+(b) He is not guilty of attempt under either test. Because he had not yet spotted a victim, completing the crime was factually impossible and therefore not punishable.
+(c) He is guilty under the proximity test but not the MPC. Being armed satisfies the proximity requirement, but the MPC requires a physical strike to corroborate his criminal intent.
+(d) He is guilty under the MPC but likely not under proximity. Searching for a victim is a substantial step, but being three blocks away is not dangerously near completion. <!-- correct -->
+(e) He is guilty under proximity but not under the MPC. Three blocks is a short physical distance, but the MPC categorically excludes any acts involving a motor vehicle.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** (a) is correct. Under the traditional *Pinkerton* doctrine, a conspirator is vicariously liable for the foreseeable substantive crimes of co-conspirators committed in furtherance of the conspiracy. An attempted murder is a foreseeable escalation of an order to defend drug turf "by any means necessary." (b) is incorrect because *Pinkerton* extends liability to foreseeable acts that further the conspiracy, even if they exceed the explicit terms of the initial agreement. (c) is incorrect because *Pinkerton* requires foreseeability and furtherance of the conspiracy, not strict liability for all acts. (d) is incorrect because physical presence and direct facilitation are not required for *Pinkerton* liability. (e) is incorrect because the MPC rejects *Pinkerton* entirely, requiring traditional accomplice liability for substantive offenses.
+**Explanation:** Under the MPC substantial step test, searching for a victim while armed strongly corroborates criminal purpose and crosses the attempt threshold. Under the common law dangerous proximity test (*Rizzo*), cruising three blocks away without spotting a victim is merely preparatory and not dangerously near completion. (a) is wrong because driving with a weapon does not satisfy the strict dangerous proximity test. (b) is wrong because failing to find a victim is not factual impossibility; it is an incomplete attempt. (c) is wrong because it inverses the outcomes of the two tests. (e) is wrong because the MPC does not categorically exclude acts involving motor vehicles.
 
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton-doctrine, vicarious-liability], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt actus reus, substantial step, dangerous proximity], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 19: Conspiracy > Liability Extensions > Pinkerton Doctrine
+**Grounding:** Chapter 17 - Actus Reus: Proximity vs. Substantial Step (*People v. Rizzo*, MPC § 5.01)
 
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under the traditional *Pinkerton* doctrine, a co-conspirator is vicariously liable for the substantive crimes committed by other conspirators if those crimes are in furtherance of the conspiracy and reasonably foreseeable. Here, Marcus explicitly ordered his crew to defend their turf "by any means necessary." Given the inherent violence of this directive, a subordinate escalating the confrontation to attempted murder is a reasonably foreseeable consequence of the agreement. Thus, Marcus is liable for Darius's attempted murder under *Pinkerton*.
-(b) Argument-for: A student might focus on the literal words "beat them down" to argue the conspiracy was strictly limited to a simple or aggravated assault. Under *Pinkerton*, a co-conspirator is not liable for substantive crimes that fall entirely outside the scope of the conspiratorial agreement. A student could argue that Darius's specific intent to kill was a unilateral frolic that substantively departed from the agreed-upon "beat down," thereby breaking the chain of vicarious liability.
-(c) Argument-for: *Pinkerton* liability is notoriously broad, effectively holding conspirators liable for acts they neither directly participated in nor explicitly agreed to. A student might misunderstand the extent of this breadth, conflating vicarious liability with strict liability. They could argue that because Marcus was the leader and gave the initial order, the doctrine automatically holds him absolutely responsible for any and all subsequent crimes committed by his subordinates, regardless of foreseeability.
-(d) Argument-for: A student might confuse *Pinkerton* liability with traditional accomplice liability, which generally requires some form of active aiding, abetting, or encouragement of the specific substantive crime. Because Marcus was absent from the scene and did not supply the attempted murder weapon, he lacked the direct actus reus typically associated with physical participation. Therefore, the student could conclude that his mere status as an absent conspirator is legally insufficient for liability.
-(e) Argument-for: A student could misread the question's premise or misunderstand the Model Penal Code's approach to conspiracy. Even recognizing that the MPC rejects *Pinkerton*, the student might erroneously believe the MPC replaces it with a doctrine of automatic transferred intent for foreseeable escalations. They could argue that Marcus's purpose to facilitate the assault automatically translates to liability for the attempted murder under a misapplied MPC standard.
+<!-- argument-pass: MUST FIX
+(a) Argument-for: A student might assume that being armed in a vehicle with intent to murder is an inherently dangerous act that triggers attempt liability uniformly across jurisdictions. The argument relies on the premise that the overt act of driving with a loaded weapon crosses the line from mere preparation to perpetration everywhere. This would make it a universal rule of attempt, leading to guilt under both the MPC and common law.
+(b) Argument-for: A student could argue that without a victim present, George's actions are legally insufficient for attempt due to impossibility. They might reason that if the victim cannot be found, the crime cannot be committed, rendering it factually impossible. Under rigid, older interpretations, the absence of the target might preclude liability, leading to no guilt under either test.
+(c) Argument-for: A student might mistakenly believe the MPC actus reus requirement is narrower than the common law. They could argue that the MPC requires a more concrete act—such as a "physical strike"—to conclusively demonstrate intent, whereas the common law might accept simply being armed in public as creating "dangerous proximity" to a breach of the peace or murder.
+(d) Argument-for: Under the MPC (§ 5.01), searching for a victim while armed is specifically listed as a "substantial step" that strongly corroborates criminal purpose, making George guilty. However, under the common law dangerous proximity test (as famously established in *People v. Rizzo*), driving around searching for a victim without actually spotting them is mere preparation, not an act dangerously near to success. Thus, George is guilty under the MPC but not under proximity.
+(e) Argument-for: A student could argue that "three blocks" is objectively a short distance, thus satisfying the spatial requirement of the dangerous proximity test. To justify the MPC outcome, they might rely on a fabricated exception, believing the MPC expressly excludes driving from the definition of a substantial step to avoid over-criminalizing everyday behavior.
 
-Head-to-head: (a) is the strongest argument and the correct answer because it accurately applies the *Pinkerton* requirements of foreseeability and furtherance to the given facts. (c) and (e) contain explicit, falsifiable legal errors: (c) incorrectly claims *Pinkerton* is strict liability "regardless of foreseeability," while (e) incorrectly claims the MPC "automatically transfers" liability. However, (b) and (d) rely on implicit false legal claims rather than explicit ones. They argue "No, because [facts]," applying fact-based reasoning to reach an incorrect conclusion, but they fail to state a categorically false rule of law. Because they lack absolute phrasing locking in a legal error, they fail the strict close-call standard for falsifiability.
+Head-to-head: Option (d) correctly maps the specific facts to the divergent outcomes of the MPC and common law proximity tests (*Rizzo*). All four distractors feature clearly falsifiable legal errors, effectively utilizing absolute language ("universally recognized," "requires a physical strike," "categorically excludes") to ensure they are demonstrably false. However, the question stem completely omits the actual fact pattern detailing George's conduct. Without facts in the prompt, the student must reverse-engineer the scenario from the options, which is a critical structural flaw that requires a MUST FIX verdict.
 
 Falsifiable claim per distractor:
-- (b): "meaning Darius's unilateral intent to kill exceeded the scope" — wrong legally in this context, but framed merely as a factual conclusion; lacks an explicitly false legal rule or absolute word.
-- (c): "strictly liable for any and all crimes... regardless of foreseeability" — wrong because *Pinkerton* explicitly requires reasonable foreseeability and furtherance.
-- (d): "because Marcus was not present at the scene and did not provide the specific weapon" — relies on an implicit false legal premise that presence or a weapon is required; lacks absolute words like "solely because."
-- (e): "under the MPC's rejection of Pinkerton... automatically transfers" — wrong because the MPC rejects vicarious liability for substantive crimes and requires traditional accomplice liability, meaning liability does not "automatically transfer."
+- (a): "universally recognized as the dangerous commencement of any violent criminal offense" — wrong because common law (e.g., *Rizzo*) explicitly classifies this conduct as mere preparation, not commencement.
+- (b): "factually impossible and therefore not punishable" — wrong because factual impossibility is well-established as *not* being a valid defense to attempt in either jurisdiction.
+- (c): "the MPC requires a physical strike to corroborate his criminal intent" — wrong because MPC § 5.01 explicitly lists non-striking acts (like searching or lying in wait) as sufficient.
+- (e): "the MPC categorically excludes any acts involving a motor vehicle" — wrong because there is no such exclusion anywhere in the Model Penal Code.
 
-Recommended fix: Edit (b) and (d) to include absolute legal claims. For (b): "No, because under *Pinkerton*, a conspirator is categorically never liable for crimes requiring a higher mens rea than the target crime of the conspiracy." For (d): "No, solely because *Pinkerton* liability legally requires a co-conspirator to be physically present at the scene of the substantive offense."
+Recommended fix: Add the missing fact pattern to the question stem. For example: "George, armed with a loaded weapon, drives around his neighborhood searching for his enemy to kill him. He is three blocks away from the enemy's expected location but has not yet spotted his intended victim."
 -->

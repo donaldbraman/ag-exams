@@ -1,0 +1,33 @@
+**Q16.** Assume it is established that Felix constructively possessed the fentanyl. The prosecution charges him with possession with intent to distribute.
+
+(a) Guilty, because the presence of bulk quantities, a digital scale, and empty glassine envelopes strongly corroborates the intent to distribute. <!-- correct -->
+(b) Not guilty, because he did not verbally confess to selling the drugs or engage in a direct hand-to-hand transaction with an undercover buyer.
+(c) Not guilty, because the digital scale and empty envelopes are equally consistent with the personal recreational use of bulk fentanyl.
+(d) Guilty, because constructive possession of any measurable amount of narcotics automatically triggers a mandatory commercial distribution enhancement.
+(e) Guilty, because the law strictly presumes that anyone who holds a key to a shared central courtyard vault operates as a drug distributor.
+
+**Answer:** (a)
+
+**Explanation:** Intent to distribute can be proven circumstantially. The presence of bulk quantities of fentanyl, a digital scale, and hundreds of empty glassine envelopes strongly corroborates the intent to package and distribute the drugs. (b) is wrong because direct evidence (confession or observed sale) is not required. (c) is wrong because bulk quantities combined with packaging materials (envelopes) and a scale are not equally consistent with mere personal use. (d) is wrong because constructive possession of any measurable amount does not automatically trigger a mandatory enhancement; intent must be proven. (e) is wrong because the law does not strictly presume commercial distribution solely from possessing a key to a courtyard vault.
+
+**Tags:** chapters: [15], topics: [intent to distribute, circumstantial evidence], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 15 - Proving Intent to Distribute
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: This option correctly applies the doctrine of circumstantial evidence to the elements of specific intent crimes. In drug cases, intent to distribute is rarely proven by direct confession; instead, courts routinely permit juries to infer *mens rea* from the "tools of the trade." Bulk quantities alone can sometimes suffice, but when coupled with paraphernalia specific to measuring (scales) and packaging (glassine envelopes) for individual sale, the circumstantial case is overwhelmingly strong. This reflects black-letter criminal law regarding the sufficiency of evidence for distribution charges.
+(b) Argument-for: A strict defense argument might assert that specific intent requires highly unambiguous proof to overcome the "beyond a reasonable doubt" standard. One could argue that without a direct hand-to-hand transaction or a verbal confession, the jump from possession to distribution is merely speculative. Under this theory, circumstantial inferences risk punishing a defendant for unproven future thoughts, making direct evidence a legal necessity to separate mere possession from intent to sell. 
+(c) Argument-for: A student could argue this based on the harsh realities of potent opioid addiction. A heavy user of bulk fentanyl might legitimately use a digital scale to measure micro-doses to avoid a fatal overdose, and use envelopes to pre-portion daily doses. Under the rule of lenity or the requirement that circumstantial evidence must exclude reasonable hypotheses of innocence, an advocate could argue these facts fail to cross the threshold into distribution, as they are equally consistent with careful personal consumption.
+(d) Argument-for: This option appeals to jurisdictions that utilize strict statutory thresholds for drug offenses. A student might argue that "possession with intent to distribute" has been largely replaced or augmented by weight-based mandatory minimums in the modern era. Under this statutory-driven view, the moment *actus reus* (possession of any measurable amount) is proven, the commercial distribution enhancement mechanically attaches regardless of subjective intent.
+(e) Argument-for: Constructive possession of a massive stash in a shared area implies participation in a larger conspiracy or enterprise. A student might argue that holding the key to a central repository (a "vault") acts as a legal proxy for being a principal in a distribution ring. In this view, case law strictly presumes that anyone with access to an enterprise's bulk storage is legally designated as a distributor, dispensing with the need to prove individual intent to sell.
+
+Head-to-head: Option (a) is clearly the strongest and only legally accurate answer. It properly identifies that tools of the trade provide circumstantial evidence sufficient to prove intent. Distractor (b) fails because it asserts a legally false requirement for direct evidence. Distractor (c) poses the strongest factual challenge, but fails legally because courts consistently hold that "bulk quantities" combined with "empty glassine envelopes" are *not* equally consistent with personal use as a matter of law (if they were, judges would have to grant directed verdicts of acquittal on PWID charges, which they do not). Distractors (d) and (e) are easily dismissed because they rely on absolute, falsifiable words ("automatically triggers", "strictly presumes") that misstate the law of statutory thresholds and constructive possession. 
+
+Falsifiable claim per distractor:
+- (b): "because he did not verbally confess... or engage in a direct hand-to-hand transaction" — wrong because it implies direct evidence is legally required to prove intent to distribute; circumstantial evidence is sufficient.
+- (c): "equally consistent with the personal recreational use" — wrong because courts routinely hold that bulk quantities paired with distribution packaging (glassine envelopes) are inconsistent with mere personal use, permitting a jury finding of distribution intent.
+- (d): "any measurable amount... automatically triggers a mandatory commercial distribution enhancement" — wrong because intent to distribute requires specific intent, and no jurisdiction automatically triggers a commercial distribution enhancement for "any measurable amount" (which would include a single microgram).
+- (e): "the law strictly presumes that anyone who holds a key... operates as a drug distributor" — wrong because there is no such strict presumption in criminal law; access only proves possession, not specific intent to distribute.
+
+Recommended fix: none
+-->

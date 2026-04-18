@@ -1,0 +1,33 @@
+**Q15.** Assume the jurisdiction has adopted the Model Penal Code (MPC) and completely rejected the Pinkerton doctrine. The prosecution charges Felix with the stash house robbery.
+
+(a) Not guilty, because the MPC requires proof that Felix actually aided or encouraged the specific robbery with the purpose to promote it. <!-- correct -->
+(b) Not guilty, because the MPC requires that Felix have been physically present at the stash house to be liable for the substantive offense.
+(c) Guilty, because under the MPC, the initial conspiracy agreement constitutes an attempt to aid all future foreseeable crimes by coconspirators.
+(d) Guilty, because the MPC retains vicarious liability for substantive crimes that are the express or implied object of the conspiratorial agreement.
+(e) Guilty, because Felix's initial payment of $500 satisfied the MPC's requirement for financial sponsorship of the subsequent stash house robbery.
+
+**Answer:** (a)
+
+**Explanation:** The Model Penal Code explicitly rejects the Pinkerton doctrine. Under the MPC, a conspirator is not vicariously liable for a coconspirator's crimes simply by virtue of conspiracy membership; the prosecution must prove the traditional elements of accomplice liability (aiding/encouraging with the purpose to promote the specific crime). (b) is wrong because physical presence is not required for accomplice liability under the MPC. (c) is wrong because the MPC rejects the idea that a general conspiracy agreement serves as an attempt to aid all future crimes. (d) is wrong because the MPC rejects vicarious liability entirely, requiring individualized complicity. (e) is wrong because the initial $500 was for the general turf defense, not purposive sponsorship of the uncommunicated stash house robbery.
+
+**Tags:** chapters: [19], topics: [Model Penal Code, Pinkerton rejection, accomplice liability], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 19 - MPC Rejection of Pinkerton
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under the MPC, complicity requires a person to solicit, aid, agree, or attempt to aid another in planning or committing the specific offense with the purpose of promoting or facilitating its commission. Because the jurisdiction has completely rejected the Pinkerton doctrine, Felix cannot be held vicariously liable for the stash house robbery merely based on his participation in a broader conspiracy. He must have actually aided or encouraged the specific robbery with the required purposive mens rea. Option (a) precisely captures this rigorous standard.
+(b) Argument-for: A student could argue that without the Pinkerton doctrine or other vicarious liability theories, the substantive constraints on accomplice liability require proximate physical involvement. Under this view, since Felix was uncommunicative regarding the stash house robbery, the only way he could be held liable under the MPC as an accomplice without prior specific agreement is if he were physically present and ready to assist. Thus, physical presence acts as a necessary proxy for the actus reus of aiding in the absence of a specific prior agreement.
+(c) Argument-for: The MPC's complicity statute explicitly states that a person is an accomplice if he "attempts to aid" another person to commit an offense. A student might argue that by entering into the initial conspiracy agreement, Felix engaged in an ongoing "attempt to aid" the broader criminal enterprise. Therefore, this initial agreement satisfies the attempt-to-aid prong for all subsequent foreseeable crimes committed by coconspirators in furtherance of that enterprise.
+(d) Argument-for: While the MPC rejects the broad Pinkerton liability for merely foreseeable collateral crimes, a student could argue it retains liability for substantive crimes that are the actual express or implied object of the conspiratorial agreement itself. Under this theory, the MPC distinguishes between collateral crimes and target crimes. If the stash house robbery was an implied object of the initial agreement, Felix could still be guilty, making (d) a sophisticated interpretation of MPC complicity.
+(e) Argument-for: The MPC recognizes financial assistance or material support as a valid form of aiding and abetting. A student could argue that Felix's initial payment of $500 provided the necessary financial sponsorship that factually facilitated the stash house robbery. Under this theory, the financial contribution satisfies the MPC's actus reus for accomplice liability, legally overriding his lack of specific knowledge of the exact robbery details.
+
+Head-to-head: Option (a) accurately reflects the MPC's requirement of specific purposive complicity and its rejection of vicarious conspiracy liability. Option (b) fails because it asserts an absolute requirement of physical presence, which the MPC explicitly does not demand. Option (c) fails because it legally mischaracterizes an initial conspiracy agreement as a blanket "attempt to aid all future foreseeable crimes," directly contravening the MPC's requirement of specific intent for each substantive offense. Option (d) fails because it claims the MPC retains "vicarious liability" for implied objects, but the MPC outright rejects vicarious liability in favor of strict accomplice liability. Option (e) fails because it relies on a fabricated MPC doctrine ("requirement for financial sponsorship") and ignores the MPC's specific purposive mens rea requirement. All distractors contain explicitly falsifiable legal claims.
+
+Falsifiable claim per distractor:
+- (b): "the MPC requires that Felix have been physically present" — wrong because the MPC categorically does not require physical presence for accomplice liability; aiding can occur remotely.
+- (c): "constitutes an attempt to aid all future foreseeable crimes" — wrong because the MPC explicitly rejects the foreseeability doctrine for complicity and requires purpose for each specific crime.
+- (d): "the MPC retains vicarious liability for substantive crimes" — wrong because the MPC completely rejects vicarious liability for substantive crimes based solely on conspiracy membership.
+- (e): "satisfied the MPC's requirement for financial sponsorship" — wrong because the MPC has no specific "requirement for financial sponsorship" doctrine, and financial assistance without the specific purpose to promote the target offense does not automatically satisfy accomplice liability.
+
+Recommended fix: none
+-->

@@ -4,91 +4,67 @@ The QA pipeline flagged this question. Rewrite `q06.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q6.** Applying the federal *Rosemond* standard for accomplice liability to a firearm-enhanced offense, is Trey liable for aiding and abetting Silas's use of a firearm during the robbery?
+**Q6.** The following evening, Ian raids the stash house. Helen is charged as an accomplice to Ian's burglary. Did she satisfy the actus reus requirement?
 
-(a) Yes, because Trey knew a robbery was occurring, meaning he assumed the risk that Silas might carry and use a firearm.
-(b) No, because Trey did not have advance knowledge that Silas was armed at a time when he had a meaningful opportunity to walk away. <!-- correct -->
-(c) Yes, because Marcus handed Silas the gun during the briefing, creating a constructive presumption that Trey was aware of the weapon.
-(d) No, because Trey was merely an independent driver and therefore lacked the specific intent required for the underlying robbery offense.
-(e) Yes, because Silas actually fired the weapon, and under *Rosemond*, an accomplice is strictly liable for any weapons discharged by a principal.
+(a) Yes, she satisfied the actus reus requirement. Standing on the corner and texting Ian actively facilitated his entry into the building, which easily meets the low threshold for aid. <!-- correct -->
+(b) Yes, she satisfied the actus reus requirement. Any person who hears about a planned crime and fails to notify the police is considered an active accomplice by omission.
+(c) No, she did not satisfy the actus reus requirement. Ian's entry into the stash house would likely have been successful even without Helen's text message about the street.
+(d) No, she did not satisfy the actus reus requirement. The actus reus of accomplice liability strictly requires physical participation in the core elements of the underlying offense.
+(e) Yes, she satisfied the actus reus requirement. She later harbored Ian in her apartment, which retroactively satisfies the physical aid requirement for the earlier stash house burglary.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** (b) is correct. *Rosemond* holds that accomplice liability for a firearm-enhanced offense requires the defendant to have advance knowledge of the firearm at a time when they have a realistic opportunity to quit the crime. Because Marcus handed Silas the gun out of Trey's sight, Trey lacked this knowledge. (a) is incorrect because *Rosemond* specifically rejects the "assumed the risk" argument. (c) is incorrect because knowledge must be actual, not merely constructive based on proximity. (d) is incorrect because Trey's status as a driver does not negate his purpose to facilitate the robbery; he merely lacks liability for the firearm element. (e) is incorrect because *Rosemond* requires advance knowledge, not strict liability.
+**Explanation:** The actus reus for accomplice liability requires only that the defendant solicit, aid, or attempt to aid the principal (*Tally*). Helen's act of standing lookout and texting Ian facilitated the crime and easily clears this low bar. (b) is wrong because mere knowledge and failure to report a crime does not constitute accomplice liability without a legal duty to act. (c) is wrong because but-for causation is not required; any facilitative aid is sufficient. (d) is wrong because a lookout provides sufficient assistance without needing to physically participate in the core elements. (e) is wrong because harboring a fugitive after the fact is a separate offense, not retroactive participation in the underlying burglary.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, mens-rea, advance-knowledge, rosemond], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice actus reus, facilitation], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 18: Accomplice Liability > Refinements > Mens Rea > Advance Knowledge and Meaningful Opportunity to Withdraw
+**Grounding:** Chapter 18 - Actus Reus: Facilitation Without But-For Causation (*State v. Tally*)
 
 <!-- audit: MUST FIX
-check 1: pass (The correct answer accurately states the federal Rosemond standard).
-check 2: pass (Assuming the facts align with the explanation, the distractors are solidly incorrect).
-check 3: pass (The explanation correctly applies the Rosemond rule).
-check 4: MUST FIX (The question stem lacks a fact pattern. It references characters like Trey, Silas, and Marcus, as well as events like "the briefing" and a driver role, but none of these facts are provided in the stem. A student cannot answer this without the missing scenario).
-check 5: pass (The stem clearly specifies the federal Rosemond standard).
-check 6: pass (No excluded topics; standard robbery/gun fact pattern).
-check 7: pass (Rosemond and advance knowledge are clearly mapped in Chapter 18 Refinements).
-Recommended fix: Insert the missing fact pattern into the question stem before asking the call of the question (detailing Trey's role as the getaway driver, the briefing, and Marcus handing Silas the gun out of Trey's sight).
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: fail. The stem is missing facts about Helen's actions (standing on the corner and texting Ian). A student cannot evaluate her actus reus based solely on the text provided in the prompt.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: Incorporate the specific facts of Helen's involvement into the question stem (e.g., "The following evening, Ian raids the stash house while Helen stands on the corner and texts him to facilitate his entry. Helen is charged as an accomplice...").
 -->
 
-## Issue 2 — edge-case
+## Issue 2 — argpass-sonnet
 
-**Q6.** Applying the federal *Rosemond* standard for accomplice liability to a firearm-enhanced offense, is Trey liable for aiding and abetting Silas's use of a firearm during the robbery?
+**Q6.** The following evening, Ian raids the stash house. Helen is charged as an accomplice to Ian's burglary. Did she satisfy the actus reus requirement?
 
-(a) Yes, because Trey knew a robbery was occurring, meaning he assumed the risk that Silas might carry and use a firearm.
-(b) No, because Trey did not have advance knowledge that Silas was armed at a time when he had a meaningful opportunity to walk away. <!-- correct -->
-(c) Yes, because Marcus handed Silas the gun during the briefing, creating a constructive presumption that Trey was aware of the weapon.
-(d) No, because Trey was merely an independent driver and therefore lacked the specific intent required for the underlying robbery offense.
-(e) Yes, because Silas actually fired the weapon, and under *Rosemond*, an accomplice is strictly liable for any weapons discharged by a principal.
+(a) Yes, she satisfied the actus reus requirement. Standing on the corner and texting Ian actively facilitated his entry into the building, which easily meets the low threshold for aid. <!-- correct -->
+(b) Yes, she satisfied the actus reus requirement. Any person who hears about a planned crime and fails to notify the police is considered an active accomplice by omission.
+(c) No, she did not satisfy the actus reus requirement. Ian's entry into the stash house would likely have been successful even without Helen's text message about the street.
+(d) No, she did not satisfy the actus reus requirement. The actus reus of accomplice liability strictly requires physical participation in the core elements of the underlying offense.
+(e) Yes, she satisfied the actus reus requirement. She later harbored Ian in her apartment, which retroactively satisfies the physical aid requirement for the earlier stash house burglary.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** (b) is correct. *Rosemond* holds that accomplice liability for a firearm-enhanced offense requires the defendant to have advance knowledge of the firearm at a time when they have a realistic opportunity to quit the crime. Because Marcus handed Silas the gun out of Trey's sight, Trey lacked this knowledge. (a) is incorrect because *Rosemond* specifically rejects the "assumed the risk" argument. (c) is incorrect because knowledge must be actual, not merely constructive based on proximity. (d) is incorrect because Trey's status as a driver does not negate his purpose to facilitate the robbery; he merely lacks liability for the firearm element. (e) is incorrect because *Rosemond* requires advance knowledge, not strict liability.
+**Explanation:** The actus reus for accomplice liability requires only that the defendant solicit, aid, or attempt to aid the principal (*Tally*). Helen's act of standing lookout and texting Ian facilitated the crime and easily clears this low bar. (b) is wrong because mere knowledge and failure to report a crime does not constitute accomplice liability without a legal duty to act. (c) is wrong because but-for causation is not required; any facilitative aid is sufficient. (d) is wrong because a lookout provides sufficient assistance without needing to physically participate in the core elements. (e) is wrong because harboring a fugitive after the fact is a separate offense, not retroactive participation in the underlying burglary.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, mens-rea, advance-knowledge, rosemond], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice actus reus, facilitation], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 18: Accomplice Liability > Refinements > Mens Rea > Advance Knowledge and Meaningful Opportunity to Withdraw
-
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: MUST FIX. The core fact pattern contains a massive character-continuity error that ruins this question. Fact 2 and Q1 establish Trey as a subordinate gang member in "The Pit" who participated in Tuesday's violent turf defense. However, Fact 6 (relied upon for Q6 and referenced in option d) explicitly describes Trey as "an independent ride-share driver who was not part of The Pit." If Trey is actually a gang subordinate who just participated in a violent turf war, a jury could easily infer he had advance knowledge that gang enforcers carry guns to stash-house robberies, making (b) incorrect or highly debatable. 
-Recommended fix: Clean up the base facts. The drafter clearly left two drafts of the Tuesday facts in the prompt (Fact 2 uses Trey, Fact 3 uses Leon). Remove Fact 2, rely on Fact 3 (making Leon the Tuesday lookout), and remove Trey from Q1 so that he remains a naive, independent rideshare driver on Thursday.
--->
-
-## Issue 3 — argpass-opus
-
-**Q6.** Applying the federal *Rosemond* standard for accomplice liability to a firearm-enhanced offense, is Trey liable for aiding and abetting Silas's use of a firearm during the robbery?
-
-(a) Yes, because Trey knew a robbery was occurring, meaning he assumed the risk that Silas might carry and use a firearm.
-(b) No, because Trey did not have advance knowledge that Silas was armed at a time when he had a meaningful opportunity to walk away. <!-- correct -->
-(c) Yes, because Marcus handed Silas the gun during the briefing, creating a constructive presumption that Trey was aware of the weapon.
-(d) No, because Trey was merely an independent driver and therefore lacked the specific intent required for the underlying robbery offense.
-(e) Yes, because Silas actually fired the weapon, and under *Rosemond*, an accomplice is strictly liable for any weapons discharged by a principal.
-
-**Answer:** (b)
-
-**Explanation:** (b) is correct. *Rosemond* holds that accomplice liability for a firearm-enhanced offense requires the defendant to have advance knowledge of the firearm at a time when they have a realistic opportunity to quit the crime. Because Marcus handed Silas the gun out of Trey's sight, Trey lacked this knowledge. (a) is incorrect because *Rosemond* specifically rejects the "assumed the risk" argument. (c) is incorrect because knowledge must be actual, not merely constructive based on proximity. (d) is incorrect because Trey's status as a driver does not negate his purpose to facilitate the robbery; he merely lacks liability for the firearm element. (e) is incorrect because *Rosemond* requires advance knowledge, not strict liability.
-
-**Tags:** chapters: [18], topics: [accomplice-liability, mens-rea, advance-knowledge, rosemond], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 18: Accomplice Liability > Refinements > Mens Rea > Advance Knowledge and Meaningful Opportunity to Withdraw
+**Grounding:** Chapter 18 - Actus Reus: Facilitation Without But-For Causation (*State v. Tally*)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that in the context of inherently dangerous felonies like robbery, the risk of a confederate carrying a firearm is highly foreseeable. From this, one might deduce that by agreeing to participate in a robbery, the defendant "assumed the risk" of a firearm enhancement. The student might conflate federal aiding and abetting standards with broader state-level natural and probable consequences doctrines.
-(b) Argument-for: This is the exact legal standard established by the Supreme Court in *Rosemond v. United States*. To be liable for aiding and abetting a firearm-enhanced offense, the defendant must have advance knowledge that a confederate will use or carry a firearm. Furthermore, this knowledge must be acquired at a time when the accomplice still has a realistic, meaningful opportunity to walk away from the crime, which correctly resolves Trey's scenario.
-(c) Argument-for: A student might assume that being part of a briefing where a weapon is distributed satisfies the knowledge requirement through a "constructive presumption." In many areas of criminal law (like conspiracy), proximity and planning can impute knowledge. The student could conclude that *Rosemond* allows for constructive knowledge if a reasonable person in the briefing would have known about the gun.
-(d) Argument-for: A student could focus on Trey's role as "merely an independent driver" and conclude that this limits his liability to a lesser offense or shields him completely. The argument would be that driving a getaway car without participating in the core robbery acts demonstrates a lack of the specific purpose required to facilitate the robbery itself, negating liability entirely.
-(e) Argument-for: A student could misremember *Rosemond* as a case that establishes harsh penalties for accomplices to gun crimes. The argument would be that while mere carrying might require knowledge, the actual discharge of the weapon triggers strict liability for all participants under the statute, akin to felony-murder principles where any resulting harm creates absolute liability.
+(a) Argument-for: Accomplice liability requires the actus reus of aiding, abetting, counseling, or encouraging the principal. Helen stood on the corner as a lookout and texted Ian, actively facilitating his safe entry. As demonstrated in *State v. Tally*, the aid does not need to be a but-for cause of the crime; any facilitative assistance or deprivation of a victim's chance to escape is sufficient. Thus, her actions easily meet the low threshold for accomplice actus reus.
+(b) Argument-for: Omissions can constitute the actus reus for accomplice liability when there is a legal duty to act or when the failure to report is accompanied by an intent to promote the crime. A student could argue that in modern jurisdictions, active concealment or knowing failure to report a known dangerous felony equates to tacit approval and encouragement. Because Helen heard about the crime and deliberately omitted notifying the police, her silence provided a protective shield for Ian, rendering her an accomplice by omission.
+(c) Argument-for: The doctrine of accomplice liability generally requires a meaningful connection between the accomplice's aid and the principal's crime. A student could argue that under a strict causation approach, if the principal would have successfully committed the crime regardless of the secondary party's involvement, the secondary party's actions are legally insignificant. Helen's text message was ultimately superfluous to Ian's entry into the stash house. Because her conduct did not causally contribute to the burglary, she cannot be held liable as an accomplice.
+(d) Argument-for: Accomplice liability requires a concrete actus reus that ties the secondary party directly to the commission of the offense. A student could argue that mere preparatory or peripheral acts, like texting or standing on a corner, are insufficient unless they integrate into the core elements of the crime (e.g., breaking and entering). By interpreting the physical aid requirement strictly, one could conclude that a true accomplice must participate in the perpetration itself, making Helen's remote actions insufficient.
+(e) Argument-for: The actus reus for accomplice liability can be viewed as satisfied by a continuing course of conduct that supports the principal. A student could argue that harboring a fugitive is not merely a separate after-the-fact offense, but acts as ratifying conduct that relates back to the original agreement and facilitation. By hiding Ian in her apartment, Helen provided tangible physical aid that secured the fruits of the burglary, retroactively cementing her accomplice status for the entire criminal episode.
 
-Head-to-head: 
-Option (b) is the indisputable correct answer, directly stating the two-pronged *Rosemond* standard (advance knowledge + meaningful opportunity to walk away). Option (a) relies on an "assumed the risk" rationale, which represents a plausible but explicitly rejected legal theory under *Rosemond*. Option (c) introduces a fake "constructive presumption" doctrine, as *Rosemond* demands actual knowledge. Option (d) claims that being an independent driver equates to lacking specific intent, which misstates the law. Option (e) relies on a clear false legal standard ("strictly liable"). While all distractors contain falsifiable legal claims, (a), (c), and (d) lack the absolute words required by the close-call standard to solidly lock them as universal false legal propositions rather than factual inferences.
+Head-to-head:
+Option (a) correctly applies the *Tally* standard, recognizing that any facilitation satisfies the actus reus for accomplice liability without necessitating but-for causation. Option (b) features a clear falsifiable claim by stating that "any person" failing to notify the police is an accomplice by omission, ignoring the requirement of a legal duty. Option (d) contains an explicit false legal rule by claiming accomplice liability "strictly requires physical participation in the core elements." Option (e) invents a legally false doctrine, claiming that harboring "retroactively satisfies the physical aid requirement" for the underlying offense. However, Option (c) is a strong distractor factually but lacks an explicitly false absolute legal claim; it relies entirely on an implicit false rule (that but-for causation is required) and only asserts a factual probability ("would likely have been successful even without"). To meet the close-call strict standards, (c) must lock in its false legal premise with absolute language.
 
 Falsifiable claim per distractor:
-- (a): "meaning he assumed the risk" — wrong because *Rosemond* explicitly rejected foreseeability and "assumed the risk" as the standard for federal accomplice liability for a firearm.
-- (c): "creating a constructive presumption" — wrong because *Rosemond* requires actual advance knowledge, not a legal constructive presumption from mere proximity.
-- (d): "and therefore lacked the specific intent" — wrong because acting as a getaway driver does not legally preclude specific intent to commit robbery.
-- (e): "an accomplice is strictly liable" — wrong because *Rosemond* dictates a mens rea of advance knowledge, explicitly forbidding strict liability for the firearm element.
+- (b): "Any person who hears about a planned crime and fails to notify the police is considered an active accomplice by omission." — wrong because mere knowledge and failure to report without a legal duty or intent to assist does not automatically satisfy the actus reus for accomplice liability.
+- (c): "Ian's entry into the stash house would likely have been successful even without Helen's text message" — lacks a falsifiable legal claim. It implies a false rule (that but-for causation is required) but only makes a factual claim about likelihood.
+- (d): "strictly requires physical participation in the core elements of the underlying offense" — wrong because acting as a lookout, providing verbal encouragement, or offering remote non-core physical aid is legally sufficient.
+- (e): "retroactively satisfies the physical aid requirement for the earlier stash house burglary" — wrong because acting as an accessory after the fact (harboring) is a distinct offense and does not retroactively satisfy the actus reus for the underlying crime.
 
-Recommended fix: Lock the legal errors in distractors (a), (c), and (d) with absolute modifiers. Change (a) to "meaning he automatically assumed the risk"; change (c) to "categorically creating a constructive presumption"; and change (d) to "and therefore categorically lacked the specific intent".
+Recommended fix: Edit (c) to include an explicit, absolute false legal rule. For example: "No, she did not satisfy the actus reus requirement. Accomplice liability categorically requires but-for causation, and Ian's entry into the stash house would likely have been successful even without Helen's text message."
 -->

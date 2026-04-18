@@ -41,7 +41,7 @@ We just took down Deacon's entire distribution network. In a short span, his ope
 **Q3.** Assume Deacon is charged with depraved heart murder in Maryland for Chloe's fatal overdose. Under the *Beckwitt* standard for determining the threshold of extreme indifference, what must the prosecution prove regarding Deacon's mental state and conduct?
 
 (a) That his decision to double the drug concentration was reasonably likely, if not certain, to cause a fatal overdose. <!-- correct -->
-(b) That his decision to double the drug concentration demonstrated a conscious disregard of a substantial and unjustifiable risk.
+(b) That his decision to double the drug concentration demonstrated a conscious disregard of a substantial and unjustifiable risk of causing fatal overdoses.
 (c) That his decision to double the drug concentration was made with the specific intent to cause Chloe's death for street reputation.
 (d) That his decision to double the drug concentration was a gross deviation from the standard of care a reasonable person would observe.
 (e) That his decision to double the drug concentration constituted an underlying felony that was inherently dangerous in the abstract.
@@ -66,7 +66,7 @@ We just took down Deacon's entire distribution network. In a short span, his ope
 
 **Answer:** (a)
 
-**Explanation:** Under the MPC, manslaughter requires recklessness, defined as a conscious disregard of a substantial and unjustifiable risk. Sloane's statement ("highly likely to cause fatal overdoses") is direct evidence of her subjective awareness of the exact risk she chose to disregard by subsequently packaging the drugs. Option (b) incorrectly applies an ordinary negligence standard, which the MPC rejects for criminal liability. Option (c) is incorrect because Deacon's order is concurrent, not an independent intervening cause that breaks the chain of her liability. Option (d) is wrong because MPC manslaughter only requires recklessness, not purpose or knowledge. Option (e) invents a "subordinate employee" shield that does not exist in homicide doctrine.
+**Explanation:** Under the MPC, manslaughter requires recklessness, defined as a conscious disregard of a substantial and unjustifiable risk of death. Sloane's statement ("highly likely to cause fatal overdoses") is direct evidence of her subjective awareness of the exact risk she chose to disregard by subsequently packaging the drugs. Option (b) incorrectly applies an ordinary negligence standard, which the MPC rejects for criminal liability. Option (c) is incorrect because Deacon's order is concurrent, not an independent intervening cause that breaks the chain of her liability. Option (d) is wrong because MPC manslaughter only requires recklessness, not purpose or knowledge. Option (e) invents a "subordinate employee" shield that does not exist in homicide doctrine.
 
 **Tags:** chapters: [13], topics: [involuntary manslaughter, MPC recklessness, subjective awareness], difficulty: easy, cognitive: application
 
