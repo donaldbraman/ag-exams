@@ -4,7 +4,7 @@ format:
     include-in-header:
       text: |
         \usepackage{enumitem}
-        \setlist{itemsep=0.25em}
+        \setlist{itemsep=0.1em}
         \usepackage{multicol}
 ---
 # Scenario 1: The Genesis
