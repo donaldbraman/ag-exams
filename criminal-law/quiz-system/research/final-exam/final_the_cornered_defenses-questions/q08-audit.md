@@ -1,26 +1,26 @@
-**Q8.** Prosecutors alternatively charge Dave with RICO conspiracy for accepting the bribe. Under *Salinas v. United States*, does Dave's conduct satisfy the agreement element for a RICO conspiracy?
+**Q8.** Assume the federal government charges Dave with RICO conspiracy under § 1962(d) based on his acceptance of the "blind eye" fee. How will the court evaluate Dave's liability for RICO conspiracy?
 
-(a) Yes, because he agreed to facilitate an act of arson, which qualifies as a predicate offense regardless of his knowledge of the enterprise.
-(b) Yes, because he performed an overt act by unlocking the door, which is the only requirement for joining a federal RICO conspiracy.
-(c) No, because he did not personally agree to commit two predicate acts of racketeering activity, which is required for all RICO co-conspirators.
-(d) No, because without knowledge of the Bayside Syndicate or intent to further its affairs, he cannot have agreed to participate in its enterprise. <!-- correct -->
-(e) Yes, because he accepted a bribe, which automatically makes him a legally responsible member of any criminal enterprise operating on the waterfront.
+(a) The charge likely fails, because Dave's isolated transaction does not demonstrate that he knew about or agreed to facilitate the broader racketeering pattern of the Bayside Syndicate. <!-- correct -->
+(b) The charge likely fails, because the *Salinas* doctrine requires the prosecution to prove that Dave personally committed or explicitly agreed to personally commit two predicate offenses.
+(c) The charge likely succeeds, because Dave's acceptance of the commercial bribe constitutes a predicate act that automatically establishes his membership in the overarching enterprise.
+(d) The charge likely succeeds, because Dave provided material logistical support to a known enforcer, which inherently satisfies the requirement for a hub-and-spoke conspiracy structure.
+(e) The charge likely succeeds, because the federal RICO statute explicitly eliminates the traditional conspiracy requirement that the defendant must intend to join any agreement.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** Under *Salinas v. United States*, a RICO conspiracy requires the defendant to know about and agree to facilitate the enterprise's affairs. Dave did not know about the Bayside Syndicate or Vance; he only knew about the isolated warehouse arson. Without knowledge of the overarching enterprise, he cannot agree to participate in its affairs. (a) is wrong because agreeing to a single predicate act is insufficient without intent to further the broader enterprise. (b) is wrong because an overt act is not the only requirement; an agreement to the enterprise's objectives is necessary. (c) is wrong because *Salinas* specifically held that a defendant does not need to personally commit or agree to commit two predicate acts himself, only that someone will. (e) is wrong because taking a bribe does not inherently establish knowledge of an enterprise.
+**Explanation:** Under *Salinas*, a RICO conspiracy conviction requires that the defendant intend to further an endeavor which, if completed, would satisfy all elements of a substantive RICO violation. This means the defendant must know about and agree to facilitate the enterprise's broader pattern of racketeering. Dave's isolated transaction with Marcus shows no awareness of or agreement to Vance's broader syndicate operations. (b) is wrong because *Salinas* specifically held that a defendant does *not* need to personally commit or agree to personally commit two predicate acts. (c) is wrong because a single predicate act does not prove agreement to the broader enterprise pattern. (d) is wrong because material support to one person does not establish a hub-and-spoke conspiracy without shared enterprise intent. (e) is wrong because RICO conspiracy still requires an agreement (the intent to join), even if the object of that agreement is broader.
 
-**Tags:** chapters: [20], topics: [RICO conspiracy, Salinas], difficulty: hard, cognitive: application
+**Tags:** chapters: [20], topics: [rico-conspiracy, salinas-no-personal-acts], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 20 (RICO and Enterprise Liability), salinas-no-personal-acts refinement.
+**Grounding:** Chapter 20: Salinas and RICO conspiracy requirements
 
-<!-- audit: SHOULD FIX
-<check 1>: pass
-<check 2>: pass
-<check 3>: pass
-<check 4>: fails - The stem lacks the factual scenario (who Dave is, what the bribe was, the Bayside Syndicate), meaning it relies on a missing parent fact pattern. Additionally, a test-savvy student could correctly answer this question without reading any facts because options (a), (b), (c), and (e) all rely on categorical misstatements of law (e.g., "regardless of his knowledge," "is the only requirement," "automatically makes him"). This degrades the question from an "application" exercise to simple process-of-elimination recall.
-<check 5>: pass
-<check 6>: pass
-<check 7>: pass
-Recommended fix: Attach the relevant facts to the stem if this is intended to be evaluated as a standalone question. More importantly, rewrite the distractors so they are legally plausible but factually incorrect (e.g., framing a distractor around the specific acts Dave *did* commit as arguably satisfying the Salinas standard), forcing the student to actually apply the facts rather than just eliminating absolute misstatements of law.
+<!-- audit: MUST FIX
+<check 1>: pass (The doctrinal rule correctly applies Salinas, though impossible to verify factual application without the prompt).
+<check 2>: pass (No distractor is inherently defensible, though a student can't evaluate them without facts).
+<check 3>: pass (Explanation correctly summarizes the Salinas doctrine, but introduces characters/facts missing from the stem).
+<check 4>: MUST FIX (The stem is missing its entire fact pattern. It refers to "Dave," the "blind eye fee," "Marcus," "Vance," and the "Bayside Syndicate" without ever introducing them. This is an orphaned sub-question).
+<check 5>: pass (Federal RICO jurisdiction is clear).
+<check 6>: pass (No excluded topic bleed).
+<check 7>: pass (Salinas and RICO conspiracy are covered under Chapter 20: salinas-no-personal-acts).
+Recommended fix: Integrate the missing fact pattern into the question stem (detailing Dave's isolated transaction, the "blind eye" fee, Marcus, Vance, and the Bayside Syndicate) so students have the facts necessary to determine Dave's lack of knowledge regarding the broader racketeering pattern.
 -->

@@ -1,26 +1,26 @@
-**Q6.** Dave is charged as an accomplice to the warehouse arson. Under the common law approach to accomplice liability, does Dave possess the required mental state to be convicted as an accomplice?
+**Q6.** Assume that Dave is prosecuted for the arson under a theory of accomplice liability. Applying the traditional common-law and Model Penal Code standard for the mens rea of complicity, is Dave liable as an accomplice to the arson?
 
-(a) Yes, because he knew Marcus intended to burn the warehouse and his act of unlocking the door significantly facilitated the crime.
-(b) Yes, because his charging of a flat upfront fee demonstrates a shared criminal purpose to destroy Silas's waterfront property.
-(c) No, because taking a flat upfront fee and declaring "no stake in your beef" indicates he had knowledge but lacked the requisite purpose. <!-- correct -->
-(d) No, because he did not physically participate in pouring the gasoline or starting the fire inside the warehouse with the other men.
-(e) Yes, because any voluntary act that aids a felony automatically satisfies the mental state requirement for accomplice liability under the common law.
+(a) No, because Dave merely possessed knowledge of Marcus's criminal intent but lacked the conscious object or purpose to see the warehouse successfully destroyed. <!-- correct -->
+(b) No, because Dave's act of unlocking the door was a non-criminal omission rather than the required affirmative act of physical assistance necessary for complicity.
+(c) Yes, because Dave provided concrete physical assistance that was an essential factual cause of the arson being successfully completed by Marcus and Leo.
+(d) Yes, because Dave charged a flat fee for his services, which legally transforms his mere knowledge of the crime into the requisite specific intent to facilitate it.
+(e) Yes, because Dave's status as a security guard imposed a formal legal duty to prevent the arson, making his knowing facilitation sufficiently culpable for liability.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Under the strict common law rule, an accomplice must act with the *purpose* of facilitating the underlying crime. Mere knowledge that a crime will occur is insufficient. Dave's statement that he had "no stake in your beef" and his charging of a flat upfront fee demonstrate knowledge of the arson but an explicit lack of purpose to see it succeed; he just wanted the $500. (a) is wrong because knowledge and facilitation are not enough under the strict purpose standard. (b) is wrong because a flat upfront fee (unlike a percentage cut) negates an inference of shared purpose. (d) is wrong because physical participation in the core actus reus is not required for accomplice liability. (e) is wrong because voluntary aiding requires the correct mens rea.
+**Explanation:** The traditional common-law and MPC standard for accomplice liability requires that the accomplice act with the "purpose" of promoting or facilitating the offense. Mere knowledge that a crime will occur is insufficient. Dave explicitly stated he had "no stake in your beef" and merely took a flat fee, demonstrating knowledge but not purpose. (b) is wrong because unlocking a door is an affirmative act of assistance, not an omission. (c) is wrong because actus reus (assistance) alone is insufficient without the required mens rea (purpose). (d) is wrong because charging a standard flat fee does not establish a financial stake in the venture's success, which is often required to elevate knowledge to purpose. (e) is wrong because while Dave may have breached an employment duty, accomplice liability for the substantive crime still requires the purpose to facilitate it.
 
-**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs. knowledge], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice-liability, purpose-vs-knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 (Accomplice Liability), mr-purpose-not-knowledge refinement.
+**Grounding:** Chapter 18: mr-purpose-not-knowledge
 
 <!-- audit: MUST FIX
 check 1: pass
 check 2: pass
 check 3: pass
-check 4: MUST FIX. The stem is missing the fact pattern entirely. It refers to "the warehouse arson" and the answer choices rely on specific facts (Marcus, unlocking a door, taking a flat upfront fee, declaring "no stake in your beef") that are nowhere in the prompt.
+check 4: MUST FIX. The question stem is entirely missing the foundational fact pattern. It references "Dave," "the arson," "Marcus," "Leo," "the warehouse," a "flat fee," and Dave's status as a "security guard" unlocking a door, none of which are described in the stem itself.
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Insert the missing fact pattern into the question stem (e.g., "Marcus planned to burn down Silas's waterfront warehouse. Marcus asked Dave, a security guard, to unlock the back door. Dave charged Marcus a flat $500 upfront fee, stating 'I have no stake in your beef, I just want the cash.' Dave unlocked the door, and Marcus committed the arson.").
+Recommended fix: Integrate the missing factual scenario into the question stem (e.g., "Dave, a security guard at a warehouse, is approached by Marcus and Leo who plan to commit arson. Dave tells them he has 'no stake in your beef' but accepts a standard flat fee to unlock the door for them..."). If this question was severed from a parent fact pattern, those facts must be restored for it to function as a standalone item.
 -->

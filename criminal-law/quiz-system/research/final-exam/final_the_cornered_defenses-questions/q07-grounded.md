@@ -1,17 +1,17 @@
-**Q7.** Assume Dave is charged with conspiracy to commit arson. Relying on the principles from *People v. Lauria*, does Dave's acceptance of the $500 "blind eye" fee establish an agreement to join the arson conspiracy?
+**Q7.** Assume the prosecution instead charges Dave with conspiracy to commit arson, relying on the *Lauria* framework to infer his intent from his knowledge of Marcus's plan. Is Dave guilty of conspiracy under this standard?
 
-(a) Yes, because taking any money with actual knowledge of a planned crime conclusively establishes an agreement to join the underlying conspiracy.
-(b) Yes, because his affirmative act of unlocking the back door constitutes the overt act strictly necessary to form a binding conspiracy.
-(c) No, because Dave lacked a special interest in the arson and did not charge a disproportionate fee to support inferring a shared purpose. <!-- correct -->
-(d) No, because bilateral conspiracies strictly require the participating parties to share equal proceeds from the successful completion of the criminal venture.
-(e) Yes, because by interacting with Marcus, Dave automatically became part of the broader Bayside Syndicate's continuous pattern of racketeering activity.
+(a) No, because Dave charged a standard flat fee rather than a percentage, indicating he lacked the special financial stake in the venture required to infer intent from mere knowledge. <!-- correct -->
+(b) No, because the strict bilateral agreement requirement prevents a conspiracy conviction unless both parties explicitly articulate their shared intent to commit the specific target crime.
+(c) Yes, because Dave's decision to accept the money while fully knowing Marcus's intent creates an irrebuttable legal presumption of a conspiratorial agreement.
+(d) Yes, because providing unauthorized access to a secured building has no legitimate lawful purpose, which inherently and conclusively demonstrates conspiratorial intent.
+(e) Yes, because Dave's corrupt agreement to unlock the door constituted an overt act that satisfied the conduct element of traditional conspiracy law.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Under *People v. Lauria*, an agreement to join a conspiracy cannot be inferred from knowledge alone when providing goods or services, unless there is a special interest in the activity, a disproportionate fee, or a high volume of business. Dave charged a standard flat "blind eye" fee and had no stake in the outcome, failing the *Lauria* test to infer an intent to agree. (a) is wrong because knowledge alone does not equal agreement. (b) is wrong because an overt act does not substitute for the required intent to agree element. (d) is wrong because conspirators do not need to share equal proceeds; they just need an agreement to commit the crime. (e) is wrong because interacting with one member does not establish an agreement to join the broader syndicate.
+**Explanation:** Under *People v. Lauria*, intent to agree to a conspiracy cannot be inferred from mere knowledge unless the provider has a "stake in the venture" (e.g., inflating prices, taking a cut of profits), there is no legitimate use for the goods/services, or the volume is disproportionate. Because Dave charged a flat "blind eye" fee, he lacked a financial stake in the success of the arson. (b) is wrong because agreements can be tacit and inferred; explicit articulation is not required. (c) is wrong because knowledge alone does not create an irrebuttable presumption of intent to agree. (d) is wrong because while unlocking the door is illegitimate, *Lauria* requires more than a single illicit transaction to automatically infer the specific intent to join a conspiracy. (e) is wrong because an overt act satisfies the actus reus of conspiracy but does not cure a defective mens rea (intent to agree).
 
-**Tags:** chapters: [19], topics: [conspiracy agreement, mens rea, Lauria], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy-agreement, lauria-knowledge-vs-purpose], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 19 (Conspiracy), lauria-knowledge-vs-purpose refinement.
+**Grounding:** Chapter 19: lauria-knowledge-vs-purpose and stake in the venture
 
-<!-- grounding: GROUNDED — People v. Lauria intent inferences, Ch 19, Refinement `lauria-three-inferences`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Lauria framework (inferring intent from knowledge), Ch 19, Refinement `lauria-three-inferences` and `lauria-knowledge-vs-purpose`. Rule paraphrased accurately. -->

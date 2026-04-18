@@ -1,17 +1,17 @@
-**Q3.** Assume Marcus is charged with felony murder for the watchman's death. He argues that because the underlying arson was coerced by Vance, he cannot be guilty of felony murder. How would a jurisdiction recognizing the felony-murder duress exception rule on this claim?
+**Q3.** Assume Marcus is charged with felony murder for the watchman's death, predicated on his participation in the arson. In a jurisdiction that follows the minority exception (e.g., Michigan or Maryland) for felony murder and duress, how will the court likely rule on Marcus's defense?
 
-(a) Marcus is guilty because duress is categorically unavailable as a defense to any form of homicide, including felony murder.
-(b) Marcus is not guilty because if he successfully establishes duress for the predicate arson, the chain of felony-murder liability is broken. <!-- correct -->
-(c) Marcus is guilty because the felony-murder exception only applies if the defendant was also directly coerced into committing the actual killing.
-(d) Marcus is not guilty because felony murder statutes require the prosecution to prove the defendant foresaw the lethal acts of his accomplices.
-(e) Marcus is guilty because his participation in a dangerous felony creates strict liability for any resulting death, overriding all affirmative defenses.
+(a) The defense is permitted, because Marcus did not intentionally choose to take a life, but rather was coerced into committing the underlying predicate felony of arson. <!-- correct -->
+(b) The defense is barred, because the strict common-law prohibition against asserting duress for any homicide offense automatically and invariably extends to felony murder.
+(c) The defense is permitted, because the Model Penal Code provides that duress is universally available as an affirmative defense to all crimes, including intentional murder.
+(d) The defense is barred, because Marcus was at fault in creating the emergency by voluntarily associating with Vance's criminal syndicate prior to the specific threat.
+(e) The defense is permitted, because Marcus could not have reasonably foreseen that Leo would carry a concealed handgun or deliberately use lethal force during the arson.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Under the common law, duress is categorically barred for intentional murder because a defendant may not choose their life over another's. However, in states recognizing the felony-murder duress exception (e.g., *People v. Reichard*), a defendant forced to commit a predicate felony under duress is not guilty of felony murder if a death results. The rationale is that the defendant was not choosing between lives, but was merely coerced into a lesser crime, breaking the chain of felony-murder liability. (a) is wrong because it describes the traditional bar without the modern exception. (c) is wrong because the exception applies if the *predicate felony* was coerced. (d) is wrong because felony murder is a strict liability offense regarding the death. (e) is wrong because it ignores the established affirmative defense exception.
+**Explanation:** While the common law categorically bars duress as a defense to intentional murder (the "choosing between lives" rationale), the minority exception allows duress for felony murder if the defense is available for the underlying predicate felony. Because Marcus was coerced into the arson and did not choose to kill, the rationale for the murder bar does not apply. (b) is wrong because it describes the traditional common-law rule, explicitly rejecting the minority exception assumed in the prompt. (c) is wrong because while the MPC allows duress for murder, the prompt asks about the specific Michigan/Maryland felony-murder exception. (d) is wrong because fault in creating the situation defeats duress, but the facts do not state Marcus joined the syndicate voluntarily to invite this specific coercion. (e) is wrong because reasonable foreseeability goes to Pinkerton liability, not the structural availability of a duress defense.
 
-**Tags:** chapters: [21, 14], topics: [duress, felony-murder exception], difficulty: hard, cognitive: application
+**Tags:** chapters: [21, 14], topics: [duress, felony-murder-duress-exception, homicide-bar], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 21 (Necessity and Duress), felony-murder-duress-exception refinement.
+**Grounding:** Chapter 21: felony-murder-duress-exception (People v. Reichard)
 
-<!-- grounding: GROUNDED — felony-murder duress exception, Ch 21, Refinement `felony-murder-duress-exception`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Felony-Murder Duress Exception, Ch 21, Refinement `felony-murder-duress-exception`. Rule paraphrased accurately. -->

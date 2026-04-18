@@ -1,26 +1,26 @@
-**Q16.** Silas is charged with possession of the 500 grams of fentanyl found in the lockbox in his girlfriend's trunk. Based on the elements of constructive possession, is there sufficient evidence to convict him?
+**Q16.** Assume the prosecution charges Silas with possession of the fentanyl found in the locked lockbox in his girlfriend's trunk. Silas argues he did not have constructive possession. Is his defense likely to succeed?
 
-(a) Yes, because his mere physical presence in a vehicle containing narcotics automatically establishes constructive possession as a matter of law.
-(b) Yes, because his admission of knowledge, combined with his sole occupancy of the vehicle, allows a jury to infer he had the power to control it. <!-- correct -->
-(c) No, because he did not have the key on his person, which legally precludes him from exercising the requisite dominion and control over the drugs.
-(d) No, because the vehicle was registered to his girlfriend, meaning only she could be legally charged with constructive possession of items hidden inside it.
-(e) Yes, because strict liability applies to Schedule I narcotics, rendering the specific elements of awareness and physical control legally irrelevant to the final charge.
+(a) Yes, because although he knew the drugs were present, his lack of a key to the lockbox indicates he lacked the immediate power and intent to exercise control over the contraband. <!-- correct -->
+(b) Yes, because the vehicle was registered in his girlfriend's name, which automatically and conclusively defeats any legal claim that Silas exercised exclusive or joint control.
+(c) No, because his explicit admission to police that he knew the box was in the trunk conclusively satisfies both the mens rea and actus reus requirements for constructive possession.
+(d) No, because the law presumes that any individual sitting in the driver's seat of a motor vehicle has constructive possession of all illegal narcotics located anywhere inside the vehicle.
+(e) No, because under the strict federal standard, mere awareness of a controlled substance is the sole legal element required to establish custody and control for drug trafficking.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Constructive possession requires the prosecution to prove the defendant had both awareness of the contraband and the power and intent to exercise control over it. Silas's explicit admission of knowledge, combined with his sole occupancy of the vehicle, allows a jury to infer he had the requisite power to control the lockbox, even if he lacked the key at that exact moment. (a) is wrong because mere presence is insufficient without proof of knowledge and control. (c) is wrong because physical possession of a key is not an absolute legal requirement for controlling a box (e.g., he could carry the box away). (d) is wrong because legal ownership of the vehicle is not required to possess items inside it. (e) is wrong because strict liability does not eliminate the foundational possession elements.
+**Explanation:** Constructive possession requires both knowledge of the item's presence and the power and intent to exercise dominion and control over it. Because the lockbox was locked and Silas did not possess the key, he lacked the physical power to exercise control over the fentanyl, even though he knew it was there. (b) is wrong because vehicle registration is a factor but does not automatically defeat joint constructive possession if power and control exist. (c) is wrong because knowledge alone is insufficient; the actus reus of possession requires control, which is negated by the lack of a key. (d) is wrong because proximity and status as a driver do not create an absolute presumption of possession over locked containers. (e) is wrong because no jurisdiction, federal or state, equates mere awareness of contraband with the power to control it.
 
-**Tags:** chapters: [15], topics: [constructive possession, drugs], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [drugs, constructive-possession, awareness-control], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15 (Drugs and Guns), cp-awareness-control refinement.
+**Grounding:** Chapter 15: cp-awareness-control and the power/intent to control requirement
 
 <!-- audit: MUST FIX
-check 1: fail - The correct answer is factually unsupported by the stem, rendering it unpickable for a careful student.
-check 2: pass - No other option becomes doctrinally defensible, but a smart student would rightly challenge the entire question. 
-check 3: fail - The explanation references "explicit admission of knowledge" and "sole occupancy," which do not appear in the stem.
-check 4: fail - The stem completely lacks the necessary facts. It never states that Silas was the sole occupant of the vehicle, nor does it mention that he admitted knowledge of the fentanyl. Option (b) and the explanation rely entirely on these phantom facts.
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Add the missing facts to the stem. For example: "Silas is pulled over while driving his girlfriend's car alone. He admits to police that he knew there was 500 grams of fentanyl in a lockbox in the trunk, though he does not have the key. He is charged with possession..."
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: fail (The stem provides almost no facts. It fails to establish whether Silas was even in the car, where he was sitting, whether he knew the lockbox was in the trunk, or whether he knew the lockbox contained drugs. Because options A, C, and D all introduce conflicting, unstated facts—such as option A asserting "he knew the drugs were present"—a student cannot definitively solve the problem without assuming facts not in evidence.)
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Recommended fix: Add the missing facts to the stem so students aren't forced to guess the scenario. For example: "Silas is stopped by police while driving his girlfriend's car. He admits to the officer that he knows there is a lockbox in the trunk containing fentanyl, but he states truthfully that he does not have a key to it. The prosecution charges..."
 -->

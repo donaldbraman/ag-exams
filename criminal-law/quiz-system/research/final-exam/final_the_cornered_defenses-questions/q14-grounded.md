@@ -1,17 +1,17 @@
-**Q14.** How would Silas's decision to unholster his weapon instead of driving away be evaluated in a traditional duty-to-retreat jurisdiction compared to a Stand Your Ground jurisdiction?
+**Q14.** Assume the prosecution emphasizes that Silas had a clear, unobstructed path to put his car in drive and leave safely. How does this factual detail affect Silas's self-defense claim under different jurisdictional rules?
 
-(a) Both jurisdictions would require him to drive away because the duty to retreat universally applies when the defendant is seated in a mobile vehicle.
-(b) A duty-to-retreat jurisdiction would bar his self-defense claim because he had a safe path, while a Stand Your Ground jurisdiction would permit his defensive force. <!-- correct -->
-(c) A duty-to-retreat jurisdiction would allow his claim because of the castle doctrine, while a Stand Your Ground jurisdiction would strictly deny it.
-(d) Both jurisdictions would allow his claim because the duty to retreat only applies to physical flight on foot, not to fleeing inside a motor vehicle.
-(e) A Stand Your Ground jurisdiction would bar his claim because Trey was unarmed, whereas a duty-to-retreat jurisdiction exclusively examines the defendant's subjective fear.
+(a) In a retreat jurisdiction, his defense likely fails because he had a safe escape route; in a stand-your-ground jurisdiction, he had no legal duty to retreat before resorting to deadly force. <!-- correct -->
+(b) In a retreat jurisdiction, his defense succeeds because he was inside a vehicle; in a stand-your-ground jurisdiction, he legally forfeits immunity by choosing to lie in wait.
+(c) In both jurisdictions, his defense automatically fails because the castle doctrine universally excludes parking lots and personal vehicles from the definition of a protected dwelling.
+(d) In both jurisdictions, his defense legally succeeds because the presence of a known hitman creates an automatic doctrinal exception to the traditional requirement of safe withdrawal.
+(e) In a retreat jurisdiction, his defense fails because he was the initial aggressor; in a stand-your-ground jurisdiction, he must prove Trey's initial aggression beyond a reasonable doubt.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** In a traditional duty-to-retreat jurisdiction, a defendant must retreat before using deadly force if a safe path is available (such as Silas's clear, unobstructed path to drive away). A Stand Your Ground jurisdiction explicitly eliminates this duty, allowing the defendant to meet force with force in any place they have a legal right to be. (a) is wrong because Stand Your Ground jurisdictions completely eliminate the duty to retreat, regardless of vehicle mobility. (c) is wrong because the castle doctrine typically does not extend to public gas stations or cars in the same way as a home. (d) is wrong because the traditional duty to retreat applies to any safe means of escape, including vehicles. (e) is wrong because Stand Your Ground laws do not hinge on whether the victim was actually armed.
+**Explanation:** The primary distinction between the two regimes is the duty to retreat before using deadly force. In a retreat jurisdiction, the availability of a completely safe, known escape route (driving away) defeats the self-defense claim. In a stand-your-ground (SYG) jurisdiction, a person in a place they have a right to be has no duty to retreat and may meet force with force. (b) is wrong because while some states extend the castle doctrine to vehicles, it is not universal, and SYG does not automatically penalize lying in wait if the threat is imminent. (c) is wrong because many SYG states explicitly apply the doctrine to vehicles. (d) is wrong because the victim's identity does not erase a statutory duty to retreat if a safe path exists. (e) is wrong because lying in wait for an approaching threat does not make Silas the initial aggressor, and defendants do not bear the burden of proving aggression beyond a reasonable doubt.
 
-**Tags:** chapters: [22], topics: [self-defense, duty to retreat, stand your ground], difficulty: medium, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, duty-to-retreat, stand-your-ground], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22 (Self-Defense), duty-to-retreat-general and stand-your-ground-statute refinements.
+**Grounding:** Chapter 22: duty-to-retreat-general vs. stand-your-ground-statute
 
-<!-- grounding: GROUNDED — Duty to Retreat vs. Stand Your Ground, Ch 22, Refinement `duty-to-retreat-general` and `stand-your-ground-statute` (and `castle-doctrine-scope` for the distractor). Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — duty to retreat vs. stand your ground, Ch 22, Refinement `duty-to-retreat-general` and `stand-your-ground-statute`. Rule paraphrased accurately. -->

@@ -1,22 +1,22 @@
-**Q6.** Dave is charged as an accomplice to the warehouse arson. Under the common law approach to accomplice liability, does Dave possess the required mental state to be convicted as an accomplice?
+**Q6.** Assume that Dave is prosecuted for the arson under a theory of accomplice liability. Applying the traditional common-law and Model Penal Code standard for the mens rea of complicity, is Dave liable as an accomplice to the arson?
 
-(a) Yes, because he knew Marcus intended to burn the warehouse and his act of unlocking the door significantly facilitated the crime.
-(b) Yes, because his charging of a flat upfront fee demonstrates a shared criminal purpose to destroy Silas's waterfront property.
-(c) No, because taking a flat upfront fee and declaring "no stake in your beef" indicates he had knowledge but lacked the requisite purpose. <!-- correct -->
-(d) No, because he did not physically participate in pouring the gasoline or starting the fire inside the warehouse with the other men.
-(e) Yes, because any voluntary act that aids a felony automatically satisfies the mental state requirement for accomplice liability under the common law.
+(a) No, because Dave merely possessed knowledge of Marcus's criminal intent but lacked the conscious object or purpose to see the warehouse successfully destroyed. <!-- correct -->
+(b) No, because Dave's act of unlocking the door was a non-criminal omission rather than the required affirmative act of physical assistance necessary for complicity.
+(c) Yes, because Dave provided concrete physical assistance that was an essential factual cause of the arson being successfully completed by Marcus and Leo.
+(d) Yes, because Dave charged a flat fee for his services, which legally transforms his mere knowledge of the crime into the requisite specific intent to facilitate it.
+(e) Yes, because Dave's status as a security guard imposed a formal legal duty to prevent the arson, making his knowing facilitation sufficiently culpable for liability.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Under the strict common law rule, an accomplice must act with the *purpose* of facilitating the underlying crime. Mere knowledge that a crime will occur is insufficient. Dave's statement that he had "no stake in your beef" and his charging of a flat upfront fee demonstrate knowledge of the arson but an explicit lack of purpose to see it succeed; he just wanted the $500. (a) is wrong because knowledge and facilitation are not enough under the strict purpose standard. (b) is wrong because a flat upfront fee (unlike a percentage cut) negates an inference of shared purpose. (d) is wrong because physical participation in the core actus reus is not required for accomplice liability. (e) is wrong because voluntary aiding requires the correct mens rea.
+**Explanation:** The traditional common-law and MPC standard for accomplice liability requires that the accomplice act with the "purpose" of promoting or facilitating the offense. Mere knowledge that a crime will occur is insufficient. Dave explicitly stated he had "no stake in your beef" and merely took a flat fee, demonstrating knowledge but not purpose. (b) is wrong because unlocking a door is an affirmative act of assistance, not an omission. (c) is wrong because actus reus (assistance) alone is insufficient without the required mens rea (purpose). (d) is wrong because charging a standard flat fee does not establish a financial stake in the venture's success, which is often required to elevate knowledge to purpose. (e) is wrong because while Dave may have breached an employment duty, accomplice liability for the substantive crime still requires the purpose to facilitate it.
 
-**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs. knowledge], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice-liability, purpose-vs-knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 (Accomplice Liability), mr-purpose-not-knowledge refinement.
+**Grounding:** Chapter 18: mr-purpose-not-knowledge
 
-<!-- edge-case-audit: CLEAN
+<!-- edge-case-audit: MUST FIX
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass (Even if Q1/Q2 determine Marcus has a valid duress defense, this question safely isolates Dave's *mental state* rather than asking for ultimate conviction, avoiding derivative excuse/justification tangles).
-Recommended fix: N/A
+2. Cross-Doctrine Clashes: Under traditional derivative liability rules, if the principal's act is legally justified, there is no crime, and an accomplice cannot be held liable. Because Marcus burns the warehouse to prevent the execution of his family, his act strongly implicates a necessity / choice of evils justification.
+3. Cross-Question Spoilers: Q1 explicitly tests whether Marcus is justified or excused. If a student analyzes Q1 and concludes Marcus is justified (saving human lives over property damage), they will carry that conclusion to Q6. If Marcus is justified, Dave cannot be an accomplice, making Option A confusing or arguably incorrect because it absolves Dave solely on mens rea grounds rather than the absence of an underlying offense.
+Recommended fix: Add an assumption to the prompt to neutralize the derivative liability issue and isolate the mens rea analysis: "Assume for this question that Marcus's arson is considered an unjustified criminal act."
 -->

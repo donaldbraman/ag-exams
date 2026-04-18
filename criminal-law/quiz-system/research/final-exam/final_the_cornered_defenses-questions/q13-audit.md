@@ -1,26 +1,25 @@
-**Q13.** Assume Silas is instead prosecuted for aggravated assault and claims self-defense. Will his belief that he needed to use deadly force against Trey satisfy the objective reasonableness standard?
+**Q13.** Assume Silas argues self-defense against the attempted murder charge. In evaluating his claim, how does the objective reasonableness standard apply to his belief that Trey posed an imminent lethal threat?
 
-(a) Yes, because a purely subjective standard applies, and Silas honestly believed his life was in imminent danger from a known and dangerous professional hitman.
-(b) No, because Trey was entirely unarmed, and self-defense claims are strictly foreclosed whenever the perceived threat turns out to be factually false.
-(c) Yes, because a reasonable person in Silas's situation, possessing his knowledge of Trey's reputation and observing the concealed hand, could have perceived an imminent threat. <!-- correct -->
-(d) No, because the objective standard requires courts to strictly ignore the defendant's prior experiences and knowledge regarding the alleged attacker's violent history.
-(e) Yes, because the castle doctrine automatically presumes an objectively reasonable fear of death whenever a defendant is aggressively approached while inside a vehicle.
+(a) The jury must consider whether a reasonable person possessing Silas's specific situational knowledge that Trey was a syndicate hitman would have believed deadly force was necessary. <!-- correct -->
+(b) The jury must determine only whether Silas subjectively and genuinely believed his life was in danger, regardless of what a hypothetical reasonable person would conclude.
+(c) The jury must actively ignore Trey's reputation as a hitman, because the objective standard legally forbids incorporating the defendant's prior experiences or specific background knowledge.
+(d) The jury must automatically reject the defense as a matter of law, because the post-arrest discovery that Trey was completely unarmed definitively proves the belief was objectively unreasonable.
+(e) The jury must apply a strict proportionality test that legally invalidates any self-defense claim when the victim's concealed hand is later shown to be entirely empty.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** The objective reasonableness standard requires the jury to consider what a reasonable person *in the defendant's situation* would have believed. Silas's prior knowledge of Trey's reputation as a hitman and his observation of the concealed hand are properly incorporated into this objective analysis, potentially making his fear reasonable even though Trey was actually unarmed. (a) is wrong because the standard is not purely subjective; it requires an objective assessment of reasonableness. (b) is wrong because self-defense relies on a reasonable belief at the time, not absolute factual accuracy evaluated in hindsight. (d) is wrong because the standard explicitly incorporates the defendant's situational knowledge and prior experiences (*People v. Goetz*). (e) is wrong because the castle doctrine does not automatically presume fear in a vehicle without specific statutory triggers.
+**Explanation:** The objective reasonableness standard for self-defense incorporates the defendant's situation and specific knowledge. A "reasonable person in the defendant's situation" includes Silas's prior knowledge that Trey was a known syndicate hitman, which informs whether his perception of the rapid approach and concealed hand was reasonable. (b) is wrong because the standard is not purely subjective; it requires both genuine belief and objective reasonableness. (c) is wrong because the objective standard explicitly incorporates relevant situational knowledge, as established in cases like *Goetz*. (d) and (e) are wrong because reasonableness is judged based on the facts as they reasonably appeared to the defendant at the time of the incident, not in hindsight based on the subsequent discovery that the victim was actually unarmed.
 
-**Tags:** chapters: [22], topics: [self-defense, objective reasonableness], difficulty: medium, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, objective-reasonableness-standard, situational-incorporation], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22 (Self-Defense), objective-reasonableness-standard and situational-incorporation refinements.
+**Grounding:** Chapter 22: objective-reasonableness-standard and situational-incorporation
 
-<!-- audit: MUST FIX
-check 1: pass (accurately states the situational objective standard under Ch 22, assuming the missing facts align).
-check 2: pass (none of the distractors are legally defensible).
-check 3: pass (explanation accurately reflects the situational incorporation refinement).
-check 4: MUST FIX (The stem is missing the fact pattern entirely. It refers to Silas, Trey, a professional hitman, and a concealed hand, none of which are detailed in the stem. This is clearly an orphaned question from a multi-part series).
+<!-- audit: CLEAN
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: pass (assumes the question is attached to a master fact pattern that provides the details of the encounter, as implied by the specific facts referenced in the options and explanation)
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Incorporate the necessary facts directly into the stem (e.g., "Silas knows Trey is a professional hitman. One day, Trey approaches Silas's car aggressively and reaches into his coat, concealing his hand. Silas shoots Trey, who turns out to be unarmed."). Remove the word "instead".
 -->

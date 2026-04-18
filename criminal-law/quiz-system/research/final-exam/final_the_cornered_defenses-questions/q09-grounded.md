@@ -1,17 +1,17 @@
-**Q9.** Leo is charged with criminal homicide for shooting the watchman. Given his actions in Fact 5, what is the most appropriate grading for this offense under the common law?
+**Q9.** Assume Leo is prosecuted for the homicide of the watchman. Which of the following provides the most straightforward doctrinal path for the prosecution to secure a first-degree murder conviction against Leo?
 
-(a) Involuntary manslaughter, because firing a weapon during a high-stress encounter constitutes gross criminal negligence rather than a fully intentional lethal act.
-(b) Voluntary manslaughter, because the sudden appearance of the watchman provided adequate legal provocation to completely mitigate the element of malice aforethought.
-(c) Second-degree murder, because his immediate reaction to the surprise appearance shows intent to kill but lacks the reflection required for premeditation and deliberation. <!-- correct -->
-(d) First-degree murder, because the law automatically presumes premeditation and deliberation whenever a defendant brings a concealed weapon to an active crime scene.
-(e) Negligent homicide, because the lack of any verbal exchange indicates he did not subjectively perceive the substantial risk of causing death.
+(a) The prosecution can rely on the felony-murder rule, because the killing occurred during the commission of an arson, effectively substituting for the requirement of premeditation. <!-- correct -->
+(b) The prosecution must prove extreme emotional disturbance, because Leo shot the watchman immediately and reactively upon being surprised in the dark warehouse.
+(c) The prosecution must establish implied malice, because Leo's act of carrying a concealed weapon demonstrated a generalized reckless indifference to human life.
+(d) The prosecution can rely on the misdemeanor-manslaughter rule, because trespassing into the warehouse constitutes a strict liability predicate offense.
+(e) The prosecution must prove adequate provocation, because the sudden appearance of the watchman created a legally recognized state of sudden heat of passion.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Second-degree murder is the appropriate grade. Leo's act of drawing a weapon and shooting directly at the watchman establishes the intent to kill (malice aforethought), but the instantaneous nature of the reaction to a surprise appearance strongly suggests a lack of the quiet reflection required for premeditation and deliberation. (a) is wrong because shooting directly at someone is an intentional act, not mere negligence. (b) is wrong because a watchman doing his job is not adequate provocation under the traditional common law categories. (d) is wrong because premeditation is not automatically presumed from carrying a concealed weapon; it still requires proof of actual reflection. (e) is wrong because his act of shooting was intentional, not merely negligent.
+**Explanation:** First-degree felony murder elevates a homicide to first-degree murder if it occurs during the commission of an enumerated inherently dangerous felony, such as arson. This relieves the prosecution of the burden of proving specific intent to kill or premeditation and deliberation. (b) is wrong because extreme emotional disturbance (EED) is a partial defense that reduces murder to manslaughter, not a path to a first-degree conviction. (c) is wrong because implied malice (depraved heart) typically supports a second-degree murder conviction, and felony murder is a more direct path to first-degree. (d) is wrong because misdemeanor-manslaughter leads to an involuntary manslaughter conviction, not first-degree murder. (e) is wrong because adequate provocation mitigates murder to voluntary manslaughter, and a lawful watchman doing his job is not legally adequate provocation.
 
-**Tags:** chapters: [12, 13], topics: [homicide grading, malice, premeditation], difficulty: medium, cognitive: application
+**Tags:** chapters: [14, 12], topics: [homicide-grading, felony-murder], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 12 (Intentional Homicide), four-elements-common-law refinement.
+**Grounding:** Chapter 14: felony-murder strict-liability-substitution
 
-<!-- grounding: GROUNDED — Common Law Homicide Grading, Ch 12, Refinement `four-elements-common-law`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — felony-murder strict liability substitution, Ch 14, Refinement `strict-liability-substitution`. Rule paraphrased accurately. -->

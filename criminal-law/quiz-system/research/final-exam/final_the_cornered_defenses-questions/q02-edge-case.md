@@ -1,18 +1,18 @@
-**Q2.** Assume Marcus is prosecuted in a jurisdiction that follows the rule of *United States v. Dingwall* or *United States v. Contento-Pachon* regarding duress. Will Vance's threat of a midnight execution satisfy the imminence requirement for duress?
+**Q2.** Assume that, regardless of the ultimate outcome of the arson charge, the prosecution argues that Marcus's duress defense fails entirely because Vance was not physically present at the warehouse. How does Vance's absence affect Marcus's defense under the strict common-law approach to imminence?
 
-(a) The defense fails categorically because the threat was scheduled for midnight, meaning Vance was not physically present to enforce it during the arson.
-(b) The defense may survive because strict physical proximity is not required if Marcus reasonably believed reporting to corrupt police was futile. <!-- correct -->
-(c) The defense fails categorically because duress is never available to excuse the deliberate destruction of another person's private property.
-(d) The defense may survive because the threat targeted Marcus's family, which automatically waives the traditional imminence requirement for all subsequent crimes.
-(e) The defense fails categorically because Marcus could have relocated his family to a safehouse before the midnight deadline ultimately expired.
+(a) The defense fails, because the strict common-law standard requires the threatening party to be physically present and the threatened harm to be immediately impending. <!-- correct -->
+(b) The defense succeeds, because the common law only requires that a person of reasonable firmness in Marcus's situation would have been entirely unable to resist the coercion.
+(c) The defense fails, because the common law categorically bars duress whenever the threatened harm is directed at a family member rather than the defendant himself.
+(d) The defense succeeds, because the threat to Marcus's mother was continuous and reporting the extortion to corrupt local police authorities was demonstrably futile.
+(e) The defense fails, because the common law recognizes duress as a valid defense only when the defendant faces a threat of serious bodily injury from a government actor.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Under the traditional rule, imminence requires the threat to be immediate and physically present. However, modern jurisdictions following cases like *Dingwall* or *Contento-Pachon* recognize that a continuous threat, combined with a reasonable belief that authorities are corrupt and cannot help, can satisfy the imminence requirement even if the threat is hours away and the coercer is not physically present. (a) is wrong because modern majority circuits reject the strict physical proximity test. (c) is wrong because duress is a defense to property crimes like arson. (d) is wrong because targeting family does not automatically waive the imminence requirement; it satisfies the target scope element. (e) is wrong because his belief in the futility of seeking help due to police corruption creates a jury question on reasonable alternatives.
+**Explanation:** The strict common-law approach requires physical presence to satisfy the imminence requirement of duress. Because Vance threatened a future harm ("at midnight") and was not physically present during the arson, the threat was not strictly imminent. (b) is wrong because the "person of reasonable firmness" is the MPC standard, not the strict common law. (c) is wrong because the common law does allow duress for threats against close relatives. (d) is wrong because while futility addresses the "no reasonable alternative" element, it does not cure a lack of strict imminence under the traditional rule. (e) is wrong because duress does not require the threat to come from a government actor; any human threat of death or serious injury qualifies.
 
-**Tags:** chapters: [21], topics: [duress, imminence], difficulty: hard, cognitive: application
+**Tags:** chapters: [21], topics: [duress, imminence, common-law], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21 (Necessity and Duress), duress-imminence-proximity and duress-corrupt-authorities refinements.
+**Grounding:** Chapter 21: duress-imminence-proximity and strict physical presence test
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

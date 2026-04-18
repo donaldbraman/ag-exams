@@ -1,25 +1,26 @@
-**Q1.** Marcus asserts an affirmative defense for the warehouse arson, arguing he only committed the crime because Vance threatened his family. How does the doctrinal classification of Marcus's defense impact Leo's liability for assisting in the arson?
+**Q1.** Assume that Marcus is charged with arson for burning the warehouse and raises an affirmative defense based on Vance's threat to his family. How does criminal law classify Marcus's potential defense regarding the warehouse arson?
 
-(a) Marcus is asserting a justification, meaning his act was morally right, which shields Leo from derivative liability.
-(b) Marcus is asserting an excuse, which focuses on his lack of free will and provides no derivative defense to Leo. <!-- correct -->
-(c) Marcus is asserting a justification, but Leo remains liable because justifications never protect third-party accomplices.
-(d) Marcus is asserting an excuse, which transfers to any accomplice who substantially assists the coerced principal.
-(e) Marcus is asserting a mitigation, which reduces the offense grade for both the coerced principal and any knowing helper.
+(a) It is classified as an excuse, because duress recognizes that the criminal act remains wrongful but the coerced actor is not blamed for succumbing to the threat. <!-- correct -->
+(b) It is classified as a justification, because necessity doctrine establishes that Marcus made the morally correct choice in prioritizing his family's survival over property.
+(c) It is classified as an excuse, because the necessity defense historically applies whenever a defendant is compelled by overwhelming human forces to violate the law.
+(d) It is classified as a justification, because any third party who knowingly assisted Marcus in committing the arson would automatically share in his immunity from punishment.
+(e) It is classified as neither, because affirmative defenses are categorically unavailable when the coercion involves a threat directed at a third party rather than the defendant.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Marcus is asserting duress, which is an excuse, not a justification. A justification (like necessity) makes the act lawful, meaning accomplices share in the protection because no legal wrong occurred. An excuse admits the act is wrong but removes blame due to the defendant's lack of free will. Because excuses are personal to the coerced actor, they do not transfer to knowing accomplices like Leo. (a) is wrong because duress is an excuse, not a justification. (c) is wrong because justifications *do* protect accomplices. (d) is wrong because excuses are personal and do not transfer. (e) is wrong because duress is a complete affirmative defense, not merely a mitigation.
+**Explanation:** Duress is paradigmatically an excuse, not a justification. When a defendant acts under duress, the law considers the act (arson) to be wrong, but excuses the actor because unlawful coercion overrode their free will. (b) is wrong because duress, not necessity, applies to specific human threats of force, and duress is an excuse. (c) is wrong because necessity traditionally applies to natural forces, whereas human coercion falls under duress. (d) is wrong because justification defenses can be "shared" with accomplices, but excuse defenses are personal to the coerced actor. (e) is wrong because modern jurisdictions widely allow duress claims for threats directed at third parties (like Marcus's family).
 
-**Tags:** chapters: [21, 18], topics: [justification vs. excuse, duress, derivative liability], difficulty: medium, cognitive: application
+**Tags:** chapters: [21], topics: [duress, justification-vs-excuse, necessity], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21 (Necessity and Duress), justification-vs-excuse refinement.
+**Grounding:** Chapter 21: justification-vs-excuse framework
 
-<!-- audit: CLEAN
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: pass
-check 5: pass
-check 6: pass
-check 7: pass
+<!-- audit: MUST FIX
+<check 1>: pass (assuming the unstated premise that Vance specifically commanded the arson)
+<check 2>: finding: A smart student could argue for (b). If Vance merely threatened Marcus's family (e.g., for ransom) and Marcus independently chose to commit arson to satisfy the threat (e.g., for insurance money or as a distraction), the doctrine is necessity (a justification), not duress. Duress specifically requires the coercer to command the criminal act.
+<check 3>: pass
+<check 4>: finding: Fail. The stem lacks the necessary fact of whether Vance *commanded* the arson or merely threatened the family, which is the exact doctrinal hinge separating duress from a necessity-based lesser-evils claim. 
+<check 5>: pass
+<check 6>: pass
+<check 7>: pass
+Recommended fix: Modify the first sentence of the stem to explicitly clarify the command: "Assume that Marcus is charged with arson for burning the warehouse and raises an affirmative defense based on Vance's threat to kill Marcus's family unless Marcus committed the arson."
 -->

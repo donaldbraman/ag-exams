@@ -1,26 +1,25 @@
-**Q11.** The prosecution expert testifies that Leo's antisocial personality disorder (APD) and voluntary meth use caused his aggressive reaction, not his schizophrenia. If the jury believes this expert, how will it affect Leo's insanity defense?
+**Q11.** Assume Leo is tried in an insanity jurisdiction that excludes conditions manifested solely by antisocial personality disorder (APD). The jury concludes as a factual matter that while Leo has schizophrenia, his APD and voluntary meth use were the actual causes of his violent outburst. How will this finding affect his insanity defense?
 
-(a) The defense will succeed because APD is universally recognized as a qualifying mental disease under both the common law and the modern MPC.
-(b) The defense will fail because most statutes specifically exclude personality disorders from qualifying, and voluntary intoxication is not a valid basis for insanity. <!-- correct -->
-(c) The defense will succeed because co-occurring disorders automatically shift the burden to the prosecution to disprove the insanity claim beyond a reasonable doubt.
-(d) The defense will fail because the presence of any non-qualifying disorder instantly nullifies the legal effect of a diagnosed schizophrenic condition.
-(e) The defense will succeed because drug-induced psychosis is treated equivalently to permanent schizophrenia under the traditional M'Naghten standard of legal insanity.
+(a) The defense will fail, because the required causal link to a qualifying mental disease is missing if the jury determines the incapacity was actually caused by excluded non-qualifying conditions. <!-- correct -->
+(b) The defense will succeed, because the mere clinical presence of a qualifying mental disease like schizophrenia automatically satisfies the threshold legal requirement regardless of causation.
+(c) The defense will fail, because statutes categorically bar any defendant with an antisocial personality disorder diagnosis from raising affirmative mental health defenses under any circumstances.
+(d) The defense will succeed, because voluntary intoxication is widely recognized as a valid independent basis for establishing the affirmative defense of legal insanity.
+(e) The defense will fail, because the Model Penal Code strictly requires the qualifying mental disease to be the absolute sole cause of the defendant's criminal behavior.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Most jurisdictions exclude conditions manifested solely by repeated antisocial behavior (like APD) from the legal definition of a "mental disease or defect." Additionally, incapacity caused by voluntary intoxication is not a valid basis for the insanity defense. If the jury credits the prosecution expert that the APD and meth use were the *actual causes* of the incapacity, Leo lacks a causal link to a qualifying mental disease. (a) is wrong because APD is specifically excluded by most statutes. (c) is wrong because co-occurring disorders do not shift the burden of proof. (d) is wrong because the mere presence of APD does not nullify schizophrenia; the issue is which condition actually *caused* the incapacity (*State v. Meiser*). (e) is wrong because temporary drug-induced states are distinct from settled mental defects.
+**Explanation:** Under rules derived from cases like *Meiser*, when a defendant has both a qualifying disease (schizophrenia) and non-qualifying conditions (APD, voluntary intoxication), the defense succeeds only if the qualifying disease caused the incapacity. If the jury finds the APD and meth caused the violence, the causal link to the qualifying disease fails. (b) is wrong because mere co-occurrence is insufficient; the qualifying disease must be the legal cause of the incapacity. (c) is wrong because the exclusion means APD cannot be the *sole* basis for the defense; it does not "taint" or bar the defense if a qualifying disease is actually the cause. (d) is wrong because voluntary intoxication is routinely excluded as a basis for insanity. (e) is wrong because the law requires the qualifying disease to be *a* cause, not necessarily the *sole* cause, but here the jury found it was not the cause at all.
 
-**Tags:** chapters: [23], topics: [insanity, personality disorder, voluntary intoxication], difficulty: medium, cognitive: application
+**Tags:** chapters: [23], topics: [insanity-defense, co-occurring-causation, personality-disorder-exclusion], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 23 (The Insanity Defense), personality-disorder-exclusion and co-occurring-causation refinements.
+**Grounding:** Chapter 23: co-occurring-causation (State v. Meiser)
 
-<!-- audit: SHOULD FIX
-Check 1: pass (with slight precision issue in B flagged below)
-Check 2: pass
-Check 3: finding - The explanation correctly notes that the statutory exclusion applies to "conditions manifested solely by repeated antisocial behavior" (the classic MPC exclusion), but Option (b) states that statutes "specifically exclude personality disorders" broadly. A well-prepared student could argue that statutes do not blanket-exclude *all* personality disorders (e.g., borderline or schizotypal might not be categorically excluded by statute, even if they often fail the severity threshold in practice), only APD/psychopathy, making (b) technically false. 
-Check 4: pass
-Check 5: pass
-Check 6: pass
-Check 7: pass
-Recommended fix: Change option (b) to strictly match the doctrine: "(b) The defense will fail because most statutes specifically exclude conditions like APD from qualifying..." or "specifically exclude antisocial personality disorder..."
+<!-- audit: CLEAN
+Check 1: pass (accurately tracks the holding in State v. Meiser regarding concurrent conditions and causation)
+Check 2: pass (distractors are well-calibrated; students might be tempted by the categorical bar in (c) or the "sole cause" requirement in (e), but both are doctrinally false)
+Check 3: pass (explanation perfectly aligns with the doctrinal nuances of the APD exclusion and causal requirements)
+Check 4: pass (the stem provides the definitive jury findings necessary to apply the rule)
+Check 5: pass (the stem cleanly stipulates the jurisdictional rule regarding the APD exclusion)
+Check 6: pass (no excluded topic bleed)
+Check 7: pass (Refinement tags `co-occurring-causation` and `personality-disorder-exclusion` are present in Ch 23 meta-map)
 -->

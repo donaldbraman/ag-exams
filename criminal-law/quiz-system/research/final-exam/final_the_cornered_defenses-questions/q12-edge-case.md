@@ -1,22 +1,22 @@
-**Q12.** Silas is charged with attempted murder for lying in wait with his drawn firearm. How would his conduct be analyzed under the varying tests for attempt?
+**Q12.** Assume Silas is prosecuted for attempted murder based on his actions in the parked car before Trey arrived. How would Silas's conduct likely be evaluated under the differing doctrinal tests for attempt liability?
 
-(a) He is guilty under both tests, because engaging in mere preparation is legally sufficient to establish a criminal attempt in all modern jurisdictions.
-(b) He is guilty under the MPC's substantial step test, but might be acquitted under a common-law proximity test since he had not yet fired. <!-- correct -->
-(c) He is guilty under the common-law proximity test, but would be acquitted under the substantial step test because he never fired a single shot.
-(d) He is not guilty under either test, because he was inside a parked vehicle and therefore lacked the immediate physical capability to commit murder.
-(e) He is not guilty under the substantial step test because the passing police officer's intervention creates a complete legal impossibility defense at trial.
+(a) His conduct likely satisfies the MPC's substantial step test because lying in wait strongly corroborates criminal purpose, but it may fail the strict common-law proximity test because Trey had not yet arrived. <!-- correct -->
+(b) His conduct likely satisfies the common-law proximity test because he physically possessed a lethal weapon, but fails the MPC's substantial step test because Trey was ultimately determined to be unarmed.
+(c) His conduct fails both tests equally, because mere preparation can never constitute an attempted crime until the defendant has crossed the physical threshold of the immediate kill zone.
+(d) His conduct satisfies both tests equally, because unholstering a legally permitted firearm inside a registered vehicle always constitutes a completed overt act sufficient for any attempt standard.
+(e) His conduct fails the MPC's substantial step test because he was sitting passively in a parked car, but satisfies the common-law proximity test because the target was a known syndicate hitman.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Under the MPC's substantial step test, lying in wait with a drawn weapon strongly corroborates criminal purpose and easily satisfies the actus reus requirement. Under the strict common-law proximity test, the defendant must be dangerously close to completion; sitting in a car before the victim even arrives at the door may fail this stricter standard. (a) is wrong because mere preparation is never sufficient for attempt in any jurisdiction. (c) is wrong because it flips the tests—the MPC is broader and more defendant-inclusive than the proximity test. (d) is wrong because physical location inside a vehicle does not inherently defeat the actus reus of attempt. (e) is wrong because police intervention creates a factual impossibility, not a legal impossibility, which is no defense.
+**Explanation:** The MPC's "substantial step" test specifically lists "lying in wait" as conduct that strongly corroborates criminal purpose, making it highly likely Silas's attempt charge succeeds under the MPC. Conversely, the common-law "proximity" test requires the defendant to be dangerously close to completing the crime; because Trey was still approaching and hadn't arrived, Silas might not have crossed that later threshold. (b) is wrong because the MPC does not require the victim to be armed, and possessing a weapon does not automatically satisfy the proximity test. (c) is wrong because the MPC was designed specifically to push attempt liability earlier into the preparatory phase. (d) is wrong because a minimal overt act is the standard for conspiracy, not the more demanding actus reus required for attempt. (e) is wrong because lying in wait satisfies the MPC, while the victim's identity does not alter the physical proximity requirement.
 
-**Tags:** chapters: [17], topics: [attempt, actus reus, substantial step], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, substantial-step, proximity-test], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 17 (Attempts), actus-reus-substantial-step and actus-reus-proximity-test refinements.
+**Grounding:** Chapter 17: actus-reus-substantial-step and lying in wait
 
-<!-- edge-case-audit: MUST FIX
+<!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: Silas intends to shoot in perceived self-defense (Trey is an approaching hitman). Stating "He is guilty" of attempted murder in the correct option ignores the self-defense / imperfect self-defense claims that could either acquit him or mitigate the charge to attempted voluntary manslaughter.
-3. Cross-Question Spoilers: Q13-Q15 directly test Silas's self-defense claims. Forcing the student to declare him definitively "guilty" of attempted murder in Q12 conflicts with the potential outcomes of the self-defense analysis in the subsequent questions.
-Recommended fix: Change "He is guilty" to "His conduct satisfies the actus reus" in options (a), (b), and (c), and adjust the second halves to match (e.g., "...but might fail a common-law proximity test...").
+2. Cross-Doctrine Clashes: pass (Although Silas's actions involve self-defense doctrines tested in subsequent questions, the stem explicitly confines the evaluation to the actus reus tests for attempt liability, and factual impossibility—Trey being unarmed—is properly addressed in the distractors).
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
 -->

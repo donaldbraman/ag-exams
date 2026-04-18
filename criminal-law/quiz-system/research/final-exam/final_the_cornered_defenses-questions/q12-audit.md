@@ -1,26 +1,26 @@
-**Q12.** Silas is charged with attempted murder for lying in wait with his drawn firearm. How would his conduct be analyzed under the varying tests for attempt?
+**Q12.** Assume Silas is prosecuted for attempted murder based on his actions in the parked car before Trey arrived. How would Silas's conduct likely be evaluated under the differing doctrinal tests for attempt liability?
 
-(a) He is guilty under both tests, because engaging in mere preparation is legally sufficient to establish a criminal attempt in all modern jurisdictions.
-(b) He is guilty under the MPC's substantial step test, but might be acquitted under a common-law proximity test since he had not yet fired. <!-- correct -->
-(c) He is guilty under the common-law proximity test, but would be acquitted under the substantial step test because he never fired a single shot.
-(d) He is not guilty under either test, because he was inside a parked vehicle and therefore lacked the immediate physical capability to commit murder.
-(e) He is not guilty under the substantial step test because the passing police officer's intervention creates a complete legal impossibility defense at trial.
+(a) His conduct likely satisfies the MPC's substantial step test because lying in wait strongly corroborates criminal purpose, but it may fail the strict common-law proximity test because Trey had not yet arrived. <!-- correct -->
+(b) His conduct likely satisfies the common-law proximity test because he physically possessed a lethal weapon, but fails the MPC's substantial step test because Trey was ultimately determined to be unarmed.
+(c) His conduct fails both tests equally, because mere preparation can never constitute an attempted crime until the defendant has crossed the physical threshold of the immediate kill zone.
+(d) His conduct satisfies both tests equally, because unholstering a legally permitted firearm inside a registered vehicle always constitutes a completed overt act sufficient for any attempt standard.
+(e) His conduct fails the MPC's substantial step test because he was sitting passively in a parked car, but satisfies the common-law proximity test because the target was a known syndicate hitman.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Under the MPC's substantial step test, lying in wait with a drawn weapon strongly corroborates criminal purpose and easily satisfies the actus reus requirement. Under the strict common-law proximity test, the defendant must be dangerously close to completion; sitting in a car before the victim even arrives at the door may fail this stricter standard. (a) is wrong because mere preparation is never sufficient for attempt in any jurisdiction. (c) is wrong because it flips the tests—the MPC is broader and more defendant-inclusive than the proximity test. (d) is wrong because physical location inside a vehicle does not inherently defeat the actus reus of attempt. (e) is wrong because police intervention creates a factual impossibility, not a legal impossibility, which is no defense.
+**Explanation:** The MPC's "substantial step" test specifically lists "lying in wait" as conduct that strongly corroborates criminal purpose, making it highly likely Silas's attempt charge succeeds under the MPC. Conversely, the common-law "proximity" test requires the defendant to be dangerously close to completing the crime; because Trey was still approaching and hadn't arrived, Silas might not have crossed that later threshold. (b) is wrong because the MPC does not require the victim to be armed, and possessing a weapon does not automatically satisfy the proximity test. (c) is wrong because the MPC was designed specifically to push attempt liability earlier into the preparatory phase. (d) is wrong because a minimal overt act is the standard for conspiracy, not the more demanding actus reus required for attempt. (e) is wrong because lying in wait satisfies the MPC, while the victim's identity does not alter the physical proximity requirement.
 
-**Tags:** chapters: [17], topics: [attempt, actus reus, substantial step], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, substantial-step, proximity-test], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 17 (Attempts), actus-reus-substantial-step and actus-reus-proximity-test refinements.
+**Grounding:** Chapter 17: actus-reus-substantial-step and lying in wait
 
 <!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass (the legal reasoning is sound, but reveals the missing facts issue below)
-check 4: The stem is missing critical facts. It fails to mention that Silas was sitting inside a parked vehicle, that the victim hadn't arrived, or that a passing police officer intervened. Options (d) and (e), as well as the explanation, rely heavily on these phantom facts.
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Add the missing factual context to the stem. For example: "Silas is sitting inside a parked vehicle outside his enemy's house, lying in wait with his drawn firearm. Before the victim arrives, a passing police officer notices the weapon and arrests Silas. Silas is charged with attempted murder. How would his conduct be analyzed under the varying tests for attempt?"
+check 1: pass (accurately applies MPC's specific "lying in wait" example and the strictness of the CL proximity test)
+check 2: pass (distractors rely on incorrect legal rules, e.g., conspiracy act standards applied to attempt)
+check 3: pass (explanation perfectly aligns with doctrine)
+check 4: MUST FIX. The stem refers to specific facts ("his actions in the parked car before Trey arrived") and the options rely on details (unholstering a firearm, Trey being a known hitman) that are completely missing from the text. If this is not attached to a larger master vignette, it is unanswerable.
+check 5: pass (cleanly prompts the student to contrast the two distinct jurisdictional tests)
+check 6: pass (no excluded topics)
+check 7: pass (substantial step, proximity test, and attempt actus reus are explicitly covered in Ch 17)
+Recommended fix: If this is a standalone question, prepend a brief fact pattern. E.g., "Silas, intending to kill Trey (a known syndicate hitman), unholsters his legally permitted firearm and waits inside his parked car for Trey. Before Trey arrives, Silas is arrested. Assume Silas is prosecuted..."
 -->

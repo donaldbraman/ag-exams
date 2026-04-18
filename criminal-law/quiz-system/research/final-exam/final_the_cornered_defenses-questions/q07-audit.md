@@ -1,26 +1,26 @@
-**Q7.** Assume Dave is charged with conspiracy to commit arson. Relying on the principles from *People v. Lauria*, does Dave's acceptance of the $500 "blind eye" fee establish an agreement to join the arson conspiracy?
+**Q7.** Assume the prosecution instead charges Dave with conspiracy to commit arson, relying on the *Lauria* framework to infer his intent from his knowledge of Marcus's plan. Is Dave guilty of conspiracy under this standard?
 
-(a) Yes, because taking any money with actual knowledge of a planned crime conclusively establishes an agreement to join the underlying conspiracy.
-(b) Yes, because his affirmative act of unlocking the back door constitutes the overt act strictly necessary to form a binding conspiracy.
-(c) No, because Dave lacked a special interest in the arson and did not charge a disproportionate fee to support inferring a shared purpose. <!-- correct -->
-(d) No, because bilateral conspiracies strictly require the participating parties to share equal proceeds from the successful completion of the criminal venture.
-(e) Yes, because by interacting with Marcus, Dave automatically became part of the broader Bayside Syndicate's continuous pattern of racketeering activity.
+(a) No, because Dave charged a standard flat fee rather than a percentage, indicating he lacked the special financial stake in the venture required to infer intent from mere knowledge. <!-- correct -->
+(b) No, because the strict bilateral agreement requirement prevents a conspiracy conviction unless both parties explicitly articulate their shared intent to commit the specific target crime.
+(c) Yes, because Dave's decision to accept the money while fully knowing Marcus's intent creates an irrebuttable legal presumption of a conspiratorial agreement.
+(d) Yes, because providing unauthorized access to a secured building has no legitimate lawful purpose, which inherently and conclusively demonstrates conspiratorial intent.
+(e) Yes, because Dave's corrupt agreement to unlock the door constituted an overt act that satisfied the conduct element of traditional conspiracy law.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Under *People v. Lauria*, an agreement to join a conspiracy cannot be inferred from knowledge alone when providing goods or services, unless there is a special interest in the activity, a disproportionate fee, or a high volume of business. Dave charged a standard flat "blind eye" fee and had no stake in the outcome, failing the *Lauria* test to infer an intent to agree. (a) is wrong because knowledge alone does not equal agreement. (b) is wrong because an overt act does not substitute for the required intent to agree element. (d) is wrong because conspirators do not need to share equal proceeds; they just need an agreement to commit the crime. (e) is wrong because interacting with one member does not establish an agreement to join the broader syndicate.
+**Explanation:** Under *People v. Lauria*, intent to agree to a conspiracy cannot be inferred from mere knowledge unless the provider has a "stake in the venture" (e.g., inflating prices, taking a cut of profits), there is no legitimate use for the goods/services, or the volume is disproportionate. Because Dave charged a flat "blind eye" fee, he lacked a financial stake in the success of the arson. (b) is wrong because agreements can be tacit and inferred; explicit articulation is not required. (c) is wrong because knowledge alone does not create an irrebuttable presumption of intent to agree. (d) is wrong because while unlocking the door is illegitimate, *Lauria* requires more than a single illicit transaction to automatically infer the specific intent to join a conspiracy. (e) is wrong because an overt act satisfies the actus reus of conspiracy but does not cure a defective mens rea (intent to agree).
 
-**Tags:** chapters: [19], topics: [conspiracy agreement, mens rea, Lauria], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy-agreement, lauria-knowledge-vs-purpose], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 19 (Conspiracy), lauria-knowledge-vs-purpose refinement.
+**Grounding:** Chapter 19: lauria-knowledge-vs-purpose and stake in the venture
 
 <!-- audit: MUST FIX
-check 1: MUST FIX. Option (c) is doctrinally vulnerable under *Lauria*. The court in *Lauria* explicitly stated that intent to agree CAN be inferred from knowledge alone (without a special interest, disproportionate fee, or high volume of business) if the target offense is a "serious felony" (e.g., murder, arson). Because the crime here is arson, concluding "No" solely because Dave lacked a special interest or disproportionate fee ignores this key doctrinal carveout.
-check 2: pass. Option (a) is too absolute ("conclusively" and "any planned crime") to be a valid fallback, though a prepared student knowing the serious-felony exception would be frustrated by the lack of a fully accurate choice.
-check 3: SHOULD FIX. The explanation fails to mention the *Lauria* serious-felony exception, flatly stating that knowledge alone cannot infer an agreement without special interest, disproportionate fee, or high volume.
-check 4: MUST FIX. The question stem entirely lacks a fact pattern. It references "Dave," a "$500 'blind eye' fee," "Marcus," unlocking a back door, and the "Bayside Syndicate" without providing any facts about who these people are, what services were provided, or the context of the fee.
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: 1) Supply the missing fact pattern directly in the stem. 2) Change the target crime from arson to a misdemeanor or minor, non-aggravated felony (e.g., illegal gambling, prostitution, or minor fraud) so the *Lauria* serious-felony exception is not triggered. This will make option (c) and the explanation doctrinally airtight.
+check 1: fail. The *Lauria* framework explicitly allows intent to be inferred from mere knowledge without a financial stake if the target crime is a sufficiently "serious felony" (the court uses murder as an example; arson is historically a grave/violent felony). (a) relies on the premise that a financial stake is strictly required here, ignoring this major exception.
+check 2: fail. A prepared student could credibly argue that (d) is the correct answer. *Lauria* permits inferring intent when the provided goods or services have "no legitimate use." "Providing unauthorized access" to a secured building is inherently illicit and has no legitimate use, satisfying *Lauria* independently of Dave's fee structure.
+check 3: fail. The explanation for (d) misstates *Lauria* by claiming the doctrine requires "more than a single illicit transaction" to infer intent even when the service is illegitimate. This improperly conflates the "disproportionate volume" prong (which applies to legitimate, dual-use goods) with the entirely separate "no legitimate use" prong.
+check 4: fail. The question is a follow-on ("Q7") and is missing its master fact pattern, though enough context is embedded in the options to expose the doctrinal errors.
+check 5: pass.
+check 6: pass.
+check 7: pass.
+Recommended fix: Change the target crime from arson to a misdemeanor or minor felony (e.g., operating an illegal gambling ring, simple trespass) to definitively eliminate *Lauria*'s "serious felony" exception. Furthermore, change the provided service from "unauthorized access" to a lawful, dual-use service/good (e.g., renting a standard vehicle or selling a crowbar) so the "no legitimate use" prong does not apply, thereby rendering (d) factually and legally incorrect.
 -->

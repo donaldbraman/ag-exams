@@ -1,17 +1,17 @@
-**Q11.** The prosecution expert testifies that Leo's antisocial personality disorder (APD) and voluntary meth use caused his aggressive reaction, not his schizophrenia. If the jury believes this expert, how will it affect Leo's insanity defense?
+**Q11.** Assume Leo is tried in an insanity jurisdiction that excludes conditions manifested solely by antisocial personality disorder (APD). The jury concludes as a factual matter that while Leo has schizophrenia, his APD and voluntary meth use were the actual causes of his violent outburst. How will this finding affect his insanity defense?
 
-(a) The defense will succeed because APD is universally recognized as a qualifying mental disease under both the common law and the modern MPC.
-(b) The defense will fail because most statutes specifically exclude personality disorders from qualifying, and voluntary intoxication is not a valid basis for insanity. <!-- correct -->
-(c) The defense will succeed because co-occurring disorders automatically shift the burden to the prosecution to disprove the insanity claim beyond a reasonable doubt.
-(d) The defense will fail because the presence of any non-qualifying disorder instantly nullifies the legal effect of a diagnosed schizophrenic condition.
-(e) The defense will succeed because drug-induced psychosis is treated equivalently to permanent schizophrenia under the traditional M'Naghten standard of legal insanity.
+(a) The defense will fail, because the required causal link to a qualifying mental disease is missing if the jury determines the incapacity was actually caused by excluded non-qualifying conditions. <!-- correct -->
+(b) The defense will succeed, because the mere clinical presence of a qualifying mental disease like schizophrenia automatically satisfies the threshold legal requirement regardless of causation.
+(c) The defense will fail, because statutes categorically bar any defendant with an antisocial personality disorder diagnosis from raising affirmative mental health defenses under any circumstances.
+(d) The defense will succeed, because voluntary intoxication is widely recognized as a valid independent basis for establishing the affirmative defense of legal insanity.
+(e) The defense will fail, because the Model Penal Code strictly requires the qualifying mental disease to be the absolute sole cause of the defendant's criminal behavior.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Most jurisdictions exclude conditions manifested solely by repeated antisocial behavior (like APD) from the legal definition of a "mental disease or defect." Additionally, incapacity caused by voluntary intoxication is not a valid basis for the insanity defense. If the jury credits the prosecution expert that the APD and meth use were the *actual causes* of the incapacity, Leo lacks a causal link to a qualifying mental disease. (a) is wrong because APD is specifically excluded by most statutes. (c) is wrong because co-occurring disorders do not shift the burden of proof. (d) is wrong because the mere presence of APD does not nullify schizophrenia; the issue is which condition actually *caused* the incapacity (*State v. Meiser*). (e) is wrong because temporary drug-induced states are distinct from settled mental defects.
+**Explanation:** Under rules derived from cases like *Meiser*, when a defendant has both a qualifying disease (schizophrenia) and non-qualifying conditions (APD, voluntary intoxication), the defense succeeds only if the qualifying disease caused the incapacity. If the jury finds the APD and meth caused the violence, the causal link to the qualifying disease fails. (b) is wrong because mere co-occurrence is insufficient; the qualifying disease must be the legal cause of the incapacity. (c) is wrong because the exclusion means APD cannot be the *sole* basis for the defense; it does not "taint" or bar the defense if a qualifying disease is actually the cause. (d) is wrong because voluntary intoxication is routinely excluded as a basis for insanity. (e) is wrong because the law requires the qualifying disease to be *a* cause, not necessarily the *sole* cause, but here the jury found it was not the cause at all.
 
-**Tags:** chapters: [23], topics: [insanity, personality disorder, voluntary intoxication], difficulty: medium, cognitive: application
+**Tags:** chapters: [23], topics: [insanity-defense, co-occurring-causation, personality-disorder-exclusion], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 23 (The Insanity Defense), personality-disorder-exclusion and co-occurring-causation refinements.
+**Grounding:** Chapter 23: co-occurring-causation (State v. Meiser)
 
-<!-- grounding: GROUNDED — personality disorder exclusion and co-occurring causation, Ch 23, Refinement `personality-disorder-exclusion` and `co-occurring-causation`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — co-occurring causation, Ch 23, Refinement `co-occurring-causation` (and `personality-disorder-exclusion`). Rule paraphrased accurately. -->

@@ -1,22 +1,22 @@
-**Q9.** Leo is charged with criminal homicide for shooting the watchman. Given his actions in Fact 5, what is the most appropriate grading for this offense under the common law?
+**Q9.** Assume Leo is prosecuted for the homicide of the watchman. Which of the following provides the most straightforward doctrinal path for the prosecution to secure a first-degree murder conviction against Leo?
 
-(a) Involuntary manslaughter, because firing a weapon during a high-stress encounter constitutes gross criminal negligence rather than a fully intentional lethal act.
-(b) Voluntary manslaughter, because the sudden appearance of the watchman provided adequate legal provocation to completely mitigate the element of malice aforethought.
-(c) Second-degree murder, because his immediate reaction to the surprise appearance shows intent to kill but lacks the reflection required for premeditation and deliberation. <!-- correct -->
-(d) First-degree murder, because the law automatically presumes premeditation and deliberation whenever a defendant brings a concealed weapon to an active crime scene.
-(e) Negligent homicide, because the lack of any verbal exchange indicates he did not subjectively perceive the substantial risk of causing death.
+(a) The prosecution can rely on the felony-murder rule, because the killing occurred during the commission of an arson, effectively substituting for the requirement of premeditation. <!-- correct -->
+(b) The prosecution must prove extreme emotional disturbance, because Leo shot the watchman immediately and reactively upon being surprised in the dark warehouse.
+(c) The prosecution must establish implied malice, because Leo's act of carrying a concealed weapon demonstrated a generalized reckless indifference to human life.
+(d) The prosecution can rely on the misdemeanor-manslaughter rule, because trespassing into the warehouse constitutes a strict liability predicate offense.
+(e) The prosecution must prove adequate provocation, because the sudden appearance of the watchman created a legally recognized state of sudden heat of passion.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Second-degree murder is the appropriate grade. Leo's act of drawing a weapon and shooting directly at the watchman establishes the intent to kill (malice aforethought), but the instantaneous nature of the reaction to a surprise appearance strongly suggests a lack of the quiet reflection required for premeditation and deliberation. (a) is wrong because shooting directly at someone is an intentional act, not mere negligence. (b) is wrong because a watchman doing his job is not adequate provocation under the traditional common law categories. (d) is wrong because premeditation is not automatically presumed from carrying a concealed weapon; it still requires proof of actual reflection. (e) is wrong because his act of shooting was intentional, not merely negligent.
+**Explanation:** First-degree felony murder elevates a homicide to first-degree murder if it occurs during the commission of an enumerated inherently dangerous felony, such as arson. This relieves the prosecution of the burden of proving specific intent to kill or premeditation and deliberation. (b) is wrong because extreme emotional disturbance (EED) is a partial defense that reduces murder to manslaughter, not a path to a first-degree conviction. (c) is wrong because implied malice (depraved heart) typically supports a second-degree murder conviction, and felony murder is a more direct path to first-degree. (d) is wrong because misdemeanor-manslaughter leads to an involuntary manslaughter conviction, not first-degree murder. (e) is wrong because adequate provocation mitigates murder to voluntary manslaughter, and a lawful watchman doing his job is not legally adequate provocation.
 
-**Tags:** chapters: [12, 13], topics: [homicide grading, malice, premeditation], difficulty: medium, cognitive: application
+**Tags:** chapters: [14, 12], topics: [homicide-grading, felony-murder], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 12 (Intentional Homicide), four-elements-common-law refinement.
+**Grounding:** Chapter 14: felony-murder strict-liability-substitution
 
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: MUST FIX. The facts explicitly establish that Leo and Marcus were pouring gasoline to commit Arson (a traditional BARRK felony). Under the traditional grading scheme (Pennsylvania model), a killing committed during an Arson is First-Degree Felony Murder. Concluding that the maximum grade is Second-Degree Murder because it lacks premeditation ignores the felony murder rule entirely.
-3. Cross-Question Spoilers: MUST FIX. Q3 actively evaluates Felony Murder liability for Marcus for this exact same death. Since Felony Murder is clearly "active" in this scenario, a student who synthesizes the facts will correctly recognize that Leo is guilty of First-Degree Felony Murder, rendering option (c) factually incorrect.
-Recommended fix: Modify the question stem to isolate the intended doctrine, e.g., "Assuming the prosecution pursues an intentional homicide theory and does not rely on the felony murder rule, what is the most appropriate grading..."
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass. The defendants are in the res gestae of the arson (pouring gas) when the killing occurs, satisfying the temporal requirements of the felony-murder rule. 
+2. Cross-Doctrine Clashes: pass. While Leo will raise an insanity defense, the question specifically asks for the prosecution's *prima facie* doctrinal path to elevate the charge to first-degree murder. The general intent nature of arson means Leo's voluntary intoxication (meth) will not negate the mens rea for the underlying predicate felony either.
+3. Cross-Question Spoilers: pass. The fact that Marcus might have a duress defense for the underlying arson (tested in Q1-Q3) does not transfer to Leo or prevent the prosecution from establishing that Leo independently committed the predicate felony to trigger felony murder.
+Recommended fix: n/a
 -->
