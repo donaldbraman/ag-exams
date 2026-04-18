@@ -1,0 +1,33 @@
+**Q5.** Cole is charged as an accomplice to armed robbery. Under the federal standard established in *Rosemond*, does Cole have the requisite mens rea to be convicted of the armed element of the robbery?
+
+(a) Yes, because his decision to take up his post as a lookout after Damon racked the slide demonstrates his knowing acceptance of the armed robbery plan.
+(b) Yes, because as a participant in a planned robbery, he is strictly liable for any weapons brought by his co-felons regardless of his prior knowledge.
+(c) No, because he verbally protested Damon's use of the gun, which legally negated his purpose to facilitate the aggravated, armed nature of the robbery.
+(d) No, because learning of the firearm immediately before exiting the vehicle likely deprived him of a meaningful opportunity to safely walk away from the crime. <!-- correct -->
+(e) No, because the predicate crime of robbery does not require specific intent, meaning accomplice liability cannot attach to the aggravating armed element of the charge.
+
+**Answer:** (d)
+
+**Explanation:** Under *Rosemond*, accomplice liability for an armed offense requires the defendant to have advance knowledge of the full scope of the crime (including the gun) at a time when they have a "meaningful opportunity to walk away." Cole learned of the gun just as they were exiting the car at the target location, which typically fails the temporal requirement because withdrawing at that point is not reasonably safe or practical. Thus, (d) is correct. Option (a) is wrong because participating after discovering the gun mid-crime does not retroactively satisfy the advance knowledge requirement. Option (b) is wrong because accomplice liability for an armed element is not strict liability; it requires prior knowledge. Option (c) is wrong because a verbal protest does not negate liability if the temporal requirement was actually met. Option (e) is wrong because accomplice liability can attach to aggravating elements if the requisite intent and knowledge exist.
+
+**Tags:** chapters: [18], topics: [accomplice-liability, mr-temporal-advance-knowledge], difficulty: intermediate, cognitive: application
+
+**Grounding:** Chapter 18 - *Rosemond v. United States* (Advance Knowledge and Meaningful Opportunity to Withdraw)
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: Under *Rosemond*, accomplice liability requires the defendant to know about the gun and still choose to participate. A student could argue that by affirmatively taking up his post as a lookout after seeing Damon rack the slide, Cole made a deliberate choice to continue his participation. This post-discovery action could be construed as demonstrating his knowing acceptance of the armed robbery plan, thereby fulfilling the mens rea requirement.
+(b) Argument-for: A student might conflate accomplice liability with strict liability rules found in the felony murder doctrine or specific sentencing enhancements. Under this view, if a defendant agrees to participate in a violent felony like robbery, they assume the risk for any weapons brought by co-felons. Thus, option (b) could be argued as correct by asserting that participation in the planned robbery creates strict liability for the armed element.
+(c) Argument-for: Accomplice liability typically requires the specific intent or purpose to facilitate the crime. A student could argue that Cole's verbal protest against Damon's use of the gun shows he actively opposed the aggravating element. Therefore, option (c) could be seen as correct under the theory that explicit verbal opposition severs the shared intent necessary to be convicted as an accomplice to the armed portion of the offense.
+(d) Argument-for: This option perfectly aligns with the Supreme Court's holding in *Rosemond v. United States*. The Court held that advance knowledge means knowledge acquired at a time when the accomplice has a "meaningful opportunity to walk away." Option (d) applies this directly: learning of the firearm immediately before exiting the vehicle deprives the defendant of a reasonably safe opportunity to withdraw, precluding the requisite mens rea.
+(e) Argument-for: Robbery is often classified as a general intent crime. A student could argue that because the underlying predicate crime does not require specific intent, the aggravating element (being armed) cannot suddenly impose a specific intent requirement for accomplice liability. Under this reasoning, option (e) posits a doctrinal incompatibility that prevents accomplice liability from attaching to the armed element.
+
+Head-to-head: Option (d) is clearly the best answer because it directly tracks the *Rosemond* rule requiring advance knowledge combined with a meaningful opportunity to withdraw. However, option (a) presents a structural flaw. Option (a) concludes that liability attaches because continuing the crime demonstrates "knowing acceptance," relying entirely on an implicit omission of the safe-exit requirement. Under the close-call standard, distractors must contain explicit, absolute falsifiable claims rather than mere implicit omissions. Options (b), (c), and (e) are much stronger distractors structurally because they contain explicitly false legal claims (strict liability, legal negation by mere protest, and categorical intent incompatibility).
+
+Falsifiable claim per distractor:
+- (a): "demonstrates his knowing acceptance" — wrong because it implicitly omits the *Rosemond* requirement of a safe opportunity to withdraw, but fails to lock this in with an explicit, absolute falsifiable claim.
+- (b): "strictly liable... regardless of his prior knowledge" — wrong because *Rosemond* explicitly rejects strict liability for the armed element of the offense, requiring advance knowledge.
+- (c): "legally negated his purpose" — wrong because mere verbal protest does not legally negate mens rea if the defendant otherwise possesses advance knowledge and a safe exit but chooses to participate anyway.
+- (e): "does not require specific intent, meaning accomplice liability cannot attach" — wrong because accomplice liability requires specific intent to facilitate the offense regardless of the underlying crime's mens rea classification.
+
+Recommended fix: Edit (a) to include an absolute, falsifiable legal claim so it does not rely on an implicit omission. For example: "(a) Yes, because continuing to participate in the crime in any capacity after discovering a weapon categorically satisfies the advance knowledge requirement."
+-->

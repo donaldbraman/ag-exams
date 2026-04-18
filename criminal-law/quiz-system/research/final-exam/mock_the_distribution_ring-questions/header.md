@@ -1,0 +1,12 @@
+# Scenario: East Side Takeover
+
+1. Artie, seeking to expand his distribution ring, summons Ben, Cole, and Damon. He says, "I have the product. I need bodies to clear out the East Side stash house and take over their corners. Anyone who helps gets a cut."
+2. Damon smiles and taps a bulge in his waistband.
+3. Artie gives Ben one kilogram of stimulants and instructs him to sell it to "Vulture." Vulture is a fictional persona created by the Metro PD's Ghost Task Force on an encrypted messaging app; no actual buyer or funds exist.
+4. Ben drives to the designated drop location. He parks 50 feet away from where Vulture's proxy was supposed to be. As Ben's hand grasps the door handle to exit the car, his phone buzzes with a text from his mother: "Police are swarming the neighborhood, come home." Ben's hand shakes. He releases the handle, leaves the drugs on the passenger seat, starts the engine, and drives home, immediately deleting the encrypted app.
+5. Meanwhile, Artie sends Cole and Damon to rob the East Side stash house. Artie's instructions are to "take their product and scare them off."
+6. Damon drives Cole to the stash house. Just before they exit the car, Damon pulls out a loaded 9mm handgun and racks the slide. Cole says, "Whoa, I thought we were just scaring them." Damon replies, "This is just for show." Cole sighs, gets out of the car, and takes his position as lookout at the back door.
+7. Damon kicks in the front door. Inside, he finds a rival dealer, Vic. Damon instantly recognizes Vic as the man who insulted his girlfriend a year ago. Damon's face flushes red. Without searching for drugs or demanding money, Damon levels the gun and shoots Vic dead, yelling, "That's for my girlfriend!"
+8. Hearing the gunshot, Cole drops his lookout post, runs back to his own apartment, and throws his burner phone in the trash. He does not contact law enforcement or Damon.
+9. Damon texts Artie: "Vic was there. I killed him. Didn't get any product." Artie replies: "Whatever. Stay low," and wires Damon $1,000.
+10. Later that week, police raid Artie's apartment. They find Artie sitting on the couch. Under the couch is a locked safe containing 5 kilograms of fentanyl. The safe belongs to Damon; Artie knows the drugs are inside and allows Damon to store it there, but Artie does not know the combination and cannot open the safe himself.

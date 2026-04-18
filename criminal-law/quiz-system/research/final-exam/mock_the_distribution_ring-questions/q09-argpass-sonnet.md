@@ -1,0 +1,33 @@
+**Q9.** How would Artie's liability for Vic's murder be evaluated in a jurisdiction that follows the Model Penal Code's approach to conspiratorial liability?
+
+(a) Guilty, because the MPC broadly holds conspirators liable for any substantive crime that is a natural and probable consequence of the overarching criminal agreement.
+(b) Guilty, because Artie's established status as the principal organizer of the conspiracy allows the court to automatically impute the lethal acts of his agents to him.
+(c) Not guilty, because the MPC rejects Pinkerton and requires the prosecution to prove that Artie actually aided and abetted the specific act of murder. <!-- correct -->
+(d) Not guilty, because the MPC strictly requires that the target offense be completed exactly as planned for any vicarious liability to attach to absent conspirators.
+(e) Not guilty, because the MPC explicitly requires that conspirators be physically present at the crime scene to be charged with any substantive offenses committed by others.
+
+**Answer:** (c)
+
+**Explanation:** The Model Penal Code explicitly rejects the *Pinkerton* doctrine. Under the MPC, mere membership in a conspiracy is insufficient to establish vicarious liability for the substantive crimes of co-conspirators. Instead, a conspirator can only be held liable if the traditional elements of accomplice liability are met—meaning the defendant must have actually aided, abetted, or encouraged the specific offense with the purpose of promoting it. Because Artie did not aid or share the purpose for Vic's murder, (c) is correct. Option (a) is wrong because the MPC rejects the natural and probable consequences doctrine for accomplice liability. Option (b) is wrong because the MPC does not automatically impute liability based on organizational status. Option (d) is wrong because the MPC does not require the exact plan to be followed, but rather relies on standard complicity rules. Option (e) is wrong because physical presence is not a requirement for accomplice liability under the MPC.
+
+**Tags:** chapters: [18, 19], topics: [conspiracy, accomplice-liability, pinkerton-mpc-rejection], difficulty: intermediate, cognitive: application
+
+**Grounding:** Chapter 19 - MPC Rejection of Pinkerton
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could argue that conspiracy doctrines generally incorporate elements of foreseeability to cover the foreseeable actions of co-conspirators. If a jurisdiction applies the natural and probable consequences doctrine to accomplices, a student might incorrectly assume the Model Penal Code adopted this standard to ensure conspirators are held accountable for logical offshoots of their agreements. Under this view, Artie would be liable because Vic's murder naturally flowed from the criminal enterprise.
+(b) Argument-for: A student could argue that while the MPC generally requires specific accomplice liability, it makes an exception for individuals who organize and direct a criminal syndicate. Because the MPC recognizes liability for acts committed by "innocent or irresponsible agents" (MPC 2.06(2)(a)), a student might extend this logic to assume that being the "principal organizer" legally transforms all co-conspirators into the defendant's agents. Therefore, the leader's status would trigger automatic vicarious liability.
+(c) Argument-for: A student could argue that this option perfectly states black-letter MPC doctrine. The Model Penal Code explicitly rejects the Pinkerton rule, which traditionally allows conspiracy membership alone to support liability for substantive crimes. Instead, MPC § 2.06 requires a defendant to act with the purpose of promoting or facilitating the specific offense, meaning the prosecution must establish the standard elements of accomplice liability (aiding, abetting, or soliciting) for the murder itself.
+(d) Argument-for: A student could argue that because the MPC rejects Pinkerton, it inherently rejects any liability for deviant or collateral offenses committed by co-conspirators. If the MPC requires "purpose" to promote a specific crime, then any deviation from the agreed-upon plan logically breaks that specific mens rea. Therefore, an absent conspirator could only be liable if the crime was executed exactly as they purposed and planned it.
+(e) Argument-for: A student could argue that by rejecting the Pinkerton doctrine's broad vicarious liability, the MPC reverts to a strict interpretation of common-law principal-in-the-second-degree requirements. Because absent conspirators (accessories before the fact) were historically distinct from those present at the scene, a student might conclude the MPC requires physical presence to establish the actus reus of aiding and abetting a substantive offense.
+
+Head-to-head: Option (c) relies on the actual black-letter rule from the Model Penal Code, which definitively rejects Pinkerton and requires proof of standard accomplice liability (purposeful aiding/abetting) for substantive crimes. The distractors are effectively neutralized by extreme, falsifiable claims. Option (a) incorrectly claims the MPC broadly uses the "natural and probable consequence" doctrine, which it explicitly rejects. Option (b) uses "automatically impute," which contradicts the MPC's refusal to base liability on mere status. Option (d) uses "strictly requires... exactly as planned," which is overly rigid, as minor deviations do not automatically sever accomplice liability. Option (e) uses "explicitly requires... physically present," which is factually false under MPC 2.06. 
+
+Falsifiable claim per distractor:
+- (a): "the MPC broadly holds conspirators liable for any substantive crime that is a natural and probable consequence" — wrong because the MPC explicitly rejects the natural and probable consequences doctrine for accomplice liability.
+- (b): "allows the court to automatically impute the lethal acts of his agents to him" — wrong because the MPC does not feature automatic imputation of liability based solely on organizational status.
+- (d): "strictly requires that the target offense be completed exactly as planned" — wrong because the MPC does not require identical execution to the plan; it simply requires the mens rea and actus reus for accomplice liability for the committed offense.
+- (e): "explicitly requires that conspirators be physically present at the crime scene" — wrong because physical presence is categorically not a requirement for accomplice liability under the MPC.
+
+Recommended fix: none
+-->

@@ -366,6 +366,7 @@ Do NOT wrap the entire output in JSON or Markdown code blocks. Just emit the raw
 
 1. **Distractor Falsifiability:** Ensure every distractor contains an explicit, falsifiable legal error. Implicit omissions are not sufficient to make a distractor wrong.
 2. **Jurisdictional Rote Memorization (BANNED):** Do not require students to memorize which states or jurisdictions apply which specific doctrines (e.g., do not ask "What is the rule in California?"). Instead, explicitly provide the relevant jurisdictional rules or doctrines directly within the question stem (e.g., "Under the California approach (which recognizes X) versus the New York approach (which rejects X)"), and test the student's ability to logically apply those provided rules to the fact pattern.
+3. **Length Parity (Anti-Meta-Gaming):** All five options MUST be roughly the same length. Do not write a long, detailed correct answer alongside terse distractors. To pad distractors, weave in plausible (but legally flawed) rationales or reference non-dispositive facts from the stem. Aim for structural symmetry (e.g., exactly two sentences per option).
 
 ## Per-Question Format Rules (applies to the `content` string)
 
@@ -655,7 +656,7 @@ def build_ambiguity_audit_prompt(
 Your job is answer defensibility AND topic-exclusion compliance — NOT formatting, \
 style, or grammar.
 {exclusions_section}
-For every question, work through these six checks:
+For every question, work through these eight checks:
 
 1. **Correct-answer accuracy** — Is the marked correct answer actually correct \
 under the doctrine covered in the relevant chapter? Read the chapter passages \
@@ -718,6 +719,11 @@ a student to treat both as governing the same case is a legal impossibility. \
 Flag as SHOULD FIX if a simple stem reframe (e.g., "assume a counterfactual \
 federal prosecution on parallel facts") would resolve it; MUST FIX if the \
 question cannot be salvaged without a full rewrite.
+
+8. **Length Parity (Anti-Meta-Gaming)** — Is the marked correct answer \
+significantly longer or more detailed than the distractors? If a student \
+could guess the correct answer just by picking the longest option, flag it \
+as MUST FIX. All options should be roughly symmetrical in length and structure.
 
 ## Questions to Audit
 
@@ -868,7 +874,7 @@ trust the Q's own chapter tags; verify against the full chapter-map corpus.
 
 {_MAPS_USAGE_INSTRUCTIONS}
 
-## Seven Checks (run each and report findings)
+## Eight Checks (run each and report findings)
 
 Grep the meta-map for the doctrine(s) at issue; Read the relevant chapter \
 maps with the Read tool before forming your verdict.
@@ -891,6 +897,10 @@ or other topics the map should not exercise?
 7. **Coverage mismatch.** Is the correct answer's doctrine actually in some \
 chapter map's Refinements, or is the Q reaching outside what was taught? \
 (Don't assume — Grep the meta-map.)
+8. **Length Parity (Anti-Meta-Gaming).** Is the marked correct answer \
+significantly longer or more detailed than the distractors? If a student \
+could guess the correct answer just by picking the longest option, flag it \
+as MUST FIX. All options should be roughly symmetrical in length and structure.
 
 ## Output
 
@@ -906,12 +916,13 @@ rewrite the Q itself; append only the audit block.
 <check 5>: <finding or "pass">
 <check 6>: <finding or "pass">
 <check 7>: <finding or "pass">
+<check 8>: <finding or "pass">
 Recommended fix: <concrete edit, if applicable>
 -->
 ```
 
 Where VERDICT is:
-- **CLEAN** — all seven checks pass; no student challenge foreseeable.
+- **CLEAN** — all eight checks pass; no student challenge foreseeable.
 - **SHOULD FIX** — at least one check reveals a weakness; explanation drift, \
 soft distractor, or jurisdictional ambiguity. Ship-able with edits.
 - **MUST FIX** — a prepared student could reasonably argue a non-marked \

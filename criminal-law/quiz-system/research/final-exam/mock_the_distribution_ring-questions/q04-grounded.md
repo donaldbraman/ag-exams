@@ -1,0 +1,17 @@
+**Q4.** Assume that Ben is charged with attempted distribution in an MPC jurisdiction. Does the fact that "Vulture" was a fictional police persona provide Ben with a valid impossibility defense?
+
+(a) Yes, because the factual impossibility of completing the sale to a non-existent buyer legally negates the specific intent required for an attempt conviction.
+(b) Yes, because the government manufactured the criminal opportunity, which creates a valid and absolute legal impossibility defense under the Model Penal Code framework.
+(c) No, because the MPC abolished the defense of pure legal impossibility but intentionally retained factual impossibility as a bar to convictions in sting operations.
+(d) No, because the MPC evaluates attempt liability based on the circumstances as the defendant genuinely believed them to be, making the police deception entirely irrelevant. <!-- correct -->
+(e) No, because the traditional common law rule treats police sting operations as an explicit exception to the general doctrine of legal impossibility.
+
+**Answer:** (d)
+
+**Explanation:** Under MPC § 5.01(1)(a), impossibility (whether factual or hybrid legal) is abolished as a defense. A defendant is guilty of attempt if they engage in conduct that would constitute the crime if the attendant circumstances were as they believed them to be. Because Ben believed "Vulture" was a real buyer, the impossibility of completing the sale is irrelevant, making (d) correct. Option (a) is wrong because factual impossibility does not negate criminal intent; Ben still intended to sell drugs. Option (b) is wrong because government manufacture relates to entrapment, not impossibility. Option (c) reverses the MPC rule—the MPC retains pure legal impossibility but abolishes factual impossibility. Option (e) is wrong because the traditional common law actually recognized legal impossibility as a defense, which is exactly why the MPC abolished it to enable sting operations.
+
+**Tags:** chapters: [17], topics: [attempt, impossibility-mpc, impossibility-sting-nexus], difficulty: advanced, cognitive: application
+
+**Grounding:** Chapter 17 - Liability Limit 2 & 3: Impossibility (MPC Abolition and Sting Operations)
+
+<!-- grounding: GROUNDED — MPC Impossibility, Ch 17, Refinement `impossibility-mpc` and `impossibility-sting-nexus`. Rule paraphrased accurately. -->

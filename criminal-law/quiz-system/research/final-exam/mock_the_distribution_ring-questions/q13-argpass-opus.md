@@ -1,0 +1,33 @@
+**Q13.** Assume Artie is charged as an accessory after the fact for wiring Damon $1,000 and telling him to "Stay low" after learning of the murder. Which statement best analyzes this charge?
+
+(a) Valid, because assisting a principal in evading capture or detection after a crime has been completed constitutes the distinct lesser offense of accessory after the fact. <!-- correct -->
+(b) Valid, because providing financial compensation for a completed murder retroactively establishes Artie as a principal in the first degree to the underlying homicide offense.
+(c) Invalid, because Artie's initial role in planning the stash house robbery automatically merges any subsequent assistance into the primary pre-crime conspiracy charge.
+(d) Invalid, because the payment of $1,000 is considered a trivial amount and does not legally meet the substantial material assistance threshold required for the offense.
+(e) Invalid, because an accessory after the fact charge requires strict proof that the defendant provided physical sanctuary or actively misled law enforcement investigators.
+
+**Answer:** (a)
+
+**Explanation:** Accessory after the fact is a separate, lower-grade offense that criminalizes providing assistance to someone after a crime is complete to help them escape detection or punishment. Artie's instruction to "stay low" accompanied by $1,000 in funding directly facilitated Damon's evasion of authorities. Thus, (a) is correct. Option (b) is wrong because post-crime assistance does not retroactively create principal liability; the historical grading distinction survives precisely for this reason. Option (c) is wrong because accessory after the fact is a separate post-crime offense that does not merge into the pre-crime conspiracy. Option (d) is wrong because any act of material assistance designed to help the perpetrator evade justice is sufficient; there is no specific monetary threshold required. Option (e) is wrong because providing financial resources to facilitate a fugitive's flight easily qualifies as assistance; physical sanctuary or direct deception of police is not strictly required.
+
+**Tags:** chapters: [18], topics: [accomplice-liability, gp-accessory-after-fact], difficulty: foundational, cognitive: application
+
+**Grounding:** Chapter 18 - Accessory After the Fact as Separate Offense
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: This option correctly identifies the black-letter definition of an accessory after the fact. At common law and under modern statutes, an accessory after the fact is one who, knowing a completed felony has been committed, renders aid to the felon to hinder their apprehension, trial, or punishment. Wiring money and advising the principal to "stay low" perfectly satisfies the actus reus of providing assistance to evade capture.
+(b) Argument-for: A student might argue that paying $1,000 after a murder functions as the culmination of a murder-for-hire contract. If the payment was a "bounty" for the completed crime, one could argue that fulfilling the financial obligation ratifies the act, tying Artie's conduct directly to the murder and elevating his status to a principal. 
+(c) Argument-for: A student could argue based on the continuous nature of conspiracy. Under Pinkerton and general conspiracy doctrines, the conspiracy continues until its objectives (including the division of proceeds or evasion of immediate capture) are complete. Therefore, a student might argue that Artie's post-crime assistance is merely an overt act in furtherance of the ongoing conspiracy, meaning a separate "accessory after the fact" charge would improperly duplicate or merge into the existing conspiracy liability.
+(d) Argument-for: A student could argue that criminal liability requires a threshold of material hindrance, and merely sending $1,000 is de minimis in the context of fleeing a major felony like murder. If the aid is trivial and does not substantially thwart law enforcement, a student might assume it fails the actus reus requirement for accessory after the fact, analogous to how mere words or failure to report (misprision) are insufficient.
+(e) Argument-for: A student could rely on a rigid historical interpretation of "harboring or concealing." Early common law often emphasized physical acts like hiding the fugitive in a safehouse or directly lying to constables. Because Artie merely wired funds remotely and offered words of advice ("stay low"), a student might conclude he did not meet the strict physical or deceptive actus reus required for the charge.
+
+Head-to-head: Option (a) accurately states the law without overextending. Distractor (b) fails because paying someone after a crime does not "retroactively establish" them as a principal in the first degree (which requires actually committing the actus reus of the homicide). Distractor (c) incorrectly states a bright-line merger rule; accessory after the fact is a distinct offense that does not "automatically merge" into pre-crime conspiracy. Distractor (d) invents a nonexistent legal rule by claiming $1,000 does not legally meet a "substantial material assistance threshold." Distractor (e) falsely claims the law "requires strict proof" of physical sanctuary or active police deception, ignoring that providing the financial means of flight is textbook accessory after the fact. All distractors present clear, falsifiable legal errors.
+
+Falsifiable claim per distractor:
+- (b): "retroactively establishes Artie as a principal in the first degree" — wrong because post-crime assistance (even paying for a hit) does not make one a principal in the first degree (the actual perpetrator).
+- (c): "automatically merges any subsequent assistance into the primary pre-crime conspiracy charge" — wrong because accessory after the fact is an independent substantive offense regarding post-crime hindrance of justice and does not merge into the pre-crime conspiracy.
+- (d): "does not legally meet the substantial material assistance threshold required" — wrong because there is no specific monetary or "substantial" threshold to qualify as accessory after the fact; any aid intended to hinder apprehension suffices.
+- (e): "requires strict proof that the defendant provided physical sanctuary or actively misled law enforcement" — wrong because providing the financial means to escape (money) is a well-established basis for the charge; physical sanctuary is not strictly required.
+
+Recommended fix: none
+-->

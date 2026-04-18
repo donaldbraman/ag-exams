@@ -1,0 +1,34 @@
+**Q11.** Damon is charged with felony murder based on Vic's death, with attempted robbery as the predicate felony. Which statement best describes his liability?
+
+(a) Guilty of felony murder, because the death occurred during an attempted robbery, and the independent purpose of the robbery prevents the predicate from merging into the homicide. <!-- correct -->
+(b) Guilty of felony murder, but his overall sentence must be reduced by one grade because the predicate offense of robbery was only attempted rather than successfully completed.
+(c) Not guilty of felony murder, because he did not actively search for drugs or demand money, meaning the actus reus requirement for attempted robbery was never satisfied.
+(d) Not guilty of felony murder, because his underlying personal motive for the shooting legally severs the causal connection between the attempted robbery and the resulting death.
+(e) Not guilty of felony murder, because under the merger doctrine, the assaultive act of shooting the victim completely absorbs the attempted robbery, barring the felony murder charge.
+
+**Answer:** (a)
+
+**Explanation:** Felony murder attaches first-degree murder liability to a death caused during an attempt to commit a predicate felony. Furthermore, under the merger doctrine, a predicate felony must have an independent felonious purpose from the assault that caused death; robbery satisfies this because its purpose is to steal, not just to injure. Therefore, the attempted robbery does not merge and serves as a valid predicate. Thus, (a) is correct. Option (b) is wrong because the felony murder rule elevates the punishment to murder; attempt grading reductions do not apply when a death triggers felony murder. Option (c) is wrong because kicking in the door of the target location is clearly an overt act/substantial step for attempted robbery. Option (d) is wrong because temporal and spatial overlap (the res gestae) satisfy felony murder; the personal motive does not break the chain. Option (e) is wrong because robbery has an independent purpose (property acquisition) and does not merge into the homicide.
+
+**Tags:** chapters: [14, 17], topics: [felony-murder, attempt, grading-felony-murder-attempt, merger-independent-purpose], difficulty: advanced, cognitive: application
+
+**Grounding:** Chapter 17 - Felony Murder and Attempted Predicate Felonies; Chapter 14 - Merger Doctrine
+
+<!-- argument-pass: MUST FIX
+(a) Argument-for: Felony murder applies when a death is caused during the commission or attempted commission of an inherently dangerous felony. The merger doctrine prevents assaultive felonies from serving as predicates, but requires an "independent felonious purpose." Robbery has an independent purpose (depriving the victim of property), meaning it does not merge into the homicide, making Damon properly liable for felony murder.
+(b) Argument-for: Attempt grading rules (like MPC 5.05) generally drop an offense by one grade compared to the completed crime. A student could argue that if the predicate felony is only an attempt, the resulting felony murder conviction must symmetrically reflect that reduced severity. Thus, the overall sentence must be mitigated to avoid punishing an attempted predicate exactly the same as a completed one.
+(c) Argument-for: Attempt requires a substantial step strongly corroborative of the actor's criminal purpose. If Damon never actively searched for drugs or demanded money, a student could argue he never crossed the threshold from mere preparation into attempt. Without an actus reus satisfying the predicate offense of attempted robbery, the felony murder charge lacks its necessary foundation.
+(d) Argument-for: Felony murder requires that the death occur "in furtherance of" the felony. A student could argue that if Damon had an entirely separate, underlying personal motive for the shooting, the death is severed from the attempted robbery. Under this view, a purely independent motive breaks the causal and logical res gestae nexus required to hold him strictly liable for the death under the felony murder rule.
+(e) Argument-for: The merger doctrine prohibits felony murder when the underlying felony is an integral part of the homicide. A student could argue that because the shooting itself supplies the exact "force" element required to elevate a theft to an attempted robbery, the assaultive act completely merges into the homicide. Therefore, the attempted robbery is absorbed by the killing, barring the felony murder charge.
+
+Head-to-head: 
+As currently drafted, the question is unanswerable because the entire fact pattern is missing from the prompt. Without knowing what Damon actually did, arguments (c) and (d) are factually unassailable and potentially stronger than the key (a) since there are no facts to contradict them. Assuming the missing facts (referenced in the explanation) are restored, (a) accurately applies the independent purpose exception to the merger doctrine. The distractors all contain cleanly falsifiable legal claims: (b) incorrectly mandates attempt-grading for felony murder; (c) relies on a false legal absolute that an active search/demand is categorically required for an attempt actus reus; (d) falsely claims a concurrent personal motive legally severs the res gestae connection; and (e) falsely applies the merger doctrine to a crime (robbery) that universally has an independent felonious purpose. 
+
+Falsifiable claim per distractor:
+- (b): "must be reduced by one grade because the predicate offense of robbery was only attempted" — wrong because felony murder triggers murder liability (usually 1st degree) regardless of whether the predicate was completed or merely attempted; attempt grading reductions do not carry over to the resulting felony murder charge.
+- (c): "did not actively search... meaning the actus reus requirement for attempted robbery was never satisfied" — wrong because kicking in a door (as the explanation implies he did) satisfies the substantial step/overt act requirement; an active search or verbal demand is not categorically required.
+- (d): "legally severs the causal connection" — wrong because temporal and spatial overlap (the res gestae) satisfy the connection for felony murder; a concurrent personal motive does not categorically sever causation.
+- (e): "completely absorbs the attempted robbery, barring the felony murder charge" — wrong because robbery has an independent felonious purpose (theft) and therefore categorically does not merge into the homicide.
+
+Recommended fix: The question is missing the actual fact pattern. You must insert the narrative detailing Damon's actions (e.g., him kicking in the door, having a concurrent personal motive to shoot Vic, but intending to rob him) before the question stem. The options themselves are excellently drafted and structurally sound once the facts are present.
+-->

@@ -1,0 +1,33 @@
+**Q10.** Did Cole successfully withdraw from the conspiracy when he ran away after hearing the gunshot?
+
+(a) Yes, because throwing away his burner phone and fleeing the scene constituted a complete and voluntary renunciation of his ongoing criminal purpose.
+(b) Yes, because immediately abandoning his post as a lookout physically and legally severed his connection to the ongoing criminal enterprise.
+(c) No, because he failed to take any affirmative steps to communicate his withdrawal to his co-conspirators or to properly disclose the scheme to law enforcement. <!-- correct -->
+(d) No, because successfully withdrawing from a criminal conspiracy is legally impossible once any overt act has been committed by any member of the group.
+(e) No, because the law strictly requires a withdrawing conspirator to physically prevent the completion of the target offense in order to fully escape liability.
+
+**Answer:** (c)
+
+**Explanation:** Withdrawal from a conspiracy is demanding. To effectively withdraw and terminate liability for future acts of the conspiracy, a defendant must not only cease participation but also take affirmative steps to disavow the conspiracy, which requires communicating the withdrawal to co-conspirators or disclosing the scheme to law enforcement. Cole merely ran away and threw out his phone; he did neither. Thus, (c) is correct. Option (a) is wrong because destroying a phone in private does not communicate withdrawal to anyone. Option (b) is wrong because merely abandoning a post or getting "cold feet" is insufficient without communication. Option (d) is wrong because withdrawal is absolutely possible after an overt act (though it only cuts off liability for future crimes, not the conspiracy itself). Option (e) is wrong because while the MPC attempt abandonment defense requires preventing the crime, conspiracy withdrawal only requires communication or disclosure to law enforcement.
+
+**Tags:** chapters: [19], topics: [conspiracy, withdrawal-requirements], difficulty: foundational, cognitive: application
+
+**Grounding:** Chapter 19 - Withdrawal (Requirement of communication to coconspirators or law enforcement)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under the Model Penal Code, renunciation of a criminal purpose can be a defense if it is complete and voluntary. A student could argue that Cole's act of throwing away his burner phone explicitly severed his ability to communicate with his co-conspirators, effectively acting as an objective manifestation of his intent to withdraw. Fleeing the scene further concretized this withdrawal, completely halting his participation. Therefore, these actions collectively met the threshold for a complete and voluntary renunciation.
+(b) Argument-for: Liability for conspiracy and Pinkerton crimes requires ongoing complicity and connection to the enterprise. A student might argue that Cole's physical abandonment of his lookout post definitively terminated his active involvement in the conspiracy. Because his specific role was tied to being physically present, leaving the post legally and physically severed his contribution, thereby terminating his liability for any subsequent actions taken by the group.
+(c) Argument-for: The common law and federal rule for withdrawal from a conspiracy require more than mere cessation of activity or "cold feet." A conspirator must take affirmative steps to disavow the conspiracy, typically by effectively communicating their withdrawal to all co-conspirators or by alerting law enforcement. Since Cole merely threw his phone away and ran without taking any affirmative steps to notify his accomplices or the police, his withdrawal was legally ineffective.
+(d) Argument-for: In many jurisdictions, the crime of conspiracy is complete the moment the agreement is made and an overt act is committed. A student might argue that because an overt act (like arriving at the scene or firing a gunshot) has already occurred, the conspiracy is fully consummated. Consequently, it becomes legally impossible to "withdraw" from the conspiracy offense itself, locking in Cole's liability regardless of his subsequent flight.
+(e) Argument-for: Under the Model Penal Code § 5.03(6), the affirmative defense of renunciation for the crime of conspiracy requires the defendant to thwart the success of the conspiracy. A student could interpret this to mean that merely communicating withdrawal is insufficient to fully escape all liability (including liability for the conspiracy itself). Instead, the law strictly demands that the withdrawing party physically prevent the target offense from being completed.
+
+Head-to-head: Option (c) clearly and accurately states the prevailing legal standard for effective withdrawal from a conspiracy—affirmative communication to co-conspirators or law enforcement. Options (a) and (b) incorrectly assert that unilateral, uncommunicated actions (fleeing, destroying a phone, abandoning a post) are legally sufficient to sever liability; both make explicitly false claims about the legal effect of these facts. Option (d) presents a categorical false legal claim that withdrawal is "legally impossible" after an overt act, confusing the completion of the conspiracy charge with the inability to withdraw to avoid Pinkerton liability for future crimes. Option (e) falsely claims the law "strictly requires" physically preventing the crime to escape liability, which overstates the MPC standard and ignores common-law withdrawal requirements entirely. All distractors contain clear, falsifiable errors.
+
+Falsifiable claim per distractor:
+- (a): "throwing away his burner phone and fleeing the scene constituted a complete and voluntary renunciation" — wrong because unilateral cessation and destruction of a phone do not legally constitute complete and voluntary renunciation or effective withdrawal without affirmative communication.
+- (b): "immediately abandoning his post... legally severed his connection" — wrong because abandoning a post is mere "cold feet" and is legally insufficient to sever connection to a conspiracy.
+- (d): "successfully withdrawing from a criminal conspiracy is legally impossible once any overt act has been committed" — wrong because a conspirator can legally withdraw after an overt act to cut off liability for subsequent crimes committed by co-conspirators.
+- (e): "the law strictly requires a withdrawing conspirator to physically prevent the completion of the target offense" — wrong because common law withdrawal merely requires communication to co-conspirators or law enforcement, not physical prevention.
+
+Recommended fix: none
+-->
