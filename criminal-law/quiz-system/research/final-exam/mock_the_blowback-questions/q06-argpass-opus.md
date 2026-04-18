@@ -1,0 +1,33 @@
+**Q6.** Assume Deacon is charged with felony murder for Omar's death under an accomplice theory. The jurisdiction strictly follows the *Tison* standard for accomplice felony murder (as adapted for state non-capital cases like California's SB 1437). Is Deacon guilty of Omar's murder?
+
+(a) Guilty, because providing the crowbar for the planned burglary makes him a principal in the underlying predicate felony offense.
+(b) Guilty, because Omar's death was a reasonably foreseeable consequence of the planned storage unit burglary and vehicular escape.
+(c) Not guilty, because he was absent from the scene and his peripheral involvement lacked a reckless indifference to human life. <!-- correct -->
+(d) Not guilty, because the agency theory of felony murder completely shields any accomplices who are not physically present at the scene.
+(e) Not guilty, because the *Tison* standard requires the defendant to personally inflict the fatal injury to support a murder conviction.
+
+**Answer:** (c)
+
+**Explanation:** Under the *Tison* standard (and reforms like California's SB 1437), an accomplice who is not the actual killer must be a "major participant" in the underlying felony and act with "reckless indifference to human life." Deacon provided a crowbar but no weapons and stayed home (Fact 7); under cases like *Brown* and *Emanuel*, this peripheral involvement without lethal weapons falls short of the reckless indifference and major participant requirements. Option (a) ignores the specific *Tison* limitations that now restrict liability for mere principals. Option (b) states the standard proximate-cause test, not the *Tison* test. Option (d) misstates agency theory, which applies when a non-felon (like a police officer) kills, not when a co-felon kills. Option (e) incorrectly claims *Tison* abolishes accomplice liability entirely, which it does not.
+
+**Tags:** chapters: [14], topics: [felony murder, accomplice liability, Tison, major participant], difficulty: hard, cognitive: application
+
+**Grounding:** Chapter 14 - tison-major-participant: Major Participation + Reckless Indifference Required for Accomplice Death Penalty
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under traditional accomplice liability, any individual who aids and abets the underlying felony is a principal. A student could argue that supplying the necessary tool (crowbar) for a burglary establishes this principal status. If they believe felony murder rules apply strictly to all principals in an inherently dangerous felony, they would conclude that providing the crowbar is legally sufficient to sustain a felony murder conviction.
+(b) Argument-for: Proximate cause and Pinkerton liability principles dictate that accomplices are responsible for the natural and probable consequences of the target crime. A student could argue that a fatal vehicle collision is a highly foreseeable risk of fleeing a burglary. Because *Tison* incorporates an assessment of risk, a student might reason that reasonable foreseeability of death during an escape inherently fulfills the standard, thus justifying a guilty verdict.
+(c) Argument-for: The *Tison* standard drastically limits the scope of felony murder for non-killers, requiring the defendant to be a "major participant" in the underlying felony who acts with "reckless indifference to human life." A student would recognize that merely supplying a non-lethal tool like a crowbar and remaining absent from the scene constitutes minor, peripheral involvement. This lack of physical presence or lethal contribution definitively precludes a finding of reckless indifference, making Deacon not guilty.
+(d) Argument-for: The agency theory of felony murder restricts liability to acts committed by the felons themselves in furtherance of the conspiracy. A student might conflate this theory with rules of physical presence, arguing that "agency" requires direct physical proximity to the killing agent at the scene. Under this misinterpretation, an absent accessory before the fact falls entirely outside the "agency" relationship at the moment of the crime, thereby categorically shielding them from liability.
+(e) Argument-for: State reforms modeled after *Tison* aimed to eliminate the harshness of strict liability felony murder. A student might mistakenly believe that these reforms completely abolished felony murder for anyone other than the actual killer. Under this extreme reading, unless the defendant personally inflicted the fatal blow, they categorically cannot be convicted of murder, making Deacon automatically not guilty.
+
+Head-to-head: Option (c) is the legally accurate application of the *Tison* standard, which requires major participation and reckless indifference. Option (a) incorrectly posits that mere principal status in the predicate offense establishes guilt, which *Tison* explicitly rejects. Option (b) uses "reasonably foreseeable consequence," which is the wrong standard (proximate cause/Pinkerton) for a strict *Tison* jurisdiction. Option (d) uses absolute language ("completely shields") and conflates agency theory (which distinguishes between who does the killing) with presence requirements. Option (e) uses absolute language ("requires... to personally inflict"), which is factually false since *Tison* was specifically designed to outline when non-killers *can* be executed/convicted. 
+
+Falsifiable claim per distractor:
+- (a): "...Guilty, because providing the crowbar for the planned burglary makes him a principal..." — wrong because under *Tison*/SB 1437, merely being a principal in the predicate felony is legally insufficient for a murder conviction; major participation and reckless indifference are required.
+- (b): "...Guilty, because Omar's death was a reasonably foreseeable consequence..." — wrong because *Tison* requires a subjective finding of reckless indifference to human life, not merely an objective finding of reasonable foreseeability.
+- (d): "...the agency theory of felony murder completely shields any accomplices who are not physically present..." — wrong because the agency theory hinges on the identity of the killer (co-felon vs. third party), not the physical presence of the accomplice.
+- (e): "...the Tison standard requires the defendant to personally inflict the fatal injury..." — wrong because *Tison* explicitly allows for the conviction of accomplices who do *not* personally inflict the injury, provided they are major participants acting with reckless indifference.
+
+Recommended fix: none
+-->

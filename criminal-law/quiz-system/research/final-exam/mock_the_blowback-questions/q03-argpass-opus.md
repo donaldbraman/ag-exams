@@ -1,0 +1,33 @@
+**Q3.** Assume Deacon is charged with depraved heart murder in Maryland for Chloe's fatal overdose. Under the *Beckwitt* standard for determining the threshold of extreme indifference, what must the prosecution prove regarding Deacon's mental state and conduct?
+
+(a) That his decision to double the drug concentration was reasonably likely, if not certain, to cause a fatal overdose. <!-- correct -->
+(b) That his decision to double the drug concentration demonstrated a conscious disregard of a substantial and unjustifiable risk.
+(c) That his decision to double the drug concentration was made with the specific intent to cause Chloe's death for street reputation.
+(d) That his decision to double the drug concentration was a gross deviation from the standard of care a reasonable person would observe.
+(e) That his decision to double the drug concentration constituted an underlying felony that was inherently dangerous in the abstract.
+
+**Answer:** (a)
+
+**Explanation:** The *Beckwitt* standard clarifies the line between manslaughter and depraved heart murder in Maryland, requiring that the defendant's conduct be "reasonably likely, if not certain, to cause death." Option (a) applies this exact standard. Option (b) defines standard recklessness (the floor for involuntary manslaughter), which *Beckwitt* holds is insufficient for depraved heart murder. Option (c) describes the *mens rea* for first-degree intentional murder, which is not required for depraved heart murder. Option (d) defines gross negligence (the standard for involuntary manslaughter in non-MPC states). Option (e) states the abstract-elements test for felony murder, not the extreme indifference standard.
+
+**Tags:** chapters: [13], topics: [depraved heart murder, extreme indifference, Beckwitt], difficulty: medium, cognitive: recall
+
+**Grounding:** Chapter 13 - likely-if-not-certain-standard: Maryland's "Likely, If Not Certain, to Cause Death" — Manslaughter/Murder Line
+
+<!-- argument-pass: MUST FIX
+(a) Argument-for: Option (a) precisely captures the standard articulated by the Maryland Supreme Court in *Beckwitt v. State* (2022). To elevate manslaughter to depraved heart murder, the State must prove that the defendant's conduct demonstrated an extreme indifference to human life. *Beckwitt* established that this threshold is met only when the defendant's act is "reasonably likely, if not certain, to cause death." This accurately distinguishes the malice requirement for second-degree depraved heart murder from lesser forms of homicide.
+(b) Argument-for: Option (b) reflects the classic definition of recklessness, which requires "conscious disregard of a substantial and unjustifiable risk." A student could argue that depraved heart murder is fundamentally a crime of recklessness. Because extreme indifference requires a subjective awareness of the risk to human life, proving this conscious disregard is absolutely necessary to establish the defendant's mental state, making it a required element the prosecution must prove.
+(c) Argument-for: Option (c) states that Deacon acted with specific intent to kill. A student could argue that proving a specific intent to kill automatically establishes malice aforethought, which is the umbrella mens rea for murder. Since the prosecution must prove malice for any murder charge (including depraved heart), proving specific intent would satisfy the overarching mental state requirement, subsuming the extreme indifference standard entirely.
+(d) Argument-for: Option (d) describes a "gross deviation from the standard of care," the standard for gross negligence. A student could argue that the *Beckwitt* standard operates objectively by evaluating the defendant's actions against what a reasonable person would do. Since extreme indifference is an aggravated form of gross negligence, the prosecution must at least prove this gross deviation as the foundational conduct component of the charge.
+(e) Argument-for: Option (e) invokes an inherently dangerous felony. A student could argue that doubling a drug concentration for distribution constitutes a dangerous felony. In many overdose cases, courts use the inherently dangerous felony rule to imply the malice necessary for second-degree murder. Thus, proving this underlying felony is a recognized alternative method to satisfy the extreme indifference requirement under the broader malice umbrella.
+
+Head-to-head: Option (a) is the only choice that correctly isolates the unique, heightened threshold articulated in *Beckwitt* ("reasonably likely, if not certain, to cause death"). However, because the prompt simply asks "what must the prosecution prove," Options (b) and (d) are technically true statements: the prosecution *must* prove a conscious disregard of a risk and a gross deviation from the standard of care as baseline components of extreme recklessness. They are incorrect only because of an implicit omission (they are necessary but not *sufficient* to meet the *Beckwitt* threshold). Because a distractor passes only if it contains an explicit, identifiable false legal claim, (b) and (d) fail the standard. Option (c) is explicitly false because depraved heart murder does not require specific intent to kill. Option (e) is explicitly false because depraved heart murder does not require an underlying felony.
+
+Falsifiable claim per distractor:
+- (b): "demonstrated a conscious disregard of a substantial and unjustifiable risk" — inherently true as a necessary lesser-included element; it lacks an explicit false claim of sufficiency and relies on an implicit omission.
+- (c): "was made with the specific intent to cause Chloe's death" — wrong because depraved heart murder is an unintentional killing requiring implied malice, not specific intent.
+- (d): "was a gross deviation from the standard of care" — inherently true as a necessary lesser-included element; lacks an explicitly false claim of sufficiency.
+- (e): "constituted an underlying felony that was inherently dangerous" — wrong because depraved heart murder does not require the prosecution to prove any underlying felony.
+
+Recommended fix: Add absolute modifiers to (b) and (d) to explicitly assert that those lower standards are sufficient to meet the *Beckwitt* threshold. Change (b) to: "That demonstrating a conscious disregard of any substantial and unjustifiable risk automatically satisfies the extreme indifference threshold." Change (d) to: "That the threshold is categorically met if his decision was a gross deviation from the standard of care a reasonable person would observe."
+-->

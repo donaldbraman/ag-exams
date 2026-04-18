@@ -1,0 +1,33 @@
+**Q5.** Assume Trey is charged with felony murder for Omar's death, using "Felony Evasion" as the predicate. The jurisdiction applies California's abstract-elements test to determine if a felony is inherently dangerous. Based strictly on the statutory definition provided in the facts, does the predicate qualify?
+
+(a) It qualifies as a predicate, because Trey actually drove 80 mph through a residential area, which is highly dangerous to human life.
+(b) It qualifies as a predicate, because vehicular flight from the police inherently carries a high probability of a fatal crash in all cases.
+(c) It does not qualify as a predicate, because the evasion statute can theoretically be violated safely by fleeing at very low speeds. <!-- correct -->
+(d) It does not qualify as a predicate, because the crime of evasion merges with the homicide under the independent-purpose doctrine limit.
+(e) It does not qualify as a predicate, because the prosecution cannot prove Trey possessed the specific intent to kill the pedestrian.
+
+**Answer:** (c)
+
+**Explanation:** Under California's abstract-elements test, a court looks strictly at the elements of the statute, not the defendant's actual conduct. If the felony can theoretically be committed in a way that does not endanger human life (e.g., fleeing a police vehicle slowly in an empty field), it is not "inherently dangerous" and cannot serve as a predicate. Option (a) incorrectly applies the "facts-as-committed" test used in other jurisdictions. Option (b) makes an inaccurate categorical claim that ignores the requirement that the crime be dangerous in the abstract in all possible applications. Option (d) is wrong because evasion has an independent felonious purpose (escape) and thus does not merge. Option (e) is wrong because felony murder substitutes the felony's mens rea for the homicide's mens rea.
+
+**Tags:** chapters: [14], topics: [felony murder, inherently dangerous, abstract-elements test], difficulty: hard, cognitive: application
+
+**Grounding:** Chapter 14 - elements-vs-facts-approach: Abstract Elements vs. Facts-as-Committed Test for Dangerousness
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under a facts-as-committed approach, the court evaluates the specific conduct of the defendant to determine inherent dangerousness. A student might argue that because Trey drove 80 mph through a residential area, the conduct was demonstrably highly dangerous to human life. If the student fails to realize that the question explicitly mandates the California abstract-elements test, they could reasonably conclude that the severe danger of Trey's actual driving qualifies the crime as a predicate.
+(b) Argument-for: A student could assert that vehicular flight from the police is, by its very nature, an inherently dangerous felony that cannot be committed safely. The argument relies on the premise that any police chase escalates the risk of a fatal crash to a high probability, making it dangerous in the abstract. They could argue that the statutory concept of "Felony Evasion" inherently requires creating a danger to the public, thus automatically satisfying California's abstract-elements test in all cases.
+(c) Argument-for: The abstract-elements test dictates that a felony is inherently dangerous only if it cannot be committed without a substantial risk to human life. If the statutory definition of "Felony Evasion" encompasses conduct that is not inherently dangerous—such as fleeing at low speeds—it fails the test. Because the statute can theoretically be violated safely, the felony is not inherently dangerous in the abstract and therefore cannot serve as a predicate for felony murder.
+(d) Argument-for: The Ireland merger doctrine limits felony murder by requiring the predicate felony to have an independent felonious purpose distinct from the homicide. A student might argue that reckless vehicular evasion resulting in death is an assaultive offense that is an integral part of the homicide itself. Thus, they could conclude that evasion merges into the homicide, preventing it from qualifying as a predicate.
+(e) Argument-for: A student could defend this option by confusing the mens rea requirements for different types of homicide. They might argue that a murder conviction generally requires malice aforethought, which they incorrectly conflate with a specific intent to kill. Since Trey was evading the police and merely struck a pedestrian, he lacked the specific intent to kill, leading the student to wrongly conclude that the felony-murder charge must fail due to this absent mens rea.
+
+Head-to-head: Option (c) correctly states the legal standard for California's abstract-elements test, which evaluates whether a felony can be committed safely based purely on its statutory elements, regardless of the defendant's actual conduct. Option (a) is incorrect because it applies a facts-as-committed approach instead of the mandated abstract-elements test. Option (b) makes a false categorical claim that vehicular flight carries a high probability of death "in all cases," which is defeated by the theoretical safe-flight scenario. Option (d) incorrectly applies the merger doctrine, as evasion has a clear independent felonious purpose (to escape police) and thus does not merge with homicide. Option (e) relies on an explicit false premise that felony murder requires specific intent to kill, ignoring that the doctrine substitutes the felony's mens rea for malice. All distractors contain clearly identifiable, explicit false legal or factual claims under the constraints of the doctrine.
+
+Falsifiable claim per distractor:
+- (a): "because Trey actually drove 80 mph" — wrong because relying on the defendant's actual conduct to qualify the predicate explicitly violates the abstract-elements test.
+- (b): "inherently carries a high probability of a fatal crash in all cases" — wrong because it makes a false absolute claim that ignores factual scenarios where evasion can be committed safely at low speeds.
+- (d): "merges with the homicide under the independent-purpose doctrine limit" — wrong because evasion is motivated by an independent purpose (escaping law enforcement) and therefore categorically does not merge.
+- (e): "because the prosecution cannot prove Trey possessed the specific intent to kill" — wrong because the felony-murder rule explicitly dispenses with the requirement to prove any specific intent to kill.
+
+Recommended fix: none
+-->
