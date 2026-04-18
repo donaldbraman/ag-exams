@@ -1,0 +1,113 @@
+Completing activity as failed ({'activity_id': '1', 'activity_type': 'dispatch_architect', 'attempt': 1, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-mock_procedural_block-019da1e5-e046-7d23-b392-4cb5f1771002', 'workflow_run_id': '019da1e5-e072-74a7-b5b2-62acb7e379eb', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 190, in dispatch_architect
+    reasoning_md = await dispatch_gemini(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 45, in dispatch_gemini
+    client = _get_client()
+  File "/Users/dbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 24, in _get_client
+    api_key = get_secret("google-api-key")
+  File "/Users/dbraman/Documents/GitHub/auth-utils/src/auth_utils/secrets/manager.py", line 333, in get_secret
+    raise SecretNotFoundError(name, searched)
+auth_utils.secrets.manager.SecretNotFoundError: Secret 'google-api-key' not found in env:GOOGLE_API_KEY, gcp
+Completing activity as failed ({'activity_id': '1', 'activity_type': 'dispatch_architect', 'attempt': 2, 'namespace': 'default', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-mock_procedural_block-019da1e5-e046-7d23-b392-4cb5f1771002', 'workflow_run_id': '019da1e5-e072-74a7-b5b2-62acb7e379eb', 'workflow_type': 'BuildScenarioWorkflow'})
+Traceback (most recent call last):
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 359, in _handle_start_activity_task
+    result = await self._execute_activity(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        start, running_activity, task_token, data_converter
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 714, in _execute_activity
+    return await impl.execute_activity(input)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_activity.py", line 909, in execute_activity
+    return await input.fn(*input.args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/src/ag_exams/activities.py", line 190, in dispatch_architect
+    reasoning_md = await dispatch_gemini(
+                   ^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 45, in dispatch_gemini
+    client = _get_client()
+  File "/Users/dbraman/Documents/GitHub/ag-exams/src/ag_exams/gemini_client.py", line 24, in _get_client
+    api_key = get_secret("google-api-key")
+  File "/Users/dbraman/Documents/GitHub/auth-utils/src/auth_utils/secrets/manager.py", line 333, in get_secret
+    raise SecretNotFoundError(name, searched)
+auth_utils.secrets.manager.SecretNotFoundError: Secret 'google-api-key' not found in env:GOOGLE_API_KEY, gcp
+temporalio.exceptions.ApplicationError: SecretNotFoundError: Secret 'google-api-key' not found in env:GOOGLE_API_KEY, gcp
+
+The above exception was the direct cause of the following exception:
+
+temporalio.exceptions.ActivityError: Activity task failed
+
+The above exception was the direct cause of the following exception:
+
+temporalio.exceptions.ChildWorkflowError: Child Workflow execution failed
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/dbraman/Documents/GitHub/ag-exams/src/ag_exams/__main__.py", line 5, in <module>
+    main()
+    ~~~~^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/src/ag_exams/cli.py", line 227, in main
+    asyncio.run(start_exam(config))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/.local/share/uv/python/cpython-3.13.5-macos-aarch64-none/lib/python3.13/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/Users/dbraman/.local/share/uv/python/cpython-3.13.5-macos-aarch64-none/lib/python3.13/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/dbraman/.local/share/uv/python/cpython-3.13.5-macos-aarch64-none/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/src/ag_exams/cli.py", line 49, in start_exam
+    result = await client.execute_workflow(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/client.py", line 810, in execute_workflow
+    return await (
+           ^^^^^^^
+    ...<30 lines>...
+    ).result()
+    ^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/client.py", line 3015, in result
+    raise WorkflowFailureError(
+    ...<3 lines>...
+    )
+temporalio.client.WorkflowFailureError: Workflow execution failed
+Starting ephemeral Temporal worker...
+Executing workflow: exam-mock_procedural_block-1776537690
+  Scenarios: ['mock_procedural_block']
+  Dry run: False
+  Output: criminal-law/quiz-system/research/final-exam
+
+Note: If the workflow pauses for human review, run in another terminal:
+  uv run python -m ag_exams.cli approve exam-mock_procedural_block-1776537690
+
+Tearing down ephemeral worker...

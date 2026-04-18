@@ -510,27 +510,27 @@ HARD EXCLUSIONS:
 """
 
 _MOCK_PROCEDURAL_BLOCK_BRIEF = """\
-Single-stem scenario: The Fixer's Procedural Block.
+Single-stem scenario: The Procedural Block (The Fix)
 
 Inspiration: Better Call Saul / Breaking Bad (inspired-by only — not a direct plot lift).
 Budget: 15 questions, single-doctrine-per-question bias.
 
-FRAME: Following the fallout of a massive narcotics ring, the cartel's top lieutenant is facing trial. The organization's slick, morally bankrupt "criminal" lawyer is tasked with orchestrating a campaign of institutional corruption. The District Attorney aggressively overcharges minority defendants to force plea deals, and data reveals a starkly disparate racial impact in the DA's charging policies. 
+FRAME: Following the raid on Apex Freight, CEO Marcus Vance is facing a massive federal RICO trial. Vance's slick, morally bankrupt defense attorney, "The Fixer," orchestrates a campaign of institutional corruption to save Vance's empire. The trial Judge accepts a $50,000 "thank you" gift from Vance three weeks after unexpectedly suppressing key evidence, raising questions about bribery versus gratuities. In the jury room, a rogue juror admits to convicting a lower-level minority co-defendant purely out of racial animus. Finally, Vance secures a highly controversial, blanket pardon from the state's Governor in exchange for a massive super PAC donation.
 
 CHARACTERS:
-- The Fixer (Defense Attorney): A corrupt but brilliant attorney orchestrating the institutional manipulation.
-- The Prosecutor (DA): An ambitious District Attorney making aggressive, racially disparate charging decisions.
-- The Judge: A jaded trial judge susceptible to subtle blackmail.
-- The Legislator: A corrupt state senator on the cartel's payroll.
+- Marcus Vance: Trial defendant and CEO orchestrating the legal manipulation.
+- The Fixer (Defense Attorney): Orchestrates the strategic corruption.
+- The Judge: Trial judge whose post-ruling financial windfalls test corruption statutes.
+- The Rogue Juror: Tests the limits of jury secrecy and the Peña-Rodriguez exception.
+- The Governor: Issues a plenary pardon testing executive power limits.
 
 SUGGESTED PLOT DIRECTION:
-Explore the boundaries of institutional law integrated with foundational theory. Provide data on the DA policy's disparate racial impact (tying to Ferguson-era racial disparities). Require students to critique the charging decision using both the legal standard for selective prosecution (Ch 6) AND the theoretical frameworks of punishment and motivated cognition (Ch 2 & 3). Also test jury tampering, prosecutorial immunity, and legislative corruption.
+Test the boundaries of institutional law and corruption. For the Judge and Governor, force students to apply recent Supreme Court public corruption precedent (Snyder's bribe vs. gratuity distinction, Skilling's honest services fraud, and McDonnell's official acts). For the Juror, test the clash between FRE 606(b) jury secrecy (Tanner) and constitutional racial bias exceptions. For the Governor, test the absolute nature of executive clemency despite corrupt motives.
 
 DOCTRINAL TARGETS:
-- Ch 2 & 3 Foundational Theory (punishment theories, motivated cognition, racial disparities)
-- Ch 4 Juries (voir dire, Batson challenges, jury nullification, right to a jury trial)
-- Ch 5 Legislatures (statutory interpretation, ex post facto laws, executive pardon power limits)
-- Ch 6 Prosecutors (prosecutorial discretion, selective prosecution, vindictive prosecution, plea bargaining bounds)
+- Ch 4 Juries (Batson challenges, jury secrecy, Peña-Rodriguez racial bias exception)
+- Ch 5 Legislatures & Courts (executive pardon power, Snyder bribe vs gratuity, Skilling honest services fraud, McDonnell official acts)
+- Ch 6 Prosecutors (selective prosecution, prosecutorial immunity)
 
 HARD EXCLUSIONS:
 - No domestic violence or intimate-partner-violence content.
@@ -654,26 +654,27 @@ HARD EXCLUSIONS:
 """
 
 _FINAL_PROCEDURAL_BLOCK_BRIEF = """\
-Single-stem scenario: The Procedural Block (The Made Man's Trial)
+Single-stem scenario: The Procedural Block (The Made Man's Pardon)
 
 Inspiration: The Sopranos (inspired-by only — not a direct plot lift).
 Budget: 15 questions, single-doctrine-per-question bias.
 
-FRAME: A high-ranking "made man" in the crime family is finally facing a federal racketeering trial. An ambitious prosecutor pushes for aggressive plea deals and deploys a charging strategy that statistically targets minority neighborhoods at ten times the rate of others. A corrupt local politician attempts to influence the judge's evidentiary rulings to protect the family.
+FRAME: Following a massive federal wiretap on the DiMeo waste management front, a top Capo is facing a federal RICO trial. The family's slick defense attorney orchestrates a campaign of institutional corruption to save the Capo. The trial Judge accepts a $50,000 "thank you" gift from the family three weeks after unexpectedly suppressing key evidence, raising questions about bribery versus gratuities. In the jury room, a rogue juror admits to convicting a lower-level minority co-defendant purely out of racial animus. Finally, the Capo secures a highly controversial, blanket pardon from the state's Governor in exchange for a massive super PAC donation.
 
 CHARACTERS:
-- The Prosecutor: aggressive charging with starkly disparate racial impacts.
-- The Defense Attorney: attempts to taint the jury pool.
-- The Politician: exerts corrupt legislative or executive influence.
+- The Capo: Trial defendant and target of the RICO conspiracy.
+- The Defense Attorney: Orchestrates the strategic corruption.
+- The Judge: Trial judge whose post-ruling financial windfalls test corruption statutes.
+- The Rogue Juror: Tests the limits of jury secrecy and the Peña-Rodriguez exception.
+- The Governor: Issues a plenary pardon testing executive power limits.
 
 SUGGESTED PLOT DIRECTION:
-Explore the boundaries of institutional law integrated with foundational theory. Provide data on the prosecutor policy's disparate racial impact (tying to Ferguson-era racial disparities). Require students to critique the charging decision using both the legal standard for selective prosecution (Ch 6) AND the theoretical frameworks of punishment and motivated cognition (Ch 2 & 3). Also test jury tampering, Batson challenges, and legislative corruption.
+Test the boundaries of institutional law and corruption. For the Judge and Governor, force students to apply recent Supreme Court public corruption precedent (Snyder's bribe vs. gratuity distinction, Skilling's honest services fraud, and McDonnell's official acts). For the Juror, test the clash between FRE 606(b) jury secrecy (Tanner) and constitutional racial bias exceptions. For the Governor, test the absolute nature of executive clemency despite corrupt motives.
 
 DOCTRINAL TARGETS:
-- Ch 2 & 3 Foundational Theory (punishment theories, motivated cognition, racial disparities)
-- Ch 4 Juries (voir dire, Batson challenges, jury nullification, right to a jury trial)
-- Ch 5 Legislatures (statutory interpretation, ex post facto laws, executive pardon power limits)
-- Ch 6 Prosecutors (prosecutorial discretion, selective prosecution, vindictive prosecution, plea bargaining bounds)
+- Ch 4 Juries (Batson challenges, jury secrecy, Peña-Rodriguez racial bias exception)
+- Ch 5 Legislatures & Courts (executive pardon power, Snyder bribe vs gratuity, Skilling honest services fraud, McDonnell official acts)
+- Ch 6 Prosecutors (selective prosecution, prosecutorial immunity)
 
 HARD EXCLUSIONS:
 - No domestic violence or intimate-partner-violence content.

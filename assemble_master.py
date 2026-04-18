@@ -8,6 +8,7 @@ SCENARIOS = [
     "mock_the_distribution_ring",
     "mock_the_empire_business",
     "mock_the_blowback",
+    "mock_procedural_block",
     "mock_the_cornered_defenses"
 ]
 

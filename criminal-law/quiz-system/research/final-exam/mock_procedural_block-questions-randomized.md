@@ -196,21 +196,21 @@
 
 ---
 
-**Q12.** Under federal law, Silas and Thorne are charged with conspiracy to obstruct justice based on their encrypted texts agreeing to use cartel funds. Is the explicit agreement sufficient to satisfy the core element of conspiracy?
+**Q12.** Under federal law, Silas and Thorne are charged with conspiracy to obstruct justice based on their encrypted texts agreeing to use cartel funds to bribe the trial judge, and Silas's subsequent purchase of a decorative cigar box to conceal the cash delivery. Is this sufficient to satisfy the conduct element of conspiracy?
 
-(a) Yes, because the explicit bilateral agreement to illegally obstruct the legal proceedings directly constitutes the required meeting of the minds for criminal conspiracy. <!-- correct -->
-(b) No, because the attorney-client privilege strictly and absolutely bars the state from charging a defense lawyer and their client with a joint criminal conspiracy.
-(c) No, because a legally valid conspiracy charge requires the involvement of at least three participants when the target crime involves institutional corruption.
-(d) Yes, because an explicit verbal or written agreement to commit an unlawful act automatically satisfies the overt act requirement in all modern jurisdictions.
-(e) No, because the conspiracy doctrine strictly requires the prosecution to prove that Thorne and Silas successfully completed the underlying obstruction of justice.
+(a) Yes, because an explicit verbal or written agreement to commit an unlawful act automatically satisfies the overt act requirement in all modern jurisdictions.
+(b) Yes, because the encrypted texts established the required meeting of the minds, and the purchase of the cigar box satisfied the additional overt act requirement. <!-- correct -->
+(c) No, because the attorney-client privilege strictly and absolutely bars the state from charging a defense lawyer and their client with a joint criminal conspiracy.
+(d) No, because the conspiracy doctrine strictly requires the prosecution to prove that Thorne and Silas successfully completed the underlying obstruction of justice.
+(e) No, because a legally valid conspiracy charge requires the involvement of at least three participants when the target crime involves institutional corruption.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** The core element of conspiracy is an agreement between two or more persons to commit a criminal act. The explicit encrypted texts between Silas and Thorne to use cartel funds to obstruct proceedings demonstrate this bilateral agreement. (d) is wrong because while the agreement is the core element, many jurisdictions still require an independent "overt act" in furtherance of the conspiracy, which is distinct from the agreement itself. (b) is wrong because the attorney-client privilege does not protect communications made in furtherance of a crime or fraud. (e) is wrong because conspiracy is an inchoate offense that is complete upon agreement (and an overt act, if required), regardless of whether the target crime is successful. (c) is wrong because conspiracy only requires two participants.
+**Explanation:** The conduct element (actus reus) of a federal conspiracy under 18 U.S.C. 371 requires two components: an agreement between two or more persons to commit a criminal act, and an "overt act" committed in furtherance of that agreement. The explicit encrypted texts satisfy the bilateral agreement, and the subsequent purchase of the cigar box perfectly satisfies the distinct overt act requirement. (a) is wrong because the agreement itself cannot serve as the overt act; they are legally distinct elements. (c) is wrong because the attorney-client privilege does not protect communications made in furtherance of a crime or fraud. (d) is wrong because conspiracy is an inchoate offense that is complete upon the agreement and overt act, regardless of whether the target crime is successful. (e) is wrong because conspiracy only requires two participants.
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement], difficulty: easy, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, agreement, overt act], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19: bilateral-unilateral
+**Grounding:** Chapter 19: bilateral-unilateral and overt act requirements
 
 ---
 
