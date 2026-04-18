@@ -1,5 +1,26 @@
-<!-- audit: MUST FIX -->
+**Q13.** Assume Blake is guilty of attempted arson. Based on the text message sent immediately after the shooting, is Alex guilty as an accomplice to Blake's attempted arson?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) Yes, because Alex's text message commanded and encouraged Blake to commit the arson with the specific purpose of destroying the evidence. <!-- correct -->
+(b) Yes, because Alex's text message was an act of free speech that legally transformed into an inchoate crime upon Blake reading it.
+(c) No, because Blake failed to complete the arson, and accomplice liability requires the principal to successfully consummate the intended target offense.
+(d) No, because Alex was not physically present at the scene to provide material assistance in pouring the gasoline across the floor.
+(e) No, because Alex's text message was sent after the homicide was complete, making him only an accessory after the fact to shooting.
 
-Error: Model returned empty or blocked response.
+**Answer:** (a)
+
+**Explanation:** (a) is correct. A person who encourages or commands another to commit a crime with the purpose of facilitating that crime is guilty as an accomplice. Alex's text message commanded the arson to destroy evidence, establishing both the actus reus (encouragement) and mens rea (purpose) for accomplice liability to the attempted crime. (b) is incorrect because the First Amendment does not protect speech that directly commands or incites specific imminent criminal acts. (c) is incorrect because a defendant can be an accomplice to an attempted crime if the principal takes a substantial step but fails to complete it. (d) is incorrect because physical presence is not required; remote encouragement is sufficient. (e) is incorrect because the text instructed a new prospective crime (arson), not merely assistance in escaping the homicide.
+
+**Tags:** chapters: [18, 17], topics: [accomplice liability, attempt], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 18 - ar-low-threshold
+
+<!-- audit: SHOULD FIX
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: fails. The question relies on a missing shared fact pattern. It references "the shooting," "the text message," and "pouring the gasoline" without these facts being established in the stem.
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Integrate the missing facts into the stem or ensure the shared scenario text is attached to this question when presented to students.
+-->

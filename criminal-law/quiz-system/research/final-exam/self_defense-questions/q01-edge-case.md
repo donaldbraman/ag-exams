@@ -1,18 +1,18 @@
-**Q1.** The DA intends to charge Alex and Blake under RICO, alleging that "The Vault" constitutes a racketeering enterprise. The defense argues that their two-person operation lacks the formal structure required for an enterprise. How should the court rule?
+**Q1.** Can the operation of "The Vault" by Alex and Blake constitute an "enterprise" under RICO?
 
-(a) Enterprise, because their ongoing association and mutual coordination of weekly deliveries satisfies the legal requirement for an association in fact. <!-- correct -->
-(b) Not an enterprise, because an association of only two people cannot legally constitute a continuing unit for purposes of a racketeering enterprise.
-(c) Not an enterprise, because their informal drug distribution ring lacks the formalized hierarchy and command structure required by the RICO statute.
-(d) Enterprise, because the statutory definition is automatically satisfied whenever two or more individuals commit predicate acts of drug distribution.
-(e) Not an enterprise, because moving fentanyl on a weekly basis fails to establish the necessary impact on interstate commerce required by law.
+(a) Yes, because they formed an ongoing organization that functioned as a continuing unit with a common purpose to distribute drugs. <!-- correct -->
+(b) Yes, but only if they formally incorporated a business entity to shield their illicit profits and direct operations.
+(c) No, because their activities were entirely illegal and RICO applies exclusively to the infiltration of legitimate corporate businesses.
+(d) No, because moving fentanyl on a weekly basis for two years lacks the required continuity for an enterprise.
+(e) No, because the enterprise must be distinct from the individual defendants, and two individuals cannot form an enterprise together.
 
 **Answer:** (a)
 
-**Explanation:** An enterprise under RICO does not require a formal business structure, hierarchy, or legal entity. Under *Boyle*, an "association in fact" requires only a purpose, relationships among those associated, and sufficient longevity to pursue that purpose. The Vault's weekly operations over two years easily meet this standard. (b) is wrong because an enterprise can consist of just two people. (c) is wrong because the Supreme Court explicitly rejected the requirement of a formalized hierarchy or command structure in *Boyle*. (d) is wrong because an enterprise must have an existence separate from the pattern of racketeering activity itself, though the evidence may overlap. (e) is wrong because weekly narcotics distribution inherently affects interstate commerce.
+**Explanation:** (a) is correct. A RICO enterprise includes an association-in-fact, which only requires a purpose, relationships among those associated, and longevity sufficient to pursue the enterprise's purpose (*Boyle*). The Vault meets this standard. (b) is incorrect because an enterprise need not be a formal legal entity. (c) is incorrect because RICO applies to wholly illegitimate operations, not just the infiltration of legitimate businesses. (d) is incorrect because moving drugs weekly for two years easily satisfies the continuity requirement. (e) is incorrect because an enterprise can consist of the associated individual defendants acting together.
 
-**Tags:** chapters: [20], topics: [rico-enterprise], difficulty: medium, cognitive: application
+**Tags:** chapters: [20], topics: [RICO, enterprise, Boyle], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 20 (RICO and Enterprise Liability) - *Boyle v. United States* three-part test for an association-in-fact enterprise.
+**Grounding:** Chapter 20 - boyle-three-part
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

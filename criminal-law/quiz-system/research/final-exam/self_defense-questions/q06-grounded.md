@@ -1,17 +1,17 @@
-**Q6.** Assume Blake faces a homicide charge for the death of Chris. Blake argues that the charge should be reduced to voluntary manslaughter because he shot Chris only after Chris shoved him during a bitter argument. How should the court rule?
+**Q6.** Setting aside any claims of self-defense, what is the most appropriate homicide grading for Blake's shooting of Chris?
 
-(a) Guilty of murder, because a verbal argument and a mere physical shove during a drug transaction are legally insufficient provocation to reduce the charge to manslaughter. <!-- correct -->
-(b) Guilty of voluntary manslaughter, because the sudden physical shove triggered an extreme emotional disturbance that legally negates his malice aforethought.
-(c) Guilty of murder, because any killing that occurs during the commission of a drug transaction is automatically elevated to capital murder in all jurisdictions.
-(d) Guilty of voluntary manslaughter, because Chris's initial physical aggression legally justified Blake's use of a firearm under the mutual combat doctrine.
-(e) Guilty of murder, because Blake used a deadly weapon, which creates an irrebuttable presumption of premeditation and deliberation under modern criminal law.
+(a) Guilty of intentional murder, because firing a handgun at vital areas establishes intent to kill, and a minor shove is legally inadequate provocation. <!-- correct -->
+(b) Guilty of voluntary manslaughter, because being shoved backward during a heated verbal argument constitutes adequate provocation for a reasonable person.
+(c) Guilty of involuntary manslaughter, because Blake merely acted with gross criminal negligence by leaving a loaded weapon accessible during a drug deal.
+(d) Guilty of depraved heart murder, because firing a weapon at close range demonstrates extreme indifference to the value of human life.
+(e) Not guilty of any homicide offense, because the drug transaction immediately negates the required mental states for both murder and manslaughter.
 
 **Answer:** (a)
 
-**Explanation:** Voluntary manslaughter requires adequate provocation (heat of passion) or, in MPC jurisdictions, an extreme emotional disturbance for which there is a reasonable explanation. A minor battery (a shove) during a bitter argument over a drug price is not legally adequate provocation to justify a lethal response and mitigate an intentional shooting from murder to manslaughter. (b) is wrong because the extreme emotional disturbance defense requires a "reasonable explanation or excuse," which is not satisfied by a routine shove in a drug deal. (c) is wrong because drug transactions do not automatically elevate all killings to capital murder in all jurisdictions. (d) is wrong because "mutual combat" requires a mutual physical fight, not a one-sided shove followed by a deadly escalation. (e) is wrong because the use of a deadly weapon supports an inference of intent to kill, not an irrebuttable presumption of premeditation.
+**Explanation:** (a) is correct. Firing a handgun at someone establishes the intent to kill. A minor physical shove and an angry verbal threat during a drug deal do not constitute adequate legal provocation to cause a reasonable person to lose control, meaning the charge cannot be mitigated to voluntary manslaughter. (b) is incorrect because adequate provocation requires more than mere words and a minor physical contact. (c) is incorrect because Blake intentionally fired the weapon at Chris, which goes far beyond gross criminal negligence. (d) is incorrect because depraved heart murder applies to extreme recklessness, whereas aiming and firing directly at someone shows explicit intent. (e) is incorrect because a drug transaction context does not legally negate malice or intent for homicide.
 
-**Tags:** chapters: [12, 13], topics: [homicide-grading], difficulty: medium, cognitive: application
+**Tags:** chapters: [12], topics: [homicide grading, intentional murder, provocation], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 12 (Intentional Homicide) - Heat of passion/provocation limits and the insufficiency of minor batteries to mitigate murder.
+**Grounding:** Chapter 12 - words-alone-girouard
 
-<!-- grounding: GROUNDED — Voluntary Manslaughter (Adequate Provocation), Ch 12, Refinement `four-elements-common-law`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Inadequate provocation, Ch 12, Refinement `words-alone-girouard`. Rule paraphrased accurately. -->

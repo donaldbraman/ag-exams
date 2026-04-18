@@ -12,6 +12,6 @@
 8. Blake reads the text, grabs a heavy plastic gas can from the hall closet, and pours gasoline across the living room floor.
 9. Blake finishes pouring the gas, drops the empty can, and realizes he has no matches or lighter in the living room. He walks down the hall toward his bedroom to find one, but is apprehended by police who storm the apartment before he can strike a flame.
 
-### Stem 1: The Drug Ring and the Shooting
+### Stem 1: Drug Operations and the Homicide
 
 The DA wants to throw the book at both of them for the drugs and the dead body in the living room. I need you to evaluate Blake's possession, homicide exposure, and self-defense claims. Also, analyze how far Alex's derivative liability extends for the shooting.

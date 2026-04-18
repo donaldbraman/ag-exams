@@ -1,17 +1,17 @@
-**Q7.** Assume that, instead of intentional murder, Blake is charged with felony murder predicated on the underlying felony of drug distribution. Blake argues the felony-murder charge is barred by the merger doctrine. How should the court rule?
+**Q7.** Assume Blake is charged with felony murder based on the predicate felony of drug distribution. Will the merger doctrine bar the felony-murder charge?
 
-(a) The charge is not barred, because the felony of distributing narcotics has an independent collateral purpose distinct from causing physical injury to the victim. <!-- correct -->
-(b) The charge is barred, because the confrontation immediately preceding the shooting was an assaultive act that legally merges with the resulting homicide.
-(c) The charge is not barred, because the merger doctrine only applies to strict liability offenses and cannot be invoked when an intentional felony is charged.
-(d) The charge is barred, because drug distribution is a non-violent property offense that lacks the inherent dangerousness required to support a felony murder charge.
-(e) The charge is not barred, because any underlying felony committed with a deadly weapon automatically escapes the merger doctrine's legal limitations.
+(a) Yes, because the violent confrontation was inextricably intertwined with the drug sale, causing the two offenses to legally merge together.
+(b) Yes, because Blake's intent to sell drugs was immediately superseded by his subsequent intent to cause physical harm to Chris.
+(c) No, because drug distribution has an independent felonious purpose distinct from causing physical injury or death to the victim. <!-- correct -->
+(d) No, because the merger doctrine only applies to strict liability offenses, not intentional felonies like drug trafficking and illegal distribution.
+(e) No, because the felony-murder rule automatically applies whenever a death occurs on the premises of an ongoing illegal drug transaction.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** The merger doctrine (or independent felony rule) prevents the application of felony murder when the underlying felony is assaultive in nature and integral to the homicide (e.g., aggravated assault). However, if the felony has an independent collateral purpose—such as robbery, rape, or drug distribution—it does not merge and can serve as a valid predicate for felony murder. (b) is wrong because the predicate felony is the drug distribution, not the immediate assaultive confrontation. (c) is wrong because the merger doctrine regularly applies to intentional assaultive felonies. (d) is wrong because drug distribution is widely recognized as inherently dangerous and serves as a valid predicate for felony murder in many jurisdictions. (e) is wrong because using a deadly weapon during an assault does not prevent the assault from merging with the homicide.
+**Explanation:** (c) is correct. The independent felonious purpose doctrine prevents merger when the underlying felony has a separate purpose from causing physical injury to the victim. Drug distribution has an independent purpose (selling narcotics), so it does not merge into the homicide. (a) is incorrect because a drug sale is legally distinct from assaultive conduct, avoiding merger. (b) is incorrect because superseding intent does not retroactively merge an independent predicate felony. (d) is incorrect because merger applies to certain intentional felonies (like assault), not just strict liability offenses. (e) is incorrect because felony murder only applies if the predicate felony is legally independent and enumerated or inherently dangerous, not automatically in all drug deals.
 
-**Tags:** chapters: [14], topics: [merger-independent-purpose], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [14], topics: [felony murder, merger doctrine, independent purpose], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 14 (Felony Murder and Misdemeanor Manslaughter) - The merger doctrine and independent collateral purpose exception.
+**Grounding:** Chapter 14 - merger-independent-purpose
 
-<!-- grounding: GROUNDED — merger doctrine / independent collateral purpose rule, Ch 14, Refinement `merger-independent-purpose`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — merger doctrine, Ch 14, Refinement `merger-independent-purpose`. Rule paraphrased accurately. -->

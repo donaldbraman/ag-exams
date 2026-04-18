@@ -1,17 +1,17 @@
-**Q8.** Assume Blake asserts self-defense to the intentional homicide charge. He argues his use of deadly force was justified because Chris shouted a death threat and reached into his jacket. The prosecution counters that Chris was actually unarmed. How does the objective reasonableness standard apply?
+**Q8.** Assume Blake asserts a self-defense claim, and the jurisdiction requires an objectively reasonable belief in imminent deadly harm. How does the fact that Chris was actually unarmed affect Blake's claim?
 
-(a) Justified in using deadly force, because a reasonable person facing a verbal death threat and a sudden reach into a jacket would perceive an imminent threat of deadly harm. <!-- correct -->
-(b) Not justified in using deadly force, because the objective standard requires the victim to actually possess a weapon before the defendant's belief can be deemed reasonable.
-(c) Justified in using deadly force, because a purely subjective standard applies, meaning Blake's personal fear of Chris automatically validates his decision to shoot.
-(d) Not justified in using deadly force, because an unarmed victim is legally incapable of presenting an imminent threat of death or serious bodily injury.
-(e) Justified in using deadly force, because the initial aggressor doctrine permits the victim of a physical shove to immediately respond with proportional deadly physical force.
+(a) It defeats the claim entirely, because the objective standard requires the threat of deadly force to be factually real, not apparent.
+(b) It is irrelevant, provided Blake actually and honestly believed Chris was armed, regardless of whether a reasonable person would agree.
+(c) It does not automatically defeat the claim, because a reasonable person could believe Chris was armed based on his threat and movement. <!-- correct -->
+(d) It shifts the burden of proof to Blake to demonstrate by clear and convincing evidence that his misperception was completely reasonable.
+(e) It reduces the charge to voluntary manslaughter, because any mistaken belief about a weapon categorically constitutes imperfect self-defense in all jurisdictions.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** Self-defense requires a reasonable belief that deadly force is necessary to prevent imminent death or serious bodily injury. The objective standard assesses what a reasonable person in the defendant's situation would perceive. An attacker screaming a death threat while aggressively reaching into a jacket provides objectively reasonable grounds to fear an imminent shooting, even if the attacker turns out to be unarmed. (b) is wrong because reasonableness does not demand retrospective perfection; a reasonable mistake of fact is permitted. (c) is wrong because self-defense requires an objective element of reasonableness, not merely subjective fear (*Goetz*). (d) is wrong because an unarmed person can still present an apparent deadly threat (e.g., reaching for a simulated weapon) that justifies defense. (e) is wrong because responding to a non-deadly shove with a firearm is a disproportionate use of force.
+**Explanation:** (c) is correct. The objective reasonableness standard requires that a reasonable person in the defendant's situation would have believed they were in imminent danger. A reasonable person could infer a deadly threat from Chris's explicit threat ("leaving you in a body bag") coupled with his physical reach into his jacket. (a) is incorrect because the standard permits reasonable mistakes of fact; the threat need only be apparent, not actual. (b) is incorrect because the belief must be objectively reasonable, not purely subjective. (d) is incorrect because the prosecution generally bears the burden of disproving self-defense beyond a reasonable doubt. (e) is incorrect because a reasonable mistake fully justifies the use of force, rather than merely mitigating it to manslaughter.
 
-**Tags:** chapters: [22], topics: [objective-reasonableness-standard], difficulty: medium, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, objective reasonableness], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22 (Self-Defense) - Objective reasonableness standard and apparent necessity.
+**Grounding:** Chapter 22 - objective-reasonableness-standard
 
-<!-- grounding: GROUNDED — Objective reasonableness standard, Ch 22, Refinement `objective-reasonableness-standard`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Objective Reasonableness Standard, Ch 22, Refinement `objective-reasonableness-standard`. Rule paraphrased accurately. -->

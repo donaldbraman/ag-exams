@@ -1,17 +1,17 @@
-**Q9.** Assume that Blake had a reasonable belief he was in imminent danger of deadly harm in a retreat jurisdiction. The prosecution argues Blake lost the right to self-defense because he was standing next to a wide-open back door and failed to safely retreat. How does the castle doctrine affect this case?
+**Q9.** Assume the jurisdiction generally imposes a duty to retreat before using deadly force. How does the castle doctrine apply to Blake's situation when Chris attacks him?
 
-(a) No duty to retreat, because the castle doctrine universally eliminates the duty to retreat when a defendant is attacked inside their own dwelling. <!-- correct -->
-(b) Duty to retreat, because the castle doctrine exception does not apply when the attacker was explicitly invited into the home for a commercial transaction.
-(c) No duty to retreat, because the true man doctrine requires a retreat only when the defendant is positioned entirely outside the physical footprint of the home.
-(d) Duty to retreat, because Blake's immediate proximity to the wide-open door provided an objectively safe avenue of escape that legally mandated a retreat.
-(e) No duty to retreat, because the duty to retreat only applies when the defendant is the initial aggressor in the physical altercation.
+(a) Blake had no duty to retreat because he was inside his own apartment, even though the wide-open back door offered safe escape. <!-- correct -->
+(b) Blake had a duty to retreat because the castle doctrine does not apply when the defendant is engaged in an illegal drug transaction.
+(c) Blake had a duty to retreat because Chris was an invited business guest, which legally converts the premises into a public space.
+(d) Blake had no duty to retreat because the duty only applies when the defendant is the initial physical aggressor in the confrontation.
+(e) Blake had no duty to retreat because retreating through a back door is legally considered a withdrawal that forfeits property rights.
 
 **Answer:** (a)
 
-**Explanation:** The "castle doctrine" is a universal exception to the duty to retreat. Even in jurisdictions that generally require a defendant to retreat before using deadly force, a person attacked in their own home has no legal duty to flee before defending themselves. (b) is wrong because the castle doctrine applies within the home even if the attacker is an invitee (though some jurisdictions complicate this if the attacker is a co-occupant, Chris was just a visitor). (c) is wrong because the "true man" doctrine eliminates the duty to retreat *everywhere*, not just outside the home. (d) is wrong because the existence of a safe escape route (the open door) is legally irrelevant inside one's own dwelling. (e) is wrong because initial aggressors generally lose the right to self-defense entirely, while the duty to retreat applies to innocent victims in public spaces.
+**Explanation:** (a) is correct. The castle doctrine universally provides an exception to the duty to retreat when a person is attacked in their own home. Because Blake was in his own apartment, he had no duty to retreat through the open door. (b) is incorrect because the traditional castle doctrine applies based on location, though some modern Stand Your Ground statutes include exceptions for illegal activity. (c) is incorrect because inviting someone in for business does not strip the resident of their castle doctrine protections. (d) is incorrect because the duty to retreat applies generally to any defender in a retreat jurisdiction, not just initial aggressors. (e) is incorrect because retreating through a door is the definition of flight, not a forfeiture of property rights.
 
-**Tags:** chapters: [22], topics: [castle-doctrine-scope], difficulty: easy, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, castle doctrine], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 22 (Self-Defense) - Castle doctrine exception to the duty to retreat.
+**Grounding:** Chapter 22 - castle-doctrine-scope
 
-<!-- grounding: GROUNDED — Castle Doctrine, Ch 22, Refinement `castle-doctrine-scope`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — castle doctrine, Ch 22, Refinement `castle-doctrine-scope`. Rule paraphrased accurately. -->

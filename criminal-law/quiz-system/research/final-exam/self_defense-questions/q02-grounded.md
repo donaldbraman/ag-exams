@@ -1,17 +1,17 @@
-**Q2.** Assume that, whether or not "The Vault" is a RICO enterprise, Blake is charged with possession of the fentanyl inside the locked safe. Blake argues he never had the key and therefore could not possess the drugs. How should the court rule?
+**Q2.** Assume for this question that no RICO enterprise is charged. If Blake is charged with possession of the fentanyl inside the locked safe, how should the court rule?
 
-(a) Guilty of possession, because keeping and periodically moving the safe inside his living room demonstrates sufficient dominion and control over the drugs. <!-- correct -->
-(b) Not guilty of possession, because his absolute lack of a physical key completely defeated his physical capability to exercise control over the drugs.
-(c) Guilty of possession, because a primary leaseholder is strictly liable for any illegal narcotics discovered anywhere within the perimeter of their dwelling.
-(d) Not guilty of possession, because Alex retained exclusive possession of the narcotics by keeping the sole key and preventing Blake's direct access.
-(e) Guilty of possession, because the statutory requirement for constructive possession is automatically satisfied whenever a party has prior knowledge of the contents.
+(a) Not guilty, because Alex retained the only key and therefore maintained exclusive actual possession of the safe's contents.
+(b) Not guilty, because momentarily moving the safe to clean underneath it does not establish the necessary intent to possess.
+(c) Guilty of actual possession, because the safe was located within his private residence where he could physically touch its exterior.
+(d) Guilty of constructive possession, because keeping the safe in his living room for three days demonstrates his power and intention. <!-- correct -->
+(e) Guilty of joint possession, but only if the prosecution can prove that Blake financially invested in the fentanyl inside.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** Constructive possession requires the power and intention to exercise control over an item (dominion and control). By intentionally housing the safe in his own living room for three days and physically moving it, Blake exercised dominion and control over the container and its illicit contents, regardless of whether he could immediately open it. (b) is wrong because immediate physical access to the interior is not strictly required to exercise dominion over the container housing the contraband. (c) is wrong because there is no strict liability for homeowners; knowledge and control are still required elements. (d) is wrong because possession need not be exclusive; joint possession is legally recognized. (e) is wrong because knowledge alone is insufficient; there must also be the power to exercise control over the item.
+**Explanation:** (d) is correct. Constructive possession requires the power and intention to exercise control over an item, even without physical contact. Keeping the safe in his living room for days establishes this power and intent. (a) is incorrect because physical keys are not strictly necessary for control; Blake controlled the space. (b) is incorrect because storing the safe in his home for three days shows intent to exercise dominion, not merely temporary moving. (c) is incorrect because actual possession requires direct physical control over the drugs themselves, not just proximity to the container. (e) is incorrect because joint possession does not require a financial stake in the contraband.
 
-**Tags:** chapters: [15], topics: [constructive-possession], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [constructive possession, drugs], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15 (Drugs and Guns) - Constructive possession elements: awareness and control.
+**Grounding:** Chapter 15 - cp-awareness-control
 
-<!-- grounding: GROUNDED — Constructive Possession, Ch 15, Refinement `cp-awareness-control`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — constructive possession, Ch 15, Refinement `cp-awareness-control`. Rule paraphrased accurately. -->

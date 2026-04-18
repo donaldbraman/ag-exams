@@ -1,17 +1,17 @@
-**Q13.** Assume that Blake is guilty of attempted arson. The prosecution charges Alex as an accomplice to the attempted arson based on the text message: "Burn it all down before the cops come." Alex argues this communication is insufficient. How should the court rule?
+**Q13.** Assume Blake is guilty of attempted arson. Based on the text message sent immediately after the shooting, is Alex guilty as an accomplice to Blake's attempted arson?
 
-(a) Liable as an accomplice, because sending the text successfully encouraged Blake's actions and demonstrated a purpose to promote the arson. <!-- correct -->
-(b) Not liable as an accomplice, because Alex was not physically present at the scene to provide material assistance with the gasoline.
-(c) Liable as an accomplice, because mere knowledge of a co-conspirator's general propensity for violence satisfies the accomplice mens rea.
-(d) Not liable as an accomplice, because a text message cannot legally constitute the actus reus of aiding and abetting without detailed logistical instructions.
-(e) Liable as an accomplice, because the *Pinkerton* doctrine automatically treats all written communications between co-conspirators as accomplice liability.
+(a) Yes, because Alex's text message commanded and encouraged Blake to commit the arson with the specific purpose of destroying the evidence. <!-- correct -->
+(b) Yes, because Alex's text message was an act of free speech that legally transformed into an inchoate crime upon Blake reading it.
+(c) No, because Blake failed to complete the arson, and accomplice liability requires the principal to successfully consummate the intended target offense.
+(d) No, because Alex was not physically present at the scene to provide material assistance in pouring the gasoline across the floor.
+(e) No, because Alex's text message was sent after the homicide was complete, making him only an accessory after the fact to shooting.
 
 **Answer:** (a)
 
-**Explanation:** Accomplice liability attaches when a person, with the purpose of promoting or facilitating a crime, solicits, commands, or encourages another to commit it. Alex's text explicitly directed the arson, demonstrating the requisite purpose, and Blake acted upon reading it, completing the actus reus of encouragement. (b) is wrong because physical presence is not required; remote encouragement is sufficient. (c) is wrong because accomplice liability requires specific intent (purpose) regarding the crime, not just knowledge of a general propensity. (d) is wrong because the actus reus of accomplice liability is broadly defined and includes verbal or written encouragement; detailed logistical instructions are not required. (e) is wrong because *Pinkerton* addresses co-conspirator liability for substantive offenses, whereas this question tests the distinct doctrine of accomplice liability via direct encouragement.
+**Explanation:** (a) is correct. A person who encourages or commands another to commit a crime with the purpose of facilitating that crime is guilty as an accomplice. Alex's text message commanded the arson to destroy evidence, establishing both the actus reus (encouragement) and mens rea (purpose) for accomplice liability to the attempted crime. (b) is incorrect because the First Amendment does not protect speech that directly commands or incites specific imminent criminal acts. (c) is incorrect because a defendant can be an accomplice to an attempted crime if the principal takes a substantial step but fails to complete it. (d) is incorrect because physical presence is not required; remote encouragement is sufficient. (e) is incorrect because the text instructed a new prospective crime (arson), not merely assistance in escaping the homicide.
 
-**Tags:** chapters: [18], topics: [accomplice-liability], difficulty: medium, cognitive: application
+**Tags:** chapters: [18, 17], topics: [accomplice liability, attempt], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 (Accomplice Liability) - Actus reus (encouragement) and mens rea (purpose) of aiding and abetting.
+**Grounding:** Chapter 18 - ar-low-threshold
 
-<!-- grounding: GROUNDED — Accomplice Liability, Ch 18, Refinement `ar-low-threshold` and `mr-purpose-not-knowledge`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Accomplice Liability, Ch 18, Refinement `ar-low-threshold`. Rule paraphrased accurately. -->
