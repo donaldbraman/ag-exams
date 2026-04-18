@@ -4,7 +4,7 @@
 (b) Thorne is not guilty as an accomplice, because his personal disdain for the drug trade proves his objective was exclusively to earn lawful compensation.
 (c) Thorne is guilty as an accomplice, because any employee who follows a supervisor's illegal orders is automatically strictly liable as a co-principal.
 (d) Thorne is guilty as an accomplice, because his twenty percent salary premium establishes a purposeful desire to facilitate the underlying drug distribution. <!-- correct -->
-(e) Thorne is guilty as an accomplice, because the common law always equates mere physical presence at a facility with the purpose to assist the crime.
+(e) Thorne is guilty as an accomplice, because the MPC always equates mere physical presence at a facility with the purpose to assist the crime.
 
 **Answer:** (d)
 
