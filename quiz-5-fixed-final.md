@@ -242,7 +242,7 @@ You are an assistant public defender. Your supervising attorney hands you a case
 
 (a) Holmes has a valid duress defense because the threat was of death to his mother (a close relation), the threat was credible based on Nietzsche's prior conduct, and the common law's "murder bar" is a sentencing-phase consideration that operates only after conviction to limit a defendant's exposure, not a substantive bar at the guilt phase.
 
-(b) Holmes does not have a valid duress defense because duress is categorically unavailable as a defense to murder under the common law—a defendant may not take another life to save her own or a family member's life, regardless of how severe or credible the threat. <!-- correct -->
+(b) Holmes does not have a valid duress defense because under the traditional common law rule, duress is categorically unavailable as a defense to any murder, including felony murder, regardless of how severe or credible the threat. <!-- correct -->
 
 (c) Holmes has a valid duress defense because the MPC makes duress available for all crimes including murder, and the modern trend favors extending the defense to homicide cases in all jurisdictions.
 
@@ -252,7 +252,7 @@ You are an assistant public defender. Your supervising attorney hands you a case
 
 **Answer:** (b)
 
-**Explanation:** Under the common law, duress is categorically unavailable as a defense to murder. The rationale is that a defendant may not take another life to save their own (or a family member's). This is an absolute bar regardless of the severity or credibility of the threat. Option (a) falsely states that the common law's murder bar is a sentencing-phase consideration; it is actually a categorical substantive rule operating at the guilt phase. Option (c) relies on the MPC rule despite Fact 6 specifying common law and falsely claims a universal modern trend extending the defense to homicide. Option (d) contains a false legal rule: the common law does not require the threat to target the defendant personally and extends duress to threats against close relations. Option (e) falsely claims that duress always breaks the chain of felony murder liability; this exception exists only in a small minority of states and is not the universal common law rule.
+**Explanation:** Under the traditional common law rule, duress is categorically unavailable as a defense to any murder, including felony murder. This is an absolute bar regardless of the severity or credibility of the threat. Option (a) falsely states that the common law's murder bar is a sentencing-phase consideration; it is actually a categorical substantive rule operating at the guilt phase. Option (c) relies on the MPC rule despite Fact 6 specifying common law and falsely claims a universal modern trend extending the defense to homicide. Option (d) contains a false legal rule: the common law does not require the threat to target the defendant personally and extends duress to threats against close relations. Option (e) falsely claims that duress always breaks the chain of felony murder liability; this exception exists only in a small minority of states and is not the universal common law rule.
 
 **Tags:** chapters: [21], topics: [duress, duress-murder-bar, duress-threat-threshold], difficulty: medium, cognitive: application, trap: Students focus on the credible threat and overlook the categorical CL homicide bar
 

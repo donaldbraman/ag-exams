@@ -49,14 +49,13 @@
 **Grounding:** Chapter 21, Doctrinal Framework Part I (necessity elements); justification-vs-excuse refinement; necessity-proportionality-standard refinement.
 
 <!-- audit: CLEAN
-Check 1: pass (The correct answer accurately states and applies the common law necessity elements to the choice of evils presented)
-Check 2: pass (The distractors are plausible but definitively legally incorrect, testing common bounds like MPC vs CL, human coercion vs natural threat, and legislative preemption limits)
-Check 3: pass (The explanation perfectly aligns with the doctrinal rules for common law necessity, duress, and legislative preemption)
-Check 4: pass (Assuming the overarching master scenario's Facts 1 and 6 provide the referenced details, the stem is sufficient)
-Check 5: pass (The explanation explicitly notes that Fact 6 specifies a common law jurisdiction, cleanly resolving any MPC/CL splits)
-Check 6: pass (No excluded topics; scenario deals solely with weather and code violations)
-Check 7: pass (The doctrines tested match the Chapter 21 map tags perfectly, including `justification-vs-excuse`, `necessity-proportionality-standard`, and `legislative-preemption-absolute`)
-Recommended fix: None.
+<check 1>: pass
+<check 2>: pass
+<check 3>: pass
+<check 4>: pass (The stem refers to "Facts 1 and 6", appropriately indicating this question is part of a macro-scenario. Assuming those facts match the explanation's premises, no external assumptions are required.)
+<check 5>: pass
+<check 6>: pass
+<check 7>: pass
 -->
 
 ### Edge Case Audit
@@ -174,66 +173,65 @@ Recommended fix: none
 
 ### Grounding
 
-**Q2.** Your supervisor asks whether Foot's necessity defense has any impact on the potential liability of volunteers who helped Foot keep the shelter open during the standoff (Facts 1 and 6). Assuming common law applies, which of the following best explains the relationship between Foot's defense and the volunteers' liability?
+**Q2.** Your supervisor asks whether Foot's necessity defense against the condemnation violation charge has any impact on the potential liability of volunteers who helped Foot keep the shelter open during the standoff (Facts 1 and 6). Under common law doctrine, which of the following best explains the relationship between Foot's defense and the volunteers' liability?
 
-(a) The volunteers have no defense because necessity is a personal excuse that applies only to the person who made the choice of evils, and each volunteer would need to independently establish their own duress defense.
-(b) If Foot's necessity defense succeeds, the volunteers who assisted her share in the justification because necessity is a justification—the act itself is deemed right—and any third party who knowingly assists in a justified act is also justified. <!-- correct -->
-(c) The volunteers are liable as accomplices regardless of Foot's defense because the common law treats accomplice liability as strict—once a person knowingly assists in a criminal act, no defense available to the principal transfers to the accomplice.
-(d) The volunteers share in Foot's defense only if each volunteer independently demonstrated they had exhausted all legal alternatives before joining the shelter operation, because necessity's "no reasonable legal alternative" element must be proven individually by each participant.
-(e) If Foot's necessity defense succeeds, the volunteers share in the defense, but only because the MPC extends all affirmative defenses to accomplices as a matter of statutory design, not because of the justification principle.
+(a) The volunteers cannot share in Foot's defense because necessity is a personal excuse, meaning each volunteer must independently establish their own excuse defense.
+(b) If Foot establishes a successful necessity defense, her act is justified rather than excused; therefore, the volunteers who assisted in that act share in the justification and avoid accomplice liability. <!-- correct -->
+(c) The volunteers face accomplice liability regardless of Foot's defense because common law accomplice liability attaches upon purposeful assistance in the prohibited conduct, precluding the transfer of any principal's defense.
+(d) The volunteers share in Foot's defense only if each independently satisfies the elements of necessity, because derivative justification requires every participant to independently prove they faced a choice of evils.
+(e) The volunteers share in the defense because common law treats necessity as a lesser-evils excuse, and all personal excuses automatically transfer to accomplices who act with the same purpose as the principal.
 
 **Answer:** (b)
 
-**Explanation:** The justification/excuse distinction has concrete consequences for derivative liability. Necessity is a justification—the defendant's act is deemed the right choice under the circumstances. When an act is justified, the justification attaches to the act itself. Any third party who knowingly assists in a justified act shares in that justification. Option (a) misclassifies necessity as an excuse; excuses are personal to the actor. Option (c) relies on a false rule; when the principal's act is justified, there is no wrongful act for accomplice liability to attach. Option (d) incorrectly states that derivative justification requires each helper to independently satisfy every element. Option (e) improperly applies the MPC (the question specifies common law) and substantively misstates MPC law, as the MPC does not extend all affirmative defenses (such as personal excuses) to accomplices.
+**Explanation:** Necessity is a justification defense (a "choice of evils"), meaning the defendant's conduct is deemed legally permissible under the circumstances. Because justifications attach to the act itself rather than the actor, an accomplice who assists in a justified act commits no crime and derives the benefit of the justification. Option (a) is incorrect because necessity is a justification, not a personal excuse. Option (c) is incorrect because accomplice liability requires a legally wrongful act by the principal; if the act is justified, there is no crime to aid. Option (d) is incorrect because accomplices to a justified act do not need to independently satisfy the primary justification's elements to avoid derivative liability. Option (e) is incorrect because necessity is a justification, not an excuse, and common law excuses do not automatically transfer to accomplices.
 
 **Tags:** chapters: [18, 21], topics: [justification-vs-excuse, necessity, derivative-liability], difficulty: medium, cognitive: analysis, trap: Students classify necessity as an excuse and deny volunteers a derivative defense
 
 **Grounding:** Chapter 21, justification-vs-excuse refinement; Chapter 18, dl-justification-vs-excuse.
 
-<!-- grounding: GROUNDED — Derivative liability (justification vs. excuse), Ch 18, Refinement `dl-justification-vs-excuse`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — derivative liability justification vs excuse, Ch 18, Refinement `dl-justification-vs-excuse` (and Ch 21 `justification-vs-excuse`). Rule paraphrased accurately. -->
 
 ### Ambiguity Audit
 
-**Q2.** Your supervisor asks whether Foot's necessity defense has any impact on the potential liability of volunteers who helped Foot keep the shelter open during the standoff (Facts 1 and 6). Assuming common law applies, which of the following best explains the relationship between Foot's defense and the volunteers' liability?
+**Q2.** Your supervisor asks whether Foot's necessity defense against the condemnation violation charge has any impact on the potential liability of volunteers who helped Foot keep the shelter open during the standoff (Facts 1 and 6). Under common law doctrine, which of the following best explains the relationship between Foot's defense and the volunteers' liability?
 
-(a) The volunteers have no defense because necessity is a personal excuse that applies only to the person who made the choice of evils, and each volunteer would need to independently establish their own duress defense.
-(b) If Foot's necessity defense succeeds, the volunteers who assisted her share in the justification because necessity is a justification—the act itself is deemed right—and any third party who knowingly assists in a justified act is also justified. <!-- correct -->
-(c) The volunteers are liable as accomplices regardless of Foot's defense because the common law treats accomplice liability as strict—once a person knowingly assists in a criminal act, no defense available to the principal transfers to the accomplice.
-(d) The volunteers share in Foot's defense only if each volunteer independently demonstrated they had exhausted all legal alternatives before joining the shelter operation, because necessity's "no reasonable legal alternative" element must be proven individually by each participant.
-(e) If Foot's necessity defense succeeds, the volunteers share in the defense, but only because the MPC extends all affirmative defenses to accomplices as a matter of statutory design, not because of the justification principle.
+(a) The volunteers cannot share in Foot's defense because necessity is a personal excuse, meaning each volunteer must independently establish their own excuse defense.
+(b) If Foot establishes a successful necessity defense, her act is justified rather than excused; therefore, the volunteers who assisted in that act share in the justification and avoid accomplice liability. <!-- correct -->
+(c) The volunteers face accomplice liability regardless of Foot's defense because common law accomplice liability attaches upon purposeful assistance in the prohibited conduct, precluding the transfer of any principal's defense.
+(d) The volunteers share in Foot's defense only if each independently satisfies the elements of necessity, because derivative justification requires every participant to independently prove they faced a choice of evils.
+(e) The volunteers share in the defense because common law treats necessity as a lesser-evils excuse, and all personal excuses automatically transfer to accomplices who act with the same purpose as the principal.
 
 **Answer:** (b)
 
-**Explanation:** The justification/excuse distinction has concrete consequences for derivative liability. Necessity is a justification—the defendant's act is deemed the right choice under the circumstances. When an act is justified, the justification attaches to the act itself. Any third party who knowingly assists in a justified act shares in that justification. Option (a) misclassifies necessity as an excuse; excuses are personal to the actor. Option (c) relies on a false rule; when the principal's act is justified, there is no wrongful act for accomplice liability to attach. Option (d) incorrectly states that derivative justification requires each helper to independently satisfy every element. Option (e) improperly applies the MPC (the question specifies common law) and substantively misstates MPC law, as the MPC does not extend all affirmative defenses (such as personal excuses) to accomplices.
+**Explanation:** Necessity is a justification defense (a "choice of evils"), meaning the defendant's conduct is deemed legally permissible under the circumstances. Because justifications attach to the act itself rather than the actor, an accomplice who assists in a justified act commits no crime and derives the benefit of the justification. Option (a) is incorrect because necessity is a justification, not a personal excuse. Option (c) is incorrect because accomplice liability requires a legally wrongful act by the principal; if the act is justified, there is no crime to aid. Option (d) is incorrect because accomplices to a justified act do not need to independently satisfy the primary justification's elements to avoid derivative liability. Option (e) is incorrect because necessity is a justification, not an excuse, and common law excuses do not automatically transfer to accomplices.
 
 **Tags:** chapters: [18, 21], topics: [justification-vs-excuse, necessity, derivative-liability], difficulty: medium, cognitive: analysis, trap: Students classify necessity as an excuse and deny volunteers a derivative defense
 
 **Grounding:** Chapter 21, justification-vs-excuse refinement; Chapter 18, dl-justification-vs-excuse.
 
-<!-- audit: SHOULD FIX
-check 1: pass
-check 2: finding - Option (b) uses the phrase "knowingly assists." Chapter 18 explicitly teaches that common law accomplice liability requires *purpose*, not mere knowledge (tag: `mr-purpose-not-knowledge`). A well-prepared student might eliminate the correct answer, assuming it's a trap because it misstates the required mens rea for common law derivative liability.
-check 3: pass
-check 4: pass
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Change "knowingly assists" to "purposely assists" (or simply "assists") in options (b) and (c), and in the explanation, to avoid inadvertently triggering the purpose vs. knowledge distinction for accomplice liability.
+<!-- audit: CLEAN
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: pass
+Check 5: pass
+Check 6: pass
+Check 7: pass
 -->
 
 ### Edge Case Audit
 
-**Q2.** Your supervisor asks whether Foot's necessity defense has any impact on the potential liability of volunteers who helped Foot keep the shelter open during the standoff (Facts 1 and 6). Assuming common law applies, which of the following best explains the relationship between Foot's defense and the volunteers' liability?
+**Q2.** Your supervisor asks whether Foot's necessity defense against the condemnation violation charge has any impact on the potential liability of volunteers who helped Foot keep the shelter open during the standoff (Facts 1 and 6). Under common law doctrine, which of the following best explains the relationship between Foot's defense and the volunteers' liability?
 
-(a) The volunteers have no defense because necessity is a personal excuse that applies only to the person who made the choice of evils, and each volunteer would need to independently establish their own duress defense.
-(b) If Foot's necessity defense succeeds, the volunteers who assisted her share in the justification because necessity is a justification—the act itself is deemed right—and any third party who knowingly assists in a justified act is also justified. <!-- correct -->
-(c) The volunteers are liable as accomplices regardless of Foot's defense because the common law treats accomplice liability as strict—once a person knowingly assists in a criminal act, no defense available to the principal transfers to the accomplice.
-(d) The volunteers share in Foot's defense only if each volunteer independently demonstrated they had exhausted all legal alternatives before joining the shelter operation, because necessity's "no reasonable legal alternative" element must be proven individually by each participant.
-(e) If Foot's necessity defense succeeds, the volunteers share in the defense, but only because the MPC extends all affirmative defenses to accomplices as a matter of statutory design, not because of the justification principle.
+(a) The volunteers cannot share in Foot's defense because necessity is a personal excuse, meaning each volunteer must independently establish their own excuse defense.
+(b) If Foot establishes a successful necessity defense, her act is justified rather than excused; therefore, the volunteers who assisted in that act share in the justification and avoid accomplice liability. <!-- correct -->
+(c) The volunteers face accomplice liability regardless of Foot's defense because common law accomplice liability attaches upon purposeful assistance in the prohibited conduct, precluding the transfer of any principal's defense.
+(d) The volunteers share in Foot's defense only if each independently satisfies the elements of necessity, because derivative justification requires every participant to independently prove they faced a choice of evils.
+(e) The volunteers share in the defense because common law treats necessity as a lesser-evils excuse, and all personal excuses automatically transfer to accomplices who act with the same purpose as the principal.
 
 **Answer:** (b)
 
-**Explanation:** The justification/excuse distinction has concrete consequences for derivative liability. Necessity is a justification—the defendant's act is deemed the right choice under the circumstances. When an act is justified, the justification attaches to the act itself. Any third party who knowingly assists in a justified act shares in that justification. Option (a) misclassifies necessity as an excuse; excuses are personal to the actor. Option (c) relies on a false rule; when the principal's act is justified, there is no wrongful act for accomplice liability to attach. Option (d) incorrectly states that derivative justification requires each helper to independently satisfy every element. Option (e) improperly applies the MPC (the question specifies common law) and substantively misstates MPC law, as the MPC does not extend all affirmative defenses (such as personal excuses) to accomplices.
+**Explanation:** Necessity is a justification defense (a "choice of evils"), meaning the defendant's conduct is deemed legally permissible under the circumstances. Because justifications attach to the act itself rather than the actor, an accomplice who assists in a justified act commits no crime and derives the benefit of the justification. Option (a) is incorrect because necessity is a justification, not a personal excuse. Option (c) is incorrect because accomplice liability requires a legally wrongful act by the principal; if the act is justified, there is no crime to aid. Option (d) is incorrect because accomplices to a justified act do not need to independently satisfy the primary justification's elements to avoid derivative liability. Option (e) is incorrect because necessity is a justification, not an excuse, and common law excuses do not automatically transfer to accomplices.
 
 **Tags:** chapters: [18, 21], topics: [justification-vs-excuse, necessity, derivative-liability], difficulty: medium, cognitive: analysis, trap: Students classify necessity as an excuse and deny volunteers a derivative defense
 
@@ -248,72 +246,72 @@ Recommended fix: n/a
 
 ### Argument Pass (Sonnet)
 
-**Q2.** Your supervisor asks whether Foot's necessity defense has any impact on the potential liability of volunteers who helped Foot keep the shelter open during the standoff (Facts 1 and 6). Assuming common law applies, which of the following best explains the relationship between Foot's defense and the volunteers' liability?
+**Q2.** Your supervisor asks whether Foot's necessity defense against the condemnation violation charge has any impact on the potential liability of volunteers who helped Foot keep the shelter open during the standoff (Facts 1 and 6). Under common law doctrine, which of the following best explains the relationship between Foot's defense and the volunteers' liability?
 
-(a) The volunteers have no defense because necessity is a personal excuse that applies only to the person who made the choice of evils, and each volunteer would need to independently establish their own duress defense.
-(b) If Foot's necessity defense succeeds, the volunteers who assisted her share in the justification because necessity is a justification—the act itself is deemed right—and any third party who knowingly assists in a justified act is also justified. <!-- correct -->
-(c) The volunteers are liable as accomplices regardless of Foot's defense because the common law treats accomplice liability as strict—once a person knowingly assists in a criminal act, no defense available to the principal transfers to the accomplice.
-(d) The volunteers share in Foot's defense only if each volunteer independently demonstrated they had exhausted all legal alternatives before joining the shelter operation, because necessity's "no reasonable legal alternative" element must be proven individually by each participant.
-(e) If Foot's necessity defense succeeds, the volunteers share in the defense, but only because the MPC extends all affirmative defenses to accomplices as a matter of statutory design, not because of the justification principle.
+(a) The volunteers cannot share in Foot's defense because necessity is a personal excuse, meaning each volunteer must independently establish their own excuse defense.
+(b) If Foot establishes a successful necessity defense, her act is justified rather than excused; therefore, the volunteers who assisted in that act share in the justification and avoid accomplice liability. <!-- correct -->
+(c) The volunteers face accomplice liability regardless of Foot's defense because common law accomplice liability attaches upon purposeful assistance in the prohibited conduct, precluding the transfer of any principal's defense.
+(d) The volunteers share in Foot's defense only if each independently satisfies the elements of necessity, because derivative justification requires every participant to independently prove they faced a choice of evils.
+(e) The volunteers share in the defense because common law treats necessity as a lesser-evils excuse, and all personal excuses automatically transfer to accomplices who act with the same purpose as the principal.
 
 **Answer:** (b)
 
-**Explanation:** The justification/excuse distinction has concrete consequences for derivative liability. Necessity is a justification—the defendant's act is deemed the right choice under the circumstances. When an act is justified, the justification attaches to the act itself. Any third party who knowingly assists in a justified act shares in that justification. Option (a) misclassifies necessity as an excuse; excuses are personal to the actor. Option (c) relies on a false rule; when the principal's act is justified, there is no wrongful act for accomplice liability to attach. Option (d) incorrectly states that derivative justification requires each helper to independently satisfy every element. Option (e) improperly applies the MPC (the question specifies common law) and substantively misstates MPC law, as the MPC does not extend all affirmative defenses (such as personal excuses) to accomplices.
+**Explanation:** Necessity is a justification defense (a "choice of evils"), meaning the defendant's conduct is deemed legally permissible under the circumstances. Because justifications attach to the act itself rather than the actor, an accomplice who assists in a justified act commits no crime and derives the benefit of the justification. Option (a) is incorrect because necessity is a justification, not a personal excuse. Option (c) is incorrect because accomplice liability requires a legally wrongful act by the principal; if the act is justified, there is no crime to aid. Option (d) is incorrect because accomplices to a justified act do not need to independently satisfy the primary justification's elements to avoid derivative liability. Option (e) is incorrect because necessity is a justification, not an excuse, and common law excuses do not automatically transfer to accomplices.
 
 **Tags:** chapters: [18, 21], topics: [justification-vs-excuse, necessity, derivative-liability], difficulty: medium, cognitive: analysis, trap: Students classify necessity as an excuse and deny volunteers a derivative defense
 
 **Grounding:** Chapter 21, justification-vs-excuse refinement; Chapter 18, dl-justification-vs-excuse.
 
 <!-- argument-pass: CLEAN
-(a) Argument-for: A student might argue that necessity, often taught alongside duress, is based on the actor's overwhelming pressure to act, making it an excuse rather than a justification. Because excuses are personal to the specific actor facing the pressure, they do not transfer to accomplices. Therefore, the volunteers would need to independently establish their own excuse (such as duress) rather than relying on Foot's necessity defense.
-(b) Argument-for: This option correctly reflects the common law distinction between justification and excuse. Necessity is the quintessential justification defense, meaning the act itself is deemed legally permissible or beneficial. Because the act is justified, there is no legally wrongful conduct, so anyone who assists the principal in performing that justified act derivatively shares in the defense and cannot be held liable as an accomplice.
-(c) Argument-for: A student could argue that accomplice liability solely focuses on whether the accomplice intended to and did assist the principal's factual conduct. From this perspective, the common law rigidly separates the accomplice's act of aiding from the principal's affirmative defenses, making the accomplice strictly liable for assisting the proscribed act regardless of whether the principal's conduct was ultimately excused or justified.
-(d) Argument-for: A student might argue that because criminal liability assesses individual culpability, derivative defenses still require individual satisfaction of the defense's elements. Since necessity requires the actor to exhaust all legal alternatives, the volunteers cannot simply piggyback on Foot's efforts; they must each prove they personally lacked reasonable legal alternatives before choosing to break the law.
-(e) Argument-for: A student might argue that modern criminal law, heavily influenced by the Model Penal Code, rejects the strict common law justification/excuse dichotomy for accomplices. Under this view, the MPC explicitly extends all affirmative defenses to accomplices to ensure fairness, and this statutory structure provides the actual reason the volunteers share the defense, overriding theoretical justification principles.
+(a) Argument-for: The necessity defense (often called the choice of evils) can be conceptually related to duress, which is classically an excuse. If a student categorizes necessity as a personal excuse based on the actor's blamelessness under pressure, the defense would not logically transfer. Under this view, because excuses are actor-specific rather than act-specific, volunteers cannot rely on Foot's defense and must independently establish their own excuse to avoid liability.
+(b) Argument-for: Under common law, necessity is classified as a justification defense, which means the conduct is deemed legally right or permissible under the circumstances. Because a justification attaches to the act itself, there is no legally wrongful conduct to punish. Accomplice liability requires that the principal commit a wrongful act; thus, accomplices to a justified act share the protection and cannot be held liable.
+(c) Argument-for: The focus of modern accomplice liability is often on the accomplice's own mens rea and actus reus. If a volunteer purposefully aids the prohibited conduct, they have completed the requirements for accomplice liability. A student could argue that liability attaches independently to the accomplice's own culpable assistance, precluding any transfer of the principal's defense, especially if they view accomplice liability as severable from the principal's ultimate conviction.
+(d) Argument-for: Justifications often require a subjective belief that the action is necessary to prevent an imminent harm. A student could logically deduce that because this subjective element is personal to the actor, accomplices cannot merely derive protection from the principal's state of mind. Therefore, this argument posits that derivative justification demands each participant independently prove they met the elements of necessity to be shielded from liability.
+(e) Argument-for: This argument relies on blending necessity with excuse defenses like duress, viewing it as a "lesser-evils excuse." If a student believes necessity is an excuse, they might further theorize that accomplices acting with the same noble purpose as the principal should logically share in the defense. Thus, the argument asserts that personal excuses automatically transfer to accomplices who share the principal's specific purpose.
 
-Head-to-head: Option (b) correctly states the common law rule that necessity is a justification, which attaches to the act itself and protects accomplices. Option (a) incorrectly classifies necessity as an excuse. Option (c) invents a false rule that no defenses transfer to accomplices, ignoring the justification/excuse distinction. Option (d) incorrectly states that accomplices to a justified act must independently prove the justification's elements (such as exhausting alternatives) to share in the defense. Option (e) both misstates the MPC (which does not extend excuses like duress to accomplices) and ignores the prompt's explicit instruction to apply the common law. All distractors contain clear, falsifiable legal errors.
+Head-to-head: Option (b) correctly states the common law rule that necessity is a justification, rendering the act lawful and thereby precluding accomplice liability. Option (a) incorrectly classifies necessity as an excuse. Option (c) wrongly claims that no principal's defense transfers, ignoring that justifications defeat the underlying wrongfulness of the act required for accomplice liability. Option (d) incorrectly states that derivative justification requires independent proof of the defense's elements by every participant, fundamentally misunderstanding the act-based nature of the defense. Option (e) relies on a double error: misclassifying necessity as an excuse and falsely claiming that personal excuses automatically transfer.
 
 Falsifiable claim per distractor:
-- (a): "necessity is a personal excuse" — wrong because common law categorically classifies necessity as a justification defense, not a personal excuse.
-- (c): "no defense available to the principal transfers to the accomplice" — wrong because common law dictates that justification defenses (which render the act legally permissible) categorically transfer to accomplices.
-- (d): "necessity's 'no reasonable legal alternative' element must be proven individually by each participant" — wrong because when an act is justified, the justification attaches to the act itself; accomplices do not need to independently satisfy the necessity elements to derive the defense.
-- (e): "the MPC extends all affirmative defenses to accomplices as a matter of statutory design" — wrong because the MPC does not extend personal excuses to accomplices, and it also ignores the prompt's explicit constraint to assume common law applies.
+- (a): "necessity is a personal excuse" — wrong because common law classifies necessity as a justification, not an excuse.
+- (c): "precluding the transfer of any principal's defense" — wrong because justification defenses negate the wrongfulness of the act, effectively "transferring" to protect accomplices from derivative liability.
+- (d): "derivative justification requires every participant to independently prove they faced a choice of evils" — wrong because accomplices derive protection from the legally permissible nature of the principal's act without needing to independently satisfy the defense's elements.
+- (e): "common law treats necessity as a lesser-evils excuse, and all personal excuses automatically transfer" — wrong because necessity is a justification, and personal excuses do not automatically transfer to accomplices.
 
 Recommended fix: none
 -->
 
 ### Argument Pass (Opus)
 
-**Q2.** Your supervisor asks whether Foot's necessity defense has any impact on the potential liability of volunteers who helped Foot keep the shelter open during the standoff (Facts 1 and 6). Assuming common law applies, which of the following best explains the relationship between Foot's defense and the volunteers' liability?
+**Q2.** Your supervisor asks whether Foot's necessity defense against the condemnation violation charge has any impact on the potential liability of volunteers who helped Foot keep the shelter open during the standoff (Facts 1 and 6). Under common law doctrine, which of the following best explains the relationship between Foot's defense and the volunteers' liability?
 
-(a) The volunteers have no defense because necessity is a personal excuse that applies only to the person who made the choice of evils, and each volunteer would need to independently establish their own duress defense.
-(b) If Foot's necessity defense succeeds, the volunteers who assisted her share in the justification because necessity is a justification—the act itself is deemed right—and any third party who knowingly assists in a justified act is also justified. <!-- correct -->
-(c) The volunteers are liable as accomplices regardless of Foot's defense because the common law treats accomplice liability as strict—once a person knowingly assists in a criminal act, no defense available to the principal transfers to the accomplice.
-(d) The volunteers share in Foot's defense only if each volunteer independently demonstrated they had exhausted all legal alternatives before joining the shelter operation, because necessity's "no reasonable legal alternative" element must be proven individually by each participant.
-(e) If Foot's necessity defense succeeds, the volunteers share in the defense, but only because the MPC extends all affirmative defenses to accomplices as a matter of statutory design, not because of the justification principle.
+(a) The volunteers cannot share in Foot's defense because necessity is a personal excuse, meaning each volunteer must independently establish their own excuse defense.
+(b) If Foot establishes a successful necessity defense, her act is justified rather than excused; therefore, the volunteers who assisted in that act share in the justification and avoid accomplice liability. <!-- correct -->
+(c) The volunteers face accomplice liability regardless of Foot's defense because common law accomplice liability attaches upon purposeful assistance in the prohibited conduct, precluding the transfer of any principal's defense.
+(d) The volunteers share in Foot's defense only if each independently satisfies the elements of necessity, because derivative justification requires every participant to independently prove they faced a choice of evils.
+(e) The volunteers share in the defense because common law treats necessity as a lesser-evils excuse, and all personal excuses automatically transfer to accomplices who act with the same purpose as the principal.
 
 **Answer:** (b)
 
-**Explanation:** The justification/excuse distinction has concrete consequences for derivative liability. Necessity is a justification—the defendant's act is deemed the right choice under the circumstances. When an act is justified, the justification attaches to the act itself. Any third party who knowingly assists in a justified act shares in that justification. Option (a) misclassifies necessity as an excuse; excuses are personal to the actor. Option (c) relies on a false rule; when the principal's act is justified, there is no wrongful act for accomplice liability to attach. Option (d) incorrectly states that derivative justification requires each helper to independently satisfy every element. Option (e) improperly applies the MPC (the question specifies common law) and substantively misstates MPC law, as the MPC does not extend all affirmative defenses (such as personal excuses) to accomplices.
+**Explanation:** Necessity is a justification defense (a "choice of evils"), meaning the defendant's conduct is deemed legally permissible under the circumstances. Because justifications attach to the act itself rather than the actor, an accomplice who assists in a justified act commits no crime and derives the benefit of the justification. Option (a) is incorrect because necessity is a justification, not a personal excuse. Option (c) is incorrect because accomplice liability requires a legally wrongful act by the principal; if the act is justified, there is no crime to aid. Option (d) is incorrect because accomplices to a justified act do not need to independently satisfy the primary justification's elements to avoid derivative liability. Option (e) is incorrect because necessity is a justification, not an excuse, and common law excuses do not automatically transfer to accomplices.
 
 **Tags:** chapters: [18, 21], topics: [justification-vs-excuse, necessity, derivative-liability], difficulty: medium, cognitive: analysis, trap: Students classify necessity as an excuse and deny volunteers a derivative defense
 
 **Grounding:** Chapter 21, justification-vs-excuse refinement; Chapter 18, dl-justification-vs-excuse.
 
 <!-- argument-pass: CLEAN
-(a) Argument-for: A student might argue that necessity, often taught alongside duress, is based on the actor's overwhelming pressure to act, making it an excuse rather than a justification. Because excuses are personal to the specific actor facing the pressure, they do not transfer to accomplices. Therefore, the volunteers would need to independently establish their own excuse (such as duress) rather than relying on Foot's necessity defense.
-(b) Argument-for: This option correctly reflects the common law distinction between justification and excuse. Necessity is the quintessential justification defense, meaning the act itself is deemed legally permissible or beneficial. Because the act is justified, there is no legally wrongful conduct, so anyone who assists the principal in performing that justified act derivatively shares in the defense and cannot be held liable as an accomplice.
-(c) Argument-for: A student could argue that accomplice liability solely focuses on whether the accomplice intended to and did assist the principal's factual conduct. From this perspective, the common law rigidly separates the accomplice's act of aiding from the principal's affirmative defenses, making the accomplice strictly liable for assisting the proscribed act regardless of whether the principal's conduct was ultimately excused or justified.
-(d) Argument-for: A student might argue that because criminal liability assesses individual culpability, derivative defenses still require individual satisfaction of the defense's elements. Since necessity requires the actor to exhaust all legal alternatives, the volunteers cannot simply piggyback on Foot's efforts; they must each prove they personally lacked reasonable legal alternatives before choosing to break the law.
-(e) Argument-for: A student might argue that modern criminal law, heavily influenced by the Model Penal Code, rejects the strict common law justification/excuse dichotomy for accomplices. Under this view, the MPC explicitly extends all affirmative defenses to accomplices to ensure fairness, and this statutory structure provides the actual reason the volunteers share the defense, overriding theoretical justification principles.
+(a) Argument-for: The necessity defense (often called the choice of evils) can be conceptually related to duress, which is classically an excuse. If a student categorizes necessity as a personal excuse based on the actor's blamelessness under pressure, the defense would not logically transfer. Under this view, because excuses are actor-specific rather than act-specific, volunteers cannot rely on Foot's defense and must independently establish their own excuse to avoid liability.
+(b) Argument-for: Under common law, necessity is classified as a justification defense, which means the conduct is deemed legally right or permissible under the circumstances. Because a justification attaches to the act itself, there is no legally wrongful conduct to punish. Accomplice liability requires that the principal commit a wrongful act; thus, accomplices to a justified act share the protection and cannot be held liable.
+(c) Argument-for: The focus of modern accomplice liability is often on the accomplice's own mens rea and actus reus. If a volunteer purposefully aids the prohibited conduct, they have completed the requirements for accomplice liability. A student could argue that liability attaches independently to the accomplice's own culpable assistance, precluding any transfer of the principal's defense, especially if they view accomplice liability as severable from the principal's ultimate conviction.
+(d) Argument-for: Justifications often require a subjective belief that the action is necessary to prevent an imminent harm. A student could logically deduce that because this subjective element is personal to the actor, accomplices cannot merely derive protection from the principal's state of mind. Therefore, this argument posits that derivative justification demands each participant independently prove they met the elements of necessity to be shielded from liability.
+(e) Argument-for: This argument relies on blending necessity with excuse defenses like duress, viewing it as a "lesser-evils excuse." If a student believes necessity is an excuse, they might further theorize that accomplices acting with the same noble purpose as the principal should logically share in the defense. Thus, the argument asserts that personal excuses automatically transfer to accomplices who share the principal's specific purpose.
 
-Head-to-head: Option (b) correctly states the common law rule that necessity is a justification, which attaches to the act itself and protects accomplices. Option (a) incorrectly classifies necessity as an excuse. Option (c) invents a false rule that no defenses transfer to accomplices, ignoring the justification/excuse distinction. Option (d) incorrectly states that accomplices to a justified act must independently prove the justification's elements (such as exhausting alternatives) to share in the defense. Option (e) both misstates the MPC (which does not extend excuses like duress to accomplices) and ignores the prompt's explicit instruction to apply the common law. All distractors contain clear, falsifiable legal errors.
+Head-to-head: Option (b) correctly states the common law rule that necessity is a justification, rendering the act lawful and thereby precluding accomplice liability. Option (a) incorrectly classifies necessity as an excuse. Option (c) wrongly claims that no principal's defense transfers, ignoring that justifications defeat the underlying wrongfulness of the act required for accomplice liability. Option (d) incorrectly states that derivative justification requires independent proof of the defense's elements by every participant, fundamentally misunderstanding the act-based nature of the defense. Option (e) relies on a double error: misclassifying necessity as an excuse and falsely claiming that personal excuses automatically transfer.
 
 Falsifiable claim per distractor:
-- (a): "necessity is a personal excuse" — wrong because common law categorically classifies necessity as a justification defense, not a personal excuse.
-- (c): "no defense available to the principal transfers to the accomplice" — wrong because common law dictates that justification defenses (which render the act legally permissible) categorically transfer to accomplices.
-- (d): "necessity's 'no reasonable legal alternative' element must be proven individually by each participant" — wrong because when an act is justified, the justification attaches to the act itself; accomplices do not need to independently satisfy the necessity elements to derive the defense.
-- (e): "the MPC extends all affirmative defenses to accomplices as a matter of statutory design" — wrong because the MPC does not extend personal excuses to accomplices, and it also ignores the prompt's explicit constraint to assume common law applies.
+- (a): "necessity is a personal excuse" — wrong because common law classifies necessity as a justification, not an excuse.
+- (c): "precluding the transfer of any principal's defense" — wrong because justification defenses negate the wrongfulness of the act, effectively "transferring" to protect accomplices from derivative liability.
+- (d): "derivative justification requires every participant to independently prove they faced a choice of evils" — wrong because accomplices derive protection from the legally permissible nature of the principal's act without needing to independently satisfy the defense's elements.
+- (e): "common law treats necessity as a lesser-evils excuse, and all personal excuses automatically transfer" — wrong because necessity is a justification, and personal excuses do not automatically transfer to accomplices.
 
 Recommended fix: none
 -->
@@ -888,13 +886,13 @@ Recommended fix: none
 **Grounding:** Chapter 23, mnaghten-wrongness refinement; mpc-appreciate-criminality refinement; qualifying-mental-disease refinement.
 
 <!-- audit: CLEAN
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: pass
-check 5: pass
-check 6: pass
-check 7: pass
+<check 1>: pass (accurately applies MPC's cognitive prong, tracing directly to 'appreciate the wrongfulness/criminality')
+<check 2>: pass (distractors reliably deploy explicitly wrong legal tests like M'Naghten's "nature and quality" or the "irresistible impulse" test, or misapply the antisocial conduct exclusion)
+<check 3>: pass (explanation aligns perfectly with established MPC doctrine)
+<check 4>: pass (the stem's facts, particularly the psychiatrist's testimony, squarely set up the MPC cognitive prong)
+<check 5>: pass (the stem explicitly stipulates the Model Penal Code framework)
+<check 6>: pass (no excluded topics or sensitive material bleeds in)
+<check 7>: pass (the concepts tested correspond 1:1 with Chapter 23 map tags such as `mpc-appreciate-criminality`, `personality-disorder-exclusion`, and `mnaghten-nature-quality`)
 Recommended fix: n/a
 -->
 
@@ -1231,6 +1229,8 @@ Recommended fix: none
 
 ### Ambiguity Audit
 
+## The Question
+
 **Q8.** Assume, counterfactually, that Markov's case arose in a jurisdiction that has abolished the insanity defense and follows the mens rea model (like Kansas). The jurisdiction's assault statute requires "purposely or knowingly causing bodily injury to another person." How would this change Markov's defense options? (Fact 2.)
 
 (a) Markov would have no defense options because abolition states treat mental illness as entirely irrelevant to criminal proceedings, and psychiatric records are inadmissible for any purpose.
@@ -1251,7 +1251,7 @@ Recommended fix: none
 check 1: pass
 check 2: pass
 check 3: pass
-check 4: pass
+check 4: pass (assuming Fact 2 in the shared scenario supplies the assassin delusion premise)
 check 5: pass
 check 6: pass
 check 7: pass
@@ -1575,7 +1575,7 @@ Recommended fix: none
 
 (a) Holmes has a valid duress defense because the threat was of death to his mother (a close relation), the threat was credible based on Nietzsche's prior conduct, and the common law's "murder bar" is a sentencing-phase consideration that operates only after conviction to limit a defendant's exposure, not a substantive bar at the guilt phase.
 
-(b) Holmes does not have a valid duress defense because duress is categorically unavailable as a defense to murder under the common law—a defendant may not take another life to save her own or a family member's life, regardless of how severe or credible the threat. <!-- correct -->
+(b) Holmes does not have a valid duress defense because under the traditional common law rule, duress is categorically unavailable as a defense to any murder, including felony murder, regardless of how severe or credible the threat. <!-- correct -->
 
 (c) Holmes has a valid duress defense because the MPC makes duress available for all crimes including murder, and the modern trend favors extending the defense to homicide cases in all jurisdictions.
 
@@ -1585,13 +1585,13 @@ Recommended fix: none
 
 **Answer:** (b)
 
-**Explanation:** Under the common law, duress is categorically unavailable as a defense to murder. The rationale is that a defendant may not take another life to save their own (or a family member's). This is an absolute bar regardless of the severity or credibility of the threat. Option (a) falsely states that the common law's murder bar is a sentencing-phase consideration; it is actually a categorical substantive rule operating at the guilt phase. Option (c) relies on the MPC rule despite Fact 6 specifying common law and falsely claims a universal modern trend extending the defense to homicide. Option (d) contains a false legal rule: the common law does not require the threat to target the defendant personally and extends duress to threats against close relations. Option (e) falsely claims that duress always breaks the chain of felony murder liability; this exception exists only in a small minority of states and is not the universal common law rule.
+**Explanation:** Under the traditional common law rule, duress is categorically unavailable as a defense to any murder, including felony murder. This is an absolute bar regardless of the severity or credibility of the threat. Option (a) falsely states that the common law's murder bar is a sentencing-phase consideration; it is actually a categorical substantive rule operating at the guilt phase. Option (c) relies on the MPC rule despite Fact 6 specifying common law and falsely claims a universal modern trend extending the defense to homicide. Option (d) contains a false legal rule: the common law does not require the threat to target the defendant personally and extends duress to threats against close relations. Option (e) falsely claims that duress always breaks the chain of felony murder liability; this exception exists only in a small minority of states and is not the universal common law rule.
 
 **Tags:** chapters: [21], topics: [duress, duress-murder-bar, duress-threat-threshold], difficulty: medium, cognitive: application, trap: Students focus on the credible threat and overlook the categorical CL homicide bar
 
 **Grounding:** Chapter 21, duress-murder-bar refinement; felony-murder-duress-exception refinement.
 
-<!-- grounding: GROUNDED — duress murder bar, Ch 21, Refinement `duress-murder-bar`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — duress murder bar and felony murder exception, Ch 21, Refinement `duress-murder-bar` and `felony-murder-duress-exception`. Rule paraphrased accurately. -->
 
 ### Ambiguity Audit
 
@@ -1599,7 +1599,7 @@ Recommended fix: none
 
 (a) Holmes has a valid duress defense because the threat was of death to his mother (a close relation), the threat was credible based on Nietzsche's prior conduct, and the common law's "murder bar" is a sentencing-phase consideration that operates only after conviction to limit a defendant's exposure, not a substantive bar at the guilt phase.
 
-(b) Holmes does not have a valid duress defense because duress is categorically unavailable as a defense to murder under the common law—a defendant may not take another life to save her own or a family member's life, regardless of how severe or credible the threat. <!-- correct -->
+(b) Holmes does not have a valid duress defense because under the traditional common law rule, duress is categorically unavailable as a defense to any murder, including felony murder, regardless of how severe or credible the threat. <!-- correct -->
 
 (c) Holmes has a valid duress defense because the MPC makes duress available for all crimes including murder, and the modern trend favors extending the defense to homicide cases in all jurisdictions.
 
@@ -1609,21 +1609,20 @@ Recommended fix: none
 
 **Answer:** (b)
 
-**Explanation:** Under the common law, duress is categorically unavailable as a defense to murder. The rationale is that a defendant may not take another life to save their own (or a family member's). This is an absolute bar regardless of the severity or credibility of the threat. Option (a) falsely states that the common law's murder bar is a sentencing-phase consideration; it is actually a categorical substantive rule operating at the guilt phase. Option (c) relies on the MPC rule despite Fact 6 specifying common law and falsely claims a universal modern trend extending the defense to homicide. Option (d) contains a false legal rule: the common law does not require the threat to target the defendant personally and extends duress to threats against close relations. Option (e) falsely claims that duress always breaks the chain of felony murder liability; this exception exists only in a small minority of states and is not the universal common law rule.
+**Explanation:** Under the traditional common law rule, duress is categorically unavailable as a defense to any murder, including felony murder. This is an absolute bar regardless of the severity or credibility of the threat. Option (a) falsely states that the common law's murder bar is a sentencing-phase consideration; it is actually a categorical substantive rule operating at the guilt phase. Option (c) relies on the MPC rule despite Fact 6 specifying common law and falsely claims a universal modern trend extending the defense to homicide. Option (d) contains a false legal rule: the common law does not require the threat to target the defendant personally and extends duress to threats against close relations. Option (e) falsely claims that duress always breaks the chain of felony murder liability; this exception exists only in a small minority of states and is not the universal common law rule.
 
 **Tags:** chapters: [21], topics: [duress, duress-murder-bar, duress-threat-threshold], difficulty: medium, cognitive: application, trap: Students focus on the credible threat and overlook the categorical CL homicide bar
 
 **Grounding:** Chapter 21, duress-murder-bar refinement; felony-murder-duress-exception refinement.
 
 <!-- audit: CLEAN
-check 1: pass - Option (b) correctly states the black-letter common law rule (categorical bar to murder).
-check 2: pass - Option (e) acts as a strong distractor for students who recall the felony-murder duress exception, but it is definitively rendered incorrect by its absolute phrasing ("always", "in every jurisdiction").
-check 3: pass - The explanation perfectly aligns with the doctrinal formulations and standard rationales mapped in Chapter 21.
-check 4: pass - The stem provides the necessary contextual elements to rule on the standalone options.
-check 5: pass - The prompt cleanly stipulates "Under the common law" (Fact 6), resolving any MPC/modern trend ambiguities.
-check 6: pass - No excluded-topic bleed; strictly focuses on duress and homicide doctrine.
-check 7: pass - `duress-murder-bar` and `felony-murder-duress-exception` are explicitly listed in the Chapter 21 meta-map.
-Recommended fix: n/a
+check 1: pass (The traditional common law rule categorically barring duress for murder, including felony murder, is correctly stated and applied.)
+check 2: pass (Distractors are effectively neutralized using absolutist language—e.g., "always breaks the chain," "all jurisdictions"—which prevents smart students from arguing a minority rule or MPC trend is correct.)
+check 3: pass (The explanation accurately maps to the options and provides doctrinally sound reasoning for eliminating each distractor.)
+check 4: pass (The options incorporate the necessary facts—threat to mother, assault, city worker's death—to independently evaluate the legal tests without needing to see the full scenario.)
+check 5: pass (The stem cleanly specifies "Under the common law," and Option B explicitly ties to the "traditional common law rule," sidestepping jurisdictional splits on the modern felony-murder exception.)
+check 6: pass (No excluded topics like DV or sexual assault are present.)
+check 7: pass (Doctrines perfectly match Chapter 21 refinements: duress-murder-bar, felony-murder-duress-exception, and duress-target-scope.)
 -->
 
 ### Edge Case Audit
@@ -1632,7 +1631,7 @@ Recommended fix: n/a
 
 (a) Holmes has a valid duress defense because the threat was of death to his mother (a close relation), the threat was credible based on Nietzsche's prior conduct, and the common law's "murder bar" is a sentencing-phase consideration that operates only after conviction to limit a defendant's exposure, not a substantive bar at the guilt phase.
 
-(b) Holmes does not have a valid duress defense because duress is categorically unavailable as a defense to murder under the common law—a defendant may not take another life to save her own or a family member's life, regardless of how severe or credible the threat. <!-- correct -->
+(b) Holmes does not have a valid duress defense because under the traditional common law rule, duress is categorically unavailable as a defense to any murder, including felony murder, regardless of how severe or credible the threat. <!-- correct -->
 
 (c) Holmes has a valid duress defense because the MPC makes duress available for all crimes including murder, and the modern trend favors extending the defense to homicide cases in all jurisdictions.
 
@@ -1642,7 +1641,7 @@ Recommended fix: n/a
 
 **Answer:** (b)
 
-**Explanation:** Under the common law, duress is categorically unavailable as a defense to murder. The rationale is that a defendant may not take another life to save their own (or a family member's). This is an absolute bar regardless of the severity or credibility of the threat. Option (a) falsely states that the common law's murder bar is a sentencing-phase consideration; it is actually a categorical substantive rule operating at the guilt phase. Option (c) relies on the MPC rule despite Fact 6 specifying common law and falsely claims a universal modern trend extending the defense to homicide. Option (d) contains a false legal rule: the common law does not require the threat to target the defendant personally and extends duress to threats against close relations. Option (e) falsely claims that duress always breaks the chain of felony murder liability; this exception exists only in a small minority of states and is not the universal common law rule.
+**Explanation:** Under the traditional common law rule, duress is categorically unavailable as a defense to any murder, including felony murder. This is an absolute bar regardless of the severity or credibility of the threat. Option (a) falsely states that the common law's murder bar is a sentencing-phase consideration; it is actually a categorical substantive rule operating at the guilt phase. Option (c) relies on the MPC rule despite Fact 6 specifying common law and falsely claims a universal modern trend extending the defense to homicide. Option (d) contains a false legal rule: the common law does not require the threat to target the defendant personally and extends duress to threats against close relations. Option (e) falsely claims that duress always breaks the chain of felony murder liability; this exception exists only in a small minority of states and is not the universal common law rule.
 
 **Tags:** chapters: [21], topics: [duress, duress-murder-bar, duress-threat-threshold], difficulty: medium, cognitive: application, trap: Students focus on the credible threat and overlook the categorical CL homicide bar
 
@@ -1650,7 +1649,7 @@ Recommended fix: n/a
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
+2. Cross-Doctrine Clashes: pass 
 3. Cross-Question Spoilers: pass
 Recommended fix: n/a
 -->
@@ -1661,7 +1660,7 @@ Recommended fix: n/a
 
 (a) Holmes has a valid duress defense because the threat was of death to his mother (a close relation), the threat was credible based on Nietzsche's prior conduct, and the common law's "murder bar" is a sentencing-phase consideration that operates only after conviction to limit a defendant's exposure, not a substantive bar at the guilt phase.
 
-(b) Holmes does not have a valid duress defense because duress is categorically unavailable as a defense to murder under the common law—a defendant may not take another life to save her own or a family member's life, regardless of how severe or credible the threat. <!-- correct -->
+(b) Holmes does not have a valid duress defense because under the traditional common law rule, duress is categorically unavailable as a defense to any murder, including felony murder, regardless of how severe or credible the threat. <!-- correct -->
 
 (c) Holmes has a valid duress defense because the MPC makes duress available for all crimes including murder, and the modern trend favors extending the defense to homicide cases in all jurisdictions.
 
@@ -1671,26 +1670,26 @@ Recommended fix: n/a
 
 **Answer:** (b)
 
-**Explanation:** Under the common law, duress is categorically unavailable as a defense to murder. The rationale is that a defendant may not take another life to save their own (or a family member's). This is an absolute bar regardless of the severity or credibility of the threat. Option (a) falsely states that the common law's murder bar is a sentencing-phase consideration; it is actually a categorical substantive rule operating at the guilt phase. Option (c) relies on the MPC rule despite Fact 6 specifying common law and falsely claims a universal modern trend extending the defense to homicide. Option (d) contains a false legal rule: the common law does not require the threat to target the defendant personally and extends duress to threats against close relations. Option (e) falsely claims that duress always breaks the chain of felony murder liability; this exception exists only in a small minority of states and is not the universal common law rule.
+**Explanation:** Under the traditional common law rule, duress is categorically unavailable as a defense to any murder, including felony murder. This is an absolute bar regardless of the severity or credibility of the threat. Option (a) falsely states that the common law's murder bar is a sentencing-phase consideration; it is actually a categorical substantive rule operating at the guilt phase. Option (c) relies on the MPC rule despite Fact 6 specifying common law and falsely claims a universal modern trend extending the defense to homicide. Option (d) contains a false legal rule: the common law does not require the threat to target the defendant personally and extends duress to threats against close relations. Option (e) falsely claims that duress always breaks the chain of felony murder liability; this exception exists only in a small minority of states and is not the universal common law rule.
 
 **Tags:** chapters: [21], topics: [duress, duress-murder-bar, duress-threat-threshold], difficulty: medium, cognitive: application, trap: Students focus on the credible threat and overlook the categorical CL homicide bar
 
 **Grounding:** Chapter 21, duress-murder-bar refinement; felony-murder-duress-exception refinement.
 
 <!-- argument-pass: CLEAN
-(a) Argument-for: At early common law, strict rules often forced defendants to rely on executive clemency or judicial discretion at sentencing when faced with extreme duress. A student might interpret this historical reality to mean that the "murder bar" is not an absolute denial of the defense's relevance, but rather a mechanism that shifts the mitigation to the sentencing phase. If the bar only limits complete exoneration, the defendant effectively retains a "defense" that limits exposure. Therefore, option (a) provides a sophisticated procedural reinterpretation of the common law rule.
-(b) Argument-for: This option correctly reflects the foundational common law rule derived from Blackstone, which establishes that one cannot take the life of an innocent person to save oneself. The underlying rationale is the absolute sanctity and equality of human life, dictating that a person must sacrifice their own life rather than commit murder. This serves as an absolute, categorical bar to raising duress for a murder charge. Consequently, even an objectively credible threat of death to a defendant or their family member cannot overcome this substantive guilt-phase bar.
-(c) Argument-for: Section 2.09 of the Model Penal Code intentionally eliminated the categorical common law murder bar, substituting a "person of reasonable firmness" standard that applies to all crimes. A student could argue that modern common law courts have absorbed this MPC innovation to avoid the harshness of the traditional rule. Under this view, the MPC reflects a prevailing modern trend that actively extends the defense to homicide. This makes option (c) attractive as a progressive, contemporary synthesis of duress doctrine.
-(d) Argument-for: The classic formulation of duress strictly requires an imminent and impending threat of death or great bodily harm. A formalist reading suggests this requirement was intensely personal, historically meant to excuse conduct only when the defendant's own immediate survival instinct overbore their will. Under such a strict interpretation, a threat to a third party—even a mother—would fail the personal-target requirement. Thus, option (d) logically applies a rigid reading of common law imminence and target requirements.
-(e) Argument-for: In felony murder, the underlying predicate felony is what supplies the requisite malice for the homicide charge. If duress perfectly negates the mens rea or culpability for the predicate felony (such as an assault), then legally there is no underlying felony to trigger the felony murder rule. A student could logically deduce that duress must systematically break the chain of liability because the foundational element of the felony murder doctrine has been destroyed. Therefore, option (e) offers a compelling, doctrinally consistent rationale for negating the murder charge.
+(a) Argument-for: A student might argue that duress acts as a mitigation rather than a complete defense to murder, similar to how provocation reduces murder to manslaughter. Thus, characterizing the murder bar as operating merely at sentencing or to limit exposure rather than as a complete guilt-phase bar captures the intuition that a coerced killer is less culpable but still technically guilty.
+(b) Argument-for: This option perfectly articulates the traditional common law rule. Blackstone famously wrote that a person ought rather to die himself than escape by the murder of an innocent. Consequently, under traditional common law, duress is absolutely barred as a substantive defense to any murder charge, including felony murder, regardless of how terrifying or credible the threat.
+(c) Argument-for: Under the Model Penal Code § 2.09, the duress defense is available for all crimes, including murder, provided the threat would overcome the will of a person of reasonable firmness. A student could plausibly argue that modern common law courts have uniformly adopted this MPC innovation, recognizing the injustice of punishing coerced killings.
+(d) Argument-for: A student might argue that under the strict forms of the ancient common law, duress was tightly constrained to threats of immediate death or great bodily harm directed at the defendant himself. Because the threat here was directed at Holmes's mother, a strict common-law analysis would allegedly bar the defense before even reaching the murder exception.
+(e) Argument-for: This option relies on the logical application of the felony-murder rule's mechanics: if the underlying felony is excused by duress, there is no predicate felony to support a felony-murder conviction. A student could strongly argue that this logic operates universally, meaning that in every jurisdiction recognizing duress, a coerced predicate felony categorically precludes felony murder liability.
 
-Head-to-head: Option (b) is the correct application of the traditional common law rule, which categorically prohibits duress as an affirmative defense to murder. Option (a) invents a procedural mechanism, falsely classifying the substantive common law bar as merely a sentencing-phase consideration. Option (c) misapplies the MPC to a question explicitly asking for the common law and falsely asserts a universal modern trend in "all jurisdictions." Option (d) incorrectly states that the common law requires the threat to target the defendant personally, when in fact threats to close family members are widely recognized as sufficient. Option (e) presents a logical but legally inaccurate absolute, falsely claiming that duress "always" breaks the chain of felony murder in "every jurisdiction," ignoring states that apply the murder bar to felony murder as well.
+Head-to-head: Option (b) is clearly the best answer because it states the traditional common law doctrine (the murder bar is absolute and extends to felony murder). Distractor (a) falsely claims the bar is merely a sentencing consideration rather than a substantive guilt-phase bar. Distractor (c) falsely claims the modern trend extends the defense to homicide in "all jurisdictions." Distractor (d) incorrectly states the common law requires the threat to target the defendant personally (it extends to close relations). Distractor (e) falsely claims the felony murder exception applies in "every jurisdiction," whereas it is a minority rule. Every distractor is locked with a falsifiable claim. 
 
 Falsifiable claim per distractor:
-- (a): "operates only after conviction to limit a defendant's exposure, not a substantive bar at the guilt phase" — wrong because the common law murder bar is an absolute substantive bar to the defense at the guilt phase, not merely a sentencing consideration.
-- (c): "the modern trend favors extending the defense to homicide cases in all jurisdictions" — wrong because "in all jurisdictions" is an explicit false absolute; many jurisdictions retain the traditional categorical bar against duress for murder.
-- (d): "requires that the threat target the defendant personally" — wrong because the common law explicitly extends the duress defense to threats of death or serious bodily injury directed at the defendant's close relatives.
-- (e): "always breaks the chain of felony murder liability because the predicate felony was coerced in every jurisdiction" — wrong because it relies on the absolute false claims "always" and "every jurisdiction"; multiple jurisdictions prohibit duress from serving as a defense to felony murder.
+- (a): "operates only after conviction to limit a defendant's exposure, not a substantive bar at the guilt phase" — wrong because the common law murder bar is a complete, substantive bar at the guilt phase.
+- (c): "extending the defense to homicide cases in all jurisdictions" — wrong because many jurisdictions firmly retain the common law murder bar.
+- (d): "the common law requires that the threat target the defendant personally" — wrong because the common law broadly allows duress claims based on threats to close family members.
+- (e): "always breaks the chain... in every jurisdiction" — wrong because the felony murder exception for duress is not universal and is rejected by many common law jurisdictions.
 
 Recommended fix: none
 -->
@@ -1701,7 +1700,7 @@ Recommended fix: none
 
 (a) Holmes has a valid duress defense because the threat was of death to his mother (a close relation), the threat was credible based on Nietzsche's prior conduct, and the common law's "murder bar" is a sentencing-phase consideration that operates only after conviction to limit a defendant's exposure, not a substantive bar at the guilt phase.
 
-(b) Holmes does not have a valid duress defense because duress is categorically unavailable as a defense to murder under the common law—a defendant may not take another life to save her own or a family member's life, regardless of how severe or credible the threat. <!-- correct -->
+(b) Holmes does not have a valid duress defense because under the traditional common law rule, duress is categorically unavailable as a defense to any murder, including felony murder, regardless of how severe or credible the threat. <!-- correct -->
 
 (c) Holmes has a valid duress defense because the MPC makes duress available for all crimes including murder, and the modern trend favors extending the defense to homicide cases in all jurisdictions.
 
@@ -1711,26 +1710,26 @@ Recommended fix: none
 
 **Answer:** (b)
 
-**Explanation:** Under the common law, duress is categorically unavailable as a defense to murder. The rationale is that a defendant may not take another life to save their own (or a family member's). This is an absolute bar regardless of the severity or credibility of the threat. Option (a) falsely states that the common law's murder bar is a sentencing-phase consideration; it is actually a categorical substantive rule operating at the guilt phase. Option (c) relies on the MPC rule despite Fact 6 specifying common law and falsely claims a universal modern trend extending the defense to homicide. Option (d) contains a false legal rule: the common law does not require the threat to target the defendant personally and extends duress to threats against close relations. Option (e) falsely claims that duress always breaks the chain of felony murder liability; this exception exists only in a small minority of states and is not the universal common law rule.
+**Explanation:** Under the traditional common law rule, duress is categorically unavailable as a defense to any murder, including felony murder. This is an absolute bar regardless of the severity or credibility of the threat. Option (a) falsely states that the common law's murder bar is a sentencing-phase consideration; it is actually a categorical substantive rule operating at the guilt phase. Option (c) relies on the MPC rule despite Fact 6 specifying common law and falsely claims a universal modern trend extending the defense to homicide. Option (d) contains a false legal rule: the common law does not require the threat to target the defendant personally and extends duress to threats against close relations. Option (e) falsely claims that duress always breaks the chain of felony murder liability; this exception exists only in a small minority of states and is not the universal common law rule.
 
 **Tags:** chapters: [21], topics: [duress, duress-murder-bar, duress-threat-threshold], difficulty: medium, cognitive: application, trap: Students focus on the credible threat and overlook the categorical CL homicide bar
 
 **Grounding:** Chapter 21, duress-murder-bar refinement; felony-murder-duress-exception refinement.
 
 <!-- argument-pass: CLEAN
-(a) Argument-for: At early common law, strict rules often forced defendants to rely on executive clemency or judicial discretion at sentencing when faced with extreme duress. A student might interpret this historical reality to mean that the "murder bar" is not an absolute denial of the defense's relevance, but rather a mechanism that shifts the mitigation to the sentencing phase. If the bar only limits complete exoneration, the defendant effectively retains a "defense" that limits exposure. Therefore, option (a) provides a sophisticated procedural reinterpretation of the common law rule.
-(b) Argument-for: This option correctly reflects the foundational common law rule derived from Blackstone, which establishes that one cannot take the life of an innocent person to save oneself. The underlying rationale is the absolute sanctity and equality of human life, dictating that a person must sacrifice their own life rather than commit murder. This serves as an absolute, categorical bar to raising duress for a murder charge. Consequently, even an objectively credible threat of death to a defendant or their family member cannot overcome this substantive guilt-phase bar.
-(c) Argument-for: Section 2.09 of the Model Penal Code intentionally eliminated the categorical common law murder bar, substituting a "person of reasonable firmness" standard that applies to all crimes. A student could argue that modern common law courts have absorbed this MPC innovation to avoid the harshness of the traditional rule. Under this view, the MPC reflects a prevailing modern trend that actively extends the defense to homicide. This makes option (c) attractive as a progressive, contemporary synthesis of duress doctrine.
-(d) Argument-for: The classic formulation of duress strictly requires an imminent and impending threat of death or great bodily harm. A formalist reading suggests this requirement was intensely personal, historically meant to excuse conduct only when the defendant's own immediate survival instinct overbore their will. Under such a strict interpretation, a threat to a third party—even a mother—would fail the personal-target requirement. Thus, option (d) logically applies a rigid reading of common law imminence and target requirements.
-(e) Argument-for: In felony murder, the underlying predicate felony is what supplies the requisite malice for the homicide charge. If duress perfectly negates the mens rea or culpability for the predicate felony (such as an assault), then legally there is no underlying felony to trigger the felony murder rule. A student could logically deduce that duress must systematically break the chain of liability because the foundational element of the felony murder doctrine has been destroyed. Therefore, option (e) offers a compelling, doctrinally consistent rationale for negating the murder charge.
+(a) Argument-for: A student could argue that while duress does not result in an outright acquittal for murder, it is universally recognized as a mitigating factor. By characterizing the common law "murder bar" as a sentencing-phase consideration, this option bridges the gap between the strictness of the guilt phase and the practical reality of capital or felony sentencing. The student might conclude that a credible threat to a close relative like a mother must have some legal effect, and limiting exposure at sentencing is a historically sound compromise.
+(b) Argument-for: A student would select this option by correctly applying the black-letter traditional common law rule. Under the common law, one cannot take an innocent life to save their own or another's life. This categorical bar applies to all forms of murder, including felony murder, regardless of how severe the coercive threat is. Therefore, Holmes's duress defense is legally invalid as a substantive defense to the murder charge.
+(c) Argument-for: A student could argue that the Model Penal Code represents the most coherent modern approach to duress, relying on the "person of reasonable firmness" standard for all crimes. The student might believe that the MPC has been universally adopted for homicide, making the common law restriction obsolete. By stating the modern trend favors extending the defense everywhere, this option appeals to the intuition that extreme coercion should excuse criminal liability across the board.
+(d) Argument-for: A student might choose this option if they believe traditional common law was extremely restrictive regarding who must be threatened. While the MPC allows threats to anyone, a student could plausibly think the stricter common law required the threat to be directed at the defendant personally to guarantee the immediacy and severity of the coercion. This provides a logical, albeit legally incorrect, basis to deny the defense on the facts given.
+(e) Argument-for: A student might reason that felony murder is strictly derivative of the underlying felony. If duress perfectly excuses the predicate assault, the defendant lacks the culpability for the underlying felony, meaning the felony murder charge lacks its required foundation. By concluding that this logically breaks the chain of liability in every jurisdiction, the student relies on an internally consistent, albeit factually overstated, legal theory.
 
-Head-to-head: Option (b) is the correct application of the traditional common law rule, which categorically prohibits duress as an affirmative defense to murder. Option (a) invents a procedural mechanism, falsely classifying the substantive common law bar as merely a sentencing-phase consideration. Option (c) misapplies the MPC to a question explicitly asking for the common law and falsely asserts a universal modern trend in "all jurisdictions." Option (d) incorrectly states that the common law requires the threat to target the defendant personally, when in fact threats to close family members are widely recognized as sufficient. Option (e) presents a logical but legally inaccurate absolute, falsely claiming that duress "always" breaks the chain of felony murder in "every jurisdiction," ignoring states that apply the murder bar to felony murder as well.
+Head-to-head: Option (b) stands out as the correct black-letter rule under the traditional common law, which categorically prohibits duress as a defense to intentional or felony murder. The distractors all present attractive but legally false alternatives. Option (a) incorrectly reframes a substantive guilt-phase bar as a mere sentencing consideration. Option (c) wrongly applies the MPC and falsely asserts universal jurisdictional adoption of the homicide exception. Option (d) invents a false common law limitation regarding the target of the threat, as the common law actually permits threats to close relatives. Option (e) uses absolute language to overstate the prevalence of the felony-murder duress exception, which is a minority rule rather than universally recognized in every jurisdiction.
 
 Falsifiable claim per distractor:
-- (a): "operates only after conviction to limit a defendant's exposure, not a substantive bar at the guilt phase" — wrong because the common law murder bar is an absolute substantive bar to the defense at the guilt phase, not merely a sentencing consideration.
-- (c): "the modern trend favors extending the defense to homicide cases in all jurisdictions" — wrong because "in all jurisdictions" is an explicit false absolute; many jurisdictions retain the traditional categorical bar against duress for murder.
-- (d): "requires that the threat target the defendant personally" — wrong because the common law explicitly extends the duress defense to threats of death or serious bodily injury directed at the defendant's close relatives.
-- (e): "always breaks the chain of felony murder liability because the predicate felony was coerced in every jurisdiction" — wrong because it relies on the absolute false claims "always" and "every jurisdiction"; multiple jurisdictions prohibit duress from serving as a defense to felony murder.
+- (a): "the common law's 'murder bar' is a sentencing-phase consideration that operates only after conviction... not a substantive bar at the guilt phase." — wrong because the common law murder bar is a substantive limitation that entirely precludes the defense at the guilt phase.
+- (c): "extending the defense to homicide cases in all jurisdictions." — wrong because many jurisdictions still strictly apply the traditional common law murder bar and refuse to extend the defense to homicide.
+- (d): "the common law requires that the threat target the defendant personally before duress can be raised." — wrong because the common law extends the duress defense to threats of death or serious bodily harm against the defendant's close relatives.
+- (e): "duress always breaks the chain of felony murder liability... in every jurisdiction" — wrong because this represents a minority approach, and the traditional common law upholds felony murder liability even if the predicate felony was coerced.
 
 Recommended fix: none
 -->
@@ -1927,13 +1926,13 @@ Recommended fix: In option (b), remove the extraneous fact about the ER bed to p
 **Grounding:** Chapter 21, Part II (CL/Model Penal Code duress comparison table; *Contento-Pachon* on imminence; *Dingwall* on corroborating patterns of violence).
 
 <!-- audit: CLEAN
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: pass
-check 5: pass
-check 6: pass
-check 7: pass
+check 1: pass (The marked answer correctly applies the CL and MPC standards for threat threshold and target scope as mapped in Chapter 21)
+check 2: pass (No non-marked option is defensible; distractors cleverly play on different elements like imminence and failure to escape, but the prompt strictly brackets the inquiry to the threshold and target scope elements)
+check 3: pass (The explanation accurately reflects the doctrinal distinctions between CL and MPC)
+check 4: pass (Despite language suggesting the question is part of a larger fact pattern ("Recall that..."), all necessary facts to evaluate the specific elements are self-contained in the stem)
+check 5: pass (The traditional CL "close relation" vs MPC "person of another" distinction is standard baseline doctrine, not an ambiguous state-level split)
+check 6: pass (No excluded topics; violent threat is framed in a standard crew/syndicate context)
+check 7: pass (Doctrines directly match `duress-threat-threshold` and `duress-target-scope` in the Chapter 21 meta-map)
 -->
 
 ### Edge Case Audit
@@ -2076,14 +2075,14 @@ Recommended fix: none
 **Grounding:** Chapter 21, Problem 7 and Part II review (CL murder bar; Model Penal Code § 2.09; People v. Reichard, 505 Mich. 81 (2020); McMillan v. State, 181 Md. App. 298 (2008)).
 
 <!-- audit: CLEAN
-1: pass
-2: pass
-3: pass
-4: pass
-5: pass
-6: pass
-7: pass
-Recommended fix: None. The question effectively tests the tension between traditional common law, the modern common law exception, and the MPC without requiring assumptions or rote jurisdictional memorization. The distinction between traditional CL and the Reichard/McMillan exception is clearly delineated in the options.
+<check 1>: pass. Option (e) accurately captures the traditional common law bar, the modern felony murder exception recognized in Reichard/McMillan, and the MPC's lack of a categorical homicide exclusion under § 2.09. 
+<check 2>: pass. Distractors are well-calibrated. Option (d) offers a clever cross-doctrine distractor (necessity), but correctly fails because choice-of-evils strictly prohibits trading an innocent life to avoid physical injury.
+<check 3>: pass. The explanation accurately tracks both the casebook doctrine and the correct choice's text.
+<check 4>: pass. The stem efficiently stipulates all required elements (Kant satisfies duress for the predicate, acted solely as getaway driver, and Bentham was the sole killer) to trigger the Reichard/McMillan exception.
+<check 5>: pass. The question effectively handles the common law split by contrasting the "traditional common law" rule with the specific "Reichard/McMillan exception," cleanly guiding the student without demanding rote memorization of state names. Also notable is the precise phrasing "murder under the Model Penal Code" (since the MPC lacks a strict felony murder rule), which avoids a subtle doctrinal trap.
+<check 6>: pass. Facts rely on standard coercion in an armed robbery scenario; no excluded topics.
+<check 7>: pass. Firmly grounded in Chapter 21 `duress-murder-bar` and `felony-murder-duress-exception`.
+Recommended fix: None.
 -->
 
 ### Edge Case Audit
@@ -2236,14 +2235,14 @@ Recommended fix: none
 **Grounding:** Chapter 22, Part II (*People v. Goetz*, 68 N.Y.2d 96 (1986): objective standard incorporates defendant's "situation," including prior experiences and knowledge of attacker; rejection of purely subjective Model Penal Code-style test).
 
 <!-- audit: CLEAN
-check 1: pass (accurately reflects the standard for reasonableness under Goetz)
-check 2: pass (distractors are clear misstatements of doctrine, effectively isolating the correct rule)
-check 3: pass (explanation matches the doctrinal standard mapped for Goetz)
-check 4: pass (facts provide all necessary details for evaluating reasonableness, including retreat safety without cover)
-check 5: pass (jurisdiction and specific case standard are explicit in the prompt)
-check 6: pass (no excluded topics)
-check 7: pass (Goetz and objective reasonableness are squarely within Chapter 22 coverage)
-Recommended fix: none
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: pass
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: n/a
 -->
 
 ### Edge Case Audit
@@ -2361,166 +2360,148 @@ Recommended fix: none
 
 ### Grounding
 
-**Q15.** Based on the standoff at the warehouse, assume a jury finds Bentham posed an imminent threat of deadly force when he leveled his revolver at Kant from six feet away, with Kant fifteen feet from the nearest exit without cover. Further assume Kant's receipt of stolen proceeds legally constituted "criminal activity" despite any potential defenses. Evaluate how the duty-to-retreat analysis would proceed across three jurisdictions: New York, Florida, and California.
+**Q15.** Based on the standoff at the warehouse, assume Bentham posed an imminent threat of deadly force when he leveled his revolver at Kant from six feet away, with Kant fifteen feet from the nearest exit without cover. Further assume Kant's receipt of stolen proceeds legally constituted "criminal activity." Jurisdiction A requires retreat before using deadly force, but only if it can be accomplished "with complete personal safety." Jurisdiction B's Stand Your Ground statute imposes no duty to retreat unless the defendant is "engaged in criminal activity." Jurisdiction C imposes no duty to retreat in any setting. How would the duty-to-retreat analysis apply to Kant?
 
-(a) Kant is entitled to Stand Your Ground immunity in Florida regardless of the ongoing proceeds transfer, because the statute's "engaged in criminal activity" limitation applies only to activity unrelated to the immediate confrontation; Bentham's aggression severs any connection to the predicate robbery.
-
-(b) The New York duty to retreat is not satisfied unless a reasonably prudent person would have retreated using any available escape route, regardless of safety; the fifteen-foot distance to the exit establishes an available route as a matter of law.
-
-(c) In California, Kant has a duty to retreat because California applies the traditional retreat rule to all non-dwelling confrontations, and the warehouse is a commercial space.
-
-(d) In New York, the duty to retreat applies only if retreat is available "with complete personal safety," and a fifteen-foot dash without cover in front of a leveled revolver likely does not qualify as a safe retreat; in Florida, Kant loses the statutory right to stand his ground because the statute excludes those "engaged in criminal activity," meaning he reverts to a duty to retreat; in California, there is no duty to retreat. <!-- correct -->
-
-(e) The castle doctrine applies to the warehouse in all three jurisdictions because Kant was a business invitee, and all three recognize a workplace extension of the castle doctrine.
+(a) In Jurisdiction B, Kant maintains his right to stand his ground because the "criminal activity" limitation applies only to crimes perpetrated against the initial aggressor.
+(b) In Jurisdiction A, Kant must retreat because the fifteen-foot distance to the exit establishes a physically available escape route, which automatically satisfies the retreat standard.
+(c) In Jurisdiction C, Kant must retreat because the jurisdiction's absolute no-retreat rule does not apply to commercial structures like a warehouse.
+(d) In Jurisdiction A, Kant likely has no duty to retreat because a fifteen-foot dash without cover in front of a leveled revolver cannot be completed with complete safety; in Jurisdiction B, Kant loses the right to stand his ground because he is engaged in criminal activity; in Jurisdiction C, Kant has no duty to retreat. <!-- correct -->
+(e) Kant is exempt from retreating in all three jurisdictions because the warehouse constitutes a workplace, which universally triggers the castle doctrine exception regardless of other statutory limits.
 
 **Answer:** (d)
 
-**Explanation:** (d) correctly traces each jurisdiction. NY requires retreat only if available "with complete personal safety"; a fifteen-foot traverse of open floor against a leveled revolver from six feet likely fails that standard. Florida's stand-your-ground statute revokes the right to stand one's ground (reimposing a duty to retreat) when the defendant is "engaged in criminal activity" (Fla. Stat. § 776.012(2)), which the prompt stipulates applies here. CA imposes no duty to retreat by case law. (a) fabricates a "severance" doctrine; FL's statutory limitation is categorical. (b) misstates the NY standard; NY requires retreat only with "complete personal safety." (c) misstates CA law; CA imposes no duty to retreat in any setting. (e) fabricates a universal workplace castle-doctrine rule; none of the three treat a warehouse where the defendant is a criminal participant as a "castle."
+**Explanation:** (d) correctly applies each jurisdiction's provided rule. Jurisdiction A requires retreat only if available "with complete personal safety"; running fifteen feet across an open floor against a leveled revolver fails that standard. In Jurisdiction B, Kant loses the right to stand his ground because he is "engaged in criminal activity," as stipulated in the prompt. Jurisdiction C imposes no duty to retreat in any setting. (a) fabricates a limitation to Jurisdiction B's categorical "criminal activity" bar. (b) ignores Jurisdiction A's "complete personal safety" requirement, treating mere physical availability as sufficient. (c) misapplies Jurisdiction C's rule, which explicitly applies in "any setting." (e) relies on a fabricated universal workplace castle-doctrine rule that overrides the specific jurisdictional rules provided.
 
 **Tags:** chapters: [22], topics: [duty-to-retreat, stand-your-ground, castle-doctrine, jurisdictional-variation], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 22, Part I table and Part IV (NY "complete safety" retreat rule; Fla. Stat. § 776.012(2) SYG "criminal activity" bar; CA no-duty-to-retreat rule; castle-doctrine scope).
+**Grounding:** Chapter 22, Part I table and Part IV (Duty to retreat limitations; "complete personal safety" standard; "engaged in criminal activity" SYG exclusions).
 
-<!-- grounding: GROUNDED — duty to retreat and stand your ground, Ch 22, Refinement `duty-to-retreat-general` and `stand-your-ground-statute`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Duty to retreat and Stand Your Ground, Ch 22, Refinements `duty-to-retreat-general`, `stand-your-ground-statute`. Rule paraphrased accurately. -->
 
 ### Ambiguity Audit
 
-**Q15.** Based on the standoff at the warehouse, assume a jury finds Bentham posed an imminent threat of deadly force when he leveled his revolver at Kant from six feet away, with Kant fifteen feet from the nearest exit without cover. Further assume Kant's receipt of stolen proceeds legally constituted "criminal activity" despite any potential defenses. Evaluate how the duty-to-retreat analysis would proceed across three jurisdictions: New York, Florida, and California.
+**Q15.** Based on the standoff at the warehouse, assume Bentham posed an imminent threat of deadly force when he leveled his revolver at Kant from six feet away, with Kant fifteen feet from the nearest exit without cover. Further assume Kant's receipt of stolen proceeds legally constituted "criminal activity." Jurisdiction A requires retreat before using deadly force, but only if it can be accomplished "with complete personal safety." Jurisdiction B's Stand Your Ground statute imposes no duty to retreat unless the defendant is "engaged in criminal activity." Jurisdiction C imposes no duty to retreat in any setting. How would the duty-to-retreat analysis apply to Kant?
 
-(a) Kant is entitled to Stand Your Ground immunity in Florida regardless of the ongoing proceeds transfer, because the statute's "engaged in criminal activity" limitation applies only to activity unrelated to the immediate confrontation; Bentham's aggression severs any connection to the predicate robbery.
-
-(b) The New York duty to retreat is not satisfied unless a reasonably prudent person would have retreated using any available escape route, regardless of safety; the fifteen-foot distance to the exit establishes an available route as a matter of law.
-
-(c) In California, Kant has a duty to retreat because California applies the traditional retreat rule to all non-dwelling confrontations, and the warehouse is a commercial space.
-
-(d) In New York, the duty to retreat applies only if retreat is available "with complete personal safety," and a fifteen-foot dash without cover in front of a leveled revolver likely does not qualify as a safe retreat; in Florida, Kant loses the statutory right to stand his ground because the statute excludes those "engaged in criminal activity," meaning he reverts to a duty to retreat; in California, there is no duty to retreat. <!-- correct -->
-
-(e) The castle doctrine applies to the warehouse in all three jurisdictions because Kant was a business invitee, and all three recognize a workplace extension of the castle doctrine.
+(a) In Jurisdiction B, Kant maintains his right to stand his ground because the "criminal activity" limitation applies only to crimes perpetrated against the initial aggressor.
+(b) In Jurisdiction A, Kant must retreat because the fifteen-foot distance to the exit establishes a physically available escape route, which automatically satisfies the retreat standard.
+(c) In Jurisdiction C, Kant must retreat because the jurisdiction's absolute no-retreat rule does not apply to commercial structures like a warehouse.
+(d) In Jurisdiction A, Kant likely has no duty to retreat because a fifteen-foot dash without cover in front of a leveled revolver cannot be completed with complete safety; in Jurisdiction B, Kant loses the right to stand his ground because he is engaged in criminal activity; in Jurisdiction C, Kant has no duty to retreat. <!-- correct -->
+(e) Kant is exempt from retreating in all three jurisdictions because the warehouse constitutes a workplace, which universally triggers the castle doctrine exception regardless of other statutory limits.
 
 **Answer:** (d)
 
-**Explanation:** (d) correctly traces each jurisdiction. NY requires retreat only if available "with complete personal safety"; a fifteen-foot traverse of open floor against a leveled revolver from six feet likely fails that standard. Florida's stand-your-ground statute revokes the right to stand one's ground (reimposing a duty to retreat) when the defendant is "engaged in criminal activity" (Fla. Stat. § 776.012(2)), which the prompt stipulates applies here. CA imposes no duty to retreat by case law. (a) fabricates a "severance" doctrine; FL's statutory limitation is categorical. (b) misstates the NY standard; NY requires retreat only with "complete personal safety." (c) misstates CA law; CA imposes no duty to retreat in any setting. (e) fabricates a universal workplace castle-doctrine rule; none of the three treat a warehouse where the defendant is a criminal participant as a "castle."
+**Explanation:** (d) correctly applies each jurisdiction's provided rule. Jurisdiction A requires retreat only if available "with complete personal safety"; running fifteen feet across an open floor against a leveled revolver fails that standard. In Jurisdiction B, Kant loses the right to stand his ground because he is "engaged in criminal activity," as stipulated in the prompt. Jurisdiction C imposes no duty to retreat in any setting. (a) fabricates a limitation to Jurisdiction B's categorical "criminal activity" bar. (b) ignores Jurisdiction A's "complete personal safety" requirement, treating mere physical availability as sufficient. (c) misapplies Jurisdiction C's rule, which explicitly applies in "any setting." (e) relies on a fabricated universal workplace castle-doctrine rule that overrides the specific jurisdictional rules provided.
 
 **Tags:** chapters: [22], topics: [duty-to-retreat, stand-your-ground, castle-doctrine, jurisdictional-variation], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 22, Part I table and Part IV (NY "complete safety" retreat rule; Fla. Stat. § 776.012(2) SYG "criminal activity" bar; CA no-duty-to-retreat rule; castle-doctrine scope).
+**Grounding:** Chapter 22, Part I table and Part IV (Duty to retreat limitations; "complete personal safety" standard; "engaged in criminal activity" SYG exclusions).
 
-<!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: pass
-check 5: fail. The question requires students to memorize specific state rules for NY, FL, and CA, violating the pedagogical principle against rote memorization of state names. The rules themselves must be provided in the stem.
-check 6: pass
-check 7: pass
-Recommended fix: Provide the rules in the stem using hypothetical state names or directly quoting the standards (e.g., "Assume Jurisdiction A requires retreat only if it can be done with 'complete personal safety'; Jurisdiction B's Stand Your Ground statute excludes anyone 'engaged in criminal activity'; and Jurisdiction C imposes no duty to retreat in any location"). Then rewrite the options to test the application of those provided rules to the facts.
+<!-- audit: CLEAN
+1: pass
+2: pass
+3: pass
+4: pass
+5: pass
+6: pass
+7: pass
+Recommended fix: None. The question brilliantly tests statutory application rather than rote memorization by explicitly defining the three jurisdictional rules in the stem, and smartly stipulates the tricky threshold elements (e.g., that Kant's conduct constitutes "criminal activity") so the student can focus entirely on the doctrinal analysis.
 -->
 
 ### Edge Case Audit
 
-**Q15.** Based on the standoff at the warehouse, assume a jury finds Bentham posed an imminent threat of deadly force when he leveled his revolver at Kant from six feet away, with Kant fifteen feet from the nearest exit without cover. Further assume Kant's receipt of stolen proceeds legally constituted "criminal activity" despite any potential defenses. Evaluate how the duty-to-retreat analysis would proceed across three jurisdictions: New York, Florida, and California.
+**Q15.** Based on the standoff at the warehouse, assume Bentham posed an imminent threat of deadly force when he leveled his revolver at Kant from six feet away, with Kant fifteen feet from the nearest exit without cover. Further assume Kant's receipt of stolen proceeds legally constituted "criminal activity." Jurisdiction A requires retreat before using deadly force, but only if it can be accomplished "with complete personal safety." Jurisdiction B's Stand Your Ground statute imposes no duty to retreat unless the defendant is "engaged in criminal activity." Jurisdiction C imposes no duty to retreat in any setting. How would the duty-to-retreat analysis apply to Kant?
 
-(a) Kant is entitled to Stand Your Ground immunity in Florida regardless of the ongoing proceeds transfer, because the statute's "engaged in criminal activity" limitation applies only to activity unrelated to the immediate confrontation; Bentham's aggression severs any connection to the predicate robbery.
-
-(b) The New York duty to retreat is not satisfied unless a reasonably prudent person would have retreated using any available escape route, regardless of safety; the fifteen-foot distance to the exit establishes an available route as a matter of law.
-
-(c) In California, Kant has a duty to retreat because California applies the traditional retreat rule to all non-dwelling confrontations, and the warehouse is a commercial space.
-
-(d) In New York, the duty to retreat applies only if retreat is available "with complete personal safety," and a fifteen-foot dash without cover in front of a leveled revolver likely does not qualify as a safe retreat; in Florida, Kant loses the statutory right to stand his ground because the statute excludes those "engaged in criminal activity," meaning he reverts to a duty to retreat; in California, there is no duty to retreat. <!-- correct -->
-
-(e) The castle doctrine applies to the warehouse in all three jurisdictions because Kant was a business invitee, and all three recognize a workplace extension of the castle doctrine.
+(a) In Jurisdiction B, Kant maintains his right to stand his ground because the "criminal activity" limitation applies only to crimes perpetrated against the initial aggressor.
+(b) In Jurisdiction A, Kant must retreat because the fifteen-foot distance to the exit establishes a physically available escape route, which automatically satisfies the retreat standard.
+(c) In Jurisdiction C, Kant must retreat because the jurisdiction's absolute no-retreat rule does not apply to commercial structures like a warehouse.
+(d) In Jurisdiction A, Kant likely has no duty to retreat because a fifteen-foot dash without cover in front of a leveled revolver cannot be completed with complete safety; in Jurisdiction B, Kant loses the right to stand his ground because he is engaged in criminal activity; in Jurisdiction C, Kant has no duty to retreat. <!-- correct -->
+(e) Kant is exempt from retreating in all three jurisdictions because the warehouse constitutes a workplace, which universally triggers the castle doctrine exception regardless of other statutory limits.
 
 **Answer:** (d)
 
-**Explanation:** (d) correctly traces each jurisdiction. NY requires retreat only if available "with complete personal safety"; a fifteen-foot traverse of open floor against a leveled revolver from six feet likely fails that standard. Florida's stand-your-ground statute revokes the right to stand one's ground (reimposing a duty to retreat) when the defendant is "engaged in criminal activity" (Fla. Stat. § 776.012(2)), which the prompt stipulates applies here. CA imposes no duty to retreat by case law. (a) fabricates a "severance" doctrine; FL's statutory limitation is categorical. (b) misstates the NY standard; NY requires retreat only with "complete personal safety." (c) misstates CA law; CA imposes no duty to retreat in any setting. (e) fabricates a universal workplace castle-doctrine rule; none of the three treat a warehouse where the defendant is a criminal participant as a "castle."
+**Explanation:** (d) correctly applies each jurisdiction's provided rule. Jurisdiction A requires retreat only if available "with complete personal safety"; running fifteen feet across an open floor against a leveled revolver fails that standard. In Jurisdiction B, Kant loses the right to stand his ground because he is "engaged in criminal activity," as stipulated in the prompt. Jurisdiction C imposes no duty to retreat in any setting. (a) fabricates a limitation to Jurisdiction B's categorical "criminal activity" bar. (b) ignores Jurisdiction A's "complete personal safety" requirement, treating mere physical availability as sufficient. (c) misapplies Jurisdiction C's rule, which explicitly applies in "any setting." (e) relies on a fabricated universal workplace castle-doctrine rule that overrides the specific jurisdictional rules provided.
 
 **Tags:** chapters: [22], topics: [duty-to-retreat, stand-your-ground, castle-doctrine, jurisdictional-variation], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 22, Part I table and Part IV (NY "complete safety" retreat rule; Fla. Stat. § 776.012(2) SYG "criminal activity" bar; CA no-duty-to-retreat rule; castle-doctrine scope).
+**Grounding:** Chapter 22, Part I table and Part IV (Duty to retreat limitations; "complete personal safety" standard; "engaged in criminal activity" SYG exclusions).
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: N/A
+Recommended fix: n/a
 -->
 
 ### Argument Pass (Sonnet)
 
-**Q15.** Based on the standoff at the warehouse, assume a jury finds Bentham posed an imminent threat of deadly force when he leveled his revolver at Kant from six feet away, with Kant fifteen feet from the nearest exit without cover. Further assume Kant's receipt of stolen proceeds legally constituted "criminal activity" despite any potential defenses. Evaluate how the duty-to-retreat analysis would proceed across three jurisdictions: New York, Florida, and California.
+**Q15.** Based on the standoff at the warehouse, assume Bentham posed an imminent threat of deadly force when he leveled his revolver at Kant from six feet away, with Kant fifteen feet from the nearest exit without cover. Further assume Kant's receipt of stolen proceeds legally constituted "criminal activity." Jurisdiction A requires retreat before using deadly force, but only if it can be accomplished "with complete personal safety." Jurisdiction B's Stand Your Ground statute imposes no duty to retreat unless the defendant is "engaged in criminal activity." Jurisdiction C imposes no duty to retreat in any setting. How would the duty-to-retreat analysis apply to Kant?
 
-(a) Kant is entitled to Stand Your Ground immunity in Florida regardless of the ongoing proceeds transfer, because the statute's "engaged in criminal activity" limitation applies only to activity unrelated to the immediate confrontation; Bentham's aggression severs any connection to the predicate robbery.
-
-(b) The New York duty to retreat is not satisfied unless a reasonably prudent person would have retreated using any available escape route, regardless of safety; the fifteen-foot distance to the exit establishes an available route as a matter of law.
-
-(c) In California, Kant has a duty to retreat because California applies the traditional retreat rule to all non-dwelling confrontations, and the warehouse is a commercial space.
-
-(d) In New York, the duty to retreat applies only if retreat is available "with complete personal safety," and a fifteen-foot dash without cover in front of a leveled revolver likely does not qualify as a safe retreat; in Florida, Kant loses the statutory right to stand his ground because the statute excludes those "engaged in criminal activity," meaning he reverts to a duty to retreat; in California, there is no duty to retreat. <!-- correct -->
-
-(e) The castle doctrine applies to the warehouse in all three jurisdictions because Kant was a business invitee, and all three recognize a workplace extension of the castle doctrine.
+(a) In Jurisdiction B, Kant maintains his right to stand his ground because the "criminal activity" limitation applies only to crimes perpetrated against the initial aggressor.
+(b) In Jurisdiction A, Kant must retreat because the fifteen-foot distance to the exit establishes a physically available escape route, which automatically satisfies the retreat standard.
+(c) In Jurisdiction C, Kant must retreat because the jurisdiction's absolute no-retreat rule does not apply to commercial structures like a warehouse.
+(d) In Jurisdiction A, Kant likely has no duty to retreat because a fifteen-foot dash without cover in front of a leveled revolver cannot be completed with complete safety; in Jurisdiction B, Kant loses the right to stand his ground because he is engaged in criminal activity; in Jurisdiction C, Kant has no duty to retreat. <!-- correct -->
+(e) Kant is exempt from retreating in all three jurisdictions because the warehouse constitutes a workplace, which universally triggers the castle doctrine exception regardless of other statutory limits.
 
 **Answer:** (d)
 
-**Explanation:** (d) correctly traces each jurisdiction. NY requires retreat only if available "with complete personal safety"; a fifteen-foot traverse of open floor against a leveled revolver from six feet likely fails that standard. Florida's stand-your-ground statute revokes the right to stand one's ground (reimposing a duty to retreat) when the defendant is "engaged in criminal activity" (Fla. Stat. § 776.012(2)), which the prompt stipulates applies here. CA imposes no duty to retreat by case law. (a) fabricates a "severance" doctrine; FL's statutory limitation is categorical. (b) misstates the NY standard; NY requires retreat only with "complete personal safety." (c) misstates CA law; CA imposes no duty to retreat in any setting. (e) fabricates a universal workplace castle-doctrine rule; none of the three treat a warehouse where the defendant is a criminal participant as a "castle."
+**Explanation:** (d) correctly applies each jurisdiction's provided rule. Jurisdiction A requires retreat only if available "with complete personal safety"; running fifteen feet across an open floor against a leveled revolver fails that standard. In Jurisdiction B, Kant loses the right to stand his ground because he is "engaged in criminal activity," as stipulated in the prompt. Jurisdiction C imposes no duty to retreat in any setting. (a) fabricates a limitation to Jurisdiction B's categorical "criminal activity" bar. (b) ignores Jurisdiction A's "complete personal safety" requirement, treating mere physical availability as sufficient. (c) misapplies Jurisdiction C's rule, which explicitly applies in "any setting." (e) relies on a fabricated universal workplace castle-doctrine rule that overrides the specific jurisdictional rules provided.
 
 **Tags:** chapters: [22], topics: [duty-to-retreat, stand-your-ground, castle-doctrine, jurisdictional-variation], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 22, Part I table and Part IV (NY "complete safety" retreat rule; Fla. Stat. § 776.012(2) SYG "criminal activity" bar; CA no-duty-to-retreat rule; castle-doctrine scope).
+**Grounding:** Chapter 22, Part I table and Part IV (Duty to retreat limitations; "complete personal safety" standard; "engaged in criminal activity" SYG exclusions).
 
 <!-- argument-pass: CLEAN
-(a) Argument-for: A student might argue that Florida courts impose a nexus requirement between the criminal activity and the confrontation to prevent absurd outcomes. Under this theory, if the criminal activity (receiving stolen goods) is completely passive and the attacker introduces the deadly threat independently, the causal chain is severed. Thus, Kant would retain his Stand Your Ground immunity "regardless of the ongoing proceeds transfer."
-(b) Argument-for: A student might believe that "duty to retreat" jurisdictions impose an absolute requirement to attempt escape if a physical path exists. Under this view, the mere existence of an exit fifteen feet away creates an available route as a matter of law. Therefore, NY law would strictly demand retreat "regardless of safety," prioritizing flight over the use of deadly force.
-(c) Argument-for: A student might assume that California, generally known for restrictive self-defense and firearms laws, follows the traditional common-law duty to retreat. Because the warehouse is a commercial space and Kant is not in his own home, the Castle Doctrine would not apply. Therefore, California would impose a strict duty to retreat in "all non-dwelling confrontations."
-(d) Argument-for: This correctly synthesizes the self-defense laws of New York, Florida, and California. New York explicitly restricts the duty to retreat to situations where it can be done with "complete personal safety," which is objectively impossible when facing a drawn gun at six feet. Florida's Stand Your Ground statute (Fla. Stat. § 776.012(2)) expressly excludes individuals "engaged in criminal activity." California courts have established through case law (e.g., CALCRIM 505) that there is no duty to retreat anywhere one has a right to be.
-(e) Argument-for: A student might argue that the Castle Doctrine has been broadly extended to workplaces and commercial spaces across most jurisdictions. Since Kant is a business invitee in the warehouse, he shares in the property's protected status. Under this logic, the Castle Doctrine categorically overrides the retreat requirement in "all three" jurisdictions because of a universal workplace extension.
+(a) Argument-for: A student could argue based on proximate cause and the *ejusdem generis* canon that a non-violent possessory offense like receiving stolen property lacks the necessary nexus to the physical confrontation. Under this theory, "criminal activity" exceptions to Stand Your Ground are purposively limited to crimes that provoke the attack. Therefore, the limitation only applies to offenses specifically directed at the aggressor, preserving Kant's right to stand his ground.
+(b) Argument-for: A student could argue that fifteen feet is a remarkably short distance, equating to an immediately and physically available escape route. In duty-to-retreat regimes, the existence of a clear path to an exit strongly dictates flight over the use of deadly force. Thus, the mere presence of this physical route automatically satisfies the requirement to retreat, barring Kant's use of force.
+(c) Argument-for: A student could argue that self-defense laws historically distinguish between private residential domains and public or commercial spaces. Even when a jurisdiction adopts broad "no duty" language, a student might infer an implicit limitation for business structures where retreat is expected and public safety prioritized. Therefore, they could conclude the absolute rule inherently cannot extend to a commercial warehouse.
+(d) Argument-for: This option perfectly maps the prompt's facts to the stipulated jurisdictional rules. For Jurisdiction A, turning one's back to run fifteen feet without cover from a leveled revolver at six feet precludes "complete personal safety." For Jurisdiction B, the prompt explicitly stipulates Kant is engaged in "criminal activity," triggering the statutory exception. For Jurisdiction C, the "in any setting" rule categorically relieves Kant of the duty to retreat.
+(e) Argument-for: The castle doctrine traditionally exempts defenders from retreating in their home, and many states extend this to a person's place of business. A student could argue that this workplace extension is a fundamental, universal common-law right that supersedes varying statutory self-defense limitations. Consequently, Kant's presence in a warehouse workplace categorically exempts him from retreat across all jurisdictions.
 
-Head-to-head: Option (d) is the only legally accurate choice, correctly stating NY's "complete personal safety" standard, FL's "criminal activity" statutory exception to Stand Your Ground, and CA's no-duty-to-retreat rule. Distractor (a) fabricates a legal "severance" doctrine for FL's SYG law, which is in reality a categorical bar when the defendant is engaged in criminal activity. Distractor (b) directly contradicts NY Penal Law § 35.15, which explicitly conditions the duty to retreat on the actor's ability to do so safely. Distractor (c) misstates California law entirely, falsely claiming CA follows the traditional retreat rule. Distractor (e) falsely claims a universal workplace Castle Doctrine extension applies to all three jurisdictions, ignoring that such extensions are not universal and do not protect invitees actively engaged in crimes. All distractors are cleanly falsifiable due to their use of absolute language.
+Head-to-head:
+Option (d) is legally unassailable and meticulously follows the prompt's stipulations. Options (a), (b), (c), and (e) all invent false categorical rules or explicit exceptions that contradict either the prompt's precise rules or foundational legal principles. Option (a) asserts a fabricated, absolute limitation on the SYG exception. Option (b) deliberately ignores the "complete personal safety" standard by claiming physical availability "automatically satisfies" the requirement. Option (c) contradicts the "in any setting" stipulation with a commercial property exclusion. Option (e) relies on a non-existent "universal" workplace doctrine that supposedly overrides specific statutory mandates.
 
 Falsifiable claim per distractor:
-- (a): "the statute's 'engaged in criminal activity' limitation applies only to activity unrelated... Bentham's aggression severs any connection" — wrong because Florida's statutory bar on standing one's ground while engaged in criminal activity is a categorical exception with no such severance or nexus requirement.
-- (b): "regardless of safety" — wrong because New York expressly requires retreat only if the defender knows they can do so with "complete personal safety."
-- (c): "California applies the traditional retreat rule to all non-dwelling confrontations" — wrong because California is a no-duty-to-retreat state by case law and imposes no such duty in non-dwelling public confrontations.
-- (e): "all three recognize a workplace extension of the castle doctrine" — wrong because there is no universal workplace extension applied in all three jurisdictions, particularly for an invitee actively committing a crime.
+- (a): "applies only to crimes perpetrated against the initial aggressor" — wrong because SYG criminal-activity exceptions apply broadly to underlying or ongoing crimes (as stipulated by the prompt's plain text) and are not restricted to crimes committed against the specific aggressor.
+- (b): "automatically satisfies the retreat standard" — wrong because Jurisdiction A's standard explicitly requires "complete personal safety," meaning mere physical availability of an escape route is legally insufficient.
+- (c): "does not apply to commercial structures like a warehouse" — wrong because the prompt explicitly stipulates that Jurisdiction C imposes no duty to retreat "in any setting," precluding a commercial property carve-out.
+- (e): "universally triggers the castle doctrine exception regardless of other statutory limits" — wrong because workplace castle-doctrine extensions are not universal across all jurisdictions, nor do common-law exceptions categorically override explicit statutory limitations like "engaged in criminal activity."
 
 Recommended fix: none
 -->
 
 ### Argument Pass (Opus)
 
-**Q15.** Based on the standoff at the warehouse, assume a jury finds Bentham posed an imminent threat of deadly force when he leveled his revolver at Kant from six feet away, with Kant fifteen feet from the nearest exit without cover. Further assume Kant's receipt of stolen proceeds legally constituted "criminal activity" despite any potential defenses. Evaluate how the duty-to-retreat analysis would proceed across three jurisdictions: New York, Florida, and California.
+**Q15.** Based on the standoff at the warehouse, assume Bentham posed an imminent threat of deadly force when he leveled his revolver at Kant from six feet away, with Kant fifteen feet from the nearest exit without cover. Further assume Kant's receipt of stolen proceeds legally constituted "criminal activity." Jurisdiction A requires retreat before using deadly force, but only if it can be accomplished "with complete personal safety." Jurisdiction B's Stand Your Ground statute imposes no duty to retreat unless the defendant is "engaged in criminal activity." Jurisdiction C imposes no duty to retreat in any setting. How would the duty-to-retreat analysis apply to Kant?
 
-(a) Kant is entitled to Stand Your Ground immunity in Florida regardless of the ongoing proceeds transfer, because the statute's "engaged in criminal activity" limitation applies only to activity unrelated to the immediate confrontation; Bentham's aggression severs any connection to the predicate robbery.
-
-(b) The New York duty to retreat is not satisfied unless a reasonably prudent person would have retreated using any available escape route, regardless of safety; the fifteen-foot distance to the exit establishes an available route as a matter of law.
-
-(c) In California, Kant has a duty to retreat because California applies the traditional retreat rule to all non-dwelling confrontations, and the warehouse is a commercial space.
-
-(d) In New York, the duty to retreat applies only if retreat is available "with complete personal safety," and a fifteen-foot dash without cover in front of a leveled revolver likely does not qualify as a safe retreat; in Florida, Kant loses the statutory right to stand his ground because the statute excludes those "engaged in criminal activity," meaning he reverts to a duty to retreat; in California, there is no duty to retreat. <!-- correct -->
-
-(e) The castle doctrine applies to the warehouse in all three jurisdictions because Kant was a business invitee, and all three recognize a workplace extension of the castle doctrine.
+(a) In Jurisdiction B, Kant maintains his right to stand his ground because the "criminal activity" limitation applies only to crimes perpetrated against the initial aggressor.
+(b) In Jurisdiction A, Kant must retreat because the fifteen-foot distance to the exit establishes a physically available escape route, which automatically satisfies the retreat standard.
+(c) In Jurisdiction C, Kant must retreat because the jurisdiction's absolute no-retreat rule does not apply to commercial structures like a warehouse.
+(d) In Jurisdiction A, Kant likely has no duty to retreat because a fifteen-foot dash without cover in front of a leveled revolver cannot be completed with complete safety; in Jurisdiction B, Kant loses the right to stand his ground because he is engaged in criminal activity; in Jurisdiction C, Kant has no duty to retreat. <!-- correct -->
+(e) Kant is exempt from retreating in all three jurisdictions because the warehouse constitutes a workplace, which universally triggers the castle doctrine exception regardless of other statutory limits.
 
 **Answer:** (d)
 
-**Explanation:** (d) correctly traces each jurisdiction. NY requires retreat only if available "with complete personal safety"; a fifteen-foot traverse of open floor against a leveled revolver from six feet likely fails that standard. Florida's stand-your-ground statute revokes the right to stand one's ground (reimposing a duty to retreat) when the defendant is "engaged in criminal activity" (Fla. Stat. § 776.012(2)), which the prompt stipulates applies here. CA imposes no duty to retreat by case law. (a) fabricates a "severance" doctrine; FL's statutory limitation is categorical. (b) misstates the NY standard; NY requires retreat only with "complete personal safety." (c) misstates CA law; CA imposes no duty to retreat in any setting. (e) fabricates a universal workplace castle-doctrine rule; none of the three treat a warehouse where the defendant is a criminal participant as a "castle."
+**Explanation:** (d) correctly applies each jurisdiction's provided rule. Jurisdiction A requires retreat only if available "with complete personal safety"; running fifteen feet across an open floor against a leveled revolver fails that standard. In Jurisdiction B, Kant loses the right to stand his ground because he is "engaged in criminal activity," as stipulated in the prompt. Jurisdiction C imposes no duty to retreat in any setting. (a) fabricates a limitation to Jurisdiction B's categorical "criminal activity" bar. (b) ignores Jurisdiction A's "complete personal safety" requirement, treating mere physical availability as sufficient. (c) misapplies Jurisdiction C's rule, which explicitly applies in "any setting." (e) relies on a fabricated universal workplace castle-doctrine rule that overrides the specific jurisdictional rules provided.
 
 **Tags:** chapters: [22], topics: [duty-to-retreat, stand-your-ground, castle-doctrine, jurisdictional-variation], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 22, Part I table and Part IV (NY "complete safety" retreat rule; Fla. Stat. § 776.012(2) SYG "criminal activity" bar; CA no-duty-to-retreat rule; castle-doctrine scope).
+**Grounding:** Chapter 22, Part I table and Part IV (Duty to retreat limitations; "complete personal safety" standard; "engaged in criminal activity" SYG exclusions).
 
 <!-- argument-pass: CLEAN
-(a) Argument-for: A student might argue that Florida courts impose a nexus requirement between the criminal activity and the confrontation to prevent absurd outcomes. Under this theory, if the criminal activity (receiving stolen goods) is completely passive and the attacker introduces the deadly threat independently, the causal chain is severed. Thus, Kant would retain his Stand Your Ground immunity "regardless of the ongoing proceeds transfer."
-(b) Argument-for: A student might believe that "duty to retreat" jurisdictions impose an absolute requirement to attempt escape if a physical path exists. Under this view, the mere existence of an exit fifteen feet away creates an available route as a matter of law. Therefore, NY law would strictly demand retreat "regardless of safety," prioritizing flight over the use of deadly force.
-(c) Argument-for: A student might assume that California, generally known for restrictive self-defense and firearms laws, follows the traditional common-law duty to retreat. Because the warehouse is a commercial space and Kant is not in his own home, the Castle Doctrine would not apply. Therefore, California would impose a strict duty to retreat in "all non-dwelling confrontations."
-(d) Argument-for: This correctly synthesizes the self-defense laws of New York, Florida, and California. New York explicitly restricts the duty to retreat to situations where it can be done with "complete personal safety," which is objectively impossible when facing a drawn gun at six feet. Florida's Stand Your Ground statute (Fla. Stat. § 776.012(2)) expressly excludes individuals "engaged in criminal activity." California courts have established through case law (e.g., CALCRIM 505) that there is no duty to retreat anywhere one has a right to be.
-(e) Argument-for: A student might argue that the Castle Doctrine has been broadly extended to workplaces and commercial spaces across most jurisdictions. Since Kant is a business invitee in the warehouse, he shares in the property's protected status. Under this logic, the Castle Doctrine categorically overrides the retreat requirement in "all three" jurisdictions because of a universal workplace extension.
+(a) Argument-for: A student could argue based on proximate cause and the *ejusdem generis* canon that a non-violent possessory offense like receiving stolen property lacks the necessary nexus to the physical confrontation. Under this theory, "criminal activity" exceptions to Stand Your Ground are purposively limited to crimes that provoke the attack. Therefore, the limitation only applies to offenses specifically directed at the aggressor, preserving Kant's right to stand his ground.
+(b) Argument-for: A student could argue that fifteen feet is a remarkably short distance, equating to an immediately and physically available escape route. In duty-to-retreat regimes, the existence of a clear path to an exit strongly dictates flight over the use of deadly force. Thus, the mere presence of this physical route automatically satisfies the requirement to retreat, barring Kant's use of force.
+(c) Argument-for: A student could argue that self-defense laws historically distinguish between private residential domains and public or commercial spaces. Even when a jurisdiction adopts broad "no duty" language, a student might infer an implicit limitation for business structures where retreat is expected and public safety prioritized. Therefore, they could conclude the absolute rule inherently cannot extend to a commercial warehouse.
+(d) Argument-for: This option perfectly maps the prompt's facts to the stipulated jurisdictional rules. For Jurisdiction A, turning one's back to run fifteen feet without cover from a leveled revolver at six feet precludes "complete personal safety." For Jurisdiction B, the prompt explicitly stipulates Kant is engaged in "criminal activity," triggering the statutory exception. For Jurisdiction C, the "in any setting" rule categorically relieves Kant of the duty to retreat.
+(e) Argument-for: The castle doctrine traditionally exempts defenders from retreating in their home, and many states extend this to a person's place of business. A student could argue that this workplace extension is a fundamental, universal common-law right that supersedes varying statutory self-defense limitations. Consequently, Kant's presence in a warehouse workplace categorically exempts him from retreat across all jurisdictions.
 
-Head-to-head: Option (d) is the only legally accurate choice, correctly stating NY's "complete personal safety" standard, FL's "criminal activity" statutory exception to Stand Your Ground, and CA's no-duty-to-retreat rule. Distractor (a) fabricates a legal "severance" doctrine for FL's SYG law, which is in reality a categorical bar when the defendant is engaged in criminal activity. Distractor (b) directly contradicts NY Penal Law § 35.15, which explicitly conditions the duty to retreat on the actor's ability to do so safely. Distractor (c) misstates California law entirely, falsely claiming CA follows the traditional retreat rule. Distractor (e) falsely claims a universal workplace Castle Doctrine extension applies to all three jurisdictions, ignoring that such extensions are not universal and do not protect invitees actively engaged in crimes. All distractors are cleanly falsifiable due to their use of absolute language.
+Head-to-head:
+Option (d) is legally unassailable and meticulously follows the prompt's stipulations. Options (a), (b), (c), and (e) all invent false categorical rules or explicit exceptions that contradict either the prompt's precise rules or foundational legal principles. Option (a) asserts a fabricated, absolute limitation on the SYG exception. Option (b) deliberately ignores the "complete personal safety" standard by claiming physical availability "automatically satisfies" the requirement. Option (c) contradicts the "in any setting" stipulation with a commercial property exclusion. Option (e) relies on a non-existent "universal" workplace doctrine that supposedly overrides specific statutory mandates.
 
 Falsifiable claim per distractor:
-- (a): "the statute's 'engaged in criminal activity' limitation applies only to activity unrelated... Bentham's aggression severs any connection" — wrong because Florida's statutory bar on standing one's ground while engaged in criminal activity is a categorical exception with no such severance or nexus requirement.
-- (b): "regardless of safety" — wrong because New York expressly requires retreat only if the defender knows they can do so with "complete personal safety."
-- (c): "California applies the traditional retreat rule to all non-dwelling confrontations" — wrong because California is a no-duty-to-retreat state by case law and imposes no such duty in non-dwelling public confrontations.
-- (e): "all three recognize a workplace extension of the castle doctrine" — wrong because there is no universal workplace extension applied in all three jurisdictions, particularly for an invitee actively committing a crime.
+- (a): "applies only to crimes perpetrated against the initial aggressor" — wrong because SYG criminal-activity exceptions apply broadly to underlying or ongoing crimes (as stipulated by the prompt's plain text) and are not restricted to crimes committed against the specific aggressor.
+- (b): "automatically satisfies the retreat standard" — wrong because Jurisdiction A's standard explicitly requires "complete personal safety," meaning mere physical availability of an escape route is legally insufficient.
+- (c): "does not apply to commercial structures like a warehouse" — wrong because the prompt explicitly stipulates that Jurisdiction C imposes no duty to retreat "in any setting," precluding a commercial property carve-out.
+- (e): "universally triggers the castle doctrine exception regardless of other statutory limits" — wrong because workplace castle-doctrine extensions are not universal across all jurisdictions, nor do common-law exceptions categorically override explicit statutory limitations like "engaged in criminal activity."
 
 Recommended fix: none
 -->
@@ -2842,24 +2823,23 @@ Recommended fix: none
 **Grounding:** Chapter 22, Part III (*People v. Schuller*, 15 Cal.5th 237 (2023): genuineness-only rule for imperfect self-defense; Part I table: NY rejects imperfect self-defense); Chapter 23 (*Kahler v. Kansas*, 589 U.S. 271 (2020): due-process deference to state choice).
 
 <!-- argument-pass: CLEAN
-(a) Argument-for: This option flawlessly reflects the prompt's explicit premises and general criminal law doctrines. As established in *People v. Schuller* and summarized in the prompt, California recognizes that an actual, genuine, but objectively unreasonable belief in the need to defend oneself negates malice aforethought. The prompt also states that New York treats self-defense as an "all-or-nothing justification and rejects imperfect self-defense." Because Kant's mistake was unreasonable, under NY law he loses the justification entirely, making this option definitively correct.
+(a) Argument-for: This option correctly tracks the premises provided in the prompt and standard criminal law doctrine. Under California law (*People v. Schuller*), an actual but unreasonable belief in the need to defend oneself against imminent danger negates malice aforethought, dropping the charge to attempted voluntary manslaughter. Under New York law, self-defense requires objective reasonableness; an unreasonable mistake of fact regarding the threat vitiates the defense entirely, and New York explicitly rejects the partial defense of imperfect self-defense.
 
-(b) Argument-for: A student could argue that (b) is correct if they misinterpret the boundary between mistake of fact and imperfect self-defense. If a student assumes that imperfect self-defense only applies to unreasonable responses to actual threats, they might argue that an objectively unreasonable mistake of *fact* (thinking a radio is a gun) completely bars the defense even in California. Thus, (b) accurately reflects a strict interpretation of mistake-of-fact doctrine where unreasonableness precludes negating the *mens rea* for general intent crimes, rendering him ineligible.
+(b) Argument-for: A student might argue for this option by distinguishing between a mistake of necessity and a mistake of fact. While imperfect self-defense mitigates an unreasonable belief in the *proportionality* or *imminence* of the threat, a student could incorrectly deduce that California's doctrine does not extend to completely unreasonable hallucinations or mistakes of physical fact (like mistaking a radio for a gun). Under this logic, Kant's objectively unreasonable factual error bars him from claiming imperfect self-defense, aligning his fate in California with the all-or-nothing New York rule.
 
-(c) Argument-for: A student could argue for (c) by relying on a strict *mens rea* approach to attempted murder. Attempted murder requires the specific intent to kill. If Kant believed he was acting in lawful self-defense, he lacked the specific unlawful intent to commit murder, regardless of jurisdiction. Under this reasoning, both CA and NY would logically have to allow imperfect self-defense or a similar mitigation to prevent a strict-liability-like application of attempted murder, making both jurisdictions recognize the doctrine.
+(c) Argument-for: A student could defend this option by relying on the failure-of-proof doctrine for specific intent crimes. Attempted murder requires the specific intent to commit an unlawful killing. A student might argue that, regardless of a state's stance on imperfect self-defense as an affirmative justification, an actual belief that one is defending one's life categorically negates the specific intent to kill *unlawfully*. Therefore, both California and New York must legally recognize this subjective belief as negating the *mens rea* required for attempt.
 
-(d) Argument-for: A student could argue for (d) by associating "unreasonable mistake" with negligence. In California, if a defendant acts with an unreasonable belief in self-defense, their culpability is arguably akin to criminal negligence, justifying a mitigation to attempted criminally negligent homicide rather than manslaughter. Furthermore, under a purely subjective view of justification, a genuine belief in the need for self-defense might serve as a complete justification because the defendant acted without a legally culpable state of mind.
+(d) Argument-for: One could argue for this option by confusing California law with the Model Penal Code approach. The MPC treats unreasonable mistakes in self-defense as negating purpose or knowledge, thereby mitigating the offense to the level of the mistake (recklessness or negligence). A student might assume California follows this path, mitigating the charge to attempted criminally negligent homicide. The student might also mistakenly believe New York employs a strictly subjective justification standard, which would allow a genuine belief to serve as a complete defense regardless of unreasonableness.
 
-(e) Argument-for: A student could argue for (e) by broadly reading the constitutional baseline for *mens rea* defenses. While *Kahler v. Kansas* dealt with the insanity defense, a student might interpret its underlying due process principles as requiring states to allow defendants to present evidence that directly negates an element of the offense (like malice). If an unreasonable but genuine belief logically negates malice, then barring this evidence might violate the Due Process Clause, making imperfect self-defense constitutionally required.
+(e) Argument-for: A student could support this option by interpreting *Kahler v. Kansas* as establishing constitutional floors for mens rea defenses under the Due Process Clause. If *Kahler* requires states to allow defendants to negate the core mens rea of an offense, and malice is an essential element of murder, denying a defendant the ability to present a genuinely held belief to negate malice violates the Fourteenth Amendment. Under this reading, the Supreme Court has functionally mandated imperfect self-defense across all jurisdictions.
 
-Head-to-head:
-Option (a) perfectly tracks the prompt's provided jurisdictional rules and black-letter law. Distractor (b) claims Kant is ineligible in CA, which directly contradicts the prompt's explicit definition of the California approach ("recognizes that a genuinely held but unreasonable belief negates malice"). Distractor (c) claims "under both approaches, Kant is eligible," directly contradicting the prompt's definition of the NY approach ("rejects imperfect self-defense"). Distractor (d) makes falsifiable claims about both CA mitigating to criminally negligent homicide (imperfect self-defense mitigates to voluntary manslaughter) and NY treating it as a complete justification. Distractor (e) falsely claims *Kahler* requires every state to recognize imperfect self-defense. All distractors contain explicit, falsifiable errors.
+Head-to-head: Option (a) cleanly tracks the doctrinal reality of California and New York as explicitly set up by the prompt's premises. Distractor (b) relies on an artificially created distinction that directly contradicts the prompt's definition of California's approach. Distractor (c) falsely claims New York recognizes imperfect self-defense negation for specific intent, which violates the prompt's explicit premise about New York law. Distractor (d) makes legally impossible claims (attempted criminally negligent homicide is universally unrecognized since attempt requires specific intent) and misstates New York law. Distractor (e) makes a categorically false claim about *Kahler*, which held the exact opposite regarding due process mandates for mental-state defenses. Each distractor fails on a clear, falsifiable doctrinal error.
 
 Falsifiable claim per distractor:
-- (b): "Kant is ineligible because a belief based on an objectively unreasonable mistake of fact cannot negate malice" — wrong because California explicitly recognizes imperfect self-defense to negate malice based on genuine but unreasonable beliefs.
-- (c): "Under both approaches, Kant is eligible for imperfect self-defense" — wrong because the prompt and black-letter law explicitly state New York rejects imperfect self-defense.
-- (d): "imperfect self-defense mitigates the charge to attempted criminally negligent homicide" — wrong because it mitigates to voluntary manslaughter; "genuine belief serves as a complete justification" — wrong because NY requires an objectively reasonable belief for complete justification.
-- (e): "The Supreme Court's decision in *Kahler v. Kansas* requires every state to recognize imperfect self-defense" — wrong because *Kahler* held that due process does not mandate specific mental-state defenses, preserving state latitude.
+- (b): "Kant is ineligible because a belief based on an objectively unreasonable mistake of fact cannot negate malice" — wrong because California law (and the prompt's own parenthetical) explicitly recognizes that genuinely held but unreasonable beliefs do negate malice.
+- (c): "Under both approaches, Kant is eligible for imperfect self-defense" — wrong because New York strictly rejects imperfect self-defense and treats the defense as an all-or-nothing justification.
+- (d): "mitigates the charge to attempted criminally negligent homicide" and "New York approach, his genuine belief serves as a complete justification despite its unreasonableness" — wrong because imperfect self-defense in California mitigates to attempted voluntary manslaughter (and attempted negligent homicide is a legal impossibility), and New York requires objective reasonableness for a complete justification.
+- (e): "The Supreme Court's decision in Kahler v. Kansas requires every state to recognize imperfect self-defense" — wrong because the Supreme Court explicitly held that states have broad leeway to define mental-state defenses and are not constitutionally mandated to adopt specific doctrines.
 
 Recommended fix: none
 -->
@@ -2870,66 +2850,66 @@ Recommended fix: none
 
 ### Grounding
 
-**Q18.** Assume that at the time of the stabbing, Kant was suffering from a qualifying mental disease (paranoid schizophrenia) in an active psychotic episode. As established by Dr. Singer's testimony, Kant knew the penal code prohibited killing a human being, but his delusion convinced him he was morally required to destroy a demon possessing Officer Hand's body. Apply the M'Naghten wrongness prong to Kant's conduct, distinguishing jurisdictions that define wrongness morally from those that define it legally.
+**Q18.** Assume that at the time of the stabbing, Kant was suffering from a qualifying mental disease (paranoid schizophrenia) in an active psychotic episode. As established by Dr. Singer's testimony, Kant specifically knew that stabbing Officer Hand was a crime under the penal code, but his delusion convinced him he was morally required to sacrifice the human host to destroy a demon possessing Officer Hand's body. Apply the M'Naghten wrongness prong to Kant's conduct, distinguishing jurisdictions that define wrongness morally from those that define it legally.
 
 (a) Kant fails the M'Naghten test because the wrongness prong uniformly requires proof that the defendant did not know the act was legally prohibited, and Kant's violent resistance to a uniformed officer demonstrates knowledge that the stabbing was illegal.
 (b) Kant satisfies M'Naghten's "nature and quality" prong because his delusion distorted his perception of Officer Hand; under M'Naghten, the nature-and-quality prong categorically evaluates the defendant's moral understanding of the victim's identity rather than the physical mechanics of the act.
 (c) Kant fails the M'Naghten test because 18 U.S.C. § 17 requires a "severe" mental disease combined with clear-and-convincing-evidence proof of a specific danger to the public; paranoid schizophrenia alone, without that dangerousness showing, is insufficient to meet the federal standard.
 (d) Kant is constitutionally entitled to an acquittal because *Kahler v. Kansas* held that the Due Process Clause requires every state to recognize M'Naghten's wrongness prong as a floor for insanity defenses.
-(e) Kant satisfies the wrongness prong under M'Naghten's moral-wrongfulness formulation because his delusion rendered him unable to recognize the stabbing as morally wrong, believing it was morally required to defeat the demonic attack; in jurisdictions that limit wrongness to legal wrongfulness, Kant fails the prong because he understood the penal code prohibited killing a human being. <!-- correct -->
+(e) Kant satisfies the wrongness prong under M'Naghten's moral-wrongfulness formulation because his delusion rendered him unable to recognize the stabbing as morally wrong, believing it was morally required to destroy the demon; in jurisdictions that limit wrongness to legal wrongfulness, Kant fails the prong because he understood that stabbing Officer Hand was legally prohibited. <!-- correct -->
 
 **Answer:** (e)
 
-**Explanation:** (e) correctly applies M'Naghten's wrongness prong based on the recognized jurisdictional split. Under a moral formulation, Kant's delusion provided a subjective moral justification, satisfying the prong. Under a legal formulation, he fails the prong because he knew killing the possessed human host was legally prohibited. (a) falsely claims the wrongness prong uniformly demands legal wrongfulness, ignoring the split. (b) states a categorically false legal rule; the "nature and quality" prong evaluates the physical nature of the act (e.g., physically stabbing a living human versus squeezing a grapefruit), not the moral understanding of the victim's identity. (c) fabricates a "specific danger to the public" element for the federal Insanity Defense Reform Act. (d) inverts *Kahler v. Kansas*, which explicitly held that due process does not require states to adopt the M'Naghten wrongness test.
+**Explanation:** (e) correctly applies M'Naghten's wrongness prong based on the recognized jurisdictional split. Under a moral formulation, Kant's delusion provided a subjective moral justification, satisfying the prong. Under a legal formulation, he fails the prong because he specifically knew that stabbing Officer Hand was legally prohibited. (a) falsely claims the wrongness prong uniformly demands legal wrongfulness, ignoring the split. (b) states a categorically false legal rule; the "nature and quality" prong evaluates the physical nature of the act (e.g., physically stabbing a living human versus squeezing a grapefruit), not the moral understanding of the victim's identity. (c) fabricates a "specific danger to the public" element for the federal Insanity Defense Reform Act. (d) inverts *Kahler v. Kansas*, which explicitly held that due process does not require states to adopt the M'Naghten wrongness test.
 
 **Tags:** chapters: [23], topics: [M'Naghten, wrongness-prong, moral-vs-legal-wrongfulness, nature-and-quality], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 23, Part A (M'Naghten's two prongs); Part D (post-Hinckley reforms); Kahler v. Kansas, 589 U.S. 271 (2020) (cataloguing cognitive/moral strains).
 
-<!-- grounding: GROUNDED — M'Naghten wrongness prong, Ch 23, Refinement `mnaghten-wrongness`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — M'Naghten wrongness prong, Ch 23, Refinement `mnaghten-wrongness`. Rule paraphrased accurately. (Distractors excellently deploy `mnaghten-nature-quality`, `kahler-constitutional-floor`, and `federal-idra-requirements` as traps). -->
 
 ### Ambiguity Audit
 
-**Q18.** Assume that at the time of the stabbing, Kant was suffering from a qualifying mental disease (paranoid schizophrenia) in an active psychotic episode. As established by Dr. Singer's testimony, Kant knew the penal code prohibited killing a human being, but his delusion convinced him he was morally required to destroy a demon possessing Officer Hand's body. Apply the M'Naghten wrongness prong to Kant's conduct, distinguishing jurisdictions that define wrongness morally from those that define it legally.
+**Q18.** Assume that at the time of the stabbing, Kant was suffering from a qualifying mental disease (paranoid schizophrenia) in an active psychotic episode. As established by Dr. Singer's testimony, Kant specifically knew that stabbing Officer Hand was a crime under the penal code, but his delusion convinced him he was morally required to sacrifice the human host to destroy a demon possessing Officer Hand's body. Apply the M'Naghten wrongness prong to Kant's conduct, distinguishing jurisdictions that define wrongness morally from those that define it legally.
 
 (a) Kant fails the M'Naghten test because the wrongness prong uniformly requires proof that the defendant did not know the act was legally prohibited, and Kant's violent resistance to a uniformed officer demonstrates knowledge that the stabbing was illegal.
 (b) Kant satisfies M'Naghten's "nature and quality" prong because his delusion distorted his perception of Officer Hand; under M'Naghten, the nature-and-quality prong categorically evaluates the defendant's moral understanding of the victim's identity rather than the physical mechanics of the act.
 (c) Kant fails the M'Naghten test because 18 U.S.C. § 17 requires a "severe" mental disease combined with clear-and-convincing-evidence proof of a specific danger to the public; paranoid schizophrenia alone, without that dangerousness showing, is insufficient to meet the federal standard.
 (d) Kant is constitutionally entitled to an acquittal because *Kahler v. Kansas* held that the Due Process Clause requires every state to recognize M'Naghten's wrongness prong as a floor for insanity defenses.
-(e) Kant satisfies the wrongness prong under M'Naghten's moral-wrongfulness formulation because his delusion rendered him unable to recognize the stabbing as morally wrong, believing it was morally required to defeat the demonic attack; in jurisdictions that limit wrongness to legal wrongfulness, Kant fails the prong because he understood the penal code prohibited killing a human being. <!-- correct -->
+(e) Kant satisfies the wrongness prong under M'Naghten's moral-wrongfulness formulation because his delusion rendered him unable to recognize the stabbing as morally wrong, believing it was morally required to destroy the demon; in jurisdictions that limit wrongness to legal wrongfulness, Kant fails the prong because he understood that stabbing Officer Hand was legally prohibited. <!-- correct -->
 
 **Answer:** (e)
 
-**Explanation:** (e) correctly applies M'Naghten's wrongness prong based on the recognized jurisdictional split. Under a moral formulation, Kant's delusion provided a subjective moral justification, satisfying the prong. Under a legal formulation, he fails the prong because he knew killing the possessed human host was legally prohibited. (a) falsely claims the wrongness prong uniformly demands legal wrongfulness, ignoring the split. (b) states a categorically false legal rule; the "nature and quality" prong evaluates the physical nature of the act (e.g., physically stabbing a living human versus squeezing a grapefruit), not the moral understanding of the victim's identity. (c) fabricates a "specific danger to the public" element for the federal Insanity Defense Reform Act. (d) inverts *Kahler v. Kansas*, which explicitly held that due process does not require states to adopt the M'Naghten wrongness test.
+**Explanation:** (e) correctly applies M'Naghten's wrongness prong based on the recognized jurisdictional split. Under a moral formulation, Kant's delusion provided a subjective moral justification, satisfying the prong. Under a legal formulation, he fails the prong because he specifically knew that stabbing Officer Hand was legally prohibited. (a) falsely claims the wrongness prong uniformly demands legal wrongfulness, ignoring the split. (b) states a categorically false legal rule; the "nature and quality" prong evaluates the physical nature of the act (e.g., physically stabbing a living human versus squeezing a grapefruit), not the moral understanding of the victim's identity. (c) fabricates a "specific danger to the public" element for the federal Insanity Defense Reform Act. (d) inverts *Kahler v. Kansas*, which explicitly held that due process does not require states to adopt the M'Naghten wrongness test.
 
 **Tags:** chapters: [23], topics: [M'Naghten, wrongness-prong, moral-vs-legal-wrongfulness, nature-and-quality], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 23, Part A (M'Naghten's two prongs); Part D (post-Hinckley reforms); Kahler v. Kansas, 589 U.S. 271 (2020) (cataloguing cognitive/moral strains).
 
-<!-- audit: MUST FIX
-<check 1>: Finding: Correct-answer accuracy fails. Option (e) concludes Kant fails the legal wrongfulness test because he had abstract knowledge that "the penal code prohibited killing a human being." However, under the legal wrongfulness test, the defendant must know that *the specific act committed* was legally wrong. Furthermore, under the traditional M'Naghten rule for delusions, a defendant is judged as if the facts of their delusion were real. Because option (e) explicitly states Kant believed he was defeating a "demonic attack," a sharp student could correctly argue that Kant believed he was acting in lawful self-defense. If he believed his act was legally justified, he did *not* know his specific act was legally prohibited. Thus, he might satisfy the legal wrongness test as well, making (e)'s premise that he definitively "fails the prong" incorrect.
+<!-- audit: CLEAN
+<check 1>: pass
 <check 2>: pass
-<check 3>: Finding: Explanation consistency fails for the same reason. The explanation claims "he fails the prong because he knew killing the possessed human host was legally prohibited," but the stem only establishes he knew killing *a human being* was prohibited in the abstract, not that he knew killing *this specific host* was legally prohibited in the context of his delusion.
-<check 4>: Finding: The stem lacks sufficient facts to support the legal-wrongness conclusion. It provides Kant's abstract knowledge of the law but leaves his belief about the legality of his specific act ambiguous.
+<check 3>: pass
+<check 4>: pass
 <check 5>: pass
 <check 6>: pass
 <check 7>: pass
-Recommended fix: Revise the stem to explicitly stipulate Kant's knowledge that his specific act was illegal (closing the self-defense/delusion loophole). For example, change the stem to: "...Kant knew that stabbing Officer Hand was a crime under the penal code, but his delusion convinced him he was morally required to sacrifice the Officer to destroy a demon." Additionally, remove the word "attack" from option (e) to prevent students from applying a self-defense justification analysis that would negate knowledge of legal wrongfulness.
+Recommended fix: n/a
 -->
 
 ### Edge Case Audit
 
-**Q18.** Assume that at the time of the stabbing, Kant was suffering from a qualifying mental disease (paranoid schizophrenia) in an active psychotic episode. As established by Dr. Singer's testimony, Kant knew the penal code prohibited killing a human being, but his delusion convinced him he was morally required to destroy a demon possessing Officer Hand's body. Apply the M'Naghten wrongness prong to Kant's conduct, distinguishing jurisdictions that define wrongness morally from those that define it legally.
+**Q18.** Assume that at the time of the stabbing, Kant was suffering from a qualifying mental disease (paranoid schizophrenia) in an active psychotic episode. As established by Dr. Singer's testimony, Kant specifically knew that stabbing Officer Hand was a crime under the penal code, but his delusion convinced him he was morally required to sacrifice the human host to destroy a demon possessing Officer Hand's body. Apply the M'Naghten wrongness prong to Kant's conduct, distinguishing jurisdictions that define wrongness morally from those that define it legally.
 
 (a) Kant fails the M'Naghten test because the wrongness prong uniformly requires proof that the defendant did not know the act was legally prohibited, and Kant's violent resistance to a uniformed officer demonstrates knowledge that the stabbing was illegal.
 (b) Kant satisfies M'Naghten's "nature and quality" prong because his delusion distorted his perception of Officer Hand; under M'Naghten, the nature-and-quality prong categorically evaluates the defendant's moral understanding of the victim's identity rather than the physical mechanics of the act.
 (c) Kant fails the M'Naghten test because 18 U.S.C. § 17 requires a "severe" mental disease combined with clear-and-convincing-evidence proof of a specific danger to the public; paranoid schizophrenia alone, without that dangerousness showing, is insufficient to meet the federal standard.
 (d) Kant is constitutionally entitled to an acquittal because *Kahler v. Kansas* held that the Due Process Clause requires every state to recognize M'Naghten's wrongness prong as a floor for insanity defenses.
-(e) Kant satisfies the wrongness prong under M'Naghten's moral-wrongfulness formulation because his delusion rendered him unable to recognize the stabbing as morally wrong, believing it was morally required to defeat the demonic attack; in jurisdictions that limit wrongness to legal wrongfulness, Kant fails the prong because he understood the penal code prohibited killing a human being. <!-- correct -->
+(e) Kant satisfies the wrongness prong under M'Naghten's moral-wrongfulness formulation because his delusion rendered him unable to recognize the stabbing as morally wrong, believing it was morally required to destroy the demon; in jurisdictions that limit wrongness to legal wrongfulness, Kant fails the prong because he understood that stabbing Officer Hand was legally prohibited. <!-- correct -->
 
 **Answer:** (e)
 
-**Explanation:** (e) correctly applies M'Naghten's wrongness prong based on the recognized jurisdictional split. Under a moral formulation, Kant's delusion provided a subjective moral justification, satisfying the prong. Under a legal formulation, he fails the prong because he knew killing the possessed human host was legally prohibited. (a) falsely claims the wrongness prong uniformly demands legal wrongfulness, ignoring the split. (b) states a categorically false legal rule; the "nature and quality" prong evaluates the physical nature of the act (e.g., physically stabbing a living human versus squeezing a grapefruit), not the moral understanding of the victim's identity. (c) fabricates a "specific danger to the public" element for the federal Insanity Defense Reform Act. (d) inverts *Kahler v. Kansas*, which explicitly held that due process does not require states to adopt the M'Naghten wrongness test.
+**Explanation:** (e) correctly applies M'Naghten's wrongness prong based on the recognized jurisdictional split. Under a moral formulation, Kant's delusion provided a subjective moral justification, satisfying the prong. Under a legal formulation, he fails the prong because he specifically knew that stabbing Officer Hand was legally prohibited. (a) falsely claims the wrongness prong uniformly demands legal wrongfulness, ignoring the split. (b) states a categorically false legal rule; the "nature and quality" prong evaluates the physical nature of the act (e.g., physically stabbing a living human versus squeezing a grapefruit), not the moral understanding of the victim's identity. (c) fabricates a "specific danger to the public" element for the federal Insanity Defense Reform Act. (d) inverts *Kahler v. Kansas*, which explicitly held that due process does not require states to adopt the M'Naghten wrongness test.
 
 **Tags:** chapters: [23], topics: [M'Naghten, wrongness-prong, moral-vs-legal-wrongfulness, nature-and-quality], difficulty: medium, cognitive: application
 
@@ -2939,77 +2919,76 @@ Recommended fix: Revise the stem to explicitly stipulate Kant's knowledge that h
 1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
 -->
 
 ### Argument Pass (Sonnet)
 
-**Q18.** Assume that at the time of the stabbing, Kant was suffering from a qualifying mental disease (paranoid schizophrenia) in an active psychotic episode. As established by Dr. Singer's testimony, Kant knew the penal code prohibited killing a human being, but his delusion convinced him he was morally required to destroy a demon possessing Officer Hand's body. Apply the M'Naghten wrongness prong to Kant's conduct, distinguishing jurisdictions that define wrongness morally from those that define it legally.
+**Q18.** Assume that at the time of the stabbing, Kant was suffering from a qualifying mental disease (paranoid schizophrenia) in an active psychotic episode. As established by Dr. Singer's testimony, Kant specifically knew that stabbing Officer Hand was a crime under the penal code, but his delusion convinced him he was morally required to sacrifice the human host to destroy a demon possessing Officer Hand's body. Apply the M'Naghten wrongness prong to Kant's conduct, distinguishing jurisdictions that define wrongness morally from those that define it legally.
 
 (a) Kant fails the M'Naghten test because the wrongness prong uniformly requires proof that the defendant did not know the act was legally prohibited, and Kant's violent resistance to a uniformed officer demonstrates knowledge that the stabbing was illegal.
 (b) Kant satisfies M'Naghten's "nature and quality" prong because his delusion distorted his perception of Officer Hand; under M'Naghten, the nature-and-quality prong categorically evaluates the defendant's moral understanding of the victim's identity rather than the physical mechanics of the act.
 (c) Kant fails the M'Naghten test because 18 U.S.C. § 17 requires a "severe" mental disease combined with clear-and-convincing-evidence proof of a specific danger to the public; paranoid schizophrenia alone, without that dangerousness showing, is insufficient to meet the federal standard.
 (d) Kant is constitutionally entitled to an acquittal because *Kahler v. Kansas* held that the Due Process Clause requires every state to recognize M'Naghten's wrongness prong as a floor for insanity defenses.
-(e) Kant satisfies the wrongness prong under M'Naghten's moral-wrongfulness formulation because his delusion rendered him unable to recognize the stabbing as morally wrong, believing it was morally required to defeat the demonic attack; in jurisdictions that limit wrongness to legal wrongfulness, Kant fails the prong because he understood the penal code prohibited killing a human being. <!-- correct -->
+(e) Kant satisfies the wrongness prong under M'Naghten's moral-wrongfulness formulation because his delusion rendered him unable to recognize the stabbing as morally wrong, believing it was morally required to destroy the demon; in jurisdictions that limit wrongness to legal wrongfulness, Kant fails the prong because he understood that stabbing Officer Hand was legally prohibited. <!-- correct -->
 
 **Answer:** (e)
 
-**Explanation:** (e) correctly applies M'Naghten's wrongness prong based on the recognized jurisdictional split. Under a moral formulation, Kant's delusion provided a subjective moral justification, satisfying the prong. Under a legal formulation, he fails the prong because he knew killing the possessed human host was legally prohibited. (a) falsely claims the wrongness prong uniformly demands legal wrongfulness, ignoring the split. (b) states a categorically false legal rule; the "nature and quality" prong evaluates the physical nature of the act (e.g., physically stabbing a living human versus squeezing a grapefruit), not the moral understanding of the victim's identity. (c) fabricates a "specific danger to the public" element for the federal Insanity Defense Reform Act. (d) inverts *Kahler v. Kansas*, which explicitly held that due process does not require states to adopt the M'Naghten wrongness test.
+**Explanation:** (e) correctly applies M'Naghten's wrongness prong based on the recognized jurisdictional split. Under a moral formulation, Kant's delusion provided a subjective moral justification, satisfying the prong. Under a legal formulation, he fails the prong because he specifically knew that stabbing Officer Hand was legally prohibited. (a) falsely claims the wrongness prong uniformly demands legal wrongfulness, ignoring the split. (b) states a categorically false legal rule; the "nature and quality" prong evaluates the physical nature of the act (e.g., physically stabbing a living human versus squeezing a grapefruit), not the moral understanding of the victim's identity. (c) fabricates a "specific danger to the public" element for the federal Insanity Defense Reform Act. (d) inverts *Kahler v. Kansas*, which explicitly held that due process does not require states to adopt the M'Naghten wrongness test.
 
 **Tags:** chapters: [23], topics: [M'Naghten, wrongness-prong, moral-vs-legal-wrongfulness, nature-and-quality], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 23, Part A (M'Naghten's two prongs); Part D (post-Hinckley reforms); Kahler v. Kansas, 589 U.S. 271 (2020) (cataloguing cognitive/moral strains).
 
 <!-- argument-pass: CLEAN
-(a) Argument-for: A student might argue that the traditional M'Naghten rule, originating in 19th-century England, originally focused on the defendant's knowledge that the act was contrary to the law of the land. Under this strict reading, an individual's personal moral code or delusions cannot override their cognitive awareness of a criminal statute. Because Kant knew the penal code prohibited killing humans, his cognitive awareness of the act's illegality is unquestionable. Thus, a student could conclude the wrongness prong uniformly forecloses the defense whenever legal prohibition is known.
-(b) Argument-for: A student could argue that "nature and quality" encompasses a defendant's comprehension of what they are actually destroying. If a defendant truly believes they are striking a supernatural entity (a demon) rather than a human being, they do not understand the true nature of their physical target. This interpretation stretches the "nature" of the act to include the ontological status of the victim. Therefore, a student could conclude that the nature-and-quality prong categorically evaluates this delusional misidentification over mere physical mechanics.
-(c) Argument-for: A student might argue that the federal Insanity Defense Reform Act (18 U.S.C. § 17) drastically narrowed the insanity defense post-Hinckley, shifting the burden to the defendant by clear and convincing evidence. Given the federal system's emphasis on public protection and stringent commitment procedures, a student might incorrectly assume the statute explicitly incorporated a dangerousness element into the substantive definition of insanity itself. Therefore, the student would argue that schizophrenia without a statutory showing of specific danger to the public fails the federal standard.
-(d) Argument-for: A student could argue that due process sets a fundamental constitutional floor for criminal culpability, of which mens rea and moral blameworthiness are essential components. Because Kahler v. Kansas dealt with a state's attempt to modify the insanity defense, a student might misremember the holding as striking down the Kansas law to protect the traditional M'Naghten wrongness prong. Under this mistaken reading, the Court established that states cannot constitutionally punish those who lack moral understanding of their actions.
-(e) Argument-for: This option accurately reflects the recognized jurisdictional split regarding the interpretation of "wrong" under the M'Naghten test. In jurisdictions like New York (following People v. Schmidt), "wrong" means morally wrong, allowing for an insanity defense if a delusion makes the act seem morally justified (e.g., deific decree or demonic possession). In jurisdictions where "wrong" strictly means legally wrong (e.g., State v. Crenshaw), the defendant's knowledge of the penal code defeats the defense. Kant's precise mix of legal knowledge and moral delusion perfectly illustrates how his fate depends entirely on the jurisdiction's specific definition of wrongfulness.
+(a) Argument-for: A student might argue that the M'Naghten standard historically evolved to focus primarily on legal wrongfulness, following English precedents like *R v. Windle*. Under this strict interpretation, if a defendant knows an act is contrary to penal law, the insanity defense fails regardless of subjective moral beliefs. Since Kant specifically knew stabbing the officer was a penal code violation, one could argue option (a) correctly applies this dominant constraint.
+(b) Argument-for: A student could argue that perceiving a human being as a demon fundamentally alters the defendant's comprehension of the "nature and quality" of the act. If Kant thinks he is destroying a supernatural entity rather than stabbing a person, his cognitive distortion is arguably so severe that it transcends mere moral justification. Under this theory, option (b) is correct because the nature-and-quality prong must encompass radical delusions regarding the victim's fundamental identity.
+(c) Argument-for: The federal Insanity Defense Reform Act (18 U.S.C. § 17) undeniably requires a "severe" mental disease and places a clear-and-convincing burden of proof on the defendant. A student might incorrectly assume that federal law requires a showing of continuing danger to the public to justify the unique disposition of an insanity acquittee, blending civil commitment standards with the trial defense elements. Because Kant's schizophrenia was not accompanied by this statutory showing in the prompt, option (c) could be seen as stating the correct standard.
+(d) Argument-for: *Kahler v. Kansas* dealt with the constitutionality of abolishing the traditional insanity defense. A student might argue that the Supreme Court established a minimum constitutional floor based on the deeply rooted M'Naghten test. Since due process protects fundamental legal traditions, one could argue option (d) correctly states that states are compelled to retain the wrongness prong to prevent punishing the morally blameless.
+(e) Argument-for: Option (e) perfectly captures the well-known jurisdictional split regarding the "wrongness" prong of the M'Naghten test. In states using a moral wrongness standard (like the *Deina* or *Schmidt* variations), Kant's delusion that he was morally required to kill the demon satisfies the test. Conversely, in jurisdictions restricting the test to legal wrongness, Kant's admitted knowledge that his conduct violated the penal code precludes the defense. This accurately resolves the question's dual prompt.
 
-Head-to-head: Option (e) is the clear winner because it accurately applies the well-established jurisdictional split over M'Naghten's "wrongness" prong to the fact pattern. Option (a) fails by using the absolute word "uniformly," denying the existence of the moral-wrongness jurisdictions. Option (b) fails by explicitly rejecting the core premise of the "nature and quality" prong (physical mechanics). Option (c) hallucinates a statutory element ("specific danger to the public") for 18 U.S.C. § 17. Option (d) asserts the precise opposite of the Supreme Court's actual holding in Kahler v. Kansas.
+Head-to-head: Option (e) correctly applies the law, accurately identifying the divergent outcomes based on the recognized split in how jurisdictions define "wrong" under M'Naghten. Options (a), (b), (c), and (d) are all structurally sound distractors but fall flat because they hinge on explicit legal falsehoods. (a) ignores the jurisdictional split by claiming the standard is uniform; (b) misdefines the cognitive nature-and-quality prong as an evaluation of moral understanding; (c) fabricates a dangerousness element for 18 U.S.C. § 17; and (d) states the exact opposite of the Supreme Court's actual holding in *Kahler*. 
 
 Falsifiable claim per distractor:
-- (a): "uniformly requires proof that the defendant did not know the act was legally prohibited" — wrong because it ignores a major jurisdictional split; many states define wrongness as moral wrongness, not legal wrongness.
-- (b): "categorically evaluates the defendant's moral understanding of the victim's identity rather than the physical mechanics" — wrong because the "nature and quality" prong is precisely an evaluation of the physical mechanics and nature of the act, not moral understanding.
-- (c): "requires a 'severe' mental disease combined with clear-and-convincing-evidence proof of a specific danger to the public" — wrong because 18 U.S.C. § 17 does not require proof of a specific danger to the public as an element of the insanity defense.
-- (d): "Kahler v. Kansas held that the Due Process Clause requires every state to recognize M'Naghten's wrongness prong" — wrong because Kahler held that Due Process does not compel states to adopt the M'Naghten test or its moral incapacity prong.
+- (a): "uniformly requires proof that the defendant did not know the act was legally prohibited" — wrong because there is a well-established jurisdictional split; many jurisdictions define wrongness as moral wrongfulness rather than strictly legal wrongfulness.
+- (b): "categorically evaluates the defendant's moral understanding of the victim's identity rather than the physical mechanics of the act" — wrong because the "nature and quality" prong specifically evaluates the defendant's understanding of the physical mechanics and physical consequences of the act.
+- (c): "combined with clear-and-convincing-evidence proof of a specific danger to the public" — wrong because 18 U.S.C. § 17 does not include proof of specific danger to the public as an element of the federal insanity defense.
+- (d): "Kahler v. Kansas held that the Due Process Clause requires every state to recognize M'Naghten's wrongness prong as a floor" — wrong because *Kahler* explicitly held that the Due Process Clause does not compel states to adopt the M'Naghten wrongness test.
 
 Recommended fix: none
 -->
 
 ### Argument Pass (Opus)
 
-**Q18.** Assume that at the time of the stabbing, Kant was suffering from a qualifying mental disease (paranoid schizophrenia) in an active psychotic episode. As established by Dr. Singer's testimony, Kant knew the penal code prohibited killing a human being, but his delusion convinced him he was morally required to destroy a demon possessing Officer Hand's body. Apply the M'Naghten wrongness prong to Kant's conduct, distinguishing jurisdictions that define wrongness morally from those that define it legally.
+**Q18.** Assume that at the time of the stabbing, Kant was suffering from a qualifying mental disease (paranoid schizophrenia) in an active psychotic episode. As established by Dr. Singer's testimony, Kant specifically knew that stabbing Officer Hand was a crime under the penal code, but his delusion convinced him he was morally required to sacrifice the human host to destroy a demon possessing Officer Hand's body. Apply the M'Naghten wrongness prong to Kant's conduct, distinguishing jurisdictions that define wrongness morally from those that define it legally.
 
 (a) Kant fails the M'Naghten test because the wrongness prong uniformly requires proof that the defendant did not know the act was legally prohibited, and Kant's violent resistance to a uniformed officer demonstrates knowledge that the stabbing was illegal.
 (b) Kant satisfies M'Naghten's "nature and quality" prong because his delusion distorted his perception of Officer Hand; under M'Naghten, the nature-and-quality prong categorically evaluates the defendant's moral understanding of the victim's identity rather than the physical mechanics of the act.
 (c) Kant fails the M'Naghten test because 18 U.S.C. § 17 requires a "severe" mental disease combined with clear-and-convincing-evidence proof of a specific danger to the public; paranoid schizophrenia alone, without that dangerousness showing, is insufficient to meet the federal standard.
 (d) Kant is constitutionally entitled to an acquittal because *Kahler v. Kansas* held that the Due Process Clause requires every state to recognize M'Naghten's wrongness prong as a floor for insanity defenses.
-(e) Kant satisfies the wrongness prong under M'Naghten's moral-wrongfulness formulation because his delusion rendered him unable to recognize the stabbing as morally wrong, believing it was morally required to defeat the demonic attack; in jurisdictions that limit wrongness to legal wrongfulness, Kant fails the prong because he understood the penal code prohibited killing a human being. <!-- correct -->
+(e) Kant satisfies the wrongness prong under M'Naghten's moral-wrongfulness formulation because his delusion rendered him unable to recognize the stabbing as morally wrong, believing it was morally required to destroy the demon; in jurisdictions that limit wrongness to legal wrongfulness, Kant fails the prong because he understood that stabbing Officer Hand was legally prohibited. <!-- correct -->
 
 **Answer:** (e)
 
-**Explanation:** (e) correctly applies M'Naghten's wrongness prong based on the recognized jurisdictional split. Under a moral formulation, Kant's delusion provided a subjective moral justification, satisfying the prong. Under a legal formulation, he fails the prong because he knew killing the possessed human host was legally prohibited. (a) falsely claims the wrongness prong uniformly demands legal wrongfulness, ignoring the split. (b) states a categorically false legal rule; the "nature and quality" prong evaluates the physical nature of the act (e.g., physically stabbing a living human versus squeezing a grapefruit), not the moral understanding of the victim's identity. (c) fabricates a "specific danger to the public" element for the federal Insanity Defense Reform Act. (d) inverts *Kahler v. Kansas*, which explicitly held that due process does not require states to adopt the M'Naghten wrongness test.
+**Explanation:** (e) correctly applies M'Naghten's wrongness prong based on the recognized jurisdictional split. Under a moral formulation, Kant's delusion provided a subjective moral justification, satisfying the prong. Under a legal formulation, he fails the prong because he specifically knew that stabbing Officer Hand was legally prohibited. (a) falsely claims the wrongness prong uniformly demands legal wrongfulness, ignoring the split. (b) states a categorically false legal rule; the "nature and quality" prong evaluates the physical nature of the act (e.g., physically stabbing a living human versus squeezing a grapefruit), not the moral understanding of the victim's identity. (c) fabricates a "specific danger to the public" element for the federal Insanity Defense Reform Act. (d) inverts *Kahler v. Kansas*, which explicitly held that due process does not require states to adopt the M'Naghten wrongness test.
 
 **Tags:** chapters: [23], topics: [M'Naghten, wrongness-prong, moral-vs-legal-wrongfulness, nature-and-quality], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 23, Part A (M'Naghten's two prongs); Part D (post-Hinckley reforms); Kahler v. Kansas, 589 U.S. 271 (2020) (cataloguing cognitive/moral strains).
 
 <!-- argument-pass: CLEAN
-(a) Argument-for: A student might argue that the traditional M'Naghten rule, originating in 19th-century England, originally focused on the defendant's knowledge that the act was contrary to the law of the land. Under this strict reading, an individual's personal moral code or delusions cannot override their cognitive awareness of a criminal statute. Because Kant knew the penal code prohibited killing humans, his cognitive awareness of the act's illegality is unquestionable. Thus, a student could conclude the wrongness prong uniformly forecloses the defense whenever legal prohibition is known.
-(b) Argument-for: A student could argue that "nature and quality" encompasses a defendant's comprehension of what they are actually destroying. If a defendant truly believes they are striking a supernatural entity (a demon) rather than a human being, they do not understand the true nature of their physical target. This interpretation stretches the "nature" of the act to include the ontological status of the victim. Therefore, a student could conclude that the nature-and-quality prong categorically evaluates this delusional misidentification over mere physical mechanics.
-(c) Argument-for: A student might argue that the federal Insanity Defense Reform Act (18 U.S.C. § 17) drastically narrowed the insanity defense post-Hinckley, shifting the burden to the defendant by clear and convincing evidence. Given the federal system's emphasis on public protection and stringent commitment procedures, a student might incorrectly assume the statute explicitly incorporated a dangerousness element into the substantive definition of insanity itself. Therefore, the student would argue that schizophrenia without a statutory showing of specific danger to the public fails the federal standard.
-(d) Argument-for: A student could argue that due process sets a fundamental constitutional floor for criminal culpability, of which mens rea and moral blameworthiness are essential components. Because Kahler v. Kansas dealt with a state's attempt to modify the insanity defense, a student might misremember the holding as striking down the Kansas law to protect the traditional M'Naghten wrongness prong. Under this mistaken reading, the Court established that states cannot constitutionally punish those who lack moral understanding of their actions.
-(e) Argument-for: This option accurately reflects the recognized jurisdictional split regarding the interpretation of "wrong" under the M'Naghten test. In jurisdictions like New York (following People v. Schmidt), "wrong" means morally wrong, allowing for an insanity defense if a delusion makes the act seem morally justified (e.g., deific decree or demonic possession). In jurisdictions where "wrong" strictly means legally wrong (e.g., State v. Crenshaw), the defendant's knowledge of the penal code defeats the defense. Kant's precise mix of legal knowledge and moral delusion perfectly illustrates how his fate depends entirely on the jurisdiction's specific definition of wrongfulness.
+(a) Argument-for: A student might argue that the M'Naghten standard historically evolved to focus primarily on legal wrongfulness, following English precedents like *R v. Windle*. Under this strict interpretation, if a defendant knows an act is contrary to penal law, the insanity defense fails regardless of subjective moral beliefs. Since Kant specifically knew stabbing the officer was a penal code violation, one could argue option (a) correctly applies this dominant constraint.
+(b) Argument-for: A student could argue that perceiving a human being as a demon fundamentally alters the defendant's comprehension of the "nature and quality" of the act. If Kant thinks he is destroying a supernatural entity rather than stabbing a person, his cognitive distortion is arguably so severe that it transcends mere moral justification. Under this theory, option (b) is correct because the nature-and-quality prong must encompass radical delusions regarding the victim's fundamental identity.
+(c) Argument-for: The federal Insanity Defense Reform Act (18 U.S.C. § 17) undeniably requires a "severe" mental disease and places a clear-and-convincing burden of proof on the defendant. A student might incorrectly assume that federal law requires a showing of continuing danger to the public to justify the unique disposition of an insanity acquittee, blending civil commitment standards with the trial defense elements. Because Kant's schizophrenia was not accompanied by this statutory showing in the prompt, option (c) could be seen as stating the correct standard.
+(d) Argument-for: *Kahler v. Kansas* dealt with the constitutionality of abolishing the traditional insanity defense. A student might argue that the Supreme Court established a minimum constitutional floor based on the deeply rooted M'Naghten test. Since due process protects fundamental legal traditions, one could argue option (d) correctly states that states are compelled to retain the wrongness prong to prevent punishing the morally blameless.
+(e) Argument-for: Option (e) perfectly captures the well-known jurisdictional split regarding the "wrongness" prong of the M'Naghten test. In states using a moral wrongness standard (like the *Deina* or *Schmidt* variations), Kant's delusion that he was morally required to kill the demon satisfies the test. Conversely, in jurisdictions restricting the test to legal wrongness, Kant's admitted knowledge that his conduct violated the penal code precludes the defense. This accurately resolves the question's dual prompt.
 
-Head-to-head: Option (e) is the clear winner because it accurately applies the well-established jurisdictional split over M'Naghten's "wrongness" prong to the fact pattern. Option (a) fails by using the absolute word "uniformly," denying the existence of the moral-wrongness jurisdictions. Option (b) fails by explicitly rejecting the core premise of the "nature and quality" prong (physical mechanics). Option (c) hallucinates a statutory element ("specific danger to the public") for 18 U.S.C. § 17. Option (d) asserts the precise opposite of the Supreme Court's actual holding in Kahler v. Kansas.
+Head-to-head: Option (e) correctly applies the law, accurately identifying the divergent outcomes based on the recognized split in how jurisdictions define "wrong" under M'Naghten. Options (a), (b), (c), and (d) are all structurally sound distractors but fall flat because they hinge on explicit legal falsehoods. (a) ignores the jurisdictional split by claiming the standard is uniform; (b) misdefines the cognitive nature-and-quality prong as an evaluation of moral understanding; (c) fabricates a dangerousness element for 18 U.S.C. § 17; and (d) states the exact opposite of the Supreme Court's actual holding in *Kahler*. 
 
 Falsifiable claim per distractor:
-- (a): "uniformly requires proof that the defendant did not know the act was legally prohibited" — wrong because it ignores a major jurisdictional split; many states define wrongness as moral wrongness, not legal wrongness.
-- (b): "categorically evaluates the defendant's moral understanding of the victim's identity rather than the physical mechanics" — wrong because the "nature and quality" prong is precisely an evaluation of the physical mechanics and nature of the act, not moral understanding.
-- (c): "requires a 'severe' mental disease combined with clear-and-convincing-evidence proof of a specific danger to the public" — wrong because 18 U.S.C. § 17 does not require proof of a specific danger to the public as an element of the insanity defense.
-- (d): "Kahler v. Kansas held that the Due Process Clause requires every state to recognize M'Naghten's wrongness prong" — wrong because Kahler held that Due Process does not compel states to adopt the M'Naghten test or its moral incapacity prong.
+- (a): "uniformly requires proof that the defendant did not know the act was legally prohibited" — wrong because there is a well-established jurisdictional split; many jurisdictions define wrongness as moral wrongfulness rather than strictly legal wrongfulness.
+- (b): "categorically evaluates the defendant's moral understanding of the victim's identity rather than the physical mechanics of the act" — wrong because the "nature and quality" prong specifically evaluates the defendant's understanding of the physical mechanics and physical consequences of the act.
+- (c): "combined with clear-and-convincing-evidence proof of a specific danger to the public" — wrong because 18 U.S.C. § 17 does not include proof of specific danger to the public as an element of the federal insanity defense.
+- (d): "Kahler v. Kansas held that the Due Process Clause requires every state to recognize M'Naghten's wrongness prong as a floor" — wrong because *Kahler* explicitly held that the Due Process Clause does not compel states to adopt the M'Naghten wrongness test.
 
 Recommended fix: none
 -->
@@ -3057,14 +3036,13 @@ Recommended fix: none
 **Grounding:** Chapter 23, Section C (Model Penal Code § 4.01 substantial-capacity test); Section D (Insanity Defense Reform Act, 18 U.S.C. § 17: severe disease, cognitive-only, clear and convincing); Section on *Kahler v. Kansas*.
 
 <!-- audit: CLEAN
-check 1: pass (Option B correctly contrasts the MPC's "lacks substantial capacity" disjunctive test with the strict IDRA requirements: "severe" disease, "inability" to appreciate, clear and convincing burden, and lack of a volitional prong.)
-check 2: pass (No defensible distractors. Distractors rely on explicit misstatements of established law, such as swapping IDRA and MPC standards or misrepresenting the holding in Kahler v. Kansas.)
-check 3: pass (The explanation precisely matches the mapped doctrine for MPC § 4.01, the IDRA, and Kahler.)
-check 4: pass (The fact pattern provides the exact psychiatric terminology needed to trigger both the volitional and cognitive prongs, stipulating a mental disease/defect.)
-check 5: pass (The jurisdictions and statutes being compared—MPC and federal IDRA—are explicitly invoked in the prompt and answer choices; no rote memorization of unnamed state splits is required.)
-check 6: pass (No excluded or sensitive topics are present; the "altercation" is safely abstracted.)
-check 7: pass (All tested components map directly to Chapter 23 refinement tags: `mpc-appreciate-criminality`, `mpc-conform-conduct`, `federal-idra-requirements`, `burden-allocation-post-hinckley`, and `kahler-constitutional-floor`.)
-Recommended fix: None.
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: pass
+check 5: pass
+check 6: pass
+check 7: pass
 -->
 
 ### Edge Case Audit
