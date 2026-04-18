@@ -75,33 +75,49 @@ async def dispatch_gemini(
         safety_settings=safety_settings,
     )
 
-    try:
-        response = await client.aio.models.generate_content(
-            model=model,
-            contents=prompt,
-            config=config,
-        )
-    except Exception as e:
-        logger.error(f"HTTP/API Exception in generate_content: {type(e).__name__}: {str(e)}")
-        raise
+    import asyncio
     
-    try:
-        result = response.text
-    except ValueError as e:
-        finish_reason = "UNKNOWN"
-        if response.candidates:
-            finish_reason = getattr(response.candidates[0], "finish_reason", "UNKNOWN")
-        err_msg = f"Text extraction failed ({e}). Finish Reason: {finish_reason}. Raw prompt preview: {prompt[:100]}..."
-        logger.error(err_msg)
-        raise ValueError(err_msg)
+    for attempt in range(3):
+        try:
+            response = await client.aio.models.generate_content(
+                model=model,
+                contents=prompt,
+                config=config,
+            )
+        except Exception as e:
+            if attempt < 2:
+                logger.warning(f"HTTP/API Exception ({type(e).__name__}): {str(e)}. Retrying {attempt+1}/3...")
+                await asyncio.sleep(2)
+                continue
+            logger.error(f"HTTP/API Exception in generate_content: {type(e).__name__}: {str(e)}")
+            raise
+        
+        try:
+            result = response.text
+        except ValueError as e:
+            finish_reason = getattr(response.candidates[0], "finish_reason", "UNKNOWN") if response.candidates else "UNKNOWN"
+            if "MALFORMED_FUNCTION_CALL" in str(finish_reason):
+                if attempt < 2:
+                    logger.warning(f"Caught MALFORMED_FUNCTION_CALL. Retrying {attempt+1}/3...")
+                    await asyncio.sleep(2)
+                    continue
+            err_msg = f"Text extraction failed ({e}). Finish Reason: {finish_reason}. Raw prompt preview: {prompt[:100]}..."
+            logger.error(err_msg)
+            raise ValueError(err_msg)
 
-    if not result:
-        finish_reason = "UNKNOWN"
-        if response.candidates:
-            finish_reason = getattr(response.candidates[0], "finish_reason", "UNKNOWN")
-        err_msg = f"Empty string returned. Finish Reason: {finish_reason}. Raw prompt preview: {prompt[:100]}..."
-        logger.error(err_msg)
-        raise ValueError(err_msg)
+        if not result:
+            finish_reason = getattr(response.candidates[0], "finish_reason", "UNKNOWN") if response.candidates else "UNKNOWN"
+            if "MALFORMED_FUNCTION_CALL" in str(finish_reason):
+                if attempt < 2:
+                    logger.warning(f"Caught MALFORMED_FUNCTION_CALL on empty string. Retrying {attempt+1}/3...")
+                    await asyncio.sleep(2)
+                    continue
+            err_msg = f"Empty string returned. Finish Reason: {finish_reason}. Raw prompt preview: {prompt[:100]}..."
+            logger.error(err_msg)
+            raise ValueError(err_msg)
+            
+        # If we got here, we succeeded
+        break
 
     import time
     try:
