@@ -260,6 +260,13 @@ claims B threatened his family — duress defense. RICO conspiracy under \
 Doctrinal coverage: Conspiracy (Ch. 19), Pinkerton (Ch. 19), RICO (Ch. 20), \
 accomplice at scale (Ch. 18), duress (Ch. 21), felony murder (Ch. 14), \
 attempt/abandonment (Ch. 17), homicide grading (Ch. 12-13).\
+
+
+HARD EXCLUSIONS:
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
 """
 
 _MULTI_DEFENDANT_BRIEF = """\
@@ -270,6 +277,13 @@ conspiracy, Pinkerton reach-through, and attempt alongside substantive \
 homicide charges. Defense theories include self-defense and provocation. \
 Requires analysis of grading distinctions (murder vs. manslaughter) as \
 applied to each defendant's role and mental state.\
+
+
+HARD EXCLUSIONS:
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
 """
 
 _DUTY_OMISSION_BRIEF = """\
@@ -278,6 +292,13 @@ Duty and omission death scenario.
 A death resulting from failure to act. Tests causation, omission liability, \
 and duty-to-act doctrines. Explores accomplice by omission and the necessity \
 defense. Focuses on chapters covering actus reus, causation, and omissions.\
+
+
+HARD EXCLUSIONS:
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
 """
 
 _REGULATORY_BRIEF = """\
@@ -287,6 +308,13 @@ Strict liability versus mens rea requirements in a regulatory context. Tests \
 public welfare doctrine, mistake of fact and law defenses, and the boundaries \
 of criminal liability without traditional mens rea. Draws on punishment \
 theory, mens rea, and public welfare chapters.\
+
+
+HARD EXCLUSIONS:
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
 """
 
 _CHARGING_BRIEF = """\
@@ -295,6 +323,13 @@ Charging and plea scenario.
 Statutory interpretation and charge selection exercise. Tests understanding of \
 criminal code structure, charging decisions, and plea dynamics. Focuses on \
 legality, proportionality, and statutory interpretation chapters.\
+
+
+HARD EXCLUSIONS:
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
 """
 
 _SELF_DEFENSE_BRIEF = """\
@@ -304,6 +339,13 @@ Homicide or assault charge with self-defense claim. Tests proportionality, \
 duty to retreat, castle doctrine, and the reasonable belief standard. Explores \
 the intersection of self-defense with imperfect self-defense and heat of \
 passion. Focused on the self-defense chapter.\
+
+
+HARD EXCLUSIONS:
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
 """
 
 _GENERAL_KNOWLEDGE_BRIEF = """\
@@ -313,68 +355,155 @@ Drawn from foundational chapters on punishment theory, procedural justice, \
 and motivated cognition. Not framed as rulings — factual and theoretical \
 statements. Generated closer to the existing quiz format rather than the \
 scenario-based approach.\
-"""
 
-_CHEMISTRY_PROFESSOR_STEM_A_BRIEF = """\
-Single-stem scenario: The Chemistry Professor — First Sale Sequence.
-
-Inspiration: Breaking Bad (inspired-by only — not a direct plot lift).
-Budget: 10 questions, single-doctrine-per-question bias.
-
-FRAME: A tenured chemistry professor at a midwestern university receives a \
-terminal pancreatic cancer diagnosis. Desperate for money to fund experimental \
-treatment and leave something for a disabled child, the professor partners with \
-a former undergraduate student to synthesize a controlled substance in a mobile \
-lab. This single stem covers the first sale and a customer's overdose death.
-
-CHARACTERS (writer assigns names from the name pool — setting should differ \
-meaningfully from the inspiration source; different city, different cancer \
-specifics):
-- The chemistry professor (primary defendant): terminal diagnosis, financial \
-desperation, novice to criminal enterprise.
-- The ex-student partner: prior low-level drug record, provides the street \
-infrastructure.
-- The first customer (the victim): recreational user, overdoses on the \
-inaugural batch.
-
-REQUIRED PLOT BEATS:
-1. A contaminated or unusually-potent first batch is sold to a single customer.
-2. The customer uses the drug and begins to decompensate in the professor's \
-presence (or shortly after, in a way that tests proximate cause).
-3. The professor has a clear opportunity to call 911 and makes a choice.
-4. The customer dies; a charging decision must distinguish between felony-murder, \
-depraved-heart, and gross-negligence theories.
-
-DOCTRINAL TARGETS (test across these 10 Qs):
-- Ch 7 voluntary act / omissions (did the professor act or omit to summon help \
-when the customer collapsed?)
-- Ch 8 causation (but-for + proximate: intervening drug-use choices, \
-contributory conditions, foreseeability)
-- Ch 10 mistake of fact (professor's beliefs about batch purity)
-- Ch 11 strict/public-welfare liability (controlled-substance distribution \
-statutes)
-- Ch 13 unintentional homicide (depraved-heart / reckless-indifference murder \
-vs. gross-negligence manslaughter vs. ordinary negligence)
-- Ch 14 felony-murder predicate analysis (is drug distribution a qualifying \
-inherently-dangerous felony under the Ireland/merger analysis? agency vs. \
-proximate-cause FM theories)
-
-DISTRACTOR STRATEGY:
-- Students confuse depraved-heart (extreme recklessness as to human life) with \
-gross negligence (gross deviation from reasonable care) and with generic \
-recklessness. Offer plausible-sounding but doctrinally wrong mens-rea labels.
-- On FM, invite students to skip the merger/inherently-dangerous analysis.
-- On causation, tempt students with "the customer chose to use" as a \
-superseding cause when it isn't.
 
 HARD EXCLUSIONS:
 - No domestic violence or intimate-partner-violence content.
 - No rape or sexual-assault content.
 - No minors as customers or victims.
 - No direct plot lifts from the inspiration source.
-- No interstate/federal drug-conspiracy issues (keep jurisdiction single-state).
+"""
+
+
+
+_MOCK_THE_GENESIS_BRIEF = """\
+Single-stem scenario: The Genesis (The Cook & The Product)
+
+Inspiration: Breaking Bad (inspired-by only — not a direct plot lift).
+Budget: 15 questions, single-doctrine-per-question bias.
+
+FRAME: A tenured chemistry professor receives a terminal diagnosis. Desperate for money, the professor partners with a former student to synthesize a controlled substance. A miscalculation leads to an unintended chemical reaction injuring a lab assistant, and the professor inadvertently violates obscure public welfare regulations regarding chemical storage.
+
+CHARACTERS:
+- The Chemistry Professor: terminal diagnosis, financial desperation.
+- The Ex-Student: provides street infrastructure.
+- The Lab Assistant: injured by the chemical reaction.
+
+SUGGESTED PLOT DIRECTION:
+Focus on the act of synthesizing the product and the immediate fallout of the manufacturing process, rather than the distribution. Cover voluntary acts, causation of the injury, mistake of fact regarding the chemicals, and public welfare offenses regarding the unregistered lab.
+
+DOCTRINAL TARGETS:
+- Ch 7 voluntary act / omissions
+- Ch 8 causation (but-for + proximate)
+- Ch 10 mistake of fact / mistake of law
+- Ch 11 strict/public-welfare liability
+
+HARD EXCLUSIONS:
 - No RICO or enterprise analysis.
-- No accomplice-liability deep dive.\
+- No domestic violence or sexual assault.
+- No minors as victims.
+"""
+
+_MOCK_THE_DISTRIBUTION_RING_BRIEF = """\
+Single-stem scenario: The Distribution Ring
+
+Inspiration: Breaking Bad (inspired-by only — not a direct plot lift).
+Budget: 15 questions, single-doctrine-per-question bias.
+
+FRAME: The professor's former student takes over street-level distribution, recruiting three corner boys. The group forms a loose agreement to expand their territory. One boy attempts to sell to an undercover cop but abandons the effort. Another boy aids a rival gang in a robbery.
+
+CHARACTERS:
+- The Ex-Student: the ringleader of the street distribution.
+- Corner Boy 1: attempts a sale to a cop but gets cold feet.
+- Corner Boy 2: aids a rival gang.
+- Corner Boy 3: the lookout.
+
+SUGGESTED PLOT DIRECTION:
+Test the boundaries of inchoate crimes. Focus on the agreement to expand (Conspiracy), the abandoned sale (Attempt / Abandonment), and the assistance to the rival gang (Accomplice Liability).
+
+DOCTRINAL TARGETS:
+- Ch 17 Attempts (substantial step, abandonment, impossibility)
+- Ch 18 Accomplice Liability (mens rea, actus reus, natural and probable consequences)
+- Ch 19 Conspiracy (agreement, overt act, withdrawal, Pinkerton liability)
+
+HARD EXCLUSIONS:
+- No RICO or enterprise analysis.
+"""
+
+_MOCK_THE_EMPIRE_BUSINESS_BRIEF = """\
+Single-stem scenario: The Empire Business
+
+Inspiration: Breaking Bad / Better Call Saul (inspired-by only — not a direct plot lift).
+Budget: 15 questions, single-doctrine-per-question bias.
+
+FRAME: A massive, sophisticated logistics executive uses a chain of commercial businesses to distribute the product across state lines. The executive employs armed guards who mix guns with the drug trade. The operation operates as a highly structured enterprise.
+
+CHARACTERS:
+- The Executive: calculating logistics mastermind.
+- The Enforcer: uses firearms in furtherance of the trade.
+- The Front Manager: manages the legitimate business masking the operation.
+
+SUGGESTED PLOT DIRECTION:
+Focus on the sheer scale of the operation to test enterprise liability and federal drug/gun enhancements. The interaction between drug distribution (PWID) and firearm possession (924c) should be a focal point, alongside the structure of the RICO enterprise.
+
+DOCTRINAL TARGETS:
+- Ch 15 Drugs and Guns (constructive possession, PWID, 924c enhancements)
+- Ch 20 RICO and Enterprise Liability (pattern of racketeering, enterprise structure)
+
+
+HARD EXCLUSIONS:
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
+"""
+
+_MOCK_THE_BLOWBACK_BRIEF = """\
+Single-stem scenario: The Blowback (The Homicides)
+
+Inspiration: Breaking Bad (inspired-by only — not a direct plot lift).
+Budget: 15 questions, single-doctrine-per-question bias.
+
+FRAME: The violence of the drug trade escalates. A rival distributor is intentionally poisoned with premeditation. A customer suffers a fatal overdose due to a highly concentrated batch. During a botched drug robbery, a fleeing driver strikes and kills a pedestrian.
+
+CHARACTERS:
+- The Rival: poisoned intentionally.
+- The Customer: overdoses unintentionally.
+- The Driver: causes a fatal accident fleeing a felony.
+
+SUGGESTED PLOT DIRECTION:
+Test the full spectrum of homicide grading. Distinguish between premeditated murder, extreme emotional disturbance, depraved-heart murder, and felony murder. 
+
+DOCTRINAL TARGETS:
+- Ch 12 Intentional Homicide (premeditation, EED, provocation)
+- Ch 13 Unintentional Homicide (depraved-heart, gross negligence)
+- Ch 14 Felony Murder / Misdemeanor Manslaughter (inherently dangerous, merger, agency vs proximate cause)
+
+
+HARD EXCLUSIONS:
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
+"""
+
+_MOCK_THE_CORNERED_DEFENSES_BRIEF = """\
+Single-stem scenario: The Cornered Defenses
+
+Inspiration: Breaking Bad / Better Call Saul (inspired-by only — not a direct plot lift).
+Budget: 15 questions, single-doctrine-per-question bias.
+
+FRAME: Characters in the criminal underworld are backed into corners. A low-level cook is kidnapped and forced to synthesize drugs under threat of death. During a police raid, a traumatized bodyguard suffers a psychotic break. A dealer shoots a rival claiming a preemptive strike against an imminent threat.
+
+CHARACTERS:
+- The Kidnapped Cook: forced to work under duress.
+- The Traumatized Bodyguard: suffers a break from reality.
+- The Cornered Dealer: uses deadly force in alleged self-defense.
+
+SUGGESTED PLOT DIRECTION:
+Focus heavily on affirmative defenses. Test the limits of justification and excuse, particularly the imminence requirement in self-defense, the stringent standards for duress, and the cognitive/volitional prongs of the insanity defense.
+
+DOCTRINAL TARGETS:
+- Ch 21 Necessity and Duress
+- Ch 22 Self-Defense (imminence, duty to retreat, imperfect self-defense)
+- Ch 23 The Insanity Defense (M'Naghten, MPC, irresistible impulse)
+
+
+HARD EXCLUSIONS:
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
 """
 
 _MOCK_PROCEDURAL_BLOCK_BRIEF = """\
@@ -402,6 +531,182 @@ DOCTRINAL TARGETS (test across these Qs):
 - Ch 4 Juries (voir dire, Batson challenges, jury nullification, right to a jury trial)
 - Ch 5 Legislatures (statutory interpretation, ex post facto laws, executive pardon power limits)
 - Ch 6 Prosecutors (prosecutorial discretion, charging decisions, vindictive prosecution, plea bargaining bounds)
+
+
+HARD EXCLUSIONS:
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
+"""
+
+
+_FINAL_THE_GENESIS_BRIEF = """\
+Single-stem scenario: The Genesis (The Barksdale Stash)
+
+Inspiration: The Wire (inspired-by only — not a direct plot lift).
+Budget: 15 questions, single-doctrine-per-question bias.
+
+FRAME: An underground drug organization operates out of low-income high-rises. A mid-level manager stores a highly volatile cutting agent in an unregistered warehouse, inadvertently violating strict public welfare laws. When a worker mistakenly handles the substance, a chemical fire breaks out, causing severe injuries.
+
+CHARACTERS:
+- The Manager: runs the stash house logistics.
+- The Worker: injured by the volatile chemicals.
+- The Inspector: investigates the unregistered site.
+
+SUGGESTED PLOT DIRECTION:
+Focus on the act of storing and mixing the product. Cover voluntary acts, causation of the fire/injury, mistake of fact regarding the chemical's properties, and public welfare offenses regarding the unregistered warehouse.
+
+DOCTRINAL TARGETS:
+- Ch 7 voluntary act / omissions
+- Ch 8 causation (but-for + proximate)
+- Ch 10 mistake of fact / mistake of law
+- Ch 11 strict/public-welfare liability
+
+HARD EXCLUSIONS:
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
+"""
+
+_FINAL_THE_DISTRIBUTION_RING_BRIEF = """\
+Single-stem scenario: The Distribution Ring (The Pit)
+
+Inspiration: The Wire (inspired-by only — not a direct plot lift).
+Budget: 15 questions, single-doctrine-per-question bias.
+
+FRAME: A crew of street-level dealers runs a sophisticated hand-to-hand distribution network in a courtyard. They form an agreement to defend their turf from a rival crew. One dealer attempts a drive-by shooting but misses entirely. Another acts as a lookout during a stash house robbery.
+
+CHARACTERS:
+- The Crew Chief: organizes the turf defense.
+- The Shooter: attempts the drive-by.
+- The Lookout: aids the stash house robbery.
+
+SUGGESTED PLOT DIRECTION:
+Test the boundaries of inchoate crimes. Focus on the agreement to defend the turf (Conspiracy), the missed drive-by (Attempt / Impossibility), and the lookout's liability for the robbery (Accomplice Liability).
+
+DOCTRINAL TARGETS:
+- Ch 17 Attempts (substantial step, abandonment, impossibility)
+- Ch 18 Accomplice Liability (mens rea, actus reus, natural and probable consequences)
+- Ch 19 Conspiracy (agreement, overt act, withdrawal, Pinkerton liability)
+
+HARD EXCLUSIONS:
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
+"""
+
+_FINAL_THE_EMPIRE_BUSINESS_BRIEF = """\
+Single-stem scenario: The Empire Business (The DiMeo Family Waste Management)
+
+Inspiration: The Sopranos (inspired-by only — not a direct plot lift).
+Budget: 15 questions, single-doctrine-per-question bias.
+
+FRAME: A powerful organized crime family uses a waste management business as a front for their illicit activities. The family engages in a pattern of racketeering, including extortion and large-scale interstate drug distribution. The family employs "made men" who carry unregistered firearms while protecting the operations.
+
+CHARACTERS:
+- The Boss: the head of the crime family.
+- The Capo: manages the street-level crews and extortion.
+- The Front Manager: runs the legitimate waste management business.
+
+SUGGESTED PLOT DIRECTION:
+Focus on enterprise liability and federal enhancements. The interaction between massive drug distribution/extortion and firearm possession (924c) should be a focal point, alongside the structure and predicates of the RICO enterprise.
+
+DOCTRINAL TARGETS:
+- Ch 15 Drugs and Guns (constructive possession, PWID, 924c enhancements)
+- Ch 20 RICO and Enterprise Liability (pattern of racketeering, enterprise structure)
+
+HARD EXCLUSIONS:
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
+"""
+
+_FINAL_THE_BLOWBACK_BRIEF = """\
+Single-stem scenario: The Blowback (The Whacked Informant)
+
+Inspiration: The Sopranos (inspired-by only — not a direct plot lift).
+Budget: 15 questions, single-doctrine-per-question bias.
+
+FRAME: Paranoia sweeps the crime family as they suspect an informant in their ranks. A Capo lures the suspected informant onto a boat and intentionally shoots him (premeditated). Meanwhile, a low-level associate recklessly disposes of toxic waste in a residential area, resulting in a civilian's death. Finally, during a botched hijacking of a commercial truck, a fleeing associate's vehicle strikes and kills a bystander.
+
+CHARACTERS:
+- The Capo: executes the suspected informant.
+- The Associate: reckless with toxic waste.
+- The Hijacker: causes the fatal crash while fleeing.
+
+SUGGESTED PLOT DIRECTION:
+Test homicide grading. Distinguish between premeditated murder, depraved-heart murder, and felony murder during the flight from a felony.
+
+DOCTRINAL TARGETS:
+- Ch 12 Intentional Homicide (premeditation, EED, provocation)
+- Ch 13 Unintentional Homicide (depraved-heart, gross negligence)
+- Ch 14 Felony Murder / Misdemeanor Manslaughter (inherently dangerous, merger, agency vs proximate cause)
+
+HARD EXCLUSIONS:
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
+"""
+
+_FINAL_PROCEDURAL_BLOCK_BRIEF = """\
+Single-stem scenario: The Procedural Block (The Made Man's Trial)
+
+Inspiration: The Sopranos (inspired-by only — not a direct plot lift).
+Budget: 15 questions, single-doctrine-per-question bias.
+
+FRAME: A high-ranking "made man" in the crime family is finally facing a federal racketeering trial. The family's corrupt attorney orchestrates a campaign to intimidate the jury. An ambitious prosecutor pushes for aggressive plea deals from underlings. A corrupt local politician attempts to influence the judge's evidentiary rulings to protect the family.
+
+CHARACTERS:
+- The Prosecutor: aggressive charging and plea bargaining.
+- The Defense Attorney: attempts to taint the jury pool.
+- The Politician: exerts corrupt legislative or executive influence.
+
+SUGGESTED PLOT DIRECTION:
+Explore the boundaries of institutional law. Some acts are shielded by prosecutorial/legislative immunity, while others cross the line into corruption or violate constitutional rights (e.g., Batson challenges, vindictive prosecution, jury tampering).
+
+DOCTRINAL TARGETS:
+- Ch 4 Juries (voir dire, Batson challenges, jury nullification, right to a jury trial)
+- Ch 5 Legislatures (statutory interpretation, ex post facto laws, executive pardon power limits)
+- Ch 6 Prosecutors (prosecutorial discretion, charging decisions, vindictive prosecution, plea bargaining bounds)
+
+HARD EXCLUSIONS:
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
+"""
+
+_FINAL_THE_CORNERED_DEFENSES_BRIEF = """\
+Single-stem scenario: The Cornered Defenses (The Cornered Enforcer)
+
+Inspiration: The Wire (inspired-by only — not a direct plot lift).
+Budget: 15 questions, single-doctrine-per-question bias.
+
+FRAME: The pressure of a massive federal investigation causes the criminal organization to fracture. A low-level courier is forced at gunpoint to transport a final shipment (Duress). An isolated enforcer, suffering from extreme paranoia and delusions, fires on an undercover officer (Insanity). A rival claims self-defense after preemptively shooting a hitman who was stalking him.
+
+CHARACTERS:
+- The Courier: forced to transport drugs.
+- The Paranoid Enforcer: suffers a psychological break.
+- The Target: preemptively shoots a stalker.
+
+SUGGESTED PLOT DIRECTION:
+Focus on affirmative defenses. Test the imminence requirement in self-defense, the stringent standards for duress, and the cognitive/volitional prongs of the insanity defense.
+
+DOCTRINAL TARGETS:
+- Ch 21 Necessity and Duress
+- Ch 22 Self-Defense (imminence, duty to retreat, imperfect self-defense)
+- Ch 23 The Insanity Defense (M'Naghten, MPC, irresistible impulse)
+
+HARD EXCLUSIONS:
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
 """
 
 SCENARIO_MAP: dict[str, ScenarioBrief] = {
@@ -441,8 +746,8 @@ SCENARIO_MAP: dict[str, ScenarioBrief] = {
         substantive_base="Causation, omission liability",
         inchoate_layers=["accomplice-by-omission"],
         defenses=["necessity"],
-        chapters=[7, 8, 9, 21],
-        estimated_questions=(8, 10),
+        chapters=[7, 8, 9, 21, 18],
+        estimated_questions=(10, 15),
         stem_count=1,
         brief_text=_DUTY_OMISSION_BRIEF,
         statutes="",
@@ -454,7 +759,7 @@ SCENARIO_MAP: dict[str, ScenarioBrief] = {
         inchoate_layers=[],
         defenses=["mistake-of-fact", "mistake-of-law"],
         chapters=[1, 10, 11],
-        estimated_questions=(6, 8),
+        estimated_questions=(10, 15),
         stem_count=1,
         brief_text=_REGULATORY_BRIEF,
         statutes="",
@@ -466,7 +771,7 @@ SCENARIO_MAP: dict[str, ScenarioBrief] = {
         inchoate_layers=[],
         defenses=[],
         chapters=[4, 5, 6],
-        estimated_questions=(6, 8),
+        estimated_questions=(10, 15),
         stem_count=1,
         brief_text=_CHARGING_BRIEF,
         statutes="",
@@ -478,7 +783,7 @@ SCENARIO_MAP: dict[str, ScenarioBrief] = {
         inchoate_layers=[],
         defenses=["self-defense", "proportionality", "retreat"],
         chapters=[22],
-        estimated_questions=(6, 8),
+        estimated_questions=(10, 15),
         stem_count=1,
         brief_text=_SELF_DEFENSE_BRIEF,
         statutes="",
@@ -490,26 +795,63 @@ SCENARIO_MAP: dict[str, ScenarioBrief] = {
         inchoate_layers=[],
         defenses=[],
         chapters=[1, 2, 3],
-        estimated_questions=(10, 12),
+        estimated_questions=(15, 20),
         stem_count=0,
         brief_text=_GENERAL_KNOWLEDGE_BRIEF,
         statutes="",
     ),
-    "chemistry_professor_stem_a": ScenarioBrief(
-        name="chemistry_professor_stem_a",
-        title="The Chemistry Professor — First Sale",
-        substantive_base="Unintentional homicide via drug distribution",
+
+    "mock_the_genesis": ScenarioBrief(
+        name="mock_the_genesis",
+        title="Mock: The Genesis (The Cook & The Product)",
+        substantive_base="Actus Reus, Causation, Strict Liability",
         inchoate_layers=[],
-        defenses=[],
-        chapters=[7, 8, 10, 11, 13, 14],
-        estimated_questions=(10, 10),
+        defenses=["mistake-of-fact", "mistake-of-law"],
+        chapters=[7, 8, 10, 11],
+        estimated_questions=(10, 15),
         stem_count=1,
-        brief_text=_CHEMISTRY_PROFESSOR_STEM_A_BRIEF,
+        brief_text=_MOCK_THE_GENESIS_BRIEF,
+        statutes="",
+    ),
+    "mock_the_distribution_ring": ScenarioBrief(
+        name="mock_the_distribution_ring",
+        title="Mock: The Distribution Ring",
+        substantive_base="Inchoate Crimes",
+        inchoate_layers=["attempt", "accomplice", "conspiracy", "pinkerton"],
+        defenses=["abandonment"],
+        chapters=[17, 18, 19],
+        estimated_questions=(10, 15),
+        stem_count=1,
+        brief_text=_MOCK_THE_DISTRIBUTION_RING_BRIEF,
+        statutes="",
+    ),
+    "mock_the_empire_business": ScenarioBrief(
+        name="mock_the_empire_business",
+        title="Mock: The Empire Business",
+        substantive_base="Drugs, Guns, and RICO",
+        inchoate_layers=["rico", "rico-conspiracy"],
+        defenses=[],
+        chapters=[15, 20],
+        estimated_questions=(10, 15),
+        stem_count=1,
+        brief_text=_MOCK_THE_EMPIRE_BUSINESS_BRIEF,
+        statutes="",
+    ),
+    "mock_the_blowback": ScenarioBrief(
+        name="mock_the_blowback",
+        title="Mock: The Blowback (Homicides)",
+        substantive_base="Homicide Grading",
+        inchoate_layers=[],
+        defenses=["provocation", "eed"],
+        chapters=[12, 13, 14],
+        estimated_questions=(10, 15),
+        stem_count=1,
+        brief_text=_MOCK_THE_BLOWBACK_BRIEF,
         statutes="",
     ),
     "mock_procedural_block": ScenarioBrief(
         name="mock_procedural_block",
-        title="Mock Procedural Block (Jury, Legislatures, Prosecutors)",
+        title="Mock: The Fixer's Defense (Procedural Block)",
         substantive_base="Institutional law",
         inchoate_layers=[],
         defenses=[],
@@ -519,40 +861,89 @@ SCENARIO_MAP: dict[str, ScenarioBrief] = {
         brief_text=_MOCK_PROCEDURAL_BLOCK_BRIEF,
         statutes="",
     ),
-    "mock_defense_layer": ScenarioBrief(
-        name="mock_defense_layer",
-        title="Chemistry Professor Defense Layer — Self-Defense + Insanity",
-        substantive_base="Self-defense and insanity doctrine",
+    "mock_the_cornered_defenses": ScenarioBrief(
+        name="mock_the_cornered_defenses",
+        title="Mock: The Cornered Defenses",
+        substantive_base="Defenses",
         inchoate_layers=[],
-        defenses=["self-defense", "insanity"],
-        chapters=[22, 23],
-        estimated_questions=(10, 10),
+        defenses=["necessity", "duress", "self-defense", "insanity"],
+        chapters=[21, 22, 23],
+        estimated_questions=(10, 15),
         stem_count=1,
-        brief_text=_load_brief("mock", "06-defense-layer"),
+        brief_text=_MOCK_THE_CORNERED_DEFENSES_BRIEF,
+        statutes="",
+    ),
+    "final_the_genesis": ScenarioBrief(
+        name="final_the_genesis",
+        title="Final: The Genesis (The Barksdale Stash)",
+        substantive_base="Actus Reus, Causation, Strict Liability",
+        inchoate_layers=[],
+        defenses=["mistake-of-fact", "mistake-of-law"],
+        chapters=[7, 8, 10, 11],
+        estimated_questions=(10, 15),
+        stem_count=1,
+        brief_text=_FINAL_THE_GENESIS_BRIEF,
+        statutes="",
+    ),
+    "final_the_distribution_ring": ScenarioBrief(
+        name="final_the_distribution_ring",
+        title="Final: The Distribution Ring",
+        substantive_base="Inchoate Crimes",
+        inchoate_layers=["attempt", "accomplice", "conspiracy", "pinkerton"],
+        defenses=["abandonment"],
+        chapters=[17, 18, 19],
+        estimated_questions=(10, 15),
+        stem_count=1,
+        brief_text=_FINAL_THE_DISTRIBUTION_RING_BRIEF,
+        statutes="",
+    ),
+    "final_the_empire_business": ScenarioBrief(
+        name="final_the_empire_business",
+        title="Final: The Empire Business",
+        substantive_base="Drugs, Guns, and RICO",
+        inchoate_layers=["rico", "rico-conspiracy"],
+        defenses=[],
+        chapters=[15, 20],
+        estimated_questions=(10, 15),
+        stem_count=1,
+        brief_text=_FINAL_THE_EMPIRE_BUSINESS_BRIEF,
+        statutes="",
+    ),
+    "final_the_blowback": ScenarioBrief(
+        name="final_the_blowback",
+        title="Final: The Blowback (Homicides)",
+        substantive_base="Homicide Grading",
+        inchoate_layers=[],
+        defenses=["provocation", "eed"],
+        chapters=[12, 13, 14],
+        estimated_questions=(10, 15),
+        stem_count=1,
+        brief_text=_FINAL_THE_BLOWBACK_BRIEF,
         statutes="",
     ),
     "final_procedural_block": ScenarioBrief(
         name="final_procedural_block",
-        title="Final Procedural Block (Jury, Legislatures, Prosecutors)",
+        title="Final: The Procedural Block",
         substantive_base="Institutional law",
         inchoate_layers=[],
         defenses=[],
         chapters=[4, 5, 6],
-        estimated_questions=(6, 8),
-        stem_count=0,
-        brief_text=_load_brief("final", "05-procedural-block"),
-        statutes="",
-    ),
-    "final_defense_layer": ScenarioBrief(
-        name="final_defense_layer",
-        title="Corner-Crew Defense Layer — Self-Defense + Insanity",
-        substantive_base="Self-defense and insanity doctrine",
-        inchoate_layers=[],
-        defenses=["self-defense", "insanity"],
-        chapters=[22, 23],
-        estimated_questions=(10, 10),
+        estimated_questions=(10, 15),
         stem_count=1,
-        brief_text=_load_brief("final", "06-defense-layer"),
+        brief_text=_FINAL_PROCEDURAL_BLOCK_BRIEF,
         statutes="",
     ),
+    "final_the_cornered_defenses": ScenarioBrief(
+        name="final_the_cornered_defenses",
+        title="Final: The Cornered Defenses",
+        substantive_base="Defenses",
+        inchoate_layers=[],
+        defenses=["necessity", "duress", "self-defense", "insanity"],
+        chapters=[21, 22, 23],
+        estimated_questions=(10, 15),
+        stem_count=1,
+        brief_text=_FINAL_THE_CORNERED_DEFENSES_BRIEF,
+        statutes="",
+    ),
+
 }
