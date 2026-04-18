@@ -1,3 +1,7 @@
+### Stem 1: Investigation Memo 1
+
+Welcome to the U.S. Attorney's Office, Major Crimes Division. The State racketeering case against Marcus Vance just imploded in spectacular fashion, and we are evaluating federal charges. First, look at Vance's underlying liability and the warehouse manager's exposure for the journalist's death. Then, assess the defense attorney's involvement in the drug enterprise and the bribery of the trial judge. Finally, evaluate the civil rights implications of the jury verdict for the co-defendant.
+
 **Q1.** As prosecutors review the initial loading of the unmarked crates, they must establish Vance's liability for the drugs. Assume that Vance never physically handled the crates himself. Under the doctrine of constructive possession, how should Vance's liability for the fentanyl crates be evaluated?
 
 (a) Vance possesses the fentanyl because his remote ability to reroute the trucks establishes his power and intent to exercise dominion over the contraband. <!-- correct -->
@@ -177,6 +181,10 @@
 **Grounding:** Peña-Rodriguez v. Colorado, exception to the no-impeachment rule for clear statements of racial animus.
 
 ---
+
+### Stem 2: Investigation Memo 2
+
+The situation has escalated. The State Governor just stepped in to try and bail Vance out of his remaining state exposure, and Vance tried to burn the evidence using a new employee. We need to evaluate the executive corruption angle and the liability of the warehouse worker who almost torched the documents.
 
 **Q11.** The State Governor has stepped in to try and bail Vance out of his state exposure. Prosecutors want to charge Governor Hayes with honest services fraud based on his meeting with the State Attorney General. Applying the McDonnell standard, does Hayes's conduct constitute an official act?
 

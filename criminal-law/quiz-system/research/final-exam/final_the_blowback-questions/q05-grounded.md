@@ -1,17 +1,17 @@
-**Q5.** Assume Benny is charged with depraved heart murder in a jurisdiction applying Maryland's *Beckwitt* standard. Is the charge appropriate based on the facts?
+**Q5.** Assume the jurisdiction has adopted California's SB 1437 standard. Is Penelope guilty of felony murder for Wendy's death?
 
-(a) Yes, because any violation of environmental safety warning labels automatically constitutes a depraved indifference to human life.
-(b) No, because his conduct, while reckless, was not reasonably likely or certain to cause death given the rain. <!-- correct -->
-(c) Yes, because his acknowledgment of the risk to his friend proves he acted with the specific intent to kill.
-(d) No, because depraved heart murder strictly requires that the defendant direct their dangerous conduct at a specific victim.
-(e) Yes, because the reasonable person would have known weather is unpredictable, making the victim's death entirely foreseeable.
+(a) Yes, because she directly caused the death by instructing Quinn to flee, establishing the actual malice necessary for first-degree murder regardless of the underlying predicate felony.
+(b) Yes, because she participated in the underlying crime and her instruction to "Drive! Go, go, go!" demonstrates reckless indifference to human life during the high-speed flight. <!-- correct -->
+(c) No, because she expressly instructed Quinn before the crime that there would be "no weapons, no violence," completely negating any inference of subjective intent to kill.
+(d) No, because the actual killer was Quinn, and SB 1437 strictly limits felony murder liability to the individual whose physical actions directly cause the victim's fatal injuries.
+(e) No, because the California SB 1437 reform categorically requires an accomplice to have a specific intent to kill whenever the victim is an innocent bystander rather than a police officer.
 
 **Answer:** (b)
 
-**Explanation:** Under *Beckwitt*, depraved heart murder requires conduct that is "reasonably likely, if not certain, to cause death." While Benny was grossly reckless, the pouring rain and lack of people in the area meant his conduct was not *certain or highly likely* to kill, keeping it below the murder threshold. Thus, (b) is correct. (a) is wrong because regulatory violations do not automatically elevate manslaughter to murder. (c) is wrong because depraved heart murder is unintentional; acknowledging risk does not prove specific intent to kill. (d) is wrong because depraved heart murder frequently applies to generalized risks directed at the public, not just specific victims. (e) is wrong because mere foreseeability establishes negligence or recklessness (manslaughter), not the extreme likelihood required for murder.
+**Explanation:** (b) is correct because under SB 1437, an accomplice who does not kill can be liable for felony murder if they were a "major participant" who acted with "reckless indifference to human life." Penelope's presence, sourcing of equipment, and explicit instruction to flee recklessly in a residential zone satisfy both elements. (a) is wrong because Penelope did not act with actual malice or personally kill the victim. (c) is wrong because her initial instruction to avoid violence is overridden by her subsequent command to drive recklessly, which demonstrates the requisite indifference. (d) is wrong because SB 1437 explicitly retains liability for non-killers who meet the major participant and reckless indifference standards. (e) is wrong because SB 1437 does not categorically require a specific intent to kill when a bystander dies; reckless indifference suffices.
 
-**Tags:** chapters: [13], topics: [depraved heart murder, extreme indifference], difficulty: hard, cognitive: application
+**Tags:** chapters: [14], topics: [felony-murder, accomplice-liability, major-participant], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 13 (likely-if-not-certain-standard, *Beckwitt v. State*)
+**Grounding:** Chapter 14 (Tison v. Arizona; California SB 1437; Reckless Indifference)
 
-<!-- grounding: GROUNDED — likely-if-not-certain-standard, Ch 13, Refinement `likely-if-not-certain-standard`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — California SB 1437, Ch 14, Refinement `sb-1437-major-participant-reckless-indifference`. Rule paraphrased accurately. -->

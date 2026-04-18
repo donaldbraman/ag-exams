@@ -1,17 +1,17 @@
-**Q8.** Assume Dom's actions at the dock satisfied the actus reus for attempt. Will he successfully assert the defense of abandonment under the Model Penal Code?
+**Q8.** Assume the jurisdiction follows the constructive recklessness standard from *Commonwealth v. Welansky*. How does Oscar's belief that the rain would dilute the chemicals affect his liability?
 
-(a) Yes, because he completely withdrew from the scene before causing any property damage or physical harm to anyone.
-(b) No, because a renunciation motivated by the sudden fear of imminent police apprehension is not legally voluntary. <!-- correct -->
-(c) Yes, because his rapid decision to abandon the plan constitutes a complete repudiation of his criminal lifestyle.
-(d) No, because the MPC firmly rejects the abandonment defense for any attempt that has crossed the substantial step.
-(e) Yes, because he had not yet committed the last proximate act required to complete the underlying target offense.
+(a) It fully insulates him from a manslaughter conviction, because genuine subjective ignorance of a risk defeats the mens rea of recklessness regardless of how unreasonable the belief is.
+(b) It reduces his potential liability to simple negligence, because his failure to consult the city sewer maps constitutes an ordinary deviation from standard commercial care.
+(c) It is legally irrelevant to manslaughter liability, because *Welansky* holds that an intentional act resulting in death automatically qualifies as involuntary manslaughter.
+(d) It does not protect him, because if an ordinary person knowing the solvent emitted flammable fumes would perceive the grave danger, Oscar is treated as acting recklessly. <!-- correct -->
+(e) It elevates his liability to intentional murder, because proceeding with the dumping despite knowing about the flammable fumes constitutes the functional equivalent of premeditation.
 
-**Answer:** (b)
+**Answer:** (d)
 
-**Explanation:** The MPC recognizes the defense of abandonment (renunciation), but strictly requires that the abandonment be complete and voluntary. Renunciation is legally involuntary if it is motivated by circumstances increasing the probability of detection or apprehension (such as seeing a police cruiser). Thus, (b) is correct. (a) is wrong because avoiding harm does not make the withdrawal voluntary if motivated by police presence. (c) is wrong because fleeing cops is not a repudiation of criminal purpose, but a tactical retreat. (d) is wrong because the MPC *does* recognize the abandonment defense, specifically to incentivize backing out after a substantial step. (e) is wrong because the last proximate act is an outdated common law attempt standard, not the MPC standard for abandonment.
+**Explanation:** (d) is correct because *Welansky* establishes a "constructive" standard for recklessness. Even if Oscar subjectively believed the rain would make the chemicals safe, he is liable if a reasonable person who knew the solvent emitted flammable fumes would have perceived the grave danger. (a) is wrong because constructive recklessness explicitly overrides genuine subjective ignorance if a reasonable person would have recognized the risk. (b) is wrong because constructive awareness of a grave danger satisfies the higher standard of wanton or reckless conduct, not merely ordinary negligence. (c) is wrong because *Welansky* still requires the conduct to be wantonly or recklessly dangerous, not merely intentional. (e) is wrong because constructive recklessness establishes involuntary manslaughter, not intentional or premeditated murder.
 
-**Tags:** chapters: [17], topics: [attempt, abandonment, MPC], difficulty: medium, cognitive: application
+**Tags:** chapters: [13], topics: [unintentional-homicide, involuntary-manslaughter, constructive-recklessness], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 17 (abandonment-mpc)
+**Grounding:** Chapter 13 (Commonwealth v. Welansky; Objective Standard for Recklessness)
 
-<!-- grounding: GROUNDED — Abandonment (MPC), Ch 17, Refinement `abandonment-mpc`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Commonwealth v. Welansky (Constructive Recklessness), Ch 13, Refinement `constructive-recklessness`. Rule paraphrased accurately. -->

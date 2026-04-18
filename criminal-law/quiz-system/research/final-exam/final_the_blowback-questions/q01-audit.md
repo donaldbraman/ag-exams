@@ -1,26 +1,27 @@
-**Q1.** Assume Carmine is charged with first-degree premeditated murder in a majority jurisdiction following the Pennsylvania rule. He argues the killing was a spontaneous reaction to Paulie reaching for his jacket, not a premeditated act. How should the court rule on the premeditation element?
+**Q1.** Are Nora, Oscar, and Penelope guilty of conspiracy to manufacture and distribute methamphetamine?
 
-(a) Satisfied, because the split-second conscious decision to shoot is legally sufficient for premeditation. <!-- correct -->
-(b) Unsatisfied, because he did not possess the specific intent to kill when he first arranged the meeting.
-(c) Unsatisfied, because the law requires at least some meaningful duration of time to reflect on the killing.
-(d) Satisfied, because luring someone to a private location creates an irrebuttable presumption of malice.
-(e) Unsatisfied, because the sudden insult provoked an automatic reflex rather than a deliberate, willful act.
+(a) Yes, because Nora's demand for a 40% share of the profits establishes her stake in the venture, satisfying the purpose requirement even if she deliberately avoided knowing the operational details. <!-- correct -->
+(b) Yes, because Oscar and Penelope took substantial steps toward manufacturing, which automatically imputes an agreement to any financial backer regardless of the backer's actual intent.
+(c) No, because Nora explicitly stated she did not want to know how the chemicals were sourced or moved, negating the required meeting of the minds for a bilateral agreement.
+(d) No, because an agreement to provide funding and receive a return on investment creates a mere commercial relationship rather than the shared criminal purpose required for conspiracy.
+(e) No, because a conspiracy requires all parties to agree on the specific means and methods of the underlying offense, which Nora explicitly refused to do.
 
 **Answer:** (a)
 
-**Explanation:** Under the Pennsylvania rule (*Commonwealth v. Carroll*), "no time is too short" to form premeditation; the instantaneous, conscious decision to kill fully satisfies the element. Thus, (a) is correct. (b) is wrong because premeditation does not need to be formed far in advance. (c) is wrong because it describes a minority approach that requires actual temporal reflection, which the Pennsylvania rule explicitly rejects. (d) is wrong because while luring is evidence, it does not create an irrebuttable presumption, and Carmine lacked intent at that point anyway. (e) is wrong because under the *Carroll* standard, even rapid, impulsive intentional killings qualify as premeditated as long as the decision was conscious.
+**Explanation:** (a) is correct because under the standard for conspiracy, having a financial stake in the venture (such as a 40% cut of the profits) establishes the specific purpose to promote the illegal agreement, even if the funder deliberately avoids operational details. (b) is wrong because substantial steps by others do not automatically impute the agreement to a backer without proof of intent. (c) is wrong because avoiding logistical knowledge does not negate the core agreement to fund and profit from the enterprise. (d) is wrong because a return on investment tied directly to the illegal proceeds demonstrates a shared criminal purpose, not a mere commercial relationship. (e) is wrong because co-conspirators do not need to agree on every specific means or method to form a valid conspiracy.
 
-**Tags:** chapters: [12], topics: [intentional homicide, premeditation, pennsylvania rule], difficulty: easy, cognitive: application
+**Tags:** chapters: [10], topics: [conspiracy, agreement, stake-in-the-venture], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 12 (no-time-too-short, *Commonwealth v. Carroll*)
+**Grounding:** General Criminal Law Doctrine (People v. Lauria; Stake in the Venture)
 
 <!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: fail (The stem is completely missing the factual setup. Options B, D, and E reference "arranged the meeting," "luring someone to a private location," and "the sudden insult," none of which appear in the stem. The explanation also relies on these ghost facts.)
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Restore the missing facts to the stem (e.g., "Carmine arranged a meeting, luring Paulie to a private location. Following a sudden insult, Paulie reached for his jacket and Carmine instantly shot him."). Also consider changing "How should the court rule" to "Is the element legally satisfied?", as premeditation is a factual question for the jury rather than a ruling by the court.
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: fail. The fact pattern is completely missing from the prompt. The question leaps straight to the call ("Are Nora, Oscar...") and expects students to infer the facts backward from the answer choices. 
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: Insert the missing fact pattern before the call of the question, detailing Nora's financial backing, her 40% profit demand, her explicit refusal to know operational details, and Oscar and Penelope's roles in manufacturing the methamphetamine.
 -->

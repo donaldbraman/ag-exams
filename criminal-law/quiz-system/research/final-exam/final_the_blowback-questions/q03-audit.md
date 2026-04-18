@@ -1,26 +1,27 @@
-**Q3.** Assume Carmine operates in a jurisdiction that recognizes the imperfect self-defense doctrine. What is his homicide liability for shooting Paulie?
+**Q3.** Assume Oscar was entirely focused on the warehouse and did not know about Penelope's plan to steal from the depot. Under the *Pinkerton* doctrine, is Oscar liable for Penelope's theft?
 
-(a) Murder, because his belief was unreasonable, rendering the traditional self-defense justification entirely unavailable to him.
-(b) Voluntary manslaughter, because his genuine but unreasonable belief in the need for force negates his malice. <!-- correct -->
-(c) Acquittal, because the law evaluates self-defense subjectively and defers to the defendant's honest assessment of danger.
-(d) Involuntary manslaughter, because firing a weapon based on a misperception of a cigar constitutes criminal negligence.
-(e) Second-degree murder, because he initiated the confrontation on the boat, making him the initial aggressor.
+(a) Yes, because the theft of processing equipment was a reasonably foreseeable consequence of the methamphetamine-manufacturing conspiracy and was committed in furtherance of it. <!-- correct -->
+(b) Yes, because any member of a conspiracy is strictly liable for all criminal offenses committed by any co-conspirator, regardless of whether the offenses advance the conspiratorial goals.
+(c) No, because Oscar did not provide any assistance, encouragement, or funding specifically directed toward the supply depot theft, thereby negating the accomplice actus reus.
+(d) No, because Oscar lacked the specific intent to deprive the supply depot of its equipment, which is a required element for the substantive target offense of theft.
+(e) No, because the *Pinkerton* doctrine only extends liability to inherently dangerous felonies, and stealing commercial equipment does not pose a direct threat to human life.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Imperfect self-defense applies when a defendant genuinely but unreasonably believes they face an imminent threat of death or serious bodily harm. This honest belief negates the malice element of murder, mitigating the offense to voluntary manslaughter. Thus, (b) is correct. (a) is wrong because while the unreasonableness defeats *perfect* self-defense, imperfect self-defense specifically steps in to prevent a murder conviction. (c) is wrong because full acquittal requires the belief to be objectively reasonable. (d) is wrong because intentional killings based on unreasonable beliefs are treated as voluntary, not involuntary, manslaughter under this doctrine. (e) is wrong because merely initiating a confrontation (without deadly force) does not automatically strip imperfect self-defense, and the core doctrine precisely addresses the subjective belief.
+**Explanation:** (a) is correct because under the *Pinkerton* doctrine, a conspirator is liable for the substantive offenses committed by co-conspirators if those crimes are reasonably foreseeable and committed in furtherance of the conspiracy. Stealing processing equipment is a highly foreseeable means of advancing a methamphetamine-manufacturing scheme. (b) is wrong because *Pinkerton* liability is not absolute; it requires the substantive crime to be foreseeable and in furtherance of the shared goal. (c) is wrong because *Pinkerton* operates independently of traditional accomplice liability and does not require specific assistance for the target offense. (d) is wrong because the doctrine imputes the co-conspirator's specific intent to the defendant. (e) is wrong because *Pinkerton* applies to any foreseeable substantive offense, not just inherently dangerous felonies.
 
-**Tags:** chapters: [22, 12], topics: [imperfect self-defense, voluntary manslaughter], difficulty: easy, cognitive: application
+**Tags:** chapters: [10, 11], topics: [conspiracy, pinkerton-liability], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22 (imperfect-self-defense)
+**Grounding:** General Criminal Law Doctrine (Pinkerton v. United States; Foreseeability)
 
 <!-- audit: MUST FIX
-<check 1>: pass (the legal consequence of imperfect self-defense is correctly stated as voluntary manslaughter).
-<check 2>: pass (though technically unanswerable due to check 4, the distractors themselves are standard).
-<check 3>: pass (the explanation accurately reflects the doctrine as mapped).
-<check 4>: FAIL. The stem is missing its entire fact pattern. The options reference "shooting Paulie", "misperception of a cigar", and "initiated the confrontation on the boat". Without the actual fact pattern describing these events, a student cannot verify if Carmine actually had a genuine belief, whether he was an initial aggressor, or what the exact circumstances were. This appears to be a severed question from a multi-part scenario.
-<check 5>: pass (jurisdiction is explicitly stipulated to one recognizing the doctrine).
-<check 6>: pass (no excluded topic bleed).
-<check 7>: pass (imperfect-self-defense is correctly grounded in Chapter 22).
-Recommended fix: Integrate the missing fact pattern into the stem (e.g., "Carmine confronts Paulie on a boat. When Paulie suddenly pulls a cigar from his pocket, Carmine genuinely but unreasonably believes Paulie is drawing a weapon and shoots him...").
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: missing facts. The question stem refers to Oscar, Penelope, a warehouse, and a depot, but completely lacks the factual setup required to answer the question (e.g., that they were actually in a conspiracy, that the goal was manufacturing methamphetamine, or that processing equipment was stolen). Because the master fact pattern is missing, students are forced to deduce the missing facts from the correct answer itself.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: Either append the master fact pattern to the stem or rewrite the question as a self-contained hypothetical (e.g., "Oscar and Penelope conspired to manufacture methamphetamine. While Oscar focused on running their warehouse, Penelope stole processing equipment from a supply depot without Oscar's knowledge...").
 -->

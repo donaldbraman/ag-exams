@@ -1,22 +1,22 @@
-**Q6.** The prosecution charges Benny with conspiracy based on the meeting where the hijacking was proposed. Benny argues he never explicitly agreed to the plan. How should the court rule on the agreement element?
+**Q6.** Assume the jurisdiction applies the traditional misdemeanor manslaughter rule with a proximate cause limitation. Is Quinn guilty of involuntary manslaughter for Wendy's death?
 
-(a) Acquitted, because conspiracy doctrine strictly requires an explicit verbal or written agreement to satisfy the actus reus.
-(b) Guilty, because his silent nod constitutes an affirmative act from which an agreement can be legally inferred. <!-- correct -->
-(c) Acquitted, because his subsequent complete lack of participation in the detailed planning completely nullifies the initial agreement.
-(d) Guilty, because mere presence at a syndicate meeting creates strict liability for any criminal plots discussed there.
-(e) Acquitted, because the hijacking was abandoned before completion, meaning the conspiratorial agreement never ripened into an offense.
+(a) Yes, because speeding in a residential zone is an unlawful act that proximately caused Wendy's death, thereby substituting for the mental state typically required for manslaughter. <!-- correct -->
+(b) Yes, because Quinn's subjective awareness that he was driving 85 mph in a 25 mph zone establishes the extreme indifference to human life required for depraved heart murder.
+(c) No, because traffic infractions are malum prohibitum offenses that can never serve as predicates for misdemeanor manslaughter without independent proof of actual malice.
+(d) No, because the proximate cause of the death was Wendy stepping into the crosswalk while Quinn was fleeing, which constitutes an independent superseding intervening act.
+(e) No, because the traditional misdemeanor manslaughter rule requires the underlying offense to be a violent felony, not merely a regulatory violation of the local traffic code.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Conspiracy requires an agreement, but courts allow the agreement to be inferred from conduct. A silent nod in response to a pitch is an affirmative expression of assent that satisfies the act of agreement. Thus, (b) is correct. (a) is wrong because explicit verbal or written contracts are not required; tacit agreements suffice. (c) is wrong because the crime of conspiracy is complete upon the agreement (and overt act, if required); subsequent failure to plan does not retroactively negate the formation of the agreement. (d) is wrong because mere presence without affirmative participation or agreement is insufficient for liability. (e) is wrong because conspiracy is an inchoate offense that is punishable even if the target crime is never completed or attempted.
+**Explanation:** (a) is correct because the traditional misdemeanor manslaughter rule allows a conviction when an unlawful act (like a traffic misdemeanor) proximately causes death. Speeding and running a red light are unlawful acts directly connected to the fatal collision. (b) is wrong because Quinn's conduct is being evaluated for involuntary manslaughter under the constructive rule, not depraved heart murder. (c) is wrong because malum prohibitum traffic offenses can serve as predicates if the unlawful aspect itself directly causes the danger and resulting death. (d) is wrong because a pedestrian using a crosswalk is a highly foreseeable event, not an independent superseding cause that severs liability. (e) is wrong because the rule specifically applies to non-felony offenses, not violent felonies.
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement inference], difficulty: easy, cognitive: application
+**Tags:** chapters: [14], topics: [misdemeanor-manslaughter, proximate-cause-limitation], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 19 (agreement-inference)
+**Grounding:** Chapter 14 (Commonwealth v. Williams; Proximate Cause Limitation)
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass (Dom's subsequent actions satisfy the overt act requirement for the entire conspiracy, keeping the "Guilty" conclusion legally sound even in jurisdictions requiring an overt act).
+2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: Consider slightly tweaking the call of the question from "How should the court rule on the agreement element?" to "Is Benny likely to be convicted of conspiracy?" so it perfectly aligns with the "Guilty / Acquitted" option stems.
+Recommended fix: n/a
 -->

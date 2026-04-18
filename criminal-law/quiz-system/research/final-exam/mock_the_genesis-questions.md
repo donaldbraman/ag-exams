@@ -1,3 +1,7 @@
+### Stem 1: Investigation Memo 1
+
+Assume we are prosecuting Albert, Benny, and Dan. I need you to break down the viability of the charges stemming from the lab explosion and the chemical storage violations. Specifically, analyze Albert's mental state defenses, whether Dan crosses the line into accomplice/conspirator liability via his pricing, and how the doctor's subsequent medical error impacts the homicide grading and causation theories against Albert.
+
 **Q1.** Assume Albert and Benny are charged with conspiracy to manufacture Blue-X. Benny argues that because he was only handling street distribution while Albert was solely responsible for synthesis, he did not agree to manufacture the drug. Which is the most likely legal conclusion regarding the agreement element?
 
 (a) Sufficient to establish the agreement element, because their verbal agreement to split the profits from the joint enterprise satisfies the bilateral agreement requirement for the entire manufacturing scheme. <!-- correct -->
@@ -195,6 +199,10 @@
 **Grounding:** Pinkerton v. United States; Chapter 19
 
 ---
+
+### Stem 2: Investigation Memo 2
+
+Albert is hospitalized, so we are now pivoting to Benny's liability. Benny killed a rival dealer at a stash house and is claiming self-defense, and he is raising a duress defense for a subsequent drug delivery. I need an analysis of whether we can establish his constructive possession of the stash house drugs, whether his self-defense claim holds up given his available escape route, and whether his duress defense survives given how he ended up in that situation.
 
 **Q12.** Assume we are prosecuting Benny regarding the stash house incident. Benny is charged with possession of the Blue-X found in Kev's floor safe. Benny argues he did not live there and the drugs were not on his person. Which is the most likely legal conclusion?
 

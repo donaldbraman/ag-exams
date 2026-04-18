@@ -1,33 +1,36 @@
-**Q9.** Leo is charged as an accomplice to Dom's attempted hijacking. Leo argues that he should be acquitted because he merely wanted to collect the $500 taxi fare, not steal electronics. 
+**Q9.** Are Oscar and Penelope in constructive possession of the 20 kilograms of methamphetamine?
 
-(a) Guilty everywhere, because providing a getaway car with explicit knowledge of the crime legally establishes the required purpose.
-(b) Acquitted in a purpose jurisdiction if the jury determines he only intended to earn the fare, not facilitate the crime. <!-- correct -->
-(c) Guilty everywhere, because his physical presence at the scene satisfies the actus reus, rendering his subjective mental state irrelevant.
-(d) Acquitted everywhere, because his explicit refusal to participate in the planning stages legally negates his complicity in the crime.
-(e) Guilty everywhere, because accepting the flat fee makes him a co-conspirator strictly liable for the principal's substantive offenses.
+(a) Only Oscar is in constructive possession, because his name is the sole name on the stash house lease, granting him exclusive legal authority over the premises.
+(b) Only Penelope is in constructive possession, because she was physically present in the adjacent bedroom while Oscar was entirely absent from the property during the raid.
+(c) Both are in constructive possession, because Oscar had power over the premises as the lessee and Penelope's personal items on the table indicate her power and intent to control the drugs. <!-- correct -->
+(d) Neither is in constructive possession, because neither individual was in direct physical contact with the methamphetamine at the exact moment the police investigators entered the house.
+(e) Neither is in constructive possession, because the presence of multiple people with access to the living room destroys the exclusivity required to establish criminal dominion and control.
 
-**Answer:** (b)
+**Answer:** (c)
 
-**Explanation:** Accomplice liability traditionally requires that the defendant act with the *purpose* to promote or facilitate the target offense. If Leo only intended to provide a ride for a flat fee and was indifferent to the hijacking's success, he lacks the required purpose. Thus, (b) is correct. (a) is wrong because mere knowledge does not automatically establish purpose in traditional jurisdictions. (c) is wrong because accomplice liability requires a culpable mental state; actus reus alone is insufficient. (d) is wrong because planning is not strictly required if a defendant ultimately assists with the required mental state. (e) is wrong because receiving a flat fee does not automatically establish a conspiratorial agreement to commit the substantive offense.
+**Explanation:** (c) is correct because constructive possession requires the power and intent to exercise dominion and control over the contraband. Oscar's lease and ledgers establish his control, while Penelope's personal items placed directly next to the drugs establish hers. Joint constructive possession is legally permissible. (a) is wrong because an exclusive lease does not prevent another occupant from simultaneously exercising constructive possession. (b) is wrong because physical presence at the time of the raid is not required; Oscar's power to control the premises suffices. (d) is wrong because constructive possession inherently covers situations where the defendants lack direct physical contact. (e) is wrong because exclusivity is not required; multiple individuals can jointly possess the same contraband.
 
-**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [11], topics: [constructive-possession, dominion-and-control], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 18 (accomplice-purpose-vs-knowledge)
+**Grounding:** General Criminal Law Doctrine (Constructive Possession; Joint Control)
 
-<!-- argument-pass: CLEAN
-(a) Argument-for: Under jurisdictions influenced by *Backun* or *Fountain*, knowingly providing goods or services with knowledge of their criminal use can sometimes suffice for liability. A student might argue that providing a getaway car is such a crucial contribution to a hijacking that courts "everywhere" legally elevate this explicit knowledge to purpose as a matter of law, making him guilty.
-(b) Argument-for: Under the majority rule and the Model Penal Code (e.g., *United States v. Peoni*), accomplice liability requires that the defendant act with the conscious object or purpose to promote or facilitate the target offense. If Leo only intended to collect his fare and was indifferent to the hijacking's success, he lacks the necessary purpose and must be acquitted in a purpose jurisdiction.
-(c) Argument-for: A student might argue that driving a perpetrator to and from a crime scene provides such overwhelming physical assistance (actus reus) that the law automatically infers guilt. Under this strict view, once the actus reus is satisfied by his physical presence and direct aid, his subjective mental state (wanting only the fare) becomes legally irrelevant.
-(d) Argument-for: Accomplice liability often requires an affirmative intent to aid formed prior to or during the crime. A student could argue that if a driver explicitly refuses to participate in the planning stages, this operates as a legal shield or withdrawal that categorically negates complicity, guaranteeing acquittal everywhere regardless of his later actions.
-(e) Argument-for: Under the *Pinkerton* doctrine, conspirators are liable for foreseeable substantive crimes of their co-conspirators. A student might argue that accepting a $500 flat fee to drive a hijacker inherently constitutes a tacit agreement to the enterprise, making Leo a co-conspirator and thus strictly liable for the hijacking everywhere.
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student could argue that Oscar's status as the sole lessee creates an irrebuttable legal presumption of exclusive dominion over the premises. Under this logic, Penelope's mere transient presence as a guest without a property interest is insufficient to usurp or share Oscar's legal authority over the stash house and its contents.
+(b) Argument-for: A student could argue that criminal possession requires immediate power and intent to control. Oscar's complete physical absence from the property severs his nexus of immediate control, leaving Penelope—who is physically present in an adjacent room—as the sole individual capable of exercising real-time dominion over the living room.
+(c) Argument-for: Constructive possession explicitly permits joint possession and does not require actual physical touch; it merely requires power and intent to control. Oscar's leasehold establishes his overarching power over the premises, and Penelope's personal effects situated right next to the drugs demonstrate her simultaneous intent and power to control them.
+(d) Argument-for: A student could argue a formalistic view of the *actus reus* of possession, where the timeline of the raid is strictly scrutinized. Because neither party was touching the drugs at the exact moment of police entry, one could argue that both actual possession fails and the high burden of constructive possession isn't met due to their spatial distance.
+(e) Argument-for: This distractor taps into the idea that shared access creates reasonable doubt regarding individual dominion. A student could assert that because multiple people can access the living room, it is legally impossible to attribute exclusive dominion to any single person without actual physical possession, thus defeating constructive possession entirely.
 
-Head-to-head: Option (b) correctly applies the core distinction in accomplice mens rea: a mere provider of services (like a taxi driver) who acts only to secure standard compensation lacks the "purpose" to facilitate the crime (*Peoni*). The distractors are all firmly falsified by explicit, absolute legal claims. Option (a) falsely claims that knowledge "legally establishes the required purpose" everywhere, overriding the specific intent requirement of purpose jurisdictions. Option (c) falsely claims that actus reus renders subjective mental state "irrelevant," which ignores that accomplice liability fundamentally requires mens rea. Option (d) falsely claims that refusing to plan "legally negates" complicity, as one can easily become an accomplice by aiding on the spot without prior planning. Option (e) falsely claims that a flat fee makes one a co-conspirator "strictly liable," when in fact, a flat fee normally negates the "stake in the venture" needed to prove a conspiratorial agreement.
+Head-to-head: Option (c) is cleanly the best answer because it correctly applies the black-letter doctrine of joint constructive possession to both actors based on their respective ties to the drugs. Distractor (e) is an excellent, well-crafted distractor because it pivots on an explicit, falsifiable legal claim ("exclusivity required"). However, distractors (b) and (d) fall short of the close-call standard; rather than stating explicitly false legal rules locked with absolute words, they merely cite factual circumstances (absence, lack of direct contact) and implicitly suggest these facts preclude possession. Distractor (a) is slightly better but still relies more on implication than an absolute locked rule. 
 
 Falsifiable claim per distractor:
-- (a): "Guilty everywhere, because providing a getaway car with explicit knowledge of the crime legally establishes the required purpose" — wrong because many jurisdictions (and the MPC) require purpose, meaning explicit knowledge does not categorically establish purpose everywhere.
-- (c): "rendering his subjective mental state irrelevant" — wrong because accomplice liability requires a culpable mens rea; the actus reus alone is never legally sufficient.
-- (d): "explicit refusal to participate in the planning stages legally negates his complicity" — wrong because one can be an accomplice by aiding during the crime's commission without any involvement in the planning phase.
-- (e): "accepting the flat fee makes him a co-conspirator strictly liable" — wrong because accepting a flat fee typically indicates a lack of a stake in the venture, which defeats the specific intent required for a conspiratorial agreement.
+- (a): "granting him exclusive legal authority over the premises" — wrong because being the sole lessee does not grant exclusive authority that legally precludes another's joint constructive possession.
+- (b): "because she was physically present... while Oscar was entirely absent" — implicitly wrong because it assumes physical absence defeats constructive possession, but it lacks an explicitly stated, locked false legal rule.
+- (d): "because neither individual was in direct physical contact" — implicitly wrong because it assumes direct physical contact is necessary, but it fails to assert this as a categorical legal rule.
+- (e): "destroys the exclusivity required to establish criminal dominion and control" — explicitly wrong because joint constructive possession inherently eliminates any "exclusivity" requirement.
 
-Recommended fix: none
+Recommended fix: Update (a), (b), and (d) to lock their implied false rules with absolute language. 
+Edit (a) to: "...lease, automatically granting him exclusive possessory rights that preclude others."
+Edit (b) to: "...bedroom, and constructive possession categorically requires physical presence at the property during a raid."
+Edit (d) to: "...entered the house, and criminal possession always requires direct physical contact."
 -->
