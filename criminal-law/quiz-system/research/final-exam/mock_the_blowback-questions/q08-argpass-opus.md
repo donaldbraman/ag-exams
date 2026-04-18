@@ -1,4 +1,4 @@
-**Q8.** Assume Sloane is charged with conspiracy to distribute fentanyl. Assume she proves she subjectively viewed herself as merely a chemist providing a neutral service. Under the *Lauria* standard for inferring purpose, does her compensation structure establish the requisite intent?
+**Q8.** Assume Sloane is charged with conspiracy to distribute fentanyl. Assume she establishes she viewed herself as merely a chemist providing a neutral service. Under the *Lauria* standard for inferring purpose, does her compensation structure establish the requisite intent?
 
 (a) Yes, because taking a 20% cut of the profits inherently demonstrates a direct financial stake in the illicit venture's ongoing success. <!-- correct -->
 (b) Yes, because any individual who supplies materials for illegal goods is held strictly liable for the network's subsequent distribution.

@@ -178,7 +178,7 @@
 
 ---
 
-**Q11.** Assume Benny is charged with the unpermitted ether storage violation committed by Albert. If Benny proves he had no knowledge of how much ether Albert was storing and never visited the lab, which is the most likely legal conclusion regarding Benny's liability?
+**Q11.** Assume Benny is charged with the unpermitted ether storage violation committed by Albert. If Benny establishes he had no knowledge of how much ether Albert was storing and never visited the lab, which is the most likely legal conclusion regarding Benny's liability?
 
 (a) Not guilty under Pinkerton because Benny's role was strictly limited to downstream street distribution rather than upstream chemical procurement.
 (b) Guilty under Pinkerton because strict liability public welfare offenses are the only crimes that automatically extend to all unindicted co-conspirators.

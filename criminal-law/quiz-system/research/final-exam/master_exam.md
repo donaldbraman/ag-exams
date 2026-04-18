@@ -222,7 +222,7 @@ e. Not guilty of attempt because attempt liability requires the actual productio
 
 ---
 
-**Q11.** Assume Benny is charged with the unpermitted ether storage violation committed by Albert. If Benny proves he had no knowledge of how much ether Albert was storing and never visited the lab, which is the most likely legal conclusion regarding Benny's liability?
+**Q11.** Assume Benny is charged with the unpermitted ether storage violation committed by Albert. If Benny establishes he had no knowledge of how much ether Albert was storing and never visited the lab, which is the most likely legal conclusion regarding Benny's liability?
 
 a. Not guilty under Pinkerton because Benny's role was strictly limited to downstream street distribution rather than upstream chemical procurement.
 b. Guilty under Pinkerton because strict liability public welfare offenses are the only crimes that automatically extend to all unindicted co-conspirators.
@@ -662,7 +662,7 @@ e. Conviction, because relying on a state probation officer's statement is funda
 
 ---
 
-**Q35.** Assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. If Locke proves he genuinely and reasonably believed the crates contained black-market oxycodone, is his sentencing argument valid?
+**Q35.** Assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. If Locke establishes he genuinely and reasonably believed the crates contained black-market oxycodone, is his sentencing argument valid?
 
 a. Yes, because the mistake of fact doctrine allows defendants to be sentenced solely for the lesser crime they subjectively intended to commit.
 b. No, because knowledge of the substance's general nature as a controlled drug is sufficient, and the weight-based minimum applies strictly to the actual substance. <!-- correct -->
@@ -782,7 +782,7 @@ e. He is guilty under the MPC but not the Common Law, because his acts strongly 
 
 ---
 
-**Q42.** Assume the jurisdiction applies the MPC. If Locke proves he texted his crew "I'm out" and threw his ski mask away before the robbery occurred, will his affirmative defense of abandonment succeed?
+**Q42.** Assume the jurisdiction applies the MPC. If Locke establishes he texted his crew "I'm out" and threw his ski mask away before the robbery occurred, will his affirmative defense of abandonment succeed?
 
 a. Yes, because the MPC requires courts to dismiss any attempt charge if the defendant physically destroys the criminal instrumentalities before the police arrive.
 b. No, because the abandonment defense is strictly unavailable for any crime involving an organized conspiracy or the participation of multiple co-defendants.
@@ -949,7 +949,7 @@ e. Not guilty, because the Model Penal Code rejects the misdemeanor manslaughter
 
 "Now that we've mapped the homicides, we need to secure the underlying drug, conspiracy, and attempt charges. We have financial evidence linking Sloane to the operation, and drug evidence from Trey's arrest. Analyze the conspiracy and accomplice liability for Sloane, attempt liability for Trey, and whether we can charge the whole network under RICO."
 
-**Q50.** Assume Sloane is charged with conspiracy to distribute fentanyl. Assume she proves she subjectively viewed herself as merely a chemist providing a neutral service. Under the *Lauria* standard for inferring purpose, does her compensation structure establish the requisite intent?
+**Q50.** Assume Sloane is charged with conspiracy to distribute fentanyl. Assume she establishes she viewed herself as merely a chemist providing a neutral service. Under the *Lauria* standard for inferring purpose, does her compensation structure establish the requisite intent?
 
 a. Yes, because taking a 20% cut of the profits inherently demonstrates a direct financial stake in the illicit venture's ongoing success. <!-- correct -->
 b. No, because receiving a percentage of overall profits is legally indistinguishable from charging a flat, standardized fee for her labor.

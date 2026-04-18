@@ -1,4 +1,4 @@
-**Q12.** Assume the jurisdiction applies the MPC. If Locke proves he texted his crew "I'm out" and threw his ski mask away before the robbery occurred, will his affirmative defense of abandonment succeed?
+**Q12.** Assume the jurisdiction applies the MPC. If Locke establishes he texted his crew "I'm out" and threw his ski mask away before the robbery occurred, will his affirmative defense of abandonment succeed?
 
 (a) Yes, because texting "I'm out" and discarding his mask definitively proves he permanently and completely renounced his criminal purpose without external pressure.
 (b) Yes, because the MPC requires courts to dismiss any attempt charge if the defendant physically destroys the criminal instrumentalities before the police arrive.

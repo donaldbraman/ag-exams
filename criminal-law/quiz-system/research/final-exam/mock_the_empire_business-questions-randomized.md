@@ -70,7 +70,7 @@
 
 ---
 
-**Q5.** Assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. If Locke proves he genuinely and reasonably believed the crates contained black-market oxycodone, is his sentencing argument valid?
+**Q5.** Assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. If Locke establishes he genuinely and reasonably believed the crates contained black-market oxycodone, is his sentencing argument valid?
 
 (a) Yes, because the mistake of fact doctrine allows defendants to be sentenced solely for the lesser crime they subjectively intended to commit.
 (b) No, because knowledge of the substance's general nature as a controlled drug is sufficient, and the weight-based minimum applies strictly to the actual substance. <!-- correct -->
@@ -204,7 +204,7 @@ We executed a search warrant on the Apex warehouse last night. We found Locke's 
 
 ---
 
-**Q12.** Assume the jurisdiction applies the MPC. If Locke proves he texted his crew "I'm out" and threw his ski mask away before the robbery occurred, will his affirmative defense of abandonment succeed?
+**Q12.** Assume the jurisdiction applies the MPC. If Locke establishes he texted his crew "I'm out" and threw his ski mask away before the robbery occurred, will his affirmative defense of abandonment succeed?
 
 (a) Yes, because the MPC requires courts to dismiss any attempt charge if the defendant physically destroys the criminal instrumentalities before the police arrive.
 (b) No, because the abandonment defense is strictly unavailable for any crime involving an organized conspiracy or the participation of multiple co-defendants.
