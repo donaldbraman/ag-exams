@@ -34,7 +34,7 @@
 
 ---
 
-**Q3.** Assume Albert is charged with theft for taking the centrifuge, an offense requiring the specific intent to permanently deprive another of their property. He argues he genuinely believed the centrifuge was his own. Which is the most likely legal conclusion?
+**Q3.** Assume Albert is charged with theft for taking the centrifuge, an offense requiring the specific intent to permanently deprive another of their property. He argues he genuinely believed the centrifuge was his own. If he proves his mistaken belief is genuine, which is the most likely legal conclusion?
 
 (a) Guilty of theft because his broader illicit intent to manufacture narcotics transfers to any property crimes committed during the preparation phase.
 (b) Guilty of theft because mistakes of fact must be both honest and objectively reasonable, and taking an item from a different lab is per se unreasonable.

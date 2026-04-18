@@ -1,4 +1,4 @@
-**Q3.** Assume Albert is charged with theft for taking the centrifuge, an offense requiring the specific intent to permanently deprive another of their property. He argues he genuinely believed the centrifuge was his own. Which is the most likely legal conclusion?
+**Q3.** Assume Albert is charged with theft for taking the centrifuge, an offense requiring the specific intent to permanently deprive another of their property. He argues he genuinely believed the centrifuge was his own. If he proves his mistaken belief is genuine, which is the most likely legal conclusion?
 
 (a) Not guilty of theft because his actual, honest belief that he owned the centrifuge directly negates the mens rea required for the element of taking the property of another. <!-- correct -->
 (b) Not guilty of theft because the university environment implies a general consent to share equipment among tenured professors conducting official research.
