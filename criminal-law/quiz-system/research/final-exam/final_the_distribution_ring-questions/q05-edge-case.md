@@ -1,22 +1,22 @@
-**Q5.** Assume the jurisdiction follows traditional accomplice liability rules. Is Trey liable as an accomplice to the robbery of the stash house?
+**Q5.** (Moving to Thursday's events) Trey is charged as an accomplice to the stash house robbery. He argues he is not guilty because he only idled in the car, did not help Silas inside, and his actions were not a but-for cause of the robbery's success. Is Trey guilty as an accomplice?
 
-(a) Yes, because his act of idling the getaway car facilitated the robbery, and he acted with the purpose that the underlying robbery succeed.
-(b) No, because his act was not a but-for cause of the robbery; Silas could have robbed the stash house and fled without his assistance.
-(c) Yes, because mere presence at the scene of a crime is sufficient for accomplice liability whenever the defendant has a financial stake in the venture.
-(d) No, because he only agreed to drive and did not physically enter the stash house or possess the specific intent to physically take the drugs.
-(e) Yes, but his punishment must be categorically graded one level lower than Silas's because his participation was merely secondary.
+(a) No, because mere presence at the scene of a crime, even with prior knowledge, is insufficient to establish the actus reus of accomplice liability.
+(b) No, because his passive idling did not materially contribute to Silas's successful theft of the cocaine.
+(c) Yes, because his agreement to drive the getaway vehicle constitutes a substantial step toward the completion of the robbery.
+(d) Yes, because providing a getaway option, however minor, constitutes facilitation, and accomplice liability does not require but-for causation. <!-- correct -->
+(e) Yes, because under the naturally and probable consequences doctrine, all individuals present at a crime scene are strictly liable for the principal's offenses.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** (a) is correct. Accomplice liability requires an actus reus of assistance (however minimal) and the mens rea of purpose to facilitate the underlying crime. Trey's agreement to drive the getaway car in exchange for payment satisfies both. (b) is incorrect because accomplice liability does not require but-for causation (*State v. Tally*). (c) is incorrect because mere presence is insufficient; it must be combined with encouragement or assistance. (d) is incorrect because an accomplice need not physically commit the crime's actus reus, only share the requisite intent and provide assistance. (e) is incorrect because under the equal-punishment rule, accomplices are graded equally to principals, collapsing genuine culpability differences.
+**Explanation:** The actus reus of accomplice liability is extremely low—any assistance or encouragement is sufficient, and it does not need to be a but-for cause of the crime's success. By agreeing to serve as the getaway driver and idling in the alley, Trey facilitated the robbery. (a) mischaracterizes Trey's role; he was a hired getaway driver, not a "merely present" bystander. (b) imposes a but-for causation requirement that does not exist in complicity doctrine. (c) analyzes the problem under attempt doctrine (substantial step) rather than accomplice liability. (e) drastically overstates the natural and probable consequences doctrine, which is not a strict liability rule for bystanders.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, actus-reus, equal-punishment], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice-liability, ar-low-threshold], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 18: Accomplice Liability > Elements > Prima Facie Elements > Actus Reus (Facilitation Without But-For Causation)
+**Grounding:** Chapter 18 - Facilitation Without But-For Causation
 
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The facts establish that Trey either thought the plan was to "sneak in... while the guard is asleep" (Fact 5) or was just told to "idle in the alley" (Fact 6). Neither scenario gives Trey the requisite *purpose* to facilitate a *robbery* (which requires the use or threat of force); his mens rea is limited to theft/burglary. Because Option (a) states he acted "with the purpose that the underlying robbery succeed," Option (a) is factually false and legally incorrect under traditional accomplice liability. 
-2. Cross-Doctrine Clashes: Pass
-3. Cross-Question Spoilers: Pass
-Recommended fix: Change the prompt and Option (a) to ask about "theft" or "burglary" instead of "robbery" (e.g., "accomplice to the theft of the stash house"), OR modify the facts in the scenario so Trey is aware force will be used (e.g., Marcus tells Trey, "Silas is going to stick up the guard and grab the bags") so Trey actually possesses the intent for robbery.
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
 -->

@@ -1,17 +1,17 @@
-**Q10.** Prosecutors wish to charge Marcus under RICO. Applying the Supreme Court's *Boyle* test for an "associated-in-fact" enterprise, does "The Pit" qualify?
+**Q10.** Assume Marcus is charged under RICO. He argues that "The Pit" was not an enterprise because it lacked a formal hierarchical structure and merely consisted of individuals who occasionally sold drugs on the same corners. Under the Supreme Court's Boyle test, does "The Pit" qualify as an association-in-fact enterprise?
 
-(a) Yes, because the organization has a purpose, relationships among those associated with it, and sufficient longevity to permit the pursuit of its purpose. <!-- correct -->
-(b) No, because the group lacks an ascertainable structure distinct from the pattern of racketeering activity itself.
-(c) Yes, but only because Marcus formally employed his subordinates and paid them a structured, flat weekly percentage.
-(d) No, because the operations were entirely local, failing to satisfy the interstate commerce nexus required for a RICO enterprise.
-(e) Yes, because any conspiracy to commit more than two predicate acts automatically constitutes an associated-in-fact enterprise.
+(a) Yes, because it had a purpose (selling drugs), relationships among those associated (Marcus assigning shifts to subordinates), and sufficient longevity to pursue its purpose. <!-- correct -->
+(b) Yes, because any conspiracy that successfully completes more than two predicate acts automatically constitutes a RICO enterprise.
+(c) No, because an association-in-fact enterprise must possess an ascertainable structure distinct from the pattern of racketeering activity itself.
+(d) No, because the subordinates were paid a flat percentage rather than sharing equally in the profits of the enterprise.
+(e) No, because the enterprise must be an ongoing legal entity, such as a corporation or registered business, that is corrupted by criminal acts.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. Under *Boyle v. United States*, an associated-in-fact enterprise requires only a purpose, relationships among those associated with the enterprise, and sufficient longevity to pursue that purpose. The Pit's turf defense, shifts, and ledger easily satisfy this low bar. (b) is incorrect because *Boyle* explicitly held that the enterprise does *not* need a structure separate from the pattern of racketeering itself. (c) is incorrect because formal employment or structured pay is not required under *Boyle*; informal associations suffice. (d) is incorrect because drug distribution inherently satisfies the minimal interstate commerce nexus required by RICO. (e) is incorrect because while the bar is low, an enterprise is still conceptually distinct from the pattern of predicate acts.
+**Explanation:** Under the Supreme Court's Boyle test, an association-in-fact enterprise requires only three structural features: a shared purpose, relationships among the associates, and sufficient longevity to permit them to pursue the enterprise's purpose. "The Pit" meets this with its shifts, ledgers, and coordinated activities. (b) conflates the pattern of racketeering element with the enterprise element. (c) reflects the pre-Boyle circuit split, which required an ascertainable structure distinct from the racketeering activity. (d) misstates the law, as profit-sharing methods do not defeat enterprise status. (e) conflates legal enterprises (like corporations) with association-in-fact enterprises.
 
-**Tags:** chapters: [20], topics: [rico, enterprise, associated-in-fact], difficulty: medium, cognitive: application
+**Tags:** chapters: [20], topics: [rico, boyle-three-part], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 20: RICO and Enterprise Liability > Refinements > Boyle Three-Part Test
+**Grounding:** Chapter 20 - Boyle Three-Part Test
 
-<!-- grounding: GROUNDED — Boyle test, Ch 20, Refinement `boyle-three-part`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Boyle three-part test, Ch 20, Refinement `boyle-three-part`. Rule paraphrased accurately. -->

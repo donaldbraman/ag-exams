@@ -1,213 +1,213 @@
-**Q1.** The prosecution charges Marcus and Darius with conspiracy to distribute narcotics. They argue that the mandatory weekly meetings to discuss operations and logistics establish the required agreement. Marcus's defense moves for a directed verdict, arguing there is no direct evidence or explicit verbal agreement to distribute drugs. How should the court rule?
+**Q1.** Assume Marcus is charged with conspiracy to commit assault. He argues that no conspiracy formed because Darius and Trey never spoke or verbally agreed to his order. Is this a valid defense?
 
-(a) Deny the motion, because an explicit verbal agreement is not required when coordinated conduct strongly implies a mutual understanding to operate a criminal enterprise. <!-- correct -->
-(b) Deny the motion, because mere attendance at weekly meetings is sufficient to establish Pinkerton vicarious liability for the group's actions regardless of any agreement.
-(c) Grant the motion, because traditional conspiracy doctrine requires direct evidence of a bilateral agreement to distribute narcotics.
-(d) Grant the motion, because the prosecution must prove that Marcus and Darius specifically intended to commit an overt act in furtherance of the distribution.
-(e) Grant the motion, because participating in organizational meetings establishes only knowledge of the enterprise, not the specific purpose required for a conspiracy.
-
-**Answer:** (a)
-
-**Explanation:** The correct answer is (a) because conspiratorial agreements are rarely proven with direct evidence; courts regularly infer agreement from coordinated conduct that lacks a plausible innocent explanation. Here, mandatory weekly operations meetings for a drug distribution network satisfy this standard. Option (b) fails because Pinkerton is a doctrine of vicarious liability for substantive crimes, not a substitute for proving the underlying conspiratorial agreement. Option (c) fails because direct evidence is virtually never required; circumstantial evidence suffices. Option (d) fails because while an overt act is often required, the specific intent attaches to the target offense, not the overt act itself. Option (e) fails because organizing mandatory logistical meetings for a crew goes beyond mere knowledge and demonstrates a shared purpose to further the enterprise.
-
-**Tags:** chapters: [19], topics: [conspiracy, agreement-inference], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 19, Agreement Inference; Dan Markel case study.
-
----
-
-**Q2.** Assume Darius is charged with attempted murder in a traditional common law jurisdiction applying the dangerous proximity test. He argues that his conduct did not cross the threshold into a criminal attempt. How is the court likely to rule on Darius's attempt liability?
-
-(a) Guilty, because driving armed through the victim's neighborhood corroborates his criminal purpose and constitutes a substantial step toward the commission of murder.
-(b) Guilty, because his confession to police unequivocally established his specific intent to kill Vance, which is the only requirement for an attempted homicide.
-(c) Not guilty, because he never located Vance, meaning his actions did not come dangerously near to completing the murder before police timely intervened. <!-- correct -->
-(d) Not guilty, because he possessed a valid impossibility defense since Vance's vehicle was never actually in the neighborhood while Darius was searching.
-(e) Not guilty, because he voluntarily abandoned his criminal purpose the moment he was pulled over by the police and confessed to his true intentions.
-
-**Answer:** (c)
-
-**Explanation:** The correct answer is (c) because under the traditional dangerous proximity test, a defendant must come "dangerously close" to completing the crime. Courts focus on what remains to be done. Because Darius never even located his target, he was still in the preparatory phase under this strict standard (like the defendants in *People v. Rizzo*). Option (a) fails because it applies the MPC's "substantial step" test, not the common law proximity test requested. Option (b) fails because attempt requires both specific intent *and* a sufficient actus reus; intent alone is never enough. Option (d) fails because this is not a legal impossibility, and factual impossibility is not a defense to attempt. Option (e) fails because abandonment requires a complete and voluntary renunciation, which is not satisfied by being intercepted by the police.
-
-**Tags:** chapters: [17], topics: [attempt, actus-reus-proximity-test, actus-reus-substantial-step], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 17, Actus Reus - Proximity Test; People v. Rizzo.
-
----
-
-**Q3.** Assume Darius is prosecuted in a Model Penal Code (MPC) jurisdiction. He is convicted of attempted murder. At sentencing, Darius argues that because the murder was incomplete, he should categorically face a lower sentencing range than if he had successfully killed Vance. How should the court rule on his sentencing argument?
-
-(a) Reject the argument, because the MPC punishes attempts at the same grade as the completed offense, reflecting the view that his culpability is identical. <!-- correct -->
-(b) Reject the argument, because attempted murder is a structurally inchoate offense that always carries a mandatory life sentence under the categorical approach.
-(c) Accept the argument, because the MPC mandates a one-grade reduction for all attempts to reflect the lesser social harm caused by the incomplete act.
-(d) Accept the argument, because the MPC applies the dangerous proximity test, which inherently grades uncompleted acts lower than fully consummated target offenses.
-(e) Accept the argument, because the felony-murder rule cannot be triggered by an attempt, requiring the court to impose a reduced sentence for the failure.
+(a) No, because an agreement can be inferred from their coordinated conduct of taking up watch positions immediately following Marcus's directive. <!-- correct -->
+(b) No, because under the unilateral approach, Marcus's solicitation alone is sufficient to establish a conspiracy regardless of his subordinates' reactions.
+(c) Yes, because conspiracy requires explicit mutual understanding and communication between all parties to the agreement.
+(d) Yes, because a mere employer-employee relationship does not constitute the shared criminal purpose required for conspiracy.
+(e) Yes, because mere presence at a meeting where a crime is proposed is insufficient to establish knowing adherence to the scheme.
 
 **Answer:** (a)
 
-**Explanation:** The correct answer is (a) because MPC § 5.05 grades attempts at the same level as the completed offense (with exceptions for capital crimes), focusing on the actor's culpable mental state and antisocial disposition rather than the lucky outcome of a failed crime. Option (b) fails because attempted murder is not a structurally inchoate offense (like burglary); it is a general attempt. Option (c) fails because it describes the traditional common law grading reduction rule, which the MPC explicitly rejected. Option (d) fails because the MPC uses the substantial step test, not the dangerous proximity test, and test choice doesn't dictate grading. Option (e) fails because while true that felony-murder isn't triggered without a death, this has nothing to do with how the attempt itself is graded under the MPC.
+**Explanation:** Under the agreement inference doctrine, courts can infer an agreement from coordinated conduct that lacks a plausible innocent explanation. Here, Darius and Trey's immediate execution of Marcus's orders by taking up coordinated watch positions suffices to infer an agreement, even without verbal confirmation. (b) misstates the unilateral approach, which still requires the defendant to believe an agreement exists. (c) is legally false, as explicit communication is not required. (d) fails because an employer-employee relationship does not preclude forming a shared criminal purpose. (e) is a true rule that fails on these facts, as they actively participated by taking up positions.
 
-**Tags:** chapters: [17], topics: [attempt, grading-mpc-equal, grading-general-reduction], difficulty: easy, cognitive: recall
+**Tags:** chapters: [19], topics: [conspiracy, agreement-inference], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17, Grading MPC Equal; MPC § 5.05.
+**Grounding:** Chapter 19 - Inferring Agreement from Coordinated Conduct
 
 ---
 
-**Q4.** Assume Darius is convicted of attempted murder. The prosecution also charges Marcus with attempted murder, arguing he is vicariously liable as the Crew Chief of the Court Kings. Applying traditional federal conspiracy doctrine, is Marcus guilty of Darius's attempted murder?
+**Q2.** Assume Darius is charged with attempted murder. How would his conduct be evaluated under the competing actus reus tests for attempt?
 
-(a) Yes, because a crew chief inherently possesses a specific intent to kill rival leaders, satisfying the accomplice liability mens rea.
-(b) Yes, because the attempted murder was a foreseeable crime committed by a coconspirator in furtherance of the ongoing distribution conspiracy. <!-- correct -->
-(c) No, because Marcus did not directly order the assassination or take any substantial step to assist Darius in the drive-by.
-(d) No, because under the *Pinkerton* doctrine, a defendant can only be liable for completed substantive crimes, not for uncompleted attempts.
-(e) No, because drug distribution and murder are categorically distinct offenses, breaking the required legal nexus for any vicarious conspiracy liability.
+(a) He is guilty under the dangerous proximity test because his acts were strongly corroborative of criminal intent, but not under the substantial step test.
+(b) He is guilty under the substantial step test because approaching with a drawn weapon strongly corroborates his purpose, but likely not under the dangerous proximity test because he was still twenty feet away. <!-- correct -->
+(c) He is guilty under both tests because arriving at the target location is categorically sufficient to establish the actus reus of attempt in all jurisdictions.
+(d) He is not guilty under either test because he had not yet fired the weapon, meaning he retained a locus poenitentiae (opportunity to repent).
+(e) He is not guilty under the substantial step test because he was still in the preparation phase, but guilty under the proximity test because he physically approached the target.
 
 **Answer:** (b)
 
-**Explanation:** The correct answer is (b) because under the *Pinkerton* doctrine, a member of an ongoing conspiracy is vicariously liable for any reasonably foreseeable substantive offenses committed by coconspirators in furtherance of the conspiracy, even without directly participating. Option (a) fails because *Pinkerton* bypasses the need to prove the specific elements of accomplice liability (like purpose or specific intent). Option (c) fails because *Pinkerton* liability requires no direct assistance or personal actus reus for the substantive offense; mere membership in the conspiracy is enough. Option (d) fails because *Pinkerton* applies to any foreseeable substantive offense, including inchoate offenses like attempt, committed in furtherance of the plot. Option (e) fails because violence is routinely held to be a foreseeable consequence of drug distribution conspiracies.
+**Explanation:** The MPC substantial step test is satisfied by reconnoitering or approaching a target with a weapon, focusing on what the defendant has already done. The common law dangerous proximity test focuses on what remains to be done, and being twenty feet away without aiming often falls short. (a) and (e) swap the tests, applying proximity logic to MPC and vice versa. (c) ignores the strictness of the dangerous proximity test, which requires being "dangerously near" completion. (d) misstates the abandonment rule, which requires voluntary renunciation rather than police intervention.
 
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton-doctrine], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, actus-reus-substantial-step, actus-reus-proximity-test], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 19, Pinkerton Doctrine; Pinkerton v. United States.
-
----
-
-**Q5.** Assume the jurisdiction applies the federal *Rosemond* standard for accomplice liability. The prosecution charges Trey as an accomplice to Silas's armed robbery of the stash house. Trey argues he cannot be an accomplice to the armed portion of the robbery. How should the court rule?
-
-(a) Guilty, because Trey was present during the robbery and provided actual physical assistance by maintaining the running getaway vehicle in the alley.
-(b) Guilty, because Trey knew Silas was entering a hostile stash house, making it reasonably foreseeable that Silas would be carrying a deadly weapon.
-(c) Not guilty, because Silas's use of the handgun was an independent intervening cause that severed Trey's derivative liability for the armed robbery.
-(d) Not guilty, because Trey did not have advance knowledge that Silas was armed at a time when Trey had a meaningful opportunity to walk away. <!-- correct -->
-(e) Not guilty, because the legislature inherently excluded getaway drivers from accomplice liability when drafting the substantive statutes for armed robbery.
-
-**Answer:** (d)
-
-**Explanation:** The correct answer is (d) because under *Rosemond*, accomplice liability for a combined offense (like armed robbery or a § 924(c) violation) requires the defendant to have advance knowledge of all elements of the crime—including the use of a weapon—at a time when they have a meaningful opportunity to withdraw. Trey only learned of the gun when Silas jumped into the car and pointed it at him. Option (a) fails because physical assistance alone satisfies only the actus reus; accomplice liability also requires the requisite mental state. Option (b) fails because *Rosemond* requires actual advance knowledge of the weapon, not mere foreseeability. Option (c) fails because Silas's actions are the primary criminal conduct, not an intervening cause that severs causation for an accomplice. Option (e) fails because the *Gebardi* "inevitably incident" exception applies only to parties the legislature intended to protect or exclude (like victims), not to getaway drivers.
-
-**Tags:** chapters: [18], topics: [accomplice-liability, mr-temporal-advance-knowledge], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 18, Mens Rea - Temporal Advance Knowledge; Rosemond v. United States.
+**Grounding:** Chapter 17 - Proximity vs. Substantial Step in Practice
 
 ---
 
-**Q6.** Assume Trey is charged with the murder of Dexter. In a traditional common law jurisdiction, Trey would likely be convicted under the natural and probable consequences (NPC) doctrine. If the case is instead tried in a jurisdiction that has adopted the California SB 1437 reforms, is Trey guilty of Dexter's murder?
+**Q3.** Assume Darius is prosecuted in a Model Penal Code jurisdiction for attempted murder regarding the incident with the trash bags. He argues that he cannot be convicted because it is impossible to murder garbage. How should the court rule?
 
-(a) Yes, because Trey's act of driving the getaway vehicle establishes him as a major participant who acted with reckless indifference to human life.
-(b) Yes, because the NPC doctrine still permits imputing malice to any accomplice who actively assists in a predicate felony that results in a death.
-(c) No, because SB 1437 requires proof of an explicit, written conspiratorial agreement to kill before an accomplice can be convicted of murder.
-(d) No, because SB 1437 eliminated murder liability under the NPC doctrine, and Trey lacked both personal malice and major participation with reckless indifference. <!-- correct -->
-(e) No, because under SB 1437, getaway drivers are categorically immune from any derivative homicide liability regardless of their specific mental state or knowledge.
-
-**Answer:** (d)
-
-**Explanation:** The correct answer is (d) because SB 1437 eliminated murder liability under the natural and probable consequences doctrine. To convict an accomplice of murder post-reform, the prosecution must prove either personal malice aforethought or that the defendant was a major participant in the underlying felony who acted with reckless indifference to human life. Trey, who believed this was only an intimidation/theft and stayed in the alley, meets neither standard. Option (a) fails because remaining outside in a car unaware of the weapon or intent does not constitute major participation with reckless indifference to human life. Option (b) fails because SB 1437 expressly forbade imputing malice based solely on participation in a predicate crime. Option (c) fails because an explicit written agreement is never required; personal malice or reckless indifference suffices. Option (e) fails because SB 1437 provides no categorical immunity for getaway drivers; they can still be convicted if they personally possess malice or reckless indifference.
-
-**Tags:** chapters: [18], topics: [accomplice-liability, npc-traditional-rule, npc-reform-sb1437], difficulty: hard, cognitive: analysis
-
-**Grounding:** Chapter 18, NPC Reform SB 1437; People v. Gentile.
-
----
-
-**Q7.** Assume that, whether or not Trey is liable, the prosecution charges Silas with first-degree premeditated murder for shooting Dexter. Silas argues that because he only shot Dexter in a split-second reaction to the machete lunge, he lacked the requisite premeditation and deliberation. How will a traditional common law court evaluate his mental state?
-
-(a) It will find premeditation lacking, because the sudden provocation of a machete attack automatically mitigates the homicide to voluntary manslaughter.
-(b) It will find premeditation established, because under the common law "no time is too short" rule, premeditation can be formed in a mere instant. <!-- correct -->
-(c) It will find premeditation established, because the felony-murder rule operates as a strict-liability substitution that inherently proves premeditation and deliberation occurred.
-(d) It will find premeditation lacking, because kicking down a door into an ambush triggers extreme emotional disturbance, negating his earlier deliberate intent.
-(e) It will find premeditation established, because the Model Penal Code abolished the concept of premeditation entirely, elevating all knowing killings to capital offenses.
-
-**Answer:** (b)
-
-**Explanation:** The correct answer is (b) because traditional common law jurisdictions often apply the "no time is too short" rule, meaning a defendant can form premeditation and deliberation in the fraction of a second it takes to draw a weapon and fire. Furthermore, Silas had already agreed to "eliminate" anyone inside. Option (a) fails because Dexter's lawful defense of the stash house against a home invader is not legally recognized adequate provocation for voluntary manslaughter. Option (c) fails because while felony-murder operates as a strict-liability substitution for malice, the question specifically asks how the court will evaluate his *actual* mental state for a traditional premeditated murder charge. Option (d) fails because Extreme Emotional Disturbance is an MPC concept, not a traditional common law doctrine, and is not triggered by predictable resistance to one's own violent felony. Option (e) fails because the question asks about traditional common law, not the MPC.
-
-**Tags:** chapters: [12], topics: [intentional-homicide, four-elements-common-law, premeditation], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 12, Premeditation: No time is too short; Commonwealth v. Carroll.
-
----
-
-**Q8.** Assume that, whether or not his act was premeditated, Silas asserts self-defense to the homicide charge, arguing that he only fired because Dexter lunged at him with a deadly machete. Will Silas succeed with a self-defense claim?
-
-(a) Yes, because Silas subjectively feared for his life and his use of a firearm was proportional to the threat of a raised machete.
-(b) Yes, because the Castle Doctrine extends to any location where a defendant is physically present and facing an imminent, unprovoked lethal threat.
-(c) No, because Silas was the initial aggressor who provoked the deadly conflict by kicking open the door to the stash house while armed. <!-- correct -->
-(d) No, because Silas had a categorical duty to retreat from the stash house before resorting to deadly force, even in a Stand Your Ground jurisdiction.
-(e) No, because the law of imperfect self-defense completely precludes any mitigation or justification when the confrontation involves illegal narcotics trafficking.
-
-**Answer:** (c)
-
-**Explanation:** The correct answer is (c) because a defendant cannot claim self-defense if they were the initial aggressor who unlawfully provoked the threat. By kicking open the door to a stash house to commit an armed robbery, Silas initiated the deadly conflict, forfeiting his right to claim self-defense against the guard's lawful resistance. Option (a) fails because although Silas faced an imminent threat and used proportional force, his status as the initial aggressor acts as an absolute bar to justification. Option (b) fails because the Castle Doctrine applies to a defender in their *own* home, not to a home invader breaking into someone else's premises. Option (d) fails because the duty to retreat is irrelevant here; the initial aggressor bar defeats the claim regardless of retreat doctrines. Option (e) fails because imperfect self-defense (which mitigates murder to manslaughter) is barred by the initial aggressor rule, not by a categorical exception for narcotics trafficking.
-
-**Tags:** chapters: [22], topics: [self-defense, initial-aggressor-bar], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 22, Initial Aggressor Bar.
-
----
-
-**Q9.** Assume that Silas is convicted of Dexter's murder. The prosecution also charges Marcus as an accomplice to the homicide, based on Marcus handing Silas the loaded weapon and ordering him to "eliminate" anyone inside. Marcus argues he cannot be an accomplice because his actions did not directly cause Dexter's death. Is Marcus's argument valid?
-
-(a) Yes, because accomplice liability requires proof of but-for causation, meaning the death would not have occurred without Marcus's specific weapon.
-(b) Yes, because under the *Pinkerton* doctrine, Marcus can only be liable for the predicate robbery, not the resulting foreseeable homicide.
-(c) No, because accomplice actus reus has a low threshold; any attempted or actual assistance that facilitates the crime is sufficient, without requiring but-for causation. <!-- correct -->
-(d) No, because the natural and probable consequences doctrine mandates that gang leaders are strictly liable for any violent act committed by their subordinates.
-(e) No, because Marcus's absence from the stash house constitutes an omission, which fulfills the actus reus requirement for a breach of a custodial duty.
-
-**Answer:** (c)
-
-**Explanation:** The correct answer is (c) because the actus reus for accomplice liability is exceptionally low. There is no but-for causation requirement; any act that aids, counsels, or encourages the principal—such as providing the weapon and giving instructions—satisfies the threshold, even if the principal could have succeeded without the help. Option (a) fails because accomplice doctrine explicitly rejects the strict but-for causation requirement used in basic homicide doctrine. Option (b) fails because *Pinkerton* is a conspiracy doctrine, not a limitation on accomplice liability; in fact, *Pinkerton* would *expand* liability to foreseeable crimes. Option (d) fails because the natural and probable consequences doctrine is based on foreseeability of extended crimes, but here Marcus explicitly intended and commanded the homicide itself, making him a direct accomplice. Option (e) fails because providing a gun and an order is an affirmative act, not an omission.
-
-**Tags:** chapters: [18], topics: [accomplice-liability, ar-low-threshold], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 18, Actus Reus - Low Threshold; State v. Tally.
-
----
-
-**Q10.** Assume the police seek to charge Marcus with possession of the 500 grams of powder found in the basement floor safe. Marcus argues he did not physically possess the drugs and that the safe was in a communal, unlocked basement accessible to anyone in the building. Will Marcus be found to have constructive possession?
-
-(a) Yes, because he had the only key to the safe on his nightstand, establishing his awareness and exclusive power to control the contents. <!-- correct -->
-(b) Yes, because his status as Crew Chief inherently satisfies the mens rea for any contraband located within his residential apartment building.
-(c) No, because constructive possession requires the defendant to be physically present in the exact room where the contraband is eventually discovered.
-(d) No, because the safe was located in a communal area, which automatically destroys the exclusive control necessary for a constructive possession charge.
-(e) No, because the text messages on his phone were only circumstantial evidence, which cannot establish the required dominion and control over the drugs.
+(a) He is guilty because the MPC abolished the impossibility defense and evaluates his conduct based on the circumstances as he believed them to be. <!-- correct -->
+(b) He is guilty because the situation constitutes legal impossibility, which is no longer recognized as a defense even at common law.
+(c) He is not guilty because the MPC retains the defense of factual impossibility, which applies when the target is an inanimate object.
+(d) He is not guilty because his actions constitute a pure legal impossibility, as no statute prohibits shooting at trash bags.
+(e) He is not guilty because the government created the factual impossibility by failing to clear the trash bags from the vehicle.
 
 **Answer:** (a)
 
-**Explanation:** The correct answer is (a) because constructive possession requires proof that the defendant had both awareness of the contraband and the power and intent to exercise dominion and control over it. Possessing the singular key to a locked safe found in the building gives Marcus exclusive control over its contents, regardless of the safe's location in a communal area. Option (b) fails because status alone does not substitute for the specific legal requirements of awareness and control. Option (c) fails because the entire purpose of the constructive possession doctrine is to allow convictions when the defendant is *not* physically holding or immediately adjacent to the contraband. Option (d) fails because while the basement was communal, the *safe itself* was locked and Marcus held the key, preserving his exclusive control. Option (e) fails because circumstantial evidence (like text messages confirming the purchase) is routinely used to establish awareness and intent in constructive possession cases.
-
-**Tags:** chapters: [15], topics: [drugs, constructive-possession, cp-awareness-control], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 15, Constructive Possession: Awareness and Control.
-
----
-
-**Q11.** Assume that, whether or not he possessed the safe's contents, Marcus is charged with attempted distribution of a controlled substance based on the baking soda. Marcus argues that because the powder was not actually cocaine, it was legally impossible for him to commit the crime. Under the Model Penal Code (MPC), how will this defense fare?
-
-(a) It will succeed, because the MPC retains the traditional common law defense of pure legal impossibility for drug distribution crimes.
-(b) It will succeed, because attempting to distribute a harmless substance like baking soda fails the substantial step test for a criminal act.
-(c) It will fail, because the MPC permits attempting a structurally inchoate offense as long as the defendant possessed a culpable mental state.
-(d) It will fail, because the MPC judges attempt liability based on the circumstances as the defendant believed them to be, not as they were. <!-- correct -->
-(e) It will fail, because drug offenses operate as strict liability public welfare crimes, meaning his subjective belief about the powder is irrelevant.
-
-**Answer:** (d)
-
-**Explanation:** The correct answer is (d) because the Model Penal Code largely abolished the impossibility defense. Under MPC § 5.01(1)(a), a defendant is guilty of attempt if they purposely engage in conduct that would constitute the crime "if the attendant circumstances were as he believes them to be." Since Marcus believed the powder was cocaine, his attempt liability is judged against that belief. Option (a) fails because while pure legal impossibility (e.g., the law doesn't exist) survives, this scenario is a classic "factual" or "hybrid" impossibility which the MPC explicitly eliminated. Option (b) fails because acquiring and storing what he believed to be cocaine for distribution is clearly a substantial step corroborative of criminal purpose. Option (c) fails because attempted distribution is not a structurally inchoate offense like burglary, and that reasoning does not address the impossibility doctrine. Option (e) fails because attempted drug distribution is not a strict liability offense; it requires specific intent.
+**Explanation:** Under MPC § 5.01(1)(a), impossibility (both factual and legal) is abolished; a defendant is guilty if they purposely engage in conduct that would constitute the crime "if the attendant circumstances were as he believes them to be." Because Darius believed the bags were a human target, he is guilty. (b) is wrong because common law does recognize pure legal impossibility, though it is often unstable. (c) incorrectly states the MPC retains factual impossibility. (d) mischaracterizes pure legal impossibility, which applies only when the intended completed act is not a crime. (e) invents an entrapment-like rule inapplicable to inanimate objects.
 
 **Tags:** chapters: [17], topics: [attempt, impossibility-mpc], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 17, Impossibility MPC; Lady Eldon's Lace.
+**Grounding:** Chapter 17 - MPC Abolition of Impossibility Defense
 
 ---
 
-**Q12.** The prosecution decides to charge Marcus under the Racketeer Influenced and Corrupt Organizations Act (RICO), alleging the "Court Kings" constitute a criminal enterprise. Marcus argues the group lacks the formal structure necessary to qualify as a RICO enterprise. Applying the Supreme Court's *Boyle* test, does the group qualify?
+**Q4.** Assume that Marcus is charged with Darius's attempted murder under the Pinkerton doctrine. Which of the following is Marcus's best defense against vicarious liability in a jurisdiction that strictly follows Pinkerton?
 
-(a) Yes, because the group possesses a purpose, relationships among those associated with it, and sufficient longevity to permit them to pursue that purpose. <!-- correct -->
-(b) Yes, because any group that commits two or more predicate acts within a ten-year period automatically qualifies as an enterprise under the statute.
-(c) No, because the group lacks an established hierarchy, bylaws, and a formal chain of command required to differentiate it from a standard conspiracy.
-(d) No, because the enterprise must have an economic goal that extends beyond merely committing criminal predicate acts for the immediate benefit of its members.
-(e) No, because a RICO enterprise must be a legally recognized corporate entity that the defendants have infiltrated and corrupted from the inside.
+(a) He was not present at the scene and did not personally participate in the attempted murder.
+(b) He did not provide Darius with the weapon or specifically order him to murder anyone that night.
+(c) The attempted murder was not a foreseeable consequence of his general order to "beat down" the rival crew. <!-- correct -->
+(d) The conspiracy had already terminated when Darius stepped away from his watch position to approach the vehicle.
+(e) He cannot be held liable for an attempt, because Pinkerton liability only attaches to completed substantive offenses.
+
+**Answer:** (c)
+
+**Explanation:** Under Pinkerton, a conspirator is vicariously liable for the substantive offenses of coconspirators if they are committed in furtherance of the conspiracy and are reasonably foreseeable. Marcus's best defense is that attempted murder was not a foreseeable consequence of an order to merely "beat down" rivals. (a) and (b) fail because Pinkerton explicitly dispenses with the need for presence or personal participation, which are accomplice liability elements. (d) fails because stepping away to attack a rival does not terminate the underlying conspiracy. (e) is legally false, as Pinkerton applies to foreseeable inchoate crimes committed in furtherance of the conspiracy.
+
+**Tags:** chapters: [19], topics: [conspiracy, pinkerton-doctrine], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 19 - Pinkerton Vicarious Liability
+
+---
+
+**Q5.** (Moving to Thursday's events) Trey is charged as an accomplice to the stash house robbery. He argues he is not guilty because he only idled in the car, did not help Silas inside, and his actions were not a but-for cause of the robbery's success. Is Trey guilty as an accomplice?
+
+(a) No, because mere presence at the scene of a crime, even with prior knowledge, is insufficient to establish the actus reus of accomplice liability.
+(b) No, because his passive idling did not materially contribute to Silas's successful theft of the cocaine.
+(c) Yes, because his agreement to drive the getaway vehicle constitutes a substantial step toward the completion of the robbery.
+(d) Yes, because providing a getaway option, however minor, constitutes facilitation, and accomplice liability does not require but-for causation. <!-- correct -->
+(e) Yes, because under the naturally and probable consequences doctrine, all individuals present at a crime scene are strictly liable for the principal's offenses.
+
+**Answer:** (d)
+
+**Explanation:** The actus reus of accomplice liability is extremely low—any assistance or encouragement is sufficient, and it does not need to be a but-for cause of the crime's success. By agreeing to serve as the getaway driver and idling in the alley, Trey facilitated the robbery. (a) mischaracterizes Trey's role; he was a hired getaway driver, not a "merely present" bystander. (b) imposes a but-for causation requirement that does not exist in complicity doctrine. (c) analyzes the problem under attempt doctrine (substantial step) rather than accomplice liability. (e) drastically overstates the natural and probable consequences doctrine, which is not a strict liability rule for bystanders.
+
+**Tags:** chapters: [18], topics: [accomplice-liability, ar-low-threshold], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 18 - Facilitation Without But-For Causation
+
+---
+
+**Q6.** Assume that, whether or not Trey is guilty of the robbery, he is also charged under 18 U.S.C. § 924(c) as an accomplice to Silas's use of a firearm during the robbery. Under the federal standard established in Rosemond v. United States, can Trey be convicted of the firearm offense?
+
+(a) Yes, because the use of a firearm is a reasonably foreseeable consequence of robbing a drug stash house.
+(b) Yes, because Trey continued to drive the getaway car after hearing the gunshot, ratifying Silas's use of the weapon.
+(c) No, because Marcus handed Silas the gun out of Trey's line of sight, meaning Trey lacked advance knowledge of the firearm while he still had a meaningful opportunity to withdraw. <!-- correct -->
+(d) No, because Trey did not physically possess the firearm or explicitly encourage Silas to use it against Dexter.
+(e) No, because an independent ride-share driver cannot share the specific felonious intent required for a drug trafficking offense.
+
+**Answer:** (c)
+
+**Explanation:** Under Rosemond, accomplice liability for a federal firearm offense requires advance knowledge that a confederate would use or carry a gun, at a time when the defendant had a "meaningful opportunity to walk away." Since Marcus handed Silas the gun out of Trey's sight, Trey lacked advance knowledge. (a) applies the state-level NPC foreseeability standard, which does not govern federal aiding and abetting. (b) fails because learning of the gun only as the crime concludes does not satisfy the temporal requirement. (d) states an actus reus requirement that is too strict; knowing facilitation is enough. (e) is factually and legally incorrect.
+
+**Tags:** chapters: [18], topics: [accomplice-liability, mr-temporal-advance-knowledge], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 18 - Advance Knowledge and Meaningful Opportunity to Withdraw
+
+---
+
+**Q7.** Assume Trey is charged with the murder of Dexter. In a jurisdiction that has enacted strict natural and probable consequences (NPC) reform (such as California's SB 1437), is Trey guilty of murder?
+
+(a) Yes, because a fatal shootout is a natural and probable consequence of an armed stash house robbery.
+(b) Yes, because the felony-murder rule strictly imputes malice to all accomplices in a robbery regardless of their individual mental state.
+(c) No, because the reform requires that an accomplice personally act with malice or be a major participant acting with reckless indifference to human life, neither of which applies to Trey. <!-- correct -->
+(d) No, because Trey's status as an independent contractor explicitly shields him from liability under the inevitably incident exception.
+(e) No, because Dexter initiated the violence by lunging with a machete, which acts as a supervening cause severing Trey's liability.
+
+**Answer:** (c)
+
+**Explanation:** NPC reform (like SB 1437) eliminated second-degree murder liability under the natural and probable consequences doctrine. To be convicted of murder, an accomplice must personally act with malice or be a major participant in the felony who acts with reckless indifference to human life. Trey, an idling driver unaware of the gun, is neither. (a) applies the traditional NPC rule, which the prompt specifies has been reformed. (b) ignores that NPC reform explicitly limits felony murder to major participants. (d) misapplies the inevitably incident exception (Gebardi), which shields necessary victims, not getaway drivers. (e) is incorrect because victim resistance does not sever causal chains.
+
+**Tags:** chapters: [18], topics: [accomplice-liability, npc-reform-sb1437], difficulty: medium, cognitive: analysis
+
+**Grounding:** Chapter 18 - Reform Requiring Personal Malice
+
+---
+
+**Q8.** Assume Silas is charged with the murder of Dexter. Silas asserts that he shot Dexter in self-defense, noting that Dexter lunged at him with a deadly weapon first. Will Silas's self-defense claim succeed?
+
+(a) Yes, because Dexter's use of a machete escalated the confrontation, granting Silas the right to respond with lethal force.
+(b) Yes, because Silas had no duty to retreat once he was cornered inside the stash house.
+(c) No, because Silas was the initial aggressor by breaking into the stash house, which categorically bars him from claiming self-defense unless he successfully withdrew. <!-- correct -->
+(d) No, because self-defense requires the threat to be continuous, and a single lunge with a machete does not qualify.
+(e) No, because under the felony-murder rule, all killings committed during a robbery are automatically graded as voluntary manslaughter regardless of justification.
+
+**Answer:** (c)
+
+**Explanation:** An individual who initiates a violent or felonious encounter is classified as the initial aggressor and is generally barred from claiming self-defense unless they clearly withdraw and communicate that withdrawal. Because Silas initiated the conflict by breaking into the stash house to rob it, he cannot claim self-defense against the guard's lawful resistance. (a) is incorrect because an initial aggressor cannot claim self-defense even against deadly force during a felony. (b) is irrelevant because the initial aggressor bar supersedes retreat doctrines. (d) misunderstands the imminence requirement; a lunge is highly imminent. (e) misstates the felony-murder rule, which elevates such killings to murder, not manslaughter.
+
+**Tags:** chapters: [14, 22], topics: [self-defense, initial-aggressor-bar, felony-murder], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 22 - Initial Aggressor Bar
+
+---
+
+**Q9.** Assume Silas is charged with the attempted murder of the pedestrian. The prosecution relies on the "kill zone" theory to establish Silas's intent. Will the prosecution succeed?
+
+(a) Yes, because discharging a firearm in a public alley creates an inherently dangerous zone of risk to any bystanders.
+(b) Yes, because Silas's intent to kill Dexter transferred to the pedestrian when he fired the weapon during his escape.
+(c) No, because Silas fired blindly over his shoulder and lacked the specific intent to kill everyone in a defined zone. <!-- correct -->
+(d) No, because the pedestrian was not a rival drug dealer and therefore fell outside the logical scope of the enterprise's intent.
+(e) No, because the kill zone theory only applies when the defendant employs a weapon of mass destruction or explosives, not a handgun.
+
+**Answer:** (c)
+
+**Explanation:** The "kill zone" theory permits a conviction for attempted murder of bystanders only when the evidence supports the inference that the defendant intended to kill everyone in the zone to ensure a primary target's death. It requires specific intent, not conscious disregard. Firing a single shot blindly over the shoulder does not establish specific intent to kill the pedestrian. (a) describes recklessness, which is insufficient for attempt. (b) incorrectly applies transferred intent, which applies to completed murder, not attempt. (d) invents a rule restricting attempt to intended enterprise targets. (e) is false, as kill zone can apply to handguns if fired repeatedly into confined areas.
+
+**Tags:** chapters: [17], topics: [attempt, mens-rea-specific-intent, kill-zone-theory], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 17 - Kill Zone / Transferred Intent Limits
+
+---
+
+**Q10.** Assume Marcus is charged under RICO. He argues that "The Pit" was not an enterprise because it lacked a formal hierarchical structure and merely consisted of individuals who occasionally sold drugs on the same corners. Under the Supreme Court's Boyle test, does "The Pit" qualify as an association-in-fact enterprise?
+
+(a) Yes, because it had a purpose (selling drugs), relationships among those associated (Marcus assigning shifts to subordinates), and sufficient longevity to pursue its purpose. <!-- correct -->
+(b) Yes, because any conspiracy that successfully completes more than two predicate acts automatically constitutes a RICO enterprise.
+(c) No, because an association-in-fact enterprise must possess an ascertainable structure distinct from the pattern of racketeering activity itself.
+(d) No, because the subordinates were paid a flat percentage rather than sharing equally in the profits of the enterprise.
+(e) No, because the enterprise must be an ongoing legal entity, such as a corporation or registered business, that is corrupted by criminal acts.
 
 **Answer:** (a)
 
-**Explanation:** The correct answer is (a) because in *Boyle v. United States*, the Supreme Court established a very broad, three-part test for an association-in-fact enterprise: (1) a shared purpose, (2) relationships among those associated with the enterprise, and (3) longevity sufficient to permit them to pursue the enterprise's purpose. The Court Kings' weekly meetings and coordinated drug and violence operations easily satisfy this. Option (b) fails because committing predicate acts establishes the "pattern of racketeering activity," not the existence of the "enterprise" itself, which is a separate element. Option (c) fails because *Boyle* explicitly held that an association-in-fact enterprise does *not* require formal structure, hierarchy, or bylaws. Option (d) fails because while the enterprise must have a purpose, it does not require an overarching economic goal completely detached from the criminal acts. Option (e) fails because RICO covers both legitimate corporate enterprises and illegitimate "association-in-fact" street gangs.
+**Explanation:** Under the Supreme Court's Boyle test, an association-in-fact enterprise requires only three structural features: a shared purpose, relationships among the associates, and sufficient longevity to permit them to pursue the enterprise's purpose. "The Pit" meets this with its shifts, ledgers, and coordinated activities. (b) conflates the pattern of racketeering element with the enterprise element. (c) reflects the pre-Boyle circuit split, which required an ascertainable structure distinct from the racketeering activity. (d) misstates the law, as profit-sharing methods do not defeat enterprise status. (e) conflates legal enterprises (like corporations) with association-in-fact enterprises.
 
-**Tags:** chapters: [20], topics: [RICO, enterprise, boyle-three-part], difficulty: medium, cognitive: application
+**Tags:** chapters: [20], topics: [rico, boyle-three-part], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 20, Boyle Three-Part Test; Boyle v. United States.
+**Grounding:** Chapter 20 - Boyle Three-Part Test
+
+---
+
+**Q11.** Assume Marcus is charged with possession of the 500 grams of cocaine found in the basement safe. Does the evidence establish constructive possession?
+
+(a) Yes, because the presence of the key on his nightstand and his operation's ledger in the safe demonstrates both his awareness of the drugs and his intent and ability to exercise control over them. <!-- correct -->
+(b) Yes, because as the leader of the drug ring, Marcus is strictly liable for any narcotics found within the physical boundaries of his residence.
+(c) No, because the safe was located in a communal, unlocked basement, defeating the requirement of exclusive control.
+(d) No, because Marcus was arrested in his apartment, meaning the drugs in the basement were not within his immediate grab area.
+(e) No, because finding a key on a nightstand is mere circumstantial evidence, which is insufficient to prove the required mens rea for drug possession.
+
+**Answer:** (a)
+
+**Explanation:** Constructive possession requires proof that the defendant had knowledge of the contraband and the intent and ability to exercise dominion and control over it. Marcus's possession of the sole key on his nightstand and the presence of his personal ledger inside the safe strongly establish his control, despite the safe's location in a communal area. (b) invents a strict liability rule for drug ring leaders. (c) is incorrect because exclusive physical control of the premises is not required if other evidence establishes individual dominion. (d) describes actual physical possession, not constructive possession. (e) is wrong because circumstantial evidence is routinely sufficient to prove mens rea.
+
+**Tags:** chapters: [15], topics: [drugs-and-guns, cp-awareness-control, cp-exclusive-control], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 15 - Constructive Possession: Awareness and Control
+
+---
+
+**Q12.** Assume the prosecution charges Marcus, Darius, Trey, and Silas with a single, overarching conspiracy encompassing both the turf defense and the stash house robbery. Silas objects, arguing that he was hired strictly for the robbery and had no knowledge of or agreement regarding Darius's earlier turf defense. How should the court rule on the structure of the conspiracy?
+
+(a) There is a single conspiracy because Marcus served as the central hub connecting all the participants.
+(b) There is a single conspiracy because Silas's robbery and Darius's turf defense both ultimately benefited the same criminal enterprise.
+(c) There are multiple conspiracies because Silas and Darius had no knowledge of each other and no shared purpose, creating a "wheel without a rim." <!-- correct -->
+(d) There are multiple conspiracies because the Wharton's Rule bar applies when multiple defendants participate in crimes with different objectives.
+(e) There are multiple conspiracies because conspiracy doctrine requires all participants to meet face-to-face to establish a single agreement.
+
+**Answer:** (c)
+
+**Explanation:** Under Kotteakos v. United States, when a central figure (Marcus) deals separately with different groups who have no knowledge of each other and no overarching shared purpose, the structure is a "wheel without a rim," resulting in multiple separate conspiracies. Silas had no connection to Darius's turf defense. (a) is incorrect because a hub is insufficient without a "rim" of shared purpose connecting the spokes. (b) describes a general common benefit but fails the strict shared purpose requirement. (d) misapplies Wharton's Rule, which applies to inherently bilateral crimes like dueling. (e) is factually incorrect, as conspirators do not need to meet face-to-face.
+
+**Tags:** chapters: [19], topics: [conspiracy, kotteakos-wheel, scope-procedural-stakes], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 19 - Wheel Conspiracy Without a Rim

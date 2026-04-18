@@ -1,22 +1,23 @@
-**Q3.** Assume the jurisdiction has adopted the Model Penal Code approach to impossibility. Can Darius assert impossibility as a defense to attempted murder, given that the "silhouette" was actually a pile of trash bags?
+**Q3.** Assume Darius is prosecuted in a Model Penal Code jurisdiction for attempted murder regarding the incident with the trash bags. He argues that he cannot be convicted because it is impossible to murder garbage. How should the court rule?
 
-(a) Yes, because it is legally impossible to murder trash bags, meaning his conduct could not constitute a crime even if successful.
-(b) No, because the MPC abolished factual impossibility but retained the common law defense of legal impossibility, which applies here.
-(c) Yes, because his acts did not create an actual danger to any human life, negating the actus reus requirement for attempted murder.
-(d) No, because under the MPC, a defendant is guilty of attempt if the conduct would constitute the crime had the circumstances been as he believed them to be. <!-- correct -->
-(e) Yes, because shooting a pile of trash bags is not a prohibited act under any statute, making this a pure legal impossibility.
+(a) He is guilty because the MPC abolished the impossibility defense and evaluates his conduct based on the circumstances as he believed them to be. <!-- correct -->
+(b) He is guilty because the situation constitutes legal impossibility, which is no longer recognized as a defense even at common law.
+(c) He is not guilty because the MPC retains the defense of factual impossibility, which applies when the target is an inanimate object.
+(d) He is not guilty because his actions constitute a pure legal impossibility, as no statute prohibits shooting at trash bags.
+(e) He is not guilty because the government created the factual impossibility by failing to clear the trash bags from the vehicle.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** (d) is correct. The MPC largely abolishes the impossibility defense (both factual and hybrid legal) by evaluating the defendant's culpability based on the circumstances as they believed them to be. Since Darius believed the silhouette was a rival dealer, he is liable. (a) is incorrect because the MPC focuses on the defendant's subjective belief, not the objective reality. (b) is incorrect because the MPC essentially collapsed factual and hybrid legal impossibility. (c) is incorrect because actual danger is not required under the MPC's subjectively oriented framework. (e) is incorrect because "pure" legal impossibility (where the intended goal isn't a crime even in the defendant's mind) does not apply; Darius intended to commit murder, which is a crime.
+**Explanation:** Under MPC § 5.01(1)(a), impossibility (both factual and legal) is abolished; a defendant is guilty if they purposely engage in conduct that would constitute the crime "if the attendant circumstances were as he believes them to be." Because Darius believed the bags were a human target, he is guilty. (b) is wrong because common law does recognize pure legal impossibility, though it is often unstable. (c) incorrectly states the MPC retains factual impossibility. (d) mischaracterizes pure legal impossibility, which applies only when the intended completed act is not a crime. (e) invents an entrapment-like rule inapplicable to inanimate objects.
 
-**Tags:** chapters: [17], topics: [attempt, impossibility, mpc], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, impossibility-mpc], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 17: Attempts > Liability Limits > Impossibility MPC Abolition
+**Grounding:** Chapter 17 - MPC Abolition of Impossibility Defense
 
 <!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: Found. Option (d) explicitly relies on the MPC § 5.01(1)(a) standard for COMPLETED attempts ("conduct would constitute the crime"). However, Darius was intercepted 20 feet away without firing, making this an INCOMPLETE attempt governed by § 5.01(1)(c) (substantial step). Because merely walking toward a figure does not "constitute the crime" of murder even if the target were actually human, the rationale in correct answer (d) technically fails when applied to these specific facts.
-2. Cross-Doctrine Clashes: Found. The stem tests impossibility regarding an "attempted murder" charge, which requires the specific intent to kill. The facts establish that Marcus merely ordered the crew to "Beat them down if you have to," and Darius was caught with an unspecified "weapon." This conduct only supports specific intent for battery or assault. Sharp students will realize the impossibility analysis is moot because the underlying mens rea for attempted murder is entirely lacking.
+1. Fact Pattern Booby Traps: Darius was tackled 20 feet away and disarmed before firing. This is an *incomplete* attempt. The explanation incorrectly cites MPC § 5.01(1)(a) (completed attempt), which only applies if the defendant's current conduct would actually constitute the crime if circumstances were as believed. Simply walking up to a target with a gun does not constitute murder. The correct rule here is MPC § 5.01(1)(c) (taking a substantial step under the circumstances as he believes them to be).
+2. Cross-Doctrine Clashes: Attempted murder requires the specific intent to kill. Marcus explicitly ordered his crew to "Keep them out... Beat them down if you have to." Since Darius was stopped before doing anything, a sharp student could easily argue he is not guilty of attempted *murder* due to a lack of intent to kill (intending only to commit assault/battery), making choice (a) factually incorrect on the merits.
 3. Cross-Question Spoilers: pass
-Recommended fix: Amend the Q3 stem to cure the mens rea gap: "Assuming Darius possessed the specific intent to kill, can he assert impossibility..." Update Option (d) to accurately reflect the subjective standard for incomplete attempts: "(d) No, because under the MPC, attempt liability (including whether an act is a substantial step) is evaluated based on the circumstances as the defendant believed them to be."
+
+Recommended fix: Add a stipulation to the prompt: "Assume the prosecution can establish Darius had the specific intent to kill." Update the explanation to cite MPC § 5.01(1)(c) (substantial step) rather than 5.01(1)(a), noting that impossibility is defeated because his substantial step is evaluated under the circumstances as he believed them to be.
 -->

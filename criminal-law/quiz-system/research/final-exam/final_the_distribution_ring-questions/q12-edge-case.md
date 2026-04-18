@@ -1,22 +1,22 @@
-**Q12.** For the purposes of a joint trial and hearsay admissibility, prosecutors argue that the Tuesday turf defense and the Thursday robbery were part of a single overarching conspiracy. Applying the *Kotteakos* "wheel" analogy, is this likely correct?
+**Q12.** Assume the prosecution charges Marcus, Darius, Trey, and Silas with a single, overarching conspiracy encompassing both the turf defense and the stash house robbery. Silas objects, arguing that he was hired strictly for the robbery and had no knowledge of or agreement regarding Darius's earlier turf defense. How should the court rule on the structure of the conspiracy?
 
-(a) Yes, because Marcus directed both actions, forming a single wheel conspiracy even if Silas and Darius did not know each other.
-(b) No, because Silas and Darius had no shared purpose, mutual awareness, or interdependence, creating separate conspiracies. <!-- correct -->
-(c) Yes, because both events targeted Vance, which automatically fuses the separate agreements into a single chain conspiracy.
-(d) No, because the turf defense was a violent crime and the robbery was a property crime, meaning they cannot legally belong to the same conspiracy.
-(e) Yes, because Marcus's leadership role satisfies the *Pinkerton* requirement that all coconspirators are liable for the acts of the enterprise.
+(a) There is a single conspiracy because Marcus served as the central hub connecting all the participants.
+(b) There is a single conspiracy because Silas's robbery and Darius's turf defense both ultimately benefited the same criminal enterprise.
+(c) There are multiple conspiracies because Silas and Darius had no knowledge of each other and no shared purpose, creating a "wheel without a rim." <!-- correct -->
+(d) There are multiple conspiracies because the Wharton's Rule bar applies when multiple defendants participate in crimes with different objectives.
+(e) There are multiple conspiracies because conspiracy doctrine requires all participants to meet face-to-face to establish a single agreement.
 
-**Answer:** (b)
+**Answer:** (c)
 
-**Explanation:** (b) is correct. Under *Kotteakos*, an overarching single conspiracy requires the "spokes" to share a "rim"—meaning mutual awareness, interdependence, or a shared common purpose. Silas (hired Thursday for a robbery) and Darius (assigned Tuesday for turf defense) share no rim, making them separate conspiracies. (a) is incorrect because Marcus alone acts as the "hub," but without a rim connecting the spokes, it remains multiple separate conspiracies. (c) is incorrect because targeting the same rival does not create a chain conspiracy without mutual dependence. (d) is incorrect because a single conspiracy can encompass diverse types of criminal acts if the parties share an overarching agreement. (e) is incorrect because *Pinkerton* governs liability for substantive offenses, not the structural scope of the conspiracy itself.
+**Explanation:** Under Kotteakos v. United States, when a central figure (Marcus) deals separately with different groups who have no knowledge of each other and no overarching shared purpose, the structure is a "wheel without a rim," resulting in multiple separate conspiracies. Silas had no connection to Darius's turf defense. (a) is incorrect because a hub is insufficient without a "rim" of shared purpose connecting the spokes. (b) describes a general common benefit but fails the strict shared purpose requirement. (d) misapplies Wharton's Rule, which applies to inherently bilateral crimes like dueling. (e) is factually incorrect, as conspirators do not need to meet face-to-face.
 
-**Tags:** chapters: [19], topics: [conspiracy, kotteakos-wheel, scope], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [19], topics: [conspiracy, kotteakos-wheel, scope-procedural-stakes], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 19: Conspiracy > Liability Limits > Scope: Single vs. Multiple Conspiracies (Kotteakos Wheel)
+**Grounding:** Chapter 19 - Wheel Conspiracy Without a Rim
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass (The explicit "Applying the Kotteakos 'wheel' analogy" phrasing successfully walls off the question from a potential clash with RICO enterprise liability, which was historically designed to bypass Kotteakos rim requirements).
-3. Cross-Question Spoilers: pass (This functions perfectly alongside Q10, allowing students to contrast Kotteakos conspiracy scope with RICO enterprise scope).
+2. Cross-Doctrine Clashes: pass (even if students consider a RICO enterprise conspiracy as tested in Q10, Silas's lack of knowledge regarding the broader enterprise itself precludes him from being swept into a single overarching RICO conspiracy for both events, keeping (c) functionally and legally sound).
+3. Cross-Question Spoilers: pass
 Recommended fix: n/a
 -->

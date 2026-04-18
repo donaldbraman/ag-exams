@@ -1,26 +1,26 @@
-**Q2.** Assume Darius genuinely believed a person was in the car. Which of the following accurately describes Darius's liability for attempted murder under the common law "dangerous proximity" test versus the MPC "substantial step" test?
+**Q2.** Assume Darius is charged with attempted murder. How would his conduct be evaluated under the competing actus reus tests for attempt?
 
-(a) Guilty under the MPC because walking toward the car armed strongly corroborates criminal purpose, but potentially not guilty under the common law because he had not yet reached the car to fire. <!-- correct -->
-(b) Guilty under both tests, because possessing a loaded weapon with the specific intent to kill categorically satisfies both the proximity and substantial step requirements.
-(c) Not guilty under the MPC because his act was merely preparatory, but guilty under the common law because he came within twenty feet of his intended target.
-(d) Guilty under the common law because he retained a locus poenitentiae, but not guilty under the MPC because he was thwarted by a police officer before acting.
-(e) Not guilty under either test, because he never actually aimed or fired the weapon, which is required to cross the threshold of attempt in all jurisdictions.
+(a) He is guilty under the dangerous proximity test because his acts were strongly corroborative of criminal intent, but not under the substantial step test.
+(b) He is guilty under the substantial step test because approaching with a drawn weapon strongly corroborates his purpose, but likely not under the dangerous proximity test because he was still twenty feet away. <!-- correct -->
+(c) He is guilty under both tests because arriving at the target location is categorically sufficient to establish the actus reus of attempt in all jurisdictions.
+(d) He is not guilty under either test because he had not yet fired the weapon, meaning he retained a locus poenitentiae (opportunity to repent).
+(e) He is not guilty under the substantial step test because he was still in the preparation phase, but guilty under the proximity test because he physically approached the target.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct. Under the MPC, a "substantial step" includes approaching a target while armed, which strongly corroborates criminal purpose. Under the common law proximity test, courts focus on what remains to be done; being twenty feet away and not yet aiming might leave him short of being "dangerously close" to completion (analogous to *Rizzo*). (b) is incorrect because mere possession and intent do not automatically satisfy the proximity test. (c) has the tests backward; the MPC is more expansive than common law. (d) is incorrect because having a locus poenitentiae (opportunity to repent) defeats liability under proximity. (e) is incorrect because neither test requires the defendant to go as far as firing the weapon.
+**Explanation:** The MPC substantial step test is satisfied by reconnoitering or approaching a target with a weapon, focusing on what the defendant has already done. The common law dangerous proximity test focuses on what remains to be done, and being twenty feet away without aiming often falls short. (a) and (e) swap the tests, applying proximity logic to MPC and vice versa. (c) ignores the strictness of the dangerous proximity test, which requires being "dangerously near" completion. (d) misstates the abandonment rule, which requires voluntary renunciation rather than police intervention.
 
-**Tags:** chapters: [17], topics: [attempt, actus-reus, substantial-step, dangerous-proximity], difficulty: hard, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, actus-reus-substantial-step, actus-reus-proximity-test], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 17: Attempts > Elements > Prima Facie Element 3: Actus Reus > Gray Zone — Proximity vs. Substantial Step in Practice
+**Grounding:** Chapter 17 - Proximity vs. Substantial Step in Practice
 
 <!-- audit: MUST FIX
-Check 1: pass
-Check 2: pass
-Check 3: pass
-Check 4: Fail. The stem provides no facts about Darius's conduct (e.g., walking toward the car, being armed, getting within twenty feet, being thwarted by a police officer). It appears to rely on a missing global fact pattern from a previous question. 
-Check 5: pass
-Check 6: pass
-Check 7: pass
-Recommended fix: Integrate the missing facts into the stem (e.g., "Darius, armed with a loaded handgun, walked toward a parked car intending to kill the occupant, but was thwarted by a police officer when he was twenty feet away and had not yet aimed. Assume Darius genuinely believed a person was in the car...").
+check 1: pass (conditional on adding facts; the legal application of the competing tests is correct)
+check 2: pass
+check 3: pass
+check 4: Fails. The stem completely omits the factual scenario. It asks how "his conduct" would be evaluated but provides zero facts about what Darius actually did. The answer choices and explanation assume facts (approaching with a drawn weapon, being stopped twenty feet away) that are entirely missing from the prompt.
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Add the missing facts to the stem (e.g., "Assume Darius intends to kill his rival. He arrives at the rival's location, draws a weapon, and begins approaching, but is apprehended by police when he is still twenty feet away without having aimed or fired. How would his conduct be evaluated...").
 -->

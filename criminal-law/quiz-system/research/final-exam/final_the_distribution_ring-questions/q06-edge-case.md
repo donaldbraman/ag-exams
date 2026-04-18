@@ -1,22 +1,22 @@
-**Q6.** Applying the federal *Rosemond* standard for accomplice liability to a firearm-enhanced offense, is Trey liable for aiding and abetting Silas's use of a firearm during the robbery?
+**Q6.** Assume that, whether or not Trey is guilty of the robbery, he is also charged under 18 U.S.C. § 924(c) as an accomplice to Silas's use of a firearm during the robbery. Under the federal standard established in Rosemond v. United States, can Trey be convicted of the firearm offense?
 
-(a) Yes, because Trey knew a robbery was occurring, meaning he assumed the risk that Silas might carry and use a firearm.
-(b) No, because Trey did not have advance knowledge that Silas was armed at a time when he had a meaningful opportunity to walk away. <!-- correct -->
-(c) Yes, because Marcus handed Silas the gun during the briefing, creating a constructive presumption that Trey was aware of the weapon.
-(d) No, because Trey was merely an independent driver and therefore lacked the specific intent required for the underlying robbery offense.
-(e) Yes, because Silas actually fired the weapon, and under *Rosemond*, an accomplice is strictly liable for any weapons discharged by a principal.
+(a) Yes, because the use of a firearm is a reasonably foreseeable consequence of robbing a drug stash house.
+(b) Yes, because Trey continued to drive the getaway car after hearing the gunshot, ratifying Silas's use of the weapon.
+(c) No, because Marcus handed Silas the gun out of Trey's line of sight, meaning Trey lacked advance knowledge of the firearm while he still had a meaningful opportunity to withdraw. <!-- correct -->
+(d) No, because Trey did not physically possess the firearm or explicitly encourage Silas to use it against Dexter.
+(e) No, because an independent ride-share driver cannot share the specific felonious intent required for a drug trafficking offense.
 
-**Answer:** (b)
+**Answer:** (c)
 
-**Explanation:** (b) is correct. *Rosemond* holds that accomplice liability for a firearm-enhanced offense requires the defendant to have advance knowledge of the firearm at a time when they have a realistic opportunity to quit the crime. Because Marcus handed Silas the gun out of Trey's sight, Trey lacked this knowledge. (a) is incorrect because *Rosemond* specifically rejects the "assumed the risk" argument. (c) is incorrect because knowledge must be actual, not merely constructive based on proximity. (d) is incorrect because Trey's status as a driver does not negate his purpose to facilitate the robbery; he merely lacks liability for the firearm element. (e) is incorrect because *Rosemond* requires advance knowledge, not strict liability.
+**Explanation:** Under Rosemond, accomplice liability for a federal firearm offense requires advance knowledge that a confederate would use or carry a gun, at a time when the defendant had a "meaningful opportunity to walk away." Since Marcus handed Silas the gun out of Trey's sight, Trey lacked advance knowledge. (a) applies the state-level NPC foreseeability standard, which does not govern federal aiding and abetting. (b) fails because learning of the gun only as the crime concludes does not satisfy the temporal requirement. (d) states an actus reus requirement that is too strict; knowing facilitation is enough. (e) is factually and legally incorrect.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, mens-rea, advance-knowledge, rosemond], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice-liability, mr-temporal-advance-knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18: Accomplice Liability > Refinements > Mens Rea > Advance Knowledge and Meaningful Opportunity to Withdraw
+**Grounding:** Chapter 18 - Advance Knowledge and Meaningful Opportunity to Withdraw
 
 <!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: pass
+1. Fact Pattern Booby Traps: The conflicting drafts of the Thursday facts in the master scenario (Fact 5 vs. Fact 6) introduce a mens rea booby trap. Fact 6's detail that Trey was paid triple to wait "no matter what you hear" opens the door to willful blindness/deliberate ignorance. Under federal law, deliberate ignorance can satisfy the *Rosemond* advance knowledge requirement, which inadvertently makes (c)'s premise that Trey definitively lacked advance knowledge factually debatable.
 2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: MUST FIX. The core fact pattern contains a massive character-continuity error that ruins this question. Fact 2 and Q1 establish Trey as a subordinate gang member in "The Pit" who participated in Tuesday's violent turf defense. However, Fact 6 (relied upon for Q6 and referenced in option d) explicitly describes Trey as "an independent ride-share driver who was not part of The Pit." If Trey is actually a gang subordinate who just participated in a violent turf war, a jury could easily infer he had advance knowledge that gang enforcers carry guns to stash-house robberies, making (b) incorrect or highly debatable. 
-Recommended fix: Clean up the base facts. The drafter clearly left two drafts of the Tuesday facts in the prompt (Fact 2 uses Trey, Fact 3 uses Leon). Remove Fact 2, rely on Fact 3 (making Leon the Tuesday lookout), and remove Trey from Q1 so that he remains a naive, independent rideshare driver on Thursday.
+3. Cross-Question Spoilers: Severe character continuity errors in the Full Scenario Package ruin the question's foundation. Fact 2 establishes Trey as a trusted subordinate in the drug ring, while Fact 6 establishes him as an "independent ride-share driver who was not part of The Pit" (which distractor (e) explicitly references). Students will be paralyzed by the contradiction regarding Trey's background and culpability.
+Recommended fix: Consolidate the duplicate facts in the master scenario. Ensure Trey is consistently defined (either a subordinate or an independent driver), and delete the "no matter what you hear" instruction from Marcus to ensure Trey cleanly lacks advance knowledge or willful blindness of the gun, preserving (c) as the undisputed correct answer.
 -->

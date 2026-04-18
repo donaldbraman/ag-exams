@@ -1,22 +1,22 @@
-**Q9.** Silas is charged with the attempted murder of the pedestrian he struck while firing blindly down the alley. Under prevailing specific intent requirements for attempt, is he guilty?
+**Q9.** Assume Silas is charged with the attempted murder of the pedestrian. The prosecution relies on the "kill zone" theory to establish Silas's intent. Will the prosecution succeed?
 
-(a) Yes, because his reckless disregard for human life satisfies the specific intent requirement for attempted murder.
-(b) No, because attempt requires the specific purpose to cause the death of the victim, and Silas fired blindly without aiming at anyone. <!-- correct -->
-(c) Yes, under the kill-zone theory, because firing a gun in an alley creates a zone of fatal harm that transfers intent to anyone within it.
-(d) No, because the pedestrian was not killed, and attempted murder requires actual severe injury to demonstrate the required intent.
-(e) Yes, because the transferred intent doctrine automatically transfers his specific intent to kill Dexter to the pedestrian he actually struck.
+(a) Yes, because discharging a firearm in a public alley creates an inherently dangerous zone of risk to any bystanders.
+(b) Yes, because Silas's intent to kill Dexter transferred to the pedestrian when he fired the weapon during his escape.
+(c) No, because Silas fired blindly over his shoulder and lacked the specific intent to kill everyone in a defined zone. <!-- correct -->
+(d) No, because the pedestrian was not a rival drug dealer and therefore fell outside the logical scope of the enterprise's intent.
+(e) No, because the kill zone theory only applies when the defendant employs a weapon of mass destruction or explosives, not a handgun.
 
-**Answer:** (b)
+**Answer:** (c)
 
-**Explanation:** (b) is correct. Attempt requires the specific intent (purpose) to cause the result element of the target offense. Even if a completed murder can be committed via recklessness (depraved heart), attempted murder requires a specific purpose to kill. Silas fired blindly to deter pursuit, lacking this purpose. (a) is incorrect because recklessness is insufficient for attempt. (c) is incorrect because the kill-zone theory requires intent to kill *everyone* in a specific zone to ensure a primary target's death, which doesn't apply to blind firing. (d) is incorrect because attempt does not require any actual injury. (e) is incorrect because transferred intent generally applies to completed crimes, not inchoate attempts where specific intent as to the victim is required.
+**Explanation:** The "kill zone" theory permits a conviction for attempted murder of bystanders only when the evidence supports the inference that the defendant intended to kill everyone in the zone to ensure a primary target's death. It requires specific intent, not conscious disregard. Firing a single shot blindly over the shoulder does not establish specific intent to kill the pedestrian. (a) describes recklessness, which is insufficient for attempt. (b) incorrectly applies transferred intent, which applies to completed murder, not attempt. (d) invents a rule restricting attempt to intended enterprise targets. (e) is false, as kill zone can apply to handguns if fired repeatedly into confined areas.
 
-**Tags:** chapters: [17], topics: [attempt, mens-rea, specific-intent, kill-zone], difficulty: hard, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, mens-rea-specific-intent, kill-zone-theory], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 17: Attempts > Refinements > Prima Facie Element 1 & 2: Mens Rea > The Specific Intent Requirement
+**Grounding:** Chapter 17 - Kill Zone / Transferred Intent Limits
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
+2. Cross-Doctrine Clashes: pass 
 3. Cross-Question Spoilers: pass
-Recommended fix: None. The factual scenario cleanly establishes the actus reus for reckless endangerment or battery without satisfying the specific intent mens rea required for attempted murder. The distractors (especially transferred intent and kill-zone theory) are highly relevant but properly defeated by the facts.
+Recommended fix: n/a
 -->

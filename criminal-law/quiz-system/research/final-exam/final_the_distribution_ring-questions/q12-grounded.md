@@ -1,17 +1,5 @@
-**Q12.** For the purposes of a joint trial and hearsay admissibility, prosecutors argue that the Tuesday turf defense and the Thursday robbery were part of a single overarching conspiracy. Applying the *Kotteakos* "wheel" analogy, is this likely correct?
+<!-- grounding: GROUNDING-FAIL -->
 
-(a) Yes, because Marcus directed both actions, forming a single wheel conspiracy even if Silas and Darius did not know each other.
-(b) No, because Silas and Darius had no shared purpose, mutual awareness, or interdependence, creating separate conspiracies. <!-- correct -->
-(c) Yes, because both events targeted Vance, which automatically fuses the separate agreements into a single chain conspiracy.
-(d) No, because the turf defense was a violent crime and the robbery was a property crime, meaning they cannot legally belong to the same conspiracy.
-(e) Yes, because Marcus's leadership role satisfies the *Pinkerton* requirement that all coconspirators are liable for the acts of the enterprise.
+**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
 
-**Answer:** (b)
-
-**Explanation:** (b) is correct. Under *Kotteakos*, an overarching single conspiracy requires the "spokes" to share a "rim"—meaning mutual awareness, interdependence, or a shared common purpose. Silas (hired Thursday for a robbery) and Darius (assigned Tuesday for turf defense) share no rim, making them separate conspiracies. (a) is incorrect because Marcus alone acts as the "hub," but without a rim connecting the spokes, it remains multiple separate conspiracies. (c) is incorrect because targeting the same rival does not create a chain conspiracy without mutual dependence. (d) is incorrect because a single conspiracy can encompass diverse types of criminal acts if the parties share an overarching agreement. (e) is incorrect because *Pinkerton* governs liability for substantive offenses, not the structural scope of the conspiracy itself.
-
-**Tags:** chapters: [19], topics: [conspiracy, kotteakos-wheel, scope], difficulty: hard, cognitive: analysis
-
-**Grounding:** Chapter 19: Conspiracy > Liability Limits > Scope: Single vs. Multiple Conspiracies (Kotteakos Wheel)
-
-<!-- grounding: GROUNDED — Kotteakos Wheel, Ch 19, Refinement `kotteakos-wheel`. Rule paraphrased accurately. -->
+Error: Model returned empty or blocked response.

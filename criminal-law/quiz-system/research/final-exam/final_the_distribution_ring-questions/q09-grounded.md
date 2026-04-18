@@ -1,5 +1,17 @@
-<!-- grounding: GROUNDING-FAIL -->
+**Q9.** Assume Silas is charged with the attempted murder of the pedestrian. The prosecution relies on the "kill zone" theory to establish Silas's intent. Will the prosecution succeed?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) Yes, because discharging a firearm in a public alley creates an inherently dangerous zone of risk to any bystanders.
+(b) Yes, because Silas's intent to kill Dexter transferred to the pedestrian when he fired the weapon during his escape.
+(c) No, because Silas fired blindly over his shoulder and lacked the specific intent to kill everyone in a defined zone. <!-- correct -->
+(d) No, because the pedestrian was not a rival drug dealer and therefore fell outside the logical scope of the enterprise's intent.
+(e) No, because the kill zone theory only applies when the defendant employs a weapon of mass destruction or explosives, not a handgun.
 
-Error: Model returned empty or blocked response.
+**Answer:** (c)
+
+**Explanation:** The "kill zone" theory permits a conviction for attempted murder of bystanders only when the evidence supports the inference that the defendant intended to kill everyone in the zone to ensure a primary target's death. It requires specific intent, not conscious disregard. Firing a single shot blindly over the shoulder does not establish specific intent to kill the pedestrian. (a) describes recklessness, which is insufficient for attempt. (b) incorrectly applies transferred intent, which applies to completed murder, not attempt. (d) invents a rule restricting attempt to intended enterprise targets. (e) is false, as kill zone can apply to handguns if fired repeatedly into confined areas.
+
+**Tags:** chapters: [17], topics: [attempt, mens-rea-specific-intent, kill-zone-theory], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 17 - Kill Zone / Transferred Intent Limits
+
+<!-- grounding: GROUNDED — Kill Zone Theory, Ch 17, Refinement `kill-zone-theory`. Rule paraphrased accurately. -->
