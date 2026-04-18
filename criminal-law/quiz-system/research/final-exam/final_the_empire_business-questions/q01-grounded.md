@@ -1,17 +1,17 @@
-**Q1.** The government charges Carmine with violating RICO under 18 U.S.C. § 1962(c), alleging that Pinnacle Waste is a racketeering enterprise. Can a lawfully chartered corporation serve as a RICO enterprise under these facts?
+**Q1.** Assume that the government seeks to indict David under RICO. Based on his use of Apex's dispatch center to route drug distributions and his collection of a 5% premium, is David a participant in a RICO enterprise?
 
-(a) Yes, because a legitimate corporation can constitute a RICO enterprise when its ordinary business structure is repurposed to facilitate racketeering activity. <!-- correct -->
-(b) Yes, because any business owned by a person who commits two or more predicate acts automatically becomes a RICO enterprise as a matter of law.
-(c) No, because an association-in-fact enterprise requires a wholly illicit purpose and cannot be formed using the infrastructure of a legitimate commercial operation.
-(d) No, because Pinnacle Waste's formal charter establishes it as a lawful entity, which categorically shields it from being designated a criminal enterprise.
-(e) No, because the government must prove that the corporation itself, rather than its individual officers, committed the predicate racketeering acts.
+(a) Yes, because a legitimate corporation's infrastructure can constitute a RICO enterprise, and David's direction and premium charge establish participation rather than mere patronage. <!-- correct -->
+(b) Yes, because any employee of a legal corporation who commits a crime on company time is strictly liable as a RICO participant regardless of their role.
+(c) No, because Apex Waste Solutions is a legally chartered and profitable corporation, which categorically precludes it from being considered a RICO enterprise.
+(d) No, because David acted merely as a patron who provided a dispatching service without ever personally handling or distributing the illicit drugs.
+(e) No, because establishing a RICO enterprise requires proof of an informal association-in-fact among the individuals that is entirely separate from the corporate structure.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because under RICO, a legitimate corporation like Pinnacle Waste can serve as an enterprise when its ordinary business infrastructure is repurposed to conduct racketeering activity, such as laundering extortion proceeds. (b) is incorrect because an enterprise requires structural features (relationships, shared purpose), not just a single owner committing crimes. (c) is incorrect because courts consistently hold that lawful entities can serve as an enterprise. (d) is incorrect because a formal legal charter does not immunize an entity from being an enterprise. (e) is incorrect because the statute punishes the individuals who conduct the enterprise's affairs through racketeering, not just the corporate entity itself.
+**Explanation:** David is guilty of participating in a RICO enterprise. A legitimate corporation like Apex Waste Solutions can serve as a RICO enterprise when its ordinary business structure (the dispatch center) is repurposed for racketeering activity. Furthermore, David is a participant, not a mere patron, because he actively directed operations and funded the scheme by charging a premium. (b) fails because RICO participation requires conducting the enterprise's affairs through racketeering, not mere employment. (c) fails because lawful entities can routinely function as RICO enterprises if manipulated for illicit purposes. (d) fails because directing and profiting from the enterprise constitutes participation, even without personally touching the drugs. (e) fails because a formal corporation is an explicitly enumerated enterprise under the statute; proving an association-in-fact is an alternative theory, not a strict requirement.
 
-**Tags:** chapters: [20], topics: [RICO, corporate-enterprise], difficulty: medium, cognitive: application
+**Tags:** chapters: [20], topics: [corporate-enterprise, participation-vs-patronage], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 20 (Insys Therapeutics Note; corporate-enterprise)
+**Grounding:** Chapter 20 (Insys Therapeutics note; United States v. Christensen)
 
-<!-- grounding: GROUNDED — corporate enterprise, Ch 20, Refinement `corporate-enterprise`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Corporate enterprise and Participation vs. patronage, Ch 20, Refinement `corporate-enterprise` and `participation-vs-patronage`. Rule paraphrased accurately. -->

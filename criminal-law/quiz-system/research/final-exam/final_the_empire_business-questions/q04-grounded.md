@@ -1,17 +1,17 @@
-**Q4.** Assume that Marcus is charged as an accomplice for routing the trucks after Carmine's threat, and Marcus raises a duress defense. Will Marcus's duress defense succeed?
+**Q4.** The government charges David with constructive possession of the 40 grams of fentanyl. Based on his presence in the shared suite and his statement regarding the locked cabinet, is David guilty of constructive possession?
 
-(a) Yes, because Carmine's threat to put Marcus in a compactor would cause a person of reasonable firmness to succumb to the coercion.
-(b) Yes, because Marcus subjectively believed that his life was in imminent danger if he refused to comply with Carmine's routing instructions.
-(c) No, because Marcus failed to take advantage of a reasonable opportunity to escape the threatened harm by contacting the authorities during the four months. <!-- correct -->
-(d) No, because the defense of duress is never available as a matter of law for crimes involving the distribution of narcotics or controlled substances.
-(e) No, because Marcus's initial voluntary employment at Pinnacle Waste legally precludes him from raising duress for any subsequent workplace coercion.
+(a) Not guilty, because his awareness of drugs in a space exclusively controlled by Carmine does not establish his intent and power to exercise dominion. <!-- correct -->
+(b) Not guilty, because the doctrine of constructive possession cannot be applied to a shared corporate workspace under any legal circumstances.
+(c) Guilty, because his voluntary admission that he knew the fentanyl was in the cabinet perfectly satisfies the mens rea for constructive possession.
+(d) Guilty, because as a co-occupant of the executive suite, he is legally presumed to possess all contents found within the shared space.
+(e) Guilty, because his proximity to a large trafficking quantity of fentanyl allows a jury to infer shared dominion and control over the drugs.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct because the duress defense requires the defendant to take advantage of any reasonable opportunity to escape the threatened harm. Marcus continued routing trucks for four months without contacting the authorities, failing the imminence and lack-of-escape-opportunity requirements. (a) is incorrect because the threat must be imminent, and the four-month delay defeats imminence. (b) is incorrect because the standard for duress is objective (a person of reasonable firmness), not merely subjective belief. (d) is incorrect because duress is generally available for drug offenses; the primary categorical exception is for intentional murder. (e) is incorrect because initial voluntary employment does not legally forfeit a future duress defense if an employee is later coerced into committing a crime.
+**Explanation:** David is not guilty. Constructive possession requires proof that the defendant both knew of the contraband and had the intent and power to exercise dominion and control over it. As established in *White*, awareness alone is insufficient, and a space within the exclusive control of a co-occupant (a locked cabinet to which only Carmine had the key) defeats a finding of control for David. (b) fails because constructive possession routinely applies to shared spaces if joint control is proven. (c) fails because his admission only proves awareness, which does not equate to dominion and control. (d) fails because shared occupancy does not create a legal presumption of shared possession of everything inside. (e) fails because mere proximity, regardless of drug quantity, never establishes constructive possession without specific indicia of control (*Jenkins*).
 
-**Tags:** chapters: [21], topics: [duress, imminence, escape-opportunity], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [constructive-possession, awareness-control, exclusive-control], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21 (Duress — Imminence and Proximity)
+**Grounding:** Chapter 15 (State v. White; United States v. Jenkins)
 
-<!-- grounding: GROUNDED — Duress (Imminence and Escape Opportunity), Ch 21, Refinement `duress-imminence-proximity`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Constructive Possession (Awareness vs. Control), Ch 15, Refinement `cp-exclusive-control` and `cp-awareness-control`. Rule paraphrased accurately. -->

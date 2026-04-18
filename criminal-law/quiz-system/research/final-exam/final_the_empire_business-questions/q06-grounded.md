@@ -1,17 +1,17 @@
-**Q6.** The government charges Dominic with possession with intent to distribute fentanyl. Dominic argues he cannot be convicted of a fentanyl offense because he genuinely believed the substance was heroin. Under the federal standard for controlled substance mens rea, will this defense succeed?
+**Q6.** Assume that Marcus is arrested on May 1 immediately after agreeing to execute the arson of the garbage trucks. Is Marcus guilty of attempted arson based solely on this interaction?
 
-(a) Yes, because the government must affirmatively prove that the defendant knew the specific chemical identity of the substance he possessed.
-(b) Yes, because a defendant cannot be held liable for a more severe fentanyl offense when he only possessed the mens rea for a lesser heroin offense.
-(c) No, because controlled substance offenses are strict liability crimes that require no proof whatsoever of the defendant's mental state regarding the substance.
-(d) No, because the government only needs to prove the defendant knew the substance's general nature as a controlled substance, not its precise identity. <!-- correct -->
-(e) No, because the iron law of prohibition creates a conclusive legal presumption that anyone distributing heroin is aware it might contain fentanyl.
+(a) Not guilty under both attempt tests, because his mere agreement constitutes preparation and is neither a substantial step nor in dangerous proximity to success. <!-- correct -->
+(b) Guilty under the substantial step test but not the proximity test, because his express verbal agreement strongly corroborates his criminal purpose.
+(c) Guilty under the proximity test but not the substantial step test, because agreeing to commit the crime the following night made the harm imminent.
+(d) Guilty under both attempt tests, because forming a clear verbal agreement with a co-conspirator completes the required actus reus for an attempt.
+(e) Not guilty under both attempt tests, because an attempt requires the defendant to be physically present at the scene of the target crime.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** (d) is correct because under *McFadden* and the federal standard, the government must prove the defendant knew the substance was a controlled substance (its general nature), but need not prove the defendant knew its precise chemical identity (fentanyl vs. heroin). (a) is incorrect because specific chemical identity is not required; knowledge of the general nature suffices. (b) is incorrect because the general-nature rule allows conviction for the substance actually possessed, regardless of the defendant's belief about which specific drug it was. (c) is incorrect because controlled substance possession is not a strict liability offense; it requires the mens rea of knowledge regarding the substance's general nature. (e) is incorrect because there is no conclusive legal presumption regarding fentanyl awareness; liability rests purely on the general-nature mens rea standard.
+**Explanation:** Marcus is not guilty of attempt. Both the common-law dangerous proximity test and the MPC substantial step test require an actus reus beyond mere preparation. A verbal agreement to commit a crime in the future is the essence of conspiracy, but it does not cross the line into an attempt, as no concrete action has been taken toward the target offense itself. (b) fails because an agreement without action does not constitute a substantial step, even if it corroborates criminal purpose. (c) fails because he is not in dangerous physical or temporal proximity to committing the arson yet. (d) fails because an agreement forms a conspiracy, not an attempt. (e) fails because physical presence is not universally required (e.g., mailing a bomb or hiring a hitman can be a substantial step).
 
-**Tags:** chapters: [15], topics: [fentanyl, mens-rea, controlled-substances], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, actus-reus, substantial-step, proximity-test], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 15 (McFadden v. United States; mens-rea-fentanyl-asymmetry)
+**Grounding:** Chapter 17 (Actus Reus: Substantial Step vs. Proximity Test)
 
-<!-- grounding: GROUNDED — McFadden / Mens Rea for Controlled Substances, Ch 15, Refinement `mens-rea-fentanyl-asymmetry`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Attempt Actus Reus (Substantial Step vs. Proximity Test), Ch 17, Refinement `actus-reus-substantial-step` and `actus-reus-proximity-test`. Rule paraphrased accurately. -->

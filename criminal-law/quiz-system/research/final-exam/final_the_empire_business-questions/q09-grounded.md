@@ -1,17 +1,17 @@
-**Q9.** Assume Dominic is charged with intentional murder (rather than felony murder) and raises a claim of self-defense, arguing he shot Victor only to protect himself from Victor's knife. Will Dominic's self-defense claim succeed?
+**Q9.** The prosecution charges Carmine with the murder of Ben. Is Carmine liable for Ben's death under the *Pinkerton* doctrine?
 
-(a) Yes, because Victor's use of a deadly weapon created an imminent threat of death or great bodily harm, satisfying the objective reasonableness standard.
-(b) Yes, because the castle doctrine allows a person to use deadly force without retreating when confronted by an armed individual during a business dispute.
-(c) No, because a defendant who initiates an armed robbery is the initial aggressor and is barred from claiming self-defense against the victim's lawful resistance. <!-- correct -->
-(d) No, because Dominic failed to seek a safe and viable avenue of retreat before deploying deadly force against Victor in the restaurant.
-(e) No, because the imperfect self-defense doctrine strictly requires the defendant's belief in the need for deadly force to be objectively and subjectively reasonable.
+(a) Guilty, because the shooting occurred during the execution of the agreed-upon burglary and an armed confrontation was a reasonably foreseeable consequence. <!-- correct -->
+(b) Guilty, because any death caused by a co-conspirator automatically results in strict liability for all members, regardless of its foreseeability.
+(c) Not guilty, because Carmine did not explicitly authorize or formally agree to the fatal shooting of Ben Miller in the warehouse.
+(d) Not guilty, because Marcus fired blindly with his eyes closed, breaking the causal chain between the conspiracy and the resulting death.
+(e) Not guilty, because the Pinkerton doctrine only applies strictly to federal drug trafficking offenses, not property crimes or state homicides.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct because a defendant who initiates an armed robbery is the initial aggressor. The initial aggressor doctrine bars a person who starts a deadly confrontation from claiming self-defense against the victim's lawful use of defensive force. (a) is incorrect because the initial aggressor bar supersedes the objective reasonableness of the threat. (b) is incorrect because the castle doctrine applies to defending one's own home or business, not to an armed robber invading someone else's business. (d) is incorrect because while retreat is generally required, Dominic's claim is categorically barred by his status as the initial aggressor before the retreat analysis even applies. (e) is incorrect because imperfect self-defense involves a genuine but objectively unreasonable belief; here, the claim fails entirely due to the initial aggressor bar.
+**Explanation:** Carmine is guilty under the *Pinkerton* doctrine. *Pinkerton* holds that a conspirator is liable for any substantive offenses committed by a co-conspirator that are in furtherance of the conspiracy, fall within its scope, and are reasonably foreseeable as a necessary or natural consequence. An armed confrontation and resulting death is a highly foreseeable consequence of burglarizing a rival's warehouse at midnight. (b) fails because *Pinkerton* requires the substantive crime to be reasonably foreseeable, not an automatic strict liability for any act. (c) fails because explicit authorization of the specific target offense (the shooting) is not required; foreseeability of the act in furtherance of the conspiracy suffices. (d) fails because firing blindly is exactly the type of reckless action foreseeable during an interrupted burglary. (e) fails because *Pinkerton* applies generally to all conspiracies across most jurisdictions, not just federal drug cases.
 
-**Tags:** chapters: [22], topics: [self-defense, initial-aggressor], difficulty: easy, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, pinkerton-liability], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22 (Self-Defense; Initial Aggressor Bar)
+**Grounding:** Chapter 19 (Pinkerton Doctrine)
 
-<!-- grounding: GROUNDED — initial aggressor bar, Ch 22, Refinement `initial-aggressor-bar`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Pinkerton doctrine, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->

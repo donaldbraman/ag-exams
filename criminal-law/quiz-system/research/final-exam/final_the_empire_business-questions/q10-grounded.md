@@ -1,17 +1,17 @@
-**Q10.** The government charges Carmine with the murder of Victor, arguing that as Dominic's co-conspirator in the robbery and extortion enterprise, Carmine is liable for Dominic's actions. Is Carmine guilty of Victor's murder?
+**Q10.** Assume that Marcus is charged with felony murder for Ben's death. Will Marcus be convicted under the felony-murder rule?
 
-(a) Yes, because under the Pinkerton doctrine, a conspirator is liable for any reasonably foreseeable substantive offenses committed by a co-conspirator in furtherance of the conspiracy. <!-- correct -->
-(b) Yes, because the Wharton's Rule establishes that any homicide occurring during an organized crime enterprise is automatically attributable to the enterprise's leadership.
-(c) No, because Carmine was not present at the restaurant and did not provide any affirmative assistance to the specific robbery that resulted in Victor's death.
-(d) No, because the Pinkerton doctrine was explicitly rejected by federal courts and only applies in jurisdictions that have adopted the Model Penal Code.
-(e) No, because murder requires specific intent, and criminal liability for specific intent crimes cannot be transferred vicariously through a general conspiracy charge.
+(a) Yes, because the burglary had an independent felonious purpose to steal hard drives and therefore does not merge into the homicide. <!-- correct -->
+(b) Yes, because any felony that results in a death automatically qualifies as a predicate offense without regard to its underlying purpose.
+(c) No, because Marcus did not possess the specific intent to kill when he fired blindly across the warehouse office.
+(d) No, because the burglary legally merges into the homicide since the act of breaking in immediately preceded the fatal shooting.
+(e) No, because Ben was an active participant in the violent encounter by lunging at the intruder with a heavy crowbar.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because under the Pinkerton doctrine, Carmine (as a co-conspirator in the extortion and robbery enterprise) is vicariously liable for any substantive offenses committed by Dominic that are reasonably foreseeable and in furtherance of the conspiracy, such as a homicide during a robbery. (b) is incorrect because Wharton's Rule applies to crimes that logically require two people (like dueling), not homicides. (c) is incorrect because Pinkerton liability requires no presence or affirmative assistance for the substantive crime, only membership in the conspiracy. (d) is incorrect because Pinkerton is the controlling federal standard; it is the Model Penal Code that rejects it. (e) is incorrect because Pinkerton allows vicarious liability for specific intent crimes committed by co-conspirators.
+**Explanation:** Marcus is guilty of felony murder. Under the merger doctrine, an assaultive felony that is not independent of the homicide merges with it and cannot serve as a predicate for felony murder. However, burglary with the intent to commit theft (stealing hard drives) possesses an independent felonious purpose separate from injuring the victim, so it does not merge and serves as a valid predicate. (b) fails because the merger doctrine limits predicate offenses to those with independent purposes. (c) fails because felony murder substitutes the intent to commit the underlying felony for the intent to kill, rendering specific intent to kill unnecessary. (d) fails because temporal proximity does not dictate merger; the legal test focuses on independent felonious purpose. (e) fails because a victim's lawful self-defense does not sever liability for the felon whose predicate crime caused the death.
 
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton-liability], difficulty: medium, cognitive: application
+**Tags:** chapters: [14], topics: [felony-murder, merger-doctrine, independent-purpose], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 (Pinkerton Doctrine)
+**Grounding:** Chapter 14 (Merger Doctrine; Independent Felonious Purpose)
 
-<!-- grounding: GROUNDED — Pinkerton doctrine, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Merger Doctrine (Independent Felonious Purpose), Ch 14, Refinement `merger-independent-purpose`. Rule paraphrased accurately. -->

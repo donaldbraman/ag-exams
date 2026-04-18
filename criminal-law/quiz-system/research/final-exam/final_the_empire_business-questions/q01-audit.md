@@ -1,26 +1,5 @@
-**Q1.** The government charges Carmine with violating RICO under 18 U.S.C. § 1962(c), alleging that Pinnacle Waste is a racketeering enterprise. Can a lawfully chartered corporation serve as a RICO enterprise under these facts?
+<!-- audit: MUST FIX -->
 
-(a) Yes, because a legitimate corporation can constitute a RICO enterprise when its ordinary business structure is repurposed to facilitate racketeering activity. <!-- correct -->
-(b) Yes, because any business owned by a person who commits two or more predicate acts automatically becomes a RICO enterprise as a matter of law.
-(c) No, because an association-in-fact enterprise requires a wholly illicit purpose and cannot be formed using the infrastructure of a legitimate commercial operation.
-(d) No, because Pinnacle Waste's formal charter establishes it as a lawful entity, which categorically shields it from being designated a criminal enterprise.
-(e) No, because the government must prove that the corporation itself, rather than its individual officers, committed the predicate racketeering acts.
+**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
 
-**Answer:** (a)
-
-**Explanation:** (a) is correct because under RICO, a legitimate corporation like Pinnacle Waste can serve as an enterprise when its ordinary business infrastructure is repurposed to conduct racketeering activity, such as laundering extortion proceeds. (b) is incorrect because an enterprise requires structural features (relationships, shared purpose), not just a single owner committing crimes. (c) is incorrect because courts consistently hold that lawful entities can serve as an enterprise. (d) is incorrect because a formal legal charter does not immunize an entity from being an enterprise. (e) is incorrect because the statute punishes the individuals who conduct the enterprise's affairs through racketeering, not just the corporate entity itself.
-
-**Tags:** chapters: [20], topics: [RICO, corporate-enterprise], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 20 (Insys Therapeutics Note; corporate-enterprise)
-
-<!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass (though it relies on facts absent from the stem)
-check 4: MUST FIX. The stem asks to evaluate "under these facts," but provides almost no facts. Option A relies on the corporation's "ordinary business structure [being] repurposed," and the explanation references "laundering extortion proceeds," but neither of these details exists in the one-sentence prompt. 
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Add 1-2 sentences to the stem establishing Carmine's conduct. For example: "Carmine takes control of Pinnacle Waste, a lawfully chartered garbage disposal corporation, and uses its trucks and payroll system to smuggle drugs and launder extortion proceeds."
--->
+Error: Model returned empty or blocked response.

@@ -1,33 +1,39 @@
-**Q12.** The government charges Dominic with constructively possessing the 9mm handgun found in his wife's bedside drawer. Dominic's statement confirms he knew the gun was there. Will the government succeed in proving constructive possession?
+**Q12.** Assume that the jurisdiction's conspiracy statute requires proof of an overt act. Are Carmine and Marcus guilty of conspiracy to commit arson immediately following their May 1 interaction?
 
-(a) Yes, because a defendant's admission that he is aware of the presence of contraband in his home conclusively establishes constructive possession.
-(b) Yes, because spouses in a shared household are legally presumed to have joint dominion and control over all items within the shared residence.
-(c) No, because the government must prove Dominic intended to exercise dominion and control, and the gun was in a space within his wife's exclusive control. <!-- correct -->
-(d) No, because the Second Amendment prevents the government from charging a felon with constructive possession if another household member legally owns the weapon.
-(e) No, because the snapshot rule requires the government to present direct evidence of the defendant physically handling the contraband at some point.
+(a) Not guilty, because while they formed a bilateral agreement, neither party committed an overt act in furtherance of the conspiracy prior to arrest. <!-- correct -->
+(b) Not guilty, because Carmine only ordered Marcus to commit the crime and did not agree to participate in the arson himself.
+(c) Guilty, because Marcus's express verbal agreement to execute the arson the following night independently satisfies the overt act requirement.
+(d) Guilty, because the underlying offense of arson is considered severe enough to legally dispense with the overt act requirement entirely.
+(e) Guilty, because their mutual understanding to eliminate the competition satisfies both the agreement and overt act elements simultaneously.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct because constructive possession requires both awareness and the intent to exercise dominion and control. Because the gun was found in a space within his wife's exclusive control (her personal dresser drawer), and Dominic stated he never touches her items, the government cannot establish his dominion and control. (a) is incorrect because awareness alone is a necessary but insufficient condition for constructive possession. (b) is incorrect because shared households require space-specific analysis, not a presumption of joint control over all items. (d) is incorrect because while the Second Amendment dimension is emerging, constructive possession inherently requires a fact-based analysis of dominion and control which fails here first. (e) is incorrect because the "snapshot" limitation refers to proximity without conduct, not a requirement for photographic evidence.
+**Explanation:** They are not guilty. A conspiracy requires an agreement to commit a target crime. However, in jurisdictions that require an overt act, the act must be distinct from the agreement itself. Since they only ordered and agreed (forming the bilateral agreement), no overt act was committed. (b) fails because a boss who orders a crime and agrees to its commission is fully liable as a co-conspirator, even without personal participation in the final act. (c) fails because the verbal agreement constitutes the agreement element, and an overt act must be a subsequent step in furtherance. (d) fails because statutory overt act requirements generally apply across offenses unless specifically exempted, and severity alone does not waive the element. (e) fails because the agreement and the overt act must be distinct factual elements.
 
-**Tags:** chapters: [15], topics: [constructive-possession, exclusive-control, dominion-and-control], difficulty: hard, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, agreement, overt-act], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15 (State of Louisiana v. White; Exclusive Control)
+**Grounding:** Chapter 19 (Overt Act Requirement)
 
-<!-- argument-pass: MUST FIX
-(a) Argument-for: A student could argue that knowledge of contraband in one's own home satisfies the requirements for constructive possession, reasoning that "awareness" fulfills the mens rea and the location in the home establishes the requisite connection. Thus, they might conclude that an admission of knowledge "conclusively establishes" guilt.
-(b) Argument-for: Drawing on community property or family law concepts, a student might assume that marriage creates a legal fiction of shared ownership. Therefore, they could argue that spouses are "legally presumed" to have joint dominion and control over all household items, extending this civil concept to criminal liability.
-(c) Argument-for: Constructive possession requires both knowledge of the contraband and the intent/ability to exercise dominion and control over it. Because the gun was found in a highly personal space (the wife's bedside drawer), a student would correctly identify that the government lacks evidence of Dominic's dominion and control, meaning the charge will fail.
-(d) Argument-for: Following recent expansion of Second Amendment rights, a student might argue that courts categorically prevent constructive possession charges against cohabitating felons when a non-prohibited spouse legally owns the firearm, to avoid chilling the spouse's constitutional rights.
-(e) Argument-for: A student might recall rules governing evidentiary timing (like the "snapshot rule") and argue that constructive possession is merely a substitute for actual possession that still strictly requires past direct evidence of physical handling to satisfy the actus reus requirement.
+<!-- argument-pass: CLEAN
 
-Head-to-head: The distractors are well-constructed with explicitly falsifiable absolute claims ("conclusively establishes", "legally presumed", "prevents the government from charging", "requires... direct evidence"). However, the keyed answer (c) relies on a fact not present in the prompt. Option (c) concludes the charge fails because the gun was in a space within the wife's "exclusive control," and the explanation justifies this by noting "Dominic stated he never touches her items." Because this crucial fact is entirely omitted from the question stem, (c) assumes facts not in evidence, making the question broken and requiring a MUST FIX verdict. 
+(a) Argument-for: Under standard conspiracy doctrine in jurisdictions requiring an overt act, the actus reus of conspiracy demands both an agreement and an outward act in furtherance of that agreement. Assessing their liability "immediately following" the formation of the agreement necessarily means no subsequent act has yet taken place. Thus, the overt act element is unsatisfied, rendering both parties not guilty of the completed crime of conspiracy at that exact moment.
+
+(b) Argument-for: A student could argue that for a conspiracy to exist, the parties must form a mutual agreement to commit the target offense together. Since Carmine "only ordered" Marcus to do the act and did not agree to personally participate in the arson, there is no true bilateral agreement to jointly execute the crime. Under this view, Carmine acts merely as an inciter or solicitor, falling short of the agreement necessary for conspiracy liability.
+
+(c) Argument-for: A student could argue that speech can constitute an overt act. While the mere mental assent or silent agreement forms the conspiracy, Marcus's verbalized, detailed commitment to execute the arson "the following night" is an outward, observable act that furthers the conspiracy. Therefore, this express verbal confirmation goes beyond mere agreement and serves as the independent overt act required by the statute.
+
+(d) Argument-for: A student could argue that general rules requiring overt acts frequently contain statutory or common-law exceptions for particularly severe offenses. Arson, being an inherently dangerous felony, might automatically trigger such an exception. Therefore, despite the jurisdiction's general overt act requirement for conspiracy, the severity of arson legally dispenses with the need for an overt act entirely, making the agreement alone punishable.
+
+(e) Argument-for: A student could argue that the physical act of communicating the mutual understanding—whether by speaking, nodding, or shaking hands—is inherently overt conduct. Since the law does not strictly require a massive temporal gap between the agreement and the overt act, the outward manifestation of forming the agreement can double as the overt act. Thus, establishing the mutual understanding simultaneously satisfies both elements.
+
+Head-to-head:
+Option (a) correctly applies the fundamental legal principle that an overt act must be distinct from the agreement itself, and since they are assessed "immediately following" the interaction, no overt act could have occurred. Option (b) rests on the false premise that a co-conspirator must agree to participate in the target offense's commission. Option (c) mistakenly claims the verbal agreement itself can serve as the overt act, collapsing the two distinct elements. Option (d) directly contradicts the prompt's explicit instruction to assume the statute requires an overt act. Option (e) fails for the same reason as (c)—the agreement cannot simultaneously serve as the overt act. All distractors contain clearly falsifiable legal claims.
 
 Falsifiable claim per distractor:
-- (a): "conclusively establishes constructive possession" — wrong because awareness is merely a necessary condition; the government must also independently prove the intent and ability to exercise dominion and control.
-- (b): "legally presumed to have joint dominion and control over all items" — wrong because criminal law requires a fact-specific inquiry into dominion and control for shared households, not a blanket legal presumption.
-- (d): "the Second Amendment prevents the government from charging a felon... if another household member legally owns the weapon" — wrong because no such categorical Second Amendment immunity exists; constructive possession relies on dominion and control, regardless of spousal ownership (furthermore, the prompt never states Dominic is a felon).
-- (e): "requires the government to present direct evidence of the defendant physically handling" — wrong because constructive possession can be established entirely through circumstantial evidence of dominion and control, without any direct evidence of physical handling.
+- (b): "did not agree to participate in the arson himself" — wrong because conspiracy does not require a co-conspirator to personally participate or agree to personally participate in the commission of the target crime; a boss ordering a crime is fully liable.
+- (c): "express verbal agreement to execute the arson the following night independently satisfies the overt act requirement" — wrong because an overt act must be an act distinct from and in furtherance of the agreement itself.
+- (d): "legally dispense with the overt act requirement entirely" — wrong because the prompt explicitly commands the student to "Assume that the jurisdiction's conspiracy statute requires proof of an overt act," and such elements cannot simply be dispensed with based on severity alone in this context.
+- (e): "satisfies both the agreement and overt act elements simultaneously" — wrong because in jurisdictions requiring an overt act, the agreement and the overt act are distinct elements that cannot be satisfied by the exact same conduct simultaneously.
 
-Recommended fix: Add the missing fact to the prompt to properly set up the keyed answer. Edit the prompt to say: "Dominic's statement confirms he knew the gun was there, but he explicitly stated he never opens that drawer or touches her personal items."
+Recommended fix: none
 -->

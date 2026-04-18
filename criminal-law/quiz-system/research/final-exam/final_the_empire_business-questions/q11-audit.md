@@ -1,26 +1,26 @@
-**Q11.** The government charges Dominic with attempted murder of Elias. Dominic argues that because Elias never emerged from the house and Dominic never aimed or fired the weapon, his actions constituted mere preparation. Under the Model Penal Code's substantial step test, is Dominic guilty of attempted murder?
+**Q11.** Assume for this question only that the jurisdiction has abolished the felony-murder rule. What is Marcus's highest level of homicide liability for the death of Ben?
 
-(a) Yes, because Dominic came dangerously close to completing the crime, satisfying the traditional common law proximity test for criminal attempt.
-(b) Yes, because driving to the location and lying in wait with a loaded weapon strongly corroborates his criminal purpose to kill Elias. <!-- correct -->
-(c) No, because Dominic had not yet reached the point of no return where he lost the power to voluntarily abandon the assassination effort.
-(d) No, because without aiming or firing the weapon, Dominic's actions remained entirely equivocal as to his ultimate intent to commit murder.
-(e) No, because the victim's failure to emerge from the house renders the completion of the crime legally impossible under the circumstances.
+(a) Depraved heart murder, because emptying a magazine in a small occupied room demonstrates an extreme indifference to the value of human life. <!-- correct -->
+(b) Intentional murder, because the law automatically presumes the specific intent to kill whenever a firearm is discharged at another person.
+(c) Voluntary manslaughter, because Marcus fired in response to adequate provocation when Ben unexpectedly charged at him with a heavy crowbar.
+(d) Involuntary manslaughter, because firing with his eyes closed constitutes gross negligence rather than the conscious disregard required for criminal recklessness.
+(e) No criminal homicide liability, because closing his eyes negates the voluntary act requirement necessary for any level of criminal homicide.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** (b) is correct because under the Model Penal Code's substantial step test, driving to the location and lying in wait with a loaded weapon strongly corroborates the actor's criminal purpose and goes far beyond mere preparation. (a) is incorrect because lying in wait is an MPC substantial step concept; the traditional proximity test requires being dangerously close to physical completion, which is a stricter and different standard. (c) is incorrect because the "point of no return" is a feature of the proximity test, whereas a substantial step can occur much earlier. (d) is incorrect because aiming or firing is not required; lying in wait is explicitly listed in the MPC as sufficient. (e) is incorrect because factual impossibility (the victim not emerging) is not a defense to attempt under the MPC.
+**Explanation:** Marcus is guilty of extreme indifference or depraved heart murder. Even without specific intent to kill, emptying a six-round magazine blindly in a small, enclosed space occupied by another person is an act of extreme recklessness that manifests a depraved indifference to human life, elevating the homicide from manslaughter to second-degree murder. (b) fails because firing blindly with closed eyes does not automatically prove a specific purpose or knowledge that death will result (intentional murder). (c) fails because a victim's lawful use of force against a burglar is not legally "adequate provocation" sufficient to trigger the heat-of-passion mitigation. (d) fails because discharging a firearm multiple times in an occupied room is a conscious disregard of a substantial and unjustifiable risk, not mere negligence. (e) fails because closing one's eyes is a voluntary choice, not an involuntary reflex or automatism.
 
-**Tags:** chapters: [17], topics: [attempt, substantial-step, model-penal-code], difficulty: medium, cognitive: application
+**Tags:** chapters: [13], topics: [homicide-grading, extreme-recklessness, depraved-heart], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17 (Attempt — Actus Reus Substantial Step)
+**Grounding:** Chapter 13 (Unintentional Homicide; Extreme Indifference Standard)
 
 <!-- audit: MUST FIX
-Check 1: pass (the legal conclusion in the correct answer is accurate under the MPC).
-Check 2: pass (the distractors plausibly represent alternative attempt tests like proximity, equivocality, and impossibility).
-Check 3: pass (the explanation correctly identifies the legal distinctions between the tests).
-Check 4: MUST FIX (The stem completely fails to provide the affirmative facts of Dominic's conduct. It only tells us what he *didn't* do (didn't aim or fire) and what Elias didn't do (didn't emerge). Option B then relies on facts not present in the stem—"driving to the location and lying in wait with a loaded weapon," as well as his "criminal purpose to kill." Students cannot assess whether conduct is strongly corroborative without knowing the conduct).
-Check 5: pass (explicitly calls for MPC substantial step).
-Check 6: pass (no excluded topics triggered).
-Check 7: pass (Substantial step is explicitly mapped in Ch 17).
-Recommended fix: Add the affirmative act and mens rea to the first sentence of the stem. For example: "Dominic drives to Elias's house with a loaded weapon and waits outside, intending to kill Elias when he leaves for work. The government charges..."
+Check 1: MUST FIX. Option (a) asserts that Depraved Heart is the "highest level" of liability. However, the facts embedded in the options (firing a six-round magazine in response to Ben charging at him with a heavy crowbar) describe a target-directed shooting. Firing at a charging attacker strongly establishes Intentional Murder (or intent-to-cause-GBH murder). Closing one's eyes in fear while shooting an attacker does not legally negate purpose or knowledge. Therefore, Depraved Heart is likely under-grading the homicide.
+Check 2: MUST FIX. Because Intentional Murder is highly supported by the facts, a smart student is trapped. Option (b) correctly identifies Intentional Murder but pairs it with a fatally flawed legal rationale (the law does not "automatically presume" specific intent; that violates *Sandstrom*). The student must choose between an option with the true highest grade but a false rationale (b), and an option with a lower grade but a defensible rationale (a). 
+Check 3: pass. The explanation accurately tracks the distinction between extreme indifference and simple negligence.
+Check 4: MUST FIX. The question stem contains no facts. It relies entirely on a missing macro-scenario. To function properly, the core facts (Marcus burglarizing, Ben charging with a crowbar, Marcus closing his eyes and emptying his magazine) must be integrated into the stem.
+Check 5: pass. The stem resolves jurisdictional ambiguity regarding the felony-murder rule by explicitly stipulating its abolition.
+Check 6: pass. No excluded topics.
+Check 7: pass. The doctrine is covered under Ch 13 (`extreme-indifference-standard`).
+Recommended fix: First, move the necessary facts into the stem. Second, to resolve the substantive flaw, change the call of the question from "What is Marcus's highest level of homicide liability?" to "Which of the following is the most accurate statement regarding Marcus's homicide liability?" This removes the "highest level" constraint, allowing (a) to be cleanly correct without forcing students to weigh it against Intentional Murder. Alternatively, fix (b) to be the correct answer by providing a valid rationale (e.g., "...because firing six times at a charging person supports a finding of intent to kill or cause serious bodily harm, even if his eyes were closed").
 -->

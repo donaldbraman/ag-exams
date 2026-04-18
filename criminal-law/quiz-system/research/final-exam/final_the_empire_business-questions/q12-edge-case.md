@@ -1,21 +1,22 @@
-**Q12.** The government charges Dominic with constructively possessing the 9mm handgun found in his wife's bedside drawer. Dominic's statement confirms he knew the gun was there. Will the government succeed in proving constructive possession?
+**Q12.** Assume that the jurisdiction's conspiracy statute requires proof of an overt act. Are Carmine and Marcus guilty of conspiracy to commit arson immediately following their May 1 interaction?
 
-(a) Yes, because a defendant's admission that he is aware of the presence of contraband in his home conclusively establishes constructive possession.
-(b) Yes, because spouses in a shared household are legally presumed to have joint dominion and control over all items within the shared residence.
-(c) No, because the government must prove Dominic intended to exercise dominion and control, and the gun was in a space within his wife's exclusive control. <!-- correct -->
-(d) No, because the Second Amendment prevents the government from charging a felon with constructive possession if another household member legally owns the weapon.
-(e) No, because the snapshot rule requires the government to present direct evidence of the defendant physically handling the contraband at some point.
+(a) Not guilty, because while they formed a bilateral agreement, neither party committed an overt act in furtherance of the conspiracy prior to arrest. <!-- correct -->
+(b) Not guilty, because Carmine only ordered Marcus to commit the crime and did not agree to participate in the arson himself.
+(c) Guilty, because Marcus's express verbal agreement to execute the arson the following night independently satisfies the overt act requirement.
+(d) Guilty, because the underlying offense of arson is considered severe enough to legally dispense with the overt act requirement entirely.
+(e) Guilty, because their mutual understanding to eliminate the competition satisfies both the agreement and overt act elements simultaneously.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct because constructive possession requires both awareness and the intent to exercise dominion and control. Because the gun was found in a space within his wife's exclusive control (her personal dresser drawer), and Dominic stated he never touches her items, the government cannot establish his dominion and control. (a) is incorrect because awareness alone is a necessary but insufficient condition for constructive possession. (b) is incorrect because shared households require space-specific analysis, not a presumption of joint control over all items. (d) is incorrect because while the Second Amendment dimension is emerging, constructive possession inherently requires a fact-based analysis of dominion and control which fails here first. (e) is incorrect because the "snapshot" limitation refers to proximity without conduct, not a requirement for photographic evidence.
+**Explanation:** They are not guilty. A conspiracy requires an agreement to commit a target crime. However, in jurisdictions that require an overt act, the act must be distinct from the agreement itself. Since they only ordered and agreed (forming the bilateral agreement), no overt act was committed. (b) fails because a boss who orders a crime and agrees to its commission is fully liable as a co-conspirator, even without personal participation in the final act. (c) fails because the verbal agreement constitutes the agreement element, and an overt act must be a subsequent step in furtherance. (d) fails because statutory overt act requirements generally apply across offenses unless specifically exempted, and severity alone does not waive the element. (e) fails because the agreement and the overt act must be distinct factual elements.
 
-**Tags:** chapters: [15], topics: [constructive-possession, exclusive-control, dominion-and-control], difficulty: hard, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, agreement, overt-act], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15 (State of Louisiana v. White; Exclusive Control)
+**Grounding:** Chapter 19 (Overt Act Requirement)
 
-<!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass
+<!-- edge-case-audit: SHOULD FIX
+1. Fact Pattern Booby Traps: Choice (a) includes the phrase "prior to arrest," but no arrest occurs on or around May 1 (the characters continue their crime spree well into June). This hallucinated fact makes the "correct" option factually incongruent with the fact pattern, which could deter a student from selecting it. 
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
+Recommended fix: Remove the phrase "prior to arrest" from choice (a) so it cleanly ends at "...in furtherance of the conspiracy."
 -->

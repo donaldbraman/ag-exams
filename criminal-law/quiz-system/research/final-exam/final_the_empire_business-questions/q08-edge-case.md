@@ -1,22 +1,22 @@
-**Q8.** Dominic is charged with felony murder for the death of Victor. Dominic argues that he only shot Victor because Victor pulled a knife on him, and therefore the killing was a defensive reaction, not murder. Is Dominic guilty of felony murder?
+**Q8.** Marcus is charged with criminal homicide for the shooting of Ben. Will Marcus be completely acquitted based on the justification of self-defense?
 
-(a) Yes, because a defendant who kills during the commission of an inherently dangerous enumerated felony is strictly liable for murder, regardless of his defensive intent. <!-- correct -->
-(b) Yes, because Victor pulling a knife constitutes an intervening independent cause that legally transfers the malice aforethought from the victim to the defendant.
-(c) No, because the agency rule precludes felony murder liability when the victim initiates the use of deadly force against the felon to protect their property.
-(d) No, because a defensive killing during a felony breaks the causal chain and triggers the misdemeanor manslaughter rule instead of felony murder.
-(e) No, because the merger doctrine prohibits using an assaultive act like shooting a robbery victim as the predicate for a felony murder conviction.
+(a) No, because Marcus was the initial aggressor in the burglary and did not withdraw or attempt to retreat before using deadly force. <!-- correct -->
+(b) No, because an objectively reasonable person would never perceive a lunging strike with a crowbar as a threat of imminent serious injury.
+(c) Yes, because Ben escalated the encounter by lunging with a deadly weapon, which instantly restored Marcus's right to defend himself.
+(d) Yes, because Marcus closed his eyes and fired blindly, proving he lacked the specific intent required to commit an unlawful homicide.
+(e) Yes, because a burglar has no duty to retreat when unexpectedly confronted by an armed property owner inside a commercial building.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because felony murder imposes strict liability for any death caused during the commission of an inherently dangerous enumerated felony (like robbery). Dominic's intent in shooting Victor (even if defensive) is irrelevant because malice is substituted by the intent to commit the robbery. (b) is incorrect because the victim's defensive resistance is a foreseeable consequence of an armed robbery, not an independent intervening cause. (c) is incorrect because the agency rule only prevents liability when a non-felon fires the fatal shot, not when the felon himself shoots. (d) is incorrect because deaths caused by the felon during the res gestae of a felony are felony murder, not misdemeanor manslaughter. (e) is incorrect because the merger doctrine applies to standalone assaultive felonies, not independent felonies with an independent purpose like robbery.
+**Explanation:** Marcus cannot claim self-defense. Under the initial aggressor bar, a person who initiates the confrontation—especially by committing an armed felony like burglary—loses the right to claim self-defense unless they clearly withdraw from the conflict and communicate that withdrawal. Marcus did not attempt to retreat out the open door. (b) fails because a heavy steel crowbar swung by an adult is objectively capable of causing death or serious bodily injury. (c) fails because a victim's use of force to resist a home invasion or burglary does not restore the initial aggressor's right to self-defense. (d) fails because self-defense is an affirmative justification, and firing blindly can still constitute extremely reckless homicide regardless of specific intent. (e) fails because the castle doctrine (no duty to retreat) protects lawful occupants in their own home, not intruders committing burglary.
 
-**Tags:** chapters: [14], topics: [felony-murder, strict-liability, merger-doctrine], difficulty: easy, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, initial-aggressor, objective-reasonableness], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 14 (Felony Murder Strict Liability Structure)
+**Grounding:** Chapter 22 (Initial Aggressor Bar; Duty to Retreat)
 
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The prompt and Stem 2 completely omit the underlying felony (robbery) required to trigger the rule. Fact 8 in the Scenario Package was left as a meta-instruction ("Change phrasing from 'extortion run' to 'collection run' or 'robbery'...") and never actually established in the facts or the stem. Without establishing the robbery, Option A's reliance on an "inherently dangerous enumerated felony" assumes facts not in evidence.
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: Add the facts of the robbery directly to Q8. E.g., "While Dominic was committing an armed robbery of Victor's restaurant, Victor pulled a knife to defend himself. Dominic shot and killed Victor. Dominic is charged with felony murder..."
+Recommended fix: n/a
 -->
