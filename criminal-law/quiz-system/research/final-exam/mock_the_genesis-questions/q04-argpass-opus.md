@@ -1,0 +1,34 @@
+**Q4.** Albert is charged under the State Public Welfare Chemical Act for unpermitted ether storage. The statute is silent on mental state. Under the *Morissette* framework, is this offense likely a strict liability crime?
+
+(a) Yes, because possessing highly volatile ether puts the possessor on notice of likely regulation, satisfying the dangerous items heuristic. <!-- correct -->
+(b) Yes, because any statute that carries a potential term of imprisonment is automatically classified as a public welfare strict liability offense.
+(c) No, because the *Morissette* presumption requires that all statutes silent on mens rea be interpreted to require specific intent.
+(d) No, because Albert personally concluded that university laboratories were implicitly exempt from the fire safety permit requirement.
+(e) No, because the Act lacks explicit legislative history proving that lawmakers intended to abandon the traditional common law mens rea requirement.
+
+**Answer:** (a)
+
+**Explanation:** Under the *Morissette* framework, public welfare offenses may dispense with mens rea if they regulate highly dangerous items. Possessing 10 gallons of highly volatile ether is an inherently dangerous activity that puts the possessor on notice that the conduct is likely regulated (the "dangerous items heuristic"). Combined with the minor penalty (30 days), this justifies strict liability. (b) is wrong because the threat of imprisonment (especially severe penalties) normally cuts *against* strict liability (*Staples*). (c) is wrong because the *Morissette* presumption can be overcome for regulatory public welfare offenses. (d) is wrong because a personal misreading of a statute does not override strict liability. (e) is wrong because *Morissette* and *Balint* establish that explicit legislative history is not required to find a public welfare offense if the structural factors are met.
+
+**Tags:** chapters: [11], topics: [public welfare offenses, strict liability, dangerous items heuristic, Morissette], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 11 — morissette-factor-2-dangerous-items
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under the *Morissette* doctrine and later cases like *Staples v. United States* and *United States v. International Minerals*, courts evaluate whether a statute creates a public welfare strict liability offense by looking at the nature of the regulated item. Highly volatile chemicals like ether are inherently dangerous, which puts the possessor on notice that strict regulation is highly likely. Because of this dangerous items heuristic, statutory silence on mens rea is correctly interpreted as creating a strict liability offense.
+(b) Argument-for: A student could argue that if a statute includes imprisonment, it proves the legislature took the offense seriously as an essential police power regulation. Under this view, the presence of a penal sanction is what transforms an ordinary civil regulation into a criminal public welfare offense. Therefore, carrying imprisonment automatically triggers the strict liability classification.
+(c) Argument-for: The core holding of *Morissette v. United States* is that mere statutory silence does not eliminate the common law requirement for mens rea. A student could argue that the presumption of mens rea is so strong that any silent statute must be read to include the highest level of intent to protect defendants from accidental criminal liability, meaning it must categorically require specific intent.
+(d) Argument-for: A student could argue that even if an offense appears to be a strict liability public welfare offense, it cannot be enforced if the defendant lacked a fair warning that their specific conduct fell within the statute. Albert's personal conclusion that university labs were exempt could be framed as negating the fundamental notice required for due process, thus precluding strict liability for his specific case.
+(e) Argument-for: The presumption in favor of mens rea is deeply rooted in Anglo-American common law. A student could argue that a court cannot override this fundamental background principle without undeniable proof of legislative intent. Under this reasoning, without explicit, affirmative legislative history proving lawmakers meant to create a strict liability offense, the *Morissette* presumption of mens rea remains intact.
+
+Head-to-head:
+Option (a) accurately states the correct legal rule: under the *Morissette* framework (and *Staples*), the dangerous nature of an item puts the possessor on notice of regulation, justifying a strict liability interpretation when a statute is silent. Option (b) is definitively false because imprisonment actually cuts *against* finding a strict liability offense under *Staples*, rather than automatically classifying it as one. Option (c) relies on an explicit absolute ("requires that all statutes silent... require specific intent") which is legally false, as courts routinely read in general intent or allow strict liability exceptions. Option (d) erroneously links a defendant's subjective mistake of law ("personally concluded") to the objective task of statutory classification. Option (e) imposes a false legal prerequisite, claiming that "explicit legislative history" is required to find strict liability, ignoring that the nature of the item itself can overcome the presumption. All distractors contain clearly identifiable false legal claims.
+
+Falsifiable claim per distractor:
+- (b): "any statute that carries a potential term of imprisonment is automatically classified as a public welfare strict liability offense" — wrong because imprisonment (especially severe terms) strongly weighs against strict liability classification under the *Staples* framework.
+- (c): "requires that all statutes silent on mens rea be interpreted to require specific intent" — wrong because the presumption does not demand specific intent for all silent statutes; it often reads in only general intent, and the presumption can be entirely overcome in public welfare offenses.
+- (d): "because Albert personally concluded that university laboratories were implicitly exempt" — wrong because a defendant's personal, subjective mistake of law has no bearing on whether a statute is objectively classified as a strict liability crime.
+- (e): "lacks explicit legislative history proving that lawmakers intended" — wrong because explicit legislative history is not a mandatory prerequisite to classifying an offense as a public welfare strict liability crime; courts frequently rely on the nature of the regulated item and statutory structure.
+
+Recommended fix: none
+-->

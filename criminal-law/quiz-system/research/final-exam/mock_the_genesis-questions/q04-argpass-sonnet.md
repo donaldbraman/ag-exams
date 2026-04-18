@@ -1,0 +1,33 @@
+**Q4.** Albert is charged under the State Public Welfare Chemical Act for unpermitted ether storage. The statute is silent on mental state. Under the *Morissette* framework, is this offense likely a strict liability crime?
+
+(a) Yes, because possessing highly volatile ether puts the possessor on notice of likely regulation, satisfying the dangerous items heuristic. <!-- correct -->
+(b) Yes, because any statute that carries a potential term of imprisonment is automatically classified as a public welfare strict liability offense.
+(c) No, because the *Morissette* presumption requires that all statutes silent on mens rea be interpreted to require specific intent.
+(d) No, because Albert personally concluded that university laboratories were implicitly exempt from the fire safety permit requirement.
+(e) No, because the Act lacks explicit legislative history proving that lawmakers intended to abandon the traditional common law mens rea requirement.
+
+**Answer:** (a)
+
+**Explanation:** Under the *Morissette* framework, public welfare offenses may dispense with mens rea if they regulate highly dangerous items. Possessing 10 gallons of highly volatile ether is an inherently dangerous activity that puts the possessor on notice that the conduct is likely regulated (the "dangerous items heuristic"). Combined with the minor penalty (30 days), this justifies strict liability. (b) is wrong because the threat of imprisonment (especially severe penalties) normally cuts *against* strict liability (*Staples*). (c) is wrong because the *Morissette* presumption can be overcome for regulatory public welfare offenses. (d) is wrong because a personal misreading of a statute does not override strict liability. (e) is wrong because *Morissette* and *Balint* establish that explicit legislative history is not required to find a public welfare offense if the structural factors are met.
+
+**Tags:** chapters: [11], topics: [public welfare offenses, strict liability, dangerous items heuristic, Morissette], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 11 — morissette-factor-2-dangerous-items
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: Under the *Morissette* and *Balint* line of cases, public welfare offenses that regulate inherently dangerous items generally dispense with a mens rea requirement. Ether is highly volatile and poses a significant risk to public safety. This inherent danger triggers the "dangerous items heuristic" (as contrasted with common items in *Staples*), effectively putting the possessor on notice that the item is heavily regulated, justifying a strict liability application.
+(b) Argument-for: A student could argue that the state’s power to enforce public welfare offenses is fundamentally backed by its police power, which includes imprisonment. Since deterrence is the primary goal of public welfare strict liability offenses, an argument could be made that any penalty structure involving imprisonment automatically signals the legislature's intent to treat the crime as a strict liability offense to maximize deterrence.
+(c) Argument-for: *Morissette* forcefully reaffirmed the enduring common law presumption of mens rea. A student could argue that this presumption is so robust that courts must resolve *any* statutory silence by imposing the highest standard of culpability—specific intent—to prevent defendants from being accidentally convicted of a crime, effectively ruling out strict liability altogether.
+(d) Argument-for: If a crime lacks explicit strict liability language, a student might assume it carries a baseline knowledge requirement. Under this view, Albert's subjective, honest belief that university laboratories were exempt constitutes a mistake of law that negates his culpability, arguing that one cannot be strictly liable if they rationally believed their conduct fell outside the statute's scope.
+(e) Argument-for: Dispensing with mens rea is generally disfavored in criminal law (*Staples*). A student could argue that without explicit, unequivocal legislative history to override the *Morissette* presumption, courts lack the judicial authority to independently create a strict liability offense, meaning mere silence must result in reading in a mens rea requirement.
+
+Head-to-head: Option (a) correctly applies the *Morissette* dangerous items heuristic to an inherently dangerous substance, which puts the defendant on notice of regulation. Option (b) is explicitly falsifiable because potential imprisonment historically cuts *against* strict liability, and it uses the bright-line absolute "automatically classified." Option (c) relies on the falsifiable claim that *Morissette* requires "specific intent" for *all* silent statutes, which is factually inaccurate (silence usually implies general intent/knowledge, and exceptions exist). Option (d) relies on the falsifiable claim that a personal mistake of law ("personally concluded") negates strict liability, which is universally false. Option (e) posits that "explicit legislative history" is strictly required, contradicting cases like *Balint* and *Freed* where strict liability was inferred from the nature of the regulated item and statutory structure.
+
+Falsifiable claim per distractor:
+- (b): "any statute that carries a potential term of imprisonment is automatically classified" — wrong because harsh penalties (imprisonment) actually invoke the presumption of mens rea (*Staples*).
+- (c): "requires that all statutes silent on mens rea be interpreted to require specific intent" — wrong because silence typically implies general intent, and public welfare exceptions override the presumption entirely.
+- (d): "because Albert personally concluded that university laboratories were implicitly exempt" — wrong because an idiosyncratic mistake of law does not defeat strict liability.
+- (e): "lacks explicit legislative history proving that lawmakers intended" — wrong because courts routinely infer strict liability from the nature of the regulated item (dangerous items heuristic) without explicit legislative history.
+
+Recommended fix: The distractors are excellent and strictly falsifiable. However, the explanation for (a) relies on a fact—"Combined with the minor penalty (30 days)"—that is entirely missing from the question stem. Update the question stem to add: "...for unpermitted ether storage, an offense carrying a maximum penalty of 30 days in jail." to properly align the prompt with the explanation.
+-->

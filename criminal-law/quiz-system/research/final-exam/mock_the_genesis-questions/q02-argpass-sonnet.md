@@ -1,0 +1,33 @@
+**Q2.** Assume Albert is charged with manufacturing offenses regarding the precursors. The prosecution charges Dan as an accomplice. Is Dan liable as an accomplice to Albert's operation?
+
+(a) Yes, because Dan's imposition of an exorbitant 500% markup establishes a financial stake in the venture that allows a jury to infer purpose. <!-- correct -->
+(b) Yes, because under common law, mere knowledge of a buyer's illicit intentions is always sufficient to establish liability as an accomplice.
+(c) No, because Dan explicitly disclaimed any interest in receiving a share of the final product's sales proceeds or business profits.
+(d) No, because Dan merely supplied a raw material and did not participate in the physical chemical synthesis process in the laboratory.
+(e) No, because Dan's statements demonstrate that he only possessed a reckless mental state regarding the ultimate outcome of the venture.
+
+**Answer:** (a)
+
+**Explanation:** Accomplice liability generally requires the specific intent (purpose) to facilitate the target crime. While a merchant selling ordinary goods at ordinary prices with mere knowledge of illegal use lacks this purpose, charging a severe premium (like a 500% markup) based on the legal risk gives the seller a financial "stake in the venture." This allows a jury to infer purpose. (b) is wrong because mere knowledge is generally insufficient for accomplice liability. (c) is wrong because a stake in the venture can be established through an inflated upfront price, not just a cut of backend profits. (d) is wrong because providing necessary materials with the requisite purpose constitutes aiding and abetting. (e) is wrong because the exorbitant markup elevates his mental state from knowledge to inferable purpose.
+
+**Tags:** chapters: [18, 19], topics: [accomplice liability, mens rea, purpose vs knowledge, stake in the venture], difficulty: medium, cognitive: analysis
+
+**Grounding:** Chapter 18 — mr-purpose-not-knowledge
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: Under the *Lauria* framework, a supplier's purposeful intent to facilitate a crime can be inferred if they have a "stake in the venture." Charging an exorbitant 500% markup specifically because of the illicit nature of the buyer's operation clearly constitutes such a stake. This financial premium demonstrates Dan's desire for the venture to succeed so he can reap inflated profits, perfectly satisfying the mens rea requirement for accomplice liability.
+(b) Argument-for: A student might argue that knowledge of a buyer's illicit intentions should be enough to establish liability, especially under older or broader common law interpretations. If a supplier knows their goods are being used to manufacture illegal drugs, they are knowingly facilitating the crime. Therefore, under a strict interpretation of facilitation, mere knowledge of the illicit purpose might be viewed as legally sufficient to establish accomplice liability in any context.
+(c) Argument-for: A student could argue that a "stake in the venture" requires tying one's compensation to the ultimate success of the criminal enterprise, such as taking a cut of the backend profits. Because Dan explicitly disclaimed any interest in the proceeds of the final product, his transaction was a simple, completed sale. Therefore, the argument goes, he lacks the ongoing financial interest necessary to infer a purposeful mens rea.
+(d) Argument-for: A student might argue that the actus reus for manufacturing a controlled substance requires more than just supplying raw materials. Accomplice liability for a specific manufacturing offense could arguably require some degree of participation in the actual synthesis process. Since Dan merely sold a precursor and did not participate in the physical chemistry laboratory work, he lacks the necessary actus reus to be considered an accomplice to the manufacturing itself.
+(e) Argument-for: Accomplice liability requires the specific intent (purpose) to aid the target offense. A student might argue that if Dan only exhibited a reckless mental state—perhaps consciously disregarding the risk that Albert would use the materials illegally—he falls short of the purpose requirement. If his statements suggest he didn't care what Albert did as long as he got paid, this could be interpreted as recklessness, which is legally insufficient for accomplice liability.
+
+Head-to-head: Option (a) is the clearly correct application of the *Lauria* "stake in the venture" doctrine, where a severe markup supports an inference of purpose. Option (b) properly locks its false legal claim with the absolute phrase "is always sufficient." However, options (c), (d), and (e) fail the close-call standard. Instead of presenting explicit, falsifiable legal rules locked by absolute words, they merely state factual circumstances and rely on implicit legal omissions to be incorrect. They do not explicitly claim that those factual circumstances categorically or legally preclude liability.
+
+Falsifiable claim per distractor:
+- (b): "mere knowledge... is always sufficient" — wrong because under *Peoni* and *Lauria*, mere knowledge is generally insufficient to establish accomplice liability without a stake in the venture, no legitimate use, or disproportionate volume.
+- (c): "explicitly disclaimed any interest in receiving a share" — lacks a falsifiable legal claim; implicitly assumes an upfront markup cannot constitute a stake, but fails to lock this as an absolute legal rule.
+- (d): "did not participate in the physical chemical synthesis process" — lacks a falsifiable legal claim; implicitly assumes physical participation is legally required for accomplice actus reus without stating it categorically.
+- (e): "only possessed a reckless mental state" — lacks a falsifiable legal claim; disputes the factual inference of purpose from the markup rather than providing an explicitly false legal rule.
+
+Recommended fix: Rewrite distractors (c), (d), and (e) to include absolute falsifiable legal claims. For example: (c) "No, because a 'stake in the venture' categorically requires an agreement to receive a percentage of the backend profits."; (d) "No, because accomplice liability always requires the defendant to physically participate in the core actus reus of the target offense."; (e) "No, because a supplier's purposeful mental state can never be inferred solely from an inflated purchase price."
+-->

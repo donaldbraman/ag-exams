@@ -1,0 +1,33 @@
+**Q6.** Assume the jurisdiction has adopted the Model Penal Code (MPC). Albert is prosecuted for the Chemical Act violation. The statute states the conduct is "unlawful" but specifies no mens rea term. What mental state must the prosecution prove?
+
+(a) The prosecution must prove that Albert acted purposely, because the MPC elevates the mental state to the highest level when statutes are totally silent.
+(b) The prosecution must prove that Albert acted knowingly, because he actually read the statute and physically possessed the hazardous materials.
+(c) The prosecution must prove that Albert acted recklessly, because the MPC explicitly defaults to recklessness when a statute fails to specify a mental state. <!-- correct -->
+(d) The prosecution must prove that Albert acted negligently, because failing to obtain a fire safety permit violates the objective reasonable person standard.
+(e) The prosecution need not prove any mental state, because the MPC defaults to absolute strict liability for all public welfare and safety offenses.
+
+**Answer:** (c)
+
+**Explanation:** Under MPC § 2.02(3), when a statute defines an offense but is silent regarding the required culpability, the default mens rea is recklessness (i.e., the prosecution must prove the defendant acted purposely, knowingly, or recklessly). (a) is wrong because the default is recklessness, not purpose. (b) is wrong because while proving knowledge would satisfy the statute, the legal *minimum* required is recklessness. (d) is wrong because negligence is insufficient under the MPC's silence default. (e) is wrong because the MPC strongly disfavors strict liability, relegating it exclusively to "violations" (non-criminal infractions), and never defaults to it when a statute is silent.
+
+**Tags:** chapters: [10], topics: [MPC, default mens rea, recklessness, statutory silence], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 10 — mpc-silence-recklessness
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student might select this option believing that criminal law strictly construes statutes against the government via the rule of lenity. If a statute is completely silent, one could argue the MPC demands the highest level of culpability—purpose—to ensure no one is convicted without specific intent to violate the law. This argument relies on the assumption that "unlawful" inherently requires purposeful defiance of the statute.
+(b) Argument-for: A student could defend this option by asserting that the specific facts of Albert's conduct dictate the required mens rea. Under MPC § 2.02(2)(b), "knowingly" involves awareness of the nature of one's conduct. A student could argue that if Albert had actual knowledge of the statute and possessed the materials, the prosecution's baseline burden automatically elevates to matching his actual mental state, making "knowingly" the necessary minimum standard for his specific trial.
+(c) Argument-for: This is the legally correct answer. Under MPC § 2.02(3), when the culpability sufficient to establish a material element of an offense is not prescribed by law, such element is established if a person acts purposely, knowingly, or recklessly with respect thereto. Therefore, the minimum default mens rea that the prosecution must legally prove when a statute is silent is recklessness.
+(d) Argument-for: A student might choose this option under the belief that regulatory offenses, such as failing to obtain a permit, inherently trigger a negligence standard under the MPC. They could argue that the MPC treats minor "unlawful" acts under public safety statutes as negligence because omissions are classically judged against what an objective reasonable person would do. Therefore, the standard the prosecution must prove is mere negligence.
+(e) Argument-for: A student could defend this option by relying on the common-law "public welfare offense" doctrine, which historically imposes strict liability for environmental or public safety violations. They might argue that the MPC incorporates this doctrine for statutes like the Chemical Act, defaulting to absolute strict liability because protecting the public overrides the need to prove a subjective mens rea.
+
+Head-to-head: Option (c) is the definitively correct answer because MPC § 2.02(3) explicitly establishes recklessness as the default mens rea when a statute is silent. Option (a) is incorrect because the MPC defaults to recklessness, not purpose. Options (b) and (d) are incorrect because they explicitly misstate the minimum required mens rea (falsely claiming the state "must prove" knowledge or negligence), and their reasoning relies on hallucinated facts ("read the statute," "fire safety permit") completely absent from the short question stem. Option (e) is incorrect because the MPC explicitly limits strict liability to fine-only "violations" (§ 2.05) and categorically rejects it as a default for silent criminal statutes. 
+
+Falsifiable claim per distractor:
+- (a): "the MPC elevates the mental state to the highest level when statutes are totally silent." — wrong because MPC § 2.02(3) explicitly defaults to recklessness, not the highest level (purpose).
+- (b): "The prosecution must prove that Albert acted knowingly" — wrong because the statutory minimum required by the MPC's default rule is recklessness, making the assertion that the prosecution categorically *must* prove knowledge false. (Additionally, the rationale relies on unstated facts).
+- (d): "The prosecution must prove that Albert acted negligently" — wrong because the statutory minimum default under the MPC is recklessness; mere objective negligence is insufficient under a silent statute. (Additionally, the rationale relies on unstated facts).
+- (e): "the MPC defaults to absolute strict liability for all public welfare and safety offenses." — wrong because MPC § 2.05 restricts strict liability to non-criminal "violations" and explicitly rejects defaulting to strict liability for all public welfare offenses.
+
+Recommended fix: Options (b) and (d) reference stray facts ("actually read the statute", "fire safety permit") that are not present in the question stem, likely a remnant of a larger fact pattern. Revise (b) to: "The prosecution must prove that Albert acted knowingly, because the term 'unlawful' automatically requires knowledge of the underlying statute." Revise (d) to: "The prosecution must prove that Albert acted negligently, because regulatory statutes implicitly default to an objective reasonable person standard under the MPC."
+-->

@@ -1,0 +1,33 @@
+**Q3.** The prosecution charges Albert with theft for taking the centrifuge. Assume theft is a specific intent offense requiring the intent to permanently deprive another of their property. Does Albert have a valid mistake of fact defense?
+
+(a) Yes, because Albert genuinely believed the machine was assigned to his own grant, which negates the required intent to steal the property of another. <!-- correct -->
+(b) Yes, because Albert's terminal cancer diagnosis operates as a complete equitable excuse under the doctrine of medical necessity.
+(c) No, because a mistake of fact is never a valid defense when the surrounding criminal actions are inherently dangerous or malum in se.
+(d) No, because Albert's belief was objectively unreasonable given that he removed the machine from a completely different laboratory.
+(e) No, because the offense of theft implies strict liability regarding the actual ownership status of the physical property being taken.
+
+**Answer:** (a)
+
+**Explanation:** A mistake of fact is a defense if it negates the mental state required by the offense. Because theft requires the specific intent to take the "property of another," Albert's genuine belief that the centrifuge was his own property negates this mens rea. For specific intent crimes, the mistake need only be honest, not necessarily reasonable. (b) is wrong because a terminal diagnosis does not constitute legal necessity for theft. (c) is wrong because the "malum in se" limitation typically applies to general intent or strict liability crimes, not specific intent theft. (d) is wrong because an unreasonable but genuine mistake still negates specific intent at common law. (e) is wrong because theft is never a strict liability offense; it inherently requires mens rea.
+
+**Tags:** chapters: [10], topics: [mistake of fact, specific intent, mens rea negation], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 10 — mof-mental-state-negation
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: Specific intent crimes allow an honest, genuine mistake of fact to negate the mens rea, regardless of whether the mistake was objectively reasonable. If Albert subjectively believed the centrifuge was assigned to his grant, he lacked the specific intent to deprive "another" of their property. Because this genuine belief directly negates the statutory mens rea of theft, he has a fully valid mistake of fact defense.
+(b) Argument-for: The doctrine of medical necessity generally allows individuals to break the law when necessary to prevent imminent death or serious bodily harm. A terminal cancer diagnosis represents a grave threat to Albert's life, arguably satisfying the physical harm requirement. If Albert took the centrifuge believing it was necessary to synthesize a life-saving cure, a student could argue his actions are entirely excused by necessity, functioning as an equitable shield.
+(c) Argument-for: Under the moral wrong doctrine, a mistake of fact is not a valid defense if the defendant's intended conduct would still be considered immoral or malum in se. Theft and inherently dangerous acts are widely considered malum in se across jurisdictions. A student could argue that Albert's underlying behavior involves such inherent moral turpitude that the law categorically denies him the benefit of a mistake of fact defense.
+(d) Argument-for: While mistake of fact can serve as a defense, general legal standards frequently stipulate that the mistake must be objectively reasonable to be recognized. Taking a highly expensive machine from a completely different laboratory without verification demonstrates gross negligence. Because Albert's mistake falls so far below the standard of an ordinary reasonable person, a student could argue that it utterly fails to meet the legal threshold required to assert the defense.
+(e) Argument-for: The attendant circumstance of whether property belongs to "another" is the defining element of theft. A student could argue that the law treats ownership status as a strict liability element to tightly protect property rights—meaning the prosecution does not need to prove the defendant knew the property belonged to someone else. Under this theory, Albert's mistake is irrelevant because the offense strictly penalizes the act of taking another's property.
+
+Head-to-head: Option (a) correctly applies the core common law rule: for a specific intent crime, an honest but unreasonable mistake of fact is a valid defense if it negates the requisite mens rea. Option (b) fails because a terminal diagnosis alone does not "operate as a complete equitable excuse" without meeting the strict requirements of necessity (e.g., imminence, lack of legal alternatives). Option (c) relies on the absolute phrase "never a valid defense," which is demonstrably false since the moral wrong doctrine does not categorically override mens rea negation for specific intent offenses. Option (e) explicitly relies on the locked, false claim that theft "implies strict liability regarding the actual ownership status." Option (d) presents a plausible standard (objective reasonableness) but applies it incorrectly to a specific intent crime; however, its phrasing relies on an implicit premise rather than an explicitly locked absolute legal claim. Because (d) lacks an absolute modifier locking the falsifiable rule, the question should be tweaked to enforce the close-call standard.
+
+Falsifiable claim per distractor:
+- (b): "operates as a complete equitable excuse" — wrong because necessity requires an imminent threat and a balancing of evils; a diagnosis alone does not categorically or automatically excuse theft.
+- (c): "never a valid defense when the surrounding criminal actions are inherently dangerous or malum in se" — wrong because mistake of fact can still negate specific intent even if the surrounding actions are malum in se.
+- (d): "No, because Albert's belief was objectively unreasonable" — wrong because for specific intent offenses, the mistake need only be genuine/honest, meaning unreasonableness does not implicitly defeat the defense (though it currently lacks an absolute word to lock this falsity).
+- (e): "implies strict liability regarding the actual ownership status" — wrong because theft at common law inherently requires a culpable mental state (mens rea) regarding the ownership of the property.
+
+Recommended fix: Add an absolute word to (d) to explicitly lock the false legal standard. Change (d) to: "No, because an objectively unreasonable belief categorically defeats a mistake of fact defense, and Albert removed the machine from a completely different laboratory."
+-->

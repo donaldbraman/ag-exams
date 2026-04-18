@@ -1,0 +1,34 @@
+**Q9.** Assume it is established that Albert committed a voluntary act. Under the common law "proximity test," is Albert guilty of attempted manufacturing of a controlled substance?
+
+(a) Yes, because bringing the precursors to the workstation crossed the legal threshold from mere preparation into the zone of perpetration.
+(b) Yes, because Albert possessed the specific intent to manufacture drugs and committed a slight overt act in furtherance of that intent.
+(c) No, because Albert had not yet opened the containers or begun the chemical synthesis, meaning he was not dangerously close to completion. <!-- correct -->
+(d) No, because the sudden explosion rendered the completion of the manufacturing process factually impossible under the circumstances.
+(e) No, because Albert's failure to acquire a valid fire safety permit acts as an absolute legal bar to an attempted manufacturing charge.
+
+**Answer:** (c)
+
+**Explanation:** The common law proximity test requires that a defendant's acts come dangerously close to completing the intended crime. Mere preparation is insufficient. Because Albert had merely transferred sealed containers to the workstation and was sitting down to review notes—without opening any containers or beginning the actual chemical synthesis—a court applying the strict common law proximity test would likely find he was still in the preparation stage. (a) is wrong because bringing items to a workstation is typically deemed preparatory under the proximity test. (b) is wrong because "a slight overt act" is the test for conspiracy, not attempt. (d) is wrong because factual impossibility is generally not a defense to attempt. (e) is wrong because a regulatory permit violation is wholly unrelated to the elements of criminal attempt.
+
+**Tags:** chapters: [17], topics: [attempt, actus reus, proximity test, preparation vs perpetration], difficulty: hard, cognitive: application
+
+**Grounding:** Chapter 17 — actus-reus-proximity-test
+
+<!-- argument-pass: MUST FIX
+(a) Argument-for: A student could argue that bringing necessary chemical precursors to a specific workstation demonstrates that preparation is complete and execution has begun. Under a broader understanding of "proximity," physically positioning the materials at the site of the intended manufacturing could be seen as entering the zone of perpetration. Because the tools and materials are assembled and ready, one could reason that Albert is dangerously close to completing the crime.
+(b) Argument-for: A student might confuse the actus reus standard for attempt with that of conspiracy or the MPC's "substantial step" test. If a student believes that attempt requires only specific intent plus any "slight overt act" in furtherance, they would conclude Albert is guilty. Moving the chemicals undoubtedly constitutes a slight overt act, thus seemingly satisfying this lower threshold.
+(c) Argument-for: The strict common law proximity test (or dangerous proximity test) requires that the defendant's actions come "dangerously close" to completing the crime, leaving almost nothing left to be done. Since Albert had not even opened the containers or begun the chemical synthesis, his actions remain firmly in the preparation phase. Therefore, he is not guilty of attempt under this specific test.
+(d) Argument-for: A student might incorrectly recall the rules surrounding impossibility defenses. If a sudden explosion destroyed the setup, the student might reason that factual impossibility prevents an attempt conviction. Because the explosion made it factually impossible to manufacture the drugs, the student could argue that liability for attempt is negated.
+(e) Argument-for: A student might conflate regulatory violations with substantive criminal attempt, reasoning that the lack of a fire safety permit creates a legal impossibility. They might argue that failing to secure the permit constitutes an absolute legal bar to prosecution for the manufacturing attempt itself, confusing administrative requirements with the elements of attempt. By treating a collateral regulatory code as a definitive element of criminal liability, this distractor appeals to test-takers who misunderstand the boundary between civil infractions and criminal defenses.
+
+Head-to-head:
+Option (c) correctly identifies the outcome and reasoning under the common law proximity test. However, the question stem is fatally flawed because it is entirely missing the fact pattern needed to answer the question; the operative facts (sealed containers, reviewing notes, an explosion) appear only in the explanation and the options themselves. Furthermore, the distractors largely fail the strict close-call standard because they do not lock in explicitly false legal claims using absolute language. Option (a) merely misapplies the proximity test to the facts without asserting a categorically false rule. Options (b) and (d) invoke incorrect legal doctrines but do not explicitly frame them as automatic or categorical rules. Option (e) successfully uses absolute language ("absolute legal bar") but borders on the absurd. This question requires a complete rewrite to supply the facts and to harden the distractors with falsifiable legal rules.
+
+Falsifiable claim per distractor:
+- (a): "crossed the legal threshold from mere preparation into the zone of perpetration" — wrong because it mischaracterizes the factual application as a legal threshold without locking it as a categorically false legal rule (fails the close-call standard).
+- (b): "committed a slight overt act" — wrong because a "slight overt act" is the threshold for conspiracy, not attempt, though it lacks an absolute framing like "automatically qualifies because he committed a slight overt act."
+- (d): "rendered the completion ... factually impossible" — wrong because factual impossibility is categorically not a defense to attempt, but the option lacks absolute phrasing to lock the claim.
+- (e): "acts as an absolute legal bar" — wrong because administrative permit violations have absolutely no legal bearing on substantive attempt liability.
+
+Recommended fix: First, add the missing fact pattern to the question stem (e.g., "Albert brought sealed containers of chemical precursors to his workstation and sat down to review his notes, intending to manufacture a controlled substance. Suddenly, a nearby gas leak caused an explosion, destroying the workstation."). Second, revise the distractors to include explicit, absolute false legal claims (e.g., for (a): "Yes, because under the proximity test, gathering materials at the scene of the crime automatically crosses the legal threshold into perpetration.").
+-->
