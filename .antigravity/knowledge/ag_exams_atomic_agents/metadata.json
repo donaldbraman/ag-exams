@@ -1,0 +1,6 @@
+{
+  "summary": "Core architectural principle: Composable Atomic Agents. Formally adopts the cross-repo rule to combat context degradation by ensuring LLM workers remain single-domain and small.",
+  "references": [
+    "cross-repo/.claude/guides/composable-agentic-workflows.md"
+  ]
+}
