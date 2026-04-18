@@ -381,7 +381,7 @@ _MOCK_PROCEDURAL_BLOCK_BRIEF = """\
 Single-stem scenario: The Fixer's Procedural Block.
 
 Inspiration: Better Call Saul / Breaking Bad (inspired-by only — not a direct plot lift).
-Budget: 6-8 questions, single-doctrine-per-question bias.
+Budget: 15 questions, single-doctrine-per-question bias.
 
 FRAME: Following the fallout of a massive narcotics ring (referencing the Chemistry Professor), the cartel's top lieutenant is facing trial. The organization's slick, morally bankrupt "criminal" lawyer is tasked with orchestrating a massive campaign of institutional corruption to keep the lieutenant out of prison.
 
@@ -514,7 +514,7 @@ SCENARIO_MAP: dict[str, ScenarioBrief] = {
         inchoate_layers=[],
         defenses=[],
         chapters=[4, 5, 6],
-        estimated_questions=(6, 8),
+        estimated_questions=(10, 15),
         stem_count=1,
         brief_text=_MOCK_PROCEDURAL_BLOCK_BRIEF,
         statutes="",
