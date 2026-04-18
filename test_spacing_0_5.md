@@ -10,10 +10,10 @@ format:
     include-in-header:
       text: |
         \usepackage{enumitem}
-        \setlist{itemsep=0.0em, parsep=0em, topsep=0em, partopsep=0em}
+        \setlist{itemsep=0.5em}
         \def\tightlist{}
 ---
-### Test Question with 0.0em spacing
+### Test Question with itemsep=0.5em spacing
 
 **Q1.** This is a test question. What is the correct answer?
 

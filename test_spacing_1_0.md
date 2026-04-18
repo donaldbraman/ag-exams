@@ -1,6 +1,7 @@
 ---
 format:
   pdf:
+    keep-tex: true
     geometry:
       - top=1in
       - bottom=1in
