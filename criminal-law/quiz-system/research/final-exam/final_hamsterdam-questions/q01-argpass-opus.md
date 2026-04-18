@@ -1,0 +1,33 @@
+**Q1.** Assume William is charged under federal RICO, with the prosecution alleging the police precinct itself constitutes the enterprise. Does the precinct satisfy the enterprise element?
+
+(a) Yes, because a legitimate organization's ordinary infrastructure can constitute a RICO enterprise when repurposed to facilitate racketeering activity. <!-- correct -->
+(b) Yes, because the police precinct is simply an association-in-fact composed of individual officers who now share a common criminal purpose.
+(c) No, because RICO requires the enterprise to be an inherently criminal organization rather than a formally chartered government or corporate entity.
+(d) No, because the officers were acting outside the scope of their official duties when they collected the illicit ten percent tax.
+(e) No, because there was no horizontal relationship among the drug dealers operating inside the Free Zone to create a structural rim.
+
+**Answer:** (a)
+
+**Explanation:** Under the corporate enterprise refinement, a legitimate organization (including a corporate or government entity) can serve as a RICO enterprise when its ordinary infrastructure is repurposed to conduct or facilitate racketeering activity. William and Davis used official dispatch, patrol cars, and holding cells to run the extortion scheme, satisfying this element. Option (b) fails because the precinct is a legal entity, not merely an association-in-fact. Option (c) is incorrect; RICO expressly targets legitimate entities infiltrated by or used for racketeering. Option (d) fails because acting outside official duties is the essence of police racketeering. Option (e) applies the hub-and-spoke "rim" requirement to associations-in-fact, but here the precinct itself is the charged enterprise.
+
+**Tags:** chapters: [20], topics: [racketeering, corporate-enterprise], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 20 - Insys Therapeutics Prosecution note (Legitimate Corporation as RICO Enterprise)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under 18 U.S.C. § 1961(4), a RICO "enterprise" broadly includes any legal entity, such as a corporation or government body. A police precinct is a legally cognizable government organization. When its ordinary infrastructure—like dispatch systems, holding cells, or patrol cars—is co-opted to facilitate extortion or drug distribution, it squarely meets the statutory definition of an enterprise. Therefore, charging the precinct itself is legally sound and fully satisfies this element.
+(b) Argument-for: A student could argue that when officers use a precinct for coordinated criminal activity, they form a corrupt group, effectively rendering the operation an association-in-fact. Under *Boyle v. United States*, an association-in-fact enterprise requires only a purpose, relationships, and sufficient longevity. Because the officers share a common criminal purpose to collect an illicit tax, the precinct functions simply as a proxy for this association-in-fact, thereby satisfying the enterprise element under that distinct statutory prong.
+(c) Argument-for: A student might rely on common-law entity liability limits to argue that a formal government agency cannot possess the inherent structural purpose for organized crime. Under this view, RICO was specifically enacted to target the Mafia and similar inherently criminal syndicates, not formally chartered state organizations. Therefore, a police precinct—a legitimate state actor—categorically cannot constitute a RICO enterprise because it lacks an inherently criminal nature.
+(d) Argument-for: A student could argue that for a legal entity to serve as the enterprise, the racketeering acts must possess a fundamental nexus to the actual or apparent scope of the entity's legal operations. Collecting an illicit ten percent tax from drug dealers is a purely *ultra vires* act. Because the officers acted entirely outside their official duties, the necessary nexus is severed, meaning the precinct itself fails to satisfy the enterprise element for these specific charges.
+(e) Argument-for: Applying hub-and-spoke conspiracy principles, a student might argue that the precinct merely served as a central hub for independent drug dealers. Under *Kotteakos* or rimless-wheel doctrines, an enterprise requires a "rim" connecting the spokes (the dealers) horizontally to establish a unified structure. Since there was no horizontal relationship among the dealers operating in the Free Zone, the structural requirements of an enterprise are legally absent.
+
+Head-to-head: Option (a) correctly states the modern rule (*Turkette*, *Insys*) that a legitimate legal entity, such as a government precinct, qualifies as an enterprise under § 1961(4) when its infrastructure is misused for racketeering. Option (b) incorrectly reduces a formal legal entity to an association-in-fact, conflicting with the statute's explicit distinction between legal entities and groups "not a legal entity." Option (c) relies on a thoroughly rejected premise that RICO applies exclusively to inherently criminal organizations. Option (d) falsely asserts that *ultra vires* conduct defeats the enterprise element; in fact, racketeering acts are inherently outside official lawful duties. Option (e) erroneously ports the structural "rim" requirement from association-in-fact jurisprudence to a formally chartered legal entity, where structure is legally inherent.
+
+Falsifiable claim per distractor:
+- (b): "the police precinct is simply an association-in-fact" — wrong because § 1961(4) legally distinguishes formal legal entities (like a government precinct) from associations-in-fact, which are defined as groups "not a legal entity."
+- (c): "RICO requires the enterprise to be an inherently criminal organization" — wrong because the Supreme Court explicitly held (*United States v. Turkette*) that legitimate legal entities perfectly satisfy the enterprise element.
+- (d): "No, because the officers were acting outside the scope of their official duties" — wrong because acting outside the scope of official duties does not categorically negate a legal entity's status as a RICO enterprise (using an entity for racketeering is almost always *ultra vires*).
+- (e): "to create a structural rim" — wrong because a horizontal "rim" or relationship is only legally necessary to establish the structure of an association-in-fact enterprise, not a formal legal entity whose structure is inherent.
+
+Recommended fix: none
+-->

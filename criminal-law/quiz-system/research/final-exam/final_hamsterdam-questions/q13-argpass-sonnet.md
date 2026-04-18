@@ -1,0 +1,33 @@
+**Q13.** Assume Yasmin's psychosis was a qualifying mental disease and the jurisdiction follows the mens rea model (abolishing the affirmative insanity defense). Can Yasmin use her delusion to avoid liability for felony murder predicated on the robbery of the clerk's keys?
+
+(a) Yes, because her hallucination that she was taking the keys to escape demons negates the specific intent to permanently deprive the clerk of property. <!-- correct -->
+(b) Yes, because the mens rea model requires the prosecution to prove that the defendant appreciated the moral wrongness of the underlying predicate felony.
+(c) No, because taking the keys physically constitutes a robbery regardless of whether she believed she was fleeing from hallucinated demons.
+(d) No, because felony murder is a strict liability offense that precludes the admission of any psychiatric evidence regarding the defendant's mental state.
+(e) No, because the mens rea model strictly limits the admission of psychiatric evidence solely to homicide offenses requiring premeditation and deliberation.
+
+**Answer:** (a)
+
+**Explanation:** In states that have abolished the affirmative insanity defense (the mens rea model), mental illness evidence is only admissible to negate the specific statutory mens rea element of the charged offense. Robbery requires the specific intent to permanently deprive the owner of property. Yasmin's delusion that she was merely grabbing the keys to escape hallucinated demons may negate this required intent. Without the underlying robbery intent, the felony murder charge collapses. Option (b) is wrong; the mens rea model deliberately eliminated the moral wrongness inquiry. Option (c) is false because robbery requires specific intent, not just physical taking. Option (d) is incorrect because the underlying predicate felony (robbery) still requires proof of specific intent. Option (e) states a nonexistent, overly narrow rule for the mens rea model.
+
+**Tags:** chapters: [23], topics: [insanity, mens-rea-model, felony-murder], difficulty: advanced, cognitive: analysis
+
+**Grounding:** Chapter 23 - The Mens Rea Model (Abolition States)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under the mens rea model, a defendant may introduce evidence of mental disease solely to negate the specific mens rea required for the offense. Robbery requires the specific intent to permanently deprive the victim of the property. If Yasmin hallucinated that she needed the keys to escape demons, she may have lacked the specific intent to permanently deprive the clerk of his property, intending only a temporary taking to facilitate an immediate escape. Therefore, the delusion negates the predicate robbery's mens rea, dismantling the felony murder charge.
+(b) Argument-for: A student could argue that some jurisdictions that "abolished" insanity still incorporate an appreciation of wrongness into the core mens rea of traditional common law crimes. If the definition of malice or criminal intent in the jurisdiction implicitly requires a basic understanding of the moral wrongness of the act, then proving mens rea under this model would force the prosecution to prove the defendant appreciated the wrongness of the predicate felony. Thus, the mens rea model shifts the burden of proving moral wrongness to the prosecution as an element of the crime.
+(c) Argument-for: A student could argue that robbery in some jurisdictions has been interpreted as a general intent crime where the physical act of taking by force (the actus reus) satisfies the elements if done voluntarily. Under the mens rea model, psychiatric evidence is often heavily restricted and generally cannot negate general intent. Therefore, the physical taking of the keys voluntarily, regardless of the demonic motivation, satisfies the requirements for robbery, precluding the use of the delusion to avoid liability.
+(d) Argument-for: A student could argue that the felony murder rule applies strict liability to the resulting death once the act of the felony is in motion. If the jurisdiction views felony murder as a strict liability offense where the mental state for the murder itself is irrelevant, a student might reason that psychiatric evidence is categorically precluded regarding the defendant's mental state for the entirety of the felony murder charge. Thus, avoiding liability using psychiatric evidence is precluded.
+(e) Argument-for: A student could argue that several jurisdictions implementing the mens rea model restrict the admission of psychiatric evidence solely to the highest degrees of homicide, specifically to negate premeditation and deliberation. Because robbery is not a homicide offense requiring premeditation and deliberation, psychiatric evidence regarding Yasmin's delusions would be categorically inadmissible under this restrictive rule, making it unavailable to defeat the robbery predicate.
+
+Head-to-head: Option (a) accurately applies the mens rea model: evidence of mental illness is admissible to negate the specific intent required for the offense (here, the intent to permanently deprive required for robbery). If the robbery fails, the felony murder predicate fails. The distractors all rely on explicitly false statements of law. Option (b) falsely claims the mens rea model incorporates the M'Naghten standard. Option (c) falsely ignores the specific intent element of robbery. Option (d) falsely extends the strict liability of the homicide in felony murder to the predicate felony itself, pretending the predicate lacks a mens rea element. Option (e) falsely invents an overly narrow restriction that the mens rea model solely applies to premeditated homicides.
+
+Falsifiable claim per distractor:
+- (b): "requires the prosecution to prove that the defendant appreciated the moral wrongness" — wrong because the mens rea model explicitly abolishes the moral wrongness (M'Naghten) standard rather than shifting its burden.
+- (c): "taking the keys physically constitutes a robbery regardless of whether she believed she was fleeing" — wrong because robbery requires the specific mens rea to permanently deprive, not just a physical taking.
+- (d): "strict liability offense that precludes the admission of any psychiatric evidence" — wrong because the underlying predicate felony (robbery) still requires proof of mens rea, which psychiatric evidence can be admitted to negate.
+- (e): "strictly limits the admission of psychiatric evidence solely to homicide offenses requiring premeditation" — wrong because the mens rea model allows evidence to negate the requisite mens rea of other specific-intent offenses like robbery.
+
+Recommended fix: none
+-->

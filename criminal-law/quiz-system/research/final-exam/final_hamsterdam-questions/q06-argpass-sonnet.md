@@ -1,0 +1,33 @@
+**Q6.** Assume Xavier is prosecuted for shooting Yasmin and claims self-defense. If the jurisdiction imposes a traditional duty to retreat, does Xavier's failure to use the exit door defeat his right to use deadly force?
+
+(a) Yes, because the traditional rule requires a defender to retreat if a safe avenue of escape is known and available before using deadly physical force. <!-- correct -->
+(b) Yes, because Xavier was engaged in illegal drug distribution, which under the traditional rule automatically strips him of any right to claim self-defense.
+(c) No, because the duty to retreat applies only when the defender is outside their own home, and the Free Zone constituted Xavier's workplace.
+(d) No, because drawing a concealed pistol constitutes the use of non-deadly force, which does not legally trigger the traditional duty to retreat.
+(e) No, because a defender is never legally required to attempt a retreat when faced with an attacker who is visibly armed with a loaded firearm.
+
+**Answer:** (a)
+
+**Explanation:** In a duty-to-retreat jurisdiction, a defendant must retreat to safety before using deadly force if an avenue of escape is known and safe. Xavier noticed a clearly marked, unobstructed exit 10 feet behind him but chose to draw and fire instead. Option (b) is incorrect; while modern Stand Your Ground statutes often exclude those in illegal acts, the traditional duty to retreat does not categorically strip self-defense rights from drug dealers if they otherwise comply with retreat rules. Option (c) is wrong because the castle doctrine rarely extends to illicit "workplaces" in abandoned warehouses. Option (d) is factually wrong; firing a pistol is deadly force. Option (e) is incorrect because the presence of a firearm does not eliminate the duty to retreat if a genuinely safe escape is possible.
+
+**Tags:** chapters: [22], topics: [self-defense, duty-to-retreat], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 22 - Duty to Retreat Framework
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: The traditional duty to retreat requires a defender to use a known, safe avenue of escape before resorting to deadly physical force. This option accurately captures the black-letter rule of retreat jurisdictions. Given the explanation that Xavier had an unobstructed exit, his failure to use it objectively defeats his self-defense claim. The statement relies on well-established doctrine without making overbroad absolute claims.
+(b) Argument-for: A student might argue that participating in a felony, such as drug distribution, invokes the "unlawful act" doctrine or classifies the defender as the initial aggressor. Under this theory, a criminal actively committing a felony forfeits equitable defenses like self-defense. Option (b) articulates this by claiming the drug distribution automatically strips him of the defense, aligning with some modern statutory "stand your ground" exclusions that a student might confuse with the traditional common law rule.
+(c) Argument-for: The Castle Doctrine universally excuses the duty to retreat within one's home, and many jurisdictions extend this exception to a person's place of business. A student could argue that because Xavier was dealing drugs at the "Free Zone," it functioned as his de facto workplace. Therefore, he was exempt from the duty to retreat under the workplace exception, rendering his failure to use the exit legally irrelevant.
+(d) Argument-for: Self-defense rules distinguish between deadly and non-deadly force, and the duty to retreat is traditionally only triggered prior to the use of deadly force. A student could argue that merely drawing a pistol is a threat, or non-deadly force, intended to deter an attack. Thus, the act of drawing the weapon does not technically trigger the duty to retreat, making this an attractive distractor regarding the exact moment the duty attaches.
+(e) Argument-for: The duty to retreat only applies if the defender knows they can escape with complete safety. A student could reasonably conclude that when facing an attacker armed with a loaded gun, turning one's back to run is inherently unsafe. Option (e) formalizes this practical reality into a legal rule, arguing that the presence of a loaded firearm categorically negates the legal requirement to attempt a retreat.
+
+Head-to-head: Option (a) is the clearly correct answer as it accurately states the traditional duty to retreat and maps seamlessly onto the facts. Option (b) offers a strong distractor by conflating modern statutory exclusions for unlawful acts with the traditional common-law retreat rule, but fails because traditional doctrine does not automatically strip self-defense rights for collateral drug offenses. Option (c) is incorrect because it improperly extends the workplace exception to an illicit drug market, but it is also logically broken (if the duty applies ONLY outside the home, it would apply at a workplace, making the "No" contradictory). Option (d) incorrectly classifies the incident as non-deadly force, ignoring the prompt's premise that Xavier actually "shot" Yasmin. Option (e) uses the absolute term "never," incorrectly asserting that the mere presence of a loaded firearm legally abolishes the duty to retreat, even if a safe escape is factually possible.
+
+Falsifiable claim per distractor:
+- (b): "automatically strips him of any right to claim self-defense" — wrong because traditional self-defense doctrine does not automatically extinguish self-defense rights for collateral felonies like drug dealing, provided the defender wasn't the initial aggressor.
+- (c): "the Free Zone constituted Xavier's workplace" — wrong because an illicit drug market does not legally qualify as a protected "workplace" for Castle Doctrine purposes. Additionally, the option is internally contradictory.
+- (d): "drawing a concealed pistol constitutes the use of non-deadly force" — wrong because Xavier actually shot Yasmin (which is deadly force), making the premise factually false and legally inapplicable.
+- (e): "a defender is never legally required to attempt a retreat when faced with an attacker who is visibly armed" — wrong because the absolute word "never" makes it false; the duty still applies if a genuinely safe escape is known and available.
+
+Recommended fix: Edit (c) to resolve the internal logical contradiction. Change to: "(c) No, because the traditional duty to retreat does not apply within a defender's workplace, and the Free Zone legally constituted Xavier's place of business."
+-->

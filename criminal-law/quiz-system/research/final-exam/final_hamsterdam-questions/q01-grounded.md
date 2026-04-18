@@ -1,0 +1,17 @@
+**Q1.** Assume William is charged under federal RICO, with the prosecution alleging the police precinct itself constitutes the enterprise. Does the precinct satisfy the enterprise element?
+
+(a) Yes, because a legitimate organization's ordinary infrastructure can constitute a RICO enterprise when repurposed to facilitate racketeering activity. <!-- correct -->
+(b) Yes, because the police precinct is simply an association-in-fact composed of individual officers who now share a common criminal purpose.
+(c) No, because RICO requires the enterprise to be an inherently criminal organization rather than a formally chartered government or corporate entity.
+(d) No, because the officers were acting outside the scope of their official duties when they collected the illicit ten percent tax.
+(e) No, because there was no horizontal relationship among the drug dealers operating inside the Free Zone to create a structural rim.
+
+**Answer:** (a)
+
+**Explanation:** Under the corporate enterprise refinement, a legitimate organization (including a corporate or government entity) can serve as a RICO enterprise when its ordinary infrastructure is repurposed to conduct or facilitate racketeering activity. William and Davis used official dispatch, patrol cars, and holding cells to run the extortion scheme, satisfying this element. Option (b) fails because the precinct is a legal entity, not merely an association-in-fact. Option (c) is incorrect; RICO expressly targets legitimate entities infiltrated by or used for racketeering. Option (d) fails because acting outside official duties is the essence of police racketeering. Option (e) applies the hub-and-spoke "rim" requirement to associations-in-fact, but here the precinct itself is the charged enterprise.
+
+**Tags:** chapters: [20], topics: [racketeering, corporate-enterprise], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 20 - Insys Therapeutics Prosecution note (Legitimate Corporation as RICO Enterprise)
+
+<!-- GROUNDING-FAIL: corporate enterprise refinement is not in any chapter map. The closest taught doctrines are: none found (meta-map and focus maps are missing from the prompt context). Correct answer must rely on one of those instead. -->

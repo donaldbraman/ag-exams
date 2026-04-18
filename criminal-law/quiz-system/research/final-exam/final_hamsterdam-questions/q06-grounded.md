@@ -1,0 +1,17 @@
+**Q6.** Assume Xavier is prosecuted for shooting Yasmin and claims self-defense. If the jurisdiction imposes a traditional duty to retreat, does Xavier's failure to use the exit door defeat his right to use deadly force?
+
+(a) Yes, because the traditional rule requires a defender to retreat if a safe avenue of escape is known and available before using deadly physical force. <!-- correct -->
+(b) Yes, because Xavier was engaged in illegal drug distribution, which under the traditional rule automatically strips him of any right to claim self-defense.
+(c) No, because the duty to retreat applies only when the defender is outside their own home, and the Free Zone constituted Xavier's workplace.
+(d) No, because drawing a concealed pistol constitutes the use of non-deadly force, which does not legally trigger the traditional duty to retreat.
+(e) No, because a defender is never legally required to attempt a retreat when faced with an attacker who is visibly armed with a loaded firearm.
+
+**Answer:** (a)
+
+**Explanation:** In a duty-to-retreat jurisdiction, a defendant must retreat to safety before using deadly force if an avenue of escape is known and safe. Xavier noticed a clearly marked, unobstructed exit 10 feet behind him but chose to draw and fire instead. Option (b) is incorrect; while modern Stand Your Ground statutes often exclude those in illegal acts, the traditional duty to retreat does not categorically strip self-defense rights from drug dealers if they otherwise comply with retreat rules. Option (c) is wrong because the castle doctrine rarely extends to illicit "workplaces" in abandoned warehouses. Option (d) is factually wrong; firing a pistol is deadly force. Option (e) is incorrect because the presence of a firearm does not eliminate the duty to retreat if a genuinely safe escape is possible.
+
+**Tags:** chapters: [22], topics: [self-defense, duty-to-retreat], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 22 - Duty to Retreat Framework
+
+<!-- grounding: GROUNDED — duty to retreat, Ch 22, Refinement `duty-to-retreat`. Rule paraphrased accurately. -->

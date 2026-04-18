@@ -1,0 +1,33 @@
+**Q11.** Assume Yasmin survives and is prosecuted for murdering the clerk. She raises an insanity defense based on her psychotic state. Will her voluntary ingestion of hallucinogenic pills support the defense?
+
+(a) Yes, because the massive dose of pills induced a severe psychotic state that completely destroyed her cognitive capacity to understand her actions.
+(b) Yes, because the intense agony from her gunshot wound rendered her ingestion of the pills medically necessary and thus legally involuntary.
+(c) No, because conditions caused or substantially aggravated by voluntary intoxication generally do not qualify as a legal mental disease or defect. <!-- correct -->
+(d) No, because a drug-induced psychosis is merely a temporary personality disorder rather than a permanent neurological impairment recognized by law.
+(e) No, because the insanity defense is constitutionally limited to defendants who have a documented history of mental illness prior to the offense.
+
+**Answer:** (c)
+
+**Explanation:** A threshold requirement for the insanity defense is that the defendant suffer from a qualifying "mental disease or defect." Jurisdictions universally exclude temporary psychotic states caused primarily by the voluntary ingestion of intoxicating substances. Because Yasmin voluntarily swallowed the hallucinogenic pills, her resulting psychosis does not constitute a qualifying mental disease. Option (a) ignores the source of the incapacity. Option (b) fails because taking illegal recreational drugs to cope with pain does not render the ingestion legally involuntary. Option (d) incorrectly labels psychosis a "personality disorder" and wrongly implies conditions must be permanent. Option (e) is factually false; prior documentation is not a constitutional prerequisite for the defense.
+
+**Tags:** chapters: [23], topics: [insanity, mental-disease, voluntary-intoxication], difficulty: foundational, cognitive: application
+
+**Grounding:** Chapter 23 - Qualifying Mental Disease (Voluntary Intoxication Nexus)
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student could argue that the core of the insanity defense under the M'Naghten rule is the total destruction of cognitive capacity. If the psychotic state truly "completely destroyed her cognitive capacity to understand her actions," the threshold elements of the insanity defense are met regarding her mental state at the time of the offense. Therefore, (a) correctly identifies that severe cognitive destruction is the factual basis for an insanity defense, making the ingestion supportive of the claim.
+(b) Argument-for: A student could argue that "voluntary" intoxication requires an exercise of free will. If Yasmin was suffering from "intense agony from her gunshot wound," a court could find that her ingestion of the pills was a response to an emergency, essentially an act of medical necessity. Under doctrines of duress of circumstances or necessity, actions taken to prevent severe bodily pain can lack the requisite voluntariness, making her intoxication legally involuntary and thus eligible for an insanity defense.
+(c) Argument-for: A student could argue that the insanity defense strictly requires a qualifying "mental disease or defect." Jurisdictions universally apply the rule that temporary psychosis induced by voluntary intoxication does not qualify as a mental disease for the purposes of the insanity defense. Because Yasmin voluntarily ingested the pills, the resulting condition is categorically excluded. Option (c) perfectly encapsulates this fundamental legal limitation.
+(d) Argument-for: A student could argue that temporary states are systematically excluded from the insanity defense unless they stem from an underlying, enduring defect (like "settled insanity"). Option (d) rationalizes this by classifying temporary drug-induced psychosis as failing the requirement for a "permanent neurological impairment." By characterizing the temporary state as structurally insufficient, (d) explains why courts reject claims based purely on acute intoxication.
+(e) Argument-for: A student could argue that courts are highly skeptical of sudden, uncorroborated claims of insanity arising only at the moment of the crime, especially when drugs are involved. To prevent abuse, jurisdictions require a verified medical foundation for the defense. Option (e) frames this evidentiary requirement as a constitutional limitation, asserting that due process requires a documented history of mental illness to assert the defense, which Yasmin lacks.
+
+Head-to-head: Option (c) is factually and legally the strongest, accurately capturing the universal rule that voluntary intoxication does not constitute a qualifying mental disease or defect. Distractors (b), (d), and (e) fail definitively because they contain explicit false legal claims (necessity doctrine application to unprescribed hallucinogens, permanence requirements, and constitutional limits, respectively). However, distractor (a) presents a problem under the strict close-call standard. It relies on an implicit omission (failing to mention the voluntary intoxication exception) rather than an explicit, locked false claim. While (a)'s reasoning is legally insufficient to succeed, it lacks an absolute word to render the proposition strictly falsifiable on its face.
+
+Falsifiable claim per distractor:
+- (a): None strictly present. The option relies on an implicit omission (omitting that the source of the cognitive destruction matters). It does not contain an explicitly false legal claim or use an absolute lock.
+- (b): "rendered her ingestion of the pills medically necessary and thus legally involuntary" — wrong because self-medicating with unprescribed hallucinogens for pain does not meet the strict legal requirements to render an act "legally involuntary" or justify a medical necessity defense.
+- (d): "rather than a permanent neurological impairment recognized by law" — wrong because the insanity defense absolutely does not require a "permanent neurological impairment" (temporary insanity and curable mental illnesses are recognized).
+- (e): "constitutionally limited to defendants who have a documented history" — wrong because there is zero constitutional requirement that a defendant have a documented history of mental illness prior to the offense to raise an insanity defense.
+
+Recommended fix: Edit (a) to lock in the false claim with an absolute word. Change (a) to: "Yes, because a severe psychotic state that completely destroys cognitive capacity automatically establishes legal insanity regardless of its cause."
+-->

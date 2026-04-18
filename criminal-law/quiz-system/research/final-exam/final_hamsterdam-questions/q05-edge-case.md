@@ -1,0 +1,22 @@
+**Q5.** Assume the police arrested Yasmin in the alley exactly as described in Fact 5. Under the Model Penal Code's substantial step test, is Yasmin guilty of attempted robbery?
+
+(a) Yes, because pulling a mask and loading a weapon 50 feet from the target strongly corroborates her criminal purpose to rob Xavier. <!-- correct -->
+(b) Yes, because she was physically close enough to Xavier that she had the present apparent ability to complete the robbery offense.
+(c) No, because she had not yet entered the Free Zone or pointed the weapon at Xavier, meaning her actions were mere preparation.
+(d) No, because the police intervention in creating the Free Zone rendered the successful completion of the robbery factually impossible.
+(e) No, because she had not yet demanded the stash, leaving her an opportunity to freely and voluntarily abandon her criminal plan.
+
+**Answer:** (a)
+
+**Explanation:** The MPC attempt test asks whether the defendant took a "substantial step" that strongly corroborates the actor's criminal purpose. Masking up and loading a weapon just 50 feet from the victim easily satisfies this low threshold by confirming her intent to rob. Option (b) states the traditional "present apparent ability" or dangerous proximity test, not the MPC standard. Option (c) incorrectly categorizes these advanced actions as mere preparation under the MPC, reflecting a stricter common-law view. Option (d) fails because factual impossibility is not a defense to attempt. Option (e) fails because while she had time to abandon, the substantial step was already committed, meaning attempt liability attached before any voluntary renunciation occurred.
+
+**Tags:** chapters: [17], topics: [attempt, substantial-step, mpc], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 17 - MPC Substantial Step Test
+
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
+-->

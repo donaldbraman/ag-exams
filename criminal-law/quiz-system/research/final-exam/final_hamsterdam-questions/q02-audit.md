@@ -1,0 +1,26 @@
+**Q2.** Assume Victor is charged with possession of the heroin. Does Victor have constructive possession of the drugs inside the locked safe?
+
+(a) Yes, because he agreed to a 70/30 split of the profits, which legally transfers ownership of the contraband to him.
+(b) Yes, because he physically guarded the safe, directed buyers, and warned of rivals, demonstrating the power and intent to control the drugs. <!-- correct -->
+(c) No, because Xavier held the only key to the safe, rendering Victor physically incapable of independently accessing the heroin inside.
+(d) No, because Victor was merely present at the scene, and constructive possession rigidly requires actual physical custody of the targeted contraband.
+(e) No, because the 70/30 profit split clearly indicates Xavier was the primary owner, and joint possession cannot be shared unequally.
+
+**Answer:** (b)
+
+**Explanation:** Constructive possession requires the power and intent to exercise dominion and control over the contraband. By guarding the safe, orchestrating the buyers, and running lookout, Victor demonstrated active control over the distribution operation and the drugs, even without holding the physical key. Option (a) fails because an agreement to split profits shows intent but does not automatically transfer legal possession without acts demonstrating control. Option (c) fails because constructive possession does not require immediate, independent physical access if one exerts control over the area or operation. Option (d) incorrectly defines constructive possession, which exists precisely when actual custody is absent. Option (e) fails because joint possession does not require equal ownership or equal profit-sharing.
+
+**Tags:** chapters: [11], topics: [possession, actus-reus], difficulty: application, cognitive: application
+
+**Grounding:** Chapter 11 - Constructive possession standards
+
+<!-- audit: CLEAN
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: pass (assuming this question relies on a shared parent scenario containing the facts about the safe, the buyers, and Xavier. If intended as a standalone question, it fails this check as the operative facts are missing from the stem)
+check 5: pass
+check 6: pass
+check 7: pass
+check 8: pass
+-->

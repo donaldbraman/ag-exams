@@ -1,0 +1,17 @@
+**Q13.** Assume Yasmin's psychosis was a qualifying mental disease and the jurisdiction follows the mens rea model (abolishing the affirmative insanity defense). Can Yasmin use her delusion to avoid liability for felony murder predicated on the robbery of the clerk's keys?
+
+(a) Yes, because her hallucination that she was taking the keys to escape demons negates the specific intent to permanently deprive the clerk of property. <!-- correct -->
+(b) Yes, because the mens rea model requires the prosecution to prove that the defendant appreciated the moral wrongness of the underlying predicate felony.
+(c) No, because taking the keys physically constitutes a robbery regardless of whether she believed she was fleeing from hallucinated demons.
+(d) No, because felony murder is a strict liability offense that precludes the admission of any psychiatric evidence regarding the defendant's mental state.
+(e) No, because the mens rea model strictly limits the admission of psychiatric evidence solely to homicide offenses requiring premeditation and deliberation.
+
+**Answer:** (a)
+
+**Explanation:** In states that have abolished the affirmative insanity defense (the mens rea model), mental illness evidence is only admissible to negate the specific statutory mens rea element of the charged offense. Robbery requires the specific intent to permanently deprive the owner of property. Yasmin's delusion that she was merely grabbing the keys to escape hallucinated demons may negate this required intent. Without the underlying robbery intent, the felony murder charge collapses. Option (b) is wrong; the mens rea model deliberately eliminated the moral wrongness inquiry. Option (c) is false because robbery requires specific intent, not just physical taking. Option (d) is incorrect because the underlying predicate felony (robbery) still requires proof of specific intent. Option (e) states a nonexistent, overly narrow rule for the mens rea model.
+
+**Tags:** chapters: [23], topics: [insanity, mens-rea-model, felony-murder], difficulty: advanced, cognitive: analysis
+
+**Grounding:** Chapter 23 - The Mens Rea Model (Abolition States)
+
+<!-- grounding: GROUNDED — Mens Rea Model, Ch 23, Refinement `mens-rea-model`. Rule paraphrased accurately. -->
