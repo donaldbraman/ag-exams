@@ -1,17 +1,17 @@
-**Q8.** Assume Marcus and Leo are charged with possession of the fentanyl found in the lockbox. Who has constructive possession of the drugs?
+**Q8.** Assume that Marcus and Leo are both charged with constructive possession of the lockbox containing the fentanyl. Who has constructive possession of the fentanyl?
 
-(a) Both had constructive possession because the box was in plain view in the passenger cabin, making them jointly liable for any contraband within reaching distance.
-(b) Neither had constructive possession because the drugs were secured inside a locked container, preventing either man from exercising immediate physical dominion over the actual narcotics.
-(c) Only Leo had constructive possession because the box was clearly visible to him in the passenger seat, establishing his requisite subjective awareness of the contraband.
-(d) Both had constructive possession because they were criminal associates in the vehicle, making them strictly liable for all illicit items discovered during a police search.
-(e) Marcus had constructive possession because possessing the sole key gave him the power to control the box, while Leo lacked constructive possession without such control. <!-- correct -->
+(a) Both Marcus and Leo, because the lockbox was located in the shared passenger compartment and was clearly visible to all current occupants of the vehicle.
+(b) Marcus only, because holding the unique key establishes his exclusive power and intention to control the hidden contents of the secured steel lockbox. <!-- correct -->
+(c) Leo only, because his position in the front passenger seat provided him with the most direct line of sight to the contraband container.
+(d) Neither Marcus nor Leo, because the drugs were secured inside a locked container and thus not in the immediate physical grasp of either defendant.
+(e) Neither Marcus nor Leo, because constructive possession requires the illegal drugs to be completely hidden from plain view to demonstrate an active intent to conceal.
 
-**Answer:** (e)
+**Answer:** (b)
 
-**Explanation:** (e) is correct. Constructive possession requires both the power and the intent to exercise dominion and control over the contraband. Marcus's possession of the sole key gave him power over the locked box, while Leo's mere proximity and visual awareness without the key did not. (a) is wrong because plain view is insufficient without the actual power to access and control the locked contents. (b) is wrong because physical possession of the key confers constructive possession of the contents. (c) is wrong because visual awareness (intent) must be coupled with the power to exercise dominion, which Leo lacked. (d) is wrong because criminal association in a vehicle does not create strict liability for locked containers possessed by another person.
+**Explanation:** (b) is correct because constructive possession requires both the power and intention to exercise control over an item. By possessing the only key to the locked steel box, Marcus demonstrated exclusive power and intent to control its contents. (a) is wrong because mere proximity to or visibility of a locked container in a shared space does not establish the required power to control its contents for a passenger. (c) is wrong because Leo's direct line of sight does not equate to access or the intention to control the locked drugs. (d) is wrong because physical grasp is required only for actual possession; constructive possession specifically covers secured items within one's control. (e) is wrong because constructive possession does not require the contraband to be hidden; it only requires dominion and control.
 
-**Tags:** chapters: [15], topics: [constructive-possession, drugs], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [possession, constructive possession], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15; constructive possession requiring power and intent to exercise dominion and control
+**Grounding:** Chapter 15 (Drugs and Guns: Constructive Possession)
 
-<!-- grounding: GROUNDED — constructive possession, Ch 15, Refinement `cp-awareness-control`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Constructive Possession, Ch 15, Refinement `cp-exclusive-control`. Rule paraphrased accurately. -->

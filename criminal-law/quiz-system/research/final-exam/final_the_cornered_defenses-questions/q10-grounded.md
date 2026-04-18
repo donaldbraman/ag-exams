@@ -1,17 +1,17 @@
-**Q10.** Assume Vance's conspiracy with Marcus is established. Under the Pinkerton doctrine, what is Vance's liability for the substantive crimes committed at the warehouse?
+**Q10.** Assume that, whether or not he is liable for the initial conspiracy, Vance is a member of the Syndicate enterprise and explicitly commanded Marcus to commit the arson. Is Vance liable for the watchman's death under the Pinkerton doctrine?
 
-(a) Vance is guilty of both the arson and the homicide because Pinkerton imposes absolute strict liability on all co-conspirators for any acts committed by any party.
-(b) Vance is not guilty of either substantive offense because he was not physically present at the warehouse and did not personally participate in the required actus reus.
-(c) Vance is guilty of the arson, but may avoid liability for the homicide if a jury finds Leo's hallucinatory shooting was an unforeseeable departure from the plan. <!-- correct -->
-(d) Vance is guilty of the arson but categorically shielded from the homicide because his official status as a police commander protects him from derivative criminal homicide liability.
-(e) Vance is not guilty of either offense because his coercive threat to Marcus constituted extreme duress, which legally severs the conspiratorial agreement and any resulting derivative liability.
+(a) Liable, because the homicide was a reasonably foreseeable consequence of the violent arson committed in direct furtherance of the broader criminal conspiracy. <!-- correct -->
+(b) Liable, because the Pinkerton doctrine imposes strict vicarious liability on all co-conspirators for any crime committed by an associate, completely regardless of foreseeability.
+(c) Not liable, because Vance was not physically present at the warehouse location when the fatal shot was independently fired by the recruited associate.
+(d) Not liable, because the unpredictable homicide was an entirely independent act by Leo that completely severed the essential chain of proximate criminal causation.
+(e) Not liable, because Vance only intended to cause commercial property damage and never possessed the specific criminal intent to kill the civilian night watchman.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct. Under Pinkerton, a conspirator is liable for the reasonably foreseeable substantive offenses committed by co-conspirators in furtherance of the conspiracy. Whether Leo's hallucinatory homicide was a foreseeable consequence of the arson is a question of fact for the jury. (a) is wrong because Pinkerton liability is limited by the requirement that the substantive crime be reasonably foreseeable. (b) is wrong because physical presence is not required; the conspiratorial agreement extends liability to co-conspirators' acts. (d) is wrong because an officer's official status provides no immunity when actively participating in an illegal conspiracy. (e) is wrong because Vance was the one making the threat; he cannot claim his own coercive threat severs his liability for the resulting acts.
+**Explanation:** (a) is correct because under the *Pinkerton* doctrine, a conspirator is liable for the substantive offenses committed by a co-conspirator if those crimes are in furtherance of the conspiracy and are reasonably foreseeable. A homicide is a reasonably foreseeable consequence of commanding an arson at an operational warehouse. (b) is wrong because *Pinkerton* liability is not absolute; it explicitly requires the subsequent crimes to be reasonably foreseeable. (c) is wrong because physical presence at the scene is not required for vicarious liability under the *Pinkerton* framework. (d) is wrong because an associate's reasonably foreseeable actions in furtherance of the agreed-upon crime do not sever the chain of causation. (e) is wrong because *Pinkerton* allows liability for foreseeable substantive crimes regardless of whether the defendant possessed the specific intent for those secondary offenses.
 
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton-liability], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [19], topics: [conspiracy, pinkerton liability], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19; Pinkerton doctrine establishing liability for reasonably foreseeable acts of co-conspirators
+**Grounding:** Chapter 19 (Conspiracy: The Pinkerton Doctrine)
 
 <!-- grounding: GROUNDED — Pinkerton doctrine, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->

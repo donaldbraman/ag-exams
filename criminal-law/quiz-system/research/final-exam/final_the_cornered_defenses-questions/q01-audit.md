@@ -1,26 +1,28 @@
-**Q1.** Vance is charged with conspiracy for his three-year relationship providing protection to the Bayside Syndicate. Will this charge succeed?
+The grand jury has handed down a multi-defendant indictment for the Bayside warehouse arson, the resulting homicide, and the narcotics found during the arrest. I need you to evaluate the viability of Marcus's affirmative defenses, the limits of Leo's insanity plea, the clerk's exposure, Vance's extended liability, and the drug possession charges.
 
-(a) Yes, because Vance's explicit exchange of files and protection for monthly cash constitutes a mutual agreement to facilitate the Syndicate's illicit enterprise. <!-- correct -->
-(b) Yes, because any receipt of money from a known criminal organization automatically creates a conspiracy regardless of the supplier's actual intent or actions.
-(c) No, because Vance did not personally participate in the Syndicate's core criminal acts like extortion, meaning he cannot be part of the conspiracy.
-(d) No, because a law enforcement officer acting under the color of official duty cannot form the requisite criminal intent to enter a conspiratorial agreement.
-(e) No, because providing protection and information are unilateral acts that do not demonstrate a shared criminal purpose with the Syndicate's broader illegal goals.
+**Q1.** Assume that the prosecution charges Vance with conspiracy to further the criminal enterprise of the Bayside Syndicate. Based on his explicit exchange of protection and files for monthly cash bribes, is Vance guilty of conspiracy?
+
+(a) Guilty of conspiracy, because the explicit exchange of bribes for ongoing protection establishes a bilateral agreement to further the enterprise's criminal purpose. <!-- correct -->
+(b) Guilty of conspiracy, because the unilateral agreement requirement is satisfied even if the Syndicate never intended to follow through with the protection.
+(c) Not guilty of conspiracy, because the sale of standard police files falls under the buyer-seller exception and precludes the formation of an agreement.
+(d) Not guilty of conspiracy, because Vance did not personally commit the underlying predicate acts of the Syndicate or directly participate in violent crimes.
+(e) Not guilty of conspiracy, because a sworn police commander is categorically barred from forming a valid legal agreement with the targets of his investigations.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. Conspiracy requires an agreement to commit an unlawful act. Vance's explicit exchange of confidential files and protection for cash bribes establishes a mutual, bilateral agreement to facilitate the Syndicate's criminal operations. (b) is wrong because conspiracy requires intent, not just an automated strict liability trigger for receiving money. (c) is wrong because a co-conspirator need not participate in the core substantive crimes if they agree to facilitate the enterprise. (d) is wrong because law enforcement officers who accept bribes are acting outside their official duties and can form criminal intent. (e) is wrong because Vance's actions were part of an explicit, bilateral exchange, not mere unilateral acts.
+**Explanation:** (a) is correct because an agreement for conspiracy can be inferred from a mutually beneficial ongoing relationship involving explicit exchanges for illegal services, satisfying the bilateral agreement requirement. (b) is wrong because conspiracy requires a bilateral agreement, not merely a unilateral one. (c) is wrong because the buyer-seller exception applies to the ordinary purchase of routine goods, not the corrupt sale of protection and confidential police files. (d) is wrong because a co-conspirator need not personally commit the target offense to be guilty of the conspiracy. (e) is wrong because there is no categorical exemption protecting police commanders from conspiracy charges if they actively join the criminal enterprise.
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement-inference], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, agreement inference], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 19; conspiracy agreement requirements and bilateral nature
+**Grounding:** Chapter 19 (Conspiracy: The Agreement and The Overt Act)
 
-<!-- audit: MUST FIX
-check 1: fail - The correct answer relies heavily on facts (exchanging files for monthly cash) that are entirely absent from the stem.
-check 2: pass - The distractors themselves are doctrinally flawed, but a well-prepared student would likely eliminate (a) because it assumes facts not in evidence, leading to valid frustration/challenges.
-check 3: pass - The explanation correctly identifies the doctrinal rule (bilateral agreement and purpose/stake in the venture), but again relies on phantom facts.
-check 4: fail - The stem lacks sufficient facts. It mentions only "providing protection", but the answers and explanation rely on Vance being a law enforcement officer (implied by D) who exchanged "confidential files" for "monthly cash bribes" (A and Explanation). This is a classic drafting error where the factual scenario was omitted.
-check 5: pass - Standard conspiracy doctrine is clear here; no jurisdictional split needs resolving.
-check 6: pass - No excluded topics (DV/SA) are present.
-check 7: pass - The concepts of agreement inference and knowledge vs. purpose (stake in the venture via special services) align with Ch 19 tags (e.g., `lauria-three-inferences`, `bilateral-unilateral`).
-Recommended fix: Add the missing factual scenario to the stem. For example: "Officer Vance, a local police detective, spent three years secretly providing the Bayside Syndicate with confidential law enforcement files and active police protection in exchange for monthly cash bribes. Vance is charged with conspiracy..."
+<!-- audit: SHOULD FIX
+check 1: pass
+check 2: pass
+check 3: The explanation for (b) categorically states that "conspiracy requires a bilateral agreement, not merely a unilateral one." This is doctrinally false under the MPC, which explicitly allows unilateral agreements (a split covered by the `bilateral-unilateral` tag).
+check 4: pass
+check 5: The stem does not specify a jurisdiction (CL vs. MPC). While the correct answer (a) works in both because an established bilateral agreement easily satisfies the MPC's unilateral minimum, the explanation relies on the common-law-only bilateral requirement to eliminate (b).
+check 6: pass
+check 7: pass
+Recommended fix: Rewrite the explanation for (b) to avoid denying the existence of unilateral conspiracy. Instead, note that (b) misstates the facts (the Syndicate receives protection; it doesn't provide it) and that the clear factual presence of a bilateral agreement makes (a) the stronger, universally applicable answer.
 -->

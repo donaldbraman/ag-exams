@@ -1,21 +1,21 @@
-**Q5.** Assume Marcus is charged with felony murder for the watchman's death, and that his duress defense is factually credible. Will the duress defense apply to the felony murder charge?
+**Q5.** Assume that, regardless of the outcome of any other charges, Marcus is charged with felony murder for the death of the night watchman. Can Marcus raise a duress defense against the felony murder charge?
 
-(a) In all common law jurisdictions, Marcus is guilty of felony murder because the traditional murder bar categorically prohibits raising duress for any homicide offense.
-(b) In jurisdictions recognizing the felony-murder exception, Marcus is guilty because he recruited Leo, meaning he voluntarily created the extreme risk of a fatal encounter.
-(c) Marcus is not guilty in any jurisdiction because he explicitly planned for the building to be empty, negating the requisite malice aforethought for murder.
-(d) In jurisdictions recognizing the felony-murder exception, Marcus is not guilty because his duress defense to the predicate arson breaks the chain of felony-murder liability. <!-- correct -->
-(e) Marcus is guilty of felony murder because the duress exception only applies when the coerced principal actor actually commits the physical act of killing.
+(a) Yes, because a defendant who is coerced into committing a predicate felony may raise duress as a defense against a resulting felony murder charge.
+(b) Yes, because the Model Penal Code framework universally permits the duress defense for all forms of homicide, regardless of the underlying felony circumstances.
+(c) No, because the traditional common law rule categorically bars the use of a duress defense for any form of homicide, including felony murder.
+(d) No, because Marcus's active recruitment of Leo constituted an independent intervening cause that entirely severed the necessary chain of proximate felony murder liability.
+(e) No, because felony murder is treated as a strict liability offense that explicitly precludes the assertion of any affirmative justifications or personal excuses.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** (d) is correct. Several jurisdictions recognize a felony-murder exception where duress is a valid defense if it applies to the underlying predicate felony (arson), breaking the chain of felony-murder liability. (a) is wrong because it ignores the established minority exception that allows duress for felony murder when the underlying felony was coerced. (b) is wrong because recruiting Leo under coercion does not legally constitute voluntary risk creation that overrides the duress defense to the predicate felony. (c) is wrong because felony murder substitutes the intent to commit the dangerous felony for malice aforethought; planning for an empty building doesn't negate felony murder. (e) is wrong because felony murder liability applies to accomplices; the exception applies regardless of who pulled the trigger.
+**Explanation:** (a) is correct because several jurisdictions recognize a felony-murder duress exception (e.g., *People v. Reichard*), allowing a defendant to raise duress against a felony murder charge if the underlying predicate felony was committed under duress. Since Marcus was coerced into the arson and did not intentionally choose to kill, the rationale for the traditional murder bar collapses. (b) is wrong because the Model Penal Code permits the defense, but its framework is not universal. (c) is wrong because the traditional common law murder bar does not automatically extend to felony murder in jurisdictions recognizing this specific exception. (d) is wrong because recruiting an accomplice does not sever proximate causation for reasonably foreseeable acts committed during the felony. (e) is wrong because felony murder is not strictly immune from all affirmative defenses, specifically when the predicate itself is excused.
 
-**Tags:** chapters: [14, 21], topics: [felony-murder, duress, murder-bar], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [14, 21], topics: [felony murder, duress exception], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 21; the felony-murder duress exception adopted in several jurisdictions
+**Grounding:** Chapter 21 (Duress: Felony Murder Exception / People v. Reichard)
 
 <!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass
+1. Fact Pattern Booby Traps: pass (the facts regarding Marcus being unarmed and unaware of the gun perfectly establish his lack of homicidal intent, supporting the rationale for the Reichard exception without breaking the specific question asked).
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
 Recommended fix: n/a

@@ -1,18 +1,18 @@
-**Q14.** Assume the jury finds that Silas's belief in the need for deadly force was highly genuine but objectively unreasonable. How would this finding affect his liability in a jurisdiction that follows California's imperfect self-defense doctrine?
+**Q14.** Assume that Silas genuinely, though perhaps unreasonably, believed an assassination was underway when he fired the fatal shot. Under the Schuller imperfect self-defense framework, what is the legal effect if Silas's belief was genuine but objectively unreasonable?
 
-(a) He would be completely acquitted of all charges if the jury finds his fear of Trey was highly genuine but objectively unreasonable under the specific prevailing circumstances.
-(b) He is strictly barred from asserting the defense because California's imperfect self-defense doctrine only applies when the defendant is proven to be the initial physical aggressor.
-(c) He would be convicted of murder because the imperfect self-defense doctrine strictly requires his mistake of fact regarding the deadly threat to be completely objectively reasonable.
-(d) He would be completely acquitted of all charges because a genuinely held mistake of fact entirely negates the requisite mens rea for any degree of criminal homicide.
-(e) He would be convicted only of manslaughter if the jury finds that his intense fear of Trey was entirely genuine but objectively unreasonable under the circumstances. <!-- correct -->
+(a) He is completely exonerated, because an honest but unreasonable belief perfectly satisfies the core requirements for a perfect self-defense justification in all modern jurisdictions.
+(b) He is convicted of murder, because the rigid standard gives absolutely no mitigating legal effect whatsoever to personal beliefs that are factually and objectively unreasonable.
+(c) He is convicted of voluntary manslaughter, because his genuine belief in the need for deadly force negates malice, even if that belief was objectively unreasonable. <!-- correct -->
+(d) He is convicted of involuntary manslaughter, because his unfortunate failure to accurately identify the ringing cell phone constituted an act of gross criminal negligence.
+(e) He is completely exonerated, because the specialized standard allows the jury to completely ignore the objective reasonableness requirement and grant a full acquittal entirely.
 
-**Answer:** (e)
+**Answer:** (c)
 
-**Explanation:** (e) is correct. In California and minority jurisdictions recognizing imperfect self-defense, a defendant who holds a genuine but objectively unreasonable belief that deadly force is necessary is entitled to mitigation. The honest belief negates malice aforethought, reducing the murder charge to voluntary manslaughter. (a) is wrong because an unreasonable belief cannot support a complete acquittal, only mitigation to manslaughter. (b) is wrong because imperfect self-defense applies to unreasonable defensive beliefs, not just to initial aggressors trying to regain rights. (c) is wrong because requiring an objectively reasonable belief defines perfect self-defense, rendering the imperfect doctrine moot. (d) is wrong because an unreasonable mistake of fact regarding self-defense does not completely negate all mens rea, only the malice required for murder.
+**Explanation:** (c) is correct because under the imperfect self-defense framework (*People v. Schuller*), a defendant who genuinely but unreasonably believes deadly force is necessary is entitled to a partial defense. This honest belief negates the malice required for murder, reducing the conviction to voluntary manslaughter. (a) is wrong because perfect self-defense requires the belief to be both honest and objectively reasonable. (b) is wrong because jurisdictions that recognize imperfect self-defense do give mitigating legal effect to genuine but unreasonable beliefs. (d) is wrong because imperfect self-defense mitigates intentional killings to voluntary manslaughter, whereas involuntary manslaughter typically applies to reckless or grossly negligent unintentional killings. (e) is wrong because imperfect self-defense only provides partial exoneration (mitigation to manslaughter), not the complete exoneration granted by a perfect self-defense claim.
 
-**Tags:** chapters: [22], topics: [self-defense, imperfect-self-defense, schuller-genuineness-only], difficulty: medium, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, imperfect self-defense], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 22; People v. Schuller on genuine but unreasonable belief mitigating murder to manslaughter
+**Grounding:** Chapter 22 (Self-Defense: Imperfect Self-Defense / People v. Schuller)
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

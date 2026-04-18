@@ -1,5 +1,17 @@
-<!-- grounding: GROUNDING-FAIL -->
+**Q12.** Assume that, whether or not the threat was legally imminent, Silas must prove that his fear was objectively reasonable. Is Silas's belief that deadly force was necessary objectively reasonable under the circumstances?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) Yes, because a reasonable person possessing Silas's specific background knowledge of the intelligence and retaliatory tactics would likely perceive the sudden reach as a lethal threat. <!-- correct -->
+(b) Yes, because Silas's undeniably genuine personal fear of assassination is entirely sufficient to establish absolute legal reasonableness under a purely subjective and individualized evaluation standard.
+(c) No, because Trey was entirely unarmed at the time, making it inherently unreasonable for any person to actively perceive an immediate threat of deadly force.
+(d) No, because the strict objective standard rigorously prohibits the consideration of the defendant's prior experiences, affiliations, or contextual background knowledge of the attacker.
+(e) No, because Silas was actively engaged in ongoing criminal gang activity, which categorically and permanently disqualifies him from legally claiming any reasonable fear.
 
-Error: Model returned empty or blocked response.
+**Answer:** (a)
+
+**Explanation:** (a) is correct because the objective reasonableness standard (*Goetz*) incorporates the defendant's prior experiences and specific knowledge of the attacker. A reasonable person who possesses Silas's knowledge of the credible intelligence and the Syndicate's retaliatory tactics would likely perceive Trey's sudden reach as a lethal threat. (b) is wrong because the legal standard is not purely subjective; it requires that a reasonable person in the defendant's situation would share that fear. (c) is wrong because reasonableness is judged based on the facts as they reasonably appeared to the defendant at the time, not based on hindsight discovery that the victim was unarmed. (d) is wrong because the objective standard expressly allows the incorporation of the defendant's specific physical circumstances and prior background knowledge. (e) is wrong because gang membership does not categorically disqualify an individual from asserting a reasonable fear of imminent harm.
+
+**Tags:** chapters: [22], topics: [self-defense, objective reasonableness], difficulty: hard, cognitive: application
+
+**Grounding:** Chapter 22 (Self-Defense: The Objective Reasonableness Standard / People v. Goetz)
+
+<!-- grounding: GROUNDED — Objective Reasonableness Standard / Situational Incorporation, Ch 22, Refinement `situational-incorporation`. Rule paraphrased accurately. -->

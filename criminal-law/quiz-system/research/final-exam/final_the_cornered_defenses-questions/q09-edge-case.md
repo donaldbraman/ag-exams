@@ -1,22 +1,22 @@
-**Q9.** Assume Marcus is established as the possessor of the fentanyl. Can he be convicted of possession with intent to distribute?
+**Q9.** Assume that Marcus is proven to be in exclusive possession of the locked steel box containing 2 kilograms of fentanyl packaged in 100 baggies. Can Marcus be charged with possession with intent to distribute based on these facts?
 
-(a) Guilty, because the massive quantity of 2 kilograms and the division into 100 baggies permit a jury to infer an intent to sell rather than personal use. <!-- correct -->
-(b) Not guilty, because the prosecution cannot legally prove intent to distribute without direct evidence of an actual financial transaction, a ledger, or an undercover sting operation.
-(c) Guilty, because possessing any detectable amount of fentanyl automatically constitutes distribution under modern strict liability public welfare statutes governing highly dangerous synthetic chemical substances.
-(d) Not guilty, because the packaged drugs were found locked away rather than on his physical person, which legally negates an active present intent to immediately distribute.
-(e) Guilty, because fentanyl is a closely regulated narcotic and the law strictly presumes that any individual possessing a Schedule I substance intends to distribute it.
+(a) Yes, because the substantial bulk quantity and specific individual packaging of the fentanyl permit a strong factual inference of an active intent to distribute. <!-- correct -->
+(b) Yes, because any physical possession of a heavily regulated Schedule I narcotic is automatically classified under federal law as possession with intent to distribute.
+(c) No, because the prosecution must present direct observational evidence of an actual sale or financial transaction to legally prove an intent to distribute.
+(d) No, because the drugs were securely locked away in a box, which conclusively negates any immediate intent to transfer them to another individual.
+(e) No, because the total quantity of two kilograms is widely and universally recognized by courts as an amount strictly consistent with personal medical use.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. Intent to distribute can be inferred circumstantially from the massive quantity of drugs (2 kilograms) and their specific packaging (100 baggies), which strongly suggest commercial sale rather than personal consumption. (b) is wrong because circumstantial evidence of quantity and packaging is legally sufficient to prove intent without a direct transaction. (c) is wrong because possession with intent to distribute requires specific intent (mens rea); it is not a strict liability offense. (d) is wrong because constructive possession of packaged narcotics is sufficient; they do not need to be on the physical person. (e) is wrong because while Schedule I classification reflects high danger, the law requires proof of specific intent to distribute, not a strict presumption based on the schedule alone.
+**Explanation:** (a) is correct because possession with intent to distribute can be proven circumstantially. The possession of a substantial quantity of fentanyl (2 kilograms) packaged in 100 individual baggies creates a strong factual inference that the drugs were intended for distribution rather than personal use. (b) is wrong because mere possession of a Schedule I narcotic is not automatically classified as intent to distribute without evidence of quantity or packaging. (c) is wrong because direct observational evidence of a sale is not required; circumstantial evidence is sufficient. (d) is wrong because securely storing drugs does not negate the intent to distribute them at a later time. (e) is wrong because two kilograms of fentanyl is a massive quantity, far exceeding any recognized amount for personal medical or recreational use.
 
-**Tags:** chapters: [15], topics: [possession-with-intent-to-distribute], difficulty: easy, cognitive: application
+**Tags:** chapters: [15], topics: [possession, intent to distribute], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 15; inferring intent to distribute from quantity and packaging
+**Grounding:** Chapter 15 (Drugs and Guns: Quantity and Distribution Inferences)
 
-<!-- edge-case-audit: CLEAN
+<!-- edge-case-audit: SHOULD FIX
 1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+3. Cross-Question Spoilers: The phrase "exclusive possession" in Q9's prompt strongly hints at the outcome of Q8 (which evaluates whether Leo had constructive possession of the lockbox). If Q9 assumes Marcus's possession was "exclusive," it telegraphs to the student that Leo did not possess the drugs, spoiling Q8.
+Recommended fix: Remove the word "exclusive." Change the prompt to: "Assume that Marcus's possession of the locked steel box containing 2 kilograms of fentanyl packaged in 100 baggies is legally established. Can Marcus be charged..."
 -->

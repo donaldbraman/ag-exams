@@ -1,17 +1,17 @@
-**Q13.** Assume Silas's shooting is evaluated in a jurisdiction that generally imposes a duty to retreat before using deadly force. Did Silas have a duty to retreat from his porch?
+**Q13.** Assume that Silas's self-defense claim is evaluated in a traditional retreat jurisdiction. Did Silas have a legal duty to retreat from his front porch before using deadly force?
 
-(a) In a traditional retreat jurisdiction, Silas's porch likely falls under the castle doctrine exception, which removes the duty to retreat when a person is attacked at home. <!-- correct -->
-(b) In a traditional retreat jurisdiction, Silas was legally required to retreat into his house because the castle doctrine only applies when an attacker breaches the interior walls.
-(c) In a stand-your-ground jurisdiction, Silas had a mandatory duty to retreat because his active participation in gang warfare stripped him of the right to stand his ground.
-(d) In any jurisdiction, Silas had a strict duty to retreat because the duty applies universally whenever a safe avenue of escape is available, even on private property.
-(e) In a traditional retreat jurisdiction, Silas had no duty to retreat because the legal duty to retreat only applies to non-deadly force, not to deadly defensive force.
+(a) He had no duty to retreat if the jurisdiction extends the castle doctrine exception to the home's external porch, as this eliminates the retreat requirement. <!-- correct -->
+(b) He had no duty to retreat, because modern stand-your-ground laws automatically and universally apply to all individuals regardless of their specific geographic location.
+(c) He had a strict duty to retreat, because the castle doctrine exception is exclusively limited to the interior enclosed bedrooms of a primary residential dwelling.
+(d) He had a duty to retreat, because he had prior intelligence of the attack and should have preemptively relocated before the hitman ever arrived.
+(e) He had a duty to retreat, because active gang members are universally and categorically excluded from invoking the protections of the traditional castle doctrine.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. Even in jurisdictions that generally impose a duty to retreat before using deadly force, the universally recognized "castle doctrine" exception removes this duty when a person is attacked at their own dwelling, which typically includes the porch. (b) is wrong because the castle doctrine generally extends to the immediate curtilage of the home, such as a porch, not just the interior walls. (c) is wrong because gang involvement does not legally strip a person of their constitutional right to self-defense or stand their ground. (d) is wrong because the castle doctrine explicitly overrides the duty to retreat when the defender is at home. (e) is wrong because the duty to retreat (and the castle exception) only applies to the use of deadly force.
+**Explanation:** (a) is correct because the castle doctrine is a universally recognized exception to the duty to retreat for a person attacked in their own home. While jurisdictions divide on whether this protection extends to curtilage like a front porch, if the jurisdiction does extend it, Silas had no legal duty to retreat. (b) is wrong because stand-your-ground laws are not universally adopted and many traditional jurisdictions still require retreat outside the home. (c) is wrong because the castle doctrine is not strictly limited to interior bedrooms; it generally applies to the entire dwelling and sometimes the curtilage. (d) is wrong because prior intelligence of an attack does not impose a preemptive duty to abandon one's home before the threat materializes. (e) is wrong because gang members retain the right to self-defense in their own homes and are not categorically excluded from the castle doctrine.
 
-**Tags:** chapters: [22], topics: [self-defense, duty-to-retreat, castle-doctrine], difficulty: easy, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, duty to retreat, castle doctrine], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22; castle doctrine exception to the duty to retreat
+**Grounding:** Chapter 22 (Self-Defense: Duty to Retreat and Castle Doctrine Scope)
 
-<!-- grounding: GROUNDED — castle doctrine, Ch 22, Refinement `castle-doctrine-scope`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Castle Doctrine Scope, Ch 22, Refinement `castle-doctrine-scope`. Rule paraphrased accurately. -->

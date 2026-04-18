@@ -1,18 +1,18 @@
-**Q3.** Assume the Clerk is charged as an accomplice to the warehouse arson. Will this charge succeed?
+**Q3.** Assume that the hardware store clerk is charged as an accomplice to the arson. The clerk suspected the materials were for arson but completed the sale at the standard market price. Is the clerk liable as an accomplice?
 
-(a) Guilty, because he provided the necessary instrumentalities for the arson while harboring a strong suspicion that they would be used for a criminal objective.
-(b) Guilty, because commercial vendors have an affirmative legal duty to refuse sales when they suspect the materials will be used to unlawfully destroy property.
-(c) Not guilty, because his failure to report the suspicious sale to authorities constituted a legally blameless omission rather than an affirmative act of aiding.
-(d) Not guilty, because selling standard goods at market price with mere knowledge or suspicion of illicit use does not establish the purpose to facilitate crime. <!-- correct -->
-(e) Guilty, because the sale of explosive precursors automatically triggers strict accomplice liability under the public welfare doctrine regardless of the vendor's actual subjective intent.
+(a) Liable, because he knew the materials were highly likely to be used for an arson and chose to complete the commercial transaction anyway.
+(b) Liable, because his failure to immediately report the suspicious purchase constituted a deliberate breach of a legal duty to intervene in a crime.
+(c) Not liable, because selling ordinary goods at standard market prices establishes only knowledge, not the purpose required to facilitate the commission of the offense. <!-- correct -->
+(d) Not liable, because retail store clerks are categorically exempt from secondary criminal liability for the subsequent illegal actions of their paying customers.
+(e) Not liable, because industrial accelerants and timing fuses are legal to possess and therefore cannot ever form the basis of criminal accomplice liability.
 
-**Answer:** (d)
+**Answer:** (c)
 
-**Explanation:** (d) is correct. Selling standard goods at market price with mere knowledge or suspicion of their illicit use does not satisfy the "purpose" mens rea requirement for accomplice liability (the *Lauria* rule). (a) is wrong because mere suspicion or knowledge is insufficient for standard commercial transactions; the clerk must have a stake in the venture or overcharge to show purpose. (b) is wrong because criminal law generally imposes no affirmative duty on merchants to police their customers absent a specific statute. (c) is wrong because while it correctly identifies the lack of an affirmative act, it misidentifies the core doctrinal failure, which is mens rea (purpose), not actus reus. (e) is wrong because accomplice liability is not strict liability; it requires the specific intent to facilitate the crime.
+**Explanation:** (c) is correct because accomplice liability requires that the defendant act with the purpose of promoting or facilitating the crime; merely selling standard goods at market prices with suspicion of their illicit use establishes only knowledge, which is insufficient. (a) is wrong because knowledge alone does not satisfy the purpose mens rea for accomplice liability. (b) is wrong because a private citizen generally has no affirmative legal duty to report a crime or intervene, so omitting to report it does not trigger liability. (d) is wrong because clerks can be liable if they overcharge, customize goods, or demonstrate a true stake in the venture, so there is no categorical exemption. (e) is wrong because the legality of the underlying items does not preclude accomplice liability if sold with the requisite purpose to facilitate a crime.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, purpose-vs-knowledge], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice liability, purpose vs knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18; Lauria rule requiring purpose rather than mere knowledge for merchant liability
+**Grounding:** Chapter 18 (Mens Rea: Purpose vs. Knowledge)
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

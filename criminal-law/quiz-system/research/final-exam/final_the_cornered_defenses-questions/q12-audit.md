@@ -1,26 +1,26 @@
-**Q12.** Assume Silas satisfies the imminence requirement, and his threat perception must be evaluated for reasonableness. How will the court evaluate his belief that an assassination attempt was underway?
+**Q12.** Assume that, whether or not the threat was legally imminent, Silas must prove that his fear was objectively reasonable. Is Silas's belief that deadly force was necessary objectively reasonable under the circumstances?
 
-(a) His belief is evaluated under a purely subjective standard, meaning he is fully justified so long as he genuinely believed Trey was rapidly drawing a deadly weapon.
-(b) His belief is evaluated by asking whether an average citizen with no gang involvement or prior knowledge of Trey would have believed lethal defensive force was necessary.
-(c) His belief is automatically deemed unreasonable as a strict matter of law because Trey was completely unarmed and was only reaching for a ringing cellular phone.
-(d) His belief is evaluated by asking whether a reasonable person in Silas's specific situation, possessing his knowledge of Syndicate tactics, would have believed deadly force was necessary. <!-- correct -->
-(e) His belief is automatically deemed reasonable by the court because Trey was a known criminal hitman actively pacing outside Silas's residence during an ongoing violent gang war.
+(a) Yes, because a reasonable person possessing Silas's specific background knowledge of the intelligence and retaliatory tactics would likely perceive the sudden reach as a lethal threat. <!-- correct -->
+(b) Yes, because Silas's undeniably genuine personal fear of assassination is entirely sufficient to establish absolute legal reasonableness under a purely subjective and individualized evaluation standard.
+(c) No, because Trey was entirely unarmed at the time, making it inherently unreasonable for any person to actively perceive an immediate threat of deadly force.
+(d) No, because the strict objective standard rigorously prohibits the consideration of the defendant's prior experiences, affiliations, or contextual background knowledge of the attacker.
+(e) No, because Silas was actively engaged in ongoing criminal gang activity, which categorically and permanently disqualifies him from legally claiming any reasonable fear.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** (d) is correct. The objective reasonableness standard requires evaluating the threat from the perspective of a reasonable person in the defendant's specific situation, incorporating their relevant prior knowledge, experiences, and awareness of the attacker's identity. (a) is wrong because self-defense requires an objective element; a purely subjective, idiosyncratic belief is insufficient for perfect self-defense. (b) is wrong because the standard incorporates the defendant's specific circumstantial knowledge (the gang war and hitman's identity), not an uninformed average citizen. (c) is wrong because reasonableness is judged based on the facts as they reasonably appeared to the defendant at the time, not in hindsight. (e) is wrong because reasonableness is a question for the jury based on all circumstances, not an automatic judicial presumption.
+**Explanation:** (a) is correct because the objective reasonableness standard (*Goetz*) incorporates the defendant's prior experiences and specific knowledge of the attacker. A reasonable person who possesses Silas's knowledge of the credible intelligence and the Syndicate's retaliatory tactics would likely perceive Trey's sudden reach as a lethal threat. (b) is wrong because the legal standard is not purely subjective; it requires that a reasonable person in the defendant's situation would share that fear. (c) is wrong because reasonableness is judged based on the facts as they reasonably appeared to the defendant at the time, not based on hindsight discovery that the victim was unarmed. (d) is wrong because the objective standard expressly allows the incorporation of the defendant's specific physical circumstances and prior background knowledge. (e) is wrong because gang membership does not categorically disqualify an individual from asserting a reasonable fear of imminent harm.
 
-**Tags:** chapters: [22], topics: [self-defense, objective-reasonableness-standard], difficulty: medium, cognitive: analysis
+**Tags:** chapters: [22], topics: [self-defense, objective reasonableness], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 22; objective standard incorporating the defendant's specific situation and prior knowledge
+**Grounding:** Chapter 22 (Self-Defense: The Objective Reasonableness Standard / People v. Goetz)
 
-<!-- audit: CLEAN
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: pass (though the question clearly draws from a shared fact pattern as indicated by "Q12", the options incorporate the necessary facts to allow a student to identify the correct formulation of the legal standard on its face)
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: N/A
+<!-- audit: SHOULD FIX
+check 1: pass. (a) accurately reflects the Goetz standard of objective reasonableness, which incorporates the defendant's specific situational knowledge.
+check 2: pass. No distractor is doctrinally defensible; they all rely on gross misstatements of self-defense law (e.g., hindsight bias in (c), a purely subjective test in (b), and strict non-incorporation in (d)).
+check 3: pass. The explanation aligns perfectly with the doctrinal rule of situational incorporation.
+check 4: finding. The standalone text lacks the underlying fact pattern. The stem and options refer to specific narrative elements (Silas, Trey, "the intelligence," and "retaliatory tactics") that require the student to rely on facts missing from this specific prompt.
+check 5: pass. While jurisdictions vary slightly on the exact degree of subjectivity incorporated, Goetz is the baseline casebook standard, making (d) definitively incorrect in the context of the course.
+check 6: pass. No excluded-topic bleed.
+check 7: pass. The tested doctrine maps perfectly to the Ch 22 map (objective-reasonableness-standard, situational-incorporation).
+Recommended fix: If this is a standalone question, prepend a brief fact pattern establishing Silas's knowledge of the gang intelligence, his encounter with Trey, and Trey's sudden reach. If this is a sub-question attached to a master fact pattern, no edit is required.
 -->
