@@ -1,22 +1,22 @@
-**Q6.** Assume Dominic is charged with possession of fentanyl. Can he successfully defend on the ground that he genuinely believed the substance was heroin?
+**Q6.** Can Kevin successfully defend against the felon-in-possession charge based on his attorney's 2018 email?
 
-(a) Yes, because the government must prove he had specific knowledge of the precise chemical identity of the substance he possessed.
-(b) Yes, because a mistake of fact defense is available whenever a defendant holds an honest but mistaken belief about a circumstance.
-(c) No, because federal drug possession offenses are strict liability crimes that require no proof of mens rea regarding the substance.
-(d) No, because the government need only prove he knew the substance was a controlled substance, not its precise chemical identity. <!-- correct -->
-(e) No, because his belief that the substance was heroin demonstrates he acted with criminal negligence regarding the true nature of the drugs.
+(a) Guilty, because a defendant's ignorance of the law is never a valid defense to a federal firearms charge under traditional strict liability doctrines.
+(b) Not guilty, because his genuine belief that he only had a misdemeanor conviction directly negates the required knowledge of his prohibited status. <!-- correct -->
+(c) Guilty, because the defense attorney's private email does not legally qualify as an official statement of the law to support a reliance defense.
+(d) Not guilty, because relying on the advice of private legal counsel automatically immunizes a criminal defendant from all federal felony liability.
+(e) Guilty, because the actual statutory penalty for his prior state offense strictly establishes his prohibited status regardless of his personal beliefs.
 
-**Answer:** (d)
+**Answer:** (b)
 
-**Explanation:** (d) is correct because under *McFadden*, the government only needs to prove the defendant knew the substance had the general nature of a controlled substance, not its precise chemical identity. Dominic knew he possessed heroin (a controlled substance), satisfying the mens rea for whatever substance it actually was. (a) is incorrect because federal law expressly rejects requiring specific chemical knowledge. (b) is incorrect because mistake of fact only applies if it negates the required mental state, and knowing it was heroin satisfies the mental state for possessing a controlled substance. (c) is incorrect because federal drug possession is not a strict liability offense; it requires knowledge of the substance's general nature. (e) is incorrect because the standard is actual knowledge of its general nature, not negligence.
+**Explanation:** Under Rehaif v. United States, the government must prove the defendant knew he belonged to the relevant prohibited category (i.e., that he had a qualifying felony conviction). Kevin's genuine belief that his conviction was a misdemeanor negates this required mens rea. Option (a) fails because Rehaif explicitly displaced the traditional strict liability approach for the status element in this statute. Option (c) fails because Kevin does not need the affirmative "official statement" reliance defense; his mistake directly negates the statutory mens rea element. Option (d) fails because advice of counsel is not a blanket immunity doctrine. Option (e) fails because establishing the objective fact of the penalty is insufficient without proving the defendant's subjective knowledge of it.
 
-**Tags:** chapters: [15, 10], topics: [drug possession, mens rea, fentanyl], difficulty: advanced, cognitive: application
+**Tags:** chapters: [10, 15], topics: [Rehaif knowledge requirement, mistake of law, status element], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15, McFadden v. United States
+**Grounding:** Chapter 10 (Rehaif v. United States)
 
-<!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: Found. There are two statutory traps in the facts regarding 18 U.S.C. § 921(a)(20). First, Fact 8 sets the max penalty at 18 months, and Fact 9 labels it a "misdemeanor." Under § 921(a)(20)(B), state misdemeanors punishable by 2 years or less are expressly exempt from being federal qualifying offenses. An intermediate student who knows *Rehaif* requires knowledge of the penalty length (>1 year)—but who is unaware of this obscure 2-year misdemeanor exception—will assume Kevin's knowledge of the 18-month penalty satisfies the mens rea, leading them to wrongly reject (b). Second, the conviction is for "commercial fraud," which flirts dangerously with the § 921(a)(20)(A) exemption for offenses "relating to the regulation of business practices." Both create unintended legal ambiguities that derail a standard *Rehaif* analysis.
+2. Cross-Doctrine Clashes: pass.
+3. Cross-Question Spoilers: pass.
+Recommended fix: Change Fact 8's charge to "grand larceny" and its maximum penalty to "3 years." Change Fact 9's email to focus on the penalty length rather than the label: "The maximum penalty for this charge is 6 months. You are not a felon." Update Option (b) and the explanation to reflect that his genuine belief that the penalty was under a year negates the *Rehaif* knowledge requirement.
 -->

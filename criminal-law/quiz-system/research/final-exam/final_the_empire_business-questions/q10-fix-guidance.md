@@ -4,54 +4,30 @@ The QA pipeline flagged this question. Rewrite `q10.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q10.** Assume the state charges Dominic with felony murder for Victor's death based on the underlying armed extortion. Can Dominic be convicted of felony murder?
+**Q10.** Assume Kevin is charged with homicide and claims self-defense. Based on the facts provided, is this defense legally available to him?
 
-(a) Yes, because he caused a death during the commission or attempted commission of an inherently dangerous enumerated felony like armed robbery or armed extortion. <!-- correct -->
-(b) No, because he only returned fire after Victor shot at him, meaning the death was a justifiable result of self-defense rather than a direct result of the felony.
-(c) Yes, because any death that occurs while a defendant is armed with an illegal weapon automatically qualifies as first-degree felony murder in all American legal jurisdictions.
-(d) No, because he did not enter the restaurant with the specific premeditated intent to kill Victor, which is required for a first-degree homicide conviction under traditional rules.
-(e) Yes, because the agency rule dictates that a defendant is strictly liable even if a third party or the victim actually fires the fatal gunshot during the crime.
+(a) Available, because under the Model Penal Code, recklessly provoking a conflict does not automatically strip a defendant of the right to use deadly force. <!-- correct -->
+(b) Unavailable, because anyone who arrives at a business location with criminal intent immediately forfeits all legal rights to assert self-defense claims.
+(c) Available, because the victim's steadfast refusal to pay the required extortion money made the victim the initial aggressor as a matter of state law.
+(d) Unavailable, because the defendant was sitting in a running vehicle and therefore had an absolute legal duty to retreat safely before firing the weapon.
+(e) Available, because the defendant possessed a valid property interest in collecting the extortion debt which legally justified the use of deadly force.
 
 **Answer:** (a)
 
-**Explanation:** Dominic can be convicted of felony murder because he caused Victor's death during the commission of an inherently dangerous enumerated felony (armed extortion/robbery). Under traditional felony murder rules, the intent to commit the felony substitutes for the malice required for murder. (b) is incorrect because a defendant cannot claim self-defense against a victim who is lawfully resisting the defendant's violent felony. (c) is incorrect because mere possession of an illegal weapon is not universally an enumerated predicate for first-degree felony murder. (d) is incorrect because the felony murder rule specifically dispenses with the need to prove premeditated intent to kill. (e) is incorrect because Dominic personally fired the fatal shot, making the agency rule (which deals with third-party killings) irrelevant to establishing his direct liability.
+**Explanation:** Under MPC § 3.04(2)(b)(i), a defendant loses the right to use deadly force in self-defense only if they provoked the use of force against themselves *with the purpose* of causing death or serious bodily injury. Kevin only "consciously disregarded the substantial... risk" (recklessness), so he did not forfeit the defense under the MPC, especially when Matthew suddenly escalated the encounter with a deadly weapon (the bat). Option (b) fails because criminal intent alone does not forfeit self-defense unless it manifests as an initial aggressive physical act. Option (c) fails because refusing to pay extortion is entirely lawful and does not make one an aggressor. Option (d) fails because a sudden attack with a baseball bat through a window often eliminates the ability to safely retreat. Option (e) fails because deadly force cannot be used merely to protect or collect property.
 
-**Tags:** chapters: [14], topics: [felony murder, self-defense limitation], difficulty: easy, cognitive: application
+**Tags:** chapters: [8], topics: [self-defense, initial aggressor, provocation], difficulty: hard, cognitive: analysis
 
-**Grounding:** Traditional felony murder elements; Initial aggressor bar to self-defense
+**Grounding:** General Justification Defenses (MPC 3.04 Provocation Exception)
 
 <!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: fail (The question references a fact pattern that is entirely missing from the prompt. It assumes knowledge of Dominic, Victor, a restaurant, an armed extortion, and a shootout without establishing those facts.)
-check 5: fail (Option (a) asserts that armed extortion is an enumerated felony. Because enumerated predicates vary widely by state, the stem must explicitly stipulate the jurisdiction's statute rather than relying on assumed knowledge of which felonies are enumerated.)
-check 6: pass
-check 7: pass
-Recommended fix: Insert the missing fact pattern into the stem describing the restaurant extortion and shootout. Additionally, explicitly stipulate the applicable law in the stem (e.g., "Assume the jurisdiction's felony murder statute enumerates armed extortion...").
--->
-
-## Issue 2 — edge-case
-
-**Q10.** Assume the state charges Dominic with felony murder for Victor's death based on the underlying armed extortion. Can Dominic be convicted of felony murder?
-
-(a) Yes, because he caused a death during the commission or attempted commission of an inherently dangerous enumerated felony like armed robbery or armed extortion. <!-- correct -->
-(b) No, because he only returned fire after Victor shot at him, meaning the death was a justifiable result of self-defense rather than a direct result of the felony.
-(c) Yes, because any death that occurs while a defendant is armed with an illegal weapon automatically qualifies as first-degree felony murder in all American legal jurisdictions.
-(d) No, because he did not enter the restaurant with the specific premeditated intent to kill Victor, which is required for a first-degree homicide conviction under traditional rules.
-(e) Yes, because the agency rule dictates that a defendant is strictly liable even if a third party or the victim actually fires the fatal gunshot during the crime.
-
-**Answer:** (a)
-
-**Explanation:** Dominic can be convicted of felony murder because he caused Victor's death during the commission of an inherently dangerous enumerated felony (armed extortion/robbery). Under traditional felony murder rules, the intent to commit the felony substitutes for the malice required for murder. (b) is incorrect because a defendant cannot claim self-defense against a victim who is lawfully resisting the defendant's violent felony. (c) is incorrect because mere possession of an illegal weapon is not universally an enumerated predicate for first-degree felony murder. (d) is incorrect because the felony murder rule specifically dispenses with the need to prove premeditated intent to kill. (e) is incorrect because Dominic personally fired the fatal shot, making the agency rule (which deals with third-party killings) irrelevant to establishing his direct liability.
-
-**Tags:** chapters: [14], topics: [felony murder, self-defense limitation], difficulty: easy, cognitive: application
-
-**Grounding:** Traditional felony murder elements; Initial aggressor bar to self-defense
-
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: Distractor (b) and the explanation in Q10 explicitly state that Dominic cannot claim self-defense because he was committing a violent felony. This completely spoils Q8, which is dedicated to testing the initial-aggressor-bar for this exact shooting. Furthermore, Option (a) confirms armed robbery/extortion works as a predicate, which partially spoils Q11's independent felonious purpose (merger) test.
-Recommended fix: Change distractor (b) to test causation instead of self-defense (e.g., "No, because Victor's unexpected decision to fire first constituted an independent superseding cause") and remove the self-defense discussion from the explanation to preserve Q8.
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: Fails. The stem refers to "the facts provided" but contains no actual facts. It appears to be a dependent question detached from its fact pattern, as the options and explanation reference characters and events (Matthew, an extortion debt, a baseball bat, a running vehicle) that do not appear in the prompt.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: Integrate the missing fact pattern into the stem, detailing the extortion attempt, Kevin's reckless provocation, Matthew's attack with the baseball bat, and Kevin's position in the vehicle.
 -->

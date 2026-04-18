@@ -1,5 +1,0 @@
-<!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass (The termite rot is a pre-existing condition, not an intervening superseding cause, meaning option (e) remains safely incorrect. The pre-existing fragility of the pillar does not break the causal chain originating from the fire/smoke.)
-2. Cross-Doctrine Clashes: pass (The distinction between *malum in se* and *malum prohibitum* is properly deployed here to test the structural limitations of the felony-murder rule. While the causation/res gestae connection between the static storage violation and the active dropping of the vat is arguably weak, no distractor exploits this, leaving (c) as the only doctrinally sound reason for the charge failing among the available choices.)
-3. Cross-Question Spoilers: pass (Q5 modifies the mens rea for a separate mistake-of-fact hypothetical, but Q4 relies squarely on the base facts establishing the offense as a strict-liability regulatory felony. Q2 explores proximate cause, but its likely resolution aligns with option (e) being legally incorrect.)
--->

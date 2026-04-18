@@ -1,33 +1,15 @@
-# Fix Guidance for q15
+**Q15.** Assume that police execute a search warrant at the stash house and Artie is exclusively charged with possession of the drugs inside the locked safe. Artie argues he cannot be convicted because he lacked the key. Under the doctrine of constructive possession, which is the most likely legal conclusion?
 
-The QA pipeline flagged this question. Rewrite `q15.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
-
-## Issue 1 — audit
-
-**Q15.** Is Artie guilty of constructive possession of the stimulants found in the locked safe?
-
-(a) Yes, because he had both awareness of the contraband's presence and the ability and intent to exercise dominion and control over the safe located within his apartment. <!-- correct -->
-(b) No, because his lack of the physical key to the safe absolutely destroys the exclusive control required to establish constructive possession of the contents inside.
-(c) Yes, because moving the safe to sweep the floor constitutes actual physical possession of the drugs, rendering the constructive possession doctrine entirely unnecessary.
-(d) No, because the drugs technically belonged to the broader conspiracy rather than Artie individually, meaning only the organization can be charged with possession.
-(e) Yes, because strict liability applies to all contraband discovered within a defendant's primary residence, regardless of their awareness or their ability to access the containers.
+(a) Constructive possession is established because Artie's exclusive lease, daily proximity, and proprietary behavior over the safe legally satisfy the requirements of power and intent to control. <!-- correct -->
+(b) Constructive possession is not established because the state must prove that Artie possessed a functional key to infer any dominion or control over an internally locked container.
+(c) Constructive possession is established because as the legal ringleader of a conspiracy, Artie maintains strict liability over any contraband owned by his subordinates.
+(d) Constructive possession is not established because storing personal mail on top of a container breaks the necessary criminal nexus between the defendant and the interior contents.
+(e) Constructive possession is established because placing contraband under a seating area legally eliminates the knowledge requirement for drug possession.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because constructive possession requires awareness of the item and the ability/intent to exercise dominion and control over it; controlling the apartment and physically manipulating the safe establishes this dominion, even without the key. (b) is wrong because exclusive control of the key is not required; controlling the container itself in one's own residence is sufficient to prove dominion. (c) is wrong because pushing a locked safe is not "actual possession" of the drugs inside; it remains a classic constructive possession scenario. (d) is wrong because multiple individuals can constructively possess the same items simultaneously (joint possession); the organization's broader ownership does not negate Artie's personal possession. (e) is wrong because strict liability does not apply to drug possession offenses; the prosecution must explicitly prove awareness and control.
+**Explanation:** The correct answer is (a). Constructive possession requires knowledge of the contraband alongside the power and intent to exercise dominion and control over it. Even without a key, Artie's proprietary actions (renting the apartment, sleeping directly above the safe, restricting access to the room, and using the safe to store personal mail) provide overwhelming circumstantial evidence of his power and intent to control the space and its contents. (b) is wrong because actual physical access to the interior (e.g., a key) is not required if broader dominion is established. (c) is wrong because constructive possession relies on physical power and intent, not strict vicarious liability based on organizational rank. (d) is wrong because stacking mail *supports* the inference of proprietary control; it does not defeat it. (e) is wrong because constructive possession still strictly requires knowledge; proximity never eliminates the mens rea requirement.
 
-**Tags:** chapters: [15], topics: [possession, constructive-possession, awareness-control], difficulty: medium, cognitive: application
+**Tags:** chapters: [2], topics: [possession, constructive-possession], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15, cp-awareness-control
-
-<!-- audit: MUST FIX
-check 1: pass (assuming the missing facts would match the intended scenario)
-check 2: pass
-check 3: pass
-check 4: FAIL. The fact pattern is completely missing. The question stem only contains the call of the question. Critical facts referenced in the answer choices and explanation (Artie's apartment, moving the safe to sweep, his lack of a key, the drugs belonging to a broader conspiracy) are nowhere to be found, making the question impossible to answer as written.
-check 5: pass
-check 6: pass
-check 7: pass
-check 8: pass
-Recommended fix: Provide the missing fact pattern before the call of the question (e.g., describe Artie finding/keeping a locked safe belonging to a conspiracy in his apartment, lacking the key, and moving it to sweep the floor).
--->
+**Grounding:** Chapter 2 - Constructive Possession

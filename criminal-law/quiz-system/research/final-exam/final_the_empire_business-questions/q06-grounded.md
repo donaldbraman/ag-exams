@@ -1,17 +1,17 @@
-**Q6.** Assume Dominic is charged with possession of fentanyl. Can he successfully defend on the ground that he genuinely believed the substance was heroin?
+**Q6.** Can Kevin successfully defend against the felon-in-possession charge based on his attorney's 2018 email?
 
-(a) Yes, because the government must prove he had specific knowledge of the precise chemical identity of the substance he possessed.
-(b) Yes, because a mistake of fact defense is available whenever a defendant holds an honest but mistaken belief about a circumstance.
-(c) No, because federal drug possession offenses are strict liability crimes that require no proof of mens rea regarding the substance.
-(d) No, because the government need only prove he knew the substance was a controlled substance, not its precise chemical identity. <!-- correct -->
-(e) No, because his belief that the substance was heroin demonstrates he acted with criminal negligence regarding the true nature of the drugs.
+(a) Guilty, because a defendant's ignorance of the law is never a valid defense to a federal firearms charge under traditional strict liability doctrines.
+(b) Not guilty, because his genuine belief that he only had a misdemeanor conviction directly negates the required knowledge of his prohibited status. <!-- correct -->
+(c) Guilty, because the defense attorney's private email does not legally qualify as an official statement of the law to support a reliance defense.
+(d) Not guilty, because relying on the advice of private legal counsel automatically immunizes a criminal defendant from all federal felony liability.
+(e) Guilty, because the actual statutory penalty for his prior state offense strictly establishes his prohibited status regardless of his personal beliefs.
 
-**Answer:** (d)
+**Answer:** (b)
 
-**Explanation:** (d) is correct because under *McFadden*, the government only needs to prove the defendant knew the substance had the general nature of a controlled substance, not its precise chemical identity. Dominic knew he possessed heroin (a controlled substance), satisfying the mens rea for whatever substance it actually was. (a) is incorrect because federal law expressly rejects requiring specific chemical knowledge. (b) is incorrect because mistake of fact only applies if it negates the required mental state, and knowing it was heroin satisfies the mental state for possessing a controlled substance. (c) is incorrect because federal drug possession is not a strict liability offense; it requires knowledge of the substance's general nature. (e) is incorrect because the standard is actual knowledge of its general nature, not negligence.
+**Explanation:** Under Rehaif v. United States, the government must prove the defendant knew he belonged to the relevant prohibited category (i.e., that he had a qualifying felony conviction). Kevin's genuine belief that his conviction was a misdemeanor negates this required mens rea. Option (a) fails because Rehaif explicitly displaced the traditional strict liability approach for the status element in this statute. Option (c) fails because Kevin does not need the affirmative "official statement" reliance defense; his mistake directly negates the statutory mens rea element. Option (d) fails because advice of counsel is not a blanket immunity doctrine. Option (e) fails because establishing the objective fact of the penalty is insufficient without proving the defendant's subjective knowledge of it.
 
-**Tags:** chapters: [15, 10], topics: [drug possession, mens rea, fentanyl], difficulty: advanced, cognitive: application
+**Tags:** chapters: [10, 15], topics: [Rehaif knowledge requirement, mistake of law, status element], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15, McFadden v. United States
+**Grounding:** Chapter 10 (Rehaif v. United States)
 
-<!-- grounding: GROUNDED — McFadden v. United States (Mens Rea for Drug Identity), Ch 15, Refinement `mens-rea-type`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Rehaif knowledge requirement, Ch 10, Refinement `rehaif-knowledge-status`. Rule paraphrased accurately. -->

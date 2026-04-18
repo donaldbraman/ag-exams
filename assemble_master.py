@@ -4,17 +4,17 @@ import os
 import re
 
 SCENARIOS = [
-    "mock_the_genesis",
-    "mock_the_distribution_ring",
-    "mock_the_empire_business",
-    "mock_the_blowback",
-    "mock_procedural_block",
-    "mock_the_cornered_defenses"
+    "final_the_genesis",
+    "final_the_blowback",
+    "final_the_distribution_ring",
+    "final_hamsterdam",
+    "final_the_empire_business",
+    "final_procedural_block"
 ]
 
 BASE_DIR = "criminal-law/quiz-system/research/final-exam"
 OUTPUT_FILE = os.path.join(BASE_DIR, "master_exam.md")
-STUDENT_OUTPUT_FILE = os.path.join(BASE_DIR, "student_mock_exam.md")
+STUDENT_OUTPUT_FILE = os.path.join(BASE_DIR, "student_final_exam.md")
 
 def format_options(text: str) -> str:
     """Format (a) options to alphabetical list items `a.` and make them loose."""
@@ -68,24 +68,30 @@ def main():
                 content = f.read().strip()
                 data = json.loads(content)
                 
+                preamble = "*Assume the following facts can be proven beyond a reasonable doubt.*"
+                
                 md_lines.append("### Facts")
                 md_lines.append("")
+                md_lines.append(preamble)
+                md_lines.append("")
+                
                 student_md_lines.append("### Facts")
                 student_md_lines.append("")
+                student_md_lines.append(preamble)
+                student_md_lines.append("")
+                
                 for i, fact in enumerate(data.get("facts", [])):
                     md_lines.append(f"{i+1}. {fact}")
                     md_lines.append("")
                     student_md_lines.append(f"{i+1}. {fact}")
                     student_md_lines.append("")
                     
-                md_lines.append("### Characters")
+                md_lines.append("### Characters (Instructor Only)")
                 md_lines.append("")
-                student_md_lines.append("### Characters")
-                student_md_lines.append("")
+                # Do not append Characters to student_md_lines
                 for char in data.get("characters", []):
                     char_line = f"- **{char['name']}** ({char['role']}): {char['doctrinal_target']}"
                     md_lines.append(char_line)
-                    student_md_lines.append(char_line)
                 md_lines.append("")
                 md_lines.append("---")
                 md_lines.append("")
@@ -111,6 +117,9 @@ def main():
                     return rep
                 
                 q_text = re.sub(r'\*\*Q\d+\.\*\*', replace_q_num, q_text)
+                
+                # Replace Stem headers with Scenario Continued
+                q_text = re.sub(r'^#+\s*Stem\s*\d+:\s*', f'### Scenario {idx} Continued: ', q_text, flags=re.MULTILINE)
                 
                 # Remove Tags lines
                 q_text = re.sub(r'^\*\*Tags:\*\*.*(?:\n|$)', '', q_text, flags=re.MULTILINE)

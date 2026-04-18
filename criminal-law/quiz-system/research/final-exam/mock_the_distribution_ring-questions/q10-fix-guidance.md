@@ -1,33 +1,15 @@
-# Fix Guidance for q10
+**Q10.** Assume that, rightly or wrongly, prosecutors abandon charges of burglary or robbery and exclusively charge Damon with felony murder based on the underlying felony of aggravated assault. Is this a valid charge?
 
-The QA pipeline flagged this question. Rewrite `q10.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
-
-## Issue 1 — audit
-
-**Q10.** Assume the prosecution predicates Damon's felony murder charge on the burglary, defining the burglary as "breaking and entering with the intent to commit a robbery." How does the merger doctrine apply?
-
-(a) The felony murder charge succeeds, because at the moment Damon broke in, he possessed the independent felonious purpose to rob the stash house, meaning the burglary does not merge into the homicide. <!-- correct -->
-(b) The felony murder charge fails, because the ultimate result of the break-in was a fatal assault, and the merger doctrine requires all precursor felonies to merge into the final lethal act.
-(c) The felony murder charge succeeds, because the merger doctrine only limits the application of lesser-included offenses like manslaughter, and cannot be used to defeat a first-degree felony murder charge.
-(d) The felony murder charge fails, because Damon's failure to demand drugs or money proves he abandoned the robbery, transforming the break-in into a pure assault that merges into the homicide.
-(e) The felony murder charge succeeds, because kicking in a front door is an inherently dangerous act that categorically satisfies the felony murder rule without any need for an independent purpose analysis.
+(a) No, because the aggravated assault was not independent of the homicide, meaning the assault merges into the killing and cannot serve as a felony murder predicate. <!-- correct -->
+(b) Yes, because aggravated assault is an inherently dangerous felony that is statutorily enumerated in almost all jurisdictions as a valid trigger for the felony murder rule.
+(c) No, because Damon's rage-induced shooting constitutes an intervening emotional disturbance that legally reduces the underlying assault to a mere misdemeanor, precluding felony murder.
+(d) Yes, because the moment Damon kicked in the door with a loaded weapon, the elements of aggravated assault were completed independently of the subsequent fatal shooting.
+(e) No, because the merger doctrine strictly prohibits applying the felony murder rule whenever a defendant acts with actual malice rather than mere recklessness or negligence.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because the merger doctrine asks whether the predicate felony had a purpose independent of the assault that caused death; breaking in with intent to rob provides that independent purpose, preventing the burglary from merging into the homicide. (b) is wrong because the independent purpose test evaluates the defendant's intent at the time the predicate felony is committed (the break-in), not based on the final lethal outcome. (c) is wrong because the entire point of the merger doctrine is to limit the application of the felony murder rule itself. (d) is wrong because abandoning the robbery *after* entry does not retroactively change his intent at the precise moment of the break-in, which establishes the independent purpose. (e) is wrong because even inherently dangerous felonies will merge if they are purely assaultive and lack an independent felonious purpose.
+**Explanation:** The correct answer is (a) because under the traditional merger doctrine, an assault that results in death merges into the homicide and cannot serve as an independent predicate for felony murder. (b) is wrong because most jurisdictions apply the merger doctrine specifically to exclude assault from serving as a felony murder predicate to prevent all homicides from becoming felony murder. (c) is wrong because a rage-induced shooting relates to provocation, not the structural application of the merger doctrine to assault. (d) is wrong because the entire continuous assaultive act merges into the killing, regardless of when the elements were technically first satisfied. (e) is wrong because the merger doctrine applies structurally to the predicate offense, regardless of whether the defendant acted with actual malice or recklessness.
 
-**Tags:** chapters: [14], topics: [felony-murder, merger-doctrine, independent-purpose], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [14], topics: [felony-murder, merger-independent-purpose], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 14, merger-independent-purpose
-
-<!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: fails. The stem relies on facts from a missing overarching fact pattern. It references "Damon," "the stash house," and Damon's "failure to demand drugs or money" (in option d) without actually providing these facts in the question itself.
-check 5: fails. The prompt instructions specifically flag the merger doctrine as subject to jurisdictional variation. The stem asks "How does the merger doctrine apply?" without stipulating the applicable rule (e.g., whether the jurisdiction uses the independent felonious purpose test for burglary, or if burglary categorically never merges).
-check 6: pass
-check 7: pass
-check 8: pass
-Recommended fix: Integrate the missing facts into the stem (e.g., "Damon breaks into a stash house intending to commit a robbery, but commits a fatal assault without ever demanding drugs or money.") and explicitly stipulate the jurisdictional rule (e.g., "Assume the jurisdiction applies the independent felonious purpose test to the merger doctrine.").
--->
+**Grounding:** Chapter 14 - Merger Doctrine (Independent Purpose)

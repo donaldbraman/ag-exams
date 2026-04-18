@@ -8,13 +8,14 @@ The QA pipeline flagged this question. Rewrite `q13.md` addressing each numbered
 
 (a) Benny's self-defense claim fails because he did not attempt to exit through the available ground-floor window, violating the jurisdiction's statutory duty to retreat. <!-- correct -->
 (b) Benny's self-defense claim fails because a rival drug dealer's threat of violence is never legally considered objectively reasonable under any circumstances.
-(c) Benny's self-defense claim succeeds because the castle doctrine universally eliminates the duty to retreat in any enclosed building the defendant occupies.
+(c) Invalid defense because Benny panicked and failed to utilize the open back door, violating his statutory duty to retreat before employing lethal force.
 (d) Benny's self-defense claim succeeds because Slash's machete attack constituted a sudden escalation that automatically waives the mandatory retreat requirement.
 (e) Benny's self-defense claim succeeds because he was actively defending valuable commercial inventory, which inherently justifies the immediate use of lethal force.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. In a jurisdiction with a statutory duty to retreat, a defendant must use a safe avenue of escape before resorting to deadly force. Benny's failure to use the open, ground-floor window defeats his self-defense claim. (b) is wrong because a machete attack objectively threatens death or serious bodily harm, making the fear of harm reasonable regardless of the victim's profession. (c) is wrong because the castle doctrine exception to retreat applies only to a person's dwelling, and Benny did not live at the stash house. (d) is wrong because a sudden escalation does not waive the retreat requirement if a safe retreat is genuinely available. (e) is wrong because lethal force can never be legally justified merely to protect property.
+**Explanation:**
+* In a duty-to-retreat jurisdiction, a defendant cannot use deadly force if they know they can avoid the necessity of using such force with complete safety by retreating. Because a completely safe escape route existed via the open back door (Fact 15), Benny's panic-driven choice to shoot rather than exit precludes his self-defense claim. (a) fails because the Castle Doctrine generally applies to one's own home, and Benny did not live at the stash house. (b) fails because while he faced an imminent threat, the statutory duty to retreat must still be satisfied if a safe escape route is available. (d) fails because being engaged in a crime does not categorically strip a person of the right to self-defense against a lethal attack, though it may trigger initial aggressor issues. (e) fails because a machete is a deadly weapon, making a handgun a proportional response to a lethal threat.
 
 **Tags:** chapters: [22], topics: [self-defense, duty to retreat], difficulty: medium, cognitive: application
 
@@ -38,13 +39,14 @@ Recommended fix: Rewrite the stem to actually include the fact pattern. Detail B
 
 (a) Benny's self-defense claim fails because he did not attempt to exit through the available ground-floor window, violating the jurisdiction's statutory duty to retreat. <!-- correct -->
 (b) Benny's self-defense claim fails because a rival drug dealer's threat of violence is never legally considered objectively reasonable under any circumstances.
-(c) Benny's self-defense claim succeeds because the castle doctrine universally eliminates the duty to retreat in any enclosed building the defendant occupies.
+(c) Invalid defense because Benny panicked and failed to utilize the open back door, violating his statutory duty to retreat before employing lethal force.
 (d) Benny's self-defense claim succeeds because Slash's machete attack constituted a sudden escalation that automatically waives the mandatory retreat requirement.
 (e) Benny's self-defense claim succeeds because he was actively defending valuable commercial inventory, which inherently justifies the immediate use of lethal force.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. In a jurisdiction with a statutory duty to retreat, a defendant must use a safe avenue of escape before resorting to deadly force. Benny's failure to use the open, ground-floor window defeats his self-defense claim. (b) is wrong because a machete attack objectively threatens death or serious bodily harm, making the fear of harm reasonable regardless of the victim's profession. (c) is wrong because the castle doctrine exception to retreat applies only to a person's dwelling, and Benny did not live at the stash house. (d) is wrong because a sudden escalation does not waive the retreat requirement if a safe retreat is genuinely available. (e) is wrong because lethal force can never be legally justified merely to protect property.
+**Explanation:**
+* In a duty-to-retreat jurisdiction, a defendant cannot use deadly force if they know they can avoid the necessity of using such force with complete safety by retreating. Because a completely safe escape route existed via the open back door (Fact 15), Benny's panic-driven choice to shoot rather than exit precludes his self-defense claim. (a) fails because the Castle Doctrine generally applies to one's own home, and Benny did not live at the stash house. (b) fails because while he faced an imminent threat, the statutory duty to retreat must still be satisfied if a safe escape route is available. (d) fails because being engaged in a crime does not categorically strip a person of the right to self-defense against a lethal attack, though it may trigger initial aggressor issues. (e) fails because a machete is a deadly weapon, making a handgun a proportional response to a lethal threat.
 
 **Tags:** chapters: [22], topics: [self-defense, duty to retreat], difficulty: medium, cognitive: application
 

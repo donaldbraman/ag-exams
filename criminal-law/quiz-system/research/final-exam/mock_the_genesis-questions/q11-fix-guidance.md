@@ -6,11 +6,11 @@ The QA pipeline flagged this question. Rewrite `q11.md` addressing each numbered
 
 **Q11.** Assume Benny is charged with the unpermitted ether storage violation under the *Pinkerton* doctrine, despite never being in the lab. Is Benny legally liable for Albert's regulatory violation?
 
-(a) Guilty under Pinkerton because the unpermitted ether storage was a foreseeable consequence of the drug manufacturing conspiracy and committed in furtherance of it. <!-- correct -->
-(b) Guilty under Pinkerton because all co-conspirators are automatically held strictly liable for any regulatory violation committed within the entire jurisdiction.
-(c) Not guilty under Pinkerton because Benny did not personally procure, transport, or store the volatile ether inside the university laboratory workspace.
-(d) Not guilty under Pinkerton because regulatory public welfare offenses cannot legally serve as the underlying basis for imputed co-conspirator liability.
-(e) Not guilty under Pinkerton because the unpermitted ether storage violation occurred long before the Blue-X was successfully distributed on the streets.
+(a) Pinkerton liability is established because the unpermitted ether storage was a foreseeable consequence of the drug manufacturing conspiracy and committed in furtherance of it. <!-- correct -->
+(b) Pinkerton liability is established because all co-conspirators are automatically held strictly liable for any regulatory violation committed within the entire jurisdiction.
+(c) Pinkerton liability is not established because Benny did not personally procure, transport, or store the volatile ether inside the university laboratory workspace.
+(d) Pinkerton liability is not established because regulatory public welfare offenses cannot legally serve as the underlying basis for imputed co-conspirator liability.
+(e) Pinkerton liability is not established because the unpermitted ether storage violation occurred long before the Blue-X was successfully distributed on the streets.
 
 **Answer:** (a)
 
@@ -36,11 +36,11 @@ Recommended fix: Integrate the missing background facts into the stem (e.g., "Be
 
 **Q11.** Assume Benny is charged with the unpermitted ether storage violation under the *Pinkerton* doctrine, despite never being in the lab. Is Benny legally liable for Albert's regulatory violation?
 
-(a) Guilty under Pinkerton because the unpermitted ether storage was a foreseeable consequence of the drug manufacturing conspiracy and committed in furtherance of it. <!-- correct -->
-(b) Guilty under Pinkerton because all co-conspirators are automatically held strictly liable for any regulatory violation committed within the entire jurisdiction.
-(c) Not guilty under Pinkerton because Benny did not personally procure, transport, or store the volatile ether inside the university laboratory workspace.
-(d) Not guilty under Pinkerton because regulatory public welfare offenses cannot legally serve as the underlying basis for imputed co-conspirator liability.
-(e) Not guilty under Pinkerton because the unpermitted ether storage violation occurred long before the Blue-X was successfully distributed on the streets.
+(a) Pinkerton liability is established because the unpermitted ether storage was a foreseeable consequence of the drug manufacturing conspiracy and committed in furtherance of it. <!-- correct -->
+(b) Pinkerton liability is established because all co-conspirators are automatically held strictly liable for any regulatory violation committed within the entire jurisdiction.
+(c) Pinkerton liability is not established because Benny did not personally procure, transport, or store the volatile ether inside the university laboratory workspace.
+(d) Pinkerton liability is not established because regulatory public welfare offenses cannot legally serve as the underlying basis for imputed co-conspirator liability.
+(e) Pinkerton liability is not established because the unpermitted ether storage violation occurred long before the Blue-X was successfully distributed on the streets.
 
 **Answer:** (a)
 
@@ -61,7 +61,7 @@ Head-to-head: Option (a) is the only legally accurate application of *Pinkerton*
 
 Falsifiable claim per distractor:
 - (b): "automatically held strictly liable for any regulatory violation committed within the entire jurisdiction" — wrong because Pinkerton still requires the specific offense to be foreseeable and in furtherance of the conspiracy.
-- (c): "Not guilty under Pinkerton because Benny did not personally procure..." — wrong because Pinkerton expressly allows conviction without personal participation in the actus reus, though the distractor lacks absolute locking words to make the false rule explicit.
+- (c): "Pinkerton liability is not established because Benny did not personally procure..." — wrong because Pinkerton expressly allows conviction without personal participation in the actus reus, though the distractor lacks absolute locking words to make the false rule explicit.
 - (d): "cannot legally serve as the underlying basis for imputed co-conspirator liability" — wrong because regulatory public welfare offenses committed to advance a conspiracy are perfectly valid predicates for Pinkerton liability.
 - (e): "because the unpermitted ether storage violation occurred long before the Blue-X was successfully distributed" — wrong because the timing of the violation relative to ultimate success does not defeat liability, though it lacks an absolute locking word.
 
@@ -72,11 +72,11 @@ Recommended fix: In (c), change "because Benny did not" to "solely because Benny
 
 **Q11.** Assume Benny is charged with the unpermitted ether storage violation under the *Pinkerton* doctrine, despite never being in the lab. Is Benny legally liable for Albert's regulatory violation?
 
-(a) Guilty under Pinkerton because the unpermitted ether storage was a foreseeable consequence of the drug manufacturing conspiracy and committed in furtherance of it. <!-- correct -->
-(b) Guilty under Pinkerton because all co-conspirators are automatically held strictly liable for any regulatory violation committed within the entire jurisdiction.
-(c) Not guilty under Pinkerton because Benny did not personally procure, transport, or store the volatile ether inside the university laboratory workspace.
-(d) Not guilty under Pinkerton because regulatory public welfare offenses cannot legally serve as the underlying basis for imputed co-conspirator liability.
-(e) Not guilty under Pinkerton because the unpermitted ether storage violation occurred long before the Blue-X was successfully distributed on the streets.
+(a) Pinkerton liability is established because the unpermitted ether storage was a foreseeable consequence of the drug manufacturing conspiracy and committed in furtherance of it. <!-- correct -->
+(b) Pinkerton liability is established because all co-conspirators are automatically held strictly liable for any regulatory violation committed within the entire jurisdiction.
+(c) Pinkerton liability is not established because Benny did not personally procure, transport, or store the volatile ether inside the university laboratory workspace.
+(d) Pinkerton liability is not established because regulatory public welfare offenses cannot legally serve as the underlying basis for imputed co-conspirator liability.
+(e) Pinkerton liability is not established because the unpermitted ether storage violation occurred long before the Blue-X was successfully distributed on the streets.
 
 **Answer:** (a)
 

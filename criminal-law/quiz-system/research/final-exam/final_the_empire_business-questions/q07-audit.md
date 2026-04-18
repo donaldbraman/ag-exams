@@ -1,26 +1,27 @@
-**Q7.** Which of the following accurately describes the application of federal mandatory minimums to Dominic's possession of the 2 kilograms of fentanyl?
+**Q7.** Are Jack and Kevin guilty of RICO conspiracy under 18 U.S.C. § 1962(d) for their initial business arrangement?
 
-(a) The mandatory minimum is triggered by the drug weight alone, without requiring separate proof of his intent to distribute the drugs. <!-- correct -->
-(b) The mandatory minimum applies only if the prosecution can prove that Dominic actually intended to distribute the specific two kilograms.
-(c) The mandatory minimum cannot be applied unless the government proves Dominic knew the specific substance was fentanyl rather than heroin.
-(d) The quantity of drugs creates a permissive inference of distribution, but the jury retains discretion to ignore the mandatory minimum.
-(e) The mandatory minimum enhancement is unconstitutional because it punishes defendants based on quantities without requiring any proof of culpable mental state.
+(a) Guilty, because their explicit verbal agreement to utilize the corporate collection routes for extortion and drug delivery satisfies the agreement element. <!-- correct -->
+(b) Not guilty, because a valid racketeering conspiracy requires the prosecution to prove that both co-conspirators personally committed two predicate acts.
+(c) Guilty, because merely being employed by the same commercial corporate entity automatically establishes a broader conspiracy to commit racketeering.
+(d) Not guilty, because the enterprise must be an inherently criminal organization from its inception to support a federal racketeering conspiracy charge.
+(e) Guilty, because Jack's status as the sole corporate owner makes him strictly liable for Kevin's independent agreement with the rival syndicate member.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because under 21 U.S.C. § 841(b), federal mandatory minimum sentences are triggered by drug weight alone, independent of the prosecution's proof regarding intent to distribute. (b) is incorrect because the weight enhancement is structurally distinct from the intent-to-distribute element. (c) is incorrect because the mandatory minimum floor depends purely on the objective grams of the actual substance possessed, not the defendant's knowledge of the specific substance type. (d) is incorrect because mandatory minimums strip sentencing discretion from judges and juries once the threshold facts are found. (e) is incorrect because mandatory minimums based on quantity have been consistently upheld as constitutional exercises of legislative power.
+**Explanation:** Under Salinas, a RICO conspiracy requires only that the defendants agreed to further an endeavor that, if completed, would satisfy all elements of a substantive RICO offense. Jack's directive and Kevin's agreement to conduct the waste company's affairs through extortion and drug trafficking meet this standard. Option (b) fails because Salinas explicitly held that conspirators do not need to personally commit two predicate acts. Option (c) fails because mere employment without an agreement to conduct racketeering is insufficient for conspiracy. Option (d) fails because a legitimate, previously lawful corporation can serve as the enterprise. Option (e) fails because conspiracy is grounded in the actual agreement between Jack and Kevin, not strict liability for Jack based on ownership.
 
-**Tags:** chapters: [15], topics: [mandatory minimums, drug weight], difficulty: foundational, cognitive: application
+**Tags:** chapters: [20], topics: [RICO conspiracy, Salinas rule], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15, 21 U.S.C. § 841(b)
+**Grounding:** Chapter 20 (Salinas v. United States)
 
-<!-- audit: MUST FIX
-Check 1: fails. Option (a) is legally incorrect as written. 21 U.S.C. § 841(b) sets forth penalties *only* for violations of § 841(a), which explicitly requires the government to prove the defendant manufactured, distributed, or possessed *with intent to distribute*. The phrase "without requiring separate proof of his intent to distribute the drugs" strongly implies that simple possession of a large weight alone triggers the § 841(b) mandatory minimum. A prepared student will correctly identify this as a false statement of law. 
-Check 2: pass. The distractors are conventionally false under the doctrine, but a student noticing (a)'s fatal flaw might be forced to guess.
-Check 3: fails. The explanation doubles down on the error by stating § 841(b) applies "independent of the prosecution's proof regarding intent to distribute." While the *quantity* element is essentially strict liability, the *base charge* still strictly requires proof of intent to distribute. 
-Check 4: fails. The stem begins with a dangling reference ("to Dominic's possession...") suggesting this question was severed from a broader fact pattern. It requires facts establishing what Dominic was doing with the drugs, or at least clarification of what he is being charged with.
-Check 5: pass. Federal jurisdiction is explicitly identified.
-Check 6: pass. No excluded topics.
-Check 7: pass. Maps accurately to Ch 15 (qty-pwid, qty-mandatory-minimums).
-Recommended fix: Provide a brief standalone fact pattern in the stem (e.g., "Dominic is charged with violating 21 U.S.C. § 841 after police find 2 kilograms of fentanyl in his home"). Revise (a) to accurately reflect the strict liability nature of the enhancement *without* negating the base mens rea: "(a) Provided the government proves the threshold intent to distribute, the mandatory minimum is triggered by the objective drug weight alone, regardless of whether Dominic intended to distribute the full two kilograms." Update the explanation accordingly.
+<!-- audit: SHOULD FIX
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: fail. The stem lacks a factual scenario (who Jack and Kevin are, what their business arrangement entailed). It relies on an unstated or detached fact pattern, making it impossible to answer as a standalone question.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: Incorporate the necessary facts (Jack and Kevin's explicit verbal agreement to use corporate routes for extortion and drug delivery) directly into the question stem, or ensure this question is presented as a sub-question securely linked to its overarching fact pattern.
 -->

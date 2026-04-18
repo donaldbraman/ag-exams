@@ -1,4 +1,4 @@
-**Q10.** Assume Damon is charged with felony murder based on the underlying felony of aggravated assault, because he shot Vic immediately upon being insulted. Under the traditional merger doctrine (the *Ireland* rule), is this a valid charge?
+**Q10.** Assume that, rightly or wrongly, prosecutors abandon charges of burglary or robbery and exclusively charge Damon with felony murder based on the underlying felony of aggravated assault. Is this a valid charge?
 
 (a) No, because the aggravated assault was not independent of the homicide, meaning the assault merges into the killing and cannot serve as a felony murder predicate. <!-- correct -->
 (b) Yes, because aggravated assault is an inherently dangerous felony that is statutorily enumerated in almost all jurisdictions as a valid trigger for the felony murder rule.
@@ -13,15 +13,3 @@
 **Tags:** chapters: [14], topics: [felony-murder, merger-independent-purpose], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 14 - Merger Doctrine (Independent Purpose)
-
-<!-- audit: SHOULD FIX
-<check 1>: pass
-<check 2>: pass
-<check 3>: pass
-<check 4>: finding: Distractor (d) hallucinates facts not present in the stem ("the moment Damon kicked in the door..."). This turns (d) into a throwaway option based on reading comprehension rather than legal doctrine.
-<check 5>: pass
-<check 6>: pass
-<check 7>: pass
-<check 8>: pass
-Recommended fix: Rewrite (d) to rely on the facts actually in the stem. For example: "Yes, because the moment Damon drew his weapon to shoot, the elements of aggravated assault were completed independently of the subsequent fatal injury."
--->

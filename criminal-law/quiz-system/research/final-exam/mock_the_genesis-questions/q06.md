@@ -1,7 +1,7 @@
 **Q6.** Assume Albert argues that he cannot be held liable for the explosion because the catastrophic event was triggered by an involuntary muscle spasm, which negates the voluntary act requirement. Which is the most likely legal conclusion?
 
 (a) Liable because a muscle spasm is legally classified as a reflex that fulfills the voluntary act requirement if the defendant is awake.
-(b) Liable because under the time-framing doctrine, liability traces back to his prior voluntary choice to proceed with the synthesis despite knowing the risk of spasms. <!-- correct -->
+(b) Liable because liability traces back to his prior voluntary choice to proceed with the synthesis despite knowing the risk of spasms. <!-- correct -->
 (c) Not liable because the immediate physical movement causing the explosion was involuntary, severing any connection to his prior acts.
 (d) Not liable because the medical side effects of a prescription drug constitute an external physical compulsion that absolutely bars prosecution.
 (e) Not liable because the state must prove that every single movement in the sequence of a crime was fully voluntary and conscious.

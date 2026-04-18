@@ -1,17 +1,17 @@
-**Q9.** Assume that, whether or not Dominic is guilty, the government charges Carmine under the Pinkerton doctrine for Victor's death. Can Carmine be convicted?
+**Q9.** Is Kevin guilty of attempted extortion for his actions on November 15?
 
-(a) Yes, under the Pinkerton doctrine, because the fatal shooting was a reasonably foreseeable consequence of the armed extortion conspiracy. <!-- correct -->
-(b) Yes, because as the boss of the Pinnacle enterprise, Carmine is strictly liable for all crimes committed by his subordinates.
-(c) No, because Carmine was not physically present at the restaurant and did not specifically direct Dominic to kill the owner.
-(d) No, because homicide is an independent substantive crime that merges with the underlying extortion, preventing separate conspiracy liability.
-(e) No, because Victor's decision to unexpectedly pull a concealed revolver was an unforeseeable intervening cause that breaks the chain of liability.
+(a) Guilty, because driving to the target location and grabbing the crowbar constituted a substantial step that strongly corroborated his criminal purpose. <!-- correct -->
+(b) Not guilty, because he had not yet put on the ski mask or exited the vehicle, leaving him entirely outside the zone of dangerous physical proximity.
+(c) Guilty, because his prior verbal agreement with Jack inherently satisfied the necessary actus reus requirement for an attempted extortion charge.
+(d) Not guilty, because the restaurant owner's unexpected intervention constituted an involuntary renunciation of the defendant's original criminal intent.
+(e) Guilty, because any preparatory act, no matter how temporally remote from the target offense, is legally sufficient to establish criminal attempt liability.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because under the *Pinkerton* doctrine, a co-conspirator is liable for the substantive offenses committed by another co-conspirator if those offenses were reasonably foreseeable and committed in furtherance of the conspiracy. An armed shootout is reasonably foreseeable during an organized extortion scheme. (b) is incorrect because *Pinkerton* requires the specific crime to be reasonably foreseeable, rejecting absolute strict liability for any subordinate's actions. (c) is incorrect because physical presence and specific direction are not required under conspiratorial liability. (d) is incorrect because homicide does not merge with conspiracy or extortion; it is a separate substantive offense. (e) is incorrect because an armed target resisting an extortion attempt is a highly foreseeable response, not an independent intervening cause.
+**Explanation:** Under the MPC, attempt requires a "substantial step" strongly corroborative of the actor's criminal purpose. Arriving at the scene and arming oneself with the tools necessary to commit the crime (the crowbar and mask) easily satisfies this requirement. Option (b) fails because modern attempt law does not require the defendant to reach the absolute last act or dangerous physical proximity before liability attaches. Option (c) fails because mere agreement constitutes conspiracy, not attempt, which requires further action. Option (d) fails because renunciation must be entirely voluntary to serve as a defense; being interrupted by the victim defeats the defense. Option (e) fails because remote preparatory acts are legally insufficient; the step must be substantial.
 
-**Tags:** chapters: [19], topics: [Pinkerton liability, conspiracy], difficulty: medium, cognitive: application
+**Tags:** chapters: [6], topics: [attempt, substantial step], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19, Pinkerton doctrine
+**Grounding:** General Attempt Doctrine (MPC Substantial Step)
 
-<!-- grounding: GROUNDED — Pinkerton doctrine, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — MPC Substantial Step, Ch 6, Refinement `attempt-substantial-step`. Rule paraphrased accurately. -->

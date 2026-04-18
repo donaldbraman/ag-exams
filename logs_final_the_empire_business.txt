@@ -1,0 +1,76 @@
+Failed activation on workflow BuildScenarioWorkflow with ID build-scenario---help-019da268-f1cd-7874-abf6-c7122a432a88 and run ID 019da268-f1f5-7c9e-be29-ad085fabe137
+Traceback (most recent call last):
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 466, in activate
+    self._run_once(check_conditions=index == 1 or index == 2)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 2490, in _run_once
+    raise self._current_activation_error
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 2508, in _run_top_level_workflow_function
+    await coro
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 1069, in run_workflow
+    result = await self._inbound.execute_workflow(input)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 2899, in execute_workflow
+    return await input.run_fn(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/src/ag_exams/workflow.py", line 110, in run
+    raise ValueError(f"Unknown scenario: {scenario_name}")
+ValueError: Unknown scenario: --help
+Failed activation on workflow BuildScenarioWorkflow with ID build-scenario---help-019da268-cc80-77d3-91c9-3df1c4be0b1b and run ID 019da268-cca3-7ba4-8522-475fd26683fe
+Traceback (most recent call last):
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 466, in activate
+    self._run_once(check_conditions=index == 1 or index == 2)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 2490, in _run_once
+    raise self._current_activation_error
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 2508, in _run_top_level_workflow_function
+    await coro
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 1069, in run_workflow
+    result = await self._inbound.execute_workflow(input)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 2899, in execute_workflow
+    return await input.run_fn(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/src/ag_exams/workflow.py", line 110, in run
+    raise ValueError(f"Unknown scenario: {scenario_name}")
+ValueError: Unknown scenario: --help
+Failed activation on workflow BuildScenarioWorkflow with ID build-scenario---help-019da268-f1cd-7874-abf6-c7122a432a88 and run ID 019da268-f1f5-7c9e-be29-ad085fabe137
+Traceback (most recent call last):
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 466, in activate
+    self._run_once(check_conditions=index == 1 or index == 2)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 2490, in _run_once
+    raise self._current_activation_error
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 2508, in _run_top_level_workflow_function
+    await coro
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 1069, in run_workflow
+    result = await self._inbound.execute_workflow(input)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 2899, in execute_workflow
+    return await input.run_fn(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/src/ag_exams/workflow.py", line 110, in run
+    raise ValueError(f"Unknown scenario: {scenario_name}")
+ValueError: Unknown scenario: --help
+Failed activation on workflow BuildScenarioWorkflow with ID build-scenario---help-019da268-cc80-77d3-91c9-3df1c4be0b1b and run ID 019da268-cca3-7ba4-8522-475fd26683fe
+Traceback (most recent call last):
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 466, in activate
+    self._run_once(check_conditions=index == 1 or index == 2)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 2490, in _run_once
+    raise self._current_activation_error
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 2508, in _run_top_level_workflow_function
+    await coro
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 1069, in run_workflow
+    result = await self._inbound.execute_workflow(input)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/worker/_workflow_instance.py", line 2899, in execute_workflow
+    return await input.run_fn(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/dbraman/Documents/GitHub/ag-exams/src/ag_exams/workflow.py", line 110, in run
+    raise ValueError(f"Unknown scenario: {scenario_name}")
+ValueError: Unknown scenario: --help
+[2m2026-04-18T21:21:49.125211Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGJmNi00YzAwLTc1ZDgtYWVlMi1iODY4ZTIyN2FhOGESTWJ1aWxkLXNjZW5hcmlvLWZpbmFsX3RoZV9lbXBpcmVfYnVzaW5lc3MtMDE5ZGEyNjktOTE4Mi03NGQ2LWFlYjgtM2ZhNGY4MjBhNTdjGiQwMTlkYTI2OS05MWNhLTc4MzktYjFhZi1jYTFjMzk3ZmZkNDQglQcoATIDMjYzQiFkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX29wdXNKCAgBEMvaQBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-18T21:21:54.691049Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGJmNi00YzAwLTc1ZDgtYWVlMi1iODY4ZTIyN2FhOGESTWJ1aWxkLXNjZW5hcmlvLWZpbmFsX3RoZV9lbXBpcmVfYnVzaW5lc3MtMDE5ZGEyNjktOTE4Mi03NGQ2LWFlYjgtM2ZhNGY4MjBhNTdjGiQwMTlkYTI2OS05MWNhLTc4MzktYjFhZi1jYTFjMzk3ZmZkNDQghgcoAzIDMjQ4QiFkaXNwYXRjaF9hcmd1bWVudF9wYXNzX3Blcl9xX29wdXNKCAgBEMHcQBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-18T21:22:01.441604Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGJmNi00YzAwLTc1ZDgtYWVlMi1iODY4ZTIyN2FhOGESTWJ1aWxkLXNjZW5hcmlvLWZpbmFsX3RoZV9lbXBpcmVfYnVzaW5lc3MtMDE5ZGEyNjktOTE4Mi03NGQ2LWFlYjgtM2ZhNGY4MjBhNTdjGiQwMTlkYTI2OS05MWNhLTc4MzktYjFhZi1jYTFjMzk3ZmZkNDQgiQcoAjIDMjUxQh5kaXNwYXRjaF9lZGdlX2Nhc2VfYXVkaXRfcGVyX3FKCAgBEKrbQBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }
+[2m2026-04-18T21:22:01.952907Z[0m [33m WARN[0m [2mtemporalio_sdk_core::worker::activities[0m[2m:[0m Activity not found on completion. This may happen if the activity has already been cancelled but completed anyway. [3mtask_token[0m[2m=[0mTaskToken(CiQwMTlkOGJmNi00YzAwLTc1ZDgtYWVlMi1iODY4ZTIyN2FhOGESTWJ1aWxkLXNjZW5hcmlvLWZpbmFsX3RoZV9lbXBpcmVfYnVzaW5lc3MtMDE5ZGEyNjktOTE4Mi03NGQ2LWFlYjgtM2ZhNGY4MjBhNTdjGiQwMTlkYTI2OS05MWNhLTc4MzktYjFhZi1jYTFjMzk3ZmZkNDQghAcoATIDMjQ2Qh5kaXNwYXRjaF9lZGdlX2Nhc2VfYXVkaXRfcGVyX3FKCAgBENHaQBgB) [3mdetails[0m[2m=[0mStatus { code: NotFound, message: "workflow execution already completed", details: b"\x08\x05\x12$workflow execution already completed\x1aB\n@type.googleapis.com/temporal.api.errordetails.v1.NotFoundFailure", metadata: MetadataMap { headers: {"content-type": "application/grpc"} }, source: None }

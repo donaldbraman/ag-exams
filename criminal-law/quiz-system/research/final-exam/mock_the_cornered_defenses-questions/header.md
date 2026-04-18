@@ -11,3 +11,12 @@ Meanwhile, outside the active lab, Vargas, a rival dealer, approached the loadin
 Inside, Artie successfully flooded the reactor with the nitrogen, preventing the explosion. Silas's gunshots drew passing police, who raided the warehouse, seized the drugs from the safe, and arrested Artie, Benny, Silas, and Leo. Dante was not present at the warehouse. 
 
 Later that evening, Hector, an enforcer for Vargas's gang, kicked open Dante's apartment door. Hector sat heavily on Dante's living room couch and placed a revolver on his lap. "My crew is five minutes away. When they get here, we are executing you for what happened to Vargas," Hector said, leaning back and resting his hands behind his head. Dante visually confirmed the apartment's rear fire-escape window was unlocked and unobstructed, providing a safe and immediate avenue of retreat. Dante panicked, certain that Hector was drawing the weapon to kill him right then.
+
+### Stem 1
+
+Counsel, the ADA just handed us a massive indictment for the warehouse incident. Artie, Benny, and Silas are all pleading affirmative defenses. I need a memo detailing the justification versus excuse distinction for Artie and Benny, analyzing Benny's mens rea as an accomplice, and breaking down Silas's mental state defenses across different jurisdictional rules. Finally, evaluate the conspiracy formation and tell me if Dante is on the hook for Silas shooting Vargas under Pinkerton or felony murder.
+
+### Stem 2
+
+Dante was arrested at his apartment after shooting Hector. He's claiming absolute self-defense, citing the Castle Doctrine. Review the timeline of the confrontation. I need to know if the threat was actually imminent, whether he had a duty to retreat despite being in his own home, and if an imperfect self-defense claim can mitigate a murder charge. Also, analyze his drug possession exposure based on the search of the warehouse safe.
+

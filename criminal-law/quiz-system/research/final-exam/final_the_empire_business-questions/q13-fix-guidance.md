@@ -4,65 +4,67 @@ The QA pipeline flagged this question. Rewrite `q13.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q13.** Assume instead that the jurisdiction follows the common-law dangerous proximity test. Is Dominic guilty of attempted murder?
+**Q13.** Under the Pinkerton doctrine, is Jack liable for Kevin's attempted extortion and the resulting homicide?
 
-(a) Yes, because tracking Elias through the scope with his finger on the trigger left him with essentially no more acts to complete the intended murderous offense. <!-- correct -->
-(b) No, because he had not yet fired the weapon, meaning he had not yet come within dangerous proximity to the successful completion of the intended violent crime.
-(c) Yes, because driving to the rival's house placed him close enough to the scene to satisfy the physical proximity requirement, regardless of his subsequent actions with the rifle.
-(d) No, because he was unaware of the FBI's presence, meaning he did not have the requisite proximate control over the surrounding environment to successfully complete the homicide.
-(e) Yes, because the dangerous proximity test only requires that the defendant's preparatory acts demonstrate a clear intent to commit a violent felony in the very near future.
+(a) Guilty of both, because the attempted extortion and the resulting fatal shooting were reasonably foreseeable consequences in furtherance of the conspiracy. <!-- correct -->
+(b) Not guilty of either, because the employer was not physically present at the scene and did not explicitly authorize his subordinate to use deadly force.
+(c) Guilty of the attempt but not the homicide, because the felony murder rule strictly prohibits imputing homicide liability to absent co-conspirators.
+(d) Not guilty of either, because the subordinate's decision to carry a loaded firearm constituted a complete deviation from the agreed-upon criminal plan.
+(e) Guilty of the homicide but not the attempt, because the completed act of killing legally subsumes and extinguishes the underlying attempted property crimes.
 
 **Answer:** (a)
 
-**Explanation:** Under the common-law dangerous proximity test, a defendant must come very close to the successful completion of the crime, leaving almost no acts remaining. By tracking the target in the scope with his finger on the trigger, Dominic was in dangerous proximity to completing the murder. (b) is incorrect because the test does not require the absolute last act (firing the weapon) to be completed. (c) is incorrect because merely driving to the location would be insufficient preparation under the proximity test, which requires coming much closer to the act itself. (d) is incorrect because factual impossibility or unawareness of police intervention does not negate attempt liability if the acts themselves were sufficiently proximate. (e) is incorrect because demonstrating clear intent is insufficient under the proximity test without extreme physical proximity to the harm.
+**Explanation:** Under Pinkerton liability, a conspirator is liable for any substantive offenses committed by co-conspirators that are in furtherance of the conspiracy and reasonably foreseeable. Jack directed Kevin to aggressively enforce the extortion debt; an attempt was the direct goal, and a violent, deadly confrontation was a reasonably foreseeable consequence of sending an enforcer to break windows. Option (b) fails because Pinkerton explicitly punishes absent conspirators. Option (c) fails because Pinkerton allows homicide liability to be imputed if foreseeable, as does the standard felony murder rule. Option (d) fails because an enforcer bringing a weapon to a violent property crime is highly foreseeable, not a complete deviation. Option (e) fails because underlying attempts do not automatically extinguish for absent conspirators in this manner.
 
-**Tags:** chapters: [17], topics: [attempt, actus reus, dangerous proximity test], difficulty: medium, cognitive: application
+**Tags:** chapters: [7], topics: [Pinkerton liability, reasonable foreseeability], difficulty: medium, cognitive: application
 
-**Grounding:** Common-law attempt doctrine
+**Grounding:** General Conspiracy Doctrine (Pinkerton v. United States)
 
 <!-- audit: MUST FIX
 check 1: pass
 check 2: pass
 check 3: pass
-check 4: MUST FIX. The question completely lacks a fact pattern. It begins with "Assume instead..." and refers to Dominic, Elias, and the FBI without introducing them or detailing what actually happened. As a standalone question, it is unanswerable.
+check 4: fail. The question completely lacks a fact pattern (stem). It jumps straight to the call of the question without providing the facts mentioned in the explanation (Jack directing Kevin to enforce a debt, sending him to break windows, etc.), making it impossible to answer.
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Integrate the base fact pattern into the stem. Remove "Assume instead that" and replace it with the full scenario: "Dominic drove to his rival Elias's house, unaware the FBI was watching. Dominic set up a rifle, tracked Elias through the scope, and put his finger on the trigger before the FBI intervened. In a jurisdiction that follows the common-law dangerous proximity test, is Dominic guilty of attempted murder?"
+check 8: pass
+Recommended fix: Add the missing fact pattern describing the conspiracy between Jack and Kevin, Jack's specific instructions, and the events leading to the extortion and homicide before the call of the question.
 -->
 
-## Issue 2 — argpass-sonnet
+## Issue 2 — argpass-opus
 
-**Q13.** Assume instead that the jurisdiction follows the common-law dangerous proximity test. Is Dominic guilty of attempted murder?
+**Q13.** Under the Pinkerton doctrine, is Jack liable for Kevin's attempted extortion and the resulting homicide?
 
-(a) Yes, because tracking Elias through the scope with his finger on the trigger left him with essentially no more acts to complete the intended murderous offense. <!-- correct -->
-(b) No, because he had not yet fired the weapon, meaning he had not yet come within dangerous proximity to the successful completion of the intended violent crime.
-(c) Yes, because driving to the rival's house placed him close enough to the scene to satisfy the physical proximity requirement, regardless of his subsequent actions with the rifle.
-(d) No, because he was unaware of the FBI's presence, meaning he did not have the requisite proximate control over the surrounding environment to successfully complete the homicide.
-(e) Yes, because the dangerous proximity test only requires that the defendant's preparatory acts demonstrate a clear intent to commit a violent felony in the very near future.
+(a) Guilty of both, because the attempted extortion and the resulting fatal shooting were reasonably foreseeable consequences in furtherance of the conspiracy. <!-- correct -->
+(b) Not guilty of either, because the employer was not physically present at the scene and did not explicitly authorize his subordinate to use deadly force.
+(c) Guilty of the attempt but not the homicide, because the felony murder rule strictly prohibits imputing homicide liability to absent co-conspirators.
+(d) Not guilty of either, because the subordinate's decision to carry a loaded firearm constituted a complete deviation from the agreed-upon criminal plan.
+(e) Guilty of the homicide but not the attempt, because the completed act of killing legally subsumes and extinguishes the underlying attempted property crimes.
 
 **Answer:** (a)
 
-**Explanation:** Under the common-law dangerous proximity test, a defendant must come very close to the successful completion of the crime, leaving almost no acts remaining. By tracking the target in the scope with his finger on the trigger, Dominic was in dangerous proximity to completing the murder. (b) is incorrect because the test does not require the absolute last act (firing the weapon) to be completed. (c) is incorrect because merely driving to the location would be insufficient preparation under the proximity test, which requires coming much closer to the act itself. (d) is incorrect because factual impossibility or unawareness of police intervention does not negate attempt liability if the acts themselves were sufficiently proximate. (e) is incorrect because demonstrating clear intent is insufficient under the proximity test without extreme physical proximity to the harm.
+**Explanation:** Under Pinkerton liability, a conspirator is liable for any substantive offenses committed by co-conspirators that are in furtherance of the conspiracy and reasonably foreseeable. Jack directed Kevin to aggressively enforce the extortion debt; an attempt was the direct goal, and a violent, deadly confrontation was a reasonably foreseeable consequence of sending an enforcer to break windows. Option (b) fails because Pinkerton explicitly punishes absent conspirators. Option (c) fails because Pinkerton allows homicide liability to be imputed if foreseeable, as does the standard felony murder rule. Option (d) fails because an enforcer bringing a weapon to a violent property crime is highly foreseeable, not a complete deviation. Option (e) fails because underlying attempts do not automatically extinguish for absent conspirators in this manner.
 
-**Tags:** chapters: [17], topics: [attempt, actus reus, dangerous proximity test], difficulty: medium, cognitive: application
+**Tags:** chapters: [7], topics: [Pinkerton liability, reasonable foreseeability], difficulty: medium, cognitive: application
 
-**Grounding:** Common-law attempt doctrine
+**Grounding:** General Conspiracy Doctrine (Pinkerton v. United States)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under Justice Holmes's dangerous proximity test from *Peaslee* and *Rizzo*, the actus reus for attempt requires the defendant's acts to come dangerously close to success, leaving very few steps remaining. Tracking the victim with a finger on the trigger satisfies this strict standard. Dominic has essentially reached the "last act" stage, surpassing mere preparation and entering the zone of dangerous proximity where completion is imminent.
-(b) Argument-for: A student might argue that the dangerous proximity test is extraordinarily strict, sometimes practically requiring the last act to be initiated before liability attaches. Since Dominic had not fired the weapon, he arguably retained the opportunity to change his mind and had not yet unleashed the deadly force. Under this view, mere aiming remains within the realm of preparation because the actual physical danger of the bullet has not materialized.
-(c) Argument-for: One could argue that physical proximity to the scene is the core metric of the dangerous proximity test (as opposed to the MPC's substantial step test). By successfully driving to the rival's house and locating his target, Dominic satisfied the spatial requirements of the test. A student might conclude that arriving armed at the intended location is sufficient to cross the proximity threshold.
-(d) Argument-for: The dangerous proximity test evaluates the probability of the crime's successful completion and the gravity of the potential harm. If the FBI was present and effectively controlled the situation, making success factually impossible, Dominic's actions were arguably not "dangerously proximate" to actual completion. An argument can be made that police intervention neutralized the danger, so he lacked the capacity to complete the homicide.
-(e) Argument-for: Under a broader understanding of attempt law, a clear manifestation of intent coupled with a preparatory act is sufficient. A student might conflate dangerous proximity with the *res ipsa loquitur* (equivocality) test or the MPC substantial step test, arguing that the acts performed clearly demonstrate his intent and thus satisfy the requirement for attempt.
+(a) Argument-for: Under the Pinkerton doctrine, a co-conspirator is liable for the substantive offenses committed by his co-conspirators if those crimes were committed in furtherance of the conspiracy and were reasonably foreseeable. Here, the attempt to extort was the direct object of the conspiracy. The resulting homicide was a reasonably foreseeable consequence of sending an enforcer to aggressively collect a debt or break windows. Consequently, Jack is guilty of both the attempt and the homicide, making this option legally and factually sound.
+(b) Argument-for: An argument could be made that Pinkerton liability is bounded by the explicit scope of the agreement, particularly regarding extreme acts like homicide. If the employer was not present and did not explicitly authorize deadly force, a student might argue that the shooting falls outside the scope of the conspiracy. This option appeals to a strict agency theory where a principal is only liable for explicitly authorized acts. Therefore, Jack would not be guilty of the crimes committed by Kevin.
+(c) Argument-for: A student could argue that while Jack is liable for the attempted extortion under Pinkerton, homicide liability for absent co-conspirators is highly restricted. This argument relies on a purported limitation in the felony murder rule that requires some level of participation or presence to impute murder liability to a non-shooter. Under this view, the felony murder rule would strictly prohibit imputing the homicide to Jack. Thus, he remains liable only for the attempt.
+(d) Argument-for: Under Pinkerton, a co-conspirator is not liable for acts that are a complete deviation from the conspiracy's scope. If the plan was merely to commit property damage, Kevin's unilateral decision to bring and use a loaded firearm could be viewed as an independent, unforeseeable act. This complete deviation severs the causal chain, absolving Jack of liability. As a result, Jack escapes liability for both the attempt (executed entirely differently than planned) and the homicide.
+(e) Argument-for: This argument relies on the doctrine of merger. A student might argue that the attempted extortion was the underlying felony that resulted in the homicide. Under a mistaken view of merger, once the felony murder is complete, the underlying attempted property crime is subsumed into the greater offense of homicide. This legally extinguishes separate liability for the attempt, leaving Jack guilty only of the homicide.
 
-Head-to-head: Option (a) correctly applies the dangerous proximity standard, recognizing that aiming with a finger on the trigger leaves almost no acts remaining, thus satisfying the test. Option (b) fails because it asserts a legally false rule that dangerous proximity requires the weapon to be fired, but it lacks an absolute word to lock the falsifiability perfectly. Option (c) fails due to the absolute phrase "regardless of his subsequent actions," as subsequent actions are essential under a proximity analysis (mere arrival is just preparation). Option (d) invents a fake element ("proximate control") and incorrectly implies that factual impossibility negates attempt liability. Option (e) uses the absolute word "only" to incorrectly define dangerous proximity as an equivocality or intent-based test.
+Head-to-head:
+Option (a) correctly applies the Pinkerton standard, identifying that both crimes were in furtherance of the conspiracy and reasonably foreseeable. Option (b) attempts to defeat liability based on physical absence and lack of explicit authorization, but Pinkerton does not require either; however, the distractor currently lacks an explicitly falsifiable absolute legal claim. Option (c) is cleanly falsifiable as it incorrectly claims the felony murder rule "strictly prohibits" imputing liability to absent co-conspirators. Option (d) relies on a factual conclusion that bringing a firearm was a "complete deviation," rather than stating a categorical, testable legal rule. Option (e) provides a clear false legal claim that the homicide "legally subsumes and extinguishes" the underlying attempt.
 
 Falsifiable claim per distractor:
-- (b): "meaning he had not yet come within dangerous proximity" (deduced strictly from "he had not yet fired") — wrong because the dangerous proximity test does not strictly require the firing of the weapon; aiming is sufficiently proximate. (Would be stronger with an absolute word).
-- (c): "regardless of his subsequent actions with the rifle" — wrong because under the dangerous proximity test, actions at the scene are critical; mere arrival is almost always deemed mere preparation.
-- (d): "meaning he did not have the requisite proximate control over the surrounding environment" — wrong because "proximate control" is a fabricated element, and factual impossibility (FBI presence) does not negate attempt liability.
-- (e): "only requires that the defendant's preparatory acts demonstrate a clear intent" — wrong because this explicitly defines the equivocality test, not the dangerous proximity test, which requires extreme physical proximity to success.
+- (b): "the employer was not physically present at the scene and did not explicitly authorize" — wrong because Pinkerton liability routinely applies to absent, non-authorizing conspirators, but this currently reads as an implicit omission rather than an explicitly false absolute legal claim.
+- (c): "strictly prohibits imputing homicide liability to absent co-conspirators" — wrong because felony murder and Pinkerton both explicitly allow imputation to absent co-conspirators.
+- (d): "constituted a complete deviation from the agreed-upon criminal plan" — wrong because a violent confrontation is highly foreseeable in an extortion conspiracy, though the distractor currently relies on a factual conclusion rather than an absolute legal rule.
+- (e): "legally subsumes and extinguishes the underlying attempted property crimes" — wrong because completed homicides do not categorically extinguish underlying attempts for co-conspirators under the merger doctrine.
 
-Recommended fix: In (b), add an absolute word to lock the falsifiable claim. Change (b) to: "No, because the dangerous proximity test categorically requires the weapon to be fired, meaning he had not yet come within dangerous proximity to the successful completion of the intended violent crime."
+Recommended fix: Edit (b) and (d) to contain absolute, explicitly false legal claims. Change (b) to: "Not guilty of either, because Pinkerton liability categorically requires a co-conspirator to be physically present at the scene." Change (d) to: "Not guilty of either, because the use of an unauthorized firearm automatically constitutes a complete deviation that precludes foreseeability."
 -->

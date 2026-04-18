@@ -1,17 +1,17 @@
-**Q3.** Assume Marcus is charged as an accomplice to drug trafficking for routing the trucks around the weigh stations. Is he guilty under the traditional common law standard?
+**Q3.** Did Laura constructively possess the two kilograms of cocaine stored in the locked duffel bag in the breakroom?
 
-(a) Yes, because he knew his actions would assist the drug trafficking operation and he voluntarily performed them for his employer.
-(b) Yes, because routing the trucks constituted a substantial step toward the commission of the drug offense and satisfied the actus reus.
-(c) No, because an accomplice must act with the purpose of promoting the offense, and Marcus explicitly disclaimed a stake in the venture. <!-- correct -->
-(d) No, because his regular salary was legitimate compensation that legally insulates him from liability for how the company's trucks were used.
-(e) No, because a person cannot be an accomplice unless they are physically present at the scene when the underlying offense occurs.
+(a) Possessed, because she had actual knowledge that the locked duffel bag contained cocaine and it was located in a shared employee breakroom.
+(b) Not possessed, because her explicit demand to remove the bag demonstrates she lacked the necessary intent to exercise dominion and control over it. <!-- correct -->
+(c) Possessed, because her failure to immediately report the contraband to law enforcement legally constituted an implicit adoption of Kevin's possession.
+(d) Not possessed, because a civilian employee cannot constructively possess illegal contraband when it is located inside a commercial workplace setting.
+(e) Possessed, because she engaged in an incriminating dialogue with a co-worker regarding the exact location and contents of the illicit materials.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** (c) is correct because the common law requires an accomplice to act with the specific purpose of promoting or facilitating the underlying offense. Marcus explicitly disclaimed any stake in the venture and stated he only wanted his regular salary, demonstrating knowledge but lacking purpose. (a) is incorrect because mere knowledge of the criminal nature of the acts being assisted is generally insufficient for accomplice liability. (b) is incorrect because the substantial step test applies to attempt liability, not the mens rea requirement for accomplice liability. (d) is incorrect because receipt of a regular salary does not provide absolute legal immunity if the employee acts with the requisite criminal purpose. (e) is incorrect because an accomplice can be liable for aiding and abetting even if not physically present at the crime scene.
+**Explanation:** Constructive possession requires proof that the defendant both knew of the contraband's presence and had the power and intent to exercise dominion and control over it. Laura's demand that Kevin remove the bag shows she had no intent to control it, and her lack of the combination shows a lack of power. Option (a) fails because awareness of contraband in a shared space is insufficient without dominion and control. Option (c) fails because failure to report does not equate to exercising control. Option (d) fails because constructive possession applies perfectly well in commercial settings if the elements are met. Option (e) fails because while her statement proves awareness, it directly negates intent to control, rendering the statement insufficient to establish possession.
 
-**Tags:** chapters: [18], topics: [accomplice liability, mens rea], difficulty: foundational, cognitive: application
+**Tags:** chapters: [15], topics: [constructive possession, awareness vs dominion], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18, mr-purpose-not-knowledge
+**Grounding:** Chapter 15 (State of Louisiana v. Gerald Manchip White)
 
-<!-- grounding: GROUNDED — Accomplice Mens Rea (Purpose vs. Knowledge), Ch 18, Refinement `mr-purpose-not-knowledge`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — constructive possession, Ch 15, Refinement `constructive-possession`. Rule paraphrased accurately. -->

@@ -1,22 +1,22 @@
-**Q12.** Dominic was arrested outside a rival's home after setting up a concealed firing position. Under the Model Penal Code's substantial step test, is Dominic guilty of attempted murder?
+**Q12.** Assume Kevin is charged under a standard felony murder statute. Is he guilty of felony murder?
 
-(a) Yes, because his actions of lying in wait and tracking Elias with a scoped rifle strongly corroborated his criminal purpose. <!-- correct -->
-(b) Yes, because any preparatory act, no matter how remote, is sufficient for attempt if the defendant has a clear intent to kill.
-(c) No, because he had not yet pulled the trigger, meaning he had not completed the final act necessary for the offense.
-(d) No, because the FBI intervened before he could fire, rendering the completion of the crime factually and legally impossible.
-(e) No, because the substantial step test requires the defendant to have entered the zone of perpetration by discharging a weapon.
+(a) Guilty, because the fatal shooting occurred during the attempted commission of extortion, which qualifies as an inherently dangerous predicate felony. <!-- correct -->
+(b) Not guilty, because the felony murder doctrine only applies when the deceased victim is an innocent bystander rather than the target of the underlying felony.
+(c) Guilty, because any death that occurs while a criminal defendant is armed with a loaded firearm is strictly classified as felony murder under the common law.
+(d) Not guilty, because the defendant had not yet shattered the windows or obtained the money, meaning the predicate felony had not legally commenced.
+(e) Guilty, because the independent felony of illegal firearm possession merges with the homicide to create an automatic felony murder liability enhancement.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because the Model Penal Code's substantial step test requires conduct that strongly corroborates the actor's criminal purpose. Lying in wait and possessing materials specifically designed for the unlawful end near the scene of the crime explicitly satisfy this standard under the MPC. (b) is incorrect because the MPC still requires a "substantial step," explicitly rejecting the notion that remote preparatory acts alone are sufficient. (c) is incorrect because attempt liability does not require the defendant to complete the final act of the offense. (d) is incorrect because factual impossibility or outside intervention does not negate attempt liability if the defendant took a substantial step. (e) is incorrect because the "zone of perpetration" is a concept from common law proximity tests, not the MPC.
+**Explanation:** The felony murder rule applies when a death occurs during the commission or attempted commission of an inherently dangerous felony. Extortion (and the violent attempt to enforce it) qualifies. Option (b) fails because felony murder applies regardless of whether the victim is a bystander or the intended target of the predicate felony. Option (c) fails because felony murder requires an underlying predicate felony, not merely being armed. Option (d) fails because an *attempt* to commit the predicate felony is legally sufficient to trigger the felony murder rule. Option (e) fails because possession of a firearm typically merges into the homicide or is not considered an independent inherently dangerous felony supporting the rule under the merger doctrine.
 
-**Tags:** chapters: [17], topics: [attempt, substantial step], difficulty: foundational, cognitive: application
+**Tags:** chapters: [5], topics: [felony murder, attempt as predicate], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 17, MPC substantial step test
+**Grounding:** General Homicide Doctrine (Felony Murder Predicates)
 
-<!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: In jurisdictions that evaluate second-degree felony murder predicates "in the abstract" rather than "as committed" (a widely taught standard), extortion is NOT an inherently dangerous felony because it encompasses non-violent blackmail. Under that standard, option (a) is legally incorrect. 
+2. Cross-Doctrine Clashes: Self-Defense Justification. Because Matthew unexpectedly attacked Kevin's car with a bat before Kevin had initiated any visible threat or exited the vehicle, Kevin might have a valid self-defense justification. A legally justified homicide acts as a complete bar to felony murder, which option (a) ignores.
+3. Cross-Question Spoilers: By definitively marking Kevin as "Guilty" of felony murder, this question spoils Q10 (by implicitly ruling that his self-defense claim fails) and spoils Q11 (by pre-determining his homicide grading).
+Recommended fix: Reframe the question to test the predicate theory without confirming ultimate guilt, avoiding the Q10/Q11 spoilers. For example: "Assuming Kevin's self-defense claim fails, what is his strongest doctrinal argument against a felony murder charge?" [Answer: That extortion is not an inherently dangerous felony in the abstract].
 -->

@@ -1,10 +1,10 @@
-**Q11.** Assume Benny is charged with the unpermitted ether storage violation committed by Albert. If Benny establishes he had no knowledge of how much ether Albert was storing and never visited the lab, which is the most likely legal conclusion regarding Benny's liability?
+**Q11.** Assume Benny is charged with the unpermitted ether storage violation committed by Albert in a jurisdiction that applies the Pinkerton doctrine. If Benny establishes he had no knowledge of how much ether Albert was storing and never visited the lab, which is the most likely legal conclusion regarding Benny's liability?
 
-(a) Guilty under Pinkerton because the unpermitted ether storage was a reasonably foreseeable consequence of the Blue-X manufacturing conspiracy and in furtherance of it. <!-- correct -->
-(b) Guilty under Pinkerton because strict liability public welfare offenses are the only crimes that automatically extend to all unindicted co-conspirators.
-(c) Not guilty under Pinkerton because the doctrine requires each co-conspirator to directly participate in the specific actus reus of the substantive offense.
-(d) Not guilty under Pinkerton because the offense was merely a misdemeanor regulatory violation, which cannot serve as a conspiratorial predicate.
-(e) Not guilty under Pinkerton because Benny's role was strictly limited to downstream street distribution rather than upstream chemical procurement.
+(a) Pinkerton liability is established because the unpermitted ether storage was a reasonably foreseeable consequence of the Blue-X manufacturing conspiracy and in furtherance of it. <!-- correct -->
+(b) Pinkerton liability is established because strict liability public welfare offenses are the only crimes that automatically extend to all unindicted co-conspirators.
+(c) Pinkerton liability is not established because the doctrine requires each co-conspirator to directly participate in the specific actus reus of the substantive offense.
+(d) Pinkerton liability is not established because the offense was merely a misdemeanor regulatory violation, which cannot serve as a conspiratorial predicate.
+(e) Pinkerton liability is not established because Benny's role was strictly limited to downstream street distribution rather than upstream chemical procurement.
 
 **Answer:** (a)
 
@@ -29,5 +29,5 @@ Falsifiable claim per distractor:
 - (d): "merely a misdemeanor regulatory violation, which cannot serve as a conspiratorial predicate" — wrong because misdemeanors and regulatory offenses can absolutely serve as substantive predicates under *Pinkerton*.
 - (e): None. The distractor argues a factual conclusion ("because Benny's role was strictly limited to downstream street distribution") without locking an absolute, falsifiable false legal premise.
 
-Recommended fix: Change (e) to include a locked legal absolute: "(e) Not guilty under Pinkerton because co-conspirators whose roles are limited to downstream distribution are categorically exempt from liability for upstream manufacturing crimes."
+Recommended fix: Change (e) to include a locked legal absolute: "(e) Pinkerton liability is not established because co-conspirators whose roles are limited to downstream distribution are categorically exempt from liability for upstream manufacturing crimes."
 -->

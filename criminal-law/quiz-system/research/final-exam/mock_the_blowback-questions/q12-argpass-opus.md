@@ -2,7 +2,7 @@
 
 (a) Guilty under both frameworks, because wearing a ski mask decisively proves his specific intent to commit the underlying burglary offense.
 (b) Not guilty under both frameworks, because he was apprehended before he could successfully pry open the door of the commercial storage unit.
-(c) Guilty under common law proximity tests, but not guilty under the MPC because he lacked a substantial step toward the crime's commission.
+(c) Attempt liability is established under common law proximity tests, but is not established under the MPC because he lacked a substantial step toward the crime's commission.
 (d) Not guilty under common law proximity tests, but guilty under the MPC because walking toward the fence in a mask was a substantial step. <!-- correct -->
 (e) Not guilty under common law proximity tests, but guilty under the MPC because the MPC is designed to punish mere preparatory thoughts.
 

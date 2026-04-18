@@ -1,4 +1,4 @@
-**Q10.** Assume Damon is charged with felony murder based on the underlying felony of aggravated assault, because he shot Vic immediately upon being insulted. Under the traditional merger doctrine (the *Ireland* rule), is this a valid charge?
+**Q10.** Assume that, rightly or wrongly, prosecutors abandon charges of burglary or robbery and exclusively charge Damon with felony murder based on the underlying felony of aggravated assault. Is this a valid charge?
 
 (a) No, because the aggravated assault was not independent of the homicide, meaning the assault merges into the killing and cannot serve as a felony murder predicate. <!-- correct -->
 (b) Yes, because aggravated assault is an inherently dangerous felony that is statutorily enumerated in almost all jurisdictions as a valid trigger for the felony murder rule.
@@ -13,22 +13,3 @@
 **Tags:** chapters: [14], topics: [felony-murder, merger-independent-purpose], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 14 - Merger Doctrine (Independent Purpose)
-
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: This option correctly articulates the core holding of the traditional *Ireland* merger doctrine. Because aggravated assault is an offense that is integral to and included in fact within the homicide itself, it is not "independent" of the killing. Therefore, it merges into the homicide and cannot serve as the predicate for a felony murder charge, preventing all intentional or reckless killings from automatically being elevated to felony murder.
-(b) Argument-for: A student could argue that aggravated assault, by its very nature, carries a high risk to human life, satisfying the "inherently dangerous" requirement of felony murder. If the jurisdiction explicitly enumerates aggravated assault in its felony murder statute, this legislation would override the common law merger doctrine. The student might mistakenly believe that because assault is so dangerous, it is universally enumerated.
-(c) Argument-for: A student might conflate the doctrine of provocation (heat of passion) with the grading of the underlying felony. Because Damon shot Vic "immediately upon being insulted," a student could reason that this constitutes adequate provocation. They might then conclude that this emotional disturbance legally reduces the severity of the predicate assault to a misdemeanor, successfully precluding the application of the felony murder rule.
-(d) Argument-for: A student could argue for an independent purpose or temporal severance exception to the merger doctrine. The argument posits that the crime of aggravated assault was fully completed the moment the threat was manifested (e.g., brandishing or aiming the weapon) prior to the actual fatal discharge. Because the felony elements were satisfied independently and prior to the killing, the student might conclude it survives merger.
-(e) Argument-for: A student might misunderstand the policy rationale behind the merger doctrine. Since felony murder often functions to substitute the intent to commit a felony for the malice aforethought required for murder, the student could reason that if actual malice is present (e.g., an intentional shooting out of rage), the felony murder rule is legally barred. This leads to the conclusion that the doctrine categorically prohibits felony murder charges when actual malice exists.
-
-Head-to-head: 
-Option (a) correctly applies the *Ireland* merger doctrine, confirming that an assault integral to the homicide merges and cannot be a predicate. Option (b) fails because aggravated assault is widely recognized as merging into homicide, not serving as an enumerated trigger. Option (c) mistakenly claims provocation reduces aggravated assault to a misdemeanor; provocation can mitigate murder to manslaughter but does not alter the grade of the underlying assault. Option (d) introduces a hallucinated fact ("kicked in the door") and fails legally because severing a continuous assaultive transaction into a pre-shooting assault and a fatal shot does not bypass the merger doctrine. Option (e) wrongly asserts that the merger doctrine is triggered by the presence of actual malice, whereas the doctrine actually turns on whether the predicate felony has an independent felonious purpose.
-
-Falsifiable claim per distractor:
-- (b): "statutorily enumerated in almost all jurisdictions as a valid trigger" — wrong because aggravated assault is exactly the felony most universally subject to the merger doctrine, explicitly preventing it from being a valid enumerated trigger.
-- (c): "legally reduces the underlying assault to a mere misdemeanor" — wrong because heat-of-passion provocation reduces murder to manslaughter but does not reclassify a felony assault into a misdemeanor.
-- (d): "completed independently of the subsequent fatal shooting" — wrong because under the *Ireland* rule, a single continuous assaultive transaction resulting in death cannot be temporally severed to avoid merger. (Additionally, the distractor hallucinated the fact "kicked in the door").
-- (e): "strictly prohibits applying the felony murder rule whenever a defendant acts with actual malice" — wrong because the merger doctrine applies based on the lack of an independent felonious purpose, not categorically based on the presence of actual malice.
-
-Recommended fix: Change "kicked in the door with" to "aimed" in option (d) to remove the hallucinated fact not present in the prompt, while preserving the temporal-severance distractor logic.
--->

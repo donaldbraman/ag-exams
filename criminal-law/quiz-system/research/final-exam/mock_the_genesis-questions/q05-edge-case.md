@@ -2,7 +2,7 @@
 
 (a) Valid defense because his reading was based on the actual text of the statute rather than general ignorance of the law's existence.
 (b) Valid defense because professors are considered agents of the state, transforming his interpretation into an official statement of the law.
-(c) Invalid defense because under the Marrero rule, a personal misinterpretation of an ambiguous statute does not qualify as reasonable reliance on an official statement. <!-- correct -->
+(c) Invalid defense because a personal misinterpretation of an ambiguous statute does not qualify as reasonable reliance on an official statement. <!-- correct -->
 (d) Invalid defense because mistake of law defenses are only available for malum in se crimes where moral blameworthiness must be firmly established.
 (e) Invalid defense because the Cheek exception specifically explicitly prohibits mistake of law defenses for any regulatory or public welfare offense.
 

@@ -1,33 +1,15 @@
-**Q14.** Assume Benny is charged with drug distribution for delivering the duffel bag of Blue-X. He raises a duress defense, pointing to Kev's threat. Which is the most likely legal conclusion regarding the threat element?
+**Q14.** Assume Benny is charged with drug distribution for delivering the duffel bag of Blue-X in a traditional common-law jurisdiction. He raises a duress defense, pointing to Kev's threat. Given his pre-existing role in the drug ring, which is the most likely legal conclusion?
 
-(a) The duress defense is established because Kev's threat to blow a hole in Benny's chest with a racked shotgun was a present, immediate, and impending threat. <!-- correct -->
-(b) The duress defense is established because Kev's status as a co-conspirator creates a strict presumption of coercive control over Benny.
-(c) The duress defense fails because threats to inflict serious bodily harm do not qualify for duress unless they are accompanied by actual physical violence.
-(d) The duress defense fails because Benny was outside the stash house during the delivery, severing the physical proximity of the threat.
-(e) The duress defense fails because the defense is strictly limited to situations where the defendant is coerced into committing a homicide.
+(a) The defense is invalid because by voluntarily joining a narcotics distribution conspiracy, Benny placed himself in a situation where coercion was probable, strictly barring the defense. <!-- correct -->
+(b) The defense is invalid because drug distribution is an inherently violent offense for which the duress defense is categorically unavailable as a matter of public policy.
+(c) The defense is valid because Kev's use of a racked shotgun escalated the situation beyond the ordinary risks Benny accepted when joining the enterprise.
+(d) The defense is valid because Benny's prior agreement to distribute only applied to transactions negotiated by Albert, not those forced by Kev.
+(e) The defense is valid because the common law strictly limits fault-based exclusions to cases where the defendant was the initial physical aggressor in a violent confrontation.
 
 **Answer:** (a)
 
-**Explanation:** The core element of duress requires a present, immediate, and impending threat of death or serious bodily injury. A racked shotgun pointed at the head accompanied by an immediate demand to deliver drugs perfectly satisfies this requirement. (b) fails because there is no legal presumption of coercive control based merely on co-conspirator status. (c) fails because a credible threat of serious bodily harm is sufficient; actual physical violence is not required to establish duress. (d) fails because the threat compelled the immediate flight and delivery; the coercive force of a gun to the head does not instantly dissipate upon walking out the door. (e) fails because duress is actually *barred* as a defense to intentional homicide; it is fully available for drug distribution.
+**Explanation:** (a) is correct. Under traditional common law (the "clean hands" doctrine), a defendant is strictly barred from raising a duress defense if they are at fault for bringing about or placing themselves in the coercive situation. By voluntarily joining an illegal drug distribution conspiracy, Benny placed himself in a highly dangerous enterprise where coercion was a highly foreseeable risk. Furthermore, Benny had already agreed to distribute the drugs, meaning the threat did not force him to commit a crime against his will; it merely expedited it. (b) is wrong because duress is generally only categorically barred for intentional homicides, not drug distribution. (c) ignores that extreme violence is a foreseeable risk of the illicit drug trade. (d) fails because the specific dynamics of the transaction don't erase his culpability for entering the illicit enterprise. (e) is wrong because the common law 'clean hands' bar applies broadly to joining criminal enterprises, not just instigating physical fights.
 
-**Tags:** chapters: [21], topics: [duress, imminence, threat], difficulty: easy, cognitive: application
+**Tags:** chapters: [21], topics: [duress, clean hands, common law], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21 - duress requirements (present, immediate, impending threat)
-
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: Kev's threat with a racked shotgun represents a classic "present, immediate, and impending" threat of death or serious bodily injury. Because Benny was forced to deliver the drugs under this imminent threat, the elements of duress are perfectly met. This is a straightforward application of the black-letter requirements of the defense.
-(b) Argument-for: A student might assume that criminal syndicates operate under strict hierarchies where underlings have no free will. Under this view, being in a conspiracy with a violent higher-up like Kev would legally establish a presumption of coercion, satisfying the duress defense by default. This makes logical sense if one conflates gang dynamics with legal duress.
-(c) Argument-for: To prevent defendants from easily fabricating duress claims based on mere words, a student could argue that the law requires corroborating physical evidence. Therefore, a threat must be accompanied by actual physical violence—such as a preliminary assault—to qualify as sufficiently serious and impending. This creates an objective threshold for the defense.
-(d) Argument-for: Duress requires the threat to be immediate and inescapable at the exact moment the crime is committed. Once Benny left the stash house, he was no longer in Kev's immediate physical proximity and theoretically could have fled or called the police. A student could argue this separation severs the imminence of the threat, causing the defense to fail.
-(e) Argument-for: Because duress completely excuses criminal liability, a student might assume it is reserved exclusively for the most extreme situations. Under this misconception, only a situation where someone is forced to commit the ultimate crime—homicide—would warrant the application of the duress defense. This improperly flips the actual common law rule.
-
-Head-to-head: Option (a) correctly applies the core elements of the duress defense (present, immediate, and impending threat). Option (b) invents a nonexistent "strict presumption" of coercion for co-conspirators. Option (c) is explicitly false because actual physical violence is never required to establish a threat. Option (e) is categorically false because duress is expressly *barred* as a defense to intentional homicide, not limited to it. Option (d) asserts that Benny being outside "sever[s] the physical proximity," which is more of a factual conclusion about imminence and escape opportunities than a demonstrably false legal rule. Because lack of physical proximity *can* legally defeat the imminence requirement if the defendant had a safe avenue of escape, (d) fails the close-call standard as it lacks an explicitly false legal claim locked with absolute words.
-
-Falsifiable claim per distractor:
-- (b): "creates a strict presumption of coercive control" — wrong because there is no such legal presumption based on co-conspirator status.
-- (c): "unless they are accompanied by actual physical violence" — wrong because a credible threat (e.g., a pointed gun) suffices without actual violence.
-- (d): "severing the physical proximity of the threat" — wrong factually in this context, but lacks a categorically false legal claim as written. 
-- (e): "strictly limited to situations where the defendant is coerced into committing a homicide" — wrong because duress is categorically barred for intentional homicides.
-
-Recommended fix: Edit (d) to include an absolute legal falsity, e.g., "The duress defense fails because stepping outside the immediate physical presence of the threat-maker automatically defeats the imminence requirement as a matter of law."
--->
+**Grounding:** Chapter 21 - duress fault limitations

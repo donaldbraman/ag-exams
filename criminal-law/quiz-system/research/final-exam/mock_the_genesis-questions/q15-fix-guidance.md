@@ -1,33 +1,15 @@
-# Fix Guidance for q15
+**Q15.** Assume Benny argues in a common-law jurisdiction that his sheer terror of Kev's shotgun proves he no longer wanted to be part of the drug enterprise, effectively terminating his involvement. Under traditional common-law conspiracy doctrine, is this a legally valid withdrawal?
 
-The QA pipeline flagged this question. Rewrite `q15.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
-
-## Issue 1 — audit
-
-**Q15.** Assume that, regardless of the imminence of the threat, the jurisdiction applies the Model Penal Code (MPC). How does Benny's involvement in the drug enterprise affect his duress defense?
-
-(a) Benny forfeits the duress defense because he recklessly placed himself in a situation where coercion was probable by joining a criminal drug enterprise. <!-- correct -->
-(b) Benny forfeits the duress defense because the defense is categorically unavailable for any distribution offenses under the Model Penal Code framework.
-(c) Benny retains the duress defense because Kev's violent outburst was an unforeseeable superseding event that negated Benny's initial assumption of risk.
-(d) Benny retains the duress defense because the Model Penal Code permits the excuse regardless of whether the defendant was at fault for creating the situation.
-(e) Benny forfeits the duress defense because he failed to physically resist Kev's demands before agreeing to transport the narcotics to the drop point.
+(a) Invalid, because a legally effective withdrawal requires an affirmative, voluntary act communicating renunciation to co-conspirators or working to defeat the conspiracy, not merely committing the target offense under emotional distress. <!-- correct -->
+(b) Invalid, because once a conspiracy is formed, a defendant can never withdraw or sever liability for subsequent substantive offenses.
+(c) Valid, because an extreme emotional state triggered by a deadly weapon automatically negates the mens rea required to maintain an ongoing illegal agreement.
+(d) Valid, because his subjective unwillingness to complete the task operates as an implied withdrawal from his original partnership.
+(e) Valid, because the intervention of Kev's independent threat legally frustrated the original conspiratorial purpose, automatically dissolving the agreement.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. Under the MPC's fault calibration rule (§ 2.09(2)), a defendant forfeits the duress defense entirely if they recklessly placed themselves in a situation where coercion was probable. Joining a violent illicit drug enterprise satisfies this standard. (b) is wrong because the MPC does not categorically exclude distribution offenses from duress; it excludes offenses based on the defendant's fault in creating the situation. (c) is wrong because violence and coercion are highly foreseeable in illicit drug distribution. (d) is wrong because the MPC explicitly bars the defense if the actor recklessly created the situation. (e) is wrong because physical resistance is not the standard for evaluating fault in creating the coercive situation.
+**Explanation:** (a) is correct. Under traditional common-law doctrine, to successfully withdraw from a conspiracy (and thereby cut off liability for future acts), a defendant must take an affirmative, voluntary step to disavow the conspiracy, such as communicating their withdrawal to all co-conspirators, notifying law enforcement, or otherwise working to defeat the conspiracy. Committing the object crime of the conspiracy—even in a state of panic or duress—is the exact opposite of an affirmative renunciation. (b) is wrong because withdrawal is legally possible, provided it is executed correctly before further crimes are committed. (c) and (d) are wrong because subjective unwillingness, unspoken reluctance, or emotional distress do not constitute an effective, communicative withdrawal. (e) is wrong because internal disputes or coercion among criminals do not legally dissolve the underlying conspiratorial agreement.
 
-**Tags:** chapters: [21], topics: [duress, mpc fault calibration], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [19], topics: [conspiracy, withdrawal, abandonment], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21, MPC § 2.09 Fault Calibration
-
-<!-- audit: MUST FIX
-check 1: pass (accurately states MPC 2.09(2) rule for fault calibration)
-check 2: pass
-check 3: pass
-check 4: The stem completely lacks a fact pattern. It references "Benny", "Kev", and "the drug enterprise" without any prior narrative establishing who these people are, the nature of the drug enterprise, or what happened. 
-check 5: pass
-check 6: pass
-check 7: pass
-check 8: pass
-Recommended fix: Insert the missing fact pattern describing Benny's joining of the drug enterprise, Kev's violent outburst, and the coerced transportation of narcotics. If this was intended to be part of a multi-question set attached to a master fact pattern, ensure the facts are included when presented as a standalone question.
--->
+**Grounding:** Chapter 19 - conspiracy withdrawal requirements

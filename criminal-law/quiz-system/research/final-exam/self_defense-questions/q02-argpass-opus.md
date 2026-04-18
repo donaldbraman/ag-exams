@@ -2,9 +2,9 @@
 
 (a) Not guilty, because Alex retained the only key and therefore maintained exclusive actual possession of the safe's contents.
 (b) Not guilty, because momentarily moving the safe to clean underneath it does not establish the necessary intent to possess.
-(c) Guilty of actual possession, because the safe was located within his private residence where he could physically touch its exterior.
-(d) Guilty of constructive possession, because keeping the safe in his living room for three days demonstrates his power and intention. <!-- correct -->
-(e) Guilty of joint possession, but only if the prosecution can prove that Blake financially invested in the fentanyl inside.
+(c) Actual possession is established, because the safe was located within his private residence where he could physically touch its exterior.
+(d) Constructive possession is established, because keeping the safe in his living room for three days demonstrates his power and intention. <!-- correct -->
+(e) Joint possession is established, but only if the prosecution can prove that Blake financially invested in the fentanyl inside.
 
 **Answer:** (d)
 
@@ -27,7 +27,7 @@ Option (d) is clearly the best answer because storing the safe in his living roo
 Falsifiable claim per distractor:
 - (a): "therefore maintained exclusive actual possession" — wrong because retaining a key does not grant "actual" possession if the person is physically absent, nor is it "exclusive" since another party can simultaneously have constructive possession of the container's contents.
 - (b): None. The claim that "momentarily moving the safe to clean underneath it does not establish the necessary intent" is legally true; the option is incorrect merely because it ignores other factual evidence (the three-day storage) that does establish intent.
-- (c): "Guilty of actual possession, because... he could physically touch its exterior." — wrong because actual possession requires direct physical control of the contraband itself, not merely touching the exterior of its locked container.
+- (c): "Actual possession is established, because... he could physically touch its exterior." — wrong because actual possession requires direct physical control of the contraband itself, not merely touching the exterior of its locked container.
 - (e): "only if the prosecution can prove that Blake financially invested" — wrong because joint possession simply requires shared dominion and control, not categorically a financial investment.
 
 Recommended fix: Edit (b) to include an absolute falsifiable claim so it does not rely on an implicit omission. For example: "(b) Not guilty, because momentarily moving a container solely for cleaning categorically negates any constructive possession of its contents."

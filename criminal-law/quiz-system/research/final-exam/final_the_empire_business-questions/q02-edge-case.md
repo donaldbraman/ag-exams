@@ -1,18 +1,18 @@
-**Q2.** Assume the government brings a RICO conspiracy charge based on the agreement to establish the narcotics operation. Can Carmine be convicted of RICO conspiracy under § 1962(d) for the agreement to establish the new syndicate?
+**Q2.** Under the prevailing Model Penal Code standard, is Laura guilty as an accomplice to Kevin's drug distribution?
 
-(a) Yes, because an agreement to associate with and participate in a yet-to-be-formed enterprise constitutes a completed RICO conspiracy. <!-- correct -->
-(b) Yes, because any conspiracy to commit a crime automatically satisfies the pattern of racketeering activity requirement under federal law.
-(c) No, because a RICO conspiracy requires the enterprise to actually exist at the time the unlawful agreement is made by the parties.
-(d) No, because neither Carmine nor Dominic had yet committed a predicate act of racketeering in furtherance of the new syndicate.
-(e) No, because the new syndicate was a separate scheme that lacked a continuous relationship with the existing Pinnacle Waste enterprise.
+(a) Guilty, because she continued to dispatch the company trucks with full knowledge that Kevin was using them to transport wholesale quantities of drugs.
+(b) Not guilty, because her sole intent was to maintain her lawful corporate salary, meaning she lacked the specific purpose to facilitate the drug crimes. <!-- correct -->
+(c) Guilty, because dispatching the collection routes constituted a substantial step strongly corroborative of a shared criminal objective to distribute drugs.
+(d) Not guilty, because she did not physically load the brick-shaped packages into the vehicles or personally handle the contraband at any given time.
+(e) Guilty, because as a salaried managerial employee of the corporation, she is held strictly liable for the foreseeable criminal acts of her subordinates.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct because under *United States v. Rich*, an agreement to associate with and participate in a yet-to-be-formed enterprise constitutes a completed RICO conspiracy under § 1962(d). (b) is incorrect because a RICO conspiracy specifically requires an agreement to further an endeavor that, if completed, would satisfy all RICO elements, not just any generic criminal conspiracy. (c) is incorrect because *Rich* explicitly held the enterprise need not exist at the time of the agreement. (d) is incorrect because under *Salinas*, a RICO conspirator need not personally commit predicate acts, only agree to further the endeavor. (e) is incorrect because the agreement to form a new enterprise is itself sufficient for a separate conspiracy charge.
+**Explanation:** The Model Penal Code and the majority of jurisdictions require an accomplice to act with the *purpose* of promoting or facilitating the commission of the offense. Mere knowledge that one's actions will aid the principal is insufficient if the actor's only goal is an independent lawful benefit (like keeping a salary). Option (a) is incorrect because it applies a pure knowledge standard, which the MPC rejects for substantive accomplice liability. Option (c) is incorrect because "substantial step" is the actus reus standard for attempt, not the mens rea standard for complicity. Option (d) fails because physical handling is never required for accomplice liability; aiding via dispatching would suffice if the mens rea were present. Option (e) fails because corporate employees are not strictly liable for the crimes of co-workers.
 
-**Tags:** chapters: [20], topics: [RICO conspiracy, future enterprise], difficulty: advanced, cognitive: application
+**Tags:** chapters: [4], topics: [accomplice liability, purpose vs knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 20, United States v. Rich
+**Grounding:** General Accomplice Liability principles (Peoni/Rosemond purpose requirement)
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

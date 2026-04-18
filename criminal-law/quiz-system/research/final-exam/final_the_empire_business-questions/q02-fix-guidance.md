@@ -2,31 +2,91 @@
 
 The QA pipeline flagged this question. Rewrite `q02.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — audit
+## Issue 1 — grounding
 
-**Q2.** Assume the U.S. Attorney wants to charge Carmine with RICO conspiracy for the narcotics agreement. Is Carmine guilty of RICO conspiracy?
+**Q2.** Under the prevailing Model Penal Code standard, is Laura guilty as an accomplice to Kevin's drug distribution?
 
-(a) Guilty of RICO conspiracy, because an agreement to form a future enterprise constitutes a completed RICO conspiracy offense even if the enterprise does not yet exist. <!-- correct -->
-(b) Not guilty of RICO conspiracy, because the substantive RICO offense requires the existence of a fully formed enterprise at the time the agreement is reached.
-(c) Guilty of RICO conspiracy, because Carmine had already established Pinnacle Waste and the new syndicate would merely operate as a subsidiary of that existing enterprise.
-(d) Not guilty of RICO conspiracy, because neither Carmine nor Dominic had committed any predicate acts in furtherance of the planned future narcotics syndicate at that time.
-(e) Guilty of RICO conspiracy, because the agreement involved the distribution of narcotics which automatically satisfies the pattern of racketeering requirement under the federal RICO statute.
+(a) Guilty, because she continued to dispatch the company trucks with full knowledge that Kevin was using them to transport wholesale quantities of drugs.
+(b) Not guilty, because her sole intent was to maintain her lawful corporate salary, meaning she lacked the specific purpose to facilitate the drug crimes. <!-- correct -->
+(c) Guilty, because dispatching the collection routes constituted a substantial step strongly corroborative of a shared criminal objective to distribute drugs.
+(d) Not guilty, because she did not physically load the brick-shaped packages into the vehicles or personally handle the contraband at any given time.
+(e) Guilty, because as a salaried managerial employee of the corporation, she is held strictly liable for the foreseeable criminal acts of her subordinates.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Under United States v. Rich, an agreement to associate with and participate in a yet-to-be-formed racketeering enterprise constitutes a completed RICO conspiracy offense. The enterprise does not need to exist at the time of the agreement. (b) is incorrect because the Sixth Circuit explicitly held that a future enterprise satisfies the conspiracy element. (c) is incorrect because the facts state they agreed to form a "new, separate" syndicate, making its status as a subsidiary factually incorrect and legally unnecessary. (d) is incorrect because under Salinas v. United States, a RICO conspirator does not need to personally commit predicate acts; the agreement itself is the crime. (e) is incorrect because while narcotics distribution is a predicate act, RICO requires an agreement to conduct the affairs of an enterprise through a pattern of racketeering, not merely a standard drug conspiracy.
+**Explanation:** The Model Penal Code and the majority of jurisdictions require an accomplice to act with the *purpose* of promoting or facilitating the commission of the offense. Mere knowledge that one's actions will aid the principal is insufficient if the actor's only goal is an independent lawful benefit (like keeping a salary). Option (a) is incorrect because it applies a pure knowledge standard, which the MPC rejects for substantive accomplice liability. Option (c) is incorrect because "substantial step" is the actus reus standard for attempt, not the mens rea standard for complicity. Option (d) fails because physical handling is never required for accomplice liability; aiding via dispatching would suffice if the mens rea were present. Option (e) fails because corporate employees are not strictly liable for the crimes of co-workers.
 
-**Tags:** chapters: [20], topics: [RICO, conspiracy, future enterprise, Salinas], difficulty: hard, cognitive: application
+**Tags:** chapters: [4], topics: [accomplice liability, purpose vs knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** United States v. Rich; Salinas v. United States
+**Grounding:** General Accomplice Liability principles (Peoni/Rosemond purpose requirement)
+
+<!-- GROUNDING-FAIL: General Accomplice Liability principles (Peoni/Rosemond purpose requirement) is not in any chapter map. The closest taught doctrines are: N/A (meta-map artifact missing). Correct answer must rely on one of those instead. -->
+
+## Issue 2 — audit
+
+**Q2.** Under the prevailing Model Penal Code standard, is Laura guilty as an accomplice to Kevin's drug distribution?
+
+(a) Guilty, because she continued to dispatch the company trucks with full knowledge that Kevin was using them to transport wholesale quantities of drugs.
+(b) Not guilty, because her sole intent was to maintain her lawful corporate salary, meaning she lacked the specific purpose to facilitate the drug crimes. <!-- correct -->
+(c) Guilty, because dispatching the collection routes constituted a substantial step strongly corroborative of a shared criminal objective to distribute drugs.
+(d) Not guilty, because she did not physically load the brick-shaped packages into the vehicles or personally handle the contraband at any given time.
+(e) Guilty, because as a salaried managerial employee of the corporation, she is held strictly liable for the foreseeable criminal acts of her subordinates.
+
+**Answer:** (b)
+
+**Explanation:** The Model Penal Code and the majority of jurisdictions require an accomplice to act with the *purpose* of promoting or facilitating the commission of the offense. Mere knowledge that one's actions will aid the principal is insufficient if the actor's only goal is an independent lawful benefit (like keeping a salary). Option (a) is incorrect because it applies a pure knowledge standard, which the MPC rejects for substantive accomplice liability. Option (c) is incorrect because "substantial step" is the actus reus standard for attempt, not the mens rea standard for complicity. Option (d) fails because physical handling is never required for accomplice liability; aiding via dispatching would suffice if the mens rea were present. Option (e) fails because corporate employees are not strictly liable for the crimes of co-workers.
+
+**Tags:** chapters: [4], topics: [accomplice liability, purpose vs knowledge], difficulty: medium, cognitive: application
+
+**Grounding:** General Accomplice Liability principles (Peoni/Rosemond purpose requirement)
 
 <!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: fail. The question stem is missing the required factual context (it references "Carmine", "Dominic", "the narcotics agreement", and "Pinnacle Waste" but provides no facts about them). It appears to be a dependent question separated from a master fact pattern.
-check 5: fail. The explanation justifies ruling out option (b) by stating "the Sixth Circuit explicitly held...". Because RICO is a federal statute subject to circuit splits, treating a specific circuit's ruling as universal black-letter law without stipulating the jurisdiction or asking about the rule in *Rich* violates the jurisdictional clarity requirement.
-check 6: pass
-check 7: pass
-Recommended fix: (1) Integrate the necessary facts into the stem (or ensure it is explicitly paired with its master fact pattern). (2) Add a jurisdictional stipulation to the stem, such as: "Assume the applicable jurisdiction follows the rule from United States v. Rich."
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: The question is entirely missing a fact pattern. It introduces "Laura," "Kevin," and "company trucks," but no facts are provided in the stem. Even if this is part of a multi-question fact pattern, the facts need to clearly establish Laura's knowledge and her sole intent/motivation to safely point to (b). 
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: Add the missing fact pattern (stem) establishing Laura's role as a dispatcher, her discovery of Kevin's drug distribution, and her motivation (maintaining her salary without caring about his crime) before asking the question.
+-->
+
+## Issue 3 — argpass-sonnet
+
+**Q2.** Under the prevailing Model Penal Code standard, is Laura guilty as an accomplice to Kevin's drug distribution?
+
+(a) Guilty, because she continued to dispatch the company trucks with full knowledge that Kevin was using them to transport wholesale quantities of drugs.
+(b) Not guilty, because her sole intent was to maintain her lawful corporate salary, meaning she lacked the specific purpose to facilitate the drug crimes. <!-- correct -->
+(c) Guilty, because dispatching the collection routes constituted a substantial step strongly corroborative of a shared criminal objective to distribute drugs.
+(d) Not guilty, because she did not physically load the brick-shaped packages into the vehicles or personally handle the contraband at any given time.
+(e) Guilty, because as a salaried managerial employee of the corporation, she is held strictly liable for the foreseeable criminal acts of her subordinates.
+
+**Answer:** (b)
+
+**Explanation:** The Model Penal Code and the majority of jurisdictions require an accomplice to act with the *purpose* of promoting or facilitating the commission of the offense. Mere knowledge that one's actions will aid the principal is insufficient if the actor's only goal is an independent lawful benefit (like keeping a salary). Option (a) is incorrect because it applies a pure knowledge standard, which the MPC rejects for substantive accomplice liability. Option (c) is incorrect because "substantial step" is the actus reus standard for attempt, not the mens rea standard for complicity. Option (d) fails because physical handling is never required for accomplice liability; aiding via dispatching would suffice if the mens rea were present. Option (e) fails because corporate employees are not strictly liable for the crimes of co-workers.
+
+**Tags:** chapters: [4], topics: [accomplice liability, purpose vs knowledge], difficulty: medium, cognitive: application
+
+**Grounding:** General Accomplice Liability principles (Peoni/Rosemond purpose requirement)
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student might argue that while the MPC generally requires "purpose," there is a recognized common law debate (e.g., *People v. Lauria*) where providing goods/services with "full knowledge" of serious or wholesale criminal activity allows an inference of purpose. By dispatching trucks for "wholesale quantities," her knowledge arguably crosses the threshold into tacit promotion of the venture. Thus, under a broad reading of facilitation, her knowing administrative support makes her guilty.
+(b) Argument-for: A student could correctly argue that under MPC § 2.06(3)(a), accomplice liability strictly requires acting "with the purpose of promoting or facilitating the commission of the offense." If Laura's conscious object (her sole intent) was merely to maintain her lawful salary, she did not have the specific purpose to see the drug distribution succeed. This aligns perfectly with the *Peoni* standard, making her not guilty despite her knowledge.
+(c) Argument-for: A student might confuse the elements of inchoate offenses and argue that accomplice liability relies on attempt-like frameworks. Under MPC § 5.01, the standard for attempt is a "substantial step strongly corroborative of the actor's criminal purpose." Since she authorized the dispatch, she took a substantial step that materially aided the crime, which a student could mistakenly argue satisfies the legal standard for complicity when a shared objective is alleged.
+(d) Argument-for: A student could argue that accomplice liability requires a direct, proximate actus reus tied to the core criminal conduct (handling the drugs). Since Laura merely performed administrative dispatching duties and never physically touched or loaded the contraband, her actions are too legally remote to constitute the material "aiding" required for drug distribution. Therefore, without physical handling, the actus reus fails.
+(e) Argument-for: A student might analogize this scenario to the Responsible Corporate Officer (RCO) doctrine (the *Park* doctrine). Under the RCO doctrine, managerial employees can sometimes be held strictly liable for the regulatory offenses of their subordinates if they have a responsible relation to the violation and power to prevent it. A student might incorrectly stretch this to general criminal strict liability, arguing her managerial status inherently makes her guilty for foreseeable employee crimes.
+
+Head-to-head: Option (b) is the clear, doctrinally precise winner under the Model Penal Code, which explicitly requires "purpose" rather than mere knowledge for accomplice liability. Option (a) is the strongest distractor because it tests the classic "knowledge vs. purpose" boundary, but it relies on the false premise that knowledge alone suffices under the MPC. Option (c) improperly imports attempt doctrine ("substantial step") into complicity. Option (d) invents a non-existent physical actus reus requirement. Option (e) falsely imports regulatory strict liability (*Park* doctrine) into substantive felony drug distribution. However, distractors (a), (c), and (d) lack the absolute locking words required by the strict close-call standard, allowing students to potentially argue over implicit exceptions rather than falsifiable bright-line claims. 
+
+Falsifiable claim per distractor:
+- (a): "because she continued to dispatch... with full knowledge" — wrong because under the MPC, full knowledge is explicitly insufficient for accomplice liability without the purpose to facilitate. (Lacks an absolute word to fully lock the falsifiability).
+- (c): "constituted a substantial step strongly corroborative" — wrong because this is the specific actus reus legal standard for attempt, not the standard for accomplice liability. 
+- (d): "because she did not physically load... or personally handle" — wrong because it relies on the false legal premise that physical handling of contraband is a required element to establish aiding and abetting.
+- (e): "she is held strictly liable for the foreseeable criminal acts" — wrong because the MPC categorically does not hold general corporate managers strictly liable for the substantive felonies of their subordinates.
+
+Recommended fix: Add absolute words to lock the legal claims in the distractors. 
+- Edit (a) to: "Guilty, solely because she continued to dispatch the company trucks with full knowledge..."
+- Edit (c) to: "...constituted a substantial step strongly corroborative of a shared objective, which automatically establishes complicity."
+- Edit (d) to: "Not guilty, because accomplice liability categorically requires that the actor physically load..."
 -->

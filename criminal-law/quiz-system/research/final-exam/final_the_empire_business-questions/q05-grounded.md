@@ -1,17 +1,17 @@
-**Q5.** The investigation has uncovered Dominic's street-level activities, including a drug-for-guns trade. Is Dominic guilty of "using" a firearm during and in relation to a drug trafficking crime under 18 U.S.C. § 924(c) for the trade?
+**Q5.** Did Kevin "use" a firearm during and in relation to a drug trafficking crime under 18 U.S.C. § 924(c) during the October 1 transaction?
 
-(a) Yes, because he actively employed the firearms as an item of barter in commerce to facilitate the drug transaction.
-(b) Yes, because acquiring firearms during a drug deal legally constitutes carrying them in relation to the underlying narcotics offense.
-(c) No, because receiving a firearm as payment for drugs does not constitute using the firearm; only the party tenderering the gun uses it. <!-- correct -->
-(d) No, because Justice Ginsburg's use-as-a-weapon interpretation is the controlling legal standard under the current interpretation of the statute.
-(e) No, because Dominic never fired or brandished the unregistered rifles during the transaction with the narcotics supplier.
+(a) Guilty, because offering and delivering narcotics to acquire a deadly weapon constitutes the active employment of the firearm in a drug transaction.
+(b) Not guilty, because under binding precedent, a defendant who merely receives a firearm as payment for drugs does not "use" that firearm. <!-- correct -->
+(c) Guilty, because the physical presence of the loaded handgun inherently facilitated the underlying transaction with the rival syndicate member.
+(d) Not guilty, because establishing liability requires the government to prove the defendant explicitly deployed or brandished the firearm as a weapon.
+(e) Guilty, because both participants in an illicit barter transaction equally utilize the exchanged items as currency under federal statutory definitions.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** (c) is correct because under *Watson v. United States*, a defendant who receives a firearm in exchange for drugs does not "use" the firearm within the meaning of § 924(c); only the party tendering the gun as currency "uses" it. (a) is incorrect because *Smith* (using a gun to buy drugs) does not apply symmetrically; Watson held a seller does not "use" a buyer's consideration. (b) is incorrect because acquiring a firearm and merely taking possession of it during a drug deal does not automatically satisfy the "carrying" prong in relation to the offense. (d) is incorrect because Justice Ginsburg's "use as a weapon" interpretation was in a concurrence and is not the controlling legal standard. (e) is incorrect because firing or brandishing is not strictly required if the gun is tendered as currency, but Dominic was the receiver, not the tenderer.
+**Explanation:** Under Watson v. United States, a person who trades drugs to receive a gun does not "use" the firearm within the meaning of § 924(c). Only the party who tenders the gun as payment "uses" it. Option (a) fails because it incorrectly applies the Smith rule (which covers trading a gun for drugs) to the inverse scenario. Option (c) fails because while facilitation might support a "possession in furtherance" charge, the specific question asks whether he "used" the firearm, which Watson holds he did not. Option (d) fails because a gun can be "used" as currency (by the person giving it), so brandishing is not universally required. Option (e) fails because the Supreme Court expressly rejected this symmetry argument in Watson.
 
-**Tags:** chapters: [15], topics: [use of firearm, § 924(c)], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [18 U.S.C. § 924(c), use of a firearm], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 15, Watson v. United States
+**Grounding:** Chapter 15 (Watson v. United States)
 
-<!-- grounding: GROUNDED — § 924(c) Trading Drugs for Gun, Ch 15, Refinement `use-924c-trading-drugs-for-gun`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Watson v. United States, Ch 15, Refinement `watson-use-firearm`. Rule paraphrased accurately. -->

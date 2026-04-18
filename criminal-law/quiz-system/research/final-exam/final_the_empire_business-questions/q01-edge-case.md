@@ -1,21 +1,22 @@
-**Q1.** Is Pinnacle Waste Management a valid RICO enterprise under 18 U.S.C. § 1962(c)?
+**Q1.** Is Jack subject to RICO liability on the theory that Empire Waste Management constitutes a racketeering enterprise?
 
-(a) Yes, because a legitimate corporation can constitute a RICO enterprise when its formal business structure is repurposed to facilitate racketeering activity. <!-- correct -->
-(b) Yes, because any business owned by a person who commits two or more racketeering acts automatically becomes an enterprise under the statute.
-(c) No, because a lawfully chartered corporation with legitimate operations cannot serve as an enterprise for racketeering purposes under federal law.
-(d) No, because an association-in-fact enterprise requires a criminal purpose distinct from the corporation's legal charter and legitimate business operations.
-(e) No, because the dispatch center and billing department were used for separate schemes, creating a hub-and-spoke structure without a rim.
+(a) Yes, because a legitimate corporation's routine business framework can constitute an enterprise when repurposed to conduct racketeering activity. <!-- correct -->
+(b) No, because Empire Waste Management is a state-licensed commercial entity and therefore cannot be legally classified as a criminal enterprise.
+(c) No, because the predominant daily purpose of Empire Waste Management was lawful waste disposal rather than the facilitation of criminal acts.
+(d) Yes, because any commercial business owned by a person who commits criminal offenses automatically converts into a RICO racketeering enterprise.
+(e) No, because Jack and Kevin failed to create a distinct organizational hierarchy or separate formal rules governing their illegal drug operations.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because under *Insys Therapeutics*, a legitimate corporation can constitute a RICO enterprise when its formal business structure (here, the dispatch and billing departments) is repurposed to conduct or facilitate racketeering activity. (b) is incorrect because an enterprise requires structural features (shared purpose, relationships, longevity) beyond merely being owned by a criminal. (c) is incorrect because RICO explicitly covers lawful entities corrupted for unlawful ends. (d) is incorrect because an association-in-fact enterprise need not have a purpose completely distinct from the corporation's charter if the structure itself is used for racketeering. (e) is incorrect because the dispatch and billing departments provided the "rim" connecting the operations, satisfying the enterprise structure requirement.
+**Explanation:** A legitimate corporation can serve as a RICO enterprise when its formal structure—here, routes, trucks, and dispatchers—is repurposed to conduct racketeering. Option (b) fails because lawful charters do not shield entities from being deemed enterprises. Option (c) fails because an enterprise need not have a primarily criminal purpose. Option (d) fails because a business owner's separate crimes do not automatically convert the business into an enterprise; the affairs of the business itself must be conducted *through* a pattern of racketeering. Option (e) fails because an association-in-fact enterprise requires only a purpose, relationships, and longevity, and a corporate structure inherently satisfies formal organizational requirements without needing separate "criminal" rules.
 
-**Tags:** chapters: [20], topics: [corporate enterprise, RICO], difficulty: medium, cognitive: application
+**Tags:** chapters: [20], topics: [corporate RICO enterprise, enterprise structure], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 20, Insys Therapeutics Prosecution
+**Grounding:** Chapter 20 (Insys Therapeutics / Corporate Enterprise rule)
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass (The "distinctness" requirement under 18 U.S.C. § 1962(c) is cleanly satisfied per Cedric Kushner, as Carmine the individual is legally distinct from Pinnacle the corporation).
+2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
+Recommended fix: n/a
 -->

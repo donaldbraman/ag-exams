@@ -1,10 +1,10 @@
-**Q4.** The government charges Locke with being a felon in possession of a firearm under 18 U.S.C. § 922(g)(1) based on his prior fraud conviction. Locke testifies that his state probation officer explicitly told him the conviction was merely a misdemeanor. If the jury believes Locke's testimony, what is the legally appropriate outcome under the *Rehaif* standard?
+**Q4.** Assume that, rightly or wrongly, the government successfully establishes the jurisdictional hook that Locke's 9mm crossed state lines. Locke is charged with being a felon in possession under 18 U.S.C. § 922(g)(1). At trial, Locke testifies about the specific statement made by his state probation officer. If the jury believes Locke's testimony, is the *mens rea* element satisfied under the *Rehaif* standard?
 
-(a) Conviction, because ignorance of the law is never an excuse, and his objective status as a felon is a strict liability element under the statute.
-(b) Conviction, because relying on a state probation officer's statement is fundamentally unreasonable when the underlying conviction was for felony financial fraud.
-(c) Acquittal, because the government must prove he knew he belonged to the prohibited class, and his genuine belief negates this necessary status element. <!-- correct -->
-(d) Acquittal, because the Second Amendment categorically prohibits disarming individuals convicted solely of nonviolent financial crimes like statutory fraud.
-(e) Acquittal, because his reliance on the probation officer qualifies as a valid entrapment by estoppel defense, defeating the underlying criminal act.
+(a) The *mens rea* element is satisfied because ignorance of the law is never an excuse, and objective status as a felon is a strict liability element under the statute.
+(b) The *mens rea* element is satisfied because relying on a state probation officer's statement is fundamentally unreasonable when the underlying conviction was for felony financial fraud.
+(c) The *mens rea* element is defeated because the government must prove he knew he belonged to the prohibited class, and his belief negates this necessary status element. <!-- correct -->
+(d) The *mens rea* element is defeated because the Second Amendment categorically prohibits disarming individuals convicted solely of nonviolent financial crimes.
+(e) The *mens rea* element is defeated because his reliance on the probation officer qualifies as a valid entrapment by estoppel defense.
 
 **Answer:** (c)
 
@@ -13,5 +13,3 @@
 **Tags:** chapters: [10, 15], topics: [Rehaif, mens rea, status element, felon in possession], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 10, The Morissette Presumption applied to status elements (Rehaif)
-
-<!-- grounding: GROUNDED — Rehaif status element, Ch 10, Refinement `rehaif-status-element`. Rule paraphrased accurately. -->

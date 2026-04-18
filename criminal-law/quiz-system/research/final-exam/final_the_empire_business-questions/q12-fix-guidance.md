@@ -2,31 +2,113 @@
 
 The QA pipeline flagged this question. Rewrite `q12.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — audit
+## Issue 1 — grounding
 
-**Q12.** Dominic was arrested outside Elias's home. Assume the jurisdiction follows the MPC substantial step test. Is Dominic guilty of attempted murder?
+**Q12.** Assume Kevin is charged under a standard felony murder statute. Is he guilty of felony murder?
 
-(a) Yes, because taking a concealed firing position and tracking the target strongly corroborates his criminal purpose and constitutes a substantial step toward the intended killing. <!-- correct -->
-(b) No, because he had not yet pulled the trigger, meaning he could have still voluntarily abandoned his effort before any actual physical harm was inflicted upon Elias.
-(c) Yes, because the mere purchase of the sniper rifle with the specific premeditated intent to kill Elias is legally sufficient to satisfy the substantial step requirement.
-(d) No, because the sudden FBI intervention made it factually impossible for him to complete the crime, which provides a complete defense under the modern Model Penal Code.
-(e) Yes, because his previous success in killing Victor demonstrates a pattern of violence that satisfies the objective requirements of the attempt actus reus element for the current charge.
+(a) Guilty, because the fatal shooting occurred during the attempted commission of extortion, which qualifies as an inherently dangerous predicate felony. <!-- correct -->
+(b) Not guilty, because the felony murder doctrine only applies when the deceased victim is an innocent bystander rather than the target of the underlying felony.
+(c) Guilty, because any death that occurs while a criminal defendant is armed with a loaded firearm is strictly classified as felony murder under the common law.
+(d) Not guilty, because the defendant had not yet shattered the windows or obtained the money, meaning the predicate felony had not legally commenced.
+(e) Guilty, because the independent felony of illegal firearm possession merges with the homicide to create an automatic felony murder liability enhancement.
 
 **Answer:** (a)
 
-**Explanation:** Under the MPC's substantial step test, taking a concealed firing position and tracking the target through a scope strongly corroborates Dominic's criminal purpose and easily constitutes a substantial step. (b) is incorrect because the MPC does not require the defendant to reach the "last act," and while abandonment is a defense, it must be completely voluntary, not thwarted by police intervention. (c) is incorrect because mere preparation, such as buying a weapon, is typically insufficient even under the MPC's broader standard unless accompanied by acts closer to the crime. (d) is incorrect because the MPC explicitly rejects factual impossibility as a defense to attempt. (e) is incorrect because a defendant's past criminal history is not an actus reus element of the current attempt charge.
+**Explanation:** The felony murder rule applies when a death occurs during the commission or attempted commission of an inherently dangerous felony. Extortion (and the violent attempt to enforce it) qualifies. Option (b) fails because felony murder applies regardless of whether the victim is a bystander or the intended target of the predicate felony. Option (c) fails because felony murder requires an underlying predicate felony, not merely being armed. Option (d) fails because an *attempt* to commit the predicate felony is legally sufficient to trigger the felony murder rule. Option (e) fails because possession of a firearm typically merges into the homicide or is not considered an independent inherently dangerous felony supporting the rule under the merger doctrine.
 
-**Tags:** chapters: [17], topics: [attempt, actus reus, substantial step, MPC], difficulty: easy, cognitive: application
+**Tags:** chapters: [5], topics: [felony murder, attempt as predicate], difficulty: easy, cognitive: application
 
-**Grounding:** MPC 5.01; Substantial step test
+**Grounding:** General Homicide Doctrine (Felony Murder Predicates)
+
+<!-- GROUNDING-FAIL: felony murder is not in any chapter map. The closest taught doctrines are: N/A (meta-map artifact missing). Correct answer must rely on one of those instead. -->
+
+## Issue 2 — audit
+
+**Q12.** Assume Kevin is charged under a standard felony murder statute. Is he guilty of felony murder?
+
+(a) Guilty, because the fatal shooting occurred during the attempted commission of extortion, which qualifies as an inherently dangerous predicate felony. <!-- correct -->
+(b) Not guilty, because the felony murder doctrine only applies when the deceased victim is an innocent bystander rather than the target of the underlying felony.
+(c) Guilty, because any death that occurs while a criminal defendant is armed with a loaded firearm is strictly classified as felony murder under the common law.
+(d) Not guilty, because the defendant had not yet shattered the windows or obtained the money, meaning the predicate felony had not legally commenced.
+(e) Guilty, because the independent felony of illegal firearm possession merges with the homicide to create an automatic felony murder liability enhancement.
+
+**Answer:** (a)
+
+**Explanation:** The felony murder rule applies when a death occurs during the commission or attempted commission of an inherently dangerous felony. Extortion (and the violent attempt to enforce it) qualifies. Option (b) fails because felony murder applies regardless of whether the victim is a bystander or the intended target of the predicate felony. Option (c) fails because felony murder requires an underlying predicate felony, not merely being armed. Option (d) fails because an *attempt* to commit the predicate felony is legally sufficient to trigger the felony murder rule. Option (e) fails because possession of a firearm typically merges into the homicide or is not considered an independent inherently dangerous felony supporting the rule under the merger doctrine.
+
+**Tags:** chapters: [5], topics: [felony murder, attempt as predicate], difficulty: easy, cognitive: application
+
+**Grounding:** General Homicide Doctrine (Felony Murder Predicates)
 
 <!-- audit: MUST FIX
-Check 1: pass (Assuming the facts existed in the stem, the legal conclusion accurately applies the MPC substantial step test).
-Check 2: pass
+Check 1: Cannot evaluate; fact pattern is missing.
+Check 2: Cannot evaluate; fact pattern is missing.
 Check 3: pass
-Check 4: FAILS. The stem is entirely missing the factual scenario. It only states that Dominic was arrested outside Elias's home. The options and explanation reference facts that are nowhere in the stem (e.g., taking a concealed firing position, tracking the target through a scope, buying a sniper rifle, FBI intervention, and previously killing Victor). A student cannot answer this without the facts.
-Check 5: pass
+Check 4: FAIL. The stem is completely missing the fact pattern. It refers to Kevin, extortion, shattered windows, and a fatal shooting, but none of these facts are provided in the prompt.
+Check 5: FAIL. "Standard felony murder statute" is jurisdictionally ambiguous. Extortion is not a traditional BARRK felony. Jurisdictions split on whether non-enumerated felonies qualify as inherently dangerous (and whether to evaluate them in the abstract or as committed).
 Check 6: pass
-Check 7: pass (MPC substantial step is covered in Ch 17).
-Recommended fix: Insert the missing factual scenario into the stem (e.g., "Dominic bought a sniper rifle, went to Elias's home, took a concealed firing position, and was tracking Elias through the scope when the FBI suddenly intervened and arrested him...").
+Check 7: pass
+Check 8: pass
+Recommended fix: Add the missing fact pattern to the stem. Also, stipulate the jurisdiction's felony murder rules (e.g., explicitly stating that extortion is an enumerated predicate or providing the state's test for inherent danger) rather than relying on a vague "standard" statute.
+-->
+
+## Issue 3 — edge-case
+
+**Q12.** Assume Kevin is charged under a standard felony murder statute. Is he guilty of felony murder?
+
+(a) Guilty, because the fatal shooting occurred during the attempted commission of extortion, which qualifies as an inherently dangerous predicate felony. <!-- correct -->
+(b) Not guilty, because the felony murder doctrine only applies when the deceased victim is an innocent bystander rather than the target of the underlying felony.
+(c) Guilty, because any death that occurs while a criminal defendant is armed with a loaded firearm is strictly classified as felony murder under the common law.
+(d) Not guilty, because the defendant had not yet shattered the windows or obtained the money, meaning the predicate felony had not legally commenced.
+(e) Guilty, because the independent felony of illegal firearm possession merges with the homicide to create an automatic felony murder liability enhancement.
+
+**Answer:** (a)
+
+**Explanation:** The felony murder rule applies when a death occurs during the commission or attempted commission of an inherently dangerous felony. Extortion (and the violent attempt to enforce it) qualifies. Option (b) fails because felony murder applies regardless of whether the victim is a bystander or the intended target of the predicate felony. Option (c) fails because felony murder requires an underlying predicate felony, not merely being armed. Option (d) fails because an *attempt* to commit the predicate felony is legally sufficient to trigger the felony murder rule. Option (e) fails because possession of a firearm typically merges into the homicide or is not considered an independent inherently dangerous felony supporting the rule under the merger doctrine.
+
+**Tags:** chapters: [5], topics: [felony murder, attempt as predicate], difficulty: easy, cognitive: application
+
+**Grounding:** General Homicide Doctrine (Felony Murder Predicates)
+
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: In jurisdictions that evaluate second-degree felony murder predicates "in the abstract" rather than "as committed" (a widely taught standard), extortion is NOT an inherently dangerous felony because it encompasses non-violent blackmail. Under that standard, option (a) is legally incorrect. 
+2. Cross-Doctrine Clashes: Self-Defense Justification. Because Matthew unexpectedly attacked Kevin's car with a bat before Kevin had initiated any visible threat or exited the vehicle, Kevin might have a valid self-defense justification. A legally justified homicide acts as a complete bar to felony murder, which option (a) ignores.
+3. Cross-Question Spoilers: By definitively marking Kevin as "Guilty" of felony murder, this question spoils Q10 (by implicitly ruling that his self-defense claim fails) and spoils Q11 (by pre-determining his homicide grading).
+Recommended fix: Reframe the question to test the predicate theory without confirming ultimate guilt, avoiding the Q10/Q11 spoilers. For example: "Assuming Kevin's self-defense claim fails, what is his strongest doctrinal argument against a felony murder charge?" [Answer: That extortion is not an inherently dangerous felony in the abstract].
+-->
+
+## Issue 4 — argpass-opus
+
+**Q12.** Assume Kevin is charged under a standard felony murder statute. Is he guilty of felony murder?
+
+(a) Guilty, because the fatal shooting occurred during the attempted commission of extortion, which qualifies as an inherently dangerous predicate felony. <!-- correct -->
+(b) Not guilty, because the felony murder doctrine only applies when the deceased victim is an innocent bystander rather than the target of the underlying felony.
+(c) Guilty, because any death that occurs while a criminal defendant is armed with a loaded firearm is strictly classified as felony murder under the common law.
+(d) Not guilty, because the defendant had not yet shattered the windows or obtained the money, meaning the predicate felony had not legally commenced.
+(e) Guilty, because the independent felony of illegal firearm possession merges with the homicide to create an automatic felony murder liability enhancement.
+
+**Answer:** (a)
+
+**Explanation:** The felony murder rule applies when a death occurs during the commission or attempted commission of an inherently dangerous felony. Extortion (and the violent attempt to enforce it) qualifies. Option (b) fails because felony murder applies regardless of whether the victim is a bystander or the intended target of the predicate felony. Option (c) fails because felony murder requires an underlying predicate felony, not merely being armed. Option (d) fails because an *attempt* to commit the predicate felony is legally sufficient to trigger the felony murder rule. Option (e) fails because possession of a firearm typically merges into the homicide or is not considered an independent inherently dangerous felony supporting the rule under the merger doctrine.
+
+**Tags:** chapters: [5], topics: [felony murder, attempt as predicate], difficulty: easy, cognitive: application
+
+**Grounding:** General Homicide Doctrine (Felony Murder Predicates)
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student could argue this is the classic application of felony murder. Extortion is broadly categorized as an inherently dangerous felony capable of supporting a felony murder conviction, particularly when committed violently. Even though the extortion was only "attempted," the felony murder doctrine explicitly attaches to deaths caused during an attempt to commit a qualifying predicate felony, meaning the doctrine was validly triggered.
+(b) Argument-for: A student could argue that felony murder is an equitable doctrine designed to protect innocent third parties from the dangerousness of felonious conduct. If the deceased was the specific target of the extortion itself, the student might reason that standard intentional homicide rules—rather than the sweeping strict liability of felony murder—should take precedence. Under this reasoning, targeting the victim removes them from the class of "bystanders" the rule intends to protect.
+(c) Argument-for: A student could assume that the "inherently dangerous" requirement of felony murder is satisfied simply by being armed with a loaded weapon. They might conflate the common-law felony murder rule with strict liability firearm enhancements, reasoning that any death caused by an armed defendant is categorically elevated to murder. Thus, the presence of the loaded weapon itself universally fulfills the felony murder requirement.
+(d) Argument-for: A student might argue that the core *res gestae* of the felony must actually begin for felony murder to attach. Because Kevin had not yet shattered the windows or obtained the money, the student could argue his actions remained in the unpunishable preparatory phase. If the act had not crossed the threshold from preparation to attempt, the predicate felony had not legally commenced, effectively precluding a felony murder charge.
+(e) Argument-for: A student might recall that weapons offenses frequently accompany homicides and reason that illegal firearm possession can serve as the predicate felony. They might mistakenly interpret the "merger doctrine" (which traditionally bars assaultive felonies from serving as predicates) as an additive mechanism that combines the possessory offense and the homicide. Consequently, they would conclude this merger functions to create an automatic strict liability enhancement under the felony murder rule.
+
+Head-to-head: Option (a) correctly grounds liability in the established rule that an *attempted* inherently dangerous felony can serve as a felony murder predicate. Option (b) is explicitly falsifiable because of its absolute claim that the doctrine "only applies" to innocent bystanders, which contradicts hornbook law applying it to intended victims of the underlying felony. Option (c) fails due to the categorically false legal claim that "any death" involving a firearm is "strictly classified" as felony murder without needing a recognized BARRK or inherently dangerous predicate. Option (e) includes a direct contradiction of black-letter law: it claims the merger doctrine creates an "automatic... enhancement," when in reality, if an offense merges, it is explicitly *barred* from serving as a felony murder predicate. Option (d) is the weakest distractor structurally; while it misapplies the law of attempt by concluding the predicate "had not legally commenced," it phrases this as a factual conclusion based on the uncompleted acts (shattering windows/obtaining money) rather than locking it with absolute phrasing, making the legal error slightly more implicit than the standard demands.
+
+Falsifiable claim per distractor:
+- (b): "only applies when the deceased victim is an innocent bystander" — wrong because felony murder applies uniformly regardless of whether the victim is a bystander or the intended target of the predicate felony.
+- (c): "any death that occurs while a criminal defendant is armed with a loaded firearm is strictly classified as felony murder" — wrong because common law felony murder strictly requires an underlying qualifying predicate felony, not mere weapon possession.
+- (d): "meaning the predicate felony had not legally commenced" — wrong because an attempt (a substantial step) legally commences the predicate for felony murder purposes even before completion acts occur, though this distractor lacks an absolute locking word.
+- (e): "merges with the homicide to create an automatic felony murder liability enhancement" — wrong because the merger doctrine explicitly precludes a merged felony from serving as a felony murder predicate, rather than generating an automatic enhancement.
+
+Recommended fix: Update (d) to lock the falsifiable proposition with an absolute word. Change to: "Not guilty, because an extortion predicate categorically does not legally commence until the defendant actually obtains the extorted property."
 -->

@@ -1,10 +1,10 @@
 **Q12.** Assume we are prosecuting Benny regarding the stash house incident. Benny is charged with possession of the Blue-X found in Kev's floor safe. Benny argues he did not live there and the drugs were not on his person. Which is the most likely legal conclusion?
 
-(a) Guilty of constructive possession because Benny was physically present in the stash house when the rival dealer kicked down the door.
-(b) Guilty of constructive possession because Kev providing Benny with the safe's combination gave Benny the intention and ability to exercise independent control over the drugs. <!-- correct -->
-(c) Not guilty of constructive possession because the legal tenant of a premises automatically maintains exclusive possession of all items in locked containers.
-(d) Not guilty of constructive possession because the drugs were placed in the safe by Kev, severing Benny's direct physical nexus to the contraband.
-(e) Not guilty of constructive possession because the state cannot prove Benny had the specific intent to distribute those exact drugs on that specific day.
+(a) Constructive possession is established because Benny was physically present in the stash house when the rival dealer kicked down the door.
+(b) Constructive possession is established because Benny had the combination to the safe in order to exercise independent control over the drugs. <!-- correct -->
+(c) Constructive possession is not established because the legal tenant of a premises automatically maintains exclusive possession of all items in locked containers.
+(d) Constructive possession is not established because the drugs were placed in the safe by Kev, severing Benny's direct physical nexus to the contraband.
+(e) Constructive possession is not established because the state cannot prove Benny had the specific intent to distribute those exact drugs on that specific day.
 
 **Answer:** (b)
 

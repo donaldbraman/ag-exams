@@ -1,10 +1,10 @@
-**Q5.** Under federal law, assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. If Locke establishes he genuinely and reasonably believed the crates contained black-market oxycodone, is his sentencing argument valid?
+**Q5.** Assume that, rightly or wrongly, Locke is convicted of possession with intent to distribute. Because the crates contained 400 grams of pure fentanyl, the government seeks a severe weight-based mandatory minimum sentence. Locke argues the mandatory minimum should not apply because he never opened the sealed crates and reasonably believed they only contained oxycodone. Under federal law, is his sentencing argument valid?
 
-(a) Yes, because the mistake of fact doctrine allows defendants to be sentenced solely for the lesser crime they subjectively intended to commit.
-(b) Yes, because imposing a mandatory minimum based on the hidden presence of fentanyl violates the constitutional presumption against strict liability.
-(c) No, because knowledge of the substance's general nature as a controlled drug is sufficient, and the weight-based minimum applies strictly to the actual substance. <!-- correct -->
-(d) No, because any subjective mistake about the type of drug is legally irrelevant unless the defendant was coerced by an undercover law enforcement agent.
-(e) No, because federal mandatory minimums completely eliminate all mens rea requirements, replacing them with a strict liability standard for all elements.
+(a) The argument is valid because the mistake of fact doctrine allows defendants to be sentenced solely for the lesser crime they subjectively intended to commit.
+(b) The argument is valid because imposing a mandatory minimum based on the hidden presence of fentanyl violates the constitutional presumption against strict liability.
+(c) The argument is invalid because knowledge of the substance's general nature as an illicit drug is sufficient, and the weight-based minimum applies strictly to the actual substance possessed. <!-- correct -->
+(d) The argument is invalid because any subjective mistake about the type of drug is legally irrelevant unless the defendant was coerced by an undercover law enforcement agent.
+(e) The argument is invalid because federal mandatory minimums completely eliminate all initial *mens rea* requirements, replacing the entire statute with strict liability.
 
 **Answer:** (c)
 
@@ -13,15 +13,3 @@
 **Tags:** chapters: [15], topics: [fentanyl asymmetry, mens rea, mandatory minimums], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 15, Mens Rea: Knowledge of Substance Type and Fentanyl Asymmetry
-
-<!-- audit: SHOULD FIX
-<check 1>: pass
-<check 2>: A prepared student could argue for (a) by relying on the MPC § 2.04(2) "lesser crime" mistake of fact doctrine, since the jurisdiction is not specified in the stem.
-<check 3>: pass
-<check 4>: The stem needs to specify federal law to properly support the explanation's logic.
-<check 5>: Jurisdictional clarity fails. The question relies on the federal approach to drug type/quantity, but the stem does not specify the jurisdiction, leaving room for an MPC-based challenge.
-<check 6>: pass
-<check 7>: pass
-<check 8>: pass
-Recommended fix: Add "under federal law" to the stem: "Assume Locke is charged under federal law with possession with intent..."
--->

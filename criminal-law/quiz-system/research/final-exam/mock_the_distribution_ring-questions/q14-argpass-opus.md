@@ -1,10 +1,10 @@
-**Q14.** Assume instead the jurisdiction has adopted the Model Penal Code and explicitly rejected the *Pinkerton* doctrine. Does Artie's status as the conspiracy's ringleader automatically make him liable for Vic's murder?
+**Q14.** Assume that, rightly or wrongly, Damon is convicted of the intentional murder of Vic. Assume further that this jurisdiction has adopted the Model Penal Code and explicitly rejected the *Pinkerton* doctrine. Does Artie's status as the conspiracy's established ringleader legally impute liability to him for the murder?
 
-(a) No, because the MPC requires the prosecution to prove that Artie actually aided, abetted, or encouraged the specific murder with the purpose of promoting that exact offense. <!-- correct -->
-(b) Yes, because even without *Pinkerton*, the MPC allows a jury to infer an accomplice's specific intent to kill solely from their leadership role in an inherently dangerous drug distribution ring.
-(c) No, because the MPC treats all co-conspirators as legally independent actors, meaning a principal can never be held criminally responsible for the violent actions of their subordinates under any theory.
-(d) Yes, because Artie formally rewarded Damon with an additional wire transfer after the fact, which satisfies the MPC's alternative requirement for automatic strict liability in ongoing group crimes.
-(e) No, because the MPC strictly requires the defendant to be physically present at the scene of the target offense in order to impute liability for a co-conspirator's substantive criminal acts.
+(a) Liability is not imputed because the MPC requires the prosecution to prove that Artie actually aided, abetted, or encouraged the substantive murder with the purpose of promoting that exact offense. <!-- correct -->
+(b) Liability is imputed because even without *Pinkerton*, the MPC allows a jury to infer an accomplice's specific intent to kill solely from their leadership role in an inherently dangerous drug distribution ring.
+(c) Liability is not imputed because the MPC treats all co-conspirators as legally independent actors, meaning a principal can never be held criminally responsible for the violent actions of subordinates under any theory.
+(d) Liability is imputed because Artie formally rewarded Damon with a wire transfer after the fact, which satisfies the MPC's alternative requirement for vicarious liability in ongoing group crimes.
+(e) Liability is not imputed because the MPC strictly requires the defendant to be physically present at the scene of the target offense in order to impute liability for a co-conspirator's substantive criminal acts.
 
 **Answer:** (a)
 
@@ -13,21 +13,3 @@
 **Tags:** chapters: [19, 18], topics: [conspiracy, pinkerton-mpc-rejection, accomplice-liability], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 19 - MPC Rejection of Pinkerton
-
-<!-- argument-pass: CLEAN
-(a) Argument-for: Under the MPC, complicity requires the defendant to act with the purpose of promoting or facilitating the commission of the specific offense. Because the jurisdiction has explicitly rejected the *Pinkerton* doctrine, a defendant's membership or leadership role in a conspiracy cannot substitute for this mens rea or actus reus. Therefore, Artie cannot be automatically liable for Vic's murder; the prosecution must prove he specifically aided or encouraged the murder with the requisite purpose to promote it. This perfectly tracks MPC § 2.06.
-(b) Argument-for: A student could argue that while *Pinkerton* strict liability is rejected, the MPC's mens rea requirements for complicity can still be satisfied through circumstantial evidence. In inherently dangerous enterprises like drug distribution, a jury might be allowed to infer the requisite purpose (intent to kill) from a defendant's leadership role directing the dangerous operations. The argument would be that evidentiary inferences of specific intent are distinct from the *Pinkerton* rule of automatic vicarious liability, allowing the leadership role to satisfy the MPC's requirement.
-(c) Argument-for: The rejection of *Pinkerton* strongly emphasizes the legal independence of co-conspirators regarding substantive offenses. A student might argue that by severing the vicarious link of conspiracy, the MPC treats conspirators solely as independent actors for substantive crimes. Consequently, the phrasing "under any theory" could be seen as a rigid but accurate reflection of the jurisdiction's absolute refusal to hold leaders responsible for subordinates' independent deviations.
-(d) Argument-for: A student could argue that rewarding a co-conspirator after the fact constitutes ratification or makes one an accessory after the fact, which under certain group crime theories might retroactively attach liability for the principal offense. If Artie formally rewarded Damon, this demonstrates his approval and integration of the murder into the ongoing criminal enterprise. The argument relies on the idea that this subsequent financial reward bridges the gap left by the rejection of *Pinkerton*, triggering an alternative MPC liability mechanism.
-(e) Argument-for: Historically, traditional criminal law principles drew strict distinctions between principals and accessories based on physical presence at the scene of the crime. A student might mistakenly believe that because the MPC rejects the broad, overarching liability of *Pinkerton* (which imputes liability for foreseeable acts regardless of presence), it intentionally reverts to a strict requirement of physical presence to impute accomplice liability, thereby protecting distant ringleaders like Artie.
-
-Head-to-head: Option (a) accurately reflects the Model Penal Code's rejection of *Pinkerton* and states the correct standard for accomplice liability (purposeful promotion/facilitation). The distractors rely on well-defined legal fallacies with locked-in absolute phrasing. Option (b) incorrectly suggests that specific intent can be inferred *solely* from a leadership role, which the MPC forbids. Option (c) relies on the absolute phrase "never... under any theory," completely ignoring the existence of standard accomplice liability. Option (d) invents a fictitious MPC "automatic strict liability" rule for after-the-fact rewards. Option (e) falsely introduces a "strictly requires... physical present" element to the MPC. The distractors are highly falsifiable and distinct.
-
-Falsifiable claim per distractor:
-- (b): "infer an accomplice's specific intent to kill solely from their leadership role" — wrong because the MPC does not permit specific intent for a substantive crime to be inferred solely from a generalized leadership status in a conspiracy; actual purpose to promote the specific crime is required.
-- (c): "meaning a principal can never be held criminally responsible for the violent actions of their subordinates under any theory" — wrong because a principal absolutely can be held liable under the theory of accomplice liability (MPC § 2.06) if they purposefully aid or encourage the subordinate.
-- (d): "which satisfies the MPC's alternative requirement for automatic strict liability in ongoing group crimes" — wrong because the MPC contains no such alternative strict liability doctrine for after-the-fact rewards.
-- (e): "the MPC strictly requires the defendant to be physically present at the scene" — wrong because MPC § 2.06 (accomplice liability) does not require physical presence to impute liability for a co-conspirator's substantive acts.
-
-Recommended fix: none
--->

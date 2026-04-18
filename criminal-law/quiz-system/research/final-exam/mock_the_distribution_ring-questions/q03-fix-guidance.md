@@ -1,33 +1,15 @@
-# Fix Guidance for q03
+**Q3.** Assume that, rightly or wrongly, a court determines Ben's conduct prior to his mother's intervention constituted a substantial step toward distribution. Under the Model Penal Code, can Ben successfully assert the affirmative defense of abandonment?
 
-The QA pipeline flagged this question. Rewrite `q03.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
-
-## Issue 1 — audit
-
-**Q3.** Assume Ben's actions prior to turning the car around constituted a substantial step. Can Ben successfully assert the defense of abandonment under the Model Penal Code?
-
-(a) Yes, because he completely renounced his criminal purpose by destroying the drugs and his decision was motivated by a family request rather than a risk of apprehension. <!-- correct -->
-(b) Yes, because he voluntarily withdrew from the operation before the transaction occurred, which automatically extinguishes liability even under the traditional common law rule.
-(c) No, because he only flushed the drugs after committing a substantial step, and the MPC dictates that liability irrevocably attaches the moment the attempt threshold is crossed.
-(d) No, because his destruction of the stimulants constitutes spoliation of evidence, which categorically precludes the use of any affirmative defense related to the underlying transaction.
-(e) Yes, because his failure to complete the transaction was caused by circumstances unknown to him—the presence of an undercover officer—which establishes a valid legal impossibility.
+(a) The defense fails because abandonment requires the defendant to affirmatively prevent the crime; having the offense thwarted by a third party's physical intervention does not constitute a valid renunciation. <!-- correct -->
+(b) The defense succeeds because he allowed his mother to destroy the drugs without physical resistance, which legally constitutes an implicit voluntary renunciation.
+(c) The defense fails because once a substantial step has been taken toward the commission of a crime, the Model Penal Code strictly bars the abandonment defense.
+(d) The defense succeeds because the physical destruction of the drugs permanently prevented the underlying target offense from taking place.
+(e) The defense fails because his mother's independent actions make her a co-conspirator, meaning Ben's prior attempt merges with the completed act of evidence tampering.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because the MPC recognizes an affirmative defense of abandonment when the defendant voluntarily and completely renounces their criminal purpose and prevents the crime; Ben stopped due to his mother's text (not fear of police detection) and destroyed the drugs. (b) is wrong because the traditional common law explicitly rejects the abandonment defense once the attempt threshold is crossed. (c) is wrong because the MPC specifically created the abandonment defense to give defendants a behavioral incentive to stop *after* crossing the early substantial step line. (d) is wrong because destroying the drugs prevents the crime from occurring (a requirement for abandonment); spoliation is a separate evidentiary issue, not a doctrinal bar to this defense. (e) is wrong because this describes factual impossibility, not abandonment, and the MPC abolished impossibility defenses.
+**Explanation:** The correct answer is (a). Under the MPC (§ 5.01(4)), abandonment requires that the defendant voluntarily renounce their criminal purpose and take affirmative steps to prevent the commission of the crime. Being stopped or thwarted by an external third party (his mother seizing the drugs) completely defeats the defense, as the defendant did not effectuate the abandonment. (b) is wrong because "allowing" someone to stop you out of surprise or submission does not equal an affirmative, voluntary renunciation. (c) is wrong because the MPC explicitly recognizes abandonment *after* the substantial step threshold. (d) is wrong because preventing the crime is insufficient if not accomplished affirmatively and voluntarily by the defendant. (e) is a nonsensical misapplication of conspiracy and merger doctrines.
 
-**Tags:** chapters: [17], topics: [attempt, abandonment-mpc], difficulty: easy, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, abandonment-mpc], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17, abandonment-mpc
-
-<!-- audit: SHOULD FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: finding: The stem relies on facts from a parent scenario (Ben's mother's text, the undercover officer, destroying the drugs). If this question is ever exported or reviewed as a standalone item, it lacks the necessary facts in the prompt for a student to evaluate the answers without guessing.
-check 5: pass
-check 6: pass
-check 7: pass
-check 8: pass
-Recommended fix: Add a brief factual recap to the stem so the question can be fully self-contained: "Assume Ben was driving to sell drugs to an undercover officer but turned the car around and destroyed the drugs after receiving a text from his mother. Assume his actions prior to turning the car around constituted a substantial step. Can Ben successfully assert the defense of abandonment under the Model Penal Code?"
--->
+**Grounding:** Chapter 17 - Abandonment as Affirmative Defense (MPC)

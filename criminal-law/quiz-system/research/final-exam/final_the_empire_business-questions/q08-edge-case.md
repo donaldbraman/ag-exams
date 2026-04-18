@@ -1,18 +1,18 @@
-**Q8.** Assume Dominic is charged with Victor's murder and claims self-defense. Will this defense succeed?
+**Q8.** Assume that, whether or not a RICO conspiracy exists, Jack and Kevin are charged with standard criminal conspiracy. Are they guilty of conspiracy to commit extortion based on the November 15 conversation?
 
-(a) Yes, because Victor fired the first shot, giving Dominic a reasonable fear of imminent death or serious bodily harm.
-(b) Yes, because Dominic only brandished the weapon initially and did not use deadly force until Victor violently escalated the encounter.
-(c) No, because Dominic was the initial aggressor who threatened deadly force, barring him from claiming self-defense without first withdrawing. <!-- correct -->
-(d) No, because self-defense is categorically never available to a defendant who is engaged in the commission of any criminal offense.
-(e) No, because Dominic had an absolute legal duty to retreat from the restaurant before returning fire against Victor's attack.
+(a) Guilty, because Jack's explicit directive and Kevin's affirmative verbal commitment created a legally sufficient bilateral agreement to commit the crime. <!-- correct -->
+(b) Not guilty, because Jack's statement was a mere solicitation that did not legally mature into an actionable conspiracy without further documentation.
+(c) Guilty, because a corporate supervisor's command to a subordinate employee bypasses the traditional requirement to prove an actual meeting of the minds.
+(d) Not guilty, because the criminal conspiracy could not be fully formed until Kevin actually shattered the glass windows at the targeted restaurant.
+(e) Guilty, because Kevin's independent decision to carry a loaded firearm retroactively established a broader conspiracy to commit a violent homicide.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct because under the initial aggressor bar, a person who initiates a confrontation with deadly force (brandishing an AR-15 during a robbery) forfeits the right to claim self-defense against responsive force unless they effectively withdraw. (a) is incorrect because Victor's responsive shot was a justified use of force against Dominic's initial threat of deadly force. (b) is incorrect because brandishing a firearm to compel a robbery constitutes a threat of deadly force, making Dominic the initial aggressor. (d) is incorrect because some jurisdictions allow a felon to regain the right to self-defense if the victim drastically escalates from non-deadly to deadly force, though that did not happen here. (e) is incorrect because the initial aggressor doctrine bars the defense entirely, regardless of retreat rules.
+**Explanation:** A conspiracy is formed when two or more people agree to commit a criminal offense. Jack directed the extortion and Kevin explicitly agreed ("I'll take care of it tonight"), forming a bilateral agreement. Option (b) fails because Kevin's acceptance upgraded the interaction from a mere solicitation to a completed conspiracy. Option (c) fails because employment hierarchies do not bypass the requirement of a subjective agreement in criminal law. Option (d) fails because the crime of conspiracy is complete upon the agreement (and an overt act, such as driving to the location, which Kevin fulfilled). Option (e) fails because Kevin's independent escalation to homicide was not part of the scope of the original agreed-upon conspiracy to commit extortion.
 
-**Tags:** chapters: [22], topics: [self-defense, initial aggressor], difficulty: foundational, cognitive: application
+**Tags:** chapters: [7], topics: [conspiracy, agreement], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 22, initial aggressor bar
+**Grounding:** General Conspiracy Doctrine (Bilateral Agreement)
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

@@ -1,17 +1,17 @@
-**Q7.** Which of the following accurately describes the application of federal mandatory minimums to Dominic's possession of the 2 kilograms of fentanyl?
+**Q7.** Are Jack and Kevin guilty of RICO conspiracy under 18 U.S.C. § 1962(d) for their initial business arrangement?
 
-(a) The mandatory minimum is triggered by the drug weight alone, without requiring separate proof of his intent to distribute the drugs. <!-- correct -->
-(b) The mandatory minimum applies only if the prosecution can prove that Dominic actually intended to distribute the specific two kilograms.
-(c) The mandatory minimum cannot be applied unless the government proves Dominic knew the specific substance was fentanyl rather than heroin.
-(d) The quantity of drugs creates a permissive inference of distribution, but the jury retains discretion to ignore the mandatory minimum.
-(e) The mandatory minimum enhancement is unconstitutional because it punishes defendants based on quantities without requiring any proof of culpable mental state.
+(a) Guilty, because their explicit verbal agreement to utilize the corporate collection routes for extortion and drug delivery satisfies the agreement element. <!-- correct -->
+(b) Not guilty, because a valid racketeering conspiracy requires the prosecution to prove that both co-conspirators personally committed two predicate acts.
+(c) Guilty, because merely being employed by the same commercial corporate entity automatically establishes a broader conspiracy to commit racketeering.
+(d) Not guilty, because the enterprise must be an inherently criminal organization from its inception to support a federal racketeering conspiracy charge.
+(e) Guilty, because Jack's status as the sole corporate owner makes him strictly liable for Kevin's independent agreement with the rival syndicate member.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because under 21 U.S.C. § 841(b), federal mandatory minimum sentences are triggered by drug weight alone, independent of the prosecution's proof regarding intent to distribute. (b) is incorrect because the weight enhancement is structurally distinct from the intent-to-distribute element. (c) is incorrect because the mandatory minimum floor depends purely on the objective grams of the actual substance possessed, not the defendant's knowledge of the specific substance type. (d) is incorrect because mandatory minimums strip sentencing discretion from judges and juries once the threshold facts are found. (e) is incorrect because mandatory minimums based on quantity have been consistently upheld as constitutional exercises of legislative power.
+**Explanation:** Under Salinas, a RICO conspiracy requires only that the defendants agreed to further an endeavor that, if completed, would satisfy all elements of a substantive RICO offense. Jack's directive and Kevin's agreement to conduct the waste company's affairs through extortion and drug trafficking meet this standard. Option (b) fails because Salinas explicitly held that conspirators do not need to personally commit two predicate acts. Option (c) fails because mere employment without an agreement to conduct racketeering is insufficient for conspiracy. Option (d) fails because a legitimate, previously lawful corporation can serve as the enterprise. Option (e) fails because conspiracy is grounded in the actual agreement between Jack and Kevin, not strict liability for Jack based on ownership.
 
-**Tags:** chapters: [15], topics: [mandatory minimums, drug weight], difficulty: foundational, cognitive: application
+**Tags:** chapters: [20], topics: [RICO conspiracy, Salinas rule], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15, 21 U.S.C. § 841(b)
+**Grounding:** Chapter 20 (Salinas v. United States)
 
-<!-- grounding: GROUNDED-WITH-CAVEAT — mandatory minimums, Ch 15, Refinement `qty-mandatory-minimums`. Caveat: Answer (a) and its explanation slightly overstate the rule by asserting the minimum is triggered "without requiring separate proof of his intent to distribute the drugs." While § 841(b) penalties do not require mens rea as to the specific *weight* or *type* of substance (`mens-rea-fentanyl-asymmetry`), the underlying § 841(a) offense still requires the prosecution to prove the defendant had the intent to distribute to trigger the mandatory minimum in the first place (simple possession does not trigger these specific minimums). -->
+<!-- grounding: GROUNDED — Salinas rule, Ch 20, Refinement `rico-conspiracy-salinas`. Rule paraphrased accurately. -->

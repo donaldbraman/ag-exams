@@ -1,26 +1,29 @@
-**Q6.** Assume Dominic is charged with possession of fentanyl. Can he successfully defend on the ground that he genuinely believed the substance was heroin?
+## The Question
 
-(a) Yes, because the government must prove he had specific knowledge of the precise chemical identity of the substance he possessed.
-(b) Yes, because a mistake of fact defense is available whenever a defendant holds an honest but mistaken belief about a circumstance.
-(c) No, because federal drug possession offenses are strict liability crimes that require no proof of mens rea regarding the substance.
-(d) No, because the government need only prove he knew the substance was a controlled substance, not its precise chemical identity. <!-- correct -->
-(e) No, because his belief that the substance was heroin demonstrates he acted with criminal negligence regarding the true nature of the drugs.
+**Q6.** Can Kevin successfully defend against the felon-in-possession charge based on his attorney's 2018 email?
 
-**Answer:** (d)
+(a) Guilty, because a defendant's ignorance of the law is never a valid defense to a federal firearms charge under traditional strict liability doctrines.
+(b) Not guilty, because his genuine belief that he only had a misdemeanor conviction directly negates the required knowledge of his prohibited status. <!-- correct -->
+(c) Guilty, because the defense attorney's private email does not legally qualify as an official statement of the law to support a reliance defense.
+(d) Not guilty, because relying on the advice of private legal counsel automatically immunizes a criminal defendant from all federal felony liability.
+(e) Guilty, because the actual statutory penalty for his prior state offense strictly establishes his prohibited status regardless of his personal beliefs.
 
-**Explanation:** (d) is correct because under *McFadden*, the government only needs to prove the defendant knew the substance had the general nature of a controlled substance, not its precise chemical identity. Dominic knew he possessed heroin (a controlled substance), satisfying the mens rea for whatever substance it actually was. (a) is incorrect because federal law expressly rejects requiring specific chemical knowledge. (b) is incorrect because mistake of fact only applies if it negates the required mental state, and knowing it was heroin satisfies the mental state for possessing a controlled substance. (c) is incorrect because federal drug possession is not a strict liability offense; it requires knowledge of the substance's general nature. (e) is incorrect because the standard is actual knowledge of its general nature, not negligence.
+**Answer:** (b)
 
-**Tags:** chapters: [15, 10], topics: [drug possession, mens rea, fentanyl], difficulty: advanced, cognitive: application
+**Explanation:** Under Rehaif v. United States, the government must prove the defendant knew he belonged to the relevant prohibited category (i.e., that he had a qualifying felony conviction). Kevin's genuine belief that his conviction was a misdemeanor negates this required mens rea. Option (a) fails because Rehaif explicitly displaced the traditional strict liability approach for the status element in this statute. Option (c) fails because Kevin does not need the affirmative "official statement" reliance defense; his mistake directly negates the statutory mens rea element. Option (d) fails because advice of counsel is not a blanket immunity doctrine. Option (e) fails because establishing the objective fact of the penalty is insufficient without proving the defendant's subjective knowledge of it.
 
-**Grounding:** Chapter 15, McFadden v. United States
+**Tags:** chapters: [10, 15], topics: [Rehaif knowledge requirement, mistake of law, status element], difficulty: medium, cognitive: application
 
-<!-- audit: SHOULD FIX
-<check 1>: pass
-<check 2>: pass
-<check 3>: pass
-<check 4>: pass
-<check 5>: Jurisdictional ambiguity. The stem does not specify that the charge is under federal law, yet the intended answer and explanation rely exclusively on the federal rule established in *McFadden*. Under the MPC (§ 2.04(2)), a student could argue that a mistake of fact *can* serve as a partial defense to reduce the grade of an offense if the believed circumstance (heroin) carries a lower penalty than the actual circumstance (fentanyl). Specifying "federal law" in the stem forecloses this argument and perfectly aligns the question with Option (c) and the explanation.
-<check 6>: pass
-<check 7>: pass
-Recommended fix: Change the first sentence to: "Assume Dominic is charged under federal law with possession of fentanyl."
+**Grounding:** Chapter 10 (Rehaif v. United States)
+
+<!-- audit: MUST FIX
+check 1: pass (accurately applies Rehaif v. United States regarding knowledge of status)
+check 2: pass (distractors are well-designed conceptually, assuming facts exist)
+check 3: pass (explanation accurately states the Rehaif rule)
+check 4: fail (The entire fact pattern/stem is missing from the provided text. The question references "Kevin," "his attorney's 2018 email," and a "prior state offense," but no facts are provided to establish these elements.)
+check 5: pass (federal statute, clear jurisdiction)
+check 6: pass
+check 7: pass
+check 8: pass (options are well-balanced and symmetrical in length)
+Recommended fix: Prepend the missing fact pattern to the question stub so students have the necessary context regarding Kevin, his conviction, and the attorney's email.
 -->

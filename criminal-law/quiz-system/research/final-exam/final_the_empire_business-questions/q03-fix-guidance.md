@@ -4,127 +4,104 @@ The QA pipeline flagged this question. Rewrite `q03.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q3.** The U.S. Attorney wants to know if Marcus is liable as an accomplice for the underlying drug distribution. Is Marcus guilty of accomplice liability?
+**Q3.** Did Laura constructively possess the two kilograms of cocaine stored in the locked duffel bag in the breakroom?
 
-(a) Guilty of accomplice liability, because Marcus knew his routing would facilitate the distribution of narcotics and performed an act that materially aided the principal's crime.
-(b) Not guilty of accomplice liability, because Marcus lacked the conscious object or purpose to see the underlying drug trafficking offense successfully completed by the principals. <!-- correct -->
-(c) Guilty of accomplice liability, because receiving his regular salary constitutes a financial stake that elevates his knowledge to a true purposeful intent under the law.
-(d) Not guilty of accomplice liability, because routing trucks around weigh stations is part of his normal job and therefore cannot constitute a culpable actus reus.
-(e) Guilty of accomplice liability, because the model penal code only requires a showing of extreme recklessness when the underlying crime involves highly dangerous controlled substances.
+(a) Possessed, because she had actual knowledge that the locked duffel bag contained cocaine and it was located in a shared employee breakroom.
+(b) Not possessed, because her explicit demand to remove the bag demonstrates she lacked the necessary intent to exercise dominion and control over it. <!-- correct -->
+(c) Possessed, because her failure to immediately report the contraband to law enforcement legally constituted an implicit adoption of Kevin's possession.
+(d) Not possessed, because a civilian employee cannot constructively possess illegal contraband when it is located inside a commercial workplace setting.
+(e) Possessed, because she engaged in an incriminating dialogue with a co-worker regarding the exact location and contents of the illicit materials.
 
 **Answer:** (b)
 
-**Explanation:** Under the traditional rule for accomplice liability, a defendant must have the specific purpose (conscious object) to promote or facilitate the underlying offense. Because Marcus explicitly stated he only wanted his regular salary and had no stake in the drug money, he possessed mere knowledge, not the required purpose. (a) is incorrect because mere knowledge that one's actions will aid a crime is insufficient for accomplice liability in most jurisdictions. (c) is incorrect because receiving a standard, pre-existing salary for normal duties does not constitute a specialized financial stake in the success of the illicit venture. (d) is incorrect because routing trucks is an affirmative act, not an omission. (e) is incorrect because the MPC strictly requires the purpose to promote or facilitate the offense, not recklessness, for accomplice liability.
+**Explanation:** Constructive possession requires proof that the defendant both knew of the contraband's presence and had the power and intent to exercise dominion and control over it. Laura's demand that Kevin remove the bag shows she had no intent to control it, and her lack of the combination shows a lack of power. Option (a) fails because awareness of contraband in a shared space is insufficient without dominion and control. Option (c) fails because failure to report does not equate to exercising control. Option (d) fails because constructive possession applies perfectly well in commercial settings if the elements are met. Option (e) fails because while her statement proves awareness, it directly negates intent to control, rendering the statement insufficient to establish possession.
 
-**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [constructive possession, awareness vs dominion], difficulty: medium, cognitive: application
 
-**Grounding:** Accomplice mens rea; Purpose requirement
+**Grounding:** Chapter 15 (State of Louisiana v. Gerald Manchip White)
 
 <!-- audit: MUST FIX
-1: pass
-2: pass
-3: pass
-4: FAILS - The entire fact pattern is missing from the question. The stem begins with the call of the question about "Marcus" without providing any facts about who Marcus is, what he did, or his mental state.
-5: pass
-6: pass
-7: pass
-Recommended fix: Add the missing fact pattern to the stem, detailing Marcus's actions (routing trucks) and his statements regarding his regular salary and knowledge of the drug distribution.
+Check 1: pass (The legal rule for constructive possession in the explanation is accurate).
+Check 2: pass (Assuming the facts align with the explanation, the distractors rely on legally incorrect doctrines).
+Check 3: pass (The explanation correctly applies the dominion and control standard).
+Check 4: MUST FIX. The question stem is entirely missing the fact pattern. It references "Laura," "Kevin," a "locked duffel bag," "the breakroom," and an "explicit demand," but absolutely none of these facts are provided in the prompt. Students have nothing to read to answer the question.
+Check 5: pass (Constructive possession is standard doctrine; no specific jurisdictional split needs resolving here).
+Check 6: pass (No excluded-topic bleed).
+Check 7: pass (Constructive possession is standard Chapter 15 material).
+Check 8: pass (Options are symmetrical in length and structure).
+Recommended fix: Add the missing factual scenario detailing Laura and Kevin's interaction in the breakroom, Laura's lack of the bag's combination, and her explicit demand that he remove it, immediately before the question stub.
 -->
 
-## Issue 2 — edge-case
+## Issue 2 — argpass-sonnet
 
-**Q3.** The U.S. Attorney wants to know if Marcus is liable as an accomplice for the underlying drug distribution. Is Marcus guilty of accomplice liability?
+**Q3.** Did Laura constructively possess the two kilograms of cocaine stored in the locked duffel bag in the breakroom?
 
-(a) Guilty of accomplice liability, because Marcus knew his routing would facilitate the distribution of narcotics and performed an act that materially aided the principal's crime.
-(b) Not guilty of accomplice liability, because Marcus lacked the conscious object or purpose to see the underlying drug trafficking offense successfully completed by the principals. <!-- correct -->
-(c) Guilty of accomplice liability, because receiving his regular salary constitutes a financial stake that elevates his knowledge to a true purposeful intent under the law.
-(d) Not guilty of accomplice liability, because routing trucks around weigh stations is part of his normal job and therefore cannot constitute a culpable actus reus.
-(e) Guilty of accomplice liability, because the model penal code only requires a showing of extreme recklessness when the underlying crime involves highly dangerous controlled substances.
+(a) Possessed, because she had actual knowledge that the locked duffel bag contained cocaine and it was located in a shared employee breakroom.
+(b) Not possessed, because her explicit demand to remove the bag demonstrates she lacked the necessary intent to exercise dominion and control over it. <!-- correct -->
+(c) Possessed, because her failure to immediately report the contraband to law enforcement legally constituted an implicit adoption of Kevin's possession.
+(d) Not possessed, because a civilian employee cannot constructively possess illegal contraband when it is located inside a commercial workplace setting.
+(e) Possessed, because she engaged in an incriminating dialogue with a co-worker regarding the exact location and contents of the illicit materials.
 
 **Answer:** (b)
 
-**Explanation:** Under the traditional rule for accomplice liability, a defendant must have the specific purpose (conscious object) to promote or facilitate the underlying offense. Because Marcus explicitly stated he only wanted his regular salary and had no stake in the drug money, he possessed mere knowledge, not the required purpose. (a) is incorrect because mere knowledge that one's actions will aid a crime is insufficient for accomplice liability in most jurisdictions. (c) is incorrect because receiving a standard, pre-existing salary for normal duties does not constitute a specialized financial stake in the success of the illicit venture. (d) is incorrect because routing trucks is an affirmative act, not an omission. (e) is incorrect because the MPC strictly requires the purpose to promote or facilitate the offense, not recklessness, for accomplice liability.
+**Explanation:** Constructive possession requires proof that the defendant both knew of the contraband's presence and had the power and intent to exercise dominion and control over it. Laura's demand that Kevin remove the bag shows she had no intent to control it, and her lack of the combination shows a lack of power. Option (a) fails because awareness of contraband in a shared space is insufficient without dominion and control. Option (c) fails because failure to report does not equate to exercising control. Option (d) fails because constructive possession applies perfectly well in commercial settings if the elements are met. Option (e) fails because while her statement proves awareness, it directly negates intent to control, rendering the statement insufficient to establish possession.
 
-**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [constructive possession, awareness vs dominion], difficulty: medium, cognitive: application
 
-**Grounding:** Accomplice mens rea; Purpose requirement
-
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The fact that Marcus routed the trucks *around state weigh stations* triggers the "tailoring of services" exception for inferring purpose (often taught via *People v. Lauria*). While Marcus lacks a direct financial stake, his affirmative act of altering his service specifically to conceal the criminal activity allows a jury to infer purpose. Furthermore, under federal law (which the "U.S. Attorney" prompt implies), *Rosemond v. United States* holds that active participation with advance knowledge of the crime establishes the requisite intent. This makes (a) a highly defensible—if not the correct—answer in this context.
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: Q3 structurally spoils Q4. If students learn in Q3 that Marcus is categorically "Not guilty" because a regular salary precludes the mens rea of purpose, he remains completely innocent for the subsequent four months of routing. This renders the duress defense tested in Q4 legally moot, as an affirmative defense is unnecessary if the defendant never met the prima facie mens rea elements of the crime.
-Recommended fix: To resolve the booby trap, amend the question stem to clarify the jurisdiction (e.g., "Applying the strict Model Penal Code standard..."). To fix the Q4 spoiler, ensure Q4's future stem begins with: "Assume for the purposes of this question that Marcus's actions satisfy the prima facie elements of accomplice liability..."
--->
-
-## Issue 3 — argpass-sonnet
-
-**Q3.** The U.S. Attorney wants to know if Marcus is liable as an accomplice for the underlying drug distribution. Is Marcus guilty of accomplice liability?
-
-(a) Guilty of accomplice liability, because Marcus knew his routing would facilitate the distribution of narcotics and performed an act that materially aided the principal's crime.
-(b) Not guilty of accomplice liability, because Marcus lacked the conscious object or purpose to see the underlying drug trafficking offense successfully completed by the principals. <!-- correct -->
-(c) Guilty of accomplice liability, because receiving his regular salary constitutes a financial stake that elevates his knowledge to a true purposeful intent under the law.
-(d) Not guilty of accomplice liability, because routing trucks around weigh stations is part of his normal job and therefore cannot constitute a culpable actus reus.
-(e) Guilty of accomplice liability, because the model penal code only requires a showing of extreme recklessness when the underlying crime involves highly dangerous controlled substances.
-
-**Answer:** (b)
-
-**Explanation:** Under the traditional rule for accomplice liability, a defendant must have the specific purpose (conscious object) to promote or facilitate the underlying offense. Because Marcus explicitly stated he only wanted his regular salary and had no stake in the drug money, he possessed mere knowledge, not the required purpose. (a) is incorrect because mere knowledge that one's actions will aid a crime is insufficient for accomplice liability in most jurisdictions. (c) is incorrect because receiving a standard, pre-existing salary for normal duties does not constitute a specialized financial stake in the success of the illicit venture. (d) is incorrect because routing trucks is an affirmative act, not an omission. (e) is incorrect because the MPC strictly requires the purpose to promote or facilitate the offense, not recklessness, for accomplice liability.
-
-**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge], difficulty: medium, cognitive: application
-
-**Grounding:** Accomplice mens rea; Purpose requirement
+**Grounding:** Chapter 15 (State of Louisiana v. Gerald Manchip White)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that under certain common law precedents (e.g., the serious-felony exception in *People v. Lauria* or the standard applied in *Backun*), mere knowledge that one's actions will materially assist a serious offense like drug distribution is legally sufficient to establish the mens rea for accomplice liability. Since the question does not specify a jurisdiction or limit the analysis to the majority purpose standard, the facts legally support a guilty verdict under the minority rule.
-(b) Argument-for: A student could argue that under both the Model Penal Code and the traditional majority common-law rule, an accomplice must act with the conscious object or specific purpose to promote or facilitate the crime. Because Marcus only wanted his regular salary and had no stake in the venture, his mere knowledge does not rise to the required purpose, rendering him not guilty.
-(c) Argument-for: A student might recall that under *Lauria*, a financial stake in an illicit venture can elevate mere knowledge to purpose. They could argue that because Marcus is receiving a salary for work that he knows involves routing around weigh stations to shield drugs, his continued employment effectively constitutes a "financial stake" that satisfies the elevated mens rea standard.
-(d) Argument-for: A student could argue that the actus reus of a crime generally must involve inherently wrongful conduct. Because routing trucks is Marcus's standard, legitimate job duty, performing his everyday employment obligations cannot be classified as a culpable affirmative act for the purposes of criminal complicity. 
-(e) Argument-for: A student could argue that while the Model Penal Code typically requires purpose, there is a sliding scale for mens rea when extreme public dangers are involved. They might falsely recall an MPC carve-out where highly dangerous crimes (like distributing large quantities of controlled substances) lower the complicity threshold to extreme recklessness.
+(a) Argument-for: A student could argue that actual knowledge combined with proximity in a jointly occupied space gives rise to a presumption of constructive possession. Under some interpretations, knowing contraband is in a shared area and failing to remove oneself establishes sufficient nexus to the illicit goods. Therefore, Laura's awareness and the bag's location in a space she had access to could be seen as satisfying the elements of possession.
+(b) Argument-for: Constructive possession requires both the power and the intent to exercise dominion and control over the contraband. The facts indicate Laura explicitly demanded that Kevin remove the bag, demonstrating her rejection of the item rather than an intent to control it. Mere knowledge of its presence without the requisite intent or capability (since it was locked and she lacked the combination) means she cannot be held to have constructively possessed it, making this clearly correct.
+(c) Argument-for: A student could contend that in certain legal contexts, failing to report known contraband constitutes an act of harboring or adopting possession. By knowing of the cocaine and choosing not to notify law enforcement, Laura arguably acquiesced to its presence on the premises. This "implicit adoption" could be misconstrued as exercising a form of dominion, fulfilling the requirements for constructive possession.
+(d) Argument-for: A student could argue that constructive possession doctrine is traditionally applied to residential settings, vehicles, or personal items, rather than commercial workplaces where employees lack general dominion over the premises. Because an ordinary civilian employee does not have authority over a shared commercial breakroom in the same way a homeowner does over a living room, they might mistakenly believe an employee categorically cannot form constructive possession over items left there.
+(e) Argument-for: Engaging in an "incriminating dialogue" about the location and contents of the bag demonstrates a high degree of specific knowledge. A student might argue that such detailed knowledge proves Laura was involved in the possession enterprise with Kevin. In drug cases, detailed discussions about the contraband are often used as circumstantial evidence of dominion and control, making this option a plausible trap.
 
-Head-to-head:
-Option (b) correctly applies the majority common law and MPC standard that accomplice liability requires the specific purpose to promote or facilitate the offense. Option (c) relies on a falsifiable claim about what legally constitutes a financial stake under *Lauria*. Option (d) contains a falsifiable claim about actus reus, wrongly asserting that everyday job duties cannot constitute an actus reus. Option (e) is readily falsifiable because the MPC does not contain an "extreme recklessness" exception for controlled substances in its complicity statute. Option (a), however, relies entirely on the minority/alternative standard (where knowledge + material aid suffices for serious felonies). Because the prompt does not specify the jurisdiction and the option does not contain absolute language (e.g., "in every jurisdiction"), (a) technically contains a legally true statement under minority common law, lacking a clear falsifiable error. 
+Head-to-head: Option (b) is the clear winner because it correctly applies the rule of constructive possession, explicitly noting that her demand to remove the bag negates the intent to exercise dominion and control. Options (c) and (d) are strong distractors because they contain explicitly false legal claims ("legally constituted an implicit adoption" and "cannot constructively possess"). However, Options (a) and (e) are weaker distractors under the close-call standard because they lack absolute phrasing. They simply state "Possessed, because [Fact]," relying on the *implicit omission* of the dominion/control requirement rather than an explicitly false, falsifiable legal rule.
 
 Falsifiable claim per distractor:
-- (a): None. Option (a) asserts liability based on knowledge and material aid. This is a valid minority rule (e.g., for serious felonies) and the option lacks absolute modifiers (like "categorically" or "always") to render it explicitly false across the board.
-- (c): "...receiving his regular salary constitutes a financial stake that elevates his knowledge to a true purposeful intent under the law." — wrong because receiving a standard, pre-existing salary for ordinary duties does not legally constitute the kind of specialized financial stake (like a premium or percentage of illicit profits) required to elevate knowledge to purpose.
-- (d): "...and therefore cannot constitute a culpable actus reus." — wrong because otherwise lawful, everyday job duties absolutely can constitute an actus reus for complicity if performed with the requisite mens rea.
-- (e): "...because the model penal code only requires a showing of extreme recklessness when the underlying crime involves highly dangerous controlled substances." — wrong because the MPC complicity provisions strictly require the purpose of promoting or facilitating the offense and do not lower the standard to recklessness specifically for dangerous controlled substances.
+- (a): "Possessed, because she had actual knowledge..." — wrong because knowledge without intent/power to control is insufficient. However, this FAILS the close-call standard because it lacks an absolute word (like "solely") to make the legal claim explicitly false rather than just incomplete.
+- (c): "legally constituted an implicit adoption" — wrong because there is no legal doctrine where failure to report automatically constitutes an adoption of possession.
+- (d): "cannot constructively possess... inside a commercial workplace setting" — wrong because constructive possession can occur in commercial settings.
+- (e): "Possessed, because she engaged in an incriminating dialogue..." — wrong because dialogue alone doesn't establish dominion. Like (a), this FAILS the close-call standard as it lacks an absolute word, relying on implied sufficiency.
 
-Recommended fix: Edit (a) to include a categorically false legal claim. For example: "(a) Guilty of accomplice liability, because under the traditional common-law rule, mere knowledge that an act will facilitate a crime is categorically sufficient for accomplice liability in every jurisdiction." Alternatively, add "Under the majority rule..." to the question stem.
+Recommended fix: Add absolute words to (a) and (e) to lock their false legal claims.
+Change (a) to: "Possessed, solely because she had actual knowledge that the locked duffel bag contained cocaine and it was located in a shared employee breakroom."
+Change (e) to: "Possessed, because engaging in an incriminating dialogue with a co-worker regarding illicit materials automatically establishes dominion and control."
 -->
 
-## Issue 4 — argpass-opus
+## Issue 3 — argpass-opus
 
-**Q3.** The U.S. Attorney wants to know if Marcus is liable as an accomplice for the underlying drug distribution. Is Marcus guilty of accomplice liability?
+**Q3.** Did Laura constructively possess the two kilograms of cocaine stored in the locked duffel bag in the breakroom?
 
-(a) Guilty of accomplice liability, because Marcus knew his routing would facilitate the distribution of narcotics and performed an act that materially aided the principal's crime.
-(b) Not guilty of accomplice liability, because Marcus lacked the conscious object or purpose to see the underlying drug trafficking offense successfully completed by the principals. <!-- correct -->
-(c) Guilty of accomplice liability, because receiving his regular salary constitutes a financial stake that elevates his knowledge to a true purposeful intent under the law.
-(d) Not guilty of accomplice liability, because routing trucks around weigh stations is part of his normal job and therefore cannot constitute a culpable actus reus.
-(e) Guilty of accomplice liability, because the model penal code only requires a showing of extreme recklessness when the underlying crime involves highly dangerous controlled substances.
+(a) Possessed, because she had actual knowledge that the locked duffel bag contained cocaine and it was located in a shared employee breakroom.
+(b) Not possessed, because her explicit demand to remove the bag demonstrates she lacked the necessary intent to exercise dominion and control over it. <!-- correct -->
+(c) Possessed, because her failure to immediately report the contraband to law enforcement legally constituted an implicit adoption of Kevin's possession.
+(d) Not possessed, because a civilian employee cannot constructively possess illegal contraband when it is located inside a commercial workplace setting.
+(e) Possessed, because she engaged in an incriminating dialogue with a co-worker regarding the exact location and contents of the illicit materials.
 
 **Answer:** (b)
 
-**Explanation:** Under the traditional rule for accomplice liability, a defendant must have the specific purpose (conscious object) to promote or facilitate the underlying offense. Because Marcus explicitly stated he only wanted his regular salary and had no stake in the drug money, he possessed mere knowledge, not the required purpose. (a) is incorrect because mere knowledge that one's actions will aid a crime is insufficient for accomplice liability in most jurisdictions. (c) is incorrect because receiving a standard, pre-existing salary for normal duties does not constitute a specialized financial stake in the success of the illicit venture. (d) is incorrect because routing trucks is an affirmative act, not an omission. (e) is incorrect because the MPC strictly requires the purpose to promote or facilitate the offense, not recklessness, for accomplice liability.
+**Explanation:** Constructive possession requires proof that the defendant both knew of the contraband's presence and had the power and intent to exercise dominion and control over it. Laura's demand that Kevin remove the bag shows she had no intent to control it, and her lack of the combination shows a lack of power. Option (a) fails because awareness of contraband in a shared space is insufficient without dominion and control. Option (c) fails because failure to report does not equate to exercising control. Option (d) fails because constructive possession applies perfectly well in commercial settings if the elements are met. Option (e) fails because while her statement proves awareness, it directly negates intent to control, rendering the statement insufficient to establish possession.
 
-**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [constructive possession, awareness vs dominion], difficulty: medium, cognitive: application
 
-**Grounding:** Accomplice mens rea; Purpose requirement
+**Grounding:** Chapter 15 (State of Louisiana v. Gerald Manchip White)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that Marcus is guilty under the knowledge standard used in a minority of jurisdictions. Some courts have held that providing material assistance with knowledge of the criminal nature of the enterprise is sufficient for accomplice liability, particularly for serious crimes. The option accurately states the factual premise—Marcus had knowledge and materially aided the crime—which would arguably satisfy the elements of accomplice liability in those specific jurisdictions.
-(b) Argument-for: This option perfectly captures the traditional specific intent standard for accomplice liability, as established in cases like *United States v. Peoni* and adopted by the Model Penal Code. To be an accomplice, the defendant must act with the "conscious object" or purpose to promote or facilitate the underlying offense. Because Marcus merely wanted his regular salary and lacked the conscious object to see the drug trafficking succeed, he lacked the requisite purpose, making this the correct legal conclusion.
-(c) Argument-for: A student might select this option by attempting to apply the *People v. Lauria* standard, which allows an inference of purposeful intent from mere knowledge if the defendant has a "stake in the venture." The student could argue that because Marcus receives his livelihood from an operation engaged in illicit activities, his continued salary operates as a financial stake that legally elevates his knowledge to purposeful intent.
-(d) Argument-for: A student could defend this option by arguing that the actus reus for accomplice liability requires conduct outside one's ordinary, innocent employment duties. Because routing trucks is his standard job description, a student might assert that performing a routine employment obligation is legally insufficient to constitute a culpable affirmative act.
-(e) Argument-for: A student might argue this by conflating the *Lauria* dictum—that intent might be inferred from knowledge for inherently dangerous felonies—with the Model Penal Code's specific mens rea standards. The student could incorrectly recall that the MPC expressly lowers the mens rea requirement to extreme recklessness when the underlying offense involves highly dangerous controlled substances.
+(a) Argument-for: A student could argue that actual knowledge combined with the contraband being in a shared employee space (over which she has some level of workplace access) establishes constructive possession. In some jurisdictions, proximity and knowledge in a jointly accessible area might allow an inference of control. Therefore, option (a) correctly identifies her knowledge and the shared nature of the room as establishing the necessary elements of constructive possession.
+(b) Argument-for: Constructive possession requires not just knowledge, but the power and intent to exercise dominion and control over the contraband. The facts state Laura explicitly demanded Kevin remove the bag, which directly negates any intent to control the cocaine. Because she overtly rejected the contraband and lacked the ability to access it (locked bag), she did not have constructive possession, making this the correct application of the rule.
+(c) Argument-for: A student might argue that under the doctrine of omission or accomplice liability, failing to report known felonies or contraband in one's own domain can constitute legal adoption of the crime. Since she knew of the massive quantity of cocaine in her workplace and did nothing to alert authorities, her silence operated as tacit consent and an implicit adoption of Kevin's possession, establishing her own constructive possession.
+(d) Argument-for: A student could argue that constructive possession requires a level of exclusive or residential control (like a home or personal vehicle) that a low-level civilian employee simply does not possess over a commercial workplace breakroom. Because the breakroom is a commercial space controlled by the employer, an ordinary employee as a matter of law cannot exercise the requisite dominion and control to constructively possess items left there by others.
+(e) Argument-for: A student could argue that an incriminating dialogue regarding the exact location and contents of the illicit materials shows more than mere presence; it shows active engagement and intimate knowledge of the contraband operation. By discussing the illicit materials in detail, Laura demonstrated the kind of insider knowledge that courts often use to infer an intent and ability to exercise dominion and control over the drugs.
 
-Head-to-head: Option (b) is the strongest because it correctly identifies the prevailing federal and majority rule requiring purposeful intent (conscious object) for accomplice liability, which appropriately answers the "U.S. Attorney" prompt. Option (c) fails because it legally mischaracterizes a regular salary as a "stake in the venture." Option (d) invents a false categorical rule that ordinary job duties cannot satisfy the actus reus requirement. Option (e) relies on an explicitly fabricated MPC rule regarding extreme recklessness. However, Option (a) presents a slight issue: while it is incorrect under the federal/majority rule, it merely states that Marcus is guilty because he knew his routing would facilitate the crime and aided it. Because it lacks absolute phrasing to lock in a universal legal falsehood, it could be argued as factually accurate in jurisdictions that apply a minority knowledge standard. The keyed answer (b) is clearly best, but (a) needs a falsifiable claim to pass the close-call standard.
+Head-to-head: Option (b) is the clear winner because it correctly applies the rule for constructive possession—requiring intent to exercise dominion and control—which Laura explicitly negated by demanding the bag's removal. Options (c) and (d) contain explicitly false legal claims: (c) invents an "implicit adoption" doctrine for failing to report, and (d) invents a categorical exception for "commercial workplace settings." However, options (a) and (e) simply present true facts (actual knowledge, shared breakroom, incriminating dialogue) and conclude they equal possession. They rely on implicit omissions of the dominion/control element rather than asserting an explicit, falsifiable legal claim locked by an absolute word.
 
 Falsifiable claim per distractor:
-- (a): Lacks a clearly falsifiable legal claim. It merely states a factual application ("because Marcus knew... and performed an act") that is legally sufficient in a minority of jurisdictions. It needs absolute wording to be demonstrably false.
-- (c): "receiving his regular salary constitutes a financial stake that elevates his knowledge to a true purposeful intent under the law" — wrong because under *Lauria*, a normal salary or standard pricing explicitly does not constitute a "stake in the venture."
-- (d): "is part of his normal job and therefore cannot constitute a culpable actus reus" — wrong because ordinary job duties absolutely can constitute the actus reus for accomplice liability if performed with the requisite mens rea.
-- (e): "the model penal code only requires a showing of extreme recklessness when the underlying crime involves highly dangerous controlled substances" — wrong because the MPC categorically requires purpose to promote or facilitate the offense, not extreme recklessness.
+- (a): "Possessed, because she had actual knowledge..." — wrong because knowledge and proximity do not equal dominion and control, but relies on an implicit omission rather than an explicit false claim.
+- (c): "legally constituted an implicit adoption" — wrong because there is no legal doctrine where failure to report contraband constitutes an implicit adoption of possession.
+- (d): "cannot constructively possess illegal contraband when it is located inside a commercial workplace setting" — wrong because constructive possession absolutely can apply in commercial settings.
+- (e): "Possessed, because she engaged in an incriminating dialogue" — wrong because dialogue alone doesn't prove control, but like (a), relies on an implicit omission rather than an absolute, locked falsifiable claim.
 
-Recommended fix: Edit (a) to include an absolute falsifiable claim. For example: "(a) Guilty of accomplice liability, because knowledge that one's actions will facilitate a crime is categorically sufficient to establish accomplice mens rea regardless of the jurisdiction."
+Recommended fix: Add absolute words to (a) and (e) to lock their falsifiable claims. For (a), edit to: "Possessed, solely because she had actual knowledge..." For (e), edit to: "Possessed, because engaging in an incriminating dialogue automatically establishes constructive possession."
 -->

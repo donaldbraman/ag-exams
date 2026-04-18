@@ -1,26 +1,27 @@
-**Q9.** Assume that, whether or not Dominic is guilty, the government charges Carmine under the Pinkerton doctrine for Victor's death. Can Carmine be convicted?
+**Q9.** Is Kevin guilty of attempted extortion for his actions on November 15?
 
-(a) Yes, under the Pinkerton doctrine, because the fatal shooting was a reasonably foreseeable consequence of the armed extortion conspiracy. <!-- correct -->
-(b) Yes, because as the boss of the Pinnacle enterprise, Carmine is strictly liable for all crimes committed by his subordinates.
-(c) No, because Carmine was not physically present at the restaurant and did not specifically direct Dominic to kill the owner.
-(d) No, because homicide is an independent substantive crime that merges with the underlying extortion, preventing separate conspiracy liability.
-(e) No, because Victor's decision to unexpectedly pull a concealed revolver was an unforeseeable intervening cause that breaks the chain of liability.
+(a) Guilty, because driving to the target location and grabbing the crowbar constituted a substantial step that strongly corroborated his criminal purpose. <!-- correct -->
+(b) Not guilty, because he had not yet put on the ski mask or exited the vehicle, leaving him entirely outside the zone of dangerous physical proximity.
+(c) Guilty, because his prior verbal agreement with Jack inherently satisfied the necessary actus reus requirement for an attempted extortion charge.
+(d) Not guilty, because the restaurant owner's unexpected intervention constituted an involuntary renunciation of the defendant's original criminal intent.
+(e) Guilty, because any preparatory act, no matter how temporally remote from the target offense, is legally sufficient to establish criminal attempt liability.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because under the *Pinkerton* doctrine, a co-conspirator is liable for the substantive offenses committed by another co-conspirator if those offenses were reasonably foreseeable and committed in furtherance of the conspiracy. An armed shootout is reasonably foreseeable during an organized extortion scheme. (b) is incorrect because *Pinkerton* requires the specific crime to be reasonably foreseeable, rejecting absolute strict liability for any subordinate's actions. (c) is incorrect because physical presence and specific direction are not required under conspiratorial liability. (d) is incorrect because homicide does not merge with conspiracy or extortion; it is a separate substantive offense. (e) is incorrect because an armed target resisting an extortion attempt is a highly foreseeable response, not an independent intervening cause.
+**Explanation:** Under the MPC, attempt requires a "substantial step" strongly corroborative of the actor's criminal purpose. Arriving at the scene and arming oneself with the tools necessary to commit the crime (the crowbar and mask) easily satisfies this requirement. Option (b) fails because modern attempt law does not require the defendant to reach the absolute last act or dangerous physical proximity before liability attaches. Option (c) fails because mere agreement constitutes conspiracy, not attempt, which requires further action. Option (d) fails because renunciation must be entirely voluntary to serve as a defense; being interrupted by the victim defeats the defense. Option (e) fails because remote preparatory acts are legally insufficient; the step must be substantial.
 
-**Tags:** chapters: [19], topics: [Pinkerton liability, conspiracy], difficulty: medium, cognitive: application
+**Tags:** chapters: [6], topics: [attempt, substantial step], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19, Pinkerton doctrine
+**Grounding:** General Attempt Doctrine (MPC Substantial Step)
 
 <!-- audit: MUST FIX
-check 1: Fails. The stem instructs the student to assume the charge proceeds "whether or not Dominic is guilty." However, Pinkerton liability is strictly vicarious; it requires that a co-conspirator actually commit the substantive offense in furtherance of the conspiracy. If Dominic is not guilty of the substantive crime, Carmine cannot be convicted of it under Pinkerton. Option (a)'s categorical "Yes" is therefore legally inaccurate under the stem's own phrasing.
-check 2: A well-prepared student would recognize that if Dominic is not guilty, Pinkerton cannot attach. They would rightfully struggle to select (a) because the stem explicitly includes the possibility of Dominic's innocence, which would mandate a "No" answer.
-check 3: Fails. The explanation correctly states that a co-conspirator is liable "for the substantive offenses committed by another co-conspirator," but this directly contradicts the stem's attempt to handwave away the prerequisite of Dominic's guilt.
-check 4: Fails. The stem improperly attempts to bypass an essential factual element (the co-conspirator's guilt) required to trigger Pinkerton liability.
-check 5: Pass. No jurisdictional split issues present.
-check 6: Pass. No excluded-topic bleed.
-check 7: Pass. Pinkerton doctrine is accurately grounded in Chapter 19 (`pinkerton-doctrine`).
-Recommended fix: Remove the phrase "whether or not Dominic is guilty" and instead stipulate his guilt for the sake of testing the vicarious liability prong. Change the stem to: "Assume Dominic is guilty of Victor's death. If the government charges Carmine under the Pinkerton doctrine for the homicide, can Carmine be convicted?"
+check 1: fail. The marked answer is correct under the MPC, but the stem does not stipulate a jurisdiction.
+check 2: fail. Option (b) is a highly defensible distractor under the common law "dangerous physical proximity" test. Without a specified jurisdiction, a prepared student could validly argue for (b).
+check 3: pass. The explanation accurately reflects the MPC substantial step test.
+check 4: fail. The fact pattern is completely missing from the prompt. The question references Kevin, Jack, a restaurant owner, a crowbar, and November 15 without providing the actual scenario.
+check 5: fail. The question tests the line between preparation and attempt, which involves a major jurisdictional split (MPC substantial step vs. common law proximity tests). The stub must specify the jurisdiction.
+check 6: pass.
+check 7: pass.
+check 8: pass. Options are well-balanced in length and structure.
+Recommended fix: Provide the missing fact pattern. Additionally, amend the question stub to read: "Under the Model Penal Code, is Kevin guilty of attempted extortion..." to resolve the jurisdictional ambiguity between (a) and (b).
 -->

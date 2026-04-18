@@ -1,28 +1,27 @@
-```markdown
-**Q12.** Dominic was arrested outside a rival's home after setting up a concealed firing position. Under the Model Penal Code's substantial step test, is Dominic guilty of attempted murder?
+**Q12.** Assume Kevin is charged under a standard felony murder statute. Is he guilty of felony murder?
 
-(a) Yes, because his actions of lying in wait and tracking Elias with a scoped rifle strongly corroborated his criminal purpose. <!-- correct -->
-(b) Yes, because any preparatory act, no matter how remote, is sufficient for attempt if the defendant has a clear intent to kill.
-(c) No, because he had not yet pulled the trigger, meaning he had not completed the final act necessary for the offense.
-(d) No, because the FBI intervened before he could fire, rendering the completion of the crime factually and legally impossible.
-(e) No, because the substantial step test requires the defendant to have entered the zone of perpetration by discharging a weapon.
+(a) Guilty, because the fatal shooting occurred during the attempted commission of extortion, which qualifies as an inherently dangerous predicate felony. <!-- correct -->
+(b) Not guilty, because the felony murder doctrine only applies when the deceased victim is an innocent bystander rather than the target of the underlying felony.
+(c) Guilty, because any death that occurs while a criminal defendant is armed with a loaded firearm is strictly classified as felony murder under the common law.
+(d) Not guilty, because the defendant had not yet shattered the windows or obtained the money, meaning the predicate felony had not legally commenced.
+(e) Guilty, because the independent felony of illegal firearm possession merges with the homicide to create an automatic felony murder liability enhancement.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because the Model Penal Code's substantial step test requires conduct that strongly corroborates the actor's criminal purpose. Lying in wait and possessing materials specifically designed for the unlawful end near the scene of the crime explicitly satisfy this standard under the MPC. (b) is incorrect because the MPC still requires a "substantial step," explicitly rejecting the notion that remote preparatory acts alone are sufficient. (c) is incorrect because attempt liability does not require the defendant to complete the final act of the offense. (d) is incorrect because factual impossibility or outside intervention does not negate attempt liability if the defendant took a substantial step. (e) is incorrect because the "zone of perpetration" is a concept from common law proximity tests, not the MPC.
+**Explanation:** The felony murder rule applies when a death occurs during the commission or attempted commission of an inherently dangerous felony. Extortion (and the violent attempt to enforce it) qualifies. Option (b) fails because felony murder applies regardless of whether the victim is a bystander or the intended target of the predicate felony. Option (c) fails because felony murder requires an underlying predicate felony, not merely being armed. Option (d) fails because an *attempt* to commit the predicate felony is legally sufficient to trigger the felony murder rule. Option (e) fails because possession of a firearm typically merges into the homicide or is not considered an independent inherently dangerous felony supporting the rule under the merger doctrine.
 
-**Tags:** chapters: [17], topics: [attempt, substantial step], difficulty: foundational, cognitive: application
+**Tags:** chapters: [5], topics: [felony murder, attempt as predicate], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 17, MPC substantial step test
+**Grounding:** General Homicide Doctrine (Felony Murder Predicates)
 
 <!-- audit: MUST FIX
-<check 1>: pass
-<check 2>: pass
-<check 3>: pass
-<check 4>: MUST FIX. The correct answer (a) relies on facts completely missing from the stem: "tracking Elias with a scoped rifle." The stem only states Dominic set up a "concealed firing position." A student would rightly balk at selecting an answer that introduces unstated facts. Also, the stem does not explicitly establish Dominic's mens rea (specific intent/purpose to kill), which is a prerequisite for attempted murder.
-<check 5>: pass
-<check 6>: pass
-<check 7>: pass
-Recommended fix: Update the stem to include the missing facts and mens rea. E.g., "Intending to kill his rival Elias, Dominic was arrested outside Elias's home after setting up a concealed firing position and tracking Elias with a scoped rifle. Under the Model Penal Code's substantial step test, is Dominic guilty of attempted murder?"
+Check 1: Cannot evaluate; fact pattern is missing.
+Check 2: Cannot evaluate; fact pattern is missing.
+Check 3: pass
+Check 4: FAIL. The stem is completely missing the fact pattern. It refers to Kevin, extortion, shattered windows, and a fatal shooting, but none of these facts are provided in the prompt.
+Check 5: FAIL. "Standard felony murder statute" is jurisdictionally ambiguous. Extortion is not a traditional BARRK felony. Jurisdictions split on whether non-enumerated felonies qualify as inherently dangerous (and whether to evaluate them in the abstract or as committed).
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: Add the missing fact pattern to the stem. Also, stipulate the jurisdiction's felony murder rules (e.g., explicitly stating that extortion is an enumerated predicate or providing the state's test for inherent danger) rather than relying on a vague "standard" statute.
 -->
-```

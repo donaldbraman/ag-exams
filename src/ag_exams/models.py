@@ -541,17 +541,19 @@ HARD EXCLUSIONS:
 
 
 _FINAL_THE_GENESIS_BRIEF = """\
-Single-stem scenario: The Genesis (The Barksdale Stash)
+Single-stem scenario: The Genesis (The Stash House Fire)
 
-Inspiration: The Wire (inspired-by only — not a direct plot lift).
+Inspiration: Generalized Organized Crime
 Budget: 15 questions, single-doctrine-per-question bias.
 
 FRAME: An underground drug organization operates out of low-income high-rises. A mid-level manager stores a highly volatile cutting agent in an unregistered warehouse, inadvertently violating strict public welfare laws. When a worker mistakenly handles the substance, a chemical fire breaks out, causing severe injuries.
 
 CHARACTERS:
-- The Manager: runs the stash house logistics.
-- The Worker: injured by the volatile chemicals.
-- The Inspector: investigates the unregistered site.
+- Arthur: The CEO who oversees the entire organized operation.
+- Brenda: The Logistics Manager who runs the stash house.
+- Charles: The Worker injured by the volatile chemicals.
+- David: The Chemical Supplier who sold the cutting agent.
+- Elena: The Inspector who investigates the unregistered site.
 
 SUGGESTED PLOT DIRECTION:
 Focus on the act of storing and mixing the product. Cover voluntary acts, causation of the fire/injury, mistake of fact regarding the chemical's properties, and public welfare offenses regarding the unregistered warehouse.
@@ -566,21 +568,21 @@ HARD EXCLUSIONS:
 - No domestic violence or intimate-partner-violence content.
 - No rape or sexual-assault content.
 - No minors as customers or victims.
-- No direct plot lifts from the inspiration source.
 """
 
 _FINAL_THE_DISTRIBUTION_RING_BRIEF = """\
-Single-stem scenario: The Distribution Ring (The Pit)
+Single-stem scenario: The Distribution Ring (The Turf Defense)
 
-Inspiration: The Wire (inspired-by only — not a direct plot lift).
+Inspiration: Generalized Street-Level Drug Network
 Budget: 15 questions, single-doctrine-per-question bias.
 
 FRAME: A crew of street-level dealers runs a sophisticated hand-to-hand distribution network in a courtyard. They form an agreement to defend their turf from a rival crew. One dealer attempts a drive-by shooting but misses entirely. Another acts as a lookout during a stash house robbery where the principal unexpectedly commits a homicide.
 
 CHARACTERS:
-- The Crew Chief: organizes the turf defense.
-- The Shooter: attempts the drive-by.
-- The Lookout: aids the stash house robbery that escalates into murder.
+- Felix: The Crew Chief who organizes the turf defense.
+- George: The Shooter who attempts the drive-by.
+- Helen: The Lookout who aids the stash house robbery.
+- Ian: The Enforcer who commits the unexpected homicide during the robbery.
 
 SUGGESTED PLOT DIRECTION:
 Test the boundaries of inchoate crimes. Focus on the agreement to defend the turf (Conspiracy), the missed drive-by (Attempt / Impossibility), and the lookout's liability for the unexpected homicide. You MUST force a comparative analysis of the lookout's liability under both the traditional "natural and probable consequences" doctrine AND the modern MPC/reform approach that rejects it (e.g., SB 1437). Likewise, test liability for a co-conspirator's acts under both Pinkerton doctrine and the MPC's rejection of it.
@@ -594,21 +596,21 @@ HARD EXCLUSIONS:
 - No domestic violence or intimate-partner-violence content.
 - No rape or sexual-assault content.
 - No minors as customers or victims.
-- No direct plot lifts from the inspiration source.
 """
 
 _FINAL_THE_EMPIRE_BUSINESS_BRIEF = """\
-Single-stem scenario: The Empire Business (The DiMeo Family Waste Management)
+Single-stem scenario: The Empire Business (The Waste Management Front)
 
-Inspiration: The Sopranos (inspired-by only — not a direct plot lift).
+Inspiration: Generalized Organized Crime Syndicate
 Budget: 15 questions, single-doctrine-per-question bias.
 
-FRAME: A powerful organized crime family uses a waste management business as a front for their illicit activities. The family engages in a pattern of racketeering, including extortion and large-scale interstate drug distribution. The family employs "made men" who carry unregistered firearms. A capo is charged under § 922(g) (felon in possession) after a federal wiretap; there is factual ambiguity regarding whether the capo *knew* his prior conviction qualified as a felony (testing *Rehaif*).
+FRAME: A powerful organized crime family uses a waste management business as a front for their illicit activities. The family engages in a pattern of racketeering, including extortion and large-scale interstate drug distribution. The family employs operatives who carry unregistered firearms. A capo is charged under § 922(g) (felon in possession) after a federal wiretap; there is factual ambiguity regarding whether the capo *knew* his prior conviction qualified as a felony (testing *Rehaif*).
 
 CHARACTERS:
-- The Boss: the head of the crime family.
-- The Capo: manages the street-level crews; prior ambiguous felony record.
-- The Front Manager: runs the legitimate waste management business.
+- Jack: The Boss, head of the crime family.
+- Kevin: The Capo who manages the street-level crews; has a prior ambiguous felony record.
+- Laura: The Dispatcher who runs the legitimate waste management business front.
+- Matthew: The Victim targeted for extortion by the family.
 
 SUGGESTED PLOT DIRECTION:
 Focus on enterprise liability and federal enhancements. The interaction between massive drug distribution/extortion and firearm possession (924c) should be a focal point, alongside the structure and predicates of the RICO enterprise. Crucially, test the modern mens rea of status elements (*Rehaif*) by forcing students to connect mistake-of-law principles to the substantive § 922(g) gun offense.
@@ -622,21 +624,22 @@ HARD EXCLUSIONS:
 - No domestic violence or intimate-partner-violence content.
 - No rape or sexual-assault content.
 - No minors as customers or victims.
-- No direct plot lifts from the inspiration source.
 """
 
 _FINAL_THE_BLOWBACK_BRIEF = """\
-Single-stem scenario: The Blowback (The Whacked Informant)
+Single-stem scenario: The Blowback (The Informant Homicides)
 
-Inspiration: The Sopranos (inspired-by only — not a direct plot lift).
+Inspiration: Generalized Organized Crime Syndicate
 Budget: 15 questions, single-doctrine-per-question bias.
 
 FRAME: Paranoia sweeps the crime family as they suspect an informant in their ranks. A Capo lures the suspected informant onto a boat and intentionally shoots him (premeditated). Meanwhile, a low-level associate recklessly disposes of toxic waste in a residential area, resulting in a civilian's death. Finally, during a botched hijacking of a commercial truck, a fleeing associate's vehicle strikes and kills a bystander.
 
 CHARACTERS:
-- The Capo: executes the suspected informant.
-- The Associate: reckless with toxic waste.
-- The Hijacker: causes the fatal crash while fleeing.
+- Nora: The Capo who executes the suspected informant.
+- Oscar: The Associate who is legally reckless with the toxic waste disposal.
+- Penelope: The Hijacker whose fleeing vehicle causes the fatal crash.
+- Quinn: The Getaway Driver who assists Penelope in fleeing the hijacking.
+- Rachel: The Suspected Informant who is lured to the boat and killed.
 
 SUGGESTED PLOT DIRECTION:
 Test homicide grading. Distinguish between premeditated murder, depraved-heart murder, and felony murder during the flight from a felony.
@@ -650,23 +653,22 @@ HARD EXCLUSIONS:
 - No domestic violence or intimate-partner-violence content.
 - No rape or sexual-assault content.
 - No minors as customers or victims.
-- No direct plot lifts from the inspiration source.
 """
 
 _FINAL_PROCEDURAL_BLOCK_BRIEF = """\
-Single-stem scenario: The Procedural Block (The Made Man's Pardon)
+Single-stem scenario: The Procedural Block (The Pardon)
 
-Inspiration: The Sopranos (inspired-by only — not a direct plot lift).
+Inspiration: Generalized Organized Crime / Corruption
 Budget: 15 questions, single-doctrine-per-question bias.
 
-FRAME: Following a massive federal wiretap on the DiMeo waste management front, a top Capo is facing a federal RICO trial. The family's slick defense attorney orchestrates a campaign of institutional corruption to save the Capo. The trial Judge accepts a $50,000 "thank you" gift from the family three weeks after unexpectedly suppressing key evidence, raising questions about bribery versus gratuities. In the jury room, a rogue juror admits to convicting a lower-level minority co-defendant purely out of racial animus. Finally, the Capo secures a highly controversial, blanket pardon from the state's Governor in exchange for a massive super PAC donation.
+FRAME: Following a massive federal wiretap on a waste management front, a top Capo is facing a federal RICO trial. The Capo's slick defense attorney orchestrates a campaign of institutional corruption to save the Capo. The trial Judge accepts a $50,000 "thank you" gift from the Capo three weeks after unexpectedly suppressing key evidence, raising questions about bribery versus gratuities. In the jury room, a rogue juror admits to convicting a lower-level minority co-defendant purely out of racial animus. Finally, the Capo secures a highly controversial, blanket pardon from the state's Governor in exchange for a massive super PAC donation.
 
 CHARACTERS:
-- The Capo: Trial defendant and target of the RICO conspiracy.
-- The Defense Attorney: Orchestrates the strategic corruption.
-- The Judge: Trial judge whose post-ruling financial windfalls test corruption statutes.
-- The Rogue Juror: Tests the limits of jury secrecy and the Peña-Rodriguez exception.
-- The Governor: Issues a plenary pardon testing executive power limits.
+- Kevin: The Trial Defendant and Capo, facing federal RICO charges.
+- Steve: The Defense Attorney who orchestrates the strategic corruption.
+- Thomas: The Trial Judge whose post-ruling windfalls test corruption statutes.
+- Ursula: The Rogue Juror whose actions test the limits of jury secrecy.
+- Victor: The Governor who issues a plenary pardon.
 
 SUGGESTED PLOT DIRECTION:
 Test the boundaries of institutional law and corruption. For the Judge and Governor, force students to apply recent Supreme Court public corruption precedent (Snyder's bribe vs. gratuity distinction, Skilling's honest services fraud, and McDonnell's official acts). For the Juror, test the clash between FRE 606(b) jury secrecy (Tanner) and constitutional racial bias exceptions. For the Governor, test the absolute nature of executive clemency despite corrupt motives.
@@ -680,35 +682,35 @@ HARD EXCLUSIONS:
 - No domestic violence or intimate-partner-violence content.
 - No rape or sexual-assault content.
 - No minors as customers or victims.
-- No direct plot lifts from the inspiration source.
 """
 
-_FINAL_THE_CORNERED_DEFENSES_BRIEF = """\
-Single-stem scenario: The Cornered Defenses (The Cornered Enforcer)
+_FINAL_HAMSTERDAM_BRIEF = """\
+Single-stem scenario: Hamsterdam (The Free Zone)
 
-Inspiration: The Wire (inspired-by only — not a direct plot lift).
+Inspiration: Police Corruption / Drug Zones
 Budget: 15 questions, single-doctrine-per-question bias.
 
-FRAME: The pressure of a massive federal investigation causes the criminal organization to fracture. An isolated enforcer is violently coerced by a corrupt cop into destroying a warehouse of evidence to prevent a larger bloodbath in the streets. The enforcer's actions support both a Necessity (justification) and a Duress (excuse) defense. Later, a rival claims self-defense after preemptively shooting a hitman, and an addicted associate suffers a psychotic break.
+FRAME: A rogue Police Major claims that the only way to save the city from rampant violence is to create a secret, localized, police-sanctioned "free zone" where drug dealing is informally legalized. Inside the zone, a drug dealer must violently defend his stash against an armed stick-up robber. The incident escalates when the robber, suffering a psychological break from severe drug intoxication, commits a subsequent offense. The entire arrangement ultimately triggers a federal investigation into whether the rogue police department faction constitutes a corrupt RICO enterprise.
 
 CHARACTERS:
-- The Coerced Enforcer: forced to destroy property to prevent greater harm.
-- The Addicted Associate: suffers a psychological break.
-- The Target: preemptively shoots a stalker.
+- William: The Police Major who creates the illegal drug zone and asserts a Necessity defense.
+- Xavier: The Dealer operating inside the zone who must claim Self-Defense.
+- Yasmin: The armed Robber who tests the Insanity defense due to voluntary intoxication.
 
 SUGGESTED PLOT DIRECTION:
-Focus heavily on affirmative defenses. You MUST force a rigorous analysis of the theory behind defenses by having students identify why the enforcer's actions could be pled as Necessity (a justified act that was right) versus Duress (an excused act lacking responsibility), and how the legal consequences for an accomplice would differ depending on which theory prevails. Also test the imminence requirement in self-defense, and the cognitive/volitional prongs of the insanity defense.
+Focus on the policy rationales of punishment and affirmative defenses. Force students to weigh the utilitarian "What We Punish" goals behind William's decision to legalize the zone. Then, analyze William's criminal liability under the Necessity (Choice of Evils) defense. Inside the zone, rigorously test Xavier's claim of Self-Defense (imminence, duty to retreat) against Yasmin's robbery. Finally, analyze Yasmin's liability through the lens of Insanity (M'Naghten vs. MPC) and voluntary intoxication.
 
 DOCTRINAL TARGETS:
-- Ch 21 Necessity (Justification) and Duress (Excuse)
+- Ch 3 What We Punish (deterrence, incapacitation vs. retributivism)
+- Ch 21 Necessity (Justification)
 - Ch 22 Self-Defense (imminence, duty to retreat, imperfect self-defense)
 - Ch 23 The Insanity Defense (M'Naghten, MPC, irresistible impulse)
+- Ch 20 RICO (Official misconduct and enterprise structure)
 
 HARD EXCLUSIONS:
 - No domestic violence or intimate-partner-violence content.
 - No rape or sexual-assault content.
 - No minors as customers or victims.
-- No direct plot lifts from the inspiration source.
 """
 
 SCENARIO_MAP: dict[str, ScenarioBrief] = {
@@ -935,16 +937,16 @@ SCENARIO_MAP: dict[str, ScenarioBrief] = {
         brief_text=_FINAL_PROCEDURAL_BLOCK_BRIEF,
         statutes="",
     ),
-    "final_the_cornered_defenses": ScenarioBrief(
-        name="final_the_cornered_defenses",
-        title="Final: The Cornered Defenses",
-        substantive_base="Defenses",
-        inchoate_layers=[],
-        defenses=["necessity", "duress", "self-defense", "insanity"],
-        chapters=[21, 22, 23],
+    "final_hamsterdam": ScenarioBrief(
+        name="final_hamsterdam",
+        title="Final: Hamsterdam",
+        substantive_base="Defenses & Misconduct",
+        inchoate_layers=["rico"],
+        defenses=["necessity", "self-defense", "insanity"],
+        chapters=[3, 20, 21, 22, 23],
         estimated_questions=(10, 15),
         stem_count=1,
-        brief_text=_FINAL_THE_CORNERED_DEFENSES_BRIEF,
+        brief_text=_FINAL_HAMSTERDAM_BRIEF,
         statutes="",
     ),
 

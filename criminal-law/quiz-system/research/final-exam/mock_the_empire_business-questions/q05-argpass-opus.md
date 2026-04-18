@@ -1,10 +1,10 @@
-**Q5.** Under federal law, assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. If Locke establishes he genuinely and reasonably believed the crates contained black-market oxycodone, is his sentencing argument valid?
+**Q5.** Assume that, rightly or wrongly, Locke is convicted of possession with intent to distribute. Because the crates contained 400 grams of pure fentanyl, the government seeks a severe weight-based mandatory minimum sentence. Locke argues the mandatory minimum should not apply because he never opened the sealed crates and reasonably believed they only contained oxycodone. Under federal law, is his sentencing argument valid?
 
-(a) Yes, because the mistake of fact doctrine allows defendants to be sentenced solely for the lesser crime they subjectively intended to commit.
-(b) Yes, because imposing a mandatory minimum based on the hidden presence of fentanyl violates the constitutional presumption against strict liability.
-(c) No, because knowledge of the substance's general nature as a controlled drug is sufficient, and the weight-based minimum applies strictly to the actual substance. <!-- correct -->
-(d) No, because any subjective mistake about the type of drug is legally irrelevant unless the defendant was coerced by an undercover law enforcement agent.
-(e) No, because federal mandatory minimums completely eliminate all mens rea requirements, replacing them with a strict liability standard for all elements.
+(a) The argument is valid because the mistake of fact doctrine allows defendants to be sentenced solely for the lesser crime they subjectively intended to commit.
+(b) The argument is valid because imposing a mandatory minimum based on the hidden presence of fentanyl violates the constitutional presumption against strict liability.
+(c) The argument is invalid because knowledge of the substance's general nature as an illicit drug is sufficient, and the weight-based minimum applies strictly to the actual substance possessed. <!-- correct -->
+(d) The argument is invalid because any subjective mistake about the type of drug is legally irrelevant unless the defendant was coerced by an undercover law enforcement agent.
+(e) The argument is invalid because federal mandatory minimums completely eliminate all initial *mens rea* requirements, replacing the entire statute with strict liability.
 
 **Answer:** (c)
 
@@ -13,21 +13,3 @@
 **Tags:** chapters: [15], topics: [fentanyl asymmetry, mens rea, mandatory minimums], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 15, Mens Rea: Knowledge of Substance Type and Fentanyl Asymmetry
-
-<!-- argument-pass: CLEAN
-(a) Argument-for: A student could rely on the Model Penal Code § 2.04(2), which articulates the "lesser crime" theory for mistakes of fact. Under this doctrine, if a defendant's mistake negates the mens rea for the charged offense but establishes culpability for a lesser offense, the defendant is only punished at the lesser level. Because Locke reasonably believed he possessed oxycodone, a student could argue this doctrine limits his sentencing exposure strictly to the intended lesser crime.
-(b) Argument-for: This option appeals to the strong constitutional avoidance canon and the presumption of mens rea found in cases like *Staples v. United States* and *Elonis v. United States*. A student could argue that imposing a severe mandatory minimum based on the hidden presence of a totally different drug fundamentally offends due process. Therefore, the presumption against strict liability should constitutionally bar the enhancement when the defendant genuinely lacked mens rea regarding the specific substance (fentanyl).
-(c) Argument-for: This reflects the actual state of federal controlled substances law under 21 U.S.C. § 841. As established by widespread federal precedent, the government only needs to prove that the defendant knowingly possessed *some* controlled substance. Once this baseline general-nature mens rea is met, the specific type and weight of the drug operate as strict liability factors for determining the applicable mandatory minimum sentence, making Locke fully liable for the fentanyl regardless of his belief.
-(d) Argument-for: A student might conflate the strict liability nature of drug identity with the distinct doctrine of sentencing entrapment or manipulation. Under sentencing entrapment, a defendant can sometimes avoid a mandatory minimum if law enforcement coerced them into selling a specific quantity or type of drug they otherwise wouldn't have. Thus, a student could incorrectly deduce that law enforcement coercion is the sole exception making a subjective mistake legally relevant.
-(e) Argument-for: This option relies on a mechanical, overly broad reading of mandatory minimum statutes. Since the weight and type of the drug dictate the mandatory minimum without requiring specific mens rea, a student might assume this strict liability logic bleeds into the entire statute. They could argue that the mandatory minimum effectively overrides the baseline offense, converting all elements of the crime into strict liability.
-
-Head-to-head: Option (c) accurately states the federal rule for controlled substances, where general knowledge of a drug's illicit nature is sufficient to trigger strict liability for the actual substance's type and weight. Option (a) incorrectly applies the MPC's "lesser crime" doctrine, which does not govern federal drug identity substitutions. Option (b) makes a false constitutional claim, as courts universally uphold strict liability for drug type/weight once baseline mens rea is met. Option (d) incorrectly positions coercion as a caveat to mistake of fact, confusing sentencing entrapment with mens rea. Option (e) falsely claims that mandatory minimums erase *all* mens rea requirements, ignoring the baseline knowledge requirement for possession. All distractors contain clearly falsifiable claims locked by absolute phrasing.
-
-Falsifiable claim per distractor:
-- (a): "the mistake of fact doctrine allows defendants to be sentenced solely for the lesser crime they subjectively intended to commit." — wrong because federal drug law (under 21 U.S.C. § 841) rejects this doctrine for drug identity substitutions, holding defendants strictly liable for the actual drug type once baseline mens rea is met.
-- (b): "violates the constitutional presumption against strict liability." — wrong because the Supreme Court and federal circuits permit strict liability for drug type and weight sentencing enhancements once the baseline mens rea for possession is satisfied; there is no constitutional violation.
-- (d): "any subjective mistake about the type of drug is legally irrelevant unless the defendant was coerced by an undercover law enforcement agent." — wrong because coercion/sentencing entrapment does not make a subjective mistake of fact "relevant" (it is a distinct defense regarding government overreach), and the absolute use of "unless" creates a false rule of law.
-- (e): "completely eliminate all mens rea requirements, replacing them with a strict liability standard for all elements." — wrong because the government must still prove the baseline mens rea (knowing possession of a controlled substance); only the type and weight elements become strict liability.
-
-Recommended fix: none
--->

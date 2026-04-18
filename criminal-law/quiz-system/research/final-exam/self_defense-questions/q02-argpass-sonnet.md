@@ -2,9 +2,9 @@
 
 (a) Not guilty, because Alex retained the only key and therefore maintained exclusive actual possession of the safe's contents.
 (b) Not guilty, because momentarily moving the safe to clean underneath it does not establish the necessary intent to possess.
-(c) Guilty of actual possession, because the safe was located within his private residence where he could physically touch its exterior.
-(d) Guilty of constructive possession, because keeping the safe in his living room for three days demonstrates his power and intention. <!-- correct -->
-(e) Guilty of joint possession, but only if the prosecution can prove that Blake financially invested in the fentanyl inside.
+(c) Actual possession is established, because the safe was located within his private residence where he could physically touch its exterior.
+(d) Constructive possession is established, because keeping the safe in his living room for three days demonstrates his power and intention. <!-- correct -->
+(e) Joint possession is established, but only if the prosecution can prove that Blake financially invested in the fentanyl inside.
 
 **Answer:** (d)
 
@@ -30,7 +30,7 @@ Head-to-head: (d) is the strongest answer because it accurately identifies the c
 Falsifiable claim per distractor:
 - (a): "Alex... therefore maintained exclusive actual possession." — wrong because possession can be joint and constructive even if one party holds the only key.
 - (b): "momentarily moving... does not establish the necessary intent to possess." — wrong because the three-day duration in the residence establishes intent regardless of the specific cleaning act.
-- (c): "Guilty of actual possession, because the safe was located within his private residence where he could physically touch its exterior." — wrong because actual possession requires direct physical contact with the contraband itself, not merely its container.
+- (c): "Actual possession is established, because the safe was located within his private residence where he could physically touch its exterior." — wrong because actual possession requires direct physical contact with the contraband itself, not merely its container.
 - (e): "only if the prosecution can prove that Blake financially invested in the fentanyl inside." — wrong because joint possession is defined by control and intent, and categorically does not require a financial stake.
 
 Recommended fix: none

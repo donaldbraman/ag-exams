@@ -1,18 +1,18 @@
-**Q4.** Assume that, whether or not Marcus is an accomplice, he raises a duress defense to his continued routing of the trucks following Carmine's threat. Will the defense succeed?
+**Q4.** Can Kevin be convicted of possession with intent to distribute based solely on the discovery of the locked duffel bag?
 
-(a) Yes, because Carmine's threat to put Marcus in a compactor was sufficiently severe to overcome the will of a person of reasonable firmness.
-(b) Yes, because Marcus was subjected to a continuous threat of physical harm that legally persisted throughout the entire four-month period.
-(c) No, because the threat was not imminent, as Marcus had four months and ample opportunity to contact authorities or escape. <!-- correct -->
-(d) No, because under the common law duress is never available as a defense to serious felony offenses like drug trafficking.
-(e) No, because Marcus voluntarily accepted the dispatcher job originally and therefore recklessly placed himself in the coercive criminal situation.
+(a) Guilty, because the sheer quantity of two kilograms of cocaine allows a reasonable jury to infer that the defendant possessed an intent to distribute it. <!-- correct -->
+(b) Not guilty, because the government must prove an actual completed transaction occurred to satisfy the statutory elements of an intent to distribute.
+(c) Guilty, because storing any measurable amount of a controlled substance inside a commercial facility constitutes distribution per se under federal law.
+(d) Not guilty, because the narcotics were securely locked inside a duffel bag, physically preventing any immediate distribution to third-party buyers.
+(e) Guilty, because Kevin's formal status as a corporate route supervisor imposes strict liability for all illicit inventory found on the business premises.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct because duress requires a threat of imminent death or serious bodily harm. A threat to track someone down in the future, coupled with a four-month period where Marcus continued the conduct without attempting to contact authorities or escape, destroys the imminence requirement. (a) is incorrect because severity alone is insufficient; the threat must also be imminent. (b) is incorrect because the subjective fear of future retribution does not legally constitute a continuous imminent threat under the duress doctrine. (d) is incorrect because duress is generally available for drug offenses; the common law prohibition applies strictly to intentional murder. (e) is incorrect because voluntarily accepting a lawful dispatching job does not constitute recklessly placing oneself in a situation where one will be subjected to duress.
+**Explanation:** In most jurisdictions, possession of a quantity of narcotics far exceeding what a single person could consume (such as two kilograms of cocaine) is legally sufficient to allow a jury to infer an intent to distribute. Option (b) fails because the crime is *intent* to distribute, which can be proved circumstantially without an actual transaction. Option (c) fails because there is no such per se commercial facility rule; mere possession of user quantities in a business is simple possession. Option (d) fails because temporary physical barriers to immediate distribution (like a lock) do not negate the underlying intent to distribute the contents eventually. Option (e) fails because criminal possession requires specific elements, not strict liability based on a job title.
 
-**Tags:** chapters: [21], topics: [duress, imminence], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [possession with intent to distribute, quantity proxy], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 21, duress-imminence-proximity
+**Grounding:** Chapter 15 (Quantity as Proxy for Distribution Intent)
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

@@ -52,13 +52,13 @@
 
 ---
 
-**Q4.** The government charges Locke with being a felon in possession of a firearm under 18 U.S.C. § 922(g)(1) based on his prior fraud conviction. Locke testifies that his state probation officer explicitly told him the conviction was merely a misdemeanor. If the jury believes Locke's testimony, what is the legally appropriate outcome under the *Rehaif* standard?
+**Q4.** Assume that, rightly or wrongly, the government successfully establishes the jurisdictional hook that Locke's 9mm crossed state lines. Locke is charged with being a felon in possession under 18 U.S.C. § 922(g)(1). At trial, Locke testifies about the specific statement made by his state probation officer. If the jury believes Locke's testimony, is the *mens rea* element satisfied under the *Rehaif* standard?
 
-(a) Conviction, because ignorance of the law is never an excuse, and his objective status as a felon is a strict liability element under the statute.
-(b) Conviction, because relying on a state probation officer's statement is fundamentally unreasonable when the underlying conviction was for felony financial fraud.
-(c) Acquittal, because the government must prove he knew he belonged to the prohibited class, and his genuine belief negates this necessary status element. <!-- correct -->
-(d) Acquittal, because the Second Amendment categorically prohibits disarming individuals convicted solely of nonviolent financial crimes like statutory fraud.
-(e) Acquittal, because his reliance on the probation officer qualifies as a valid entrapment by estoppel defense, defeating the underlying criminal act.
+(a) The *mens rea* element is satisfied because ignorance of the law is never an excuse, and objective status as a felon is a strict liability element under the statute.
+(b) The *mens rea* element is satisfied because relying on a state probation officer's statement is fundamentally unreasonable when the underlying conviction was for felony financial fraud.
+(c) The *mens rea* element is defeated because the government must prove he knew he belonged to the prohibited class, and his belief negates this necessary status element. <!-- correct -->
+(d) The *mens rea* element is defeated because the Second Amendment categorically prohibits disarming individuals convicted solely of nonviolent financial crimes.
+(e) The *mens rea* element is defeated because his reliance on the probation officer qualifies as a valid entrapment by estoppel defense.
 
 **Answer:** (c)
 
@@ -68,15 +68,13 @@
 
 **Grounding:** Chapter 10, The Morissette Presumption applied to status elements (Rehaif)
 
----
+**Q5.** Assume that, rightly or wrongly, Locke is convicted of possession with intent to distribute. Because the crates contained 400 grams of pure fentanyl, the government seeks a severe weight-based mandatory minimum sentence. Locke argues the mandatory minimum should not apply because he never opened the sealed crates and reasonably believed they only contained oxycodone. Under federal law, is his sentencing argument valid?
 
-**Q5.** Under federal law, assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. If Locke establishes he genuinely and reasonably believed the crates contained black-market oxycodone, is his sentencing argument valid?
-
-(a) Yes, because the mistake of fact doctrine allows defendants to be sentenced solely for the lesser crime they subjectively intended to commit.
-(b) Yes, because imposing a mandatory minimum based on the hidden presence of fentanyl violates the constitutional presumption against strict liability.
-(c) No, because knowledge of the substance's general nature as a controlled drug is sufficient, and the weight-based minimum applies strictly to the actual substance. <!-- correct -->
-(d) No, because any subjective mistake about the type of drug is legally irrelevant unless the defendant was coerced by an undercover law enforcement agent.
-(e) No, because federal mandatory minimums completely eliminate all mens rea requirements, replacing them with a strict liability standard for all elements.
+(a) The argument is valid because the mistake of fact doctrine allows defendants to be sentenced solely for the lesser crime they subjectively intended to commit.
+(b) The argument is valid because imposing a mandatory minimum based on the hidden presence of fentanyl violates the constitutional presumption against strict liability.
+(c) The argument is invalid because knowledge of the substance's general nature as an illicit drug is sufficient, and the weight-based minimum applies strictly to the actual substance possessed. <!-- correct -->
+(d) The argument is invalid because any subjective mistake about the type of drug is legally irrelevant unless the defendant was coerced by an undercover law enforcement agent.
+(e) The argument is invalid because federal mandatory minimums completely eliminate all initial *mens rea* requirements, replacing the entire statute with strict liability.
 
 **Answer:** (c)
 
@@ -85,12 +83,6 @@
 **Tags:** chapters: [15], topics: [fentanyl asymmetry, mens rea, mandatory minimums], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 15, Mens Rea: Knowledge of Substance Type and Fentanyl Asymmetry
-
----
-
-### Stem 2: The Shootout and Fallout
-
-Local PD just forwarded us a homicide file that intersects with our Apex investigation. Locke was involved in a shootout on his route. Analyze Locke's liability for acquiring the new weapon and the resulting homicide, and evaluate whether we can hook Thorne for the fallout.
 
 **Q6.** The government charges Locke with "using" a firearm during and in relation to a drug trafficking crime under 18 U.S.C. § 924(c), based solely on his transaction exchanging the fentanyl for the AR-15. Locke moves to dismiss this specific charge. Under controlling Supreme Court precedent, how should the court rule?
 
@@ -188,11 +180,11 @@ We executed a search warrant on the Apex warehouse last night. We found Locke's 
 
 **Q11.** The government uncovers Locke's aborted plan to rob the Apex safe. The prosecution charges Locke with attempted robbery. Under the Common Law dangerous proximity test versus the Model Penal Code (MPC) substantial step test, how would Locke's conduct (drawing a map and buying ski masks) likely be evaluated?
 
-(a) He is guilty under both tests, because purchasing any specialized equipment always satisfies both the proximity requirement and the substantial step requirement.
-(b) He is not guilty under either test, because drawing a map and buying masks are constitutionally protected acts that cannot be criminalized under any attempt standard.
-(c) He is guilty under the Common Law but not the MPC, because the Common Law focuses on the defendant's dangerousness while the MPC focuses on physical closeness.
-(d) He is guilty under the MPC but not the Common Law, because his acts strongly corroborate his intent under the MPC but are not physically proximate enough to the safe. <!-- correct -->
-(e) He is guilty under the MPC but not the Common Law, because the MPC strictly eliminates the mens rea requirement for all inchoate property offenses.
+(a) The conduct satisfies both tests, because purchasing any specialized equipment always satisfies both the proximity requirement and the substantial step requirement.
+(b) The conduct fails both tests, because drawing a map and buying masks are constitutionally protected acts that cannot be criminalized under any attempt standard.
+(c) The conduct satisfies the Common Law but not the MPC, because the Common Law focuses on the defendant's dangerousness while the MPC focuses on physical closeness.
+(d) The conduct satisfies the MPC but not the Common Law, because his acts strongly corroborate his intent under the MPC but are not dangerously proximate enough to commission of the crime. <!-- correct -->
+(e) The conduct satisfies the MPC but not the Common Law, because the MPC strictly eliminates the mens rea requirement for all inchoate property offenses.
 
 **Answer:** (d)
 

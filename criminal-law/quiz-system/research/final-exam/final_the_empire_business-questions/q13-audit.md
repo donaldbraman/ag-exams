@@ -1,26 +1,27 @@
-**Q13.** Under the traditional common law "dangerous proximity" test, is Dominic guilty of attempted murder?
+**Q13.** Under the Pinkerton doctrine, is Jack liable for Kevin's attempted extortion and the resulting homicide?
 
-(a) Yes, because he had engaged in the significant preparatory conduct necessary to indicate a clear criminal design to the observing agents.
-(b) Yes, because by aiming the rifle with his finger on the trigger, he was so near to the result that the danger of success was great. <!-- correct -->
-(c) No, because the sudden FBI intervention constituted an independent intervening cause that prevented him from coming dangerously close to success.
-(d) No, because under the strict proximity test, a defendant must actually inflict some degree of physical harm before legal liability attaches.
-(e) No, because he could have still voluntarily abandoned his criminal plan at the very last fraction of a second before firing.
+(a) Guilty of both, because the attempted extortion and the resulting fatal shooting were reasonably foreseeable consequences in furtherance of the conspiracy. <!-- correct -->
+(b) Not guilty of either, because the employer was not physically present at the scene and did not explicitly authorize his subordinate to use deadly force.
+(c) Guilty of the attempt but not the homicide, because the felony murder rule strictly prohibits imputing homicide liability to absent co-conspirators.
+(d) Not guilty of either, because the subordinate's decision to carry a loaded firearm constituted a complete deviation from the agreed-upon criminal plan.
+(e) Guilty of the homicide but not the attempt, because the completed act of killing legally subsumes and extinguishes the underlying attempted property crimes.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** (b) is correct because the common law "dangerous proximity" test requires the defendant to be so near the result that the danger of success is great. Tracking a target through a scope with a finger on the trigger places the defendant mere fractions of a second from success, easily satisfying this stringent test. (a) is incorrect because "significant preparatory conduct" better describes the threshold under the MPC, not the demanding common law proximity test. (c) is incorrect because law enforcement intervention does not negate proximity if the defendant was already dangerously close to success. (d) is incorrect because attempt does not require actual physical harm; if harm occurred, the substantive crime might be completed. (e) is incorrect because the theoretical possibility of last-second abandonment does not defeat attempt liability once dangerous proximity is reached.
+**Explanation:** Under Pinkerton liability, a conspirator is liable for any substantive offenses committed by co-conspirators that are in furtherance of the conspiracy and reasonably foreseeable. Jack directed Kevin to aggressively enforce the extortion debt; an attempt was the direct goal, and a violent, deadly confrontation was a reasonably foreseeable consequence of sending an enforcer to break windows. Option (b) fails because Pinkerton explicitly punishes absent conspirators. Option (c) fails because Pinkerton allows homicide liability to be imputed if foreseeable, as does the standard felony murder rule. Option (d) fails because an enforcer bringing a weapon to a violent property crime is highly foreseeable, not a complete deviation. Option (e) fails because underlying attempts do not automatically extinguish for absent conspirators in this manner.
 
-**Tags:** chapters: [17], topics: [attempt, proximity test], difficulty: medium, cognitive: application
+**Tags:** chapters: [7], topics: [Pinkerton liability, reasonable foreseeability], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17, common law dangerous proximity test
+**Grounding:** General Conspiracy Doctrine (Pinkerton v. United States)
 
 <!-- audit: MUST FIX
-check 1: pass (assuming the missing facts, the legal standard in the correct answer is accurate)
-check 2: pass (distractors are legally well-constructed for the intended scenario)
-check 3: pass (explanation matches the doctrine)
-check 4: fails. The question stem completely lacks a fact pattern. It asks about "Dominic" but provides no facts establishing his actions, mens rea, or the FBI intervention (these can only be reverse-engineered from the options and explanation).
-check 5: pass (explicitly specifies the traditional common law test)
-check 6: pass (no excluded topics)
-check 7: pass (actus-reus-proximity-test is in Ch 17)
-Recommended fix: Add the missing fact pattern to the question stem detailing Dominic's specific intent to kill, his actions (tracking a target through a scope, finger on the trigger), and the FBI's sudden intervention.
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: fail. The question completely lacks a fact pattern (stem). It jumps straight to the call of the question without providing the facts mentioned in the explanation (Jack directing Kevin to enforce a debt, sending him to break windows, etc.), making it impossible to answer.
+check 5: pass
+check 6: pass
+check 7: pass
+check 8: pass
+Recommended fix: Add the missing fact pattern describing the conspiracy between Jack and Kevin, Jack's specific instructions, and the events leading to the extortion and homicide before the call of the question.
 -->
