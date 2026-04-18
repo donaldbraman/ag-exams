@@ -30,6 +30,9 @@ def format_options(text: str) -> str:
 def main():
     print(f"Assembling {OUTPUT_FILE}...")
     
+    global_q_num = 1
+    answer_key = []
+
     # YAML Frontmatter
     md_lines = [
         "---",
@@ -39,6 +42,7 @@ def main():
         "      text: |",
         "        \\usepackage{enumitem}",
         "        \\setlist{itemsep=0.25em}",
+        "        \\usepackage{multicol}",
         "---"
     ]
     
@@ -81,12 +85,54 @@ def main():
         try:
             with open(questions_file, "r") as f:
                 q_text = f.read()
+                
+                # Make question numbers sequential
+                def replace_q_num(match):
+                    nonlocal global_q_num
+                    rep = f"**Q{global_q_num}.**"
+                    global_q_num += 1
+                    return rep
+                
+                q_text = re.sub(r'\*\*Q\d+\.\*\*', replace_q_num, q_text)
+                
+                # Remove Tags lines
+                q_text = re.sub(r'^\*\*Tags:\*\*.*(?:\n|$)', '', q_text, flags=re.MULTILINE)
+                
+                # Remove Grounding lines
+                q_text = re.sub(r'^\*\*Grounding:\*\*.*(?:\n|$)', '', q_text, flags=re.MULTILINE)
+                
                 md_lines.append(q_text)
                 if not q_text.endswith("\n"):
                     md_lines.append("")
+                
+                # Extract answers for the answer key
+                matches = re.findall(r'\*\*Q(\d+)\.\*\*.*?\*\*Answer:\*\*\s*\(([a-e])\)', q_text, flags=re.DOTALL)
+                scenario_answers = []
+                for q_num, ans in matches:
+                    scenario_answers.append((int(q_num), ans.upper()))
+                if scenario_answers:
+                    answer_key.append({"title": title, "answers": scenario_answers})
         except FileNotFoundError:
             print(f"Warning: {questions_file} not found. Skipping questions for {scenario_name}.")
             
+    if answer_key:
+        md_lines.append("\\newpage")
+        md_lines.append("# Answer Key")
+        md_lines.append("")
+        for scenario in answer_key:
+            s_title = scenario["title"].lstrip("# ")
+            md_lines.append(f"### {s_title}")
+            md_lines.append("")
+            md_lines.append("\\begin{multicols}{4}")
+            md_lines.append("\\noindent")
+            
+            scenario_answers = sorted(scenario["answers"], key=lambda x: x[0])
+            for q_num, ans in scenario_answers:
+                md_lines.append(f"\\textbf{{{q_num}.}} {ans}\\\\")
+                
+            md_lines.append("\\end{multicols}")
+            md_lines.append("")
+
     full_text = "\n".join(md_lines)
     
     # Apply formatting

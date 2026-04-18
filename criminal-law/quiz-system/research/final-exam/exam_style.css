@@ -40,7 +40,8 @@ p {
     text-align: justify;
 }
 
-ol, ul {
+ol,
+ul {
     padding-left: 2.5em;
     margin-top: 1em;
     margin-bottom: 2em;
@@ -52,14 +53,20 @@ li {
 }
 
 /* Delineation for Question Stems and Answer Options */
-ol ol, ul ul, ul ol, ol ul {
+ol ol,
+ul ul,
+ul ol,
+ol ul {
     list-style-type: upper-alpha;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
     padding-left: 2em;
 }
 
-ol ol li, ul ul li, ul ol li, ol ul li {
-    margin-bottom: 0.8em;
+ol ol li,
+ul ul li,
+ul ol li,
+ol ul li {
+    margin-bottom: 0.5em;
     text-align: left;
 }

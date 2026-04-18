@@ -5,6 +5,7 @@ format:
       text: |
         \usepackage{enumitem}
         \setlist{itemsep=0.25em}
+        \usepackage{multicol}
 ---
 # Scenario 1: The Genesis
 
@@ -71,9 +72,7 @@ e. Guilty of conspiracy because Benny's physical presence at the laboratory duri
 
 **Explanation:** A conspiracy requires an agreement to commit the target offense, but conspirators are permitted to divide labor. By agreeing to distribute the manufactured product and splitting the profits (Fact 2), Benny agreed to the overarching manufacturing and distribution scheme, establishing a bilateral agreement. (b) fails because physical presence is not the test for agreement, and unilateral agreement concerns undercover agents. (c) fails because factual impossibility or a lack of individual capacity does not bar conspiracy liability if the group plans to execute the crime. (d) is legally flawed because conspirators need not personally perform the actus reus of the target offense. (e) fails because Wharton's Rule applies to offenses that inherently require two people (like dueling), not drug manufacturing.
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - bilateral agreement requirement
 
 ---
 
@@ -93,9 +92,7 @@ e. Guilty of conspiracy because charging a 500% markup gives him a financial sta
 
 **Explanation:** Under the *Lauria* doctrine, while mere knowledge of illegal use is generally insufficient to establish the "purpose" required for conspiracy, purpose can be inferred if the supplier has a "stake in the venture." Charging a grossly inflated markup (500%) for restricted goods establishes this financial stake. (a) fails because mere knowledge is generally insufficient; purpose is required. (c) fails because a verbal disclaimer does not override the objective reality of the markup, which establishes a financial stake regardless of his words. (d) fails because while ether has innocent uses, Dan knew of its illicit use and exploited it; strict liability is irrelevant to conspiracy intent. (e) fails because conspirators do not need to participate in the actus reus if they share the purpose and agree to facilitate it.
 
-**Tags:** chapters: [18, 19], topics: [conspiracy, accomplice liability, mens rea, purpose, Lauria], difficulty: medium, cognitive: application
 
-**Grounding:** People v. Lauria; Chapter 19
 
 ---
 
@@ -115,9 +112,7 @@ e. Not guilty of theft because his actual, honest belief that he owned the centr
 
 **Explanation:** Theft is a specific intent crime requiring the intent to take the property *of another*. An honest mistake of fact regarding ownership directly negates this required mental state, preventing a conviction (Fact 4). (b) fails because there is no blanket legal doctrine of implied general consent simply based on being a tenured professor. (c) fails because for specific intent crimes, an honest mistake of fact need not be objectively reasonable to successfully negate the required mental state. (d) fails because theft is not a strict liability offense; it inherently requires a culpable mental state. (e) fails because the doctrine of transferred intent applies to missing a target and hitting another (e.g., in homicide), not transferring intent across entirely different statutory offenses.
 
-**Tags:** chapters: [10], topics: [mistake of fact, specific intent, mens rea], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 10 - mistake of fact negation of specific intent element
 
 ---
 
@@ -137,9 +132,7 @@ e. The statute requires proof of knowledge because the Morissette presumption ma
 
 **Explanation:** Under the *Morissette* factors, a statute is interpreted as a strict liability public welfare offense if it regulates dangerous items (ether), carries a minor penalty (30 days in jail), and targets a defendant in a position to prevent the harm. (a) fails because the *Morissette* presumption can be overcome by the public welfare offense factors. (b) fails because unlike the ordinary firearms in *Staples*, bulk volatile ether is inherently dangerous and highly regulated, putting possessors on notice. (d) fails because strict liability dispenses only with the mens rea requirement, not the actus reus requirement of a voluntary act. (e) fails because statutory silence alone does not bar mistake defenses; for example, the MPC defaults to recklessness when a statute is silent.
 
-**Tags:** chapters: [11], topics: [public welfare offenses, strict liability, Morissette factors], difficulty: medium, cognitive: application
 
-**Grounding:** Morissette v. United States; Chapter 11
 
 ---
 
@@ -159,9 +152,7 @@ e. Valid defense because his reading was based on the actual text of the statute
 
 **Explanation:** Under the *Marrero* rule, a defendant's personal misreading of a statute—even an arguably reasonable one based on a preamble (Fact 6)—does not constitute reliance on an "official statement of the law" and therefore provides no mistake of law defense. (a) fails because personal interpretations of the law, even if based on the text, do not excuse the violation. (b) fails because Albert is not a government official charged with interpreting the law for enforcement purposes; he is acting in a personal capacity. (d) fails because mistake of law defenses are actually more restricted for malum in se crimes (under *Prince*) and more relevant to malum prohibitum crimes. (e) fails because *Cheek* applies to tax "willfulness" and does not categorically ban mistake of law defenses for regulatory offenses.
 
-**Tags:** chapters: [10], topics: [mistake of law, official statement, Marrero rule], difficulty: medium, cognitive: application
 
-**Grounding:** People v. Marrero; Chapter 10
 
 ---
 
@@ -181,9 +172,7 @@ e. Not liable because the immediate physical movement causing the explosion was 
 
 **Explanation:** Similar to cases involving drivers with known seizure disorders (*Decina*), the time-framing doctrine traces liability back to the defendant's prior voluntary choice that foreseeably created the risk of involuntary harmful conduct. Albert knew of the spasm risk but voluntarily proceeded with the synthesis (Fact 7). (a) fails because reflexes are explicitly excluded from the definition of a voluntary act under MPC 2.01(2). (c) fails because the moment of involuntary movement does not sever liability if a prior voluntary act foreseeably created the danger. (d) fails because pharmaceutical side effects do not equal "external physical compulsion" (like being physically pushed by police), and voluntarily taking the risk negates the defense. (e) fails because the law only requires that the conduct *include* a voluntary act, not that every single movement be voluntary.
 
-**Tags:** chapters: [7], topics: [actus reus, voluntary act, time-framing], difficulty: hard, cognitive: application
 
-**Grounding:** People v. Decina; Chapter 7 time-framing doctrine
 
 ---
 
@@ -203,9 +192,7 @@ e. Proximate cause is established because ordinary medical negligence in treatin
 
 **Explanation:** Ordinary medical negligence in treating a wound caused by the defendant is legally considered a dependent intervening cause that is reasonably foreseeable, and therefore does not sever the chain of proximate causation. (a) fails because ordinary medical negligence is a dependent, not independent/superseding, intervening cause. (b) fails because death resulting from medical treatment for life-threatening lacerations caused by an explosion is not a highly extraordinary result. (d) fails because there is no doctrine that categorizes doctors as strict liability actors or transfers negligence in this manner. (e) fails because concurrent sufficient causes apply when two independent forces act simultaneously to cause death (e.g., two shooters at exactly the same time), not in a sequential treatment scenario.
 
-**Tags:** chapters: [8], topics: [causation, intervening cause, dependent vs independent], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 8 - ordinary medical negligence as a dependent intervening cause
 
 ---
 
@@ -225,9 +212,7 @@ e. Extreme indifference murder is more viable because the inherently dangerous f
 
 **Explanation:** Felony murder allows for a murder conviction based on the commission of an enumerated felony without the need to prove malice or subjective awareness of risk to human life, making it the most direct and viable path. The jurisdiction explicitly enumerates the synthesis process (Fact 8). (b) fails because extreme indifference murder requires recklessness manifesting extreme indifference to human life, not an intent to kill. (c) fails because felony murder explicitly applies to innocent bystanders killed during the felony; the agency rule only exempts deaths of co-felons killed by third parties. (d) fails because drug manufacturing is explicitly listed in the facts as an enumerated felony in this jurisdiction. (e) fails because extreme indifference murder inherently requires a subjective mens rea (recklessness), and felony murder is a substitute for malice, not based on strict liability offenses.
 
-**Tags:** chapters: [14, 13], topics: [felony murder, homicide grading, enumerated felony], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 14 - strict liability substitution and enumerated felonies
 
 ---
 
@@ -247,9 +232,7 @@ e. The felony does not merge because the merger doctrine only applies to inheren
 
 **Explanation:** The merger doctrine applies when the underlying felony is assaultive in nature and integral to the homicide. Because Albert's independent felonious purpose was to manufacture drugs for profit, not to assault Chloe, the felony is independent and does not merge into the homicide. (a) fails because physical or temporal simultaneity does not trigger merger; the inquiry focuses on the independent purpose of the underlying felony. (b) fails because a felony does not need to be completed; deaths occurring during the attempt or commission can trigger felony murder. (d) fails because merger applies to assaultive felonies generally, not exclusively to felonies committed with deadly weapons. (e) fails because bystander deaths do not automatically negate merger; if the underlying felony was an assault that inadvertently killed a bystander, it might still merge depending on the jurisdiction.
 
-**Tags:** chapters: [14], topics: [felony murder, merger doctrine, independent purpose], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 14 - merger doctrine (independent felonious purpose)
 
 ---
 
@@ -269,9 +252,7 @@ e. Not guilty of attempt because attempt liability requires the actual productio
 
 **Explanation:** Under the MPC, attempt requires a substantial step toward the commission of the offense that is strongly corroborative of the actor's criminal purpose. Lifting the reactive catalyst to pour into the vat satisfies this standard, moving beyond mere preparation. (b) fails because verbal agreement is relevant to conspiracy, while attempt under the physical proximity test requires being dangerously close to success, not just an agreement. (c) fails because the substantial step test does not require the final act or actual mixing; the act of lifting the flask to pour is sufficient. (d) fails because abandonment must be voluntary and complete; a police raid is an external interruption, not a voluntary abandonment. (e) fails because requiring actual production would mean the completed crime was required, defeating the entire concept of inchoate attempt liability.
 
-**Tags:** chapters: [17], topics: [attempt, substantial step, actus reus], difficulty: medium, cognitive: application
 
-**Grounding:** MPC Substantial Step Test; Chapter 17
 
 ---
 
@@ -291,9 +272,7 @@ e. Not guilty under Pinkerton because the offense was merely a misdemeanor regul
 
 **Explanation:** Under *Pinkerton* liability, a conspirator is liable for the substantive offenses committed by a co-conspirator if those offenses were committed in furtherance of the conspiracy and were reasonably foreseeable. Large quantities of volatile precursors are highly foreseeable in a drug manufacturing scheme. (b) fails because *Pinkerton* applies to any foreseeable offense in furtherance of the conspiracy, not just strict liability offenses. (c) fails because *Pinkerton* explicitly extends liability precisely when the co-conspirator did *not* participate in the actus reus of the substantive crime. (d) fails because *Pinkerton* can apply to misdemeanors or regulatory offenses committed in furtherance of the conspiracy. (e) fails because a division of labor does not shield a conspirator from foreseeable crimes committed by partners in furtherance of the joint enterprise.
 
-**Tags:** chapters: [19], topics: [conspiracy, Pinkerton liability, foreseeability], difficulty: medium, cognitive: application
 
-**Grounding:** Pinkerton v. United States; Chapter 19
 
 ---
 
@@ -313,9 +292,7 @@ e. Not guilty of constructive possession because the state cannot prove Benny ha
 
 **Explanation:** Constructive possession is established when a person has knowledge of the contraband and the power and intention to exercise dominion and control over it. Having the safe's combination for independent retrieval (Fact 13) satisfies this requirement. (a) fails because mere presence near contraband is insufficient to establish constructive possession without power and intent to control. (c) fails because possession can be joint; Kev's tenancy does not grant him exclusive possession if he shares access with others. (d) fails because who physically placed the items there is irrelevant if Benny currently has the ability to exercise control over them. (e) fails because possession requires intent to control, not immediate intent to distribute on a specific day.
 
-**Tags:** chapters: [15], topics: [constructive possession, awareness, control], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15 - constructive possession (power and intention to control)
 
 ---
 
@@ -335,9 +312,7 @@ e. Valid defense because the Castle Doctrine universally abolishes the duty to r
 
 **Explanation:** In a duty-to-retreat jurisdiction, a defendant cannot use deadly force if they know they can avoid the necessity of using such force with complete safety by retreating. Benny failed to use the available safe retreat out the open ground-floor window (Fact 15). (a) fails because the Castle Doctrine generally applies to one's own home, and Benny did not live at the stash house. (b) fails because while he faced an imminent threat, the statutory duty to retreat must still be satisfied if a safe escape route is available. (d) fails because being engaged in a crime does not categorically strip a person of the right to self-defense against a lethal attack, though it may trigger initial aggressor issues. (e) fails because a machete is a deadly weapon, making a handgun a proportional response to a lethal threat.
 
-**Tags:** chapters: [22], topics: [self-defense, duty to retreat], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22 - duty to retreat and safe available retreat
 
 ---
 
@@ -357,9 +332,7 @@ e. The duress defense fails because the defense is strictly limited to situation
 
 **Explanation:** The core element of duress requires a present, immediate, and impending threat of death or serious bodily injury. A racked shotgun pointed at the head accompanied by an immediate demand to deliver drugs perfectly satisfies this requirement. (b) fails because there is no legal presumption of coercive control based merely on co-conspirator status. (c) fails because a credible threat of serious bodily harm is sufficient; actual physical violence is not required to establish duress. (d) fails because the threat compelled the immediate flight and delivery; the coercive force of a gun to the head does not instantly dissipate upon walking out the door. (e) fails because duress is actually *barred* as a defense to intentional homicide; it is fully available for drug distribution.
 
-**Tags:** chapters: [21], topics: [duress, imminence, threat], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 21 - duress requirements (present, immediate, impending threat)
 
 ---
 
@@ -379,9 +352,7 @@ e. The defense is allowed because Kev's specific reaction to Slash's break-in wa
 
 **Explanation:** Under the MPC (§ 2.09(2)), the duress defense is unavailable if the actor recklessly placed himself in a situation in which it was probable that he would be subjected to duress. Joining a drug ring and working in a stash house satisfies this recklessness standard. (a) fails because strict liability applies to specific offenses, not physical locations, and does not automatically bar affirmative defenses like duress. (c) fails because the MPC limits duress based on recklessly entering a coercive situation, not just being an initial aggressor in a physical fight. (d) fails because violence and coercion among criminals in a drug stash house are inherently probable, not highly extraordinary. (e) fails because the MPC explicitly includes the fault calibration limitation for recklessness (and negligence if the charge is a crime of negligence).
 
-**Tags:** chapters: [21], topics: [duress, MPC fault calibration, recklessness], difficulty: hard, cognitive: application
 
-**Grounding:** MPC 2.09(2) Fault Calibration; Chapter 21
 
 # Scenario 2: The Distribution Ring
 
@@ -415,7 +386,7 @@ e. The defense is allowed because Kev's specific reaction to Slash's break-in wa
 
 ---
 
-**Q1.** Is there sufficient evidence of a conspiratorial agreement between Artie, Ben, Cole, and Damon?
+**Q16.** Is there sufficient evidence of a conspiratorial agreement between Artie, Ben, Cole, and Damon?
 
 a. Yes, because conspiracy is a strict liability offense where receiving any funds originating from a criminal enterprise automatically establishes membership regardless of the recipient's intent.
 
@@ -431,13 +402,11 @@ e. Yes, because a silent nod and acceptance of cash in response to an explicit p
 
 **Explanation:** The correct answer is (a) because an agreement can be inferred from coordinated conduct and acceptance of a role, even without explicit verbal discussion of details. (b) is wrong because explicit negotiation of specific details is not legally required to form a conspiracy. (c) is wrong because courts routinely infer agreement from conduct; a formal contract is never required. (d) is wrong because conspiracy is a specific intent crime, not a strict liability offense. (e) is wrong because agreeing to "take over the corners" in context clearly contemplates the specific intent to commit narcotics distribution.
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement-inference], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - Inferring agreement from coordinated conduct
 
 ---
 
-**Q2.** Assume the jurisdiction applies the Model Penal Code's "substantial step" test. Has Ben committed the actus reus for attempted distribution of stimulants before turning around?
+**Q17.** Assume the jurisdiction applies the Model Penal Code's "substantial step" test. Has Ben committed the actus reus for attempted distribution of stimulants before turning around?
 
 a. Yes, because driving toward the designated meeting point while possessing the stimulants is an act strongly corroborative of his criminal purpose to complete the planned distribution. <!-- correct -->
 
@@ -453,13 +422,11 @@ e. No, because the fact that Ben voluntarily turned his car around before arrivi
 
 **Explanation:** The correct answer is (a) because under the MPC, driving toward the target location with the necessary materials is a substantial step that is strongly corroborative of criminal purpose. (b) is wrong because "dangerously close" is the common law proximity test, not the MPC's substantial step test. (c) is wrong because merely accepting an assignment and a cash advance is likely mere preparation; the driving crossed the threshold. (d) is wrong because abandoning the effort later does not mean the prior physical acts lacked firmness at the moment they were committed. (e) is wrong because the MPC still requires an actus reus (a substantial step); mental state alone is never sufficient.
 
-**Tags:** chapters: [17], topics: [attempt, actus-reus-gray-zone], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17 - The Substantial Step Test (MPC)
 
 ---
 
-**Q3.** Assume Ben crossed the threshold for attempt. Under the Model Penal Code, can Ben successfully assert the affirmative defense of abandonment?
+**Q18.** Assume Ben crossed the threshold for attempt. Under the Model Penal Code, can Ben successfully assert the affirmative defense of abandonment?
 
 a. No, because Ben had already crossed the substantial step threshold for attempt, and the MPC strictly follows the common law rule barring any abandonment defense once attempt attaches.
 
@@ -475,13 +442,11 @@ e. Yes, because the MPC dictates that any withdrawal from a planned crime prior 
 
 **Explanation:** The correct answer is (a) because the MPC recognizes a complete and voluntary renunciation defense, and Ben's withdrawal was prompted by a personal text, not an increased risk of apprehension. (b) is wrong because the MPC does not require genuine moral remorse, only that the renunciation isn't forced by the risk of detection or difficulty of completion. (c) is wrong because withdrawal must be "complete and voluntary," not simply "any withdrawal." (d) is wrong because the MPC explicitly created the abandonment defense to apply *after* a substantial step has been taken. (e) is wrong because destroying the drugs prevents the crime's completion, aiding his defense, and evidence tampering is a separate offense that does not legally bar the abandonment defense.
 
-**Tags:** chapters: [17], topics: [attempt, abandonment-mpc], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17 - Abandonment as Affirmative Defense (MPC)
 
 ---
 
-**Q4.** Assume Ben is charged with attempted distribution, and the jurisdiction has adopted the MPC's approach to impossibility. Does the fact that "Vulture" was an undercover detective with no funds defeat the attempt charge against Ben?
+**Q19.** Assume Ben is charged with attempted distribution, and the jurisdiction has adopted the MPC's approach to impossibility. Does the fact that "Vulture" was an undercover detective with no funds defeat the attempt charge against Ben?
 
 a. Yes, because under the MPC framework, criminal attempt inherently requires an objective, genuine possibility of completing the target offense, which is completely absent in a sting operation.
 
@@ -497,13 +462,11 @@ e. No, because while the MPC retains the defense of factual impossibility, Ben's
 
 **Explanation:** The correct answer is (a) because the MPC explicitly abolishes impossibility as a defense, judging defendants based on the circumstances as they believed them to be. (b) is wrong because selling drugs remains a statutory crime regardless of the buyer's identity; this is factual or hybrid impossibility, not pure legal impossibility. (c) is wrong because the MPC abolished factual impossibility entirely and does not use the dangerous proximity test. (d) is wrong because the government's use of a sting operation does not categorically bar attempt liability under the MPC; it actually structurally enables it. (e) is wrong because the MPC expressly punishes conduct based on subjective belief, regardless of the objective possibility of success.
 
-**Tags:** chapters: [17], topics: [attempt, impossibility-sting-nexus], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 17 - MPC Abolition of Impossibility Defense
 
 ---
 
-**Q5.** Assume Cole is charged with aiding and abetting an armed robbery in a federal court applying the *Rosemond* standard. Did Cole possess the requisite mens rea to be liable for the *armed* nature of the robbery?
+**Q20.** Assume Cole is charged with aiding and abetting an armed robbery in a federal court applying the *Rosemond* standard. Did Cole possess the requisite mens rea to be liable for the *armed* nature of the robbery?
 
 a. Yes, because any accomplice who voluntarily participates in a drug-related stash house robbery is strictly liable for any firearms carried by coconspirators regardless of any advance knowledge.
 
@@ -519,13 +482,11 @@ e. No, because Cole immediately expressed genuine surprise upon seeing the loade
 
 **Explanation:** The correct answer is (a) because under *Rosemond*, an accomplice must have advance knowledge of the weapon at a time when they still have a meaningful opportunity to withdraw, which Cole did when outside the house. (b) is wrong because his initial surprise does not negate the fact that he saw the weapon, comprehended its presence, and chose to participate anyway. (c) is wrong because there is no strict liability for accomplices regarding coconspirators' weapons under the federal standard. (d) is wrong because knowing the gun will be used for intimidation ("just for show") still constitutes knowledge of its use to facilitate the crime. (e) is wrong because *Rosemond* explicitly rejects imposing retroactive intent for knowledge acquired mid-crime when withdrawal is no longer possible.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, mr-temporal-advance-knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 - Advance Knowledge and Meaningful Opportunity to Withdraw (Rosemond)
 
 ---
 
-**Q6.** Assume that, whether or not Cole had advance knowledge of the gun, he claims he only acted as a lookout because he needed Artie's cash, not because he wanted the robbery to succeed. Under the traditional complicity standard (as in *Gladstone* / *Peoni*), does this defense defeat accomplice liability?
+**Q21.** Assume that, whether or not Cole had advance knowledge of the gun, he claims he only acted as a lookout because he needed Artie's cash, not because he wanted the robbery to succeed. Under the traditional complicity standard (as in *Gladstone* / *Peoni*), does this defense defeat accomplice liability?
 
 a. Yes, because Cole's primary desire was simply to keep the cash advance rather than to ensure the actual success of the robbery, meaning he lacked the necessary purposive mental state.
 
@@ -541,13 +502,11 @@ e. Yes, because an accomplice must harbor personal animus or ideological support
 
 **Explanation:** The correct answer is (a) because taking a stake in the venture (the cash) and performing the assigned physical role establishes the purpose to make the crime succeed. (b) is wrong because the law does not require personal animus or ideological support; a financial motive is a classic way to establish purposive intent. (c) is wrong because the traditional standard strictly requires purpose to promote or facilitate, not mere knowledge. (d) is wrong because desiring the cash advance demonstrates a financial stake in the venture, which legally satisfies the purpose requirement. (e) is wrong because mere presence without encouragement or actual assistance does not automatically satisfy the purpose requirement.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, mr-purpose-not-knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 - Purpose vs. Knowledge (Gladstone/Peoni)
 
 ---
 
-**Q7.** Assume the jurisdiction applies the traditional natural and probable consequences (NPC) doctrine. Can Cole be held liable for Vic's murder?
+**Q22.** Assume the jurisdiction applies the traditional natural and probable consequences (NPC) doctrine. Can Cole be held liable for Vic's murder?
 
 a. Yes, because under the traditional NPC doctrine, an accomplice to any felony is strictly liable for any death that occurs during the crime regardless of objective foreseeability.
 
@@ -563,13 +522,11 @@ e. Yes, because Cole's act of standing at the back door as a lookout directly an
 
 **Explanation:** The correct answer is (a) because under the traditional NPC doctrine, a fatal shooting is considered a natural and probable (foreseeable) consequence of committing an armed stash house robbery. (b) is wrong because a co-felon's sudden violence during a tense criminal confrontation is highly foreseeable, not an independent intervening cause. (c) is wrong because the NPC doctrine is fundamentally based on objective foreseeability, not absolute strict liability for any death. (d) is wrong because an accomplice cannot reasonably rely on a claim that a loaded gun brought to a violent robbery will never be fired. (e) is wrong because Cole's liability derives from the foreseeability of his co-felon's acts, not because his physical positioning at the back door directly caused the death.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, npc-traditional-rule], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 - NPC Extends Liability to Foreseeable Crimes
 
 ---
 
-**Q8.** Assume instead that the jurisdiction has enacted natural and probable consequences reform identical to California's SB 1437. Does this reform automatically bar Cole's liability for Vic's murder?
+**Q23.** Assume instead that the jurisdiction has enacted natural and probable consequences reform identical to California's SB 1437. Does this reform automatically bar Cole's liability for Vic's murder?
 
 a. No, because SB 1437 only applies to unarmed accomplices, and Cole's knowledge of Damon's firearm immediately disqualifies him from asserting the statutory defense.
 
@@ -585,13 +542,11 @@ e. Yes, because the reform categorically eliminates all forms of vicarious liabi
 
 **Explanation:** The correct answer is (a) because SB 1437 retains liability for accomplices who are major participants acting with reckless indifference to human life. (b) is wrong because the reform does not require the accomplice to be the actual shooter if the major participant/reckless indifference threshold is met. (c) is wrong because the statute does not categorically exclude accomplices with knowledge of a weapon from its protections. (d) is wrong because malice can still be established and imputed through the major participant and reckless indifference pathway, even without specific intent to kill. (e) is wrong because the burden of proof remains firmly on the prosecution to establish the elements of the reformed statute.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, npc-reform-sb1437], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 18 - Reform Requiring Personal Malice (SB 1437)
 
 ---
 
-**Q9.** Assume the jurisdiction applies the traditional felony murder rule. Is Cole guilty of felony murder for Vic's death?
+**Q24.** Assume the jurisdiction applies the traditional felony murder rule. Is Cole guilty of felony murder for Vic's death?
 
 a. Yes, because Vic's death was caused by a co-felon during the attempted perpetration of an inherently dangerous predicate felony in which Cole was an active accomplice. <!-- correct -->
 
@@ -607,13 +562,11 @@ e. No, because Cole was stationed outside as a lookout and did not personally co
 
 **Explanation:** The correct answer is (a) because felony murder applies when a death is caused during the immediate perpetration of an inherently dangerous felony by any co-felon, and Cole is an accomplice to that felony. (b) is wrong because the shooting occurred within the temporal and spatial res gestae of the robbery, keeping it within the causal nexus regardless of the specific emotional trigger. (c) is wrong because felony murder requires the defendant to be an actual participant or accomplice in the underlying felony, not merely physically present. (d) is wrong because an accomplice to the underlying felony is vicariously liable for the resulting felony murder regardless of whether they physically caused the death. (e) is wrong because the doctrine relies on statutory imputation of malice, not a presumed consent to the risk of death by victims.
 
-**Tags:** chapters: [14], topics: [felony-murder, accomplice-liability], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 14 - Felony Murder and Accomplice Liability
 
 ---
 
-**Q10.** Assume Damon is charged with felony murder based on the underlying felony of aggravated assault, because he shot Vic immediately upon being insulted. Under the traditional merger doctrine (the *Ireland* rule), is this a valid charge?
+**Q25.** Assume Damon is charged with felony murder based on the underlying felony of aggravated assault, because he shot Vic immediately upon being insulted. Under the traditional merger doctrine (the *Ireland* rule), is this a valid charge?
 
 a. No, because Damon's rage-induced shooting constitutes an intervening emotional disturbance that legally reduces the underlying assault to a mere misdemeanor, precluding felony murder.
 
@@ -629,13 +582,11 @@ e. No, because the aggravated assault was not independent of the homicide, meani
 
 **Explanation:** The correct answer is (a) because under the traditional merger doctrine, an assault that results in death merges into the homicide and cannot serve as an independent predicate for felony murder. (b) is wrong because most jurisdictions apply the merger doctrine specifically to exclude assault from serving as a felony murder predicate to prevent all homicides from becoming felony murder. (c) is wrong because a rage-induced shooting relates to provocation, not the structural application of the merger doctrine to assault. (d) is wrong because the entire continuous assaultive act merges into the killing, regardless of when the elements were technically first satisfied. (e) is wrong because the merger doctrine applies structurally to the predicate offense, regardless of whether the defendant acted with actual malice or recklessness.
 
-**Tags:** chapters: [14], topics: [felony-murder, merger-independent-purpose], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 14 - Merger Doctrine (Independent Purpose)
 
 ---
 
-**Q11.** Assume Damon is charged with intentional murder. He argues his charge should be mitigated to voluntary manslaughter because Vic mocked him as an "errand boy," causing his face to flush red with sudden rage. Under the traditional common law provocation doctrine, will Damon succeed?
+**Q26.** Assume Damon is charged with intentional murder. He argues his charge should be mitigated to voluntary manslaughter because Vic mocked him as an "errand boy," causing his face to flush red with sudden rage. Under the traditional common law provocation doctrine, will Damon succeed?
 
 a. Yes, because the fact that Damon's face flushed red proves he was actually acting in the heat of passion before he had a reasonable cooling-off period.
 
@@ -651,13 +602,11 @@ e. No, because Damon was engaged in a criminal trespass at the time of the insul
 
 **Explanation:** The correct answer is (a) because under the traditional common law rule (Girouard), mere words or insults are categorically legally insufficient to constitute adequate provocation for voluntary manslaughter. (b) is wrong because while a flushed face shows he was subjectively enraged, the objective adequacy of the provocation (mere words) fails as a matter of law. (c) is wrong because committing a trespass does not automatically forfeit all mitigating defenses if an objectively adequate provocation occurred. (d) is wrong because extreme emotional disturbance is a modern MPC concept, whereas the common law relies on strict, categorical adequate provocation triggers. (e) is wrong because bringing a weapon may be evidence of premeditation, but it does not formally bar a provocation defense if a legally adequate trigger occurred subsequently.
 
-**Tags:** chapters: [12], topics: [intentional-homicide, provocation], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 12 - Words Alone (Girouard)
 
 ---
 
-**Q12.** Assume Artie is operating an ongoing conspiracy to sell the drugs in the stash house. Did Cole's actions after the shooting legally terminate his liability for any future crimes committed by the conspiracy?
+**Q27.** Assume Artie is operating an ongoing conspiracy to sell the drugs in the stash house. Did Cole's actions after the shooting legally terminate his liability for any future crimes committed by the conspiracy?
 
 a. No, because hiding in a motel and cutting off communication without notifying police or explicitly telling his coconspirators he was quitting does not satisfy the affirmative steps required for withdrawal. <!-- correct -->
 
@@ -673,13 +622,11 @@ e. No, because under the Model Penal Code framework, a conspirator must physical
 
 **Explanation:** The correct answer is (a) because effective withdrawal requires affirmative steps to disavow or defeat the conspiracy and explicit communication of those steps to coconspirators or law enforcement. (b) is wrong because simply running away and ignoring phone calls does not legally communicate abandonment to the other conspirators. (c) is wrong because withdrawal is always possible to terminate future ongoing liability, even after an overt act has been committed. (d) is wrong because an unplanned murder does not automatically terminate an ongoing distribution conspiracy by operation of law. (e) is wrong because neither the common law nor the MPC imposes a strict twenty-four-hour physical surrender requirement for withdrawal.
 
-**Tags:** chapters: [19], topics: [conspiracy, withdrawal-requirements], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - Withdrawal Is Demanding
 
 ---
 
-**Q13.** Assume the jurisdiction applies the *Pinkerton* doctrine. Can Artie be convicted of the substantive crime of Vic's murder?
+**Q28.** Assume the jurisdiction applies the *Pinkerton* doctrine. Can Artie be convicted of the substantive crime of Vic's murder?
 
 a. No, because Artie was not physically present at the stash house and did not explicitly authorize Damon to use lethal force against the specific occupants.
 
@@ -695,13 +642,11 @@ e. Yes, because Artie was a member of the ongoing conspiracy to clear out the st
 
 **Explanation:** The correct answer is (a) because under *Pinkerton*, a conspirator is liable for the foreseeable substantive offenses committed by coconspirators in furtherance of the ongoing conspiracy. (b) is wrong because *Pinkerton* explicitly dispenses with the requirement of physical presence or explicit authorization for the specific substantive crime. (c) is wrong because the wire transfer is evidence of the ongoing conspiracy, but the liability attaches via the vicarious *Pinkerton* doctrine, not retroactive principal status. (d) is wrong because clearing out the stash house inherently involved confronting the occupant, making the shooting foreseeable and in furtherance of the goal despite the specific emotional trigger. (e) is wrong because *Pinkerton* requires the crimes to be foreseeable and in furtherance of the specific conspiracy, not absolute strict liability.
 
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton-doctrine], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - Pinkerton Vicarious Liability
 
 ---
 
-**Q14.** Assume instead the jurisdiction has adopted the Model Penal Code and explicitly rejected the *Pinkerton* doctrine. Does Artie's status as the conspiracy's ringleader automatically make him liable for Vic's murder?
+**Q29.** Assume instead the jurisdiction has adopted the Model Penal Code and explicitly rejected the *Pinkerton* doctrine. Does Artie's status as the conspiracy's ringleader automatically make him liable for Vic's murder?
 
 a. Yes, because even without *Pinkerton*, the MPC allows a jury to infer an accomplice's specific intent to kill solely from their leadership role in an inherently dangerous drug distribution ring.
 
@@ -717,13 +662,11 @@ e. Yes, because Artie formally rewarded Damon with an additional wire transfer a
 
 **Explanation:** The correct answer is (a) because the MPC rejects vicarious liability based solely on conspiracy membership and requires the traditional elements of accomplice liability for substantive crimes. (b) is wrong because the MPC explicitly forbids inferring specific intent to commit a substantive crime solely from a generalized leadership role in a conspiracy. (c) is wrong because a principal can still be liable under the MPC if the prosecution proves they acted as an accomplice to the subordinate's crime. (d) is wrong because rewarding someone after the fact does not create automatic strict liability for the murder itself. (e) is wrong because the MPC's accomplice liability rules do not require physical presence at the scene to impute liability.
 
-**Tags:** chapters: [19, 18], topics: [conspiracy, pinkerton-mpc-rejection, accomplice-liability], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - MPC Rejection of Pinkerton
 
 ---
 
-**Q15.** Assume police charge Artie with possession of the drugs inside the locked safe. Artie argues he cannot be convicted because he lacked the key. Under the doctrine of constructive possession, will his defense succeed?
+**Q30.** Assume police charge Artie with possession of the drugs inside the locked safe. Artie argues he cannot be convicted because he lacked the key. Under the doctrine of constructive possession, will his defense succeed?
 
 a. Yes, because constructive possession strictly requires the defendant to possess immediate and unhindered physical access to the interior of the container holding the illicit substances.
 
@@ -739,9 +682,7 @@ e. No, because the legal doctrine of constructive possession automatically imput
 
 **Explanation:** The correct answer is (a) because constructive possession requires awareness of the contraband and the power and intent to exercise control over it, which Artie demonstrated by controlling the space and moving the safe. (b) is wrong because constructive possession does not legally require immediate, unhindered physical access to the interior of a locked container. (c) is wrong because constructive possession requires proof of awareness and intent to control, not automatic strict liability for any rent-paying tenant. (d) is wrong because deliberately moving the safe holding the drugs demonstrates physical dominion, establishing the necessary element of control regardless of the chore's mundane nature. (e) is wrong because being a ringleader is circumstantial evidence of intent, but it does not formally override or nullify the doctrinal elements of possession.
 
-**Tags:** chapters: [15], topics: [possession, constructive-possession], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 15 - Constructive Possession (Awareness and Control)
 
 # Scenario 3: The Empire Business
 
@@ -771,7 +712,7 @@ e. No, because the legal doctrine of constructive possession automatically imput
 
 ---
 
-**Q1.** The government intends to indict Vance for a RICO violation, alleging that Apex Freight constitutes an "enterprise." Vance files a pre-trial motion to dismiss, arguing that Apex is a formally chartered, legitimate corporation with genuine legal operations, and therefore cannot be characterized as a criminal enterprise. How should the court rule?
+**Q31.** The government intends to indict Vance for a RICO violation, alleging that Apex Freight constitutes an "enterprise." Vance files a pre-trial motion to dismiss, arguing that Apex is a formally chartered, legitimate corporation with genuine legal operations, and therefore cannot be characterized as a criminal enterprise. How should the court rule?
 
 a. Grant the motion, because RICO was designed exclusively to target inherently criminal organizations rather than legally chartered corporate businesses.
 
@@ -787,13 +728,11 @@ e. Deny the motion, because Vance, as the sole mastermind of the drug routing, f
 
 **Explanation:** A legitimate corporation can serve as a RICO enterprise when its formal structure—such as its payroll, software, and warehouse facilities—is used to conduct or facilitate racketeering activity. (a) is wrong because courts consistently hold that lawful entities can serve as RICO enterprises. (b) is wrong because Vance explicitly utilized the company's legitimate dispatch and payroll infrastructure, not merely a personal frolic. (d) is wrong because illegal activity does not automatically void a legal charter; the enterprise element is satisfied by the repurposing of the structure. (e) is wrong because an individual cannot form an association-in-fact enterprise with himself; it requires structural relationships among multiple associates.
 
-**Tags:** chapters: [20], topics: [RICO, enterprise liability, corporate enterprise], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 20, Corporate Enterprise as RICO Enterprise (Insys Therapeutics model)
 
 ---
 
-**Q2.** Assume Apex Freight constitutes a valid enterprise. The government charges Thorne with conspiracy to distribute narcotics. Thorne argues he lacked the intent to agree to a criminal scheme because his subjective motivation was simply paying off his mortgage, and he genuinely despised the drug trade. Is Thorne's argument likely to succeed?
+**Q32.** Assume Apex Freight constitutes a valid enterprise. The government charges Thorne with conspiracy to distribute narcotics. Thorne argues he lacked the intent to agree to a criminal scheme because his subjective motivation was simply paying off his mortgage, and he genuinely despised the drug trade. Is Thorne's argument likely to succeed?
 
 a. No, because his receipt of a twenty percent salary bump demonstrates a financial stake in the venture, allowing the jury to infer his intent to agree. <!-- correct -->
 
@@ -809,13 +748,11 @@ e. No, because an employee's knowledge of illicit contents is legally sufficient
 
 **Explanation:** Under the *Lauria* standard, while mere knowledge of a conspiracy's illegal purpose is generally insufficient, the intent to agree and facilitate the crime can be inferred when the provider of a service has a "stake in the venture." Thorne's 20% salary premium for routing the drugs constitutes a direct financial stake in the illicit operation's success. (a) and (b) are wrong because ultimate motives (paying a mortgage) do not negate the specific intent to facilitate the crime to earn that money. (c) is wrong because knowledge alone is traditionally insufficient without a stake, inflated pricing, or lack of legitimate use. (e) is wrong because conspiracy is a specific intent crime, never a strict liability offense.
 
-**Tags:** chapters: [19], topics: [conspiracy, Lauria inference, intent to agree], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19, Mens Rea: The Lauria Inference (Stake in the Venture)
 
 ---
 
-**Q3.** Assume Thorne is additionally charged as an accomplice to Vance's substantive drug distribution. Thorne argues he cannot be convicted as an accomplice because he lacked the "purpose" to promote the crime, merely routing the crates while harboring personal disdain for the operation. How should the court rule on this defense?
+**Q33.** Assume Thorne is additionally charged as an accomplice to Vance's substantive drug distribution. Thorne argues he cannot be convicted as an accomplice because he lacked the "purpose" to promote the crime, merely routing the crates while harboring personal disdain for the operation. How should the court rule on this defense?
 
 a. Thorne is not guilty as an accomplice, because his personal disdain for the drug trade proves his objective was exclusively to earn lawful compensation.
 
@@ -831,13 +768,11 @@ e. Thorne is guilty as an accomplice, because the common law always equates mere
 
 **Explanation:** Accomplice liability requires that the defendant act with the "purpose" of promoting or facilitating the commission of the offense. As in conspiracy, a financial stake in the success of the crime (the 20% bump) demonstrates the requisite purpose to facilitate it, even if the defendant's broader emotional attitude is disdain. (a) is wrong because while mere knowledge is insufficient, the financial premium elevates his involvement to purpose. (b) is wrong because personal disdain does not negate purposeful facilitation aimed at securing a financial reward. (c) is wrong because accomplice liability requires specific intent, not strict liability for following orders. (e) is wrong because mere presence is never sufficient for accomplice liability.
 
-**Tags:** chapters: [18], topics: [accomplice liability, purpose vs knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18, Mens Rea: Purpose vs. Knowledge
 
 ---
 
-**Q4.** The government charges Locke with being a felon in possession of a firearm under 18 U.S.C. § 922(g)(1) based on his prior fraud conviction. Locke testifies that his state probation officer explicitly told him the conviction was merely a misdemeanor. If the jury believes Locke's testimony, what is the legally appropriate outcome under the *Rehaif* standard?
+**Q34.** The government charges Locke with being a felon in possession of a firearm under 18 U.S.C. § 922(g)(1) based on his prior fraud conviction. Locke testifies that his state probation officer explicitly told him the conviction was merely a misdemeanor. If the jury believes Locke's testimony, what is the legally appropriate outcome under the *Rehaif* standard?
 
 a. Acquittal, because the government must prove he knew he belonged to the prohibited class, and his genuine belief negates this necessary status element. <!-- correct -->
 
@@ -853,13 +788,11 @@ e. Conviction, because relying on a state probation officer's statement is funda
 
 **Explanation:** Under *Rehaif v. United States*, the government must prove that the defendant knew both that he possessed a firearm and that he belonged to the relevant prohibited category (e.g., that he was a felon). Because Locke genuinely believed his conviction was a misdemeanor based on his PO's statement, he lacked the requisite knowledge of his status. (a) is wrong because *Rehaif* explicitly rejected making the status element strict liability. (b) is wrong because the *Rehaif* knowledge requirement turns on subjective awareness of status, not objective reasonableness. (d) is wrong because while the constitutionality of disarming nonviolent felons is actively debated post-*Bruen*, it is not a categorical bar that decides this statutory mens rea question. (e) is wrong because while entrapment by estoppel relies on official statements, *Rehaif* directly resolves the issue by negating the statutory element itself without needing an affirmative defense.
 
-**Tags:** chapters: [10, 15], topics: [Rehaif, mens rea, status element, felon in possession], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 10, The Morissette Presumption applied to status elements (Rehaif)
 
 ---
 
-**Q5.** Assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. Locke argues he should only be sentenced based on oxycodone, since he genuinely and reasonably believed the crates contained black-market oxycodone. Is his sentencing argument valid?
+**Q35.** Assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. Locke argues he should only be sentenced based on oxycodone, since he genuinely and reasonably believed the crates contained black-market oxycodone. Is his sentencing argument valid?
 
 a. Yes, because the mistake of fact doctrine allows defendants to be sentenced solely for the lesser crime they subjectively intended to commit.
 
@@ -875,9 +808,7 @@ e. No, because any subjective mistake about the type of drug is legally irreleva
 
 **Explanation:** Under the general-nature mens rea standard for controlled substances, the government only needs to prove the defendant knew he possessed a controlled substance, not the specific identity of the drug. Once that mens rea is satisfied, weight-based mandatory minimums apply as strict liability sentencing factors based on the actual quantity and type of drug possessed (fentanyl). (a) is wrong because the "lesser crime" limitation does not apply to drug identity substitutions under federal law. (b) is wrong because the Supreme Court permits strict liability for sentencing enhancements once the baseline mens rea for possession is met. (d) is wrong because coercion is unrelated to the mens rea required for substance identity. (e) is wrong because mandatory minimums do not eliminate the *initial* mens rea required for the possession offense itself; they only make the *sentencing factor* strict liability.
 
-**Tags:** chapters: [15], topics: [fentanyl asymmetry, mens rea, mandatory minimums], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15, Mens Rea: Knowledge of Substance Type and Fentanyl Asymmetry
 
 ---
 
@@ -885,7 +816,7 @@ e. No, because any subjective mistake about the type of drug is legally irreleva
 
 Local PD just forwarded us a homicide file that intersects with our Apex investigation. Locke was involved in a shootout on his route. Analyze Locke's liability for acquiring the new weapon and the resulting homicide, and evaluate whether we can hook Thorne for the fallout.
 
-**Q6.** The government charges Locke with "using" a firearm during and in relation to a drug trafficking crime under 18 U.S.C. § 924(c), based solely on his transaction exchanging the fentanyl for the AR-15. Locke moves to dismiss this specific charge. Under controlling Supreme Court precedent, how should the court rule?
+**Q36.** The government charges Locke with "using" a firearm during and in relation to a drug trafficking crime under 18 U.S.C. § 924(c), based solely on his transaction exchanging the fentanyl for the AR-15. Locke moves to dismiss this specific charge. Under controlling Supreme Court precedent, how should the court rule?
 
 a. Grant the motion, because the transaction involved fentanyl rather than a traditional narcotic, which legally exempts the exchange from the federal statute.
 
@@ -901,13 +832,11 @@ e. Grant the motion, because only the party tendering the firearm in a barter tr
 
 **Explanation:** Under *Watson v. United States*, a person who receives a firearm in exchange for drugs does not "use" the firearm under § 924(c). Only the party offering the gun as payment (as in *Smith v. United States*) "uses" it as currency. (a) is wrong because the Court specifically distinguishes the two directions of the trade. (b) is wrong because future intended deployment does not constitute active "use" during the immediate transaction. (d) is wrong because Justice Ginsburg's view (that "use" must mean use as a weapon) was a concurrence and would have required overturning *Smith*; the majority simply held that receiving a gun is not using it. (e) is wrong because fentanyl is a federally controlled substance and trafficking it triggers the statute.
 
-**Tags:** chapters: [15], topics: [Watson rule, 924(c) use], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15, "Using" a Firearm Under § 924(c) (Watson v. United States)
 
 ---
 
-**Q7.** Locke is charged with homicide for the death of the convenience store clerk. Locke claims self-defense, arguing he was legally justified in firing the rifle to repel the imminent, deadly threat posed by the rival hijacking crew pointing shotguns at him. Does Locke's self-defense claim exculpate him for the clerk's death?
+**Q37.** Locke is charged with homicide for the death of the convenience store clerk. Locke claims self-defense, arguing he was legally justified in firing the rifle to repel the imminent, deadly threat posed by the rival hijacking crew pointing shotguns at him. Does Locke's self-defense claim exculpate him for the clerk's death?
 
 a. No, because firing blindly toward an occupied store constitutes reckless conduct, and self-defense justifications do not transfer to recklessly injuring innocent bystanders. <!-- correct -->
 
@@ -923,13 +852,11 @@ e. No, because the initial aggressor rule completely bars any defendant particip
 
 **Explanation:** Self-defense justifies the use of force against an aggressor. However, if a defendant acts recklessly toward innocent third parties while defending himself (e.g., firing blindly into an occupied store), the justification does not transfer to exculpate the reckless killing of the bystander. (a) is wrong because the privilege is not absolute regarding innocent bystanders. (b) is wrong because imperfect self-defense applies when a defendant has an honest but unreasonable belief in the need for force against the *victim*, not to mitigate the reckless killing of bystanders. (d) is wrong because participating in the drug trade does not automatically make someone the "initial aggressor" in a subsequent armed robbery. (e) is wrong because illegal weapon possession does not categorically void the right of self-defense against a lethal attack.
 
-**Tags:** chapters: [22], topics: [self-defense, third-party bystanders, recklessness], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22, Limits on Self-Defense (recklessness toward bystanders)
 
 ---
 
-**Q8.** Assume the prosecution pursues a depraved heart (extreme indifference) murder charge against Locke for the clerk's death. Locke argues that because he only fired to scare the hijackers and did not subjectively intend to kill the clerk, he cannot be convicted of murder. Is Locke's legal argument correct?
+**Q38.** Assume the prosecution pursues a depraved heart (extreme indifference) murder charge against Locke for the clerk's death. Locke argues that because he only fired to scare the hijackers and did not subjectively intend to kill the clerk, he cannot be convicted of murder. Is Locke's legal argument correct?
 
 a. No, because the transferred intent doctrine perfectly transfers his intent to scare the hijackers into the specific intent to premeditate the clerk's murder.
 
@@ -945,13 +872,11 @@ e. Yes, because depraved heart murder strictly requires the prosecution to prove
 
 **Explanation:** Depraved heart (extreme indifference) murder does not require the specific intent to kill. It requires recklessness (conscious disregard of a substantial and unjustifiable risk) under circumstances manifesting an extreme indifference to the value of human life. Firing a rifle blindly into an occupied store easily satisfies this standard. (a) is wrong because it incorrectly describes extreme indifference murder as requiring specific intent. (b) is wrong because "intending to scare" does not automatically mitigate extreme recklessness to manslaughter. (d) is wrong because commercial deliveries are not inherently dangerous enumerated felonies, and felony murder does not convert accidents into "intentional" murder. (e) is wrong because transferred intent applies when the defendant intends to kill person A but kills person B; Locke only intended to scare, so there is no intent to kill to transfer.
 
-**Tags:** chapters: [13], topics: [extreme indifference murder, unintentional homicide, depraved heart], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 13, Extreme Indifference Standard
 
 ---
 
-**Q9.** The prosecution charges Thorne with the clerk's homicide under a *Pinkerton* conspiracy theory. Thorne argues he cannot be held liable because he was sitting at his dispatch desk miles away, never approved Locke's acquisition of the AR-15, and despises violence. Will Thorne's defense against the *Pinkerton* charge succeed?
+**Q39.** The prosecution charges Thorne with the clerk's homicide under a *Pinkerton* conspiracy theory. Thorne argues he cannot be held liable because he was sitting at his dispatch desk miles away, never approved Locke's acquisition of the AR-15, and despises violence. Will Thorne's defense against the *Pinkerton* charge succeed?
 
 a. No, because the MPC explicitly rejects the *Pinkerton* doctrine, meaning Thorne is automatically liable under standard accomplice liability principles instead.
 
@@ -967,9 +892,7 @@ e. Yes, because *Pinkerton* liability strictly requires the prosecution to prove
 
 **Explanation:** Under the *Pinkerton* doctrine, a conspirator is liable for the substantive offenses committed by co-conspirators if those offenses are in furtherance of the conspiracy and are reasonably foreseeable consequences of the unlawful agreement. A fatal shootout/weapon escalation is widely recognized as a reasonably foreseeable consequence of a large-scale drug trafficking conspiracy. (a) is wrong because *Pinkerton* specifically bypasses the need for explicit authorization or accomplice-level participation in the substantive crime. (b) is wrong because personal disdain does not negate foreseeability. (c) is wrong because *Pinkerton* is not boundless; the crime must be foreseeable and in furtherance of the conspiracy. (e) is wrong because while the MPC rejects *Pinkerton*, standard accomplice liability is *harder* to prove (requiring purposeful facilitation of the specific crime), so rejecting *Pinkerton* would aid Thorne, not automatically convict him.
 
-**Tags:** chapters: [19], topics: [Pinkerton liability, foreseeability, conspiracy], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19, Pinkerton Doctrine
 
 ---
 
@@ -977,7 +900,7 @@ e. Yes, because *Pinkerton* liability strictly requires the prosecution to prove
 
 We executed a search warrant on the Apex warehouse last night. We found Locke's AR-15, plus evidence of a bizarre side plot Locke was planning against his own boss. Draft a final memo assessing Thorne's liability for the gun and Locke's liability for the aborted inside job.
 
-**Q10.** During the warehouse raid, agents find Locke's AR-15 inside the locked breakroom locker. The government charges Thorne with constructive possession of the rifle because he held the only master key. Based on Thorne's statement that he knew it was there but refused to touch it, is he guilty of constructive possession?
+**Q40.** During the warehouse raid, agents find Locke's AR-15 inside the locked breakroom locker. The government charges Thorne with constructive possession of the rifle because he held the only master key. Based on Thorne's statement that he knew it was there but refused to touch it, is he guilty of constructive possession?
 
 a. No, because constructive possession requires the defendant to be within arm's reach of the contraband at the exact moment the law enforcement raid occurs.
 
@@ -993,13 +916,11 @@ e. No, because the Second Amendment entirely prohibits the government from prose
 
 **Explanation:** Constructive possession requires three elements: (1) knowledge of the contraband's presence, (2) the power to exercise dominion and control (having the master key), and (3) the intent to exercise dominion and control. Thorne's awareness of the gun and possession of the key satisfy the first two elements, but his explicit refusal to touch it negates the intent to exercise control. (a) is wrong because power and knowledge alone are insufficient without intent. (b) is wrong because the "snapshot" rule from *Jenkins* requires evidence of association/control, not strict liability for managers. (d) is wrong because constructive possession was specifically designed to apply when the defendant is *not* within arm's reach. (e) is wrong because the Second Amendment does not categorically bar constructive possession prosecutions.
 
-**Tags:** chapters: [15], topics: [constructive possession, awareness vs control], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15, Constructive Possession: Awareness Is Not Dominion
 
 ---
 
-**Q11.** The government uncovers Locke's aborted plan to rob the Apex safe. The prosecution charges Locke with attempted robbery. Under the Common Law physical proximity test versus the Model Penal Code (MPC) substantial step test, how would Locke's conduct (drawing a map and buying ski masks) likely be evaluated?
+**Q41.** The government uncovers Locke's aborted plan to rob the Apex safe. The prosecution charges Locke with attempted robbery. Under the Common Law physical proximity test versus the Model Penal Code (MPC) substantial step test, how would Locke's conduct (drawing a map and buying ski masks) likely be evaluated?
 
 a. He is guilty under the Common Law but not the MPC, because the Common Law focuses on the defendant's dangerousness while the MPC focuses on physical closeness.
 
@@ -1015,13 +936,11 @@ e. He is guilty under the MPC but not the Common Law, because his acts strongly 
 
 **Explanation:** The Common Law's physical proximity test requires the defendant to be geographically and chronologically close to completing the crime. Drawing a map and buying masks far in advance fails this strict test. Conversely, the MPC's substantial step test focuses on what the defendant has already done, and acts like reconnoitering or possessing materials specifically designed for the crime are sufficient if they strongly corroborate the criminal purpose. (a) is wrong because specialized equipment does not automatically satisfy physical proximity. (b) is wrong because these acts can be criminalized as attempt. (c) is wrong because it completely reverses the frameworks—the MPC focuses on dangerousness, while the Common Law focuses on physical closeness. (e) is wrong because the MPC strictly retains the specific intent requirement for attempt.
 
-**Tags:** chapters: [17], topics: [attempt, substantial step, physical proximity], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17, Actus Reus: The Substantial Step Test (MPC) vs Proximity
 
 ---
 
-**Q12.** Assume the jurisdiction applies the MPC. Locke argues that even if his actions constituted a substantial step toward robbing the safe, he is entitled to the affirmative defense of abandonment because he texted his crew "I'm out" and threw his ski mask away before the robbery occurred. Will Locke's abandonment defense succeed?
+**Q42.** Assume the jurisdiction applies the MPC. Locke argues that even if his actions constituted a substantial step toward robbing the safe, he is entitled to the affirmative defense of abandonment because he texted his crew "I'm out" and threw his ski mask away before the robbery occurred. Will Locke's abandonment defense succeed?
 
 a. Yes, because the MPC requires courts to dismiss any attempt charge if the defendant physically destroys the criminal instrumentalities before the police arrive.
 
@@ -1037,9 +956,7 @@ e. No, because under the MPC, any act that qualifies as a substantial step immed
 
 **Explanation:** The MPC recognizes abandonment as an affirmative defense, but requires that the renunciation be complete and voluntary. A withdrawal is not "voluntary" if it is motivated by circumstances not present at the inception of the conduct that increase the probability of detection or apprehension. Locke's text citing "too much police heat" demonstrates his withdrawal was motivated by fear of apprehension, not a genuine change of heart. (a) is wrong because the text explicitly shows external pressure (police heat) drove the decision. (b) is wrong because destroying evidence does not automatically trigger the defense if the motive wasn't voluntary. (d) is wrong because abandonment can apply to conspiracies (though the withdrawer must often thwart the plot, the premise that it's "strictly unavailable" is false). (e) is wrong because the MPC specifically created the abandonment defense to give defendants an incentive to stop *after* crossing the substantial step threshold.
 
-**Tags:** chapters: [17], topics: [attempt, abandonment defense, MPC], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17, Abandonment: The MPC Defense
 
 # Scenario 4: The Blowback
 
@@ -1078,7 +995,7 @@ e. No, because under the MPC, any act that qualifies as a substantial step immed
 
 ---
 
-**Q1.** Assume Deacon is charged with first-degree murder for Vance's death in a jurisdiction following the Pennsylvania "no-time-too-short" rule. Is the premeditation element satisfied?
+**Q43.** Assume Deacon is charged with first-degree murder for Vance's death in a jurisdiction following the Pennsylvania "no-time-too-short" rule. Is the premeditation element satisfied?
 
 a. No, because the rapid sequence of events precluded any meaningful reflection on his actions.
 
@@ -1094,13 +1011,11 @@ e. Yes, because retrieving the poison vial inherently demonstrates prolonged and
 
 **Explanation:** Under the Pennsylvania rule (as seen in *Commonwealth v. Carroll*), premeditation requires no minimum length of time; any conscious decision to kill, no matter how brief, satisfies the element. Option (b) is wrong because the PA rule explicitly eliminates the need for "prolonged" planning. Option (c) wrongly applies the original qualification from *Drum* that the PA Supreme Court subsequently dropped in *Carroll*. Option (d) correctly states the MPC rule, but the stem explicitly specifies a PA-rule jurisdiction. Option (e) is the defense argument or dissent view, but it fails under the PA standard where an instant suffices.
 
-**Tags:** chapters: [12], topics: [intentional homicide, premeditation, Pennsylvania rule], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 12 - no-time-too-short: The Pennsylvania Rule — Any Conscious Decision Suffices
 
 ---
 
-**Q2.** Assume that, regardless of premeditation, Deacon seeks a voluntary manslaughter instruction under the traditional common law categories of adequate provocation. Based on the diner encounter, will the court likely grant the instruction?
+**Q44.** Assume that, regardless of premeditation, Deacon seeks a voluntary manslaughter instruction under the traditional common law categories of adequate provocation. Based on the diner encounter, will the court likely grant the instruction?
 
 a. Mitigated to manslaughter, because the combination of a physical insult and opprobrious words satisfies the extreme emotional disturbance test.
 
@@ -1116,13 +1031,11 @@ e. Not mitigated to manslaughter, because an objectively unreasonable amount of 
 
 **Explanation:** Under the traditional common law, adequate provocation is limited to narrow historical categories, one of which is assault and battery. Being spat directly in the face (Fact 2) constitutes an offensive touching (battery), satisfying the categorical requirement. Option (b) incorrectly applies the MPC's "extreme emotional disturbance" standard instead of the requested common law standard. Option (c) relies on the correct rule from *Girouard* (words alone are inadequate), but misapplies it to these facts, as Vance did not merely use words; he spat in Deacon's face. Option (d) is factually incorrect because Deacon retaliated "immediately" (Fact 3), leaving no cooling time. Option (e) is doctrinally incorrect because immediate retaliation is precisely what heat of passion mitigates.
 
-**Tags:** chapters: [12], topics: [voluntary manslaughter, adequate provocation, common law], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 12 - historical-categories-honor: Historical Provocation Categories Rooted in Honor Culture
 
 ---
 
-**Q3.** Assume Deacon is charged with depraved heart murder in Maryland for Chloe's fatal overdose. Under the *Beckwitt* standard for determining the threshold of extreme indifference, what must the prosecution prove regarding Deacon's mental state and conduct?
+**Q45.** Assume Deacon is charged with depraved heart murder in Maryland for Chloe's fatal overdose. Under the *Beckwitt* standard for determining the threshold of extreme indifference, what must the prosecution prove regarding Deacon's mental state and conduct?
 
 a. That his decision to double the drug concentration was a gross deviation from the standard of care a reasonable person would observe.
 
@@ -1138,13 +1051,11 @@ e. That his decision to double the drug concentration was reasonably likely, if 
 
 **Explanation:** The *Beckwitt* standard clarifies the line between manslaughter and depraved heart murder in Maryland, requiring that the defendant's conduct be "reasonably likely, if not certain, to cause death." Option (a) applies this exact standard. Option (b) defines standard recklessness (the floor for involuntary manslaughter), which *Beckwitt* holds is insufficient for depraved heart murder. Option (c) describes the *mens rea* for first-degree intentional murder, which is not required for depraved heart murder. Option (d) defines gross negligence (the standard for involuntary manslaughter in non-MPC states). Option (e) states the abstract-elements test for felony murder, not the extreme indifference standard.
 
-**Tags:** chapters: [13], topics: [depraved heart murder, extreme indifference, Beckwitt], difficulty: medium, cognitive: recall
 
-**Grounding:** Chapter 13 - likely-if-not-certain-standard: Maryland's "Likely, If Not Certain, to Cause Death" — Manslaughter/Murder Line
 
 ---
 
-**Q4.** Assume Sloane is charged with manslaughter under the Model Penal Code for Chloe's death. How does Sloane's statement to Deacon affect her liability?
+**Q46.** Assume Sloane is charged with manslaughter under the Model Penal Code for Chloe's death. How does Sloane's statement to Deacon affect her liability?
 
 a. Not guilty of manslaughter, because her actions as a subordinate employee legally shield her from liability for the ultimate distribution.
 
@@ -1160,13 +1071,11 @@ e. Guilty of manslaughter, because her explicit warning proves she consciously d
 
 **Explanation:** Under the MPC, manslaughter requires recklessness, defined as a conscious disregard of a substantial and unjustifiable risk. Sloane's statement ("highly likely to cause fatal overdoses") is direct evidence of her subjective awareness of the exact risk she chose to disregard by subsequently packaging the drugs. Option (b) incorrectly applies an ordinary negligence standard, which the MPC rejects for criminal liability. Option (c) is incorrect because Deacon's order is concurrent, not an independent intervening cause that breaks the chain of her liability. Option (d) is wrong because MPC manslaughter only requires recklessness, not purpose or knowledge. Option (e) invents a "subordinate employee" shield that does not exist in homicide doctrine.
 
-**Tags:** chapters: [13], topics: [involuntary manslaughter, MPC recklessness, subjective awareness], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 13 - mpc-manslaughter-negligent-homicide-split: The MPC's Bifurcation — Recklessness vs. Negligence
 
 ---
 
-**Q5.** Assume Trey is charged with felony murder for Omar's death, using "Felony Evasion" as the predicate. The jurisdiction applies California's abstract-elements test to determine if a felony is inherently dangerous. Based strictly on the statutory definition provided in the facts, does the predicate qualify?
+**Q47.** Assume Trey is charged with felony murder for Omar's death, using "Felony Evasion" as the predicate. The jurisdiction applies California's abstract-elements test to determine if a felony is inherently dangerous. Based strictly on the statutory definition provided in the facts, does the predicate qualify?
 
 a. It qualifies as a predicate, because Trey actually drove 80 mph through a residential area, which is highly dangerous to human life.
 
@@ -1182,13 +1091,11 @@ e. It does not qualify as a predicate, because the prosecution cannot prove Trey
 
 **Explanation:** Under California's abstract-elements test, a court looks strictly at the elements of the statute, not the defendant's actual conduct. If the felony can theoretically be committed in a way that does not endanger human life (e.g., fleeing a police vehicle slowly in an empty field), it is not "inherently dangerous" and cannot serve as a predicate. Option (a) incorrectly applies the "facts-as-committed" test used in other jurisdictions. Option (b) makes an inaccurate categorical claim that ignores the requirement that the crime be dangerous in the abstract in all possible applications. Option (d) is wrong because evasion has an independent felonious purpose (escape) and thus does not merge. Option (e) is wrong because felony murder substitutes the felony's mens rea for the homicide's mens rea.
 
-**Tags:** chapters: [14], topics: [felony murder, inherently dangerous, abstract-elements test], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 14 - elements-vs-facts-approach: Abstract Elements vs. Facts-as-Committed Test for Dangerousness
 
 ---
 
-**Q6.** Assume Deacon is charged with felony murder for Omar's death under an accomplice theory. The jurisdiction strictly follows the *Tison* standard for accomplice felony murder (as adapted for state non-capital cases like California's SB 1437). Is Deacon guilty of Omar's murder?
+**Q48.** Assume Deacon is charged with felony murder for Omar's death under an accomplice theory. The jurisdiction strictly follows the *Tison* standard for accomplice felony murder (as adapted for state non-capital cases like California's SB 1437). Is Deacon guilty of Omar's murder?
 
 a. Guilty, because Omar's death was a reasonably foreseeable consequence of the planned storage unit burglary and vehicular escape.
 
@@ -1204,13 +1111,11 @@ e. Not guilty, because the *Tison* standard requires the defendant to personally
 
 **Explanation:** Under the *Tison* standard (and reforms like California's SB 1437), an accomplice who is not the actual killer must be a "major participant" in the underlying felony and act with "reckless indifference to human life." Deacon provided a crowbar but no weapons and stayed home (Fact 7); under cases like *Brown* and *Emanuel*, this peripheral involvement without lethal weapons falls short of the reckless indifference and major participant requirements. Option (a) ignores the specific *Tison* limitations that now restrict liability for mere principals. Option (b) states the standard proximate-cause test, not the *Tison* test. Option (d) misstates agency theory, which applies when a non-felon (like a police officer) kills, not when a co-felon kills. Option (e) incorrectly claims *Tison* abolishes accomplice liability entirely, which it does not.
 
-**Tags:** chapters: [14], topics: [felony murder, accomplice liability, Tison, major participant], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 14 - tison-major-participant: Major Participation + Reckless Indifference Required for Accomplice Death Penalty
 
 ---
 
-**Q7.** Assume Trey is charged with misdemeanor manslaughter based specifically on driving with a suspended license when he struck Omar. The jurisdiction applies the proximate-cause limitation. Is Trey guilty under this specific theory?
+**Q49.** Assume Trey is charged with misdemeanor manslaughter based specifically on driving with a suspended license when he struck Omar. The jurisdiction applies the proximate-cause limitation. Is Trey guilty under this specific theory?
 
 a. Guilty, because the lack of a valid driver's license constructively supplies the necessary malice to establish criminal homicide.
 
@@ -1226,9 +1131,7 @@ e. Not guilty, because the Model Penal Code rejects the misdemeanor manslaughter
 
 **Explanation:** The proximate-cause limitation to misdemeanor manslaughter requires that the specific *unlawful aspect* of the conduct be causally connected to the death. Lacking a valid piece of plastic (the license suspension) does not inherently cause a crash; the dangerous manner of driving (80 mph) causes the crash, but the predicate asked about was strictly the suspended license. Option (a) incorrectly states the strict liability structure without applying the proximate-cause limitation requested by the stem. Option (b) applies a mere "but for" or temporal coincidence test, which the proximate-cause limitation explicitly rejects. Option (c) relies on the malum in se limitation, which is a different doctrine than proximate cause. Option (e) correctly states the MPC rule, but the stem specifies a jurisdiction utilizing the traditional rule's proximate-cause limit.
 
-**Tags:** chapters: [14], topics: [misdemeanor manslaughter, proximate cause], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 14 - mm-proximate-cause-limit: Unlawful Aspect Must Be Causally Connected to the Death
 
 ---
 
@@ -1236,7 +1139,7 @@ e. Not guilty, because the Model Penal Code rejects the misdemeanor manslaughter
 
 "Now that we've mapped the homicides, we need to secure the underlying drug, conspiracy, and attempt charges. We have financial evidence linking Sloane to the operation, and drug evidence from Trey's arrest. Analyze the conspiracy and accomplice liability for Sloane, attempt liability for Trey, and whether we can charge the whole network under RICO."
 
-**Q8.** Assume Sloane is charged with conspiracy to distribute fentanyl. She claims she was merely a chemist providing a neutral service, not a conspirator. Under the *Lauria* standard for inferring purpose, does her compensation structure establish the requisite intent?
+**Q50.** Assume Sloane is charged with conspiracy to distribute fentanyl. She claims she was merely a chemist providing a neutral service, not a conspirator. Under the *Lauria* standard for inferring purpose, does her compensation structure establish the requisite intent?
 
 a. Yes, because taking a 20% cut of the profits inherently demonstrates a direct financial stake in the illicit venture's ongoing success. <!-- correct -->
 
@@ -1252,13 +1155,11 @@ e. No, because chemical formulation is considered a legally neutral service that
 
 **Explanation:** In *People v. Lauria*, the court held that a provider of goods or services can be inferred to have the required purpose to participate in a conspiracy if they have a "stake in the venture." Receiving a percentage of profits (Fact 11) is the classic example of a stake in the venture, as the provider's financial reward is tied directly to the success of the illegal enterprise. Option (b) is incorrect because conspiracy requires specific intent (purpose), not strict liability. Option (c) is incorrect because conspiracy liability does not require the defendant to personally execute the target offense. Option (d) is factually and legally incorrect; *Lauria* explicitly distinguishes between flat fees and percentage cuts. Option (e) is incorrect because *Lauria* permits the inference of purpose even for neutral services if the "stake in the venture" test is met.
 
-**Tags:** chapters: [19], topics: [conspiracy, mens rea, Lauria, stake in venture], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 19 - lauria-three-inferences: The Three Inferences of Purpose (Stake, Volume, Monopoly)
 
 ---
 
-**Q9.** Assume the jurisdiction has explicitly rejected the *Pinkerton* doctrine and relies exclusively on traditional accomplice liability. Is Sloane guilty as an accomplice to manslaughter for Chloe's death?
+**Q51.** Assume the jurisdiction has explicitly rejected the *Pinkerton* doctrine and relies exclusively on traditional accomplice liability. Is Sloane guilty as an accomplice to manslaughter for Chloe's death?
 
 a. Guilty, because any foreseeable crime committed by a fellow network member automatically establishes standard accomplice liability.
 
@@ -1274,13 +1175,11 @@ e. Not guilty, because the jurisdiction requires that an accomplice be physicall
 
 **Explanation:** Traditional accomplice liability requires the defendant to possess the mens rea for the underlying conduct (purpose to aid the distribution) and the mens rea for the resulting crime (recklessness as to the manslaughter). Sloane possessed both when she intentionally formulated and packaged the drugs while subjectively aware of the severe overdose risk (Fact 5). Option (b) incorrectly conflates standard accomplice liability with the *Pinkerton* foreseeability rule. Option (c) is false because standard accomplice liability remains a fully viable path for holding defendants liable for others' acts. Option (d) is incorrect because one can be an accomplice to unintentional homicide by possessing the requisite recklessness; specific intent to kill is not required. Option (e) is false; physical presence is not an element of accomplice liability.
 
-**Tags:** chapters: [18, 19], topics: [accomplice liability, mens rea, Pinkerton comparison], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 18 - mr-underlying-offense: Mens Rea for Result Crimes (Unintentional Harms)
 
 ---
 
-**Q10.** Assume the jurisdiction robustly applies the *Pinkerton* doctrine. The prosecution charges Sloane with the murder of Vance. Is she liable under the doctrine?
+**Q52.** Assume the jurisdiction robustly applies the *Pinkerton* doctrine. The prosecution charges Sloane with the murder of Vance. Is she liable under the doctrine?
 
 a. Not guilty, because Sloane's strictly defined role as a chemist legally insulates her from violent crimes committed by the organization.
 
@@ -1296,13 +1195,11 @@ e. Guilty, because killing a business rival automatically advances any drug dist
 
 **Explanation:** The *Pinkerton* doctrine holds co-conspirators liable for substantive offenses committed by partners only if those offenses are both reasonably foreseeable AND committed in furtherance of (within the scope of) the conspiracy. Deacon's poisoning of Vance was an immediate, spontaneous reaction to being spat on in a diner (Facts 2 and 3). Such a spontaneous personal retaliation is outside the scope of the agreement to distribute fentanyl. Option (a) treats scope as an irrebuttable legal absolute, which is false; the facts matter. Option (b) ignores the scope and foreseeability limits entirely. Option (d) erroneously adds a physical presence requirement to *Pinkerton*. Option (e) is incorrect because a defendant's specific role does not shield them if the act is otherwise within the conspiracy's scope.
 
-**Tags:** chapters: [19], topics: [conspiracy, Pinkerton, scope of conspiracy], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 19 - pinkerton-doctrine: Pinkerton Liability — Substantive Crimes of Co-Conspirators
 
 ---
 
-**Q11.** Assume Trey is charged with possession of the 50 baggies of fentanyl found in the van's center console. Assume the jury believes Trey's statement that he only drove the van and was genuinely unaware the baggies were inside. Is he guilty of constructive possession?
+**Q53.** Assume Trey is charged with possession of the 50 baggies of fentanyl found in the van's center console. Assume the jury believes Trey's statement that he only drove the van and was genuinely unaware the baggies were inside. Is he guilty of constructive possession?
 
 a. Not guilty, because constructive possession requires the prosecution to prove both the power to control the item and awareness of its presence. <!-- correct -->
 
@@ -1318,13 +1215,11 @@ e. Not guilty, because a defendant can only legally possess narcotic substances 
 
 **Explanation:** Constructive possession requires proof that the defendant had both the power/intent to control the contraband AND awareness of its presence. If Trey genuinely did not know the drugs were in the console (Fact 10), he lacked the requisite awareness, defeating the charge. Option (a) is incorrect because there is no irrebuttable absolute presumption; the prosecution must prove awareness. Option (b) analyzes attempt liability (substantial step), not the elements of possession. Option (d) incorrectly implies that actual physical possession is required, whereas constructive possession specifically exists to cover items in one's domain of control (like a console). Option (e) incorrectly ties possession to ownership or financial purchase, which is not required.
 
-**Tags:** chapters: [15], topics: [constructive possession, awareness, control], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 15 - cp-awareness-control: Constructive Possession Core — Awareness Plus Control
 
 ---
 
-**Q12.** Assume Trey is charged with attempted burglary of Vance's storage unit. He walked toward the fence in a ski mask with a crowbar but was stopped by security before reaching it. How would his liability differ between a traditional common law jurisdiction and a Model Penal Code jurisdiction?
+**Q54.** Assume Trey is charged with attempted burglary of Vance's storage unit. He walked toward the fence in a ski mask with a crowbar but was stopped by security before reaching it. How would his liability differ between a traditional common law jurisdiction and a Model Penal Code jurisdiction?
 
 a. Not guilty under common law proximity tests, but guilty under the MPC because walking toward the fence in a mask was a substantial step. <!-- correct -->
 
@@ -1340,13 +1235,11 @@ e. Guilty under common law proximity tests, but not guilty under the MPC because
 
 **Explanation:** The common law requires the defendant to be dangerously close to completing the crime (the proximity tests). Trey was parked down the block and hadn't even reached the outer perimeter fence, which likely fails the strict physical proximity requirements. The MPC, however, shifts the focus from what remains to be done to what has already been done, requiring only a "substantial step" that strongly corroborates criminal purpose. Approaching a target with a mask and crowbar easily satisfies the MPC. Option (a) analyzes mens rea but ignores the actus reus requirement. Option (b) ignores attempt liability entirely by demanding actual completion. Option (c) reverses the outcomes of the two standards. Option (e) misstates the MPC rule, which still requires an act (a substantial step) and explicitly does not punish mere preparation.
 
-**Tags:** chapters: [17], topics: [attempt, actus reus, common law proximity, MPC substantial step], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17 - actus-reus-substantial-step: MPC Substantial Step Test
 
 ---
 
-**Q13.** Assume federal prosecutors charge Deacon's network under RICO. They must prove the network constitutes an "enterprise" under the *Boyle* requirements. Does the network qualify?
+**Q55.** Assume federal prosecutors charge Deacon's network under RICO. They must prove the network constitutes an "enterprise" under the *Boyle* requirements. Does the network qualify?
 
 a. It does not qualify as an enterprise, because the network's exclusive organizational purpose was illegal drug distribution rather than lawful acts.
 
@@ -1362,9 +1255,7 @@ e. It does not qualify as an enterprise, because federal law requires a legally 
 
 **Explanation:** In *Boyle v. United States*, the Supreme Court held that an association-in-fact enterprise must have a structure with at least three features: a purpose, relationships among those associated with the enterprise, and longevity sufficient to permit these associates to pursue the enterprise's purpose. Deacon's network (Fact 1), with its defined hierarchy, distinct roles, and two years of operations, easily meets these structural requirements. Option (b) is incorrect because *Boyle* explicitly requires structure and continuity beyond a single isolated crime. Options (c) and (d) are incorrect because *United States v. Turkette* established that wholly illegitimate criminal organizations can be RICO enterprises. Option (e) conflates the structural requirements of a RICO enterprise with the specific "rimmed wheel" analysis of traditional conspiracy doctrine.
 
-**Tags:** chapters: [20], topics: [RICO, enterprise, Boyle requirements], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 20 - boyle-three-part: The Boyle Structure Test for Association-in-Fact
 
 # Scenario 5: The Cornered Defenses
 
@@ -1404,7 +1295,7 @@ e. It does not qualify as an enterprise, because federal law requires a legally 
 
 ---
 
-**Q1.** Which affirmative defense or defenses may Artie validly raise for the theft of the nitrogen tanker?
+**Q56.** Which affirmative defense or defenses may Artie validly raise for the theft of the nitrogen tanker?
 
 a. Necessity only, because duress is categorically unavailable as an excuse for any crime involving the theft of hazardous materials.
 
@@ -1420,13 +1311,11 @@ e. Duress only, because the coercion came from a human actor rather than natural
 
 **Explanation:** Option (a) is correct because Artie's actions satisfy the elements of both defenses: he stole the tanker to prevent a catastrophic neighborhood explosion (necessity/lesser evils) and did so under an immediate, deadly threat from Leo (duress). Option (b) fails because modern necessity doctrine generally permits the defense even when the threat originates from a human actor. Option (c) is incorrect because there is no categorical limit barring duress for theft offenses; the bar traditionally applies only to intentional homicide. Option (d) fails because waiting for police during a twelve-minute countdown with a gun to his head was not a genuine, reasonable alternative. Option (e) fails because under the MPC fault-calibration rule, prior fault only bars the defense if the fault level matches the mens rea of the charged crime, and Artie did not purposely or recklessly cause the reactor's mechanical malfunction.
 
-**Tags:** chapters: [21], topics: [necessity, duress, choice of evils, imminence, fault calibration], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21 - Necessity and Duress: Prima Facie Elements; MPC fault-calibration.
 
 ---
 
-**Q2.** Under the traditional common law standard for derivative liability, is Benny guilty as an accomplice to Artie's theft of the tanker?
+**Q57.** Under the traditional common law standard for derivative liability, is Benny guilty as an accomplice to Artie's theft of the tanker?
 
 a. Guilty, because providing specialized hotwiring tools to commit a crime automatically satisfies the strict mental state for derivative accomplice liability.
 
@@ -1442,13 +1331,11 @@ e. Guilty, because Benny was present at the scene and his failure to intervene c
 
 **Explanation:** Option (a) is correct because traditional accomplice liability requires the dual mens rea of intent to assist and purpose that the underlying crime succeed. Benny explicitly disclaimed any interest in the lab's success ("I don't care about your lab") and acted solely out of a desire to survive, showing knowledge but lacking the requisite purpose. Option (b) fails because physical participation in the core actus reus is not required; tossing the tools is sufficient physical aid. Option (c) fails because merely providing specialized tools does not automatically prove purpose; the mental state must still be established. Option (d) fails because Benny did not commit an omission—he affirmatively provided tools. Option (e) fails because the traditional rule explicitly requires purpose, not mere knowledge, to establish accomplice liability.
 
-**Tags:** chapters: [18], topics: [accomplice liability, purpose vs knowledge, actus reus], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 - Accomplice Liability: Mens rea (purpose not knowledge); Gladstone rule.
 
 ---
 
-**Q3.** Assume that, regardless of your answer to the previous question, Benny acted with the required purpose to aid Artie. How does the classification of Artie's affirmative defense legally impact Benny's derivative liability?
+**Q58.** Assume that, regardless of your answer to the previous question, Benny acted with the required purpose to aid Artie. How does the classification of Artie's affirmative defense legally impact Benny's derivative liability?
 
 a. Benny's liability is evaluated independently, meaning Artie's successful assertion of any affirmative defense has absolutely no legal bearing on Benny's criminal guilt.
 
@@ -1464,13 +1351,11 @@ e. Benny remains fully liable in all circumstances because derivative accomplice
 
 **Explanation:** Option (a) is correct due to the fundamental distinction between justifications and excuses. Necessity is a justification, meaning the act is deemed legally right, shielding any accomplice who assists. Duress is an excuse, meaning the act is wrongful but the actor is not blamed; excuses are personal and do not transfer to uncoerced accomplices like Benny. Option (b) fails because neither defense negates the actus reus, and duress does not shield an accomplice. Option (c) fails because excuses like duress are strictly personal to the coerced actor. Option (d) fails because derivative liability structurally ties the accomplice's guilt to the wrongfulness of the principal's act; a justified act cannot support accomplice liability. Option (e) fails because it ignores the entire doctrine of justification, which legally nullifies the wrongfulness of the principal's physical act.
 
-**Tags:** chapters: [18, 21], topics: [justification vs excuse, accomplice liability, derivative liability], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 21 - Necessity and Duress: Justification vs. Excuse (Foundational Framework).
 
 ---
 
-**Q4.** Under the M'Naghten and Model Penal Code (MPC) insanity tests, is Silas legally entitled to an acquittal for the shooting of Vargas?
+**Q59.** Under the M'Naghten and Model Penal Code (MPC) insanity tests, is Silas legally entitled to an acquittal for the shooting of Vargas?
 
 a. Acquitted under both tests, because his delusion prevented him from understanding the nature of his act and appreciating its moral wrongfulness. <!-- correct -->
 
@@ -1486,13 +1371,11 @@ e. Convicted under both tests, because his voluntary participation in a criminal
 
 **Explanation:** Option (a) is correct because Silas believed he was shooting a "monster made of smoke" and a "fire-demon." Under M'Naghten, this cognitive deficit means he did not know the nature and quality of his act (killing a human) nor that it was wrong. The MPC encompasses this severe cognitive impairment by asking if he lacked substantial capacity to appreciate the criminality/wrongfulness of his conduct. Option (b) fails because the MPC includes a cognitive prong (appreciate criminality/wrongfulness) in addition to its volitional prong; it does not strictly require an irresistible impulse. Option (c) fails because M'Naghten is entirely a cognitive test (knowing right from wrong) and does not require volitional inability to control actions. Option (d) fails because there is no blanket rule barring the insanity defense for crimes committed during a conspiracy. Option (e) fails because understanding the mechanics of a firearm does not equate to understanding the nature and quality of the act (killing a human being).
 
-**Tags:** chapters: [23], topics: [insanity, M'Naghten, MPC, cognitive prong], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 23 - The Insanity Defense: M'Naghten Nature and Quality; MPC Appreciate Criminality.
 
 ---
 
-**Q5.** Assume that Silas is prosecuted in a jurisdiction that has abolished the affirmative defense of insanity (the mens rea model). Is Silas guilty of the specific intent crime of intentional murder for killing Vargas?
+**Q60.** Assume that Silas is prosecuted in a jurisdiction that has abolished the affirmative defense of insanity (the mens rea model). Is Silas guilty of the specific intent crime of intentional murder for killing Vargas?
 
 a. Guilty, because his deliberate aiming and firing of the weapon demonstrates sufficient voluntary action to satisfy all necessary elements of the charged crime.
 
@@ -1508,13 +1391,11 @@ e. Guilty, because he intended to destroy the entity before him, which automatic
 
 **Explanation:** Option (a) is correct because in states that have abolished the insanity defense (e.g., Kansas, Idaho), psychiatric evidence remains admissible if it directly negates the specific statutory mens rea. Because Silas genuinely believed he was shooting a smoke monster, he lacked the specific intent to kill a human being, requiring acquittal of intentional murder. Option (b) fails because the Supreme Court ruled in Kahler v. Kansas that the Constitution does not require a moral capacity insanity test. Option (c) fails because abolition jurisdictions still allow psychiatric evidence to negate mens rea elements. Option (d) fails because voluntary action (actus reus) is separate from specific intent (mens rea), and the crime requires both. Option (e) fails because transferred intent applies when a defendant intends to kill one human and hits another; it cannot manufacture the initial mens rea to kill a human from the intent to destroy a hallucinated monster.
 
-**Tags:** chapters: [23], topics: [insanity, mens rea model, abolition, specific intent, Kahler], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 23 - The Insanity Defense: The Mens Rea Model (Abolition States); Kahler Constitutional Floor.
 
 ---
 
-**Q6.** Is Dante legally liable for the murder of Vargas under the Pinkerton doctrine?
+**Q61.** Is Dante legally liable for the murder of Vargas under the Pinkerton doctrine?
 
 a. Not liable, because Pinkerton liability only applies to the specific target offense initially agreed upon, which was drug manufacturing rather than intentional homicide.
 
@@ -1530,13 +1411,11 @@ e. Not liable, because Dante was not physically present at the warehouse when th
 
 **Explanation:** Option (a) is correct because under Pinkerton, a co-conspirator is liable for the substantive offenses committed by other conspirators if those offenses are both in furtherance of the conspiracy and reasonably foreseeable. Silas, acting as the perimeter guard for a major armed drug operation, shot a rival trying to hijack the shipment—an act squarely in furtherance of the conspiracy and highly foreseeable in the drug trade. Option (b) fails because Pinkerton is not strict liability; it explicitly requires the collateral crime to be reasonably foreseeable. Option (c) fails because Pinkerton liability routinely applies to absent co-conspirators. Option (d) fails because even though Silas was delusional, he fired the weapon explicitly to "protect the castle," fulfilling his conspiratorial role in furtherance of the enterprise. Option (e) fails because Pinkerton specifically exists to capture collateral offenses that fall outside the initial target agreement.
 
-**Tags:** chapters: [19], topics: [conspiracy, Pinkerton liability, foreseeability, in furtherance], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - Conspiracy: Pinkerton Doctrine.
 
 ---
 
-**Q7.** Is Dante guilty of felony murder for the death of Vargas?
+**Q62.** Is Dante guilty of felony murder for the death of Vargas?
 
 a. Not guilty, because Dante completely lacked the specific intent to kill Vargas, which is a mandatory prerequisite for any valid murder conviction.
 
@@ -1552,13 +1431,11 @@ e. Guilty, because the modern felony murder rule operates as a strict liability 
 
 **Explanation:** Option (a) is correct because felony murder applies when a death occurs during the perpetration of an inherently dangerous felony (such as armed drug manufacturing/trafficking). As a co-felon in that operation, Dante is liable for the resulting death caused by his co-felon Silas, regardless of his absence. Option (b) fails because most jurisdictions still require the underlying predicate felony to be inherently dangerous or statutorily enumerated. Option (c) fails because the core function of the felony murder rule is to substitute the intent to commit the felony for the intent to kill (malice). Option (d) fails because a co-felon performing his assigned role (guarding the drugs) is a dependent, foreseeable act, not an independent intervening cause that breaks proximate causation. Option (e) fails because the agency approach bars liability when the fatal blow is struck by a non-felon (like police or a victim), but explicitly allows liability when the blow is struck by a co-felon.
 
-**Tags:** chapters: [14], topics: [felony murder, inherently dangerous, co-felon liability, agency approach], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 14 - Felony Murder: Res Gestae; Inherent Danger; Agency limits.
 
 ---
 
-**Q8.** Have Leo, Artie, Silas, and Dante legally satisfied the prima facie elements of criminal conspiracy?
+**Q63.** Have Leo, Artie, Silas, and Dante legally satisfied the prima facie elements of criminal conspiracy?
 
 a. Yes, because they formed a mutual agreement to commit a crime and the pooling of money and warehouse rental constituted overt acts in furtherance. <!-- correct -->
 
@@ -1574,13 +1451,11 @@ e. No, because the active presence of an undercover agent is strictly required t
 
 **Explanation:** Option (a) is correct because a conspiracy requires an agreement to commit a crime and, in most modern jurisdictions, an overt act in furtherance of that agreement. The explicit meeting and agreement, combined with pooling money, renting the warehouse, and buying equipment, easily satisfy these elements. Option (b) fails because modern conspiracy statutes almost universally require an overt act for standard non-drug conspiracies, and often for drug conspiracies as well, rather than being "strict liability." Option (c) fails because conspiracy punishes the agreement and initial steps; success or completion of the target offense is completely unnecessary. Option (d) fails because even if Silas lacked capacity, modern jurisdictions follow the MPC's unilateral approach, and even under bilateral rules, the remaining three members validly formed an agreement. Option (e) fails because Wharton's Rule applies to crimes that logically require two people to commit (like dueling or adultery), not to the requirement of an undercover agent.
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement, overt act, Wharton's rule], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 19 - Conspiracy: Agreement; Overt Act requirements.
 
 ---
 
-**Q9.** Based on the police seizure at the warehouse, is Dante legally guilty of constructively possessing the finished drugs stored inside the reinforced steel safe?
+**Q64.** Based on the police seizure at the warehouse, is Dante legally guilty of constructively possessing the finished drugs stored inside the reinforced steel safe?
 
 a. Guilty, because his initial financial contribution to the drug manufacturing operation automatically establishes actual physical possession of all resulting contraband.
 
@@ -1596,13 +1471,11 @@ e. Guilty, because his exclusive retention of the only key to the safe demonstra
 
 **Explanation:** Option (a) is correct because constructive possession requires the power and intent to exercise dominion and control over an item. Dante's possession of the sole key to the safe establishes his exclusive power and control over the drugs inside, satisfying the doctrine. Option (b) fails because financial contribution to an operation does not establish "actual" physical possession, which requires immediate physical custody of the item. Option (c) fails because constructive possession was developed specifically to capture defendants who maintain control over contraband without being physically present. Option (d) fails because while a collective facility can complicate possession, Dante's exclusive control of the locked safe overcomes any ambiguity regarding collective access. Option (e) fails because the crime of possession is complete the moment control is established; intent or opportunity to distribute the drugs is legally irrelevant to a simple possession charge.
 
-**Tags:** chapters: [15], topics: [constructive possession, dominion and control, exclusive control], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15 - Drugs and Guns: Constructive Possession (Awareness and Control).
 
 ---
 
-**Q10.** Assume Dante raises a standard self-defense claim for shooting Hector. Under traditional doctrine, does the imminence requirement permit Dante's preemptive use of deadly force?
+**Q65.** Assume Dante raises a standard self-defense claim for shooting Hector. Under traditional doctrine, does the imminence requirement permit Dante's preemptive use of deadly force?
 
 a. No, because Hector's stated threat was conditioned on the future arrival of his crew, and his relaxed posture did not present an objectively immediate threat. <!-- correct -->
 
@@ -1618,13 +1491,11 @@ e. No, because the defensive use of deadly force is categorically prohibited unl
 
 **Explanation:** Option (a) is correct because traditional self-defense requires an objectively reasonable belief of an imminent threat of harm. Hector explicitly stated the execution would happen when his crew arrived in five minutes, and he sat with his hands behind his head. Objectively, the threat was future, not immediate. Option (b) fails because self-defense does not require the defendant to wait until they are physically struck or injured before acting. Option (c) fails because a purely subjective belief is insufficient; traditional self-defense requires the fear to be objectively reasonable under the circumstances. Option (d) fails because an aggressor's status or reputation, while relevant to reasonableness, does not automatically bypass the temporal requirement of an imminent physical threat. Option (e) fails because there is no "continuous threat" doctrine granting blanket preemptive rights against gang members in one's home.
 
-**Tags:** chapters: [22], topics: [self-defense, imminence, objective reasonableness], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22 - Self-Defense: Imminence Requirement; Objective Reasonableness Standard.
 
 ---
 
-**Q11.** Assuming Dante lived in a jurisdiction that strictly enforces a general duty to retreat before using deadly force, how does the location of the confrontation legally affect this duty?
+**Q66.** Assuming Dante lived in a jurisdiction that strictly enforces a general duty to retreat before using deadly force, how does the location of the confrontation legally affect this duty?
 
 a. Dante had a duty to retreat, because his active participation in a criminal enterprise automatically strips him of all self-defense rights inside his dwelling.
 
@@ -1640,13 +1511,11 @@ e. Dante had no duty to retreat, because the Castle Doctrine universally exempts
 
 **Explanation:** Option (a) is correct because the Castle Doctrine is a universally recognized exception to the duty to retreat. Even in strict retreat jurisdictions, a person is not required to flee from an intruder inside their own home before resorting to self-defense. Option (b) fails because the existence of a safe avenue of retreat (the fire escape) is exactly what the Castle Doctrine overrides when the defendant is home. Option (c) fails because the duty to retreat applies specifically to the use of deadly force; there is generally no duty to retreat before using non-deadly force. Option (d) fails because the Castle Doctrine's application depends on the location (the home) and the presence of a threat, not on the specific posture of the intruder. Option (e) fails because while some statutory Stand Your Ground laws contain criminal activity exceptions, traditional Castle Doctrine inside the home does not automatically vanish simply because the resident is a criminal.
 
-**Tags:** chapters: [22], topics: [self-defense, duty to retreat, castle doctrine], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 22 - Self-Defense: Castle Doctrine Scope; Duty to Retreat.
 
 ---
 
-**Q12.** Assume that Dante is prosecuted in a jurisdiction that fully recognizes the doctrine of imperfect self-defense. How would Dante's subjective panic affect his criminal liability for shooting Hector?
+**Q67.** Assume that Dante is prosecuted in a jurisdiction that fully recognizes the doctrine of imperfect self-defense. How would Dante's subjective panic affect his criminal liability for shooting Hector?
 
 a. It would have no effect on his liability because imperfect self-defense only applies when the defendant was the initial aggressor who later attempted to withdraw.
 
@@ -1662,6 +1531,104 @@ e. It would result in a complete acquittal because the doctrine fully excuses de
 
 **Explanation:** Option (a) is correct because imperfect self-defense applies when a defendant honestly but unreasonably believes deadly force is necessary. This genuine belief negates the malice aforethought required for murder, reducing the offense to voluntary manslaughter. Option (b) fails because imperfect self-defense is a partial defense that mitigates the charge; it does not yield a complete acquittal. Option (c) fails because imperfect self-defense mitigates intentional killings to voluntary manslaughter, not to the unintentional crime of involuntary manslaughter. Option (d) fails because it confuses imperfect self-defense with the initial aggressor revival rule; imperfect self-defense applies based on the defendant's flawed subjective perception, not their status as an initial aggressor. Option (e) fails because raising the defense does not require the prosecution to prove the fear was fabricated; it merely shifts the jury's analysis to evaluating whether the genuine belief mitigated malice.
 
-**Tags:** chapters: [22], topics: [imperfect self-defense, voluntary manslaughter, malice, subjective belief], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22 - Self-Defense: Imperfect Self-Defense (Honest but Unreasonable Belief).
+
+\newpage
+# Answer Key
+
+### Scenario 1: The Genesis
+
+\begin{multicols}{4}
+\noindent
+\textbf{1.} D\\
+\textbf{2.} E\\
+\textbf{3.} E\\
+\textbf{4.} C\\
+\textbf{5.} A\\
+\textbf{6.} A\\
+\textbf{7.} E\\
+\textbf{8.} A\\
+\textbf{9.} D\\
+\textbf{10.} B\\
+\textbf{11.} C\\
+\textbf{12.} B\\
+\textbf{13.} B\\
+\textbf{14.} C\\
+\textbf{15.} D\\
+\end{multicols}
+
+### Scenario 2: The Distribution Ring
+
+\begin{multicols}{4}
+\noindent
+\textbf{16.} E\\
+\textbf{17.} A\\
+\textbf{18.} C\\
+\textbf{19.} B\\
+\textbf{20.} C\\
+\textbf{21.} D\\
+\textbf{22.} D\\
+\textbf{23.} D\\
+\textbf{24.} A\\
+\textbf{25.} E\\
+\textbf{26.} C\\
+\textbf{27.} A\\
+\textbf{28.} E\\
+\textbf{29.} B\\
+\textbf{30.} B\\
+\end{multicols}
+
+### Scenario 3: The Empire Business
+
+\begin{multicols}{4}
+\noindent
+\textbf{31.} B\\
+\textbf{32.} A\\
+\textbf{33.} C\\
+\textbf{34.} A\\
+\textbf{35.} B\\
+\textbf{36.} E\\
+\textbf{37.} A\\
+\textbf{38.} D\\
+\textbf{39.} B\\
+\textbf{40.} D\\
+\textbf{41.} E\\
+\textbf{42.} C\\
+\end{multicols}
+
+### Scenario 4: The Blowback
+
+\begin{multicols}{4}
+\noindent
+\textbf{43.} D\\
+\textbf{44.} B\\
+\textbf{45.} E\\
+\textbf{46.} E\\
+\textbf{47.} C\\
+\textbf{48.} C\\
+\textbf{49.} D\\
+\textbf{50.} A\\
+\textbf{51.} B\\
+\textbf{52.} B\\
+\textbf{53.} A\\
+\textbf{54.} A\\
+\textbf{55.} C\\
+\end{multicols}
+
+### Scenario 5: The Cornered Defenses
+
+\begin{multicols}{4}
+\noindent
+\textbf{56.} D\\
+\textbf{57.} B\\
+\textbf{58.} D\\
+\textbf{59.} A\\
+\textbf{60.} C\\
+\textbf{61.} B\\
+\textbf{62.} B\\
+\textbf{63.} A\\
+\textbf{64.} E\\
+\textbf{65.} A\\
+\textbf{66.} E\\
+\textbf{67.} C\\
+\end{multicols}
