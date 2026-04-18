@@ -1,18 +1,18 @@
-**Q7.** Assume instead that Cole is prosecuted in California under the reformed standards established by SB 1437. How does the reformed law affect Cole's liability for Vic's murder?
+**Q7.** Assume this prosecution occurs in a jurisdiction that has adopted California's SB 1437 reforms, which eliminated NPC liability for murder. Is Cole guilty of murder under the reformed framework?
 
-(a) Cole is guilty of murder because SB 1437 retains the traditional Natural and Probable Consequences doctrine for all violent felonies.
-(b) Cole is guilty of murder because acting as a lookout automatically satisfies the requirement for personal malice aforethought.
-(c) Cole is not guilty of murder because SB 1437 eliminated murder liability based solely on participation in a target crime without proof of personal malice or major participation. <!-- correct -->
-(d) Cole is not guilty of murder because SB 1437 established a categorical exemption for any accomplice who is not physically present in the room where the death occurs.
-(e) Cole is not guilty of murder because SB 1437 requires the prosecution to prove that the accomplice actually fired the fatal shot to establish the required malice.
+(a) No, because he was not the actual killer, did not personally act with intent to kill, and merely acting as a lookout does not constitute major participation with reckless indifference to life. <!-- correct -->
+(b) Yes, because the reform still allows malice to be imputed to any participant in a violent felony if they possessed advance knowledge that a deadly weapon would be used.
+(c) No, because the reform automatically shields all non-shooters from any form of homicide liability, restricting murder convictions exclusively to the person who pulled the trigger.
+(d) Yes, because Cole's failure to intervene or call the police after Damon racked the slide demonstrated the requisite reckless indifference to human life required by the reform statute.
+(e) No, because the reform requires the prosecution to prove that Cole directly supplied the murder weapon, which he did not do since Damon brought his own gun.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** California's SB 1437 abolished the Natural and Probable Consequences doctrine for murder. Under the reform, malice cannot be imputed solely based on participation in a target crime; the accomplice must personally harbor malice, or be a major participant in a felony who acts with reckless indifference to human life. (a) is wrong because SB 1437 abolished NPC for murder. (b) is wrong because being a lookout does not automatically prove personal malice. (d) is wrong because physical presence in the specific room is not the test; a major participant outside could still theoretically be liable. (e) is wrong because accomplices can still be convicted of murder if they are major participants acting with reckless indifference, even if they do not pull the trigger.
+**Explanation:** SB 1437 eliminated murder liability based on the natural and probable consequences doctrine and required that a felony murder defendant be the actual killer, act with intent to kill, or be a "major participant" who acts with "reckless indifference to human life." A surprised, unarmed lookout who stays outside does not typically meet the high bar for major participation with reckless indifference. (b) is wrong because SB 1437 expressly forbids imputing malice solely based on participation in a crime. (c) is wrong because non-shooters can still be liable if they are major participants with reckless indifference. (d) is wrong because failing to stop an armed associate, without more, does not satisfy the rigorous major participant standard. (e) is wrong because supplying the weapon is not a strict prerequisite for major participation.
 
-**Tags:** chapters: [18], topics: [accomplice, npc, sb1437], difficulty: medium, cognitive: application
+**Tags:** chapters: [14, 18], topics: [felony-murder, accomplice, SB1437, major-participant], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 18 (Accomplice Liability), npc-reform-sb1437
+**Grounding:** Chapter 18 - NPC reform (California SB 1437) requiring personal malice or major participation with reckless indifference.
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

@@ -1,17 +1,17 @@
-**Q2.** Assume that it is established that Ben formed the requisite intent to distribute the stimulants. Under the Model Penal Code's substantial step test versus the traditional common law dangerous proximity test, has Ben committed the actus reus of attempted distribution when he parks at the drop location?
+**Q2.** Assume Ben is charged with attempted distribution of a controlled substance. How do the Model Penal Code (MPC) and common law tests for attempt evaluate his conduct of driving to the location but not exiting the car?
 
-(a) Ben satisfied the actus reus under the substantial step test because driving to the designated drop location corroborates his criminal purpose, but he likely failed the dangerous proximity test because he never exited the car or approached the buyer. <!-- correct -->
-(b) Ben satisfied the actus reus under the dangerous proximity test because parking 50 feet away is dangerously near completion, but failed the substantial step test because he did not cross the physical threshold of the car.
-(c) Ben satisfied the actus reus under both tests because driving to a planned crime scene is universally recognized as the commencement of the consummated offense across all jurisdictions.
-(d) Ben failed the actus reus under both tests because he never saw the buyer, meaning the crime could not logically be completed under either the MPC or the common law.
-(e) Ben satisfied the actus reus under the substantial step test because he accepted the drugs from Artie, which immediately completed the attempt, rendering his subsequent drive irrelevant.
+(a) Ben satisfies the MPC test because driving to the location corroborates his criminal purpose, but likely fails the common law test because he had not come dangerously close to completion. <!-- correct -->
+(b) Ben fails the MPC test because his actions were mere preparation, but satisfies the common law test because his arrival at the location established physical proximity to the target.
+(c) Ben satisfies both tests because driving to a designated drug drop location unequivocally establishes the specific intent to distribute drugs regardless of the proximity to the buyer.
+(d) Ben fails both tests because his refusal to exit the vehicle demonstrates a lack of the requisite specific intent to complete the distribution of the controlled substance.
+(e) Ben satisfies the common law test because he possessed the drugs in the vehicle, but fails the MPC test which requires physical interaction with the intended buyer.
 
 **Answer:** (a)
 
-**Explanation:** The MPC substantial step test requires conduct strongly corroborative of criminal purpose, explicitly listing traveling to the contemplated scene as sufficient. The traditional dangerous proximity test requires the defendant to come dangerously near completion, which often fails if the target has not yet been located or approached. (a) correctly applies both tests. (b) reverses the thresholds, as dangerous proximity is harder to satisfy than substantial step. (c) is wrong because the proximity test routinely excludes mere arrival at a general location if the buyer is absent. (d) is wrong because the MPC test draws the liability line much earlier and does not require encountering the buyer. (e) is wrong because mere acceptance of the drugs is preparatory; driving to the scene is the substantial step.
+**Explanation:** The MPC "substantial step" test draws the line of attempt early, explicitly including conduct like driving to the scene so long as it strongly corroborates criminal purpose. The traditional common law "dangerous proximity" test requires the defendant to come "dangerously near" to completion, which Ben likely failed to do because he parked 50 feet away and never approached the buyer. (b) is wrong because it flips the tests; the MPC is satisfied early, while common law requires more proximity. (c) is wrong because common law requires more than just specific intent and driving. (d) is wrong because failure to exit is a question of actus reus, not a negation of the intent he formed previously. (e) is wrong because the MPC does not require physical interaction with the buyer to constitute a substantial step.
 
-**Tags:** chapters: [17], topics: [attempt, actus_reus, substantial_step], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, actus-reus, substantial-step, proximity], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17 (Attempts), actus-reus-substantial-step and actus-reus-proximity-test
+**Grounding:** Chapter 17 - Actus reus tests (MPC substantial step vs. common law dangerous proximity).
 
-<!-- grounding: GROUNDED — Attempt Actus Reus, Ch 17, Refinement `actus-reus-substantial-step` and `actus-reus-proximity-test`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Attempt Actus Reus (MPC vs. Common Law), Ch 17, Refinement `actus-reus-substantial-step` and `actus-reus-proximity-test`. Rule paraphrased accurately. -->

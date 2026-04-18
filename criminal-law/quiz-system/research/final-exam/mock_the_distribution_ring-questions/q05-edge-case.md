@@ -1,22 +1,22 @@
-**Q5.** Cole is charged as an accomplice to armed robbery in a federal jurisdiction applying the *Rosemond* standard. Cole argues he lacked the necessary mens rea because he only agreed to an unarmed robbery. Is Cole guilty as an accomplice to armed robbery?
+**Q5.** Cole argues he cannot be an accomplice to an armed robbery because he only learned of the gun right before stepping out of the car. Under the federal standard (*Rosemond*), is Cole liable as an accomplice to an armed offense?
 
-(a) Yes, because he acquired knowledge of the firearm before committing the crime and chose to continue his participation despite having a meaningful opportunity to walk away. <!-- correct -->
-(b) Yes, because under the strict liability standard for accomplices, any assistance rendered to an armed principal automatically transfers the weapon enhancement to the accomplice.
-(c) No, because he vocally objected when he saw the gun, which constitutes an effective withdrawal from the armed portion of the offense.
-(d) No, because the *Rosemond* standard requires that the accomplice participate in acquiring or supplying the firearm used in the offense.
-(e) No, because his advance knowledge of the firearm was acquired only moments before exiting the car, which does not constitute advance knowledge during the planning phase.
+(a) Yes, because Cole learned of the firearm at a time when he still had a meaningful opportunity to walk away, but chose to continue participating as a lookout. <!-- correct -->
+(b) No, because advance knowledge requires the accomplice to be informed of the weapon prior to arriving at the scene of the crime to ensure genuine specific intent.
+(c) Yes, because an accomplice assumes the risk of their coconspirator's actions, and knowledge of the weapon is automatically imputed to anyone present during the commission of the crime.
+(d) No, because Cole verbally objected to the weapon by saying "Whoa," which legally negates the shared intent required for aiding and abetting an armed offense.
+(e) Yes, because Cole's sigh and assumption of the lookout post constituted an overt act that retroactively established his premeditation and deliberation for the armed robbery.
 
 **Answer:** (a)
 
-**Explanation:** Under *Rosemond*, accomplice liability for an armed offense requires advance knowledge of the firearm at a time when the accomplice has a meaningful opportunity to walk away. Cole learned of the gun before exiting the car to take his lookout position. By proceeding with the crime instead of leaving, he satisfied the temporal advance knowledge requirement. (b) is wrong because accomplice liability requires specific mens rea, not strict liability. (c) is wrong because verbal objection without actual withdrawal is insufficient if the defendant continues to aid the crime. (d) is wrong because *Rosemond* requires knowledge, not physical provision of the weapon. (e) is wrong because "advance" means before participation is complete such that he can no longer walk away, not during remote planning.
+**Explanation:** Under *Rosemond*, accomplice liability for an armed offense requires advance knowledge of the firearm, meaning knowledge acquired at a time when the defendant still has a "meaningful opportunity to walk away." Cole learned of the gun before exiting the car; despite his surprise, he had the opportunity to leave but instead assumed his post. (b) is wrong because arriving at the scene does not definitively cut off the opportunity to withdraw. (c) is wrong because *Rosemond* explicitly requires personal advance knowledge, not imputed strict liability based on presence. (d) is wrong because a verbal objection followed by active assistance (acting as lookout) does not negate accomplice liability. (e) is wrong because accomplice liability requires purpose and advance knowledge, not "retroactive premeditation."
 
-**Tags:** chapters: [18], topics: [accomplice, mens_rea, rosemond], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice, mens-rea, Rosemond, advance-knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 (Accomplice Liability), mr-temporal-advance-knowledge
+**Grounding:** Chapter 18 - Rosemond v. United States; advance knowledge and meaningful opportunity to withdraw.
 
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The facts explicitly state that Damon shot Vic "without searching for drugs or demanding money" and "didn't get any product." Because no property was taken, a completed robbery never occurred. Since accomplice liability is derivative of the principal's conduct, Cole cannot be legally convicted as an accomplice to a *completed* armed robbery if the principal never completed the target offense. 
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: Change the charge in the question stem from "accomplice to armed robbery" to "accomplice to attempted armed robbery" to reflect the actual derivative liability. Update Option (a) to read "...before participating in the attempt..."
+Recommended fix: n/a
 -->

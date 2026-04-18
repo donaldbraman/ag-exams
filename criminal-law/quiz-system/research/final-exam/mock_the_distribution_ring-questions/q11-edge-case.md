@@ -1,22 +1,22 @@
-**Q11.** Damon is charged with first-degree felony murder based on the attempted robbery of the stash house. Damon's defense argues that because he abandoned the robbery upon seeing Vic and shot him out of personal animus, the felony murder rule does not apply. How will a court likely rule?
+**Q11.** Damon is charged with felony murder. His attorney argues the charge should merge because Damon's personal motive to kill Vic (the girlfriend insult) means the underlying crime was an assaultive act, not an independent felony. Does the merger doctrine preclude the felony murder charge?
 
-(a) Damon is guilty of felony murder because the murder occurred during the *res gestae* of the attempted robbery, and an unintended death during an attempted predicate felony is graded upward as first-degree murder. <!-- correct -->
-(b) Damon is not guilty of felony murder because he did not take any drugs or demand money, meaning the underlying felony was never completed.
-(c) Damon is not guilty of felony murder under the merger doctrine, because his independent personal purpose to assault Vic means the assault merges with the homicide.
-(d) Damon is guilty of felony murder, but only in the second degree, because the underlying predicate crime was merely an attempt rather than a completed felony.
-(e) Damon is not guilty of felony murder because the felony murder rule only applies when the killing is caused strictly to facilitate the predicate felony, not for personal reasons.
+(a) No, because the attempted robbery was initially motivated by an independent felonious purpose to steal drugs, which supports felony murder even if his personal motive shifted at the moment of the shooting. <!-- correct -->
+(b) Yes, because Damon abandoned the robbery by failing to demand money or drugs, converting the encounter into a pure homicide which must merge with the resulting death.
+(c) No, because the merger doctrine only applies to strict liability offenses, and attempted robbery is a specific intent crime that is immune from merger analysis.
+(d) Yes, because the felony murder rule explicitly excludes attempted property crimes from serving as predicate offenses when the victim has a preexisting personal relationship with the defendant.
+(e) No, because Damon's act of racking the slide in the car constituted a completed aggravated assault, which provides an alternative predicate felony for the murder charge.
 
 **Answer:** (a)
 
-**Explanation:** Under the felony murder rule, a death caused during the attempt to perpetrate a predicate felony (such as robbery) triggers first-degree murder liability. The killing occurred as part of the continuous transaction (res gestae) of the attempted robbery. The fact that the robbery was incomplete or that Damon had a secondary personal motive does not defeat the charge. (b) is wrong because an *attempted* predicate felony still triggers felony murder. (c) is wrong because the predicate is robbery, which has an independent felonious purpose from the killing itself, so it does not merge. (d) is wrong because deaths resulting from attempted predicate felonies are still graded as first-degree murder. (e) is wrong because strict causal facilitation is not required so long as the killing is part of the res gestae.
+**Explanation:** The independent felonious purpose (merger) doctrine prevents felony murder from applying where the predicate felony is an assault that is an integral part of the homicide (e.g., aggravated assault cannot serve as the predicate for felony murder). However, armed robbery has an independent felonious purpose (stealing property). Because Damon initiated the encounter as an attempted robbery, that independent purpose sustains the felony murder charge, even if his motive to pull the trigger involved a personal grudge. (b) is wrong because the attempted robbery was already underway when he broke in, establishing the predicate before the motive shifted. (c) is wrong because the merger doctrine applies to assaultive crimes regardless of specific intent. (d) is wrong because preexisting relationships do not invalidate robbery as a predicate. (e) is wrong because aggravated assault merges and cannot serve as the predicate.
 
-**Tags:** chapters: [14, 17], topics: [felony_murder, attempt, grading], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [14], topics: [felony-murder, merger-doctrine, independent-felonious-purpose], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 17 (Attempts), grading-felony-murder-attempt
+**Grounding:** Chapter 14 - Merger doctrine / independent felonious purpose.
 
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: Option (a) uses the phrase "an unintended death." However, the facts explicitly establish that Damon *intentionally* shot Vic out of revenge ("shoots Vic dead, yelling..."). A sharp student will correctly note the killing was intentional and may eliminate the correct answer (a) because it seems to mischaracterize the facts or falsely imply felony murder only applies to accidental deaths.
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
-Recommended fix: In option (a), change "an unintended death" to "any death" or simply "a death" so it does not contradict Damon's clear intent to kill.
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass. The fact that Damon did not demand money or search for drugs correctly limits his property crime to *attempted* robbery, which the question and correct answer properly reflect. 
+2. Cross-Doctrine Clashes: pass. While Damon's shifting motive raises potential "res gestae" (nexus) or "abandonment" questions, the prompt strictly isolates the "merger doctrine" challenge raised by the defense attorney. Option (A) resolves the merger issue soundly without legally preempting a different affirmative defense.
+3. Cross-Question Spoilers: pass. Testing Extreme Emotional Disturbance (EED) for Damon in Q12 does not spoil this question, as it is standard practice to test alternative theories (felony murder vs. intentional murder mitigated to manslaughter) across different exam questions.
+Recommended fix: N/A
 -->

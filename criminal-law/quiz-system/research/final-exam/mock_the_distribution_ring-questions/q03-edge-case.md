@@ -1,18 +1,18 @@
-**Q3.** Assume that Ben's conduct constituted a substantial step toward attempted distribution. Under the Model Penal Code, can Ben successfully assert the affirmative defense of voluntary abandonment?
+**Q3.** Assume Ben's conduct crossed the legal threshold for attempt. He argues he is entitled to an abandonment defense because he drove home and deleted the app. Is this defense viable?
 
-(a) Yes, because he completely abandoned the effort and successfully prevented the crime from occurring by taking the drugs back home.
-(b) Yes, because his decision to leave was motivated by a text from his mother, which constitutes an external moral intervention rather than an internal loss of nerve.
-(c) No, because abandonment is not recognized as an affirmative defense once a substantial step has been taken under the MPC.
-(d) No, because his renunciation was motivated by the text warning of police presence, making his withdrawal involuntary under the MPC's fear-of-detection disqualifier. <!-- correct -->
-(e) No, because he retained the drugs in his car rather than destroying them or turning them over to the police, meaning his abandonment was not complete.
+(a) It fails under both frameworks because the common law does not recognize abandonment, and the MPC excludes renunciations motivated by an increased risk of police apprehension. <!-- correct -->
+(b) It succeeds under the MPC because he completely thwarted the crime before any drugs changed hands, but fails under the common law which never recognizes abandonment.
+(c) It succeeds under both frameworks because his decision to drive away constituted a complete and voluntary renunciation of the criminal purpose prior to the target crime's completion.
+(d) It fails under the MPC because he did not destroy the drugs, but succeeds under the common law because he retained a locus poenitentiae (opportunity to repent).
+(e) It succeeds under the MPC because he permanently deleted the app, demonstrating complete withdrawal, and succeeds under the common law because no actual harm occurred to the public.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** Under the MPC, abandonment is an affirmative defense to attempt, but it must be completely voluntary. Renunciation is not voluntary if it is motivated by an increased risk of detection or apprehension. Because Ben abandoned the attempt upon receiving a text that police were swarming, his withdrawal is legally involuntary. (a) and (b) are wrong because they ignore the fear-of-detection disqualifier triggered by the mother's warning. (c) is wrong because the MPC recognizes the abandonment defense even after a substantial step is taken, altering the traditional common law rule. (e) is wrong because while completeness is required, the primary doctrinal failure here is the voluntariness prong due to the police warning.
+**Explanation:** At common law, once the proximity threshold is crossed, attempt is complete and withdrawal is no defense. Under the MPC, abandonment is an affirmative defense but it must be completely voluntary. A renunciation motivated by fear of apprehension (such as his mother's text about swarming police) is legally involuntary and disqualifies the defense. (b) is wrong because his MPC renunciation was involuntary due to the police warning. (c) is wrong because common law lacks the defense entirely and his MPC defense fails the voluntariness test. (d) is wrong because common law lacks the defense once attempt liability has attached. (e) is wrong because a lack of public harm does not create an abandonment defense at common law.
 
-**Tags:** chapters: [17], topics: [attempt, abandonment, renunciation], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, abandonment, MPC vs common law], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 17 (Attempts), abandonment-mpc
+**Grounding:** Chapter 17 - Abandonment defense limits; MPC § 5.01(4) fear of detection disqualifier.
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

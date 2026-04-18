@@ -1,23 +1,22 @@
-**Q9.** Assume instead that Artie is prosecuted in a jurisdiction that has adopted the Model Penal Code's approach to complicity and conspiracy. How would this affect Artie's liability for Vic's murder compared to the *Pinkerton* doctrine?
+**Q9.** Assume the prosecution occurs in a jurisdiction that has adopted the Model Penal Code (MPC), which rejects the *Pinkerton* doctrine. Is Artie liable for Vic's murder under the MPC approach?
 
-(a) Artie would still be liable for murder because the MPC merely renames *Pinkerton* liability as "accomplice liability" without changing the substantive foreseeability test.
-(b) Artie would not be liable for murder because the MPC rejects *Pinkerton* liability; Artie can only be convicted if the prosecution proves he aided or encouraged the murder with the purpose of promoting it. <!-- correct -->
-(c) Artie would not be liable for murder because the MPC requires that the ringleader be physically present at the scene of the crime to face homicide charges.
-(d) Artie would be liable for murder because the MPC explicitly imposes vicarious liability on conspirators whenever the underlying offense is a first-degree felony.
-(e) Artie would not be liable for murder because the MPC dictates that conspiracy merges with the completed offense, extinguishing all vicarious liability.
+(a) No, because Artie did not act with the specific purpose of promoting or facilitating Vic's death, which the MPC requires for accomplice liability to attach.
+(b) Yes, because Artie solicited the stash house robbery, which automatically satisfies the MPC's lower threshold for vicarious liability in inherently dangerous felony enterprises.
+(c) No, because the MPC requires that conspirators be physically present at the scene of the target offense to be held liable for any derivative or unplanned crimes.
+(d) Yes, because under the MPC, the act of forming a conspiracy strips the defendant of all defenses relating to the unforeseeable actions of their coconspirators.
+(e) No, because the MPC limits all conspiracy liability to misdemeanors, rendering Artie immune from felony murder charges unless he pulled the trigger himself.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** The Model Penal Code entirely rejects the *Pinkerton* doctrine of vicarious liability for coconspirators. Under the MPC, mere membership in a conspiracy is insufficient for substantive crime liability; the defendant must satisfy the traditional elements of accomplice liability by actually aiding or encouraging the specific offense with the purpose to promote it. (a) is wrong because the MPC eliminates the foreseeability test for coconspirators. (c) is wrong because physical presence is not required for accomplice liability under the MPC. (d) is wrong because the MPC does not revive *Pinkerton* for serious felonies. (e) is wrong because the MPC's merger rule relates to cumulative punishment for conspiracy and the completed crime, not the basis for vicarious liability.
+**Explanation:** The MPC rejects *Pinkerton*'s rule that conspiracy membership automatically generates liability for coconspirators' substantive crimes. Under the MPC, a defendant is only liable for a coconspirator's substantive crime if the traditional elements of accomplice liability are met—meaning Artie must have actually aided or encouraged the murder with the *purpose* of promoting it. Artie had no such purpose regarding the murder. (b) is wrong because the MPC explicitly rejects automatic vicarious liability even for dangerous felonies. (c) is wrong because physical presence is not required for accomplice liability under the MPC if purpose and aid are established. (d) is wrong because the MPC actually provides more protection against unforeseeable actions by requiring purpose. (e) is wrong because the MPC does not limit conspiracy to misdemeanors.
 
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton, mpc], difficulty: easy, cognitive: recall
+**Tags:** chapters: [18, 19], topics: [conspiracy, Pinkerton-rejection, MPC, accomplice], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 (Conspiracy), pinkerton-mpc-rejection
+**Grounding:** Chapter 19 - MPC rejection of Pinkerton; requiring accomplice liability (purpose) for substantive offenses.
 
 <!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The facts establish Artie is an accomplice to robbery. Option (b) asserts Artie "can only be convicted if the prosecution proves he aided or encouraged the murder with the purpose of promoting it." This is legally false under the MPC. Under MPC 2.06(4) (accomplice liability for result crimes), an accomplice only needs the mens rea for the result, not the "purpose" to cause the result. Furthermore, under MPC 210.2(1)(b), there is an explicit presumption of extreme indifference (the mens rea for murder) for anyone who is an accomplice to robbery. Thus, Artie actually *could* be liable for murder under the MPC without having the purpose of promoting it. 
-2. Cross-Doctrine Clashes: The MPC's treatment of result crimes (MPC 2.06(4)) and its felony murder equivalent (MPC 210.2(1)(b)) directly clash with the simplified "purpose" requirement stated in option (b). 
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: Option (a) incorrectly claims the MPC strictly requires the "specific purpose of promoting or facilitating Vic's death" for accomplice liability to attach to the murder. This ignores MPC § 2.06(4) and § 210.2(1)(b). Under the MPC, an accomplice to conduct causing a result (like robbery) only needs the mens rea required for the result (e.g., extreme indifference recklessness, which the MPC explicitly presumes for robbery accomplices). Advanced students will recognize the rationale in (a) as doctrinally false under the MPC's rules for result crimes, leaving them with no viable correct answer. 
 3. Cross-Question Spoilers: pass
-
-Recommended fix: Revise (b) and the explanation to avoid absolute claims about Artie's ultimate liability or the "purpose" to commit murder. Change (b) to: "Artie cannot be convicted of murder based solely on his membership in the conspiracy, because the MPC rejects *Pinkerton* liability and requires the prosecution to independently satisfy the elements of accomplice liability."
+Recommended fix: Reword (a) to avoid the § 2.06(4) result-crime trap. Change (a) to: "No, because the MPC rejects the rule that conspiracy membership automatically establishes liability for substantive crimes, and Artie did not act as an accomplice to Damon's independent act." Update the explanation to match.
 -->

@@ -1,4 +1,4 @@
-# Scenario: East Side Stash House
+# Scenario: East Side Stash House Ring
 
 ### Facts
 
@@ -13,6 +13,6 @@
 9. Damon texts Artie: "Vic was there. I killed him. Didn't get any product." Artie replies: "Whatever. Stay low," and wires Damon $1,000.
 10. Later that week, police raid Artie's apartment. They find Artie sitting on the couch. Under the couch is a locked safe containing 5 kilograms of fentanyl. The safe belongs to Damon; Artie knows the drugs are inside and allows Damon to store it there, but Artie does not know the combination and cannot open the safe himself.
 
-### Stem 1: Grand Jury Assessment
+### Stem 1: Prosecutor's Review
 
-"We've got four suspects in custody regarding the East Side stash house shooting and a related drug sting. I need you to evaluate the inchoate and vicarious liability exposure for each of them before we convene the grand jury. Review the investigative file and draft an analysis of the doctrines at play."
+We've got four suspects in custody regarding the East Side stash house shooting and a related drug sting. I need you to evaluate the inchoate and vicarious liability exposure for each of them before we convene the grand jury. Review the investigative file and draft an analysis of the doctrines at play.
