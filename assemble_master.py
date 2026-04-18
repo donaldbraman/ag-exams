@@ -43,6 +43,7 @@ def main():
         "      text: |",
         "        \\usepackage{enumitem}",
         "        \\setlist{itemsep=0.0em}",
+        "        \\def\\tightlist{}",
         "        \\usepackage{multicol}",
         "---"
     ]

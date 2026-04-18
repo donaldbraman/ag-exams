@@ -10,6 +10,7 @@ format:
       text: |
         \usepackage{enumitem}
         \setlist{itemsep=0.0em}
+        \def\tightlist{}
         \usepackage{multicol}
 ---
 # Scenario 1: The Genesis
