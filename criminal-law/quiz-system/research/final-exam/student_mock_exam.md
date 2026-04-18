@@ -9,7 +9,7 @@ format:
     include-in-header:
       text: |
         \usepackage{enumitem}
-        \setlist{itemsep=0.0em}
+        \setlist{itemsep=0.01em}
         \def\tightlist{}
         \usepackage{multicol}
 ---
