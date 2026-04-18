@@ -1,26 +1,26 @@
-**Q9.** Assume it is established that Albert committed a voluntary act. Under the common law "proximity test," is Albert guilty of attempted manufacturing of a controlled substance?
+**Q9.** Assume Albert argues that the drug manufacturing felony cannot serve as the predicate for felony murder because the act of manufacturing the drugs merges with the explosion that caused Chloe's death. Which is the most likely legal conclusion?
 
-(a) Yes, because bringing the precursors to the workstation crossed the legal threshold from mere preparation into the zone of perpetration.
-(b) Yes, because Albert possessed the specific intent to manufacture drugs and committed a slight overt act in furtherance of that intent.
-(c) No, because Albert had not yet opened the containers or begun the chemical synthesis, meaning he was not dangerously close to completion. <!-- correct -->
-(d) No, because the sudden explosion rendered the completion of the manufacturing process factually impossible under the circumstances.
-(e) No, because Albert's failure to acquire a valid fire safety permit acts as an absolute legal bar to an attempted manufacturing charge.
+(a) The felony merges because the explosion and the drug manufacturing occurred simultaneously in the same laboratory setting.
+(b) The felony merges because all non-violent felonies must be independently completed before any homicide liability can attach.
+(c) The felony does not merge because Albert's independent felonious purpose was to synthesize drugs, not to assault Chloe. <!-- correct -->
+(d) The felony does not merge because the merger doctrine only applies to inherently dangerous felonies committed with weapons.
+(e) The felony does not merge because the death of a bystander automatically negates the application of the merger doctrine.
 
 **Answer:** (c)
 
-**Explanation:** The common law proximity test requires that a defendant's acts come dangerously close to completing the intended crime. Mere preparation is insufficient. Because Albert had merely transferred sealed containers to the workstation and was sitting down to review notes—without opening any containers or beginning the actual chemical synthesis—a court applying the strict common law proximity test would likely find he was still in the preparation stage. (a) is wrong because bringing items to a workstation is typically deemed preparatory under the proximity test. (b) is wrong because "a slight overt act" is the test for conspiracy, not attempt. (d) is wrong because factual impossibility is generally not a defense to attempt. (e) is wrong because a regulatory permit violation is wholly unrelated to the elements of criminal attempt.
+**Explanation:** The merger doctrine applies when the underlying felony is assaultive in nature and integral to the homicide. Because Albert's independent felonious purpose was to manufacture drugs for profit, not to assault Chloe, the felony is independent and does not merge into the homicide. (a) fails because physical or temporal simultaneity does not trigger merger; the inquiry focuses on the independent purpose of the underlying felony. (b) fails because a felony does not need to be completed; deaths occurring during the attempt or commission can trigger felony murder. (d) fails because merger applies to assaultive felonies generally, not exclusively to felonies committed with deadly weapons. (e) fails because bystander deaths do not automatically negate merger; if the underlying felony was an assault that inadvertently killed a bystander, it might still merge depending on the jurisdiction.
 
-**Tags:** chapters: [17], topics: [attempt, actus reus, proximity test, preparation vs perpetration], difficulty: hard, cognitive: application
+**Tags:** chapters: [14], topics: [felony murder, merger doctrine, independent purpose], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 17 — actus-reus-proximity-test
+**Grounding:** Chapter 14 - merger doctrine (independent felonious purpose)
 
-<!-- audit: MUST FIX
-Check 1: pass (Assuming the intended facts, under the proximity test, transferring sealed containers without opening them is generally deemed mere preparation, not "dangerously close" to success.)
-Check 2: pass (Assuming the intended facts, distractors rely on incorrect legal standards for attempt, such as "slight overt act" which applies to conspiracy, or factual impossibility which is not a defense to attempt.)
-Check 3: pass (The explanation correctly applies the common law proximity test doctrine.)
-Check 4: MUST FIX (The stem is completely missing the factual scenario. It asks about "Albert" and relies on facts like "workstation," "precursors," "sealed containers," and "sudden explosion" found in the options and explanation, but none of these facts actually appear in the stem.)
-Check 5: pass (The stem clearly specifies the common law "proximity test".)
-Check 6: pass (No excluded topics.)
-Check 7: pass (The proximity test is taught in Chapter 17, verified via `actus-reus-proximity-test`.)
-Recommended fix: Add the missing fact pattern to the stem. For example: "Albert intended to manufacture a controlled substance. He brought sealed containers of precursor chemicals to his workstation and sat down to review his synthesis notes. Before he could open any containers or begin mixing the chemicals, a sudden explosion occurred, destroying the setup. Assume it is established that Albert committed a voluntary act. Under the common law 'proximity test,'..."
+<!-- audit: CLEAN
+check 1: pass (under the independent felonious purpose test, drug manufacturing does not merge into homicide because its purpose is separate from causing physical harm)
+check 2: pass (distractors represent common misunderstandings of the merger doctrine, but none are legally defensible)
+check 3: pass (explanation properly applies the independent purpose test)
+check 4: pass (despite being a sub-question, the stem restates all necessary facts: a drug manufacturing felony, an explosion, and a resulting death)
+check 5: pass (the independent felonious purpose test is the standard application and explicitly tagged in the curriculum)
+check 6: pass (no excluded topics)
+check 7: pass (doctrine aligns perfectly with the chapter 14 tag `merger-independent-purpose`)
+check 8: pass (options are highly symmetrical in length and structure, preventing meta-gaming)
 -->

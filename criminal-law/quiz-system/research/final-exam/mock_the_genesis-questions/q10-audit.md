@@ -1,26 +1,27 @@
-**Q10.** Assume Benny is convicted of conspiracy to manufacture drugs. Can Benny also be held liable for Albert's substantive violation of the Chemical Act (the unpermitted ether storage)?
+**Q10.** Assume that, hypothetically, the explosion had not occurred and police raided the lab just as Albert lifted the flask of reactive catalyst over the ether vat. He is charged with attempted manufacture of Blue-X. Which is the most likely legal conclusion?
 
-(a) Yes, because the unpermitted ether storage was a reasonably foreseeable substantive offense committed in furtherance of the manufacturing conspiracy. <!-- correct -->
-(b) Yes, because all conspirators are strictly liable for any and all criminal acts committed by their co-conspirators regardless of foreseeability.
-(c) No, because Benny's role was strictly limited to logistics and funding, legally severing him from liability for specific chemical storage violations.
-(d) No, because the *Pinkerton* doctrine only applies to specific intent crimes, and the Chemical Act violation is a regulatory offense.
-(e) No, because Benny did not perform the physical actus reus of storing the ether or failing to apply for the necessary fire safety permit.
+(a) Guilty of attempt because lifting the catalyst to pour it into the vat constituted a substantial step that was strongly corroborative of his criminal purpose. <!-- correct -->
+(b) Guilty of attempt because his prior act of verbally agreeing with Benny satisfied the strict physical proximity test for attempt.
+(c) Not guilty of attempt because he had not yet mixed the chemicals, meaning he had not crossed the threshold from mere preparation.
+(d) Not guilty of attempt because the police raid constitutes an involuntary abandonment of the criminal enterprise, which serves as a complete defense.
+(e) Not guilty of attempt because attempt liability requires the actual production of a usable quantity of the prohibited substance.
 
 **Answer:** (a)
 
-**Explanation:** Under the *Pinkerton* doctrine, a conspirator is criminally liable for the substantive offenses committed by co-conspirators if those offenses are in furtherance of the conspiracy and are reasonably foreseeable as a necessary or natural consequence of the unlawful agreement. Storing large quantities of precursors like ether is highly foreseeable in a drug manufacturing conspiracy. (b) is wrong because *Pinkerton* requires the acts to be in furtherance of the conspiracy and foreseeable; there is no absolute strict liability for unrelated crimes. (c) is wrong because dividing labor does not shield a conspirator from *Pinkerton* liability. (d) is wrong because *Pinkerton* applies to any foreseeable substantive offense, including regulatory crimes. (e) is wrong because the core purpose of *Pinkerton* is to impose liability on conspirators who did *not* commit the actus reus of the substantive offense.
+**Explanation:** Under the MPC, attempt requires a substantial step toward the commission of the offense that is strongly corroborative of the actor's criminal purpose. Lifting the reactive catalyst to pour into the vat satisfies this standard, moving beyond mere preparation. (b) fails because verbal agreement is relevant to conspiracy, while attempt under the physical proximity test requires being dangerously close to success, not just an agreement. (c) fails because the substantial step test does not require the final act or actual mixing; the act of lifting the flask to pour is sufficient. (d) fails because abandonment must be voluntary and complete; a police raid is an external interruption, not a voluntary abandonment. (e) fails because requiring actual production would mean the completed crime was required, defeating the entire concept of inchoate attempt liability.
 
-**Tags:** chapters: [19], topics: [conspiracy, Pinkerton doctrine, substantive liability, foreseeability], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, substantial step, actus reus], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 — pinkerton-doctrine
+**Grounding:** MPC Substantial Step Test; Chapter 17
 
-<!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: MUST FIX. The stem refers to specific facts ("Albert," "Benny's role," "the unpermitted ether storage") that are not provided in the text. Unless this question is explicitly attached to a shared fact pattern that precedes it, it lacks sufficient context for a student to evaluate the roles and foreseeability.
-check 5: MUST FIX. The course map explicitly includes the `pinkerton-mpc-rejection` tag, meaning students are taught that the Model Penal Code rejects the *Pinkerton* doctrine (requiring traditional accomplice liability for substantive crimes). The stem fails to stipulate the jurisdiction, which leaves the correct answer legally vulnerable under the MPC.
-check 6: pass
-check 7: pass
-Recommended fix: Incorporate the missing facts into the stem and explicitly specify the jurisdiction. For example: "Assume Benny and Albert agree to manufacture drugs, with Benny's role limited to funding and Albert's role to operations. Under federal law, can Benny also be held liable for Albert's substantive violation..."
+<!-- audit: SHOULD FIX
+<check 1>: pass
+<check 2>: pass
+<check 3>: pass
+<check 4>: pass
+<check 5>: The stem fails to stipulate the jurisdiction (MPC), yet the correct answer (a) and the explanation rely exclusively on the MPC's "substantial step" test. Because the attempt actus reus doctrine is split between Common Law proximity tests and the MPC substantial step test, the jurisdiction should be specified so students do not have to guess which test to apply. 
+<check 6>: pass
+<check 7>: pass
+<check 8>: pass
+Recommended fix: Add "under the Model Penal Code" to the stem's call of the question (e.g., "He is charged under the Model Penal Code with attempted manufacture of Blue-X.").
 -->

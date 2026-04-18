@@ -1,26 +1,27 @@
-**Q12.** Assume Albert's causal link to the death is established. The prosecution charges Albert with involuntary manslaughter, alleging gross criminal negligence. What must the prosecution prove to establish this mental state?
+**Q12.** Assume we are prosecuting Benny regarding the stash house incident. Benny is charged with possession of the Blue-X found in Kev's floor safe. Benny argues he did not live there and the drugs were not on his person. Which is the most likely legal conclusion?
 
-(a) That Albert specifically intended to cause the explosion that ultimately resulted in Chloe's fatal laceration.
-(b) That Albert was consciously aware that his actions were practically certain to cause the death of a bystander.
-(c) That handling volatile chemicals while experiencing severe spasms was a gross deviation from the standard of care, creating a substantial risk of death. <!-- correct -->
-(d) That an ordinary, reasonable person in Albert's position would have realized that a medical charting error was likely to occur at the hospital.
-(e) That Albert acted with a depraved heart and extreme indifference to human life, elevating the charge to second-degree murder.
+(a) Guilty of constructive possession because Benny was physically present in the stash house when the rival dealer kicked down the door.
+(b) Guilty of constructive possession because Kev providing Benny with the safe's combination gave Benny the intention and ability to exercise independent control over the drugs. <!-- correct -->
+(c) Not guilty of constructive possession because the legal tenant of a premises automatically maintains exclusive possession of all items in locked containers.
+(d) Not guilty of constructive possession because the drugs were placed in the safe by Kev, severing Benny's direct physical nexus to the contraband.
+(e) Not guilty of constructive possession because the state cannot prove Benny had the specific intent to distribute those exact drugs on that specific day.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** Involuntary manslaughter based on criminal negligence requires proof that the defendant's conduct constituted a gross deviation from the standard of care that a reasonable person would observe in the actor's situation, creating a substantial and unjustifiable risk of death. Handling highly volatile chemicals while actively suffering from severe, uncontrollable muscle spasms clearly meets this standard. (a) is wrong because specific intent to kill or injure constitutes murder or voluntary manslaughter, not involuntary manslaughter. (b) is wrong because "practically certain" describes the mental state of "knowingly," which goes beyond negligence. (d) is wrong because the defendant need not foresee the specific manner of medical negligence, only the risk of death from the explosion itself. (e) is wrong because "depraved heart" describes implied malice murder, not involuntary manslaughter.
+**Explanation:** Constructive possession is established when a person has knowledge of the contraband and the power and intention to exercise dominion and control over it. Having the safe's combination for independent retrieval (Fact 13) satisfies this requirement. (a) fails because mere presence near contraband is insufficient to establish constructive possession without power and intent to control. (c) fails because possession can be joint; Kev's tenancy does not grant him exclusive possession if he shares access with others. (d) fails because who physically placed the items there is irrelevant if Benny currently has the ability to exercise control over them. (e) fails because possession requires intent to control, not immediate intent to distribute on a specific day.
 
-**Tags:** chapters: [13], topics: [involuntary manslaughter, gross criminal negligence, mens rea, standard of care], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [constructive possession, awareness, control], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 13 — gross-criminal-negligence
+**Grounding:** Chapter 15 - constructive possession (power and intention to control)
 
-<!-- audit: SHOULD FIX
-Check 1: pass
-Check 2: pass
-Check 3: pass
-Check 4: The stem is missing the underlying fact pattern. It introduces highly specific facts ("volatile chemicals," "severe spasms," "Chloe," "medical charting error") only in the answer choices. A student can still deduce the correct answer by matching the legal standard ("gross deviation") to the requested mens rea ("criminal negligence"), but the question cannot stand alone effectively without its factual premise. 
-Check 5: pass
-Check 6: pass
-Check 7: pass
-Recommended fix: If this is a standalone question, incorporate a brief 1-2 sentence fact pattern into the stem (e.g., "Albert, while experiencing severe and uncontrollable muscle spasms, chose to handle highly volatile chemicals. The chemicals exploded, and bystander Chloe later died from a fatal laceration exacerbated by a medical charting error at the hospital. Assume Albert's causal link..."). If it is part of a shared fact-pattern block, it passes as-is.
+<!-- audit: MUST FIX
+check 1: finding — Option (b)'s phrasing is doctrinally sloppy. Kev providing the combination gives Benny the *ability* (power) to access the safe, but it cannot "give" Benny the *intention* to control the drugs. Intention is a mental state, not something transferred via a password.
+check 2: pass
+check 3: pass
+check 4: MUST FIX — The question relies on a missing fact pattern. The stem refers to "the stash house incident" without explaining it, and the explanation explicitly cites "(Fact 13)". A student reading this standalone question has no way of knowing Kev gave Benny the combination.
+check 5: pass
+check 6: pass
+check 7: pass
+check 8: pass
+Recommended fix: Integrate the missing facts into the stem (e.g., "Kev gave Benny the safe's combination so Benny could access the drugs"). Revise (b) to: "Guilty of constructive possession because Benny's knowledge of the combination and ability to independently access the safe establish his power and intent to control the drugs." Remove "(Fact 13)" from the explanation.
 -->

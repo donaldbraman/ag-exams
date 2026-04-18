@@ -4,29 +4,30 @@ The QA pipeline flagged this question. Rewrite `q10.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q10.** Assume that, whether or not Albert is guilty of attempted manufacturing, the prosecution charges Benny with Albert's violation of the Chemical Act for storing the ether without a permit. Under the Pinkerton doctrine, is Benny liable for this offense?
+**Q10.** Assume the prosecution alternatively charges Albert with the attempted manufacture of Blue-X based solely on his actions immediately prior to the explosion. Is Albert guilty of attempt?
 
-(a) Yes, because storing large quantities of ether is a reasonably foreseeable consequence of carrying out a conspiracy to manufacture illicit drugs, extending liability to all co-conspirators. <!-- correct -->
-(b) Yes, because under the Pinkerton doctrine, a co-conspirator is strictly liable for any and all crimes committed by their partners, regardless of whether they were foreseeable.
-(c) No, because Benny did not personally place the ether in the laboratory or sign for the chemical delivery from Dan, negating his physical actus reus.
-(d) No, because the Pinkerton doctrine applies exclusively to violent felonies, and the Chemical Act violation is classified as a minor regulatory misdemeanor offense under the state's public welfare statutes.
-(e) No, because Benny's role was strictly limited to funding and delivering the precursors, establishing an implicit legal withdrawal from the subsequent ether procurement phase under the common law withdrawal standards.
+(a) Guilty of attempted manufacture because lifting the flask of catalyst to pour into the vat strongly corroborates his criminal purpose and constitutes a substantial step. <!-- correct -->
+(b) Guilty of attempted manufacture because merely purchasing the ether and precursor chemicals satisfied the final element required to complete the target offense.
+(c) Not guilty of attempted manufacture because the sudden muscle spasm prevented him from intentionally completing the final act necessary for synthesis.
+(d) Not guilty of attempted manufacture because under the substantial step test, the defendant must have actually produced a usable quantity of illicit narcotics.
+(e) Not guilty of attempted manufacture because his physical actions remained mere preparation until the chemical reaction was successfully and safely stabilized.
 
 **Answer:** (a)
 
-**Explanation:** Under the *Pinkerton* doctrine, a conspirator is liable for the substantive offenses committed by a co-conspirator if those offenses were committed in furtherance of the conspiracy and were reasonably foreseeable. Storing large quantities of volatile chemicals is a highly foreseeable necessity for a drug manufacturing conspiracy. (b) is incorrect because *Pinkerton* liability is not strict; the substantive crime must be reasonably foreseeable and in furtherance of the agreement. (c) is incorrect because *Pinkerton* allows liability based on the agency principles of conspiracy, without requiring the defendant's personal physical participation in the actus reus. (d) is incorrect because *Pinkerton* applies to foreseeable substantive offenses generally, including regulatory misdemeanors. (e) is incorrect because withdrawal requires an affirmative and explicit act to disavow the conspiracy, not merely a limited operational role.
+**Explanation:** (a) is correct. Under the substantial step test for attempt, lifting the flask to pour the catalyst strongly corroborates Albert's criminal purpose and goes far beyond mere preparation, finalizing the attempt. (b) is wrong because mere preparation (like purchasing chemicals) typically does not satisfy the substantial step test. (c) is wrong because the attempt was already complete the moment he took the substantial step, regardless of the subsequent spasm interrupting the process. (d) is wrong because actual production of usable drugs defines the completed offense, not an attempt. (e) is wrong because his conduct had advanced to the actual synthesis phase, fully satisfying the substantial step requirement.
 
-**Tags:** chapters: [19], topics: [conspiracy, Pinkerton doctrine], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, substantial step], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19, Conspiracy — Pinkerton doctrine
+**Grounding:** Chapter 17, Substantial Step Test
 
-<!-- audit: MUST FIX
-<check 1>: pass
-<check 2>: pass
-<check 3>: pass
-<check 4>: MUST FIX. The question stem refers to specific actors ("Albert," "Benny," "Dan"), a location ("the laboratory"), and an overarching context ("a conspiracy to manufacture illicit drugs") that are completely absent from the prompt. This is clearly a severed question from a larger fact pattern. As a standalone question, it lacks the necessary facts to be answerable.
-<check 5>: pass
-<check 6>: pass
-<check 7>: pass
-Recommended fix: If this is intended to be a standalone question, prepend a brief 2-3 sentence fact pattern establishing the conspiracy between Albert and Benny to manufacture drugs, Benny's limited role of funding/delivering precursors, and Albert's act of acquiring and storing ether from Dan.
+<!-- audit: SHOULD FIX
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: pass
+check 5: The stem does not specify the jurisdiction's test for attempt actus reus (MPC substantial step vs. common law proximity). Option (a) and the explanation explicitly rely on the MPC "substantial step" and "strongly corroborates" standard. To avoid students second-guessing whether they should be applying the common law test, the stem should explicitly establish the legal framework.
+check 6: pass
+check 7: pass
+check 8: pass
+Recommended fix: Change the final sentence of the stem to explicitly establish the rule: "Under the substantial step test, is Albert guilty of attempt?"
 -->

@@ -1,22 +1,22 @@
-**Q9.** Assume it is established that Albert committed a voluntary act. Under the common law "proximity test," is Albert guilty of attempted manufacturing of a controlled substance?
+**Q9.** Assume Albert argues that the drug manufacturing felony cannot serve as the predicate for felony murder because the act of manufacturing the drugs merges with the explosion that caused Chloe's death. Which is the most likely legal conclusion?
 
-(a) Yes, because bringing the precursors to the workstation crossed the legal threshold from mere preparation into the zone of perpetration.
-(b) Yes, because Albert possessed the specific intent to manufacture drugs and committed a slight overt act in furtherance of that intent.
-(c) No, because Albert had not yet opened the containers or begun the chemical synthesis, meaning he was not dangerously close to completion. <!-- correct -->
-(d) No, because the sudden explosion rendered the completion of the manufacturing process factually impossible under the circumstances.
-(e) No, because Albert's failure to acquire a valid fire safety permit acts as an absolute legal bar to an attempted manufacturing charge.
+(a) The felony merges because the explosion and the drug manufacturing occurred simultaneously in the same laboratory setting.
+(b) The felony merges because all non-violent felonies must be independently completed before any homicide liability can attach.
+(c) The felony does not merge because Albert's independent felonious purpose was to synthesize drugs, not to assault Chloe. <!-- correct -->
+(d) The felony does not merge because the merger doctrine only applies to inherently dangerous felonies committed with weapons.
+(e) The felony does not merge because the death of a bystander automatically negates the application of the merger doctrine.
 
 **Answer:** (c)
 
-**Explanation:** The common law proximity test requires that a defendant's acts come dangerously close to completing the intended crime. Mere preparation is insufficient. Because Albert had merely transferred sealed containers to the workstation and was sitting down to review notes—without opening any containers or beginning the actual chemical synthesis—a court applying the strict common law proximity test would likely find he was still in the preparation stage. (a) is wrong because bringing items to a workstation is typically deemed preparatory under the proximity test. (b) is wrong because "a slight overt act" is the test for conspiracy, not attempt. (d) is wrong because factual impossibility is generally not a defense to attempt. (e) is wrong because a regulatory permit violation is wholly unrelated to the elements of criminal attempt.
+**Explanation:** The merger doctrine applies when the underlying felony is assaultive in nature and integral to the homicide. Because Albert's independent felonious purpose was to manufacture drugs for profit, not to assault Chloe, the felony is independent and does not merge into the homicide. (a) fails because physical or temporal simultaneity does not trigger merger; the inquiry focuses on the independent purpose of the underlying felony. (b) fails because a felony does not need to be completed; deaths occurring during the attempt or commission can trigger felony murder. (d) fails because merger applies to assaultive felonies generally, not exclusively to felonies committed with deadly weapons. (e) fails because bystander deaths do not automatically negate merger; if the underlying felony was an assault that inadvertently killed a bystander, it might still merge depending on the jurisdiction.
 
-**Tags:** chapters: [17], topics: [attempt, actus reus, proximity test, preparation vs perpetration], difficulty: hard, cognitive: application
+**Tags:** chapters: [14], topics: [felony murder, merger doctrine, independent purpose], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 17 — actus-reus-proximity-test
+**Grounding:** Chapter 14 - merger doctrine (independent felonious purpose)
 
-<!-- edge-case-audit: CLEAN
+<!-- edge-case-audit: SHOULD FIX
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+2. Cross-Doctrine Clashes: The facts explicitly state the jurisdiction classifies the manufacturing as an "enumerated felony." In many jurisdictions, enumerated felonies are categorically exempt from the merger doctrine by statute, making the independent felonious purpose test secondary or moot. However, (c) remains the best available doctrinal answer. 
+3. Cross-Question Spoilers: Stating as a given that it was "the explosion that caused Chloe's death" casually spoils the proximate cause conclusion tested in Q7 (which evaluates whether the doctor's intervening medical error broke the causal chain). 
+Recommended fix: Change "merges with the explosion that caused Chloe's death" to "merges with the fatal explosion" or "merges with the act that led to Chloe's death" to preserve the ambiguity required for Q7.
 -->

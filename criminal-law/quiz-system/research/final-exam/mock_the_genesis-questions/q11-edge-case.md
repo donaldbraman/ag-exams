@@ -1,22 +1,22 @@
-**Q11.** Under the common law of causation, how will a court analyze the hospital's charting error regarding Chloe's death?
+**Q11.** Assume Benny is charged with the unpermitted ether storage violation committed by Albert. Benny argues he had no knowledge of how much ether Albert was storing and never visited the lab. Which is the most likely legal conclusion regarding Benny's liability?
 
-(a) The error severs liability, because a medical professional's negligence always qualifies as a superseding independent intervening cause.
-(b) The error severs liability, because the charting mistake regarding the patient's weight was entirely unforeseeable and broke the causal chain.
-(c) The error does not sever liability, because ordinary medical negligence in treating an injury caused by the defendant is a dependent intervening cause. <!-- correct -->
-(d) The error does not sever liability, because the hospital staff shared Albert's specific intent to cause fatal harm to the innocent victim.
-(e) The error does not sever liability, because Albert's strict liability for the unpermitted ether storage automatically satisfies all legal causation elements.
+(a) Guilty under Pinkerton because the unpermitted ether storage was a reasonably foreseeable consequence of the Blue-X manufacturing conspiracy and in furtherance of it. <!-- correct -->
+(b) Guilty under Pinkerton because strict liability public welfare offenses are the only crimes that automatically extend to all unindicted co-conspirators.
+(c) Not guilty under Pinkerton because the doctrine requires each co-conspirator to directly participate in the specific actus reus of the substantive offense.
+(d) Not guilty under Pinkerton because the offense was merely a misdemeanor regulatory violation, which cannot serve as a conspiratorial predicate.
+(e) Not guilty under Pinkerton because Benny's role was strictly limited to downstream street distribution rather than upstream chemical procurement.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** In criminal law, a defendant who inflicts a wound is generally held to be the proximate cause of the victim's death even if negligent medical treatment contributes to the fatal outcome. Ordinary medical negligence is considered a foreseeable, dependent intervening cause that does not sever the causal chain. (a) and (b) are wrong because routine medical negligence (like a unit conversion charting error) is highly foreseeable and classified as dependent, thus not breaking the chain. (d) is wrong because there is no evidence the hospital staff shared a criminal intent, and such intent is not required to maintain Albert's liability. (e) is wrong because strict liability for a regulatory offense does not automatically satisfy the proximate cause requirement for a separate homicide charge.
+**Explanation:** Under *Pinkerton* liability, a conspirator is liable for the substantive offenses committed by a co-conspirator if those offenses were committed in furtherance of the conspiracy and were reasonably foreseeable. Large quantities of volatile precursors are highly foreseeable in a drug manufacturing scheme. (b) fails because *Pinkerton* applies to any foreseeable offense in furtherance of the conspiracy, not just strict liability offenses. (c) fails because *Pinkerton* explicitly extends liability precisely when the co-conspirator did *not* participate in the actus reus of the substantive crime. (d) fails because *Pinkerton* can apply to misdemeanors or regulatory offenses committed in furtherance of the conspiracy. (e) fails because a division of labor does not shield a conspirator from foreseeable crimes committed by partners in furtherance of the joint enterprise.
 
-**Tags:** chapters: [8], topics: [causation, proximate cause, dependent intervening cause, medical negligence], difficulty: easy, cognitive: recall
+**Tags:** chapters: [19], topics: [conspiracy, Pinkerton liability, foreseeability], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 8 — dependent-vs-independent-intervening-cause
+**Grounding:** Pinkerton v. United States; Chapter 19
 
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The fact pattern specifies that the doctor administered an "incorrectly dosed blood thinner" to a patient suffering from a "severe laceration to her neck." Administering an anticoagulant to an actively bleeding trauma patient is medically absurd and would likely be classified by a court as gross or extraordinary medical negligence. Unlike ordinary negligence, gross medical negligence is an independent, superseding cause that *does* sever the causal chain. This torpedoes the legal premise required for (c) to be correct.
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: Change the medication in the scenario package (Fact 12) from "blood thinner" to something routinely given to trauma patients (e.g., "an incorrectly dosed anesthetic" or "incorrectly dosed painkiller that suppressed her respiratory drive and contributed to her death"). This safely preserves the "ordinary negligence" framework.
+Recommended fix: n/a
 -->

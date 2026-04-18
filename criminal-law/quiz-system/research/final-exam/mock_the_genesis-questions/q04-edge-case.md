@@ -1,18 +1,18 @@
-**Q4.** Albert is charged under the State Public Welfare Chemical Act for unpermitted ether storage. The statute is silent on mental state. Under the *Morissette* framework, is this offense likely a strict liability crime?
+**Q4.** Assume Albert is charged with the unpermitted storage of ether under the State Public Welfare Chemical Act. He argues the prosecution must prove he knew he exceeded the 5-gallon limit, as the statute is silent on mental state. How will the court likely interpret the statute?
 
-(a) Yes, because possessing highly volatile ether puts the possessor on notice of likely regulation, satisfying the dangerous items heuristic. <!-- correct -->
-(b) Yes, because any statute that carries a potential term of imprisonment is automatically classified as a public welfare strict liability offense.
-(c) No, because the *Morissette* presumption requires that all statutes silent on mens rea be interpreted to require specific intent.
-(d) No, because Albert personally concluded that university laboratories were implicitly exempt from the fire safety permit requirement.
-(e) No, because the Act lacks explicit legislative history proving that lawmakers intended to abandon the traditional common law mens rea requirement.
+(a) The statute requires proof of knowledge because the Morissette presumption mandates reading a mens rea requirement into all criminal statutes regardless of penalty.
+(b) The statute requires proof of knowledge because ether has widespread innocent uses in university laboratories, triggering the Staples exception.
+(c) The statute is a strict liability offense because it regulates a dangerous item, carries a minor penalty, and Albert was in a position to prevent the harm. <!-- correct -->
+(d) The statute is a strict liability offense because environmental and chemical regulations automatically dispense with the voluntary act requirement entirely.
+(e) The statute is a strict liability offense because the legislature's silence on mental state operates as an absolute bar to any mistake of fact defense.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** Under the *Morissette* framework, public welfare offenses may dispense with mens rea if they regulate highly dangerous items. Possessing 10 gallons of highly volatile ether is an inherently dangerous activity that puts the possessor on notice that the conduct is likely regulated (the "dangerous items heuristic"). Combined with the minor penalty (30 days), this justifies strict liability. (b) is wrong because the threat of imprisonment (especially severe penalties) normally cuts *against* strict liability (*Staples*). (c) is wrong because the *Morissette* presumption can be overcome for regulatory public welfare offenses. (d) is wrong because a personal misreading of a statute does not override strict liability. (e) is wrong because *Morissette* and *Balint* establish that explicit legislative history is not required to find a public welfare offense if the structural factors are met.
+**Explanation:** Under the *Morissette* factors, a statute is interpreted as a strict liability public welfare offense if it regulates dangerous items (ether), carries a minor penalty (30 days in jail), and targets a defendant in a position to prevent the harm. (a) fails because the *Morissette* presumption can be overcome by the public welfare offense factors. (b) fails because unlike the ordinary firearms in *Staples*, bulk volatile ether is inherently dangerous and highly regulated, putting possessors on notice. (d) fails because strict liability dispenses only with the mens rea requirement, not the actus reus requirement of a voluntary act. (e) fails because statutory silence alone does not bar mistake defenses; for example, the MPC defaults to recklessness when a statute is silent.
 
-**Tags:** chapters: [11], topics: [public welfare offenses, strict liability, dangerous items heuristic, Morissette], difficulty: medium, cognitive: application
+**Tags:** chapters: [11], topics: [public welfare offenses, strict liability, Morissette factors], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 11 — morissette-factor-2-dangerous-items
+**Grounding:** Morissette v. United States; Chapter 11
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

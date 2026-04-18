@@ -1,26 +1,27 @@
-**Q1.** The prosecution charges Benny with conspiracy to manufacture a controlled substance. Does the interaction between Albert and Benny satisfy the agreement element of conspiracy?
+**Q1.** Assume Albert and Benny are charged with conspiracy to manufacture Blue-X. Benny argues that because he was only handling street distribution while Albert was solely responsible for synthesis, he did not agree to manufacture the drug. Which is the most likely legal conclusion regarding the agreement element?
 
-(a) Yes, because Benny's coordinated course of conduct in taking the keys and delivering cash permits a jury to infer a tacit agreement. <!-- correct -->
-(b) Yes, because any individual who provides funding for a project that later turns out to be illicit is strictly liable for conspiracy.
-(c) No, because Albert and Benny never explicitly discussed the specific details or nature of the drug manufacturing operation.
-(d) No, because Benny's actions merely constitute attempted aiding and abetting rather than a legally cognizable, completed agreement.
-(e) No, because the storage cabinet was a shared space, negating the necessary exclusivity required for an illegal criminal agreement.
+(a) Guilty of conspiracy because their verbal agreement to split the profits from the joint enterprise satisfies the bilateral agreement requirement for the entire scheme. <!-- correct -->
+(b) Guilty of conspiracy because Benny's physical presence at the laboratory during the precursor delivery constitutes a unilateral agreement to manufacture.
+(c) Not guilty of conspiracy because Benny lacked the technical capacity to manufacture the drug, rendering the agreement legally impossible to execute.
+(d) Not guilty of conspiracy because a valid agreement requires each conspirator to personally participate in the actus reus of the target offense.
+(e) Not guilty of conspiracy because the Wharton's Rule exception applies when a crime necessarily requires two parties to complete the transaction.
 
 **Answer:** (a)
 
-**Explanation:** A conspiracy requires an agreement to commit a crime, but the agreement need not be express. A tacit agreement can be inferred from a coordinated course of conduct. By nodding, taking the keys, and providing cash advances for a "lucrative new chemistry project," Benny engaged in conduct from which a jury can reasonably infer he agreed to the illicit venture. (b) is wrong because strict liability does not apply to conspiracy; intent to agree is required. (c) is wrong because explicit words are not required. (d) is wrong because the coordinated actions establish an actual agreement, not merely an attempt to aid. (e) is wrong because exclusivity of storage is irrelevant to whether an agreement was formed.
+**Explanation:** A conspiracy requires an agreement to commit the target offense, but conspirators are permitted to divide labor. By agreeing to distribute the manufactured product and splitting the profits (Fact 2), Benny agreed to the overarching manufacturing and distribution scheme, establishing a bilateral agreement. (b) fails because physical presence is not the test for agreement, and unilateral agreement concerns undercover agents. (c) fails because factual impossibility or a lack of individual capacity does not bar conspiracy liability if the group plans to execute the crime. (d) is legally flawed because conspirators need not personally perform the actus reus of the target offense. (e) fails because Wharton's Rule applies to offenses that inherently require two people (like dueling), not drug manufacturing.
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement, tacit agreement], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, agreement], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 — agreement-inference
+**Grounding:** Chapter 19 - bilateral agreement requirement
 
 <!-- audit: MUST FIX
-Check 1: pass (assuming the facts were present, the legal rule for tacit agreement is correct)
-Check 2: pass (distractors are legally flawed)
-Check 3: pass (explanation correctly matches the doctrine of agreement-inference)
-Check 4: MUST FIX. The fact pattern is completely missing from the question stem. The stem refers to "the interaction between Albert and Benny" and the options/explanation refer to "nodding," "taking the keys," "delivering cash," and a "lucrative new chemistry project," but none of these facts are actually provided to the student in the question stem. 
-Check 5: pass
-Check 6: pass
-Check 7: pass (agreement-inference is grounded in Ch 19)
-Recommended fix: Insert the missing fact pattern into the question stem before the call of the question. (e.g., "Albert told Benny he had a 'lucrative new chemistry project' and needed start-up money. Benny nodded, took the keys to Albert's storage cabinet, and delivered cash advances...").
+Check 1: fail. Option (a) relies on a "verbal agreement to split the profits," which is never actually stated in the prompt.
+Check 2: pass. No distractor is inadvertently correct, but (a) is technically unpickable based on the facts provided.
+Check 3: fail. The explanation explicitly references "(Fact 2)", which is a hallucinated artifact from a previous prompt-generation stage and does not exist in the text. Option (b) also references a "precursor delivery" not in the stem.
+Check 4: fail. The stem lacks sufficient facts. It fails to state that Albert and Benny actually had a verbal agreement, split profits, or that Benny was physically present at a laboratory, only stating what Benny "argues" his role was.
+Check 5: pass. Jurisdictional variation is not at issue here; the division of labor principle is uniform.
+Check 6: pass. No excluded topics; standard drug manufacturing scenario.
+Check 7: pass. The doctrine (division of labor in conspiracy / agreement scope) maps well to Ch 19 principles.
+Check 8: pass. The options are balanced in length and structure.
+Recommended fix: Add the missing factual premise to the stem (e.g., "Albert and Benny verbally agreed to run a Blue-X operation where they would split the profits, with Benny distributing the product that Albert synthesized.") and delete the phantom "(Fact 2)" reference from the explanation.
 -->

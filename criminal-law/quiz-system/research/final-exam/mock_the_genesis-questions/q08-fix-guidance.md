@@ -4,29 +4,55 @@ The QA pipeline flagged this question. Rewrite `q08.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q8.** Albert argues that the chemical explosion was caused by an involuntary muscle spasm, meaning he lacked the voluntary act required for criminal liability. Under the time-framing doctrine, which of the following is the prosecution's strongest counterargument?
+**Q8.** Assuming proximate causation is satisfied, the prosecution is comparing felony murder and extreme indifference murder to determine the most viable path to convict Albert for Chloe's death. Which is the most viable path?
 
-(a) The law presumes all bodily movements are voluntary unless the defendant can prove they were completely comatose at the exact moment the physical harm occurred.
-(b) Albert's liability traces back to his earlier voluntary choices to unlock the cabinet and handle chemicals despite knowing his medication caused severe and sudden spasms. <!-- correct -->
-(c) Strict liability public welfare offenses do not require a voluntary act, so the spasm's involuntariness is legally irrelevant to any charges arising from the explosion.
-(d) The involuntary spasm served as an independent intervening cause that satisfied the actus reus requirement without the need to identify any prior voluntary choice.
-(e) The time-framing doctrine holds that a defendant's documented medical condition automatically transforms any subsequent physical movement into a legally voluntary act for liability purposes.
+(a) Felony murder is the most viable path because the jurisdiction explicitly enumerates the manufacturing process, relieving the prosecution of proving a specific homicide mental state. <!-- correct -->
+(b) Extreme indifference murder is the most viable path because the involuntary muscle spasm entirely negates the underlying felony requirement for the felony murder doctrine.
+(c) Felony murder is the most viable path because all drug possession offenses automatically qualify for the doctrine regardless of specific statutory enumeration.
+(d) Extreme indifference murder is the most viable path because felony murder cannot legally apply when a third party's negligence contributes directly to the death.
+(e) Both paths are equally unviable because the subsequent medical malpractice fundamentally severs the causal chain required to secure any type of homicide conviction.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Under the time-framing doctrine, when a defendant knows they suffer from a condition that causes involuntary movements (like severe spasms), their prior voluntary choice to engage in dangerous conduct (handling volatile chemicals) creates the foreseeable risk and satisfies the voluntary act requirement. (a) is incorrect because unconsciousness is not limited to comas, but time-framing bypasses the involuntariness at the moment of harm regardless. (c) is incorrect because every criminal offense, including strict liability crimes, requires a voluntary act. (d) is incorrect because an involuntary spasm cannot satisfy the actus reus requirement; a prior voluntary act must be identified. (e) is incorrect because the medical condition itself does not make the movement voluntary; liability rests solely on the prior conscious choice to act despite the condition.
+**Explanation:** (a) is correct. Because manufacturing Blue-X is explicitly enumerated as a qualifying felony in this jurisdiction, it strictly triggers the felony-murder rule, relieving the prosecution of the heavy burden of proving malice or extreme indifference. (b) is wrong because the time-framing doctrine preserves the voluntary act for the underlying felony despite the spasm. (c) is wrong because felony murder typically requires the felony to be either inherently dangerous or statutorily enumerated; not all drug offenses automatically qualify. (d) is wrong because proximate causation principles apply equally to felony murder; the ordinary medical negligence does not sever liability. (e) is wrong because ordinary medical malpractice does not sever the causal chain.
 
-**Tags:** chapters: [7], topics: [actus reus, voluntary act, time-framing-seizure-driving], difficulty: medium, cognitive: application
+**Tags:** chapters: [12, 13, 14], topics: [homicide grading, felony murder, extreme indifference], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 7, Actus Reus — time-framing-seizure-driving
+**Grounding:** Chapter 14, Enumerated Felony Murder
 
 <!-- audit: MUST FIX
-<check 1>: pass
-<check 2>: pass
-<check 3>: pass
-<check 4>: fails. The stem is missing the factual predicate required for the correct answer. It never states that Albert unlocked a cabinet, handled chemicals, or knew his medication caused severe spasms. Option (b) introduces these specific facts out of thin air. A well-prepared student would rightfully eliminate (b) for assuming facts not in evidence.
-<check 5>: pass
-<check 6>: pass
-<check 7>: pass
-Recommended fix: Add the missing factual setup to the stem. For example: "Albert, fully aware that his new medication causes sudden and severe muscle spasms, unlocks a lab cabinet to mix volatile chemicals. During the process, he suffers a spasm, dropping a beaker and causing an explosion. At trial, Albert argues..."
+check 1: pass (Assuming the intended facts, the correct answer accurately applies enumerated felony murder doctrine to relieve the mens rea burden).
+check 2: pass
+check 3: pass
+check 4: FAIL. The question is entirely missing its fact pattern. The stem and options refer to "Albert," "Chloe," a "manufacturing process" for "Blue-X", an "involuntary muscle spasm," and "subsequent medical malpractice" without ever introducing these facts. Students cannot answer the question without the scenario.
+check 5: FAIL. Option (a) relies on the jurisdiction explicitly enumerating drug manufacturing as a felony murder predicate. Without a fact pattern establishing this jurisdictional rule, students cannot deduce that this is the correct path.
+check 6: pass
+check 7: pass
+check 8: pass
+Recommended fix: Prepend the full fact pattern to the stem. The scenario must detail Albert's drug manufacturing, his involuntary muscle spasm, Chloe's resulting injury, the subsequent medical malpractice, and explicitly stipulate that the jurisdiction's felony murder statute enumerates the manufacturing of Blue-X.
+-->
+
+## Issue 2 — edge-case
+
+**Q8.** Assuming proximate causation is satisfied, the prosecution is comparing felony murder and extreme indifference murder to determine the most viable path to convict Albert for Chloe's death. Which is the most viable path?
+
+(a) Felony murder is the most viable path because the jurisdiction explicitly enumerates the manufacturing process, relieving the prosecution of proving a specific homicide mental state. <!-- correct -->
+(b) Extreme indifference murder is the most viable path because the involuntary muscle spasm entirely negates the underlying felony requirement for the felony murder doctrine.
+(c) Felony murder is the most viable path because all drug possession offenses automatically qualify for the doctrine regardless of specific statutory enumeration.
+(d) Extreme indifference murder is the most viable path because felony murder cannot legally apply when a third party's negligence contributes directly to the death.
+(e) Both paths are equally unviable because the subsequent medical malpractice fundamentally severs the causal chain required to secure any type of homicide conviction.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct. Because manufacturing Blue-X is explicitly enumerated as a qualifying felony in this jurisdiction, it strictly triggers the felony-murder rule, relieving the prosecution of the heavy burden of proving malice or extreme indifference. (b) is wrong because the time-framing doctrine preserves the voluntary act for the underlying felony despite the spasm. (c) is wrong because felony murder typically requires the felony to be either inherently dangerous or statutorily enumerated; not all drug offenses automatically qualify. (d) is wrong because proximate causation principles apply equally to felony murder; the ordinary medical negligence does not sever liability. (e) is wrong because ordinary medical malpractice does not sever the causal chain.
+
+**Tags:** chapters: [12, 13, 14], topics: [homicide grading, felony murder, extreme indifference], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 14, Enumerated Felony Murder
+
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The prompt explicitly tells students "Assuming proximate causation is satisfied," but option (e) asserts that "medical malpractice fundamentally severs the causal chain." This allows students to instantly eliminate (e) based on pure reading comprehension rather than doctrinal knowledge.
+2. Cross-Doctrine Clashes: pass.
+3. Cross-Question Spoilers: Q8's correct answer definitively establishes that felony murder is "the most viable path" because the manufacturing felony is explicitly enumerated. This heavily spoils Q9, which tests whether the independent felonious purpose (merger) doctrine blocks Blue-X manufacturing from serving as a valid felony murder predicate. 
+Recommended fix: Add "Assuming the manufacturing offense is a valid predicate..." to the prompt to properly isolate Q9's issue. Completely replace options (d) and (e) with distractors focused on the muscle spasm or mens rea (e.g., arguing that extreme indifference requires a purposeful mental state, or that an involuntary spasm precludes strict liability) so they do not contradict the prompt's explicit causation assumptions.
 -->

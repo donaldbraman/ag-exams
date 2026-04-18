@@ -1,26 +1,27 @@
-**Q8.** Under the "time-framing" doctrine (as applied in cases like *Decina*), how will the court likely rule on Albert's claim that his muscle spasm defeats liability?
+**Q8.** Assume the prosecution must choose the most viable homicide theory against Albert for Chloe's death. They are debating between felony murder and extreme indifference murder. Which theory is more viable?
 
-(a) It will uphold Albert's claim, because the catastrophic explosion was proximately caused by an uncontrollable, medication-induced physiological reflex.
-(b) It will uphold Albert's claim, because Albert was effectively in a state of involuntary unconsciousness at the precise moment the containers ruptured.
-(c) It will reject Albert's claim, because his earlier voluntary choice to handle volatile chemicals while knowing he suffered from severe spasms supports liability. <!-- correct -->
-(d) It will reject Albert's claim, because the voluntary act requirement is completely waived for strict liability and public welfare regulatory offenses.
-(e) It will reject Albert's claim, because Albert's failure to read the warning label carefully constitutes a criminal omission that replaces the voluntary act requirement.
+(a) Felony murder is more viable because drug manufacturing is an enumerated felony, allowing a murder conviction without needing to prove Albert's subjective awareness of the risk to Chloe. <!-- correct -->
+(b) Felony murder is more viable because the extreme indifference standard requires the prosecution to prove Albert actually intended to kill bystanders.
+(c) Extreme indifference murder is more viable because felony murder requires the victim to be a participant in the underlying criminal conspiracy.
+(d) Extreme indifference murder is more viable because the inherently dangerous felony limitation strictly bars drug offenses from serving as predicates.
+(e) Both are equally viable because strict liability offenses automatically fulfill the mens rea requirements for both felony murder and extreme indifference murder.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** The time-framing doctrine (established in cases like *Decina*) permits courts to look backward in time to find a voluntary act. If a defendant makes a voluntary choice that foreseeably creates the risk of involuntary harmful conduct (e.g., choosing to drive with a known seizure disorder, or handling volatile chemicals despite knowing one is experiencing severe, uncontrollable spasms), that prior voluntary act satisfies the actus reus requirement. (a) and (b) are wrong because the time-framing doctrine explicitly overcomes the lack of voluntariness at the precise moment of the harm. (d) is wrong because even strict liability offenses require a voluntary act. (e) is wrong because the facts state Albert did read the warning label and knew about the spasms; the issue is his subsequent conduct, not an omission.
+**Explanation:** Felony murder allows for a murder conviction based on the commission of an enumerated felony without the need to prove malice or subjective awareness of risk to human life, making it the most direct and viable path. The jurisdiction explicitly enumerates the synthesis process (Fact 8). (b) fails because extreme indifference murder requires recklessness manifesting extreme indifference to human life, not an intent to kill. (c) fails because felony murder explicitly applies to innocent bystanders killed during the felony; the agency rule only exempts deaths of co-felons killed by third parties. (d) fails because drug manufacturing is explicitly listed in the facts as an enumerated felony in this jurisdiction. (e) fails because extreme indifference murder inherently requires a subjective mens rea (recklessness), and felony murder is a substitute for malice, not based on strict liability offenses.
 
-**Tags:** chapters: [7], topics: [actus reus, voluntary act, time-framing, seizure], difficulty: medium, cognitive: application
+**Tags:** chapters: [14, 13], topics: [felony murder, homicide grading, enumerated felony], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 7 — time-framing-seizure-driving
+**Grounding:** Chapter 14 - strict liability substitution and enumerated felonies
 
 <!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: The stem is completely missing the fact pattern. It abruptly asks how the court will rule on "Albert's claim," while the answer choices and explanation rely on unstated facts about volatile chemicals, a catastrophic explosion, warning labels, and severe spasms. A student cannot answer this question without the missing facts. 
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Insert the missing fact pattern before the question stem, explicitly detailing Albert's medical condition, his reading of the warning label, his decision to handle volatile chemicals anyway, and the resulting muscle spasm and explosion.
+check 1: pass (the legal principle in the correct answer accurately describes felony murder as a strict liability substitution for malice)
+check 2: pass (the distractors rely on clear, unambiguous misstatements of law rather than trickery)
+check 3: pass (the explanation correctly justifies the answer based on the relevant doctrines)
+check 4: fails (The stem relies entirely on a missing master fact pattern. It references Albert, Chloe, drug manufacturing, and "Fact 8", none of which are provided in the question itself. A standalone question must include these facts.)
+check 5: fails (The explanation relies on the fact that the jurisdiction explicitly enumerates drug manufacturing as a predicate felony, but this crucial jurisdictional detail is missing from the stem.)
+check 6: pass (no excluded topics)
+check 7: pass (homicide grading, enumerated felonies, and extreme indifference are covered in Ch 13 and 14 Refinements)
+check 8: pass (options are roughly symmetrical in length and structure)
+Recommended fix: Incorporate the necessary facts directly into the stem. For example: "Albert was illegally manufacturing drugs when his lab exploded, killing innocent bystander Chloe. Assume that in this jurisdiction, drug manufacturing is an explicitly enumerated predicate for felony murder. The prosecution is debating between felony murder and extreme indifference murder. Which theory is more viable?"
 -->

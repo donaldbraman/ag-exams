@@ -1,257 +1,267 @@
-**Q1.** The prosecution charges Benny with conspiracy to manufacture a controlled substance. Does the interaction between Albert and Benny satisfy the agreement element of conspiracy?
+**Q1.** Assume Albert and Benny are charged with conspiracy to manufacture Blue-X. Benny argues that because he was only handling street distribution while Albert was solely responsible for synthesis, he did not agree to manufacture the drug. Which is the most likely legal conclusion regarding the agreement element?
 
-(a) Yes, because Benny's coordinated course of conduct in taking the keys and delivering cash permits a jury to infer a tacit agreement. <!-- correct -->
-(b) Yes, because any individual who provides funding for a project that later turns out to be illicit is strictly liable for conspiracy.
-(c) No, because Albert and Benny never explicitly discussed the specific details or nature of the drug manufacturing operation.
-(d) No, because Benny's actions merely constitute attempted aiding and abetting rather than a legally cognizable, completed agreement.
-(e) No, because the storage cabinet was a shared space, negating the necessary exclusivity required for an illegal criminal agreement.
-
-**Answer:** (a)
-
-**Explanation:** A conspiracy requires an agreement to commit a crime, but the agreement need not be express. A tacit agreement can be inferred from a coordinated course of conduct. By nodding, taking the keys, and providing cash advances for a "lucrative new chemistry project," Benny engaged in conduct from which a jury can reasonably infer he agreed to the illicit venture. (b) is wrong because strict liability does not apply to conspiracy; intent to agree is required. (c) is wrong because explicit words are not required. (d) is wrong because the coordinated actions establish an actual agreement, not merely an attempt to aid. (e) is wrong because exclusivity of storage is irrelevant to whether an agreement was formed.
-
-**Tags:** chapters: [19], topics: [conspiracy, agreement, tacit agreement], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 19 — agreement-inference
-
----
-
-**Q2.** Assume Albert is charged with manufacturing offenses regarding the precursors. The prosecution charges Dan as an accomplice. Is Dan liable as an accomplice to Albert's operation?
-
-(a) Yes, because Dan's imposition of an exorbitant 500% markup establishes a financial stake in the venture that allows a jury to infer purpose. <!-- correct -->
-(b) Yes, because under common law, mere knowledge of a buyer's illicit intentions is always sufficient to establish liability as an accomplice.
-(c) No, because Dan explicitly disclaimed any interest in receiving a share of the final product's sales proceeds or business profits.
-(d) No, because Dan merely supplied a raw material and did not participate in the physical chemical synthesis process in the laboratory.
-(e) No, because Dan's statements demonstrate that he only possessed a reckless mental state regarding the ultimate outcome of the venture.
+(a) Guilty of conspiracy because their verbal agreement to split the profits from the joint enterprise satisfies the bilateral agreement requirement for the entire scheme. <!-- correct -->
+(b) Guilty of conspiracy because Benny's physical presence at the laboratory during the precursor delivery constitutes a unilateral agreement to manufacture.
+(c) Not guilty of conspiracy because Benny lacked the technical capacity to manufacture the drug, rendering the agreement legally impossible to execute.
+(d) Not guilty of conspiracy because a valid agreement requires each conspirator to personally participate in the actus reus of the target offense.
+(e) Not guilty of conspiracy because the Wharton's Rule exception applies when a crime necessarily requires two parties to complete the transaction.
 
 **Answer:** (a)
 
-**Explanation:** Accomplice liability generally requires the specific intent (purpose) to facilitate the target crime. While a merchant selling ordinary goods at ordinary prices with mere knowledge of illegal use lacks this purpose, charging a severe premium (like a 500% markup) based on the legal risk gives the seller a financial "stake in the venture." This allows a jury to infer purpose. (b) is wrong because mere knowledge is generally insufficient for accomplice liability. (c) is wrong because a stake in the venture can be established through an inflated upfront price, not just a cut of backend profits. (d) is wrong because providing necessary materials with the requisite purpose constitutes aiding and abetting. (e) is wrong because the exorbitant markup elevates his mental state from knowledge to inferable purpose.
+**Explanation:** A conspiracy requires an agreement to commit the target offense, but conspirators are permitted to divide labor. By agreeing to distribute the manufactured product and splitting the profits (Fact 2), Benny agreed to the overarching manufacturing and distribution scheme, establishing a bilateral agreement. (b) fails because physical presence is not the test for agreement, and unilateral agreement concerns undercover agents. (c) fails because factual impossibility or a lack of individual capacity does not bar conspiracy liability if the group plans to execute the crime. (d) is legally flawed because conspirators need not personally perform the actus reus of the target offense. (e) fails because Wharton's Rule applies to offenses that inherently require two people (like dueling), not drug manufacturing.
 
-**Tags:** chapters: [18, 19], topics: [accomplice liability, mens rea, purpose vs knowledge, stake in the venture], difficulty: medium, cognitive: analysis
+**Tags:** chapters: [19], topics: [conspiracy, agreement], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 — mr-purpose-not-knowledge
+**Grounding:** Chapter 19 - bilateral agreement requirement
 
 ---
 
-**Q3.** The prosecution charges Albert with theft for taking the centrifuge. Assume theft is a specific intent offense requiring the intent to permanently deprive another of their property. Does Albert have a valid mistake of fact defense?
+**Q2.** Assume Dan is charged with conspiracy to manufacture Blue-X. He argues that he explicitly disclaimed any share of the profits and merely sold a legal chemical at a high price. Which is the most likely legal conclusion regarding Dan's liability?
 
-(a) Yes, because Albert genuinely believed the machine was assigned to his own grant, which negates the required intent to steal the property of another. <!-- correct -->
-(b) Yes, because Albert's terminal cancer diagnosis operates as a complete equitable excuse under the doctrine of medical necessity.
-(c) No, because a mistake of fact is never a valid defense when the surrounding criminal actions are inherently dangerous or malum in se.
-(d) No, because Albert's belief was objectively unreasonable given that he removed the machine from a completely different laboratory.
-(e) No, because the offense of theft implies strict liability regarding the actual ownership status of the physical property being taken.
+(a) Guilty of conspiracy because any sale of goods to a known criminal enterprise automatically establishes purpose under the common law.
+(b) Guilty of conspiracy because charging a 500% markup gives him a financial stake in the venture, allowing an inference of his purpose to facilitate it. <!-- correct -->
+(c) Not guilty of conspiracy because his explicit statement disclaiming a share of the profits completely immunizes him from any inferred intent.
+(d) Not guilty of conspiracy because ether is a legally available chemical with widespread innocent uses, barring any strict liability application.
+(e) Not guilty of conspiracy because Dan did not participate in the actual synthesis of the Blue-X or the downstream street distribution.
+
+**Answer:** (b)
+
+**Explanation:** Under the *Lauria* doctrine, while mere knowledge of illegal use is generally insufficient to establish the "purpose" required for conspiracy, purpose can be inferred if the supplier has a "stake in the venture." Charging a grossly inflated markup (500%) for restricted goods establishes this financial stake. (a) fails because mere knowledge is generally insufficient; purpose is required. (c) fails because a verbal disclaimer does not override the objective reality of the markup, which establishes a financial stake regardless of his words. (d) fails because while ether has innocent uses, Dan knew of its illicit use and exploited it; strict liability is irrelevant to conspiracy intent. (e) fails because conspirators do not need to participate in the actus reus if they share the purpose and agree to facilitate it.
+
+**Tags:** chapters: [18, 19], topics: [conspiracy, accomplice liability, mens rea, purpose, Lauria], difficulty: medium, cognitive: application
+
+**Grounding:** People v. Lauria; Chapter 19
+
+---
+
+**Q3.** Assume Albert is charged with theft for taking the centrifuge, an offense requiring the specific intent to permanently deprive another of their property. He argues he genuinely believed the centrifuge was his own. Which is the most likely legal conclusion?
+
+(a) Not guilty of theft because his actual, honest belief that he owned the centrifuge directly negates the mens rea required for the element of taking the property of another. <!-- correct -->
+(b) Not guilty of theft because the university environment implies a general consent to share equipment among tenured professors conducting official research.
+(c) Guilty of theft because mistakes of fact must be both honest and objectively reasonable, and taking an item from a different lab is per se unreasonable.
+(d) Guilty of theft because the taking of scientific equipment without authorization is a strict liability offense where subjective mental state is irrelevant.
+(e) Guilty of theft because his broader illicit intent to manufacture narcotics transfers to any property crimes committed during the preparation phase.
 
 **Answer:** (a)
 
-**Explanation:** A mistake of fact is a defense if it negates the mental state required by the offense. Because theft requires the specific intent to take the "property of another," Albert's genuine belief that the centrifuge was his own property negates this mens rea. For specific intent crimes, the mistake need only be honest, not necessarily reasonable. (b) is wrong because a terminal diagnosis does not constitute legal necessity for theft. (c) is wrong because the "malum in se" limitation typically applies to general intent or strict liability crimes, not specific intent theft. (d) is wrong because an unreasonable but genuine mistake still negates specific intent at common law. (e) is wrong because theft is never a strict liability offense; it inherently requires mens rea.
+**Explanation:** Theft is a specific intent crime requiring the intent to take the property *of another*. An honest mistake of fact regarding ownership directly negates this required mental state, preventing a conviction (Fact 4). (b) fails because there is no blanket legal doctrine of implied general consent simply based on being a tenured professor. (c) fails because for specific intent crimes, an honest mistake of fact need not be objectively reasonable to successfully negate the required mental state. (d) fails because theft is not a strict liability offense; it inherently requires a culpable mental state. (e) fails because the doctrine of transferred intent applies to missing a target and hitting another (e.g., in homicide), not transferring intent across entirely different statutory offenses.
 
-**Tags:** chapters: [10], topics: [mistake of fact, specific intent, mens rea negation], difficulty: easy, cognitive: application
+**Tags:** chapters: [10], topics: [mistake of fact, specific intent, mens rea], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 10 — mof-mental-state-negation
+**Grounding:** Chapter 10 - mistake of fact negation of specific intent element
 
 ---
 
-**Q4.** Albert is charged under the State Public Welfare Chemical Act for unpermitted ether storage. The statute is silent on mental state. Under the *Morissette* framework, is this offense likely a strict liability crime?
+**Q4.** Assume Albert is charged with the unpermitted storage of ether under the State Public Welfare Chemical Act. He argues the prosecution must prove he knew he exceeded the 5-gallon limit, as the statute is silent on mental state. How will the court likely interpret the statute?
 
-(a) Yes, because possessing highly volatile ether puts the possessor on notice of likely regulation, satisfying the dangerous items heuristic. <!-- correct -->
-(b) Yes, because any statute that carries a potential term of imprisonment is automatically classified as a public welfare strict liability offense.
-(c) No, because the *Morissette* presumption requires that all statutes silent on mens rea be interpreted to require specific intent.
-(d) No, because Albert personally concluded that university laboratories were implicitly exempt from the fire safety permit requirement.
-(e) No, because the Act lacks explicit legislative history proving that lawmakers intended to abandon the traditional common law mens rea requirement.
+(a) The statute requires proof of knowledge because the Morissette presumption mandates reading a mens rea requirement into all criminal statutes regardless of penalty.
+(b) The statute requires proof of knowledge because ether has widespread innocent uses in university laboratories, triggering the Staples exception.
+(c) The statute is a strict liability offense because it regulates a dangerous item, carries a minor penalty, and Albert was in a position to prevent the harm. <!-- correct -->
+(d) The statute is a strict liability offense because environmental and chemical regulations automatically dispense with the voluntary act requirement entirely.
+(e) The statute is a strict liability offense because the legislature's silence on mental state operates as an absolute bar to any mistake of fact defense.
+
+**Answer:** (c)
+
+**Explanation:** Under the *Morissette* factors, a statute is interpreted as a strict liability public welfare offense if it regulates dangerous items (ether), carries a minor penalty (30 days in jail), and targets a defendant in a position to prevent the harm. (a) fails because the *Morissette* presumption can be overcome by the public welfare offense factors. (b) fails because unlike the ordinary firearms in *Staples*, bulk volatile ether is inherently dangerous and highly regulated, putting possessors on notice. (d) fails because strict liability dispenses only with the mens rea requirement, not the actus reus requirement of a voluntary act. (e) fails because statutory silence alone does not bar mistake defenses; for example, the MPC defaults to recklessness when a statute is silent.
+
+**Tags:** chapters: [11], topics: [public welfare offenses, strict liability, Morissette factors], difficulty: medium, cognitive: application
+
+**Grounding:** Morissette v. United States; Chapter 11
+
+---
+
+**Q5.** Assume that, regardless of the required mens rea, Albert argues his personal reading of the statute's preamble—that universities were implicitly exempt—constitutes a valid mistake of law defense for the ether storage charge. Which is the most likely legal conclusion?
+
+(a) Valid defense because his reading was based on the actual text of the statute rather than general ignorance of the law's existence.
+(b) Valid defense because professors are considered agents of the state, transforming his interpretation into an official statement of the law.
+(c) Invalid defense because under the Marrero rule, a personal misinterpretation of an ambiguous statute does not qualify as reasonable reliance on an official statement. <!-- correct -->
+(d) Invalid defense because mistake of law defenses are only available for malum in se crimes where moral blameworthiness must be firmly established.
+(e) Invalid defense because the Cheek exception specifically explicitly prohibits mistake of law defenses for any regulatory or public welfare offense.
+
+**Answer:** (c)
+
+**Explanation:** Under the *Marrero* rule, a defendant's personal misreading of a statute—even an arguably reasonable one based on a preamble (Fact 6)—does not constitute reliance on an "official statement of the law" and therefore provides no mistake of law defense. (a) fails because personal interpretations of the law, even if based on the text, do not excuse the violation. (b) fails because Albert is not a government official charged with interpreting the law for enforcement purposes; he is acting in a personal capacity. (d) fails because mistake of law defenses are actually more restricted for malum in se crimes (under *Prince*) and more relevant to malum prohibitum crimes. (e) fails because *Cheek* applies to tax "willfulness" and does not categorically ban mistake of law defenses for regulatory offenses.
+
+**Tags:** chapters: [10], topics: [mistake of law, official statement, Marrero rule], difficulty: medium, cognitive: application
+
+**Grounding:** People v. Marrero; Chapter 10
+
+---
+
+**Q6.** Assume Albert argues that he cannot be held liable for the explosion because the catastrophic event was triggered by an involuntary muscle spasm, which negates the voluntary act requirement. Which is the most likely legal conclusion?
+
+(a) Liable because a muscle spasm is legally classified as a reflex that fulfills the voluntary act requirement if the defendant is awake.
+(b) Liable because under the time-framing doctrine, liability traces back to his prior voluntary choice to proceed with the synthesis despite knowing the risk of spasms. <!-- correct -->
+(c) Not liable because the immediate physical movement causing the explosion was involuntary, severing any connection to his prior acts.
+(d) Not liable because the medical side effects of a prescription drug constitute an external physical compulsion that absolutely bars prosecution.
+(e) Not liable because the state must prove that every single movement in the sequence of a crime was fully voluntary and conscious.
+
+**Answer:** (b)
+
+**Explanation:** Similar to cases involving drivers with known seizure disorders (*Decina*), the time-framing doctrine traces liability back to the defendant's prior voluntary choice that foreseeably created the risk of involuntary harmful conduct. Albert knew of the spasm risk but voluntarily proceeded with the synthesis (Fact 7). (a) fails because reflexes are explicitly excluded from the definition of a voluntary act under MPC 2.01(2). (c) fails because the moment of involuntary movement does not sever liability if a prior voluntary act foreseeably created the danger. (d) fails because pharmaceutical side effects do not equal "external physical compulsion" (like being physically pushed by police), and voluntarily taking the risk negates the defense. (e) fails because the law only requires that the conduct *include* a voluntary act, not that every single movement be voluntary.
+
+**Tags:** chapters: [7], topics: [actus reus, voluntary act, time-framing], difficulty: hard, cognitive: application
+
+**Grounding:** People v. Decina; Chapter 7 time-framing doctrine
+
+---
+
+**Q7.** Assume Albert is charged with homicide for Chloe's death. He argues that the doctor's administration of a massive dose of the wrong medication was the actual cause of her death and relieves him of liability. Which is the most likely legal conclusion?
+
+(a) Proximate cause fails because the doctor's error constituted an independent, superseding intervening act that completely severed the causal chain.
+(b) Proximate cause fails because the explosion only caused lacerations, meaning the death was a highly extraordinary result not foreseeable from Albert's conduct.
+(c) Proximate cause is established because ordinary medical negligence in treating an inflicted wound is a dependent intervening cause that does not sever liability. <!-- correct -->
+(d) Proximate cause is established because medical professionals are considered strict liability actors, transferring any negligence directly to the initial aggressor.
+(e) Proximate cause is established because under the concurrent sufficient causes doctrine, both Albert and the doctor acted with identical mens rea.
+
+**Answer:** (c)
+
+**Explanation:** Ordinary medical negligence in treating a wound caused by the defendant is legally considered a dependent intervening cause that is reasonably foreseeable, and therefore does not sever the chain of proximate causation. (a) fails because ordinary medical negligence is a dependent, not independent/superseding, intervening cause. (b) fails because death resulting from medical treatment for life-threatening lacerations caused by an explosion is not a highly extraordinary result. (d) fails because there is no doctrine that categorizes doctors as strict liability actors or transfers negligence in this manner. (e) fails because concurrent sufficient causes apply when two independent forces act simultaneously to cause death (e.g., two shooters at exactly the same time), not in a sequential treatment scenario.
+
+**Tags:** chapters: [8], topics: [causation, intervening cause, dependent vs independent], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 8 - ordinary medical negligence as a dependent intervening cause
+
+---
+
+**Q8.** Assume the prosecution must choose the most viable homicide theory against Albert for Chloe's death. They are debating between felony murder and extreme indifference murder. Which theory is more viable?
+
+(a) Felony murder is more viable because drug manufacturing is an enumerated felony, allowing a murder conviction without needing to prove Albert's subjective awareness of the risk to Chloe. <!-- correct -->
+(b) Felony murder is more viable because the extreme indifference standard requires the prosecution to prove Albert actually intended to kill bystanders.
+(c) Extreme indifference murder is more viable because felony murder requires the victim to be a participant in the underlying criminal conspiracy.
+(d) Extreme indifference murder is more viable because the inherently dangerous felony limitation strictly bars drug offenses from serving as predicates.
+(e) Both are equally viable because strict liability offenses automatically fulfill the mens rea requirements for both felony murder and extreme indifference murder.
 
 **Answer:** (a)
 
-**Explanation:** Under the *Morissette* framework, public welfare offenses may dispense with mens rea if they regulate highly dangerous items. Possessing 10 gallons of highly volatile ether is an inherently dangerous activity that puts the possessor on notice that the conduct is likely regulated (the "dangerous items heuristic"). Combined with the minor penalty (30 days), this justifies strict liability. (b) is wrong because the threat of imprisonment (especially severe penalties) normally cuts *against* strict liability (*Staples*). (c) is wrong because the *Morissette* presumption can be overcome for regulatory public welfare offenses. (d) is wrong because a personal misreading of a statute does not override strict liability. (e) is wrong because *Morissette* and *Balint* establish that explicit legislative history is not required to find a public welfare offense if the structural factors are met.
+**Explanation:** Felony murder allows for a murder conviction based on the commission of an enumerated felony without the need to prove malice or subjective awareness of risk to human life, making it the most direct and viable path. The jurisdiction explicitly enumerates the synthesis process (Fact 8). (b) fails because extreme indifference murder requires recklessness manifesting extreme indifference to human life, not an intent to kill. (c) fails because felony murder explicitly applies to innocent bystanders killed during the felony; the agency rule only exempts deaths of co-felons killed by third parties. (d) fails because drug manufacturing is explicitly listed in the facts as an enumerated felony in this jurisdiction. (e) fails because extreme indifference murder inherently requires a subjective mens rea (recklessness), and felony murder is a substitute for malice, not based on strict liability offenses.
 
-**Tags:** chapters: [11], topics: [public welfare offenses, strict liability, dangerous items heuristic, Morissette], difficulty: medium, cognitive: application
+**Tags:** chapters: [14, 13], topics: [felony murder, homicide grading, enumerated felony], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 11 — morissette-factor-2-dangerous-items
+**Grounding:** Chapter 14 - strict liability substitution and enumerated felonies
 
 ---
 
-**Q5.** Assume the court determines that the Chemical Act requires at least a "knowing" mental state. Albert argues that he cannot be convicted because he read the Act's preamble and honestly concluded he was exempt. Will this defense succeed?
+**Q9.** Assume Albert argues that the drug manufacturing felony cannot serve as the predicate for felony murder because the act of manufacturing the drugs merges with the explosion that caused Chloe's death. Which is the most likely legal conclusion?
 
-(a) Yes, because an honest, good-faith misinterpretation of a statute's text inherently negates the knowing mental state element.
-(b) Yes, because the Chemical Act is an obscure regulatory statute that qualifies for the collateral law mistake exception to liability.
-(c) No, because the mistake of law defense requires reliance on an official statement, not a defendant's personal misinterpretation of a statute. <!-- correct -->
-(d) No, because Albert did not seek the formal advice of a licensed attorney before forming his conclusion about the statute's scope.
-(e) No, because Albert's interpretation was based on the preamble rather than the operative text of the specific statutory provision.
+(a) The felony merges because the explosion and the drug manufacturing occurred simultaneously in the same laboratory setting.
+(b) The felony merges because all non-violent felonies must be independently completed before any homicide liability can attach.
+(c) The felony does not merge because Albert's independent felonious purpose was to synthesize drugs, not to assault Chloe. <!-- correct -->
+(d) The felony does not merge because the merger doctrine only applies to inherently dangerous felonies committed with weapons.
+(e) The felony does not merge because the death of a bystander automatically negates the application of the merger doctrine.
 
 **Answer:** (c)
 
-**Explanation:** Ignorance of the law is generally no excuse. A mistake of law defense based on reliance requires reliance on an official statement of the law (e.g., a court decision or administrative order). As established in *Marrero*, a defendant's personal, even reasonable, misreading of an ambiguous statute does not constitute an "official statement" and is no defense. (a) is wrong because knowledge of illegality is not required for a "knowing" mental state. (b) is wrong because the Chemical Act is the penal law itself in this prosecution, not collateral law. (d) is wrong because even advice of counsel is typically insufficient to create a full official reliance defense. (e) is wrong because the source of his misinterpretation (preamble vs. operative text) is legally irrelevant; any personal misreading fails.
+**Explanation:** The merger doctrine applies when the underlying felony is assaultive in nature and integral to the homicide. Because Albert's independent felonious purpose was to manufacture drugs for profit, not to assault Chloe, the felony is independent and does not merge into the homicide. (a) fails because physical or temporal simultaneity does not trigger merger; the inquiry focuses on the independent purpose of the underlying felony. (b) fails because a felony does not need to be completed; deaths occurring during the attempt or commission can trigger felony murder. (d) fails because merger applies to assaultive felonies generally, not exclusively to felonies committed with deadly weapons. (e) fails because bystander deaths do not automatically negate merger; if the underlying felony was an assault that inadvertently killed a bystander, it might still merge depending on the jurisdiction.
 
-**Tags:** chapters: [10], topics: [mistake of law, reliance on official statement, Marrero], difficulty: medium, cognitive: application
+**Tags:** chapters: [14], topics: [felony murder, merger doctrine, independent purpose], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 10 — mol-marrero-no-personal-reading
-
----
-
-**Q6.** Assume the jurisdiction has adopted the Model Penal Code (MPC). Albert is prosecuted for the Chemical Act violation. The statute states the conduct is "unlawful" but specifies no mens rea term. What mental state must the prosecution prove?
-
-(a) The prosecution must prove that Albert acted purposely, because the MPC elevates the mental state to the highest level when statutes are totally silent.
-(b) The prosecution must prove that Albert acted knowingly, because he actually read the statute and physically possessed the hazardous materials.
-(c) The prosecution must prove that Albert acted recklessly, because the MPC explicitly defaults to recklessness when a statute fails to specify a mental state. <!-- correct -->
-(d) The prosecution must prove that Albert acted negligently, because failing to obtain a fire safety permit violates the objective reasonable person standard.
-(e) The prosecution need not prove any mental state, because the MPC defaults to absolute strict liability for all public welfare and safety offenses.
-
-**Answer:** (c)
-
-**Explanation:** Under MPC § 2.02(3), when a statute defines an offense but is silent regarding the required culpability, the default mens rea is recklessness (i.e., the prosecution must prove the defendant acted purposely, knowingly, or recklessly). (a) is wrong because the default is recklessness, not purpose. (b) is wrong because while proving knowledge would satisfy the statute, the legal *minimum* required is recklessness. (d) is wrong because negligence is insufficient under the MPC's silence default. (e) is wrong because the MPC strongly disfavors strict liability, relegating it exclusively to "violations" (non-criminal infractions), and never defaults to it when a statute is silent.
-
-**Tags:** chapters: [10], topics: [MPC, default mens rea, recklessness, statutory silence], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 10 — mpc-silence-recklessness
+**Grounding:** Chapter 14 - merger doctrine (independent felonious purpose)
 
 ---
 
-**Q7.** Benny is charged with possession of the pseudoephedrine precursors found in the lab. Has the prosecution established the elements of constructive possession against Benny?
+**Q10.** Assume that, hypothetically, the explosion had not occurred and police raided the lab just as Albert lifted the flask of reactive catalyst over the ether vat. He is charged with attempted manufacture of Blue-X. Which is the most likely legal conclusion?
 
-(a) Yes, because Benny knew the precursors were in the shared cabinet and he possessed a key, establishing awareness and the ability to exercise control. <!-- correct -->
-(b) Yes, because Benny was a co-conspirator, which automatically and legally transfers actual physical possession from Albert to Benny.
-(c) No, because Albert also possessed a key to the shared storage cabinet, negating the required element of exclusive control by Benny.
-(d) No, because Benny had already delivered the items and walked away, severing his legal nexus to the contraband materials.
-(e) No, because constructive possession requires proof that Benny explicitly intended to personally use the precursors in the chemical synthesis.
+(a) Guilty of attempt because lifting the catalyst to pour it into the vat constituted a substantial step that was strongly corroborative of his criminal purpose. <!-- correct -->
+(b) Guilty of attempt because his prior act of verbally agreeing with Benny satisfied the strict physical proximity test for attempt.
+(c) Not guilty of attempt because he had not yet mixed the chemicals, meaning he had not crossed the threshold from mere preparation.
+(d) Not guilty of attempt because the police raid constitutes an involuntary abandonment of the criminal enterprise, which serves as a complete defense.
+(e) Not guilty of attempt because attempt liability requires the actual production of a usable quantity of the prohibited substance.
 
 **Answer:** (a)
 
-**Explanation:** Constructive possession requires that a defendant have knowledge of the item's presence and the power and intention to exercise dominion and control over it. Benny purchased the precursors, locked them in the cabinet, and retained a key, fully satisfying these requirements. (b) is wrong because conspiracy liability (Pinkerton) is distinct from the property concept of constructive possession; possession is not automatically transferred by conspiracy alone. (c) is wrong because constructive possession can be joint; exclusive control is not required. (d) is wrong because retaining the key means he retained the ability to exercise control. (e) is wrong because intent to personally consume or use the contraband is not an element of possession.
+**Explanation:** Under the MPC, attempt requires a substantial step toward the commission of the offense that is strongly corroborative of the actor's criminal purpose. Lifting the reactive catalyst to pour into the vat satisfies this standard, moving beyond mere preparation. (b) fails because verbal agreement is relevant to conspiracy, while attempt under the physical proximity test requires being dangerously close to success, not just an agreement. (c) fails because the substantial step test does not require the final act or actual mixing; the act of lifting the flask to pour is sufficient. (d) fails because abandonment must be voluntary and complete; a police raid is an external interruption, not a voluntary abandonment. (e) fails because requiring actual production would mean the completed crime was required, defeating the entire concept of inchoate attempt liability.
 
-**Tags:** chapters: [15], topics: [constructive possession, joint possession, awareness and control], difficulty: easy, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, substantial step, actus reus], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15 — cp-awareness-control
-
-### Stem 2: The Day of the Explosion
-
-Albert moves to dismiss the manufacturing attempt and related charges arising from the explosion. He claims his medication-induced muscle spasm was completely involuntary, meaning the prosecution cannot establish the required actus reus for the explosion.
+**Grounding:** MPC Substantial Step Test; Chapter 17
 
 ---
 
-**Q8.** Under the "time-framing" doctrine (as applied in cases like *Decina*), how will the court likely rule on Albert's claim that his muscle spasm defeats liability?
+**Q11.** Assume Benny is charged with the unpermitted ether storage violation committed by Albert. Benny argues he had no knowledge of how much ether Albert was storing and never visited the lab. Which is the most likely legal conclusion regarding Benny's liability?
 
-(a) It will uphold Albert's claim, because the catastrophic explosion was proximately caused by an uncontrollable, medication-induced physiological reflex.
-(b) It will uphold Albert's claim, because Albert was effectively in a state of involuntary unconsciousness at the precise moment the containers ruptured.
-(c) It will reject Albert's claim, because his earlier voluntary choice to handle volatile chemicals while knowing he suffered from severe spasms supports liability. <!-- correct -->
-(d) It will reject Albert's claim, because the voluntary act requirement is completely waived for strict liability and public welfare regulatory offenses.
-(e) It will reject Albert's claim, because Albert's failure to read the warning label carefully constitutes a criminal omission that replaces the voluntary act requirement.
-
-**Answer:** (c)
-
-**Explanation:** The time-framing doctrine (established in cases like *Decina*) permits courts to look backward in time to find a voluntary act. If a defendant makes a voluntary choice that foreseeably creates the risk of involuntary harmful conduct (e.g., choosing to drive with a known seizure disorder, or handling volatile chemicals despite knowing one is experiencing severe, uncontrollable spasms), that prior voluntary act satisfies the actus reus requirement. (a) and (b) are wrong because the time-framing doctrine explicitly overcomes the lack of voluntariness at the precise moment of the harm. (d) is wrong because even strict liability offenses require a voluntary act. (e) is wrong because the facts state Albert did read the warning label and knew about the spasms; the issue is his subsequent conduct, not an omission.
-
-**Tags:** chapters: [7], topics: [actus reus, voluntary act, time-framing, seizure], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 7 — time-framing-seizure-driving
-
----
-
-**Q9.** Assume it is established that Albert committed a voluntary act. Under the common law "proximity test," is Albert guilty of attempted manufacturing of a controlled substance?
-
-(a) Yes, because bringing the precursors to the workstation crossed the legal threshold from mere preparation into the zone of perpetration.
-(b) Yes, because Albert possessed the specific intent to manufacture drugs and committed a slight overt act in furtherance of that intent.
-(c) No, because Albert had not yet opened the containers or begun the chemical synthesis, meaning he was not dangerously close to completion. <!-- correct -->
-(d) No, because the sudden explosion rendered the completion of the manufacturing process factually impossible under the circumstances.
-(e) No, because Albert's failure to acquire a valid fire safety permit acts as an absolute legal bar to an attempted manufacturing charge.
-
-**Answer:** (c)
-
-**Explanation:** The common law proximity test requires that a defendant's acts come dangerously close to completing the intended crime. Mere preparation is insufficient. Because Albert had merely transferred sealed containers to the workstation and was sitting down to review notes—without opening any containers or beginning the actual chemical synthesis—a court applying the strict common law proximity test would likely find he was still in the preparation stage. (a) is wrong because bringing items to a workstation is typically deemed preparatory under the proximity test. (b) is wrong because "a slight overt act" is the test for conspiracy, not attempt. (d) is wrong because factual impossibility is generally not a defense to attempt. (e) is wrong because a regulatory permit violation is wholly unrelated to the elements of criminal attempt.
-
-**Tags:** chapters: [17], topics: [attempt, actus reus, proximity test, preparation vs perpetration], difficulty: hard, cognitive: application
-
-**Grounding:** Chapter 17 — actus-reus-proximity-test
-
----
-
-**Q10.** Assume Benny is convicted of conspiracy to manufacture drugs. Can Benny also be held liable for Albert's substantive violation of the Chemical Act (the unpermitted ether storage)?
-
-(a) Yes, because the unpermitted ether storage was a reasonably foreseeable substantive offense committed in furtherance of the manufacturing conspiracy. <!-- correct -->
-(b) Yes, because all conspirators are strictly liable for any and all criminal acts committed by their co-conspirators regardless of foreseeability.
-(c) No, because Benny's role was strictly limited to logistics and funding, legally severing him from liability for specific chemical storage violations.
-(d) No, because the *Pinkerton* doctrine only applies to specific intent crimes, and the Chemical Act violation is a regulatory offense.
-(e) No, because Benny did not perform the physical actus reus of storing the ether or failing to apply for the necessary fire safety permit.
+(a) Guilty under Pinkerton because the unpermitted ether storage was a reasonably foreseeable consequence of the Blue-X manufacturing conspiracy and in furtherance of it. <!-- correct -->
+(b) Guilty under Pinkerton because strict liability public welfare offenses are the only crimes that automatically extend to all unindicted co-conspirators.
+(c) Not guilty under Pinkerton because the doctrine requires each co-conspirator to directly participate in the specific actus reus of the substantive offense.
+(d) Not guilty under Pinkerton because the offense was merely a misdemeanor regulatory violation, which cannot serve as a conspiratorial predicate.
+(e) Not guilty under Pinkerton because Benny's role was strictly limited to downstream street distribution rather than upstream chemical procurement.
 
 **Answer:** (a)
 
-**Explanation:** Under the *Pinkerton* doctrine, a conspirator is criminally liable for the substantive offenses committed by co-conspirators if those offenses are in furtherance of the conspiracy and are reasonably foreseeable as a necessary or natural consequence of the unlawful agreement. Storing large quantities of precursors like ether is highly foreseeable in a drug manufacturing conspiracy. (b) is wrong because *Pinkerton* requires the acts to be in furtherance of the conspiracy and foreseeable; there is no absolute strict liability for unrelated crimes. (c) is wrong because dividing labor does not shield a conspirator from *Pinkerton* liability. (d) is wrong because *Pinkerton* applies to any foreseeable substantive offense, including regulatory crimes. (e) is wrong because the core purpose of *Pinkerton* is to impose liability on conspirators who did *not* commit the actus reus of the substantive offense.
+**Explanation:** Under *Pinkerton* liability, a conspirator is liable for the substantive offenses committed by a co-conspirator if those offenses were committed in furtherance of the conspiracy and were reasonably foreseeable. Large quantities of volatile precursors are highly foreseeable in a drug manufacturing scheme. (b) fails because *Pinkerton* applies to any foreseeable offense in furtherance of the conspiracy, not just strict liability offenses. (c) fails because *Pinkerton* explicitly extends liability precisely when the co-conspirator did *not* participate in the actus reus of the substantive crime. (d) fails because *Pinkerton* can apply to misdemeanors or regulatory offenses committed in furtherance of the conspiracy. (e) fails because a division of labor does not shield a conspirator from foreseeable crimes committed by partners in furtherance of the joint enterprise.
 
-**Tags:** chapters: [19], topics: [conspiracy, Pinkerton doctrine, substantive liability, foreseeability], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, Pinkerton liability, foreseeability], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 — pinkerton-doctrine
+**Grounding:** Pinkerton v. United States; Chapter 19
 
 ---
 
-**Q11.** Under the common law of causation, how will a court analyze the hospital's charting error regarding Chloe's death?
+**Q12.** Assume we are prosecuting Benny regarding the stash house incident. Benny is charged with possession of the Blue-X found in Kev's floor safe. Benny argues he did not live there and the drugs were not on his person. Which is the most likely legal conclusion?
 
-(a) The error severs liability, because a medical professional's negligence always qualifies as a superseding independent intervening cause.
-(b) The error severs liability, because the charting mistake regarding the patient's weight was entirely unforeseeable and broke the causal chain.
-(c) The error does not sever liability, because ordinary medical negligence in treating an injury caused by the defendant is a dependent intervening cause. <!-- correct -->
-(d) The error does not sever liability, because the hospital staff shared Albert's specific intent to cause fatal harm to the innocent victim.
-(e) The error does not sever liability, because Albert's strict liability for the unpermitted ether storage automatically satisfies all legal causation elements.
+(a) Guilty of constructive possession because Benny was physically present in the stash house when the rival dealer kicked down the door.
+(b) Guilty of constructive possession because Kev providing Benny with the safe's combination gave Benny the intention and ability to exercise independent control over the drugs. <!-- correct -->
+(c) Not guilty of constructive possession because the legal tenant of a premises automatically maintains exclusive possession of all items in locked containers.
+(d) Not guilty of constructive possession because the drugs were placed in the safe by Kev, severing Benny's direct physical nexus to the contraband.
+(e) Not guilty of constructive possession because the state cannot prove Benny had the specific intent to distribute those exact drugs on that specific day.
+
+**Answer:** (b)
+
+**Explanation:** Constructive possession is established when a person has knowledge of the contraband and the power and intention to exercise dominion and control over it. Having the safe's combination for independent retrieval (Fact 13) satisfies this requirement. (a) fails because mere presence near contraband is insufficient to establish constructive possession without power and intent to control. (c) fails because possession can be joint; Kev's tenancy does not grant him exclusive possession if he shares access with others. (d) fails because who physically placed the items there is irrelevant if Benny currently has the ability to exercise control over them. (e) fails because possession requires intent to control, not immediate intent to distribute on a specific day.
+
+**Tags:** chapters: [15], topics: [constructive possession, awareness, control], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 15 - constructive possession (power and intention to control)
+
+---
+
+**Q13.** Assume Benny asserts a self-defense claim for shooting Slash. The jurisdiction enforces a duty to retreat before using deadly force if a safe retreat is available. Benny argues Slash threatened him with a machete. Which is the most likely legal conclusion?
+
+(a) Valid defense because the Castle Doctrine universally abolishes the duty to retreat for anyone physically inside a residential structure regardless of ownership.
+(b) Valid defense because Slash's threat to chop off Benny's head created a subjective fear of imminent death, which automatically overrides retreat requirements.
+(c) Invalid defense because Benny failed to utilize the open ground-floor window, violating his statutory duty to retreat before employing lethal force. <!-- correct -->
+(d) Invalid defense because a person actively engaged in an illegal drug enterprise is absolutely barred from asserting self-defense under any circumstances.
+(e) Invalid defense because a handgun constitutes disproportionate and excessive force when defending against a bladed weapon like a machete.
 
 **Answer:** (c)
 
-**Explanation:** In criminal law, a defendant who inflicts a wound is generally held to be the proximate cause of the victim's death even if negligent medical treatment contributes to the fatal outcome. Ordinary medical negligence is considered a foreseeable, dependent intervening cause that does not sever the causal chain. (a) and (b) are wrong because routine medical negligence (like a unit conversion charting error) is highly foreseeable and classified as dependent, thus not breaking the chain. (d) is wrong because there is no evidence the hospital staff shared a criminal intent, and such intent is not required to maintain Albert's liability. (e) is wrong because strict liability for a regulatory offense does not automatically satisfy the proximate cause requirement for a separate homicide charge.
+**Explanation:** In a duty-to-retreat jurisdiction, a defendant cannot use deadly force if they know they can avoid the necessity of using such force with complete safety by retreating. Benny failed to use the available safe retreat out the open ground-floor window (Fact 15). (a) fails because the Castle Doctrine generally applies to one's own home, and Benny did not live at the stash house. (b) fails because while he faced an imminent threat, the statutory duty to retreat must still be satisfied if a safe escape route is available. (d) fails because being engaged in a crime does not categorically strip a person of the right to self-defense against a lethal attack, though it may trigger initial aggressor issues. (e) fails because a machete is a deadly weapon, making a handgun a proportional response to a lethal threat.
 
-**Tags:** chapters: [8], topics: [causation, proximate cause, dependent intervening cause, medical negligence], difficulty: easy, cognitive: recall
+**Tags:** chapters: [22], topics: [self-defense, duty to retreat], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 8 — dependent-vs-independent-intervening-cause
-
----
-
-**Q12.** Assume Albert's causal link to the death is established. The prosecution charges Albert with involuntary manslaughter, alleging gross criminal negligence. What must the prosecution prove to establish this mental state?
-
-(a) That Albert specifically intended to cause the explosion that ultimately resulted in Chloe's fatal laceration.
-(b) That Albert was consciously aware that his actions were practically certain to cause the death of a bystander.
-(c) That handling volatile chemicals while experiencing severe spasms was a gross deviation from the standard of care, creating a substantial risk of death. <!-- correct -->
-(d) That an ordinary, reasonable person in Albert's position would have realized that a medical charting error was likely to occur at the hospital.
-(e) That Albert acted with a depraved heart and extreme indifference to human life, elevating the charge to second-degree murder.
-
-**Answer:** (c)
-
-**Explanation:** Involuntary manslaughter based on criminal negligence requires proof that the defendant's conduct constituted a gross deviation from the standard of care that a reasonable person would observe in the actor's situation, creating a substantial and unjustifiable risk of death. Handling highly volatile chemicals while actively suffering from severe, uncontrollable muscle spasms clearly meets this standard. (a) is wrong because specific intent to kill or injure constitutes murder or voluntary manslaughter, not involuntary manslaughter. (b) is wrong because "practically certain" describes the mental state of "knowingly," which goes beyond negligence. (d) is wrong because the defendant need not foresee the specific manner of medical negligence, only the risk of death from the explosion itself. (e) is wrong because "depraved heart" describes implied malice murder, not involuntary manslaughter.
-
-**Tags:** chapters: [13], topics: [involuntary manslaughter, gross criminal negligence, mens rea, standard of care], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 13 — gross-criminal-negligence
+**Grounding:** Chapter 22 - duty to retreat and safe available retreat
 
 ---
 
-**Q13.** The prosecution alternatively considers charging Albert with felony murder, using the attempted manufacturing of drugs as the predicate felony. Albert argues the felony-murder rule cannot apply because of the merger doctrine. Does the predicate felony merge?
+**Q14.** Assume Benny is charged with drug distribution for delivering the duffel bag of Blue-X. He raises a duress defense, pointing to Kev's threat. Which is the most likely legal conclusion regarding the threat element?
 
-(a) Yes, because the explosion directly caused physical injury, meaning the underlying felony collapses into the homicide itself.
-(b) Yes, because attempted manufacturing of a controlled substance is not one of the specific crimes enumerated in traditional felony-murder statutes.
-(c) No, because drug manufacturing has an independent felonious purpose distinct from causing physical injury to a victim. <!-- correct -->
-(d) No, because the felony-murder merger doctrine was completely abolished by the Model Penal Code and is no longer applied in any jurisdiction.
-(e) No, because Albert's prior medical diagnosis establishes that the killing was adequately provoked, downgrading the offense to voluntary manslaughter.
-
-**Answer:** (c)
-
-**Explanation:** The merger doctrine (often called the independent felonious purpose doctrine) prevents a felony from serving as a felony-murder predicate if the felony is an integral part of the homicide and lacks an independent purpose (e.g., aggravated assault). Drug manufacturing, however, has a clear independent felonious purpose: synthesizing and producing illicit narcotics. Therefore, it does not merge into the homicide and can validly serve as a predicate for felony murder. (a) is wrong because the fact that an explosion caused the injury does not alter the independent nature of the manufacturing purpose. (b) is wrong because unenumerated felonies can still serve as predicates for second-degree felony murder if they are inherently dangerous. (d) is wrong because while the MPC rejected the felony-murder rule generally, the merger doctrine remains vital in common law jurisdictions. (e) is wrong because a cancer diagnosis is not adequate provocation for a heat-of-passion defense.
-
-**Tags:** chapters: [14], topics: [felony murder, merger doctrine, independent felonious purpose], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 14 — merger-independent-purpose
-
----
-
-**Q14.** Assume instead that the jurisdiction follows the Model Penal Code (MPC). How does the MPC's "substantial step" test alter the attempt analysis for Albert?
-
-(a) He is guilty, because assembling the specific materials at the planned site of the crime strongly corroborates his criminal purpose. <!-- correct -->
-(b) He is guilty, because the MPC eliminates the actus reus requirement entirely once a clear criminal intent is definitively established.
-(c) He is not guilty, because the MPC still requires the defendant to initiate the final physical act that would consummate the intended offense.
-(d) He is not guilty, because the uncontrollable muscle spasm qualifies as a valid renunciation of the criminal purpose under the MPC.
-(e) He is not guilty, because the MPC requires that the attempt be factually possible, which the immediate explosion prevented.
+(a) The duress defense is established because Kev's threat to blow a hole in Benny's chest with a racked shotgun was a present, immediate, and impending threat. <!-- correct -->
+(b) The duress defense is established because Kev's status as a co-conspirator creates a strict presumption of coercive control over Benny.
+(c) The duress defense fails because threats to inflict serious bodily harm do not qualify for duress unless they are accompanied by actual physical violence.
+(d) The duress defense fails because Benny was outside the stash house during the delivery, severing the physical proximity of the threat.
+(e) The duress defense fails because the defense is strictly limited to situations where the defendant is coerced into committing a homicide.
 
 **Answer:** (a)
 
-**Explanation:** The MPC's substantial step test shifts the focus from how close the defendant came to completing the crime to how far the defendant has proceeded from mere preparation. A substantial step must strongly corroborate the actor's criminal purpose. The MPC explicitly lists "possession of materials to be employed in the commission of the crime... at or near the place contemplated for its commission" as an act that generally satisfies the substantial step requirement. (b) is wrong because the MPC still requires a substantial step actus reus. (c) is wrong because requiring the final physical act is the strictest form of the common law proximity test, not the MPC. (d) is wrong because a renunciation must be a complete and voluntary abandonment of criminal purpose, not an accidental physical event. (e) is wrong because the MPC explicitly rejects factual impossibility as a defense.
+**Explanation:** The core element of duress requires a present, immediate, and impending threat of death or serious bodily injury. A racked shotgun pointed at the head accompanied by an immediate demand to deliver drugs perfectly satisfies this requirement. (b) fails because there is no legal presumption of coercive control based merely on co-conspirator status. (c) fails because a credible threat of serious bodily harm is sufficient; actual physical violence is not required to establish duress. (d) fails because the threat compelled the immediate flight and delivery; the coercive force of a gun to the head does not instantly dissipate upon walking out the door. (e) fails because duress is actually *barred* as a defense to intentional homicide; it is fully available for drug distribution.
 
-**Tags:** chapters: [17], topics: [attempt, actus reus, substantial step, MPC], difficulty: medium, cognitive: application
+**Tags:** chapters: [21], topics: [duress, imminence, threat], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 17 — actus-reus-substantial-step
+**Grounding:** Chapter 21 - duress requirements (present, immediate, impending threat)
 
-### Stem 3: The Fatal Aftermath
+---
 
-Following the explosion, Chloe Davis died in the hospital. The defense argues that the hospital's severe charting error, which led to a fatal incorrect dose of blood thinner, absolves Albert of homicide liability for her death.
+**Q15.** Assume that, under the Model Penal Code approach, the prosecution seeks to bar Benny from raising a duress defense for the drug delivery. They argue he is at fault for being in the situation. Which is the most likely legal conclusion?
+
+(a) The defense is barred because strict liability applies to all actions taken within a stash house, negating affirmative defenses.
+(b) The defense is barred because by joining a drug conspiracy, he recklessly placed himself in a situation where duress was probable. <!-- correct -->
+(c) The defense is allowed because the MPC fault calibration rules only apply if the defendant was the initial physical aggressor.
+(d) The defense is allowed because Kev's specific reaction to Slash's break-in was a highly extraordinary event Benny could not foresee.
+(e) The defense is allowed because the MPC universally permits duress defenses regardless of the defendant's prior fault in creating it.
+
+**Answer:** (b)
+
+**Explanation:** Under the MPC (§ 2.09(2)), the duress defense is unavailable if the actor recklessly placed himself in a situation in which it was probable that he would be subjected to duress. Joining a drug ring and working in a stash house satisfies this recklessness standard. (a) fails because strict liability applies to specific offenses, not physical locations, and does not automatically bar affirmative defenses like duress. (c) fails because the MPC limits duress based on recklessly entering a coercive situation, not just being an initial aggressor in a physical fight. (d) fails because violence and coercion among criminals in a drug stash house are inherently probable, not highly extraordinary. (e) fails because the MPC explicitly includes the fault calibration limitation for recklessness (and negligence if the charge is a crime of negligence).
+
+**Tags:** chapters: [21], topics: [duress, MPC fault calibration, recklessness], difficulty: hard, cognitive: application
+
+**Grounding:** MPC 2.09(2) Fault Calibration; Chapter 21

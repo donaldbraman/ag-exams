@@ -4,66 +4,55 @@ The QA pipeline flagged this question. Rewrite `q13.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q13.** Assume the prosecution considers charging Albert with felony murder based on the predicate felony of attempted drug manufacturing, rather than a generic reckless endangerment charge. Albert argues the felony-murder rule does not apply due to the merger doctrine. Does the merger doctrine bar this charge?
+**Q13.** Assume Benny is charged with homicide for killing Slash and raises a claim of self-defense. Based on the jurisdiction's stated rules, will Benny's self-defense claim succeed?
 
-(a) Yes, because the explosion was an inherently dangerous act that assaulted the victim, meaning the underlying conduct fully merges into the resulting homicide offense.
-(b) Yes, because the underlying felony of attempted manufacturing was not completely consummated, and the felony-murder rule requires a fully completed predicate offense to apply.
-(c) No, because attempted drug manufacturing has an independent felonious purpose distinct from causing physical injury to the victim, preventing application of the merger doctrine. <!-- correct -->
-(d) No, because the merger doctrine was entirely abolished at common law and currently survives only in specific jurisdictions strictly applying the Model Penal Code framework.
-(e) No, because Chloe was an innocent bystander walking in the hallway, and the merger doctrine only applies when the victim is a co-felon in the underlying crime.
+(a) Benny's self-defense claim fails because he did not attempt to exit through the available ground-floor window, violating the jurisdiction's statutory duty to retreat. <!-- correct -->
+(b) Benny's self-defense claim fails because a rival drug dealer's threat of violence is never legally considered objectively reasonable under any circumstances.
+(c) Benny's self-defense claim succeeds because the castle doctrine universally eliminates the duty to retreat in any enclosed building the defendant occupies.
+(d) Benny's self-defense claim succeeds because Slash's machete attack constituted a sudden escalation that automatically waives the mandatory retreat requirement.
+(e) Benny's self-defense claim succeeds because he was actively defending valuable commercial inventory, which inherently justifies the immediate use of lethal force.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** The merger doctrine (or independent felonious purpose doctrine) prevents application of the felony-murder rule when the underlying felony is assaultive in nature and integral to the homicide. Attempted drug manufacturing has an independent felonious purpose (making drugs) distinct from causing physical harm, so it does not merge and can support a felony-murder charge. (a) is incorrect because while the explosion was dangerous, the underlying felony (attempted manufacturing) was not inherently an assaultive act targeting the victim. (b) is incorrect because an attempted felony is a valid predicate for felony murder. (d) is incorrect because the merger doctrine remains a vital limitation in common law jurisdictions; the MPC actually abolished the felony-murder rule entirely. (e) is incorrect because the merger doctrine applies based on the elements and nature of the underlying felony, not the identity or innocence of the victim.
+**Explanation:** (a) is correct. In a jurisdiction with a statutory duty to retreat, a defendant must use a safe avenue of escape before resorting to deadly force. Benny's failure to use the open, ground-floor window defeats his self-defense claim. (b) is wrong because a machete attack objectively threatens death or serious bodily harm, making the fear of harm reasonable regardless of the victim's profession. (c) is wrong because the castle doctrine exception to retreat applies only to a person's dwelling, and Benny did not live at the stash house. (d) is wrong because a sudden escalation does not waive the retreat requirement if a safe retreat is genuinely available. (e) is wrong because lethal force can never be legally justified merely to protect property.
 
-**Tags:** chapters: [14], topics: [felony murder, merger doctrine, merger-independent-purpose], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [22], topics: [self-defense, duty to retreat], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 14, Felony Murder — merger-independent-purpose
+**Grounding:** Chapter 22, Duty to Retreat
 
 <!-- audit: MUST FIX
-<check 1>: pass. Option (c) accurately states the "independent felonious purpose" limit of the merger doctrine.
-<check 2>: pass. The distractors are appropriately constructed for the doctrinal concepts.
-<check 3>: pass. The explanation aligns with standard doctrine for the merger limitation.
-<check 4>: fail. The stem is missing critical facts. Options (a) and (e) refer to "the explosion" and "Chloe," but neither the explosion nor Chloe is mentioned in the stem. This appears to be an orphaned question severed from a larger fact pattern.
-<check 5>: pass. The question tests the general mechanics of the merger doctrine and does not require rote memorization of state splits.
-<check 6>: pass.
-<check 7>: pass. Merger and independent felonious purpose are expressly covered in Ch 14 (`merger-independent-purpose`).
-Recommended fix: Add the missing factual context to the beginning of the stem. For example: "Albert was attempting to manufacture illegal drugs in his apartment when a chemical explosion occurred, killing Chloe, an innocent bystander walking in the hallway. Assume the prosecution..."
+<check 1>: pass (the legal rule applied in the explanation is accurate for duty to retreat jurisdictions)
+<check 2>: pass (distractors are theoretically plausible, but impossible to evaluate accurately without facts)
+<check 3>: pass (explanation matches Ch 22 doctrine)
+<check 4>: MUST FIX. The stem is entirely missing the fact pattern! It mentions Benny and Slash, but omits all substantive facts necessary to answer the question, such as the machete attack, the stash house, the open ground-floor window, and Benny's failure to use it.
+<check 5>: MUST FIX. The stem says "Based on the jurisdiction's stated rules..." but completely fails to state those rules (i.e., that it is a duty-to-retreat jurisdiction).
+<check 6>: pass
+<check 7>: pass (Duty to retreat and castle doctrine scope are covered in Ch 22)
+<check 8>: pass (lengths are roughly symmetrical)
+Recommended fix: Rewrite the stem to actually include the fact pattern. Detail Benny's presence in the stash house, Slash's machete attack, the open ground-floor window, and explicitly state that the jurisdiction has a statutory duty to retreat.
 -->
 
-## Issue 2 — argpass-sonnet
+## Issue 2 — edge-case
 
-**Q13.** Assume the prosecution considers charging Albert with felony murder based on the predicate felony of attempted drug manufacturing, rather than a generic reckless endangerment charge. Albert argues the felony-murder rule does not apply due to the merger doctrine. Does the merger doctrine bar this charge?
+**Q13.** Assume Benny is charged with homicide for killing Slash and raises a claim of self-defense. Based on the jurisdiction's stated rules, will Benny's self-defense claim succeed?
 
-(a) Yes, because the explosion was an inherently dangerous act that assaulted the victim, meaning the underlying conduct fully merges into the resulting homicide offense.
-(b) Yes, because the underlying felony of attempted manufacturing was not completely consummated, and the felony-murder rule requires a fully completed predicate offense to apply.
-(c) No, because attempted drug manufacturing has an independent felonious purpose distinct from causing physical injury to the victim, preventing application of the merger doctrine. <!-- correct -->
-(d) No, because the merger doctrine was entirely abolished at common law and currently survives only in specific jurisdictions strictly applying the Model Penal Code framework.
-(e) No, because Chloe was an innocent bystander walking in the hallway, and the merger doctrine only applies when the victim is a co-felon in the underlying crime.
+(a) Benny's self-defense claim fails because he did not attempt to exit through the available ground-floor window, violating the jurisdiction's statutory duty to retreat. <!-- correct -->
+(b) Benny's self-defense claim fails because a rival drug dealer's threat of violence is never legally considered objectively reasonable under any circumstances.
+(c) Benny's self-defense claim succeeds because the castle doctrine universally eliminates the duty to retreat in any enclosed building the defendant occupies.
+(d) Benny's self-defense claim succeeds because Slash's machete attack constituted a sudden escalation that automatically waives the mandatory retreat requirement.
+(e) Benny's self-defense claim succeeds because he was actively defending valuable commercial inventory, which inherently justifies the immediate use of lethal force.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** The merger doctrine (or independent felonious purpose doctrine) prevents application of the felony-murder rule when the underlying felony is assaultive in nature and integral to the homicide. Attempted drug manufacturing has an independent felonious purpose (making drugs) distinct from causing physical harm, so it does not merge and can support a felony-murder charge. (a) is incorrect because while the explosion was dangerous, the underlying felony (attempted manufacturing) was not inherently an assaultive act targeting the victim. (b) is incorrect because an attempted felony is a valid predicate for felony murder. (d) is incorrect because the merger doctrine remains a vital limitation in common law jurisdictions; the MPC actually abolished the felony-murder rule entirely. (e) is incorrect because the merger doctrine applies based on the elements and nature of the underlying felony, not the identity or innocence of the victim.
+**Explanation:** (a) is correct. In a jurisdiction with a statutory duty to retreat, a defendant must use a safe avenue of escape before resorting to deadly force. Benny's failure to use the open, ground-floor window defeats his self-defense claim. (b) is wrong because a machete attack objectively threatens death or serious bodily harm, making the fear of harm reasonable regardless of the victim's profession. (c) is wrong because the castle doctrine exception to retreat applies only to a person's dwelling, and Benny did not live at the stash house. (d) is wrong because a sudden escalation does not waive the retreat requirement if a safe retreat is genuinely available. (e) is wrong because lethal force can never be legally justified merely to protect property.
 
-**Tags:** chapters: [14], topics: [felony murder, merger doctrine, merger-independent-purpose], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [22], topics: [self-defense, duty to retreat], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 14, Felony Murder — merger-independent-purpose
+**Grounding:** Chapter 22, Duty to Retreat
 
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that some jurisdictions analyze the merger doctrine based on the actual conduct committed ("in fact") rather than just the abstract elements. Since the explosion was an inherently dangerous act that physically assaulted the victim and caused death, the conduct is inseparable from the homicide. Under this view, the assaultive act fully merges into the homicide, barring the felony-murder charge.
-(b) Argument-for: A student might argue that the profound punitive consequences of the felony-murder rule require strict construction. If a penal statute does not explicitly enumerate "attempted" felonies, one could deduce that only completely consummated felonies provide the necessary res gestae to impute malice. Since the drug manufacturing here was merely attempted, it falls short of triggering the rule.
-(c) Argument-for: The correct application of the merger doctrine focuses on whether the predicate felony has an independent felonious purpose (e.g., *People v. Burton*). Attempted drug manufacturing is driven by the purpose of creating illegal narcotics, which is entirely distinct from an intent to assault or injure a victim. Because the felony has its own separate criminal objective, it does not merge and validly supports a felony-murder charge.
-(d) Argument-for: A student might believe that modern statutory criminal codes have wholly superseded common-law limitations on felony murder. In this view, the judicially created merger doctrine was abolished in favor of strict statutory enumeration or replaced by the Model Penal Code’s approach to homicide. Thus, the common-law merger doctrine no longer acts as a valid defense.
-(e) Argument-for: A student might confuse the merger doctrine with the agency rule or the *Redline* limitation, which bar felony-murder charges when a co-felon is killed. Following this confusion, they might conclude that the merger doctrine is a victim-specific limitation that only protects co-felons. Since Chloe was an innocent bystander, they would conclude the defense does not apply to her.
-
-Head-to-head:
-Option (c) correctly applies the widely recognized independent felonious purpose exception to the merger doctrine. Option (a) is the most attractive distractor because it correctly notes that the explosion was an assaultive act, but it fails to properly analyze the overarching independent purpose of the felony. However, (a) lacks an explicit, absolute falsifiable legal claim, relying instead on a flawed application to the facts. Options (b), (d), and (e) all contain explicit and easily falsifiable categorical misstatements of law regarding attempt, the MPC, and co-felon limitations, respectively. 
-
-Falsifiable claim per distractor:
-- (a): "meaning the underlying conduct fully merges into the resulting homicide offense" — wrong because it ignores the independent felonious purpose test, but it lacks an absolute phrasing to lock it as a falsifiable rule of law.
-- (b): "the felony-murder rule requires a fully completed predicate offense to apply" — wrong because an attempted predicate felony is universally sufficient for felony murder.
-- (d): "the merger doctrine was entirely abolished at common law and currently survives only in specific jurisdictions strictly applying the Model Penal Code framework" — wrong because the common law heavily utilizes the merger doctrine, and the MPC abolished felony murder entirely.
-- (e): "the merger doctrine only applies when the victim is a co-felon in the underlying crime" — wrong because the merger doctrine relates to the elements/purpose of the predicate felony, not the co-felon status of the victim.
-
-Recommended fix: Edit (a) to include an explicit, false absolute legal claim. For example: "(a) Yes, because the explosion physically assaulted the victim, and any act causing physical trauma automatically merges into the resulting homicide offense, regardless of its independent felonious purpose."
+<!-- edge-case-audit: SHOULD FIX
+1. Fact Pattern Booby Traps: The facts state that Slash "cornered" Benny with a machete. The duty to retreat generally only applies if the defendant knows they can retreat in *complete safety*. A sharp student could successfully argue that turning one's back on an armed attacker who has already "cornered" you to climb out a window does not objectively constitute a "safe retreat," making option (a)'s factual premise debatable.
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: Modify the fact pattern or option (a) to explicitly stipulate safety, e.g., "The room had an open, ground-floor window immediately behind Benny, through which Benny knew he could easily and safely escape." Or remove the word "cornered" from the scenario.
 -->

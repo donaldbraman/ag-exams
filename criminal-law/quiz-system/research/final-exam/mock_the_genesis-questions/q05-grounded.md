@@ -1,17 +1,17 @@
-**Q5.** Assume the court determines that the Chemical Act requires at least a "knowing" mental state. Albert argues that he cannot be convicted because he read the Act's preamble and honestly concluded he was exempt. Will this defense succeed?
+**Q5.** Assume that, regardless of the required mens rea, Albert argues his personal reading of the statute's preamble—that universities were implicitly exempt—constitutes a valid mistake of law defense for the ether storage charge. Which is the most likely legal conclusion?
 
-(a) Yes, because an honest, good-faith misinterpretation of a statute's text inherently negates the knowing mental state element.
-(b) Yes, because the Chemical Act is an obscure regulatory statute that qualifies for the collateral law mistake exception to liability.
-(c) No, because the mistake of law defense requires reliance on an official statement, not a defendant's personal misinterpretation of a statute. <!-- correct -->
-(d) No, because Albert did not seek the formal advice of a licensed attorney before forming his conclusion about the statute's scope.
-(e) No, because Albert's interpretation was based on the preamble rather than the operative text of the specific statutory provision.
+(a) Valid defense because his reading was based on the actual text of the statute rather than general ignorance of the law's existence.
+(b) Valid defense because professors are considered agents of the state, transforming his interpretation into an official statement of the law.
+(c) Invalid defense because under the Marrero rule, a personal misinterpretation of an ambiguous statute does not qualify as reasonable reliance on an official statement. <!-- correct -->
+(d) Invalid defense because mistake of law defenses are only available for malum in se crimes where moral blameworthiness must be firmly established.
+(e) Invalid defense because the Cheek exception specifically explicitly prohibits mistake of law defenses for any regulatory or public welfare offense.
 
 **Answer:** (c)
 
-**Explanation:** Ignorance of the law is generally no excuse. A mistake of law defense based on reliance requires reliance on an official statement of the law (e.g., a court decision or administrative order). As established in *Marrero*, a defendant's personal, even reasonable, misreading of an ambiguous statute does not constitute an "official statement" and is no defense. (a) is wrong because knowledge of illegality is not required for a "knowing" mental state. (b) is wrong because the Chemical Act is the penal law itself in this prosecution, not collateral law. (d) is wrong because even advice of counsel is typically insufficient to create a full official reliance defense. (e) is wrong because the source of his misinterpretation (preamble vs. operative text) is legally irrelevant; any personal misreading fails.
+**Explanation:** Under the *Marrero* rule, a defendant's personal misreading of a statute—even an arguably reasonable one based on a preamble (Fact 6)—does not constitute reliance on an "official statement of the law" and therefore provides no mistake of law defense. (a) fails because personal interpretations of the law, even if based on the text, do not excuse the violation. (b) fails because Albert is not a government official charged with interpreting the law for enforcement purposes; he is acting in a personal capacity. (d) fails because mistake of law defenses are actually more restricted for malum in se crimes (under *Prince*) and more relevant to malum prohibitum crimes. (e) fails because *Cheek* applies to tax "willfulness" and does not categorically ban mistake of law defenses for regulatory offenses.
 
-**Tags:** chapters: [10], topics: [mistake of law, reliance on official statement, Marrero], difficulty: medium, cognitive: application
+**Tags:** chapters: [10], topics: [mistake of law, official statement, Marrero rule], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 10 — mol-marrero-no-personal-reading
+**Grounding:** People v. Marrero; Chapter 10
 
-<!-- grounding: GROUNDED — Mistake of Law (Marrero), Ch 10, Refinement `mol-marrero-no-personal-reading`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Marrero rule, Ch 10, Refinement `mol-marrero-no-personal-reading`. Rule paraphrased accurately. -->

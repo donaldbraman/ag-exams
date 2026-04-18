@@ -1,17 +1,17 @@
-**Q3.** The prosecution charges Albert with theft for taking the centrifuge. Assume theft is a specific intent offense requiring the intent to permanently deprive another of their property. Does Albert have a valid mistake of fact defense?
+**Q3.** Assume Albert is charged with theft for taking the centrifuge, an offense requiring the specific intent to permanently deprive another of their property. He argues he genuinely believed the centrifuge was his own. Which is the most likely legal conclusion?
 
-(a) Yes, because Albert genuinely believed the machine was assigned to his own grant, which negates the required intent to steal the property of another. <!-- correct -->
-(b) Yes, because Albert's terminal cancer diagnosis operates as a complete equitable excuse under the doctrine of medical necessity.
-(c) No, because a mistake of fact is never a valid defense when the surrounding criminal actions are inherently dangerous or malum in se.
-(d) No, because Albert's belief was objectively unreasonable given that he removed the machine from a completely different laboratory.
-(e) No, because the offense of theft implies strict liability regarding the actual ownership status of the physical property being taken.
+(a) Not guilty of theft because his actual, honest belief that he owned the centrifuge directly negates the mens rea required for the element of taking the property of another. <!-- correct -->
+(b) Not guilty of theft because the university environment implies a general consent to share equipment among tenured professors conducting official research.
+(c) Guilty of theft because mistakes of fact must be both honest and objectively reasonable, and taking an item from a different lab is per se unreasonable.
+(d) Guilty of theft because the taking of scientific equipment without authorization is a strict liability offense where subjective mental state is irrelevant.
+(e) Guilty of theft because his broader illicit intent to manufacture narcotics transfers to any property crimes committed during the preparation phase.
 
 **Answer:** (a)
 
-**Explanation:** A mistake of fact is a defense if it negates the mental state required by the offense. Because theft requires the specific intent to take the "property of another," Albert's genuine belief that the centrifuge was his own property negates this mens rea. For specific intent crimes, the mistake need only be honest, not necessarily reasonable. (b) is wrong because a terminal diagnosis does not constitute legal necessity for theft. (c) is wrong because the "malum in se" limitation typically applies to general intent or strict liability crimes, not specific intent theft. (d) is wrong because an unreasonable but genuine mistake still negates specific intent at common law. (e) is wrong because theft is never a strict liability offense; it inherently requires mens rea.
+**Explanation:** Theft is a specific intent crime requiring the intent to take the property *of another*. An honest mistake of fact regarding ownership directly negates this required mental state, preventing a conviction (Fact 4). (b) fails because there is no blanket legal doctrine of implied general consent simply based on being a tenured professor. (c) fails because for specific intent crimes, an honest mistake of fact need not be objectively reasonable to successfully negate the required mental state. (d) fails because theft is not a strict liability offense; it inherently requires a culpable mental state. (e) fails because the doctrine of transferred intent applies to missing a target and hitting another (e.g., in homicide), not transferring intent across entirely different statutory offenses.
 
-**Tags:** chapters: [10], topics: [mistake of fact, specific intent, mens rea negation], difficulty: easy, cognitive: application
+**Tags:** chapters: [10], topics: [mistake of fact, specific intent, mens rea], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 10 — mof-mental-state-negation
+**Grounding:** Chapter 10 - mistake of fact negation of specific intent element
 
-<!-- grounding: GROUNDED — Mistake of Fact (Mental State Negation), Ch 10, Refinement `mof-mental-state-negation`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Mistake of Fact (Specific Intent), Ch 10, Refinement `cl-specific-general-intent`. Rule paraphrased accurately. -->
