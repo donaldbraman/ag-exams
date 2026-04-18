@@ -1,18 +1,18 @@
-**Q7.** Assume this prosecution occurs in a jurisdiction that has adopted California's SB 1437 reforms, which eliminated NPC liability for murder. Is Cole guilty of murder under the reformed framework?
+**Q7.** Assume the jurisdiction applies the traditional natural and probable consequences (NPC) doctrine. Can Cole be held liable for Vic's murder?
 
-(a) No, because he was not the actual killer, did not personally act with intent to kill, and merely acting as a lookout does not constitute major participation with reckless indifference to life. <!-- correct -->
-(b) Yes, because the reform still allows malice to be imputed to any participant in a violent felony if they possessed advance knowledge that a deadly weapon would be used.
-(c) No, because the reform automatically shields all non-shooters from any form of homicide liability, restricting murder convictions exclusively to the person who pulled the trigger.
-(d) Yes, because Cole's failure to intervene or call the police after Damon racked the slide demonstrated the requisite reckless indifference to human life required by the reform statute.
-(e) No, because the reform requires the prosecution to prove that Cole directly supplied the murder weapon, which he did not do since Damon brought his own gun.
+(a) Yes, because a fatal shooting is a foreseeable result of an armed stash house robbery, even if Cole only authorized a robbery and did not intend for anyone to be killed. <!-- correct -->
+(b) No, because Damon's sudden, rage-induced decision to shoot Vic over an insult constituted an unforeseeable independent intervening act that breaks the chain of accomplice liability.
+(c) Yes, because under the traditional NPC doctrine, an accomplice to any felony is strictly liable for any death that occurs during the crime regardless of objective foreseeability.
+(d) No, because Cole explicitly relied on Damon's assurance that the gun was "just for show," making the subsequent fatal shooting legally unforeseeable to a reasonable person in his position.
+(e) Yes, because Cole's act of standing at the back door as a lookout directly and proximately caused Vic's death by preventing Vic from safely escaping the premises during the confrontation.
 
 **Answer:** (a)
 
-**Explanation:** SB 1437 eliminated murder liability based on the natural and probable consequences doctrine and required that a felony murder defendant be the actual killer, act with intent to kill, or be a "major participant" who acts with "reckless indifference to human life." A surprised, unarmed lookout who stays outside does not typically meet the high bar for major participation with reckless indifference. (b) is wrong because SB 1437 expressly forbids imputing malice solely based on participation in a crime. (c) is wrong because non-shooters can still be liable if they are major participants with reckless indifference. (d) is wrong because failing to stop an armed associate, without more, does not satisfy the rigorous major participant standard. (e) is wrong because supplying the weapon is not a strict prerequisite for major participation.
+**Explanation:** The correct answer is (a) because under the traditional NPC doctrine, a fatal shooting is considered a natural and probable (foreseeable) consequence of committing an armed stash house robbery. (b) is wrong because a co-felon's sudden violence during a tense criminal confrontation is highly foreseeable, not an independent intervening cause. (c) is wrong because the NPC doctrine is fundamentally based on objective foreseeability, not absolute strict liability for any death. (d) is wrong because an accomplice cannot reasonably rely on a claim that a loaded gun brought to a violent robbery will never be fired. (e) is wrong because Cole's liability derives from the foreseeability of his co-felon's acts, not because his physical positioning at the back door directly caused the death.
 
-**Tags:** chapters: [14, 18], topics: [felony-murder, accomplice, SB1437, major-participant], difficulty: hard, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice-liability, npc-traditional-rule], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 - NPC reform (California SB 1437) requiring personal malice or major participation with reckless indifference.
+**Grounding:** Chapter 18 - NPC Extends Liability to Foreseeable Crimes
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

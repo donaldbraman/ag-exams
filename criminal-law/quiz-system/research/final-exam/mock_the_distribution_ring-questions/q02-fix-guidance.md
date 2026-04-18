@@ -2,31 +2,41 @@
 
 The QA pipeline flagged this question. Rewrite `q02.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — audit
+## Issue 1 — argpass-opus
 
-**Q2.** Assume that it is established that Ben formed the requisite intent to distribute the stimulants. Under the Model Penal Code's substantial step test versus the traditional common law dangerous proximity test, has Ben committed the actus reus of attempted distribution when he parks at the drop location?
+**Q2.** Assume Ben is charged with attempted distribution for his actions prior to turning the car around. Which of the following describes his liability under the competing attempt actus reus tests?
 
-(a) Ben satisfied the actus reus under the substantial step test because driving to the designated drop location corroborates his criminal purpose, but he likely failed the dangerous proximity test because he never exited the car or approached the buyer. <!-- correct -->
-(b) Ben satisfied the actus reus under the dangerous proximity test because parking 50 feet away is dangerously near completion, but failed the substantial step test because he did not cross the physical threshold of the car.
-(c) Ben satisfied the actus reus under both tests because driving to a planned crime scene is universally recognized as the commencement of the consummated offense across all jurisdictions.
-(d) Ben failed the actus reus under both tests because he never saw the buyer, meaning the crime could not logically be completed under either the MPC or the common law.
-(e) Ben satisfied the actus reus under the substantial step test because he accepted the drugs from Artie, which immediately completed the attempt, rendering his subsequent drive irrelevant.
+(a) He is guilty under both tests, because driving with the drugs establishes a sufficient overt act that satisfies the actus reus requirement for attempt in all major jurisdictions.
+(b) He is not guilty under the proximity test because he had not come dangerously close to the transfer, but guilty under the MPC test because driving with the drugs strongly corroborates his criminal purpose. <!-- correct -->
+(c) He is guilty under the proximity test because he had physical possession of the contraband, but not guilty under the MPC test because he failed to arrive at the designated meeting point.
+(d) He is not guilty under either test, because the intended buyer was an undercover detective, meaning the transaction was structurally incapable of advancing beyond mere preparation.
+(e) He is not guilty under the MPC test because he voluntarily turned the car around, but guilty under the proximity test because his earlier actions demonstrated a clear tendency to commit the crime.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** The MPC substantial step test requires conduct strongly corroborative of criminal purpose, explicitly listing traveling to the contemplated scene as sufficient. The traditional dangerous proximity test requires the defendant to come dangerously near completion, which often fails if the target has not yet been located or approached. (a) correctly applies both tests. (b) reverses the thresholds, as dangerous proximity is harder to satisfy than substantial step. (c) is wrong because the proximity test routinely excludes mere arrival at a general location if the buyer is absent. (d) is wrong because the MPC test draws the liability line much earlier and does not require encountering the buyer. (e) is wrong because mere acceptance of the drugs is preparatory; driving to the scene is the substantial step.
+**Explanation:** (b) is correct because the MPC's "substantial step" test draws the attempt line early (driving to the site with contraband strongly corroborates purpose), whereas the common law proximity test requires coming "dangerously near" completion, which is unlikely when the defendant is still a half-mile away. (a) is wrong because "overt act" is the threshold for conspiracy, not attempt, which requires far more. (c) is wrong because it inverts the strictness of the tests; the MPC requires less proximity than the common law. (d) is wrong because impossibility due to an undercover agent does not negate the attempt actus reus under either modern test. (e) is wrong because turning the car around relates to the affirmative defense of abandonment, not whether the prima facie actus reus was initially satisfied, and it fundamentally misstates the proximity standard.
 
-**Tags:** chapters: [17], topics: [attempt, actus_reus, substantial_step], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, actus-reus-gray-zone, proximity-test, substantial-step], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 17 (Attempts), actus-reus-substantial-step and actus-reus-proximity-test
+**Grounding:** Chapter 17, actus-reus-gray-zone
 
-<!-- audit: MUST FIX
-check 1: pass (Assuming the missing background facts, option (a) accurately differentiates the doctrinal thresholds of the two tests).
-check 2: pass (Option (e) offers a plausible alternative timing for the substantial step, but fails to address the dangerous proximity test requested in the prompt, making (a) definitively better).
-check 3: SHOULD FIX. The explanation claims the MPC "explicitly list[s] traveling to the contemplated scene as sufficient." The MPC does not explicitly list "traveling"; it lists "reconnoitering the place" and "possession of materials... at or near the place" (MPC 5.01(2)(c) and (f)). The explanation's paraphrase should be tightened to match the statute.
-check 4: MUST FIX. The stem completely lacks the foundational facts needed to answer the question. It refers to "the stimulants" and "the drop location," while the options introduce new facts like "the buyer," "Artie," and "parking 50 feet away." If this is a standalone question, it is unanswerable without the accompanying narrative.
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Integrate the missing narrative facts directly into the stem (e.g., "Ben accepted stimulants from Artie, drove to a designated drop location, and parked his car 50 feet away, but never exited the vehicle or saw the buyer. Assume that it is established..."). Additionally, revise the explanation to cite "possession of materials at or near the place" or "reconnoitering" rather than mere "traveling."
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student could argue that driving with drugs toward a deal is a universally recognized "overt act" toward commission. Because conspiracy law uses "overt act" as a threshold, a student might confuse the doctrines or assume that any tangible physical movement toward the crime satisfies the actus reus for attempt across the board. Thus, if the "overt act" of driving crosses the line from thought to action, they might conclude it creates liability universally.
+(b) Argument-for: This is the textbook application of the two tests. The common law "dangerous proximity" test requires the defendant to be on the verge of consummation, which being a half-mile away typically fails. Conversely, the MPC's "substantial step" test pushes liability earlier; possessing the materials for the crime while traveling to the locus clearly constitutes a substantial step strongly corroborative of the actor's criminal purpose under MPC § 5.01(2).
+(c) Argument-for: A student might argue that physical possession of the actual illegal contraband creates a "dangerous proximity" to the harm of distribution. Simultaneously, they might misapply the MPC by assuming that without actually arriving at the designated meeting point, the actions remain merely preparatory and fail to strongly corroborate the criminal purpose to the strict degree required by the code.
+(d) Argument-for: A student could defend this by relying on older doctrines of legal impossibility. If the buyer is an undercover detective, a bona fide distribution to a true civilian buyer is factually and arguably legally impossible. Under traditional impossibility defenses, this undercover sting structurally prevents the actual harm, rendering the defendant's acts insufficient to move beyond mere preparation under any test.
+(e) Argument-for: A student could argue that turning the car around triggers the MPC's affirmative defense of voluntary abandonment (MPC § 5.01(4)), thereby making him not guilty under the MPC framework. They could simultaneously argue that under the proximity test, his forward progress demonstrated a "clear tendency" to commit the crime before he turned around, misattributing older equivocality/res-ipsa language to the proximity test.
+
+Head-to-head: Option (b) is clearly the correct answer as it accurately applies both doctrines to the facts. However, to meet the strict "close-call standard" requiring locked absolute words in distractors, options (c), (d), and (e) could be tightened. Currently, they contain false legal standards (e.g., proximity satisfied by "clear tendency" or "physical possession," or impossibility structurally barring attempt), but adding absolute modifiers will ensure these distractors are strictly and unequivocally falsifiable without requiring students to guess whether there are fringe exceptions.
+
+Falsifiable claim per distractor:
+- (a): "satisfies the actus reus requirement for attempt in all major jurisdictions." — wrong because "all major jurisdictions" is an absolute, and proximity jurisdictions explicitly reject the low "overt act" threshold for attempt.
+- (c): "guilty under the proximity test because he had physical possession" — wrong because proximity requires dangerous physical/temporal closeness to consummation, not merely possession of contraband, though it lacks an absolute locking word.
+- (d): "meaning the transaction was structurally incapable of advancing beyond mere preparation." — wrong because factual impossibility (undercover agent) does not freeze the actus reus at mere preparation under modern attempt tests.
+- (e): "guilty under the proximity test because his earlier actions demonstrated a clear tendency" — wrong because "clear tendency" describes the equivocality test (or generic attempts), whereas the proximity test requires dangerous closeness to success.
+
+Recommended fix: Add absolute locking words to distractors (c), (d), and (e). 
+Change (c) to: "guilty under the proximity test solely because he had physical possession..." 
+Change (d) to: "...meaning the transaction was categorically incapable of advancing..." 
+Change (e) to: "...because his earlier actions demonstrated a clear tendency to commit the crime, automatically satisfying the proximity test."
 -->

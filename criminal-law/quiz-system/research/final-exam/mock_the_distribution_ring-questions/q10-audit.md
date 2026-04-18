@@ -1,26 +1,27 @@
-**Q10.** Cole is charged with ongoing crimes committed by the drug ring in the weeks following the stash house robbery. He argues that by running home and throwing away his burner phone, he withdrew from the conspiracy. Has Cole effectively withdrawn?
+**Q10.** Assume Damon is charged with felony murder based on the underlying felony of aggravated assault, because he shot Vic immediately upon being insulted. Under the traditional merger doctrine (the *Ireland* rule), is this a valid charge?
 
-(a) No, because an effective withdrawal requires Cole to take affirmative steps to communicate his abandonment to his coconspirators or to disclose the scheme to law enforcement. <!-- correct -->
-(b) Yes, because his immediate flight from the scene of the unexpected shooting severed his physical and legal connection to the criminal enterprise.
-(c) No, because withdrawal from a conspiracy is legally impossible once an overt act, such as Damon kicking in the door, has been committed by any member.
-(d) Yes, because destroying the burner phone constituted an affirmative act that definitively eliminated his ability to further participate in the drug ring's communications.
-(e) No, because Cole failed to make restitution to Vic's family, which is a mandatory prerequisite for withdrawal from any conspiracy involving a violent felony.
+(a) No, because the aggravated assault was not independent of the homicide, meaning the assault merges into the killing and cannot serve as a felony murder predicate. <!-- correct -->
+(b) Yes, because aggravated assault is an inherently dangerous felony that is statutorily enumerated in almost all jurisdictions as a valid trigger for the felony murder rule.
+(c) No, because Damon's rage-induced shooting constitutes an intervening emotional disturbance that legally reduces the underlying assault to a mere misdemeanor, precluding felony murder.
+(d) Yes, because the moment Damon kicked in the door with a loaded weapon, the elements of aggravated assault were completed independently of the subsequent fatal shooting.
+(e) No, because the merger doctrine strictly prohibits applying the felony murder rule whenever a defendant acts with actual malice rather than mere recklessness or negligence.
 
 **Answer:** (a)
 
-**Explanation:** Withdrawal from a conspiracy is highly demanding. Under both common law and the MPC, a defendant must take affirmative steps to disavow the conspiracy and either communicate those steps to their coconspirators or disclose the plot to law enforcement. Merely fleeing and destroying a phone ("getting cold feet") does not terminate ongoing liability. (b) is wrong because flight is insufficient without communication or disclosure. (c) is wrong because while withdrawal does not erase liability for crimes already committed, it can successfully terminate liability for *future* ongoing conspiracy crimes. (d) is wrong because destroying a phone is a private act that does not communicate withdrawal to the coconspirators or authorities. (e) is wrong because restitution is not a legal requirement for conspiracy withdrawal.
+**Explanation:** The correct answer is (a) because under the traditional merger doctrine, an assault that results in death merges into the homicide and cannot serve as an independent predicate for felony murder. (b) is wrong because most jurisdictions apply the merger doctrine specifically to exclude assault from serving as a felony murder predicate to prevent all homicides from becoming felony murder. (c) is wrong because a rage-induced shooting relates to provocation, not the structural application of the merger doctrine to assault. (d) is wrong because the entire continuous assaultive act merges into the killing, regardless of when the elements were technically first satisfied. (e) is wrong because the merger doctrine applies structurally to the predicate offense, regardless of whether the defendant acted with actual malice or recklessness.
 
-**Tags:** chapters: [19], topics: [conspiracy, withdrawal], difficulty: foundational, cognitive: application
+**Tags:** chapters: [14], topics: [felony-murder, merger-independent-purpose], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - Withdrawal requirements (affirmative steps plus communication/disclosure).
+**Grounding:** Chapter 14 - Merger Doctrine (Independent Purpose)
 
-<!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: finding - The stem is missing the macro fact pattern. Distractors (b), (c), and (e) refer to facts that do not exist in the stem ("the unexpected shooting", "Damon kicking in the door", "Vic's family").
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Integrate the missing vignette facts into the stem, or rewrite distractors (b), (c), and (e) to rely strictly on the facts presented.
+<!-- audit: SHOULD FIX
+<check 1>: pass
+<check 2>: pass
+<check 3>: pass
+<check 4>: finding: Distractor (d) hallucinates facts not present in the stem ("the moment Damon kicked in the door..."). This turns (d) into a throwaway option based on reading comprehension rather than legal doctrine.
+<check 5>: pass
+<check 6>: pass
+<check 7>: pass
+<check 8>: pass
+Recommended fix: Rewrite (d) to rely on the facts actually in the stem. For example: "Yes, because the moment Damon drew his weapon to shoot, the elements of aggravated assault were completed independently of the subsequent fatal injury."
 -->

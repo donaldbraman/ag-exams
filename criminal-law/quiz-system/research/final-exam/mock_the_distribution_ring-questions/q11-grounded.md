@@ -1,17 +1,17 @@
-**Q11.** Damon is charged with felony murder. His attorney argues the charge should merge because Damon's personal motive to kill Vic (the girlfriend insult) means the underlying crime was an assaultive act, not an independent felony. Does the merger doctrine preclude the felony murder charge?
+**Q11.** Assume Damon is charged with intentional murder. He argues his charge should be mitigated to voluntary manslaughter because Vic mocked him as an "errand boy," causing his face to flush red with sudden rage. Under the traditional common law provocation doctrine, will Damon succeed?
 
-(a) No, because the attempted robbery was initially motivated by an independent felonious purpose to steal drugs, which supports felony murder even if his personal motive shifted at the moment of the shooting. <!-- correct -->
-(b) Yes, because Damon abandoned the robbery by failing to demand money or drugs, converting the encounter into a pure homicide which must merge with the resulting death.
-(c) No, because the merger doctrine only applies to strict liability offenses, and attempted robbery is a specific intent crime that is immune from merger analysis.
-(d) Yes, because the felony murder rule explicitly excludes attempted property crimes from serving as predicate offenses when the victim has a preexisting personal relationship with the defendant.
-(e) No, because Damon's act of racking the slide in the car constituted a completed aggravated assault, which provides an alternative predicate felony for the murder charge.
+(a) No, because mere words and insults, no matter how offensive or enraging, are categorically insufficient to constitute adequate provocation to mitigate murder to manslaughter. <!-- correct -->
+(b) Yes, because the fact that Damon's face flushed red proves he was actually acting in the heat of passion before he had a reasonable cooling-off period.
+(c) No, because Damon was engaged in a criminal trespass at the time of the insult, which automatically forfeits his right to raise any affirmative mitigating defenses.
+(d) Yes, because being mocked during a high-stress criminal confrontation is exactly the type of extreme emotional disturbance that the common law recognizes as adequate provocation.
+(e) No, because Damon brought a loaded weapon to the scene, legally proving that he had premeditated the killing long before the victim ever delivered the insult.
 
 **Answer:** (a)
 
-**Explanation:** The independent felonious purpose (merger) doctrine prevents felony murder from applying where the predicate felony is an assault that is an integral part of the homicide (e.g., aggravated assault cannot serve as the predicate for felony murder). However, armed robbery has an independent felonious purpose (stealing property). Because Damon initiated the encounter as an attempted robbery, that independent purpose sustains the felony murder charge, even if his motive to pull the trigger involved a personal grudge. (b) is wrong because the attempted robbery was already underway when he broke in, establishing the predicate before the motive shifted. (c) is wrong because the merger doctrine applies to assaultive crimes regardless of specific intent. (d) is wrong because preexisting relationships do not invalidate robbery as a predicate. (e) is wrong because aggravated assault merges and cannot serve as the predicate.
+**Explanation:** The correct answer is (a) because under the traditional common law rule (Girouard), mere words or insults are categorically legally insufficient to constitute adequate provocation for voluntary manslaughter. (b) is wrong because while a flushed face shows he was subjectively enraged, the objective adequacy of the provocation (mere words) fails as a matter of law. (c) is wrong because committing a trespass does not automatically forfeit all mitigating defenses if an objectively adequate provocation occurred. (d) is wrong because extreme emotional disturbance is a modern MPC concept, whereas the common law relies on strict, categorical adequate provocation triggers. (e) is wrong because bringing a weapon may be evidence of premeditation, but it does not formally bar a provocation defense if a legally adequate trigger occurred subsequently.
 
-**Tags:** chapters: [14], topics: [felony-murder, merger-doctrine, independent-felonious-purpose], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [12], topics: [intentional-homicide, provocation], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 14 - Merger doctrine / independent felonious purpose.
+**Grounding:** Chapter 12 - Words Alone (Girouard)
 
-<!-- grounding: GROUNDED — Merger doctrine / independent felonious purpose, Ch 14, Refinement `merger-independent-purpose`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Provocation (Words Alone), Ch 12, Refinement `words-alone-girouard`. Rule paraphrased accurately. -->

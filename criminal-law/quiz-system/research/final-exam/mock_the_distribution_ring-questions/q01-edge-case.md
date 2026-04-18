@@ -1,18 +1,18 @@
-**Q1.** When Artie asked for "bodies" to clear out the stash house, Damon merely smiled and tapped a bulge in his waistband. Is Damon's conduct sufficient to establish that he entered into the conspiracy?
+**Q1.** Is there sufficient evidence of a conspiratorial agreement between Artie, Ben, Cole, and Damon?
 
-(a) Damon is guilty of conspiracy because a jury may infer conspiratorial agreement from minimal coordinated conduct, such as his smile and gesture, viewed in the totality of the circumstances. <!-- correct -->
-(b) Damon is not guilty of conspiracy because the law requires proof of a bilateral verbal or written agreement explicitly outlining the terms of the criminal enterprise.
-(c) Damon is guilty of conspiracy because his mere presence at a meeting where criminal activity is proposed automatically establishes legal adherence to the planned enterprise.
-(d) Damon is not guilty of conspiracy because tapping a waistband is an inherently ambiguous act that cannot legally satisfy the overt act requirement for conspiracy.
-(e) Damon is guilty of conspiracy because Artie's unilateral instructions to the assembled group impose binding conspiratorial liability on anyone who hears the plan and fails to report it.
+(a) Yes, because a silent nod and acceptance of cash in response to an explicit proposal of coordinated criminal activity is sufficient to infer an agreement under the totality of circumstances. <!-- correct -->
+(b) No, because Ben, Cole, and Damon did not explicitly discuss specific details or individual roles among themselves, leaving the precise terms of the criminal enterprise undefined and incomplete.
+(c) No, because under the bilateral approach to conspiracy, the prosecution must prove a formal verbal or written contract between all parties before liability can attach to the group.
+(d) Yes, because conspiracy is a strict liability offense where receiving any funds originating from a criminal enterprise automatically establishes membership regardless of the recipient's intent.
+(e) No, because an agreement to merely "take over the corners" is too generalized and vague to constitute the specific intent to commit a target offense required for a conspiracy conviction.
 
 **Answer:** (a)
 
-**Explanation:** Under the *Alvarez* minimal inference doctrine, an explicit verbal agreement is not required; courts allow juries to infer agreement from minimal conduct like a nod and a smile when contextualized by the circumstances. Here, Damon's smile and tapping of his weapon in response to Artie's solicitation demonstrate knowing adherence to the scheme. (b) is wrong because implied agreements inferred from conduct suffice in conspiracy law. (c) is wrong because mere presence without encouragement or agreement is insufficient to join a conspiracy. (d) is wrong because the gesture serves as circumstantial evidence of the agreement element itself, not just an overt act. (e) is wrong because failing to report a proposed crime does not constitute an agreement.
+**Explanation:** The correct answer is (a) because an agreement can be inferred from coordinated conduct and acceptance of a role, even without explicit verbal discussion of details. (b) is wrong because explicit negotiation of specific details is not legally required to form a conspiracy. (c) is wrong because courts routinely infer agreement from conduct; a formal contract is never required. (d) is wrong because conspiracy is a specific intent crime, not a strict liability offense. (e) is wrong because agreeing to "take over the corners" in context clearly contemplates the specific intent to commit narcotics distribution.
 
 **Tags:** chapters: [19], topics: [conspiracy, agreement-inference], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - United States v. Alvarez; inference of agreement from minimal conduct.
+**Grounding:** Chapter 19 - Inferring agreement from coordinated conduct
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

@@ -2,57 +2,52 @@
 
 The QA pipeline flagged this question. Rewrite `q09.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — audit
+## Issue 1 — grounding
 
-**Q9.** Assume instead that Artie is prosecuted in a jurisdiction that has adopted the Model Penal Code's approach to complicity and conspiracy. How would this affect Artie's liability for Vic's murder compared to the *Pinkerton* doctrine?
+**Q9.** Assume Cole is charged with felony murder for Vic's death, predicated on the attempted robbery. Which of the following provides his strongest legal argument against conviction?
 
-(a) Artie would still be liable for murder because the MPC merely renames *Pinkerton* liability as "accomplice liability" without changing the substantive foreseeability test.
-(b) Artie would not be liable for murder because the MPC rejects *Pinkerton* liability; Artie can only be convicted if the prosecution proves he aided or encouraged the murder with the purpose of promoting it. <!-- correct -->
-(c) Artie would not be liable for murder because the MPC requires that the ringleader be physically present at the scene of the crime to face homicide charges.
-(d) Artie would be liable for murder because the MPC explicitly imposes vicarious liability on conspirators whenever the underlying offense is a first-degree felony.
-(e) Artie would not be liable for murder because the MPC dictates that conspiracy merges with the completed offense, extinguishing all vicarious liability.
+(a) He is not guilty of felony murder because Damon's sudden act of personal rage was not committed in furtherance of the underlying attempted robbery. <!-- correct -->
+(b) He is not guilty of felony murder because he was stationed outside the house, defeating the spatial proximity requirement needed to impute the principal's lethal actions.
+(c) He is not guilty of felony murder because robbing an illegal drug stash house is not recognized as an inherently dangerous predicate felony under modern statutes.
+(d) He is not guilty of felony murder because he lacked the specific intent to cause Vic's death, which is required for all capital-eligible accomplice charges.
+(e) He is not guilty of felony murder because Vic's decision to unexpectedly mock an armed invader constitutes an independent intervening act that breaks the chain of causation.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** The Model Penal Code entirely rejects the *Pinkerton* doctrine of vicarious liability for coconspirators. Under the MPC, mere membership in a conspiracy is insufficient for substantive crime liability; the defendant must satisfy the traditional elements of accomplice liability by actually aiding or encouraging the specific offense with the purpose to promote it. (a) is wrong because the MPC eliminates the foreseeability test for coconspirators. (c) is wrong because physical presence is not required for accomplice liability under the MPC. (d) is wrong because the MPC does not revive *Pinkerton* for serious felonies. (e) is wrong because the MPC's merger rule relates to cumulative punishment for conspiracy and the completed crime, not the basis for vicarious liability.
+**Explanation:** (a) is correct because the felony murder rule requires the death to occur "in furtherance" of the predicate felony; Damon shooting Vic in a sudden personal rage without demanding drugs or money gives Cole a strong argument that the killing was an independent act outside the scope of the robbery. (b) is wrong because physical presence in the exact room where the shooting occurs is not required for an accomplice to face felony murder liability. (c) is wrong because robbery and burglary are classic enumerated inherently dangerous felonies, regardless of whether the victim is running an illegal business. (d) is wrong because felony murder acts as a strict liability substitute for mens rea regarding the death; specific intent to kill is not required. (e) is wrong because a victim's verbal resistance is highly foreseeable during a home invasion and does not legally break the chain of proximate causation.
 
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton, mpc], difficulty: easy, cognitive: recall
+**Tags:** chapters: [14], topics: [felony-murder, in-furtherance], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 (Conspiracy), pinkerton-mpc-rejection
+**Grounding:** Chapter 14, felony-murder
+
+<!-- GROUNDING-FAIL: The "in furtherance" requirement (or independent personal act exception) for felony murder is not in any chapter map. The closest taught doctrines are: `brown-remote-outer-fringes` (covering temporal/spatial scope of the felony), `merger-independent-purpose`, and `dependent-vs-independent-intervening-cause` (Ch 8). Correct answer must rely on one of those instead. -->
+
+## Issue 2 — audit
+
+**Q9.** Assume Cole is charged with felony murder for Vic's death, predicated on the attempted robbery. Which of the following provides his strongest legal argument against conviction?
+
+(a) He is not guilty of felony murder because Damon's sudden act of personal rage was not committed in furtherance of the underlying attempted robbery. <!-- correct -->
+(b) He is not guilty of felony murder because he was stationed outside the house, defeating the spatial proximity requirement needed to impute the principal's lethal actions.
+(c) He is not guilty of felony murder because robbing an illegal drug stash house is not recognized as an inherently dangerous predicate felony under modern statutes.
+(d) He is not guilty of felony murder because he lacked the specific intent to cause Vic's death, which is required for all capital-eligible accomplice charges.
+(e) He is not guilty of felony murder because Vic's decision to unexpectedly mock an armed invader constitutes an independent intervening act that breaks the chain of causation.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because the felony murder rule requires the death to occur "in furtherance" of the predicate felony; Damon shooting Vic in a sudden personal rage without demanding drugs or money gives Cole a strong argument that the killing was an independent act outside the scope of the robbery. (b) is wrong because physical presence in the exact room where the shooting occurs is not required for an accomplice to face felony murder liability. (c) is wrong because robbery and burglary are classic enumerated inherently dangerous felonies, regardless of whether the victim is running an illegal business. (d) is wrong because felony murder acts as a strict liability substitute for mens rea regarding the death; specific intent to kill is not required. (e) is wrong because a victim's verbal resistance is highly foreseeable during a home invasion and does not legally break the chain of proximate causation.
+
+**Tags:** chapters: [14], topics: [felony-murder, in-furtherance], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 14, felony-murder
 
 <!-- audit: MUST FIX
-check 1: fails. Without facts, we cannot determine if the declarative statement in (b) ("Artie would not be liable for murder") is actually true. If Artie *did* purposely aid the murder, he *would* be liable.
-check 2: pass.
-check 3: pass.
-check 4: fails. The question is clearly an orphan pulled from a broader fact pattern. It starts with "Assume instead..." and introduces "Artie" and "Vic's murder" without providing any facts about Artie's actual conduct or mental state. 
-check 5: pass.
-check 6: pass.
-check 7: pass.
-Recommended fix: Either add a one-sentence fact pattern establishing Artie's lack of involvement (e.g., "Artie and Vic conspire to sell drugs. Unbeknownst to Artie, Vic murders a rival dealer. How would the MPC assess Artie's liability for Vic's murder compared to the Pinkerton doctrine?") OR convert the prompt/answers to purely doctrinal statements without names.
--->
-
-## Issue 2 — edge-case
-
-**Q9.** Assume instead that Artie is prosecuted in a jurisdiction that has adopted the Model Penal Code's approach to complicity and conspiracy. How would this affect Artie's liability for Vic's murder compared to the *Pinkerton* doctrine?
-
-(a) Artie would still be liable for murder because the MPC merely renames *Pinkerton* liability as "accomplice liability" without changing the substantive foreseeability test.
-(b) Artie would not be liable for murder because the MPC rejects *Pinkerton* liability; Artie can only be convicted if the prosecution proves he aided or encouraged the murder with the purpose of promoting it. <!-- correct -->
-(c) Artie would not be liable for murder because the MPC requires that the ringleader be physically present at the scene of the crime to face homicide charges.
-(d) Artie would be liable for murder because the MPC explicitly imposes vicarious liability on conspirators whenever the underlying offense is a first-degree felony.
-(e) Artie would not be liable for murder because the MPC dictates that conspiracy merges with the completed offense, extinguishing all vicarious liability.
-
-**Answer:** (b)
-
-**Explanation:** The Model Penal Code entirely rejects the *Pinkerton* doctrine of vicarious liability for coconspirators. Under the MPC, mere membership in a conspiracy is insufficient for substantive crime liability; the defendant must satisfy the traditional elements of accomplice liability by actually aiding or encouraging the specific offense with the purpose to promote it. (a) is wrong because the MPC eliminates the foreseeability test for coconspirators. (c) is wrong because physical presence is not required for accomplice liability under the MPC. (d) is wrong because the MPC does not revive *Pinkerton* for serious felonies. (e) is wrong because the MPC's merger rule relates to cumulative punishment for conspiracy and the completed crime, not the basis for vicarious liability.
-
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton, mpc], difficulty: easy, cognitive: recall
-
-**Grounding:** Chapter 19 (Conspiracy), pinkerton-mpc-rejection
-
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The facts establish Artie is an accomplice to robbery. Option (b) asserts Artie "can only be convicted if the prosecution proves he aided or encouraged the murder with the purpose of promoting it." This is legally false under the MPC. Under MPC 2.06(4) (accomplice liability for result crimes), an accomplice only needs the mens rea for the result, not the "purpose" to cause the result. Furthermore, under MPC 210.2(1)(b), there is an explicit presumption of extreme indifference (the mens rea for murder) for anyone who is an accomplice to robbery. Thus, Artie actually *could* be liable for murder under the MPC without having the purpose of promoting it. 
-2. Cross-Doctrine Clashes: The MPC's treatment of result crimes (MPC 2.06(4)) and its felony murder equivalent (MPC 210.2(1)(b)) directly clash with the simplified "purpose" requirement stated in option (b). 
-3. Cross-Question Spoilers: pass
-
-Recommended fix: Revise (b) and the explanation to avoid absolute claims about Artie's ultimate liability or the "purpose" to commit murder. Change (b) to: "Artie cannot be convicted of murder based solely on his membership in the conspiracy, because the MPC rejects *Pinkerton* liability and requires the prosecution to independently satisfy the elements of accomplice liability."
+<check 1>: pass
+<check 2>: pass
+<check 3>: pass
+<check 4>: fails. The question stem is completely missing the underlying fact pattern. It refers to Cole, Damon, Vic, Cole being "stationed outside," Damon's "sudden act of personal rage," and Vic "mocking an armed invader," but none of these facts are actually provided in the stem. Students have nothing to base their analysis on.
+<check 5>: fails. Felony murder limitations (e.g., agency vs. proximate cause, "in furtherance" requirements) vary widely by jurisdiction. The stem fails to stipulate the jurisdictional rules being applied, violating the pedagogical principle.
+<check 6>: pass
+<check 7>: fails. The "in furtherance" doctrine does not appear in the Chapter 14 Refinement tags. The closest mapped concepts for felony murder boundaries are `brown-remote-outer-fringes` (temporal/spatial res gestae limits) and `smith-proximate-cause-police`.
+<check 8>: pass
+Recommended fix: Insert the omitted fact pattern into the stem so students know what happened. Provide the relevant jurisdictional felony murder rule in the stem, and ensure the correct answer targets an explicitly taught doctrine (like the res gestae boundaries from `brown-remote-outer-fringes`) rather than relying on unmapped limits.
 -->

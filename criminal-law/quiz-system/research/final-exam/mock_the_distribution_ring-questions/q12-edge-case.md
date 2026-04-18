@@ -1,18 +1,18 @@
-**Q12.** Damon seeks to mitigate his murder charge to manslaughter, arguing that seeing Vic provoked him because Vic insulted his girlfriend a year ago. How do the common law and MPC evaluate this provocation claim?
+**Q12.** Assume Artie is operating an ongoing conspiracy to sell the drugs in the stash house. Did Cole's actions after the shooting legally terminate his liability for any future crimes committed by the conspiracy?
 
-(a) The claim fails under the common law because a year constitutes sufficient cooling time, and fails under the MPC because a year-old insult is not a reasonable explanation for extreme emotional disturbance. <!-- correct -->
-(b) The claim succeeds under the common law because the sudden sight of the victim rekindled the passion, but fails under the MPC because words alone can never justify an emotional disturbance.
-(c) The claim fails under both frameworks because mitigation is categorically unavailable when the defendant is engaged in the commission of a separate felony at the time of the killing.
-(d) The claim succeeds under the MPC because Damon's face flushing proves subjective emotional distress, and succeeds under common law because insults to family members are a per se adequate provocation.
-(e) The claim fails under the MPC because Damon brought a weapon to the scene, which automatically defeats any claim of emotional disturbance or lack of premeditation.
+(a) No, because hiding in a motel and cutting off communication without notifying police or explicitly telling his coconspirators he was quitting does not satisfy the affirmative steps required for withdrawal. <!-- correct -->
+(b) Yes, because sprinting away from the scene of the homicide and ignoring his boss's calls effectively communicated his total abandonment of the criminal enterprise to a reasonable observer.
+(c) No, because once an individual commits an overt act in furtherance of a conspiracy, the common law absolutely forbids any subsequent withdrawal or termination of ongoing vicarious liability.
+(d) Yes, because a conspiracy legally terminates by operation of law the moment an unplanned murder occurs, meaning Cole cannot be held liable for any subsequent distinct criminal activities.
+(e) No, because under the Model Penal Code framework, a conspirator must physically surrender to law enforcement within twenty-four hours of fleeing the scene to effectively terminate ongoing liability.
 
 **Answer:** (a)
 
-**Explanation:** Under the common law provocation doctrine, the defense fails if there was a "reasonable cooling time" between the provocation and the killing; one year is definitively too long. Under the MPC's Extreme Emotional Disturbance (EED) standard, there must be a "reasonable explanation or excuse" for the disturbance, evaluated from the viewpoint of a person in the defendant's situation. A year-old verbal insult to a girlfriend does not constitute a reasonable explanation for lethal violence. (b) is wrong because common law rigidly applies the cooling time rule, barring "rekindled" passion after a year. (c) is wrong because mitigation doctrines are not categorically barred by concurrent felonies, though felony murder functionally overrides them. (d) is wrong because common law doesn't recognize year-old insults, and MPC requires objective reasonableness, not just subjective distress. (e) is wrong because bringing a weapon does not automatically defeat an EED claim under the MPC.
+**Explanation:** The correct answer is (a) because effective withdrawal requires affirmative steps to disavow or defeat the conspiracy and explicit communication of those steps to coconspirators or law enforcement. (b) is wrong because simply running away and ignoring phone calls does not legally communicate abandonment to the other conspirators. (c) is wrong because withdrawal is always possible to terminate future ongoing liability, even after an overt act has been committed. (d) is wrong because an unplanned murder does not automatically terminate an ongoing distribution conspiracy by operation of law. (e) is wrong because neither the common law nor the MPC imposes a strict twenty-four-hour physical surrender requirement for withdrawal.
 
-**Tags:** chapters: [12], topics: [homicide, provocation, cooling-time, EED], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, withdrawal-requirements], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 12 - Common law cooling time limits and MPC Extreme Emotional Disturbance standard.
+**Grounding:** Chapter 19 - Withdrawal Is Demanding
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

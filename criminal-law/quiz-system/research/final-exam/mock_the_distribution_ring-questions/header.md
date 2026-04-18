@@ -1,18 +1,11 @@
-# Scenario: East Side Stash House Ring
+# Scenario: Stash House Takeover
 
-### Facts
-
-1. Artie, seeking to expand his distribution ring, summons Ben, Cole, and Damon. He says, "I have the product. I need bodies to clear out the East Side stash house and take over their corners. Anyone who helps gets a cut."
-2. Damon smiles and taps a bulge in his waistband.
-3. Artie gives Ben one kilogram of stimulants and instructs him to sell it to "Vulture." Vulture is a fictional persona created by the Metro PD's Ghost Task Force on an encrypted messaging app; no actual buyer or funds exist.
-4. Ben drives to the designated drop location. He parks 50 feet away from where Vulture's proxy was supposed to be. As Ben's hand grasps the door handle to exit the car, his phone buzzes with a text from his mother: "Police are swarming the neighborhood, come home." Ben's hand shakes. He releases the handle, leaves the drugs on the passenger seat, starts the engine, and drives home, immediately deleting the encrypted app.
-5. Meanwhile, Artie sends Cole and Damon to rob the East Side stash house. Artie's instructions are to "take their product and scare them off."
-6. Damon drives Cole to the stash house. Just before they exit the car, Damon pulls out a loaded 9mm handgun and racks the slide. Cole says, "Whoa, I thought we were just scaring them." Damon replies, "This is just for show." Cole sighs, gets out of the car, and takes his position as lookout at the back door.
-7. Damon kicks in the front door. Inside, he finds a rival dealer, Vic. Damon instantly recognizes Vic as the man who insulted his girlfriend a year ago. Damon's face flushes red. Without searching for drugs or demanding money, Damon levels the gun and shoots Vic dead, yelling, "That's for my girlfriend!"
-8. Hearing the gunshot, Cole drops his lookout post, runs back to his own apartment, and throws his burner phone in the trash. He does not contact law enforcement or Damon.
-9. Damon texts Artie: "Vic was there. I killed him. Didn't get any product." Artie replies: "Whatever. Stay low," and wires Damon $1,000.
-10. Later that week, police raid Artie's apartment. They find Artie sitting on the couch. Under the couch is a locked safe containing 5 kilograms of fentanyl. The safe belongs to Damon; Artie knows the drugs are inside and allows Damon to store it there, but Artie does not know the combination and cannot open the safe himself.
-
-### Stem 1: Prosecutor's Review
-
-We've got four suspects in custody regarding the East Side stash house shooting and a related drug sting. I need you to evaluate the inchoate and vicarious liability exposure for each of them before we convene the grand jury. Review the investigative file and draft an analysis of the doctrines at play.
+1. Artie, seeking to expand his distribution ring, summons Ben, Cole, and Damon to his apartment and asks them if they are in to 'clear out the East Side stash house and take over the corners.'
+2. Ben, Cole, and Damon each nod silently and accept a $500 cash advance from Artie, though they do not discuss specific details among themselves.
+3. Artie assigns Ben to sell one kilogram of stimulants to 'Vulture,' who is actually an undercover detective in a sting operation. Vulture does not actually have the funds to purchase the drugs, and no drugs would ever have reached the street.
+4. Ben drives toward the designated meeting point with the drugs. While still half a mile away, he receives a text from his mother asking him to come home. He pulls over, turns his car around while no police are visible, and flushes the stimulants down the toilet at a gas station.
+5. Meanwhile, Damon and Cole drive to the East Side stash house. Outside, Damon racks a loaded 9mm handgun in the car. Cole expresses surprise, but Damon says it is 'just for show.' Cole proceeds to his assigned post to act as a lookout at the back door.
+6. Damon kicks in the front door. Inside, the occupant, Vic, mocks Damon as an 'errand boy.' Damon's face flushes red with sudden rage and he immediately shoots Vic dead without ever demanding drugs or money.
+7. Cole hears the gunshot, sprints away from the house, and hides in a motel. He cuts off all communication, ignoring subsequent calls from Artie, but he does not notify the police or explicitly tell Artie he is quitting the operation.
+8. Damon texts Artie confirming the kill and noting that no product was retrieved. Artie replies, 'Stay low, good work,' and wires Damon an additional $1,000.
+9. The drugs are stored in a locked safe under the couch; Artie knows the drugs are inside and controls the space, but lacks the key, and he occasionally pushes the safe aside to sweep under the couch to maintain physical dominion over the container.

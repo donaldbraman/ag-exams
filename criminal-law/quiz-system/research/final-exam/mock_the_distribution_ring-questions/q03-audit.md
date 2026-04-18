@@ -1,26 +1,27 @@
-**Q3.** Assume Ben's conduct crossed the legal threshold for attempt. He argues he is entitled to an abandonment defense because he drove home and deleted the app. Is this defense viable?
+**Q3.** Assume Ben crossed the threshold for attempt. Under the Model Penal Code, can Ben successfully assert the affirmative defense of abandonment?
 
-(a) It fails under both frameworks because the common law does not recognize abandonment, and the MPC excludes renunciations motivated by an increased risk of police apprehension. <!-- correct -->
-(b) It succeeds under the MPC because he completely thwarted the crime before any drugs changed hands, but fails under the common law which never recognizes abandonment.
-(c) It succeeds under both frameworks because his decision to drive away constituted a complete and voluntary renunciation of the criminal purpose prior to the target crime's completion.
-(d) It fails under the MPC because he did not destroy the drugs, but succeeds under the common law because he retained a locus poenitentiae (opportunity to repent).
-(e) It succeeds under the MPC because he permanently deleted the app, demonstrating complete withdrawal, and succeeds under the common law because no actual harm occurred to the public.
+(a) Yes, because his renunciation was complete and voluntary, as it was not motivated by an increased risk of detection or unexpected resistance, and he prevented the sale. <!-- correct -->
+(b) No, because a valid abandonment defense under the MPC requires the defendant to prove that their withdrawal was motivated by genuine moral remorse rather than external familial pressure.
+(c) Yes, because the MPC dictates that any withdrawal from a planned crime prior to actual police detection automatically negates all prior criminal liability regardless of the underlying motive.
+(d) No, because Ben had already crossed the substantial step threshold for attempt, and the MPC strictly follows the common law rule barring any abandonment defense once attempt attaches.
+(e) No, because by flushing the drugs down the toilet, Ben effectively tampered with physical evidence, which legally disqualifies him from claiming the affirmative defense of abandonment.
 
 **Answer:** (a)
 
-**Explanation:** At common law, once the proximity threshold is crossed, attempt is complete and withdrawal is no defense. Under the MPC, abandonment is an affirmative defense but it must be completely voluntary. A renunciation motivated by fear of apprehension (such as his mother's text about swarming police) is legally involuntary and disqualifies the defense. (b) is wrong because his MPC renunciation was involuntary due to the police warning. (c) is wrong because common law lacks the defense entirely and his MPC defense fails the voluntariness test. (d) is wrong because common law lacks the defense once attempt liability has attached. (e) is wrong because a lack of public harm does not create an abandonment defense at common law.
+**Explanation:** The correct answer is (a) because the MPC recognizes a complete and voluntary renunciation defense, and Ben's withdrawal was prompted by a personal text, not an increased risk of apprehension. (b) is wrong because the MPC does not require genuine moral remorse, only that the renunciation isn't forced by the risk of detection or difficulty of completion. (c) is wrong because withdrawal must be "complete and voluntary," not simply "any withdrawal." (d) is wrong because the MPC explicitly created the abandonment defense to apply *after* a substantial step has been taken. (e) is wrong because destroying the drugs prevents the crime's completion, aiding his defense, and evidence tampering is a separate offense that does not legally bar the abandonment defense.
 
-**Tags:** chapters: [17], topics: [attempt, abandonment, MPC vs common law], difficulty: hard, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, abandonment-mpc], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17 - Abandonment defense limits; MPC § 5.01(4) fear of detection disqualifier.
+**Grounding:** Chapter 17 - Abandonment as Affirmative Defense (MPC)
 
 <!-- audit: MUST FIX
-check 1: fail - The marked answer (a) asserts the renunciation was motivated by police apprehension, but the stem provides no facts to support this motivation. 
-check 2: fail - Option (b) is highly defensible based *only* on the provided stem. If Ben simply "drove home and deleted the app," a student would reasonably conclude this was a completely voluntary renunciation under the MPC.
-check 3: fail - The explanation explicitly relies on facts ("such as his mother's text about swarming police") that do not exist in the question stem.
-check 4: fail - The stem is missing the critical facts regarding the motivation for Ben's abandonment. It is unsolvable as written.
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: MUST FIX. The stem completely lacks the underlying factual scenario. It asks about "Ben" but provides absolutely no facts about his conduct (the drugs, the personal text message, preventing the sale, flushing the toilet). Without the facts, students cannot evaluate whether his renunciation meets the MPC requirements. 
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Add the missing facts to the question stem. E.g., "Just before arriving, Ben received a text from his mother warning him that police were swarming the area. Panicking, he drove home and deleted the app."
+check 8: pass
+Recommended fix: Add the missing fact pattern to the question stem, explicitly detailing Ben's attempt, the intervening text message, his decision to prevent the sale, and his flushing of the drugs.
 -->

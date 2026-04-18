@@ -1,18 +1,18 @@
-**Q5.** Cole argues he cannot be an accomplice to an armed robbery because he only learned of the gun right before stepping out of the car. Under the federal standard (*Rosemond*), is Cole liable as an accomplice to an armed offense?
+**Q5.** Assume Cole is charged with aiding and abetting an armed robbery in a federal court applying the *Rosemond* standard. Did Cole possess the requisite mens rea to be liable for the *armed* nature of the robbery?
 
-(a) Yes, because Cole learned of the firearm at a time when he still had a meaningful opportunity to walk away, but chose to continue participating as a lookout. <!-- correct -->
-(b) No, because advance knowledge requires the accomplice to be informed of the weapon prior to arriving at the scene of the crime to ensure genuine specific intent.
-(c) Yes, because an accomplice assumes the risk of their coconspirator's actions, and knowledge of the weapon is automatically imputed to anyone present during the commission of the crime.
-(d) No, because Cole verbally objected to the weapon by saying "Whoa," which legally negates the shared intent required for aiding and abetting an armed offense.
-(e) Yes, because Cole's sigh and assumption of the lookout post constituted an overt act that retroactively established his premeditation and deliberation for the armed robbery.
+(a) Yes, because Cole gained knowledge that Damon was armed while they were still outside the stash house, providing him with a meaningful opportunity to walk away before the crime commenced. <!-- correct -->
+(b) No, because Cole immediately expressed genuine surprise upon seeing the loaded weapon, which legally demonstrates that the firearm was entirely outside the scope of his original agreement.
+(c) Yes, because any accomplice who voluntarily participates in a drug-related stash house robbery is strictly liable for any firearms carried by coconspirators regardless of any advance knowledge.
+(d) No, because Damon explicitly assured Cole that the handgun was merely "just for show," negating any finding that Cole intended for the firearm to be actively used during the robbery.
+(e) Yes, because under the federal complicity standard, a lookout who discovers a weapon at any point during the ongoing commission of the offense is deemed to have intended its use retroactively.
 
 **Answer:** (a)
 
-**Explanation:** Under *Rosemond*, accomplice liability for an armed offense requires advance knowledge of the firearm, meaning knowledge acquired at a time when the defendant still has a "meaningful opportunity to walk away." Cole learned of the gun before exiting the car; despite his surprise, he had the opportunity to leave but instead assumed his post. (b) is wrong because arriving at the scene does not definitively cut off the opportunity to withdraw. (c) is wrong because *Rosemond* explicitly requires personal advance knowledge, not imputed strict liability based on presence. (d) is wrong because a verbal objection followed by active assistance (acting as lookout) does not negate accomplice liability. (e) is wrong because accomplice liability requires purpose and advance knowledge, not "retroactive premeditation."
+**Explanation:** The correct answer is (a) because under *Rosemond*, an accomplice must have advance knowledge of the weapon at a time when they still have a meaningful opportunity to withdraw, which Cole did when outside the house. (b) is wrong because his initial surprise does not negate the fact that he saw the weapon, comprehended its presence, and chose to participate anyway. (c) is wrong because there is no strict liability for accomplices regarding coconspirators' weapons under the federal standard. (d) is wrong because knowing the gun will be used for intimidation ("just for show") still constitutes knowledge of its use to facilitate the crime. (e) is wrong because *Rosemond* explicitly rejects imposing retroactive intent for knowledge acquired mid-crime when withdrawal is no longer possible.
 
-**Tags:** chapters: [18], topics: [accomplice, mens-rea, Rosemond, advance-knowledge], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice-liability, mr-temporal-advance-knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 - Rosemond v. United States; advance knowledge and meaningful opportunity to withdraw.
+**Grounding:** Chapter 18 - Advance Knowledge and Meaningful Opportunity to Withdraw (Rosemond)
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

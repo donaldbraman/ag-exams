@@ -4,65 +4,30 @@ The QA pipeline flagged this question. Rewrite `q06.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q6.** Assume that Cole is prosecuted in a jurisdiction that applies the traditional Natural and Probable Consequences (NPC) doctrine. Is Cole guilty of Vic's murder as an accomplice?
+**Q6.** Assume the jurisdiction applies the Model Penal Code. Is Cole's decision to act as a lookout sufficient to establish the mens rea for accomplice liability to the stash house robbery itself?
 
-(a) Yes, because any death that occurs during a felony is categorically a natural and probable consequence of that felony.
-(b) Yes, because a shooting is a reasonably foreseeable result of an armed robbery, regardless of Damon's personal retaliatory motive. <!-- correct -->
-(c) No, because Damon's personal motive to avenge his girlfriend makes the shooting an independent, unforeseeable intervening act.
-(d) No, because Cole was standing outside as a lookout and did not personally encourage or assist the act of shooting Vic.
-(e) No, because the traditional NPC doctrine requires the accomplice to share the specific intent to kill the victim.
+(a) Yes, because by taking his assigned post as a lookout, Cole demonstrated a clear purpose to promote or facilitate the commission of the underlying stash house robbery. <!-- correct -->
+(b) Yes, because Cole knew that Damon intended to raid the stash house, and mere knowledge of the principal's criminal plan is sufficient to establish accomplice liability everywhere.
+(c) No, because Cole only acted as a perimeter lookout and did not physically enter the premises or directly assist in the theft, defeating the threshold for participation.
+(d) No, because Cole did not have a direct financial stake in the specific proceeds of this particular robbery, meaning he lacked the necessary purposive stake in the venture.
+(e) Yes, because Cole's attempt to aid Damon creates a structural strict liability standard for all subsequent crimes committed by the principal during the course of the operation.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Under the traditional Natural and Probable Consequences doctrine, an accomplice to a target crime is liable for any other crime committed by the principal that was a reasonably foreseeable consequence of the target crime. A shooting during an armed robbery is generally foreseeable, even if the principal's specific trigger for firing was a personal vendetta. (a) is wrong because NPC requires foreseeability based on specific facts, not a categorical rule for all felonies. (c) is wrong because the principal's personal motive does not defeat the objective foreseeability of violence during an armed robbery. (d) is wrong because an accomplice need not assist the secondary crime, only the target crime. (e) is wrong because NPC specifically substitutes foreseeability for shared intent.
+**Explanation:** (a) is correct because taking an assigned post as a lookout easily satisfies the MPC requirement of having the *purpose* to promote or facilitate the offense. (b) is wrong because accomplice liability generally requires purpose to facilitate the crime, not mere knowledge (the *Gladstone* standard). (c) is wrong because acting as a lookout readily satisfies the actus reus requirement of aiding or attempting to aid; physical entry is not required. (d) is wrong because while a financial stake is one way to *infer* purpose for a third-party supplier (under *Lauria*), a direct participant acting as a lookout inherently demonstrates purpose to facilitate the crime regardless of the payment structure. (e) is wrong because attempting to aid establishes actus reus, but it does not create strict liability for all subsequent crimes; the purpose requirement must still be met independently.
 
-**Tags:** chapters: [18], topics: [accomplice, npc], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice, mens-rea, purpose-vs-knowledge], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 18 (Accomplice Liability), npc-traditional-rule
+**Grounding:** Chapter 18, mr-purpose-not-knowledge
 
 <!-- audit: MUST FIX
-Check 1: pass
-Check 2: pass
-Check 3: pass
-Check 4: MUST FIX. The question lacks a fact pattern. The stem refers to Cole and Vic, and the options refer to Damon, an armed robbery, a lookout role, and a personal retaliatory motive involving a girlfriend. None of these facts are actually provided in the stem, meaning the question appears to have been improperly detached from a multi-question scenario.
-Check 5: pass
-Check 6: pass
-Check 7: pass
-Recommended fix: Integrate the missing fact pattern directly into the question stem (e.g., "Cole agreed to act as a lookout while Damon committed an armed robbery. During the robbery, Damon shot and killed Vic, prompted by a personal motive to avenge his girlfriend. Assume that Cole is prosecuted in a jurisdiction...").
--->
-
-## Issue 2 — argpass-opus
-
-**Q6.** Assume that Cole is prosecuted in a jurisdiction that applies the traditional Natural and Probable Consequences (NPC) doctrine. Is Cole guilty of Vic's murder as an accomplice?
-
-(a) Yes, because any death that occurs during a felony is categorically a natural and probable consequence of that felony.
-(b) Yes, because a shooting is a reasonably foreseeable result of an armed robbery, regardless of Damon's personal retaliatory motive. <!-- correct -->
-(c) No, because Damon's personal motive to avenge his girlfriend makes the shooting an independent, unforeseeable intervening act.
-(d) No, because Cole was standing outside as a lookout and did not personally encourage or assist the act of shooting Vic.
-(e) No, because the traditional NPC doctrine requires the accomplice to share the specific intent to kill the victim.
-
-**Answer:** (b)
-
-**Explanation:** Under the traditional Natural and Probable Consequences doctrine, an accomplice to a target crime is liable for any other crime committed by the principal that was a reasonably foreseeable consequence of the target crime. A shooting during an armed robbery is generally foreseeable, even if the principal's specific trigger for firing was a personal vendetta. (a) is wrong because NPC requires foreseeability based on specific facts, not a categorical rule for all felonies. (c) is wrong because the principal's personal motive does not defeat the objective foreseeability of violence during an armed robbery. (d) is wrong because an accomplice need not assist the secondary crime, only the target crime. (e) is wrong because NPC specifically substitutes foreseeability for shared intent.
-
-**Tags:** chapters: [18], topics: [accomplice, npc], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 18 (Accomplice Liability), npc-traditional-rule
-
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that in the context of inherently dangerous felonies like armed robbery, courts functionally presume that death is a foreseeable outcome. Therefore, any death during such a felony is categorically a natural and probable consequence, automatically satisfying the NPC doctrine's actus reus and mens rea requirements.
-(b) Argument-for: A student could argue that under the traditional NPC doctrine, an accomplice to a target offense (armed robbery) is liable for a secondary offense (murder) if it was objectively foreseeable. Because the use of firearms during a robbery inherently carries the foreseeable risk of a shooting, Cole is liable regardless of Damon's specific, subjective personal retaliatory motive.
-(c) Argument-for: A student could argue that proximate cause principles limit the NPC doctrine. If Damon's decision to shoot was driven entirely by a pre-existing personal vendetta rather than the execution of the robbery, this specific subjective intent acts as an independent intervening cause. This "frolic" breaks the chain of causation, rendering the shooting an unforeseeable deviation from the target crime.
-(d) Argument-for: A student could argue that Cole's accomplice liability is strictly bounded by his actual contributions. Because his role was limited to being a lookout for the robbery, and he was physically removed and did not perform any act that specifically encouraged or assisted the murder, the elements of accomplice liability for the secondary crime are not met.
-(e) Argument-for: A student could argue that accomplice liability traditionally requires dual intents: the intent to assist the primary actor, and the intent that the charged crime be committed. A student might assert that even under the NPC doctrine, the accomplice must still share the specific intent to kill the victim, rather than being convicted based merely on negligence or foreseeability.
-
-Head-to-head: (b) is the clear correct answer because it correctly applies the objective foreseeability standard of the traditional NPC doctrine to the facts. (a) and (e) contain explicit, highly falsifiable false legal rules ("categorically a natural and probable consequence" and "requires the accomplice to share the specific intent"). However, (c) lacks an absolute word to lock its falsifiability, relying on a factual application that might be debated as a plausible legal conclusion. Furthermore, (d) fails the standard because it relies on purely factual statements (Cole was a lookout and didn't assist the shooting) coupled with an implicit false premise (that assisting the secondary crime is legally required for NPC liability). The false rule in (d) must be made explicit. 
-
-Falsifiable claim per distractor:
-- (a): "categorically a natural and probable consequence" — wrong because NPC is a case-by-case foreseeability inquiry, not a categorical rule for all felonies.
-- (c): "makes the shooting an independent, unforeseeable intervening act" — wrong because personal motive does not defeat objective foreseeability during an armed robbery, but lacks an absolute word to preclude subjective arguments.
-- (d): "did not personally encourage or assist the act of shooting Vic" — wrong because it relies on an implicit omission (that NPC requires assisting the secondary act) rather than explicitly stating the false legal rule. 
-- (e): "traditional NPC doctrine requires the accomplice to share the specific intent" — wrong because NPC explicitly substitutes foreseeability for shared specific intent.
-
-Recommended fix: In (c), add an absolute word: "No, because Damon's personal motive to avenge his girlfriend categorically makes the shooting...". In (d), explicitly state the false legal rule: "No, because the NPC doctrine strictly requires the accomplice to personally encourage or assist the secondary crime."
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: FAIL. The stem refers to specific characters ("Cole", "Damon") and a specific event ("the stash house robbery") that are entirely absent from the prompt. This is an orphaned question that has been separated from its parent fact pattern, making it impossible to answer based solely on the text provided.
+check 5: pass
+check 6: pass
+check 7: pass
+check 8: pass
+Recommended fix: Integrate the missing facts into the stem. For example: "Damon plans to rob a stash house and recruits Cole to act as a lookout. Cole agrees, takes his post, and alerts Damon to approaching police, though Cole has no financial stake in the proceeds. Assume the jurisdiction applies the Model Penal Code. Is Cole's decision to act as a lookout sufficient..."
 -->

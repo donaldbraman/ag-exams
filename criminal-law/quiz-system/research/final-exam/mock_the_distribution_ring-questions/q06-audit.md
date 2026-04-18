@@ -1,26 +1,27 @@
-**Q6.** Damon killed Vic for personal reasons having nothing to do with stealing drugs. Under the traditional natural and probable consequences (NPC) doctrine, is Cole liable for Vic's murder as an accomplice?
+**Q6.** Assume that, whether or not Cole had advance knowledge of the gun, he claims he only acted as a lookout because he needed Artie's cash, not because he wanted the robbery to succeed. Under the traditional complicity standard (as in *Gladstone* / *Peoni*), does this defense defeat accomplice liability?
 
-(a) Yes, because a fatal shooting is a reasonably foreseeable consequence of sending an armed enforcer to rob a rival drug stash house, regardless of Damon's personal motive. <!-- correct -->
-(b) No, because Damon's personal motive for the killing constitutes an independent intervening cause that breaks the chain of proximate causation for the original robbery conspiracy.
-(c) Yes, because the NPC doctrine applies strict liability to all participants in a felony, automatically imputing the specific intent to kill to the unarmed lookout.
-(d) No, because traditional NPC doctrine requires the prosecution to prove that Cole subjectively foresaw the exact manner and motive of the victim's death during the robbery.
-(e) Yes, because Cole's act of fleeing the scene after hearing the gunshot constitutes ratification of the murder, cementing his liability for the natural and probable consequences.
+(a) No, because by intentionally taking his assigned post as a lookout, Cole demonstrated that he associated himself with the criminal venture and sought to make it succeed. <!-- correct -->
+(b) Yes, because an accomplice must harbor personal animus or ideological support for the crime, which is structurally absent when the sole motivation is securing a financial payout.
+(c) No, because modern accomplice liability only requires the defendant to possess mere knowledge that their physical presence will assist a crime, making subjective purpose legally irrelevant.
+(d) Yes, because Cole's primary desire was simply to keep the cash advance rather than to ensure the actual success of the robbery, meaning he lacked the necessary purposive mental state.
+(e) No, because under the traditional complicity standard, mere presence near the scene of a crime automatically satisfies the purpose requirement regardless of the defendant's internal motivations.
 
 **Answer:** (a)
 
-**Explanation:** Under the traditional natural and probable consequences (NPC) doctrine, an accomplice to a target crime (robbery) is liable for any other crime (murder) that is a natural and probable (foreseeable) consequence of the agreed-upon criminal activity. An armed confrontation at a drug stash house foreseeably leads to shootings, satisfying the objective foreseeability test even if Damon's actual motive was personal. (b) is wrong because a coconspirator's shifting motive during the planned confrontation does not defeat the foreseeability of violence. (c) is wrong because NPC relies on objective foreseeability, not strict liability or imputed specific intent. (d) is wrong because NPC requires objective foreseeability, not subjective foresight of the exact motive. (e) is wrong because flight is not ratification, and liability was established by his participation as an accomplice prior to the shooting.
+**Explanation:** The correct answer is (a) because taking a stake in the venture (the cash) and performing the assigned physical role establishes the purpose to make the crime succeed. (b) is wrong because the law does not require personal animus or ideological support; a financial motive is a classic way to establish purposive intent. (c) is wrong because the traditional standard strictly requires purpose to promote or facilitate, not mere knowledge. (d) is wrong because desiring the cash advance demonstrates a financial stake in the venture, which legally satisfies the purpose requirement. (e) is wrong because mere presence without encouragement or actual assistance does not automatically satisfy the purpose requirement.
 
-**Tags:** chapters: [18], topics: [accomplice, natural-and-probable-consequences], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice-liability, mr-purpose-not-knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 - Traditional natural and probable consequences (NPC) doctrine; foreseeability test.
+**Grounding:** Chapter 18 - Purpose vs. Knowledge (Gladstone/Peoni)
 
-<!-- audit: MUST FIX
-Check 1: MUST FIX. The marked answer (a) is doctrinally vulnerable. If the killing was truly for "personal reasons having nothing to do with stealing drugs," traditional common law NPC doctrine would likely view this as an independent "frolic and detour" outside the scope of the target offense, severing accomplice liability. 
-Check 2: MUST FIX. Option (b) is highly defensible and arguably the legally correct outcome. A smart student will recognize that a purely personal vendetta execution during a robbery breaks the causal nexus of the target crime, making it an independent intervening act rather than a natural and probable consequence of the robbery itself.
-Check 3: pass (the explanation matches the internal logic of the intended answer).
-Check 4: MUST FIX. The stem completely lacks the foundational facts. It mentions nothing about Cole, sending an armed enforcer, a robbery, or a drug stash house. These critical facts are improperly buried in the answer choices. This reads like an orphaned question separated from its parent fact pattern.
-Check 5: pass.
-Check 6: pass.
-Check 7: pass.
-Recommended fix: (1) Add the complete fact pattern to the stem (Cole explicitly sending an armed Damon to rob Vic's stash house). (2) Change the facts of the shooting so it is actually connected to the robbery (e.g., Damon shoots Vic because Vic resisted, or a gun accidentally discharged during the struggle) to eliminate the "frolic and detour" defense, making (a) definitively correct and (b) clearly incorrect.
+<!-- audit: SHOULD FIX
+<check 1>: pass
+<check 2>: pass
+<check 3>: The explanation asserts that "desiring the cash advance demonstrates a financial stake in the venture." Doctrinally, receiving an upfront "cash advance" (a flat fee) typically demonstrates a *lack* of a financial stake in the venture, as payment is not contingent on the crime's success (unlike taking a cut of the proceeds, per the *Lauria*/*Peoni* framework). The true reason (a) is correct and (d) is wrong is that actively participating as a lookout inherently satisfies the *Peoni* requirement of associating oneself with the venture, making the "stake in the venture" test (used to infer purpose for mere suppliers of ordinary goods/services) unnecessary.
+<check 4>: Option (d) and the explanation refer to a "cash advance," but the stem only says "he needed Artie's cash." If a "cash advance" is not explicitly established in the broader scenario this question is attached to, it acts as a phantom fact that could confuse students.
+<check 5>: pass
+<check 6>: pass
+<check 7>: pass
+<check 8>: pass
+Recommended fix: Update the explanation to remove the flawed "stake in the venture" reasoning regarding the cash advance. Explain instead that actively taking a post as a lookout is direct, participatory assistance that inherently demonstrates purposive intent under *Peoni*, regardless of the defendant's ultimate financial motive. Also, ensure "cash advance" matches the facts of the main scenario, or change it to "the cash payment."
 -->
