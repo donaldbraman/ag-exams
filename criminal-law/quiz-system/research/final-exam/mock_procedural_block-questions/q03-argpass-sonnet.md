@@ -1,0 +1,33 @@
+**Q3.** Silas is charged with possession of the packaged cocaine found in the locked bedroom. The prosecution relies on the doctrine of constructive possession. Is the evidence sufficient to establish constructive possession?
+
+(a) Yes, because fleeing into a secured house containing illegal drugs automatically establishes joint constructive possession with whoever actually owns the premises.
+(b) Yes, because carrying the only key to the locked bedroom demonstrates he had the power and intention to exercise control over the drugs. <!-- correct -->
+(c) No, because constructive possession requires the defendant to be physically present in the exact room where the contraband is located.
+(d) No, because the state cannot prove he had exclusive ownership of the stash house rather than merely being a temporary trespasser.
+(e) No, because pouring gasoline on drugs in the living room proves he intended to destroy them rather than possess them for distribution.
+
+**Answer:** (b)
+
+**Explanation:** Constructive possession exists when a person lacks physical custody of an item but has both the power and intention to exercise dominion and control over it. Holding the only key to the locked room where the drugs were stored demonstrates this power and intent. (a) is wrong because merely being in a house with drugs does not automatically establish constructive possession. (c) is wrong because physical presence in the specific room is not required for constructive possession. (d) is wrong because ownership of the premises is not required if the defendant controls the specific area. (e) is wrong because intent to destroy does not retroactively negate the control and dominion already exercised over the drugs.
+
+**Tags:** chapters: [15], topics: [constructive-possession, drugs], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 15: cp-awareness-control
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could argue that when an individual flees into a secured premises, they exercise dominion over the entire structure by using it as a safe haven. Under some broad theories of joint constructive possession, controlling the perimeter or using the space exclusively during police pursuit implies a shared dominion over the illicit contents inside. If the premises is secured and the defendant forcefully accesses it to escape, this entry might be seen as exercising immediate possessory control over the entire environment. Therefore, a student might mistakenly conclude this automatically makes them a co-possessor of its contents.
+(b) Argument-for: This aligns directly with the classic black-letter definition of constructive possession. Constructive possession requires the power and intent to exercise dominion and control over the contraband. Holding the sole key to the specific locked room where the cocaine is located provides absolute, exclusive access to those drugs. This exclusive access strongly establishes the requisite power and intent to control the substance, making the evidence legally sufficient to support the charge.
+(c) Argument-for: A student might argue that constructive possession requires a strong physical nexus between the defendant and the drugs at the time of apprehension. If Silas is not physically present in the locked bedroom, he lacks immediate access to the contraband. Under a rigid, layman interpretation of "dominion and control," physical proximity could be mistakenly viewed as a mandatory element to prove the intent to control. Thus, they might reason that without physical presence in the exact room, the nexus breaks down.
+(d) Argument-for: A student could assert that constructive possession in a dwelling typically requires showing the defendant resides there or has a formal legal right to the premises. If Silas is merely a temporary trespasser running through the house, he lacks the requisite long-term dominion over the property itself to infer control over hidden items. Thus, they might conclude that without proving exclusive ownership or established tenancy, the state cannot successfully prove he constructively possessed the stash inside the house.
+(e) Argument-for: Constructive possession requires the intent to exercise control, which students often intuitively link to an intent to distribute, use, or profit from the contraband. If Silas's interaction with the drugs was attempting to destroy them by pouring gasoline on them, a student might argue this negates the required *mens rea* for possession. Destruction could be framed as a total rejection of possession, showing he did not intend to control the cocaine for any possessory purpose recognized by the penal statute.
+
+Head-to-head: Option (b) is the clear winner as it perfectly applies the correct legal standard for constructive possession—power and intent to exercise dominion and control—to the dispositive fact of holding the only key. Option (a) fails because it uses the absolute "automatically establishes"; mere presence or flight into a house with drugs never strictly triggers joint possession. Option (c) fails by asserting that physical presence in the exact room is required, which directly contradicts the foundational premise of constructive possession. Option (d) incorrectly elevates "exclusive ownership" of the premises to a strict legal prerequisite, whereas proving control over the specific locked area is entirely sufficient. Option (e) relies on the false legal premise that destroying drugs negates possession, when in fact, destroying property is a definitive and absolute exercise of dominion and control.
+
+Falsifiable claim per distractor:
+- (a): "automatically establishes joint constructive possession" — wrong because mere presence in or flight into a premises containing drugs does not categorically establish the power and intent to control those drugs.
+- (c): "requires the defendant to be physically present in the exact room" — wrong because the entire doctrine of constructive possession exists specifically to assign possession when a defendant is *not* in direct physical custody or presence of the item.
+- (d): "cannot prove he had exclusive ownership" — wrong because exclusive ownership of the premises is not legally required to establish constructive possession; demonstrating control over the drugs (e.g., via the key) is sufficient.
+- (e): "proves he intended to destroy them rather than possess them" — wrong because the act of destroying contraband is legally recognized as a definitive exercise of dominion and control, which establishes (rather than negates) possession.
+
+Recommended fix: none
+-->

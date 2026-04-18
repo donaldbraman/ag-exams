@@ -1,0 +1,26 @@
+**Q16.** During the city council debate on decriminalizing minor drug offenses, highly numerate council members who previously opposed decriminalization used their statistical skills to selectively reinterpret the crime data, reaching conclusions completely opposite to the statisticians' report. Which concept best explains this behavior?
+
+(a) The rational actor model, where politicians deliberately falsify data to secure campaign contributions from law enforcement unions.
+(b) The motivated numeracy paradox, where higher analytical skills actually increase polarization by enabling partisans to selectively interpret data to protect their prior moral commitments. <!-- correct -->
+(c) The asymmetric correction principle, which dictates that legislative bodies will naturally and inevitably correct over-inclusive criminal statutes through objective statistical analysis.
+(d) The desuetude doctrine, wherein prolonged nonenforcement of a law leads highly educated politicians to mathematically nullify its ongoing statutory validity.
+(e) The arbitrary and capricious standard, which demonstrates that municipal government officials simply lack the baseline capacity to interpret complex empirical evidence accurately.
+
+**Answer:** (b)
+
+**Explanation:** The motivated numeracy paradox, identified by Kahan et al., demonstrates that higher analytical skills (numeracy) do not lead to consensus on contested moral or cultural issues. Instead, highly numerate partisans use their skills to selectively interpret data in ways that support their prior commitments, actually increasing polarization. (a) is wrong because motivated cognition describes a psychological phenomenon where people genuinely believe their biased reasoning, not a conscious choice to deliberately falsify data for money. (c) is wrong because asymmetric correction is a theory about why legislatures rarely narrow criminal laws, not a psychological explanation for data misinterpretation. (d) is wrong because desuetude refers to the judicial invalidation of unenforced laws, not data interpretation. (e) is wrong because the paradox proves that the individuals have high capacity, but deploy it protectively rather than objectively.
+
+**Tags:** chapters: [3], topics: [motivated-cognition, evidence-based-policy], difficulty: medium, cognitive: analysis
+
+**Grounding:** Chapter 3: numeracy-paradox
+
+<!-- audit: CLEAN
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: pass
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+-->

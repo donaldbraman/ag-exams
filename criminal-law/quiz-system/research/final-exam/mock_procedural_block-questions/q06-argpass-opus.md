@@ -1,0 +1,34 @@
+**Q6.** Assume the jurisdiction has abolished the felony murder rule. The prosecution instead charges Silas with depraved-heart (extreme reckless) murder for the pedestrian's death. Is Silas guilty of this charge?
+
+(a) Yes, because driving 90 mph erratically through a crowded residential neighborhood demonstrates an extreme indifference to the value of human life. <!-- correct -->
+(b) Yes, because any violation of a state traffic law that results in a death automatically satisfies the gross negligence standard for murder.
+(c) No, because Silas subjectively desired to escape the police rather than cause physical harm, negating the required mental state of malice.
+(d) No, because the pedestrian inherently assumed the risk of injury by standing near the roadway during an active high-speed police pursuit.
+(e) No, because depraved-heart murder typically requires the use of a traditional deadly weapon, and an automobile cannot legally qualify as such.
+
+**Answer:** (a)
+
+**Explanation:** Depraved-heart (or extreme reckless) murder requires conduct that demonstrates a conscious disregard of a substantial and unjustifiable risk to human life, manifesting an extreme indifference to the value of human life. Weaving at 90 mph through a crowded residential area clearly meets this standard. (b) is wrong because a mere traffic violation only supports ordinary or perhaps gross negligence, not the extreme recklessness required for murder. (c) is wrong because extreme recklessness requires a conscious disregard of the risk, not a subjective desire to cause the harm. (d) is wrong because victim assumption of risk is generally not a defense to criminal homicide. (e) is wrong because a vehicle used in a highly dangerous manner can easily satisfy the requirement for extreme indifference to life.
+
+**Tags:** chapters: [13], topics: [unintentional-homicide, extreme-indifference-standard], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 13: extreme-indifference-standard
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: This option correctly applies the mens rea standard for depraved-heart murder to the facts at hand. Under the common law and Model Penal Code, extreme reckless murder is established when a defendant's conduct manifests an extreme indifference to the value of human life. Driving 90 mph erratically through a crowded residential neighborhood is a quintessential example of this standard. Such behavior demonstrates a conscious disregard of a substantial and unjustifiable risk to human bystanders. Thus, the conduct perfectly aligns with the required legal threshold for the charge.
+(b) Argument-for: A student might defend this option by conflating the unlawful act doctrine with the mens rea for murder, elevating simple infractions to strict homicide liability. The argument would assert that because a state traffic law was violated and directly resulted in death, the inherent danger of the infraction automatically fulfills the culpable negligence needed for homicide. By treating the resulting death as an absolute consequence of the violation, the student argues it categorically satisfies the gross negligence standard for murder.
+(c) Argument-for: A student could argue that malice aforethought requires some subjective hostility or "depraved" intent specifically directed toward causing human injury. Under this view, if the defendant's primary and subjective motive was exclusively to escape law enforcement, the requisite "evil mind" or malice is absent. Consequently, the argument posits that because the subjective desire to avoid capture was his only goal, it necessarily negates the extreme indifference required for murder, reducing the potential crime to manslaughter.
+(d) Argument-for: A student might erroneously apply the tort doctrine of assumption of risk to criminal proximate causation. The argument would claim that by voluntarily standing near a roadway during a highly visible and dangerous police pursuit, the pedestrian engaged in an inherently risky act. This choice supposedly breaks the chain of proximate causation, functioning as a supervening cause. Therefore, the pedestrian's own assumption of risk would legally relieve the defendant of criminal liability for the homicide.
+(e) Argument-for: This argument relies on a restrictive historical interpretation of depraved-heart murder, asserting it typically requires inherently dangerous instruments like explosives or firearms. A student might argue that an automobile is primarily designed as a mode of transportation and is not formally classified as a "traditional deadly weapon." Because the car does not fit this strict category, its misuse cannot legally satisfy the extreme recklessness standard. Therefore, without a conventional weapon, the legal threshold for depraved-heart murder is categorically unmet.
+
+Head-to-head:
+Option (a) is the keyed answer and correctly applies the legal standard for depraved-heart murder (extreme recklessness manifesting extreme indifference to human life). The distractors all rely on explicitly false legal claims. Option (b) falsely claims that "any" traffic violation "automatically satisfies" the murder standard, ignoring the distinct mens rea requirements for homicide offenses. Option (c) relies on the false legal proposition that a desire to escape negates the malice required for depraved-heart murder. Option (d) incorrectly imports the tort concept of assumption of risk, which is categorically not a valid defense to criminal homicide. Option (e) falsely asserts that a vehicle "cannot legally qualify" as a deadly weapon, contradicting established doctrine that everyday items used in a lethal manner legally constitute deadly weapons.
+
+Falsifiable claim per distractor:
+- (b): "any violation of a state traffic law that results in a death automatically satisfies the gross negligence standard for murder" — wrong because ordinary traffic infractions do not automatically equate to the extreme indifference or gross negligence required to establish murder malice.
+- (c): "Silas subjectively desired to escape the police rather than cause physical harm, negating the required mental state of malice" — wrong because depraved-heart murder does not require a subjective desire to cause physical harm; a conscious disregard of a substantial risk to human life suffices to establish malice.
+- (d): "the pedestrian inherently assumed the risk of injury" — wrong because a victim's assumption of risk or contributory negligence is not a recognized legal defense to excuse criminal homicide.
+- (e): "an automobile cannot legally qualify as such [a traditional deadly weapon]" — wrong because an automobile is routinely recognized in criminal law as a deadly weapon when operated in a manner capable of causing death or serious bodily injury.
+
+Recommended fix: none
+-->

@@ -1,0 +1,34 @@
+**Q16.** During the city council debate on decriminalizing minor drug offenses, highly numerate council members who previously opposed decriminalization used their statistical skills to selectively reinterpret the crime data, reaching conclusions completely opposite to the statisticians' report. Which concept best explains this behavior?
+
+(a) The rational actor model, where politicians deliberately falsify data to secure campaign contributions from law enforcement unions.
+(b) The motivated numeracy paradox, where higher analytical skills actually increase polarization by enabling partisans to selectively interpret data to protect their prior moral commitments. <!-- correct -->
+(c) The asymmetric correction principle, which dictates that legislative bodies will naturally and inevitably correct over-inclusive criminal statutes through objective statistical analysis.
+(d) The desuetude doctrine, wherein prolonged nonenforcement of a law leads highly educated politicians to mathematically nullify its ongoing statutory validity.
+(e) The arbitrary and capricious standard, which demonstrates that municipal government officials simply lack the baseline capacity to interpret complex empirical evidence accurately.
+
+**Answer:** (b)
+
+**Explanation:** The motivated numeracy paradox, identified by Kahan et al., demonstrates that higher analytical skills (numeracy) do not lead to consensus on contested moral or cultural issues. Instead, highly numerate partisans use their skills to selectively interpret data in ways that support their prior commitments, actually increasing polarization. (a) is wrong because motivated cognition describes a psychological phenomenon where people genuinely believe their biased reasoning, not a conscious choice to deliberately falsify data for money. (c) is wrong because asymmetric correction is a theory about why legislatures rarely narrow criminal laws, not a psychological explanation for data misinterpretation. (d) is wrong because desuetude refers to the judicial invalidation of unenforced laws, not data interpretation. (e) is wrong because the paradox proves that the individuals have high capacity, but deploy it protectively rather than objectively.
+
+**Tags:** chapters: [3], topics: [motivated-cognition, evidence-based-policy], difficulty: medium, cognitive: analysis
+
+**Grounding:** Chapter 3: numeracy-paradox
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could argue for (a) by applying public choice theory, which models politicians as rational utility maximizers. If the politicians reached a conclusion completely contrary to the expert consensus, a student relying on a strict rational actor model might assume this was a deliberate, calculated misrepresentation of the data designed to appease a key constituency (like law enforcement) rather than an unconscious cognitive bias.
+(b) Argument-for: A student would select (b) because it directly applies Dan Kahan’s theory of the motivated numeracy paradox. The prompt specifically highlights that the politicians are "highly numerate" and use their "statistical skills to selectively reinterpret" data to align with their prior opposition. This perfectly matches the paradox, which shows that greater analytical capacity is often weaponized to protect identity-congruent beliefs rather than arrive at objective truth.
+(c) Argument-for: A student might choose (c) if they connect the debate over "decriminalizing minor drug offenses" to the correction of an over-inclusive criminal statute. If the student misunderstands the trajectory of criminal law reform, they might believe the asymmetric correction principle is the mechanism by which legislatures use statistics to "naturally" fix broad criminal codes.
+(d) Argument-for: A student could argue for (d) by associating the "prolonged nonenforcement" of minor drug offenses with desuetude. Since the prompt involves politicians interpreting data about decriminalization, a confused student might think desuetude is a statutory mechanism where politicians use data to mathematically "prove" a law is no longer valid, nullifying it.
+(e) Argument-for: A student might select (e) by drawing on administrative law, specifically the "arbitrary and capricious" standard under the APA. When officials reach conclusions "completely opposite" to an expert statistical report, a reviewing court might strike the decision down. A student could mistakenly believe this standard is grounded in a presumption that municipal officials categorically lack the capacity to interpret empirical data.
+
+Head-to-head: 
+Option (b) is indisputably correct as it accurately defines the motivated numeracy paradox and perfectly fits the fact pattern. The distractors fail because they misdefine legal and theoretical concepts. Option (a) incorrectly equates the rational actor model with a mandate that politicians deliberately falsify data for union contributions. Option (c) takes the asymmetric correction principle—which explains why legislatures *fail* to correct over-inclusive laws—and flips it to claim it "dictates" that they "naturally and inevitably correct" them. Option (d) incorrectly defines desuetude as a mathematical nullification by politicians rather than a judicial doctrine of nonenforcement. Option (e) incorrectly defines the arbitrary and capricious standard as a doctrine demonstrating that officials "simply lack the baseline capacity," which both misstates the legal standard and contradicts the prompt's premise that the officials are "highly numerate."
+
+Falsifiable claim per distractor:
+- (a): "deliberately falsify data to secure campaign contributions from law enforcement unions" — wrong because the rational actor model is a broad framework of utility maximization, not a rigid rule that politicians must explicitly falsify data for union contributions; furthermore, it conflicts with the prompt's description of unconscious selective interpretation.
+- (c): "dictates that legislative bodies will naturally and inevitably correct over-inclusive criminal statutes" — wrong because the asymmetric correction principle holds the exact opposite: structural incentives cause legislatures to rarely correct over-inclusive criminal laws.
+- (d): "leads highly educated politicians to mathematically nullify its ongoing statutory validity" — wrong because desuetude is a judicial doctrine where courts decline to enforce obsolete laws, not a mathematical nullification process performed by politicians.
+- (e): "demonstrates that municipal government officials simply lack the baseline capacity" — wrong because the arbitrary and capricious standard evaluates the rationality of agency decision-making processes, it does not demonstrate a categorical lack of baseline capacity (and the prompt explicitly establishes their high capacity).
+
+Recommended fix: none
+-->

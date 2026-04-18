@@ -1,0 +1,17 @@
+**Q2.** Assume the jurisdiction applies the Model Penal Code (MPC) "substantial step" test. Silas is charged with attempted tampering with physical evidence for pouring gasoline on the cocaine and holding a lighter. Is Silas guilty of attempt?
+
+(a) Guilty, because he completed the offense the moment he formed the specific intent to destroy the evidence in the stash house.
+(b) Guilty, because his actions strongly corroborated his criminal purpose and went far beyond mere preparation to destroy the drugs. <!-- correct -->
+(c) Not guilty, because the police intervened before he could ignite the lighter, meaning he did not complete the final proximate act.
+(d) Not guilty, because his trembling hand indicates he had not yet formed a firm and irrevocable intent to commit the underlying offense.
+(e) Not guilty, because it was factually impossible for him to destroy the cocaine once the police had already breached the front door.
+
+**Answer:** (b)
+
+**Explanation:** Under the MPC's substantial step test, an attempt occurs when a defendant acts with the requisite mens rea and takes a substantial step toward the commission of the crime that strongly corroborates their criminal purpose. Pouring gasoline and holding a lighter clearly satisfies this standard. (a) is wrong because attempt requires both mens rea and an actus reus beyond mere thought. (c) is wrong because the MPC specifically rejects the common-law "last proximate act" test. (d) is wrong because a trembling hand does not negate mens rea, and "firm and irrevocable intent" is not the legal test. (e) is wrong because police intervention makes the crime incomplete, but factual impossibility is generally not a defense under the MPC.
+
+**Tags:** chapters: [17], topics: [attempt, substantial-step], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 17: actus-reus-substantial-step
+
+<!-- grounding: GROUNDED — MPC Substantial Step, Ch 17, Refinement `actus-reus-substantial-step`. Rule paraphrased accurately. -->

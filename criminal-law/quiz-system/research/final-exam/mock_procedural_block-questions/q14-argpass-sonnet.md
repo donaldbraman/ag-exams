@@ -1,0 +1,33 @@
+**Q14.** The prosecution seeks to hold Silas liable for Thorne's bribery of Judge Mercer under the *Pinkerton* doctrine. Assuming the jurisdiction follows *Pinkerton*, is Silas guilty of the bribery offense?
+
+(a) Yes, because the bribery of the judge was a reasonably foreseeable consequence of the explicit conspiracy to illegally obstruct the proceedings. <!-- correct -->
+(b) Yes, because Silas provided the initial cartel funding, making him strictly liable for any subsequent felony Thorne committed during the trial.
+(c) No, because Silas was only generally aware of aggressive tactics and completely lacked the specific intent required to bribe a sitting judge.
+(d) No, because the *Pinkerton* doctrine requires the defendant to be physically present when the co-conspirator commits the target substantive offense.
+(e) No, because the formalized attorney-client relationship inherently severs the chain of proximate causation required to establish vicarious criminal liability for the client.
+
+**Answer:** (a)
+
+**Explanation:** Under the *Pinkerton* doctrine, a conspirator is vicariously liable for the substantive offenses committed by a co-conspirator if those offenses are committed in furtherance of the conspiracy and are reasonably foreseeable as a necessary or natural consequence of the unlawful agreement. Bribing the trial judge is a highly foreseeable consequence of a conspiracy explicitly formed to "illegally obstruct the legal proceedings" using cartel funds. (b) is wrong because *Pinkerton* is based on foreseeability and furtherance of the conspiracy, not strict liability for any unrelated felony. (c) is wrong because *Pinkerton* dispenses with the requirement that the defendant possess the specific intent for the collateral substantive crime, relying instead on foreseeability. (d) is wrong because physical presence is not required for *Pinkerton* liability. (e) is wrong because the attorney-client relationship does not shield clients from liability for crimes committed jointly with their attorneys.
+
+**Tags:** chapters: [19], topics: [conspiracy, pinkerton], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 19: pinkerton-doctrine
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under the *Pinkerton* doctrine, a defendant is vicariously liable for the substantive crimes of co-conspirators if those crimes are committed in furtherance of the conspiracy and are reasonably foreseeable. If Silas and Thorne explicitly conspired to "illegally obstruct the proceedings," bribing the presiding judge is a direct, foreseeable method of achieving that goal. Therefore, the elements of *Pinkerton* liability are perfectly satisfied.
+(b) Argument-for: A student might argue that providing the initial funding for an illegal enterprise establishes overarching complicity for all downstream acts. Relying on an enterprise-liability or felony-murder framework, they could reason that Silas's initial financial contribution was the "but-for" cause of the bribery, effectively creating strict liability for any subsequent felonies Thorne committed using those funds during the trial.
+(c) Argument-for: A student could argue that while *Pinkerton* expands liability, it cannot completely dispense with *mens rea* boundaries. If Silas was only "generally aware" of aggressive tactics, a student might reason that judicial bribery represents an unforeseeable escalation outside the scope of the agreement. Therefore, they could argue Silas's complete lack of specific intent to bribe a judge defeats the foreseeability requirement, precluding liability.
+(d) Argument-for: A student might confuse *Pinkerton* liability with traditional accomplice liability (aiding and abetting), which often emphasizes presence or contemporaneous support at the scene of the crime. They could argue that because conspiracy involves an agreement rather than an active joint commission of the substantive offense, vicarious liability under *Pinkerton* requires the defendant to at least be physically present to participate in or encourage the collateral crime.
+(e) Argument-for: A student might argue that the formalized attorney-client relationship imposes strict ethical boundaries and fiduciary duties. Because an attorney acts as an independent officer of the court, a client might reasonably expect the attorney to operate within the bounds of the law. Thus, a student could argue that an attorney's unilateral decision to bribe a judge constitutes an independent intervening act (a frolic and detour) that inherently severs the proximate causation required for vicarious liability.
+
+Head-to-head: Option (a) cleanly applies the precise elements of the *Pinkerton* doctrine (in furtherance of the conspiracy and reasonably foreseeable). The distractors all fail because they contain explicit, falsifiable misstatements of law. Option (b) falsely claims strict liability applies to "any subsequent felony." Option (c) falsely implies that lacking specific intent for the substantive offense defeats *Pinkerton* liability, whereas *Pinkerton* was designed precisely to substitute foreseeability for specific intent on the collateral crime. Option (d) invents a physical presence requirement. Option (e) incorrectly elevates the attorney-client relationship to an absolute shield against conspiracy liability.
+
+Falsifiable claim per distractor:
+- (b): "making him strictly liable for any subsequent felony" — wrong because *Pinkerton* limits liability to crimes that are reasonably foreseeable and in furtherance of the conspiracy, rejecting strict liability for "any" unrelated subsequent felony.
+- (c): "completely lacked the specific intent required to bribe a sitting judge" — wrong because *Pinkerton* explicitly permits conviction for the substantive offense without the defendant possessing the specific intent for that collateral crime, provided it was a foreseeable consequence of the conspiracy.
+- (d): "requires the defendant to be physically present" — wrong because physical presence during the commission of the substantive offense is categorically not required for *Pinkerton* liability.
+- (e): "inherently severs the chain of proximate causation" — wrong because an attorney-client relationship does not automatically or "inherently" sever proximate causation or grant immunity for joint criminal conspiracies (e.g., the crime-fraud exception).
+
+Recommended fix: none
+-->

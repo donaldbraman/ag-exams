@@ -1,0 +1,27 @@
+**Q1.** Silas files a motion to suppress the evidence gathered after the traffic stop, arguing that the stop violated the Fourth Amendment because internal communications proved it was purely a pretext for a drug investigation. Is the stop constitutional under *Whren v. United States*?
+
+(a) Yes, because an officer's subjective motivation does not invalidate a stop so long as objective probable cause of a traffic violation exists. <!-- correct -->
+(b) Yes, because a cracked taillight creates a reasonable suspicion that the vehicle might be transporting illegal narcotics across state lines.
+(c) No, because the police communications proved their primary objective was investigating drugs rather than enforcing standard traffic safety regulations.
+(d) No, because pretextual stops are only permissible if the alleged traffic violation constitutes a misdemeanor rather than a mere infraction.
+(e) No, because the officers failed to issue a traffic citation before escalating the encounter into a full narcotics investigation.
+
+**Answer:** (a)
+
+**Explanation:** Under *Whren v. United States*, a traffic stop is constitutional under the Fourth Amendment as long as officers have objective probable cause to believe a traffic violation occurred (here, the cracked taillight). The officers' subjective motivation (an unsupported hunch about drugs) is irrelevant to the Fourth Amendment analysis. (b) is incorrect because a cracked taillight does not create reasonable suspicion of narcotics transport. (c) is incorrect because subjective intent is disregarded under *Whren*. (d) is incorrect because there is no misdemeanor limitation on pretextual stops. (e) is incorrect because the constitutionality of the initial stop does not depend on whether a citation is ultimately issued.
+
+**Tags:** chapters: [6], topics: [prosecutors, fourth-amendment, pretextual-stops], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 6: whren-pretext-constitutional
+
+<!-- audit: MUST FIX
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: The stem lacks the facts necessary to answer the question. It refers generally to "the traffic stop" and the explanation mentions a "cracked taillight," but the stem itself contains no facts establishing what the traffic violation was or whether the officers actually had objective probable cause. The question appears to be orphaned from a larger master fact pattern.
+check 5: pass
+check 6: pass
+check 7: pass
+check 8: pass
+Recommended fix: Add a brief factual sentence to the beginning of the stem: "Police pull Silas over for driving with a cracked taillight. Silas files a motion to suppress..."
+-->

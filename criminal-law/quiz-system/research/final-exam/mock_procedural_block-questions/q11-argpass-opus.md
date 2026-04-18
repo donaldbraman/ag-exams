@@ -1,0 +1,33 @@
+**Q11.** The Special Counsel considers filing a civil rights lawsuit for damages under § 1983 against DA Miller for intentionally deleting the exculpatory wiretap recording. Will absolute prosecutorial immunity shield Miller from civil liability for this act?
+
+(a) Yes, because deleting evidence during trial preparation is a function intimately associated with the judicial phase of the criminal process. <!-- correct -->
+(b) Yes, because prosecutors enjoy absolute immunity for any conduct that violates state professional ethics rules during an active prosecution.
+(c) No, because the intentional destruction of exculpatory evidence constitutes administrative malfeasance rather than a protected prosecutorial function.
+(d) No, because absolute immunity only applies to statements made in open court, not to investigative or preparatory evidentiary misconduct.
+(e) No, because the suppression of evidence violates a clearly established constitutional right, automatically stripping the prosecutor of any immunity.
+
+**Answer:** (a)
+
+**Explanation:** Under *Imbler v. Pachtman* and applied in cases like *Price v. Montgomery County*, prosecutors possess absolute immunity from civil liability under § 1983 for conduct "intimately associated with the judicial phase of the criminal process." This immunity protects the prosecutorial function, even when that function is carried out through ethically reprehensible acts like suppressing or destroying evidence during trial preparation. (b) is wrong because immunity does not exist *because* of an ethics violation; it exists despite it, protecting the function. (c) is wrong because preparing for trial by reviewing (and even deleting) evidence is treated as a prosecutorial, not administrative, function. (d) is wrong because absolute immunity covers trial preparation, not just in-court statements. (e) is wrong because absolute immunity, unlike qualified immunity, applies even when clearly established rights are maliciously violated.
+
+**Tags:** chapters: [6], topics: [prosecutors, absolute-immunity], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 6: absolute-immunity-scope
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under *Imbler v. Pachtman*, prosecutors are absolutely immune from § 1983 damages for actions "intimately associated with the judicial phase of the criminal process." Courts have routinely held that evaluating, withholding, or even destroying evidence in preparation for trial falls within this prosecutorial function. Thus, although the act is highly unethical and illegal, it is shielded from civil liability.
+(b) Argument-for: A student could argue that professional ethics violations trigger an absolute immunity defense because the immunity doctrine was created precisely to prevent civil lawsuits from becoming a shadow disciplinary mechanism. Since the violation occurred "during an active prosecution," the prosecutor's conduct falls squarely within the protected timeframe. In this view, the ethical violation serves as the justification for applying absolute immunity rather than exposing the prosecutor to civil liability.
+(c) Argument-for: Under *Buckley v. Fitzsimmons* and *Burns v. Reed*, prosecutorial immunity only extends to advocacy functions, not administrative or investigative acts. A student could argue that physically destroying a tape is an administrative act of evidence mismanagement—analogous to a police officer destroying evidence—rather than a legal judgment or advocacy function. Therefore, the destruction of evidence is administrative malfeasance outside the scope of absolute immunity.
+(d) Argument-for: Absolute immunity is traditionally rooted in the immunity of judges and witnesses, protecting the integrity of the judicial process itself. A student could argue that *Imbler* was specifically about in-court statements and the presentation of testimony, meaning preparatory evidentiary misconduct occurring outside the courtroom doesn't share the same common-law pedigree. Therefore, absolute immunity would strictly apply only to statements made in open court.
+(e) Argument-for: Qualified immunity is stripped when a clearly established constitutional right is violated (e.g., a *Brady* violation). A student could conflate absolute and qualified immunity, arguing that the intentional, malicious destruction of exculpatory evidence is an egregious violation of clearly established due process rights. Under this logic, the severity and clarity of the constitutional violation automatically strip the prosecutor of any immunity, including absolute immunity.
+
+Head-to-head: Option (a) correctly applies the functional test from *Imbler v. Pachtman*, noting that evidence-related misconduct during trial preparation is shielded by absolute immunity. Option (b) fails because absolute immunity hinges on the nature of the function (advocacy), not the presence of an ethics violation. Option (c) falsely categorizes evidence destruction during trial preparation as an administrative act, contrary to established precedent treating it as a protected advocacy function. Option (d) relies on the explicit, falsifiable claim that absolute immunity "only" applies to statements made in open court, which ignores its application to out-of-court trial preparation. Option (e) conflates qualified and absolute immunity, falsely asserting that a clearly established right violation "automatically" strips a prosecutor of *any* immunity. All distractors contain strong, falsifiable errors of law.
+
+Falsifiable claim per distractor:
+- (b): "enjoy absolute immunity for any conduct that violates state professional ethics rules" — wrong because absolute immunity is based on the prosecutorial function (advocacy vs. investigation/administration), not categorically extended to "any conduct" that violates ethics rules.
+- (c): "constitutes administrative malfeasance rather than a protected prosecutorial function" — wrong because handling, suppressing, or destroying evidence in connection with trial preparation is legally categorized as a prosecutorial advocacy function under the *Imbler* functional test.
+- (d): "only applies to statements made in open court" — wrong because absolute immunity explicitly covers out-of-court trial preparation, including the evaluation and handling of evidence.
+- (e): "automatically stripping the prosecutor of any immunity" — wrong because absolute immunity, unlike qualified immunity, is not stripped merely because the official violated a clearly established constitutional right.
+
+Recommended fix: none
+-->

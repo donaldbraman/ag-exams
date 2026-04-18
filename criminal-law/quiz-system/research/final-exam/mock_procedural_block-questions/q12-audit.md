@@ -1,0 +1,27 @@
+**Q12.** Silas and Thorne are charged with conspiracy to obstruct justice based on their encrypted texts agreeing to use cartel funds. Is the explicit agreement sufficient to satisfy the core element of conspiracy?
+
+(a) Yes, because an explicit verbal or written agreement to commit an unlawful act automatically satisfies the overt act requirement in all modern jurisdictions.
+(b) Yes, because the explicit bilateral agreement to illegally obstruct the legal proceedings directly constitutes the required meeting of the minds for criminal conspiracy. <!-- correct -->
+(c) No, because the attorney-client privilege strictly and absolutely bars the state from charging a defense lawyer and their client with a joint criminal conspiracy.
+(d) No, because the conspiracy doctrine strictly requires the prosecution to prove that Thorne and Silas successfully completed the underlying obstruction of justice.
+(e) No, because a legally valid conspiracy charge requires the involvement of at least three participants when the target crime involves institutional corruption.
+
+**Answer:** (b)
+
+**Explanation:** The core element of conspiracy is an agreement between two or more persons to commit a criminal act. The explicit encrypted texts between Silas and Thorne to use cartel funds to obstruct proceedings demonstrate this bilateral agreement. (a) is wrong because while the agreement is the core element, many jurisdictions still require an independent "overt act" in furtherance of the conspiracy, which is distinct from the agreement itself. (c) is wrong because the attorney-client privilege does not protect communications made in furtherance of a crime or fraud. (d) is wrong because conspiracy is an inchoate offense that is complete upon agreement (and an overt act, if required), regardless of whether the target crime is successful. (e) is wrong because conspiracy only requires two participants.
+
+**Tags:** chapters: [19], topics: [conspiracy, agreement], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 19: bilateral-unilateral
+
+<!-- audit: SHOULD FIX
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: The stem fails to establish the relationship between Silas and Thorne. Because the stem does not state they are lawyer and client, option (c) can be easily eliminated purely on the facts rather than testing the legal boundary (the crime-fraud exception). 
+check 5: pass
+check 6: pass
+check 7: pass
+check 8: pass
+Recommended fix: Explicitly establish their roles in the stem (e.g., "Attorney Silas and his client Thorne...") so that option (c) functions as a credible, legally testable distractor rather than an out-of-left-field factual assumption.
+-->

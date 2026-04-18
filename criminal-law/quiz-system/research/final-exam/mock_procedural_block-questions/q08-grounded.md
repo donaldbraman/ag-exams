@@ -1,0 +1,17 @@
+**Q8.** During jury selection, Thorne objects to DA Miller striking all five Black prospective jurors. Miller states: "These jurors reside in neighborhoods with high drug-crime rates, making them inherently biased against police testimony." Under the *Batson* framework, how should the trial court evaluate Miller's strike?
+
+(a) The court must uphold the strike because residency in a high-crime neighborhood constitutes a per se valid, race-neutral justification under step two of *Batson*.
+(b) The court must uphold the strike because the defense fundamentally failed to prove a persistent pattern of discriminatory strikes across multiple unrelated trials.
+(c) The court must invalidate the strike because striking jurors based on neighborhood demographics frequently operates as an impermissible and unconstitutional proxy for race. <!-- correct -->
+(d) The court must invalidate the strike because prosecutors are strictly prohibited from using peremptory challenges in any felony trial involving minority defendants.
+(e) The court must invalidate the strike because the prosecutor failed to provide documentary evidence proving the jurors actually distrusted the police.
+
+**Answer:** (c)
+
+**Explanation:** Under the *Batson* framework, a prosecutor cannot use peremptory strikes to exclude jurors on account of race. While a prosecutor must offer a "race-neutral" reason at step two, courts often find that striking jurors based on residency in high-crime neighborhoods serves as an impermissible proxy for race, demonstrating discriminatory intent at step three. (a) is wrong because while it may be facially neutral, courts scrutinize such proxy justifications at step three to determine if they mask intentional discrimination. (b) is wrong because *Batson* allows a defendant to prove discrimination based solely on the facts of their own case. (d) is wrong because prosecutors retain peremptory challenges; they simply cannot use them discriminatorily. (e) is wrong because step two requires only a facial explanation, not documentary proof, though the proxy nature is evaluated at step three.
+
+**Tags:** chapters: [4], topics: [jury, batson-framework], difficulty: medium, cognitive: analysis
+
+**Grounding:** Chapter 4: batson-framework
+
+<!-- grounding: GROUNDED — Batson framework, Ch 4, Refinement `batson-framework`. Rule paraphrased accurately. -->
