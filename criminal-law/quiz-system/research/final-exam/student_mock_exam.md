@@ -1,6 +1,11 @@
 ---
 format:
   pdf:
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1.25in
+      - right=1.25in
     include-in-header:
       text: |
         \usepackage{enumitem}
