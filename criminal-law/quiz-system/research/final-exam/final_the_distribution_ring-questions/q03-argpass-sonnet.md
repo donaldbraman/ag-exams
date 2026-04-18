@@ -1,0 +1,33 @@
+**Q3.** Assume that, whether or not Darius's conduct satisfied the actus reus, he is convicted of attempted murder. How will his punishment for the attempt compare to the punishment he would have received had he successfully killed Vance?
+
+(a) Under the majority rule, his attempt will be graded equally to the completed offense because he acted with the specific intent to kill Vance, which demonstrates his heightened culpability.
+(b) Under the MPC, his attempt will be graded one degree lower than completed murder to reflect the lack of harm, whereas the common law routinely grades the attempt equally.
+(c) In most states, the attempt will be punished one grade below the completed offense, but under the MPC's general grading rule, attempts carry the same penalty as the completed crime. <!-- correct -->
+(d) He will face a mandatory life sentence under either approach because attempted murder is a structurally inchoate offense that cannot be reduced by the judge at the sentencing phase.
+(e) His punishment will be determined solely by the felony murder rule because the incomplete attempt involved the use of a deadly weapon during the commission of a dangerous felony.
+
+**Answer:** (c)
+
+**Explanation:** The correct answer is (c). Most states (majority rule) punish attempts one grade below the completed offense. The MPC's general rule grades attempts identically to the completed offense (with exceptions for capital/first-degree crimes). (a) is wrong because it misstates both rules; specific intent does not dictate equal grading under the majority rule. (b) reverses the rules, falsely attributing the grading reduction to the MPC. (d) is wrong because attempt is not a structurally inchoate offense like burglary, and judges retain sentencing discretion. (e) is wrong because felony murder attaches to resulting deaths, not incomplete attempts where no one dies.
+
+**Tags:** chapters: [17], topics: [attempt, grading, punishment], difficulty: easy, cognitive: recall
+
+**Grounding:** Chapter 17: grading-mpc-equal, grading-general-reduction
+
+<!-- argument-pass: MUST FIX
+(a) Argument-for: A student could argue that option (a) represents the correct underlying theory of modern attempt law as adopted by the majority. Because the actus reus and mens rea of an attempt demonstrate the same specific intent and moral culpability as the completed offense, modern penal theory suggests they should be punished equally. A student might assume that the "majority rule" has formally adopted this culpability-based approach. Furthermore, they could argue that for a severe crime like attempted murder, most states make no grading distinction.
+(b) Argument-for: A student could strongly defend option (b) by pointing out that under MPC § 5.05(1), attempt is generally graded equally *except* for capital crimes and first-degree felonies. Since completed murder is a first-degree felony under the MPC, attempted murder is graded as a second-degree felony—exactly "one degree lower," making the first half of (b) perfectly accurate. The student might then assume that the strict common law graded attempts equally to completed crimes, justifying the second half.
+(c) Argument-for: A student could argue that option (c) correctly identifies the standard pedagogical distinction between the majority rule and the MPC. In most states, attempts are graded one level below the completed offense to reflect the lack of resulting harm. Conversely, the MPC's *general* grading provision (MPC § 5.05) equalizes the punishment for inchoate and completed offenses, emphasizing the actor's culpability over the harm. This option provides the standard black-letter comparison taught in criminal law.
+(d) Argument-for: A student could argue that attempted murder is a uniquely severe inchoate offense that triggers mandatory sentencing schemes. They might interpret "structurally inchoate" to mean that the crime is fully complete upon the attempt itself, stripping judges of the discretion to depart downward from mandatory life sentences. Therefore, they could conclude that judicial reduction at sentencing is categorically prohibited.
+(e) Argument-for: A student could defend (e) by incorrectly importing the felony-murder rule into the attempt context. If Darius was committing a dangerous felony and used a deadly weapon, the student might believe that the "attempted felony murder" doctrine strictly controls. Under this theory, the strict liability mechanism of the felony-murder rule entirely determines the punishment, stripping away standard attempt grading rules.
+
+Head-to-head: Option (c) is the keyed answer and captures the general distinction between the majority reduction rule and the MPC's equal-grading rule. However, option (b) accurately reflects a major structural flaw in the question: under MPC § 5.05(1), attempted murder is an exception to the general equal-grading rule and is actually graded one degree lower (second-degree felony). Because the prompt specifically asks how *his* punishment compares, the implication in (c) that his attempt carries the same penalty under the MPC is legally incorrect for murder, while the MPC half of (b) is correct. The distractors (a), (b), (d), and (e) all contain explicit falsifiable errors in their second clauses or majority rules, but (c) must be edited to account for the first-degree felony exception under the MPC if the underlying crime is attempted murder.
+
+Falsifiable claim per distractor:
+- (a): "Under the majority rule, his attempt will be graded equally" — wrong because the majority of non-MPC jurisdictions grade attempts lower (typically one class or degree below) than the completed offense.
+- (b): "whereas the common law routinely grades the attempt equally" — wrong because at common law, attempts were generally punished as misdemeanors, significantly lower than completed felonies like murder.
+- (d): "He will face a mandatory life sentence under either approach" — wrong because attempt sentencing does not categorically carry mandatory life, and judges generally retain sentencing discretion.
+- (e): "determined solely by the felony murder rule" — wrong because felony murder requires a resulting death, and attempted felony murder is largely a conceptual impossibility unpunished by the strict liability of the felony-murder rule.
+
+Recommended fix: Change the underlying crime in the prompt from "attempted murder" to a lesser felony (e.g., "attempted robbery") so that the MPC's equal-grading rule applies without triggering the first-degree/capital exception under MPC § 5.05(1). Alternatively, change (c) to explicitly acknowledge the MPC exception for murder.
+-->

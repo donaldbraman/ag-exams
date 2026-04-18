@@ -13,3 +13,5 @@
 **Tags:** chapters: [18, 19], topics: [accomplice liability, actus reus, Pinkerton], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 18: ar-low-threshold; Chapter 19: pinkerton-doctrine
+
+<!-- grounding: GROUNDED — Accomplice Actus Reus / Pinkerton Liability, Ch 18 & 19, Refinements `ar-low-threshold` and `pinkerton-doctrine`. Rule paraphrased accurately. -->

@@ -13,3 +13,10 @@
 **Tags:** chapters: [17], topics: [attempt, actus reus, proximity test, substantial step test], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 17: actus-reus-proximity-test, actus-reus-substantial-step
+
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
+-->

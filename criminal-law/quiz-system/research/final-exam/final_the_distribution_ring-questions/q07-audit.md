@@ -13,3 +13,14 @@
 **Tags:** chapters: [12, 14], topics: [homicide, premeditation, felony murder], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 12: four-elements-common-law; Chapter 14: strict-liability-substitution
+
+<!-- audit: MUST FIX
+check 1: pass (assuming the missing facts support it)
+check 2: pass (conditional on missing facts)
+check 3: pass
+check 4: MUST FIX. The question stem is completely missing the underlying fact pattern. The options and explanation refer to a "conversation with Marcus," an underlying "robbery," a "stash house," and a prior agreement to "eliminate them," none of which are provided in the prompt. This is a detached vignette question.
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Insert the missing factual scenario into the question stem (detailing Silas and Marcus planning the robbery at the stash house, their agreement, and the confrontation) so students have the facts necessary to evaluate the options.
+-->

@@ -13,3 +13,14 @@
 **Tags:** chapters: [18], topics: [accomplice liability, advance knowledge, mens rea], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 18: mr-temporal-advance-knowledge
+
+<!-- audit: SHOULD FIX
+Check 1: pass
+Check 2: pass
+Check 3: The explanation references facts not present in the stem ("Trey only learned of the gun afterward," "after the shooting"). 
+Check 4: Fails. The stem lacks the post-raid facts that distractor (b) and the explanation rely on. Because the stem stops at Trey waiting in the car, students can eliminate (b) simply because it invents facts (Silas re-entering the car after a shooting, Trey driving away). This allows students to bypass the intended doctrinal test of *Rosemond*'s "meaningful opportunity to walk away" requirement.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Recommended fix: Add a sentence to the end of the stem: "Silas used a gun during the raid. Trey first saw the weapon when Silas ran back to the car after a shooting, but Trey chose to drive them away."
+-->

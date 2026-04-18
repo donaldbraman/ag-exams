@@ -13,3 +13,5 @@
 **Tags:** chapters: [20], topics: [RICO, enterprise, Boyle standard], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 20: boyle-three-part, predicate-acts-relatedness
+
+<!-- grounding: GROUNDED — Boyle standard for association-in-fact enterprise, Ch 20, Refinement `boyle-three-part`. Rule paraphrased accurately. -->

@@ -13,3 +13,10 @@
 **Tags:** chapters: [15], topics: [constructive possession, awareness and control], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 15: cp-awareness-control, cp-exclusive-control
+
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The prompt refers to "possessing the drugs inside," but Fact 10 explicitly establishes the substance was entirely baking soda. A defendant cannot be convicted of the completed crime of possessing a controlled substance if the substance is merely baking soda.
+2. Cross-Doctrine Clashes: Option (e) leverages the baking soda fact to argue that Marcus cannot have dominion or control over an "actual controlled substance." Because completed drug possession requires an actual controlled substance, (e) correctly points out a fatal defect to a completed possession conviction, making it a legally viable correct answer that clashes directly with the intended choice (c).
+3. Cross-Question Spoilers: The factual impossibility (baking soda) was introduced for Q12 to test attempt/impossibility. By referencing it here in Option (e), it ruins a question that is supposed to test constructive possession in a vacuum.
+Recommended fix: Change "possessing the drugs inside" to "possessing the powder inside" or "possessing the contents of the safe" in the prompt and in Option (c). Replace Option (e) entirely with a distractor focused on constructive possession (e.g., "Yes, because the safe was unmarked, meaning the prosecution cannot establish he knew the illicit nature of its contents.").
+-->

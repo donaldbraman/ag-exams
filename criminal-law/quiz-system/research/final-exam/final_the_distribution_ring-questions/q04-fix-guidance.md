@@ -1,3 +1,17 @@
+# Fix Guidance for q04
+
+The QA pipeline flagged this question. Rewrite `q04.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
+
+## Issue 1 — audit
+
+<!-- audit: MUST FIX -->
+
+**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+
+Error: Model returned empty or blocked response.
+
+## Issue 2 — edge-case
+
 **Q4.** Assume it is established that Marcus and Darius are members of the same Court Kings drug distribution conspiracy. Can Marcus be held vicariously liable for Darius's attempted murder of Vance?
 
 (a) Yes, under the Pinkerton doctrine, Marcus is liable if the attempted murder of Vance was a reasonably foreseeable consequence and committed in furtherance of their ongoing drug distribution conspiracy. <!-- correct -->
@@ -13,3 +27,10 @@
 **Tags:** chapters: [19], topics: [conspiracy, Pinkerton, vicarious liability], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 19: pinkerton-doctrine, pinkerton-mpc-rejection
+
+<!-- edge-case-audit: SHOULD FIX
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: Calling the event "Darius's attempted murder" in the prompt casually spoils Q2, which tests whether Darius's conduct actually met the actus reus for attempt under different jurisdictional tests. 
+Recommended fix: Change the prompt's phrasing from "Darius's attempted murder of Vance" to "Darius's actions against Vance" or "any attempt crime established by Darius's conduct" to preserve the mystery of Q2.
+-->

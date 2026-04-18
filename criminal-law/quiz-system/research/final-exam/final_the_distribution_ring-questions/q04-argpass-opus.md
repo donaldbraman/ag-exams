@@ -1,0 +1,33 @@
+**Q4.** Assume it is established that Marcus and Darius are members of the same Court Kings drug distribution conspiracy. Can Marcus be held vicariously liable for Darius's attempted murder of Vance?
+
+(a) Yes, under the Pinkerton doctrine, Marcus is liable if the attempted murder of Vance was a reasonably foreseeable consequence and committed in furtherance of their ongoing drug distribution conspiracy. <!-- correct -->
+(b) Yes, under the MPC, because conspiracy membership automatically establishes accomplice liability for any foreseeable violent acts committed by coconspirators in the same territory against rival gang members.
+(c) No, under the Pinkerton doctrine, because Marcus was not physically present in the vehicle and did not personally authorize or direct Darius to execute the specific hit on Vance.
+(d) No, under both approaches, because vicarious liability only attaches to completed substantive offenses, not to inchoate crimes like attempted murder where the target victim is unharmed.
+(e) Yes, under the traditional rule, but only if the prosecution proves that Marcus personally supplied the 9mm handgun that Darius used to hunt for Vance on Wednesday night.
+
+**Answer:** (a)
+
+**Explanation:** The correct answer is (a). Under Pinkerton, each conspirator is vicariously liable for the foreseeable substantive offenses of coconspirators committed in furtherance of the ongoing conspiracy, even if they did not personally participate. (b) is wrong because the MPC explicitly rejects Pinkerton liability. (c) is wrong because physical presence and personal authorization are precisely the requirements that Pinkerton dispenses with. (d) is wrong because attempt is a substantive offense that can trigger Pinkerton liability. (e) is wrong because supplying the weapon would be a basis for accomplice liability; Pinkerton does not require such direct facilitation.
+
+**Tags:** chapters: [19], topics: [conspiracy, Pinkerton, vicarious liability], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 19: pinkerton-doctrine, pinkerton-mpc-rejection
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: This is the exact formulation of the *Pinkerton* doctrine from the Supreme Court. A co-conspirator is vicariously liable for the substantive offenses committed by other members of the conspiracy if those offenses are in furtherance of the conspiracy and are a reasonably foreseeable consequence of the agreement. Attempted murder of a rival to protect drug territory is a classic foreseeable consequence of a violent drug conspiracy. Therefore, Marcus is liable without needing to have directly participated in or explicitly authorized the attempt.
+(b) Argument-for: A student might argue that under the Model Penal Code, violent acts within a specified territory are so legally intertwined with gang enterprise that the conspiracy agreement itself constitutes the requisite encouragement for accomplice liability. By agreeing to a drug distribution scheme that inherently relies on territorial violence, Marcus provided the necessary actus reus. Thus, conspiracy membership in this specific context "automatically establishes" liability for foreseeable territorial violence.
+(c) Argument-for: A student could contend that while *Pinkerton* allows for vicarious liability, it still requires a continuous chain of agency that is severed when a coconspirator commits an extreme specific-intent crime like attempted murder on an independent frolic. Because Marcus was not physically present and did not personally authorize the specific hit on Vance, the act falls outside the scope of the conspiracy. Under this view, *Pinkerton* cannot stretch to cover unauthorized, unchaperoned attempted murders.
+(d) Argument-for: A student could argue that vicarious liability is strictly designed to punish completed harms that result from the conspiracy, not secondary inchoate offenses. Because attempted murder is itself an inchoate crime where the ultimate target offense (murder) remains uncompleted and the victim is unharmed, stacking vicarious liability onto an attempt stretches the doctrine too far. Thus, under both common law and the MPC, liability is cut off before attaching to incomplete offenses.
+(e) Argument-for: A student might interpret the "traditional rule" as strict common-law accomplice liability prior to or outside of the *Pinkerton* expansion. Under strict accomplice liability principles, mere conspiracy membership is insufficient; actual aid or encouragement is required. Therefore, Marcus can only be held liable for Darius's attempted murder if he provided tangible assistance, making the specific condition that he "personally supplied the 9mm handgun" the sole valid trigger for liability.
+
+Head-to-head: Option (a) accurately states the two-pronged test for *Pinkerton* liability (in furtherance + reasonably foreseeable). The distractors all employ strong, falsifiable legal misstatements. Option (b) fails because the MPC explicitly rejects the doctrine that conspiracy membership automatically establishes accomplice liability. Option (c) states that *Pinkerton* requires physical presence or personal authorization, which contradicts the fundamental purpose of the doctrine. Option (d) categorically claims vicarious liability cannot attach to inchoate crimes like attempt, which is false—attempt is a distinct substantive offense. Option (e) uses "only if" to restrict liability strictly to physical facilitation (supplying the handgun), thereby legally denying the existence of the *Pinkerton* doctrine altogether.
+
+Falsifiable claim per distractor:
+- (b): "automatically establishes accomplice liability" — wrong because the MPC explicitly rejects *Pinkerton* and requires actual aid, agreement to aid, or solicitation (MPC 2.06) rather than automatic liability based solely on conspiracy membership.
+- (c): "because Marcus was not physically present... and did not personally authorize" — wrong because the *Pinkerton* doctrine expressly allows for conviction without the defendant's physical presence or personal authorization.
+- (d): "only attaches to completed substantive offenses, not to inchoate crimes like attempted murder" — wrong because an attempt is a completed substantive offense in its own right, and *Pinkerton* liability can attach to it.
+- (e): "only if the prosecution proves that Marcus personally supplied the 9mm handgun" — wrong because the "only if" logically excludes *Pinkerton* liability, which does not require the defendant to personally supply weapons or otherwise directly facilitate the crime.
+
+Recommended fix: none
+-->

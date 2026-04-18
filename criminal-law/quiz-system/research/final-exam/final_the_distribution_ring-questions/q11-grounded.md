@@ -13,3 +13,5 @@
 **Tags:** chapters: [17], topics: [attempt, impossibility, traditional common law, MPC], difficulty: hard, cognitive: application
 
 **Grounding:** Chapter 17: impossibility-traditional, impossibility-mpc
+
+<!-- grounding: GROUNDED — Impossibility, Ch 17, Refinements `impossibility-traditional` and `impossibility-mpc`. Rule paraphrased accurately. -->

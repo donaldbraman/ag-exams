@@ -13,3 +13,5 @@
 **Tags:** chapters: [22], topics: [self-defense, initial aggressor, imperfect self-defense], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 22: initial-aggressor-bar
+
+<!-- grounding: GROUNDED — initial aggressor bar, Ch 22, Refinement `initial-aggressor-bar`. Rule paraphrased accurately. -->

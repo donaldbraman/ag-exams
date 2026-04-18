@@ -13,3 +13,14 @@
 **Tags:** chapters: [17], topics: [attempt, grading, punishment], difficulty: easy, cognitive: recall
 
 **Grounding:** Chapter 17: grading-mpc-equal, grading-general-reduction
+
+<!-- audit: MUST FIX
+Check 1: Fails. The marked answer (c) relies on the MPC's general equal-grading rule to imply that Darius's attempted murder would carry the same penalty as completed murder. However, under MPC § 5.05(1), there is an explicit exception: attempts to commit a capital crime or first-degree felony (like murder) are downgraded to a second-degree felony. Therefore, under the MPC, Darius's punishment for attempted murder *would* be one grade lower than completed murder. 
+Check 2: Pass. No distractor is entirely correct (option b gets the MPC result for Darius right but misstates the common law), but the correct answer is substantively non-responsive/misleading as applied to the specific crime in the prompt.
+Check 3: Fails. The explanation explicitly notes the MPC exception for "capital/first-degree crimes" but fails to recognize that the prompt's crime (murder) is a first-degree crime that triggers this exact exception.
+Check 4: Pass.
+Check 5: Pass.
+Check 6: Pass.
+Check 7: Pass.
+Recommended fix: Change the target offense in the prompt from "attempted murder" to a lesser felony (e.g., "attempted theft" or "attempted burglary") so that the MPC's general equal-grading rule actually applies to Darius without triggering the first-degree felony exception. Alternatively, rewrite the options to correctly acknowledge that both the majority rule and the MPC would grade *this specific attempt* (murder) lower than the completed crime.
+-->

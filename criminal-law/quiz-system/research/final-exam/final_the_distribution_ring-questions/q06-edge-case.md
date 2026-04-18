@@ -13,3 +13,10 @@
 **Tags:** chapters: [18], topics: [accomplice liability, natural and probable consequences, SB 1437], difficulty: hard, cognitive: application
 
 **Grounding:** Chapter 18: npc-traditional-rule, npc-reform-sb1437
+
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass. (Trey's later duress when forced to drive away at gunpoint does not retroactively negate his voluntary participation as an accomplice to the underlying robbery).
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: N/A
+-->
