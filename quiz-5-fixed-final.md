@@ -437,21 +437,21 @@ Your supervisor hands you the case file for *State v. Immanuel Kant*. Kant is ch
 
 ---
 
-**Q17.** Assume that, rather than experiencing a psychotic delusion, Kant is charged with attempted murder after stabbing Officer Hand because he genuinely but unreasonably mistook Hand's radio for a drawn firearm and believed Hand was about to unlawfully shoot him. Evaluate Kant's eligibility for imperfect self-defense in California under *People v. Schuller* and in New York.
+**Q17.** Assume that, rather than experiencing a psychotic delusion, Kant is charged with attempted murder after stabbing Officer Hand because he genuinely but unreasonably mistook Hand's radio for a drawn firearm and believed Hand was about to unlawfully shoot him. Evaluate Kant's eligibility for imperfect self-defense under the California approach (which recognizes that a genuinely held but unreasonable belief negates malice) versus the traditional New York approach (which treats self-defense as an all-or-nothing justification and rejects imperfect self-defense).
 
-(a) Imperfect self-defense is available in California because Kant's genuine belief in the need for self-defense suffices under *Schuller* to negate malice; it is unavailable in New York, which categorically rejects the doctrine. <!-- correct -->
+(a) Under the California approach, Kant is eligible for imperfect self-defense because his genuine belief in the need for self-defense negates malice; under the New York approach, his claim fails entirely because his unreasonable mistake of fact defeats the justification. <!-- correct -->
 
-(b) Imperfect self-defense is unavailable in California because a belief based on an objectively unreasonable mistake of fact cannot negate malice; it is likewise unavailable in New York, which categorically rejects the doctrine.
+(b) Under the California approach, Kant is ineligible because a belief based on an objectively unreasonable mistake of fact cannot negate malice; under the New York approach, his claim fails entirely because the state treats self-defense as all-or-nothing.
 
-(c) Imperfect self-defense is available in both California and New York, because both jurisdictions recognize that a genuinely held but unreasonable defensive belief negates malice.
+(c) Under both approaches, Kant is eligible for imperfect self-defense because both recognize that any genuinely held defensive belief, even if based on an unreasonable mistake, negates the specific intent required for attempted murder.
 
-(d) Imperfect self-defense mitigates the charge to attempted criminally negligent homicide in California; in New York, it serves as a complete justification.
+(d) Under the California approach, imperfect self-defense mitigates the charge to attempted criminally negligent homicide; under the New York approach, his genuine belief serves as a complete justification despite its unreasonableness.
 
-(e) The Supreme Court's decision in *Kahler v. Kansas* requires every state to recognize imperfect self-defense, preempting New York's rejection of the doctrine.
+(e) The Supreme Court's decision in *Kahler v. Kansas* requires every state to recognize imperfect self-defense, meaning both the California and New York approaches are constitutionally required to mitigate Kant's charge.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because, under California law (*People v. Schuller*), a genuinely held but objectively unreasonable belief in the need for self-defense negates malice and mitigates attempted murder to attempted voluntary manslaughter. New York categorically rejects the imperfect self-defense doctrine. (b) misstates California law, which explicitly allows an unreasonable but genuine mistake of fact to support imperfect self-defense. (c) misstates New York law, which rejects the doctrine. (d) misidentifies the doctrine's effect in California (it mitigates to attempted voluntary manslaughter, not attempted criminally negligent homicide) and misstates New York law. (e) misreads *Kahler v. Kansas*, which held that due process imposes no specific baseline for mental-state defenses and does not mandate imperfect self-defense.
+**Explanation:** (a) is correct because under California law, a genuinely held but objectively unreasonable belief in the need for self-defense negates malice and mitigates attempted murder to attempted voluntary manslaughter. Under the traditional New York approach, an unreasonable belief defeats self-defense entirely, resulting in no mitigation or justification. (b) misapplies the provided California rule, which explicitly allows an unreasonable but genuine mistake of fact to negate malice. (c) misapplies the provided New York rule, which rejects the doctrine. (d) misidentifies the grading effect in California (it mitigates to attempted voluntary manslaughter, not criminally negligent homicide) and misapplies the New York rule. (e) misreads *Kahler v. Kansas*, which held that due process imposes no specific baseline for mental-state defenses and does not mandate imperfect self-defense.
 
 **Tags:** chapters: [22, 23], topics: [imperfect-self-defense, Schuller-genuineness, jurisdictional-variation, Kahler], difficulty: hard, cognitive: analysis
 
