@@ -1,17 +1,16 @@
-**Q7.** Assume that, regardless of the causation issue regarding his dual diagnoses, Leo's insanity defense relies on his schizophrenic hallucination that he was commanded by God to smite a demon. Under the M'Naghten test, how does Leo's delusion affect his criminal responsibility?
+**Q7.** Assume Marcus is charged with attempted arson for loading the accelerant into the car two miles away from the warehouse. How would this conduct be evaluated under the MPC versus the traditional common law?
 
-(a) He is excused, because his psychotic delusion that God commanded the killing prevented him from knowing that the act of shooting the watchman was wrong. <!-- correct -->
-(b) He is excused, because he was entirely unable to appreciate the basic nature and physical quality of the mechanical act of pulling the firearm's trigger.
-(c) He is liable, because he still possessed the general criminal intent to use physical force against the figure he erroneously perceived as a demonic entity.
-(d) He is liable, because the rigid M'Naghten test only excuses defendants who are completely incapable of any voluntary physical movement at the time of the crime.
-(e) He is liable, because the M'Naghten framework completely lacks a wrongness prong and focuses exclusively on the defendant's volitional control over their criminal conduct.
+(a) Guilty under the MPC because loading the accelerant is a substantial step strongly corroborative of the criminal purpose, but likely not guilty under the common law proximity test. <!-- correct -->
+(b) Guilty under both tests because gathering materials inevitably demonstrates the specific intent to commit the target offense regardless of the geographic distance to the target.
+(c) Not guilty under the MPC because the defendants had not yet arrived at the warehouse, meaning their actions were mere preparation rather than a substantial step.
+(d) Not guilty under the common law because the physical act of loading accelerant into a vehicle completely fails to satisfy the requirement of specific intent.
+(e) Not guilty under either test because they were two miles away, which means they had not yet reached the dangerous proximity required by all attempt standards.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because under the second prong of the M'Naghten test, a defendant is excused if, due to a severe mental disease, they did not know the act was wrong. Leo's psychotic delusion that God commanded him to smite a demon negates his ability to understand the moral wrongness of the killing. (b) is wrong because Leo understood the physical nature and quality of his act (shooting), meaning the first M'Naghten prong does not apply. (c) is wrong because possessing general intent does not defeat an insanity defense if the required cognitive incapacity regarding wrongfulness is proven. (d) is wrong because the M'Naghten test focuses on cognitive incapacity, not a total inability to move physically. (e) is wrong because the M'Naghten test explicitly contains a wrongness prong and lacks any volitional component.
+**Explanation:** (a) is correct. The Model Penal Code uses the "substantial step" test, which reaches far back into the preparation timeline to find attempt liability. Gathering and loading specialized materials like accelerant is explicitly recognized as a substantial step strongly corroborative of criminal purpose. The traditional common law, however, uses the "dangerous proximity" test, which typically requires the defendant to be physically proximate to the target and on the verge of completing the crime. Being two miles away in a parking lot likely fails the common law test. (b) is wrong because the common law strictly requires dangerous proximity, not just specific intent and material gathering. (c) is wrong because the MPC was designed precisely to eliminate the requirement of arriving at the final crime scene. (d) is wrong because the physical act goes to the actus reus element, not the mens rea of specific intent. (e) is wrong because the MPC explicitly rejected the traditional dangerous proximity requirement.
 
-**Tags:** chapters: [23], topics: [insanity defense, M'Naghten test], difficulty: easy, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, substantial step, proximity test], difficulty: medium, cognitive: application
+**Grounding:** Chapter 17, MPC Substantial Step vs. Common Law Proximity
 
-**Grounding:** Chapter 23 (The Insanity Defense: The Cognitive Prong / M'Naghten's Case)
-
-<!-- grounding: GROUNDED — M'Naghten wrongness, Ch 23, Refinement `mnaghten-wrongness`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — MPC Substantial Step vs. Common Law Proximity, Ch 17, Refinement `actus-reus-substantial-step` and `actus-reus-proximity-test`. Rule paraphrased accurately. -->

@@ -1,17 +1,16 @@
-**Q8.** Assume that Marcus and Leo are both charged with constructive possession of the lockbox containing the fentanyl. Who has constructive possession of the fentanyl?
+**Q8.** Assume that, whether or not Marcus satisfies the elements of attempted arson, he raises the defense of voluntary abandonment because he ran away after hearing the police sirens. Will the defense succeed?
 
-(a) Both Marcus and Leo, because the lockbox was located in the shared passenger compartment and was clearly visible to all current occupants of the vehicle.
-(b) Marcus only, because holding the unique key establishes his exclusive power and intention to control the hidden contents of the secured steel lockbox. <!-- correct -->
-(c) Leo only, because his position in the front passenger seat provided him with the most direct line of sight to the contraband container.
-(d) Neither Marcus nor Leo, because the drugs were secured inside a locked container and thus not in the immediate physical grasp of either defendant.
-(e) Neither Marcus nor Leo, because constructive possession requires the illegal drugs to be completely hidden from plain view to demonstrate an active intent to conceal.
+(a) The defense fails because abandoning a crime due to the fear of immediate police apprehension is motivated by unexpected resistance, not a genuine change of heart. <!-- correct -->
+(b) The defense fails because the doctrine of voluntary abandonment is completely unrecognized in any jurisdiction that has adopted the Model Penal Code framework.
+(c) The defense succeeds because Marcus subjectively believed that continuing the crime was impossible once he heard the sirens approaching the immediate area.
+(d) The defense succeeds because running away fully physically prevented the completion of the target offense before any substantial harm could actually occur.
+(e) The defense succeeds because Marcus completely severed his ties with the conspiracy prior to arriving at the target location and deploying the accelerants.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** (b) is correct because constructive possession requires both the power and intention to exercise control over an item. By possessing the only key to the locked steel box, Marcus demonstrated exclusive power and intent to control its contents. (a) is wrong because mere proximity to or visibility of a locked container in a shared space does not establish the required power to control its contents for a passenger. (c) is wrong because Leo's direct line of sight does not equate to access or the intention to control the locked drugs. (d) is wrong because physical grasp is required only for actual possession; constructive possession specifically covers secured items within one's control. (e) is wrong because constructive possession does not require the contraband to be hidden; it only requires dominion and control.
+**Explanation:** (a) is correct. The defense of voluntary abandonment (or renunciation) requires a complete and voluntary renunciation of criminal purpose, representing a genuine change of heart. The defense is statutorily defeated if the abandonment is motivated in whole or in part by circumstances that increase the probability of detection or apprehension—such as hearing police sirens. (b) is wrong because the MPC explicitly recognizes and codified the voluntary abandonment defense. (c) is wrong because if the abandonment is motivated by a perceived impossibility or heightened risk of arrest, it is legally defined as involuntary. (d) is wrong because the defense evaluates the psychological voluntariness of the withdrawal, not merely whether the defendant physically succeeded in preventing the target harm. (e) is wrong because severing ties due to the immediate threat of police capture does not qualify as the legally voluntary, internally motivated change of heart required by the doctrine.
 
-**Tags:** chapters: [15], topics: [possession, constructive possession], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [voluntary abandonment], difficulty: medium, cognitive: application
+**Grounding:** Chapter 17, Voluntary Abandonment Doctrine
 
-**Grounding:** Chapter 15 (Drugs and Guns: Constructive Possession)
-
-<!-- grounding: GROUNDED — Constructive Possession, Ch 15, Refinement `cp-exclusive-control`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Voluntary Abandonment, Ch 17, Refinement `abandonment-mpc`. Rule paraphrased accurately. -->

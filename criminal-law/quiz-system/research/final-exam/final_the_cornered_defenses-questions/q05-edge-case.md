@@ -1,22 +1,21 @@
-**Q5.** Assume that, regardless of the outcome of any other charges, Marcus is charged with felony murder for the death of the night watchman. Can Marcus raise a duress defense against the felony murder charge?
+**Q5.** Marcus intends to raise a duress defense based on Vance's threats in the alley. How does Vance's status as a police commander impact Marcus's ability to satisfy the elements of duress?
 
-(a) Yes, because a defendant who is coerced into committing a predicate felony may raise duress as a defense against a resulting felony murder charge.
-(b) Yes, because the Model Penal Code framework universally permits the duress defense for all forms of homicide, regardless of the underlying felony circumstances.
-(c) No, because the traditional common law rule categorically bars the use of a duress defense for any form of homicide, including felony murder.
-(d) No, because Marcus's active recruitment of Leo constituted an independent intervening cause that entirely severed the necessary chain of proximate felony murder liability.
-(e) No, because felony murder is treated as a strict liability offense that explicitly precludes the assertion of any affirmative justifications or personal excuses.
+(a) Marcus's defense may succeed because a jury could find that seeking police protection is not a reasonable legal alternative when the threat comes from a corrupt commander. <!-- correct -->
+(b) Marcus's defense may succeed because the Model Penal Code entirely eliminates the imminence requirement and the need to exhaust legal alternatives for duress.
+(c) Marcus's defense will fail because the strict common law standard categorically bars duress claims whenever the threatened harm is directed at family members.
+(d) Marcus's defense will fail because the threat of a midnight execution constitutes a future harm that universally defeats the traditional strict imminence requirement.
+(e) Marcus's defense will fail because the theoretical availability of calling 911 automatically negates the requirement that the defendant lacked reasonable legal alternatives.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because several jurisdictions recognize a felony-murder duress exception (e.g., *People v. Reichard*), allowing a defendant to raise duress against a felony murder charge if the underlying predicate felony was committed under duress. Since Marcus was coerced into the arson and did not intentionally choose to kill, the rationale for the traditional murder bar collapses. (b) is wrong because the Model Penal Code permits the defense, but its framework is not universal. (c) is wrong because the traditional common law murder bar does not automatically extend to felony murder in jurisdictions recognizing this specific exception. (d) is wrong because recruiting an accomplice does not sever proximate causation for reasonably foreseeable acts committed during the felony. (e) is wrong because felony murder is not strictly immune from all affirmative defenses, specifically when the predicate itself is excused.
+**Explanation:** (a) is correct. A core element of duress is that the defendant lacked a reasonable legal alternative. In cases like *United States v. Contento-Pachon*, courts recognize that when the source of the threat involves corrupt authorities, a jury may reasonably conclude that reporting the crime to the police was futile or dangerous, satisfying this element. (b) is wrong because while the MPC relaxes imminence, it still requires that no reasonable legal alternative existed. (c) is wrong because the common law specifically allows duress defenses when the threat is directed at the defendant or a close relative. (d) is wrong because Vance shoved a loaded gun into Marcus's chest during the confrontation, presenting a present, immediate, and physically proximate threat that satisfies imminence regardless of the secondary midnight ultimatum. (e) is wrong because the availability of 911 does not automatically defeat the defense if an objective person would believe the police force itself was compromised.
 
-**Tags:** chapters: [14, 21], topics: [felony murder, duress exception], difficulty: hard, cognitive: application
+**Tags:** chapters: [21], topics: [duress, imminence, corrupt authorities], difficulty: hard, cognitive: analysis
+**Grounding:** Chapter 21, United States v. Contento-Pachon
 
-**Grounding:** Chapter 21 (Duress: Felony Murder Exception / People v. Reichard)
-
-<!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass (the facts regarding Marcus being unarmed and unaware of the gun perfectly establish his lack of homicidal intent, supporting the rationale for the Reichard exception without breaking the specific question asked).
-2. Cross-Doctrine Clashes: pass
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The explanation for (d) is doctrinally flawed. It claims that a gun shoved into Marcus's chest during the *demand* satisfies imminence for the *crime committed hours later*. Under traditional strict duress doctrine, the threat must be present and impending *at the exact time the crime is committed*. Since Vance isn't holding a gun to Marcus when Marcus attempts the arson, the explanation relies on false legal reasoning. 
+2. Cross-Doctrine Clashes: The Voluntary Exposure / Reckless Placement Exception. Fact 1 establishes Marcus is the "enforcer" for a violent, highly structured criminal syndicate. Under both common law and the MPC, the duress defense is categorically barred for defendants who voluntarily join criminal enterprises and place themselves in situations where duress is probable. Because of this, option (a)'s phrasing "Marcus's defense may succeed" is legally problematic; it will likely be barred entirely as a matter of law.
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+Recommended fix: Modify option (a) to read: "(a) Marcus may satisfy the 'no reasonable alternative' element because..." (removing the claim that the overall defense may succeed). Modify the explanation for (d) to state that the word "universally" makes it false, since modern courts (like in *Contento-Pachon*) and the MPC relax strict imminence requirements when corrupt authorities make escape impossible, rather than claiming a past gun-to-the-chest creates present imminence.
 -->

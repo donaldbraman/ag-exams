@@ -4,29 +4,32 @@ The QA pipeline flagged this question. Rewrite `q09.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q9.** Assume Marcus is established as the possessor of the fentanyl. Can he be convicted of possession with intent to distribute?
+<!-- audit: MUST FIX -->
 
-(a) Guilty, because the massive quantity of 2 kilograms and the division into 100 baggies permit a jury to infer an intent to sell rather than personal use. <!-- correct -->
-(b) Not guilty, because the prosecution cannot legally prove intent to distribute without direct evidence of an actual financial transaction, a ledger, or an undercover sting operation.
-(c) Guilty, because possessing any detectable amount of fentanyl automatically constitutes distribution under modern strict liability public welfare statutes governing highly dangerous synthetic chemical substances.
-(d) Not guilty, because the packaged drugs were found locked away rather than on his physical person, which legally negates an active present intent to immediately distribute.
-(e) Guilty, because fentanyl is a closely regulated narcotic and the law strictly presumes that any individual possessing a Schedule I substance intends to distribute it.
+**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+
+Error: Model returned empty or blocked response.
+
+## Issue 2 — edge-case
+
+**Q9.** Assume that, whether or not Marcus abandoned the attempt, the prosecution seeks to hold him derivatively liable for Leo shooting the watchman. Is Marcus guilty of homicide under the *Pinkerton* doctrine?
+
+(a) Not guilty, because a homicide driven entirely by a sudden, severe psychotic hallucination is a completely unforeseeable departure from the scope of the arson conspiracy. <!-- correct -->
+(b) Not guilty, because Pinkerton liability strictly requires the prosecution to prove that the defendant explicitly commanded the co-conspirator to commit the collateral offense.
+(c) Guilty, because any felony offense committed by a co-conspirator during the active lifespan of the agreement is automatically imputed to all participating members.
+(d) Guilty, because Leo's decision to discharge a firearm directly satisfies the overt act requirement necessary to complete the underlying conspiracy to commit arson.
+(e) Guilty, because the Model Penal Code framework universally applies Pinkerton liability for any collateral crimes committed by associates acting within a criminal enterprise.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. Intent to distribute can be inferred circumstantially from the massive quantity of drugs (2 kilograms) and their specific packaging (100 baggies), which strongly suggest commercial sale rather than personal consumption. (b) is wrong because circumstantial evidence of quantity and packaging is legally sufficient to prove intent without a direct transaction. (c) is wrong because possession with intent to distribute requires specific intent (mens rea); it is not a strict liability offense. (d) is wrong because constructive possession of packaged narcotics is sufficient; they do not need to be on the physical person. (e) is wrong because while Schedule I classification reflects high danger, the law requires proof of specific intent to distribute, not a strict presumption based on the schedule alone.
+**Explanation:** (a) is correct. Under the *Pinkerton* doctrine, a conspirator is derivatively liable for the substantive crimes of co-conspirators only if those crimes are reasonably foreseeable and committed in furtherance of the conspiracy. While shooting a guard to protect an arson plot might sometimes be foreseeable, a homicide driven entirely by a severe psychotic break involving a hallucinated "monster from hell" represents a highly extraordinary, unforeseeable departure from the scope of the agreement. (b) is wrong because *Pinkerton* liability specifically exists to hold conspirators liable for uncommanded collateral offenses. (c) is wrong because *Pinkerton* does not impose automatic strict liability; the collateral act must still be reasonably foreseeable. (d) is wrong because an unforeseeable hallucination-driven murder is an independent act, not a legal overt act designed to further the arson. (e) is wrong because the Model Penal Code explicitly rejected the *Pinkerton* doctrine's expansion of derivative liability.
 
-**Tags:** chapters: [15], topics: [possession-with-intent-to-distribute], difficulty: easy, cognitive: application
+**Tags:** chapters: [19], topics: [Pinkerton liability, foreseeability], difficulty: hard, cognitive: analysis
+**Grounding:** Chapter 19, Pinkerton v. United States
 
-**Grounding:** Chapter 15; inferring intent to distribute from quantity and packaging
-
-<!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: The stem lacks necessary facts. It refers to "the fentanyl" but completely fails to state the quantity, the packaging, or where it was found. Options (a) and (d) introduce these critical facts (2 kilograms, 100 baggies, locked away) for the first time. A student cannot logically choose an answer when the required factual scenario is missing from the stem.
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Move the operative facts into the question stem: "Police discover 2 kilograms of fentanyl divided into 100 baggies locked in a safe. Assume Marcus is established as the possessor of the fentanyl. Can he be convicted of possession with intent to distribute?"
+<!-- edge-case-audit: SHOULD FIX
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: Q12 tests co-occurring causation based on Fact 7, which explicitly notes prosecutors argued Leo's Antisocial Personality Disorder (APD) contributed to the violence. Because the facts set up a mixed-causation scenario to be tested in Q12, describing the homicide as "driven entirely by" a psychotic hallucination in Q9's correct Option (a) creates an unintended factual clash. A highly attentive student might eliminate (a) as a distractor for falsely claiming the hallucination was the "entire" cause.
+Recommended fix: Remove "entirely" from Option (a) and the explanation. Change to: "Not guilty, because a homicide driven by a sudden, severe psychotic hallucination is a completely unforeseeable departure..."
 -->

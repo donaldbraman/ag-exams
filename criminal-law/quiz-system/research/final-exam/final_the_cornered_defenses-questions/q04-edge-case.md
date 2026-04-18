@@ -1,22 +1,21 @@
-**Q4.** Assume that Marcus successfully establishes a duress defense for committing the arson. What is the legal effect of Marcus's successful defense on Leo's derivative liability as an accomplice?
+**Q4.** Assume Marcus's conduct is completely excused by the defense of duress. Can Dexter claim Marcus's duress defense to shield himself from accomplice liability?
 
-(a) Leo is shielded from liability, because Marcus's successful duress defense operates as a complete justification that automatically extends to protect all involved accomplices.
-(b) Leo is shielded from liability, because the criminal act of arson itself is legally nullified when the principal actor is operating under extreme duress.
-(c) Leo remains subject to liability, because Marcus's duress is a personal excuse that does not justify the arson or legally protect third parties who assist. <!-- correct -->
-(d) Leo remains subject to liability, because accomplice liability is an absolute strict liability offense that never depends on the principal's underlying mental state.
-(e) Leo is guilty of a higher offense, because exploiting an excused principal automatically elevates the secondary accomplice's level of criminal culpability and required punishment.
+(a) Dexter has no defense because duress is merely an excuse that operates personally for Marcus, rather than a justification that renders the act lawful. <!-- correct -->
+(b) Dexter has no defense because accomplice liability under the common law ignores the principal's mental state and focuses only on the helper's actions.
+(c) Dexter has a defense because duress is a justification that makes the underlying act legally correct, shielding any knowing accomplices from derivative liability.
+(d) Dexter has a defense because an accomplice cannot be convicted if the primary principal offender is acquitted based on any affirmative defense.
+(e) Dexter has a defense because the defense of necessity applies automatically to secondary actors whenever the principal faces an imminent threat of death.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct because duress is an excuse, not a justification. An excuse removes personal moral blame from the coerced actor (Marcus) but does not make the underlying act (arson) lawful or "right." Therefore, an unexcused accomplice (Leo) cannot derive protection from the principal's personal defense. (a) is wrong because duress does not operate as a justification and does not extend to accomplices. (b) is wrong because excused criminal acts are not legally nullified; they remain wrongful. (d) is wrong because accomplice liability requires a wrongful act by the principal, making the justification/excuse distinction highly relevant. (e) is wrong because exploiting an excused principal satisfies the elements for accomplice liability, but does not automatically elevate the grade of the offense absent specific statutory enhancements.
+**Explanation:** (a) is correct. The distinction between a justification and an excuse is foundational to derivative liability. A justification (like self-defense) establishes that the act itself was legally correct, shielding any secondary actors who assist. An excuse (like duress or insanity) concedes the act was wrongful but forgives the principal actor due to personal circumstances. Because duress is a personal excuse, the wrongful act remains illegal, and an unexcused accomplice like Dexter can still be convicted. (b) is wrong because accomplice liability requires analyzing both the principal's conduct and the accomplice's mens rea. (c) is wrong because it incorrectly classifies duress as a justification rather than an excuse. (d) is wrong because modern accomplice liability permits the conviction of an accomplice even if the principal is excused or acquitted. (e) is wrong because necessity evaluates a choice of evils, not human coercion, and does not automatically extend to unthreatened secondary actors.
 
-**Tags:** chapters: [18, 21], topics: [accomplice liability, justification vs excuse, duress], difficulty: hard, cognitive: application
+**Tags:** chapters: [18, 21], topics: [accomplice liability, justification vs excuse], difficulty: medium, cognitive: application
+**Grounding:** Chapter 21, Justification vs. Excuse framework; Chapter 18, Accomplice Liability
 
-**Grounding:** Chapter 21 (Justification vs. Excuse framework)
-
-<!-- edge-case-audit: CLEAN
+<!-- edge-case-audit: SHOULD FIX
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+2. Cross-Doctrine Clashes: Dexter's liability as an accomplice is heavily dependent on the mens rea of purpose vs. knowledge (since he is merely a supplier). Stating absolutely that "Dexter has no defense" in Option A ignores that he may have a perfectly valid mens rea defense.
+3. Cross-Question Spoilers: Q6 explicitly tests Dexter's purpose vs. knowledge for this exact transaction. Stating "Dexter has no defense" here in Q4 forces a conclusion on his liability that spoils/complicates Q6, potentially confusing students who correctly spot the *Lauria* mens rea issue.
+Recommended fix: Change the beginning of the options to directly answer the prompt's Yes/No question. For example, change (a) to "No, because duress is merely an excuse..." and (c) to "Yes, because duress is a justification..."
 -->

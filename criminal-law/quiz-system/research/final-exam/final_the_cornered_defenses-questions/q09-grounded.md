@@ -1,17 +1,16 @@
-**Q9.** Assume that Marcus is proven to be in exclusive possession of the locked steel box containing 2 kilograms of fentanyl packaged in 100 baggies. Can Marcus be charged with possession with intent to distribute based on these facts?
+**Q9.** Assume that, whether or not Marcus abandoned the attempt, the prosecution seeks to hold him derivatively liable for Leo shooting the watchman. Is Marcus guilty of homicide under the *Pinkerton* doctrine?
 
-(a) Yes, because the substantial bulk quantity and specific individual packaging of the fentanyl permit a strong factual inference of an active intent to distribute. <!-- correct -->
-(b) Yes, because any physical possession of a heavily regulated Schedule I narcotic is automatically classified under federal law as possession with intent to distribute.
-(c) No, because the prosecution must present direct observational evidence of an actual sale or financial transaction to legally prove an intent to distribute.
-(d) No, because the drugs were securely locked away in a box, which conclusively negates any immediate intent to transfer them to another individual.
-(e) No, because the total quantity of two kilograms is widely and universally recognized by courts as an amount strictly consistent with personal medical use.
+(a) Not guilty, because a homicide driven entirely by a sudden, severe psychotic hallucination is a completely unforeseeable departure from the scope of the arson conspiracy. <!-- correct -->
+(b) Not guilty, because Pinkerton liability strictly requires the prosecution to prove that the defendant explicitly commanded the co-conspirator to commit the collateral offense.
+(c) Guilty, because any felony offense committed by a co-conspirator during the active lifespan of the agreement is automatically imputed to all participating members.
+(d) Guilty, because Leo's decision to discharge a firearm directly satisfies the overt act requirement necessary to complete the underlying conspiracy to commit arson.
+(e) Guilty, because the Model Penal Code framework universally applies Pinkerton liability for any collateral crimes committed by associates acting within a criminal enterprise.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because possession with intent to distribute can be proven circumstantially. The possession of a substantial quantity of fentanyl (2 kilograms) packaged in 100 individual baggies creates a strong factual inference that the drugs were intended for distribution rather than personal use. (b) is wrong because mere possession of a Schedule I narcotic is not automatically classified as intent to distribute without evidence of quantity or packaging. (c) is wrong because direct observational evidence of a sale is not required; circumstantial evidence is sufficient. (d) is wrong because securely storing drugs does not negate the intent to distribute them at a later time. (e) is wrong because two kilograms of fentanyl is a massive quantity, far exceeding any recognized amount for personal medical or recreational use.
+**Explanation:** (a) is correct. Under the *Pinkerton* doctrine, a conspirator is derivatively liable for the substantive crimes of co-conspirators only if those crimes are reasonably foreseeable and committed in furtherance of the conspiracy. While shooting a guard to protect an arson plot might sometimes be foreseeable, a homicide driven entirely by a severe psychotic break involving a hallucinated "monster from hell" represents a highly extraordinary, unforeseeable departure from the scope of the agreement. (b) is wrong because *Pinkerton* liability specifically exists to hold conspirators liable for uncommanded collateral offenses. (c) is wrong because *Pinkerton* does not impose automatic strict liability; the collateral act must still be reasonably foreseeable. (d) is wrong because an unforeseeable hallucination-driven murder is an independent act, not a legal overt act designed to further the arson. (e) is wrong because the Model Penal Code explicitly rejected the *Pinkerton* doctrine's expansion of derivative liability.
 
-**Tags:** chapters: [15], topics: [possession, intent to distribute], difficulty: easy, cognitive: application
+**Tags:** chapters: [19], topics: [Pinkerton liability, foreseeability], difficulty: hard, cognitive: analysis
+**Grounding:** Chapter 19, Pinkerton v. United States
 
-**Grounding:** Chapter 15 (Drugs and Guns: Quantity and Distribution Inferences)
-
-<!-- grounding: GROUNDED — Inference of Intent to Distribute from Quantity/Packaging, Ch 15, Refinement `qty-pwid`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Pinkerton liability, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->

@@ -1,5 +1,5 @@
-```json
-[
-  {"thought": "I will read the Chapter 15 map to ensure I don't miss anything about exclusive possession or locked boxes.", "action": "Read", "action_input": "criminal-law/quiz-system/research/chapter-maps/chapter-15.md"}
-]
-```
+<!-- audit: MUST FIX -->
+
+**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+
+Error: Model returned empty or blocked response.

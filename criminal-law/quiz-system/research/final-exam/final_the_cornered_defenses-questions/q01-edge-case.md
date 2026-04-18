@@ -1,22 +1,21 @@
-**Q1.** Assume that the prosecution charges Vance with conspiracy to further the criminal enterprise of the Bayside Syndicate. Based on his explicit exchange of protection and files for monthly cash bribes, is Vance guilty of conspiracy?
+**Q1.** Is the Bayside Syndicate a valid RICO enterprise under the *Boyle* three-part test?
 
-(a) Guilty of conspiracy, because the explicit exchange of bribes for ongoing protection establishes a bilateral agreement to further the enterprise's criminal purpose. <!-- correct -->
-(b) Guilty of conspiracy, because the unilateral agreement requirement is satisfied even if the Syndicate never intended to follow through with the protection.
-(c) Not guilty of conspiracy, because the sale of standard police files falls under the buyer-seller exception and precludes the formation of an agreement.
-(d) Not guilty of conspiracy, because Vance did not personally commit the underlying predicate acts of the Syndicate or directly participate in violent crimes.
-(e) Not guilty of conspiracy, because a sworn police commander is categorically barred from forming a valid legal agreement with the targets of his investigations.
+(a) A valid enterprise exists because the Syndicate demonstrates a shared purpose, relationships among its associates, and sufficient longevity to pursue its goals. <!-- correct -->
+(b) A valid enterprise exists because any agreement to commit multiple predicate offenses automatically satisfies the structural requirements of a RICO organization.
+(c) A valid enterprise does not exist because the Syndicate lacks an ascertainable structure that is completely distinct from the underlying pattern of racketeering activity.
+(d) A valid enterprise does not exist because the inclusion of a law enforcement officer prevents the group from functioning as an associated-in-fact criminal enterprise.
+(e) A valid enterprise does not exist because the prosecution must prove the organization has a formal, corporate-like hierarchy with explicit written rules and bylaws.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because an agreement for conspiracy can be inferred from a mutually beneficial ongoing relationship involving explicit exchanges for illegal services, satisfying the bilateral agreement requirement. (b) is wrong because conspiracy requires a bilateral agreement, not merely a unilateral one. (c) is wrong because the buyer-seller exception applies to the ordinary purchase of routine goods, not the corrupt sale of protection and confidential police files. (d) is wrong because a co-conspirator need not personally commit the target offense to be guilty of the conspiracy. (e) is wrong because there is no categorical exemption protecting police commanders from conspiracy charges if they actively join the criminal enterprise.
+**Explanation:** (a) is correct. Under the *Boyle* test, an associated-in-fact enterprise requires (1) a shared purpose, (2) relationships among those associated with the enterprise, and (3) longevity sufficient to permit these associates to pursue the enterprise's purpose. The Bayside Syndicate clearly meets all three criteria. (b) is wrong because *Boyle* clarifies that an enterprise is a separate element from the pattern of racketeering activity, requiring its own structural showing beyond mere agreement. (c) is wrong because *Boyle* explicitly rejected the requirement that the enterprise's structure must be completely distinct from the racketeering activity itself. (d) is wrong because the inclusion of a corrupt public official does not legally nullify an organization's status as a criminal enterprise. (e) is wrong because *Boyle* definitively held that an enterprise does not need a formal, corporate-like hierarchical structure.
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement inference], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 19 (Conspiracy: The Agreement and The Overt Act)
+**Tags:** chapters: [20], topics: [RICO enterprise, Boyle test], difficulty: medium, cognitive: application
+**Grounding:** Chapter 20, Boyle v. United States
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass (Wharton's Rule does not bar a conspiracy charge here because the charge is conspiracy to further the criminal enterprise, which involves a larger network beyond the immediate parties to the bribe, hitting the third-party exception to Wharton's Rule).
+2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+Recommended fix: N/A
 -->

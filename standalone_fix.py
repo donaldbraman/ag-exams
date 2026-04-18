@@ -18,6 +18,8 @@ Your job is to rewrite the question to fix the specific issues raised in the QA 
 Do NOT change the core doctrine tested unless necessary to fix the issue. 
 Ensure the distractors have explicit falsifiable errors and the correct answer is unambiguously correct.
 
+**PEDAGOGICAL PRINCIPLE:** Do not require students to memorize which states or jurisdictions apply which specific doctrines (e.g., do not ask "What is the rule in California?"). Instead, explicitly provide the relevant jurisdictional rules or doctrines directly within the question stem (e.g., "Under the California approach (which recognizes X) versus the New York approach (which rejects X)"), and test the student's ability to logically apply those provided rules to the fact pattern.
+
 ## Scenario Stem Facts
 {scenario_text}
 

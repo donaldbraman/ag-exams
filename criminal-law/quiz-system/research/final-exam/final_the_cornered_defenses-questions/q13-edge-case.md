@@ -1,18 +1,17 @@
-**Q13.** Assume that Silas's self-defense claim is evaluated in a traditional retreat jurisdiction. Did Silas have a legal duty to retreat from his front porch before using deadly force?
+**Q13.** Assume Silas is charged with attempted murder for shooting Trey and raises a self-defense claim. How would a jury evaluate the objective reasonableness of Silas's belief that deadly force was necessary?
 
-(a) He had no duty to retreat if the jurisdiction extends the castle doctrine exception to the home's external porch, as this eliminates the retreat requirement. <!-- correct -->
-(b) He had no duty to retreat, because modern stand-your-ground laws automatically and universally apply to all individuals regardless of their specific geographic location.
-(c) He had a strict duty to retreat, because the castle doctrine exception is exclusively limited to the interior enclosed bedrooms of a primary residential dwelling.
-(d) He had a duty to retreat, because he had prior intelligence of the attack and should have preemptively relocated before the hitman ever arrived.
-(e) He had a duty to retreat, because active gang members are universally and categorically excluded from invoking the protections of the traditional castle doctrine.
+(a) A jury could find Silas's belief unreasonable because an objective person in his situation might not assume a mere reach into a jacket constitutes an imminent lethal threat. <!-- correct -->
+(b) A jury must find Silas's belief reasonable because his prior public vow to eliminate Syndicate members legally justifies an immediate preemptive strike against any perceived enemy.
+(c) A jury must find Silas's belief reasonable because Trey was a known syndicate hitman, which automatically satisfies the objective standard for deadly force without further factual inquiry.
+(d) A jury could find Silas's belief unreasonable because the common law strictly requires the victim to actually visibly brandish a deadly weapon before self-defense can be legitimately claimed.
+(e) A jury could find Silas's belief unreasonable because self-defense doctrine strictly requires the perceived threat to involve multiple attackers coordinating a maneuver rather than a single individual.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because the castle doctrine is a universally recognized exception to the duty to retreat for a person attacked in their own home. While jurisdictions divide on whether this protection extends to curtilage like a front porch, if the jurisdiction does extend it, Silas had no legal duty to retreat. (b) is wrong because stand-your-ground laws are not universally adopted and many traditional jurisdictions still require retreat outside the home. (c) is wrong because the castle doctrine is not strictly limited to interior bedrooms; it generally applies to the entire dwelling and sometimes the curtilage. (d) is wrong because prior intelligence of an attack does not impose a preemptive duty to abandon one's home before the threat materializes. (e) is wrong because gang members retain the right to self-defense in their own homes and are not categorically excluded from the castle doctrine.
+**Explanation:** (a) is correct. Self-defense requires an objectively reasonable belief in an imminent threat of death or serious bodily harm. The jury incorporates the situational context (Trey's status as a hitman), but ultimately must decide if a reasonable person with an unobstructed escape route would conclude that a rapid walk and a reach into a jacket necessitated immediate lethal force. The jury could reasonably find Silas's assumption unreasonable. (b) is wrong because a public vow to kill does not legally create a continuous threat justifying a preemptive strike; in fact, it undermines his claim by suggesting he was an aggressor. (c) is wrong because while the victim's reputation informs the reasonableness inquiry, it never automatically or absolutely satisfies the standard. (d) is wrong because the law permits lethal force based on a reasonable perception of a deadly weapon, not strict actual possession or brandishing. (e) is wrong because self-defense applies equally against single attackers and imposes no multiple-assailant requirement.
 
-**Tags:** chapters: [22], topics: [self-defense, duty to retreat, castle doctrine], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 22 (Self-Defense: Duty to Retreat and Castle Doctrine Scope)
+**Tags:** chapters: [22], topics: [self-defense, objective reasonableness], difficulty: medium, cognitive: application
+**Grounding:** Chapter 22, Objective Reasonableness Standard
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

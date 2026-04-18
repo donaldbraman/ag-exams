@@ -1,17 +1,16 @@
-**Q2.** Assume that, whether or not Vance is guilty of conspiracy, he is charged under RICO for participating in the affairs of the Syndicate enterprise. Can Vance be held liable under RICO?
+**Q2.** Assume a valid enterprise exists. Under the *Salinas* rule, can Commander Vance be convicted of a RICO conspiracy if he did not personally commit or explicitly agree to personally commit any predicate acts of racketeering?
 
-(a) Liable, because his ongoing provision of police protection and confidential files constitutes participation in the conduct of the enterprise's affairs through a pattern of racketeering. <!-- correct -->
-(b) Liable, because any individual who receives compensation from a criminal organization automatically becomes a formal member of that enterprise for the purposes of RICO.
-(c) Not liable, because he is a government official and a municipal police department cannot legally be considered part of a criminal racketeering enterprise.
-(d) Not liable, because the enterprise must possess a formal and rigid hierarchical structure with a distinct rim holding the various organizational spokes together.
-(e) Not liable, because his actions merely patronized the enterprise rather than constituting an independent and operationally significant pattern of qualifying racketeering activity.
+(a) Yes, because Vance agreed to the overall objective of the enterprise and knew that others would commit the requisite predicate offenses. <!-- correct -->
+(b) Yes, because a RICO conspiracy conviction requires only that the defendant received a financial benefit from the enterprise's illegal activities.
+(c) No, because a RICO conspiracy conviction strictly requires the defendant to personally commit at least two predicate acts of racketeering.
+(d) No, because Vance must have explicitly agreed to personally commit at least two predicate acts to satisfy the RICO conspiracy statute.
+(e) No, because a public official cannot be charged with RICO conspiracy unless they formally direct the enterprise's daily operations.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because under RICO, an associated outsider who provides ongoing critical services (such as police protection and confidential files) in exchange for bribes participates in the conduct of the enterprise's affairs through a pattern of racketeering activity. (b) is wrong because mere receipt of compensation without participating in the conduct of the enterprise does not automatically establish liability. (c) is wrong because government officials can be individually liable for conducting enterprise affairs through corruption. (d) is wrong because an associated enterprise does not require a formal or rigid "rim" structure as long as there is an ongoing organization functioning as a continuing unit. (e) is wrong because accepting repeated bribes to protect criminal activities is an active pattern of racketeering, not mere passive patronage.
+**Explanation:** (a) is correct. In *Salinas v. United States*, the Supreme Court held that a defendant can be convicted of RICO conspiracy even if they do not personally commit or agree to personally commit any predicate acts, provided they adopt the goal of furthering the enterprise and know that others will commit the required predicate offenses. (b) is wrong because mere financial benefit without an agreement to further the enterprise's objectives is insufficient to establish conspiracy liability. (c) and (d) are wrong because they state the exact legal requirements that the *Salinas* Court explicitly rejected; there is no personal commission or personal agreement-to-commit requirement for the predicate acts themselves. (e) is wrong because no special legal exemption shields public officials from RICO liability simply because they occupy a protective role rather than a managerial one.
 
-**Tags:** chapters: [20], topics: [rico, enterprise liability], difficulty: medium, cognitive: application
+**Tags:** chapters: [20], topics: [RICO conspiracy, Salinas rule], difficulty: medium, cognitive: application
+**Grounding:** Chapter 20, Salinas v. United States
 
-**Grounding:** Chapter 20 (RICO and Enterprise Liability: Participation vs. Patronage)
-
-<!-- grounding: GROUNDED — RICO enterprise liability (participation vs. patronage), Ch 20, Refinement `participation-vs-patronage`, `hub-spoke-no-rim`, and `membership-vs-participation`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Salinas rule, Ch 20, Refinement `salinas-no-personal-acts`. Rule paraphrased accurately. -->

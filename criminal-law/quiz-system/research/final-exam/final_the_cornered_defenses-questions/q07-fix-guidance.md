@@ -4,102 +4,123 @@ The QA pipeline flagged this question. Rewrite `q07.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q7.** Assume Leo establishes that his schizophrenic hallucination caused him to believe he was commanded by God to smite a demon. How will this affect his liability under the M'Naghten standard?
+**Q7.** Assume Marcus is charged with attempted arson for loading the accelerant into the car two miles away from the warehouse. How would this conduct be evaluated under the MPC versus the traditional common law?
 
-(a) Guilty, because he was aware he was physically discharging a firearm, which strictly satisfies the requirement that he knew the nature and quality of his act.
-(b) Not guilty, because his delusion that God specifically commanded him to smite a demon prevented him from knowing his act was morally or legally wrong. <!-- correct -->
-(c) Guilty, because he still possessed the physical ability to voluntarily control his bodily movements and conform his conduct to the law when he pulled the trigger.
-(d) Not guilty, because any defendant suffering from a severe schizophrenic hallucination is automatically deemed legally insane regardless of their cognitive understanding of the criminal act.
-(e) Guilty, because the wrongness prong solely excuses defendants who cannot physically comprehend the fatal biological results of their violent conduct toward another human being.
+(a) Guilty under the MPC because loading the accelerant is a substantial step strongly corroborative of the criminal purpose, but likely not guilty under the common law proximity test. <!-- correct -->
+(b) Guilty under both tests because gathering materials inevitably demonstrates the specific intent to commit the target offense regardless of the geographic distance to the target.
+(c) Not guilty under the MPC because the defendants had not yet arrived at the warehouse, meaning their actions were mere preparation rather than a substantial step.
+(d) Not guilty under the common law because the physical act of loading accelerant into a vehicle completely fails to satisfy the requirement of specific intent.
+(e) Not guilty under either test because they were two miles away, which means they had not yet reached the dangerous proximity required by all attempt standards.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** (b) is correct. Under the M'Naghten standard's wrongness prong, a delusion that God commanded the killing prevents the defendant from appreciating that the act was morally or legally wrong, satisfying the test. (a) is wrong because knowing the physical nature of the act (shooting a gun) addresses the first prong, but the defense can still succeed under the second (wrongness) prong. (c) is wrong because the irresistible impulse test covers volitional control; M'Naghten focuses strictly on cognitive capacity. (d) is wrong because a severe diagnosis alone is never enough; the disease must specifically cause the required cognitive incapacity. (e) is wrong because the wrongness prong explicitly excuses defendants who comprehend the physical results but fail to grasp the moral or legal wrongfulness.
+**Explanation:** (a) is correct. The Model Penal Code uses the "substantial step" test, which reaches far back into the preparation timeline to find attempt liability. Gathering and loading specialized materials like accelerant is explicitly recognized as a substantial step strongly corroborative of criminal purpose. The traditional common law, however, uses the "dangerous proximity" test, which typically requires the defendant to be physically proximate to the target and on the verge of completing the crime. Being two miles away in a parking lot likely fails the common law test. (b) is wrong because the common law strictly requires dangerous proximity, not just specific intent and material gathering. (c) is wrong because the MPC was designed precisely to eliminate the requirement of arriving at the final crime scene. (d) is wrong because the physical act goes to the actus reus element, not the mens rea of specific intent. (e) is wrong because the MPC explicitly rejected the traditional dangerous proximity requirement.
 
-**Tags:** chapters: [23], topics: [insanity, mnaghten-wrongness], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 23; M'Naghten standard cognitive wrongness prong
+**Tags:** chapters: [17], topics: [attempt, substantial step, proximity test], difficulty: medium, cognitive: application
+**Grounding:** Chapter 17, MPC Substantial Step vs. Common Law Proximity
 
 <!-- audit: MUST FIX
-check 1: finding - While (b) correctly concludes "Not guilty," the facts accidentally trigger the FIRST prong of M'Naghten (nature and quality) as well. If Leo thinks his target is a "demon," he does not know he is killing a human being.
-check 2: pass
-check 3: finding - The explanation for (a) contains a doctrinal error. It claims that knowing one is "physically discharging a firearm" strictly satisfies the nature and quality prong. This is false; if a defendant thinks they are shooting a non-human entity like a demon, they do not understand the nature and quality of the act of homicide (which requires knowing one is destroying a human life).
-check 4: pass
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Change "smite a demon" to "kill a specific human (e.g., his neighbor or a sinner)". This ensures Leo understands the physical nature and result of his act (killing a human), which satisfies the first prong and cleanly isolates the intended test of the wrongness prong and deific decree doctrine.
+Check 1: pass
+Check 2: pass
+Check 3: finding: The explanation states gathering an "accelerant" is "explicitly recognized" as a substantial step. Under MPC § 5.01(2), possessing materials is only an explicitly recognized substantial step if the materials are "at or near the place" of the crime (§ 5.01(2)(e)) or "serve no lawful purpose" (§ 5.01(2)(f)). Because an unspecified accelerant (like gasoline) has lawful uses and a location two miles away is arguably not "at or near" the target, this conduct does not neatly fit the explicit statutory examples. It would be evaluated under the general substantial step standard.
+Check 4: finding: The stem fails to stipulate that Marcus actually had the specific intent (purpose) to commit arson. Attempt liability strictly requires this mens rea. Providing only the actus reus (loading an accelerant) gives students insufficient facts to reach the definitive "Guilty under the MPC" conclusion in option (a).
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Recommended fix: 1) Edit the stem to establish mens rea: "Assume Marcus, with the specific intent to burn down a warehouse, is caught loading an accelerant into his car two miles away from the target." 2) Revise the explanation to remove the claim that this exact fact pattern is "explicitly recognized" by the MPC, noting instead that a jury could easily find it to be a substantial step strongly corroborative of his purpose.
 -->
 
-## Issue 2 — argpass-sonnet
+## Issue 2 — edge-case
 
-**Q7.** Assume Leo establishes that his schizophrenic hallucination caused him to believe he was commanded by God to smite a demon. How will this affect his liability under the M'Naghten standard?
+**Q7.** Assume Marcus is charged with attempted arson for loading the accelerant into the car two miles away from the warehouse. How would this conduct be evaluated under the MPC versus the traditional common law?
 
-(a) Guilty, because he was aware he was physically discharging a firearm, which strictly satisfies the requirement that he knew the nature and quality of his act.
-(b) Not guilty, because his delusion that God specifically commanded him to smite a demon prevented him from knowing his act was morally or legally wrong. <!-- correct -->
-(c) Guilty, because he still possessed the physical ability to voluntarily control his bodily movements and conform his conduct to the law when he pulled the trigger.
-(d) Not guilty, because any defendant suffering from a severe schizophrenic hallucination is automatically deemed legally insane regardless of their cognitive understanding of the criminal act.
-(e) Guilty, because the wrongness prong solely excuses defendants who cannot physically comprehend the fatal biological results of their violent conduct toward another human being.
+(a) Guilty under the MPC because loading the accelerant is a substantial step strongly corroborative of the criminal purpose, but likely not guilty under the common law proximity test. <!-- correct -->
+(b) Guilty under both tests because gathering materials inevitably demonstrates the specific intent to commit the target offense regardless of the geographic distance to the target.
+(c) Not guilty under the MPC because the defendants had not yet arrived at the warehouse, meaning their actions were mere preparation rather than a substantial step.
+(d) Not guilty under the common law because the physical act of loading accelerant into a vehicle completely fails to satisfy the requirement of specific intent.
+(e) Not guilty under either test because they were two miles away, which means they had not yet reached the dangerous proximity required by all attempt standards.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** (b) is correct. Under the M'Naghten standard's wrongness prong, a delusion that God commanded the killing prevents the defendant from appreciating that the act was morally or legally wrong, satisfying the test. (a) is wrong because knowing the physical nature of the act (shooting a gun) addresses the first prong, but the defense can still succeed under the second (wrongness) prong. (c) is wrong because the irresistible impulse test covers volitional control; M'Naghten focuses strictly on cognitive capacity. (d) is wrong because a severe diagnosis alone is never enough; the disease must specifically cause the required cognitive incapacity. (e) is wrong because the wrongness prong explicitly excuses defendants who comprehend the physical results but fail to grasp the moral or legal wrongfulness.
+**Explanation:** (a) is correct. The Model Penal Code uses the "substantial step" test, which reaches far back into the preparation timeline to find attempt liability. Gathering and loading specialized materials like accelerant is explicitly recognized as a substantial step strongly corroborative of criminal purpose. The traditional common law, however, uses the "dangerous proximity" test, which typically requires the defendant to be physically proximate to the target and on the verge of completing the crime. Being two miles away in a parking lot likely fails the common law test. (b) is wrong because the common law strictly requires dangerous proximity, not just specific intent and material gathering. (c) is wrong because the MPC was designed precisely to eliminate the requirement of arriving at the final crime scene. (d) is wrong because the physical act goes to the actus reus element, not the mens rea of specific intent. (e) is wrong because the MPC explicitly rejected the traditional dangerous proximity requirement.
 
-**Tags:** chapters: [23], topics: [insanity, mnaghten-wrongness], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, substantial step, proximity test], difficulty: medium, cognitive: application
+**Grounding:** Chapter 17, MPC Substantial Step vs. Common Law Proximity
 
-**Grounding:** Chapter 23; M'Naghten standard cognitive wrongness prong
-
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student might argue that the M'Naghten standard primarily concerns whether the defendant was detached from physical reality. Since Leo perfectly understood the physical nature of his act (discharging a firearm), he possessed cognitive awareness of his conduct. The student could conclude that satisfying this first prong (knowing the nature and quality of the act) establishes his cognitive baseline, rendering him legally culpable despite his bizarre motive.
-(b) Argument-for: The M'Naghten standard operates disjunctively, excusing a defendant who does not know the nature and quality of the act OR does not know that the act is wrong. A severe delusion that God commanded the act (the "deific decree" doctrine) specifically destroys the defendant's ability to appreciate the moral or legal wrongfulness of the action. Therefore, Leo satisfies the wrongness prong and is not guilty by reason of insanity.
-(c) Argument-for: A student might mistakenly apply the Model Penal Code or Irresistible Impulse test, which incorporates volitional elements like the ability to "conform his conduct to the law." Assuming that criminal liability always requires a voluntary act and that M'Naghten might loosely encompass all mental capacities, a student could argue that Leo's sheer physical ability to voluntarily pull the trigger overrides his cognitive delusions.
-(d) Argument-for: A student might confuse the presence of a severe mental defect (a "disease of the mind") with the ultimate legal conclusion of insanity. Given that schizophrenia is a well-documented and severe psychiatric illness, the student might believe that experiencing an active hallucination automatically renders a defendant legally insane, regardless of their specific cognitive understanding of the act.
-(e) Argument-for: A student might narrowly misconstrue the "wrongness" prong as requiring a purely physical or biological misunderstanding of the victim's status. They could argue that because Leo recognized he was harming a biological entity (a "demon" occupying a human space or resulting in a fatality), his comprehension of the physical results prevents him from claiming he didn't know the act was "wrong."
-
-Head-to-head: Option (b) is the clear correct answer because it accurately applies the M'Naghten wrongness prong (often analyzed under the deific decree exception). Distractors (d) and (e) are strong because they contain explicitly false legal claims firmly locked by absolute words ("automatically... regardless of," "solely excuses"). However, distractors (a) and (c) present legal conclusions based on implicit omissions rather than absolutely locked false claims. Option (a) incorrectly implies that defeating the first prong mandates guilt but lacks an absolute word to categorically exclude the second prong. Option (c) asserts a legally false premise (that volitional control dictates M'Naghten outcomes) but also lacks an absolute lock.
-
-Falsifiable claim per distractor:
-- (a): "Guilty, because he was aware he was physically discharging a firearm..." — wrong because it relies on an implicit omission; under M'Naghten's disjunctive test, knowing the nature and quality of the act does not mandate guilt since the defendant may still lack knowledge that the act was wrong. 
-- (c): "Guilty, because he still possessed the physical ability to voluntarily control his bodily movements and conform his conduct to the law..." — wrong because M'Naghten is a strictly cognitive test, meaning volitional control is entirely irrelevant, but the option currently lacks an absolute word.
-- (d): "automatically deemed legally insane regardless of their cognitive understanding" — explicitly wrong because M'Naghten requires a precise cognitive defect, not merely a severe psychiatric diagnosis.
-- (e): "solely excuses defendants who cannot physically comprehend the fatal biological results" — explicitly wrong because the wrongness prong encompasses moral and legal wrongfulness, not just biological or physical comprehension.
-
-Recommended fix: Add absolute words to lock the false claims in (a) and (c). Change (a) to: "Guilty, solely because he was aware he was physically discharging a firearm, which strictly satisfies the requirement that he knew the nature and quality of his act." Change (c) to: "Guilty, because possessing the physical ability to voluntarily conform conduct to the law automatically defeats a M'Naghten defense."
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: The facts clearly establish Marcus is acting under a severe death threat to his family (which triggers a duress defense). Because duress is a complete affirmative defense, stating that he is outright "Guilty" in the correct answer is technically incorrect and creates a trap for students who spot the defense.
+3. Cross-Question Spoilers: Q5 explicitly tests Marcus's duress defense for this exact conduct, and Q8 tests his abandonment defense. Forcing a "Guilty" conclusion in Q7 contradicts the facts and defenses set up for those other questions.
+Recommended fix: Change the question stem to include "Assuming no affirmative defenses apply..." OR change "Guilty" / "Not guilty" in the options to "Satisfies the attempt actus reus" / "Fails the attempt actus reus".
 -->
 
-## Issue 3 — argpass-opus
+## Issue 3 — argpass-sonnet
 
-**Q7.** Assume Leo establishes that his schizophrenic hallucination caused him to believe he was commanded by God to smite a demon. How will this affect his liability under the M'Naghten standard?
+**Q7.** Assume Marcus is charged with attempted arson for loading the accelerant into the car two miles away from the warehouse. How would this conduct be evaluated under the MPC versus the traditional common law?
 
-(a) Guilty, because he was aware he was physically discharging a firearm, which strictly satisfies the requirement that he knew the nature and quality of his act.
-(b) Not guilty, because his delusion that God specifically commanded him to smite a demon prevented him from knowing his act was morally or legally wrong. <!-- correct -->
-(c) Guilty, because he still possessed the physical ability to voluntarily control his bodily movements and conform his conduct to the law when he pulled the trigger.
-(d) Not guilty, because any defendant suffering from a severe schizophrenic hallucination is automatically deemed legally insane regardless of their cognitive understanding of the criminal act.
-(e) Guilty, because the wrongness prong solely excuses defendants who cannot physically comprehend the fatal biological results of their violent conduct toward another human being.
+(a) Guilty under the MPC because loading the accelerant is a substantial step strongly corroborative of the criminal purpose, but likely not guilty under the common law proximity test. <!-- correct -->
+(b) Guilty under both tests because gathering materials inevitably demonstrates the specific intent to commit the target offense regardless of the geographic distance to the target.
+(c) Not guilty under the MPC because the defendants had not yet arrived at the warehouse, meaning their actions were mere preparation rather than a substantial step.
+(d) Not guilty under the common law because the physical act of loading accelerant into a vehicle completely fails to satisfy the requirement of specific intent.
+(e) Not guilty under either test because they were two miles away, which means they had not yet reached the dangerous proximity required by all attempt standards.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** (b) is correct. Under the M'Naghten standard's wrongness prong, a delusion that God commanded the killing prevents the defendant from appreciating that the act was morally or legally wrong, satisfying the test. (a) is wrong because knowing the physical nature of the act (shooting a gun) addresses the first prong, but the defense can still succeed under the second (wrongness) prong. (c) is wrong because the irresistible impulse test covers volitional control; M'Naghten focuses strictly on cognitive capacity. (d) is wrong because a severe diagnosis alone is never enough; the disease must specifically cause the required cognitive incapacity. (e) is wrong because the wrongness prong explicitly excuses defendants who comprehend the physical results but fail to grasp the moral or legal wrongfulness.
+**Explanation:** (a) is correct. The Model Penal Code uses the "substantial step" test, which reaches far back into the preparation timeline to find attempt liability. Gathering and loading specialized materials like accelerant is explicitly recognized as a substantial step strongly corroborative of criminal purpose. The traditional common law, however, uses the "dangerous proximity" test, which typically requires the defendant to be physically proximate to the target and on the verge of completing the crime. Being two miles away in a parking lot likely fails the common law test. (b) is wrong because the common law strictly requires dangerous proximity, not just specific intent and material gathering. (c) is wrong because the MPC was designed precisely to eliminate the requirement of arriving at the final crime scene. (d) is wrong because the physical act goes to the actus reus element, not the mens rea of specific intent. (e) is wrong because the MPC explicitly rejected the traditional dangerous proximity requirement.
 
-**Tags:** chapters: [23], topics: [insanity, mnaghten-wrongness], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 23; M'Naghten standard cognitive wrongness prong
+**Tags:** chapters: [17], topics: [attempt, substantial step, proximity test], difficulty: medium, cognitive: application
+**Grounding:** Chapter 17, MPC Substantial Step vs. Common Law Proximity
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under the M'Naghten standard, a defendant must suffer from a defect of reason from a disease of the mind. The first prong of M'Naghten evaluates whether the defendant knew the nature and quality of his act. Because Leo knew he was pulling a trigger and discharging a firearm, he clearly grasped the physical characteristics of his conduct. A student might conclude that satisfying this cognitive awareness of the physical act strictly defeats the insanity defense, as he was not a mere automaton lacking basic comprehension of his physical movements.
-(b) Argument-for: M'Naghten is a disjunctive test, excusing a defendant who either did not know the nature and quality of the act OR did not know the act was wrong. Although Leo knew he was shooting, his schizophrenic hallucination produced a deific decree—a command from God to smite a demon. Under the prevailing interpretation of the wrongness prong, such a delusion renders him incapable of appreciating that his act is morally or legally wrong, as he believes he is executing a divine mandate. Therefore, he is not guilty.
-(c) Argument-for: A student could focus on the volitional aspect of Leo's conduct. Since Leo's physical body was under his control when he pulled the trigger, he possessed the requisite voluntary act (actus reus). Under some insanity standards, such as the Model Penal Code or Irresistible Impulse test, the ability to conform conduct to the law is central. A student confusing these standards with M'Naghten might argue that because Leo retained the physical capacity to control his movements, he fails to qualify for an insanity defense.
-(d) Argument-for: Schizophrenia is universally recognized as a severe mental disease or defect. When a defendant experiences a severe hallucination, their connection to reality is profoundly severed. A student might argue that the presence of such a severe, documented psychosis automatically satisfies the legal definition of insanity, presuming that the extreme nature of the disease inherently negates mens rea or cognitive capacity without needing a specific granular inquiry into his understanding of the exact act.
-(e) Argument-for: The cognitive focus of M'Naghten strictly evaluates what the defendant comprehended at the time of the offense. A student might interpret the "wrongness" prong extremely narrowly, arguing that it only applies if the defendant is physically incapable of understanding the fatal biological consequences of their actions. Under this strict physical-biological interpretation, Leo's awareness of his actions would make him guilty, as the wrongness prong would solely excuse total biological ignorance.
+(a) Argument-for: Under the MPC § 5.01, a substantial step strongly corroborative of the actor's criminal purpose is sufficient for attempt. Collecting and loading accelerant is explicitly recognized in the MPC as a substantial step. Under the traditional common law's "dangerous proximity" test, however, the defendant must be physically close to the target and on the verge of completing the crime. Being two miles away fails this common law proximity requirement, making this option legally sound for both tests.
+(b) Argument-for: A student could argue that gathering accelerant combined with an intent to commit arson satisfies the attempt actus reus under both tests because the act is unequivocally related to the crime. If the "gathering materials" act sufficiently manifests specific intent, some jurisdictions might bend the proximity test, concluding the defendant is guilty under both tests because the materials inevitably demonstrate the target offense regardless of distance.
+(c) Argument-for: A student might argue that even under the MPC, geographic distance matters. The MPC still requires a "substantial step," and one could argue that just loading a car two miles away is too early in the timeline to corroborate criminal purpose. Therefore, because they had not arrived at the warehouse, a court could classify their actions as mere preparation rather than a substantial step.
+(d) Argument-for: Under the common law, attempt requires specific intent. A student could argue that loading accelerant into a vehicle is a physically equivocal act (e.g., they could just be transporting fuel for lawful purposes) that completely fails to satisfy the requirement of proving specific intent. Without this explicit showing of intent through the physical act, the defendant is not guilty.
+(e) Argument-for: A student could argue that all attempt law, fundamentally, requires some form of proximity to prevent punishing mere thought or early preparation. Because the defendants were two miles away, they were simply too far from the warehouse. Therefore, they had not reached the dangerous proximity required by all attempt standards, including the practical application of the MPC.
 
-Head-to-head: 
-Option (b) is clearly the correct answer, properly applying the disjunctive M'Naghten rule and the deific decree exception to the wrongness prong. Distractors (d) and (e) correctly employ absolute locking words to create explicitly false legal claims. However, distractors (a) and (c) fail the close-call standard because they rely on implicit omissions. Option (a) states a legally true premise (Leo knew the physical nature of his act) and incorrectly concludes guilt without an explicit rule stating that the first prong alone mandates liability. Option (c) accurately states Leo had volitional control and improperly uses it to conclude guilt, implicitly importing the irresistible impulse test but lacking absolute language (like "categorically requires") to make the legal assertion definitively falsifiable on its face.
+Head-to-head: Option (a) accurately states the orthodox application of the MPC (substantial step) versus the common law (dangerous proximity). Option (b) is wrong because it falsely claims gathering materials "inevitably demonstrates... regardless of geographic distance" under both tests, ignoring the strict common law proximity requirement. Option (d) is wrong because it conflates the physical act (actus reus) with the specific intent (mens rea), falsely claiming the act "completely fails" to satisfy intent. Option (e) is wrong because it states that dangerous proximity is "required by all attempt standards," explicitly contradicting the MPC. Option (c) relies on a legally false rationale under the MPC (that not arriving at the scene dictates it is mere preparation), but it lacks an absolute locking word to render the causal claim categorically false against a strict reading. Adding an absolute word would ensure it fails structurally as a falsifiable claim.
 
 Falsifiable claim per distractor:
-- (a): Lacks a falsifiable claim. "which strictly satisfies the requirement that he knew the nature and quality of his act" is a factually true premise that relies on an implicit omission of the second prong to arrive at its conclusion. 
-- (c): Lacks a falsifiable claim. "because he still possessed the physical ability to voluntarily control his bodily movements" is a true premise under the scenario that incorrectly implies volitional control defeats a M'Naghten defense, acting as an implicit omission.
-- (d): "automatically deemed legally insane regardless of their cognitive understanding" — wrong because the M'Naghten standard explicitly requires proving the disease caused specific cognitive incapacity; a severe diagnosis alone is never automatically sufficient.
-- (e): "solely excuses defendants who cannot physically comprehend the fatal biological results" — wrong because the wrongness prong specifically exists to excuse defendants who do understand the physical results but fail to grasp the moral or legal wrongfulness.
+- (b): "inevitably demonstrates the specific intent... regardless of the geographic distance" — wrong because traditional common law strictly requires dangerous proximity, regardless of specific intent.
+- (c): "because the defendants had not yet arrived at the warehouse, meaning their actions were mere preparation" — wrong because the MPC explicitly rejects the requirement of arriving at the scene, though this distractor lacks an absolute locking word to make it structurally bulletproof.
+- (d): "completely fails to satisfy the requirement of specific intent" — wrong because specific intent is a mens rea element, and an equivocal physical act does not "completely fail" to satisfy intent if other independent mens rea evidence exists.
+- (e): "dangerous proximity required by all attempt standards" — wrong because the MPC explicitly replaces the dangerous proximity test with the substantial step test.
 
-Recommended fix: Update (a) to: "Guilty, because his awareness that he was physically discharging a firearm automatically precludes a M'Naghten defense." Update (c) to: "Guilty, because M'Naghten categorically requires proof that the defendant lacked the physical ability to voluntarily control his bodily movements."
+Recommended fix: In (c), change "meaning their actions were mere preparation" to "which automatically means their actions were mere preparation" to lock the false legal rule with an absolute word.
+-->
+
+## Issue 4 — argpass-opus
+
+**Q7.** Assume Marcus is charged with attempted arson for loading the accelerant into the car two miles away from the warehouse. How would this conduct be evaluated under the MPC versus the traditional common law?
+
+(a) Guilty under the MPC because loading the accelerant is a substantial step strongly corroborative of the criminal purpose, but likely not guilty under the common law proximity test. <!-- correct -->
+(b) Guilty under both tests because gathering materials inevitably demonstrates the specific intent to commit the target offense regardless of the geographic distance to the target.
+(c) Not guilty under the MPC because the defendants had not yet arrived at the warehouse, meaning their actions were mere preparation rather than a substantial step.
+(d) Not guilty under the common law because the physical act of loading accelerant into a vehicle completely fails to satisfy the requirement of specific intent.
+(e) Not guilty under either test because they were two miles away, which means they had not yet reached the dangerous proximity required by all attempt standards.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct. The Model Penal Code uses the "substantial step" test, which reaches far back into the preparation timeline to find attempt liability. Gathering and loading specialized materials like accelerant is explicitly recognized as a substantial step strongly corroborative of criminal purpose. The traditional common law, however, uses the "dangerous proximity" test, which typically requires the defendant to be physically proximate to the target and on the verge of completing the crime. Being two miles away in a parking lot likely fails the common law test. (b) is wrong because the common law strictly requires dangerous proximity, not just specific intent and material gathering. (c) is wrong because the MPC was designed precisely to eliminate the requirement of arriving at the final crime scene. (d) is wrong because the physical act goes to the actus reus element, not the mens rea of specific intent. (e) is wrong because the MPC explicitly rejected the traditional dangerous proximity requirement.
+
+**Tags:** chapters: [17], topics: [attempt, substantial step, proximity test], difficulty: medium, cognitive: application
+**Grounding:** Chapter 17, MPC Substantial Step vs. Common Law Proximity
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: Under the MPC, attempt requires a "substantial step strongly corroborative of the actor's criminal purpose." Gathering and loading specialized materials like an accelerant is generally sufficient to meet this threshold. In contrast, the traditional common law uses tests like "dangerous proximity," which require the defendant to be physically close to the target and near completion of the offense. Being two miles away is likely insufficient under the common law, making this the correct and nuanced choice.
+(b) Argument-for: A student could argue that if an accelerant uniquely demonstrates an intent to commit arson, the mens rea requirement for attempt is overwhelmingly satisfied. They might reason that courts would overlook strict proximity rules if the intent to commit a dangerous felony is undeniably clear. Thus, gathering materials "inevitably demonstrates" specific intent, which a student might wrongly believe overrides traditional distance requirements in every jurisdiction.
+(c) Argument-for: A student might recall that under the MPC, preparation is distinct from a substantial step. Under MPC § 5.01(2)(e), possession of materials is an explicit substantial step factor if it is "at or near the place contemplated for its commission." Since Marcus is two miles away, a student could argue he is not "at or near" the scene, leading to the conclusion that his actions remain mere preparation.
+(d) Argument-for: A student could argue that specific intent is a stringent mens rea standard requiring conscious object or purpose. They might believe that merely loading an accelerant is purely an actus reus component and cannot independently establish the specific intent to burn down a particular warehouse. Therefore, they might conclude that this physical act alone "completely fails" to satisfy the mens rea requirement under the common law.
+(e) Argument-for: A student could argue that all attempt liability requires a baseline threshold to avoid punishing mere thoughts or distant, equivocal acts. They might believe that "dangerous proximity" is a universal constitutional or baseline common law principle for attempt. Thus, they would conclude that being two miles away provides ample time for abandonment, defeating the charge under "all attempt standards."
+
+Head-to-head:
+The keyed answer (a) correctly identifies the doctrinal divergence between the MPC's broad "substantial step" actus reus and the common law's narrower "dangerous proximity" requirement. Option (b) introduces a locked false claim by asserting that specific intent overrides distance "regardless of geographic distance," which contravenes the common law. Option (d) presents a false legal claim by asserting that a physical act "completely fails" to satisfy specific intent, improperly claiming that physical conduct cannot serve as circumstantial proof of mens rea. Option (e) uses the absolute word "all," falsely claiming dangerous proximity is universal despite the MPC's explicit rejection of it. Option (c) presents a plausible misapplication of the MPC, but it fails the strict close-call standard because the phrase "meaning their actions were mere preparation" functions as a factual conclusion rather than an explicit, locked false legal rule (lacking absolute modifiers like "automatically" or "categorically").
+
+Falsifiable claim per distractor:
+- (b): "regardless of the geographic distance to the target" — wrong because the traditional common law explicitly relies on geographic distance under the dangerous proximity test.
+- (c): "meaning their actions were mere preparation" — wrong because the MPC specifically recognizes gathering specialized materials as a substantial step even off-site, but this phrase lacks an absolute locking word.
+- (d): "completely fails to satisfy the requirement of specific intent" — wrong because physical acts (like gathering specific accelerants) frequently provide circumstantial evidence that satisfies the mens rea of specific intent.
+- (e): "required by all attempt standards" — wrong because the MPC explicitly replaces the dangerous proximity test with the substantial step test.
+
+Recommended fix: In option (c), change "meaning their actions were mere preparation" to "which categorically renders their actions mere preparation".
 -->

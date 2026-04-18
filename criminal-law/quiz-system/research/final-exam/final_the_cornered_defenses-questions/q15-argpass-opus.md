@@ -1,0 +1,32 @@
+**Q15.** Assume the jurisdiction applies California's imperfect self-defense doctrine. If the jury finds Silas's belief that Trey was drawing a weapon was objectively unreasonable, what is the result?
+
+(a) Silas may be entitled to imperfect self-defense reducing murder to manslaughter if the jury determines his subjective fear of Trey was genuine, regardless of how unreasonable it was. <!-- correct -->
+(b) Silas may be entitled to imperfect self-defense because his status as a rival gang boss inherently creates a legally recognized reasonable belief of continuous imminent lethal danger.
+(c) Silas is not entitled to imperfect self-defense because the Schuller doctrine strictly requires the defendant's unreasonable belief to stem entirely from a severe diagnosed mental illness.
+(d) Silas is not entitled to imperfect self-defense because California explicitly bars partial justification defenses for defendants who have made prior public threats against the specific victim.
+(e) Silas is not entitled to imperfect self-defense because the doctrine only applies when the victim actually possesses a weapon, even if the defendant genuinely feared for their life.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct. Under California's imperfect self-defense doctrine (recently clarified in *People v. Schuller*), if a defendant holds an honest but objectively unreasonable belief in the need for deadly force, that genuine belief negates the malice aforethought required for murder. This reduces the charge to voluntary manslaughter. The core inquiry is the subjective genuineness of the belief. (b) is wrong because a generalized fear based on rival status does not legally substitute for a genuine belief in an *imminent* threat at the moment force is used. (c) is wrong because *Schuller* held that the unreasonableness can stem from any genuine source, not strictly from a diagnosed mental illness or delusion. (d) is wrong because while prior threats strongly undermine the credibility of the claim, they do not statutorily bar the defense if the jury ultimately finds the fear at the moment was genuine. (e) is wrong because imperfect self-defense explicitly covers unreasonable factual mistakes, including mistaking a phone for a weapon.
+
+**Tags:** chapters: [22], topics: [imperfect self-defense, Schuller genuineness], difficulty: medium, cognitive: application
+**Grounding:** Chapter 22, People v. Schuller
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could defend this option because it accurately captures the core holding of California's imperfect self-defense doctrine as recognized in *Flannel* and recently reaffirmed for delusional beliefs in *Schuller*. As long as the subjective fear of imminent peril and the need for lethal force is genuinely held, malice is negated. This effectively reduces murder to manslaughter, making the objective unreasonableness of the belief legally irrelevant to the application of the partial defense.
+(b) Argument-for: A student could argue that just as jurisdictions have adapted self-defense imminence standards for Battered Woman Syndrome, a continuous and active gang war might alter the baseline of what constitutes a "reasonable" belief. Under this theory, Silas's status as a rival gang boss inherently creates an ongoing zone of lethal danger that legally validates a preemptive or hyper-vigilant strike, fulfilling the criteria for imperfect self-defense.
+(c) Argument-for: A student might select this option by misinterpreting the recent *People v. Schuller* decision. Since *Schuller* specifically dealt with and allowed imperfect self-defense arising from psychotic delusions (overruling *Elmore*), a student might conclude the doctrine was narrowed or specifically tailored to strictly require a clinical diagnosis of severe mental illness to excuse a grossly unreasonable belief, rather than applying generally to all unreasonable mistakes.
+(d) Argument-for: A student could argue that an individual who makes prior public threats qualifies legally as an initial aggressor or has contrived the necessity for defense. Because self-defense doctrines (both perfect and imperfect) are categorically unavailable to those who unlawfully instigate the conflict without withdrawing, California law would explicitly bar the partial justification defense for a defendant with a public history of threatening the victim.
+(e) Argument-for: A student could assert that while imperfect self-defense forgives an unreasonable belief regarding the *imminence* of the threat or the *amount* of force necessary, it requires a factual baseline of a physical threat. If the victim is completely unarmed, the foundational requirement for any form of self-defense is missing, meaning the doctrine only triggers when a real weapon is actually present in the encounter.
+
+Head-to-head: Option (a) correctly articulates the subjective standard for imperfect self-defense in California, properly noting that the degree of objective unreasonableness does not bar the defense if the belief is genuine. The distractors are comprehensively well-constructed and adhere to the close-call standard by locking their erroneous legal propositions behind absolute phrasing ("inherently creates," "strictly requires," "explicitly bars," "only applies when"). This guarantees each incorrect option is falsifiable strictly as a matter of law, rather than just being a weaker interpretation of facts. 
+
+Falsifiable claim per distractor:
+- (b): "inherently creates a legally recognized reasonable belief" — wrong because California law does not recognize gang status as inherently creating a reasonable belief of imminent danger.
+- (c): "strictly requires the defendant's unreasonable belief to stem entirely from a severe diagnosed mental illness" — wrong because imperfect self-defense applies to standard unreasonable mistakes of fact, not just mental illness.
+- (d): "explicitly bars partial justification defenses for defendants who have made prior public threats" — wrong because prior threats do not explicitly or categorically bar the defense as a matter of law, though they impact factual credibility.
+- (e): "only applies when the victim actually possesses a weapon" — wrong because imperfect self-defense applies precisely when a defendant genuinely but unreasonably believes an unarmed victim possesses a weapon.
+
+Recommended fix: none
+-->

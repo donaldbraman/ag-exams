@@ -4,65 +4,85 @@ The QA pipeline flagged this question. Rewrite `q08.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q8.** Assume Marcus and Leo are charged with possession of the fentanyl found in the lockbox. Who has constructive possession of the drugs?
+<!-- audit: MUST FIX -->
 
-(a) Both had constructive possession because the box was in plain view in the passenger cabin, making them jointly liable for any contraband within reaching distance.
-(b) Neither had constructive possession because the drugs were secured inside a locked container, preventing either man from exercising immediate physical dominion over the actual narcotics.
-(c) Only Leo had constructive possession because the box was clearly visible to him in the passenger seat, establishing his requisite subjective awareness of the contraband.
-(d) Both had constructive possession because they were criminal associates in the vehicle, making them strictly liable for all illicit items discovered during a police search.
-(e) Marcus had constructive possession because possessing the sole key gave him the power to control the box, while Leo lacked constructive possession without such control. <!-- correct -->
+**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
 
-**Answer:** (e)
+Error: Model returned empty or blocked response.
 
-**Explanation:** (e) is correct. Constructive possession requires both the power and the intent to exercise dominion and control over the contraband. Marcus's possession of the sole key gave him power over the locked box, while Leo's mere proximity and visual awareness without the key did not. (a) is wrong because plain view is insufficient without the actual power to access and control the locked contents. (b) is wrong because physical possession of the key confers constructive possession of the contents. (c) is wrong because visual awareness (intent) must be coupled with the power to exercise dominion, which Leo lacked. (d) is wrong because criminal association in a vehicle does not create strict liability for locked containers possessed by another person.
+## Issue 2 — argpass-sonnet
 
-**Tags:** chapters: [15], topics: [constructive-possession, drugs], difficulty: medium, cognitive: application
+**Q8.** Assume that, whether or not Marcus satisfies the elements of attempted arson, he raises the defense of voluntary abandonment because he ran away after hearing the police sirens. Will the defense succeed?
 
-**Grounding:** Chapter 15; constructive possession requiring power and intent to exercise dominion and control
+(a) The defense fails because abandoning a crime due to the fear of immediate police apprehension is motivated by unexpected resistance, not a genuine change of heart. <!-- correct -->
+(b) The defense fails because the doctrine of voluntary abandonment is completely unrecognized in any jurisdiction that has adopted the Model Penal Code framework.
+(c) The defense succeeds because Marcus subjectively believed that continuing the crime was impossible once he heard the sirens approaching the immediate area.
+(d) The defense succeeds because running away fully physically prevented the completion of the target offense before any substantial harm could actually occur.
+(e) The defense succeeds because Marcus completely severed his ties with the conspiracy prior to arriving at the target location and deploying the accelerants.
 
-<!-- audit: MUST FIX
-check 1: Fails. Option (e) definitively concludes Marcus had constructive possession based solely on his possession of the key (power to control). It ignores the "awareness/intent" prong. Without facts establishing Marcus knew fentanyl was in the box, he cannot be convicted of constructively possessing it. A sharp student will challenge this.
-check 2: Pass. The distractors rely on misstatements of law (e.g., mere proximity, strict liability).
-check 3: Fails. The explanation explicitly states that constructive possession requires "both the power and the intent" to exercise dominion, but then justifies Marcus's possession strictly by his possession of the key (power), skipping the intent analysis entirely.
-check 4: Fails. The stem appears to be orphaned from a master fact pattern. It references "the lockbox," the distractors mention the "passenger cabin" and the "sole key," but the stem provides none of these facts, nor does it establish whether Marcus knew what was in the box.
-check 5: Pass. General principles of constructive possession apply.
-check 6: Pass. No excluded topics.
-check 7: Pass. Doctrine aligns with Chapter 15 (`cp-elements`, `cp-awareness-control`).
-Recommended fix: Provide a self-contained stem: "Marcus and Leo are in Marcus's car. On the center console is a lockbox. Both men know it contains fentanyl, but only Marcus has the key." Update (e) and the explanation to explicitly account for both power (the key) and intent (the stipulated knowledge) for Marcus.
--->
+**Answer:** (a)
 
-## Issue 2 — argpass-opus
+**Explanation:** (a) is correct. The defense of voluntary abandonment (or renunciation) requires a complete and voluntary renunciation of criminal purpose, representing a genuine change of heart. The defense is statutorily defeated if the abandonment is motivated in whole or in part by circumstances that increase the probability of detection or apprehension—such as hearing police sirens. (b) is wrong because the MPC explicitly recognizes and codified the voluntary abandonment defense. (c) is wrong because if the abandonment is motivated by a perceived impossibility or heightened risk of arrest, it is legally defined as involuntary. (d) is wrong because the defense evaluates the psychological voluntariness of the withdrawal, not merely whether the defendant physically succeeded in preventing the target harm. (e) is wrong because severing ties due to the immediate threat of police capture does not qualify as the legally voluntary, internally motivated change of heart required by the doctrine.
 
-**Q8.** Assume Marcus and Leo are charged with possession of the fentanyl found in the lockbox. Who has constructive possession of the drugs?
-
-(a) Both had constructive possession because the box was in plain view in the passenger cabin, making them jointly liable for any contraband within reaching distance.
-(b) Neither had constructive possession because the drugs were secured inside a locked container, preventing either man from exercising immediate physical dominion over the actual narcotics.
-(c) Only Leo had constructive possession because the box was clearly visible to him in the passenger seat, establishing his requisite subjective awareness of the contraband.
-(d) Both had constructive possession because they were criminal associates in the vehicle, making them strictly liable for all illicit items discovered during a police search.
-(e) Marcus had constructive possession because possessing the sole key gave him the power to control the box, while Leo lacked constructive possession without such control. <!-- correct -->
-
-**Answer:** (e)
-
-**Explanation:** (e) is correct. Constructive possession requires both the power and the intent to exercise dominion and control over the contraband. Marcus's possession of the sole key gave him power over the locked box, while Leo's mere proximity and visual awareness without the key did not. (a) is wrong because plain view is insufficient without the actual power to access and control the locked contents. (b) is wrong because physical possession of the key confers constructive possession of the contents. (c) is wrong because visual awareness (intent) must be coupled with the power to exercise dominion, which Leo lacked. (d) is wrong because criminal association in a vehicle does not create strict liability for locked containers possessed by another person.
-
-**Tags:** chapters: [15], topics: [constructive-possession, drugs], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 15; constructive possession requiring power and intent to exercise dominion and control
+**Tags:** chapters: [17], topics: [voluntary abandonment], difficulty: medium, cognitive: application
+**Grounding:** Chapter 17, Voluntary Abandonment Doctrine
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under *Maryland v. Pringle*, occupants of a vehicle can sometimes be found to have joint constructive possession of contraband located in the passenger cabin. Because the box was in plain view and within reaching distance, a student could argue that both men had equal access to the area containing the drugs. Therefore, under a theory of joint enterprise, both could be deemed to exercise dominion and control over the shared space.
-(b) Argument-for: Constructive possession requires the power and intent to exercise dominion and control. A student could argue that a locked container without immediate physical access (for Leo) and without direct physical contact (for Marcus) precludes actual or constructive possession. The argument relies on improperly equating possession with the necessity for immediate, unhindered physical touch of the contraband itself.
-(c) Argument-for: A student could focus on the mens rea element of constructive possession, arguing that Leo's proximity and the clear visibility of the box on his seat satisfy the requirement of subjective awareness. The argument asserts that knowledge of the container's presence is sufficient to impute knowledge of its contents, thereby granting Leo constructive possession based solely on visibility.
-(d) Argument-for: Under the "car presumption" in some drug cases, passengers and drivers are often linked to contraband found in a vehicle. A student might overextend this principle to argue that criminal associates traveling together are strictly liable for any illegal items found in the car, viewing their joint presence as a basis for absolute liability.
-(e) Argument-for: Constructive possession mandates both the power and the intent to exercise dominion and control over the item. Because Marcus held the sole key to the lockbox, he alone possessed the actual power to access and control the fentanyl. Leo, lacking the key, merely had physical proximity to the locked box without the requisite power to control its contents, leaving him without constructive possession.
+(a) Argument-for: Under the MPC and common law, voluntary abandonment requires a complete and voluntary renunciation of criminal purpose. If the abandonment is triggered by external circumstances that increase the risk of apprehension (like police sirens), it is legally involuntary. A student would correctly deduce that Marcus lacked a genuine change of heart, making this the correct choice.
+(b) Argument-for: A student might recall that under traditional common law, once a "substantial step" was taken, the crime of attempt was complete and could not be abandoned. If the student falsely assumes the Model Penal Code maintained this strict, unforgiving common-law approach without exception, they would choose this option.
+(c) Argument-for: A student could argue that a subjective belief in impossibility terminates the mens rea to continue. If Marcus thought completing the arson was impossible due to the sirens, a student might incorrectly conclude that this subjective realization validates his withdrawal and successfully satisfies the requirements for abandonment.
+(d) Argument-for: This option appeals to the utilitarian policy rationale behind the abandonment defense: incentivizing actors to stop before harm occurs. A student might argue that because Marcus physically prevented the substantive offense of arson from occurring, the law prioritizes this actual prevention of harm over the psychological purity of his motives.
+(e) Argument-for: A student might conflate the doctrine of voluntary abandonment in attempt with the rules for withdrawal from a conspiracy. By focusing on Marcus "completely severing his ties" prior to the ultimate act (deploying accelerants), a student could argue he met the threshold for effectively withdrawing from the criminal enterprise before the point of no return.
 
-Head-to-head: Option (e) is definitively correct because it accurately applies the rule for constructive possession—requiring both the power and intent to exercise dominion and control—to the facts. Option (a) relies on an overly broad legal statement, falsely asserting that reaching distance makes vehicle occupants liable for "any contraband." Option (b) falsely claims that a locked container prevents either man from exercising dominion, ignoring the legal rule that possession of the key confers that power. Option (c) falsely equates mere visibility of a locked box with establishing "requisite subjective awareness of the contraband," though it currently lacks an absolute word to completely lock the false claim. Option (d) contains an explicitly false legal claim that criminal associates in a vehicle are "strictly liable for all illicit items." Options (b) and (c) would be improved by adding absolute modifiers to ensure the false legal claims are strictly falsifiable without relying on implicit omissions.
+Head-to-head: 
+Option (a) correctly identifies that the defense fails due to a lack of a genuine change of heart, though its phrasing awkwardly conflates "fear of immediate police apprehension" with "unexpected resistance" (sirens increase the risk of apprehension, but "resistance" usually refers to physical difficulty or victim opposition). Option (b) contains an excellent, highly falsifiable claim about the MPC. Options (c), (d), and (e) correctly present false legal applications (claiming the defense succeeds when it legally fails), but they lack the absolute locking words required by the strict close-call standard, leaving them as mere misapplications rather than locked, categorically false doctrinal claims. Additionally, (e) introduces "conspiracy," which is a distinct crime not mentioned in the prompt.
 
 Falsifiable claim per distractor:
-- (a): "making them jointly liable for any contraband within reaching distance" — wrong because reaching distance to a locked box does not create joint liability for "any" contraband when a party lacks the key to access it.
-- (b): "preventing either man from exercising immediate physical dominion" — wrong because having the key provides the legal equivalent of physical control over the contents, thus giving Marcus constructive possession.
-- (c): "establishing his requisite subjective awareness of the contraband" — wrong because mere visibility of an opaque, locked container does not establish subjective awareness of the illegal contents inside.
-- (d): "making them strictly liable for all illicit items" — wrong because criminal association in a vehicle does not create strict liability for possessed items.
+- (b): "completely unrecognized in any jurisdiction that has adopted the Model Penal Code framework" — wrong because MPC § 5.01(4) explicitly created and codified the voluntary abandonment defense.
+- (c): "The defense succeeds because Marcus subjectively believed..." — wrong because an abandonment motivated by the belief that apprehension is imminent is legally involuntary, meaning the defense categorically fails.
+- (d): "The defense succeeds because running away fully physically prevented the completion..." — wrong because physical prevention alone is insufficient; the defense requires a legally voluntary motive.
+- (e): "The defense succeeds because Marcus completely severed his ties with the conspiracy..." — wrong because severing ties due to an increased risk of police capture is legally involuntary.
 
-Recommended fix: To strictly adhere to the absolute-word standard: In (b), change "preventing either man" to "categorically preventing either man". In (c), change "establishing his requisite" to "automatically establishing his requisite".
+Recommended fix: 
+1. Refine (a) to fix the "unexpected resistance" phrasing: "(a) The defense fails because abandoning a crime due to the fear of immediate police apprehension negates the voluntariness requirement, as it does not reflect a genuine change of heart."
+2. Add absolute lock words to the distractors to meet the close-call standard. For example:
+- (c): "...succeeds solely because Marcus subjectively believed..."
+- (d): "...succeeds automatically because running away fully physically prevented..."
+- (e): "...succeeds because physically withdrawing prior to deploying accelerants categorically guarantees an abandonment defense regardless of motive."
+-->
+
+## Issue 3 — argpass-opus
+
+**Q8.** Assume that, whether or not Marcus satisfies the elements of attempted arson, he raises the defense of voluntary abandonment because he ran away after hearing the police sirens. Will the defense succeed?
+
+(a) The defense fails because abandoning a crime due to the fear of immediate police apprehension is motivated by unexpected resistance, not a genuine change of heart. <!-- correct -->
+(b) The defense fails because the doctrine of voluntary abandonment is completely unrecognized in any jurisdiction that has adopted the Model Penal Code framework.
+(c) The defense succeeds because Marcus subjectively believed that continuing the crime was impossible once he heard the sirens approaching the immediate area.
+(d) The defense succeeds because running away fully physically prevented the completion of the target offense before any substantial harm could actually occur.
+(e) The defense succeeds because Marcus completely severed his ties with the conspiracy prior to arriving at the target location and deploying the accelerants.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct. The defense of voluntary abandonment (or renunciation) requires a complete and voluntary renunciation of criminal purpose, representing a genuine change of heart. The defense is statutorily defeated if the abandonment is motivated in whole or in part by circumstances that increase the probability of detection or apprehension—such as hearing police sirens. (b) is wrong because the MPC explicitly recognizes and codified the voluntary abandonment defense. (c) is wrong because if the abandonment is motivated by a perceived impossibility or heightened risk of arrest, it is legally defined as involuntary. (d) is wrong because the defense evaluates the psychological voluntariness of the withdrawal, not merely whether the defendant physically succeeded in preventing the target harm. (e) is wrong because severing ties due to the immediate threat of police capture does not qualify as the legally voluntary, internally motivated change of heart required by the doctrine.
+
+**Tags:** chapters: [17], topics: [voluntary abandonment], difficulty: medium, cognitive: application
+**Grounding:** Chapter 17, Voluntary Abandonment Doctrine
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: Under the MPC § 5.01(4), the defense of voluntary abandonment fails if the withdrawal is motivated by circumstances that increase the probability of detection or apprehension. Hearing police sirens falls exactly into this category. Thus, a student would rightly conclude that Marcus’s withdrawal was externally coerced by the threat of arrest, legally negating the requirement for an internally motivated "genuine change of heart." 
+(b) Argument-for: A student might recall that under strict traditional common law, abandonment was often not recognized as a defense once an attempt crossed the line of mere preparation. Conflating this historical strictness with the MPC, they could erroneously argue that the MPC outright rejects voluntary abandonment across all jurisdictions to maximize deterrence.
+(c) Argument-for: A student could argue that if Marcus subjectively believed completing the arson was rendered impossible by the approaching police, he no longer possessed the requisite continuing intent or ability to act. They might wrongly conclude that this subjective belief in impossibility legally satisfies the abandonment defense because he voluntarily chose to yield to that impossibility.
+(d) Argument-for: Relying on the public policy rationale of the defense—which aims to incentivize offenders to halt their criminal conduct before harm is done—a student could argue that physical prevention of the crime is the paramount requirement. Since Marcus ran away before any substantial harm occurred, they might conclude this physical withdrawal alone automatically guarantees the defense's success.
+(e) Argument-for: Assuming Marcus was operating within a conspiracy, a student might focus on the actus reus of withdrawal. They could argue that by leaving the scene prior to deploying any accelerants, Marcus successfully and completely severed his ties to the target offense, thereby fulfilling the requirements for the abandonment defense.
+
+Head-to-head: 
+Option (a) correctly concludes the defense fails and captures the core rationale: external pressures defeat the "genuine change of heart" requirement. However, (a) contains slightly inaccurate phrasing by equating police sirens with "unexpected resistance"; statutorily, sirens are "circumstances increasing the risk of apprehension," whereas "resistance" generally implies a physical impediment to accomplishment (e.g., a victim fighting back). The distractors all contain solid, falsifiable errors. Option (b) makes a categorically false claim about the Model Penal Code. Options (c), (d), and (e) all explicitly reach the wrong legal conclusion ("The defense succeeds") while relying on falsifiable legal reasoning, such as physical prevention or subjective impossibility overriding the requirement for an internally motivated withdrawal. 
+
+Falsifiable claim per distractor:
+- (b): "completely unrecognized in any jurisdiction that has adopted the Model Penal Code framework" — wrong because MPC § 5.01(4) explicitly codifies and recognizes the affirmative defense of renunciation of criminal purpose.
+- (c): "The defense succeeds because Marcus subjectively believed that continuing the crime was impossible" — wrong because an abandonment motivated by the perceived impossibility of completion due to an external threat (police) makes the abandonment legally involuntary.
+- (d): "The defense succeeds because running away fully physically prevented the completion" — wrong because physical prevention alone is legally insufficient; the doctrine strictly requires the psychological component of a completely voluntary, uncoerced change of heart.
+- (e): "The defense succeeds because Marcus completely severed his ties" — wrong because severing ties in response to an immediate threat of police capture does not meet the legal threshold for a voluntary abandonment.
+
+Recommended fix: Adjust the terminology in (a) to precisely match the statutory categories. Change (a) to: "The defense fails because abandoning a crime due to the fear of immediate police apprehension is motivated by an increased risk of detection, not a genuine change of heart."
 -->

@@ -4,44 +4,28 @@ The QA pipeline flagged this question. Rewrite `q13.md` addressing each numbered
 
 ## Issue 1 — audit
 
-<!-- audit: MUST FIX -->
+**Q13.** Assume Silas is charged with attempted murder for shooting Trey and raises a self-defense claim. How would a jury evaluate the objective reasonableness of Silas's belief that deadly force was necessary?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
-
-Error: Model returned empty or blocked response.
-
-## Issue 2 — argpass-opus
-
-**Q13.** Assume Silas's shooting is evaluated in a jurisdiction that generally imposes a duty to retreat before using deadly force. Did Silas have a duty to retreat from his porch?
-
-(a) In a traditional retreat jurisdiction, Silas's porch likely falls under the castle doctrine exception, which removes the duty to retreat when a person is attacked at home. <!-- correct -->
-(b) In a traditional retreat jurisdiction, Silas was legally required to retreat into his house because the castle doctrine only applies when an attacker breaches the interior walls.
-(c) In a stand-your-ground jurisdiction, Silas had a mandatory duty to retreat because his active participation in gang warfare stripped him of the right to stand his ground.
-(d) In any jurisdiction, Silas had a strict duty to retreat because the duty applies universally whenever a safe avenue of escape is available, even on private property.
-(e) In a traditional retreat jurisdiction, Silas had no duty to retreat because the legal duty to retreat only applies to non-deadly force, not to deadly defensive force.
+(a) A jury could find Silas's belief unreasonable because an objective person in his situation might not assume a mere reach into a jacket constitutes an imminent lethal threat. <!-- correct -->
+(b) A jury must find Silas's belief reasonable because his prior public vow to eliminate Syndicate members legally justifies an immediate preemptive strike against any perceived enemy.
+(c) A jury must find Silas's belief reasonable because Trey was a known syndicate hitman, which automatically satisfies the objective standard for deadly force without further factual inquiry.
+(d) A jury could find Silas's belief unreasonable because the common law strictly requires the victim to actually visibly brandish a deadly weapon before self-defense can be legitimately claimed.
+(e) A jury could find Silas's belief unreasonable because self-defense doctrine strictly requires the perceived threat to involve multiple attackers coordinating a maneuver rather than a single individual.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. Even in jurisdictions that generally impose a duty to retreat before using deadly force, the universally recognized "castle doctrine" exception removes this duty when a person is attacked at their own dwelling, which typically includes the porch. (b) is wrong because the castle doctrine generally extends to the immediate curtilage of the home, such as a porch, not just the interior walls. (c) is wrong because gang involvement does not legally strip a person of their constitutional right to self-defense or stand their ground. (d) is wrong because the castle doctrine explicitly overrides the duty to retreat when the defender is at home. (e) is wrong because the duty to retreat (and the castle exception) only applies to the use of deadly force.
+**Explanation:** (a) is correct. Self-defense requires an objectively reasonable belief in an imminent threat of death or serious bodily harm. The jury incorporates the situational context (Trey's status as a hitman), but ultimately must decide if a reasonable person with an unobstructed escape route would conclude that a rapid walk and a reach into a jacket necessitated immediate lethal force. The jury could reasonably find Silas's assumption unreasonable. (b) is wrong because a public vow to kill does not legally create a continuous threat justifying a preemptive strike; in fact, it undermines his claim by suggesting he was an aggressor. (c) is wrong because while the victim's reputation informs the reasonableness inquiry, it never automatically or absolutely satisfies the standard. (d) is wrong because the law permits lethal force based on a reasonable perception of a deadly weapon, not strict actual possession or brandishing. (e) is wrong because self-defense applies equally against single attackers and imposes no multiple-assailant requirement.
 
-**Tags:** chapters: [22], topics: [self-defense, duty-to-retreat, castle-doctrine], difficulty: easy, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, objective reasonableness], difficulty: medium, cognitive: application
+**Grounding:** Chapter 22, Objective Reasonableness Standard
 
-**Grounding:** Chapter 22; castle doctrine exception to the duty to retreat
-
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: In jurisdictions that generally require retreat before using deadly force, the castle doctrine serves as the primary exception. This doctrine removes the duty to retreat when a defender is attacked in their own home. Courts widely interpret "dwelling" to include the immediate curtilage, such as an attached porch. Therefore, Silas would not have a duty to retreat from his own porch before lawfully defending himself.
-(b) Argument-for: While the castle doctrine protects the home, jurisdictions differ on how strictly "dwelling" is defined. A student could argue that an unenclosed exterior space like a porch lacks the physical boundaries required for the home exception to attach. Consequently, they might conclude that Silas must retreat inside the actual physical structure of the home before the castle doctrine protects his use of deadly force.
-(c) Argument-for: Many modern "stand-your-ground" statutes (such as those in Florida or Texas) explicitly revoke the statutory right to stand one's ground if the defender is engaged in unlawful activity at the time of the incident. If Silas is participating in gang warfare, a student could argue he falls under this statutory exclusion. Under this reasoning, he would lose his stand-your-ground protections and revert to a mandatory duty to retreat.
-(d) Argument-for: The fundamental policy underlying the duty to retreat is the absolute preservation of human life. A student could argue that if a perfectly safe avenue of escape exists, deadly force can never be deemed truly "necessary." Relying on older, exceptionally strict interpretations of retreat, a student might argue the duty applies globally to avoid bloodshed, regardless of whether the defender is on private property.
-(e) Argument-for: A student might become confused about the boundaries between deadly and non-deadly force. They could incorrectly argue that the extreme exigency of a deadly threat inherently precludes any safe retreat, meaning the law waives the duty entirely for deadly encounters. Under this flawed logic, the legal duty to retreat would realistically only apply to non-deadly altercations where the defender has ample time to walk away.
-
-Head-to-head: Option (a) is the strongest and correctly applies the majority rule extending the castle doctrine to the porch/curtilage. Option (b) locks into a falsifiable claim by stating the doctrine "only applies" when interior walls are breached, which is overly narrow and factually false in virtually all castle doctrine applications. Option (c) relies on a premise ("In a stand-your-ground jurisdiction") that directly contradicts the prompt's instruction to evaluate the scenario in a traditional retreat jurisdiction. Option (d) uses absolute phrasing ("In any jurisdiction," "universally") that completely ignores the widely accepted castle doctrine. Option (e) explicitly flips the legal rule; the duty to retreat applies strictly to *deadly* force, not non-deadly force. The distractors all effectively lock into legally or factually false claims, but the explanation for (c) relies on a blatantly incorrect statement of law that must be revised.
-
-Falsifiable claim per distractor:
-- (b): "...because the castle doctrine only applies when an attacker breaches the interior walls." — wrong because the doctrine broadly protects the exterior threshold and curtilage (like porches), not just the interior footprint.
-- (c): "In a stand-your-ground jurisdiction..." — wrong because it explicitly contradicts the prompt's assumption that the jurisdiction generally imposes a duty to retreat. 
-- (d): "In any jurisdiction... universally whenever a safe avenue of escape is available" — wrong because the universally recognized castle doctrine provides an explicit exception to this duty in the home.
-- (e): "...because the legal duty to retreat only applies to non-deadly force..." — wrong because the duty to retreat is explicitly a doctrinal limitation on the use of deadly force.
-
-Recommended fix: Update the explanation for (c). The current explanation claims "gang involvement does not legally strip a person of their constitutional right to self-defense or stand their ground." This is legally false; many states statutorily strip stand-your-ground rights if the defender is engaged in criminal activity (e.g., gang warfare). Revise the explanation for (c) to instead focus on the fact that the option contradicts the prompt's premise (which establishes a duty-to-retreat jurisdiction, not a stand-your-ground jurisdiction).
+<!-- audit: MUST FIX
+check 1: pass
+check 2: pass
+check 3: fail - The explanation introduces facts ("an unobstructed escape route," "a rapid walk") that appear nowhere in the stem or the correct answer text.
+check 4: fail - The stem is completely missing the underlying fact pattern. It relies on facts (Trey being a hitman, Silas's public vow, reaching into a jacket) that are only revealed in the answer choices or the explanation. This question appears to have been detached from a master fact pattern.
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Integrate the missing facts into the stem. For example: "Silas previously made a public vow to eliminate Syndicate members. Later, Silas encounters Trey, a known Syndicate hitman, walking rapidly toward him. Silas has an unobstructed escape route, but when Trey reaches into his jacket, Silas shoots him. Assume Silas is charged with attempted murder..."
 -->

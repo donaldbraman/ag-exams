@@ -1,18 +1,17 @@
-**Q12.** Assume that, whether or not the threat was legally imminent, Silas must prove that his fear was objectively reasonable. Is Silas's belief that deadly force was necessary objectively reasonable under the circumstances?
+**Q12.** Assume that the jurisdiction strictly excludes Antisocial Personality Disorder (APD) from qualifying as a mental disease. Does Leo's APD diagnosis legally defeat his insanity defense?
 
-(a) Yes, because a reasonable person possessing Silas's specific background knowledge of the intelligence and retaliatory tactics would likely perceive the sudden reach as a lethal threat. <!-- correct -->
-(b) Yes, because Silas's undeniably genuine personal fear of assassination is entirely sufficient to establish absolute legal reasonableness under a purely subjective and individualized evaluation standard.
-(c) No, because Trey was entirely unarmed at the time, making it inherently unreasonable for any person to actively perceive an immediate threat of deadly force.
-(d) No, because the strict objective standard rigorously prohibits the consideration of the defendant's prior experiences, affiliations, or contextual background knowledge of the attacker.
-(e) No, because Silas was actively engaged in ongoing criminal gang activity, which categorically and permanently disqualifies him from legally claiming any reasonable fear.
+(a) The defense may succeed because a qualifying mental disease like schizophrenia can support the defense if it caused the incapacity, even if a non-qualifying personality disorder contributed. <!-- correct -->
+(b) The defense may succeed because any clinical diagnosis of a personality disorder automatically meets the statutory definition of a qualifying mental disease under the modern approach.
+(c) The defense will fail because the presence of antisocial personality disorder legally taints the diagnosis, requiring the defendant to prove it played absolutely no causal role.
+(d) The defense will fail because the Model Penal Code categorically explicitly requires the qualifying mental disease to be the absolute sole cause of the criminal conduct.
+(e) The defense will fail because a co-occurring diagnosis forces the burden of proof back onto the prosecution to disprove the insanity claim beyond a reasonable doubt.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because the objective reasonableness standard (*Goetz*) incorporates the defendant's prior experiences and specific knowledge of the attacker. A reasonable person who possesses Silas's knowledge of the credible intelligence and the Syndicate's retaliatory tactics would likely perceive Trey's sudden reach as a lethal threat. (b) is wrong because the legal standard is not purely subjective; it requires that a reasonable person in the defendant's situation would share that fear. (c) is wrong because reasonableness is judged based on the facts as they reasonably appeared to the defendant at the time, not based on hindsight discovery that the victim was unarmed. (d) is wrong because the objective standard expressly allows the incorporation of the defendant's specific physical circumstances and prior background knowledge. (e) is wrong because gang membership does not categorically disqualify an individual from asserting a reasonable fear of imminent harm.
+**Explanation:** (a) is correct. As demonstrated in cases like *State v. Meiser*, statutes commonly exclude conditions manifested solely by antisocial conduct (like APD). However, when a defendant has co-occurring diagnoses, the defense remains legally viable so long as a qualifying disease (like severe schizophrenia) actually caused the requisite legal incapacity. The presence of a contributing personality disorder does not legally bar the defense. (b) is wrong because most state statutes and the MPC explicitly exclude personality disorders standing alone from the definition of a qualifying mental disease. (c) is wrong because courts reject the "taint" theory; the non-qualifying disorder does not have to be entirely excluded from the causal chain if the qualifying disease was an operative cause. (d) is wrong because neither the MPC nor general doctrine imposes an absolute "sole cause" requirement on the qualifying mental disease. (e) is wrong because a co-occurring diagnosis has no bearing on the jurisdictional allocation of the burden of proof.
 
-**Tags:** chapters: [22], topics: [self-defense, objective reasonableness], difficulty: hard, cognitive: application
-
-**Grounding:** Chapter 22 (Self-Defense: The Objective Reasonableness Standard / People v. Goetz)
+**Tags:** chapters: [23], topics: [insanity, co-occurring causation, personality disorder], difficulty: hard, cognitive: application
+**Grounding:** Chapter 23, State v. Meiser
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
