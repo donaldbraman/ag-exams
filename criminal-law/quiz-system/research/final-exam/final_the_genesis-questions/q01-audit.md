@@ -1,0 +1,31 @@
+**Q1.** State Statute 101 punishes the residential storage of hazardous chemicals with a $500 fine and is silent on mental state. Under the Morissette framework, does the State need to prove that Brenda possessed a culpable mental state regarding this storage offense?
+
+(a) Yes, because the Morissette presumption requires reading in a recklessness standard whenever a criminal statute is entirely silent on mental state.
+(b) Yes, because hazardous chemical storage is an inherently wrongful act (malum in se), triggering the common law requirement for proof of mens rea.
+(c) No, because the statute targets hazardous items with capacity for widespread harm and carries only a minor penalty, marking it as a public welfare offense. <!-- correct -->
+(d) No, because the MPC "one for all" rule dictates that silence on mental state in any element implies strict liability for the entire statutory offense.
+(e) Yes, because the imposition of strict liability is constitutionally barred unless the legislature has explicitly authorized it in the precise text of the statute.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct. Under the Morissette framework, the presumption that criminal statutes require mens rea is displaced for "public welfare offenses." These offenses regulate dangerous items (hazardous industrial chemicals), involve defendants in a position to prevent harm, and carry minor penalties ($500 fine).
+(a) is wrong because while the Morissette presumption generally reads mens rea into silent statutes, the public welfare exception applies to this specific type of regulatory offense.
+(b) is wrong because chemical storage is a regulatory offense (malum prohibitum), not inherently wrongful like theft or assault.
+(d) is wrong because the MPC defaults to recklessness, not strict liability, when a statute is silent (MPC 2.02(3)).
+(e) is wrong because strict liability can be inferred from statutory silence under the public welfare exception; explicit authorization is not constitutionally required.
+
+**Tags:** chapters: [11], topics: [public welfare offenses, morissette presumption, strict liability], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 11 - morissette-factor-2-dangerous-items, morissette-factor-4-minor-penalties
+
+<!-- audit: CLEAN
+1: pass
+2: pass
+3: pass
+4: pass
+5: pass
+6: pass
+7: pass
+8: pass
+Recommended fix: None.
+-->

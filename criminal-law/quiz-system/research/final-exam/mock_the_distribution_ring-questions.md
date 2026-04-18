@@ -1,3 +1,7 @@
+### Stem 1: The Sting Operation
+
+Our narcotics unit has been tracking a new distribution ring. We ran a sting operation yesterday that yielded mixed results. Read the initial surveillance reports. I need a memo assessing whether we have actionable conspiracy charges based on their meeting, and whether the attempted distribution charge against the buyer holds water given his actions en route.
+
 **Q1.** Is there sufficient evidence of a conspiratorial agreement between Artie, Ben, Cole, and Damon?
 
 (a) Yes, because a silent nod and acceptance of cash in response to an explicit proposal of coordinated criminal activity is sufficient to infer an agreement under the totality of circumstances. <!-- correct -->
@@ -67,6 +71,10 @@
 **Grounding:** Chapter 17 - MPC Abolition of Impossibility Defense
 
 ---
+
+### Stem 2: The Stash House Homicide
+
+While the sting was unfolding, the rest of the ring hit the East Side stash house, and it went sideways. We have a dead body. I need you to evaluate the homicide liability for both the shooter and the lookout. Focus on whether the shooter's personal reaction changes the underlying felony, and whether the lookout can be held liable for the murder under different complicity theories.
 
 **Q5.** Assume Cole is charged with aiding and abetting an armed robbery in a federal court applying the *Rosemond* standard. Did Cole possess the requisite mens rea to be liable for the *armed* nature of the robbery?
 
@@ -191,6 +199,10 @@
 **Grounding:** Chapter 12 - Words Alone (Girouard)
 
 ---
+
+### Stem 3: The Aftermath and Arrests
+
+We just raided Artie's apartment and pulled text logs. Cole has completely disappeared. I need to know if Cole successfully severed his legal ties to the group, whether we can pin the murder on Artie as the ringleader, and how strong our possession case is for the contraband found in the locked safe.
 
 **Q12.** Assume that, rightly or wrongly, the court finds the existence of an ongoing narcotics conspiracy between Artie, Cole, and Damon was legally established. Did Cole's actions following the fatal shooting validly withdraw him from the enterprise, thereby terminating his liability for any future crimes?
 

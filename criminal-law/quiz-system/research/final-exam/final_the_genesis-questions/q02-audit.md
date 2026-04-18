@@ -1,0 +1,31 @@
+**Q2.** Assume for this question that Statute 101 requires proof that Brenda "knowingly" violated the residential storage law. Can Brenda successfully assert a mistake of law defense?
+
+(a) Yes, because her mistake regarding the zoning variance negated the factual elements required to establish that she operated a pharmaceutical lab.
+(b) Yes, because she reasonably relied on a formal written statement from the City Zoning Commissioner, an official charged with interpreting such laws. <!-- correct -->
+(c) No, because ignorance of the law is never an excuse, and a zoning commissioner's error cannot immunize a defendant from a criminal prosecution.
+(d) No, because her reliance was on advice concerning a collateral property law issue rather than an interpretation of the specific penal statute itself.
+(e) No, because the statute requires knowledge of the violation, meaning she must only know the factual nature of her conduct, not its legal status.
+
+**Answer:** (b)
+
+**Explanation:** (b) is correct. The common law and MPC 2.04(3) recognize a narrow exception to the "ignorance of law is no excuse" rule when a defendant genuinely and reasonably relies on an official statement of the law from a public officer or body charged with its interpretation.
+(a) is wrong because this is a mistake of law, not a mistake of fact.
+(c) is wrong because the traditional rule has an established exception for reasonable reliance on official statements.
+(d) is wrong because a zoning commissioner's formal determination that a unit is exempt directly addresses the legal applicability of the storage regulation.
+(e) is wrong because if a statute explicitly requires one to "knowingly" violate the law, culpability as to illegality is required, making the mistake defense highly relevant.
+
+**Tags:** chapters: [10], topics: [mistake of law, official statement exception], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 10 - mol-official-statement
+
+<!-- audit: MUST FIX
+Check 1: MUST FIX. The stem directs students to assume the statute requires proof that Brenda "knowingly" violated the law. Under this assumption, *any* genuine mistake of law becomes a defense because it negates the required mens rea as to illegality (e.g., MPC 2.04(1)). However, the marked answer (b) relies on the narrow "official statement" affirmative defense (MPC 2.04(3)). A prepared student would recognize that if the statute requires a "knowing" violation, the defendant does not need to satisfy the strict requirements of the official statement exception to mount a successful defense.
+Check 2: pass
+Check 3: MUST FIX. The explanations for (b) and (e) are doctrinally contradictory. Explanation (b) relies on the official statement exception (which generally applies when a mistake does *not* negate mens rea), while explanation (e) correctly points out that the "knowingly" requirement means "culpability as to illegality is required" (meaning the mistake *does* negate mens rea). 
+Check 4: SHOULD FIX. The question relies on a missing fact pattern (Brenda, the zoning commissioner). Additionally, without the facts, it is unclear if the City Zoning Commissioner is actually an official charged with interpreting the *specific penal statute* at issue, which is required for the official statement exception (as raised by distractor D).
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: To test the official statement exception, remove the "Assume... knowingly violated" sentence from the stem, as it triggers a completely different doctrine (mistake negating mens rea). If the goal is to test how the word "knowingly" alters the general rule, rewrite the correct answer to: "Yes, because her mistake regarding the legal status of her conduct negates the 'knowing' mens rea element required by the statute."
+-->

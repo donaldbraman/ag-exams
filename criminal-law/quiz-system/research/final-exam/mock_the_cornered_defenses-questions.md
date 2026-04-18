@@ -1,3 +1,7 @@
+### Stem 1: Warehouse Liability
+
+Counsel, the ADA just handed us a massive indictment for the warehouse incident. Artie, Benny, and Silas are all pleading affirmative defenses. I need a memo detailing the justification versus excuse distinction for Artie and Benny, analyzing Benny's mens rea as an accomplice, and breaking down Silas's mental state defenses across different jurisdictional rules. Finally, evaluate the conspiracy formation and tell me if Dante is on the hook for Silas shooting Vargas under Pinkerton or felony murder.
+
 **Q1.** Theft in this jurisdiction is defined as "purposely depriving another of their movable property." Assuming Artie was negligent with respect to creating the risk of an explosion, under the Model Penal Code, which affirmative defense or defenses may he validly raise for the theft of the nitrogen tanker?
 
 (a) Both necessity, because the theft avoided a greater catastrophic harm, and duress, because he faced an imminent threat of death. <!-- correct -->
@@ -141,6 +145,10 @@
 **Grounding:** Chapter 19 - Conspiracy: Agreement; Overt Act requirements.
 
 ---
+
+### Stem 2: The Apartment Fallout
+
+Dante was arrested at his apartment after shooting Hector. He's claiming absolute self-defense, citing the Castle Doctrine. Review the timeline of the confrontation. I need to know if the threat was actually imminent, whether he had a duty to retreat despite being in his own home, and if an imperfect self-defense claim can mitigate a murder charge. Also, analyze his drug possession exposure based on the search of the warehouse safe.
 
 **Q9.** Based on the police seizure at the warehouse, is Dante legally guilty of constructively possessing the finished drugs stored inside the reinforced steel safe?
 

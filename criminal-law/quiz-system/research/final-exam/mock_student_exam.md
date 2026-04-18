@@ -394,7 +394,10 @@ e. Guilty, because striking Omar occurred continuously during the exact same tim
 
 ### Scenario 2 Continued: Inchoate & Conspiracy Charges
 
-"Now that we've mapped the homicides, we need to secure the underlying drug, conspiracy, and attempt charges. We have financial evidence linking Sloane to the operation, and drug evidence from Trey's arrest. Analyze the conspiracy and accomplice liability for Sloane, attempt liability for Trey, and whether we can charge the whole network under RICO."
+::: {.callout-note appearance="minimal" icon="false"}
+**Memo:** "Now that we've mapped the homicides, we need to secure the underlying drug, conspiracy, and attempt charges. We have financial evidence linking Sloane to the operation, and drug evidence from Trey's arrest. Analyze the conspiracy and accomplice liability for Sloane, attempt liability for Trey, and whether we can charge the whole network under RICO."
+:::
+
 
 **Q23.** Assume Sloane is charged with conspiracy to distribute fentanyl. Assume she establishes she viewed herself as merely a chemist providing a neutral service. Under the *Lauria* standard for inferring purpose, does her compensation structure establish the requisite intent?
 
@@ -505,13 +508,20 @@ e. It does not qualify as an enterprise, because establishing liability requires
 
 ---
 
+### Scenario 3 Continued: The Sting Operation
+
+::: {.callout-note appearance="minimal" icon="false"}
+**Memo:** Our narcotics unit has been tracking a new distribution ring. We ran a sting operation yesterday that yielded mixed results. Read the initial surveillance reports. I need a memo assessing whether we have actionable conspiracy charges based on their meeting, and whether the attempted distribution charge against the buyer holds water given his actions en route.
+:::
+
+
 **Q29.** Is there sufficient evidence of a conspiratorial agreement between Artie, Ben, Cole, and Damon?
 
-a. No, because Ben, Cole, and Damon did not explicitly discuss specific details or individual roles among themselves, leaving the precise terms of the criminal enterprise undefined and incomplete.
-b. Yes, because a silent nod and acceptance of cash in response to an explicit proposal of coordinated criminal activity is sufficient to infer an agreement under the totality of circumstances.
-c. No, because under the bilateral approach to conspiracy, the prosecution must prove a formal verbal or written contract between all parties before liability can attach to the group.
-d. No, because an agreement to merely "take over the corners" is too generalized and vague to constitute the specific intent to commit a target offense required for a conspiracy conviction.
-e. Yes, because conspiracy is a strict liability offense where receiving any funds originating from a criminal enterprise automatically establishes membership regardless of the recipient's intent.
+a. Yes, because conspiracy is a strict liability offense where receiving any funds originating from a criminal enterprise automatically establishes membership regardless of the recipient's intent.
+b. No, because Ben, Cole, and Damon did not explicitly discuss specific details or individual roles among themselves, leaving the precise terms of the criminal enterprise undefined and incomplete.
+c. No, because an agreement to merely "take over the corners" is too generalized and vague to constitute the specific intent to commit a target offense required for a conspiracy conviction.
+d. Yes, because a silent nod and acceptance of cash in response to an explicit proposal of coordinated criminal activity is sufficient to infer an agreement under the totality of circumstances.
+e. No, because under the bilateral approach to conspiracy, the prosecution must prove a formal verbal or written contract between all parties before liability can attach to the group.
 
 
 
@@ -561,13 +571,20 @@ e. Yes, because under the MPC framework, criminal attempt inherently requires an
 
 ---
 
+### Scenario 3 Continued: The Stash House Homicide
+
+::: {.callout-note appearance="minimal" icon="false"}
+**Memo:** While the sting was unfolding, the rest of the ring hit the East Side stash house, and it went sideways. We have a dead body. I need you to evaluate the homicide liability for both the shooter and the lookout. Focus on whether the shooter's personal reaction changes the underlying felony, and whether the lookout can be held liable for the murder under different complicity theories.
+:::
+
+
 **Q33.** Assume Cole is charged with aiding and abetting an armed robbery in a federal court applying the *Rosemond* standard. Did Cole possess the requisite mens rea to be liable for the *armed* nature of the robbery?
 
-a. No, because Cole immediately expressed genuine surprise upon seeing the loaded weapon, which legally demonstrates that the firearm was entirely outside the scope of his original agreement.
-b. No, because Damon explicitly assured Cole that the handgun was merely "just for show," negating any finding that Cole intended for the firearm to be actively used during the robbery.
-c. Yes, because Cole gained knowledge that Damon was armed while they were still outside the stash house, providing him with a meaningful opportunity to walk away before the crime commenced.
-d. Yes, because under the federal complicity standard, a lookout who discovers a weapon at any point during the ongoing commission of the offense is deemed to have intended its use retroactively.
-e. Yes, because any accomplice who voluntarily participates in a drug-related stash house robbery is strictly liable for any firearms carried by coconspirators regardless of any advance knowledge.
+a. Yes, because Cole gained knowledge that Damon was armed while they were still outside the stash house, providing him with a meaningful opportunity to walk away before the crime commenced.
+b. No, because Cole immediately expressed genuine surprise upon seeing the loaded weapon, which legally demonstrates that the firearm was entirely outside the scope of his original agreement.
+c. Yes, because under the federal complicity standard, a lookout who discovers a weapon at any point during the ongoing commission of the offense is deemed to have intended its use retroactively.
+d. Yes, because any accomplice who voluntarily participates in a drug-related stash house robbery is strictly liable for any firearms carried by coconspirators regardless of any advance knowledge.
+e. No, because Damon explicitly assured Cole that the handgun was merely "just for show," negating any finding that Cole intended for the firearm to be actively used during the robbery.
 
 
 
@@ -577,11 +594,11 @@ e. Yes, because any accomplice who voluntarily participates in a drug-related st
 
 **Q34.** Assume that, whether or not Cole had advance knowledge of the gun, he claims he only acted as a lookout because he needed Artie's cash, not because he wanted the robbery to succeed. Under the traditional complicity standard (as in *Gladstone* / *Peoni*), does this defense defeat accomplice liability?
 
-a. No, because by intentionally taking his assigned post as a lookout, Cole demonstrated that he associated himself with the criminal venture and sought to make it succeed.
-b. No, because under the traditional complicity standard, mere presence near the scene of a crime automatically satisfies the purpose requirement regardless of the defendant's internal motivations.
-c. Yes, because Cole's primary desire was simply to keep the cash advance rather than to ensure the actual success of the robbery, meaning he lacked the necessary purposive mental state.
-d. Yes, because an accomplice must harbor personal animus or ideological support for the crime, which is structurally absent when the sole motivation is securing a financial payout.
-e. No, because modern accomplice liability only requires the defendant to possess mere knowledge that their physical presence will assist a crime, making subjective purpose legally irrelevant.
+a. Yes, because an accomplice must harbor personal animus or ideological support for the crime, which is structurally absent when the sole motivation is securing a financial payout.
+b. Yes, because Cole's primary desire was simply to keep the cash advance rather than to ensure the actual success of the robbery, meaning he lacked the necessary purposive mental state.
+c. No, because modern accomplice liability only requires the defendant to possess mere knowledge that their physical presence will assist a crime, making subjective purpose legally irrelevant.
+d. No, because under the traditional complicity standard, mere presence near the scene of a crime automatically satisfies the purpose requirement regardless of the defendant's internal motivations.
+e. No, because by intentionally taking his assigned post as a lookout, Cole demonstrated that he associated himself with the criminal venture and sought to make it succeed.
 
 
 
@@ -592,10 +609,10 @@ e. No, because modern accomplice liability only requires the defendant to posses
 **Q35.** Assume the jurisdiction applies the traditional natural and probable consequences (NPC) doctrine. Can Cole be held liable for Vic's murder?
 
 a. Yes, because under the traditional NPC doctrine, an accomplice to any felony is strictly liable for any death that occurs during the crime regardless of objective foreseeability.
-b. No, because Damon's sudden, rage-induced decision to shoot Vic over an insult constituted an unforeseeable independent intervening act that breaks the chain of accomplice liability.
-c. Yes, because Cole's act of standing at the back door as a lookout directly and proximately caused Vic's death by preventing Vic from safely escaping the premises during the confrontation.
-d. No, because Cole explicitly relied on Damon's assurance that the gun was "just for show," making the subsequent fatal shooting legally unforeseeable to a reasonable person in his position.
-e. Yes, because a fatal shooting is a foreseeable result of an armed stash house robbery, even if Cole only authorized a robbery and did not intend for anyone to be killed.
+b. Yes, because Cole's act of standing at the back door as a lookout directly and proximately caused Vic's death by preventing Vic from safely escaping the premises during the confrontation.
+c. No, because Damon's sudden, rage-induced decision to shoot Vic over an insult constituted an unforeseeable independent intervening act that breaks the chain of accomplice liability.
+d. Yes, because a fatal shooting is a foreseeable result of an armed stash house robbery, even if Cole only authorized a robbery and did not intend for anyone to be killed.
+e. No, because Cole explicitly relied on Damon's assurance that the gun was "just for show," making the subsequent fatal shooting legally unforeseeable to a reasonable person in his position.
 
 
 
@@ -606,10 +623,10 @@ e. Yes, because a fatal shooting is a foreseeable result of an armed stash house
 **Q36.** Assume instead that the jurisdiction has enacted natural and probable consequences reform identical to California's SB 1437. Does this reform automatically bar Cole's liability for Vic's murder?
 
 a. No, because the jury could still convict Cole if it finds he was a major participant in the underlying felony who acted with reckless indifference to human life.
-b. No, because SB 1437 only applies to unarmed accomplices, and Cole's knowledge of Damon's firearm immediately disqualifies him from asserting the statutory defense.
-c. Yes, because the reform categorically eliminates all forms of vicarious liability for homicide unless the prosecution can prove the accomplice personally pulled the trigger.
-d. No, because the reform merely shifts the burden of proof to the defendant to prove by a preponderance of evidence that the killing was entirely unforeseeable.
-e. Yes, because Cole lacked the specific intent to kill Vic, and the reformed statute strictly prohibits imputing malice under any circumstances during a felony.
+b. Yes, because the reform categorically eliminates all forms of vicarious liability for homicide unless the prosecution can prove the accomplice personally pulled the trigger.
+c. Yes, because Cole lacked the specific intent to kill Vic, and the reformed statute strictly prohibits imputing malice under any circumstances during a felony.
+d. No, because SB 1437 only applies to unarmed accomplices, and Cole's knowledge of Damon's firearm immediately disqualifies him from asserting the statutory defense.
+e. No, because the reform merely shifts the burden of proof to the defendant to prove by a preponderance of evidence that the killing was entirely unforeseeable.
 
 
 
@@ -619,11 +636,11 @@ e. Yes, because Cole lacked the specific intent to kill Vic, and the reformed st
 
 **Q37.** Assume the jurisdiction applies the traditional felony murder rule. Is Cole guilty of felony murder for Vic's death?
 
-a. Yes, because the felony murder rule permits convictions based solely on a defendant's physical presence near the scene of a violent crime, regardless of their role.
+a. No, because Damon shot Vic out of personal rage over an insult, severing the causal nexus between the underlying stash house robbery and the resulting homicide.
 b. No, because Cole was stationed outside as a lookout and did not personally commit any act of physical violence or directly encourage the fatal shooting.
-c. Yes, because under the modern agency approach to felony murder, the primary target of any robbery is automatically presumed to have consented to the risk of death.
-d. Yes, because Vic's death was caused by a co-felon during the attempted perpetration of an inherently dangerous predicate felony in which Cole was an active accomplice.
-e. No, because Damon shot Vic out of personal rage over an insult, severing the causal nexus between the underlying stash house robbery and the resulting homicide.
+c. Yes, because Vic's death was caused by a co-felon during the attempted perpetration of an inherently dangerous predicate felony in which Cole was an active accomplice.
+d. Yes, because under the modern agency approach to felony murder, the primary target of any robbery is automatically presumed to have consented to the risk of death.
+e. Yes, because the felony murder rule permits convictions based solely on a defendant's physical presence near the scene of a violent crime, regardless of their role.
 
 
 
@@ -658,6 +675,13 @@ e. No, because Damon brought a loaded weapon to the scene, legally proving that 
 
 
 ---
+
+
+### Scenario 3 Continued: The Aftermath and Arrests
+
+::: {.callout-note appearance="minimal" icon="false"}
+**Memo:** We just raided Artie's apartment and pulled text logs. Cole has completely disappeared. I need to know if Cole successfully severed his legal ties to the group, whether we can pin the murder on Artie as the ringleader, and how strong our possession case is for the contraband found in the locked safe.
+:::
 
 
 **Q40.** Assume that, rightly or wrongly, the court finds the existence of an ongoing narcotics conspiracy between Artie, Cole, and Damon was legally established. Did Cole's actions following the fatal shooting validly withdraw him from the enterprise, thereby terminating his liability for any future crimes?
@@ -739,12 +763,19 @@ e. Constructive possession is established because placing contraband under a sea
 
 ---
 
+### Scenario 4 Continued: Warehouse Liability
+
+::: {.callout-note appearance="minimal" icon="false"}
+**Memo:** Counsel, the ADA just handed us a massive indictment for the warehouse incident. Artie, Benny, and Silas are all pleading affirmative defenses. I need a memo detailing the justification versus excuse distinction for Artie and Benny, analyzing Benny's mens rea as an accomplice, and breaking down Silas's mental state defenses across different jurisdictional rules. Finally, evaluate the conspiracy formation and tell me if Dante is on the hook for Silas shooting Vargas under Pinkerton or felony murder.
+:::
+
+
 **Q44.** Theft in this jurisdiction is defined as "purposely depriving another of their movable property." Assuming Artie was negligent with respect to creating the risk of an explosion, under the Model Penal Code, which affirmative defense or defenses may he validly raise for the theft of the nitrogen tanker?
 
-a. Both necessity, because the theft avoided a greater catastrophic harm, and duress, because he faced an imminent threat of death.
-b. Neither, because his initial voluntary participation in the illegal drug operation automatically forecloses both affirmative defenses regardless of threat.
+a. Necessity only, because duress is categorically unavailable as an excuse for any crime involving the theft of hazardous materials.
+b. Both necessity, because the theft avoided a greater catastrophic harm, and duress, because he faced an imminent threat of death.
 c. Duress only, because the coercion came from a human actor rather than natural circumstances, precluding the necessity defense entirely.
-d. Necessity only, because duress is categorically unavailable as an excuse for any crime involving the theft of hazardous materials.
+d. Neither, because his initial voluntary participation in the illegal drug operation automatically forecloses both affirmative defenses regardless of threat.
 e. Neither, because he had a reasonable legal alternative to contact law enforcement rather than intentionally stealing the commercial nitrogen.
 
 
@@ -756,9 +787,9 @@ e. Neither, because he had a reasonable legal alternative to contact law enforce
 **Q45.** Under the traditional common law standard for derivative liability, is Benny guilty as an accomplice to Artie's theft of the tanker?
 
 a. Guilty, because Benny was present at the scene and his failure to intervene constituted an omission that aided the criminal act.
-b. Guilty, because Benny knew the tools would be used to commit a crime, which is sufficient for liability under the traditional rule.
-c. Not guilty, because Benny acted with mere knowledge that the theft would occur, lacking the purpose to facilitate the underlying offense.
-d. Not guilty, because Benny did not physically participate in the actual taking and driving of the nitrogen tanker from the lot.
+b. Not guilty, because Benny did not physically participate in the actual taking and driving of the nitrogen tanker from the lot.
+c. Guilty, because Benny knew the tools would be used to commit a crime, which is sufficient for liability under the traditional rule.
+d. Not guilty, because Benny acted with mere knowledge that the theft would occur, lacking the purpose to facilitate the underlying offense.
 e. Guilty, because providing specialized hotwiring tools to commit a crime automatically satisfies the strict mental state for derivative accomplice liability.
 
 
@@ -769,11 +800,11 @@ e. Guilty, because providing specialized hotwiring tools to commit a crime autom
 
 **Q46.** Assume that, regardless of your answer to the previous question, Benny acted with the required purpose to aid Artie. Under traditional common law doctrine, how does the classification of Artie's affirmative defense legally impact Benny's derivative liability?
 
-a. Benny remains fully liable in all circumstances because derivative accomplice liability irrevocably attaches the moment the principal commits the prohibited physical act.
-b. If Artie succeeds on a duress defense, Benny is shielded from liability because the duress excuse automatically transfers to any accomplice at the scene.
-c. If Artie succeeds on either necessity or duress, Benny is completely shielded because both doctrines operate to fully negate the underlying actus reus.
+a. If Artie succeeds on a duress defense, Benny is shielded from liability because the duress excuse automatically transfers to any accomplice at the scene.
+b. If Artie succeeds on a necessity defense, Benny is shielded from liability, but if Artie succeeds only on a duress defense, Benny remains fully liable.
+c. Benny remains fully liable in all circumstances because derivative accomplice liability irrevocably attaches the moment the principal commits the prohibited physical act.
 d. Benny's liability is evaluated independently, meaning Artie's successful assertion of any affirmative defense has absolutely no legal bearing on Benny's criminal guilt.
-e. If Artie succeeds on a necessity defense, Benny is shielded from liability, but if Artie succeeds only on a duress defense, Benny remains fully liable.
+e. If Artie succeeds on either necessity or duress, Benny is completely shielded because both doctrines operate to fully negate the underlying actus reus.
 
 
 
@@ -783,11 +814,11 @@ e. If Artie succeeds on a necessity defense, Benny is shielded from liability, b
 
 **Q47.** Under the M'Naghten and Model Penal Code (MPC) insanity tests, is Silas legally entitled to an acquittal for the shooting of Vargas?
 
-a. Convicted under both tests, because his statement about protecting the castle proves he understood the mechanical nature of firing a lethal weapon.
-b. Acquitted under both tests, because his delusion prevented him from understanding the nature of his act and appreciating its moral wrongfulness.
-c. Acquitted under the MPC only, because the M'Naghten rule requires a total inability to control one's actions, which Silas clearly maintained.
+a. Acquitted under both tests, because his delusion prevented him from understanding the nature of his act and appreciating its moral wrongfulness.
+b. Acquitted under the MPC only, because the M'Naghten rule requires a total inability to control one's actions, which Silas clearly maintained.
+c. Acquitted under M'Naghten only, because the MPC test strictly requires proof of an irresistible impulse, which is absent from Silas's deliberate shooting.
 d. Convicted under both tests, because his voluntary participation in a criminal conspiracy legally precludes the use of the insanity defense for foreseeable crimes.
-e. Acquitted under M'Naghten only, because the MPC test strictly requires proof of an irresistible impulse, which is absent from Silas's deliberate shooting.
+e. Convicted under both tests, because his statement about protecting the castle proves he understood the mechanical nature of firing a lethal weapon.
 
 
 
@@ -799,8 +830,8 @@ e. Acquitted under M'Naghten only, because the MPC test strictly requires proof 
 
 a. Not guilty, because the federal constitution requires all jurisdictions to acquit defendants who cannot appreciate the moral wrongfulness of their criminal conduct.
 b. Guilty, because the abolition of the insanity defense strictly prohibits any consideration of psychiatric evidence by the jury during a criminal trial.
-c. Not guilty, because his delusion that he was shooting a fire-demon prevented him from forming the specific intent to kill a human being.
-d. Guilty, because his deliberate aiming and firing of the weapon demonstrates sufficient voluntary action to satisfy all necessary elements of the charged crime.
+c. Guilty, because his deliberate aiming and firing of the weapon demonstrates sufficient voluntary action to satisfy all necessary elements of the charged crime.
+d. Not guilty, because his delusion that he was shooting a fire-demon prevented him from forming the specific intent to kill a human being.
 e. Guilty, because he intended to destroy the entity before him, which automatically transfers to the human victim under the doctrine of transferred intent.
 
 
@@ -811,11 +842,11 @@ e. Guilty, because he intended to destroy the entity before him, which automatic
 
 **Q49.** Is Dante legally liable for the murder of Vargas under the Pinkerton doctrine?
 
-a. Liable, because Silas's act of shooting a rival to protect the drug shipment was a foreseeable consequence in furtherance of the ongoing conspiracy.
-b. Liable, because the Pinkerton doctrine holds all conspirators strictly liable for any crime committed by a co-conspirator, regardless of its factual foreseeability.
-c. Not liable, because Silas's act was the result of a psychotic delusion rather than a rationally planned act designed to further the conspiracy.
-d. Not liable, because Pinkerton liability only applies to the specific target offense initially agreed upon, which was drug manufacturing rather than intentional homicide.
-e. Not liable, because Dante was not physically present at the warehouse when the shooting occurred, which severs the necessary chain of proximate causation.
+a. Not liable, because Pinkerton liability only applies to the specific target offense initially agreed upon, which was drug manufacturing rather than intentional homicide.
+b. Not liable, because Dante was not physically present at the warehouse when the shooting occurred, which severs the necessary chain of proximate causation.
+c. Liable, because Silas's act of shooting a rival to protect the drug shipment was a foreseeable consequence in furtherance of the ongoing conspiracy.
+d. Not liable, because Silas's act was the result of a psychotic delusion rather than a rationally planned act designed to further the conspiracy.
+e. Liable, because the Pinkerton doctrine holds all conspirators strictly liable for any crime committed by a co-conspirator, regardless of its factual foreseeability.
 
 
 
@@ -825,11 +856,11 @@ e. Not liable, because Dante was not physically present at the warehouse when th
 
 **Q50.** Under the traditional common law, assume the jurisdiction explicitly enumerates illicit drug manufacturing as a predicate offense in its first-degree murder statute. Is Dante guilty of felony murder for the death of Vargas?
 
-a. Guilty, because the modern felony murder rule operates as a strict liability offense that explicitly ignores whether the underlying crime was inherently dangerous.
+a. Not guilty, because the modern agency approach to felony murder categorically bars derivative liability whenever the fatal blow is struck by a co-felon.
 b. Not guilty, because Silas's severe mental illness acts as an independent intervening cause that legally breaks the necessary chain of proximate causation.
-c. Not guilty, because the modern agency approach to felony murder categorically bars derivative liability whenever the fatal blow is struck by a co-felon.
-d. Guilty, because the homicide occurred during the perpetration of an enumerated drug manufacturing felony in which Dante was a willing participant.
-e. Not guilty, because Dante completely lacked the specific intent to kill Vargas, which is a mandatory prerequisite for any valid murder conviction.
+c. Guilty, because the homicide occurred during the perpetration of an enumerated drug manufacturing felony in which Dante was a willing participant.
+d. Not guilty, because Dante completely lacked the specific intent to kill Vargas, which is a mandatory prerequisite for any valid murder conviction.
+e. Guilty, because the modern felony murder rule operates as a strict liability offense that explicitly ignores whether the underlying crime was inherently dangerous.
 
 
 
@@ -840,9 +871,9 @@ e. Not guilty, because Dante completely lacked the specific intent to kill Varga
 **Q51.** In a jurisdiction that strictly enforces the bilateral requirement for agreement to a conspiracy, have Leo, Artie, Silas, and Dante legally satisfied the prima facie elements of criminal conspiracy?
 
 a. Yes, because the agreement to manufacture Schedule II narcotics is a strict liability conspiracy that does not require any overt act to be prosecutable.
-b. No, because the active presence of an undercover agent is strictly required to establish a legally valid conspiracy prosecution under the traditional Wharton Rule.
-c. No, because the criminal operation had not yet produced any finished synthetic opioids, meaning the agreement remained exclusively in the unpunishable preparatory stage.
-d. No, because Silas's severe schizophrenia rendered him legally incapable of forming the specific intent to agree, voiding the bilateral agreement for all parties.
+b. No, because Silas's severe schizophrenia rendered him legally incapable of forming the specific intent to agree, voiding the bilateral agreement for all parties.
+c. No, because the active presence of an undercover agent is strictly required to establish a legally valid conspiracy prosecution under the traditional Wharton Rule.
+d. No, because the criminal operation had not yet produced any finished synthetic opioids, meaning the agreement remained exclusively in the unpunishable preparatory stage.
 e. Yes, because they formed a mutual agreement to commit a crime and the pooling of money and warehouse rental constituted overt acts in furtherance.
 
 
@@ -851,13 +882,20 @@ e. Yes, because they formed a mutual agreement to commit a crime and the pooling
 
 ---
 
+### Scenario 4 Continued: The Apartment Fallout
+
+::: {.callout-note appearance="minimal" icon="false"}
+**Memo:** Dante was arrested at his apartment after shooting Hector. He's claiming absolute self-defense, citing the Castle Doctrine. Review the timeline of the confrontation. I need to know if the threat was actually imminent, whether he had a duty to retreat despite being in his own home, and if an imperfect self-defense claim can mitigate a murder charge. Also, analyze his drug possession exposure based on the search of the warehouse safe.
+:::
+
+
 **Q52.** Based on the police seizure at the warehouse, is Dante legally guilty of constructively possessing the finished drugs stored inside the reinforced steel safe?
 
-a. Guilty, because his initial financial contribution to the drug manufacturing operation automatically establishes actual physical possession of all resulting contraband.
-b. Not guilty, because the drugs were stored in a collective facility, legally preventing any single absent individual from establishing constructive possession.
+a. Guilty, because his exclusive retention of the only key to the safe demonstrates the requisite power and intent to exercise dominion and control over the drugs.
+b. Not guilty, because Dante was not physically present at the industrial warehouse at the precise moment the police seized the contraband from the safe.
 c. Not guilty, because the police interrupted the manufacturing operation before Dante could physically distribute the finished product to any downstream buyers.
-d. Guilty, because his exclusive retention of the only key to the safe demonstrates the requisite power and intent to exercise dominion and control over the drugs.
-e. Not guilty, because Dante was not physically present at the industrial warehouse at the precise moment the police seized the contraband from the safe.
+d. Guilty, because his initial financial contribution to the drug manufacturing operation automatically establishes actual physical possession of all resulting contraband.
+e. Not guilty, because the drugs were stored in a collective facility, legally preventing any single absent individual from establishing constructive possession.
 
 
 
@@ -867,11 +905,11 @@ e. Not guilty, because Dante was not physically present at the industrial wareho
 
 **Q53.** Assume Dante raises a standard self-defense claim for shooting Hector. Under traditional doctrine, does the imminence requirement permit Dante's preemptive use of deadly force?
 
-a. No, because Hector's stated threat was conditioned on the future arrival of his crew, and his relaxed posture did not present an objectively immediate threat.
-b. No, because the defensive use of deadly force is categorically prohibited unless the aggressor has already inflicted a severe physical injury on the defendant.
-c. Yes, because Dante subjectively believed that Hector was drawing a weapon, which completely satisfies the imminence requirement regardless of the objective facts.
-d. Yes, because the continuous threat doctrine allows a defendant to strike preemptively whenever a rival gang member unlawfully enters their private residence.
-e. Yes, because Hector's known status as a violent gang enforcer automatically converts any verbal threat he makes into an imminent threat of deadly force.
+a. No, because the defensive use of deadly force is categorically prohibited unless the aggressor has already inflicted a severe physical injury on the defendant.
+b. Yes, because Hector's known status as a violent gang enforcer automatically converts any verbal threat he makes into an imminent threat of deadly force.
+c. Yes, because the continuous threat doctrine allows a defendant to strike preemptively whenever a rival gang member unlawfully enters their private residence.
+d. Yes, because Dante subjectively believed that Hector was drawing a weapon, which completely satisfies the imminence requirement regardless of the objective facts.
+e. No, because Hector's stated threat was conditioned on the future arrival of his crew, and his relaxed posture did not present an objectively immediate threat.
 
 
 
@@ -881,10 +919,10 @@ e. Yes, because Hector's known status as a violent gang enforcer automatically c
 
 **Q54.** Assuming Dante lived in a jurisdiction that strictly enforces a general duty to retreat before using deadly force, how does the location of the confrontation legally affect this duty?
 
-a. Dante had no duty to retreat, because the duty to retreat applies only to non-deadly force and is legally irrelevant when a firearm is introduced.
+a. Dante had a duty to retreat, because the Castle Doctrine is strictly invalidated when the intruder is seated and unarmed at the exact moment of the shooting.
 b. Dante had no duty to retreat, because the Castle Doctrine universally exempts individuals from the duty to retreat when attacked inside their own home.
 c. Dante had a duty to retreat, because the fire-escape window provided a visually confirmed and unobstructed avenue to secure complete personal safety.
-d. Dante had a duty to retreat, because the Castle Doctrine is strictly invalidated when the intruder is seated and unarmed at the exact moment of the shooting.
+d. Dante had no duty to retreat, because the duty to retreat applies only to non-deadly force and is legally irrelevant when a firearm is introduced.
 e. Dante had a duty to retreat, because his active participation in a criminal enterprise automatically strips him of all self-defense rights inside his dwelling.
 
 
@@ -895,11 +933,11 @@ e. Dante had a duty to retreat, because his active participation in a criminal e
 
 **Q55.** Assume that Dante is prosecuted in a jurisdiction that fully recognizes the doctrine of imperfect self-defense. How would Dante's subjective panic affect his criminal liability for shooting Hector?
 
-a. It would have no effect on his liability because imperfect self-defense only applies when the defendant was the initial aggressor who later attempted to withdraw.
-b. It would mitigate a murder charge to voluntary manslaughter because his genuine, albeit unreasonable, fear of death negates the malice aforethought required for murder.
-c. It would mitigate the charge to involuntary manslaughter because his failure to accurately assess the threat constituted gross criminal negligence.
-d. It would result in a complete acquittal because the doctrine fully excuses defendants who act out of genuine panic, provided they are in their own home.
-e. It would elevate the burden of proof, requiring the prosecution to prove beyond a reasonable doubt that Dante's subjective fear was completely fabricated.
+a. It would mitigate a murder charge to voluntary manslaughter because his genuine, albeit unreasonable, fear of death negates the malice aforethought required for murder.
+b. It would result in a complete acquittal because the doctrine fully excuses defendants who act out of genuine panic, provided they are in their own home.
+c. It would have no effect on his liability because imperfect self-defense only applies when the defendant was the initial aggressor who later attempted to withdraw.
+d. It would elevate the burden of proof, requiring the prosecution to prove beyond a reasonable doubt that Dante's subjective fear was completely fabricated.
+e. It would mitigate the charge to involuntary manslaughter because his failure to accurately assess the threat constituted gross criminal negligence.
 
 
 
@@ -1056,7 +1094,10 @@ e. No, because as a co-conspirator, Thorne is strictly liable for any and all cr
 
 ### Scenario 5 Continued: The Search Warrant and the Inside Job
 
-We executed a search warrant on the Apex warehouse last night. We found Locke's AR-15, plus evidence of a bizarre side plot Locke was planning against his own boss. Draft a final memo assessing Thorne's liability for the gun and Locke's liability for the aborted inside job.
+::: {.callout-note appearance="minimal" icon="false"}
+**Memo:** We executed a search warrant on the Apex warehouse last night. We found Locke's AR-15, plus evidence of a bizarre side plot Locke was planning against his own boss. Draft a final memo assessing Thorne's liability for the gun and Locke's liability for the aborted inside job.
+:::
+
 
 **Q65.** During the warehouse raid, agents find Locke's AR-15 inside the locked breakroom locker. The government charges Thorne with constructive possession of the rifle because he held the only master key. Based on Thorne's statement that he knew it was there but refused to touch it, is he guilty of constructive possession?
 
@@ -1396,15 +1437,15 @@ e. The desuetude doctrine, wherein prolonged nonenforcement of a law leads highl
 
 \begin{multicols}{4}
 \noindent
-\textbf{29.} B\\
+\textbf{29.} D\\
 \textbf{30.} E\\
 \textbf{31.} A\\
 \textbf{32.} A\\
-\textbf{33.} C\\
-\textbf{34.} A\\
-\textbf{35.} E\\
+\textbf{33.} A\\
+\textbf{34.} E\\
+\textbf{35.} D\\
 \textbf{36.} A\\
-\textbf{37.} D\\
+\textbf{37.} C\\
 \textbf{38.} A\\
 \textbf{39.} A\\
 \textbf{40.} A\\
@@ -1417,18 +1458,18 @@ e. The desuetude doctrine, wherein prolonged nonenforcement of a law leads highl
 
 \begin{multicols}{4}
 \noindent
-\textbf{44.} A\\
-\textbf{45.} C\\
-\textbf{46.} E\\
-\textbf{47.} B\\
-\textbf{48.} C\\
-\textbf{49.} A\\
-\textbf{50.} D\\
+\textbf{44.} B\\
+\textbf{45.} D\\
+\textbf{46.} B\\
+\textbf{47.} A\\
+\textbf{48.} D\\
+\textbf{49.} C\\
+\textbf{50.} C\\
 \textbf{51.} E\\
-\textbf{52.} D\\
-\textbf{53.} A\\
+\textbf{52.} A\\
+\textbf{53.} E\\
 \textbf{54.} B\\
-\textbf{55.} B\\
+\textbf{55.} A\\
 \end{multicols}
 
 ### Scenario 5: The Empire Business
