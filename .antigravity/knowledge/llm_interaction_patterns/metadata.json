@@ -1,0 +1,35 @@
+{
+    "title": "LLM Interaction Patterns & Agentic Infrastructure",
+    "summary": "Reusable strategies and technical infrastructure for optimizing LLM execution in agentic pipelines. Covers prompt engineering for exhaustive recall (Universal Coverage), high-volume structured output (Trailing Placeholders), batch processing for long-context parallelism, downstream starvation prevention, and model-based evaluation patterns (Blind Student Test, Misconception Analysis). Includes detailed documentation on the 'Polite Retrieval' of legal authorities (Search Grounding vs. Scraping), specialized research architectures (Recency Bias, Parallel Researchers), and legal link verification. Technical depth provided for the 'multi' and 'auth-utils' libraries, including Gemini tool specialization, monkeypatching for single-provider flow, diagnostic verification of execution state, and standalone verification executors for lightweight testing.",
+    "complexity": 1,
+    "references": [
+        {
+            "type": "conversation_id",
+            "value": "bot-1a8967f6-c148-4518-828f-9bfd2a60eeb0"
+        },
+        {
+            "type": "conversation_id",
+            "value": "bot-8e4c65f2-a0ad-4a70-b6fd-bde76357d142"
+        },
+        {
+            "type": "conversation_id",
+            "value": "fbb8b263-409d-4468-8a4b-b487fd3d4668"
+        },
+        {
+            "type": "repository",
+            "value": "auth-utils"
+        },
+        {
+            "type": "repository",
+            "value": "multi"
+        },
+        {
+            "type": "repository",
+            "value": "cite-assist"
+        },
+        {
+            "type": "repository",
+            "value": "cross-cite"
+        }
+    ]
+}

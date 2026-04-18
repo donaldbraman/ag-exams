@@ -1,0 +1,90 @@
+{
+    "title": "Criminal Law Casebook & Gemini Revision System",
+    "summary": "Comprehensive overview of the Quarto-based Criminal Law casebook project and its Gemini-Only Revision System. Documents the transition to a 'Generate -> Verify -> Refine' pipeline. Covers specialized agents (case finder, editor, verifier), pedagogical standards (recency bias, extractive editing), the 'Guard & Correct' hallucination guard loop, the 'Menu-to-Dish' choice architecture, and the '4-Phase Human-in-the-Loop Quiz Generation' pipeline. Assessment innovations include 'Path B' complex fact patterns with linked questions, adversarial distractor generation based on approved 'Traps' (student misconceptions), and 'Retroactive Style Injection' using characters from legal readings (historical thinkers, theorists). Recent insights also emphasize 'Universal Case Coverage'—overcoming 'Convergence Bias' via Recall Optimization—and providing choice-rich curriculum options (3-12 modern candidates per legacy anchor).",
+    "references": [
+        {
+            "type": "conversation_id",
+            "value": "fbb8b263-409d-4468-8a4b-b487fd3d4668"
+        },
+        {
+            "type": "file",
+            "value": "/Users/dbraman/Documents/GitHub/antigrav-crim/criminal-law/README.md"
+        },
+        {
+            "type": "file",
+            "value": "/Users/dbraman/Documents/GitHub/antigrav-crim/criminal-law/REVISION_SPEC.md"
+        },
+        {
+            "type": "file",
+            "value": "/Users/dbraman/Documents/GitHub/antigrav-crim/criminal-law/config/workflows/gemini-revision.yaml"
+        },
+        {
+            "type": "file",
+            "value": "/Users/dbraman/Documents/GitHub/antigrav-crim/criminal-law/scripts/run_class.py"
+        },
+        {
+            "type": "file",
+            "value": "/Users/dbraman/Documents/GitHub/antigrav-crim/criminal-law/scripts/test_gemini_only.py"
+        },
+        {
+            "type": "file",
+            "value": "/Users/dbraman/.gemini/antigravity/knowledge/criminal_law_casebook/artifacts/implementation/output_structure_and_review.md"
+        },
+        {
+            "type": "file",
+            "value": "/Users/dbraman/.gemini/antigravity/knowledge/criminal_law_casebook/artifacts/implementation/case_replacement_strategy.md"
+        },
+        {
+            "type": "file",
+            "value": "/Users/dbraman/Documents/GitHub/antigrav-crim/criminal-law/config/agents/case-inventory.md"
+        },
+        {
+            "type": "file",
+            "value": "/Users/dbraman/Documents/GitHub/antigrav-crim/criminal-law/config/agents/case-replacement-finder.md"
+        },
+        {
+            "type": "file",
+            "value": "/Users/dbraman/Documents/GitHub/antigrav-crim/criminal-law/config/agents/case-researcher.md"
+        },
+        {
+            "type": "file",
+            "value": "/Users/dbraman/Documents/GitHub/antigrav-crim/criminal-law/config/agents/statute-researcher.md"
+        },
+        {
+            "type": "file",
+            "value": "/Users/dbraman/Documents/GitHub/antigrav-crim/criminal-law/config/agents/commentary-researcher.md"
+        },
+        {
+            "type": "file",
+            "value": "/Users/dbraman/Documents/GitHub/antigrav-crim/criminal-law/config/agents/editing-agent.md"
+        },
+        {
+            "type": "file",
+            "value": "/Users/dbraman/Documents/GitHub/antigrav-crim/criminal-law/config/agents/editing-refiner.md"
+        },
+        {
+            "type": "file",
+            "value": "/Users/dbraman/Documents/GitHub/antigrav-crim/criminal-law/config/agents/editing-verifier.md"
+        },
+        {
+            "type": "file",
+            "value": "/Users/dbraman/.gemini/antigravity/knowledge/criminal_law_casebook/artifacts/implementation/hallucination_guard.md"
+        },
+        {
+            "type": "knowledge_item",
+            "value": "llm_interaction_patterns"
+        },
+        {
+            "type": "conversation_id",
+            "value": "bot-1a8967f6-c148-4518-828f-9bfd2a60eeb0"
+        },
+        {
+            "type": "conversation_id",
+            "value": "bot-8e4c65f2-a0ad-4a70-b6fd-bde76357d142"
+        },
+        {
+            "type": "url",
+            "value": "https://github.com/donaldbraman/criminal-law/issues/153"
+        }
+    ]
+}
