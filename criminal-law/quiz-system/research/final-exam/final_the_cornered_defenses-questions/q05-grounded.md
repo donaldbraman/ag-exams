@@ -1,17 +1,17 @@
-**Q5.** Marcus raises a duress defense to the attempted arson charge, arguing he was coerced by Vance's threat to his family. The prosecution argues the threat was not imminent because the tactical raid was scheduled for midnight, several hours away, and Marcus could have called the police. How does the corrupt authorities doctrine impact Marcus's defense?
+**Q5.** Prosecutors seek to charge Vance and all three smuggling crews under a single RICO indictment, characterizing the entire Bayside Syndicate as one "enterprise." Based on the relationships described in Fact 1, will this enterprise theory succeed?
 
-(a) The defense fails because the common law strictly requires the threatened harm to be occurring at the exact moment of the crime, regardless of any documented police corruption.
-(b) The defense likely survives because Vance's status as a corrupt police commander could allow a jury to find that Marcus reasonably believed reporting the threat was not a viable legal alternative. <!-- correct -->
-(c) The defense fails because duress is categorically unavailable whenever the defendant has several hours of delay before the threatened harm is scheduled to materialize.
-(d) The defense likely survives because the modern approach to duress categorically eliminates the imminence requirement whenever the threatened harm involves a close family member.
-(e) The defense fails because Vance's midnight threat was directed primarily at Marcus's family rather than Marcus himself, defeating the strict target scope requirement under the common law.
+(a) Yes, because Vance's continuous coordination of the three crews demonstrates the shared purpose and relationships required for a unified RICO enterprise.
+(b) Yes, because a hub-and-spoke structure without a rim is legally sufficient for enterprise liability so long as the hub directs the operations.
+(c) No, because the crews never interact with each other, meaning the structure is a rimless hub-and-spoke that lacks the necessary enterprise connections. <!-- correct -->
+(d) No, because RICO explicitly excludes police officers acting under the color of law from being designated as the head of a criminal enterprise.
+(e) Yes, because the continuous pattern of bribery and extortion independently establishes the existence of an enterprise without needing to prove structural relationships.
 
-**Answer:** (b)
+**Answer:** (c)
 
-**Explanation:** (b) is correct. The corrupt authorities exception (*United States v. Contento-Pachon*) allows a duress claim to survive the "no reasonable legal alternative" requirement when the defendant reasonably believes that seeking police protection would be futile or dangerous. Because Vance is a police commander, Marcus's failure to report the threat does not automatically defeat the defense. (a) is incorrect because modern courts often relax the strict physical proximity test for imminence in continuous threat scenarios. (c) is incorrect because a delay of several hours does not categorically defeat imminence if legal alternatives are reasonably perceived as foreclosed. (d) is incorrect because the modern approach makes imminence a factor in reasonableness, rather than categorically eliminating it. (e) is incorrect because traditional common law explicitly extends duress to threats against close relatives.
+**Explanation:** A RICO enterprise requires a common purpose, relationships among those associated, and longevity. Under *Boyle* and *Kotteakos*, a hub-and-spoke structure where the spokes (the three crews) never interact and have no shared purpose beyond their individual dealings with the hub (Vance) lacks the "rim" necessary to constitute a single unified enterprise. Each crew operates independently of the others. (a) is wrong because coordination by a single hub is insufficient without a shared purpose among the crews. (b) is wrong because a rimless hub-and-spoke explicitly fails the enterprise test. (d) is wrong because police officers can be part of an enterprise. (e) is wrong because the pattern of racketeering is a separate element from the existence of the enterprise itself.
 
-**Tags:** chapters: [21], topics: [duress, corrupt authorities exception], difficulty: medium, cognitive: application
+**Tags:** chapters: [20], topics: [RICO enterprise, hub-and-spoke], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21, United States v. Contento-Pachon and the corrupt authorities exception to reasonable legal alternatives.
+**Grounding:** Chapter 20 (RICO and Enterprise Liability), hub-spoke-no-rim refinement.
 
-<!-- grounding: GROUNDED — Corrupt Authorities Exception (Duress), Ch 21, Refinement `duress-corrupt-authorities`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — RICO hub-and-spoke enterprise, Ch 20, Refinement `hub-spoke-no-rim`. Rule paraphrased accurately. -->

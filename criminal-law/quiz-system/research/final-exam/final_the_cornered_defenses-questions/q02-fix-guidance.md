@@ -4,46 +4,65 @@ The QA pipeline flagged this question. Rewrite `q02.md` addressing each numbered
 
 ## Issue 1 — audit
 
-<!-- audit: MUST FIX -->
+**Q2.** Assume Marcus is prosecuted in a jurisdiction that follows the rule of *United States v. Dingwall* or *United States v. Contento-Pachon* regarding duress. Will Vance's threat of a midnight execution satisfy the imminence requirement for duress?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) The defense fails categorically because the threat was scheduled for midnight, meaning Vance was not physically present to enforce it during the arson.
+(b) The defense may survive because strict physical proximity is not required if Marcus reasonably believed reporting to corrupt police was futile. <!-- correct -->
+(c) The defense fails categorically because duress is never available to excuse the deliberate destruction of another person's private property.
+(d) The defense may survive because the threat targeted Marcus's family, which automatically waives the traditional imminence requirement for all subsequent crimes.
+(e) The defense fails categorically because Marcus could have relocated his family to a safehouse before the midnight deadline ultimately expired.
 
-Error: Model returned empty or blocked response.
+**Answer:** (b)
+
+**Explanation:** Under the traditional rule, imminence requires the threat to be immediate and physically present. However, modern jurisdictions following cases like *Dingwall* or *Contento-Pachon* recognize that a continuous threat, combined with a reasonable belief that authorities are corrupt and cannot help, can satisfy the imminence requirement even if the threat is hours away and the coercer is not physically present. (a) is wrong because modern majority circuits reject the strict physical proximity test. (c) is wrong because duress is a defense to property crimes like arson. (d) is wrong because targeting family does not automatically waive the imminence requirement; it satisfies the target scope element. (e) is wrong because his belief in the futility of seeking help due to police corruption creates a jury question on reasonable alternatives.
+
+**Tags:** chapters: [21], topics: [duress, imminence], difficulty: hard, cognitive: application
+
+**Grounding:** Chapter 21 (Necessity and Duress), duress-imminence-proximity and duress-corrupt-authorities refinements.
+
+<!-- audit: MUST FIX
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: MUST FIX. The stem entirely lacks the factual scenario relied upon by the options and the explanation. It fails to state when the arson occurs relative to midnight, that the threat was against Marcus's family, or that Marcus believed the police were corrupt. Students cannot evaluate the application of the law without these facts present in the stem.
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Provide the missing factual scenario in the stem. For example: "At noon, Vance orders Marcus to commit arson, threatening to execute Marcus's family at midnight if he refuses. Vance is not physically present during the arson. Marcus complies because he reasonably believes the local police are on Vance's payroll and reporting the threat would be futile." Modify the options to test the application of the doctrine to these facts rather than introducing the facts as hypotheticals.
+-->
 
 ## Issue 2 — argpass-opus
 
-**Q2.** Assume the Bayside Syndicate is a valid RICO enterprise. Is Vance liable for RICO conspiracy regarding the warehouse arson?
+**Q2.** Assume Marcus is prosecuted in a jurisdiction that follows the rule of *United States v. Dingwall* or *United States v. Contento-Pachon* regarding duress. Will Vance's threat of a midnight execution satisfy the imminence requirement for duress?
 
-(a) Liable for RICO conspiracy, because he agreed to facilitate the enterprise's affairs knowing that predicate acts would be committed. <!-- correct -->
-(b) Not liable for RICO conspiracy, because the statute requires a defendant to personally commit two predicate acts of racketeering activity.
-(c) Liable for RICO conspiracy, because his status as a police commander automatically satisfies the operation-or-management conduct test.
-(d) Not liable for RICO conspiracy, because he merely forced Marcus to commit the arson rather than agreeing to commit it himself.
-(e) Not liable for RICO conspiracy, because the arson of the warehouse was an isolated event rather than a continuing pattern of activity.
+(a) The defense fails categorically because the threat was scheduled for midnight, meaning Vance was not physically present to enforce it during the arson.
+(b) The defense may survive because strict physical proximity is not required if Marcus reasonably believed reporting to corrupt police was futile. <!-- correct -->
+(c) The defense fails categorically because duress is never available to excuse the deliberate destruction of another person's private property.
+(d) The defense may survive because the threat targeted Marcus's family, which automatically waives the traditional imminence requirement for all subsequent crimes.
+(e) The defense fails categorically because Marcus could have relocated his family to a safehouse before the midnight deadline ultimately expired.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Under the *Salinas* rule, a defendant is guilty of RICO conspiracy if they adopt the goal of furthering the enterprise, even if they do not personally commit or agree to personally commit the underlying predicate acts. By leveraging his position to force Marcus to commit arson for the syndicate, Vance agreed to facilitate the enterprise's affairs. (b) is incorrect because *Salinas* specifically rejected the requirement that a conspirator personally commit two predicate acts. (c) is incorrect because the operation-or-management test (*Reves*) applies to substantive RICO charges under § 1962(c), not RICO conspiracy under § 1962(d). (d) is incorrect because Vance's direction of another's criminal act qualifies as agreement to the enterprise's objectives. (e) is incorrect because the arson was part of the ongoing operations of the five-year Bayside Syndicate, not a legally isolated event.
+**Explanation:** Under the traditional rule, imminence requires the threat to be immediate and physically present. However, modern jurisdictions following cases like *Dingwall* or *Contento-Pachon* recognize that a continuous threat, combined with a reasonable belief that authorities are corrupt and cannot help, can satisfy the imminence requirement even if the threat is hours away and the coercer is not physically present. (a) is wrong because modern majority circuits reject the strict physical proximity test. (c) is wrong because duress is a defense to property crimes like arson. (d) is wrong because targeting family does not automatically waive the imminence requirement; it satisfies the target scope element. (e) is wrong because his belief in the futility of seeking help due to police corruption creates a jury question on reasonable alternatives.
 
-**Tags:** chapters: [20], topics: [RICO conspiracy, Salinas rule], difficulty: medium, cognitive: application
+**Tags:** chapters: [21], topics: [duress, imminence], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 20 - salinas-no-personal-acts
+**Grounding:** Chapter 21 (Necessity and Duress), duress-imminence-proximity and duress-corrupt-authorities refinements.
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: *Salinas v. United States* establishes that a defendant is liable for RICO conspiracy under § 1962(d) if they agree to facilitate the enterprise's affairs with the knowledge that predicate acts will be committed. By forcing Marcus to commit arson on behalf of the valid Bayside Syndicate, Vance demonstrated an agreement to further the enterprise's goals. He possessed the requisite knowledge and intent because he actively directed the predicate act. Thus, his conduct perfectly satisfies the Supreme Court's standard for conspiracy liability.
-(b) Argument-for: Substantive RICO liability under § 1962(c) strictly requires a "pattern of racketeering activity," which the statute defines as at least two predicate acts. Extrapolating this statutory text to conspiracy under § 1962(d), a textually faithful reading might demand that a conspirator must personally agree to commit two predicate acts to be liable. Since Vance only directed a single arson, he falls short of the two-act statutory threshold. Therefore, without personal commission of a pattern, he cannot be held liable.
-(c) Argument-for: Under the *Reves v. Ernst & Young* operation-or-management test, a defendant must participate in the direction of the enterprise's affairs to be liable under RICO. As a police commander, Vance inherently occupies a high-level position of authority and control. When he leveraged this official status to force Marcus to commit arson, he was exercising direct operational control over the enterprise's activities. A student could argue that such a high-ranking official status automatically satisfies the *Reves* conduct requirement, triggering RICO liability.
-(d) Argument-for: Traditional conspiracy doctrine requires a mutual meeting of the minds between two or more individuals to commit an unlawful act. The facts state that Vance "forced" Marcus to commit the arson, which implies coercion or duress rather than a voluntary agreement. If Marcus's participation was involuntary, there was no true agreement to commit the arson. Consequently, Vance's unilateral coercion arguably defeats the foundational mutual agreement element required for RICO conspiracy.
-(e) Argument-for: A "pattern of racketeering activity" under RICO requires both relationship and continuity (*H.J. Inc.*). A single act of arson orchestrated by Vance could be construed as a discrete, isolated event rather than a regular way of conducting the syndicate's ongoing business. Without evidence that this specific arson was part of a larger, continuous series of related predicate acts directed by Vance, the continuity prong fails. Thus, Vance is not liable because this isolated event does not constitute a continuing pattern.
+(a) Argument-for: Under the traditional common law rule, duress requires the threat to be immediate and the coercer to be physically present at the time of the offense. Option (a) accurately channels this strict requirement, asserting that a threat scheduled for "midnight" lacks the requisite immediacy. A student could argue that even in modern jurisdictions, a timeline extending hours into the future provides too much temporal distance. Therefore, the lack of physical presence means the defense must fail categorically as a matter of law.
+(b) Argument-for: *United States v. Contento-Pachon* established that the imminence requirement can be satisfied by a continuous threat if the defendant reasonably believes that seeking law enforcement help is futile. Option (b) correctly tracks this modern rule, noting that strict physical proximity is not required under these circumstances. Because Marcus reasonably believed the corrupt police would not help him, his failure to report the threat does not defeat the imminence element. This properly leaves the question of imminence and reasonable alternatives to the jury.
+(c) Argument-for: Duress is historically circumscribed by the severity of the crime committed, most notably being unavailable as a defense to intentional murder. A student could argue that the deliberate destruction of private property (such as arson) carries such grave risks to human life and public order that it is similarly excluded. By stating the defense is "never available" for such intentional property destruction, option (c) appeals to the notion that public policy strictly forbids this conduct. Thus, the defense categorically fails.
+(d) Argument-for: Modern duress doctrine explicitly expands the scope of the defense to cover threats directed against a defendant’s immediate family. Option (d) asserts that because the threat targeted Marcus's family, the traditional imminence requirement is "automatically waived." A student could interpret the overwhelming policy weight given to family protection as entirely superseding temporal requirements, reasoning that any threat to loved ones is inherently coercive. This would mean the traditional imminence hurdle vanishes.
+(e) Argument-for: To successfully claim duress, a defendant must lack any reasonable, legal alternative to committing the crime. Option (e) posits that the time gap before the "midnight deadline" provided a clear window to relocate his family to a safehouse. A student could argue that the mere existence of this time gap establishes, as a matter of law, that Marcus failed to exhaust his legal alternatives. Therefore, the defense fails categorically because a reasonable alternative was objectively available.
 
-Head-to-head: Option (a) is the clearly superior keyed answer because it correctly captures the *Salinas* rule: an agreement to facilitate the enterprise is sufficient for § 1962(d) liability. Option (b) presents an excellent distractor by containing an explicit, falsifiable legal rule ("statute requires... personally commit") that was directly overturned by *Salinas*. Option (c) is also strong, utilizing the absolute word "automatically" to create a falsifiable claim about the *Reves* test. However, options (d) and (e) fall short of the close-call standard. Instead of explicitly stating false legal rules using absolute modifiers, they rely on implicit legal misunderstandings embedded in factual conclusions (e.g., concluding the arson "was an isolated event").
+Head-to-head: Option (b) is the clear correct answer because it accurately applies the *Contento-Pachon* standard, where a continuous threat combined with a reasonable belief in police futility creates a jury question regarding imminence. Distractor (a) contains a falsifiable legal error by stating the defense fails "categorically" due to a lack of physical presence, directly contradicting the specified jurisdictions' rules. Distractor (c) relies on the objectively false legal proposition that duress is "never available" for deliberate destruction of property. Distractor (d) offers the extreme, falsifiable legal claim that a threat to family "automatically waives" the imminence requirement for "all subsequent crimes." Distractor (e) asserts the defense fails "categorically," but it grounds this failure in a presumed factual conclusion ("because Marcus could have relocated") rather than stating a pure, falsifiable legal rule about time gaps. It should be revised to contain a purely explicit legal error.
 
 Falsifiable claim per distractor:
-- (b): "the statute requires a defendant to personally commit two predicate acts" — wrong because *Salinas* explicitly rejected the requirement that a conspirator personally commit or agree to commit any predicate acts.
-- (c): "status as a police commander automatically satisfies the operation-or-management conduct test" — wrong because official status does not "automatically" satisfy the *Reves* test, and *Reves* does not strictly govern § 1962(d) conspiracy liability.
-- (d): "merely forced Marcus to commit the arson rather than agreeing to commit it himself" — wrong conceptually under *Salinas*, but lacks an explicit, absolute legal proposition (relies on an implicit premise that personal agreement to commit the act is required).
-- (e): "the arson of the warehouse was an isolated event rather than a continuing pattern of activity" — wrong factually given the ongoing enterprise context, but fails to assert a falsifiable legal claim locked with absolute words.
+- (a): "fails categorically because... Vance was not physically present" — wrong because *Contento-Pachon* explicitly rejects the strict physical proximity requirement.
+- (c): "never available to excuse the deliberate destruction of another person's private property" — wrong because duress is generally available for property crimes, including arson.
+- (d): "automatically waives the traditional imminence requirement for all subsequent crimes" — wrong because targeting family satisfies the target scope element but does not waive the temporal imminence requirement.
+- (e): "fails categorically because Marcus could have relocated his family" — wrong because it improperly treats a disputed factual inference as a categorical legal bar.
 
-Recommended fix: Upgrade (d) and (e) to include explicit, absolute false legal claims. 
-Change (d) to: "Not liable for RICO conspiracy, because a defendant categorically cannot conspire solely by directing another person's actions without agreeing to personally commit a crime."
-Change (e) to: "Not liable for RICO conspiracy, because a single predicate act can never establish conspiracy liability regardless of the enterprise's broader pattern of activity."
+Recommended fix: Change (e) to: "The defense fails categorically because a multi-hour delay before a deadline automatically establishes that the defendant had a reasonable legal alternative."
 -->

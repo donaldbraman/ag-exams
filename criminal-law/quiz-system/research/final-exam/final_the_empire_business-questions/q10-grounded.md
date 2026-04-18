@@ -1,17 +1,17 @@
-**Q10.** Assume the government proves Dominic knew his prohibited status. Can he mount a viable Second Amendment challenge to his disarmament under § 922(g)(1)?
+**Q10.** Assume Dominic is charged with felony murder for Victor's death. Which of the following is accurate?
 
-(a) Yes, because post-*Bruen* and *Rahimi*, the permanent disarmament of purely nonviolent felons without a specific finding of dangerousness remains an open constitutional question. <!-- correct -->
-(b) No, because the Supreme Court in *Heller* explicitly ruled that all felon-in-possession laws are presumptively lawful and immune from any constitutional challenge.
-(c) Yes, because the Second Amendment categorically prohibits the government from disarming any citizen once they have fully completed their mandated prison sentence.
-(d) No, because drug trafficking and extortion are inherently dangerous crimes that automatically validate his permanent disarmament under federal constitutional law.
-(e) Yes, because the Commerce Clause no longer provides an independent constitutional basis for federal firearm regulations after recent Supreme Court rulings.
+(a) He is guilty only if the prosecution proves he acted with a reckless disregard for human life when he returned fire.
+(b) He is guilty because the killing occurred during the commission of a dangerous felony, making his intent regarding the death irrelevant. <!-- correct -->
+(c) He is not guilty because Victor's act of shooting first severed the proximate causal chain between the extortion and the death.
+(d) He is not guilty because the felony murder rule only applies when an innocent bystander is killed, not the intended robbery victim.
+(e) He is not guilty because under the agency theory of felony murder, a defendant is not legally liable for defensive killings.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Following *Bruen* and *Rahimi*, the constitutionality of § 922(g)(1) as applied to nonviolent felons is actively contested in the lower courts (e.g., *Range*). *Rahimi* upheld disarmament based on dangerousness, leaving nonviolent predicate offenses open to challenge. (b) is wrong because while *Heller* called such laws "presumptively lawful," *Bruen* and *Rahimi* reopened the as-applied question for nonviolent felons. (c) is wrong because there is no categorical rule restoring rights to all felons upon release. (d) is wrong because his status as a prohibited person derives solely from his *prior* conviction (commercial fraud), not his current unadjudicated conduct. (e) is wrong because the Commerce Clause remains the jurisdictional hook; the Second Amendment acts as a separate structural constraint.
+**Explanation:** (b) is correct because the felony murder rule imposes strict liability for any death that occurs during the commission or attempted commission of an enumerated inherently dangerous felony, such as extortion or robbery. (a) is incorrect because felony murder substitutes the intent to commit the underlying felony for the malice aforethought required for murder, requiring no separate mens rea as to the death. (c) is incorrect because a victim's attempt to defend themselves is a foreseeable consequence of an armed robbery and does not sever the causal chain. (d) is incorrect because the felony murder rule applies regardless of whether the victim is a bystander or the intended target of the underlying felony. (e) is incorrect because Dominic personally fired the fatal shot, meaning agency theory limitations on defensive killings by third parties do not apply.
 
-**Tags:** chapters: [15], topics: [Second-Amendment, felon-in-possession, constitutional-limits], difficulty: advanced, cognitive: application
+**Tags:** chapters: [14], topics: [felony murder], difficulty: foundational, cognitive: application
 
-**Grounding:** Chapter 15 - gun-922g-felon
+**Grounding:** Chapter 14, felony murder rule
 
-<!-- grounding: GROUNDED — Second Amendment limits on § 922(g)(1) (Bruen/Rahimi), Ch 15, Refinement `gun-922g-felon` and `gun-rahimi-soften`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Strict liability substitution, Ch 14, Refinement `strict-liability-substitution`. Rule paraphrased accurately. -->

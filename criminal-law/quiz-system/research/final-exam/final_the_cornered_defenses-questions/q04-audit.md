@@ -1,26 +1,26 @@
-**Q4.** Assume that Marcus successfully establishes a duress defense based on Vance's coercion. Dexter is charged as an accomplice to Marcus's attempted arson. Dexter argues that because Marcus's actions are legally excused by duress, Dexter cannot be held liable as an accomplice. Is Dexter correct?
+**Q4.** Assume that Marcus and Leo formed a conspiracy to commit the arson. Marcus is charged with the watchman's murder under the *Pinkerton* doctrine. Will Marcus be held liable for Leo's act of shooting the watchman?
 
-(a) Yes, because under derivative liability principles, an accomplice cannot be convicted if the principal has successfully established a complete affirmative defense.
-(b) Yes, because duress operates as a justification, meaning the law treats the principal's choice as morally correct and extends that protection to any assisting parties.
-(c) No, because duress is merely an excuse that shields the coerced actor from punishment but does not render the act lawful or protect uncoerced accomplices like Dexter. <!-- correct -->
-(d) No, because accomplice liability in modern jurisdictions is entirely severed from the principal's conduct, meaning Dexter's liability is evaluated independently of Marcus.
-(e) Yes, because Dexter's knowledge of the coercion legally transfers the duress defense to him under the doctrine of shared culpability for the underlying offense.
+(a) Yes, because the shooting was a reasonably foreseeable consequence of the conspiracy to burn down a guarded commercial warehouse. <!-- correct -->
+(b) Yes, because Pinkerton imposes strict liability on all conspirators for any crime committed by a co-conspirator, regardless of actual foreseeability.
+(c) No, because Marcus did not know Leo was armed and therefore could not have specifically intended for the watchman to be killed.
+(d) No, because the murder was a substantive offense separate from the agreed-upon arson, requiring a separate bilateral agreement between the parties.
+(e) Yes, because Marcus recruited Leo and therefore bears absolute vicarious liability as the organizational leader of the specific criminal enterprise.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct. Duress is universally classified as an excuse, not a justification. An excuse acknowledges that the act was wrongful but relieves the coerced actor of moral blame. Because the act remains wrongful, a third party who assists an excused actor receives no derivative protection. (a) is incorrect because derivative liability defenses for accomplices generally require the principal's act to be justified, not merely excused. (b) is incorrect because duress is structurally an excuse, whereas necessity is a justification. (d) is incorrect because accomplice liability is inherently derivative, meaning the legal status of the principal's act remains relevant. (e) is incorrect because an excuse is personal to the coerced actor and cannot be legally transferred to an uncoerced accomplice.
+**Explanation:** Under the *Pinkerton* doctrine, a conspirator is liable for any substantive offense committed by a co-conspirator that is reasonably foreseeable and in furtherance of the conspiracy. A watchman being shot during an arson of a guarded warehouse is a reasonably foreseeable consequence of the underlying conspiracy to destroy the property. (b) is wrong because *Pinkerton* requires foreseeability, not absolute strict liability. (c) is wrong because subjective knowledge of the weapon is not required if the violent escalation was objectively foreseeable. (d) is wrong because the entire purpose of *Pinkerton* liability is to hold conspirators liable for unagreed-upon substantive offenses committed in furtherance of the conspiracy. (e) is wrong because criminal liability under *Pinkerton* is based on agency principles among co-conspirators, not vicarious organizational leadership.
 
-**Tags:** chapters: [21], topics: [justification vs excuse, accomplice derivative liability], difficulty: hard, cognitive: application
+**Tags:** chapters: [19], topics: [Pinkerton liability, conspiracy], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21, foundational justification versus excuse distinction regarding derivative liability.
+**Grounding:** Chapter 19 (Conspiracy), pinkerton-doctrine refinement.
 
-<!-- audit: CLEAN
-check 1: pass (The correct answer perfectly maps to standard doctrine: duress is an excuse, and excuses are personal defenses that do not transfer to accomplices.)
-check 2: pass (Option (d) is a well-crafted distractor but ultimately indefensible because accomplice liability is not "entirely severed from the principal's conduct"—the principal must still commit the actus reus.)
-check 3: pass (The explanation correctly applies the justification vs. excuse framework and accurately explains why the distractors fail.)
-check 4: pass (The stem provides all necessary facts, establishing both Marcus's coercion and Dexter's uncoerced accomplice status.)
-check 5: pass (The structural difference between excuses and justifications regarding third-party accomplice liability is a universal doctrinal baseline; no jurisdictional split needs resolving here.)
-check 6: pass (No excluded topics; the underlying crime is attempted arson.)
-check 7: pass (Doctrines are fully covered under Chapter 18's `dl-justification-vs-excuse` and Chapter 21's `justification-vs-excuse` tags.)
-Recommended fix: None.
+<!-- audit: MUST FIX
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: MUST FIX. The stem uses definite articles ("the arson," "the watchman's murder") and option (a) introduces facts ("guarded commercial warehouse") that do not exist in the stem. This is clearly an orphaned question severed from a larger, missing fact pattern. A student cannot assess foreseeability without these missing facts.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Recommended fix: Bring the missing facts into the stem. Change the stem to: "Assume that Marcus and Leo formed a conspiracy to commit arson at a guarded commercial warehouse. During the operation, Leo encounters a watchman and shoots him. Marcus is charged with the watchman's murder under the Pinkerton doctrine. Will Marcus be held liable for Leo's act of shooting the watchman?"
 -->

@@ -1,26 +1,26 @@
-**Q13.** Assume Dominic is charged with intentional murder. Can he mitigate the charge to voluntary manslaughter based on provocation from Victor throwing the ledger?
+**Q13.** Under the traditional common law "dangerous proximity" test, is Dominic guilty of attempted murder?
 
-(a) No, because a victim's lawful resistance to an ongoing violent felony does not constitute legally adequate provocation to mitigate murder to manslaughter. <!-- correct -->
-(b) Yes, because being struck in the face by a heavy object is universally recognized as adequate provocation that causes a sudden heat of passion.
-(c) No, because the provocation doctrine explicitly requires the defendant to discover spousal adultery, which remains the sole surviving category at common law.
-(d) Yes, because the jury could find that the sudden ledger strike triggered an extreme emotional disturbance for which there was a reasonable explanation.
-(e) No, because Dominic drew his weapon immediately, meaning there was insufficient cooling time for the voluntary manslaughter mitigation to legally apply.
+(a) Yes, because he had engaged in the significant preparatory conduct necessary to indicate a clear criminal design to the observing agents.
+(b) Yes, because by aiming the rifle with his finger on the trigger, he was so near to the result that the danger of success was great. <!-- correct -->
+(c) No, because the sudden FBI intervention constituted an independent intervening cause that prevented him from coming dangerously close to success.
+(d) No, because under the strict proximity test, a defendant must actually inflict some degree of physical harm before legal liability attaches.
+(e) No, because he could have still voluntarily abandoned his criminal plan at the very last fraction of a second before firing.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Provocation (heat of passion) requires legally adequate provocation. A victim's lawful right of self-defense or resistance to an ongoing violent felony committed by the defendant is never legally adequate provocation. (b) is wrong because while battery is a traditional category, it does not apply when the battery is a lawful response to the defendant's own felonious attack. (c) is wrong because common law recognized several categories (battery, mutual combat), not just adultery. (d) is wrong because under EED, the emotional disturbance must have a reasonable explanation, and courts do not recognize an armed extortionist being resisted as reasonable. (e) is wrong because immediate action *supports* a heat of passion claim (no cooling time); his claim fails because the provocation was legally inadequate, not because he cooled off.
+**Explanation:** (b) is correct because the common law "dangerous proximity" test requires the defendant to be so near the result that the danger of success is great. Tracking a target through a scope with a finger on the trigger places the defendant mere fractions of a second from success, easily satisfying this stringent test. (a) is incorrect because "significant preparatory conduct" better describes the threshold under the MPC, not the demanding common law proximity test. (c) is incorrect because law enforcement intervention does not negate proximity if the defendant was already dangerously close to success. (d) is incorrect because attempt does not require actual physical harm; if harm occurred, the substantive crime might be completed. (e) is incorrect because the theoretical possibility of last-second abandonment does not defeat attempt liability once dangerous proximity is reached.
 
-**Tags:** chapters: [12, 13], topics: [homicide-grading, provocation, heat-of-passion], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, proximity test], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 12 - Historical Categories / Provocation
+**Grounding:** Chapter 17, common law dangerous proximity test
 
 <!-- audit: MUST FIX
-check 1: pass. Under standard doctrine, a victim's lawful resistance to the defendant's violent felony does not constitute legally adequate provocation.
-check 2: pass. Assuming the implied facts, the distractors are legally flawed. For example, courts do not allow EED mitigation for felons facing lawful resistance, so (d) is safely incorrect.
-check 3: pass. The explanation accurately tracks both common law provocation and MPC EED doctrines.
-check 4: MUST FIX. The question stem completely lacks the necessary fact pattern. It references "Dominic", "Victor", and "throwing the ledger," and the explanation relies on Dominic being an "armed extortionist" facing "lawful resistance," but none of these facts are actually present in the stem. This appears to be an orphaned question from a multi-part series that requires its parent fact pattern to be answerable.
-check 5: pass. While jurisdiction is not explicitly specified, both common law and MPC frameworks would reject mitigation in this scenario, so the lack of a specified jurisdiction does not render multiple answers defensible.
-check 6: pass. No excluded-topic bleed is present.
-check 7: pass. Provocation, heat of passion, and EED are properly grounded in the Chapter 12 map.
-Recommended fix: Integrate the missing fact pattern directly into the stem (e.g., "Assume Dominic, an armed extortionist, is robbing Victor. Victor lawfully resists by throwing a heavy ledger at Dominic's face. Dominic immediately shoots and kills Victor. Dominic is charged with intentional murder...").
+check 1: pass (assuming the missing facts, the legal standard in the correct answer is accurate)
+check 2: pass (distractors are legally well-constructed for the intended scenario)
+check 3: pass (explanation matches the doctrine)
+check 4: fails. The question stem completely lacks a fact pattern. It asks about "Dominic" but provides no facts establishing his actions, mens rea, or the FBI intervention (these can only be reverse-engineered from the options and explanation).
+check 5: pass (explicitly specifies the traditional common law test)
+check 6: pass (no excluded topics)
+check 7: pass (actus-reus-proximity-test is in Ch 17)
+Recommended fix: Add the missing fact pattern to the question stem detailing Dominic's specific intent to kill, his actions (tracking a target through a scope, finger on the trigger), and the FBI's sudden intervention.
 -->

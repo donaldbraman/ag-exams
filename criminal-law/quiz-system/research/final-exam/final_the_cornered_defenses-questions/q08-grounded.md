@@ -1,17 +1,17 @@
-**Q8.** Assume that, whether or not Marcus committed a substantial step, he raises the defense of voluntary abandonment because he ran away after hearing the police sirens. Under the Model Penal Code, will his abandonment defense succeed?
+**Q8.** Prosecutors alternatively charge Dave with RICO conspiracy for accepting the bribe. Under *Salinas v. United States*, does Dave's conduct satisfy the agreement element for a RICO conspiracy?
 
-(a) Yes, because Marcus completely ceased his participation in the criminal enterprise before the accelerant was ever transported to the target location or ignited.
-(b) Yes, because running away from the scene demonstrates a complete and permanent renunciation of the criminal purpose required by the Model Penal Code.
-(c) No, because the defense of voluntary abandonment is categorically unavailable for any crime involving the attempted destruction of commercial property.
-(d) No, because Marcus's abandonment was prompted by the fear of immediate apprehension from the police sirens, rather than a genuine change of heart. <!-- correct -->
-(e) Yes, because the police sirens were from an unrelated traffic stop, meaning Marcus's decision to flee was legally uncoerced by actual law enforcement intervention.
+(a) Yes, because he agreed to facilitate an act of arson, which qualifies as a predicate offense regardless of his knowledge of the enterprise.
+(b) Yes, because he performed an overt act by unlocking the door, which is the only requirement for joining a federal RICO conspiracy.
+(c) No, because he did not personally agree to commit two predicate acts of racketeering activity, which is required for all RICO co-conspirators.
+(d) No, because without knowledge of the Bayside Syndicate or intent to further its affairs, he cannot have agreed to participate in its enterprise. <!-- correct -->
+(e) Yes, because he accepted a bribe, which automatically makes him a legally responsible member of any criminal enterprise operating on the waterfront.
 
 **Answer:** (d)
 
-**Explanation:** (d) is correct. Under the Model Penal Code, the defense of voluntary abandonment requires a complete and voluntary renunciation of the criminal purpose. An abandonment is not legally voluntary if it is motivated by unexpected resistance or circumstances that increase the probability of apprehension, such as hearing police sirens. (a) is incorrect because ceasing participation must be genuinely voluntary, not prompted by fear of imminent capture. (b) is incorrect because fleeing out of panic from sirens does not demonstrate a genuine internal change of heart. (c) is incorrect because voluntary abandonment is generally available for all attempt charges if the strict requirements are met. (e) is incorrect because the objective fact that the sirens were unrelated does not alter Marcus's subjective motivation for fleeing to avoid perceived apprehension.
+**Explanation:** Under *Salinas v. United States*, a RICO conspiracy requires the defendant to know about and agree to facilitate the enterprise's affairs. Dave did not know about the Bayside Syndicate or Vance; he only knew about the isolated warehouse arson. Without knowledge of the overarching enterprise, he cannot agree to participate in its affairs. (a) is wrong because agreeing to a single predicate act is insufficient without intent to further the broader enterprise. (b) is wrong because an overt act is not the only requirement; an agreement to the enterprise's objectives is necessary. (c) is wrong because *Salinas* specifically held that a defendant does not need to personally commit or agree to commit two predicate acts himself, only that someone will. (e) is wrong because taking a bribe does not inherently establish knowledge of an enterprise.
 
-**Tags:** chapters: [17], topics: [attempt, voluntary abandonment], difficulty: medium, cognitive: application
+**Tags:** chapters: [20], topics: [RICO conspiracy, Salinas], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 17, Model Penal Code requirement that abandonment not be motivated by fear of imminent apprehension.
+**Grounding:** Chapter 20 (RICO and Enterprise Liability), salinas-no-personal-acts refinement.
 
-<!-- grounding: GROUNDED — MPC voluntary abandonment, Ch 17, Refinement `abandonment-mpc`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — RICO Conspiracy Agreement (Salinas), Ch 20, Refinement `salinas-no-personal-acts`. Rule paraphrased accurately. -->

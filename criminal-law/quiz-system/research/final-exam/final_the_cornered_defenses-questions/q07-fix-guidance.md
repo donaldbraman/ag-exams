@@ -4,33 +4,54 @@ The QA pipeline flagged this question. Rewrite `q07.md` addressing each numbered
 
 ## Issue 1 — audit
 
-<!-- audit: MUST FIX -->
+**Q7.** Assume Dave is charged with conspiracy to commit arson. Relying on the principles from *People v. Lauria*, does Dave's acceptance of the $500 "blind eye" fee establish an agreement to join the arson conspiracy?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) Yes, because taking any money with actual knowledge of a planned crime conclusively establishes an agreement to join the underlying conspiracy.
+(b) Yes, because his affirmative act of unlocking the back door constitutes the overt act strictly necessary to form a binding conspiracy.
+(c) No, because Dave lacked a special interest in the arson and did not charge a disproportionate fee to support inferring a shared purpose. <!-- correct -->
+(d) No, because bilateral conspiracies strictly require the participating parties to share equal proceeds from the successful completion of the criminal venture.
+(e) Yes, because by interacting with Marcus, Dave automatically became part of the broader Bayside Syndicate's continuous pattern of racketeering activity.
 
-Error: Model returned empty or blocked response.
+**Answer:** (c)
+
+**Explanation:** Under *People v. Lauria*, an agreement to join a conspiracy cannot be inferred from knowledge alone when providing goods or services, unless there is a special interest in the activity, a disproportionate fee, or a high volume of business. Dave charged a standard flat "blind eye" fee and had no stake in the outcome, failing the *Lauria* test to infer an intent to agree. (a) is wrong because knowledge alone does not equal agreement. (b) is wrong because an overt act does not substitute for the required intent to agree element. (d) is wrong because conspirators do not need to share equal proceeds; they just need an agreement to commit the crime. (e) is wrong because interacting with one member does not establish an agreement to join the broader syndicate.
+
+**Tags:** chapters: [19], topics: [conspiracy agreement, mens rea, Lauria], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 19 (Conspiracy), lauria-knowledge-vs-purpose refinement.
+
+<!-- audit: MUST FIX
+check 1: MUST FIX. Option (c) is doctrinally vulnerable under *Lauria*. The court in *Lauria* explicitly stated that intent to agree CAN be inferred from knowledge alone (without a special interest, disproportionate fee, or high volume of business) if the target offense is a "serious felony" (e.g., murder, arson). Because the crime here is arson, concluding "No" solely because Dave lacked a special interest or disproportionate fee ignores this key doctrinal carveout.
+check 2: pass. Option (a) is too absolute ("conclusively" and "any planned crime") to be a valid fallback, though a prepared student knowing the serious-felony exception would be frustrated by the lack of a fully accurate choice.
+check 3: SHOULD FIX. The explanation fails to mention the *Lauria* serious-felony exception, flatly stating that knowledge alone cannot infer an agreement without special interest, disproportionate fee, or high volume.
+check 4: MUST FIX. The question stem entirely lacks a fact pattern. It references "Dave," a "$500 'blind eye' fee," "Marcus," unlocking a back door, and the "Bayside Syndicate" without providing any facts about who these people are, what services were provided, or the context of the fee.
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: 1) Supply the missing fact pattern directly in the stem. 2) Change the target crime from arson to a misdemeanor or minor, non-aggravated felony (e.g., illegal gambling, prostitution, or minor fraud) so the *Lauria* serious-felony exception is not triggered. This will make option (c) and the explanation doctrinally airtight.
+-->
 
 ## Issue 2 — edge-case
 
-**Q7.** Under the two major tests for attempt actus reus, how should a court evaluate Marcus's conduct of loading the accelerant into his car two miles from the target warehouse?
+**Q7.** Assume Dave is charged with conspiracy to commit arson. Relying on the principles from *People v. Lauria*, does Dave's acceptance of the $500 "blind eye" fee establish an agreement to join the arson conspiracy?
 
-(a) Guilty under the common law proximity test because obtaining accelerant is dangerously close, but not guilty under the MPC without reaching the scene.
-(b) Guilty under the MPC substantial step test because loading accelerant corroborates intent, but not guilty under proximity because he was two miles away. <!-- correct -->
-(c) Guilty under both tests because procuring the specific chemical means for an arson categorically satisfies both the proximity and substantial step requirements.
-(d) Not guilty under both tests because mere preparation is never sufficient for attempt liability until the perpetrator reaches the immediate target location.
-(e) Guilty under the MPC substantial step test, but his liability under the common law proximity test is completely negated by his subjective fear.
+(a) Yes, because taking any money with actual knowledge of a planned crime conclusively establishes an agreement to join the underlying conspiracy.
+(b) Yes, because his affirmative act of unlocking the back door constitutes the overt act strictly necessary to form a binding conspiracy.
+(c) No, because Dave lacked a special interest in the arson and did not charge a disproportionate fee to support inferring a shared purpose. <!-- correct -->
+(d) No, because bilateral conspiracies strictly require the participating parties to share equal proceeds from the successful completion of the criminal venture.
+(e) Yes, because by interacting with Marcus, Dave automatically became part of the broader Bayside Syndicate's continuous pattern of racketeering activity.
 
-**Answer:** (b)
+**Answer:** (c)
 
-**Explanation:** The common law "dangerous proximity" test requires the defendant to be physically and temporally close to completing the crime. Being two miles away in a parking lot is generally considered mere preparation under proximity. Conversely, the Model Penal Code (MPC) "substantial step" test focuses on whether the conduct strongly corroborates the actor's criminal purpose; loading specialized accelerant into a vehicle satisfies this standard because it confirms the intent to commit the crime, moving the liability line much earlier. (a) completely reverses the doctrines. (c) is incorrect because the proximity test rarely treats logistical preparation far from the scene as sufficiently proximate. (d) is incorrect because the MPC explicitly designed the substantial step test to criminalize conduct long before the perpetrator reaches the immediate target location. (e) is incorrect because while his fear caused abandonment, abandonment is an affirmative defense rather than something that legally negates the completed actus reus element under the proximity test.
+**Explanation:** Under *People v. Lauria*, an agreement to join a conspiracy cannot be inferred from knowledge alone when providing goods or services, unless there is a special interest in the activity, a disproportionate fee, or a high volume of business. Dave charged a standard flat "blind eye" fee and had no stake in the outcome, failing the *Lauria* test to infer an intent to agree. (a) is wrong because knowledge alone does not equal agreement. (b) is wrong because an overt act does not substitute for the required intent to agree element. (d) is wrong because conspirators do not need to share equal proceeds; they just need an agreement to commit the crime. (e) is wrong because interacting with one member does not establish an agreement to join the broader syndicate.
 
-**Tags:** chapters: [17], topics: [attempt actus reus, substantial step, proximity test], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy agreement, mens rea, Lauria], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17 - actus-reus-proximity-test, actus-reus-substantial-step
+**Grounding:** Chapter 19 (Conspiracy), lauria-knowledge-vs-purpose refinement.
 
 <!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: The use of the word "Guilty" in the options creates a severe clash. Under the facts, Marcus arguably has a valid duress defense (established in Stem 1) which would make him ultimately not guilty of attempted arson, regardless of whether the actus reus test is met. 
-3. Cross-Question Spoilers: Q5 tests duress and Q8 tests abandonment. Declaring Marcus definitively "Guilty" in Q7's correct answer ignores these affirmative defenses. A sharp student who correctly spots that Marcus's duress precludes ultimate guilt might wrongly eliminate (b) or get stuck. 
-Recommended fix: Change "Guilty" and "not guilty" in the options to "Satisfies the actus reus under..." and "fails under..." (or similar), so the question cleanly isolates the actus reus element without making a technically false claim about ultimate guilt.
+1. Fact Pattern Booby Traps: The application of *People v. Lauria* here hits two major factual/doctrinal traps. First, *Lauria* explicitly contains a "serious crime" exception, stating that knowledge alone *can* be sufficient to infer intent if the known intended crime is "of the most serious nature" (traditionally citing offenses like murder or arson). Because the planned crime here is arson, this exception is arguably triggered, making (c) incorrect under a complete *Lauria* analysis. Second, *Lauria* looks at "inflated charges" to infer a stake in the venture; charging $500 merely to leave a door unlocked could easily be construed by a student as an inflated/disproportionate fee, but the explanation assumes it isn't. Finally, *Lauria* generally governs the provision of *lawful* goods/services, whereas Dave's act of taking a bribe to breach his security duties is inherently illicit.
+2. Cross-Doctrine Clashes: Pass.
+3. Cross-Question Spoilers: Pass.
+Recommended fix: Since the facts are locked, pivot the question away from *Lauria* and test a different aspect of conspiracy agreement (e.g., bilateral vs. unilateral agreement requirements, or the mere knowledge vs. purpose distinction generally without citing *Lauria*). If *Lauria* must be used, change the correct answer to reflect that Dave *can* be liable under *Lauria* either because arson qualifies as a "serious crime" or because $500 for a trivial act constitutes an inflated charge.
 -->

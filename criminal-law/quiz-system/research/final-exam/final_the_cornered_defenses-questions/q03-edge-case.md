@@ -1,22 +1,22 @@
-**Q3.** Assume that Marcus and Leo are charged with conspiracy to commit arson. Marcus argues that because his agreement with Leo was entirely the result of Vance's extreme coercion, he lacked the requisite intent to form a valid conspiracy. How should a court evaluate the formation of the agreement?
+**Q3.** Assume Marcus is charged with felony murder for the watchman's death. He argues that because the underlying arson was coerced by Vance, he cannot be guilty of felony murder. How would a jurisdiction recognizing the felony-murder duress exception rule on this claim?
 
-(a) A valid conspiracy was formed because Marcus explicitly agreed with Leo to commit the arson and shared the purpose to burn the warehouse, regardless of Vance's underlying coercion. <!-- correct -->
-(b) A valid conspiracy was not formed because Marcus's agreement was the product of coercion, which negates the specific intent required for conspiracy formation as a matter of law.
-(c) A valid conspiracy was formed because Leo, as a co-conspirator, possessed the requisite intent, which imputes the necessary mens rea to Marcus under the unilateral approach.
-(d) A valid conspiracy was not formed because the agreement was primarily directed by Vance, meaning Marcus and Leo were mere instrumentalities rather than independent conspirators.
-(e) A valid conspiracy was formed because the overt act of loading the accelerant into the car retroactively cures any defect in the initial mental state regarding the agreement.
+(a) Marcus is guilty because duress is categorically unavailable as a defense to any form of homicide, including felony murder.
+(b) Marcus is not guilty because if he successfully establishes duress for the predicate arson, the chain of felony-murder liability is broken. <!-- correct -->
+(c) Marcus is guilty because the felony-murder exception only applies if the defendant was also directly coerced into committing the actual killing.
+(d) Marcus is not guilty because felony murder statutes require the prosecution to prove the defendant foresaw the lethal acts of his accomplices.
+(e) Marcus is guilty because his participation in a dangerous felony creates strict liability for any resulting death, overriding all affirmative defenses.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct. Conspiracy requires the intent to agree and the purpose to commit the target offense. While Marcus was coerced by Vance, duress is an excuse that shields a defendant from punishment; it does not negate the intentional mens rea to form the agreement. Marcus explicitly agreed to commit the arson. (b) is incorrect because duress does not negate the specific intent required for conspiracy as a matter of law. (c) is incorrect because the unilateral approach applies when one party feigns agreement, whereas Marcus genuinely agreed. (d) is incorrect because being directed by a third party does not prevent the formation of an agreement between two actual co-conspirators. (e) is incorrect because an overt act cannot retroactively cure a missing mental state.
+**Explanation:** Under the common law, duress is categorically barred for intentional murder because a defendant may not choose their life over another's. However, in states recognizing the felony-murder duress exception (e.g., *People v. Reichard*), a defendant forced to commit a predicate felony under duress is not guilty of felony murder if a death results. The rationale is that the defendant was not choosing between lives, but was merely coerced into a lesser crime, breaking the chain of felony-murder liability. (a) is wrong because it describes the traditional bar without the modern exception. (c) is wrong because the exception applies if the *predicate felony* was coerced. (d) is wrong because felony murder is a strict liability offense regarding the death. (e) is wrong because it ignores the established affirmative defense exception.
 
-**Tags:** chapters: [19], topics: [conspiracy formation, intent to agree], difficulty: medium, cognitive: application
+**Tags:** chapters: [21, 14], topics: [duress, felony-murder exception], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 19, conspiracy agreement requirement and Dixon v. United States (duress excuses but does not negate mens rea).
+**Grounding:** Chapter 21 (Necessity and Duress), felony-murder-duress-exception refinement.
 
 <!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass
+1. Fact Pattern Booby Traps: pass (the use of "if he successfully establishes" insulates the question from the debatable imminence/opportunity-to-escape facts that govern the actual success of the duress claim).
 2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
+3. Cross-Question Spoilers: pass (because it relies on a hypothetical success of the defense, it does not spoil Q2's analysis of whether the threat was sufficiently imminent).
 Recommended fix: n/a
 -->

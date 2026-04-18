@@ -1,26 +1,26 @@
-**Q3.** Is Marcus liable as an accomplice to drug distribution based on his initial act of routing the trucks before Carmine threatened him?
+**Q3.** Assume Marcus is charged as an accomplice to drug trafficking for routing the trucks around the weigh stations. Is he guilty under the traditional common law standard?
 
-(a) Not liable, because he lacked the specific purpose to promote or facilitate the drug distribution, having only knowledge and receiving his regular salary. <!-- correct -->
-(b) Liable, because his knowledge of the illegal drug activity combined with his voluntary affirmative act of routing the trucks satisfies the requisite mens rea.
-(c) Not liable, because an employee of a legitimate corporation cannot be held liable as an accomplice for performing their ordinary, pre-existing job duties.
-(d) Liable, because he acted recklessly by continuing to route the trucks while consciously disregarding the substantial risk that they contained illegal drugs.
-(e) Not liable, because he expressly communicated his non-participation to Carmine, which legally constitutes an effective withdrawal from the criminal scheme.
+(a) Yes, because he knew his actions would assist the drug trafficking operation and he voluntarily performed them for his employer.
+(b) Yes, because routing the trucks constituted a substantial step toward the commission of the drug offense and satisfied the actus reus.
+(c) No, because an accomplice must act with the purpose of promoting the offense, and Marcus explicitly disclaimed a stake in the venture. <!-- correct -->
+(d) No, because his regular salary was legitimate compensation that legally insulates him from liability for how the company's trucks were used.
+(e) No, because a person cannot be an accomplice unless they are physically present at the scene when the underlying offense occurs.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** Accomplice liability requires the purpose to promote or facilitate the underlying offense. Mere knowledge of the crime, combined with providing ordinary commercial services for a regular salary without a stake in the venture, is insufficient to establish purpose. (b) is wrong because knowledge is not enough for accomplice liability; the standard is purpose. (c) is wrong because performing ordinary job duties can constitute actus reus for accomplice liability if done with the requisite purpose. (d) is wrong because recklessness does not satisfy the mens rea requirement for accomplice liability, which requires purpose as to the conduct. (e) is wrong because his verbal statement merely clarified his mental state (lack of purpose); he actually performed the routing, so he didn't "withdraw" from an act he executed.
+**Explanation:** (c) is correct because the common law requires an accomplice to act with the specific purpose of promoting or facilitating the underlying offense. Marcus explicitly disclaimed any stake in the venture and stated he only wanted his regular salary, demonstrating knowledge but lacking purpose. (a) is incorrect because mere knowledge of the criminal nature of the acts being assisted is generally insufficient for accomplice liability. (b) is incorrect because the substantial step test applies to attempt liability, not the mens rea requirement for accomplice liability. (d) is incorrect because receipt of a regular salary does not provide absolute legal immunity if the employee acts with the requisite criminal purpose. (e) is incorrect because an accomplice can be liable for aiding and abetting even if not physically present at the crime scene.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, mens-rea, purpose-vs-knowledge], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice liability, mens rea], difficulty: foundational, cognitive: application
 
-**Grounding:** Chapter 18 - Mens Rea (Purpose) / Lauria
+**Grounding:** Chapter 18, mr-purpose-not-knowledge
 
-<!-- audit: SHOULD FIX
+<!-- audit: MUST FIX
 check 1: pass
-check 2: pass (Option B is safely incorrect because it states knowledge *satisfies* the mens rea, rather than correctly noting that purpose is required but could potentially be *inferred* from knowledge under certain exceptions).
-check 3: finding (The explanation asserts that knowledge plus ordinary services is "insufficient to establish purpose." While true on standard facts, the explanation completely glosses over the `lauria-three-inferences` taught in Ch 19, where knowledge *can* establish purpose if there is no legitimate use, disproportionate volume, or a particularly serious felony. The explanation should briefly close these loopholes).
-check 4: finding (The stem relies heavily on an external/global fact pattern ("Marcus", "Carmine", "routing the trucks"). To safely lead to option A, the global facts *must* explicitly establish that Marcus receives only his flat, regular salary (no cut/bonus from the drugs) and that the volume of routing isn't disproportionately driven by the illegal activity. Otherwise, students will argue the `lauria-three-inferences` apply).
+check 2: pass
+check 3: pass
+check 4: fail - The stem is missing the factual scenario entirely. It refers to Marcus routing trucks, but the options and explanation rely on critical facts not present in the stem (e.g., that he knew about the drugs, that he "explicitly disclaimed a stake," and that he received a "regular salary").
 check 5: pass
 check 6: pass
-check 7: pass (Ties neatly to `mr-purpose-not-knowledge` in Ch 18 and `lauria-knowledge-vs-purpose` in Ch 19).
-Recommended fix: Verify the master fact pattern explicitly limits Marcus's compensation to a flat rate with no "stake in the venture" and no disproportionate volume. Update the explanation to briefly acknowledge that none of the *Lauria* exceptions (which allow inferring purpose from knowledge) apply to these facts.
+check 7: pass
+Recommended fix: Add the missing factual context to the stem (e.g., "Marcus, an employee at a trucking company, learned his employer was using trucks to traffic drugs. When his boss asked him to route the trucks around weigh stations to avoid detection, Marcus agreed but stated, 'I want no part of the drug profits; I'm just doing this for my regular salary.'").
 -->

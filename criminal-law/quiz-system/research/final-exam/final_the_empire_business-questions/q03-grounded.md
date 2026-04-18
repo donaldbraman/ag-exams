@@ -1,17 +1,17 @@
-**Q3.** Is Marcus liable as an accomplice to drug distribution based on his initial act of routing the trucks before Carmine threatened him?
+**Q3.** Assume Marcus is charged as an accomplice to drug trafficking for routing the trucks around the weigh stations. Is he guilty under the traditional common law standard?
 
-(a) Not liable, because he lacked the specific purpose to promote or facilitate the drug distribution, having only knowledge and receiving his regular salary. <!-- correct -->
-(b) Liable, because his knowledge of the illegal drug activity combined with his voluntary affirmative act of routing the trucks satisfies the requisite mens rea.
-(c) Not liable, because an employee of a legitimate corporation cannot be held liable as an accomplice for performing their ordinary, pre-existing job duties.
-(d) Liable, because he acted recklessly by continuing to route the trucks while consciously disregarding the substantial risk that they contained illegal drugs.
-(e) Not liable, because he expressly communicated his non-participation to Carmine, which legally constitutes an effective withdrawal from the criminal scheme.
+(a) Yes, because he knew his actions would assist the drug trafficking operation and he voluntarily performed them for his employer.
+(b) Yes, because routing the trucks constituted a substantial step toward the commission of the drug offense and satisfied the actus reus.
+(c) No, because an accomplice must act with the purpose of promoting the offense, and Marcus explicitly disclaimed a stake in the venture. <!-- correct -->
+(d) No, because his regular salary was legitimate compensation that legally insulates him from liability for how the company's trucks were used.
+(e) No, because a person cannot be an accomplice unless they are physically present at the scene when the underlying offense occurs.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** Accomplice liability requires the purpose to promote or facilitate the underlying offense. Mere knowledge of the crime, combined with providing ordinary commercial services for a regular salary without a stake in the venture, is insufficient to establish purpose. (b) is wrong because knowledge is not enough for accomplice liability; the standard is purpose. (c) is wrong because performing ordinary job duties can constitute actus reus for accomplice liability if done with the requisite purpose. (d) is wrong because recklessness does not satisfy the mens rea requirement for accomplice liability, which requires purpose as to the conduct. (e) is wrong because his verbal statement merely clarified his mental state (lack of purpose); he actually performed the routing, so he didn't "withdraw" from an act he executed.
+**Explanation:** (c) is correct because the common law requires an accomplice to act with the specific purpose of promoting or facilitating the underlying offense. Marcus explicitly disclaimed any stake in the venture and stated he only wanted his regular salary, demonstrating knowledge but lacking purpose. (a) is incorrect because mere knowledge of the criminal nature of the acts being assisted is generally insufficient for accomplice liability. (b) is incorrect because the substantial step test applies to attempt liability, not the mens rea requirement for accomplice liability. (d) is incorrect because receipt of a regular salary does not provide absolute legal immunity if the employee acts with the requisite criminal purpose. (e) is incorrect because an accomplice can be liable for aiding and abetting even if not physically present at the crime scene.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, mens-rea, purpose-vs-knowledge], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice liability, mens rea], difficulty: foundational, cognitive: application
 
-**Grounding:** Chapter 18 - Mens Rea (Purpose) / Lauria
+**Grounding:** Chapter 18, mr-purpose-not-knowledge
 
-<!-- grounding: GROUNDED — Accomplice Liability Mens Rea (Purpose vs. Knowledge), Ch 18, Refinement `mr-purpose-not-knowledge`. Rule paraphrased accurately. (Note: The "stake in the venture" / ordinary commercial services logic also correctly cross-references the Lauria inferences taught via Ch 19 `lauria-knowledge-vs-purpose`). -->
+<!-- grounding: GROUNDED — Accomplice Mens Rea (Purpose vs. Knowledge), Ch 18, Refinement `mr-purpose-not-knowledge`. Rule paraphrased accurately. -->

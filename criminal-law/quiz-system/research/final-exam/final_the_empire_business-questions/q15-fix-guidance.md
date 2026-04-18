@@ -4,29 +4,29 @@ The QA pipeline flagged this question. Rewrite `q15.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q15.** Assume Dominic is charged with attempted murder of Elias. How does his conduct fare under the competing actus reus tests for attempt?
+**Q15.** Dominic is charged with being a felon in possession of a firearm under 18 U.S.C. § 922(g). How does his genuine belief about the classification of his prior conviction affect the charge?
 
-(a) He is guilty under the substantial step test because lying in wait strongly corroborates criminal purpose, and likely guilty under the proximity test because he was fully armed at the target location. <!-- correct -->
-(b) He is guilty under the proximity test because he possessed the specific intent to kill, but not guilty under the substantial step test because he had not yet pointed the weapon at Elias.
-(c) He is not guilty under either test because mere preparation, such as buying a rifle and parking a car, can never satisfy the actus reus requirement for an attempted homicide charge.
-(d) He is guilty under the substantial step test because purchasing the rifle crossed the line of liability, but not guilty under the proximity test because Elias was not yet present outside the house.
-(e) He is not guilty under either test because the police intervention occurred before he could commit the final indispensable act necessary to complete the substantive offense of murder.
+(a) It is a complete defense, because under Rehaif the government must prove he knew his prior conviction belonged to the prohibited class, meaning he knew it was a felony. <!-- correct -->
+(b) It provides no defense, because a defendant's mistaken belief about the legal classification of a prior conviction is an invalid mistake of law under the traditional ignorance of law rule.
+(c) It is a complete defense, because the Second Amendment categorically prohibits the disarmament of any person whose prior conviction was for a purely nonviolent commercial fraud offense.
+(d) It provides no defense, because Rehaif only requires the government to prove that the defendant knew he possessed the firearm, not that he knew his underlying legal status.
+(e) It is a complete defense, because his sentence of probation proves that the prior state court did not consider him dangerous enough to warrant stripping his constitutional firearm rights.
 
 **Answer:** (a)
 
-**Explanation:** The MPC substantial step test explicitly lists "lying in wait" as conduct that satisfies the actus reus. Under the common law dangerous proximity test, arriving at the scene fully armed and ready to shoot is generally close enough to completion to satisfy the test, as he was in dangerous proximity to success. (b) is wrong because the substantial step test reaches further back than pointing the weapon. (c) is wrong because his actions went far beyond mere preparation under both tests. (d) is wrong because purchasing the rifle alone is merely preparatory; it was driving to the location and lying in wait that satisfied the tests. (e) is wrong because neither test requires the "last act" before completion; both allow intervention earlier.
+**Explanation:** Under Rehaif v. United States, the Morissette presumption requires the government to prove the defendant knew both that he possessed a firearm and that he belonged to the prohibited class. Because Dominic genuinely believed his prior conviction was a misdemeanor, he did not know he possessed the status of a felon, which negates the required mens rea. (b) is incorrect because Rehaif explicitly extends the knowledge requirement to the legal status element. (c) is incorrect because the constitutionality of disarming nonviolent felons post-Bruen and Rahimi (e.g., Range v. Attorney General) remains an actively disputed circuit split, whereas Rehaif provides a definitive statutory defense. (d) is incorrect because it states the pre-Rehaif rule. (e) is incorrect because the sentence received (probation) does not alter the statutory definition of a felony (punishable by more than one year).
 
-**Tags:** chapters: [17], topics: [attempt, actus-reus, substantial-step, proximity-test], difficulty: advanced, cognitive: analysis
+**Tags:** chapters: [10, 15], topics: [mistake of law, status elements, felon in possession, Second Amendment], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 17 - Actus Reus (Substantial Step vs. Proximity)
+**Grounding:** Rehaif v. United States; United States v. Rahimi; Range v. Attorney General
 
 <!-- audit: MUST FIX
-Check 1: The correct answer cannot be evaluated without facts. Further, if the missing facts stipulate Elias was not yet present, concluding Dominic is "likely guilty under the proximity test" is highly debatable; classic proximity cases (e.g., *Rizzo*) often hold that if the victim has not yet arrived, dangerous proximity is not satisfied.
-Check 2: A student cannot evaluate or eliminate any distractors because the entire fact pattern is missing.
-Check 3: The explanation references specific facts (buying a rifle, driving to the location, lying in wait, police intervention) that do not appear anywhere in the stem.
-Check 4: Fails completely. The stem contains absolutely no facts about Dominic's conduct. It merely states the charge.
-Check 5: Pass. The question explicitly tests the comparison between jurisdictional approaches.
-Check 6: Pass.
-Check 7: Pass. Both tests are covered in the Chapter 17 map.
-Recommended fix: Insert the missing fact pattern into the stem (e.g., "Dominic buys a rifle, drives to Elias's house, and lies in wait outside in his parked car. Police arrest him before Elias emerges."). Additionally, either change the proximity test conclusion in (a) to reflect that he *fails* the proximity test (since Elias wasn't there yet), or adjust the facts so Elias is actively walking out the door when police intervene, making the dangerous proximity conclusion unassailable.
+Check 1: Fails. Option (a) incorrectly states that Rehaif requires proving "he knew it was a felony." 18 U.S.C. § 922(g)(1) explicitly targets possession by someone convicted of "a crime punishable by imprisonment for a term exceeding one year." Knowing the offense's legal classification as a "felony" is doctrinally imprecise, as some state misdemeanors are punishable by >1 year and trigger the federal ban. 
+Check 2: Fails. Because the stem omits Dominic's specific belief, a prepared student could reasonably assume he knew the offense was punishable by >1 year but mistakenly believed its legal label was a "misdemeanor." Under that assumption, Rehaif offers no defense, making Option (b) a credibly correct answer.
+Check 3: Fails. The explanation relies on facts that do not exist in the stem (specifically stating that Dominic "genuinely believed his prior conviction was a misdemeanor" and referencing "the sentence received (probation)").
+Check 4: Fails catastrophically. The stem is missing its core fact pattern. It asks how "his genuine belief" affects the charge, but never actually states what he believed. Option (e) also relies on "his sentence of probation," a fact never established in the prompt.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Recommended fix: Add the missing facts to the stem: "Dominic was previously convicted of a state offense and sentenced to probation. He genuinely believed his prior offense was legally punishable by a maximum of one year in prison." Revise Option (a) to match the statutory text: "meaning he knew his prior conviction was punishable by more than one year" instead of "meaning he knew it was a felony." Update the explanation accordingly.
 -->

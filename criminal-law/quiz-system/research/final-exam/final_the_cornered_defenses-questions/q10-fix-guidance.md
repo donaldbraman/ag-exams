@@ -4,29 +4,29 @@ The QA pipeline flagged this question. Rewrite `q10.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q10.** Assume Marcus is charged with felony murder for the watchman's death based on the predicate felony of attempted arson. How would his duress claim affect this charge?
+**Q10.** At trial, Leo asserts an insanity defense under the *M'Naghten* test, relying on his hallucination that the watchman was a demon. How does his post-offense conduct in Fact 7 affect his defense under the wrongness prong?
 
-(a) Under the MPC, Marcus's duress claim fails categorically because he was at fault for willingly associating with a notoriously violent criminal syndicate.
-(b) Under the common law, duress serves as a complete defense to all forms of murder, rendering the felony murder charge legally invalid from the outset.
-(c) Under the common law, duress is unavailable for intentional murder but is automatically permitted for unintentional felony murder in every modern American jurisdiction.
-(d) Under the common law, duress is categorically unavailable for any murder charge, but some jurisdictions allow it for felony murder if the predicate felony was coerced. <!-- correct -->
-(e) Under the MPC, duress is treated as a partial justification that strictly reduces any felony murder charge to a lesser grade of involuntary manslaughter.
+(a) It weakens his defense because drawing insect hives demonstrates a clear cognitive awareness that he had violated the state's criminal statutes.
+(b) It supports his defense because his lack of evasion and references to "the lead demon" suggest he did not comprehend his act's wrongness. <!-- correct -->
+(c) It defeats his defense entirely because his ability to speak coherently to the booking officer proves he was completely cognitively functional.
+(d) It supports his defense because any post-offense abnormal behavior conclusively satisfies the mandatory volitional prong of the traditional insanity test.
+(e) It defeats his defense because the M'Naghten test specifically excludes any mentally ill defendants who are capable of successfully completing a lethal act.
 
-**Answer:** (d)
+**Answer:** (b)
 
-**Explanation:** Under traditional common law, duress is categorically unavailable as a defense to any form of murder, because a person may not take an innocent life to save their own. However, several states (e.g., Michigan, Maryland) have carved out an exception for felony murder: if the underlying predicate felony (here, attempted arson) was committed under duress, the duress defense may break the chain of felony-murder liability (*People v. Reichard*). (a) is incorrect because the MPC does not automatically bar duress for associating with bad actors unless the actor recklessly placed themselves in the situation where coercion was probable. (b) is incorrect because the common law murder bar strictly prohibits duress as a defense to murder. (c) is incorrect because the felony-murder exception is a minority rule, not one adopted by every modern jurisdiction. (e) is incorrect because the MPC treats duress as an excuse, not a partial justification, and it fully allows duress as a defense to murder without automatically reducing it to manslaughter.
+**Explanation:** Under the *M'Naghten* wrongness prong, a defendant is excused if they did not know the act was morally or legally wrong. Leo's open, non-evasive post-offense behavior—making no attempt to hide the weapon and discussing the "demon" with police—supports the claim that his delusion prevented him from understanding the wrongness of his act, as he behaved like someone who believed he had done a good deed. (a) is wrong because drawing hives aligns with his psychotic delusion, not an awareness of the law. (c) is wrong because the test focuses on moral/legal comprehension, not basic conversational functioning. (d) is wrong because the strict *M'Naghten* test does not include a volitional (control) prong. (e) is wrong because *M'Naghten* frequently applies to completed lethal acts.
 
-**Tags:** chapters: [21], topics: [felony murder, duress, murder bar exception], difficulty: medium, cognitive: application
+**Tags:** chapters: [23], topics: [insanity, M'Naghten, post-offense conduct], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21 - felony-murder-duress-exception
+**Grounding:** Chapter 23 (The Insanity Defense), mnaghten-wrongness and consciousness-of-guilt-in-insanity refinements.
 
 <!-- audit: MUST FIX
-Check 1: pass (The correct answer accurately states the traditional common law rule and the modern jurisdictional split regarding the felony-murder exception).
-Check 2: finding (Option (a) is a highly defensible distractor—or potentially a correct answer depending on the missing facts. Under MPC § 2.09(2), willingly associating with a "notoriously violent criminal syndicate" is the casebook's textbook example of recklessly placing oneself in a situation where coercion is probable, which *does* bar the defense. A prepared student could strongly argue this categorically defeats the claim.)
-Check 3: finding (The explanation dismisses (a) by stating the MPC doesn't "automatically" bar duress for associating with bad actors unless the actor was reckless. But "willingly associating with a notoriously violent criminal syndicate" virtually defines that recklessness standard under the MPC, making the explanation's reasoning weak/evasive.)
-Check 4: finding (The stem is completely missing the macro fact pattern. It refers to "Marcus," "the watchman's death," and his "duress claim" without providing any facts about the coercion or his prior associations, making it impossible to confidently evaluate fact-applied options like (a).)
-Check 5: finding (The question asks how the claim would affect *his* charge, but does not stipulate a jurisdiction. The correct answer (d) just states that "some jurisdictions" allow the defense, which surveys the law rather than resolving Marcus's specific case.)
-Check 6: pass
-Check 7: pass
-Recommended fix: Provide the missing facts in the stem (or ensure this is explicitly linked to a macro pattern). Revise the call of the question to ask "Which of the following statements about his duress claim is most accurate?" so option (d)'s jurisdictional survey fits the prompt logically. Finally, weaken option (a) by changing "notoriously violent criminal syndicate" to a softer association (e.g., "willingly associating with a known petty thief") so it doesn't clearly trigger the MPC § 2.09(2) recklessness exception.
+<check 1>: pass (conditionally, assuming the missing facts align with the explanation).
+<check 2>: pass.
+<check 3>: pass.
+<check 4>: fail. The stem references "Fact 7" and the options mention specific factual details (drawing insect hives, speaking to the booking officer, lack of evasion) that are entirely absent from the prompt. This question appears to have been improperly extracted from a broader multi-question fact pattern without bringing the facts along.
+<check 5>: pass.
+<check 6>: pass.
+<check 7>: pass.
+Recommended fix: Integrate the missing facts directly into the stem and remove the reference to "Fact 7". For example: "After killing the watchman, Leo made no attempt to evade police or hide his weapon. Instead, he calmly told the booking officer he had slain 'the lead demon' and sat drawing insect hives on the table. At trial, Leo asserts an insanity defense..."
 -->

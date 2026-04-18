@@ -4,29 +4,29 @@ The QA pipeline flagged this question. Rewrite `q02.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q2.** Can Carmine be convicted of a RICO conspiracy under § 1962(d) for the agreement regarding the future narcotics side-operation?
+**Q2.** Assume the U.S. Attorney wants to charge Carmine with RICO conspiracy for the narcotics agreement. Is Carmine guilty of RICO conspiracy?
 
-(a) Guilty, because an agreement to associate with and participate in a yet-to-be-formed racketeering enterprise constitutes a completed RICO conspiracy under federal law. <!-- correct -->
-(b) Not guilty, because the substantive enterprise must already exist at the time of the initial agreement for a conspiracy charge to legally attach.
-(c) Guilty, but only if Dominic personally completed at least two predicate acts of racketeering in furtherance of the newly formed drug operation.
-(d) Not guilty, because an agreement to commit future crimes lacks the necessary continuity requirement to establish a completed pattern of racketeering activity.
-(e) Guilty, because any agreement to commit a drug trafficking offense automatically triggers RICO liability under federal inchoate criminal conspiracy laws.
+(a) Guilty of RICO conspiracy, because an agreement to form a future enterprise constitutes a completed RICO conspiracy offense even if the enterprise does not yet exist. <!-- correct -->
+(b) Not guilty of RICO conspiracy, because the substantive RICO offense requires the existence of a fully formed enterprise at the time the agreement is reached.
+(c) Guilty of RICO conspiracy, because Carmine had already established Pinnacle Waste and the new syndicate would merely operate as a subsidiary of that existing enterprise.
+(d) Not guilty of RICO conspiracy, because neither Carmine nor Dominic had committed any predicate acts in furtherance of the planned future narcotics syndicate at that time.
+(e) Guilty of RICO conspiracy, because the agreement involved the distribution of narcotics which automatically satisfies the pattern of racketeering requirement under the federal RICO statute.
 
 **Answer:** (a)
 
-**Explanation:** An agreement to associate with and participate in a yet-to-be-formed racketeering enterprise can constitute a completed RICO conspiracy offense (*United States v. Rich*). The enterprise need not exist at the time of the agreement. (b) is wrong because *Rich* explicitly permits convictions for agreeing to form a future enterprise. (c) is wrong because *Salinas* holds that a RICO conspirator need not personally commit two predicate acts. (d) is wrong because conspiracy is an inchoate offense targeting the agreement itself, not the completed pattern. (e) is wrong because ordinary drug conspiracies do not automatically constitute RICO violations; they must target an enterprise structure.
+**Explanation:** Under United States v. Rich, an agreement to associate with and participate in a yet-to-be-formed racketeering enterprise constitutes a completed RICO conspiracy offense. The enterprise does not need to exist at the time of the agreement. (b) is incorrect because the Sixth Circuit explicitly held that a future enterprise satisfies the conspiracy element. (c) is incorrect because the facts state they agreed to form a "new, separate" syndicate, making its status as a subsidiary factually incorrect and legally unnecessary. (d) is incorrect because under Salinas v. United States, a RICO conspirator does not need to personally commit predicate acts; the agreement itself is the crime. (e) is incorrect because while narcotics distribution is a predicate act, RICO requires an agreement to conduct the affairs of an enterprise through a pattern of racketeering, not merely a standard drug conspiracy.
 
-**Tags:** chapters: [20], topics: [RICO, conspiracy, rich-future-enterprise], difficulty: advanced, cognitive: application
+**Tags:** chapters: [20], topics: [RICO, conspiracy, future enterprise, Salinas], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 20 - United States v. Rich
+**Grounding:** United States v. Rich; Salinas v. United States
 
 <!-- audit: MUST FIX
-<check 1>: pass
-<check 2>: pass
-<check 3>: pass
-<check 4>: fail. The prompt lacks the factual scenario (stem) entirely. Without seeing the facts, it is impossible to verify if Carmine's "narcotics side-operation" actually contemplated the structural elements of a RICO enterprise (Boyle) and a pattern of racketeering activity. If the unseen facts describe a standard drug conspiracy, a prepared student would rightly argue that Option A is factually unsupported, making the question defective. 
-<check 5>: pass
-<check 6>: pass
-<check 7>: pass
-Recommended fix: Provide the missing fact pattern. Ensure the scenario explicitly details that the "future side-operation" involved an agreement to establish an ongoing enterprise structure (purpose, relationships, longevity) and a pattern of predicate acts, thereby differentiating it from a standard § 846 drug conspiracy.
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: fail. The question stem is missing the required factual context (it references "Carmine", "Dominic", "the narcotics agreement", and "Pinnacle Waste" but provides no facts about them). It appears to be a dependent question separated from a master fact pattern.
+check 5: fail. The explanation justifies ruling out option (b) by stating "the Sixth Circuit explicitly held...". Because RICO is a federal statute subject to circuit splits, treating a specific circuit's ruling as universal black-letter law without stipulating the jurisdiction or asking about the rule in *Rich* violates the jurisdictional clarity requirement.
+check 6: pass
+check 7: pass
+Recommended fix: (1) Integrate the necessary facts into the stem (or ensure it is explicitly paired with its master fact pattern). (2) Add a jurisdictional stipulation to the stem, such as: "Assume the applicable jurisdiction follows the rule from United States v. Rich."
 -->

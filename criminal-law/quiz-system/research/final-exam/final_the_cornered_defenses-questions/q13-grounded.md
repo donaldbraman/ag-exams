@@ -1,17 +1,17 @@
-**Q13.** Assume Silas is charged with aggravated assault for shooting Trey. Silas asserts self-defense, arguing he honestly believed Trey was reaching for a weapon. Witnesses confirm Trey was actually reaching for his phone. Under the traditional objective reasonableness standard, how will Silas's belief be evaluated?
+**Q13.** Assume Silas is instead prosecuted for aggravated assault and claims self-defense. Will his belief that he needed to use deadly force against Trey satisfy the objective reasonableness standard?
 
-(a) Silas's belief will be deemed reasonable as long as he genuinely and honestly held it in the moment, regardless of whether a typical person would have perceived a threat.
-(b) Silas's belief will be evaluated based on whether a reasonable person in Silas's specific situation, possessing Silas's knowledge of the Syndicate's violent history, would have believed deadly force was necessary. <!-- correct -->
-(c) Silas's belief will be deemed unreasonable as a matter of law because Trey was unarmed, and self-defense strictly requires the victim to actually possess a deadly weapon.
-(d) Silas's belief will be evaluated solely from the perspective of an idealized, detached observer with no prior knowledge of the Bayside Syndicate or the previous day's events.
-(e) Silas's belief will be deemed reasonable only if he can prove by clear and convincing evidence that Trey had previously threatened him with a firearm.
+(a) Yes, because a purely subjective standard applies, and Silas honestly believed his life was in imminent danger from a known and dangerous professional hitman.
+(b) No, because Trey was entirely unarmed, and self-defense claims are strictly foreclosed whenever the perceived threat turns out to be factually false.
+(c) Yes, because a reasonable person in Silas's situation, possessing his knowledge of Trey's reputation and observing the concealed hand, could have perceived an imminent threat. <!-- correct -->
+(d) No, because the objective standard requires courts to strictly ignore the defendant's prior experiences and knowledge regarding the alleged attacker's violent history.
+(e) Yes, because the castle doctrine automatically presumes an objectively reasonable fear of death whenever a defendant is aggressively approached while inside a vehicle.
 
-**Answer:** (b)
+**Answer:** (c)
 
-**Explanation:** (b) is correct. The objective reasonableness standard requires evaluating whether a reasonable person in the defendant's specific situation would have believed deadly force was necessary. This incorporates the defendant's relevant prior experiences and specific knowledge of the attacker, such as Silas's awareness of the Syndicate's violent history and Trey's role as a hitman. (a) is incorrect because an honest belief alone only satisfies the subjective component; the belief must also be objectively reasonable. (c) is incorrect because self-defense permits acting on a reasonable mistake of fact, even if the victim is actually unarmed. (d) is incorrect because the law does not use an idealized, detached observer; it places the reasonable person in the defendant's shoes. (e) is incorrect because previous specific threats with a firearm are not a strict prerequisite for finding a belief reasonable.
+**Explanation:** The objective reasonableness standard requires the jury to consider what a reasonable person *in the defendant's situation* would have believed. Silas's prior knowledge of Trey's reputation as a hitman and his observation of the concealed hand are properly incorporated into this objective analysis, potentially making his fear reasonable even though Trey was actually unarmed. (a) is wrong because the standard is not purely subjective; it requires an objective assessment of reasonableness. (b) is wrong because self-defense relies on a reasonable belief at the time, not absolute factual accuracy evaluated in hindsight. (d) is wrong because the standard explicitly incorporates the defendant's situational knowledge and prior experiences (*People v. Goetz*). (e) is wrong because the castle doctrine does not automatically presume fear in a vehicle without specific statutory triggers.
 
-**Tags:** chapters: [22], topics: [self-defense, objective reasonableness, situational incorporation], difficulty: medium, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, objective reasonableness], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22, People v. Goetz and situational incorporation into the objective standard.
+**Grounding:** Chapter 22 (Self-Defense), objective-reasonableness-standard and situational-incorporation refinements.
 
-<!-- grounding: GROUNDED — Situational incorporation into the objective reasonableness standard, Ch 22, Refinement `situational-incorporation`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — objective reasonableness standard, Ch 22, Refinement `situational-incorporation`. Rule paraphrased accurately. -->

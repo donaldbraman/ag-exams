@@ -2,82 +2,75 @@
 
 The QA pipeline flagged this question. Rewrite `q05.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — audit
+## Issue 1 — argpass-sonnet
 
-<!-- audit: MUST FIX -->
+**Q5.** The investigation uncovered Dominic's drug-for-guns trade. Assume Dominic is charged under 18 U.S.C. § 924(c) with "using" a firearm during a drug trafficking crime. Is he guilty?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) Guilty, because acquiring weapons to arm an extortion crew constitutes the active employment of a firearm during the commission of a federal drug trafficking crime.
+(b) Not guilty, because a defendant who trades drugs to acquire a gun does not "use" the firearm; only the party tendering the weapon actually uses it. <!-- correct -->
+(c) Guilty, because trading drugs for a firearm inherently involves firearms in a drug trafficking crime, making both sides of the transaction equally liable under the law.
+(d) Not guilty, because Dominic did not brandish or fire the AR-15 rifles during the specific exchange of the narcotics with the illicit weapons supplier.
+(e) Guilty, because Dominic constructively possessed the firearms as soon as the trade was complete, which is legally synonymous with using them under the federal statute.
 
-Error: Model returned empty or blocked response.
+**Answer:** (b)
 
-## Issue 2 — argpass-sonnet
+**Explanation:** Under Watson v. United States, a defendant who trades drugs to acquire a firearm does not "use" the firearm within the meaning of 18 U.S.C. § 924(c). The Supreme Court held that receiving a gun as payment is not "using" it; only the person tendering the gun uses it as currency. (a) is incorrect because Watson expressly rejected the idea that receiving a gun to arm a crew constitutes "use" during the trade itself. (c) is incorrect because the Court in Watson explicitly broke the symmetry of the transaction, distinguishing the buyer from the seller. (d) is incorrect because while brandishing is a form of use, the primary doctrinal reason the charge fails here is the Supreme Court's categorical rule about receiving weapons in trades. (e) is incorrect because constructive possession is a distinct legal concept from "using" under the active employment requirement of § 924(c).
 
-**Q5.** Did Dominic "use" a firearm under 18 U.S.C. § 924(c) when he acquired the AR-15 rifles in exchange for the narcotics?
+**Tags:** chapters: [15], topics: [firearms, Section 924(c), using a firearm], difficulty: easy, cognitive: application
 
-(a) No, because a defendant who trades drugs to receive a firearm does not "use" the firearm during a drug trafficking crime under the statute. <!-- correct -->
-(b) Yes, because receiving firearms as consideration in a drug transaction constitutes active employment of the weapons in interstate commerce.
-(c) No, because the AR-15 rifles were unregistered, meaning they did not qualify as legally recognized firearms under the federal statute.
-(d) Yes, because both parties to a drugs-for-guns transaction equally utilize the firearms as a medium of exchange to facilitate the drug deal.
-(e) No, because Dominic did not explicitly brandish or discharge the AR-15 rifles during the course of the underlying narcotics trafficking transaction.
-
-**Answer:** (a)
-
-**Explanation:** Under *Watson v. United States*, a defendant who trades drugs to acquire a gun does not "use" a firearm under § 924(c). Only the party tendering the gun uses it as consideration; a "seller does not 'use' a buyer's consideration." (b) is wrong because the Supreme Court expressly rejected this exact interpretation in *Watson*. (c) is wrong because registration status is irrelevant to whether an object is a firearm under § 924(c). (d) is wrong because *Watson* expressly held that the transaction is asymmetrical regarding "use." (e) is wrong because while brandishing would qualify, *Smith* established that trading a gun for drugs *is* "using" it; Dominic's charge fails because he was the one receiving the gun, not because he didn't brandish it.
-
-**Tags:** chapters: [15], topics: [924c, use-of-firearm], difficulty: intermediate, cognitive: application
-
-**Grounding:** Chapter 15 - Watson v. United States
+**Grounding:** Watson v. United States
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under *Watson v. United States*, 552 U.S. 74 (2007), a person who trades drugs for a gun does not "use" the firearm within the meaning of 18 U.S.C. § 924(c). The Supreme Court held that the ordinary meaning of "use" does not encompass receiving an item as consideration. Therefore, Dominic, as the receiver of the firearm, is correctly exonerated from the "use" prong.
-(b) Argument-for: A student could draw on the broad definition of "use" articulated in *Smith v. United States*, arguing that bringing a firearm into a drug transaction as consideration fundamentally alters the nature of the crime. Under this view, receiving the weapon is an active employment of it in commerce because it facilitates the drug sale, making it a plausible interpretation of statutory text prior to *Watson*.
-(c) Argument-for: A student might conflate the definitional requirements of 18 U.S.C. § 924(c) with the National Firearms Act (NFA), which relies heavily on registration. They could argue that for a firearm to trigger federal statutory enhancements under this specific provision, it must be part of the legally recognized (i.e., registered) commercial market, and an unregistered weapon falls outside this definition.
-(d) Argument-for: Drawing on contract principles of mutual consideration, a student could argue that in a barter transaction, both parties simultaneously "use" both pieces of exchanged property. Justice Ginsburg’s concurrence in *Watson* noted the anomaly of holding only one party liable for "using" the gun, suggesting a student could plausibly believe the law treats both sides of the drugs-for-guns exchange symmetrically.
-(e) Argument-for: Following *Bailey v. United States*, which narrowed "use" to "active employment," a student could argue that mere receipt of a firearm is passive. By pointing out that Dominic did not brandish or discharge the weapons, the student can accurately describe his passive conduct. Thus, they might conclude that the absence of these explicit violent acts is the legal reason his conduct falls short of statutory "use."
+(a) Argument-for: *Smith v. United States* established that treating a firearm as an item of barter constitutes "use" under § 924(c). A student could argue that when Dominic trades drugs to acquire weapons specifically to arm a crew, the acquisition of the guns is the primary driver of the drug transaction, thereby integrating the firearm actively into the scheme and meeting the active employment standard of *Bailey*.
+(b) Argument-for: This relies squarely on the Supreme Court's holding in *Watson v. United States*. The Court drew a sharp textual distinction between trading a gun for drugs (which is "use" under *Smith*) and trading drugs to receive a gun. The person receiving the firearm is merely acquiring it, not actively employing it as a weapon or as currency during the transaction.
+(c) Argument-for: A student could argue that under a plain reading of "uses a firearm during and in relation to any... drug trafficking crime", a barter transaction is a single, symmetrical event. Since the firearm is the *sine qua non* of the transaction, both the buyer and seller are participating in an exchange where a firearm is actively employed, making them equally liable as a matter of law.
+(d) Argument-for: Under *Bailey v. United States*, "use" requires active employment of the firearm. A student could argue that since Dominic only received the gun and did not brandish or fire it during the exchange, he is not guilty because he did not actively employ the weapon in a traditional sense.
+(e) Argument-for: Before *Bailey*, several circuits held that mere possession during a drug crime was sufficient for "use". Furthermore, the statute now penalizes possession in furtherance of a drug crime. A student might confuse the newer possession prong with the older "use" prong, arguing that constructive possession upon completing the trade is legally synonymous with using them under the statute.
 
-Head-to-head: Option (a) is the decisively correct answer under *Watson v. United States*, which explicitly established that receiving a firearm in a drug trade is not "use." Distractors (b) and (d) are factually falsifiable because the Supreme Court expressly rejected the theories that receiving a gun constitutes "active employment" or that barter transactions entail mutual, equal "use" of the firearm. Distractor (c) presents an explicitly false legal claim, as 18 U.S.C. § 921(a)(3) defines a firearm by its physical characteristics, not its registration status. Distractor (e) identifies the correct outcome but its rationale implicitly relies on the false premise that brandishing or discharging are the *only* ways to "use" a firearm (omitting that trading a gun for drugs is "use" under *Smith*). Because (e) does not lock this false premise with an absolute word like "unless" or "solely," it relies on an implicit omission rather than an explicit false legal claim, making it a close-call vulnerability.
+Head-to-head: (b) is the clear, correct application of *Watson v. United States*. Distractors (a), (c), and (e) feature explicit, falsifiable legal errors regarding the definitions of "active employment," transaction symmetry, and "constructive possession" respectively. However, (d) relies on an implicit omission rather than a strict false claim. While it is factually true that Dominic did not brandish or fire the weapon, stating he is not guilty "because" he didn't do those things implicitly (but not explicitly) suggests those are the *only* ways to use a firearm (ignoring *Smith*). To survive the close-call standard, (d) needs an absolute word to lock in the false rule of law.
 
 Falsifiable claim per distractor:
-- (b): "receiving firearms as consideration ... constitutes active employment" — wrong because *Watson* expressly held that receiving a firearm does not constitute active employment ("use").
-- (c): "unregistered, meaning they did not qualify as legally recognized firearms" — wrong because registration status has no bearing on the statutory definition of a firearm under federal law.
-- (d): "both parties ... equally utilize the firearms as a medium of exchange" — wrong because *Watson* established an asymmetrical rule where only the party supplying the gun "uses" it.
-- (e): "because Dominic did not explicitly brandish or discharge" — wrong because it implies these are the only ways to establish "use" (ignoring that giving a gun in barter is also "use" under *Smith*), but it lacks an absolute term to make the claim strictly falsifiable.
+- (a): "acquiring weapons... constitutes the active employment" — wrong because *Watson* expressly holds acquiring a weapon in a trade is not active employment.
+- (c): "making both sides of the transaction equally liable" — wrong because *Watson* explicitly distinguishes the liability of the receiver from the tenderer.
+- (d): "because Dominic did not brandish or fire" — wrong because it relies on the implicit, unstated premise that brandishing or firing are the only ways to "use" a firearm under the statute; lacks an absolute falsifiable claim.
+- (e): "constructively possessed... is legally synonymous with using them" — wrong because *Bailey* explicitly distinguishes possession from "use".
 
-Recommended fix: In (e), add an absolute word to lock the false legal claim. Change to: "No, solely because a firearm is not 'used' under the statute unless the defendant explicitly brandishes or discharges it during the crime."
+Recommended fix: Add absolute wording to (d) to make its legal premise explicitly false. Change (d) to: "Not guilty, solely because a defendant cannot be convicted of "using" a firearm under § 924(c) unless they brandish or fire it during the exchange."
 -->
 
-## Issue 3 — argpass-opus
+## Issue 2 — argpass-opus
 
-**Q5.** Did Dominic "use" a firearm under 18 U.S.C. § 924(c) when he acquired the AR-15 rifles in exchange for the narcotics?
+**Q5.** The investigation uncovered Dominic's drug-for-guns trade. Assume Dominic is charged under 18 U.S.C. § 924(c) with "using" a firearm during a drug trafficking crime. Is he guilty?
 
-(a) No, because a defendant who trades drugs to receive a firearm does not "use" the firearm during a drug trafficking crime under the statute. <!-- correct -->
-(b) Yes, because receiving firearms as consideration in a drug transaction constitutes active employment of the weapons in interstate commerce.
-(c) No, because the AR-15 rifles were unregistered, meaning they did not qualify as legally recognized firearms under the federal statute.
-(d) Yes, because both parties to a drugs-for-guns transaction equally utilize the firearms as a medium of exchange to facilitate the drug deal.
-(e) No, because Dominic did not explicitly brandish or discharge the AR-15 rifles during the course of the underlying narcotics trafficking transaction.
+(a) Guilty, because acquiring weapons to arm an extortion crew constitutes the active employment of a firearm during the commission of a federal drug trafficking crime.
+(b) Not guilty, because a defendant who trades drugs to acquire a gun does not "use" the firearm; only the party tendering the weapon actually uses it. <!-- correct -->
+(c) Guilty, because trading drugs for a firearm inherently involves firearms in a drug trafficking crime, making both sides of the transaction equally liable under the law.
+(d) Not guilty, because Dominic did not brandish or fire the AR-15 rifles during the specific exchange of the narcotics with the illicit weapons supplier.
+(e) Guilty, because Dominic constructively possessed the firearms as soon as the trade was complete, which is legally synonymous with using them under the federal statute.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Under *Watson v. United States*, a defendant who trades drugs to acquire a gun does not "use" a firearm under § 924(c). Only the party tendering the gun uses it as consideration; a "seller does not 'use' a buyer's consideration." (b) is wrong because the Supreme Court expressly rejected this exact interpretation in *Watson*. (c) is wrong because registration status is irrelevant to whether an object is a firearm under § 924(c). (d) is wrong because *Watson* expressly held that the transaction is asymmetrical regarding "use." (e) is wrong because while brandishing would qualify, *Smith* established that trading a gun for drugs *is* "using" it; Dominic's charge fails because he was the one receiving the gun, not because he didn't brandish it.
+**Explanation:** Under Watson v. United States, a defendant who trades drugs to acquire a firearm does not "use" the firearm within the meaning of 18 U.S.C. § 924(c). The Supreme Court held that receiving a gun as payment is not "using" it; only the person tendering the gun uses it as currency. (a) is incorrect because Watson expressly rejected the idea that receiving a gun to arm a crew constitutes "use" during the trade itself. (c) is incorrect because the Court in Watson explicitly broke the symmetry of the transaction, distinguishing the buyer from the seller. (d) is incorrect because while brandishing is a form of use, the primary doctrinal reason the charge fails here is the Supreme Court's categorical rule about receiving weapons in trades. (e) is incorrect because constructive possession is a distinct legal concept from "using" under the active employment requirement of § 924(c).
 
-**Tags:** chapters: [15], topics: [924c, use-of-firearm], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [15], topics: [firearms, Section 924(c), using a firearm], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 15 - Watson v. United States
+**Grounding:** Watson v. United States
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under *Watson v. United States*, the Supreme Court held that a person who trades drugs to receive a firearm does not "use" the firearm within the meaning of 18 U.S.C. § 924(c). Applying ordinary English meaning, the Court reasoned that a seller does not "use" a buyer's consideration. Since Dominic acquired the AR-15s as payment for narcotics, he falls squarely within the *Watson* safe harbor and did not "use" the weapons.
-(b) Argument-for: *Smith v. United States* established that treating a firearm as a medium of exchange in a drug transaction is a form of "use." A student could argue that by accepting firearms as consideration, Dominic actively employed the prospect of acquiring the weapons to facilitate his drug distribution. Under a broad reading of "active employment," bringing the weapons into the core commercial terms of the deal uses them to execute the interstate commerce transaction.
-(c) Argument-for: Federal firearms statutes, such as the National Firearms Act, heavily regulate specific weapons through strict registration requirements. A student might argue that to trigger severe federal mandatory minimums under § 924(c), the weapon must meet formal, legally recognized statutory criteria, which for certain tactical rifles implies registration. Therefore, an unregistered, illicit weapon falls outside the legal definition required to sustain the specific enhancement.
-(d) Argument-for: In any bilateral contract or barter arrangement, both parties rely on the exchanged goods to consummate the deal. *Smith* established that bartering a gun is "using" it. A student could argue that since a drugs-for-guns trade cannot occur without both parties utilizing the firearm as the foundational medium of exchange, the statute logically applies symmetrically, meaning both the buyer and the seller "use" the gun to facilitate the drug deal.
-(e) Argument-for: *Bailey v. United States* narrowed the definition of "use" to require "active employment" of the firearm, rejecting mere possession. A student could argue that since Dominic merely received the weapons passively as payment, he lacked the requisite active physical employment of the guns as weapons or tools of intimidation. Because he did not brandish, discharge, or otherwise physically employ the AR-15s during the deal, the "use" standard is unmet.
+(a) Argument-for: A student could rely on the "active employment" standard from *Bailey v. United States*. They might argue that deliberately orchestrating a drug transaction to acquire specific firearms for an extortion crew constitutes the active employment of those weapons in the drug trade. Under this view, acquiring the guns is the very purpose of the drug trafficking crime, making it equivalent to "use" of the firearm.
+(b) Argument-for: This is the correct application of *Watson v. United States*. A student would recognize that the Supreme Court explicitly distinguished the act of receiving a gun for drugs from trading a gun for drugs (*Smith v. United States*). The person tendering the drugs "uses" the drugs, while the person tendering the gun "uses" the gun as a medium of exchange; receiving the firearm does not constitute "use" under 18 U.S.C. § 924(c).
+(c) Argument-for: A student could draw upon the holding in *Smith v. United States* (that trading guns for drugs is "use") and argue for transactional symmetry. They might reason that a barter exchange inherently requires the active employment of both commodities by both parties to complete the deal. Therefore, anyone involved in a drugs-for-guns swap is purportedly "using" the firearm to facilitate the transaction.
+(d) Argument-for: A student might recall that *Bailey v. United States* defined "use" as "active employment," giving examples like brandishing, displaying, bartering, striking with, or firing. Focusing only on the physical acts typically associated with firearms, the student could argue that Dominic's passive receipt of the rifles lacked the physical manifestation of "use" like brandishing or firing, reaching the correct conclusion via an incomplete rationale.
+(e) Argument-for: A student might conflate the "use" and "possession" prongs of 18 U.S.C. § 924(c). They could argue that since Congress amended the statute to include "possesses in furtherance of" after *Bailey*, the concept of constructive possession upon completing the trade is legally synonymous with satisfying the "use" requirement charged in the fact pattern.
 
-Head-to-head: Option (a) is definitively correct under *Watson v. United States*. Options (b) and (d) represent the exact legal positions rejected by the Supreme Court in *Watson*, which held that receiving a gun is not "active employment" and that the barter transaction is legally asymmetrical regarding "use." Option (c) relies on a blatant misstatement of statutory definitions, as § 921(a)(3) defines a firearm by its physical ability to expel a projectile, totally independent of registration. Option (e) reaches the correct conclusion ("No") but relies on an under-inclusive rationale (lack of brandishing/discharging), ignoring that trading a gun *for* drugs is "use" under *Smith* even without brandishing. However, (e) lacks an absolute word to strictly lock in its falsifiable legal claim, making it a slight implicit omission rather than an explicitly false universal rule.
+Head-to-head: 
+Option (b) correctly states the holding of *Watson v. United States*, distinguishing the receipt of a firearm from its "use" as a medium of exchange. Option (a) makes a falsifiable legal claim that acquiring weapons constitutes active employment, which *Watson* explicitly rejected. Option (c) relies on a false claim of transactional symmetry, which the Supreme Court broke by separating the buyer from the seller. Option (e) relies on an explicit legal falsehood by equating constructive possession with "use," collapsing two distinct statutory terms. Option (d) arrives at the correct conclusion ("Not guilty"), but its rationale relies on an implicit omission—implying that brandishing or firing is required for "use." However, (d) lacks an absolute word to lock this into an explicit, identifiable false legal claim, allowing a student to argue the statement is technically true (he didn't brandish it) even if legally insufficient on its own.
 
 Falsifiable claim per distractor:
-- (b): "receiving firearms as consideration... constitutes active employment" — wrong because *Watson* expressly held that receiving a firearm in a drug trade is *not* active employment or "use."
-- (c): "meaning they did not qualify as legally recognized firearms" — wrong because registration status is categorically irrelevant to the definition of a firearm under Title 18.
-- (d): "both parties... equally utilize the firearms as a medium of exchange" — wrong because *Watson* explicitly held the transaction is asymmetrical; only the party tendering the gun "uses" it.
-- (e): "because Dominic did not explicitly brandish or discharge" — wrong because it implies a false rule that these are the only ways to use a firearm (ignoring *Smith*), but it currently lacks absolute framing to strictly lock the falsifiability.
+- (a): "acquiring weapons to arm an extortion crew constitutes the active employment of a firearm" — wrong because *Watson* held that receiving a firearm in a drug trade does not constitute "use" or active employment.
+- (c): "making both sides of the transaction equally liable under the law" — wrong because *Watson* expressly rejected this symmetry; the seller uses the gun, but the receiver does not.
+- (d): "because Dominic did not brandish or fire the AR-15 rifles" — wrong because it implicitly implies brandishing or firing is strictly required to prove "use" (contradicting *Smith*), but it lacks absolute words to firmly lock this as an explicitly false legal claim.
+- (e): "which is legally synonymous with using them under the federal statute" — wrong because *Bailey* and subsequent statutory amendments clearly maintain that "use" (active employment) is a distinct legal concept from "possession."
 
-Recommended fix: Edit (e) to lock in the false legal premise with absolute language. Change (e) to: "No, because a firearm is 'used' under the statute solely when it is explicitly brandished or discharged during the transaction."
+Recommended fix: Add absolute locking words to (d) to make its legal rationale explicitly false. Change (d) to: "Not guilty, solely because "using" a firearm categorically requires brandishing or firing the weapon during the specific exchange of narcotics."
 -->

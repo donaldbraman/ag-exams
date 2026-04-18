@@ -1,22 +1,22 @@
-**Q7.** Assume that Marcus is charged with attempted arson for loading the accelerant into the car two miles away from the warehouse. How would Marcus's conduct be evaluated under the common law proximity test versus the Model Penal Code's substantial step test?
+**Q7.** Assume Dave is charged with conspiracy to commit arson. Relying on the principles from *People v. Lauria*, does Dave's acceptance of the $500 "blind eye" fee establish an agreement to join the arson conspiracy?
 
-(a) The conduct satisfies the proximity test because loading the accelerant was an overt act, but fails the substantial step test because it was not strongly corroborative of his intent.
-(b) The conduct satisfies both tests because placing the accelerant in the vehicle constitutes the commencement of the consummation of the target offense under any modern standard.
-(c) The conduct fails both tests because the defendants were still two miles away from the target location, meaning the act of arson was neither imminent nor unequivocally planned.
-(d) The conduct fails the proximity test because Marcus was not dangerously close to consummating the crime, but likely satisfies the substantial step test as strongly corroborative of his criminal purpose. <!-- correct -->
-(e) The conduct satisfies the proximity test because Marcus had completed all necessary preparations, but fails the substantial step test because he had not yet ignited the accelerant.
+(a) Yes, because taking any money with actual knowledge of a planned crime conclusively establishes an agreement to join the underlying conspiracy.
+(b) Yes, because his affirmative act of unlocking the back door constitutes the overt act strictly necessary to form a binding conspiracy.
+(c) No, because Dave lacked a special interest in the arson and did not charge a disproportionate fee to support inferring a shared purpose. <!-- correct -->
+(d) No, because bilateral conspiracies strictly require the participating parties to share equal proceeds from the successful completion of the criminal venture.
+(e) Yes, because by interacting with Marcus, Dave automatically became part of the broader Bayside Syndicate's continuous pattern of racketeering activity.
 
-**Answer:** (d)
+**Answer:** (c)
 
-**Explanation:** (d) is correct. The common law proximity test requires the defendant to be dangerously close to completing the crime. Being two miles away and merely loading the car typically fails this strict standard. Conversely, the MPC's substantial step test asks whether the conduct is strongly corroborative of the actor's criminal purpose; gathering materials and loading them to drive to the scene generally satisfies this broader standard. (a) is incorrect because loading the car is more likely to fail the proximity test than the substantial step test. (b) is incorrect because the proximity test rarely encompasses preparations made miles away from the target. (c) is incorrect because the MPC's substantial step test reaches much further back into the preparatory stages. (e) is incorrect because igniting the accelerant is not required to satisfy the substantial step test.
+**Explanation:** Under *People v. Lauria*, an agreement to join a conspiracy cannot be inferred from knowledge alone when providing goods or services, unless there is a special interest in the activity, a disproportionate fee, or a high volume of business. Dave charged a standard flat "blind eye" fee and had no stake in the outcome, failing the *Lauria* test to infer an intent to agree. (a) is wrong because knowledge alone does not equal agreement. (b) is wrong because an overt act does not substitute for the required intent to agree element. (d) is wrong because conspirators do not need to share equal proceeds; they just need an agreement to commit the crime. (e) is wrong because interacting with one member does not establish an agreement to join the broader syndicate.
 
-**Tags:** chapters: [17], topics: [attempt, proximity test, substantial step test], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy agreement, mens rea, Lauria], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17, comparison of common law proximity test and MPC substantial step test.
+**Grounding:** Chapter 19 (Conspiracy), lauria-knowledge-vs-purpose refinement.
 
-<!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The application of *People v. Lauria* here hits two major factual/doctrinal traps. First, *Lauria* explicitly contains a "serious crime" exception, stating that knowledge alone *can* be sufficient to infer intent if the known intended crime is "of the most serious nature" (traditionally citing offenses like murder or arson). Because the planned crime here is arson, this exception is arguably triggered, making (c) incorrect under a complete *Lauria* analysis. Second, *Lauria* looks at "inflated charges" to infer a stake in the venture; charging $500 merely to leave a door unlocked could easily be construed by a student as an inflated/disproportionate fee, but the explanation assumes it isn't. Finally, *Lauria* generally governs the provision of *lawful* goods/services, whereas Dave's act of taking a bribe to breach his security duties is inherently illicit.
+2. Cross-Doctrine Clashes: Pass.
+3. Cross-Question Spoilers: Pass.
+Recommended fix: Since the facts are locked, pivot the question away from *Lauria* and test a different aspect of conspiracy agreement (e.g., bilateral vs. unilateral agreement requirements, or the mere knowledge vs. purpose distinction generally without citing *Lauria*). If *Lauria* must be used, change the correct answer to reflect that Dave *can* be liable under *Lauria* either because arson qualifies as a "serious crime" or because $500 for a trivial act constitutes an inflated charge.
 -->

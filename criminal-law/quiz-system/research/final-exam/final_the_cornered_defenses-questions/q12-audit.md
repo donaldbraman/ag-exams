@@ -1,5 +1,26 @@
-<!-- audit: MUST FIX -->
+**Q12.** Silas is charged with attempted murder for lying in wait with his drawn firearm. How would his conduct be analyzed under the varying tests for attempt?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) He is guilty under both tests, because engaging in mere preparation is legally sufficient to establish a criminal attempt in all modern jurisdictions.
+(b) He is guilty under the MPC's substantial step test, but might be acquitted under a common-law proximity test since he had not yet fired. <!-- correct -->
+(c) He is guilty under the common-law proximity test, but would be acquitted under the substantial step test because he never fired a single shot.
+(d) He is not guilty under either test, because he was inside a parked vehicle and therefore lacked the immediate physical capability to commit murder.
+(e) He is not guilty under the substantial step test because the passing police officer's intervention creates a complete legal impossibility defense at trial.
 
-Error: Empty string returned. Finish Reason: FinishReason.MALFORMED_FUNCTION_CALL. Raw prompt preview: You are an ambiguity auditor for a single criminal law exam question. Your role is to surface cases ...
+**Answer:** (b)
+
+**Explanation:** Under the MPC's substantial step test, lying in wait with a drawn weapon strongly corroborates criminal purpose and easily satisfies the actus reus requirement. Under the strict common-law proximity test, the defendant must be dangerously close to completion; sitting in a car before the victim even arrives at the door may fail this stricter standard. (a) is wrong because mere preparation is never sufficient for attempt in any jurisdiction. (c) is wrong because it flips the tests—the MPC is broader and more defendant-inclusive than the proximity test. (d) is wrong because physical location inside a vehicle does not inherently defeat the actus reus of attempt. (e) is wrong because police intervention creates a factual impossibility, not a legal impossibility, which is no defense.
+
+**Tags:** chapters: [17], topics: [attempt, actus reus, substantial step], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 17 (Attempts), actus-reus-substantial-step and actus-reus-proximity-test refinements.
+
+<!-- audit: MUST FIX
+check 1: pass
+check 2: pass
+check 3: pass (the legal reasoning is sound, but reveals the missing facts issue below)
+check 4: The stem is missing critical facts. It fails to mention that Silas was sitting inside a parked vehicle, that the victim hadn't arrived, or that a passing police officer intervened. Options (d) and (e), as well as the explanation, rely heavily on these phantom facts.
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Add the missing factual context to the stem. For example: "Silas is sitting inside a parked vehicle outside his enemy's house, lying in wait with his drawn firearm. Before the victim arrives, a passing police officer notices the weapon and arrests Silas. Silas is charged with attempted murder. How would his conduct be analyzed under the varying tests for attempt?"
+-->

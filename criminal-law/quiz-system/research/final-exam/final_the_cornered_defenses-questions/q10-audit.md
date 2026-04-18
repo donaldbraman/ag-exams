@@ -1,26 +1,26 @@
-**Q10.** Assume Marcus is prosecuted for felony murder based on the watchman's death during the attempted arson. Marcus argues that because Vance coerced him into committing the arson under duress, he cannot be convicted of felony murder. In a jurisdiction that recognizes the felony-murder duress exception, how should the court rule?
+**Q10.** At trial, Leo asserts an insanity defense under the *M'Naghten* test, relying on his hallucination that the watchman was a demon. How does his post-offense conduct in Fact 7 affect his defense under the wrongness prong?
 
-(a) Marcus is guilty because duress is categorically unavailable as a defense to any form of homicide, including felony murder, under the traditional common law rule.
-(b) Marcus is guilty because the felony-murder duress exception only applies when the defendant is completely unaware that their co-felon possesses a deadly weapon.
-(c) Marcus is not guilty because if the underlying predicate felony of attempted arson is excused by duress, the chain of felony murder liability is broken. <!-- correct -->
-(d) Marcus is not guilty because the watchman's death was caused by Leo's unpredictable psychotic break rather than any inherently dangerous act committed by Marcus.
-(e) Marcus is guilty because the felony-murder duress exception only protects defendants who physically participated in the homicide under direct threat to their own lives.
+(a) It weakens his defense because drawing insect hives demonstrates a clear cognitive awareness that he had violated the state's criminal statutes.
+(b) It supports his defense because his lack of evasion and references to "the lead demon" suggest he did not comprehend his act's wrongness. <!-- correct -->
+(c) It defeats his defense entirely because his ability to speak coherently to the booking officer proves he was completely cognitively functional.
+(d) It supports his defense because any post-offense abnormal behavior conclusively satisfies the mandatory volitional prong of the traditional insanity test.
+(e) It defeats his defense because the M'Naghten test specifically excludes any mentally ill defendants who are capable of successfully completing a lethal act.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** (c) is correct. While the traditional common law rule categorically bars duress as a defense to murder, several jurisdictions recognize an exception for felony murder. If the defendant was coerced into committing the underlying predicate felony (here, attempted arson), the duress defense breaks the chain of liability, preventing the felony from serving as the basis for a murder conviction. (a) is incorrect because it ignores the recognized exception for felony murder in several states. (b) is incorrect because the exception is based on the coercion to commit the underlying felony, not merely ignorance of a weapon. (d) is incorrect because felony murder holds participants strictly liable for co-felons' lethal acts, making Leo's state of mind irrelevant. (e) is incorrect because the exception applies to participants in the predicate felony regardless of physical participation in the actual homicide.
+**Explanation:** Under the *M'Naghten* wrongness prong, a defendant is excused if they did not know the act was morally or legally wrong. Leo's open, non-evasive post-offense behavior—making no attempt to hide the weapon and discussing the "demon" with police—supports the claim that his delusion prevented him from understanding the wrongness of his act, as he behaved like someone who believed he had done a good deed. (a) is wrong because drawing hives aligns with his psychotic delusion, not an awareness of the law. (c) is wrong because the test focuses on moral/legal comprehension, not basic conversational functioning. (d) is wrong because the strict *M'Naghten* test does not include a volitional (control) prong. (e) is wrong because *M'Naghten* frequently applies to completed lethal acts.
 
-**Tags:** chapters: [14, 21], topics: [felony murder, duress exception], difficulty: hard, cognitive: application
+**Tags:** chapters: [23], topics: [insanity, M'Naghten, post-offense conduct], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21, People v. Reichard and the felony-murder duress exception.
+**Grounding:** Chapter 23 (The Insanity Defense), mnaghten-wrongness and consciousness-of-guilt-in-insanity refinements.
 
 <!-- audit: MUST FIX
-check 1: pass
-check 2: pass (though evaluating distractors definitively is difficult without the missing facts)
-check 3: pass
-check 4: MUST FIX. The stem refers to specific actors ("Vance", "Leo") and events ("the watchman's death", "the attempted arson") that are never introduced. This appears to be a severed sub-question missing its foundational fact pattern.
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Integrate the missing master fact pattern into the question stem so students know who Marcus, Vance, Leo, and the watchman are, and what events transpired.
+<check 1>: pass (conditionally, assuming the missing facts align with the explanation).
+<check 2>: pass.
+<check 3>: pass.
+<check 4>: fail. The stem references "Fact 7" and the options mention specific factual details (drawing insect hives, speaking to the booking officer, lack of evasion) that are entirely absent from the prompt. This question appears to have been improperly extracted from a broader multi-question fact pattern without bringing the facts along.
+<check 5>: pass.
+<check 6>: pass.
+<check 7>: pass.
+Recommended fix: Integrate the missing facts directly into the stem and remove the reference to "Fact 7". For example: "After killing the watchman, Leo made no attempt to evade police or hide his weapon. Instead, he calmly told the booking officer he had slain 'the lead demon' and sat drawing insect hives on the table. At trial, Leo asserts an insanity defense..."
 -->

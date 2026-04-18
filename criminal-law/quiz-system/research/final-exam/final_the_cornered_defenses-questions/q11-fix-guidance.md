@@ -4,29 +4,29 @@ The QA pipeline flagged this question. Rewrite `q11.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q11.** Evaluate Leo's insanity defense under the traditional M'Naghten "nature and quality" prong.
+**Q11.** The prosecution expert testifies that Leo's antisocial personality disorder (APD) and voluntary meth use caused his aggressive reaction, not his schizophrenia. If the jury believes this expert, how will it affect Leo's insanity defense?
 
-(a) The defense succeeds because Leo lacked the substantial capacity to conform his physical conduct to the specific, objective requirements of the criminal law.
-(b) The defense fails because Leo still possessed the physical capacity to draw a weapon, correctly aim it, and intentionally pull the trigger to cause harm.
-(c) The defense succeeds because Leo's documented diagnosis of Antisocial Personality Disorder inherently satisfies the requirement for an actionable and severe mental defect.
-(d) The defense fails because the M'Naghten test exclusively asks whether the defendant fully knew the criminal act was either morally or legally wrong.
-(e) The defense succeeds because Leo's belief that he was shooting a non-human monster means he did not understand the physical nature and quality of his act. <!-- correct -->
+(a) The defense will succeed because APD is universally recognized as a qualifying mental disease under both the common law and the modern MPC.
+(b) The defense will fail because most statutes specifically exclude personality disorders from qualifying, and voluntary intoxication is not a valid basis for insanity. <!-- correct -->
+(c) The defense will succeed because co-occurring disorders automatically shift the burden to the prosecution to disprove the insanity claim beyond a reasonable doubt.
+(d) The defense will fail because the presence of any non-qualifying disorder instantly nullifies the legal effect of a diagnosed schizophrenic condition.
+(e) The defense will succeed because drug-induced psychosis is treated equivalently to permanent schizophrenia under the traditional M'Naghten standard of legal insanity.
 
-**Answer:** (e)
+**Answer:** (b)
 
-**Explanation:** The first prong of the traditional *M'Naghten* test asks whether, due to a mental disease or defect, the defendant did not know the nature and quality of their act. Because Leo genuinely believed he was shooting a "literal, non-human monster from hell" and was completely unaware he was interacting with a human being, he suffered from a cognitive breakdown regarding the physical reality of what he was doing, satisfying this prong. (a) is incorrect because it cites the MPC "conform conduct" volitional prong, not the cognitive *M'Naghten* test. (b) is incorrect because mechanical motor capacity is not the equivalent of cognitive understanding of the act's nature. (c) is incorrect because APD is statutorily excluded as a qualifying mental disease under nearly all insanity frameworks. (d) is incorrect because *M'Naghten* contains two disjunctive prongs: nature/quality *or* wrongness. Leo satisfies the first, so he does not need to rely on the second.
+**Explanation:** Most jurisdictions exclude conditions manifested solely by repeated antisocial behavior (like APD) from the legal definition of a "mental disease or defect." Additionally, incapacity caused by voluntary intoxication is not a valid basis for the insanity defense. If the jury credits the prosecution expert that the APD and meth use were the *actual causes* of the incapacity, Leo lacks a causal link to a qualifying mental disease. (a) is wrong because APD is specifically excluded by most statutes. (c) is wrong because co-occurring disorders do not shift the burden of proof. (d) is wrong because the mere presence of APD does not nullify schizophrenia; the issue is which condition actually *caused* the incapacity (*State v. Meiser*). (e) is wrong because temporary drug-induced states are distinct from settled mental defects.
 
-**Tags:** chapters: [23], topics: [insanity, M'Naghten, cognitive capacity], difficulty: medium, cognitive: application
+**Tags:** chapters: [23], topics: [insanity, personality disorder, voluntary intoxication], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 23 - mnaghten-nature-quality
+**Grounding:** Chapter 23 (The Insanity Defense), personality-disorder-exclusion and co-occurring-causation refinements.
 
-<!-- audit: MUST FIX
-<check 1>: pass (assuming the facts in the explanation were present, option E correctly applies the M'Naghten "nature and quality" cognitive prong to those facts).
-<check 2>: pass (the distractors are doctrinally well-crafted tests of competing insanity standards, assuming the missing facts).
-<check 3>: pass (the explanation accurately distinguishes the cognitive M'Naghten test from the MPC volitional test).
-<check 4>: FAILURE. The stem completely lacks a fact pattern. It asks the student to evaluate "Leo's insanity defense" but provides zero facts about who Leo is, what he did, his diagnosis, or his delusions. A student cannot answer this question without guessing the facts backwards from the options.
-<check 5>: pass (specifies the "traditional M'Naghten" test).
-<check 6>: pass
-<check 7>: pass (M'Naghten and APD exclusion are covered in Chapter 23).
-Recommended fix: Add a fact pattern to the stem. For example: "Leo, who has a documented diagnosis of Antisocial Personality Disorder and suffers from severe delusions, shot a bystander. At the time of the shooting, Leo genuinely believed the bystander was a 'literal, non-human monster from hell.' Evaluate Leo's insanity defense..."
+<!-- audit: SHOULD FIX
+Check 1: pass (with slight precision issue in B flagged below)
+Check 2: pass
+Check 3: finding - The explanation correctly notes that the statutory exclusion applies to "conditions manifested solely by repeated antisocial behavior" (the classic MPC exclusion), but Option (b) states that statutes "specifically exclude personality disorders" broadly. A well-prepared student could argue that statutes do not blanket-exclude *all* personality disorders (e.g., borderline or schizotypal might not be categorically excluded by statute, even if they often fail the severity threshold in practice), only APD/psychopathy, making (b) technically false. 
+Check 4: pass
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Recommended fix: Change option (b) to strictly match the doctrine: "(b) The defense will fail because most statutes specifically exclude conditions like APD from qualifying..." or "specifically exclude antisocial personality disorder..."
 -->

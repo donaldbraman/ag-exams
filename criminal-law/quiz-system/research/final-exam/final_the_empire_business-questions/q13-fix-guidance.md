@@ -2,123 +2,67 @@
 
 The QA pipeline flagged this question. Rewrite `q13.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — grounding
+## Issue 1 — audit
 
-**Q13.** Assume Dominic is charged with intentional murder. Can he mitigate the charge to voluntary manslaughter based on provocation from Victor throwing the ledger?
+**Q13.** Assume instead that the jurisdiction follows the common-law dangerous proximity test. Is Dominic guilty of attempted murder?
 
-(a) No, because a victim's lawful resistance to an ongoing violent felony does not constitute legally adequate provocation to mitigate murder to manslaughter. <!-- correct -->
-(b) Yes, because being struck in the face by a heavy object is universally recognized as adequate provocation that causes a sudden heat of passion.
-(c) No, because the provocation doctrine explicitly requires the defendant to discover spousal adultery, which remains the sole surviving category at common law.
-(d) Yes, because the jury could find that the sudden ledger strike triggered an extreme emotional disturbance for which there was a reasonable explanation.
-(e) No, because Dominic drew his weapon immediately, meaning there was insufficient cooling time for the voluntary manslaughter mitigation to legally apply.
-
-**Answer:** (a)
-
-**Explanation:** Provocation (heat of passion) requires legally adequate provocation. A victim's lawful right of self-defense or resistance to an ongoing violent felony committed by the defendant is never legally adequate provocation. (b) is wrong because while battery is a traditional category, it does not apply when the battery is a lawful response to the defendant's own felonious attack. (c) is wrong because common law recognized several categories (battery, mutual combat), not just adultery. (d) is wrong because under EED, the emotional disturbance must have a reasonable explanation, and courts do not recognize an armed extortionist being resisted as reasonable. (e) is wrong because immediate action *supports* a heat of passion claim (no cooling time); his claim fails because the provocation was legally inadequate, not because he cooled off.
-
-**Tags:** chapters: [12, 13], topics: [homicide-grading, provocation, heat-of-passion], difficulty: intermediate, cognitive: application
-
-**Grounding:** Chapter 12 - Historical Categories / Provocation
-
-<!-- GROUNDING-FAIL: Lawful resistance to a felony / initial aggressor bar to provocation is not in any chapter map. The closest taught doctrines are: `four-elements-common-law` and `historical-categories-honor` (Ch 12). Correct answer must rely on one of those instead. -->
-
-## Issue 2 — audit
-
-**Q13.** Assume Dominic is charged with intentional murder. Can he mitigate the charge to voluntary manslaughter based on provocation from Victor throwing the ledger?
-
-(a) No, because a victim's lawful resistance to an ongoing violent felony does not constitute legally adequate provocation to mitigate murder to manslaughter. <!-- correct -->
-(b) Yes, because being struck in the face by a heavy object is universally recognized as adequate provocation that causes a sudden heat of passion.
-(c) No, because the provocation doctrine explicitly requires the defendant to discover spousal adultery, which remains the sole surviving category at common law.
-(d) Yes, because the jury could find that the sudden ledger strike triggered an extreme emotional disturbance for which there was a reasonable explanation.
-(e) No, because Dominic drew his weapon immediately, meaning there was insufficient cooling time for the voluntary manslaughter mitigation to legally apply.
+(a) Yes, because tracking Elias through the scope with his finger on the trigger left him with essentially no more acts to complete the intended murderous offense. <!-- correct -->
+(b) No, because he had not yet fired the weapon, meaning he had not yet come within dangerous proximity to the successful completion of the intended violent crime.
+(c) Yes, because driving to the rival's house placed him close enough to the scene to satisfy the physical proximity requirement, regardless of his subsequent actions with the rifle.
+(d) No, because he was unaware of the FBI's presence, meaning he did not have the requisite proximate control over the surrounding environment to successfully complete the homicide.
+(e) Yes, because the dangerous proximity test only requires that the defendant's preparatory acts demonstrate a clear intent to commit a violent felony in the very near future.
 
 **Answer:** (a)
 
-**Explanation:** Provocation (heat of passion) requires legally adequate provocation. A victim's lawful right of self-defense or resistance to an ongoing violent felony committed by the defendant is never legally adequate provocation. (b) is wrong because while battery is a traditional category, it does not apply when the battery is a lawful response to the defendant's own felonious attack. (c) is wrong because common law recognized several categories (battery, mutual combat), not just adultery. (d) is wrong because under EED, the emotional disturbance must have a reasonable explanation, and courts do not recognize an armed extortionist being resisted as reasonable. (e) is wrong because immediate action *supports* a heat of passion claim (no cooling time); his claim fails because the provocation was legally inadequate, not because he cooled off.
+**Explanation:** Under the common-law dangerous proximity test, a defendant must come very close to the successful completion of the crime, leaving almost no acts remaining. By tracking the target in the scope with his finger on the trigger, Dominic was in dangerous proximity to completing the murder. (b) is incorrect because the test does not require the absolute last act (firing the weapon) to be completed. (c) is incorrect because merely driving to the location would be insufficient preparation under the proximity test, which requires coming much closer to the act itself. (d) is incorrect because factual impossibility or unawareness of police intervention does not negate attempt liability if the acts themselves were sufficiently proximate. (e) is incorrect because demonstrating clear intent is insufficient under the proximity test without extreme physical proximity to the harm.
 
-**Tags:** chapters: [12, 13], topics: [homicide-grading, provocation, heat-of-passion], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, actus reus, dangerous proximity test], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 12 - Historical Categories / Provocation
+**Grounding:** Common-law attempt doctrine
 
 <!-- audit: MUST FIX
-check 1: pass. Under standard doctrine, a victim's lawful resistance to the defendant's violent felony does not constitute legally adequate provocation.
-check 2: pass. Assuming the implied facts, the distractors are legally flawed. For example, courts do not allow EED mitigation for felons facing lawful resistance, so (d) is safely incorrect.
-check 3: pass. The explanation accurately tracks both common law provocation and MPC EED doctrines.
-check 4: MUST FIX. The question stem completely lacks the necessary fact pattern. It references "Dominic", "Victor", and "throwing the ledger," and the explanation relies on Dominic being an "armed extortionist" facing "lawful resistance," but none of these facts are actually present in the stem. This appears to be an orphaned question from a multi-part series that requires its parent fact pattern to be answerable.
-check 5: pass. While jurisdiction is not explicitly specified, both common law and MPC frameworks would reject mitigation in this scenario, so the lack of a specified jurisdiction does not render multiple answers defensible.
-check 6: pass. No excluded-topic bleed is present.
-check 7: pass. Provocation, heat of passion, and EED are properly grounded in the Chapter 12 map.
-Recommended fix: Integrate the missing fact pattern directly into the stem (e.g., "Assume Dominic, an armed extortionist, is robbing Victor. Victor lawfully resists by throwing a heavy ledger at Dominic's face. Dominic immediately shoots and kills Victor. Dominic is charged with intentional murder...").
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: MUST FIX. The question completely lacks a fact pattern. It begins with "Assume instead..." and refers to Dominic, Elias, and the FBI without introducing them or detailing what actually happened. As a standalone question, it is unanswerable.
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Integrate the base fact pattern into the stem. Remove "Assume instead that" and replace it with the full scenario: "Dominic drove to his rival Elias's house, unaware the FBI was watching. Dominic set up a rifle, tracked Elias through the scope, and put his finger on the trigger before the FBI intervened. In a jurisdiction that follows the common-law dangerous proximity test, is Dominic guilty of attempted murder?"
 -->
 
-## Issue 3 — argpass-sonnet
+## Issue 2 — argpass-sonnet
 
-**Q13.** Assume Dominic is charged with intentional murder. Can he mitigate the charge to voluntary manslaughter based on provocation from Victor throwing the ledger?
+**Q13.** Assume instead that the jurisdiction follows the common-law dangerous proximity test. Is Dominic guilty of attempted murder?
 
-(a) No, because a victim's lawful resistance to an ongoing violent felony does not constitute legally adequate provocation to mitigate murder to manslaughter. <!-- correct -->
-(b) Yes, because being struck in the face by a heavy object is universally recognized as adequate provocation that causes a sudden heat of passion.
-(c) No, because the provocation doctrine explicitly requires the defendant to discover spousal adultery, which remains the sole surviving category at common law.
-(d) Yes, because the jury could find that the sudden ledger strike triggered an extreme emotional disturbance for which there was a reasonable explanation.
-(e) No, because Dominic drew his weapon immediately, meaning there was insufficient cooling time for the voluntary manslaughter mitigation to legally apply.
+(a) Yes, because tracking Elias through the scope with his finger on the trigger left him with essentially no more acts to complete the intended murderous offense. <!-- correct -->
+(b) No, because he had not yet fired the weapon, meaning he had not yet come within dangerous proximity to the successful completion of the intended violent crime.
+(c) Yes, because driving to the rival's house placed him close enough to the scene to satisfy the physical proximity requirement, regardless of his subsequent actions with the rifle.
+(d) No, because he was unaware of the FBI's presence, meaning he did not have the requisite proximate control over the surrounding environment to successfully complete the homicide.
+(e) Yes, because the dangerous proximity test only requires that the defendant's preparatory acts demonstrate a clear intent to commit a violent felony in the very near future.
 
 **Answer:** (a)
 
-**Explanation:** Provocation (heat of passion) requires legally adequate provocation. A victim's lawful right of self-defense or resistance to an ongoing violent felony committed by the defendant is never legally adequate provocation. (b) is wrong because while battery is a traditional category, it does not apply when the battery is a lawful response to the defendant's own felonious attack. (c) is wrong because common law recognized several categories (battery, mutual combat), not just adultery. (d) is wrong because under EED, the emotional disturbance must have a reasonable explanation, and courts do not recognize an armed extortionist being resisted as reasonable. (e) is wrong because immediate action *supports* a heat of passion claim (no cooling time); his claim fails because the provocation was legally inadequate, not because he cooled off.
+**Explanation:** Under the common-law dangerous proximity test, a defendant must come very close to the successful completion of the crime, leaving almost no acts remaining. By tracking the target in the scope with his finger on the trigger, Dominic was in dangerous proximity to completing the murder. (b) is incorrect because the test does not require the absolute last act (firing the weapon) to be completed. (c) is incorrect because merely driving to the location would be insufficient preparation under the proximity test, which requires coming much closer to the act itself. (d) is incorrect because factual impossibility or unawareness of police intervention does not negate attempt liability if the acts themselves were sufficiently proximate. (e) is incorrect because demonstrating clear intent is insufficient under the proximity test without extreme physical proximity to the harm.
 
-**Tags:** chapters: [12, 13], topics: [homicide-grading, provocation, heat-of-passion], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, actus reus, dangerous proximity test], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 12 - Historical Categories / Provocation
-
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: A core limitation on the provocation/heat of passion defense is the initial aggressor rule. When a defendant is engaged in an ongoing violent felony, the victim has a legal privilege to use defensive force. The law strictly dictates that a victim's lawful use of force cannot constitute "legally adequate provocation." Therefore, Dominic cannot rely on Victor's legally privileged act of throwing the ledger to mitigate his murder charge.
-(b) Argument-for: At common law, legally adequate provocation is traditionally evaluated through specific categorical triggers. A severe physical battery—such as being struck in the face with a heavy ledger—is historically one of the most fundamental examples of adequate provocation. A student could argue that because Dominic suffered a severe battery, the objective requirement of the provocation defense is satisfied.
-(c) Argument-for: Over time, the rigid categorical approach to provocation has faced heavy scrutiny, with many jurisdictions narrowing its application. A student might reasonably but mistakenly believe that modern strict common law jurisdictions have abolished all physical categories, leaving the discovery of spousal adultery as the only remaining categorically adequate trigger under the traditional framework.
-(d) Argument-for: The Model Penal Code's Extreme Emotional Disturbance (EED) defense explicitly rejects rigid common law categories and adopts a subjective-objective standard. Under the MPC, the existence of a "reasonable explanation or excuse" is generally a question of fact for the jury. A student could argue that sudden trauma to the face could realistically trigger an extreme emotional disturbance, and a jury should have the power to decide its reasonableness.
-(e) Argument-for: The provocation doctrine evaluates the timeline between the provoking event and the killing. A student could misunderstand the terminology and argue that acting "immediately" means there was "insufficient cooling time"—mistakenly believing the law requires a *minimum* period of cooling time for the mitigation to trigger, rather than requiring the *absence* of a cooling-off period.
-
-Head-to-head: Option (a) accurately states the rule that lawful resistance to a felony bars a provocation claim. Option (b) utilizes a strong historical rule (battery as provocation) but is explicitly falsifiable because of its absolute claim ("universally recognized... that causes"), which ignores the initial aggressor exception. Option (c) relies on a blatantly false historical limitation ("sole surviving category"). Option (e) explicitly flips the legal standard regarding cooling time (lack of cooling time *supports* the defense, rather than defeating it). However, option (d) is comparatively weak because it uses the phrase "the jury could find." While judges generally bar EED instructions for initial aggressors as a matter of law, saying a jury "could find" something lacks the locked, absolute falsifiability required for a pristine distractor.
-
-Falsifiable claim per distractor:
-- (b): "universally recognized as adequate provocation that causes" — wrong because it is absolutely barred when the battery is lawful resistance to the defendant's own felony.
-- (c): "sole surviving category at common law" — wrong because extreme battery, mutual combat, and others remain historically and legally recognized categories at common law.
-- (d): "the jury could find... reasonable explanation" — wrong because courts rule as a matter of law that a violent felon's emotional disturbance from victim resistance is unreasonable, but structurally weak as a distractor because "could find" is not an absolute, falsifiable legal proposition.
-- (e): "meaning there was insufficient cooling time for the voluntary manslaughter mitigation to legally apply" — wrong because immediate action means there was *no* cooling time, which is required *for* the mitigation to apply, rather than a reason it fails.
-
-Recommended fix: Edit (d) to contain an absolute, falsifiable claim. For example: "(d) Yes, because under the Model Penal Code, any sudden physical trauma categorically provides a reasonable explanation for an extreme emotional disturbance."
--->
-
-## Issue 4 — argpass-opus
-
-**Q13.** Assume Dominic is charged with intentional murder. Can he mitigate the charge to voluntary manslaughter based on provocation from Victor throwing the ledger?
-
-(a) No, because a victim's lawful resistance to an ongoing violent felony does not constitute legally adequate provocation to mitigate murder to manslaughter. <!-- correct -->
-(b) Yes, because being struck in the face by a heavy object is universally recognized as adequate provocation that causes a sudden heat of passion.
-(c) No, because the provocation doctrine explicitly requires the defendant to discover spousal adultery, which remains the sole surviving category at common law.
-(d) Yes, because the jury could find that the sudden ledger strike triggered an extreme emotional disturbance for which there was a reasonable explanation.
-(e) No, because Dominic drew his weapon immediately, meaning there was insufficient cooling time for the voluntary manslaughter mitigation to legally apply.
-
-**Answer:** (a)
-
-**Explanation:** Provocation (heat of passion) requires legally adequate provocation. A victim's lawful right of self-defense or resistance to an ongoing violent felony committed by the defendant is never legally adequate provocation. (b) is wrong because while battery is a traditional category, it does not apply when the battery is a lawful response to the defendant's own felonious attack. (c) is wrong because common law recognized several categories (battery, mutual combat), not just adultery. (d) is wrong because under EED, the emotional disturbance must have a reasonable explanation, and courts do not recognize an armed extortionist being resisted as reasonable. (e) is wrong because immediate action *supports* a heat of passion claim (no cooling time); his claim fails because the provocation was legally inadequate, not because he cooled off.
-
-**Tags:** chapters: [12, 13], topics: [homicide-grading, provocation, heat-of-passion], difficulty: intermediate, cognitive: application
-
-**Grounding:** Chapter 12 - Historical Categories / Provocation
+**Grounding:** Common-law attempt doctrine
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could correctly choose (a) because under traditional common law, provocation requires a legally adequate trigger. Courts categorically hold that a victim's lawful use of force in self-defense or in resisting an ongoing violent felony cannot serve as adequate provocation. Because Dominic was committing a violent felony (armed extortion), Victor's act of throwing the ledger was lawful resistance. Therefore, Dominic cannot legally rely on this lawful resistance to mitigate his intentional murder charge to voluntary manslaughter.
-(b) Argument-for: A student might choose (b) by focusing solely on the physical act of the battery. Being violently struck in the face by a heavy object constitutes an aggravated battery, which is a classic common law category of legally adequate provocation. If the student ignores the context of Dominic's initial aggression, they could argue that this objective physical blow is universally sufficient to incite a sudden heat of passion.
-(c) Argument-for: A student might select (c) if they mistakenly believe that modern criminal law has strictly narrowed common law provocation to a single archaic scenario. Because discovery of spousal adultery is the most famous per se category of provocation, a student might incorrectly recall that it is the exclusive surviving category. This would lead them to conclude that Victor throwing the ledger cannot legally suffice solely because it does not involve adultery.
-(d) Argument-for: A student could choose (d) by applying the Model Penal Code's Extreme Emotional Disturbance (EED) standard, which is broader than the common law and has no rigid categories. A student might argue that the standard leaves the determination of a "reasonable explanation or excuse" largely to the fact-finder, and thus a jury could theoretically find that the shock of a sudden ledger strike to the face reasonably caused Dominic's extreme emotional disturbance.
-(e) Argument-for: A student might choose (e) by fundamentally misunderstanding the temporal mechanics of the heat of passion doctrine. The doctrine requires the defendant to act *before* there has been a reasonable opportunity to cool off. A student confused by the phrasing might think that "cooling time" is a mandatory processing period required for mitigation to be granted, thus concluding that Dominic's immediate, reflexive reaction defeats his claim.
+(a) Argument-for: Under Justice Holmes's dangerous proximity test from *Peaslee* and *Rizzo*, the actus reus for attempt requires the defendant's acts to come dangerously close to success, leaving very few steps remaining. Tracking the victim with a finger on the trigger satisfies this strict standard. Dominic has essentially reached the "last act" stage, surpassing mere preparation and entering the zone of dangerous proximity where completion is imminent.
+(b) Argument-for: A student might argue that the dangerous proximity test is extraordinarily strict, sometimes practically requiring the last act to be initiated before liability attaches. Since Dominic had not fired the weapon, he arguably retained the opportunity to change his mind and had not yet unleashed the deadly force. Under this view, mere aiming remains within the realm of preparation because the actual physical danger of the bullet has not materialized.
+(c) Argument-for: One could argue that physical proximity to the scene is the core metric of the dangerous proximity test (as opposed to the MPC's substantial step test). By successfully driving to the rival's house and locating his target, Dominic satisfied the spatial requirements of the test. A student might conclude that arriving armed at the intended location is sufficient to cross the proximity threshold.
+(d) Argument-for: The dangerous proximity test evaluates the probability of the crime's successful completion and the gravity of the potential harm. If the FBI was present and effectively controlled the situation, making success factually impossible, Dominic's actions were arguably not "dangerously proximate" to actual completion. An argument can be made that police intervention neutralized the danger, so he lacked the capacity to complete the homicide.
+(e) Argument-for: Under a broader understanding of attempt law, a clear manifestation of intent coupled with a preparatory act is sufficient. A student might conflate dangerous proximity with the *res ipsa loquitur* (equivocality) test or the MPC substantial step test, arguing that the acts performed clearly demonstrate his intent and thus satisfy the requirement for attempt.
 
-Head-to-head: Option (a) correctly states the legal rule that a victim's lawful resistance to a felony is never legally adequate provocation. Option (b) fails because a battery is not "universally recognized" as adequate when it is a lawful response to the defendant's aggression. Option (c) contains the historically false claim that adultery is the "sole surviving category." Option (e) explicitly misstates the doctrine by claiming that immediate action results in "insufficient cooling time" for the mitigation to apply, when in fact immediate action supports the mitigation. Option (d) is the weakest distractor; while courts hold as a matter of law that a felon cannot claim a reasonable explanation for an EED based on lawful resistance, the phrase "the jury could find" lacks an absolute word and relies on an implicit omission of the limitation on jury fact-finding, making it difficult to strictly falsify.
+Head-to-head: Option (a) correctly applies the dangerous proximity standard, recognizing that aiming with a finger on the trigger leaves almost no acts remaining, thus satisfying the test. Option (b) fails because it asserts a legally false rule that dangerous proximity requires the weapon to be fired, but it lacks an absolute word to lock the falsifiability perfectly. Option (c) fails due to the absolute phrase "regardless of his subsequent actions," as subsequent actions are essential under a proximity analysis (mere arrival is just preparation). Option (d) invents a fake element ("proximate control") and incorrectly implies that factual impossibility negates attempt liability. Option (e) uses the absolute word "only" to incorrectly define dangerous proximity as an equivocality or intent-based test.
 
 Falsifiable claim per distractor:
-- (b): "universally recognized as adequate provocation" — wrong because battery is not legally recognized as adequate provocation when it constitutes a victim's lawful self-defense.
-- (c): "sole surviving category at common law" — wrong because the common law recognized multiple categories of adequate provocation (e.g., severe battery, mutual combat).
-- (d): "the jury could find that the sudden ledger strike triggered an extreme emotional disturbance for which there was a reasonable explanation" — wrong as a matter of law (judges withhold the instruction for felons facing lawful resistance), but lacks a locked absolute (e.g., "always," "categorically") making it insufficiently falsifiable.
-- (e): "insufficient cooling time for the voluntary manslaughter mitigation to legally apply" — wrong because an immediate reaction (i.e., a lack of cooling time) is exactly what the heat of passion doctrine requires.
+- (b): "meaning he had not yet come within dangerous proximity" (deduced strictly from "he had not yet fired") — wrong because the dangerous proximity test does not strictly require the firing of the weapon; aiming is sufficiently proximate. (Would be stronger with an absolute word).
+- (c): "regardless of his subsequent actions with the rifle" — wrong because under the dangerous proximity test, actions at the scene are critical; mere arrival is almost always deemed mere preparation.
+- (d): "meaning he did not have the requisite proximate control over the surrounding environment" — wrong because "proximate control" is a fabricated element, and factual impossibility (FBI presence) does not negate attempt liability.
+- (e): "only requires that the defendant's preparatory acts demonstrate a clear intent" — wrong because this explicitly defines the equivocality test, not the dangerous proximity test, which requires extreme physical proximity to success.
 
-Recommended fix: Change (d) to lock in a false legal premise. Example: "Yes, because under the Model Penal Code, any physical blow to the head categorically constitutes a reasonable explanation for an extreme emotional disturbance."
+Recommended fix: In (b), add an absolute word to lock the falsifiable claim. Change (b) to: "No, because the dangerous proximity test categorically requires the weapon to be fired, meaning he had not yet come within dangerous proximity to the successful completion of the intended violent crime."
 -->

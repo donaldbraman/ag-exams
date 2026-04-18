@@ -1,22 +1,22 @@
-**Q12.** Assume the jurisdiction applies the Model Penal Code standard for insanity and excludes conditions manifested solely by antisocial conduct. The prosecution argues that because Leo's Antisocial Personality Disorder (APD) contributed to the violence alongside his schizophrenia, his insanity defense must fail as a matter of law. Based on the co-occurring causation doctrine, is the prosecution correct?
+**Q12.** Silas is charged with attempted murder for lying in wait with his drawn firearm. How would his conduct be analyzed under the varying tests for attempt?
 
-(a) Yes, because when a non-qualifying personality disorder plays any contributing role in the criminal conduct, the entire insanity defense is automatically tainted and fails.
-(b) Yes, because the statutory exclusion for personality disorders requires the defendant to prove that the qualifying mental disease was the exclusive cause of the conduct.
-(c) No, because the defense remains viable as long as the qualifying mental disease (schizophrenia) caused the requisite incapacity, even if the APD also contributed. <!-- correct -->
-(d) No, because Antisocial Personality Disorder is universally recognized by the Model Penal Code as a qualifying mental disease that independently supports the defense.
-(e) Yes, because the presence of APD indicates that Leo's behavior was manifested solely by repeated criminal conduct, triggering the categorical statutory bar.
+(a) He is guilty under both tests, because engaging in mere preparation is legally sufficient to establish a criminal attempt in all modern jurisdictions.
+(b) He is guilty under the MPC's substantial step test, but might be acquitted under a common-law proximity test since he had not yet fired. <!-- correct -->
+(c) He is guilty under the common-law proximity test, but would be acquitted under the substantial step test because he never fired a single shot.
+(d) He is not guilty under either test, because he was inside a parked vehicle and therefore lacked the immediate physical capability to commit murder.
+(e) He is not guilty under the substantial step test because the passing police officer's intervention creates a complete legal impossibility defense at trial.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** (c) is correct. Under the co-occurring causation doctrine (*State v. Meiser*), the statutory exclusion for personality disorders applies only to the threshold definition of a qualifying mental disease. As long as a qualifying disease (schizophrenia) caused the requisite legal incapacity, the defense is viable even if a non-qualifying condition (APD) also contributed. The statute does not impose a "sole cause" requirement. (a) is incorrect because the presence of a personality disorder does not legally taint the entire defense. (b) is incorrect because courts have expressly rejected interpreting the statutory exclusion as requiring exclusive causation. (d) is incorrect because Antisocial Personality Disorder is explicitly excluded by the MPC as a condition manifested solely by repeated criminal conduct. (e) is incorrect because Leo's schizophrenia provides an independent, qualifying basis for the defense.
+**Explanation:** Under the MPC's substantial step test, lying in wait with a drawn weapon strongly corroborates criminal purpose and easily satisfies the actus reus requirement. Under the strict common-law proximity test, the defendant must be dangerously close to completion; sitting in a car before the victim even arrives at the door may fail this stricter standard. (a) is wrong because mere preparation is never sufficient for attempt in any jurisdiction. (c) is wrong because it flips the tests—the MPC is broader and more defendant-inclusive than the proximity test. (d) is wrong because physical location inside a vehicle does not inherently defeat the actus reus of attempt. (e) is wrong because police intervention creates a factual impossibility, not a legal impossibility, which is no defense.
 
-**Tags:** chapters: [23], topics: [insanity, co-occurring causation, personality disorder exclusion], difficulty: hard, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, actus reus, substantial step], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 23, State v. Meiser and the co-occurring causation doctrine.
+**Grounding:** Chapter 17 (Attempts), actus-reus-substantial-step and actus-reus-proximity-test refinements.
 
-<!-- edge-case-audit: CLEAN
+<!-- edge-case-audit: MUST FIX
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass (The question cleanly isolates the MPC rule using an assumption prompt, which prevents any conflict with Q11's application of the M'Naghten standard).
-Recommended fix: n/a
+2. Cross-Doctrine Clashes: Silas intends to shoot in perceived self-defense (Trey is an approaching hitman). Stating "He is guilty" of attempted murder in the correct option ignores the self-defense / imperfect self-defense claims that could either acquit him or mitigate the charge to attempted voluntary manslaughter.
+3. Cross-Question Spoilers: Q13-Q15 directly test Silas's self-defense claims. Forcing the student to declare him definitively "guilty" of attempted murder in Q12 conflicts with the potential outcomes of the self-defense analysis in the subsequent questions.
+Recommended fix: Change "He is guilty" to "His conduct satisfies the actus reus" in options (a), (b), and (c), and adjust the second halves to match (e.g., "...but might fail a common-law proximity test...").
 -->

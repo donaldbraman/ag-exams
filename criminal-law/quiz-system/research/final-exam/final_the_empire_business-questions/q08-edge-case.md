@@ -1,18 +1,18 @@
-**Q8.** Does Dominic's statement to the agents ("I told my wife to get rid of that 9mm... I knew it was still in the house") establish constructive possession?
+**Q8.** Assume Dominic is charged with Victor's murder and claims self-defense. Will this defense succeed?
 
-(a) No, because acknowledging the presence of contraband proves awareness but does not, without more, prove the intent to exercise dominion and control. <!-- correct -->
-(b) Yes, because giving instructions to another person about disposing of a weapon constitutes an undeniable admission of physical ownership.
-(c) No, because statements made during the execution of a search warrant are generally inadmissible to prove the mental state of the defendant.
-(d) Yes, because any statement indicating knowledge of a firearm's location in a shared household automatically satisfies the dominion requirement.
-(e) No, because he instructed his wife to get rid of the firearm, which legally constitutes an effective abandonment of his possessory interest.
+(a) Yes, because Victor fired the first shot, giving Dominic a reasonable fear of imminent death or serious bodily harm.
+(b) Yes, because Dominic only brandished the weapon initially and did not use deadly force until Victor violently escalated the encounter.
+(c) No, because Dominic was the initial aggressor who threatened deadly force, barring him from claiming self-defense without first withdrawing. <!-- correct -->
+(d) No, because self-defense is categorically never available to a defendant who is engaged in the commission of any criminal offense.
+(e) No, because Dominic had an absolute legal duty to retreat from the restaurant before returning fire against Victor's attack.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** A defendant's statement acknowledging that contraband is present in a shared home proves awareness but does not prove the intent to exercise dominion and control required for constructive possession (*State v. White*). Telling someone else to get rid of *their* gun reinforces that he knew about it but did not control it. (b) is wrong because telling the owner to dispose of it does not show his ownership; it shows awareness. (c) is wrong because voluntary statements during a search are admissible evidence of mental state. (d) is wrong because courts draw a sharp line between knowing and controlling; awareness alone is insufficient. (e) is wrong because abandonment requires first having possession, which the facts do not establish he ever had.
+**Explanation:** (c) is correct because under the initial aggressor bar, a person who initiates a confrontation with deadly force (brandishing an AR-15 during a robbery) forfeits the right to claim self-defense against responsive force unless they effectively withdraw. (a) is incorrect because Victor's responsive shot was a justified use of force against Dominic's initial threat of deadly force. (b) is incorrect because brandishing a firearm to compel a robbery constitutes a threat of deadly force, making Dominic the initial aggressor. (d) is incorrect because some jurisdictions allow a felon to regain the right to self-defense if the victim drastically escalates from non-deadly to deadly force, though that did not happen here. (e) is incorrect because the initial aggressor doctrine bars the defense entirely, regardless of retreat rules.
 
-**Tags:** chapters: [15], topics: [constructive-possession, incriminating-statement], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, initial aggressor], difficulty: foundational, cognitive: application
 
-**Grounding:** Chapter 15 - State v. White (Incriminating Statements)
+**Grounding:** Chapter 22, initial aggressor bar
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

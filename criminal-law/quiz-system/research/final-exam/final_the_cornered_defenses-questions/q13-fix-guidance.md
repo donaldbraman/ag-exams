@@ -4,28 +4,54 @@ The QA pipeline flagged this question. Rewrite `q13.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q13.** Assume Silas is charged with attempted murder for shooting Trey and raises a self-defense claim. How would a jury evaluate the objective reasonableness of Silas's belief that deadly force was necessary?
+**Q13.** Assume Silas is instead prosecuted for aggravated assault and claims self-defense. Will his belief that he needed to use deadly force against Trey satisfy the objective reasonableness standard?
 
-(a) A jury could find Silas's belief unreasonable because an objective person in his situation might not assume a mere reach into a jacket constitutes an imminent lethal threat. <!-- correct -->
-(b) A jury must find Silas's belief reasonable because his prior public vow to eliminate Syndicate members legally justifies an immediate preemptive strike against any perceived enemy.
-(c) A jury must find Silas's belief reasonable because Trey was a known syndicate hitman, which automatically satisfies the objective standard for deadly force without further factual inquiry.
-(d) A jury could find Silas's belief unreasonable because the common law strictly requires the victim to actually visibly brandish a deadly weapon before self-defense can be legitimately claimed.
-(e) A jury could find Silas's belief unreasonable because self-defense doctrine strictly requires the perceived threat to involve multiple attackers coordinating a maneuver rather than a single individual.
+(a) Yes, because a purely subjective standard applies, and Silas honestly believed his life was in imminent danger from a known and dangerous professional hitman.
+(b) No, because Trey was entirely unarmed, and self-defense claims are strictly foreclosed whenever the perceived threat turns out to be factually false.
+(c) Yes, because a reasonable person in Silas's situation, possessing his knowledge of Trey's reputation and observing the concealed hand, could have perceived an imminent threat. <!-- correct -->
+(d) No, because the objective standard requires courts to strictly ignore the defendant's prior experiences and knowledge regarding the alleged attacker's violent history.
+(e) Yes, because the castle doctrine automatically presumes an objectively reasonable fear of death whenever a defendant is aggressively approached while inside a vehicle.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct. Self-defense requires an objectively reasonable belief in an imminent threat of death or serious bodily harm. The jury incorporates the situational context (Trey's status as a hitman), but ultimately must decide if a reasonable person with an unobstructed escape route would conclude that a rapid walk and a reach into a jacket necessitated immediate lethal force. The jury could reasonably find Silas's assumption unreasonable. (b) is wrong because a public vow to kill does not legally create a continuous threat justifying a preemptive strike; in fact, it undermines his claim by suggesting he was an aggressor. (c) is wrong because while the victim's reputation informs the reasonableness inquiry, it never automatically or absolutely satisfies the standard. (d) is wrong because the law permits lethal force based on a reasonable perception of a deadly weapon, not strict actual possession or brandishing. (e) is wrong because self-defense applies equally against single attackers and imposes no multiple-assailant requirement.
+**Explanation:** The objective reasonableness standard requires the jury to consider what a reasonable person *in the defendant's situation* would have believed. Silas's prior knowledge of Trey's reputation as a hitman and his observation of the concealed hand are properly incorporated into this objective analysis, potentially making his fear reasonable even though Trey was actually unarmed. (a) is wrong because the standard is not purely subjective; it requires an objective assessment of reasonableness. (b) is wrong because self-defense relies on a reasonable belief at the time, not absolute factual accuracy evaluated in hindsight. (d) is wrong because the standard explicitly incorporates the defendant's situational knowledge and prior experiences (*People v. Goetz*). (e) is wrong because the castle doctrine does not automatically presume fear in a vehicle without specific statutory triggers.
 
 **Tags:** chapters: [22], topics: [self-defense, objective reasonableness], difficulty: medium, cognitive: application
-**Grounding:** Chapter 22, Objective Reasonableness Standard
+
+**Grounding:** Chapter 22 (Self-Defense), objective-reasonableness-standard and situational-incorporation refinements.
 
 <!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: fail - The explanation introduces facts ("an unobstructed escape route," "a rapid walk") that appear nowhere in the stem or the correct answer text.
-check 4: fail - The stem is completely missing the underlying fact pattern. It relies on facts (Trey being a hitman, Silas's public vow, reaching into a jacket) that are only revealed in the answer choices or the explanation. This question appears to have been detached from a master fact pattern.
+check 1: pass (accurately states the situational objective standard under Ch 22, assuming the missing facts align).
+check 2: pass (none of the distractors are legally defensible).
+check 3: pass (explanation accurately reflects the situational incorporation refinement).
+check 4: MUST FIX (The stem is missing the fact pattern entirely. It refers to Silas, Trey, a professional hitman, and a concealed hand, none of which are detailed in the stem. This is clearly an orphaned question from a multi-part series).
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Integrate the missing facts into the stem. For example: "Silas previously made a public vow to eliminate Syndicate members. Later, Silas encounters Trey, a known Syndicate hitman, walking rapidly toward him. Silas has an unobstructed escape route, but when Trey reaches into his jacket, Silas shoots him. Assume Silas is charged with attempted murder..."
+Recommended fix: Incorporate the necessary facts directly into the stem (e.g., "Silas knows Trey is a professional hitman. One day, Trey approaches Silas's car aggressively and reaches into his coat, concealing his hand. Silas shoots Trey, who turns out to be unarmed."). Remove the word "instead".
+-->
+
+## Issue 2 — edge-case
+
+**Q13.** Assume Silas is instead prosecuted for aggravated assault and claims self-defense. Will his belief that he needed to use deadly force against Trey satisfy the objective reasonableness standard?
+
+(a) Yes, because a purely subjective standard applies, and Silas honestly believed his life was in imminent danger from a known and dangerous professional hitman.
+(b) No, because Trey was entirely unarmed, and self-defense claims are strictly foreclosed whenever the perceived threat turns out to be factually false.
+(c) Yes, because a reasonable person in Silas's situation, possessing his knowledge of Trey's reputation and observing the concealed hand, could have perceived an imminent threat. <!-- correct -->
+(d) No, because the objective standard requires courts to strictly ignore the defendant's prior experiences and knowledge regarding the alleged attacker's violent history.
+(e) Yes, because the castle doctrine automatically presumes an objectively reasonable fear of death whenever a defendant is aggressively approached while inside a vehicle.
+
+**Answer:** (c)
+
+**Explanation:** The objective reasonableness standard requires the jury to consider what a reasonable person *in the defendant's situation* would have believed. Silas's prior knowledge of Trey's reputation as a hitman and his observation of the concealed hand are properly incorporated into this objective analysis, potentially making his fear reasonable even though Trey was actually unarmed. (a) is wrong because the standard is not purely subjective; it requires an objective assessment of reasonableness. (b) is wrong because self-defense relies on a reasonable belief at the time, not absolute factual accuracy evaluated in hindsight. (d) is wrong because the standard explicitly incorporates the defendant's situational knowledge and prior experiences (*People v. Goetz*). (e) is wrong because the castle doctrine does not automatically presume fear in a vehicle without specific statutory triggers.
+
+**Tags:** chapters: [22], topics: [self-defense, objective reasonableness], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 22 (Self-Defense), objective-reasonableness-standard and situational-incorporation refinements.
+
+<!-- edge-case-audit: SHOULD FIX
+1. Fact Pattern Booby Traps: Fact 8 explicitly states Silas had a "clear, unobstructed path" to safely retreat. By asking if Silas reasonably believed he "needed to use deadly force," the stem inadvertently triggers the necessity/retreat element. In a duty-to-retreat jurisdiction, a defendant who knows they can safely retreat does not reasonably "need" to use deadly force, making a "Yes" answer debatable.
+2. Cross-Doctrine Clashes: The necessity of force (which includes retreat analysis) clashes with the intended focus on purely objective threat perception (the *Goetz* standard). 
+3. Cross-Question Spoilers: Q14 explicitly tests the duty to retreat using these exact same facts. Q13 bleeds into Q14's territory, potentially confusing students who correctly apply Fact 8 to the word "needed."
+Recommended fix: Change the question stem from "Will his belief that he needed to use deadly force against Trey satisfy..." to "Will his belief that he faced an imminent deadly threat from Trey satisfy..." This perfectly isolates the threat perception issue without triggering the retreat/necessity trap.
 -->

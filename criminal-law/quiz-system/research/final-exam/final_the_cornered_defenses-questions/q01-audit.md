@@ -1,26 +1,25 @@
-**Q1.** Assume that prosecutors charge Vance with substantive RICO, alleging the Bayside Syndicate is an "enterprise." Under the *Boyle* three-part test, which of the following is the most accurate conclusion regarding the Syndicate's status as an enterprise?
+**Q1.** Marcus asserts an affirmative defense for the warehouse arson, arguing he only committed the crime because Vance threatened his family. How does the doctrinal classification of Marcus's defense impact Leo's liability for assisting in the arson?
 
-(a) The Syndicate qualifies as an enterprise because it exhibits a shared purpose, relationships among its members, and longevity sufficient to pursue its purpose. <!-- correct -->
-(b) The Syndicate fails to qualify as an enterprise because the *Boyle* test requires proof of an ascertainable structure distinct from the pattern of racketeering activity itself.
-(c) The Syndicate qualifies as an enterprise only if the prosecution proves that Vance personally directed the core narcotics distribution activities rather than acting as a protector.
-(d) The Syndicate fails to qualify as an enterprise because the Supreme Court requires that an association-in-fact have a formal hierarchy and documented chain of command.
-(e) The Syndicate qualifies as an enterprise because any ongoing association of two or more individuals automatically satisfies the statutory definition without further structural proof.
+(a) Marcus is asserting a justification, meaning his act was morally right, which shields Leo from derivative liability.
+(b) Marcus is asserting an excuse, which focuses on his lack of free will and provides no derivative defense to Leo. <!-- correct -->
+(c) Marcus is asserting a justification, but Leo remains liable because justifications never protect third-party accomplices.
+(d) Marcus is asserting an excuse, which transfers to any accomplice who substantially assists the coerced principal.
+(e) Marcus is asserting a mitigation, which reduces the offense grade for both the coerced principal and any knowing helper.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct. Under the *Boyle* three-part test, an association-in-fact enterprise requires a shared purpose, relationships among its members, and sufficient longevity to pursue that purpose. The Syndicate's shared goal of profiting from narcotics and structured roles satisfy these elements. (b) is incorrect because *Boyle* explicitly rejected the requirement of an ascertainable structure distinct from the racketeering activity. (c) is incorrect because an enterprise does not require the defendant to personally direct core activities. (d) is incorrect because formal hierarchy and documented chains of command are explicitly not required under *Boyle*. (e) is incorrect because mere ongoing association without purpose and longevity is legally insufficient.
+**Explanation:** Marcus is asserting duress, which is an excuse, not a justification. A justification (like necessity) makes the act lawful, meaning accomplices share in the protection because no legal wrong occurred. An excuse admits the act is wrong but removes blame due to the defendant's lack of free will. Because excuses are personal to the coerced actor, they do not transfer to knowing accomplices like Leo. (a) is wrong because duress is an excuse, not a justification. (c) is wrong because justifications *do* protect accomplices. (d) is wrong because excuses are personal and do not transfer. (e) is wrong because duress is a complete affirmative defense, not merely a mitigation.
 
-**Tags:** chapters: [20], topics: [RICO enterprise, Boyle test], difficulty: medium, cognitive: application
+**Tags:** chapters: [21, 18], topics: [justification vs. excuse, duress, derivative liability], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 20, Boyle v. United States three-part enterprise test.
+**Grounding:** Chapter 21 (Necessity and Duress), justification-vs-excuse refinement.
 
-<!-- audit: MUST FIX
-check 1: fails (Correct-answer accuracy fails contextually because Option A makes a factual conclusion—"because it exhibits..."—that cannot be verified without the missing parent fact pattern).
+<!-- audit: CLEAN
+check 1: pass
 check 2: pass
-check 3: pass (The legal reasoning matches Boyle, though the explanation references facts like "profiting from narcotics" that are entirely missing from the prompt).
-check 4: fails (The stem completely lacks the facts needed to answer. It introduces "Vance" and "the Bayside Syndicate" without any context or description, requiring the student to assume facts not in the stem to evaluate application).
+check 3: pass
+check 4: pass
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Supply the missing fact pattern about Vance and the Bayside Syndicate, or convert the question to a pure rule-testing format without specific parties.
 -->

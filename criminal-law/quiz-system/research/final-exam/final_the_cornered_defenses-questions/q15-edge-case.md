@@ -1,22 +1,22 @@
-**Q15.** Assume that Silas is prosecuted in California, which recognizes imperfect self-defense. The jury determines that Silas's belief that Trey was drawing a weapon was entirely unreasonable, but they also find that Silas genuinely held this belief. Under the rule articulated in *People v. Schuller*, what is the effect of this genuine belief?
+**Q15.** Assume Silas is prosecuted in a jurisdiction that recognizes imperfect self-defense, such as California. If the jury determines that Silas honestly but unreasonably believed Trey was about to shoot him, how will this affect his liability?
 
-(a) The genuine belief entitles Silas to a complete acquittal because California law does not require the defendant's fear to be objectively reasonable.
-(b) The genuine belief has no legal effect because imperfect self-defense requires the defendant's unreasonable fear to be based on an actual, physical weapon.
-(c) The genuine belief reduces the severity of the charge by negating malice, allowing for a conviction of a lesser offense like voluntary manslaughter or mitigated assault. <!-- correct -->
-(d) The genuine belief shifts the burden of proof to the prosecution to demonstrate that Silas was the initial aggressor in the parking lot confrontation.
-(e) The genuine belief is only relevant at sentencing and cannot be used to alter the substantive charges or verdicts returned by the jury during the guilt phase.
+(a) It will result in a complete acquittal because an honest belief completely negates the actus reus element of an attempted criminal homicide.
+(b) It will have no effect because self-defense strictly requires objective reasonableness in all jurisdictions without any exceptions for honest but mistaken beliefs.
+(c) It will negate malice and reduce his potential attempted murder charge to the lesser included offense of attempted voluntary manslaughter. <!-- correct -->
+(d) It will convert the charge to involuntary manslaughter because an unreasonable belief constitutes gross criminal negligence under the standard definitions of homicide.
+(e) It will immediately shift the burden to the prosecution to prove that Trey was not actually a hitman before a conviction can be secured.
 
 **Answer:** (c)
 
-**Explanation:** (c) is correct. In jurisdictions recognizing imperfect self-defense, such as California, an honest but objectively unreasonable belief that deadly force is necessary negates the element of malice. Under *People v. Schuller*, the jury need only find that this unreasonable belief was genuine. Negating malice reduces the homicide or attempted homicide charge to voluntary manslaughter or its mitigated equivalent. (a) is incorrect because a complete acquittal requires the belief to be objectively reasonable. (b) is incorrect because imperfect self-defense applies to genuine mistakes of fact, including mistakenly believing an unarmed person has a weapon. (d) is incorrect because a genuine belief does not shift the burden to prove who was the initial aggressor. (e) is incorrect because imperfect self-defense is a substantive partial defense that alters the jury's verdict at the guilt phase.
+**Explanation:** In jurisdictions recognizing imperfect self-defense (like California), a defendant who honestly but unreasonably believes deadly force is necessary is entitled to a partial defense. The honest belief negates the malice aforethought element of murder, reducing the charge to voluntary manslaughter (or in this case, attempted voluntary manslaughter). (a) is wrong because an unreasonable belief is a partial defense, not a complete acquittal. (b) is wrong because minority jurisdictions do allow for imperfect self-defense. (d) is wrong because the honest belief negates malice but leaves the intentional nature of the act intact, resulting in voluntary (not involuntary) manslaughter. (e) is wrong because it misstates the burden of proof and the core mechanics of the defense.
 
-**Tags:** chapters: [22], topics: [imperfect self-defense, Schuller genuineness], difficulty: medium, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, imperfect self-defense, malice], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22, People v. Schuller and imperfect self-defense negating malice.
+**Grounding:** Chapter 22 (Self-Defense), imperfect-self-defense and schuller-genuineness-only refinements.
 
-<!-- edge-case-audit: SHOULD FIX
-1. Fact Pattern Booby Traps: The facts state that Silas "severely wounded" Trey (meaning Trey survived). Option (c) lists "voluntary manslaughter" as the example of the lesser offense. Because voluntary manslaughter requires a death, top students might flag or reject (c) as factually impossible for a non-fatal shooting. Changing this to "attempted voluntary manslaughter" avoids this technical trap and aligns perfectly with the actual facts and holding of *People v. Schuller*.
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: In Option (c) and the Explanation, change "voluntary manslaughter" to "attempted voluntary manslaughter".
+Recommended fix: N/A
 -->

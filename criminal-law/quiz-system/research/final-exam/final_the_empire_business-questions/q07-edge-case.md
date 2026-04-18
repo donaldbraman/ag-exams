@@ -1,22 +1,22 @@
-**Q7.** Assume Dominic's prior conviction validly prohibits him from possessing a firearm. Can he be convicted of constructively possessing the 9mm handgun found during the search?
+**Q7.** Which of the following accurately describes the application of federal mandatory minimums to Dominic's possession of the 2 kilograms of fentanyl?
 
-(a) No, because the handgun was located in a space within his wife's exclusive control, defeating any inference of his dominion and control. <!-- correct -->
-(b) Yes, because spouses living in a shared household are legally presumed to have joint constructive possession of all firearms located within the home.
-(c) No, because the handgun was legally registered to his wife, which completely immunizes him from any constructive possession liability.
-(d) Yes, because he had general access to the master bedroom, which legally satisfies the requirement of power to exercise dominion and control.
-(e) No, because constructive possession requires the government to conclusively prove that the defendant's fingerprints or DNA were recovered from the firearm.
+(a) The mandatory minimum is triggered by the drug weight alone, without requiring separate proof of his intent to distribute the drugs. <!-- correct -->
+(b) The mandatory minimum applies only if the prosecution can prove that Dominic actually intended to distribute the specific two kilograms.
+(c) The mandatory minimum cannot be applied unless the government proves Dominic knew the specific substance was fentanyl rather than heroin.
+(d) The quantity of drugs creates a permissive inference of distribution, but the jury retains discretion to ignore the mandatory minimum.
+(e) The mandatory minimum enhancement is unconstitutional because it punishes defendants based on quantities without requiring any proof of culpable mental state.
 
 **Answer:** (a)
 
-**Explanation:** Where contraband is found in a space within the exclusive control of a co-occupant (like a personal bedside drawer containing only her belongings), the government cannot establish that the defendant had dominion and control over it (*State v. White*). (b) is wrong because courts require space-specific analysis, not a blanket presumption for spouses. (c) is wrong because legal registration to another does not legally bar a constructive possession charge if the defendant actually exercised control. (d) is wrong because general access to the room is insufficient when the specific space (the drawer) was exclusively hers. (e) is wrong because physical evidence like fingerprints is not strictly required if other evidence of dominion and control exists.
+**Explanation:** (a) is correct because under 21 U.S.C. § 841(b), federal mandatory minimum sentences are triggered by drug weight alone, independent of the prosecution's proof regarding intent to distribute. (b) is incorrect because the weight enhancement is structurally distinct from the intent-to-distribute element. (c) is incorrect because the mandatory minimum floor depends purely on the objective grams of the actual substance possessed, not the defendant's knowledge of the specific substance type. (d) is incorrect because mandatory minimums strip sentencing discretion from judges and juries once the threshold facts are found. (e) is incorrect because mandatory minimums based on quantity have been consistently upheld as constitutional exercises of legislative power.
 
-**Tags:** chapters: [15], topics: [constructive-possession, exclusive-control], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [15], topics: [mandatory minimums, drug weight], difficulty: foundational, cognitive: application
 
-**Grounding:** Chapter 15 - State v. White (Exclusive Control)
+**Grounding:** Chapter 15, 21 U.S.C. § 841(b)
 
 <!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: pass
+1. Fact Pattern Booby Traps: The correct answer (a) and its explanation fundamentally misstate federal drug law. They claim 21 U.S.C. § 841(b) mandatory minimums apply "without requiring separate proof of his intent to distribute the drugs" and "independent of the prosecution's proof regarding intent to distribute." This is legally false; § 841(b) sets penalties exclusively for violations of § 841(a), which strictly requires proof of intent to distribute (or actual distribution). Simple possession of fentanyl under § 844 does not trigger a quantity-based mandatory minimum.
 2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: Fact 11 contains Dominic's admission that he knew the gun was there and instructed his wife to get rid of it. This directly provides the "additional nexus" needed to overcome the wife's exclusive control (which Q8 is designed to test). Because students read the full fact pattern, they will know Fact 11 exists, making Q7's Answer A ("No") legally incorrect or highly confusing in context.
-Recommended fix: Modify the Q7 prompt to deliberately isolate the facts: "Assume Dominic's prior conviction validly prohibits him from possessing a firearm, and assume for the purposes of this question that he made no statements to the agents. Can he be..."
+3. Cross-Question Spoilers: pass
+Recommended fix: Rewrite (a) to focus on the lack of mens rea required for the weight/type (e.g., "(a) The mandatory minimum is triggered by the objective drug weight, without requiring proof that Dominic knew the exact quantity or specific type of the drugs he distributed."). Adjust the explanation to clarify that while the government MUST prove an § 841(a) violation (which requires intent to distribute / actual distribution), the § 841(b) quantity enhancement acts as a strict liability element regarding the drug's weight and type.
 -->

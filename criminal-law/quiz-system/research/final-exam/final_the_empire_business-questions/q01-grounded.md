@@ -1,17 +1,17 @@
-**Q1.** Is Pinnacle Waste a valid RICO enterprise despite being a lawfully chartered corporation with a legitimate primary business?
+**Q1.** Is Pinnacle Waste Management a valid RICO enterprise under 18 U.S.C. § 1962(c)?
 
-(a) Valid, because a legitimate corporation can serve as a RICO enterprise when its ordinary business structure is repurposed to conduct or facilitate illegal racketeering activity. <!-- correct -->
-(b) Invalid, because a lawfully chartered corporation with a legitimate primary business cannot legally be classified simultaneously as a criminal association-in-fact enterprise.
-(c) Invalid, because the government must establish that the organizational structure had an exclusively criminal purpose rather than a mixed or predominantly legal business purpose.
-(d) Valid, but only if the executives formalized their illegal extortion agreements into the official corporate bylaws or official charter documents of the company.
-(e) Invalid, because a corporate enterprise requires all employees, including the civilian dispatchers, to be consciously aware of the underlying illegal racketeering activity.
+(a) Yes, because a legitimate corporation can constitute a RICO enterprise when its formal business structure is repurposed to facilitate racketeering activity. <!-- correct -->
+(b) Yes, because any business owned by a person who commits two or more racketeering acts automatically becomes an enterprise under the statute.
+(c) No, because a lawfully chartered corporation with legitimate operations cannot serve as an enterprise for racketeering purposes under federal law.
+(d) No, because an association-in-fact enterprise requires a criminal purpose distinct from the corporation's legal charter and legitimate business operations.
+(e) No, because the dispatch center and billing department were used for separate schemes, creating a hub-and-spoke structure without a rim.
 
 **Answer:** (a)
 
-**Explanation:** A legitimate corporation can constitute a RICO enterprise when its ordinary business structure—such as its dispatch center and billing department—is repurposed to conduct or facilitate racketeering activity. (b) is wrong because courts routinely hold that lawful entities can serve as the enterprise. (c) is wrong because an enterprise need not have an exclusively criminal purpose to satisfy the statute. (d) is wrong because the lawfulness of the formal charter does not shield the entity, nor does RICO require illegal bylaws. (e) is wrong because an enterprise does not require every employee to be aware of the illegal nature of the operations; only the participants charged must have the requisite nexus.
+**Explanation:** (a) is correct because under *Insys Therapeutics*, a legitimate corporation can constitute a RICO enterprise when its formal business structure (here, the dispatch and billing departments) is repurposed to conduct or facilitate racketeering activity. (b) is incorrect because an enterprise requires structural features (shared purpose, relationships, longevity) beyond merely being owned by a criminal. (c) is incorrect because RICO explicitly covers lawful entities corrupted for unlawful ends. (d) is incorrect because an association-in-fact enterprise need not have a purpose completely distinct from the corporation's charter if the structure itself is used for racketeering. (e) is incorrect because the dispatch and billing departments provided the "rim" connecting the operations, satisfying the enterprise structure requirement.
 
-**Tags:** chapters: [20], topics: [RICO, corporate-enterprise], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [20], topics: [corporate enterprise, RICO], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 20 - Insys Therapeutics Prosecution (Corporate Enterprise)
+**Grounding:** Chapter 20, Insys Therapeutics Prosecution
 
-<!-- grounding: GROUNDED — Corporate Enterprise, Ch 20, Refinement `corporate-enterprise`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — corporate enterprise, Ch 20, Refinement `corporate-enterprise`. Rule paraphrased accurately. -->

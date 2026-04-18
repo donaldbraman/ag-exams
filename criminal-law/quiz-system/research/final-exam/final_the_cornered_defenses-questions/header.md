@@ -1,27 +1,22 @@
 # Scenario: Bayside Syndicate
 
-The Bayside Syndicate functioned as a highly structured criminal organization for over five years, defined by a strict hierarchy, the shared purpose of profiting from narcotics distribution, and distinct personnel roles including Marcus (enforcer), Trey (hitman), and Police Commander Vance (corrupt protector).
+### Facts
 
-Seeking to eliminate a rival faction, Vance cornered Marcus in an alley, shoved his loaded service weapon hard into Marcus's chest, and kept the barrel pressed against Marcus's ribs. With the gun pinned to Marcus, Vance delivered an ultimatum: "You will destroy Silas's warehouse tonight, or at midnight my tactical unit will raid your house and execute your family."
+1. The Bayside Syndicate operates on the docks. Commander Vance, a corrupt police officer, acts as the central "hub," coordinating three separate smuggling crews that never interact with each other. For three years, Vance has directed a continuous pattern of bribery and extortion to protect these crews.
+2. After a federal task force begins investigating Bayside, Vance panics. He corners Marcus, an enforcer for one of the crews, in an alley. Vance holds a gun to Marcus's head and demands that Marcus burn down a waterfront warehouse belonging to Silas, a rival boss, to destroy evidence of Vance's corruption stored inside.
+3. Vance tells Marcus: "Burn that warehouse to the ground tonight, or I will send my tactical unit to your mother's house at midnight to execute everyone inside." Because Vance commands the local police tactical unit, Marcus reasonably believes reporting the threat to local authorities would be futile.
+4. Marcus decides that destroying the property is the only way to save his family's lives. To gain entry, Marcus approaches Dave, a corrupt security guard at Silas's warehouse. Dave charges Marcus a flat $500 "blind eye" fee to leave the back door unlocked. Dave tells Marcus, "I know you're here to torch the place, but I have no stake in your beef. Just pay me up front." Dave takes the money and unlocks the door.
+5. Marcus recruits Leo to help him burn the warehouse, agreeing to pay him $200 from his savings. Marcus does not tell Leo about Vance's threat. As they pour gasoline inside, a watchman surprises them. Without a word, Leo draws a concealed handgun and shoots the watchman dead.
+6. At trial, the defense psychiatrist testifies that Leo's schizophrenia caused a hallucination that the watchman was a "demon." The prosecution expert agrees Leo has schizophrenia but testifies that his antisocial personality disorder (APD) and recent voluntary meth use were the actual drivers of his aggressive reaction.
+7. During his arrest hours later, Leo is found drawing insect hives on the holding cell wall. He tells the booking officer, "The hive is closed now. The lead demon is dead." He makes no attempt to hide his weapon and seems unconcerned about the police presence.
+8. The next afternoon, Silas learns of the arson and is sitting in his parked car at a gas station when he sees Trey, a known Bayside hitman, walking rapidly toward his vehicle with a hand concealed in his jacket. Silas has a clear, unobstructed path to put the car in drive and leave safely.
+9. Instead of retreating, Silas unholsters his permitted firearm and lies in wait inside the vehicle, intending to shoot Trey as soon as Trey reaches the door. A passing police officer spots the drawn weapon and arrests Silas before Trey arrives. Investigators later determine Trey was unarmed and just walking to the convenience store.
+10. When police arrest Silas, they search the vehicle, which is registered to his girlfriend. In the trunk, they find a locked metal lockbox containing 500 grams of fentanyl packaged in individual baggies. Silas does not have the key on his person, but admits to police he knew the box was there.
 
-Terrified for his family, Marcus decided to commit the arson. He approached Leo, a lower-level Bayside associate, and the two explicitly agreed to burn Silas's warehouse together that night. To obtain commercial-grade accelerant, Marcus went to Dexter, a black-market supplier. Dexter knew exactly what Marcus planned to do with the accelerant but had no personal stake in the warehouse burning, simply charging Marcus triple the usual price to profit off the crime.
+### Stem 1: The Bayside Indictment
 
-Marcus and Leo loaded the accelerant into their car in a parking lot two miles from the warehouse. A parking lot watchman approached the vehicle to investigate the loading of the suspicious chemical drums. Leo had a documented medical history of severe paranoid schizophrenia, as well as Antisocial Personality Disorder (APD). As the watchman approached, Leo's schizophrenia triggered a severe psychotic break, though prosecutors later argued his APD contributed to the violence. Genuinely believing the watchman was a literal, non-human monster from hell, and completely unaware he was interacting with a human being, Leo drew his gun and shot the watchman dead.
+We are finalizing the multi-defendant indictment for the Bayside Syndicate. The wiretaps and cooperating witnesses have established the facts of the warehouse arson beyond a reasonable doubt. I need you to assess the viability of several overlapping affirmative defenses, the structure of the RICO charges, and the derivative liability hooks for the accomplices and co-conspirators.
 
-Immediately after the gunshot, police sirens from an unrelated traffic stop blared down the block. Panicking at the sound of the sirens, Marcus jumped out of the car and ran away, abandoning the arson plan before traveling to the warehouse.
+### Stem 2: The Gas Station Ambush
 
-The next day, Silas (the rival boss) learned Bayside was responsible for the plot against his warehouse. He publicly vowed to eliminate anyone connected to the Syndicate. Silas recognized Trey as Bayside's hitman, walking rapidly toward him. When Trey reached into his jacket for his phone, Silas, assuming Trey was drawing a weapon, had a clear, unobstructed path to get into his car and drive away safely. Instead, Silas drew his own weapon and severely wounded Trey.
-
-While paramedics treated Trey, police searched Trey's vehicle, which was parked twenty feet away from where he was shot. They discovered the car keys in Trey's pocket, and a hidden compartment in the vehicle containing 50 grams of fentanyl packaged in 25 separate tiny baggies, along with a detailed drug ledger.
-
-### Stem 1: Syndicate Coercion
-
-We are finalizing the multi-defendant indictment for the Bayside Syndicate. Assess the viability of the enterprise and conspiracy charges against Commander Vance, evaluate Marcus's duress claims and conspiracy formation, and analyze Dexter's accomplice exposure.
-
-### Stem 2: The Attempted Arson
-
-The arson attempt was thwarted and the watchman was killed. Analyze the attempt liability, the abandonment defense, and the derivative homicide liability for Marcus. Also evaluate Leo's insanity claim based on his psychological profile.
-
-### Stem 3: The Aftermath
-
-Silas shot Trey the next day, though Trey survived. Silas is claiming self-defense. Evaluate Silas's justification defenses, and assess the narcotics evidence discovered during the response to Trey.
+Silas has been arrested for the gas station incident. The DA is pushing for attempted murder and possession with intent to distribute. I need you to break down his potential self-defense claims regarding the ambush attempt, and his exposure on the drug possession.

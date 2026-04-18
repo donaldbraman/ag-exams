@@ -1,22 +1,22 @@
-**Q6.** Assume Dominic is charged with distributing fentanyl. Can he be convicted of the fentanyl offense despite his genuine belief that the substance was heroin?
+**Q6.** Assume Dominic is charged with possession of fentanyl. Can he successfully defend on the ground that he genuinely believed the substance was heroin?
 
-(a) Yes, because knowledge of the substance's general nature as a controlled substance satisfies the mens rea requirement for the specific drug possessed. <!-- correct -->
-(b) No, because the government must prove that the defendant knew the specific chemical identity of the controlled substance he was actively distributing.
-(c) Yes, because strict liability applies to all elements of federal drug trafficking offenses, completely eliminating any mens rea requirement.
-(d) No, because his mistake of fact regarding the drug's true identity completely negates the specific intent required to commit a fentanyl distribution offense.
-(e) Yes, because under the federal analogue act, fentanyl and heroin are considered legally identical substances for the purposes of criminal liability.
+(a) Yes, because the government must prove he had specific knowledge of the precise chemical identity of the substance he possessed.
+(b) Yes, because a mistake of fact defense is available whenever a defendant holds an honest but mistaken belief about a circumstance.
+(c) No, because federal drug possession offenses are strict liability crimes that require no proof of mens rea regarding the substance.
+(d) No, because the government need only prove he knew the substance was a controlled substance, not its precise chemical identity. <!-- correct -->
+(e) No, because his belief that the substance was heroin demonstrates he acted with criminal negligence regarding the true nature of the drugs.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** The general-nature rule holds that the government must prove the defendant knew the substance was a controlled substance, but need not prove knowledge of its precise chemical identity (*McFadden* logic applied to fentanyl substitutions). (b) is wrong because the precise chemical identity need not be known by the defendant. (c) is wrong because drug trafficking is not a strict liability offense; it requires knowledge of the substance's general nature. (d) is wrong because the mistake does not negate the required mens rea, which is only that he knew he possessed *some* controlled substance. (e) is wrong because fentanyl and heroin are distinct scheduled substances with different penalty thresholds, not merely analogues of each other.
+**Explanation:** (d) is correct because under *McFadden*, the government only needs to prove the defendant knew the substance had the general nature of a controlled substance, not its precise chemical identity. Dominic knew he possessed heroin (a controlled substance), satisfying the mens rea for whatever substance it actually was. (a) is incorrect because federal law expressly rejects requiring specific chemical knowledge. (b) is incorrect because mistake of fact only applies if it negates the required mental state, and knowing it was heroin satisfies the mental state for possessing a controlled substance. (c) is incorrect because federal drug possession is not a strict liability offense; it requires knowledge of the substance's general nature. (e) is incorrect because the standard is actual knowledge of its general nature, not negligence.
 
-**Tags:** chapters: [10, 15], topics: [mens-rea, mistake-of-fact, fentanyl-asymmetry], difficulty: advanced, cognitive: application
+**Tags:** chapters: [15, 10], topics: [drug possession, mens rea, fentanyl], difficulty: advanced, cognitive: application
 
-**Grounding:** Chapter 15 - mens-rea-fentanyl-asymmetry
+**Grounding:** Chapter 15, McFadden v. United States
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: N/A
+Recommended fix: n/a
 -->

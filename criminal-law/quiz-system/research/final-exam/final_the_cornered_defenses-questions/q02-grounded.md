@@ -1,17 +1,17 @@
-**Q2.** Assume that Vance is charged with RICO conspiracy under 18 U.S.C. § 1962(d). Vance argues that he cannot be convicted because he merely ordered others to act and did not personally commit or agree to personally commit any predicate acts of racketeering. Under the *Salinas* rule, is Vance's argument correct?
+**Q2.** Assume Marcus is prosecuted in a jurisdiction that follows the rule of *United States v. Dingwall* or *United States v. Contento-Pachon* regarding duress. Will Vance's threat of a midnight execution satisfy the imminence requirement for duress?
 
-(a) Yes, because a RICO conspiracy conviction requires proof that the defendant personally committed at least two predicate acts of racketeering in furtherance of the enterprise.
-(b) Yes, because a RICO conspiracy conviction requires proof that the defendant explicitly agreed to personally commit at least two predicate acts of racketeering.
-(c) No, because a RICO conspiracy conviction merely requires the defendant to agree that some member of the enterprise will commit the required predicate acts. <!-- correct -->
-(d) No, because a RICO conspiracy conviction requires only that the defendant received a financial benefit from the enterprise's overarching pattern of racketeering.
-(e) Yes, because Vance's role as a police commander providing protection falls entirely outside the statutory definition of directing the enterprise's racketeering activities.
+(a) The defense fails categorically because the threat was scheduled for midnight, meaning Vance was not physically present to enforce it during the arson.
+(b) The defense may survive because strict physical proximity is not required if Marcus reasonably believed reporting to corrupt police was futile. <!-- correct -->
+(c) The defense fails categorically because duress is never available to excuse the deliberate destruction of another person's private property.
+(d) The defense may survive because the threat targeted Marcus's family, which automatically waives the traditional imminence requirement for all subsequent crimes.
+(e) The defense fails categorically because Marcus could have relocated his family to a safehouse before the midnight deadline ultimately expired.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** (c) is correct. In *Salinas v. United States*, the Supreme Court held that a RICO conspiracy conviction does not require the defendant to agree to personally commit two predicate acts; it is sufficient that the defendant agrees that some member of the enterprise will commit them. Vance's agreement to provide protection while others commit the predicates is sufficient. (a) and (b) are incorrect because *Salinas* explicitly rejected the personal commission and personal agreement requirements. (d) is incorrect because merely receiving a financial benefit without an agreement regarding the predicate acts is insufficient for conspiracy liability. (e) is incorrect because a corrupt police protector facilitating the enterprise clearly falls within the scope of conspiracy liability.
+**Explanation:** Under the traditional rule, imminence requires the threat to be immediate and physically present. However, modern jurisdictions following cases like *Dingwall* or *Contento-Pachon* recognize that a continuous threat, combined with a reasonable belief that authorities are corrupt and cannot help, can satisfy the imminence requirement even if the threat is hours away and the coercer is not physically present. (a) is wrong because modern majority circuits reject the strict physical proximity test. (c) is wrong because duress is a defense to property crimes like arson. (d) is wrong because targeting family does not automatically waive the imminence requirement; it satisfies the target scope element. (e) is wrong because his belief in the futility of seeking help due to police corruption creates a jury question on reasonable alternatives.
 
-**Tags:** chapters: [20], topics: [RICO conspiracy, Salinas rule], difficulty: medium, cognitive: application
+**Tags:** chapters: [21], topics: [duress, imminence], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 20, Salinas v. United States rejection of personal commission requirement.
+**Grounding:** Chapter 21 (Necessity and Duress), duress-imminence-proximity and duress-corrupt-authorities refinements.
 
-<!-- grounding: GROUNDED — Salinas rule (RICO conspiracy), Ch 20, Refinement `salinas-no-personal-acts`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Duress Imminence and Corrupt Authorities, Ch 21, Refinement `duress-imminence-proximity` and `duress-corrupt-authorities`. Rule paraphrased accurately. -->

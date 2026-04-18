@@ -4,29 +4,29 @@ The QA pipeline flagged this question. Rewrite `q16.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q16.** Based on the fentanyl found in Trey's vehicle, can Trey be charged with Possession With Intent to Distribute (PWID)?
+**Q16.** Silas is charged with possession of the 500 grams of fentanyl found in the lockbox in his girlfriend's trunk. Based on the elements of constructive possession, is there sufficient evidence to convict him?
 
-(a) Yes, because the mere physical presence of fifty grams of fentanyl automatically triggers a strict and mandatory federal presumption of criminal intent to distribute.
-(b) No, because he was parked twenty feet away from the vehicle, legally defeating the strictly required element of immediate physical control over the illegal drugs.
-(c) Yes, because the car keys in his pocket establish constructive possession, and the distinct baggies and drug ledger support a strong inference of intent to distribute. <!-- correct -->
-(d) No, because constructive possession cannot be established for specific items locked inside a hidden compartment unless the targeted defendant is actively driving the car.
-(e) Yes, because his widely known status as the syndicate's hitman legally excuses the prosecution from affirmatively proving his personal knowledge of the vehicle's hidden compartment.
+(a) Yes, because his mere physical presence in a vehicle containing narcotics automatically establishes constructive possession as a matter of law.
+(b) Yes, because his admission of knowledge, combined with his sole occupancy of the vehicle, allows a jury to infer he had the power to control it. <!-- correct -->
+(c) No, because he did not have the key on his person, which legally precludes him from exercising the requisite dominion and control over the drugs.
+(d) No, because the vehicle was registered to his girlfriend, meaning only she could be legally charged with constructive possession of items hidden inside it.
+(e) Yes, because strict liability applies to Schedule I narcotics, rendering the specific elements of awareness and physical control legally irrelevant to the final charge.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** Possession can be actual or constructive. Trey had constructive possession of the fentanyl because the car keys in his pocket provided him with the power and intent to control the vehicle and its contents, even from twenty feet away. Furthermore, intent to distribute is routinely inferred from circumstantial evidence such as large quantities, individual packaging (25 tiny baggies), and the presence of a drug ledger. (a) is incorrect because while quantity creates an inference for the jury, it does not trigger an automatic mandatory legal presumption. (b) is incorrect because constructive possession specifically exists to criminalize control over contraband even when the defendant lacks immediate, actual physical custody. (d) is incorrect because constructive possession relies on the right and ability to access the space (via the keys), not active operation of the vehicle. (e) is incorrect because status or reputation never excuses the prosecution from proving the elements of the offense, including *mens rea* regarding knowledge of the drugs.
+**Explanation:** Constructive possession requires the prosecution to prove the defendant had both awareness of the contraband and the power and intent to exercise control over it. Silas's explicit admission of knowledge, combined with his sole occupancy of the vehicle, allows a jury to infer he had the requisite power to control the lockbox, even if he lacked the key at that exact moment. (a) is wrong because mere presence is insufficient without proof of knowledge and control. (c) is wrong because physical possession of a key is not an absolute legal requirement for controlling a box (e.g., he could carry the box away). (d) is wrong because legal ownership of the vehicle is not required to possess items inside it. (e) is wrong because strict liability does not eliminate the foundational possession elements.
 
-**Tags:** chapters: [15], topics: [constructive possession, PWID inferences], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [constructive possession, drugs], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15 - cp-awareness-control, qty-pwid
+**Grounding:** Chapter 15 (Drugs and Guns), cp-awareness-control refinement.
 
 <!-- audit: MUST FIX
-check 1: Correct-answer accuracy fails. Option C states that "car keys in his pocket establish constructive possession." Under `cp-awareness-control`, constructive possession requires both the power to control AND awareness/knowledge of the contraband. Keys alone establish power, but do not automatically establish awareness of drugs inside a *hidden compartment*. A well-prepared student would challenge C as doctrinally incomplete.
-check 2: pass
-check 3: Explanation consistency fails. The explanation claims the keys "provided him with the power and intent to control." Keys provide physical access (power), but do not inherently establish intent or knowledge of hidden contents.
-check 4: The stem lacks the standalone facts required to answer the question, heavily relying on a master scenario that is assumed but omitted here (e.g., the hidden compartment, ledger, and 20-foot distance only emerge in the options).
+check 1: fail - The correct answer is factually unsupported by the stem, rendering it unpickable for a careful student.
+check 2: pass - No other option becomes doctrinally defensible, but a smart student would rightly challenge the entire question. 
+check 3: fail - The explanation references "explicit admission of knowledge" and "sole occupancy," which do not appear in the stem.
+check 4: fail - The stem completely lacks the necessary facts. It never states that Silas was the sole occupant of the vehicle, nor does it mention that he admitted knowledge of the fentanyl. Option (b) and the explanation rely entirely on these phantom facts.
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Revise Option C to include the knowledge element (e.g., "Yes, because his exclusive control of the vehicle and the keys establish constructive possession..."). Update the explanation to clarify that constructive possession requires both power to control (via keys) AND knowledge of the hidden drugs (which would be inferred from exclusive control or other scenario facts).
+Recommended fix: Add the missing facts to the stem. For example: "Silas is pulled over while driving his girlfriend's car alone. He admits to police that he knew there was 500 grams of fentanyl in a lockbox in the trunk, though he does not have the key. He is charged with possession..."
 -->

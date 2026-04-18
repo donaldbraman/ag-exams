@@ -1,17 +1,17 @@
-**Q12.** Is Dominic guilty of felony murder for the death of Victor?
+**Q12.** Dominic was arrested outside a rival's home after setting up a concealed firing position. Under the Model Penal Code's substantial step test, is Dominic guilty of attempted murder?
 
-(a) Yes, because Victor's death occurred during the perpetration of an inherently dangerous felony, regardless of Dominic's specific intent to kill. <!-- correct -->
-(b) No, because Victor's decision to resist by throwing the ledger constituted an independent intervening cause that severed the chain of liability.
-(c) Yes, because extortion is an enumerated malum prohibitum offense that triggers strict liability for any deaths that occur on the premises.
-(d) No, because the felony murder rule only applies when the defendant kills a bystander, not when the actual victim of the underlying felony is killed.
-(e) Yes, because the agency approach to felony murder requires the fatal act to be committed by someone unaffiliated with the criminal enterprise.
+(a) Yes, because his actions of lying in wait and tracking Elias with a scoped rifle strongly corroborated his criminal purpose. <!-- correct -->
+(b) Yes, because any preparatory act, no matter how remote, is sufficient for attempt if the defendant has a clear intent to kill.
+(c) No, because he had not yet pulled the trigger, meaning he had not completed the final act necessary for the offense.
+(d) No, because the FBI intervened before he could fire, rendering the completion of the crime factually and legally impossible.
+(e) No, because the substantial step test requires the defendant to have entered the zone of perpetration by discharging a weapon.
 
 **Answer:** (a)
 
-**Explanation:** Felony murder applies when a death occurs in the perpetration of an inherently dangerous felony (such as armed extortion or robbery). It functions as a strict liability substitution for the malice requirement. (b) is wrong because victim resistance is highly foreseeable during a violent felony and does not break the causal chain. (c) is wrong because extortion is malum in se (wrong in itself), not malum prohibitum. (d) is wrong because felony murder frequently applies when the target of the felony is killed. (e) is wrong because the agency approach limits liability when a non-felon (like police or a victim) does the killing; here, the felon himself (Dominic) pulled the trigger.
+**Explanation:** (a) is correct because the Model Penal Code's substantial step test requires conduct that strongly corroborates the actor's criminal purpose. Lying in wait and possessing materials specifically designed for the unlawful end near the scene of the crime explicitly satisfy this standard under the MPC. (b) is incorrect because the MPC still requires a "substantial step," explicitly rejecting the notion that remote preparatory acts alone are sufficient. (c) is incorrect because attempt liability does not require the defendant to complete the final act of the offense. (d) is incorrect because factual impossibility or outside intervention does not negate attempt liability if the defendant took a substantial step. (e) is incorrect because the "zone of perpetration" is a concept from common law proximity tests, not the MPC.
 
-**Tags:** chapters: [14], topics: [felony-murder, inherently-dangerous-felony], difficulty: foundational, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, substantial step], difficulty: foundational, cognitive: application
 
-**Grounding:** Chapter 14 - strict-liability-substitution
+**Grounding:** Chapter 17, MPC substantial step test
 
-<!-- grounding: GROUNDED — Felony Murder, Ch 14, Refinement `strict-liability-substitution`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — MPC substantial step test, Ch 17, Refinement `actus-reus-substantial-step`. Rule paraphrased accurately. -->

@@ -1,26 +1,26 @@
-**Q4.** Assume Marcus is prosecuted for his subsequent actions. Can he successfully raise a duress defense for routing the trucks during the four months after Carmine threatened him?
+**Q4.** Assume that, whether or not Marcus is an accomplice, he raises a duress defense to his continued routing of the trucks following Carmine's threat. Will the defense succeed?
 
-(a) No, because the threat to "track you down" in the future lacked strict imminence, and he had ample time and opportunity to contact the authorities. <!-- correct -->
-(b) Yes, because a threat from a known mafia boss creates a reasonable belief that serious bodily injury or death is entirely unavoidable and imminent.
-(c) No, because duress is categorically unavailable as an affirmative defense when the underlying crime involves the distribution of dangerous narcotics.
-(d) Yes, because his continuation of the routing was physically compelled by the boss's explicit and credible threat to put him in a garbage compactor.
-(e) No, because Marcus voluntarily joined the criminal organization initially, thereby automatically forfeiting any future right to claim a duress defense.
+(a) Yes, because Carmine's threat to put Marcus in a compactor was sufficiently severe to overcome the will of a person of reasonable firmness.
+(b) Yes, because Marcus was subjected to a continuous threat of physical harm that legally persisted throughout the entire four-month period.
+(c) No, because the threat was not imminent, as Marcus had four months and ample opportunity to contact authorities or escape. <!-- correct -->
+(d) No, because under the common law duress is never available as a defense to serious felony offenses like drug trafficking.
+(e) No, because Marcus voluntarily accepted the dispatcher job originally and therefore recklessly placed himself in the coercive criminal situation.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** Duress requires an imminent threat of death or serious bodily injury that leaves the defendant with no reasonable legal alternative. A conditional future threat combined with a four-month period where Marcus could have contacted authorities defeats the imminence and unavoidability requirements. (b) is wrong because even threats from dangerous figures do not satisfy imminence if the threat is future-conditional and avoidable. (c) is wrong because duress is available for drug offenses; it is typically only barred for intentional murder. (d) is wrong because a future threat is not physical compulsion or imminent duress. (e) is wrong because joining a legitimate waste company that later engages in crime does not automatically forfeit the defense, unlike voluntarily joining a violent street gang.
+**Explanation:** (c) is correct because duress requires a threat of imminent death or serious bodily harm. A threat to track someone down in the future, coupled with a four-month period where Marcus continued the conduct without attempting to contact authorities or escape, destroys the imminence requirement. (a) is incorrect because severity alone is insufficient; the threat must also be imminent. (b) is incorrect because the subjective fear of future retribution does not legally constitute a continuous imminent threat under the duress doctrine. (d) is incorrect because duress is generally available for drug offenses; the common law prohibition applies strictly to intentional murder. (e) is incorrect because voluntarily accepting a lawful dispatching job does not constitute recklessly placing oneself in a situation where one will be subjected to duress.
 
-**Tags:** chapters: [21], topics: [duress, imminence], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [21], topics: [duress, imminence], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21 - Duress: Imminence and Proximity
+**Grounding:** Chapter 21, duress-imminence-proximity
 
 <!-- audit: SHOULD FIX
-Check 1: pass
-Check 2: pass
-Check 3: pass
-Check 4: pass (assuming the overarching master fact pattern provides the necessary context about Marcus's job, the threat, and the 4-month timeline)
-Check 5: finding: The question does not specify a jurisdiction, but option (a) and the explanation rely heavily on the common law "strict imminence" requirement. The MPC (taught via the `reasonable-firmness-objective` tag) abandons the strict imminence requirement. A well-prepared student might eliminate (a) on the grounds that "strict imminence" makes it a legally incorrect statement under the MPC, even if the ultimate conclusion is correct due to the opportunity to escape. 
-Check 6: pass
-Check 7: pass
-Recommended fix: Either stipulate the jurisdiction in the stem (e.g., "Under common law, can he successfully raise...") or modify option (a) to focus on unavoidability, which works under both regimes (e.g., "No, because the four-month gap gave him ample time and opportunity to contact the authorities, meaning the threat was not unavoidable.").
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: pass
+check 5: SHOULD FIX. The doctrine of duress splits between the common law (which strictly requires imminence) and the MPC (which abandons strict imminence in favor of the "person of reasonable firmness" standard, though opportunity to escape remains highly relevant). The question does not specify a jurisdiction, yet answer (c) and the explanation rely on the strict common law "imminence requirement" to categorically defeat the defense, while distractor (a) explicitly uses MPC language. This creates a jurisdictional mismatch.
+check 6: pass
+check 7: pass
+Recommended fix: Amend the question stem to provide a clear jurisdictional hook: "Under the common law, will the defense succeed?"
 -->

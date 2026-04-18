@@ -1,17 +1,17 @@
-**Q9.** Can Dominic be convicted under 18 U.S.C. § 922(g)(1) (felon in possession) if he genuinely believed his prior fraud conviction carried a maximum sentence of six months?
+**Q9.** Assume that, whether or not Dominic is guilty, the government charges Carmine under the Pinkerton doctrine for Victor's death. Can Carmine be convicted?
 
-(a) No, because the government must prove he knew he belonged to the prohibited class, and his mistake negates the mens rea for this status element. <!-- correct -->
-(b) Yes, because ignorance of the law is never an excuse, and his misunderstanding of the statutory penalty has no bearing on his criminal liability.
-(c) No, because the prior offense was a nonviolent commercial fraud, which exempts him from the federal prohibition on firearm possession entirely.
-(d) Yes, because the Morissette presumption applies only to the conduct element of possessing the firearm, not to his underlying criminal record.
-(e) No, because collateral mistakes regarding prior state-level convictions cannot be used to establish the requisite intent for a federal criminal offense.
+(a) Yes, under the Pinkerton doctrine, because the fatal shooting was a reasonably foreseeable consequence of the armed extortion conspiracy. <!-- correct -->
+(b) Yes, because as the boss of the Pinnacle enterprise, Carmine is strictly liable for all crimes committed by his subordinates.
+(c) No, because Carmine was not physically present at the restaurant and did not specifically direct Dominic to kill the owner.
+(d) No, because homicide is an independent substantive crime that merges with the underlying extortion, preventing separate conspiracy liability.
+(e) No, because Victor's decision to unexpectedly pull a concealed revolver was an unforeseeable intervening cause that breaks the chain of liability.
 
 **Answer:** (a)
 
-**Explanation:** Under *Rehaif v. United States*, the government must prove the defendant knew he belonged to the relevant category of persons barred from possessing a firearm (here, someone convicted of a crime punishable by more than one year). His genuine belief that the maximum sentence was six months negates this mens rea. (b) is wrong because *Rehaif* explicitly requires knowledge of the status element; this is an exception to the strict mistake of law rule. (c) is wrong because § 922(g)(1) applies to all felonies, not just violent ones (though its constitutionality is debated). (d) is wrong because *Rehaif* explicitly extended the presumption of scienter to the status element. (e) is wrong because the mistake actually exculpates him by negating mens rea; it's not a bar to proving intent, it's a failure of proof.
+**Explanation:** (a) is correct because under the *Pinkerton* doctrine, a co-conspirator is liable for the substantive offenses committed by another co-conspirator if those offenses were reasonably foreseeable and committed in furtherance of the conspiracy. An armed shootout is reasonably foreseeable during an organized extortion scheme. (b) is incorrect because *Pinkerton* requires the specific crime to be reasonably foreseeable, rejecting absolute strict liability for any subordinate's actions. (c) is incorrect because physical presence and specific direction are not required under conspiratorial liability. (d) is incorrect because homicide does not merge with conspiracy or extortion; it is a separate substantive offense. (e) is incorrect because an armed target resisting an extortion attempt is a highly foreseeable response, not an independent intervening cause.
 
-**Tags:** chapters: [10, 15], topics: [Rehaif, mistake-of-fact, status-element], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [19], topics: [Pinkerton liability, conspiracy], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 10 - Rehaif v. United States
+**Grounding:** Chapter 19, Pinkerton doctrine
 
-<!-- grounding: GROUNDED — Rehaif status element, Ch 10, Refinement `rehaif-status-element`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Pinkerton doctrine, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->

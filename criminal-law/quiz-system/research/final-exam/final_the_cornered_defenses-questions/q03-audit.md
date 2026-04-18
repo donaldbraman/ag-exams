@@ -1,29 +1,25 @@
-**Q3.** Assume that Marcus and Leo are charged with conspiracy to commit arson. Marcus argues that because his agreement with Leo was entirely the result of Vance's extreme coercion, he lacked the requisite intent to form a valid conspiracy. How should a court evaluate the formation of the agreement?
+**Q3.** Assume Marcus is charged with felony murder for the watchman's death. He argues that because the underlying arson was coerced by Vance, he cannot be guilty of felony murder. How would a jurisdiction recognizing the felony-murder duress exception rule on this claim?
 
-(a) A valid conspiracy was formed because Marcus explicitly agreed with Leo to commit the arson and shared the purpose to burn the warehouse, regardless of Vance's underlying coercion. <!-- correct -->
-(b) A valid conspiracy was not formed because Marcus's agreement was the product of coercion, which negates the specific intent required for conspiracy formation as a matter of law.
-(c) A valid conspiracy was formed because Leo, as a co-conspirator, possessed the requisite intent, which imputes the necessary mens rea to Marcus under the unilateral approach.
-(d) A valid conspiracy was not formed because the agreement was primarily directed by Vance, meaning Marcus and Leo were mere instrumentalities rather than independent conspirators.
-(e) A valid conspiracy was formed because the overt act of loading the accelerant into the car retroactively cures any defect in the initial mental state regarding the agreement.
+(a) Marcus is guilty because duress is categorically unavailable as a defense to any form of homicide, including felony murder.
+(b) Marcus is not guilty because if he successfully establishes duress for the predicate arson, the chain of felony-murder liability is broken. <!-- correct -->
+(c) Marcus is guilty because the felony-murder exception only applies if the defendant was also directly coerced into committing the actual killing.
+(d) Marcus is not guilty because felony murder statutes require the prosecution to prove the defendant foresaw the lethal acts of his accomplices.
+(e) Marcus is guilty because his participation in a dangerous felony creates strict liability for any resulting death, overriding all affirmative defenses.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct. Conspiracy requires the intent to agree and the purpose to commit the target offense. While Marcus was coerced by Vance, duress is an excuse that shields a defendant from punishment; it does not negate the intentional mens rea to form the agreement. Marcus explicitly agreed to commit the arson. (b) is incorrect because duress does not negate the specific intent required for conspiracy as a matter of law. (c) is incorrect because the unilateral approach applies when one party feigns agreement, whereas Marcus genuinely agreed. (d) is incorrect because being directed by a third party does not prevent the formation of an agreement between two actual co-conspirators. (e) is incorrect because an overt act cannot retroactively cure a missing mental state.
+**Explanation:** Under the common law, duress is categorically barred for intentional murder because a defendant may not choose their life over another's. However, in states recognizing the felony-murder duress exception (e.g., *People v. Reichard*), a defendant forced to commit a predicate felony under duress is not guilty of felony murder if a death results. The rationale is that the defendant was not choosing between lives, but was merely coerced into a lesser crime, breaking the chain of felony-murder liability. (a) is wrong because it describes the traditional bar without the modern exception. (c) is wrong because the exception applies if the *predicate felony* was coerced. (d) is wrong because felony murder is a strict liability offense regarding the death. (e) is wrong because it ignores the established affirmative defense exception.
 
-**Tags:** chapters: [19], topics: [conspiracy formation, intent to agree], difficulty: medium, cognitive: application
+**Tags:** chapters: [21, 14], topics: [duress, felony-murder exception], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 19, conspiracy agreement requirement and Dixon v. United States (duress excuses but does not negate mens rea).
+**Grounding:** Chapter 21 (Necessity and Duress), felony-murder-duress-exception refinement.
 
-<!-- audit: MUST FIX
-Check 1: fail. Option (a) concludes that "A valid conspiracy was formed" based purely on the agreement and shared purpose. In jurisdictions requiring an overt act (a doctrine covered in Ch 19's `overt-act-minimal` tag), agreement and intent alone are legally insufficient to form a valid conspiracy without an overt act. Because the stem omits an overt act, a sharp student could invalidate (a).
-Check 2: pass. The distractors are conceptually sound and test plausible student misunderstandings.
-Check 3: pass. The explanation accurately articulates the doctrine that duress operates as an excuse defense rather than negating mens rea.
-Check 4: fail. Option (e) mentions "loading the accelerant into the car," which is a phantom fact that appears nowhere in the stem. The author likely deleted or forgot to include a sentence in the fact pattern.
-Check 5: fail. The stem does not specify the jurisdiction, leaving it ambiguous whether an overt act is required to complete the conspiracy formation. 
-Check 6: pass. No excluded-topic bleed.
-Check 7: fail. The question's tags only list Chapter 19, but the core doctrinal hinge (that duress operates as an excuse and does not negate mens rea) is a Chapter 21 concept (`justification-vs-excuse`, `burden-of-proof-duress`). 
-
-Recommended fix: 
-1. Add a sentence to the end of the stem: "After the agreement, Leo loaded an accelerant into Marcus's car." (This provides the missing fact for option (e) and completes the overt act requirement, saving option (a)).
-2. Update the tags to include Chapter 21, reflecting the cross-chapter synthesis of Conspiracy + Duress/Excuse defenses.
+<!-- audit: CLEAN
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: pass
+check 5: pass
+check 6: pass
+check 7: pass
 -->

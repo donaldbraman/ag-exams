@@ -1,17 +1,17 @@
-**Q6.** Assume that Dexter is prosecuted as an accomplice to the arson. The prosecution proves that Dexter knew exactly what Marcus planned to do with the accelerant but had no personal stake in the crime, simply charging triple the price to profit. Under the traditional standard for accomplice liability, is Dexter guilty?
+**Q6.** Dave is charged as an accomplice to the warehouse arson. Under the common law approach to accomplice liability, does Dave possess the required mental state to be convicted as an accomplice?
 
-(a) Yes, because by charging an exorbitant premium based on the illicit use of the goods, Dexter demonstrated a stake in the venture that allows an inference of purpose to facilitate the arson. <!-- correct -->
-(b) Yes, because a merchant who provides goods with mere knowledge that they will be used in a crime automatically satisfies the mens rea for accomplice liability.
-(c) No, because Dexter lacked the specific purpose to see the warehouse burn, as his sole motivation was to financially profit from the transaction rather than to destroy property.
-(d) No, because the sale of commercial-grade accelerant is a legal transaction, which categorically insulates the merchant from derivative liability regardless of pricing.
-(e) Yes, because the felony-murder rule extends to the foreseeable consequences of selling dangerous materials to known members of a criminal syndicate.
+(a) Yes, because he knew Marcus intended to burn the warehouse and his act of unlocking the door significantly facilitated the crime.
+(b) Yes, because his charging of a flat upfront fee demonstrates a shared criminal purpose to destroy Silas's waterfront property.
+(c) No, because taking a flat upfront fee and declaring "no stake in your beef" indicates he had knowledge but lacked the requisite purpose. <!-- correct -->
+(d) No, because he did not physically participate in pouring the gasoline or starting the fire inside the warehouse with the other men.
+(e) Yes, because any voluntary act that aids a felony automatically satisfies the mental state requirement for accomplice liability under the common law.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct. Under *People v. Lauria*, providing goods with mere knowledge of their illegal use is generally insufficient for accomplice liability, which requires the specific purpose to facilitate the crime. However, charging an exorbitant premium based on the illicit nature of the goods allows a jury to infer that the merchant has taken a stake in the venture, satisfying the purpose requirement. (b) is incorrect because mere knowledge does not automatically satisfy the traditional purpose standard. (c) is incorrect because the inflated price provides the evidentiary basis to infer the requisite purpose, defeating the claim of mere knowledge. (d) is incorrect because selling legal goods can constitute the actus reus for accomplice liability if accompanied by the required purpose. (e) is incorrect because the felony-murder rule applies to homicides, not to establishing baseline accomplice liability for property crimes.
+**Explanation:** Under the strict common law rule, an accomplice must act with the *purpose* of facilitating the underlying crime. Mere knowledge that a crime will occur is insufficient. Dave's statement that he had "no stake in your beef" and his charging of a flat upfront fee demonstrate knowledge of the arson but an explicit lack of purpose to see it succeed; he just wanted the $500. (a) is wrong because knowledge and facilitation are not enough under the strict purpose standard. (b) is wrong because a flat upfront fee (unlike a percentage cut) negates an inference of shared purpose. (d) is wrong because physical participation in the core actus reus is not required for accomplice liability. (e) is wrong because voluntary aiding requires the correct mens rea.
 
-**Tags:** chapters: [18], topics: [accomplice liability, purpose vs knowledge], difficulty: hard, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs. knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18, United States v. Peoni and People v. Lauria inference of purpose from inflated pricing.
+**Grounding:** Chapter 18 (Accomplice Liability), mr-purpose-not-knowledge refinement.
 
-<!-- grounding: GROUNDED-WITH-CAVEAT — Lauria three inferences, Ch 19, Refinement `lauria-three-inferences`. Caveat: The question tags this as Chapter 18 (Accomplice Liability), but the meta-map explicitly locates `lauria-three-inferences` in Chapter 19 (Conspiracy). Applying Lauria's "exorbitant premium" inference to accomplice liability is doctrinally accurate and bridges effectively with Ch 18's `mr-purpose-not-knowledge` refinement, but technically relies on a specific rule mapped to Ch 19. -->
+<!-- grounding: GROUNDED — Accomplice Liability Mens Rea (Purpose vs. Knowledge), Ch 18, Refinement `mr-purpose-not-knowledge`. Rule paraphrased accurately. -->

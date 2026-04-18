@@ -1,17 +1,17 @@
-**Q11.** Assume Leo is charged with the watchman's murder and raises an insanity defense. The defense presents undisputed evidence that, due to schizophrenia, Leo genuinely believed the watchman was a literal, non-human monster from hell and was completely unaware he was interacting with a human being. Under the *M'Naghten* test, does this evidence support an insanity acquittal?
+**Q11.** The prosecution expert testifies that Leo's antisocial personality disorder (APD) and voluntary meth use caused his aggressive reaction, not his schizophrenia. If the jury believes this expert, how will it affect Leo's insanity defense?
 
-(a) Yes, because Leo's delusion prevented him from knowing the true nature and quality of his act, as he did not understand he was physically killing a human being. <!-- correct -->
-(b) Yes, because Leo's psychotic break rendered him unable to conform his conduct to the requirements of the law, regardless of his cognitive understanding.
-(c) No, because Leo still formed the specific intent to kill the entity he perceived, satisfying the mens rea requirement for intentional homicide.
-(d) No, because the *M'Naghten* test requires proof that the defendant did not know the act was morally wrong, which is inapplicable to delusions about non-human entities.
-(e) Yes, because any defendant suffering from documented severe paranoid schizophrenia is automatically exempt from criminal responsibility under the common law.
+(a) The defense will succeed because APD is universally recognized as a qualifying mental disease under both the common law and the modern MPC.
+(b) The defense will fail because most statutes specifically exclude personality disorders from qualifying, and voluntary intoxication is not a valid basis for insanity. <!-- correct -->
+(c) The defense will succeed because co-occurring disorders automatically shift the burden to the prosecution to disprove the insanity claim beyond a reasonable doubt.
+(d) The defense will fail because the presence of any non-qualifying disorder instantly nullifies the legal effect of a diagnosed schizophrenic condition.
+(e) The defense will succeed because drug-induced psychosis is treated equivalently to permanent schizophrenia under the traditional M'Naghten standard of legal insanity.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct. The first prong of the *M'Naghten* test excuses a defendant if, due to a mental disease or defect, they did not know the "nature and quality" of their act. Because Leo genuinely believed he was shooting a non-human monster from hell, he lacked the cognitive capacity to understand that he was physically killing a human being. (b) is incorrect because the inability to conform conduct describes the volitional (irresistible impulse/MPC) test, not the cognitive *M'Naghten* standard. (c) is incorrect because the specific intent to kill a hallucinated entity does not defeat an insanity claim when the defendant fails to understand the reality of the act. (d) is incorrect because the wrongness prong is the second part of *M'Naghten*; failing the nature and quality prong is independently sufficient. (e) is incorrect because severe schizophrenia does not automatically exempt a defendant without satisfying the specific legal test.
+**Explanation:** Most jurisdictions exclude conditions manifested solely by repeated antisocial behavior (like APD) from the legal definition of a "mental disease or defect." Additionally, incapacity caused by voluntary intoxication is not a valid basis for the insanity defense. If the jury credits the prosecution expert that the APD and meth use were the *actual causes* of the incapacity, Leo lacks a causal link to a qualifying mental disease. (a) is wrong because APD is specifically excluded by most statutes. (c) is wrong because co-occurring disorders do not shift the burden of proof. (d) is wrong because the mere presence of APD does not nullify schizophrenia; the issue is which condition actually *caused* the incapacity (*State v. Meiser*). (e) is wrong because temporary drug-induced states are distinct from settled mental defects.
 
-**Tags:** chapters: [23], topics: [insanity, M'Naghten test, nature and quality], difficulty: easy, cognitive: application
+**Tags:** chapters: [23], topics: [insanity, personality disorder, voluntary intoxication], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 23, M'Naghten's Case and the cognitive incapacity prong.
+**Grounding:** Chapter 23 (The Insanity Defense), personality-disorder-exclusion and co-occurring-causation refinements.
 
-<!-- grounding: GROUNDED — M'Naghten test, Ch 23, Refinement `mnaghten-nature-quality`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — personality disorder exclusion and co-occurring causation, Ch 23, Refinement `personality-disorder-exclusion` and `co-occurring-causation`. Rule paraphrased accurately. -->

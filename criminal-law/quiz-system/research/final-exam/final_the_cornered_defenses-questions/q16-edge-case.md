@@ -1,18 +1,18 @@
-**Q16.** Assume Trey survives and is charged with possession of fentanyl with intent to distribute. The fentanyl was found in a hidden compartment in Trey's car, which was parked twenty feet away from where he was shot. The keys to the car were in Trey's pocket. How would a court evaluate the possession and intent elements?
+**Q16.** Silas is charged with possession of the 500 grams of fentanyl found in the lockbox in his girlfriend's trunk. Based on the elements of constructive possession, is there sufficient evidence to convict him?
 
-(a) Trey cannot be convicted of possession because he was twenty feet away from the vehicle, defeating the strict physical proximity requirement for establishing actual possession.
-(b) Trey possesses the drugs constructively because holding the keys demonstrates control of the vehicle, and the packaging and ledger allow an inference of intent to distribute. <!-- correct -->
-(c) Trey cannot be convicted of intent to distribute because the presence of a drug ledger is inadmissible character evidence that cannot be used to infer future sales.
-(d) Trey possesses the drugs constructively, but the intent to distribute cannot be inferred unless the prosecution proves Trey engaged in a physical hand-to-hand transaction that day.
-(e) Trey cannot be convicted of either charge because the drugs were located in a hidden compartment, legally establishing a presumption that he was unaware of their presence.
+(a) Yes, because his mere physical presence in a vehicle containing narcotics automatically establishes constructive possession as a matter of law.
+(b) Yes, because his admission of knowledge, combined with his sole occupancy of the vehicle, allows a jury to infer he had the power to control it. <!-- correct -->
+(c) No, because he did not have the key on his person, which legally precludes him from exercising the requisite dominion and control over the drugs.
+(d) No, because the vehicle was registered to his girlfriend, meaning only she could be legally charged with constructive possession of items hidden inside it.
+(e) Yes, because strict liability applies to Schedule I narcotics, rendering the specific elements of awareness and physical control legally irrelevant to the final charge.
 
 **Answer:** (b)
 
-**Explanation:** (b) is correct. Constructive possession requires the power and intent to exercise control over an item; holding the keys to the vehicle containing the hidden compartment firmly establishes this control. Furthermore, possessing 50 grams of fentanyl packaged in 25 individual baggies, alongside a detailed drug ledger, provides strong circumstantial evidence to infer an intent to distribute rather than personal use. (a) is incorrect because physical proximity is not required for constructive possession if control is established. (c) is incorrect because a drug ledger is highly relevant circumstantial evidence of the specific intent to distribute, not inadmissible character evidence. (d) is incorrect because intent to distribute can be inferred from quantity, packaging, and paraphernalia without proof of a completed transaction. (e) is incorrect because a hidden compartment in the defendant's own vehicle does not legally presume a lack of knowledge.
+**Explanation:** Constructive possession requires the prosecution to prove the defendant had both awareness of the contraband and the power and intent to exercise control over it. Silas's explicit admission of knowledge, combined with his sole occupancy of the vehicle, allows a jury to infer he had the requisite power to control the lockbox, even if he lacked the key at that exact moment. (a) is wrong because mere presence is insufficient without proof of knowledge and control. (c) is wrong because physical possession of a key is not an absolute legal requirement for controlling a box (e.g., he could carry the box away). (d) is wrong because legal ownership of the vehicle is not required to possess items inside it. (e) is wrong because strict liability does not eliminate the foundational possession elements.
 
-**Tags:** chapters: [15], topics: [constructive possession, intent to distribute], difficulty: easy, cognitive: application
+**Tags:** chapters: [15], topics: [constructive possession, drugs], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15, elements of constructive possession and PWID quantity inferences.
+**Grounding:** Chapter 15 (Drugs and Guns), cp-awareness-control refinement.
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

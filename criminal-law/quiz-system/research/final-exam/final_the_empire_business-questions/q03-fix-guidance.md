@@ -4,101 +4,127 @@ The QA pipeline flagged this question. Rewrite `q03.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q3.** Is Marcus liable as an accomplice to drug distribution based on his initial act of routing the trucks before Carmine threatened him?
+**Q3.** The U.S. Attorney wants to know if Marcus is liable as an accomplice for the underlying drug distribution. Is Marcus guilty of accomplice liability?
 
-(a) Not liable, because he lacked the specific purpose to promote or facilitate the drug distribution, having only knowledge and receiving his regular salary. <!-- correct -->
-(b) Liable, because his knowledge of the illegal drug activity combined with his voluntary affirmative act of routing the trucks satisfies the requisite mens rea.
-(c) Not liable, because an employee of a legitimate corporation cannot be held liable as an accomplice for performing their ordinary, pre-existing job duties.
-(d) Liable, because he acted recklessly by continuing to route the trucks while consciously disregarding the substantial risk that they contained illegal drugs.
-(e) Not liable, because he expressly communicated his non-participation to Carmine, which legally constitutes an effective withdrawal from the criminal scheme.
+(a) Guilty of accomplice liability, because Marcus knew his routing would facilitate the distribution of narcotics and performed an act that materially aided the principal's crime.
+(b) Not guilty of accomplice liability, because Marcus lacked the conscious object or purpose to see the underlying drug trafficking offense successfully completed by the principals. <!-- correct -->
+(c) Guilty of accomplice liability, because receiving his regular salary constitutes a financial stake that elevates his knowledge to a true purposeful intent under the law.
+(d) Not guilty of accomplice liability, because routing trucks around weigh stations is part of his normal job and therefore cannot constitute a culpable actus reus.
+(e) Guilty of accomplice liability, because the model penal code only requires a showing of extreme recklessness when the underlying crime involves highly dangerous controlled substances.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Accomplice liability requires the purpose to promote or facilitate the underlying offense. Mere knowledge of the crime, combined with providing ordinary commercial services for a regular salary without a stake in the venture, is insufficient to establish purpose. (b) is wrong because knowledge is not enough for accomplice liability; the standard is purpose. (c) is wrong because performing ordinary job duties can constitute actus reus for accomplice liability if done with the requisite purpose. (d) is wrong because recklessness does not satisfy the mens rea requirement for accomplice liability, which requires purpose as to the conduct. (e) is wrong because his verbal statement merely clarified his mental state (lack of purpose); he actually performed the routing, so he didn't "withdraw" from an act he executed.
+**Explanation:** Under the traditional rule for accomplice liability, a defendant must have the specific purpose (conscious object) to promote or facilitate the underlying offense. Because Marcus explicitly stated he only wanted his regular salary and had no stake in the drug money, he possessed mere knowledge, not the required purpose. (a) is incorrect because mere knowledge that one's actions will aid a crime is insufficient for accomplice liability in most jurisdictions. (c) is incorrect because receiving a standard, pre-existing salary for normal duties does not constitute a specialized financial stake in the success of the illicit venture. (d) is incorrect because routing trucks is an affirmative act, not an omission. (e) is incorrect because the MPC strictly requires the purpose to promote or facilitate the offense, not recklessness, for accomplice liability.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, mens-rea, purpose-vs-knowledge], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 - Mens Rea (Purpose) / Lauria
+**Grounding:** Accomplice mens rea; Purpose requirement
 
-<!-- audit: SHOULD FIX
-check 1: pass
-check 2: pass (Option B is safely incorrect because it states knowledge *satisfies* the mens rea, rather than correctly noting that purpose is required but could potentially be *inferred* from knowledge under certain exceptions).
-check 3: finding (The explanation asserts that knowledge plus ordinary services is "insufficient to establish purpose." While true on standard facts, the explanation completely glosses over the `lauria-three-inferences` taught in Ch 19, where knowledge *can* establish purpose if there is no legitimate use, disproportionate volume, or a particularly serious felony. The explanation should briefly close these loopholes).
-check 4: finding (The stem relies heavily on an external/global fact pattern ("Marcus", "Carmine", "routing the trucks"). To safely lead to option A, the global facts *must* explicitly establish that Marcus receives only his flat, regular salary (no cut/bonus from the drugs) and that the volume of routing isn't disproportionately driven by the illegal activity. Otherwise, students will argue the `lauria-three-inferences` apply).
-check 5: pass
-check 6: pass
-check 7: pass (Ties neatly to `mr-purpose-not-knowledge` in Ch 18 and `lauria-knowledge-vs-purpose` in Ch 19).
-Recommended fix: Verify the master fact pattern explicitly limits Marcus's compensation to a flat rate with no "stake in the venture" and no disproportionate volume. Update the explanation to briefly acknowledge that none of the *Lauria* exceptions (which allow inferring purpose from knowledge) apply to these facts.
+<!-- audit: MUST FIX
+1: pass
+2: pass
+3: pass
+4: FAILS - The entire fact pattern is missing from the question. The stem begins with the call of the question about "Marcus" without providing any facts about who Marcus is, what he did, or his mental state.
+5: pass
+6: pass
+7: pass
+Recommended fix: Add the missing fact pattern to the stem, detailing Marcus's actions (routing trucks) and his statements regarding his regular salary and knowledge of the drug distribution.
 -->
 
-## Issue 2 — argpass-sonnet
+## Issue 2 — edge-case
 
-**Q3.** Is Marcus liable as an accomplice to drug distribution based on his initial act of routing the trucks before Carmine threatened him?
+**Q3.** The U.S. Attorney wants to know if Marcus is liable as an accomplice for the underlying drug distribution. Is Marcus guilty of accomplice liability?
 
-(a) Not liable, because he lacked the specific purpose to promote or facilitate the drug distribution, having only knowledge and receiving his regular salary. <!-- correct -->
-(b) Liable, because his knowledge of the illegal drug activity combined with his voluntary affirmative act of routing the trucks satisfies the requisite mens rea.
-(c) Not liable, because an employee of a legitimate corporation cannot be held liable as an accomplice for performing their ordinary, pre-existing job duties.
-(d) Liable, because he acted recklessly by continuing to route the trucks while consciously disregarding the substantial risk that they contained illegal drugs.
-(e) Not liable, because he expressly communicated his non-participation to Carmine, which legally constitutes an effective withdrawal from the criminal scheme.
+(a) Guilty of accomplice liability, because Marcus knew his routing would facilitate the distribution of narcotics and performed an act that materially aided the principal's crime.
+(b) Not guilty of accomplice liability, because Marcus lacked the conscious object or purpose to see the underlying drug trafficking offense successfully completed by the principals. <!-- correct -->
+(c) Guilty of accomplice liability, because receiving his regular salary constitutes a financial stake that elevates his knowledge to a true purposeful intent under the law.
+(d) Not guilty of accomplice liability, because routing trucks around weigh stations is part of his normal job and therefore cannot constitute a culpable actus reus.
+(e) Guilty of accomplice liability, because the model penal code only requires a showing of extreme recklessness when the underlying crime involves highly dangerous controlled substances.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Accomplice liability requires the purpose to promote or facilitate the underlying offense. Mere knowledge of the crime, combined with providing ordinary commercial services for a regular salary without a stake in the venture, is insufficient to establish purpose. (b) is wrong because knowledge is not enough for accomplice liability; the standard is purpose. (c) is wrong because performing ordinary job duties can constitute actus reus for accomplice liability if done with the requisite purpose. (d) is wrong because recklessness does not satisfy the mens rea requirement for accomplice liability, which requires purpose as to the conduct. (e) is wrong because his verbal statement merely clarified his mental state (lack of purpose); he actually performed the routing, so he didn't "withdraw" from an act he executed.
+**Explanation:** Under the traditional rule for accomplice liability, a defendant must have the specific purpose (conscious object) to promote or facilitate the underlying offense. Because Marcus explicitly stated he only wanted his regular salary and had no stake in the drug money, he possessed mere knowledge, not the required purpose. (a) is incorrect because mere knowledge that one's actions will aid a crime is insufficient for accomplice liability in most jurisdictions. (c) is incorrect because receiving a standard, pre-existing salary for normal duties does not constitute a specialized financial stake in the success of the illicit venture. (d) is incorrect because routing trucks is an affirmative act, not an omission. (e) is incorrect because the MPC strictly requires the purpose to promote or facilitate the offense, not recklessness, for accomplice liability.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, mens-rea, purpose-vs-knowledge], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 - Mens Rea (Purpose) / Lauria
+**Grounding:** Accomplice mens rea; Purpose requirement
 
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under the *Lauria* standard (and Model Penal Code § 2.06), accomplice liability requires that the defendant act with the specific purpose of promoting or facilitating the underlying offense. Providing ordinary commercial services with mere knowledge of the criminal enterprise—without a financial stake in the venture, disproportionate volume, or lack of legitimate use—does not establish this purpose. Marcus received his regular salary and only possessed knowledge, so he lacked the requisite mens rea.
-(b) Argument-for: A student might argue that drug distribution is a serious felony. Under cases like *United States v. Fountain*, a provider of services can sometimes be held liable based on knowledge alone if the underlying crime is sufficiently severe. Since Marcus committed a voluntary affirmative act by routing the trucks, a student could conclude that this act, combined with knowledge, satisfies the mens rea.
-(c) Argument-for: A student could argue that legitimate corporate employees performing routine, pre-existing duties lack the necessary actus reus or mens rea for criminal complicity. Their actions are legally attributed to the business's normal operations rather than the criminal enterprise. Therefore, they might contend that such employees categorically cannot be held liable as accomplices simply for doing their jobs.
-(d) Argument-for: A student might argue that because Marcus was aware of a substantial and unjustifiable risk that the trucks contained illegal drugs and continued routing them anyway, he acted recklessly. In some contexts, lower mens rea levels can intersect with complicity doctrines. By confusing the mens rea for the underlying crime with the mens rea for complicity, they might conclude recklessness satisfies the accomplice liability standard here.
-(e) Argument-for: Withdrawal is a recognized defense to accomplice liability. A student could argue that by expressly communicating his non-participation to Carmine, Marcus legally severed his ties to the criminal scheme before the ultimate crime reached completion. They might conclude this verbal renunciation satisfies the requirements for an effective withdrawal.
-
-Head-to-head: Option (a) correctly applies the dominant *Lauria* standard that ordinary commercial services plus mere knowledge does not equal purpose. Option (b) is a strong distractor but asserts that knowledge + an affirmative act "satisfies" the mens rea, which is generally false under the majority common law and MPC standard requiring purpose. Option (c) relies on a blatantly false categorical rule ("cannot be held liable"). Option (d) incorrectly substitutes recklessness for purpose. Option (e) claims verbal communication "legally constitutes" withdrawal, falsely ignoring the requirement to neutralize prior physical assistance. However, (b) and (d) lack absolute locking words, making them potentially vulnerable to arguments based on minority rules or exceptions.
-
-Falsifiable claim per distractor:
-- (b): "satisfies the requisite mens rea" — wrong because knowledge alone is generally insufficient for accomplice liability (which requires purpose), but lacks an absolute word to preclude minority jurisdiction arguments where knowledge suffices for serious felonies.
-- (c): "cannot be held liable" — wrong because ordinary job duties can constitute actus reus if accompanied by the purpose to facilitate the crime.
-- (d): "he acted recklessly... [which] satisfies" [implicit] — wrong because recklessness as to the conduct is legally insufficient for accomplice liability, though it lacks an explicit absolute.
-- (e): "legally constitutes an effective withdrawal" — wrong because effective withdrawal requires neutralizing the assistance provided (routing the trucks), not merely verbalizing non-participation.
-
-Recommended fix: Lock (b) and (d) with absolute language. Edit (b) to: "Liable, because his knowledge of the illegal drug activity combined with his voluntary affirmative act of routing the trucks automatically satisfies the requisite mens rea." Edit (d) to: "Liable, because acting recklessly categorically satisfies the mens rea requirement for accomplice liability."
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The fact that Marcus routed the trucks *around state weigh stations* triggers the "tailoring of services" exception for inferring purpose (often taught via *People v. Lauria*). While Marcus lacks a direct financial stake, his affirmative act of altering his service specifically to conceal the criminal activity allows a jury to infer purpose. Furthermore, under federal law (which the "U.S. Attorney" prompt implies), *Rosemond v. United States* holds that active participation with advance knowledge of the crime establishes the requisite intent. This makes (a) a highly defensible—if not the correct—answer in this context.
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: Q3 structurally spoils Q4. If students learn in Q3 that Marcus is categorically "Not guilty" because a regular salary precludes the mens rea of purpose, he remains completely innocent for the subsequent four months of routing. This renders the duress defense tested in Q4 legally moot, as an affirmative defense is unnecessary if the defendant never met the prima facie mens rea elements of the crime.
+Recommended fix: To resolve the booby trap, amend the question stem to clarify the jurisdiction (e.g., "Applying the strict Model Penal Code standard..."). To fix the Q4 spoiler, ensure Q4's future stem begins with: "Assume for the purposes of this question that Marcus's actions satisfy the prima facie elements of accomplice liability..."
 -->
 
-## Issue 3 — argpass-opus
+## Issue 3 — argpass-sonnet
 
-**Q3.** Is Marcus liable as an accomplice to drug distribution based on his initial act of routing the trucks before Carmine threatened him?
+**Q3.** The U.S. Attorney wants to know if Marcus is liable as an accomplice for the underlying drug distribution. Is Marcus guilty of accomplice liability?
 
-(a) Not liable, because he lacked the specific purpose to promote or facilitate the drug distribution, having only knowledge and receiving his regular salary. <!-- correct -->
-(b) Liable, because his knowledge of the illegal drug activity combined with his voluntary affirmative act of routing the trucks satisfies the requisite mens rea.
-(c) Not liable, because an employee of a legitimate corporation cannot be held liable as an accomplice for performing their ordinary, pre-existing job duties.
-(d) Liable, because he acted recklessly by continuing to route the trucks while consciously disregarding the substantial risk that they contained illegal drugs.
-(e) Not liable, because he expressly communicated his non-participation to Carmine, which legally constitutes an effective withdrawal from the criminal scheme.
+(a) Guilty of accomplice liability, because Marcus knew his routing would facilitate the distribution of narcotics and performed an act that materially aided the principal's crime.
+(b) Not guilty of accomplice liability, because Marcus lacked the conscious object or purpose to see the underlying drug trafficking offense successfully completed by the principals. <!-- correct -->
+(c) Guilty of accomplice liability, because receiving his regular salary constitutes a financial stake that elevates his knowledge to a true purposeful intent under the law.
+(d) Not guilty of accomplice liability, because routing trucks around weigh stations is part of his normal job and therefore cannot constitute a culpable actus reus.
+(e) Guilty of accomplice liability, because the model penal code only requires a showing of extreme recklessness when the underlying crime involves highly dangerous controlled substances.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Accomplice liability requires the purpose to promote or facilitate the underlying offense. Mere knowledge of the crime, combined with providing ordinary commercial services for a regular salary without a stake in the venture, is insufficient to establish purpose. (b) is wrong because knowledge is not enough for accomplice liability; the standard is purpose. (c) is wrong because performing ordinary job duties can constitute actus reus for accomplice liability if done with the requisite purpose. (d) is wrong because recklessness does not satisfy the mens rea requirement for accomplice liability, which requires purpose as to the conduct. (e) is wrong because his verbal statement merely clarified his mental state (lack of purpose); he actually performed the routing, so he didn't "withdraw" from an act he executed.
+**Explanation:** Under the traditional rule for accomplice liability, a defendant must have the specific purpose (conscious object) to promote or facilitate the underlying offense. Because Marcus explicitly stated he only wanted his regular salary and had no stake in the drug money, he possessed mere knowledge, not the required purpose. (a) is incorrect because mere knowledge that one's actions will aid a crime is insufficient for accomplice liability in most jurisdictions. (c) is incorrect because receiving a standard, pre-existing salary for normal duties does not constitute a specialized financial stake in the success of the illicit venture. (d) is incorrect because routing trucks is an affirmative act, not an omission. (e) is incorrect because the MPC strictly requires the purpose to promote or facilitate the offense, not recklessness, for accomplice liability.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, mens-rea, purpose-vs-knowledge], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 - Mens Rea (Purpose) / Lauria
+**Grounding:** Accomplice mens rea; Purpose requirement
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under the majority rule (e.g., *People v. Lauria*), an individual providing ordinary goods or services is not liable as an accomplice unless they have the specific purpose to promote or facilitate the crime. Mere knowledge of the criminal use, combined with standard compensation (a regular salary) and no stake in the venture, is insufficient to establish this purpose. Because Marcus only had knowledge and lacked purpose, he is correctly not liable.
-(b) Argument-for: A student could argue that in certain jurisdictions or under specific circumstances (such as serious felonies), knowledge of the crime combined with an affirmative act of facilitation is sufficient for accomplice liability. By routing the trucks with knowledge of the illegal drugs, Marcus met the knowledge standard. Therefore, his actions and mental state satisfy the requisite mens rea.
-(c) Argument-for: A student might argue that routine, pre-existing corporate duties are shielded from accomplice liability to protect ordinary workers. By claiming that an employee "cannot be held liable" for performing ministerial job duties, this option appeals to the intuition that corporate cogs are not accomplices without an active departure from their ordinary role.
-(d) Argument-for: Under certain interpretations of the Model Penal Code § 2.06, recklessness can suffice for the result element of an offense. A student could extend this logic to argue that by consciously disregarding the substantial risk that the trucks contained illegal drugs, Marcus acted recklessly, which is sufficient mens rea to make him liable for the distribution.
-(e) Argument-for: Withdrawal (or renunciation) is a recognized affirmative defense to accomplice liability. A student could argue that Marcus legally severed his complicity by expressly communicating his non-participation to Carmine. This verbal communication effectively acts as a revocation of his intent, constituting a valid legal withdrawal from the scheme.
+(a) Argument-for: A student could argue that under certain common law precedents (e.g., the serious-felony exception in *People v. Lauria* or the standard applied in *Backun*), mere knowledge that one's actions will materially assist a serious offense like drug distribution is legally sufficient to establish the mens rea for accomplice liability. Since the question does not specify a jurisdiction or limit the analysis to the majority purpose standard, the facts legally support a guilty verdict under the minority rule.
+(b) Argument-for: A student could argue that under both the Model Penal Code and the traditional majority common-law rule, an accomplice must act with the conscious object or specific purpose to promote or facilitate the crime. Because Marcus only wanted his regular salary and had no stake in the venture, his mere knowledge does not rise to the required purpose, rendering him not guilty.
+(c) Argument-for: A student might recall that under *Lauria*, a financial stake in an illicit venture can elevate mere knowledge to purpose. They could argue that because Marcus is receiving a salary for work that he knows involves routing around weigh stations to shield drugs, his continued employment effectively constitutes a "financial stake" that satisfies the elevated mens rea standard.
+(d) Argument-for: A student could argue that the actus reus of a crime generally must involve inherently wrongful conduct. Because routing trucks is Marcus's standard, legitimate job duty, performing his everyday employment obligations cannot be classified as a culpable affirmative act for the purposes of criminal complicity. 
+(e) Argument-for: A student could argue that while the Model Penal Code typically requires purpose, there is a sliding scale for mens rea when extreme public dangers are involved. They might falsely recall an MPC carve-out where highly dangerous crimes (like distributing large quantities of controlled substances) lower the complicity threshold to extreme recklessness.
 
-Head-to-head: Option (a) is the strongest and correctly applies the *Lauria* rule requiring specific purpose for providers of ordinary services. However, option (b) poses a risk because the knowledge-versus-purpose standard varies; in some jurisdictions, or for particularly serious felonies, knowledge *can* satisfy the mens rea. Without an absolute modifier, (b) is not strictly falsifiable as universally false. Option (c) is cleanly falsified by the absolute "cannot." Option (d) incorrectly applies the recklessness standard to a conduct crime, but could also benefit from an absolute lock. Option (e) is false because effective withdrawal requires wholly depriving prior assistance of its effectiveness, not merely a verbal disclaimer while still performing the act. 
+Head-to-head:
+Option (b) correctly applies the majority common law and MPC standard that accomplice liability requires the specific purpose to promote or facilitate the offense. Option (c) relies on a falsifiable claim about what legally constitutes a financial stake under *Lauria*. Option (d) contains a falsifiable claim about actus reus, wrongly asserting that everyday job duties cannot constitute an actus reus. Option (e) is readily falsifiable because the MPC does not contain an "extreme recklessness" exception for controlled substances in its complicity statute. Option (a), however, relies entirely on the minority/alternative standard (where knowledge + material aid suffices for serious felonies). Because the prompt does not specify the jurisdiction and the option does not contain absolute language (e.g., "in every jurisdiction"), (a) technically contains a legally true statement under minority common law, lacking a clear falsifiable error. 
 
 Falsifiable claim per distractor:
-- (b): "satisfies the requisite mens rea" — wrong under the majority rule, but arguably true in minority knowledge-standard jurisdictions; lacks an absolute word to make it definitively false.
-- (c): "cannot be held liable" — wrong because an employee certainly can be liable if they perform their duties with the specific purpose of facilitating the crime.
-- (d): "because he acted recklessly... [which makes him liable]" — wrong because accomplice liability generally requires purpose as to the conduct, but lacks an absolute lock regarding the sufficiency of recklessness.
-- (e): "legally constitutes an effective withdrawal" — wrong because verbal communication alone does not legally constitute withdrawal if the defendant actually still provides the instrumental assistance.
+- (a): None. Option (a) asserts liability based on knowledge and material aid. This is a valid minority rule (e.g., for serious felonies) and the option lacks absolute modifiers (like "categorically" or "always") to render it explicitly false across the board.
+- (c): "...receiving his regular salary constitutes a financial stake that elevates his knowledge to a true purposeful intent under the law." — wrong because receiving a standard, pre-existing salary for ordinary duties does not legally constitute the kind of specialized financial stake (like a premium or percentage of illicit profits) required to elevate knowledge to purpose.
+- (d): "...and therefore cannot constitute a culpable actus reus." — wrong because otherwise lawful, everyday job duties absolutely can constitute an actus reus for complicity if performed with the requisite mens rea.
+- (e): "...because the model penal code only requires a showing of extreme recklessness when the underlying crime involves highly dangerous controlled substances." — wrong because the MPC complicity provisions strictly require the purpose of promoting or facilitating the offense and do not lower the standard to recklessness specifically for dangerous controlled substances.
 
-Recommended fix: Lock (b) by changing it to "Liable, because knowledge of an illegal activity combined with a voluntary act automatically satisfies the requisite mens rea in all jurisdictions." Lock (d) by changing "Liable, because he acted recklessly" to "Liable, because recklessness categorically satisfies the mens rea for accomplice liability."
+Recommended fix: Edit (a) to include a categorically false legal claim. For example: "(a) Guilty of accomplice liability, because under the traditional common-law rule, mere knowledge that an act will facilitate a crime is categorically sufficient for accomplice liability in every jurisdiction." Alternatively, add "Under the majority rule..." to the question stem.
+-->
+
+## Issue 4 — argpass-opus
+
+**Q3.** The U.S. Attorney wants to know if Marcus is liable as an accomplice for the underlying drug distribution. Is Marcus guilty of accomplice liability?
+
+(a) Guilty of accomplice liability, because Marcus knew his routing would facilitate the distribution of narcotics and performed an act that materially aided the principal's crime.
+(b) Not guilty of accomplice liability, because Marcus lacked the conscious object or purpose to see the underlying drug trafficking offense successfully completed by the principals. <!-- correct -->
+(c) Guilty of accomplice liability, because receiving his regular salary constitutes a financial stake that elevates his knowledge to a true purposeful intent under the law.
+(d) Not guilty of accomplice liability, because routing trucks around weigh stations is part of his normal job and therefore cannot constitute a culpable actus reus.
+(e) Guilty of accomplice liability, because the model penal code only requires a showing of extreme recklessness when the underlying crime involves highly dangerous controlled substances.
+
+**Answer:** (b)
+
+**Explanation:** Under the traditional rule for accomplice liability, a defendant must have the specific purpose (conscious object) to promote or facilitate the underlying offense. Because Marcus explicitly stated he only wanted his regular salary and had no stake in the drug money, he possessed mere knowledge, not the required purpose. (a) is incorrect because mere knowledge that one's actions will aid a crime is insufficient for accomplice liability in most jurisdictions. (c) is incorrect because receiving a standard, pre-existing salary for normal duties does not constitute a specialized financial stake in the success of the illicit venture. (d) is incorrect because routing trucks is an affirmative act, not an omission. (e) is incorrect because the MPC strictly requires the purpose to promote or facilitate the offense, not recklessness, for accomplice liability.
+
+**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge], difficulty: medium, cognitive: application
+
+**Grounding:** Accomplice mens rea; Purpose requirement
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student could argue that Marcus is guilty under the knowledge standard used in a minority of jurisdictions. Some courts have held that providing material assistance with knowledge of the criminal nature of the enterprise is sufficient for accomplice liability, particularly for serious crimes. The option accurately states the factual premise—Marcus had knowledge and materially aided the crime—which would arguably satisfy the elements of accomplice liability in those specific jurisdictions.
+(b) Argument-for: This option perfectly captures the traditional specific intent standard for accomplice liability, as established in cases like *United States v. Peoni* and adopted by the Model Penal Code. To be an accomplice, the defendant must act with the "conscious object" or purpose to promote or facilitate the underlying offense. Because Marcus merely wanted his regular salary and lacked the conscious object to see the drug trafficking succeed, he lacked the requisite purpose, making this the correct legal conclusion.
+(c) Argument-for: A student might select this option by attempting to apply the *People v. Lauria* standard, which allows an inference of purposeful intent from mere knowledge if the defendant has a "stake in the venture." The student could argue that because Marcus receives his livelihood from an operation engaged in illicit activities, his continued salary operates as a financial stake that legally elevates his knowledge to purposeful intent.
+(d) Argument-for: A student could defend this option by arguing that the actus reus for accomplice liability requires conduct outside one's ordinary, innocent employment duties. Because routing trucks is his standard job description, a student might assert that performing a routine employment obligation is legally insufficient to constitute a culpable affirmative act.
+(e) Argument-for: A student might argue this by conflating the *Lauria* dictum—that intent might be inferred from knowledge for inherently dangerous felonies—with the Model Penal Code's specific mens rea standards. The student could incorrectly recall that the MPC expressly lowers the mens rea requirement to extreme recklessness when the underlying offense involves highly dangerous controlled substances.
+
+Head-to-head: Option (b) is the strongest because it correctly identifies the prevailing federal and majority rule requiring purposeful intent (conscious object) for accomplice liability, which appropriately answers the "U.S. Attorney" prompt. Option (c) fails because it legally mischaracterizes a regular salary as a "stake in the venture." Option (d) invents a false categorical rule that ordinary job duties cannot satisfy the actus reus requirement. Option (e) relies on an explicitly fabricated MPC rule regarding extreme recklessness. However, Option (a) presents a slight issue: while it is incorrect under the federal/majority rule, it merely states that Marcus is guilty because he knew his routing would facilitate the crime and aided it. Because it lacks absolute phrasing to lock in a universal legal falsehood, it could be argued as factually accurate in jurisdictions that apply a minority knowledge standard. The keyed answer (b) is clearly best, but (a) needs a falsifiable claim to pass the close-call standard.
+
+Falsifiable claim per distractor:
+- (a): Lacks a clearly falsifiable legal claim. It merely states a factual application ("because Marcus knew... and performed an act") that is legally sufficient in a minority of jurisdictions. It needs absolute wording to be demonstrably false.
+- (c): "receiving his regular salary constitutes a financial stake that elevates his knowledge to a true purposeful intent under the law" — wrong because under *Lauria*, a normal salary or standard pricing explicitly does not constitute a "stake in the venture."
+- (d): "is part of his normal job and therefore cannot constitute a culpable actus reus" — wrong because ordinary job duties absolutely can constitute the actus reus for accomplice liability if performed with the requisite mens rea.
+- (e): "the model penal code only requires a showing of extreme recklessness when the underlying crime involves highly dangerous controlled substances" — wrong because the MPC categorically requires purpose to promote or facilitate the offense, not extreme recklessness.
+
+Recommended fix: Edit (a) to include an absolute falsifiable claim. For example: "(a) Guilty of accomplice liability, because knowledge that one's actions will facilitate a crime is categorically sufficient to establish accomplice mens rea regardless of the jurisdiction."
 -->

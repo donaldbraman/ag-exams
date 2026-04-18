@@ -4,29 +4,29 @@ The QA pipeline flagged this question. Rewrite `q12.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q12.** Is Dominic guilty of felony murder for the death of Victor?
+**Q12.** Dominic was arrested outside Elias's home. Assume the jurisdiction follows the MPC substantial step test. Is Dominic guilty of attempted murder?
 
-(a) Yes, because Victor's death occurred during the perpetration of an inherently dangerous felony, regardless of Dominic's specific intent to kill. <!-- correct -->
-(b) No, because Victor's decision to resist by throwing the ledger constituted an independent intervening cause that severed the chain of liability.
-(c) Yes, because extortion is an enumerated malum prohibitum offense that triggers strict liability for any deaths that occur on the premises.
-(d) No, because the felony murder rule only applies when the defendant kills a bystander, not when the actual victim of the underlying felony is killed.
-(e) Yes, because the agency approach to felony murder requires the fatal act to be committed by someone unaffiliated with the criminal enterprise.
+(a) Yes, because taking a concealed firing position and tracking the target strongly corroborates his criminal purpose and constitutes a substantial step toward the intended killing. <!-- correct -->
+(b) No, because he had not yet pulled the trigger, meaning he could have still voluntarily abandoned his effort before any actual physical harm was inflicted upon Elias.
+(c) Yes, because the mere purchase of the sniper rifle with the specific premeditated intent to kill Elias is legally sufficient to satisfy the substantial step requirement.
+(d) No, because the sudden FBI intervention made it factually impossible for him to complete the crime, which provides a complete defense under the modern Model Penal Code.
+(e) Yes, because his previous success in killing Victor demonstrates a pattern of violence that satisfies the objective requirements of the attempt actus reus element for the current charge.
 
 **Answer:** (a)
 
-**Explanation:** Felony murder applies when a death occurs in the perpetration of an inherently dangerous felony (such as armed extortion or robbery). It functions as a strict liability substitution for the malice requirement. (b) is wrong because victim resistance is highly foreseeable during a violent felony and does not break the causal chain. (c) is wrong because extortion is malum in se (wrong in itself), not malum prohibitum. (d) is wrong because felony murder frequently applies when the target of the felony is killed. (e) is wrong because the agency approach limits liability when a non-felon (like police or a victim) does the killing; here, the felon himself (Dominic) pulled the trigger.
+**Explanation:** Under the MPC's substantial step test, taking a concealed firing position and tracking the target through a scope strongly corroborates Dominic's criminal purpose and easily constitutes a substantial step. (b) is incorrect because the MPC does not require the defendant to reach the "last act," and while abandonment is a defense, it must be completely voluntary, not thwarted by police intervention. (c) is incorrect because mere preparation, such as buying a weapon, is typically insufficient even under the MPC's broader standard unless accompanied by acts closer to the crime. (d) is incorrect because the MPC explicitly rejects factual impossibility as a defense to attempt. (e) is incorrect because a defendant's past criminal history is not an actus reus element of the current attempt charge.
 
-**Tags:** chapters: [14], topics: [felony-murder, inherently-dangerous-felony], difficulty: foundational, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, actus reus, substantial step, MPC], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 14 - strict-liability-substitution
+**Grounding:** MPC 5.01; Substantial step test
 
 <!-- audit: MUST FIX
-Check 1: Fails. Extortion is not universally considered an "inherently dangerous felony." In jurisdictions that use the abstract "elements" approach, extortion often fails this test because the statute can be violated in non-dangerous ways (e.g., blackmail/reputational threats). 
-Check 2: Pass. The distractors are not legally defensible.
-Check 3: Fails. The explanation confidently asserts extortion is inherently dangerous, ignoring the `elements-vs-facts-approach` split explicitly taught in Chapter 14. 
-Check 4: Fails. The stem is entirely missing the fact pattern (likely orphaned from a multi-question scenario). Even assuming the facts from the explanation, it lacks the jurisdictional facts needed to assess extortion.
-Check 5: Fails. The question hinges on an unenumerated felony (extortion) without stipulating whether the jurisdiction uses the elements-in-the-abstract or facts-as-committed approach to determine inherent dangerousness. 
-Check 6: Pass.
-Check 7: Pass. Doctrinal tags properly align with Chapter 14.
-Recommended fix: Reattach the fact pattern. To avoid the unenumerated felony jurisdictional split entirely, change the underlying felony in the facts and the options from "extortion" to "robbery" (a classically enumerated and inherently dangerous felony).
+Check 1: pass (Assuming the facts existed in the stem, the legal conclusion accurately applies the MPC substantial step test).
+Check 2: pass
+Check 3: pass
+Check 4: FAILS. The stem is entirely missing the factual scenario. It only states that Dominic was arrested outside Elias's home. The options and explanation reference facts that are nowhere in the stem (e.g., taking a concealed firing position, tracking the target through a scope, buying a sniper rifle, FBI intervention, and previously killing Victor). A student cannot answer this without the facts.
+Check 5: pass
+Check 6: pass
+Check 7: pass (MPC substantial step is covered in Ch 17).
+Recommended fix: Insert the missing factual scenario into the stem (e.g., "Dominic bought a sniper rifle, went to Elias's home, took a concealed firing position, and was tracking Elias through the scope when the FBI suddenly intervened and arrested him...").
 -->

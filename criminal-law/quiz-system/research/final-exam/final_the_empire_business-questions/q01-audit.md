@@ -1,26 +1,26 @@
-**Q1.** Is Pinnacle Waste a valid RICO enterprise despite being a lawfully chartered corporation with a legitimate primary business?
+**Q1.** Is Pinnacle Waste Management a valid RICO enterprise under 18 U.S.C. § 1962(c)?
 
-(a) Valid, because a legitimate corporation can serve as a RICO enterprise when its ordinary business structure is repurposed to conduct or facilitate illegal racketeering activity. <!-- correct -->
-(b) Invalid, because a lawfully chartered corporation with a legitimate primary business cannot legally be classified simultaneously as a criminal association-in-fact enterprise.
-(c) Invalid, because the government must establish that the organizational structure had an exclusively criminal purpose rather than a mixed or predominantly legal business purpose.
-(d) Valid, but only if the executives formalized their illegal extortion agreements into the official corporate bylaws or official charter documents of the company.
-(e) Invalid, because a corporate enterprise requires all employees, including the civilian dispatchers, to be consciously aware of the underlying illegal racketeering activity.
+(a) Yes, because a legitimate corporation can constitute a RICO enterprise when its formal business structure is repurposed to facilitate racketeering activity. <!-- correct -->
+(b) Yes, because any business owned by a person who commits two or more racketeering acts automatically becomes an enterprise under the statute.
+(c) No, because a lawfully chartered corporation with legitimate operations cannot serve as an enterprise for racketeering purposes under federal law.
+(d) No, because an association-in-fact enterprise requires a criminal purpose distinct from the corporation's legal charter and legitimate business operations.
+(e) No, because the dispatch center and billing department were used for separate schemes, creating a hub-and-spoke structure without a rim.
 
 **Answer:** (a)
 
-**Explanation:** A legitimate corporation can constitute a RICO enterprise when its ordinary business structure—such as its dispatch center and billing department—is repurposed to conduct or facilitate racketeering activity. (b) is wrong because courts routinely hold that lawful entities can serve as the enterprise. (c) is wrong because an enterprise need not have an exclusively criminal purpose to satisfy the statute. (d) is wrong because the lawfulness of the formal charter does not shield the entity, nor does RICO require illegal bylaws. (e) is wrong because an enterprise does not require every employee to be aware of the illegal nature of the operations; only the participants charged must have the requisite nexus.
+**Explanation:** (a) is correct because under *Insys Therapeutics*, a legitimate corporation can constitute a RICO enterprise when its formal business structure (here, the dispatch and billing departments) is repurposed to conduct or facilitate racketeering activity. (b) is incorrect because an enterprise requires structural features (shared purpose, relationships, longevity) beyond merely being owned by a criminal. (c) is incorrect because RICO explicitly covers lawful entities corrupted for unlawful ends. (d) is incorrect because an association-in-fact enterprise need broadly have a purpose completely distinct from the corporation's charter if the structure itself is used for racketeering. (e) is incorrect because the dispatch and billing departments provided the "rim" connecting the operations, satisfying the enterprise structure requirement.
 
-**Tags:** chapters: [20], topics: [RICO, corporate-enterprise], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [20], topics: [corporate enterprise, RICO], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 20 - Insys Therapeutics Prosecution (Corporate Enterprise)
+**Grounding:** Chapter 20, Insys Therapeutics Prosecution
 
 <!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: FAIL. The stem completely lacks a fact pattern. It references specific parties ("Pinnacle Waste"), specific actors ("civilian dispatchers", "the executives"), and specific crimes ("illegal extortion agreements") that are not introduced anywhere in the prompt. Students cannot answer an application question if the vignette is missing.
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Either prepend the missing fact vignette that describes Pinnacle Waste's operations and the extortion scheme, or generalize the stem and options to make it a pure rule question (e.g., "Can a lawfully chartered corporation with a legitimate primary business serve as a valid RICO enterprise?").
+1: pass (the rule statement in (a) accurately reflects the Insys Therapeutics doctrine regarding corporate enterprises)
+2: pass (distractors present classic RICO misconceptions, though impossible to fully evaluate against facts since the facts are missing)
+3: pass (explanation correctly relies on the Insys holding from Chapter 20)
+4: fail (The question completely lacks a factual stem. "Pinnacle Waste Management," its dispatch center, and its billing department are never introduced or described, making the question impossible to evaluate or answer.)
+5: pass (RICO is explicitly federal, no jurisdictional ambiguity)
+6: pass (no excluded topics present)
+7: pass (corporate enterprise and hub-and-spoke/rim concepts are properly grounded in Chapter 20 Refinements)
+Recommended fix: Add the missing factual stem describing Pinnacle Waste Management, its legitimate business operations, and the specific facts about how its dispatch and billing departments were repurposed for separate schemes.
 -->

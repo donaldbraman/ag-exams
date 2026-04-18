@@ -4,126 +4,101 @@ The QA pipeline flagged this question. Rewrite `q05.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q5.** In assessing Marcus's duress defense regarding the arson conspiracy, how should a court evaluate the fact that Vance's threat against Marcus's family was to be carried out "at midnight" rather than immediately?
+**Q5.** Prosecutors seek to charge Vance and all three smuggling crews under a single RICO indictment, characterizing the entire Bayside Syndicate as one "enterprise." Based on the relationships described in Fact 1, will this enterprise theory succeed?
 
-(a) The defense may survive because any threat issued by a uniformed police officer is irrebuttably presumed to satisfy the necessary imminence element.
-(b) The defense fails because the threatened harm against his family was not strictly immediate, rendering it an invalid basis for duress.
-(c) The defense may survive because the presence of the gun to his ribs legally transforms the future family threat into a present one.
-(d) The defense fails because Marcus was required to exhaust all available legal alternatives, including contacting uncorrupted federal law enforcement agencies.
-(e) The defense may survive because a continuous threat combined with corrupt authorities can satisfy the imminence and no-alternative elements. <!-- correct -->
+(a) Yes, because Vance's continuous coordination of the three crews demonstrates the shared purpose and relationships required for a unified RICO enterprise.
+(b) Yes, because a hub-and-spoke structure without a rim is legally sufficient for enterprise liability so long as the hub directs the operations.
+(c) No, because the crews never interact with each other, meaning the structure is a rimless hub-and-spoke that lacks the necessary enterprise connections. <!-- correct -->
+(d) No, because RICO explicitly excludes police officers acting under the color of law from being designated as the head of a criminal enterprise.
+(e) Yes, because the continuous pattern of bribery and extortion independently establishes the existence of an enterprise without needing to prove structural relationships.
 
-**Answer:** (e)
+**Answer:** (c)
 
-**Explanation:** In jurisdictions following the modern trend (e.g., *Contento-Pachon*, *Dingwall*), courts relax strict physical imminence if a threat is continuous and unavoidable. When the individual issuing the threat is a corrupt police official, a jury can find that the defendant lacked any reasonable legal alternative (such as calling the police) and reasonably perceived the danger as functionally imminent. (a) is incorrect because no irrebuttable legal presumption automatically applies to all police threats. (b) is incorrect because many federal circuits have relaxed the strict contemporaneous physical proximity test for imminence in continuous threat scenarios. (c) is incorrect because the gun to the ribs satisfies the threshold for a present threat independently, but does not legally "transform" the separate, temporally distinct midnight threat into an immediate one. (d) is incorrect because the availability of alternatives is measured by objective reasonableness under the circumstances; a jury could find that reaching out to uncorrupted federal agencies while under a corrupt police commander's thumb was not a genuinely reasonable alternative.
+**Explanation:** A RICO enterprise requires a common purpose, relationships among those associated, and longevity. Under *Boyle* and *Kotteakos*, a hub-and-spoke structure where the spokes (the three crews) never interact and have no shared purpose beyond their individual dealings with the hub (Vance) lacks the "rim" necessary to constitute a single unified enterprise. Each crew operates independently of the others. (a) is wrong because coordination by a single hub is insufficient without a shared purpose among the crews. (b) is wrong because a rimless hub-and-spoke explicitly fails the enterprise test. (d) is wrong because police officers can be part of an enterprise. (e) is wrong because the pattern of racketeering is a separate element from the existence of the enterprise itself.
 
-**Tags:** chapters: [21], topics: [duress, imminence, corrupt authorities], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [20], topics: [RICO enterprise, hub-and-spoke], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21 - duress-imminence-proximity, duress-corrupt-authorities
+**Grounding:** Chapter 20 (RICO and Enterprise Liability), hub-spoke-no-rim refinement.
 
 <!-- audit: MUST FIX
-check 1: Fails. Answer (e) is only correct if the jurisdiction follows the "modern trend" and assumes unstated facts about Vance being a corrupt authority.
-check 2: Fails. Option (b) is a highly defensible distractor. Under traditional common law, strict imminence is required, and a threat to be carried out "at midnight" would fail the imminence requirement. A prepared student could easily argue (b) is correct if the jurisdiction isn't stipulated.
-check 3: pass
-check 4: Fails. The stem lacks the necessary factual context to answer the question, appearing to be orphaned from a larger fact pattern. It references "the" arson conspiracy, "Vance", and "Marcus", and options (c) and (e) rely on vital facts not in the stem (a gun to the ribs, Vance being a corrupt authority).
-check 5: Fails. The doctrine splits between traditional strict imminence and the modern trend (continuous threat/corrupt authorities). The stem simply asks "how should a court evaluate" without specifying the jurisdiction, leaving a fatal ambiguity.
-check 6: pass
-check 7: pass
-Recommended fix: Provide the missing factual context in the stem if this is a standalone question. Explicitly stipulate the jurisdiction (e.g., "Assume the jurisdiction follows the modern federal trend in assessing duress (e.g., *Contento-Pachon*)...") to safely rule out option (b).
+check 1: fail. Option (c) states that because the crews "never interact with each other," it necessarily means the structure is a rimless hub-and-spoke. This is doctrinally incomplete and arguably false. Under established doctrine (and the Kotteakos conspiracy analogy applied to RICO), spokes do not strictly need direct interaction to form an enterprise if they share a common purpose or interdependence. 
+check 2: pass. The other distractors are cleanly wrong under Boyle and Turkette.
+check 3: fail. The explanation rightly points out that the enterprise fails because the crews "never interact and have no shared purpose," but option (c) omits the lack of shared purpose, relying solely on the lack of direct interaction.
+check 4: fail. The stem references "Fact 1," but no facts are provided in the question text. (Assuming this is a sub-question tied to a master fact pattern, the dependency is functionally fine, but strictly speaking, the facts are absent).
+check 5: pass.
+check 6: pass.
+check 7: pass.
+Recommended fix: Update option (c) to match the explanation's dual requirement: "No, because the crews never interact and lack a shared purpose, meaning the structure is a rimless hub-and-spoke that lacks the necessary enterprise connections."
 -->
 
-## Issue 2 — edge-case
+## Issue 2 — argpass-sonnet
 
-**Q5.** In assessing Marcus's duress defense regarding the arson conspiracy, how should a court evaluate the fact that Vance's threat against Marcus's family was to be carried out "at midnight" rather than immediately?
+**Q5.** Prosecutors seek to charge Vance and all three smuggling crews under a single RICO indictment, characterizing the entire Bayside Syndicate as one "enterprise." Based on the relationships described in Fact 1, will this enterprise theory succeed?
 
-(a) The defense may survive because any threat issued by a uniformed police officer is irrebuttably presumed to satisfy the necessary imminence element.
-(b) The defense fails because the threatened harm against his family was not strictly immediate, rendering it an invalid basis for duress.
-(c) The defense may survive because the presence of the gun to his ribs legally transforms the future family threat into a present one.
-(d) The defense fails because Marcus was required to exhaust all available legal alternatives, including contacting uncorrupted federal law enforcement agencies.
-(e) The defense may survive because a continuous threat combined with corrupt authorities can satisfy the imminence and no-alternative elements. <!-- correct -->
+(a) Yes, because Vance's continuous coordination of the three crews demonstrates the shared purpose and relationships required for a unified RICO enterprise.
+(b) Yes, because a hub-and-spoke structure without a rim is legally sufficient for enterprise liability so long as the hub directs the operations.
+(c) No, because the crews never interact with each other, meaning the structure is a rimless hub-and-spoke that lacks the necessary enterprise connections. <!-- correct -->
+(d) No, because RICO explicitly excludes police officers acting under the color of law from being designated as the head of a criminal enterprise.
+(e) Yes, because the continuous pattern of bribery and extortion independently establishes the existence of an enterprise without needing to prove structural relationships.
 
-**Answer:** (e)
+**Answer:** (c)
 
-**Explanation:** In jurisdictions following the modern trend (e.g., *Contento-Pachon*, *Dingwall*), courts relax strict physical imminence if a threat is continuous and unavoidable. When the individual issuing the threat is a corrupt police official, a jury can find that the defendant lacked any reasonable legal alternative (such as calling the police) and reasonably perceived the danger as functionally imminent. (a) is incorrect because no irrebuttable legal presumption automatically applies to all police threats. (b) is incorrect because many federal circuits have relaxed the strict contemporaneous physical proximity test for imminence in continuous threat scenarios. (c) is incorrect because the gun to the ribs satisfies the threshold for a present threat independently, but does not legally "transform" the separate, temporally distinct midnight threat into an immediate one. (d) is incorrect because the availability of alternatives is measured by objective reasonableness under the circumstances; a jury could find that reaching out to uncorrupted federal agencies while under a corrupt police commander's thumb was not a genuinely reasonable alternative.
+**Explanation:** A RICO enterprise requires a common purpose, relationships among those associated, and longevity. Under *Boyle* and *Kotteakos*, a hub-and-spoke structure where the spokes (the three crews) never interact and have no shared purpose beyond their individual dealings with the hub (Vance) lacks the "rim" necessary to constitute a single unified enterprise. Each crew operates independently of the others. (a) is wrong because coordination by a single hub is insufficient without a shared purpose among the crews. (b) is wrong because a rimless hub-and-spoke explicitly fails the enterprise test. (d) is wrong because police officers can be part of an enterprise. (e) is wrong because the pattern of racketeering is a separate element from the existence of the enterprise itself.
 
-**Tags:** chapters: [21], topics: [duress, imminence, corrupt authorities], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [20], topics: [RICO enterprise, hub-and-spoke], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21 - duress-imminence-proximity, duress-corrupt-authorities
-
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The facts establish Marcus as the "enforcer" for the Bayside Syndicate. Both the MPC (§ 2.09(2)) and common law feature a strict limitation on the duress defense: it is entirely unavailable if the defendant recklessly or voluntarily placed themselves in a situation where it was probable they would be subjected to coercion (often called the "gang exception"). Because Marcus voluntarily joined a violent criminal enterprise, a well-prepared student would recognize his duress defense is likely categorically barred from the start. This clashes directly with the correct answer (e), which asserts the defense "may survive."
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
-Recommended fix: Add a clarifying assumption to the question stem to bypass the gang exception, e.g., "Assuming for this question that Marcus's voluntary membership in the Syndicate does not categorically bar his claim, how should a court evaluate..."
--->
-
-## Issue 3 — argpass-sonnet
-
-**Q5.** In assessing Marcus's duress defense regarding the arson conspiracy, how should a court evaluate the fact that Vance's threat against Marcus's family was to be carried out "at midnight" rather than immediately?
-
-(a) The defense may survive because any threat issued by a uniformed police officer is irrebuttably presumed to satisfy the necessary imminence element.
-(b) The defense fails because the threatened harm against his family was not strictly immediate, rendering it an invalid basis for duress.
-(c) The defense may survive because the presence of the gun to his ribs legally transforms the future family threat into a present one.
-(d) The defense fails because Marcus was required to exhaust all available legal alternatives, including contacting uncorrupted federal law enforcement agencies.
-(e) The defense may survive because a continuous threat combined with corrupt authorities can satisfy the imminence and no-alternative elements. <!-- correct -->
-
-**Answer:** (e)
-
-**Explanation:** In jurisdictions following the modern trend (e.g., *Contento-Pachon*, *Dingwall*), courts relax strict physical imminence if a threat is continuous and unavoidable. When the individual issuing the threat is a corrupt police official, a jury can find that the defendant lacked any reasonable legal alternative (such as calling the police) and reasonably perceived the danger as functionally imminent. (a) is incorrect because no irrebuttable legal presumption automatically applies to all police threats. (b) is incorrect because many federal circuits have relaxed the strict contemporaneous physical proximity test for imminence in continuous threat scenarios. (c) is incorrect because the gun to the ribs satisfies the threshold for a present threat independently, but does not legally "transform" the separate, temporally distinct midnight threat into an immediate one. (d) is incorrect because the availability of alternatives is measured by objective reasonableness under the circumstances; a jury could find that reaching out to uncorrupted federal agencies while under a corrupt police commander's thumb was not a genuinely reasonable alternative.
-
-**Tags:** chapters: [21], topics: [duress, imminence, corrupt authorities], difficulty: hard, cognitive: analysis
-
-**Grounding:** Chapter 21 - duress-imminence-proximity, duress-corrupt-authorities
+**Grounding:** Chapter 20 (RICO and Enterprise Liability), hub-spoke-no-rim refinement.
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student might argue that because law enforcement officers possess the state's monopoly on force and the authority to detain individuals, their threats are uniquely coercive. Under this view, courts apply an irrebuttable presumption of imminence when a uniformed officer issues a threat, since the victim is structurally defenseless.
-(b) Argument-for: A student could argue that under the strict traditional common law definition of duress, a threat must be of immediate and impending death or serious bodily harm. Because the threat against Marcus's family was to be carried out "at midnight," the temporal gap inherently allowed him time to escape or seek help, rendering the defense invalid as a matter of law.
-(c) Argument-for: A student could argue that the immediate physical danger of a gun to the ribs provides the present compulsion necessary to validate the entire threat scheme. By this logic, the present physical threat "legally transforms" or bridges the temporal gap to the secondary future threat, combining them into a single imminent danger.
-(d) Argument-for: A student could argue that the duress defense strictly requires the absence of any opportunity to avoid the harm. Since Marcus had until midnight, he had time to reach out to other uncorrupted authorities like federal agencies. The legal failure to exhaust all available alternatives would strictly preclude the defense.
-(e) Argument-for: A student would recognize this as tracking the modern trend in cases like *Contento-Pachon*. When a threat is continuous and the authorities issuing it are corrupt, strict temporal imminence is relaxed because the defendant functionally lacks any safe, reasonable legal alternative to escape the coercion.
+(a) Argument-for: Under *Boyle v. United States*, an association-in-fact enterprise requires a purpose, relationships among those associated with the enterprise, and longevity. A student could argue that Vance’s continuous role in coordinating the three crews satisfies the relationship requirement by linking them all through his leadership. In this view, the overarching goal of running the smuggling operation through Vance establishes the shared purpose, making the entire network a unified enterprise.
+(b) Argument-for: A student could argue that modern RICO jurisprudence broadly construes "enterprise" to reach informal networks directed by a central figure, distinguishing it from strict conspiracy requirements. Under this logic, as long as the hub directs the operations of the network, the central direction substitutes for horizontal interaction among the spokes. Thus, a rimless hub-and-spoke structure is legally sufficient for enterprise liability under RICO.
+(c) Argument-for: This is the correct answer. Under *Kotteakos* and RICO doctrine, a single unified enterprise requires relationships among those associated with it. If the spokes (the three crews) never interact and merely have independent agreements with the hub (Vance), there is no "rim" enclosing the spokes into a single entity. Therefore, the syndicate is a rimless hub-and-spoke that cannot be prosecuted as a single unified RICO enterprise.
+(d) Argument-for: A student might mistakenly believe that RICO, originally designed to target traditional organized crime syndicates, contains a statutory or doctrinal carve-out for public officials acting under color of law. They could argue that because Vance is a police officer, his corrupt activities must be prosecuted under specific public corruption or civil rights statutes rather than RICO. Thus, he cannot legally be designated as the head of a criminal enterprise.
+(e) Argument-for: The Supreme Court held in *Boyle* that the evidence used to prove the enterprise and the pattern of racketeering may coalesce. A student might misunderstand this to mean that proof of a continuous pattern of bribery and extortion is itself legally sufficient to prove the enterprise, completely negating the need to establish an independent structure. Therefore, the racketeering activity would independently establish the enterprise.
 
-Head-to-head: Option (e) is the strongest because it correctly states the modern trend's approach to continuous threats from corrupt authorities, accurately noting the defense "may survive." Options (a) and (c) are weak because they rely on fabricated legal mechanisms ("irrebuttable presumption" and "legally transforms"). Option (d) contains an explicit error by improperly elevating the standard from exhausting "reasonable" alternatives to "all available" alternatives. Option (b), however, lacks an explicitly false legal claim: under strict traditional common law jurisdictions, a threat to act hours later ("at midnight") would indeed fail the imminence requirement. Because the question stem does not specify a jurisdiction following the modern trend, (b) is too plausible and needs to be locked with absolute language to ensure it is universally false.
+Head-to-head: Option (c) perfectly applies the "rimless hub-and-spoke" concept, recognizing that independent crews lacking interaction or shared purpose cannot form a single RICO enterprise. Distractors (b), (d), and (e) rely on explicitly false legal claims regarding RICO's structural requirements, statutory exclusions, and the distinction between pattern and enterprise. However, distractor (a) relies on a legally invalid application of fact to law ("demonstrates the shared purpose") rather than a universally falsifiable legal rule locked by absolute phrasing. 
 
 Falsifiable claim per distractor:
-- (a): "any threat... is irrebuttably presumed" — wrong because duress contains no such absolute irrebuttable presumption regarding police officers.
-- (b): "fails because the threatened harm... was not strictly immediate" — arguably NOT universally false, as traditional common law jurisdictions do mandate strict physical imminence.
-- (c): "legally transforms the future family threat into a present one" — wrong because there is no such legal transformation doctrine; present and future threats are evaluated on their own terms.
-- (d): "required to exhaust all available legal alternatives" — wrong because the duress defense only requires the absence of *reasonable* legal alternatives, not the exhaustion of *all* theoretically available ones regardless of safety or feasibility.
+- (a): "demonstrates the shared purpose and relationships required for a unified RICO enterprise" — wrong because hub coordination alone legally does not establish the required relationships among the spokes (the rim), but the lack of an absolute word makes this slightly weak as a standalone false legal rule.
+- (b): "a hub-and-spoke structure without a rim is legally sufficient" — wrong because courts consistently require a "rim" of shared purpose or interaction connecting the spokes to form a single enterprise or conspiracy.
+- (d): "RICO explicitly excludes police officers acting under the color of law" — wrong because there is no such exclusion in the RICO statute; public entities and officers can be designated as RICO enterprises or persons.
+- (e): "without needing to prove structural relationships" — wrong because *Turkette* explicitly holds that an enterprise is an entity separate and apart from the pattern of activity, requiring proof of an ongoing structure (purpose, relationships, longevity).
 
-Recommended fix: Change (b) to: "The defense fails because a threat of harm that is not strictly immediate categorically invalidates a duress defense in every jurisdiction."
+Recommended fix: Change (a) to include an absolute legal claim, such as: "(a) Yes, because coordination by a central hub automatically establishes the shared purpose and relationships required for a unified RICO enterprise."
 -->
 
-## Issue 4 — argpass-opus
+## Issue 3 — argpass-opus
 
-**Q5.** In assessing Marcus's duress defense regarding the arson conspiracy, how should a court evaluate the fact that Vance's threat against Marcus's family was to be carried out "at midnight" rather than immediately?
+**Q5.** Prosecutors seek to charge Vance and all three smuggling crews under a single RICO indictment, characterizing the entire Bayside Syndicate as one "enterprise." Based on the relationships described in Fact 1, will this enterprise theory succeed?
 
-(a) The defense may survive because any threat issued by a uniformed police officer is irrebuttably presumed to satisfy the necessary imminence element.
-(b) The defense fails because the threatened harm against his family was not strictly immediate, rendering it an invalid basis for duress.
-(c) The defense may survive because the presence of the gun to his ribs legally transforms the future family threat into a present one.
-(d) The defense fails because Marcus was required to exhaust all available legal alternatives, including contacting uncorrupted federal law enforcement agencies.
-(e) The defense may survive because a continuous threat combined with corrupt authorities can satisfy the imminence and no-alternative elements. <!-- correct -->
+(a) Yes, because Vance's continuous coordination of the three crews demonstrates the shared purpose and relationships required for a unified RICO enterprise.
+(b) Yes, because a hub-and-spoke structure without a rim is legally sufficient for enterprise liability so long as the hub directs the operations.
+(c) No, because the crews never interact with each other, meaning the structure is a rimless hub-and-spoke that lacks the necessary enterprise connections. <!-- correct -->
+(d) No, because RICO explicitly excludes police officers acting under the color of law from being designated as the head of a criminal enterprise.
+(e) Yes, because the continuous pattern of bribery and extortion independently establishes the existence of an enterprise without needing to prove structural relationships.
 
-**Answer:** (e)
+**Answer:** (c)
 
-**Explanation:** In jurisdictions following the modern trend (e.g., *Contento-Pachon*, *Dingwall*), courts relax strict physical imminence if a threat is continuous and unavoidable. When the individual issuing the threat is a corrupt police official, a jury can find that the defendant lacked any reasonable legal alternative (such as calling the police) and reasonably perceived the danger as functionally imminent. (a) is incorrect because no irrebuttable legal presumption automatically applies to all police threats. (b) is incorrect because many federal circuits have relaxed the strict contemporaneous physical proximity test for imminence in continuous threat scenarios. (c) is incorrect because the gun to the ribs satisfies the threshold for a present threat independently, but does not legally "transform" the separate, temporally distinct midnight threat into an immediate one. (d) is incorrect because the availability of alternatives is measured by objective reasonableness under the circumstances; a jury could find that reaching out to uncorrupted federal agencies while under a corrupt police commander's thumb was not a genuinely reasonable alternative.
+**Explanation:** A RICO enterprise requires a common purpose, relationships among those associated, and longevity. Under *Boyle* and *Kotteakos*, a hub-and-spoke structure where the spokes (the three crews) never interact and have no shared purpose beyond their individual dealings with the hub (Vance) lacks the "rim" necessary to constitute a single unified enterprise. Each crew operates independently of the others. (a) is wrong because coordination by a single hub is insufficient without a shared purpose among the crews. (b) is wrong because a rimless hub-and-spoke explicitly fails the enterprise test. (d) is wrong because police officers can be part of an enterprise. (e) is wrong because the pattern of racketeering is a separate element from the existence of the enterprise itself.
 
-**Tags:** chapters: [21], topics: [duress, imminence, corrupt authorities], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [20], topics: [RICO enterprise, hub-and-spoke], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 21 - duress-imminence-proximity, duress-corrupt-authorities
+**Grounding:** Chapter 20 (RICO and Enterprise Liability), hub-spoke-no-rim refinement.
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that threats from uniformed police officers carry unique coercive weight due to the officer's inherent state authority and capacity to act with impunity. Therefore, courts might adopt a rule where police threats are irrebuttably presumed to satisfy imminence to prevent officers from exploiting their position, as a civilian cannot reasonably measure the timeline of a police threat against traditional standards.
-(b) Argument-for: A student could argue that the traditional common law strictly requires the threatened harm to be immediate or imminent (e.g., a gun to the head right now). Because a threat to be executed "at midnight" involves a temporal delay, it fundamentally lacks the strict immediacy required. Thus, under traditional formulations of duress, a delayed threat fails the imminence prong, making the defense invalid.
-(c) Argument-for: A student could argue that the presence of the gun to Marcus's ribs constitutes an undeniable, present threat of serious bodily harm. By issuing the midnight family threat concurrently while holding Marcus at gunpoint, courts might treat the entire interaction as a single coercive episode. This immediate physical coercion legally "transforms" or elevates the delayed family threat into a present danger.
-(d) Argument-for: A student could argue that the duress defense is strictly unavailable if there is any legal way to avoid the harm. Since Marcus had until midnight, he had ample time to contact other authorities. By failing to contact uncorrupted federal agencies, he did not exhaust his legal alternatives, strictly precluding the duress defense regardless of his subjective fears of the local police.
-(e) Argument-for: A student could argue that modern courts (e.g., Contento-Pachon) recognize that continuous threats, especially from corrupt authorities who control the normal avenues of relief, satisfy both imminence and the lack of reasonable alternatives. Since the police themselves are corrupt, turning to them is futile, and the threat remains functionally imminent, allowing the defense to survive.
+(a) Argument-for: Under *Boyle v. United States*, an association-in-fact enterprise requires only a loose structure, a purpose, and longevity. Because Vance acts as the overarching coordinator managing the crews, a student could argue that his central leadership provides the requisite structural nexus. Under this view, the hub's coordination demonstrates the shared purpose of profiting from the Bayside Syndicate, satisfying the enterprise requirement.
+(b) Argument-for: A student could argue that RICO's broad definition of "enterprise" (18 U.S.C. § 1961(4)) was intended to encompass any group of individuals associated in fact. Unlike traditional conspiracy law (e.g., *Kotteakos*), which requires a "rim," RICO enterprise liability could theoretically be satisfied simply by the spokes' mutual relationship with the hub, making a rimless structure legally sufficient under the statute.
+(c) Argument-for: Under *Boyle* and *Turkette*, an association-in-fact enterprise requires relationships among those associated and a shared common purpose. When a hub interacts with multiple spokes that never interact with each other, it constitutes a "rimless hub-and-spoke" structure. Without a rim—some interaction or shared purpose connecting the spokes themselves—there is no single unified enterprise, making this the doctrinally correct answer.
+(d) Argument-for: A student might argue that RICO was designed to target traditional organized crime syndicates rather than municipal or official corruption. Under this theory, a police officer's misconduct falls strictly under civil rights or bribery statutes, meaning RICO explicitly excludes individuals acting under the color of law from being designated as an enterprise head.
+(e) Argument-for: In *United States v. Turkette*, the Supreme Court noted that proof of the enterprise and proof of the pattern of racketeering activity may often coalesce. A student could misinterpret this to mean that a continuous, highly organized pattern of extortion and bribery independently establishes the enterprise as a matter of law, bypassing the need to independently prove structural relationships.
 
-Head-to-head: Option (e) provides the strongest legally grounded argument by accurately describing the modern trend regarding continuous threats and corrupt authorities. Option (a) relies on an invented "irrebuttable presumption." Option (c) relies on a fabricated legal fiction of "transforming" a future threat into a present one. Option (d) misstates the standard by demanding the exhaustion of "all" alternatives rather than just "reasonable" ones. Option (b), however, accurately describes the strict common law requirement for imminence. Without absolute language locking it as universally false, a student could argue (b) is functionally correct in a strict traditional jurisdiction, making it a potentially valid answer that needs to be definitively falsified.
+Head-to-head: Option (c) correctly states the legal doctrine that a single association-in-fact RICO enterprise requires a "rim" connecting the spokes, without which they remain separate entities. Option (b) explicitly contradicts this by falsely claiming a rimless structure is legally sufficient. Option (d) relies on the completely fabricated legal premise that RICO explicitly excludes police officers. Option (e) relies on a false legal claim that a pattern of racketeering independently establishes an enterprise without needing to prove structure, directly contradicting *Turkette*. Option (a) is the weakest distractor structurally because it argues a factual inference ("demonstrates") rather than resting on a locked, falsifiable legal rule. It should be revised to include absolute phrasing to ensure it fails on a clear error of law.
 
 Falsifiable claim per distractor:
-- (a): "any threat issued by a uniformed police officer is irrebuttably presumed to satisfy" — wrong because there is no such categorical legal presumption for police officers in duress jurisprudence.
-- (b): "rendering it an invalid basis for duress" — weak because while false under the modern trend, this is an accurate statement of strict common law doctrine. It lacks an absolute word (like "categorically" or "in every jurisdiction") to make it explicitly false.
-- (c): "legally transforms the future family threat into a present one" — wrong because there is no legal doctrine where a present physical threat automatically alters the legal timeline of a separate, delayed threat.
-- (d): "required to exhaust all available legal alternatives" — wrong because the law requires only the exhaustion of *reasonable* legal alternatives, not literally "all" available ones.
+- (a): "demonstrates the shared purpose and relationships required" — wrong because it is currently phrased as a faulty factual inference and lacks absolute locking words to make it an explicit legal error.
+- (b): "a hub-and-spoke structure without a rim is legally sufficient" — wrong because a rimless hub-and-spoke structure explicitly fails the RICO enterprise test.
+- (d): "RICO explicitly excludes police officers acting under the color of law" — wrong because RICO has no such statutory exclusion and police officers can be prosecuted under it.
+- (e): "independently establishes the existence of an enterprise without needing to prove structural relationships" — wrong because *Turkette* holds that the enterprise is an entity separate from the pattern of racketeering activity, and its structure must be proven.
 
-Recommended fix: Add an absolute modifier to (b) to ensure it is universally false. Change (b) to: "The defense fails because a lack of strict immediacy categorically invalidates a duress defense in all jurisdictions."
+Recommended fix: In (a), change "demonstrates" to "categorically establishes" (e.g., "automatically establishes the shared purpose and relationships required") to ensure the distractor rests on a strictly falsifiable legal claim rather than a debatable factual inference.
 -->
