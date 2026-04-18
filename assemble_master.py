@@ -19,12 +19,7 @@ def format_options(text: str) -> str:
     """Format (a) options to alphabetical list items `a.` and make them loose."""
     # Convert `(a) ` to `a. `
     text = re.sub(r'^\(([a-e])\)\s+(.*)$', r'\1. \2', text, flags=re.MULTILINE)
-    
-    # Add a newline before any numbered list item (except if already preceded by a newline)
-    text = re.sub(r'([^\n])\n(\d+\.\s)', r'\1\n\n\2', text)
-
-    # Add a newline before any alphabetical list item a. b. c. d. e.
-    text = re.sub(r'([^\n])\n([a-e]\.\s)', r'\1\n\n\2', text)
+    pass
     
     return text
 
@@ -47,7 +42,7 @@ def main():
         "    include-in-header:",
         "      text: |",
         "        \\usepackage{enumitem}",
-        "        \\setlist{itemsep=0.1em}",
+        "        \\setlist{itemsep=0.0em}",
         "        \\usepackage{multicol}",
         "---"
     ]
