@@ -4,127 +4,126 @@ The QA pipeline flagged this question. Rewrite `q12.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q12.** Assume the jurisdiction has adopted accomplice felony murder reforms identical to California's SB 1437. Can Leo be convicted of felony murder for Wendy's death?
+**Q12.** Assume Leo is prosecuted for Wendy's death in a jurisdiction that has adopted California's SB 1437 reforms limiting felony murder liability for non-killers. What must the prosecution prove to convict Leo of felony murder, assuming he lacked intent to kill?
 
-(a) Yes, because acting as the designated getaway driver in a high-speed pursuit inherently establishes a reckless indifference to human life.
-(b) Yes, because Leo was an active participant in the underlying felony and had prior knowledge that his co-felon Dom was heavily armed.
-(c) No, because Leo was neither the actual killer, nor did he act with intent to kill or as a legally defined major participant. <!-- correct -->
-(d) No, because Leo did not personally steal any property or cause any injuries during the initial execution of the attempted hijacking operation.
-(e) No, because the death was directly caused by a pursuing police officer, which automatically bars felony murder liability for all involved participants.
+(a) That Leo's evasive driving was the direct factual and legal proximate cause of the police cruiser losing control and striking the pedestrian at the intersection.
+(b) That Leo was a major participant in the underlying felony and that he acted with reckless indifference to human life during the high-speed pursuit. <!-- correct -->
+(c) That the underlying felony of attempted commercial hijacking is strictly categorized as inherently dangerous in the abstract under the jurisdiction's statutory framework.
+(d) That Leo subjectively foresaw the exact possibility that an innocent pedestrian could be fatally struck by a pursuing law enforcement vehicle during the escape.
+(e) That the police officer's high-speed driving constituted a dependent intervening cause rather than an independent intervening cause that would sever Leo's legal liability.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** California's SB 1437 restricts felony murder liability for non-killers. To be convicted, the defendant must be the actual killer, act with intent to kill, or be a "major participant" who acts with "reckless indifference to human life." Simply acting as a getaway driver does not automatically satisfy this stringent standard. Option (a) is wrong because the statute requires a fact-specific inquiry, rejecting the premise that driving inherently establishes reckless indifference. Option (b) is wrong because active participation and knowledge of a weapon do not automatically elevate a defendant to a major participant. Option (d) is wrong because failing to personally steal property does not immunize a defendant if the legal criteria are met. Option (e) is wrong because SB 1437 focuses on the defendant's specific mental state, not just the agency of the killer.
+**Explanation:** California's SB 1437 restricts felony murder for accomplices. To be convicted, an accomplice who is not the actual killer and lacks intent to kill must be a "major participant" who acts with "reckless indifference to human life." (b) is correct because this states the exact SB 1437 standard. (a) fails because proving proximate cause is insufficient under SB 1437; the statute specifically requires an elevated, individualized mens rea of reckless indifference. (c) fails because while an inherently dangerous felony is a prerequisite for felony murder, SB 1437 adds specific culpability requirements for non-killers. (d) fails because reckless indifference does not require foreseeing the exact manner of death, only a reckless disregard for the risk to human life generally. (e) fails because causation doctrine alone cannot satisfy SB 1437's statutory culpability requirement for accomplices.
 
-**Tags:** chapters: [14], topics: [felony murder, accomplice liability, major participant, sb 1437], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [14, 18], topics: [felony murder, accomplice liability, sb-1437, major participant], difficulty: hard, cognitive: application
 
 **Grounding:** Chapter 14: sb-1437-major-participant
 
 <!-- audit: MUST FIX
-check 1: fail. Without a fact pattern, we cannot know if Leo meets the "major participant" and "reckless indifference" criteria.
-check 2: fail. Because the facts are missing, students cannot definitively rule out distractors. Additionally, if the missing facts stipulate a police officer killed Wendy, option (e) would actually be a strong distractor or potentially correct under California's agency rule for felony murder.
-check 3: fail. The explanation for (e) misstates doctrine. California follows the agency theory of felony murder; if a police officer kills someone, it is generally a bar to felony murder (though implied malice "Provocative Act" murder may apply). The explanation wrongly implies felony murder could apply regardless of the killer's agency if SB 1437's mental state is met.
-check 4: fail. The question is entirely missing its fact pattern. It references Leo, Dom, Wendy, a high-speed pursuit, and an attempted hijacking, but none of this is described in the stem.
-check 5: pass. Explicitly specifies CA SB 1437.
-check 6: pass. No excluded topics triggered.
-check 7: pass. Maps to Chapter 14 `sb-1437-major-participant`.
-Recommended fix: Insert the missing fact pattern detailing Leo's exact role in the attempted hijacking, Dom's actions, and the circumstances of Wendy's death. Ensure the facts clearly position Leo as a minor participant (e.g., merely waiting in the car, unaware of specific lethal risks) to make (c) factually accurate. Revise option (e) and its explanation to avoid conflating the agency rule of felony murder with SB 1437 reforms.
+Check 1: pass (legally accurate description of SB 1437 requirements for non-killers)
+Check 2: pass (none of the distractors accurately reflect the SB 1437 standard)
+Check 3: pass (explanation matches doctrine)
+Check 4: FAILS. The stem completely omits the factual scenario that the options reference. The options discuss "Leo's evasive driving," a "police cruiser," a "pedestrian," a "high-speed pursuit," and an "attempted commercial hijacking," but none of these facts are established in the stem. A student will be confused about where these specific facts came from (likely a detached or deleted fact pattern).
+Check 5: pass (jurisdiction is explicitly stipulated as adopting CA SB 1437)
+Check 6: pass (no excluded topics)
+Check 7: pass (SB 1437 is properly grounded in Ch 14/18 Refinement tags)
+Recommended fix: Add the missing factual context to the stem (e.g., "Leo and an accomplice attempted a commercial hijacking. During their high-speed escape, Leo engaged in evasive driving, causing a pursuing police cruiser to lose control and strike Wendy, an innocent pedestrian."). Alternatively, remove the specific factual references from the options so it functions as a pure rule-based question.
 -->
 
 ## Issue 2 — edge-case
 
-**Q12.** Assume the jurisdiction has adopted accomplice felony murder reforms identical to California's SB 1437. Can Leo be convicted of felony murder for Wendy's death?
+**Q12.** Assume Leo is prosecuted for Wendy's death in a jurisdiction that has adopted California's SB 1437 reforms limiting felony murder liability for non-killers. What must the prosecution prove to convict Leo of felony murder, assuming he lacked intent to kill?
 
-(a) Yes, because acting as the designated getaway driver in a high-speed pursuit inherently establishes a reckless indifference to human life.
-(b) Yes, because Leo was an active participant in the underlying felony and had prior knowledge that his co-felon Dom was heavily armed.
-(c) No, because Leo was neither the actual killer, nor did he act with intent to kill or as a legally defined major participant. <!-- correct -->
-(d) No, because Leo did not personally steal any property or cause any injuries during the initial execution of the attempted hijacking operation.
-(e) No, because the death was directly caused by a pursuing police officer, which automatically bars felony murder liability for all involved participants.
+(a) That Leo's evasive driving was the direct factual and legal proximate cause of the police cruiser losing control and striking the pedestrian at the intersection.
+(b) That Leo was a major participant in the underlying felony and that he acted with reckless indifference to human life during the high-speed pursuit. <!-- correct -->
+(c) That the underlying felony of attempted commercial hijacking is strictly categorized as inherently dangerous in the abstract under the jurisdiction's statutory framework.
+(d) That Leo subjectively foresaw the exact possibility that an innocent pedestrian could be fatally struck by a pursuing law enforcement vehicle during the escape.
+(e) That the police officer's high-speed driving constituted a dependent intervening cause rather than an independent intervening cause that would sever Leo's legal liability.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** California's SB 1437 restricts felony murder liability for non-killers. To be convicted, the defendant must be the actual killer, act with intent to kill, or be a "major participant" who acts with "reckless indifference to human life." Simply acting as a getaway driver does not automatically satisfy this stringent standard. Option (a) is wrong because the statute requires a fact-specific inquiry, rejecting the premise that driving inherently establishes reckless indifference. Option (b) is wrong because active participation and knowledge of a weapon do not automatically elevate a defendant to a major participant. Option (d) is wrong because failing to personally steal property does not immunize a defendant if the legal criteria are met. Option (e) is wrong because SB 1437 focuses on the defendant's specific mental state, not just the agency of the killer.
+**Explanation:** California's SB 1437 restricts felony murder for accomplices. To be convicted, an accomplice who is not the actual killer and lacks intent to kill must be a "major participant" who acts with "reckless indifference to human life." (b) is correct because this states the exact SB 1437 standard. (a) fails because proving proximate cause is insufficient under SB 1437; the statute specifically requires an elevated, individualized mens rea of reckless indifference. (c) fails because while an inherently dangerous felony is a prerequisite for felony murder, SB 1437 adds specific culpability requirements for non-killers. (d) fails because reckless indifference does not require foreseeing the exact manner of death, only a reckless disregard for the risk to human life generally. (e) fails because causation doctrine alone cannot satisfy SB 1437's statutory culpability requirement for accomplices.
 
-**Tags:** chapters: [14], topics: [felony murder, accomplice liability, major participant, sb 1437], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [14, 18], topics: [felony murder, accomplice liability, sb-1437, major participant], difficulty: hard, cognitive: application
 
 **Grounding:** Chapter 14: sb-1437-major-participant
 
 <!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: Because the facts state Dom "abandoned the plan entirely without touching the truck" (which Q8 and Q9 test for attempt and abandonment defenses), a student might correctly conclude there is no underlying felony of "attempted hijacking." If there is no underlying felony, felony murder fails outright at step one, meaning the actual reason Leo cannot be convicted is the absence of a felony, rendering Choice (c)'s major-participant rationale technically secondary or moot. 
-2. Cross-Doctrine Clashes: Choice (e) perfectly describes the "Agency Rule" of felony murder (liability is categorically barred if a non-felon, like a police officer, kills the victim). Because the prompt explicitly cites "California's SB 1437," it strongly signals California law, which strictly follows the Agency Rule (*People v. Washington*). To a student who knows California law, Choice (e) is a completely correct statement of law and an absolute bar to liability. Furthermore, the explanation for (e) is legally unsound; SB 1437 does not override the agency rule. 
-3. Cross-Question Spoilers: The preceding question in the package (testing the *Smith* proximate cause rule for Dom) establishes that this exam universe actually uses the proximate cause theory for felony murder. However, this proximate cause reality directly clashes with this question's strong implication of California's agency rule.
-Recommended fix: Add two assumptions to the prompt: "Assume for this question that Dom's actions constituted a valid attempted hijacking, and that the jurisdiction uses the proximate cause theory for felony murder but has adopted accomplice reforms identical to California's SB 1437." Then, revise the explanation for (e) to state: "Option (e) is wrong because the jurisdiction uses the proximate cause theory, which allows felony murder liability even when a police officer is the direct cause of death; thus, Leo's only defense is the SB 1437 major participant standard."
+1. Fact Pattern Booby Traps: The police cruiser striking the pedestrian triggers the Agency vs. Proximate Cause split for Felony Murder. California (the namesake and standard-bearer for SB 1437 reforms) strictly applies the Agency Theory, meaning felony murder would be completely barred here because a co-felon did not commit the fatal act (California would use Provocative Act Murder instead). Asking students to apply felony murder to a police-killing scenario in a California-style jurisdiction creates a contradiction.
+2. Cross-Doctrine Clashes: The Agency Theory of felony murder clashes with the premise that Leo can be convicted of felony murder for a police officer's fatal crash. 
+3. Cross-Question Spoilers: The actual Q12 in the stub list tests proximate cause for this exact crash. Applying felony murder here requires a proximate cause jurisdiction, which conflicts with referencing California law without a caveat. (Also, note this question is mislabeled as Q12 in the text; it corresponds to Q13).
+Recommended fix: Amend the prompt to explicitly instruct: "Assume the jurisdiction applies the proximate cause theory of felony murder, but has adopted California's SB 1437 reforms limiting liability for non-killers."
 -->
 
 ## Issue 3 — argpass-sonnet
 
-**Q12.** Assume the jurisdiction has adopted accomplice felony murder reforms identical to California's SB 1437. Can Leo be convicted of felony murder for Wendy's death?
+**Q12.** Assume Leo is prosecuted for Wendy's death in a jurisdiction that has adopted California's SB 1437 reforms limiting felony murder liability for non-killers. What must the prosecution prove to convict Leo of felony murder, assuming he lacked intent to kill?
 
-(a) Yes, because acting as the designated getaway driver in a high-speed pursuit inherently establishes a reckless indifference to human life.
-(b) Yes, because Leo was an active participant in the underlying felony and had prior knowledge that his co-felon Dom was heavily armed.
-(c) No, because Leo was neither the actual killer, nor did he act with intent to kill or as a legally defined major participant. <!-- correct -->
-(d) No, because Leo did not personally steal any property or cause any injuries during the initial execution of the attempted hijacking operation.
-(e) No, because the death was directly caused by a pursuing police officer, which automatically bars felony murder liability for all involved participants.
+(a) That Leo's evasive driving was the direct factual and legal proximate cause of the police cruiser losing control and striking the pedestrian at the intersection.
+(b) That Leo was a major participant in the underlying felony and that he acted with reckless indifference to human life during the high-speed pursuit. <!-- correct -->
+(c) That the underlying felony of attempted commercial hijacking is strictly categorized as inherently dangerous in the abstract under the jurisdiction's statutory framework.
+(d) That Leo subjectively foresaw the exact possibility that an innocent pedestrian could be fatally struck by a pursuing law enforcement vehicle during the escape.
+(e) That the police officer's high-speed driving constituted a dependent intervening cause rather than an independent intervening cause that would sever Leo's legal liability.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** California's SB 1437 restricts felony murder liability for non-killers. To be convicted, the defendant must be the actual killer, act with intent to kill, or be a "major participant" who acts with "reckless indifference to human life." Simply acting as a getaway driver does not automatically satisfy this stringent standard. Option (a) is wrong because the statute requires a fact-specific inquiry, rejecting the premise that driving inherently establishes reckless indifference. Option (b) is wrong because active participation and knowledge of a weapon do not automatically elevate a defendant to a major participant. Option (d) is wrong because failing to personally steal property does not immunize a defendant if the legal criteria are met. Option (e) is wrong because SB 1437 focuses on the defendant's specific mental state, not just the agency of the killer.
+**Explanation:** California's SB 1437 restricts felony murder for accomplices. To be convicted, an accomplice who is not the actual killer and lacks intent to kill must be a "major participant" who acts with "reckless indifference to human life." (b) is correct because this states the exact SB 1437 standard. (a) fails because proving proximate cause is insufficient under SB 1437; the statute specifically requires an elevated, individualized mens rea of reckless indifference. (c) fails because while an inherently dangerous felony is a prerequisite for felony murder, SB 1437 adds specific culpability requirements for non-killers. (d) fails because reckless indifference does not require foreseeing the exact manner of death, only a reckless disregard for the risk to human life generally. (e) fails because causation doctrine alone cannot satisfy SB 1437's statutory culpability requirement for accomplices.
 
-**Tags:** chapters: [14], topics: [felony murder, accomplice liability, major participant, sb 1437], difficulty: hard, cognitive: analysis
-
-**Grounding:** Chapter 14: sb-1437-major-participant
-
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that serving as a getaway driver in a high-speed pursuit demonstrates a profound, objective disregard for human life. Under the *Banks/Clark* continuum, taking actions that dramatically increase the risk of lethal consequences—like fleeing police at high speeds—weighs heavily toward reckless indifference. Therefore, the student could conclude that the act of driving the getaway car inherently meets the standard for reckless indifference required by SB 1437.
-(b) Argument-for: A student might justify this option by noting that knowledge of a co-felon's weapon is a key factor in the California Supreme Court's *Banks/Clark* analysis. Because Leo was an "active participant" and knew Dom was heavily armed, a student might infer that Leo accepted the high risk of a lethal encounter. They would argue this combination of active involvement and knowledge of a loaded weapon is legally sufficient to independently sustain a conviction under SB 1437.
-(c) Argument-for: This option explicitly tracks the statutory requirements of California Penal Code § 189(e), introduced by SB 1437. To hold a non-killer liable for felony murder, the prosecution must prove the defendant acted with intent to kill or was a "major participant" acting with "reckless indifference to human life." Because Leo meets none of these stringent statutory prerequisites, he categorically cannot be convicted of felony murder under this reformed legal standard.
-(d) Argument-for: A student could select this option by reasoning that felony murder liability under SB 1437 requires a high degree of personal involvement in the core dangerous acts of the felony. Since Leo did not personally steal property or inflict injuries during the attempted hijacking, they might view his participation as strictly peripheral. Consequently, the student would argue that the absence of these direct, physical contributions to the underlying crime definitively precludes him from being considered a major participant.
-(e) Argument-for: Under the agency theory of felony murder followed in California, liability generally requires the lethal act to be committed by a co-felon rather than a third party like a police officer. A student could argue that because the officer caused the death, the felony murder rule is strictly inapplicable to all felons involved. They would conclude this third-party intervention automatically shields the participants from felony murder liability, regardless of their individual mental states or major participant status.
-
-Head-to-head:
-Option (c) is the definitively correct answer because it flawlessly recites the triad of liability established by SB 1437. Option (a) fails because it asserts that high-speed driving "inherently establishes" reckless indifference, overriding the required totality-of-the-circumstances test. Option (e) is demonstrably false because it uses "automatically bars" to exclude alternative liability theories and correctly anchors a rigid legal error. However, Options (b) and (d) lack explicit, absolute words locking their legal claims, relying instead on implied sufficiency or necessity. Because these distractors merely assert facts without explicitly framing them as absolute legal rules, they fail the close-call standard.
-
-Falsifiable claim per distractor:
-- (a): "inherently establishes" — wrong because reckless indifference requires a multi-factor factual analysis under *Banks/Clark*, not a categorical presumption based on driving.
-- (b): "Yes, because Leo was an active participant... and had prior knowledge" — wrong because it implicitly treats these facts as definitively sufficient for liability, but it fails to lock this claim with absolute wording.
-- (d): "No, because Leo did not personally steal... or cause any injuries" — wrong because it suggests these acts are necessary for major participant status, but it lacks an absolute word to make this an explicit legal falsehood.
-- (e): "automatically bars felony murder liability for all involved participants" — wrong because it ignores alternative theories like provocative act murder and overstates the agency rule as an absolute categorical bar for all participants.
-
-Recommended fix: Edit (b) to append "...which categorically satisfies the major participant standard." Edit (d) to append "...which automatically precludes a finding of reckless indifference."
--->
-
-## Issue 4 — argpass-opus
-
-**Q12.** Assume the jurisdiction has adopted accomplice felony murder reforms identical to California's SB 1437. Can Leo be convicted of felony murder for Wendy's death?
-
-(a) Yes, because acting as the designated getaway driver in a high-speed pursuit inherently establishes a reckless indifference to human life.
-(b) Yes, because Leo was an active participant in the underlying felony and had prior knowledge that his co-felon Dom was heavily armed.
-(c) No, because Leo was neither the actual killer, nor did he act with intent to kill or as a legally defined major participant. <!-- correct -->
-(d) No, because Leo did not personally steal any property or cause any injuries during the initial execution of the attempted hijacking operation.
-(e) No, because the death was directly caused by a pursuing police officer, which automatically bars felony murder liability for all involved participants.
-
-**Answer:** (c)
-
-**Explanation:** California's SB 1437 restricts felony murder liability for non-killers. To be convicted, the defendant must be the actual killer, act with intent to kill, or be a "major participant" who acts with "reckless indifference to human life." Simply acting as a getaway driver does not automatically satisfy this stringent standard. Option (a) is wrong because the statute requires a fact-specific inquiry, rejecting the premise that driving inherently establishes reckless indifference. Option (b) is wrong because active participation and knowledge of a weapon do not automatically elevate a defendant to a major participant. Option (d) is wrong because failing to personally steal property does not immunize a defendant if the legal criteria are met. Option (e) is wrong because SB 1437 focuses on the defendant's specific mental state, not just the agency of the killer.
-
-**Tags:** chapters: [14], topics: [felony murder, accomplice liability, major participant, sb 1437], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [14, 18], topics: [felony murder, accomplice liability, sb-1437, major participant], difficulty: hard, cognitive: application
 
 **Grounding:** Chapter 14: sb-1437-major-participant
 
 <!-- argument-pass: MUST FIX
-(a) Argument-for: A student could argue that high-speed pursuits from dangerous felonies inherently pose a massive risk to bystanders. Under this view, driving the getaway car justifies a per se finding of reckless indifference to human life. Option (a) leverages this plausible policy argument to conclude that liability automatically attaches to the driver. This makes it a tempting choice for students who believe getaway drivers are categorically strictly liable.
-(b) Argument-for: A student could argue that knowing a co-felon is heavily armed and actively participating in the felony sufficiently satisfies the "major participant" and "reckless indifference" standards. Under this interpretation, Leo’s direct involvement and awareness of the lethal risk are all that is required to meet SB 1437's threshold. This provides a strong, fact-based rationale for conviction, especially to students unfamiliar with the strict *Banks/Clark* factors.
-(c) Argument-for: A student would select this because it precisely mirrors the statutory language and constraints of California's SB 1437. The statute explicitly shields non-killers from felony murder unless they acted with intent to kill or were major participants acting with reckless indifference. Assuming the facts align, because Leo fails to meet any of these specific statutory prongs, he is legally protected from a felony murder conviction, making this the keyed answer.
-(d) Argument-for: A student could argue that strict accomplice liability requires direct participation in the *actus reus* of the underlying felony. Because Leo didn't steal property or injure anyone personally, he lacks the nexus required to be held responsible for the resulting homicide. This option appeals to students who mistakenly believe felony murder requires personal commission of the underlying crime's physical elements.
-(e) Argument-for: A student could argue that under the agency theory of felony murder, a killing by a non-participant breaks the causal chain. California strictly follows this rule (*People v. Washington*), meaning a death directly caused by a pursuing police officer categorically bars a felony murder conviction for the felons (though they may be liable for provocative act murder). Therefore, a student could select this option believing it correctly applies black-letter agency limits to the specific charge of felony murder.
+(a) Argument-for: A student could argue that causation is a fundamental prerequisite for any homicide liability, including felony murder. Since the police cruiser actually struck the pedestrian, the prosecution absolutely must establish that Leo's evasive driving proximately caused the crash to impute the death to him. Because the option merely states that causation must be proved—a true legal requirement—without claiming it is the *only* requirement, it is technically a correct statement of a necessary element.
+(b) Argument-for: A student could argue that California's SB 1437 restricts felony murder for non-killers to those who are "major participants" acting with "reckless indifference to human life." Because Leo is not the actual killer and the prompt stipulates he lacked the intent to kill, this statutory standard is the only available pathway for a felony murder conviction under these facts, making it exactly what the prosecution must prove.
+(c) Argument-for: A student could argue that felony murder liability categorically requires the underlying offense to be an inherently dangerous felony (or an enumerated felony). Without proving that attempted commercial hijacking falls into this category, the felony murder rule cannot be invoked at all. Since the prompt asks what the prosecution "must prove," establishing the inherently dangerous nature of the felony is an indispensable foundational element.
+(d) Argument-for: A student could argue that "reckless indifference" requires subjective awareness of the grave risk to human life created by one's actions. Given the specific factual matrix—a high-speed escape resulting in a police cruiser hitting a pedestrian—the prosecution must prove Leo subjectively foresaw the deadly risk his evasive driving posed.
+(e) Argument-for: A student could argue that when a third party strikes the victim, the causal chain is highly contested. The prosecution must definitively prove that the officer's driving was a dependent intervening cause stemming naturally from Leo's flight, rather than an independent/superseding cause. Failing to prove dependent causation would result in acquittal, making it an essential element the prosecution "must prove."
 
-Head-to-head: The question suffers from two fatal flaws. First, it completely lacks a fact pattern, making it impossible to evaluate the factual premises injected into every option (e.g., whether a cop shot Wendy, whether Leo was a getaway driver, etc.). Second, assuming these facts are implied by the answers, distractor (e) contains a perfectly *true* statement of law: California's agency rule for felony murder does indeed bar a felony murder conviction when the fatal act is committed by a non-participant, such as a pursuing police officer. Thus, (e) is arguably just as correct (if not more correct) than (c) depending on the missing facts. Furthermore, distractors (b) and (d) lack explicit absolute phrasing to lock in falsifiable legal errors, merely misapplying facts or implying rules. 
+Head-to-head: The keyed answer (b) accurately identifies the specific mens rea and actus reus requirements introduced by SB 1437. However, options (a), (c), and (e) are dangerously strong because they also describe foundational elements the prosecution "must prove" (causation, an inherently dangerous felony). Because the prompt simply asks what the prosecution "must prove to convict," any necessary foundational element is technically a correct answer unless the distractor claims to be the *sole* requirement. Options (a), (c), and (e) lack exclusionary language and therefore fail the close-call standard's rule against implicit omissions. Option (d) is safely falsifiable because of the word "exact."
 
 Falsifiable claim per distractor:
-- (a): "inherently establishes a reckless indifference to human life" — wrong because CA uses a totality-of-the-circumstances test, so acting as a getaway driver does not categorically establish this element.
-- (b): None. "Yes, because Leo was an active participant... and had prior knowledge..." — lacks an absolute falsifiable claim. It states a legal conclusion drawn from specific facts, which a student could argue is a valid application of the totality test rather than an explicitly false black-letter rule.
-- (d): None. "No, because Leo did not personally steal..." — lacks an absolute word (like "solely" or "categorically"), though it implicitly relies on the false rule that personal commission of the underlying theft is required.
-- (e): None. "automatically bars felony murder liability for all involved participants" — This is actually *true* under California's agency theory of felony murder (*People v. Washington*), meaning (e) does not contain a false legal claim and would be a fully correct answer if the cop killed Wendy.
+- (a): None. Implicitly omits the SB 1437 requirements, but accurately states that proximate causation must be proved for a homicide conviction.
+- (c): None. Implicitly omits the SB 1437 requirements, but accurately states that an inherently dangerous felony must be proved.
+- (d): "subjectively foresaw the exact possibility" — wrong because reckless indifference requires subjective awareness of a grave risk to life generally, not foresight of the "exact" sequence of events.
+- (e): None. Implicitly omits the SB 1437 requirements, but accurately states that the prosecution must prove the intervening cause was dependent to maintain liability.
 
-Recommended fix: Provide the missing fact pattern detailing Leo's exact role, Dom's actions, and how Wendy died. Ensure the facts state that Dom (the co-felon) killed Wendy, not the police, to safely eliminate (e). To fix the distractors: ensure each contains an absolute legal falsehood (e.g., rewrite (b) to "Yes, because prior knowledge that a co-felon is armed automatically satisfies the major participant standard"; rewrite (d) to "No, because felony murder categorically requires the accomplice to personally commit the underlying theft"). Rewrite (e) so it contains a false statement of law regarding SB 1437 rather than a true statement about the agency rule.
+Recommended fix: Add exclusionary language to distractors (a), (c), and (e) to make them explicitly false. For example, change (a) to "...proximate cause, which is solely sufficient to establish liability regardless of mens rea"; change (c) to "...categorized as inherently dangerous, which automatically satisfies the culpability requirement"; change (e) to "...dependent intervening cause, which categorically overrides the need to prove individualized reckless indifference."
+-->
+
+## Issue 4 — argpass-opus
+
+**Q12.** Assume Leo is prosecuted for Wendy's death in a jurisdiction that has adopted California's SB 1437 reforms limiting felony murder liability for non-killers. What must the prosecution prove to convict Leo of felony murder, assuming he lacked intent to kill?
+
+(a) That Leo's evasive driving was the direct factual and legal proximate cause of the police cruiser losing control and striking the pedestrian at the intersection.
+(b) That Leo was a major participant in the underlying felony and that he acted with reckless indifference to human life during the high-speed pursuit. <!-- correct -->
+(c) That the underlying felony of attempted commercial hijacking is strictly categorized as inherently dangerous in the abstract under the jurisdiction's statutory framework.
+(d) That Leo subjectively foresaw the exact possibility that an innocent pedestrian could be fatally struck by a pursuing law enforcement vehicle during the escape.
+(e) That the police officer's high-speed driving constituted a dependent intervening cause rather than an independent intervening cause that would sever Leo's legal liability.
+
+**Answer:** (b)
+
+**Explanation:** California's SB 1437 restricts felony murder for accomplices. To be convicted, an accomplice who is not the actual killer and lacks intent to kill must be a "major participant" who acts with "reckless indifference to human life." (b) is correct because this states the exact SB 1437 standard. (a) fails because proving proximate cause is insufficient under SB 1437; the statute specifically requires an elevated, individualized mens rea of reckless indifference. (c) fails because while an inherently dangerous felony is a prerequisite for felony murder, SB 1437 adds specific culpability requirements for non-killers. (d) fails because reckless indifference does not require foreseeing the exact manner of death, only a reckless disregard for the risk to human life generally. (e) fails because causation doctrine alone cannot satisfy SB 1437's statutory culpability requirement for accomplices.
+
+**Tags:** chapters: [14, 18], topics: [felony murder, accomplice liability, sb-1437, major participant], difficulty: hard, cognitive: application
+
+**Grounding:** Chapter 14: sb-1437-major-participant
+
+<!-- argument-pass: MUST FIX
+(a) Argument-for: To convict Leo of felony murder, the prosecution must establish factual and proximate causation. If Leo's evasive driving was not a cause of the death, he cannot be convicted of murder, regardless of SB 1437's mens rea reforms. Since establishing the causal chain is a necessary element of the offense, a student could argue the prosecution "must prove" it, making this option technically correct as a mandatory prerequisite for conviction.
+(b) Argument-for: Under California's SB 1437 (Penal Code § 189(e)), an accomplice who is not the actual killer and did not act with the intent to kill can only be convicted of felony murder if they were a "major participant in the underlying felony" and acted "with reckless indifference to human life." Option (b) correctly identifies and quotes this exact statutory standard, directly answering the premise of the prompt's reference to SB 1437.
+(c) Argument-for: Felony murder liability generally requires that the underlying felony be a qualifying offense, which is often one that is inherently dangerous. If a jurisdiction assesses this "in the abstract," the prosecution must establish this legal categorization to proceed with a felony murder theory. Proving the nature of the underlying felony is a mandatory prerequisite to conviction, making this an arguably correct answer to the broad question of what the prosecution "must prove."
+(d) Argument-for: To establish the "reckless indifference to human life" standard required by SB 1437, the prosecution must show the defendant had a subjective awareness of the grave risk to human life. A student could argue that foreseeing the possibility of a fatal collision involving the police during a high-speed pursuit is the factual equivalent of proving this subjective recklessness in this specific scenario. Therefore, establishing this foresight is practically required to secure a conviction.
+(e) Argument-for: In cases where a third party (here, a police officer) is the actual instrument of death, the prosecution must prove that the third party's actions did not break the chain of causation. Demonstrating that the officer's driving was a dependent intervening cause (a normal response to the defendant's fleeing) rather than an independent superseding one is a necessary element of proving proximate cause. Thus, a student could defend this as a true requirement for conviction under the prompt's broad phrasing.
+
+Head-to-head: Option (b) correctly identifies the specific mens rea and participation requirements introduced by SB 1437. However, because the stem broadly asks "What must the prosecution prove to convict Leo...", any necessary element of the crime (causation, qualifying felony) is technically a correct answer unless it contains an explicitly false legal claim. Options (a), (c), and (e) describe general felony murder requirements and only fail due to highly pedantic misstatements of legal doctrine (e.g., claiming the driving must be the "direct" cause in (a), or strictly a "dependent" cause in (e)). Because students could successfully appeal that these distractors describe mandatory elements of the prosecution's case, the question's open-ended stem creates a severe multiple-key vulnerability.
+
+Falsifiable claim per distractor:
+- (a): "direct factual and legal proximate cause" — wrong because the police cruiser's involvement means Leo's driving was an indirect cause, and proximate causation does not require the defendant's conduct to be the "direct" factual cause.
+- (c): "strictly categorized as inherently dangerous in the abstract" — wrong because many jurisdictions (including California under § 189) use enumerated felonies for first-degree felony murder without requiring an abstract inherent-danger analysis.
+- (d): "subjectively foresaw the exact possibility" — wrong because reckless indifference requires subjective awareness of a grave risk to human life generally, not foresight of the precise sequence of events or exact manner of death.
+- (e): "dependent intervening cause rather than an independent intervening cause" — wrong because an independent intervening cause does not automatically sever liability if it is objectively foreseeable; the prosecution does not strictly have to prove the cause was "dependent."
+
+Recommended fix: Change the stem to specifically target the reform and exclude general elements: "Under California's SB 1437 reforms, what specific statutory culpability element must the prosecution establish to convict an accomplice like Leo of felony murder, assuming he lacked intent to kill?"
 -->

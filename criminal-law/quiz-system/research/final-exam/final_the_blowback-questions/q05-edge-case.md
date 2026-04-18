@@ -1,22 +1,22 @@
-**Q5.** Assume Benny is prosecuted in a jurisdiction that follows the Maryland standard (*Beckwitt*) for depraved heart murder. Is Benny guilty of second-degree depraved heart murder?
+**Q5.** Assume Benny is charged with depraved heart murder in a jurisdiction applying Maryland's *Beckwitt* standard. Is the charge appropriate based on the facts?
 
-(a) Yes, because dumping lethal chemicals in a residential area demonstrates a gross deviation from the standard of care a reasonable person would exercise.
-(b) Yes, because Benny's conscious disregard of the toxic cloud risk satisfies the standard for recklessness manifesting extreme indifference to human life.
-(c) No, because the creation of a toxic cloud under pouring rain was not reasonably likely, if not certain, to cause death. <!-- correct -->
-(d) No, because Benny's primary motive was to save his own life from Carmine's threat, completely negating the required element of malice.
-(e) No, because Victor voluntarily assumed the risk of injury by choosing to jog outside near a residential drainage ditch during a rainstorm.
+(a) Yes, because any violation of environmental safety warning labels automatically constitutes a depraved indifference to human life.
+(b) No, because his conduct, while reckless, was not reasonably likely or certain to cause death given the rain. <!-- correct -->
+(c) Yes, because his acknowledgment of the risk to his friend proves he acted with the specific intent to kill.
+(d) No, because depraved heart murder strictly requires that the defendant direct their dangerous conduct at a specific victim.
+(e) Yes, because the reasonable person would have known weather is unpredictable, making the victim's death entirely foreseeable.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** Under Maryland's *Beckwitt* standard, depraved heart murder requires conduct that is "reasonably likely, if not certain, to cause death," which is a higher threshold than gross negligence. Dumping chemicals in a ditch during pouring rain, while highly dangerous, does not meet the near-certainty threshold required to elevate the crime to murder. Option (a) is wrong because gross negligence only establishes involuntary manslaughter, not depraved heart murder. Option (b) applies the MPC standard, not the specific Maryland formulation. Option (d) is wrong because motive (self-preservation) does not legally negate the malice of a highly dangerous act. Option (e) is wrong because jogging in public is not a legally recognized assumption of the risk of toxic gas inhalation.
+**Explanation:** Under *Beckwitt*, depraved heart murder requires conduct that is "reasonably likely, if not certain, to cause death." While Benny was grossly reckless, the pouring rain and lack of people in the area meant his conduct was not *certain or highly likely* to kill, keeping it below the murder threshold. Thus, (b) is correct. (a) is wrong because regulatory violations do not automatically elevate manslaughter to murder. (c) is wrong because depraved heart murder is unintentional; acknowledging risk does not prove specific intent to kill. (d) is wrong because depraved heart murder frequently applies to generalized risks directed at the public, not just specific victims. (e) is wrong because mere foreseeability establishes negligence or recklessness (manslaughter), not the extreme likelihood required for murder.
 
-**Tags:** chapters: [13], topics: [depraved heart murder, extreme indifference, likely if not certain], difficulty: medium, cognitive: application
+**Tags:** chapters: [13], topics: [depraved heart murder, extreme indifference], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 13: likely-if-not-certain-standard / *Beckwitt v. State*
+**Grounding:** Chapter 13 (likely-if-not-certain-standard, *Beckwitt v. State*)
 
-<!-- edge-case-audit: CLEAN
+<!-- edge-case-audit: MUST FIX
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
+2. Cross-Doctrine Clashes: The facts explicitly establish that Benny acted under an imminent threat of death ("you're going in one of the barrels"). Acting under extreme duress to save one's own life arguably negates the "depraved heart" (extreme indifference to the value of human life) mens rea entirely. A sharp student will recognize that the charge fails on these mens rea grounds regardless of the objective risk calculus of the rain, creating a clash that makes the question feel defective.
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+Recommended fix: Add a parenthetical to the question stem: "Assume Benny is charged with depraved heart murder in a jurisdiction applying Maryland's *Beckwitt* standard (ignore any potential duress defenses or mitigations)."
 -->

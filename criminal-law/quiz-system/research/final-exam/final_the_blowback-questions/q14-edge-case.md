@@ -1,18 +1,18 @@
-**Q14.** The prosecution seeks to charge Dom with possession with intent to distribute (PWID) rather than simple possession. What is the strongest basis for inferring an intent to distribute?
+**Q14.** The prosecution charges Possession with Intent to Distribute (PWID) rather than simple possession. Can the intent element be established on these facts?
 
-(a) The fentanyl was found hidden in a vehicle that was actively being used by the defendants to flee from pursuing police officers.
-(b) The sheer quantity of one kilogram is completely inconsistent with personal use and strongly implies an intent to engage in commercial distribution. <!-- correct -->
-(c) The vacuum-sealed packaging conclusively proves that the illicit drugs were recently transported across state lines by a highly organized criminal enterprise.
-(d) Dom's prior involvement in an armed hijacking conspiracy establishes his general criminal intent to commit commercial offenses involving illegal narcotics distribution.
-(e) The presence of another person inside the getaway vehicle satisfies the strict legal requirement of having an intended recipient for the drugs.
+(a) Yes, because a full kilogram of fentanyl vastly exceeds normal personal use, permitting a legal inference of distribution intent. <!-- correct -->
+(b) No, because proving an intent to distribute strictly requires direct physical evidence such as packaging materials, scales, or ledgers.
+(c) Yes, because any detectable amount of a Schedule I narcotic carries a mandatory legal presumption of intent to distribute.
+(d) No, because the vacuum seal indicates the drugs were in bulk storage, preventing any inference of readiness for distribution.
+(e) Yes, because simple fentanyl possession is fundamentally a strict liability offense requiring absolutely no proof of specific intent.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** In narcotics prosecutions, the sheer quantity of the drugs is a primary factor used to distinguish simple possession from possession with intent to distribute. One kilogram of fentanyl is an enormous quantity that is completely inconsistent with personal consumption, strongly implying commercial distribution. Option (a) is wrong because fleeing police indicates consciousness of guilt, but not necessarily an intent to distribute. Option (c) is wrong because vacuum-sealed packaging relates to preservation or concealment, not necessarily the crossing of state lines. Option (d) is wrong because prior involvement in unrelated crimes (hijacking) is generally inadmissible character evidence and does not prove specific intent for narcotics. Option (e) is wrong because the mere presence of a co-defendant does not legally satisfy the element of an intended buyer.
+**Explanation:** Intent to distribute can be legally inferred from the quantity of the drugs alone if the amount is inconsistent with personal use. A full kilogram of fentanyl is a massive, commercial-level quantity that overwhelmingly implies distribution intent. Thus, (a) is correct. (b) is wrong because while scales and ledgers are helpful evidence, they are not strictly required when the quantity alone permits the inference. (c) is wrong because there is no mandatory presumption of distribution for *any* amount; it depends on the quantity. (d) is wrong because bulk packaging is entirely consistent with distribution, not just personal storage. (e) is wrong because PWID is a specific intent crime, not a strict liability offense; the intent must be proven, even if by inference.
 
-**Tags:** chapters: [15], topics: [possession with intent to distribute, quantity inferences], difficulty: easy, cognitive: application
+**Tags:** chapters: [15], topics: [drugs, PWID, quantity inference], difficulty: foundational, cognitive: application
 
-**Grounding:** Chapter 15: qty-pwid
+**Grounding:** Chapter 15 (qty-pwid)
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

@@ -2,41 +2,27 @@
 
 The QA pipeline flagged this question. Rewrite `q02.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — audit
+## Issue 1 — edge-case
 
-<!-- audit: MUST FIX -->
+**Q2.** Assume that, regardless of the premeditation analysis, Carmine claims his charge should be mitigated to voluntary manslaughter because he acted in the heat of passion. In a traditional common law jurisdiction, is Carmine's provocation defense likely to succeed?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) Yes, because discovering that a trusted associate is an FBI informant constitutes a legally recognized category of adequate provocation at common law.
+(b) Yes, because Paulie's taunting words and sneer would cause an objectively reasonable person in Carmine's position to lose all self-control.
+(c) No, because under the common law categorical approach, insulting words alone—no matter how opprobrious—do not constitute legally adequate provocation. <!-- correct -->
+(d) No, because Carmine's split-second decision to shoot demonstrates that a sufficient cooling time had elapsed between the insult and the act.
+(e) No, because the traditional common law rule rigidly limits adequate provocation solely to the sudden discovery of a spouse's adultery.
 
-Error: Model returned empty or blocked response.
+**Answer:** (c)
 
-## Issue 2 — argpass-sonnet
+**Explanation:** At common law, voluntary manslaughter requires adequate provocation that fits within specific historical categories (e.g., mutual combat, assault, or discovering adultery). As held in *Girouard v. State*, words alone—no matter how insulting or upsetting—are never legally adequate provocation. (c) is correct because Paulie merely laughed, sneered, and spoke. (a) fails because discovering a police informant is not a recognized common law category of provocation. (b) fails because the common law does not simply ask if a reasonable person would be provoked; the trigger must be a recognized categorical physical act, not mere words. (d) fails because a split-second decision suggests almost no cooling time elapsed, which would normally favor the defendant rather than defeat the defense. (e) fails because the common law does recognize other categories, such as mutual combat and illegal arrest, not just adultery.
 
-**Q2.** Assume Carmine claims his offense should be mitigated to voluntary manslaughter due to Paulie's mocking laugh and insult. In a strict common law jurisdiction, will this defense succeed?
+**Tags:** chapters: [12], topics: [voluntary manslaughter, provocation, words alone], difficulty: easy, cognitive: application
 
-(a) Yes, because Paulie's sudden admission of being an informant would inflame the passions of any reasonable person in Carmine's situation.
-(b) Yes, because the combination of the insult and the sudden movement toward the jacket satisfies the assault category of adequate provocation.
-(c) No, because mere words and gestures, no matter how opprobrious or upsetting, are never legally adequate provocation at common law. <!-- correct -->
-(d) No, because Carmine's split-second decision to shoot demonstrates he had sufficient time to rationally cool off before acting.
-(e) No, because the heat of passion doctrine strictly requires the victim to have physically struck the defendant first.
+**Grounding:** Chapter 12: words-alone-girouard
 
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that common law incorporates an informational exception where words conveying highly inflammatory facts—such as a sudden, shocking betrayal or admission of being a police informant—are functionally equivalent to discovering adultery. Under this view, if the "informant" admission would provoke a reasonable person to deadly passion, the rigid "words alone" rule yields to the underlying reasonable person standard. Thus, option (a) provides a valid path to mitigation based on sudden, extreme provocation.
-(b) Argument-for: A student could argue that while mere words alone are insufficient, words accompanied by hostile conduct are not. Paulie’s insult combined with a "sudden movement toward the jacket" suggests an imminent threat (potentially reaching for a concealed weapon). This combination elevates the interaction from "mere words" to the common law category of assault, making it legally adequate provocation.
-(c) Argument-for: A student could correctly point out that under strict common law (e.g., *Girouard v. State*), mere words, no matter how offensive or insulting, are categorically inadequate to constitute provocation. Unless the provocation falls into one of the established physical categories (like mutual combat or battery) or the very narrow informational category of witnessing spousal adultery, verbal insults and mocking gestures cannot mitigate murder to manslaughter.
-(d) Argument-for: A student might argue that a "split-second decision" indicates a calculated, instant choice to execute the victim rather than an uncontrollable surge of passion. If Carmine's mind worked quickly enough to make a deliberate decision, the law could interpret this instantaneous clarity as negating the "sudden heat of passion" requirement, legally counting as sufficient time to cool off.
-(e) Argument-for: A student could argue that in a strict common law jurisdiction, the categorical approach is so rigidly bound to physical violence that adequate provocation mandates physical contact. Without discovering adultery (which may not apply here), the rule strictly demands that the victim must have committed a battery—i.e., physically struck the defendant first—to qualify for mitigation.
-
-Head-to-head: Option (c) is the clearly correct answer, accurately stating the strict common law categorical rule that words and gestures alone are insufficient. Option (e) operates as an excellent distractor by relying on a locked false legal rule ("strictly requires... physically struck"), ignoring the adultery and unlawful arrest categories. However, options (a), (b), and (d) fail the strict close-call standard because they rely on factual misapplications or logical contradictions rather than locked, explicitly false legal propositions. Distractor (a) implicitly relies on a false legal rule (that inflaming passions is legally sufficient alone) but lacks an absolute lock; distractor (b) presents a debatable factual conclusion about the elements of assault; distractor (d) offers a logical paradox (split-second = cooling off) instead of a false rule of law. 
-
-Falsifiable claim per distractor:
-- (a): "would inflame the passions of any reasonable person" — wrong because strict common law requires categorical adequacy, not just inflaming a reasonable person, but this lacks absolute language to formally lock the false legal claim.
-- (b): "satisfies the assault category" — wrong because reaching for a jacket does not automatically satisfy the elements of an assault, but lacks an absolute lock to make it an undeniable false legal rule.
-- (d): "demonstrates he had sufficient time to rationally cool off" — wrong because a split-second decision is the antithesis of cooling time, making this a factual/logical error rather than an explicitly false legal claim.
-- (e): "strictly requires the victim to have physically struck the defendant first" — wrong because the common law recognizes other categories (such as witnessing spousal adultery) that do not require physical strikes.
-
-Recommended fix: Inject absolute locking words into distractors (a), (b), and (d). 
-- Change (a) to: "Yes, because any sudden admission that inflames the passions of a reasonable person is categorically sufficient for adequate provocation."
-- Change (b) to: "Yes, because any insult combined with a sudden movement automatically satisfies the assault category of adequate provocation."
-- Change (d) to: "No, because a split-second decision to shoot legally constitutes sufficient time to rationally cool off as a categorical matter of law."
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The explanation explicitly states that Paulie "merely laughed, sneered, and spoke," but the full scenario facts state that Paulie ALSO "quickly reached into his jacket." A sharp student will recognize that a physical act occurred and correctly reject (c) because the provocation was not "words alone."
+2. Cross-Doctrine Clashes: The physical act of reaching into the jacket is meant to trigger imperfect self-defense (for Q3), but because it exists in the fact pattern, it ruins the premise of the "words alone" provocation test in Q2.
+3. Cross-Question Spoilers: pass
+Recommended fix: Modify the question stem to isolate the verbal aspect: "Assume Carmine claims his charge should be mitigated to voluntary manslaughter because he acted in the heat of passion in response to Paulie's admission and insult..." Then update the explanation to acknowledge the physical act, clarifying that while reaching into a jacket may trigger a self-defense analysis, a provocation claim based on the verbal insults fails under the words-alone rule, and reaching for a cigar is not a categorical provocation like mutual combat or actual battery.
 -->

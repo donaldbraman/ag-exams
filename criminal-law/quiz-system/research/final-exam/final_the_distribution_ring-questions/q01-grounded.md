@@ -1,17 +1,17 @@
-**Q1.** The prosecution charges Marcus and Darius with conspiracy to distribute narcotics. They argue that the mandatory weekly meetings to discuss operations and logistics establish the required agreement. Marcus's defense moves for a directed verdict, arguing there is no direct evidence or explicit verbal agreement to distribute drugs. How should the court rule?
+**Q1.** Are Marcus, Darius, and Leon guilty of conspiracy to assault Vance's crew based on the events on Tuesday?
 
-(a) Deny the motion, because an explicit verbal agreement is not required when coordinated conduct strongly implies a mutual understanding to operate a criminal enterprise. <!-- correct -->
-(b) Deny the motion, because mere attendance at weekly meetings is sufficient to establish Pinkerton vicarious liability for the group's actions regardless of any agreement.
-(c) Grant the motion, because traditional conspiracy doctrine requires direct evidence of a bilateral agreement to distribute narcotics.
-(d) Grant the motion, because the prosecution must prove that Marcus and Darius specifically intended to commit an overt act in furtherance of the distribution.
-(e) Grant the motion, because participating in organizational meetings establishes only knowledge of the enterprise, not the specific purpose required for a conspiracy.
+(a) Guilty, because their coordinated action of taking up watch positions following Marcus's command allows a jury to infer a mutual agreement. <!-- correct -->
+(b) Not guilty, because Darius and Leon did not verbally consent or explicitly communicate their acceptance of Marcus's plan.
+(c) Not guilty, because Marcus's command to "beat them down if you have to" was conditional, preventing the formation of a definite criminal purpose.
+(d) Guilty, because Marcus possessed the specific intent to promote an assault, which satisfies the unilateral requirement for all three parties.
+(e) Not guilty, because taking up a watch position is merely preparatory and fails to satisfy the overt act requirement for conspiracy.
 
 **Answer:** (a)
 
-**Explanation:** The correct answer is (a) because conspiratorial agreements are rarely proven with direct evidence; courts regularly infer agreement from coordinated conduct that lacks a plausible innocent explanation. Here, mandatory weekly operations meetings for a drug distribution network satisfy this standard. Option (b) fails because Pinkerton is a doctrine of vicarious liability for substantive crimes, not a substitute for proving the underlying conspiratorial agreement. Option (c) fails because direct evidence is virtually never required; circumstantial evidence suffices. Option (d) fails because while an overt act is often required, the specific intent attaches to the target offense, not the overt act itself. Option (e) fails because organizing mandatory logistical meetings for a crew goes beyond mere knowledge and demonstrates a shared purpose to further the enterprise.
+**Explanation:** (a) is correct. Conspiracy requires an agreement, but explicit words are rarely necessary; a mutual understanding can be inferred from coordinated conduct that has no plausible innocent explanation. (b) is incorrect because explicit verbal agreement is not required. (c) is incorrect because conditional intent to commit a crime still constitutes a criminal agreement. (d) is incorrect because the unilateral approach focuses on a specific defendant's belief that they are agreeing, but does not impute an agreement to parties who haven't actually formed one. (e) is incorrect because the overt act requirement for conspiracy is exceedingly minimal and easily satisfied by taking a watch position.
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement-inference], difficulty: easy, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, agreement-inference], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19, Agreement Inference; Dan Markel case study.
+**Grounding:** Chapter 19: Conspiracy > Elements > Prima Facie Elements > Agreement (Inferring agreement from coordinated conduct)
 
-<!-- grounding: GROUNDED — Agreement Inference, Ch 19, Refinement `agreement-inference`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Conspiracy agreement inference, Ch 19, Refinement `agreement-inference`. Rule paraphrased accurately. -->

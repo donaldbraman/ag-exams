@@ -4,33 +4,54 @@ The QA pipeline flagged this question. Rewrite `q13.md` addressing each numbered
 
 ## Issue 1 — audit
 
-<!-- audit: MUST FIX -->
+**Q13.** Both Dom and Leo are charged with constructive possession of the fentanyl found in the center console. Which of the following is the most accurate assessment of the constructive possession charges under the modern awareness and control standard?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) Leo is automatically guilty because he is the registered owner of the car, which establishes absolute strict liability for any contraband found inside the vehicle.
+(b) Both are guilty because they were in joint physical proximity to the center console during the high-speed pursuit, satisfying the possession element for all occupants.
+(c) Dom is likely guilty because his bag and fingerprints demonstrate awareness and ability to control, while Leo's mere ownership may be insufficient without additional links. <!-- correct -->
+(d) Neither is guilty because the drugs were vacuum-sealed and hidden inside the console, meaning neither defendant had actual physical possession of the narcotics at the time.
+(e) Dom is not guilty because the drugs were not inside his personal duffel bag, but Leo is guilty because the console is a built-in feature of his car.
 
-Error: Model returned empty or blocked response.
+**Answer:** (c)
+
+**Explanation:** Constructive possession requires proof that the defendant had both knowledge of the contraband and the power and intention to exercise control over it. Physical proximity or vehicle ownership alone is generally insufficient without additional "linking" factors. (c) is correct because Dom's duffel bag pressing against the console and his fingerprints on the latch provide the necessary nexus linking him to the hidden drugs, whereas Leo's mere ownership of the vehicle, without more, may fail the control standard. (a) fails because vehicle ownership does not create strict liability for hidden contraband. (b) fails because mere proximity to hidden drugs is legally insufficient to prove constructive possession. (d) fails because actual physical possession is not required; constructive possession was developed specifically for hidden contraband. (e) fails because contraband does not need to be inside a personal bag if there is other linking evidence like fingerprints.
+
+**Tags:** chapters: [15], topics: [constructive possession, awareness and control, drugs], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 15: cp-awareness-control
+
+<!-- audit: MUST FIX
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: MUST FIX. The question entirely lacks a fact pattern. The stem abruptly refers to "the fentanyl found in the center console," while the options and explanation rely on a series of unstated facts (e.g., a "high-speed pursuit," Leo's vehicle ownership, Dom's "bag and fingerprints"). A student cannot evaluate the application of the doctrine to the facts without the facts themselves. 
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Recommended fix: Prepend the missing narrative fact pattern to the question stem, clearly establishing Leo's ownership of the car, the high-speed pursuit, the hidden fentanyl, and the physical location of Dom's bag and fingerprints.
+-->
 
 ## Issue 2 — edge-case
 
-**Q13.** Dom and Leo are charged with constructive possession of the fentanyl found in the console. Which of the following most accurately describes the evidentiary hurdles for proving their possession?
+**Q13.** Both Dom and Leo are charged with constructive possession of the fentanyl found in the center console. Which of the following is the most accurate assessment of the constructive possession charges under the modern awareness and control standard?
 
-(a) Leo's registered ownership of the car automatically establishes his exclusive constructive possession, precluding any possession charges against his passenger Dom.
-(b) Dom's physical proximity to the console and his fingerprints on the latch are sufficient to establish his power and intent to control. <!-- correct -->
-(c) Neither can be charged because the opaque, vacuum-sealed nature of the package proves they lacked actual awareness of the specific illicit contents.
-(d) Both are strictly liable for the fentanyl because it was discovered in a shared vehicle area during the commission of a separate felony.
-(e) Only Leo can be convicted because a mere passenger cannot legally exercise dominion and control over a vehicle's built-in center console compartments.
+(a) Leo is automatically guilty because he is the registered owner of the car, which establishes absolute strict liability for any contraband found inside the vehicle.
+(b) Both are guilty because they were in joint physical proximity to the center console during the high-speed pursuit, satisfying the possession element for all occupants.
+(c) Dom is likely guilty because his bag and fingerprints demonstrate awareness and ability to control, while Leo's mere ownership may be insufficient without additional links. <!-- correct -->
+(d) Neither is guilty because the drugs were vacuum-sealed and hidden inside the console, meaning neither defendant had actual physical possession of the narcotics at the time.
+(e) Dom is not guilty because the drugs were not inside his personal duffel bag, but Leo is guilty because the console is a built-in feature of his car.
 
-**Answer:** (b)
+**Answer:** (c)
 
-**Explanation:** Constructive possession requires the prosecution to prove the defendant had both the power and the intent to exercise dominion and control over the contraband. Dom's physical proximity to the console, combined with his fingerprints on the latch, provides a strong evidentiary nexus establishing this control. Option (a) is wrong because constructive possession can be joint; ownership does not grant exclusive possession. Option (c) is wrong because intent and awareness can be inferred from circumstantial evidence, even if the packaging is sealed. Option (d) is wrong because strict liability does not apply to possession; the prosecution must still prove awareness and intent to control. Option (e) is wrong because passengers can exercise joint dominion and control over areas of a vehicle they can access.
+**Explanation:** Constructive possession requires proof that the defendant had both knowledge of the contraband and the power and intention to exercise control over it. Physical proximity or vehicle ownership alone is generally insufficient without additional "linking" factors. (c) is correct because Dom's duffel bag pressing against the console and his fingerprints on the latch provide the necessary nexus linking him to the hidden drugs, whereas Leo's mere ownership of the vehicle, without more, may fail the control standard. (a) fails because vehicle ownership does not create strict liability for hidden contraband. (b) fails because mere proximity to hidden drugs is legally insufficient to prove constructive possession. (d) fails because actual physical possession is not required; constructive possession was developed specifically for hidden contraband. (e) fails because contraband does not need to be inside a personal bag if there is other linking evidence like fingerprints.
 
-**Tags:** chapters: [15], topics: [constructive possession, awareness, control], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [constructive possession, awareness and control, drugs], difficulty: medium, cognitive: application
 
 **Grounding:** Chapter 15: cp-awareness-control
 
 <!-- edge-case-audit: SHOULD FIX
-1. Fact Pattern Booby Traps: The facts establish the fentanyl was "vacuum-sealed" (odorless) and "hidden" inside the console of Leo's car, and Dom was merely a passenger who just jumped in. Because constructive possession requires *awareness* of the contraband, stating that fingerprints on the outside latch and proximity "are sufficient to establish" his intent to control is highly debatable. In many jurisdictions, this evidence alone is legally insufficient to prove a passenger's knowledge of hidden contents.
+1. Fact Pattern Booby Traps: Leo is not just the absentee registered owner; the facts establish he was the driver of the vehicle during the chase. Option (c) describes his connection as "mere ownership," ignoring that as the driver/owner physically present right next to the center console, he has a strong baseline inference of awareness and control. This makes the contrasting statement in (c) legally debatable, as courts routinely uphold joint constructive possession for driver-owners in this exact scenario.
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: Soften the language in (b) so it is legally defensible (e.g., change "are sufficient to establish" to "serve as circumstantial evidence the prosecution could use to argue his power and intent to control").
+Recommended fix: Revise (c) to focus on Dom's links without improperly downplaying Leo's. For example: "(c) Dom is likely guilty because his bag and fingerprints demonstrate his awareness and ability to control, establishing the required nexus even if Leo also had joint possession as the driver and owner." Update the explanation accordingly.
 -->

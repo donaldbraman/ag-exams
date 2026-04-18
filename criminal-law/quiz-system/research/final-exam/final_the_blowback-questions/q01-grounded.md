@@ -1,17 +1,17 @@
-**Q1.** In a common law jurisdiction following the Pennsylvania rule for premeditation, is Carmine guilty of first-degree murder for killing Paulie?
+**Q1.** Assume Carmine is charged with first-degree premeditated murder in a majority jurisdiction following the Pennsylvania rule. He argues the killing was a spontaneous reaction to Paulie reaching for his jacket, not a premeditated act. How should the court rule on the premeditation element?
 
-(a) Guilty, because any conscious decision to kill, no matter how brief, satisfies the premeditation requirement. <!-- correct -->
-(b) Guilty, because Carmine lured Paulie to the boat, satisfying the prolonged reflection requirement for first-degree murder.
-(c) Not guilty, because the split-second nature of the decision precludes the formation of malice aforethought required for murder.
-(d) Not guilty, because an impulsive reflex provoked by an insult cannot legally satisfy the time element for deliberation.
-(e) Not guilty, because the confrontation escalated unexpectedly, removing the possibility of establishing premeditation under the common law.
+(a) Satisfied, because the split-second conscious decision to shoot is legally sufficient for premeditation. <!-- correct -->
+(b) Unsatisfied, because he did not possess the specific intent to kill when he first arranged the meeting.
+(c) Unsatisfied, because the law requires at least some meaningful duration of time to reflect on the killing.
+(d) Satisfied, because luring someone to a private location creates an irrebuttable presumption of malice.
+(e) Unsatisfied, because the sudden insult provoked an automatic reflex rather than a deliberate, willful act.
 
 **Answer:** (a)
 
-**Explanation:** Under the Pennsylvania rule (*Commonwealth v. Carroll*), no time is too short to form premeditation; any conscious decision to kill, even a split-second one, satisfies the requirement for first-degree murder. Carmine made a conscious decision to draw and fire, fulfilling this standard. Option (b) is wrong because luring Paulie without an initial intent to kill does not establish the required reflection at the time of the act. Option (c) is wrong because the rule explicitly rejects the need for prolonged reflection. Option (d) is wrong because an impulsive reflex can still be a conscious choice under this broad standard. Option (e) is wrong because sudden escalation does not legally negate an instantaneous decision to kill.
+**Explanation:** Under the Pennsylvania rule (*Commonwealth v. Carroll*), "no time is too short" to form premeditation; the instantaneous, conscious decision to kill fully satisfies the element. Thus, (a) is correct. (b) is wrong because premeditation does not need to be formed far in advance. (c) is wrong because it describes a minority approach that requires actual temporal reflection, which the Pennsylvania rule explicitly rejects. (d) is wrong because while luring is evidence, it does not create an irrebuttable presumption, and Carmine lacked intent at that point anyway. (e) is wrong because under the *Carroll* standard, even rapid, impulsive intentional killings qualify as premeditated as long as the decision was conscious.
 
-**Tags:** chapters: [12], topics: [intentional homicide, premeditation, pennsylvania rule], difficulty: medium, cognitive: application
+**Tags:** chapters: [12], topics: [intentional homicide, premeditation, pennsylvania rule], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 12: no-time-too-short / *Commonwealth v. Carroll*
+**Grounding:** Chapter 12 (no-time-too-short, *Commonwealth v. Carroll*)
 
-<!-- grounding: GROUNDED — Pennsylvania rule, Ch 12, Refinement `no-time-too-short`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Pennsylvania Rule / No time is too short, Ch 12, Refinement `no-time-too-short`. Rule paraphrased accurately. -->

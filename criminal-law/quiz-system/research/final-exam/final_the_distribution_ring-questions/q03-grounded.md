@@ -1,17 +1,17 @@
-**Q3.** Assume Darius is prosecuted in a Model Penal Code (MPC) jurisdiction. He is convicted of attempted murder. At sentencing, Darius argues that because the murder was incomplete, he should categorically face a lower sentencing range than if he had successfully killed Vance. How should the court rule on his sentencing argument?
+**Q3.** Assume the jurisdiction has adopted the Model Penal Code approach to impossibility. Can Darius assert impossibility as a defense to attempted murder, given that the "silhouette" was actually a pile of trash bags?
 
-(a) Reject the argument, because the MPC punishes attempts at the same grade as the completed offense, reflecting the view that his culpability is identical. <!-- correct -->
-(b) Reject the argument, because attempted murder is a structurally inchoate offense that always carries a mandatory life sentence under the categorical approach.
-(c) Accept the argument, because the MPC mandates a one-grade reduction for all attempts to reflect the lesser social harm caused by the incomplete act.
-(d) Accept the argument, because the MPC applies the dangerous proximity test, which inherently grades uncompleted acts lower than fully consummated target offenses.
-(e) Accept the argument, because the felony-murder rule cannot be triggered by an attempt, requiring the court to impose a reduced sentence for the failure.
+(a) Yes, because it is legally impossible to murder trash bags, meaning his conduct could not constitute a crime even if successful.
+(b) No, because the MPC abolished factual impossibility but retained the common law defense of legal impossibility, which applies here.
+(c) Yes, because his acts did not create an actual danger to any human life, negating the actus reus requirement for attempted murder.
+(d) No, because under the MPC, a defendant is guilty of attempt if the conduct would constitute the crime had the circumstances been as he believed them to be. <!-- correct -->
+(e) Yes, because shooting a pile of trash bags is not a prohibited act under any statute, making this a pure legal impossibility.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** The correct answer is (a) because MPC § 5.05 grades attempts at the same level as the completed offense (with exceptions for capital crimes), focusing on the actor's culpable mental state and antisocial disposition rather than the lucky outcome of a failed crime. Option (b) fails because attempted murder is not a structurally inchoate offense (like burglary); it is a general attempt. Option (c) fails because it describes the traditional common law grading reduction rule, which the MPC explicitly rejected. Option (d) fails because the MPC uses the substantial step test, not the dangerous proximity test, and test choice doesn't dictate grading. Option (e) fails because while true that felony-murder isn't triggered without a death, this has nothing to do with how the attempt itself is graded under the MPC.
+**Explanation:** (d) is correct. The MPC largely abolishes the impossibility defense (both factual and hybrid legal) by evaluating the defendant's culpability based on the circumstances as they believed them to be. Since Darius believed the silhouette was a rival dealer, he is liable. (a) is incorrect because the MPC focuses on the defendant's subjective belief, not the objective reality. (b) is incorrect because the MPC essentially collapsed factual and hybrid legal impossibility. (c) is incorrect because actual danger is not required under the MPC's subjectively oriented framework. (e) is incorrect because "pure" legal impossibility (where the intended goal isn't a crime even in the defendant's mind) does not apply; Darius intended to commit murder, which is a crime.
 
-**Tags:** chapters: [17], topics: [attempt, grading-mpc-equal, grading-general-reduction], difficulty: easy, cognitive: recall
+**Tags:** chapters: [17], topics: [attempt, impossibility, mpc], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17, Grading MPC Equal; MPC § 5.05.
+**Grounding:** Chapter 17: Attempts > Liability Limits > Impossibility MPC Abolition
 
-<!-- grounding: GROUNDED — MPC equal grading for attempts, Ch 17, Refinement `grading-mpc-equal`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — MPC impossibility, Ch 17, Refinement `impossibility-mpc`. Rule paraphrased accurately. -->

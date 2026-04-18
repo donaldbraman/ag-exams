@@ -4,85 +4,129 @@ The QA pipeline flagged this question. Rewrite `q05.md` addressing each numbered
 
 ## Issue 1 — audit
 
-<!-- audit: MUST FIX -->
+**Q5.** Assume Benny is instead prosecuted in a common-law jurisdiction that follows the strict standard for depraved heart murder articulated in Maryland (*Beckwitt v. State*). Is Benny guilty of depraved heart murder for Victor's death?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
-
-Error: Model returned empty or blocked response.
-
-## Issue 2 — argpass-sonnet
-
-**Q5.** Assume Benny is prosecuted in a jurisdiction that follows the Maryland standard (*Beckwitt*) for depraved heart murder. Is Benny guilty of second-degree depraved heart murder?
-
-(a) Yes, because dumping lethal chemicals in a residential area demonstrates a gross deviation from the standard of care a reasonable person would exercise.
-(b) Yes, because Benny's conscious disregard of the toxic cloud risk satisfies the standard for recklessness manifesting extreme indifference to human life.
-(c) No, because the creation of a toxic cloud under pouring rain was not reasonably likely, if not certain, to cause death. <!-- correct -->
-(d) No, because Benny's primary motive was to save his own life from Carmine's threat, completely negating the required element of malice.
-(e) No, because Victor voluntarily assumed the risk of injury by choosing to jog outside near a residential drainage ditch during a rainstorm.
+(a) Yes, because dumping fifty barrels of highly toxic chemicals in a residential area constitutes an extreme gross deviation from the ordinary standard of care.
+(b) Yes, because an objectively reasonable person would have known that concentrated chemical fumes in a residential area were highly likely to cause human death.
+(c) No, because given the pouring rain and lack of anticipated foot traffic, his conduct was not reasonably likely, if not certain, to cause death. <!-- correct -->
+(d) No, because he dumped the chemicals under an imminent threat of death from Carmine, which serves as a complete affirmative defense to any murder charge.
+(e) No, because the jogger's voluntary act of running past the ditch in the rain constituted an independent intervening cause that severed the chain of liability.
 
 **Answer:** (c)
 
-**Explanation:** Under Maryland's *Beckwitt* standard, depraved heart murder requires conduct that is "reasonably likely, if not certain, to cause death," which is a higher threshold than gross negligence. Dumping chemicals in a ditch during pouring rain, while highly dangerous, does not meet the near-certainty threshold required to elevate the crime to murder. Option (a) is wrong because gross negligence only establishes involuntary manslaughter, not depraved heart murder. Option (b) applies the MPC standard, not the specific Maryland formulation. Option (d) is wrong because motive (self-preservation) does not legally negate the malice of a highly dangerous act. Option (e) is wrong because jogging in public is not a legally recognized assumption of the risk of toxic gas inhalation.
+**Explanation:** Under *Beckwitt*, depraved heart murder requires conduct that is "reasonably likely, if not certain, to cause death"—a threshold higher than mere gross negligence or recklessness, requiring an evaluation of both the act and the specific environmental risk factors. (c) is correct because in the specific environmental conditions at the time (pouring rain diluting the fumes, no one expected to jog), death was not "likely, if not certain," even if dumping it was highly reckless. (a) fails because a "gross deviation from the standard of care" is the standard for involuntary manslaughter, not depraved heart murder. (b) fails because the environmental conditions at the time mitigated the immediate likelihood of death. (d) fails because duress is never a defense to intentional murder, and many jurisdictions bar it for depraved heart murder as well; more fundamentally, his conduct fails the *Beckwitt* probability threshold. (e) fails because a jogger running outside is a highly foreseeable event, not an independent intervening cause.
 
-**Tags:** chapters: [13], topics: [depraved heart murder, extreme indifference, likely if not certain], difficulty: medium, cognitive: application
+**Tags:** chapters: [13], topics: [depraved heart murder, extreme indifference, likely if not certain], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 13: likely-if-not-certain-standard / *Beckwitt v. State*
+**Grounding:** Chapter 13: likely-if-not-certain-standard
 
-<!-- argument-pass: MUST FIX
-(a) Argument-for: A student could argue that dumping "lethal chemicals" in a "residential area" is an extremely hazardous act. The option accurately describes this as a "gross deviation from the standard of care." Because a reasonable person would never dump lethal chemicals where people live, a student might conclude that this egregious level of negligence is definitively sufficient to satisfy the requirements for depraved heart murder, making this option an attractive choice.
-(b) Argument-for: A student could argue that Benny's actions perfectly meet the traditional "recklessness manifesting extreme indifference to human life" standard taught in most criminal law courses. Creating a toxic cloud in a residential area undeniably demonstrates a conscious disregard for a massive risk to human life. Because the question involves highly lethal chemicals, a student could reasonably conclude that this extreme indifference is so severe it warrants a murder conviction even under Maryland's heightened threshold.
-(c) Argument-for: A student would argue that this option correctly identifies and applies the specific legal test requested: Maryland's *Beckwitt* standard. *Beckwitt* requires that the defendant's conduct be "reasonably likely, if not certain, to cause death." While dumping the chemicals is highly dangerous, variables such as pouring rain and the outdoor environment mean that death is a mere possibility rather than a near-certainty. Thus, the facts fall logically short of the specific, heightened legal threshold required by the jurisdiction.
-(d) Argument-for: A student could argue that Benny's mental state was driven entirely by self-preservation ("to save his own life from Carmine's threat"). Because malice historically implies a wicked, abandoned, or depraved mind, a student might reason that acting strictly out of necessity or duress completely negates the extreme indifference required for depraved heart murder. Under this view, the justifiable survival motive overrides the malice aforethought element.
-(e) Argument-for: A student could argue that Victor's choice to jog outside during a severe rainstorm next to a drainage ditch was highly unreasonable and constitutes an assumption of the risk. In some legal contexts, a victim's unforeseeable or deeply negligent behavior can sever the chain of proximate causation. Therefore, a student might conclude that Victor's voluntary exposure to dangerous weather conditions legally absolves Benny of homicide liability.
-
-Head-to-head: 
-Option (c) correctly identifies the unique *Beckwitt* standard, but its factual conclusion is highly vulnerable; a strong student could easily argue that creating a lethal toxic cloud in a residential area *is* factually "likely, if not certain" to cause death, making Option (b) arguably just as strong. Furthermore, Options (a) and (b) fail the close-call standard because they rely on implicit omissions rather than explicit, falsifiable legal claims. Both accurately describe Benny's conduct under lesser mens rea standards (gross negligence and MPC extreme indifference) but fail to explicitly and falsely state that these standards are *legally sufficient* to satisfy the *Beckwitt* rule. Option (d) provides a strong distractor by using the absolute phrase "completely negating," and Option (e) uses a great explicitly false legal concept for criminal law ("voluntarily assumed the risk").
-
-Falsifiable claim per distractor:
-- (a): "demonstrates a gross deviation from the standard of care..." — implicitly wrong because this is the standard for involuntary manslaughter, not *Beckwitt* murder, but lacks an absolute word stating this standard categorically establishes murder.
-- (b): "satisfies the standard for recklessness manifesting extreme indifference..." — implicitly wrong because it cites the MPC standard rather than the requested MD standard, but it lacks an explicitly false claim that this standard legally governs in Maryland.
-- (d): "completely negating the required element of malice" — wrong because a self-preservation motive does not categorically or legally negate the objective malice of an extremely reckless act.
-- (e): "voluntarily assumed the risk of injury" — wrong because assumption of risk is a tort doctrine, not a recognized defense to criminal homicide.
-
-Recommended fix: MUST FIX. Revise (a) and (b) to include explicit, locked false legal claims so they do not rely on implicit omissions. Revise (c) to firmly tie the conclusion to the legal rule rather than a debatable factual premise.
-Example edits:
-(a) Yes, because a gross deviation from the standard of care categorically establishes malice for depraved heart murder in every jurisdiction.
-(b) Yes, because the MPC standard of recklessness manifesting extreme indifference to human life automatically satisfies the *Beckwitt* test.
-(c) No, because under the *Beckwitt* standard, the conduct must be reasonably likely, if not certain, to cause death, an evidentiary threshold these facts fail to reach.
+<!-- audit: MUST FIX
+Check 1: Fails. Concluding as a matter of law that dumping 50 barrels of "highly toxic chemicals" in a residential area does *not* meet the "likely, if not certain" standard is factually highly debatable. A jury could easily find that dumping massive quantities of toxins in a populated area is likely to cause death, regardless of the rain.
+Check 2: Fails. A smart student could easily attack (c) by arguing that rain spreading toxic chemicals in a residential neighborhood actually *increases* the likelihood of death (e.g., toxic runoff into yards/water, fumes entering homes) and therefore the Beckwitt standard might actually be met. 
+Check 3: Fails. The explanation relies on a dubious scientific assumption ("pouring rain diluting the fumes") that is not established in the question text. Rain can cause violent reactions with certain chemicals or spread toxic liquids rather than safely mitigating them.
+Check 4: Fails completely. The stem begins with "Assume Benny is instead prosecuted...", indicating that this is an orphaned follow-up question disconnected from its base fact pattern. Students cannot answer it without the missing facts. 
+Check 5: Pass. The stem cleanly specifies the Beckwitt standard for depraved heart murder.
+Check 6: Pass. No excluded topics are present.
+Check 7: Pass. The `likely-if-not-certain-standard` is mapped to Chapter 13.
+Recommended fix: First, integrate the missing fact pattern into the stem so the question can stand alone. Second, change the core facts. Relying on debatable environmental/chemical assumptions to negate a mens rea standard is a trap. Instead, use a classic extreme indifference scenario with clear legal boundaries (e.g., firing a weapon into what the defendant reasonably believed was an entirely abandoned building, vs. a crowded room) to test the exact contours of the Beckwitt standard.
 -->
 
-## Issue 3 — argpass-opus
+## Issue 2 — edge-case
 
-**Q5.** Assume Benny is prosecuted in a jurisdiction that follows the Maryland standard (*Beckwitt*) for depraved heart murder. Is Benny guilty of second-degree depraved heart murder?
+**Q5.** Assume Benny is instead prosecuted in a common-law jurisdiction that follows the strict standard for depraved heart murder articulated in Maryland (*Beckwitt v. State*). Is Benny guilty of depraved heart murder for Victor's death?
 
-(a) Yes, because dumping lethal chemicals in a residential area demonstrates a gross deviation from the standard of care a reasonable person would exercise.
-(b) Yes, because Benny's conscious disregard of the toxic cloud risk satisfies the standard for recklessness manifesting extreme indifference to human life.
-(c) No, because the creation of a toxic cloud under pouring rain was not reasonably likely, if not certain, to cause death. <!-- correct -->
-(d) No, because Benny's primary motive was to save his own life from Carmine's threat, completely negating the required element of malice.
-(e) No, because Victor voluntarily assumed the risk of injury by choosing to jog outside near a residential drainage ditch during a rainstorm.
+(a) Yes, because dumping fifty barrels of highly toxic chemicals in a residential area constitutes an extreme gross deviation from the ordinary standard of care.
+(b) Yes, because an objectively reasonable person would have known that concentrated chemical fumes in a residential area were highly likely to cause human death.
+(c) No, because given the pouring rain and lack of anticipated foot traffic, his conduct was not reasonably likely, if not certain, to cause death. <!-- correct -->
+(d) No, because he dumped the chemicals under an imminent threat of death from Carmine, which serves as a complete affirmative defense to any murder charge.
+(e) No, because the jogger's voluntary act of running past the ditch in the rain constituted an independent intervening cause that severed the chain of liability.
 
 **Answer:** (c)
 
-**Explanation:** Under Maryland's *Beckwitt* standard, depraved heart murder requires conduct that is "reasonably likely, if not certain, to cause death," which is a higher threshold than gross negligence. Dumping chemicals in a ditch during pouring rain, while highly dangerous, does not meet the near-certainty threshold required to elevate the crime to murder. Option (a) is wrong because gross negligence only establishes involuntary manslaughter, not depraved heart murder. Option (b) applies the MPC standard, not the specific Maryland formulation. Option (d) is wrong because motive (self-preservation) does not legally negate the malice of a highly dangerous act. Option (e) is wrong because jogging in public is not a legally recognized assumption of the risk of toxic gas inhalation.
+**Explanation:** Under *Beckwitt*, depraved heart murder requires conduct that is "reasonably likely, if not certain, to cause death"—a threshold higher than mere gross negligence or recklessness, requiring an evaluation of both the act and the specific environmental risk factors. (c) is correct because in the specific environmental conditions at the time (pouring rain diluting the fumes, no one expected to jog), death was not "likely, if not certain," even if dumping it was highly reckless. (a) fails because a "gross deviation from the standard of care" is the standard for involuntary manslaughter, not depraved heart murder. (b) fails because the environmental conditions at the time mitigated the immediate likelihood of death. (d) fails because duress is never a defense to intentional murder, and many jurisdictions bar it for depraved heart murder as well; more fundamentally, his conduct fails the *Beckwitt* probability threshold. (e) fails because a jogger running outside is a highly foreseeable event, not an independent intervening cause.
 
-**Tags:** chapters: [13], topics: [depraved heart murder, extreme indifference, likely if not certain], difficulty: medium, cognitive: application
+**Tags:** chapters: [13], topics: [depraved heart murder, extreme indifference, likely if not certain], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 13: likely-if-not-certain-standard / *Beckwitt v. State*
+**Grounding:** Chapter 13: likely-if-not-certain-standard
+
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The sheer quantity (50 barrels / ~2,500 gallons) and location ("residential ditch") make the risk of death so exceptionally high that stating the conduct was definitively *not* "likely, if not certain" to cause death as a matter of law is factually and legally suspect. A reasonable student would argue that dumping industrial quantities of lethal chemicals next to people's homes easily meets the strict *Beckwitt* standard despite a temporary rainfall, making (b) highly defensible.
+2. Cross-Doctrine Clashes: Pass.
+3. Cross-Question Spoilers: Pass.
+Recommended fix: Rewrite the options so the correct answer does not rely on the highly debatable factual conclusion that rain completely mitigates the risk of 50 barrels of lethal chemicals in a residential area. Alternatively, change the correct answer to a "Yes" option that explicitly uses the "likely, if not certain" standard, acknowledging the extreme objective danger of a massive chemical dump in a neighborhood.
+-->
+
+## Issue 3 — argpass-sonnet
+
+**Q5.** Assume Benny is instead prosecuted in a common-law jurisdiction that follows the strict standard for depraved heart murder articulated in Maryland (*Beckwitt v. State*). Is Benny guilty of depraved heart murder for Victor's death?
+
+(a) Yes, because dumping fifty barrels of highly toxic chemicals in a residential area constitutes an extreme gross deviation from the ordinary standard of care.
+(b) Yes, because an objectively reasonable person would have known that concentrated chemical fumes in a residential area were highly likely to cause human death.
+(c) No, because given the pouring rain and lack of anticipated foot traffic, his conduct was not reasonably likely, if not certain, to cause death. <!-- correct -->
+(d) No, because he dumped the chemicals under an imminent threat of death from Carmine, which serves as a complete affirmative defense to any murder charge.
+(e) No, because the jogger's voluntary act of running past the ditch in the rain constituted an independent intervening cause that severed the chain of liability.
+
+**Answer:** (c)
+
+**Explanation:** Under *Beckwitt*, depraved heart murder requires conduct that is "reasonably likely, if not certain, to cause death"—a threshold higher than mere gross negligence or recklessness, requiring an evaluation of both the act and the specific environmental risk factors. (c) is correct because in the specific environmental conditions at the time (pouring rain diluting the fumes, no one expected to jog), death was not "likely, if not certain," even if dumping it was highly reckless. (a) fails because a "gross deviation from the standard of care" is the standard for involuntary manslaughter, not depraved heart murder. (b) fails because the environmental conditions at the time mitigated the immediate likelihood of death. (d) fails because duress is never a defense to intentional murder, and many jurisdictions bar it for depraved heart murder as well; more fundamentally, his conduct fails the *Beckwitt* probability threshold. (e) fails because a jogger running outside is a highly foreseeable event, not an independent intervening cause.
+
+**Tags:** chapters: [13], topics: [depraved heart murder, extreme indifference, likely if not certain], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 13: likely-if-not-certain-standard
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that Benny's dumping of lethal chemicals in a residential area is undeniably highly dangerous. Depraved heart murder requires an exceptionally high degree of negligence, often described as a gross deviation from a reasonable standard of care. By characterizing the chemical dumping as a gross deviation, this option accurately captures the foundational mens rea for unintentional homicide. Therefore, the student might conclude that this extreme recklessness in a residential zone satisfies the requirement for depraved heart murder.
-(b) Argument-for: A student could contend that depraved heart murder is universally understood as a homicide resulting from "recklessness manifesting extreme indifference to human life," which is the Model Penal Code standard. Even if a jurisdiction has specific case law like *Beckwitt*, the core underlying concept remains extreme indifference. Benny's conscious disregard of a toxic cloud in a residential area easily meets this MPC baseline. Thus, a student might reason that option (b) correctly states the universally recognized substantive legal standard for the crime.
-(c) Argument-for: Under Maryland law, established in cases like *Beckwitt v. State*, the threshold for depraved heart murder is exceptionally high. It requires that the defendant's conduct be "reasonably likely, if not certain, to cause death." While dumping chemicals is dangerous, the creation of a deadly toxic cloud under pouring rain—which might wash away or dilute the chemicals—is not "likely, if not certain" to kill someone. Therefore, option (c) correctly applies the specific jurisdictional rule to the facts to conclude Benny lacks the requisite level of risk for this specific charge.
-(d) Argument-for: A student might argue that Benny only acted under the immediate threat to his life from Carmine. Under general criminal law principles, acting out of a desire for self-preservation or under duress can alter or negate the mens rea for certain crimes. Since depraved heart murder requires "malice," which implies a wicked or abandoned heart, acting solely to save one's own life ostensibly lacks this inherent wickedness. Thus, the student could argue that the self-preservation motive definitively strips the act of the required malice.
-(e) Argument-for: A student could argue that causation in criminal law can be severed by an unforeseeable or voluntary act of the victim. Victor chose to jog outside during a severe rainstorm near a drainage ditch, which is an inherently risky and unusual activity. By voluntarily placing himself in a hazardous environment, Victor assumed the risk of injury. A student might conclude this voluntary act supersedes Benny's initial dumping, breaking the chain of causation and relieving Benny of criminal liability.
+(a) Argument-for: A student might choose this option if they conflate the mens rea for involuntary manslaughter with depraved heart murder. The phrase "extreme gross deviation from the ordinary standard of care" sounds severe and mimics standard recklessness or criminal negligence definitions. A student could plausibly argue that such an extreme deviation is sufficient to demonstrate a depraved heart.
+(b) Argument-for: A student could defend this option by arguing that dumping 50 barrels of highly toxic chemicals inherently creates a massive, lethal risk to residents, regardless of the rain. The phrase "highly likely to cause human death" closely mirrors the *Beckwitt* "likely, if not certain" standard. The student could conclude that an objectively reasonable person would recognize this severe risk, thereby meeting the threshold for liability.
+(c) Argument-for: This option accurately applies the *Beckwitt* standard requiring conduct to be "reasonably likely, if not certain, to cause death." A student would recognize that the specific environmental conditions at the time—pouring rain diluting fumes and a lack of expected foot traffic—drastically reduced the immediate probability of death. Therefore, the conduct falls short of the elevated extreme indifference standard.
+(d) Argument-for: A student might select this option if they recall that duress is a defense to many crimes and incorrectly extend it to murder wholesale. Since depraved heart murder lacks the specific intent to kill, a student could reason that the traditional common-law bar on duress for intentional homicide does not apply here, meaning the imminent threat of death from Carmine completely exculpates Benny.
+(e) Argument-for: A student could argue that Victor jogging in a massive rainstorm near a chemical dump was an unforeseeable and bizarre event. They might apply proximate cause principles to conclude that Victor's voluntary act broke the chain of causation. This would lead to the conclusion that Benny is not legally responsible for the resulting death.
 
-Head-to-head: The keyed answer (c) correctly applies the specific *Beckwitt* standard mandated by the call of the question. Distractors (a) and (b) rely on standards from other contexts (gross negligence for manslaughter, and extreme indifference for the MPC, respectively), but they lack absolute qualifiers, leaving them vulnerable to complaints that they contain factually true but merely incomplete legal statements. Distractor (d) correctly locks a false legal claim by asserting that self-preservation "completely negat[es]" malice. Distractor (e) explicitly imports the tort doctrine of assumption of risk into criminal homicide, providing a clear, falsifiable error. 
+Head-to-head: (c) is the strongest answer because it correctly identifies the specific *Beckwitt* probability standard ("likely, if not certain") and applies the mitigating facts (pouring rain) to conclude the threshold was not met. (a) explicitly uses the wrong legal standard, applying negligence/manslaughter terminology rather than the strict *Beckwitt* formulation. (d) explicitly errs by claiming duress is a complete defense to "any murder charge," which is categorically false. (e) incorrectly asserts that jogging in the rain severed liability; while factually legally false, it lacks an absolute word to strictly lock the falsifiability. (b) is the most dangerous distractor. It asserts that the conduct was "highly likely" to cause death, which is factually debatable given the 50 barrels of toxic chemicals, and relies on an objective standard. It lacks an explicitly falsifiable legal proposition locked with absolute words, leaving it vulnerable to a valid challenge if a student contends the risk was inherently "highly likely" despite the rain.
 
 Falsifiable claim per distractor:
-- (a): "demonstrates a gross deviation from the standard of care" — wrong because it relies on the involuntary manslaughter standard (gross negligence), but it lacks absolute phrasing to explicitly claim this standard is categorically sufficient for murder.
-- (b): "satisfies the standard for recklessness manifesting extreme indifference" — wrong because it relies on the MPC formulation rather than the prompt's mandated Maryland standard, but it lacks absolute phrasing to definitively block a student from arguing it is merely an implicitly incomplete statement.
-- (d): "completely negating the required element of malice" — wrong because motive (even self-preservation) does not automatically negate implied malice for a highly dangerous act.
-- (e): "voluntarily assumed the risk of injury" — wrong because assumption of risk is generally a tort concept, not an affirmative defense that negates criminal homicide.
+- (a): "constitutes an extreme gross deviation from the ordinary standard of care" — wrong because it explicitly relies on the legal standard for negligence or manslaughter rather than the "likely, if not certain" standard required by *Beckwitt*.
+- (b): None. "highly likely to cause human death" is a debatable factual inference rather than an explicitly false legal claim, and the use of an objective standard is merely an implicit omission of subjective mens rea rather than a locked, absolute falsehood.
+- (d): "serves as a complete affirmative defense to any murder charge" — wrong because duress is categorically barred as an affirmative defense to intentional murder.
+- (e): "constituted an independent intervening cause that severed the chain of liability" — wrong because foreseeable victim behavior legally cannot sever causation, though it lacks an absolute locking word.
 
-Recommended fix: Add absolute locking words to distractors (a) and (b) to ensure they contain explicitly false sufficiency claims. Edit (a) to: "Yes, because dumping lethal chemicals in a residential area is a gross deviation from the standard of care, which categorically establishes depraved heart murder." Edit (b) to: "Yes, because Benny's conscious disregard of the toxic cloud risk automatically satisfies the standard for depraved heart murder, regardless of whether death was reasonably likely."
+Recommended fix: Change (b) to include a categorically false legal claim to lock it out completely. For example: "Yes, because dumping toxic chemicals automatically satisfies the standard, as environmental factors that mitigate the risk are categorically irrelevant to depraved heart murder." For (e), to strictly meet the absolute-word requirement: Change to "No, because any voluntary act by a victim automatically serves as an independent intervening cause that categorically severs the chain of liability."
+-->
+
+## Issue 4 — argpass-opus
+
+**Q5.** Assume Benny is instead prosecuted in a common-law jurisdiction that follows the strict standard for depraved heart murder articulated in Maryland (*Beckwitt v. State*). Is Benny guilty of depraved heart murder for Victor's death?
+
+(a) Yes, because dumping fifty barrels of highly toxic chemicals in a residential area constitutes an extreme gross deviation from the ordinary standard of care.
+(b) Yes, because an objectively reasonable person would have known that concentrated chemical fumes in a residential area were highly likely to cause human death.
+(c) No, because given the pouring rain and lack of anticipated foot traffic, his conduct was not reasonably likely, if not certain, to cause death. <!-- correct -->
+(d) No, because he dumped the chemicals under an imminent threat of death from Carmine, which serves as a complete affirmative defense to any murder charge.
+(e) No, because the jogger's voluntary act of running past the ditch in the rain constituted an independent intervening cause that severed the chain of liability.
+
+**Answer:** (c)
+
+**Explanation:** Under *Beckwitt*, depraved heart murder requires conduct that is "reasonably likely, if not certain, to cause death"—a threshold higher than mere gross negligence or recklessness, requiring an evaluation of both the act and the specific environmental risk factors. (c) is correct because in the specific environmental conditions at the time (pouring rain diluting the fumes, no one expected to jog), death was not "likely, if not certain," even if dumping it was highly reckless. (a) fails because a "gross deviation from the standard of care" is the standard for involuntary manslaughter, not depraved heart murder. (b) fails because the environmental conditions at the time mitigated the immediate likelihood of death. (d) fails because duress is never a defense to intentional murder, and many jurisdictions bar it for depraved heart murder as well; more fundamentally, his conduct fails the *Beckwitt* probability threshold. (e) fails because a jogger running outside is a highly foreseeable event, not an independent intervening cause.
+
+**Tags:** chapters: [13], topics: [depraved heart murder, extreme indifference, likely if not certain], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 13: likely-if-not-certain-standard
+
+<!-- argument-pass: MUST FIX
+(a) Argument-for: A student could argue that dumping 50 barrels of toxic chemicals in a residential neighborhood clearly maps to the Model Penal Code’s "extreme indifference to the value of human life." "Extreme gross deviation" sounds synonymous with the severe recklessness required for depraved heart murder. Thus, they might conclude this magnitude of danger inherently satisfies the requisite malice standard for the charge.
+(b) Argument-for: A student could argue that dumping a massive volume (50 barrels) of highly toxic chemicals in a residential zone inherently creates a lethal risk. The *Beckwitt* standard requires death to be "likely, if not certain." Even with rain, a reasonable jury could easily conclude that concentrated toxic fumes in a neighborhood are highly likely to kill a passerby, fully satisfying the strict standard.
+(c) Argument-for: *Beckwitt* sets an exceptionally high bar for depraved heart murder: the conduct must be "reasonably likely, if not certain, to cause death" under the specific circumstances. Here, the pouring rain heavily suppressed the toxic fumes, and the lack of anticipated foot traffic minimized exposure. Because death was neither highly likely nor certain given these specific environmental mitigators, Benny’s conduct fails to meet the strict threshold.
+(d) Argument-for: Benny acted under an imminent threat of death from Carmine. A student might argue that because depraved heart murder lacks specific intent to kill, the traditional rule barring duress as a defense to intentional murder shouldn't apply here. Therefore, the threat of death might be viewed as a complete affirmative defense that negates his criminal liability.
+(e) Argument-for: Criminal causation requires both but-for and proximate cause. A student could argue that Victor choosing to go jogging near a ditch during a pouring rainstorm was an extraordinary and unforeseeable event. This voluntary, unusual act could arguably serve as an independent superseding cause that breaks the chain of proximate causation, absolving Benny.
+
+Head-to-head: Option (c) best reflects the prompt's intended application of the *Beckwitt* standard to the specific mitigating facts. However, (b) is a highly dangerous distractor because it relies on a perfectly plausible competing factual inference rather than a false legal rule. A reasonable jurist could easily conclude that dumping 50 barrels of toxic waste in a residential area *is* highly likely to cause death, regardless of the rain. Furthermore, distractors (a), (b), and (e) fail the close-call standard because they lack explicitly locked, absolute falsifiable legal claims. Only (d) properly employs an absolute modifier ("any murder charge") to create a clean legal falsehood. 
+
+Falsifiable claim per distractor:
+- (a): "constitutes an extreme gross deviation from the ordinary standard of care" — wrong because this implies manslaughter standard satisfies *Beckwitt*, but it lacks an absolute locking word (e.g., "automatically satisfies").
+- (b): "highly likely to cause human death" — wrong according to the author's subjective factual inference about the rain, but contains NO explicitly false legal claim and NO absolute locking words.
+- (d): "serves as a complete affirmative defense to any murder charge" — wrong because duress is categorically barred as a defense to intentional murder (locked properly with "any").
+- (e): "constituted an independent intervening cause" — wrong factually (jogging is highly foreseeable), but lacks an absolute legal falsehood locking word.
+
+Recommended fix: Make (a), (b), and (e) cleanly falsifiable by adding absolute legal claims.
+Change (a) to: "Yes, because an extreme gross deviation from the ordinary standard of care automatically satisfies the depraved heart standard in every jurisdiction."
+Change (b) to: "Yes, because the dumping of hazardous materials in a residential area is categorically a strict liability trigger for depraved heart murder, regardless of actual likelihood of death."
+Change (e) to: "No, because a victim's voluntary presence at a crime scene always constitutes an independent intervening cause that severs liability."
 -->

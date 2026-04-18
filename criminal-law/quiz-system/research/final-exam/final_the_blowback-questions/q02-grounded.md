@@ -1,17 +1,17 @@
-**Q2.** Assume Carmine claims his offense should be mitigated to voluntary manslaughter due to Paulie's mocking laugh and insult. In a strict common law jurisdiction, will this defense succeed?
+**Q2.** Assume that, instead of premeditation, Carmine claims he acted in the heat of passion. Will a defense of common law voluntary manslaughter succeed based on Paulie's mocking words and admission of betrayal?
 
-(a) Yes, because Paulie's sudden admission of being an informant would inflame the passions of any reasonable person in Carmine's situation.
-(b) Yes, because the combination of the insult and the sudden movement toward the jacket satisfies the assault category of adequate provocation.
-(c) No, because mere words and gestures, no matter how opprobrious or upsetting, are never legally adequate provocation at common law. <!-- correct -->
-(d) No, because Carmine's split-second decision to shoot demonstrates he had sufficient time to rationally cool off before acting.
-(e) No, because the heat of passion doctrine strictly requires the victim to have physically struck the defendant first.
+(a) Yes, because a reasonable person would be enraged by a subordinate's verbal defiance and betrayal.
+(b) No, because words alone, no matter how opprobrious, cannot constitute adequate provocation at common law. <!-- correct -->
+(c) Yes, because admitting to being a federal informant satisfies the historical sudden discovery of betrayal category.
+(d) No, because his decision to shoot the victim was a completely disproportionate response to the insult.
+(e) No, because he lured Paulie to the boat, proving that sufficient cooling time had already fully elapsed.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** At common law (*Girouard v. State*), mere words or gestures, no matter how insulting or inflammatory, are categorically insufficient to constitute adequate provocation for voluntary manslaughter. Paulie's mocking words and laugh cannot mitigate the murder. Option (a) fails because the categorical rule overrides the general "reasonable person" standard. Option (b) fails because reaching for a jacket does not constitute a physical battery or mutual combat required for the assault category. Option (d) fails because it focuses on cooling time rather than the threshold inadequacy of the provocation. Option (e) is incorrect because while physical assault is a valid category, the rule does not strictly require the victim to strike first (e.g., discovering adultery is also a category).
+**Explanation:** Under the categorical approach to common law voluntary manslaughter (*Girouard v. State*), words alone—no matter how insulting or inflammatory—can never constitute adequate provocation. Thus, (b) is correct. (a) is wrong because the common law relies on strict categories, not a generalized reasonable person standard for verbal insults. (c) is wrong because the historical category is specifically limited to the sudden discovery of spousal adultery, not general betrayal. (d) is wrong because the doctrine evaluates the adequacy of the provocation, not just proportionality. (e) is wrong because cooling time measures the interval between the provocation (which happened on the boat) and the killing, so luring him beforehand is irrelevant to cooling time.
 
-**Tags:** chapters: [12], topics: [voluntary manslaughter, provocation, words alone], difficulty: easy, cognitive: application
+**Tags:** chapters: [12], topics: [voluntary manslaughter, common law provocation, words alone], difficulty: foundational, cognitive: application
 
-**Grounding:** Chapter 12: words-alone-girouard / *Girouard v. State*
+**Grounding:** Chapter 12 (words-alone-girouard)
 
-<!-- grounding: GROUNDED — Words alone rule (Girouard), Ch 12, Refinement `words-alone-girouard`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — words alone (Girouard), Ch 12, Refinement `words-alone-girouard`. Rule paraphrased accurately. -->

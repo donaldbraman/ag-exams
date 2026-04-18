@@ -1,17 +1,17 @@
-**Q9.** Assume the jurisdiction follows the traditional specific intent (purpose) standard for accomplice liability. Is Leo guilty as an accomplice to Dom's attempted hijacking?
+**Q9.** Leo is charged as an accomplice to Dom's attempted hijacking. Leo argues that he should be acquitted because he merely wanted to collect the $500 taxi fare, not steal electronics. 
 
-(a) Yes, because he knew Dom intended to commit the hijacking and provided a necessary instrument by driving him to the location.
-(b) Yes, because his presence in the idling car provided psychological encouragement to Dom, satisfying the mens rea requirement for accomplice liability.
-(c) No, because his refusal to help plan the operation and his acceptance of a flat fee demonstrate he lacked the purpose to facilitate. <!-- correct -->
-(d) No, because Dom failed to complete the target substantive offense, entirely precluding any derivative accomplice liability for the waiting getaway driver.
-(e) No, because an accomplice must actively participate in the physical commission of the core offense directly at the scene of the crime.
+(a) Guilty everywhere, because providing a getaway car with explicit knowledge of the crime legally establishes the required purpose.
+(b) Acquitted in a purpose jurisdiction if the jury determines he only intended to earn the fare, not facilitate the crime. <!-- correct -->
+(c) Guilty everywhere, because his physical presence at the scene satisfies the actus reus, rendering his subjective mental state irrelevant.
+(d) Acquitted everywhere, because his explicit refusal to participate in the planning stages legally negates his complicity in the crime.
+(e) Guilty everywhere, because accepting the flat fee makes him a co-conspirator strictly liable for the principal's substantive offenses.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** Under the traditional specific intent standard (e.g., *Peoni*), an accomplice must have the purpose of facilitating the target offense. Providing minor assistance for a flat fee, while refusing to plan, demonstrates knowledge of the crime but not a purposeful stake in its success. Option (a) is wrong because it relies on mere knowledge rather than the required specific intent to facilitate. Option (b) is wrong because passive presence in an idling car without shared intent does not automatically constitute psychological encouragement. Option (d) is wrong because an accomplice can be liable for an attempted substantive offense, not just a completed one. Option (e) is wrong because an accomplice can provide remote assistance and need not be physically present at the active crime scene.
+**Explanation:** Accomplice liability traditionally requires that the defendant act with the *purpose* to promote or facilitate the target offense. If Leo only intended to provide a ride for a flat fee and was indifferent to the hijacking's success, he lacks the required purpose. Thus, (b) is correct. (a) is wrong because mere knowledge does not automatically establish purpose in traditional jurisdictions. (c) is wrong because accomplice liability requires a culpable mental state; actus reus alone is insufficient. (d) is wrong because planning is not strictly required if a defendant ultimately assists with the required mental state. (e) is wrong because receiving a flat fee does not automatically establish a conspiratorial agreement to commit the substantive offense.
 
-**Tags:** chapters: [18], topics: [accomplice liability, specific intent, purpose vs knowledge], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 18: mr-purpose-not-knowledge / *United States v. Peoni*
+**Grounding:** Chapter 18 (accomplice-purpose-vs-knowledge)
 
-<!-- grounding: GROUNDED — Accomplice Mens Rea (Purpose vs. Knowledge), Ch 18, Refinement `mr-purpose-not-knowledge`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Mens rea (purpose vs knowledge), Ch 18, Refinement `mr-purpose-not-knowledge`. Rule paraphrased accurately. -->

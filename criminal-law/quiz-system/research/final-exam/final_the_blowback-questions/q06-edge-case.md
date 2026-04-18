@@ -1,22 +1,22 @@
-**Q6.** The prosecution charges Benny with conspiracy to hijack the electronics truck based on the initial meeting. Under the federal standard for proving a conspiratorial agreement, is Benny's silent nod sufficient to establish his participation?
+**Q6.** The prosecution charges Benny with conspiracy based on the meeting where the hijacking was proposed. Benny argues he never explicitly agreed to the plan. How should the court rule on the agreement element?
 
-(a) Yes, because a silent nod in the presence of an organized crime figure automatically constitutes an overt act in furtherance of the conspiracy.
-(b) Yes, because his affirmative nod demonstrated a mutual understanding and a genuine intent to agree to participate in the armed hijacking plan. <!-- correct -->
-(c) No, because establishing a conspiratorial agreement under federal law strictly requires an explicit verbal commitment to commit the target offense.
-(d) No, because mere presence at a meeting where a crime is discussed cannot legally support any inference of a conspiratorial agreement.
-(e) No, because Benny took no subsequent part in the planning or execution of the hijacking, demonstrating an effective withdrawal from the enterprise.
+(a) Acquitted, because conspiracy doctrine strictly requires an explicit verbal or written agreement to satisfy the actus reus.
+(b) Guilty, because his silent nod constitutes an affirmative act from which an agreement can be legally inferred. <!-- correct -->
+(c) Acquitted, because his subsequent complete lack of participation in the detailed planning completely nullifies the initial agreement.
+(d) Guilty, because mere presence at a syndicate meeting creates strict liability for any criminal plots discussed there.
+(e) Acquitted, because the hijacking was abandoned before completion, meaning the conspiratorial agreement never ripened into an offense.
 
 **Answer:** (b)
 
-**Explanation:** Under federal conspiracy law, an agreement need not be formal or verbal; it can be inferred from conduct that demonstrates a mutual understanding to accomplish a criminal objective. Benny's affirmative nod in response to the hijacking pitch clearly establishes his assent to the plan. Option (a) is wrong because the nod constitutes the agreement itself, not the separate "overt act" required to further it. Option (c) is wrong because explicit verbal commitments are not required to form a conspiracy. Option (d) is wrong because while mere presence is insufficient, an affirmative nod elevates his conduct from presence to participation. Option (e) is wrong because subsequent inaction does not constitute a legally effective withdrawal from an agreement already formed.
+**Explanation:** Conspiracy requires an agreement, but courts allow the agreement to be inferred from conduct. A silent nod in response to a pitch is an affirmative expression of assent that satisfies the act of agreement. Thus, (b) is correct. (a) is wrong because explicit verbal or written contracts are not required; tacit agreements suffice. (c) is wrong because the crime of conspiracy is complete upon the agreement (and overt act, if required); subsequent failure to plan does not retroactively negate the formation of the agreement. (d) is wrong because mere presence without affirmative participation or agreement is insufficient for liability. (e) is wrong because conspiracy is an inchoate offense that is punishable even if the target crime is never completed or attempted.
 
 **Tags:** chapters: [19], topics: [conspiracy, agreement inference], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 19: agreement-inference
+**Grounding:** Chapter 19 (agreement-inference)
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
+2. Cross-Doctrine Clashes: pass (Dom's subsequent actions satisfy the overt act requirement for the entire conspiracy, keeping the "Guilty" conclusion legally sound even in jurisdictions requiring an overt act).
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+Recommended fix: Consider slightly tweaking the call of the question from "How should the court rule on the agreement element?" to "Is Benny likely to be convicted of conspiracy?" so it perfectly aligns with the "Guilty / Acquitted" option stems.
 -->

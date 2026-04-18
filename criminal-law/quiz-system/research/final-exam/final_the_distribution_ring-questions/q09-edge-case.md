@@ -1,22 +1,22 @@
-**Q9.** Assume that Silas is convicted of Dexter's murder. The prosecution also charges Marcus as an accomplice to the homicide, based on Marcus handing Silas the loaded weapon and ordering him to "eliminate" anyone inside. Marcus argues he cannot be an accomplice because his actions did not directly cause Dexter's death. Is Marcus's argument valid?
+**Q9.** Silas is charged with the attempted murder of the pedestrian he struck while firing blindly down the alley. Under prevailing specific intent requirements for attempt, is he guilty?
 
-(a) Yes, because accomplice liability requires proof of but-for causation, meaning the death would not have occurred without Marcus's specific weapon.
-(b) Yes, because under the *Pinkerton* doctrine, Marcus can only be liable for the predicate robbery, not the resulting foreseeable homicide.
-(c) No, because accomplice actus reus has a low threshold; any attempted or actual assistance that facilitates the crime is sufficient, without requiring but-for causation. <!-- correct -->
-(d) No, because the natural and probable consequences doctrine mandates that gang leaders are strictly liable for any violent act committed by their subordinates.
-(e) No, because Marcus's absence from the stash house constitutes an omission, which fulfills the actus reus requirement for a breach of a custodial duty.
+(a) Yes, because his reckless disregard for human life satisfies the specific intent requirement for attempted murder.
+(b) No, because attempt requires the specific purpose to cause the death of the victim, and Silas fired blindly without aiming at anyone. <!-- correct -->
+(c) Yes, under the kill-zone theory, because firing a gun in an alley creates a zone of fatal harm that transfers intent to anyone within it.
+(d) No, because the pedestrian was not killed, and attempted murder requires actual severe injury to demonstrate the required intent.
+(e) Yes, because the transferred intent doctrine automatically transfers his specific intent to kill Dexter to the pedestrian he actually struck.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** The correct answer is (c) because the actus reus for accomplice liability is exceptionally low. There is no but-for causation requirement; any act that aids, counsels, or encourages the principal—such as providing the weapon and giving instructions—satisfies the threshold, even if the principal could have succeeded without the help. Option (a) fails because accomplice doctrine explicitly rejects the strict but-for causation requirement used in basic homicide doctrine. Option (b) fails because *Pinkerton* is a conspiracy doctrine, not a limitation on accomplice liability; in fact, *Pinkerton* would *expand* liability to foreseeable crimes. Option (d) fails because the natural and probable consequences doctrine is based on foreseeability of extended crimes, but here Marcus explicitly intended and commanded the homicide itself, making him a direct accomplice. Option (e) fails because providing a gun and an order is an affirmative act, not an omission.
+**Explanation:** (b) is correct. Attempt requires the specific intent (purpose) to cause the result element of the target offense. Even if a completed murder can be committed via recklessness (depraved heart), attempted murder requires a specific purpose to kill. Silas fired blindly to deter pursuit, lacking this purpose. (a) is incorrect because recklessness is insufficient for attempt. (c) is incorrect because the kill-zone theory requires intent to kill *everyone* in a specific zone to ensure a primary target's death, which doesn't apply to blind firing. (d) is incorrect because attempt does not require any actual injury. (e) is incorrect because transferred intent generally applies to completed crimes, not inchoate attempts where specific intent as to the victim is required.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, ar-low-threshold], difficulty: easy, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, mens-rea, specific-intent, kill-zone], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 18, Actus Reus - Low Threshold; State v. Tally.
+**Grounding:** Chapter 17: Attempts > Refinements > Prima Facie Element 1 & 2: Mens Rea > The Specific Intent Requirement
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+Recommended fix: None. The factual scenario cleanly establishes the actus reus for reckless endangerment or battery without satisfying the specific intent mens rea required for attempted murder. The distractors (especially transferred intent and kill-zone theory) are highly relevant but properly defeated by the facts.
 -->

@@ -1,31 +1,22 @@
-```
-<!-- edge-case-audit: MUST FIX
+**Q11.** Assume the jurisdiction applies the proximate cause theory of felony murder (as in *Smith v. State*). Is Dom guilty of felony murder for Wendy's death?
+
+(a) Yes, because a fatal vehicle crash during a high-speed police evasion is a reasonably foreseeable consequence of the felony. <!-- correct -->
+(b) No, because a pursuing police officer, rather than a participating co-felon, actually drove the vehicle that struck the pedestrian.
+(c) Yes, because the agency theory of felony murder strictly holds fleeing felons liable for all deaths at the scene.
+(d) No, because the victim was an innocent bystander rather than an active participant in the underlying targeted criminal offense.
+(e) Yes, because Dom's command to speed away constituted an expression of actual malice directed specifically toward surrounding pedestrians.
+
+**Answer:** (a)
+
+**Explanation:** Under the proximate cause theory of felony murder, a felon is liable for any death that is a foreseeable consequence of the felony, even if the fatal blow/crash was directly caused by a third party (like a police officer). High-speed chases are highly foreseeable results of armed felonies. Thus, (a) is correct. (b) is wrong because the proximate cause theory specifically includes third-party killings, unlike the agency theory. (c) is wrong because it conflates theories; the *agency* theory would actually shield Dom since a non-agent (the cop) caused the death. (d) is wrong because felony murder applies equally (if not more so) to the deaths of innocent bystanders. (e) is wrong because felony murder substitutes the felony for malice; proof of actual malice toward the victim is not required.
+
+**Tags:** chapters: [14], topics: [felony murder, proximate cause theory, third party killing], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 14 (smith-proximate-cause-police)
+
+<!-- edge-case-audit: SHOULD FIX
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: Q11's correct answer definitively concludes that Dom is guilty of felony murder. This implicitly confirms that Dom committed a valid underlying felony, which outright spoils Q8 (testing whether Dom's actus reus was sufficient for attempt) and Q9 (testing whether his abandonment defense succeeds). If Dom is guilty here, astute students will immediately know his attempt actus reus was sufficient and his abandonment failed. Additionally, the explanation for Option (d) is logically flawed: if Dom had truly "legally abandoned" the felony, there would be no felony to anchor the res gestae flight doctrine.
-Recommended fix: Add a stipulative assumption to the stem: "Assume for the purposes of this question that Dom is guilty of attempted hijacking." Furthermore, remove the word "legally" from Option (d) ("No, because Dom had abandoned the plan..."), and update the explanation for (d) to note that his abandonment was legally ineffective because it was motivated by police presence, meaning the attempted felony remained intact during the flight.
--->
-```
-
-**Q11.** Dom is charged with felony murder for Wendy's death. In a jurisdiction following the proximate cause theory of felony murder (*Smith v. State*), is Dom guilty?
-
-(a) Yes, because Dom was the initial aggressor in the chain of events and is thus strictly liable for any deaths that subsequently occur.
-(b) Yes, because a fatal crash by pursuing police officers is a reasonably foreseeable consequence of fleeing a felony scene at high speeds. <!-- correct -->
-(c) No, because the police cruiser, rather than Dom or his co-felon Leo, was the direct physical agent that unfortunately struck and killed Wendy.
-(d) No, because Dom had legally abandoned the underlying felony at the loading dock before the high-speed vehicular evasion had even begun.
-(e) No, because Dom's specific intent to commit the truck hijacking cannot legally transfer to an entirely unintentional vehicular homicide involving a pedestrian.
-
-**Answer:** (b)
-
-**Explanation:** Under the proximate cause theory of felony murder (*Smith v. State*), a felon is liable for any death that is a highly foreseeable consequence of the felony or the subsequent flight. A fatal collision involving a pursuing police cruiser during a high-speed getaway is considered a foreseeable result of the underlying crime. Option (a) is wrong because felony murder relies on proximate causation, not merely being the initial aggressor. Option (c) relies on the alternative agency theory of felony murder, which this jurisdiction does not follow. Option (d) is wrong because the immediate flight from a felony scene is legally considered part of the continuous transaction (res gestae). Option (e) is wrong because the felony murder rule explicitly substitutes the intent to commit the felony for the intent to kill.
-
-**Tags:** chapters: [14], topics: [felony murder, proximate cause, third-party killings], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 14: smith-proximate-cause-police / *Smith v. State*
-
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: Q11's correct answer definitively concludes that Dom is guilty of felony murder. This implicitly confirms that Dom committed a valid underlying felony, which outright spoils Q8 (testing whether Dom's actus reus was sufficient for attempt) and Q9 (testing whether his abandonment defense succeeds). If Dom is guilty here, astute students will immediately know his attempt actus reus was sufficient and his abandonment failed. Additionally, the explanation for Option (d) is logically flawed: if Dom had truly "legally abandoned" the felony, there would be no felony to anchor the res gestae flight doctrine.
-Recommended fix: Add a stipulative assumption to the stem: "Assume for the purposes of this question that Dom is guilty of attempted hijacking." Furthermore, remove the word "legally" from Option (d) ("No, because Dom had abandoned the plan..."), and update the explanation for (d) to note that his abandonment was legally ineffective because it was motivated by police presence, meaning the attempted felony remained intact during the flight.
+2. Cross-Doctrine Clashes: The facts leave it legally debatable whether Dom's actions (approaching the truck before turning around) satisfy the actus reus for attempt under a common law proximity test. If there is no attempted felony, there is no foundation for felony murder.
+3. Cross-Question Spoilers: Q8 explicitly tests the ambiguity of Dom's attempt actus reus. By not establishing whether Dom is guilty of the underlying felony in *this* question's prompt, a student who correctly concludes in Q8 that Dom failed the proximity test will look for a "No, because there was no felony" option here, find none, and be unfairly confused. 
+Recommended fix: Amend the prompt to read: "Assume Dom is guilty of an underlying attempted felony and the jurisdiction applies the proximate cause theory of felony murder..."
 -->

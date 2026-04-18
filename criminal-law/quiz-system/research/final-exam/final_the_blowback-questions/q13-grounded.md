@@ -1,21 +1,17 @@
-### Stem 3: Crash Investigation and Narcotics
+**Q13.** Both Dom and Leo are charged with possessing the fentanyl found in the vehicle. Based on the doctrinal requirements of constructive possession, who can be convicted?
 
-The crash investigation just turned up narcotics in the getaway car. Assess the new possession charges for the occupants.
+(a) Only Leo, because his status as the registered owner of the vehicle establishes an irrebuttable presumption of exclusive possession.
+(b) Only Dom, because his fingerprints on the latch prove he exercised exclusive physical control over the drugs inside it.
+(c) Both, because constructive possession can be joint if both had awareness of the drugs and the power to control them. <!-- correct -->
+(d) Neither, because the drugs were securely hidden inside the center console, completely precluding actual physical possession by either occupant.
+(e) Neither, because the prosecution cannot definitively prove which occupant originally purchased the vacuum-sealed narcotics found in the vehicle.
 
-**Q13.** Dom and Leo are charged with constructive possession of the fentanyl found in the console. Which of the following most accurately describes the evidentiary hurdles for proving their possession?
+**Answer:** (c)
 
-(a) Leo's registered ownership of the car automatically establishes his exclusive constructive possession, precluding any possession charges against his passenger Dom.
-(b) Dom's physical proximity to the console and his fingerprints on the latch are sufficient to establish his power and intent to control. <!-- correct -->
-(c) Neither can be charged because the opaque, vacuum-sealed nature of the package proves they lacked actual awareness of the specific illicit contents.
-(d) Both are strictly liable for the fentanyl because it was discovered in a shared vehicle area during the commission of a separate felony.
-(e) Only Leo can be convicted because a mere passenger cannot legally exercise dominion and control over a vehicle's built-in center console compartments.
+**Explanation:** Constructive possession requires knowledge of the item's presence and the intent and ability to exercise control over it. It can be held jointly by multiple people. Leo owns the car containing the console, and Dom's bag was touching it and his prints were on the latch, providing evidence that both had awareness and control. Thus, (c) is correct. (a) is wrong because car ownership permits an inference of control but not an irrebuttable presumption of exclusive possession. (b) is wrong because Dom's control does not legally exclude the car's owner from also having constructive possession. (d) is wrong because constructive possession specifically exists to cover items not in actual physical possession. (e) is wrong because possession relies on current control, not original purchase history.
 
-**Answer:** (b)
+**Tags:** chapters: [15], topics: [drugs, constructive possession, joint possession], difficulty: easy, cognitive: application
 
-**Explanation:** Constructive possession requires the prosecution to prove the defendant had both the power and the intent to exercise dominion and control over the contraband. Dom's physical proximity to the console, combined with his fingerprints on the latch, provides a strong evidentiary nexus establishing this control. Option (a) is wrong because constructive possession can be joint; ownership does not grant exclusive possession. Option (c) is wrong because intent and awareness can be inferred from circumstantial evidence, even if the packaging is sealed. Option (d) is wrong because strict liability does not apply to possession; the prosecution must still prove awareness and intent to control. Option (e) is wrong because passengers can exercise joint dominion and control over areas of a vehicle they can access.
-
-**Tags:** chapters: [15], topics: [constructive possession, awareness, control], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 15: cp-awareness-control
+**Grounding:** Chapter 15 (cp-awareness-control)
 
 <!-- grounding: GROUNDED — Constructive Possession, Ch 15, Refinement `cp-awareness-control`. Rule paraphrased accurately. -->

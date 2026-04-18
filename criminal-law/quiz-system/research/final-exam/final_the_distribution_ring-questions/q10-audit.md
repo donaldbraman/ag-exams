@@ -1,26 +1,26 @@
-**Q10.** Assume the police seek to charge Marcus with possession of the 500 grams of powder found in the basement floor safe. Marcus argues he did not physically possess the drugs and that the safe was in a communal, unlocked basement accessible to anyone in the building. Will Marcus be found to have constructive possession?
+**Q10.** Prosecutors wish to charge Marcus under RICO. Applying the Supreme Court's *Boyle* test for an "associated-in-fact" enterprise, does "The Pit" qualify?
 
-(a) Yes, because he had the only key to the safe on his nightstand, establishing his awareness and exclusive power to control the contents. <!-- correct -->
-(b) Yes, because his status as Crew Chief inherently satisfies the mens rea for any contraband located within his residential apartment building.
-(c) No, because constructive possession requires the defendant to be physically present in the exact room where the contraband is eventually discovered.
-(d) No, because the safe was located in a communal area, which automatically destroys the exclusive control necessary for a constructive possession charge.
-(e) No, because the text messages on his phone were only circumstantial evidence, which cannot establish the required dominion and control over the drugs.
+(a) Yes, because the organization has a purpose, relationships among those associated with it, and sufficient longevity to permit the pursuit of its purpose. <!-- correct -->
+(b) No, because the group lacks an ascertainable structure distinct from the pattern of racketeering activity itself.
+(c) Yes, but only because Marcus formally employed his subordinates and paid them a structured, flat weekly percentage.
+(d) No, because the operations were entirely local, failing to satisfy the interstate commerce nexus required for a RICO enterprise.
+(e) Yes, because any conspiracy to commit more than two predicate acts automatically constitutes an associated-in-fact enterprise.
 
 **Answer:** (a)
 
-**Explanation:** The correct answer is (a) because constructive possession requires proof that the defendant had both awareness of the contraband and the power and intent to exercise dominion and control over it. Possessing the singular key to a locked safe found in the building gives Marcus exclusive control over its contents, regardless of the safe's location in a communal area. Option (b) fails because status alone does not substitute for the specific legal requirements of awareness and control. Option (c) fails because the entire purpose of the constructive possession doctrine is to allow convictions when the defendant is *not* physically holding or immediately adjacent to the contraband. Option (d) fails because while the basement was communal, the *safe itself* was locked and Marcus held the key, preserving his exclusive control. Option (e) fails because circumstantial evidence (like text messages confirming the purchase) is routinely used to establish awareness and intent in constructive possession cases.
+**Explanation:** (a) is correct. Under *Boyle v. United States*, an associated-in-fact enterprise requires only a purpose, relationships among those associated with the enterprise, and sufficient longevity to pursue that purpose. The Pit's turf defense, shifts, and ledger easily satisfy this low bar. (b) is incorrect because *Boyle* explicitly held that the enterprise does *not* need a structure separate from the pattern of racketeering itself. (c) is incorrect because formal employment or structured pay is not required under *Boyle*; informal associations suffice. (d) is incorrect because drug distribution inherently satisfies the minimal interstate commerce nexus required by RICO. (e) is incorrect because while the bar is low, an enterprise is still conceptually distinct from the pattern of predicate acts.
 
-**Tags:** chapters: [15], topics: [drugs, constructive-possession, cp-awareness-control], difficulty: medium, cognitive: application
+**Tags:** chapters: [20], topics: [rico, enterprise, associated-in-fact], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15, Constructive Possession: Awareness and Control.
+**Grounding:** Chapter 20: RICO and Enterprise Liability > Refinements > Boyle Three-Part Test
 
 <!-- audit: MUST FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: MUST FIX. The stem is missing crucial facts that the options and explanation rely upon (e.g., Marcus having the only key on his nightstand, text messages confirming the purchase, and his status as Crew Chief). It reads like an orphaned sub-question separated from its master fact pattern.
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Integrate the missing facts into the stem: "Marcus, a 'Crew Chief,' had text messages on his phone confirming a drug purchase. Police found 500 grams of powder in a locked floor safe in his apartment building's communal, unlocked basement. Police also found the safe's singular key on Marcus's nightstand in his apartment. Marcus argues..."
+1: fail (cannot verify application because the facts are missing from the stem)
+2: fail (cannot evaluate distractors against non-existent facts)
+3: pass
+4: MUST FIX. The question completely lacks its fact pattern. The stem refers to "Marcus" and "The Pit," and the explanation relies on facts like "turf defense, shifts, and ledger," but none of these facts are present in the text. This appears to be an orphaned question separated from its master vignette.
+5: pass
+6: pass
+7: pass
+Recommended fix: Prepend the missing factual vignette to the question stem, detailing Marcus's operations, "The Pit," the turf defense, shifts, and the ledger.
 -->

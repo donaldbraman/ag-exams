@@ -1,22 +1,22 @@
-**Q7.** Assume Dom is charged with attempted hijacking. Which of the following accurately describes his liability under the common law physical proximity test versus the MPC substantial step test?
+**Q7.** The jurisdiction is evaluating Dom's conduct at the loading dock. How does Dom fare under the common law "proximity" test versus the MPC "substantial step" test for the actus reus of attempt?
 
-(a) Guilty under both tests, because approaching the truck with a loaded gun manifests a clear and unequivocal intent to commit the target crime.
-(b) Not guilty under both tests, because he completely abandoned the criminal plan without ever making physical contact with the targeted commercial vehicle.
-(c) Guilty under the physical proximity test for reaching the location, but not guilty under the MPC because he lacked a necessary substantial step.
-(d) Not guilty under physical proximity for failing to commence the final act, but guilty under the MPC because approaching corroborated his criminal purpose. <!-- correct -->
-(e) Guilty under the physical proximity test because the target was in sight, but not guilty under the MPC because his conduct remained legally equivocal.
+(a) Both tests result in guilt because approaching the target vehicle clearly satisfies the actus reus requirement everywhere.
+(b) Neither test results in guilt because he never actually touched the truck or initiated the ultimate hijacking act.
+(c) He is more likely guilty under the MPC, but might be acquitted under proximity for not being close enough. <!-- correct -->
+(d) He is more likely guilty under proximity because he was physically near, but acquitted under the MPC's purpose test.
+(e) Both tests evaluate his subjective intent identically, making the actus reus outcome functionally identical under either common framework.
 
-**Answer:** (d)
+**Answer:** (c)
 
-**Explanation:** The common law physical proximity test requires the defendant to be dangerously close to completing the final act, which Dom had not yet reached. The MPC substantial step test, however, only requires an act strongly corroborative of the actor's criminal purpose, which Dom satisfied by arriving with a loaded gun. Option (a) fails because the physical proximity test requires closer proximity to the final execution of the crime. Option (b) fails because abandoning the plan does not retroactively erase liability for the attempt already committed under the MPC. Option (c) reverses the outcomes of the two doctrinal tests. Option (e) fails because bringing a loaded gun to the target location is highly corroborative, not legally equivocal, under the MPC.
+**Explanation:** The MPC's "substantial step" test draws the line of liability much earlier than the common law, requiring only an act strongly corroborative of criminal purpose (like arriving at the scene). The traditional proximity test requires the defendant to be dangerously close to completing the crime. Thus, (c) is correct. Dom's arrival at the dock easily satisfies the MPC, but because he didn't draw his weapon or touch the truck, he might fail the proximity test. (a) is wrong because proximity courts frequently acquit defendants who merely arrive at the scene. (b) is wrong because the MPC definitely encompasses arriving at the scene with a weapon. (d) is wrong because it inverses the strictness of the tests. (e) is wrong because the tests impose radically different actus reus thresholds despite evaluating identical subjective intent.
 
-**Tags:** chapters: [17], topics: [attempt, actus reus, physical proximity test, substantial step], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [17], topics: [attempt, actus reus, proximity test, substantial step], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 17: actus-reus-proximity-test / actus-reus-substantial-step
+**Grounding:** Chapter 17 (actus-reus-proximity-test, actus-reus-substantial-step)
 
-<!-- edge-case-audit: MUST FIX
+<!-- edge-case-audit: SHOULD FIX
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: The explanation contains a severe misstatement of law regarding the MPC. The explanation states: "Option (b) fails because abandoning the plan does not retroactively erase liability for the attempt already committed under the MPC." This describes the Common Law rule, not the MPC. Under MPC § 5.01(4), a voluntary and complete renunciation *is* an affirmative defense that relieves liability. 
-3. Cross-Question Spoilers: Because Q9 is specifically designated to test "abandonment-mpc", Q7's legally inaccurate explanation regarding MPC abandonment will thoroughly confuse students and spoil Q9.
-Recommended fix: Change the explanation for Option (b) to read: "Option (b) fails because under the MPC, the affirmative defense of abandonment must be voluntary. Dom's abandonment was involuntary because he was spooked by the police, so his attempt liability remains intact."
+2. Cross-Doctrine Clashes: The options frame the outcome as ultimate "guilt" rather than actus reus satisfaction. This forces the student to silently resolve the affirmative defense of abandonment (triggered by the fact that Dom "abandoned the plan entirely"), even though the question stem explicitly limits the scope to evaluating "the actus reus of attempt." 
+3. Cross-Question Spoilers: Q9 specifically tests whether Dom's abandonment is a valid defense under the MPC. By stating he is "guilty" under the MPC in Q7, this question inadvertently spoils Q9 by prematurely signaling that his abandonment defense must fail (since he got spooked by cops, making it involuntary). 
+Recommended fix: Change references to "guilt" in the options to focus strictly on whether the actus reus is satisfied. For example, change (c) to: "He clearly satisfies the actus reus under the MPC, but might fail the proximity test for not being close enough." Update (a), (b), and (d) similarly.
 -->

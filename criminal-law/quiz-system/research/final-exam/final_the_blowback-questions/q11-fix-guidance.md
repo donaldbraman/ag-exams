@@ -4,99 +4,127 @@ The QA pipeline flagged this question. Rewrite `q11.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q11.** Dom is charged with felony murder for Wendy's death. In a jurisdiction following the proximate cause theory of felony murder (*Smith v. State*), is Dom guilty?
+**Q11.** Assume that, despite his abandonment, Dom is charged with felony murder for the death of Wendy, who was struck by the pursuing police cruiser. In a jurisdiction following the proximate cause theory of felony murder (*Smith v. State*), is Dom guilty?
 
-(a) Yes, because Dom was the initial aggressor in the chain of events and is thus strictly liable for any deaths that subsequently occur.
-(b) Yes, because a fatal crash by pursuing police officers is a reasonably foreseeable consequence of fleeing a felony scene at high speeds. <!-- correct -->
-(c) No, because the police cruiser, rather than Dom or his co-felon Leo, was the direct physical agent that unfortunately struck and killed Wendy.
-(d) No, because Dom had legally abandoned the underlying felony at the loading dock before the high-speed vehicular evasion had even begun.
-(e) No, because Dom's specific intent to commit the truck hijacking cannot legally transfer to an entirely unintentional vehicular homicide involving a pedestrian.
+(a) Yes, because the fatal crash of a police cruiser during a high-speed pursuit is a highly extraordinary event that intentionally breaks the chain of legal causation.
+(b) Yes, because under the proximate cause theory, a felon is liable for any death that is a foreseeable consequence of the felony, including crashes by responding police. <!-- correct -->
+(c) No, because the strict agency theory applies, requiring that the fatal vehicle be driven by a co-felon rather than a third-party law enforcement officer.
+(d) No, because Dom explicitly abandoned the hijacking before the vehicular pursuit began, which legally terminated the predicate felony and its associated homicide liability.
+(e) No, because Wendy was merely an innocent civilian bystander rather than the intended victim or target of the underlying commercial electronics truck hijacking.
 
 **Answer:** (b)
 
-**Explanation:** Under the proximate cause theory of felony murder (*Smith v. State*), a felon is liable for any death that is a highly foreseeable consequence of the felony or the subsequent flight. A fatal collision involving a pursuing police cruiser during a high-speed getaway is considered a foreseeable result of the underlying crime. Option (a) is wrong because felony murder relies on proximate causation, not merely being the initial aggressor. Option (c) relies on the alternative agency theory of felony murder, which this jurisdiction does not follow. Option (d) is wrong because the immediate flight from a felony scene is legally considered part of the continuous transaction (res gestae). Option (e) is wrong because the felony murder rule explicitly substitutes the intent to commit the felony for the intent to kill.
+**Explanation:** Under the proximate cause theory of felony murder, a felon is liable for any death that is a foreseeable result of the felony, regardless of who actually causes the fatal outcome. In *Smith v. State*, this included a police officer shooting a co-felon; here, it includes a police officer crashing during a pursuit. (b) is correct because a police crash during a high-speed getaway is a highly foreseeable consequence. (a) fails because if the event broke the chain of causation, he would not be guilty. (c) fails because the prompt specifies a proximate cause jurisdiction, not an agency theory jurisdiction. (d) fails because flight from the scene is considered part of the *res gestae* (continuous transaction) of the felony, meaning the felony is not terminated. (e) fails because felony murder routinely applies to the deaths of innocent bystanders.
 
-**Tags:** chapters: [14], topics: [felony murder, proximate cause, third-party killings], difficulty: medium, cognitive: application
+**Tags:** chapters: [14], topics: [felony murder, proximate cause, third-party killer], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 14: smith-proximate-cause-police / *Smith v. State*
+**Grounding:** Chapter 14: smith-proximate-cause-police
 
 <!-- audit: MUST FIX
-check 1: pass (Assuming the missing facts, the legal conclusion in (b) is accurate under the proximate cause theory of FM).
-check 2: pass
-check 3: pass
-check 4: FAILS. The stem completely lacks a fact pattern. It introduces "Dom" and "Wendy" but omits the entire scenario (the truck hijacking, the loading dock, co-felon Leo, the high-speed chase, and the police cruiser hitting Wendy) that the options and explanation rely upon.
+check 1: MUST FIX. If Dom effectively "abandoned" the felony prior to the vehicular pursuit, his individual liability for the subsequent actions of his co-felons would generally be severed, which makes (b) potentially incorrect as applied to him.
+check 2: MUST FIX. Option (d) is a highly defensible distractor. A legally effective abandonment (withdrawal) before the fatal act generally terminates an accomplice's liability for a resulting felony murder. 
+check 3: MUST FIX. The explanation for (d) conflates the affirmative defense of legal abandonment with mere flight. While flight is part of the *res gestae* for the active felons, a successful abandonment terminates the felony for the abandoning party. 
+check 4: MUST FIX. The question is an orphaned child prompt completely missing its master fact pattern. It references "Dom," "Wendy," "his abandonment," and the "commercial electronics truck hijacking" without establishing any of these facts in the stem.
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Add the missing factual scenario to the question stem, explicitly detailing the truck hijacking, Dom and Leo's flight, and the pursuing police cruiser striking Wendy.
+Recommended fix: Provide the necessary factual context in the stem so the question stands alone. Additionally, change the premise from "abandonment" to "running away from the scene on foot" (e.g., "Assume that, even though Dom dropped his loot and fled on foot before the vehicular pursuit began..."). This ensures option (d) correctly fails under the *res gestae* continuous transaction rule without inadvertently triggering the legal defense of abandonment.
 -->
 
 ## Issue 2 — edge-case
 
-```
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: Q11's correct answer definitively concludes that Dom is guilty of felony murder. This implicitly confirms that Dom committed a valid underlying felony, which outright spoils Q8 (testing whether Dom's actus reus was sufficient for attempt) and Q9 (testing whether his abandonment defense succeeds). If Dom is guilty here, astute students will immediately know his attempt actus reus was sufficient and his abandonment failed. Additionally, the explanation for Option (d) is logically flawed: if Dom had truly "legally abandoned" the felony, there would be no felony to anchor the res gestae flight doctrine.
-Recommended fix: Add a stipulative assumption to the stem: "Assume for the purposes of this question that Dom is guilty of attempted hijacking." Furthermore, remove the word "legally" from Option (d) ("No, because Dom had abandoned the plan..."), and update the explanation for (d) to note that his abandonment was legally ineffective because it was motivated by police presence, meaning the attempted felony remained intact during the flight.
--->
-```
+**Q11.** Assume that, despite his abandonment, Dom is charged with felony murder for the death of Wendy, who was struck by the pursuing police cruiser. In a jurisdiction following the proximate cause theory of felony murder (*Smith v. State*), is Dom guilty?
 
-**Q11.** Dom is charged with felony murder for Wendy's death. In a jurisdiction following the proximate cause theory of felony murder (*Smith v. State*), is Dom guilty?
-
-(a) Yes, because Dom was the initial aggressor in the chain of events and is thus strictly liable for any deaths that subsequently occur.
-(b) Yes, because a fatal crash by pursuing police officers is a reasonably foreseeable consequence of fleeing a felony scene at high speeds. <!-- correct -->
-(c) No, because the police cruiser, rather than Dom or his co-felon Leo, was the direct physical agent that unfortunately struck and killed Wendy.
-(d) No, because Dom had legally abandoned the underlying felony at the loading dock before the high-speed vehicular evasion had even begun.
-(e) No, because Dom's specific intent to commit the truck hijacking cannot legally transfer to an entirely unintentional vehicular homicide involving a pedestrian.
+(a) Yes, because the fatal crash of a police cruiser during a high-speed pursuit is a highly extraordinary event that intentionally breaks the chain of legal causation.
+(b) Yes, because under the proximate cause theory, a felon is liable for any death that is a foreseeable consequence of the felony, including crashes by responding police. <!-- correct -->
+(c) No, because the strict agency theory applies, requiring that the fatal vehicle be driven by a co-felon rather than a third-party law enforcement officer.
+(d) No, because Dom explicitly abandoned the hijacking before the vehicular pursuit began, which legally terminated the predicate felony and its associated homicide liability.
+(e) No, because Wendy was merely an innocent civilian bystander rather than the intended victim or target of the underlying commercial electronics truck hijacking.
 
 **Answer:** (b)
 
-**Explanation:** Under the proximate cause theory of felony murder (*Smith v. State*), a felon is liable for any death that is a highly foreseeable consequence of the felony or the subsequent flight. A fatal collision involving a pursuing police cruiser during a high-speed getaway is considered a foreseeable result of the underlying crime. Option (a) is wrong because felony murder relies on proximate causation, not merely being the initial aggressor. Option (c) relies on the alternative agency theory of felony murder, which this jurisdiction does not follow. Option (d) is wrong because the immediate flight from a felony scene is legally considered part of the continuous transaction (res gestae). Option (e) is wrong because the felony murder rule explicitly substitutes the intent to commit the felony for the intent to kill.
+**Explanation:** Under the proximate cause theory of felony murder, a felon is liable for any death that is a foreseeable result of the felony, regardless of who actually causes the fatal outcome. In *Smith v. State*, this included a police officer shooting a co-felon; here, it includes a police officer crashing during a pursuit. (b) is correct because a police crash during a high-speed getaway is a highly foreseeable consequence. (a) fails because if the event broke the chain of causation, he would not be guilty. (c) fails because the prompt specifies a proximate cause jurisdiction, not an agency theory jurisdiction. (d) fails because flight from the scene is considered part of the *res gestae* (continuous transaction) of the felony, meaning the felony is not terminated. (e) fails because felony murder routinely applies to the deaths of innocent bystanders.
 
-**Tags:** chapters: [14], topics: [felony murder, proximate cause, third-party killings], difficulty: medium, cognitive: application
+**Tags:** chapters: [14], topics: [felony murder, proximate cause, third-party killer], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 14: smith-proximate-cause-police / *Smith v. State*
+**Grounding:** Chapter 14: smith-proximate-cause-police
 
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: pass
+<!-- edge-case-audit: SHOULD FIX
+1. Fact Pattern Booby Traps: The phrase "despite his abandonment" implies the abandonment might be legally valid. If a student assumes a valid abandonment, there is no predicate felony, making "No" the correct outcome. The explanation for (d) incorrectly implies that flight from a legally abandoned attempt would still be res gestae (you cannot have res gestae of a legally negated non-felony). 
 2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: Q11's correct answer definitively concludes that Dom is guilty of felony murder. This implicitly confirms that Dom committed a valid underlying felony, which outright spoils Q8 (testing whether Dom's actus reus was sufficient for attempt) and Q9 (testing whether his abandonment defense succeeds). If Dom is guilty here, astute students will immediately know his attempt actus reus was sufficient and his abandonment failed. Additionally, the explanation for Option (d) is logically flawed: if Dom had truly "legally abandoned" the felony, there would be no felony to anchor the res gestae flight doctrine.
-Recommended fix: Add a stipulative assumption to the stem: "Assume for the purposes of this question that Dom is guilty of attempted hijacking." Furthermore, remove the word "legally" from Option (d) ("No, because Dom had abandoned the plan..."), and update the explanation for (d) to note that his abandonment was legally ineffective because it was motivated by police presence, meaning the attempted felony remained intact during the flight.
+3. Cross-Question Spoilers: Q9 tests this exact abandonment. The wording "despite his abandonment" here conflicts with the legal reality established in Q9 (that the abandonment was legally invalid because he was spooked by police). This creates confusion over whether students are supposed to assume a successful defense for this hypothetical.
+Recommended fix: Change the opening sentence to: "Assume Dom is guilty of the predicate felony of attempted hijacking, and is charged with felony murder..." and update (d)'s explanation to mention that because his abandonment was legally invalid (prompted by police presence), the predicate felony remains intact and the flight is part of its res gestae.
 -->
 
-## Issue 3 — argpass-opus
+## Issue 3 — argpass-sonnet
 
-**Q11.** Dom is charged with felony murder for Wendy's death. In a jurisdiction following the proximate cause theory of felony murder (*Smith v. State*), is Dom guilty?
+**Q11.** Assume that, despite his abandonment, Dom is charged with felony murder for the death of Wendy, who was struck by the pursuing police cruiser. In a jurisdiction following the proximate cause theory of felony murder (*Smith v. State*), is Dom guilty?
 
-(a) Yes, because Dom was the initial aggressor in the chain of events and is thus strictly liable for any deaths that subsequently occur.
-(b) Yes, because a fatal crash by pursuing police officers is a reasonably foreseeable consequence of fleeing a felony scene at high speeds. <!-- correct -->
-(c) No, because the police cruiser, rather than Dom or his co-felon Leo, was the direct physical agent that unfortunately struck and killed Wendy.
-(d) No, because Dom had legally abandoned the underlying felony at the loading dock before the high-speed vehicular evasion had even begun.
-(e) No, because Dom's specific intent to commit the truck hijacking cannot legally transfer to an entirely unintentional vehicular homicide involving a pedestrian.
+(a) Yes, because the fatal crash of a police cruiser during a high-speed pursuit is a highly extraordinary event that intentionally breaks the chain of legal causation.
+(b) Yes, because under the proximate cause theory, a felon is liable for any death that is a foreseeable consequence of the felony, including crashes by responding police. <!-- correct -->
+(c) No, because the strict agency theory applies, requiring that the fatal vehicle be driven by a co-felon rather than a third-party law enforcement officer.
+(d) No, because Dom explicitly abandoned the hijacking before the vehicular pursuit began, which legally terminated the predicate felony and its associated homicide liability.
+(e) No, because Wendy was merely an innocent civilian bystander rather than the intended victim or target of the underlying commercial electronics truck hijacking.
 
 **Answer:** (b)
 
-**Explanation:** Under the proximate cause theory of felony murder (*Smith v. State*), a felon is liable for any death that is a highly foreseeable consequence of the felony or the subsequent flight. A fatal collision involving a pursuing police cruiser during a high-speed getaway is considered a foreseeable result of the underlying crime. Option (a) is wrong because felony murder relies on proximate causation, not merely being the initial aggressor. Option (c) relies on the alternative agency theory of felony murder, which this jurisdiction does not follow. Option (d) is wrong because the immediate flight from a felony scene is legally considered part of the continuous transaction (res gestae). Option (e) is wrong because the felony murder rule explicitly substitutes the intent to commit the felony for the intent to kill.
+**Explanation:** Under the proximate cause theory of felony murder, a felon is liable for any death that is a foreseeable result of the felony, regardless of who actually causes the fatal outcome. In *Smith v. State*, this included a police officer shooting a co-felon; here, it includes a police officer crashing during a pursuit. (b) is correct because a police crash during a high-speed getaway is a highly foreseeable consequence. (a) fails because if the event broke the chain of causation, he would not be guilty. (c) fails because the prompt specifies a proximate cause jurisdiction, not an agency theory jurisdiction. (d) fails because flight from the scene is considered part of the *res gestae* (continuous transaction) of the felony, meaning the felony is not terminated. (e) fails because felony murder routinely applies to the deaths of innocent bystanders.
 
-**Tags:** chapters: [14], topics: [felony murder, proximate cause, third-party killings], difficulty: medium, cognitive: application
+**Tags:** chapters: [14], topics: [felony murder, proximate cause, third-party killer], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 14: smith-proximate-cause-police / *Smith v. State*
+**Grounding:** Chapter 14: smith-proximate-cause-police
 
-<!-- argument-pass: MUST FIX
-(a) Argument-for: A student could argue that felony murder originated as a strict liability doctrine for inherently dangerous felonies. Since Dom initiated the sequence of events as the "initial aggressor," causation is factually established. If one interprets the proximate cause theory broadly as holding felons liable for downstream effects of their felonious hazard, (a) appears to correctly assign liability based on his role in triggering the deadly chain of events.
-(b) Argument-for: A student could argue that the proximate cause theory holds felons liable for deaths caused by third parties, provided the death is reasonably foreseeable. Fleeing a felony at high speeds inherently invites a high-speed police pursuit. Since crashes during such pursuits are highly foreseeable, Dom is legally responsible for the fatal crash that killed Wendy, making (b) the precise application of *Smith v. State*.
-(c) Argument-for: A student could argue that intervening acts by third parties sever the causal chain. If the police cruiser was the "direct physical agent," an independent duty of care applies to the officer's driving. Therefore, the officer's direct physical agency acts as a superseding cause, breaking proximate causation and shielding Dom from liability for an unintentional death directly inflicted by law enforcement.
-(d) Argument-for: A student could argue that felony murder requires the death to occur within the *res gestae* of the underlying felony. If Dom "legally abandoned" the truck hijacking at the loading dock, the felony was entirely terminated. Consequently, the subsequent vehicular evasion was an independent, non-felonious act, severing the required temporal and causal nexus between the felony and Wendy's death.
-(e) Argument-for: A student could argue that criminal liability generally requires concurrence of the specific mental state and the actus reus. Dom's specific intent was limited to the property crime of hijacking. Because a pedestrian's vehicular death is drastically different from the targeted harm of a hijacking, traditional doctrines of transferred intent cannot bridge this gap, meaning Dom lacks the requisite malice for murder.
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student could argue that if the police chase was "highly extraordinary," it implies an extreme level of danger that justifies felony murder liability, misreading "breaks the chain" as a term meaning "breaks the chain of ordinary events" and thereby triggering extraordinary liability.
+(b) Argument-for: Under the proximate cause theory of felony murder, felons are liable for deaths that are reasonably foreseeable consequences of the felony. High-speed pursuits and resulting accidents by responding officers are quintessential foreseeable risks of fleeing a violent felony.
+(c) Argument-for: A student could argue that despite the jurisdiction generally following proximate cause, homicides directly committed by law enforcement officers are treated under an agency-like exception to avoid immunizing police misconduct.
+(d) Argument-for: Abandonment or withdrawal is a recognized defense to accomplice liability. A student could argue that because Dom "explicitly abandoned" the crime before the vehicular pursuit, he severed his causal connection, which effectively stopped the clock on his felony murder liability before the crash occurred.
+(e) Argument-for: A student could argue that felony murder is intended to protect individuals directly involved or targeted by the underlying felony. They might conclude that an innocent civilian bystander falls outside the protected class, making (e) the correct answer.
 
-Head-to-head: Option (b) correctly states the legal standard for the proximate cause theory of felony murder, acknowledging that foreseeable third-party actions during flight maintain the causal chain. However, the question suffers from a fatal structural flaw: the fact pattern is entirely missing from the prompt. It forces the student to reverse-engineer the facts (truck hijacking, loading dock, police pursuit, Wendy being hit by a cruiser) directly from the answer choices. Furthermore, distractors (a), (c), and (e) rely on explicitly false legal rules for this jurisdiction, while (d) attempts to mischaracterize the legal boundary of *res gestae* but reads like a factual assertion ("had legally abandoned"). The missing fact pattern makes the question fundamentally unanswerable without guessing what actually happened.
+Head-to-head: Option (b) is the clear winner as it accurately states the proximate cause theory and applies it correctly to foreseeable police crashes. Option (a) contradicts itself by pairing a "Yes" verdict with an event that "breaks the chain of legal causation." Option (c) is directly contradicted by the prompt, which specifies a proximate cause jurisdiction. Option (d) is a strong distractor because valid abandonment can terminate liability, but the option fails to use absolute language, making it dependent on unstated facts about the sufficiency of the abandonment. Option (e) incorrectly assumes bystanders are excluded from felony murder, but lacks absolute locking language. 
 
 Falsifiable claim per distractor:
-- (a): "is thus strictly liable for any deaths that subsequently occur" — wrong because proximate cause theory does not impose categorical strict liability for *any* subsequent death; it explicitly requires the death to be reasonably foreseeable.
-- (c): "because the police cruiser... was the direct physical agent" — wrong as a legal standard in this prompt, because the proximate cause theory explicitly permits felony murder liability even when a third party is the direct physical agent.
-- (d): "had legally abandoned the underlying felony at the loading dock before the high-speed vehicular evasion" — wrong because under the *res gestae* doctrine, immediate flight from a felony scene is categorically part of the continuous transaction, meaning the legal bounds of the felony cannot be "abandoned" to exclude the flight itself.
-- (e): "cannot legally transfer to an entirely unintentional vehicular homicide" — wrong because the felony murder rule operates to categorically substitute the intent to commit the underlying felony for malice aforethought, overriding standard transferred intent limitations.
+- (a): "intentionally breaks the chain of legal causation" — wrong because breaking the chain of causation would legally result in a "No" (not guilty) verdict, making the "Yes" conclusion logically contradictory.
+- (c): "strict agency theory applies" — wrong because the prompt explicitly sets the jurisdiction as following the proximate cause theory.
+- (d): "which legally terminated the predicate felony and its associated homicide liability" — wrong because flight is typically part of the res gestae, but lacks an absolute word to make the legal claim universally false regardless of the factual adequacy of the abandonment.
+- (e): "merely an innocent civilian bystander rather than the intended victim" — wrong because felony murder routinely applies to bystanders, but lacks absolute words to strictly falsify the premise.
 
-Recommended fix: Add the missing fact pattern to the question stem. For example: "Dom and Leo commit a truck hijacking at a loading dock. Fleeing the scene at high speeds, they are pursued by police. During the chase, a pursuing police cruiser loses control and fatally strikes a pedestrian, Wendy. Dom is charged..."
+Recommended fix: Lock (d) and (e) with absolute words. Change (d) to: "No, because an explicitly stated abandonment prior to a pursuit categorically terminates the predicate felony and all associated homicide liability." Change (e) to: "No, solely because felony murder categorically excludes innocent civilian bystanders who are not targets of the underlying felony."
+-->
+
+## Issue 4 — argpass-opus
+
+**Q11.** Assume that, despite his abandonment, Dom is charged with felony murder for the death of Wendy, who was struck by the pursuing police cruiser. In a jurisdiction following the proximate cause theory of felony murder (*Smith v. State*), is Dom guilty?
+
+(a) Yes, because the fatal crash of a police cruiser during a high-speed pursuit is a highly extraordinary event that intentionally breaks the chain of legal causation.
+(b) Yes, because under the proximate cause theory, a felon is liable for any death that is a foreseeable consequence of the felony, including crashes by responding police. <!-- correct -->
+(c) No, because the strict agency theory applies, requiring that the fatal vehicle be driven by a co-felon rather than a third-party law enforcement officer.
+(d) No, because Dom explicitly abandoned the hijacking before the vehicular pursuit began, which legally terminated the predicate felony and its associated homicide liability.
+(e) No, because Wendy was merely an innocent civilian bystander rather than the intended victim or target of the underlying commercial electronics truck hijacking.
+
+**Answer:** (b)
+
+**Explanation:** Under the proximate cause theory of felony murder, a felon is liable for any death that is a foreseeable result of the felony, regardless of who actually causes the fatal outcome. In *Smith v. State*, this included a police officer shooting a co-felon; here, it includes a police officer crashing during a pursuit. (b) is correct because a police crash during a high-speed getaway is a highly foreseeable consequence. (a) fails because if the event broke the chain of causation, he would not be guilty. (c) fails because the prompt specifies a proximate cause jurisdiction, not an agency theory jurisdiction. (d) fails because flight from the scene is considered part of the *res gestae* (continuous transaction) of the felony, meaning the felony is not terminated. (e) fails because felony murder routinely applies to the deaths of innocent bystanders.
+
+**Tags:** chapters: [14], topics: [felony murder, proximate cause, third-party killer], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 14: smith-proximate-cause-police
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student could select this option if they mistakenly believe that an intervening, highly extraordinary event solidifies liability by making the outcome more severe, or if they misread the causal logic. They might correctly identify that a high-speed police crash is a major event but erroneously conclude that breaking the chain of causation leads to a "Yes" verdict under a strict liability misinterpretation of felony murder. The presence of the word "Yes" might also simply attract students who know Dom is guilty but are guessing on the reasoning.
+(b) Argument-for: A student would choose this option by correctly applying the proximate cause theory of felony murder. Under this theory, a felon is held responsible for any death that foreseeably results from the commission of the felony, even if caused by a third party like a police officer. A police cruiser crash during a high-speed getaway is a classic foreseeable consequence of a vehicle hijacking. Therefore, this option accurately links the legal standard to the factual outcome.
+(c) Argument-for: A student could choose this option if they ignore or miss the prompt's explicit instruction regarding the jurisdiction's specific theory of felony murder. They might recall that the strict agency theory is the majority rule and requires the fatal act to be committed by a co-felon. Believing this general rule supersedes the prompt's specific jurisdictional constraint, they would incorrectly conclude Dom is not guilty.
+(d) Argument-for: A student could argue that a clear and explicit abandonment severs a defendant's liability for any subsequent actions taken by co-felons. If the student believes that abandonment effectively stops the clock on the predicate felony before the getaway begins, they would reason that the continuous transaction doctrine does not apply. They would select this option assuming the vehicular pursuit constitutes an entirely separate transaction from the abandoned hijacking.
+(e) Argument-for: A student might choose this option if they fundamentally misunderstand the scope and purpose of the felony murder rule. They could mistakenly believe that the doctrine transfers intent only toward those individuals directly involved or targeted by the underlying felony. Under this flawed assumption, the death of an unrelated, innocent civilian bystander would fall outside the bounds of felony murder liability.
+
+Head-to-head: 
+Option (b) is the clear winner because it accurately applies the proximate cause theory to find that a foreseeable police crash sustains felony murder liability. Option (a) correctly concludes "Yes" but relies on a legally contradictory rationale, as breaking the chain of causation would legally preclude liability. Option (c) relies on an explicit contradiction of the question stem's stipulated jurisdiction. Option (e) uses an identifiable false legal claim, as felony murder routinely covers innocent bystanders. Option (d) presents a plausible application of the abandonment defense but fails because flight is considered part of the continuous transaction (*res gestae*); however, it is the most dangerous distractor as it lacks an absolute word to render its legal conclusion categorically false in all circumstances.
+
+Falsifiable claim per distractor:
+- (a): "intentionally breaks the chain of legal causation" — wrong because if an event breaks the chain of causation, the legal outcome is "No" (not guilty), making the reasoning completely contradictory to the "Yes" conclusion.
+- (c): "the strict agency theory applies" — wrong because it explicitly contradicts the prompt's premise that the case takes place in a proximate cause jurisdiction.
+- (d): "which legally terminated the predicate felony" — wrong because flight is legally part of the *res gestae* (continuous transaction), but lacks an absolute word to ensure the statement is definitively false as a blanket rule.
+- (e): "rather than the intended victim or target" — wrong because felony murder categorically applies to the deaths of innocent bystanders, not just intended targets.
+
+Recommended fix: In option (d), add an absolute word to explicitly lock the false legal claim. Change (d) to: "No, because any explicit abandonment automatically terminates the predicate felony and strictly precludes liability for the subsequent flight."
 -->

@@ -4,57 +4,126 @@ The QA pipeline flagged this question. Rewrite `q09.md` addressing each numbered
 
 ## Issue 1 — audit
 
-<!-- audit: MUST FIX -->
+**Q9.** Leo is charged as an accomplice to Dom's attempted armed hijacking. In a jurisdiction requiring that an accomplice act with the strict purpose of promoting the underlying offense, is Leo guilty?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) Yes, because providing a ride with actual knowledge of Dom's criminal plan establishes the required specific intent mens rea for standard accomplice liability.
+(b) Yes, because accepting the $500 premium payment gave Leo a financial stake in the venture, supporting an inference that his purpose was to facilitate the crime. <!-- correct -->
+(c) No, because Leo explicitly refused to help plan the operation, which completely negates the purpose requirement and shields him from any accomplice liability.
+(d) No, because merely driving the getaway vehicle while waiting in an idling car does not constitute sufficient physical assistance to satisfy the actus reus of accomplice liability.
+(e) No, because mere presence at the scene of the crime is legally insufficient, and an accomplice must actively participate in the execution of the hijacking itself.
 
-Error: Model returned empty or blocked response.
+**Answer:** (b)
+
+**Explanation:** Accomplice liability typically requires the purpose to promote or facilitate the crime. While mere knowledge is insufficient, courts (as in *People v. Lauria*) hold that purpose can be inferred if the provider of services charges a premium or has a financial stake in the venture. (b) is correct because Leo was paid $500 specifically for a ride to a hijacking, constituting a premium that permits the inference of purpose. (a) fails because in a strict purpose jurisdiction, mere knowledge of the crime without a stake is insufficient. (c) fails because refusing to plan does not negate purpose if he simultaneously takes money to drive the getaway car to facilitate the crime. (d) fails because driving a getaway car is a classic form of physical assistance satisfying the actus reus. (e) fails because Leo was not merely present; he provided transportation and waited as the designated getaway driver.
+
+**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 18: mr-purpose-not-knowledge
+
+<!-- audit: MUST FIX
+check 1: pass (the legal rule derived from *Lauria* regarding the inference of purpose via a financial premium is correctly applied)
+check 2: pass (distractors are well-calibrated misapplications of actus reus and mens rea standards, provided the facts were present)
+check 3: pass (the explanation correctly aligns with the doctrine mapped to `mr-purpose-not-knowledge` and `lauria-three-inferences`)
+check 4: MUST FIX (The stem is entirely missing the factual scenario. It leaps straight to the call of the question without establishing that Leo drove the car, accepted a $500 premium, or refused to help plan the operation. Students have no facts to apply the law to.)
+check 5: pass (the jurisdiction is cleanly stipulated as a "strict purpose" jurisdiction)
+check 6: pass (attempted hijacking does not violate the excluded-topic boundaries)
+check 7: pass (doctrine is securely grounded in Chapter 18/19 maps under `lauria-three-inferences` and `mr-purpose-not-knowledge`)
+Recommended fix: Add the missing fact pattern to the stem. For example: "Dom plans an armed hijacking and asks Leo to drive the getaway car. Leo explicitly refuses to help plan the operation but agrees to wait in an idling vehicle and drive Dom away afterward, provided Dom pays him a $500 premium—far above his normal rate. Leo is charged..."
+-->
 
 ## Issue 2 — edge-case
 
-```
+**Q9.** Leo is charged as an accomplice to Dom's attempted armed hijacking. In a jurisdiction requiring that an accomplice act with the strict purpose of promoting the underlying offense, is Leo guilty?
+
+(a) Yes, because providing a ride with actual knowledge of Dom's criminal plan establishes the required specific intent mens rea for standard accomplice liability.
+(b) Yes, because accepting the $500 premium payment gave Leo a financial stake in the venture, supporting an inference that his purpose was to facilitate the crime. <!-- correct -->
+(c) No, because Leo explicitly refused to help plan the operation, which completely negates the purpose requirement and shields him from any accomplice liability.
+(d) No, because merely driving the getaway vehicle while waiting in an idling car does not constitute sufficient physical assistance to satisfy the actus reus of accomplice liability.
+(e) No, because mere presence at the scene of the crime is legally insufficient, and an accomplice must actively participate in the execution of the hijacking itself.
+
+**Answer:** (b)
+
+**Explanation:** Accomplice liability typically requires the purpose to promote or facilitate the crime. While mere knowledge is insufficient, courts (as in *People v. Lauria*) hold that purpose can be inferred if the provider of services charges a premium or has a financial stake in the venture. (b) is correct because Leo was paid $500 specifically for a ride to a hijacking, constituting a premium that permits the inference of purpose. (a) fails because in a strict purpose jurisdiction, mere knowledge of the crime without a stake is insufficient. (c) fails because refusing to plan does not negate purpose if he simultaneously takes money to drive the getaway car to facilitate the crime. (d) fails because driving a getaway car is a classic form of physical assistance satisfying the actus reus. (e) fails because Leo was not merely present; he provided transportation and waited as the designated getaway driver.
+
+**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 18: mr-purpose-not-knowledge
+
 <!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The question applies the "vendor" exception (mere knowledge + flat fee = no purpose) to negate specific intent. However, this doctrine (from cases like *Peoni* or *Lauria*) applies to providers of ordinary, legitimate goods or services. Leo is actively serving as a getaway driver waiting at the scene of an armed robbery. Courts overwhelmingly hold that acting as a getaway driver constitutes direct participation with no legitimate commercial use, inherently satisfying the specific intent/purpose standard. Concluding Leo lacked purpose simply because he charged a flat fee is doctrinally flawed.
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: This question concludes Leo is NOT an accomplice to the attempted hijacking. If Leo is not guilty of the underlying felony, he is categorically immune from felony murder. This completely breaks Q13, which evaluates Leo's felony murder liability for Wendy's death as a "major participant" under SB 1437. He cannot be a major participant in a felony he is legally deemed not to have committed.
-Recommended fix: Since Leo must be the getaway driver for the subsequent police chase and Q13/Q14 to work, he MUST be guilty of the underlying felony. Rewrite an option to be the correct "Yes" answer, explaining that Leo's active participation as a getaway driver at the scene goes beyond mere knowledge and demonstrates a purpose to facilitate the crime, satisfying specific intent.
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: Derivative accomplice liability requires the principal to have actually committed the offense. Dom's attempt is legally borderline (he never touched the truck and fled when he saw police). If Dom's actions fall short of attempt, Leo cannot be guilty as an accomplice to attempt.
+3. Cross-Question Spoilers: Q8 explicitly tests whether Dom's actions satisfy the actus reus for attempt (proximity vs. substantial step), and another question tests Dom's abandonment. Because Dom's guilt for the underlying attempt is highly debatable and actively tested elsewhere in the exam, this question cannot force a definitive "Yes" for Leo's guilt without stipulating that the principal's crime was legally established.
+Recommended fix: Add "Assume Dom's actions legally constitute attempted armed hijacking." to the end of the question stem to isolate the mens rea analysis.
 -->
-```
 
 ## Issue 3 — argpass-sonnet
 
-**Q9.** Assume the jurisdiction follows the traditional specific intent (purpose) standard for accomplice liability. Is Leo guilty as an accomplice to Dom's attempted hijacking?
+**Q9.** Leo is charged as an accomplice to Dom's attempted armed hijacking. In a jurisdiction requiring that an accomplice act with the strict purpose of promoting the underlying offense, is Leo guilty?
 
-(a) Yes, because he knew Dom intended to commit the hijacking and provided a necessary instrument by driving him to the location.
-(b) Yes, because his presence in the idling car provided psychological encouragement to Dom, satisfying the mens rea requirement for accomplice liability.
-(c) No, because his refusal to help plan the operation and his acceptance of a flat fee demonstrate he lacked the purpose to facilitate. <!-- correct -->
-(d) No, because Dom failed to complete the target substantive offense, entirely precluding any derivative accomplice liability for the waiting getaway driver.
-(e) No, because an accomplice must actively participate in the physical commission of the core offense directly at the scene of the crime.
+(a) Yes, because providing a ride with actual knowledge of Dom's criminal plan establishes the required specific intent mens rea for standard accomplice liability.
+(b) Yes, because accepting the $500 premium payment gave Leo a financial stake in the venture, supporting an inference that his purpose was to facilitate the crime. <!-- correct -->
+(c) No, because Leo explicitly refused to help plan the operation, which completely negates the purpose requirement and shields him from any accomplice liability.
+(d) No, because merely driving the getaway vehicle while waiting in an idling car does not constitute sufficient physical assistance to satisfy the actus reus of accomplice liability.
+(e) No, because mere presence at the scene of the crime is legally insufficient, and an accomplice must actively participate in the execution of the hijacking itself.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** Under the traditional specific intent standard (e.g., *Peoni*), an accomplice must have the purpose of facilitating the target offense. Providing minor assistance for a flat fee, while refusing to plan, demonstrates knowledge of the crime but not a purposeful stake in its success. Option (a) is wrong because it relies on mere knowledge rather than the required specific intent to facilitate. Option (b) is wrong because passive presence in an idling car without shared intent does not automatically constitute psychological encouragement. Option (d) is wrong because an accomplice can be liable for an attempted substantive offense, not just a completed one. Option (e) is wrong because an accomplice can provide remote assistance and need not be physically present at the active crime scene.
+**Explanation:** Accomplice liability typically requires the purpose to promote or facilitate the crime. While mere knowledge is insufficient, courts (as in *People v. Lauria*) hold that purpose can be inferred if the provider of services charges a premium or has a financial stake in the venture. (b) is correct because Leo was paid $500 specifically for a ride to a hijacking, constituting a premium that permits the inference of purpose. (a) fails because in a strict purpose jurisdiction, mere knowledge of the crime without a stake is insufficient. (c) fails because refusing to plan does not negate purpose if he simultaneously takes money to drive the getaway car to facilitate the crime. (d) fails because driving a getaway car is a classic form of physical assistance satisfying the actus reus. (e) fails because Leo was not merely present; he provided transportation and waited as the designated getaway driver.
 
-**Tags:** chapters: [18], topics: [accomplice liability, specific intent, purpose vs knowledge], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18: mr-purpose-not-knowledge / *United States v. Peoni*
+**Grounding:** Chapter 18: mr-purpose-not-knowledge
 
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that driving a getaway vehicle is an indispensable service, and under doctrines derived from cases like *Lauria*, a jury is sometimes permitted to infer purpose from mere knowledge when the defendant provides uniquely vital goods or services for a severe felony (like hijacking). Thus, Leo's provision of the getaway car with full knowledge of Dom's violent intent satisfies the mens rea for accomplice liability.
-(b) Argument-for: A student could argue that sitting in an idling getaway car is the ultimate form of backup, providing crucial psychological encouragement to the principal. By choosing to be present and ready to aid, Leo demonstrates a shared psychological stake in the outcome, effectively satisfying both the actus reus (encouragement) and blurring into the mens rea requirement for accomplice liability.
-(c) Argument-for: Under the strict specific intent standard of *United States v. Peoni*, an accomplice must associate himself with the venture and participate in it as something he wishes to bring about. Accepting a simple flat fee and expressly refusing to help plan the crime demonstrate that Leo viewed the act as a mere transaction; he had knowledge, but lacked the purposeful stake in the hijacking's success required for liability.
-(d) Argument-for: A student might argue that accomplice liability is strictly derivative of the principal's completed actions. Since Dom only committed an *attempted* hijacking and failed the target substantive offense, a student could mistakenly conclude that Leo cannot be convicted of the target offense, thus precluding derivative liability for the waiting driver.
-(e) Argument-for: A student could argue that accomplice liability requires actual participation in the core elements of the crime, distinguishing it from mere facilitation or accessory-after-the-fact liability. Under this view, sitting remotely in a car means Leo did not actively participate at the scene of the hijacking itself.
+<!-- argument-pass: MUST FIX
+(a) Argument-for: Leo provided a ride with actual knowledge of Dom's criminal plan. In some minority interpretations (e.g., *Fountain* or *Luparello*), "knowing" facilitation of a highly serious felony can sometimes blur into purpose or be deemed legally sufficient to establish accomplice liability. A student could argue that actual knowledge of a severe crime like armed hijacking automatically establishes the necessary mens rea.
+(b) Argument-for: Leo accepted a $500 premium payment for his services. Under the widely accepted doctrine of *People v. Lauria*, when a defendant provides lawful goods or services but charges a premium knowing they will be used for a crime, the jury can infer that the defendant had the specific purpose to facilitate the crime. This financial stake elevates his mens rea from mere knowledge to the required strict purpose.
+(c) Argument-for: Accomplice liability requires the strict purpose to promote or facilitate the offense. Leo explicitly refused to help plan the operation. This explicit refusal serves as factual evidence demonstrating a lack of the requisite specific intent or purpose to see the crime succeed, acting as a negation of the mens rea element and shielding him from liability under a strict purpose standard.
+(d) Argument-for: Accomplice liability actus reus requires actual assistance or encouragement that genuinely aids the principal. Merely sitting in an idling car without participating in the primary conduct of the hijacking could be characterized as failing to provide sufficient physical assistance, meaning the actus reus is not met.
+(e) Argument-for: Mere presence at the scene of a crime is legally insufficient to establish accomplice liability. Since Leo did not actively participate in the execution of the hijacking itself, his waiting in the car could be construed as mere presence, failing to satisfy the active participation requirement mandated for conviction.
 
-Head-to-head: Option (c) is the unequivocally correct application of the *Peoni* standard, successfully linking the flat fee and refusal to plan to a lack of purpose. Option (d) contains an explicit false claim ("entirely precluding any") because one can be an accomplice to an attempt. Option (e) contains an explicit false claim ("must actively participate... directly at the scene") because remote accomplices exist. Option (b) makes a clear category error by stating psychological encouragement "satisfies the mens rea requirement," but lacks a strict absolute locking word. Option (a) relies on an inference that is highly plausible in some jurisdictions (inferring purpose from knowledge for severe felonies), making it dangerous without an absolute locking word like "solely because" to render it cleanly falsifiable.
+Head-to-head: The keyed answer (b) correctly applies the *Lauria* standard that a financial stake/premium permits an inference of purpose. The distractors feature properly locked falsifiable claims. However, this question is a MUST FIX because the question stem is entirely missing the fact pattern! It mentions Leo is charged, but omits that he provided a ride, was paid $500, refused to plan, or waited in the car. Without the facts, the question is unanswerable. 
 
 Falsifiable claim per distractor:
-- (a): "because he knew Dom intended... and provided a necessary instrument" — implicitly argues this is always legally sufficient to establish specific intent, but lacks an absolute lock, leaving it vulnerable to the "serious felony inference" argument.
-- (b): "satisfying the mens rea requirement" — wrong because psychological encouragement is an *actus reus* concept, not mens rea, but would be stronger with an absolute lock.
-- (d): "entirely precluding any derivative accomplice liability" — wrong because a defendant can absolutely be liable as an accomplice to an attempted crime.
-- (e): "must actively participate... directly at the scene" — wrong because accessories and co-conspirators can provide remote assistance and still face accomplice liability.
+- (a): "establishes the required specific intent mens rea" — wrong because in a strict purpose jurisdiction, mere knowledge alone categorically does not establish specific intent (purpose) without an additional factor like a stake in the venture.
+- (c): "completely negates the purpose requirement and shields him from any accomplice liability" — wrong because refusing to plan does not completely negate purpose if the defendant then purposefully aids the crime (e.g., by driving the getaway car for a premium).
+- (d): "merely driving the getaway vehicle while waiting in an idling car does not constitute sufficient physical assistance" — wrong because driving a getaway vehicle is categorically established as sufficient physical assistance (actus reus) for accomplice liability.
+- (e): "an accomplice must actively participate in the execution of the hijacking itself" — wrong because an accomplice does not have to actively participate in the actual execution of the principal act; rendering aid before or during the escape is legally sufficient.
 
-Recommended fix: Add absolute locking words to (a) and (b) to ensure they fail the strict close-call standard. 
-Change (a) to: "Yes, solely because he knew Dom intended to commit the hijacking and provided a necessary instrument..."
-Change (b) to: "Yes, because his presence in the idling car provided psychological encouragement to Dom, which automatically satisfies the mens rea requirement for accomplice liability."
+Recommended fix: Insert the missing fact pattern into the question stem. Change the stem to: "Dom plans to commit an armed hijacking. Leo explicitly refuses to help plan the operation, but he agrees to drive the getaway vehicle and wait in an idling car after Dom offers him a $500 premium payment for the ride. Leo is subsequently charged as an accomplice. In a jurisdiction requiring that an accomplice act with the strict purpose of promoting the underlying offense, is Leo guilty?"
+-->
+
+## Issue 4 — argpass-opus
+
+**Q9.** Leo is charged as an accomplice to Dom's attempted armed hijacking. In a jurisdiction requiring that an accomplice act with the strict purpose of promoting the underlying offense, is Leo guilty?
+
+(a) Yes, because providing a ride with actual knowledge of Dom's criminal plan establishes the required specific intent mens rea for standard accomplice liability.
+(b) Yes, because accepting the $500 premium payment gave Leo a financial stake in the venture, supporting an inference that his purpose was to facilitate the crime. <!-- correct -->
+(c) No, because Leo explicitly refused to help plan the operation, which completely negates the purpose requirement and shields him from any accomplice liability.
+(d) No, because merely driving the getaway vehicle while waiting in an idling car does not constitute sufficient physical assistance to satisfy the actus reus of accomplice liability.
+(e) No, because mere presence at the scene of the crime is legally insufficient, and an accomplice must actively participate in the execution of the hijacking itself.
+
+**Answer:** (b)
+
+**Explanation:** Accomplice liability typically requires the purpose to promote or facilitate the crime. While mere knowledge is insufficient, courts (as in *People v. Lauria*) hold that purpose can be inferred if the provider of services charges a premium or has a financial stake in the venture. (b) is correct because Leo was paid $500 specifically for a ride to a hijacking, constituting a premium that permits the inference of purpose. (a) fails because in a strict purpose jurisdiction, mere knowledge of the crime without a stake is insufficient. (c) fails because refusing to plan does not negate purpose if he simultaneously takes money to drive the getaway car to facilitate the crime. (d) fails because driving a getaway car is a classic form of physical assistance satisfying the actus reus. (e) fails because Leo was not merely present; he provided transportation and waited as the designated getaway driver.
+
+**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 18: mr-purpose-not-knowledge
+
+<!-- argument-pass: MUST FIX
+(a) Argument-for: In some jurisdictions, the line between knowledge and purpose blurs for exceptionally serious crimes like armed hijacking. A student might argue that under doctrines derived from cases like *Fountain*, actual knowledge of a violently dangerous felony is enough to establish the requisite mens rea, even in a jurisdiction that generally requires purpose. Thus, providing a ride while actually knowing of the hijacking could be seen as legally satisfying the specific intent for standard accomplice liability.
+(b) Argument-for: A student could rely on the *Lauria* standard, which addresses the mens rea of service providers in strict purpose jurisdictions. While mere knowledge is insufficient, *Lauria* holds that purpose can be inferred if the provider has a financial stake in the venture, such as charging a premium. Accepting a $500 premium for a single ride strongly implies a financial stake, legally supporting the inference that Leo's purpose was to facilitate the crime's success.
+(c) Argument-for: A student might assert that strict purpose requires a conscious object to see the crime succeed, which is negated by explicitly distancing oneself from the crime's preparation. Leo's explicit refusal to help plan the operation demonstrates a lack of true purpose or investment in the hijacking's success. Therefore, this refusal factually and completely negates the strict purpose requirement, shielding him from liability.
+(d) Argument-for: A student could argue that the actus reus of accomplice liability requires actual assistance that contributes to the crime. If the hijacking was only "attempted" and Leo merely sat in an idling car without successfully driving Dom away, his physical acts might be viewed as mere preparation or insufficient assistance. Therefore, driving the car to the scene and waiting does not satisfy the actus reus.
+(e) Argument-for: A student could argue that accomplice liability distinguishes between actual aid and mere presence. Waiting in a car outside the scene could be mischaracterized as "mere presence," which is legally insufficient. The student might conclude that unless Leo actively participated in the execution of the hijacking elements (e.g., holding the weapon), his conduct does not rise to the level of accomplice actus reus.
+
+Head-to-head: Option (b) correctly applies *Lauria*, identifying that a premium payment creates a financial stake allowing an inference of purpose. Option (a) makes the legally false claim that mere actual knowledge establishes specific intent mens rea categorically in a strict-purpose jurisdiction. Option (c) falsely claims that a refusal to plan "completely negates" purpose, ignoring that taking a premium and driving the getaway car overrides this. Option (d) falsely asserts that driving a getaway car is insufficient physical assistance. Option (e) includes the demonstrably false claim that an accomplice "must actively participate in the execution of the hijacking itself." However, the question contains a critical structural flaw: the entire fact pattern is missing from the question stem. The student must improperly infer the facts (a $500 premium, driving the getaway car, refusing to plan) entirely from the answer choices, rendering the question unanswerable as drafted.
+
+Falsifiable claim per distractor:
+- (a): "providing a ride with actual knowledge of Dom's criminal plan establishes the required specific intent mens rea" — wrong because in a strict purpose jurisdiction, actual knowledge without more (such as a stake in the venture) does not establish purpose.
+- (c): "which completely negates the purpose requirement" — wrong because refusing to plan does not categorically negate the purpose requirement if the defendant otherwise manifests purpose by charging a premium and providing aid.
+- (d): "merely driving the getaway vehicle while waiting in an idling car does not constitute sufficient physical assistance" — wrong because waiting in an idling getaway car is a classic, universally recognized and legally sufficient actus reus for accomplice liability.
+- (e): "an accomplice must actively participate in the execution of the hijacking itself" — wrong because an accomplice does not need to participate in the actus reus of the underlying offense; aiding from the periphery (e.g., acting as a getaway driver) is completely sufficient.
+
+Recommended fix: Insert the missing facts into the question stem. For example: "Dom plans an armed hijacking and asks Leo to drive the getaway car. Leo explicitly refuses to help plan the operation but agrees to drive the car and wait idling at the scene in exchange for a $500 premium payment, which Dom pays. Leo fully knows of Dom's plan and drives Dom as agreed. Leo is charged..."
 -->

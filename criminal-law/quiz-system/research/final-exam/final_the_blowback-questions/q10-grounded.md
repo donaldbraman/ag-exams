@@ -1,17 +1,17 @@
-**Q10.** Assume Dom is convicted of the attempted hijacking and Carmine is convicted of the overarching conspiracy. Under the *Pinkerton* doctrine, is Carmine also guilty of the attempted hijacking?
+**Q10.** Assume a conspiracy was successfully formed at the initial syndicate meeting. Is Carmine guilty of Dom's attempted hijacking under the *Pinkerton* doctrine?
 
-(a) Yes, because Carmine was a major participant in the underlying conspiracy and acted with a reckless indifference to human life throughout the operation.
-(b) Yes, because the attempted hijacking was in furtherance of the ongoing conspiracy and was a reasonably foreseeable consequence of the initial agreement. <!-- correct -->
-(c) No, because Carmine was not physically present at the loading dock and did not personally assist Dom in executing the attempted hijacking.
-(d) No, because Dom's voluntary abandonment of the crime legally severed the causal chain between the conspiracy and the subsequent attempted hijacking.
-(e) No, because the Pinkerton doctrine of vicarious liability applies exclusively to completed substantive offenses, not to inchoate crimes like an attempted hijacking.
+(a) Yes, because Dom's attempt was committed in furtherance of the ongoing conspiracy and was a reasonably foreseeable consequence. <!-- correct -->
+(b) No, because Carmine was not physically present at the loading dock and did not personally commit the ultimate act.
+(c) Yes, because Carmine's recognized status as Capo makes him strictly liable for all crimes committed by his subordinates.
+(d) No, because Dom abandoned the attempt, severing the conspiratorial liability for any substantive acts committed before the withdrawal.
+(e) Yes, because the Pinkerton doctrine completely replaced traditional accomplice liability, making any agreement sufficient for the target offense.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Under the *Pinkerton* doctrine, a conspirator is vicariously liable for any substantive offenses committed by co-conspirators that are reasonably foreseeable and in furtherance of the conspiracy. Dom's attempted hijacking was the exact crime planned, making it inherently foreseeable to Carmine. Option (a) applies the *Tison* standard for felony murder accomplice liability, not the *Pinkerton* rule. Option (c) is wrong because *Pinkerton* creates vicarious liability specifically for co-conspirators who are absent from the scene. Option (d) is wrong because Dom committed the legal elements of attempt before he abandoned it, making the attempt a completed substantive offense. Option (e) is wrong because *Pinkerton* liability extends to all foreseeable substantive offenses, including criminal attempts.
+**Explanation:** Under the *Pinkerton* doctrine, a conspirator is liable for any substantive offenses committed by co-conspirators that are in furtherance of the conspiracy and reasonably foreseeable as a necessary or natural consequence of the unlawful agreement. Dom's attempt to hijack the exact truck discussed easily qualifies. Thus, (a) is correct. (b) is wrong because *Pinkerton* liability explicitly extends to absent co-conspirators. (c) is wrong because *Pinkerton* relies on the scope of the agreement and foreseeability, not merely organizational rank. (d) is wrong because Dom's abandonment of the full crime does not erase the attempt he already committed in furtherance of the conspiracy. (e) is wrong because *Pinkerton* is an alternative theory of liability; it supplements rather than replaces accomplice liability.
 
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton doctrine, vicarious liability], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, Pinkerton liability], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 19: pinkerton-liability / *Pinkerton v. United States*
+**Grounding:** Chapter 19 (pinkerton-liability)
 
 <!-- grounding: GROUNDED — Pinkerton doctrine, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->

@@ -1,22 +1,22 @@
-**Q5.** Assume the jurisdiction applies the federal *Rosemond* standard for accomplice liability. The prosecution charges Trey as an accomplice to Silas's armed robbery of the stash house. Trey argues he cannot be an accomplice to the armed portion of the robbery. How should the court rule?
+**Q5.** Assume the jurisdiction follows traditional accomplice liability rules. Is Trey liable as an accomplice to the robbery of the stash house?
 
-(a) Guilty, because Trey was present during the robbery and provided actual physical assistance by maintaining the running getaway vehicle in the alley.
-(b) Guilty, because Trey knew Silas was entering a hostile stash house, making it reasonably foreseeable that Silas would be carrying a deadly weapon.
-(c) Not guilty, because Silas's use of the handgun was an independent intervening cause that severed Trey's derivative liability for the armed robbery.
-(d) Not guilty, because Trey did not have advance knowledge that Silas was armed at a time when Trey had a meaningful opportunity to walk away. <!-- correct -->
-(e) Not guilty, because the legislature inherently excluded getaway drivers from accomplice liability when drafting the substantive statutes for armed robbery.
+(a) Yes, because his act of idling the getaway car facilitated the robbery, and he acted with the purpose that the underlying robbery succeed.
+(b) No, because his act was not a but-for cause of the robbery; Silas could have robbed the stash house and fled without his assistance.
+(c) Yes, because mere presence at the scene of a crime is sufficient for accomplice liability whenever the defendant has a financial stake in the venture.
+(d) No, because he only agreed to drive and did not physically enter the stash house or possess the specific intent to physically take the drugs.
+(e) Yes, but his punishment must be categorically graded one level lower than Silas's because his participation was merely secondary.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** The correct answer is (d) because under *Rosemond*, accomplice liability for a combined offense (like armed robbery or a § 924(c) violation) requires the defendant to have advance knowledge of all elements of the crime—including the use of a weapon—at a time when they have a meaningful opportunity to withdraw. Trey only learned of the gun when Silas jumped into the car and pointed it at him. Option (a) fails because physical assistance alone satisfies only the actus reus; accomplice liability also requires the requisite mental state. Option (b) fails because *Rosemond* requires actual advance knowledge of the weapon, not mere foreseeability. Option (c) fails because Silas's actions are the primary criminal conduct, not an intervening cause that severs causation for an accomplice. Option (e) fails because the *Gebardi* "inevitably incident" exception applies only to parties the legislature intended to protect or exclude (like victims), not to getaway drivers.
+**Explanation:** (a) is correct. Accomplice liability requires an actus reus of assistance (however minimal) and the mens rea of purpose to facilitate the underlying crime. Trey's agreement to drive the getaway car in exchange for payment satisfies both. (b) is incorrect because accomplice liability does not require but-for causation (*State v. Tally*). (c) is incorrect because mere presence is insufficient; it must be combined with encouragement or assistance. (d) is incorrect because an accomplice need not physically commit the crime's actus reus, only share the requisite intent and provide assistance. (e) is incorrect because under the equal-punishment rule, accomplices are graded equally to principals, collapsing genuine culpability differences.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, mr-temporal-advance-knowledge], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice-liability, actus-reus, equal-punishment], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18, Mens Rea - Temporal Advance Knowledge; Rosemond v. United States.
+**Grounding:** Chapter 18: Accomplice Liability > Elements > Prima Facie Elements > Actus Reus (Facilitation Without But-For Causation)
 
 <!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: MUST FIX. Fact 5 states Trey "had stepped out to smoke a cigarette when the first shot rang out," but this fact is placed sequentially *before* Fact 6 ("Later that afternoon, Trey drove Silas..."). This chronological error implies Trey heard a gunshot *before* the stash house robbery began. If Trey heard a shot before driving to the stash house, he had advance knowledge of a weapon, destroying the factual premise of the correct answer (d). Furthermore, even if Fact 5 is interpreted as a flash-forward to the stash house shooting, hearing a gunshot while safely outside smoking would give Trey a "meaningful opportunity to walk away" (fleeing down the alley) before Silas ever returned to the car. Failing to withdraw at that moment would make him guilty under the *Rosemond* standard, invalidating option (d).
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
-Recommended fix: Revise Fact 5 to resolve the timeline and clearly establish Trey's lack of knowledge. For example: "Trey, who Silas recruited solely to drive the getaway car, had stepped out to smoke a cigarette when Marcus handed Silas the handgun, leaving Trey entirely unaware of the weapon."
+1. Fact Pattern Booby Traps: The facts establish that Trey either thought the plan was to "sneak in... while the guard is asleep" (Fact 5) or was just told to "idle in the alley" (Fact 6). Neither scenario gives Trey the requisite *purpose* to facilitate a *robbery* (which requires the use or threat of force); his mens rea is limited to theft/burglary. Because Option (a) states he acted "with the purpose that the underlying robbery succeed," Option (a) is factually false and legally incorrect under traditional accomplice liability. 
+2. Cross-Doctrine Clashes: Pass
+3. Cross-Question Spoilers: Pass
+Recommended fix: Change the prompt and Option (a) to ask about "theft" or "burglary" instead of "robbery" (e.g., "accomplice to the theft of the stash house"), OR modify the facts in the scenario so Trey is aware force will be used (e.g., Marcus tells Trey, "Silas is going to stick up the guard and grab the bags") so Trey actually possesses the intent for robbery.
 -->

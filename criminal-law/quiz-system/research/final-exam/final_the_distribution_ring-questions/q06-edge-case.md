@@ -1,22 +1,22 @@
-**Q6.** Assume Trey is charged with the murder of Dexter. In a traditional common law jurisdiction, Trey would likely be convicted under the natural and probable consequences (NPC) doctrine. If the case is instead tried in a jurisdiction that has adopted the California SB 1437 reforms, is Trey guilty of Dexter's murder?
+**Q6.** Applying the federal *Rosemond* standard for accomplice liability to a firearm-enhanced offense, is Trey liable for aiding and abetting Silas's use of a firearm during the robbery?
 
-(a) Yes, because Trey's act of driving the getaway vehicle establishes him as a major participant who acted with reckless indifference to human life.
-(b) Yes, because the NPC doctrine still permits imputing malice to any accomplice who actively assists in a predicate felony that results in a death.
-(c) No, because SB 1437 requires proof of an explicit, written conspiratorial agreement to kill before an accomplice can be convicted of murder.
-(d) No, because SB 1437 eliminated murder liability under the NPC doctrine, and Trey lacked both personal malice and major participation with reckless indifference. <!-- correct -->
-(e) No, because under SB 1437, getaway drivers are categorically immune from any derivative homicide liability regardless of their specific mental state or knowledge.
+(a) Yes, because Trey knew a robbery was occurring, meaning he assumed the risk that Silas might carry and use a firearm.
+(b) No, because Trey did not have advance knowledge that Silas was armed at a time when he had a meaningful opportunity to walk away. <!-- correct -->
+(c) Yes, because Marcus handed Silas the gun during the briefing, creating a constructive presumption that Trey was aware of the weapon.
+(d) No, because Trey was merely an independent driver and therefore lacked the specific intent required for the underlying robbery offense.
+(e) Yes, because Silas actually fired the weapon, and under *Rosemond*, an accomplice is strictly liable for any weapons discharged by a principal.
 
-**Answer:** (d)
+**Answer:** (b)
 
-**Explanation:** The correct answer is (d) because SB 1437 eliminated murder liability under the natural and probable consequences doctrine. To convict an accomplice of murder post-reform, the prosecution must prove either personal malice aforethought or that the defendant was a major participant in the underlying felony who acted with reckless indifference to human life. Trey, who believed this was only an intimidation/theft and stayed in the alley, meets neither standard. Option (a) fails because remaining outside in a car unaware of the weapon or intent does not constitute major participation with reckless indifference to human life. Option (b) fails because SB 1437 expressly forbade imputing malice based solely on participation in a predicate crime. Option (c) fails because an explicit written agreement is never required; personal malice or reckless indifference suffices. Option (e) fails because SB 1437 provides no categorical immunity for getaway drivers; they can still be convicted if they personally possess malice or reckless indifference.
+**Explanation:** (b) is correct. *Rosemond* holds that accomplice liability for a firearm-enhanced offense requires the defendant to have advance knowledge of the firearm at a time when they have a realistic opportunity to quit the crime. Because Marcus handed Silas the gun out of Trey's sight, Trey lacked this knowledge. (a) is incorrect because *Rosemond* specifically rejects the "assumed the risk" argument. (c) is incorrect because knowledge must be actual, not merely constructive based on proximity. (d) is incorrect because Trey's status as a driver does not negate his purpose to facilitate the robbery; he merely lacks liability for the firearm element. (e) is incorrect because *Rosemond* requires advance knowledge, not strict liability.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, npc-traditional-rule, npc-reform-sb1437], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [18], topics: [accomplice-liability, mens-rea, advance-knowledge, rosemond], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18, NPC Reform SB 1437; People v. Gentile.
+**Grounding:** Chapter 18: Accomplice Liability > Refinements > Mens Rea > Advance Knowledge and Meaningful Opportunity to Withdraw
 
-<!-- edge-case-audit: CLEAN
+<!-- edge-case-audit: MUST FIX
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass 
-3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: MUST FIX. The core fact pattern contains a massive character-continuity error that ruins this question. Fact 2 and Q1 establish Trey as a subordinate gang member in "The Pit" who participated in Tuesday's violent turf defense. However, Fact 6 (relied upon for Q6 and referenced in option d) explicitly describes Trey as "an independent ride-share driver who was not part of The Pit." If Trey is actually a gang subordinate who just participated in a violent turf war, a jury could easily infer he had advance knowledge that gang enforcers carry guns to stash-house robberies, making (b) incorrect or highly debatable. 
+Recommended fix: Clean up the base facts. The drafter clearly left two drafts of the Tuesday facts in the prompt (Fact 2 uses Trey, Fact 3 uses Leon). Remove Fact 2, rely on Fact 3 (making Leon the Tuesday lookout), and remove Trey from Q1 so that he remains a naive, independent rideshare driver on Thursday.
 -->

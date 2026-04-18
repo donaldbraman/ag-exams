@@ -4,81 +4,104 @@ The QA pipeline flagged this question. Rewrite `q08.md` addressing each numbered
 
 ## Issue 1 — audit
 
-<!-- audit: MUST FIX -->
+**Q8.** Assume that Dom satisfied the actus reus for attempted hijacking. Can Dom successfully assert the affirmative defense of abandonment (renunciation) under the Model Penal Code?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) Yes, because he abandoned the plan entirely without touching the truck or attempting to use his weapon to force entry into the commercial vehicle.
+(b) Yes, because he sprinted away from the scene and immediately communicated his withdrawal to his co-conspirator by yelling "Go! Cops!" upon entering the getaway vehicle.
+(c) No, because under the MPC, the abandonment defense is categorically unavailable to any defendant once they have taken a substantial step toward the offense.
+(d) No, because his renunciation was motivated by the unexpected presence of police increasing the probability of apprehension, rather than a complete and voluntary change of heart. <!-- correct -->
+(e) No, because he had already completed the target offense by paying Leo $500 to drive him to the loading dock for the purpose of the hijacking.
 
-Error: Model returned empty or blocked response.
+**Answer:** (d)
+
+**Explanation:** Under the MPC, abandonment is an affirmative defense only if the defendant completely and voluntarily renounces their criminal purpose. A renunciation is not voluntary if it is motivated by circumstances that increase the probability of detection or apprehension. (d) is correct because Dom abandoned the plan solely because he was "spooked" by the unexpected police cruiser. (a) fails because his failure to touch the truck relates to the actus reus, but does not make his abandonment legally voluntary. (b) fails because while communicating withdrawal is necessary to abandon a conspiracy, his attempt withdrawal was involuntary due to the police presence. (c) fails because the MPC specifically created the abandonment defense to encourage defendants who have already taken a substantial step to back out. (e) fails because paying a getaway driver is preparation, not the completed substantive crime of hijacking.
+
+**Tags:** chapters: [17], topics: [attempt, abandonment, renunciation, mpc], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 17: abandonment-mpc
+
+<!-- audit: MUST FIX
+check 1: pass (The legal standard for MPC abandonment regarding the impact of increased probability of apprehension is correctly applied).
+check 2: pass (The distractors rely on either incorrect legal standards—like common law attempt rules—or misclassify attempt as the completed offense).
+check 3: pass (The explanation correctly mirrors MPC 5.01(4)).
+check 4: FAILS. The stem completely lacks the underlying fact pattern. It introduces "Dom" but fails to provide the scenario (the police cruiser, paying Leo $500, sprinting away) that the options and explanation rely upon to test the doctrine. A student cannot determine if Dom's renunciation was voluntary or motivated by police presence without those facts.
+check 5: pass (The prompt explicitly asks for the Model Penal Code standard).
+check 6: pass (No excluded topics; involves a standard hijacking fact pattern).
+check 7: pass (`abandonment-mpc` is firmly established in Chapter 17).
+Recommended fix: Incorporate the missing scenario details into the stem. For example: "Dom paid Leo $500 to drive him to a loading dock to hijack a commercial truck. Dom arrived and satisfied the actus reus for attempted hijacking. However, just before approaching the truck, Dom saw an unexpected police cruiser and sprinted back to the getaway vehicle, yelling 'Go! Cops!' Can Dom successfully assert the affirmative defense of abandonment (renunciation) under the Model Penal Code?"
+-->
 
 ## Issue 2 — argpass-sonnet
 
-**Q8.** Assume the jurisdiction applies the Model Penal Code. Does Dom have a valid defense of abandonment for the attempted hijacking?
+**Q8.** Assume that Dom satisfied the actus reus for attempted hijacking. Can Dom successfully assert the affirmative defense of abandonment (renunciation) under the Model Penal Code?
 
-(a) Yes, because he completely withdrew from the crime before taking any property or causing any physical injury to the targeted victim.
-(b) Yes, because he sprinted back to the getaway vehicle, demonstrating a permanent renunciation of his criminal intent under the required legal standard.
-(c) No, because his decision was motivated by the unexpected appearance of the police cruiser, which increased the probability of immediate apprehension. <!-- correct -->
-(d) No, because the defense of abandonment is categorically available only to charges of criminal conspiracy, not to charges of criminal attempt.
-(e) No, because the defense of abandonment strictly requires the defendant to actively prevent the completion of the crime by his co-conspirators.
+(a) Yes, because he abandoned the plan entirely without touching the truck or attempting to use his weapon to force entry into the commercial vehicle.
+(b) Yes, because he sprinted away from the scene and immediately communicated his withdrawal to his co-conspirator by yelling "Go! Cops!" upon entering the getaway vehicle.
+(c) No, because under the MPC, the abandonment defense is categorically unavailable to any defendant once they have taken a substantial step toward the offense.
+(d) No, because his renunciation was motivated by the unexpected presence of police increasing the probability of apprehension, rather than a complete and voluntary change of heart. <!-- correct -->
+(e) No, because he had already completed the target offense by paying Leo $500 to drive him to the loading dock for the purpose of the hijacking.
 
-**Answer:** (c)
+**Answer:** (d)
 
-**Explanation:** Under the MPC, abandonment is an affirmative defense only if it is completely voluntary and constitutes a complete renunciation of criminal purpose. It cannot be motivated by circumstances that increase the probability of detection or apprehension. Dom fled because he was spooked by the police cruiser, defeating the defense. Option (a) is wrong because a lack of injury or theft does not independently establish the voluntariness of the withdrawal. Option (b) is wrong because fleeing from police demonstrates an intent to evade arrest, not a genuine moral renunciation. Option (d) is wrong because the MPC explicitly allows the defense of abandonment for criminal attempt. Option (e) is wrong because preventing co-conspirators is a requirement for withdrawing from a conspiracy, not individual attempt.
+**Explanation:** Under the MPC, abandonment is an affirmative defense only if the defendant completely and voluntarily renounces their criminal purpose. A renunciation is not voluntary if it is motivated by circumstances that increase the probability of detection or apprehension. (d) is correct because Dom abandoned the plan solely because he was "spooked" by the unexpected police cruiser. (a) fails because his failure to touch the truck relates to the actus reus, but does not make his abandonment legally voluntary. (b) fails because while communicating withdrawal is necessary to abandon a conspiracy, his attempt withdrawal was involuntary due to the police presence. (c) fails because the MPC specifically created the abandonment defense to encourage defendants who have already taken a substantial step to back out. (e) fails because paying a getaway driver is preparation, not the completed substantive crime of hijacking.
 
-**Tags:** chapters: [17], topics: [attempt, abandonment, mpc], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, abandonment, renunciation, mpc], difficulty: easy, cognitive: application
 
 **Grounding:** Chapter 17: abandonment-mpc
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under the MPC, attempt requires a substantial step towards the completion of the crime. A student might argue that Dom completely withdrew from the crime before the actus reus of the target offense (hijacking) was achieved—meaning no property was taken and no physical injury occurred. If they mistakenly believe that abandonment is valid as long as no substantive harm has materialized to the victim, they would conclude this establishes a complete defense.
-(b) Argument-for: A student could argue that sprinting back to a getaway vehicle shows a complete and factual cessation of the criminal effort. They might interpret retreating to the "getaway vehicle" as permanently leaving the scene, reasoning that Dom's physical departure ends the attempt. Thus, they might wrongly conclude this action is sufficient to demonstrate the MPC's requirement for a complete and permanent renunciation of criminal intent.
-(c) Argument-for: This accurately reflects MPC § 5.01(4). Abandonment (or renunciation) is only an affirmative defense if it is completely voluntary. The MPC expressly provides that a renunciation is not voluntary if it is motivated, in whole or in part, by circumstances not present at the inception of the actor's course of conduct that increase the probability of detection or apprehension. The sudden appearance of the police cruiser precisely constitutes such a circumstance, thus barring the defense.
-(d) Argument-for: A student might confuse the MPC rules with the strict common law approach. At common law, once a defendant takes a substantial step or comes in dangerous proximity, the attempt is complete and abandonment is generally not a recognized defense, though withdrawal can be a defense to future crimes in a conspiracy. The student might assume the MPC retains this strict distinction, making abandonment "categorically available only" to conspiracy charges.
-(e) Argument-for: The MPC requires co-conspirators and accomplices to thwart the success of the crime to successfully invoke the renunciation defense (e.g., MPC § 5.03(6) for conspiracy). A student might overgeneralize this rule, believing that active prevention is an inherent element of the abandonment doctrine across the board. They would argue this "strictly requires" thwarting others even for an individual criminal attempt.
+(a) Argument-for: A student could argue that Dom's failure to touch the truck or use his weapon demonstrates that his conduct had not crossed the threshold of no return, meaning he successfully "abandoned" the plan before causing any legally cognizable harm. Under this view, the absence of physical contact with the target makes his withdrawal complete and legally valid as an abandonment.
+(b) Argument-for: A student might conflate the attempt defense of abandonment with the conspiracy defense of withdrawal. Since Dom sprinted away and communicated his withdrawal to his co-conspirator ("Go! Cops!"), a student could argue he successfully met the legal requirements to abandon the crime by effectively neutralizing his involvement and informing his accomplice.
+(c) Argument-for: A student trained heavily on the common law rule—which typically holds that abandonment is impossible once the actus reus for attempt (a substantial step or dangerous proximity) is complete—might assume the MPC shares this strict approach. Under this reasoning, because Dom satisfied the actus reus for attempt, the defense is categorically unavailable.
+(d) Argument-for: This relies directly on the Model Penal Code § 5.01(4). Under the MPC, abandonment (renunciation) must be complete and voluntary. It is not voluntary if it is motivated by circumstances that increase the probability of detection or apprehension. Dom's flight due to the sudden appearance of police fits this exception perfectly, negating the defense.
+(e) Argument-for: A student might confuse the threshold for attempt with the completion of the target offense. Paying a getaway driver is a significant overt act, and a student might argue that this payment effectively consummated his role in the criminal enterprise, thereby precluding any abandonment defense because the crime of hijacking was already "completed" from his perspective.
 
-Head-to-head: 
-Option (c) correctly identifies that Dom's motivation—fear of apprehension due to the police cruiser—legally precludes the MPC defense of abandonment. Options (d) and (e) present explicit, categorical legal claims that misstate the MPC rules, making them excellent and highly falsifiable distractors. Options (a) and (b), however, justify the "Yes" conclusion with factual predicates that merely omit the voluntariness requirement. Under a strict close-call standard, a student might argue that options (a) and (b) do not contain explicitly false absolute statements, but rather incomplete ones. To definitively prevent a student from arguing that (a) or (b) is implicitly true under a loose reading of "withdrew" or "renunciation," they should be locked with absolute words to assert that these facts *solely* or *categorically* satisfy the legal standard.
+Head-to-head: Option (d) correctly identifies and applies the MPC's limitation on the abandonment defense: renunciation is not voluntary if motivated by a new threat of apprehension (the police). Option (c) is explicitly false because the MPC uniquely allows abandonment even after a substantial step. Option (e) is explicitly false because paying a co-conspirator is not the completed substantive offense of hijacking. However, options (a) and (b) arrive at the incorrect conclusion "Yes" based on factually true premises (he didn't touch the truck; he communicated withdrawal) without asserting an explicit false legal claim. They merely omit the crucial voluntariness requirement. Under the strict close-call standard, these distractors should be locked with absolute words to assert a false legal rule.
 
 Falsifiable claim per distractor:
-- (a): "because he completely withdrew from the crime before taking any property..." — wrong because withdrawal before harm does not satisfy the defense if it lacks voluntariness (e.g., if motivated by police presence).
-- (b): "demonstrating a permanent renunciation of his criminal intent under the required legal standard" — wrong because fleeing from police to a getaway vehicle legally defeats the "voluntary" requirement of the renunciation standard, demonstrating evasion rather than true renunciation.
-- (d): "categorically available only to charges of criminal conspiracy, not to charges of criminal attempt" — wrong because MPC § 5.01(4) explicitly recognizes the abandonment defense for criminal attempt.
-- (e): "strictly requires the defendant to actively prevent the completion of the crime by his co-conspirators" — wrong because this thwarting requirement applies to renunciation of conspiracy and complicity, not standard individual attempt.
+- (a): "Yes, because he abandoned the plan entirely without touching the truck..." — wrong because the legal conclusion is incorrect on the implied facts, but it lacks an absolute, universally falsifiable legal claim (an implicit omission of the voluntariness requirement).
+- (b): "Yes, because he sprinted away... and immediately communicated his withdrawal..." — wrong because communicating withdrawal does not cure the involuntary nature of an abandonment motivated by police presence, but it lacks a falsifiable absolute legal claim.
+- (c): "categorically unavailable to any defendant once they have taken a substantial step" — wrong because the MPC (unlike common law) specifically allows abandonment after a substantial step if renunciation is complete and voluntary.
+- (e): "completed the target offense by paying Leo $500" — wrong because paying a getaway driver is an act of preparation or attempt, not the completed substantive crime of hijacking.
 
-Recommended fix: Edit (a) to read: "Yes, solely because he completely withdrew from the crime before taking any property..." and edit (b) to read: "Yes, because he sprinted back to the getaway vehicle, which categorically demonstrates a permanent renunciation..." to ensure the false propositions are strictly locked.
+Recommended fix: Edit (a) and (b) to include explicit false legal claims. Change (a) to: "Yes, because avoiding physical contact with the target property automatically renders a renunciation complete and voluntary under the MPC." Change (b) to: "Yes, because communicating withdrawal to a co-conspirator categorically satisfies the MPC requirements for abandonment of an attempt."
 -->
 
 ## Issue 3 — argpass-opus
 
-**Q8.** Assume the jurisdiction applies the Model Penal Code. Does Dom have a valid defense of abandonment for the attempted hijacking?
+**Q8.** Assume that Dom satisfied the actus reus for attempted hijacking. Can Dom successfully assert the affirmative defense of abandonment (renunciation) under the Model Penal Code?
 
-(a) Yes, because he completely withdrew from the crime before taking any property or causing any physical injury to the targeted victim.
-(b) Yes, because he sprinted back to the getaway vehicle, demonstrating a permanent renunciation of his criminal intent under the required legal standard.
-(c) No, because his decision was motivated by the unexpected appearance of the police cruiser, which increased the probability of immediate apprehension. <!-- correct -->
-(d) No, because the defense of abandonment is categorically available only to charges of criminal conspiracy, not to charges of criminal attempt.
-(e) No, because the defense of abandonment strictly requires the defendant to actively prevent the completion of the crime by his co-conspirators.
+(a) Yes, because he abandoned the plan entirely without touching the truck or attempting to use his weapon to force entry into the commercial vehicle.
+(b) Yes, because he sprinted away from the scene and immediately communicated his withdrawal to his co-conspirator by yelling "Go! Cops!" upon entering the getaway vehicle.
+(c) No, because under the MPC, the abandonment defense is categorically unavailable to any defendant once they have taken a substantial step toward the offense.
+(d) No, because his renunciation was motivated by the unexpected presence of police increasing the probability of apprehension, rather than a complete and voluntary change of heart. <!-- correct -->
+(e) No, because he had already completed the target offense by paying Leo $500 to drive him to the loading dock for the purpose of the hijacking.
 
-**Answer:** (c)
+**Answer:** (d)
 
-**Explanation:** Under the MPC, abandonment is an affirmative defense only if it is completely voluntary and constitutes a complete renunciation of criminal purpose. It cannot be motivated by circumstances that increase the probability of detection or apprehension. Dom fled because he was spooked by the police cruiser, defeating the defense. Option (a) is wrong because a lack of injury or theft does not independently establish the voluntariness of the withdrawal. Option (b) is wrong because fleeing from police demonstrates an intent to evade arrest, not a genuine moral renunciation. Option (d) is wrong because the MPC explicitly allows the defense of abandonment for criminal attempt. Option (e) is wrong because preventing co-conspirators is a requirement for withdrawing from a conspiracy, not individual attempt.
+**Explanation:** Under the MPC, abandonment is an affirmative defense only if the defendant completely and voluntarily renounces their criminal purpose. A renunciation is not voluntary if it is motivated by circumstances that increase the probability of detection or apprehension. (d) is correct because Dom abandoned the plan solely because he was "spooked" by the unexpected police cruiser. (a) fails because his failure to touch the truck relates to the actus reus, but does not make his abandonment legally voluntary. (b) fails because while communicating withdrawal is necessary to abandon a conspiracy, his attempt withdrawal was involuntary due to the police presence. (c) fails because the MPC specifically created the abandonment defense to encourage defendants who have already taken a substantial step to back out. (e) fails because paying a getaway driver is preparation, not the completed substantive crime of hijacking.
 
-**Tags:** chapters: [17], topics: [attempt, abandonment, mpc], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, abandonment, renunciation, mpc], difficulty: easy, cognitive: application
 
 **Grounding:** Chapter 17: abandonment-mpc
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that option (a) correctly identifies the temporal bounds of an attempt. Under general criminal law principles, stopping before the actus reus of the target offense is completed—such as taking property or causing physical harm—might seem to negate full liability. Because the text states he "completely withdrew," a student could infer this implies a full cessation of his criminal activity. They might view this factual lack of completed injury as legally sufficient to establish the abandonment defense.
-(b) Argument-for: Option (b) explicitly uses the language of the MPC standard, citing a "permanent renunciation of his criminal intent." If a student assumes the facts (sprinting away) represent a true change of heart, they might believe this option correctly applies the doctrine. The act of returning to the getaway vehicle without committing the crime could be misinterpreted as a definitive withdrawal that fulfills the required legal standard.
-(c) Argument-for: Option (c) directly applies the specific MPC § 5.01(4) exception to the abandonment defense. A renunciation is not legally "voluntary" if it is motivated by new circumstances that increase the probability of apprehension. The unexpected appearance of a police cruiser fits this exact description, transforming his flight into an involuntary evasion rather than a true moral abandonment. Thus, the defense is legally invalid, making this the correct answer.
-(d) Argument-for: A student could argue this option based on a misunderstanding of how common law principles interact with the MPC. Historically, abandonment was often recognized as a defense to conspiracy but less frequently to attempt once a substantial step had been taken. A student might mistakenly believe the MPC codified this strict distinction. Thus, they would conclude that the defense is categorically unavailable for an attempt charge.
-(e) Argument-for: Option (e) incorporates the "thwarting" or "prevention" requirement that the MPC applies to abandoning complicity or conspiracy. A student might confuse the requirements for withdrawing as an accomplice or conspirator with the requirements for a sole actor's attempt. Believing the MPC's prevention requirement applies uniformly to all inchoate crimes, the student might select this option as the definitive reason the defense fails.
+(a) Argument-for: A student might select this option by applying common law "dangerous proximity" or "last proximate act" logic to the MPC. They could argue that because Dom never made physical contact with the truck or weaponized his approach, his "attempt" was easily thwarted and legally reversible. Thus, abandoning the plan "entirely" before this critical threshold automatically validates his defense.
+(b) Argument-for: A student could defend this by drawing on the rules for withdrawing from a conspiracy or accomplice liability. Because effective withdrawal requires explicit communication to co-conspirators to sever liability, a student might reason that Dom successfully legally abandoned the enterprise by yelling "Go! Cops!" to Leo, immediately neutralizing his role in the group's attempt.
+(c) Argument-for: This option perfectly mirrors the traditional common law rule. A student could argue that once the actus reus for attempt is satisfied (a "substantial step" strongly corroborative of criminal purpose), the crime is fully mature. Under this view, subsequent abandonment might mitigate a sentence but is categorically unavailable as a full affirmative defense because the crime of attempt has already been committed.
+(d) Argument-for: This is the correct application of MPC § 5.01(4). Renunciation must be "complete and voluntary." The statute expressly states that a renunciation is not voluntary if it is motivated in whole or in part by circumstances that increase the probability of detection or apprehension. Fleeing because of an unexpected police presence completely negates the defense.
+(e) Argument-for: A student might argue that paying an accomplice transforms an inchoate plan into a completed transaction or illegal contract. By paying Leo $500 to drive him to the loading dock, Dom successfully executed a substantive crime (such as conspiracy or solicitation, which the student might mistakenly equate to the "target offense" of hijacking).
 
-Head-to-head: Option (c) correctly applies the MPC § 5.01(4) rule that fear of apprehension defeats the voluntariness of abandonment. Options (d) and (e) are easily falsifiable because they contain explicitly incorrect legal rules regarding the MPC (that it categorically excludes attempt, or strictly requires thwarting co-conspirators in all attempt cases). Option (b) makes a false legal application by asserting that fleeing to a getaway car legally satisfies the renunciation standard. However, option (a) is the weakest distractor because it relies on an implicit omission; it argues the defense is valid "because" he withdrew before causing harm, treating a factual circumstance as legally sufficient without an explicit absolute word to lock in the falsifiable claim.
+Head-to-head: 
+Option (d) relies on the black-letter MPC definition of voluntary renunciation and is legally unimpeachable. Option (c) is the strongest distractor, as it correctly states the common law rule but explicitly falsifies it under the MPC context using the phrase "categorically unavailable." Option (e) relies on a blatant factual misclassification (calling the payment a completed hijacking). Options (a) and (b), however, are slightly weaker mechanically: they reach false legal conclusions by misapplying the facts, but they lack absolute legal propositions that make the underlying rules explicitly false. Under strict evaluation, (a) and (b) should be revised to include absolute words that lock in the false legal rules so that they fail independent of implied omissions.
 
 Falsifiable claim per distractor:
-- (a): "because he completely withdrew from the crime before taking any property or causing any physical injury" — wrong because it relies on an implicit omission (ignoring the voluntariness requirement) rather than an explicit false legal claim, lacking an absolute modifier.
-- (b): "demonstrating a permanent renunciation of his criminal intent under the required legal standard" — wrong because fleeing to avoid police legally constitutes evasion, not the required voluntary renunciation.
-- (d): "categorically available only to charges of criminal conspiracy, not to charges of criminal attempt" — wrong because MPC § 5.01(4) explicitly provides the abandonment defense for attempt.
-- (e): "strictly requires the defendant to actively prevent the completion of the crime by his co-conspirators" — wrong because this is a requirement for withdrawing from accomplice liability or conspiracy, not for an individual attempt.
+- (a): "Yes, because he abandoned the plan entirely without touching the truck..." — wrong because concluding "Yes" ignores the MPC's voluntariness requirement; lack of physical contact does not override the involuntary motive of police presence.
+- (b): "Yes, because he... communicated his withdrawal... by yelling 'Go! Cops!'" — wrong because an abandonment motivated by police ("Go! Cops!") is categorically involuntary under the MPC, making the conclusion "Yes" legally false.
+- (c): "categorically unavailable to any defendant once they have taken a substantial step" — wrong because MPC § 5.01(4) explicitly created the renunciation defense precisely for defendants who have already taken a substantial step.
+- (e): "already completed the target offense by paying Leo $500" — wrong because paying an accomplice is an inchoate preparatory act/conspiracy, not the completed substantive target offense of hijacking.
 
-Recommended fix: Edit (a) to lock in the falsifiable proposition with an absolute word. Change to: "(a) Yes, solely because he completely withdrew from the crime before taking any property or causing any physical injury to the targeted victim."
+Recommended fix: Edit (a) and (b) to lock in explicit, falsifiable legal rules using absolute words.
+Change (a) to: "Yes, because under the MPC, a defendant categorically retains the abandonment defense as long as they have not yet physically touched the target of the offense."
+Change (b) to: "Yes, because immediately communicating withdrawal to a co-conspirator automatically establishes the abandonment defense, regardless of the defendant's internal motivation."
 -->

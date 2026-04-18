@@ -1,26 +1,26 @@
-**Q11.** Assume that, whether or not he possessed the safe's contents, Marcus is charged with attempted distribution of a controlled substance based on the baking soda. Marcus argues that because the powder was not actually cocaine, it was legally impossible for him to commit the crime. Under the Model Penal Code (MPC), how will this defense fare?
+**Q11.** Marcus is charged with possession of the 500 grams of cocaine found in the basement safe. Under the doctrine of constructive possession, is the evidence sufficient to convict him?
 
-(a) It will succeed, because the MPC retains the traditional common law defense of pure legal impossibility for drug distribution crimes.
-(b) It will succeed, because attempting to distribute a harmless substance like baking soda fails the substantial step test for a criminal act.
-(c) It will fail, because the MPC permits attempting a structurally inchoate offense as long as the defendant possessed a culpable mental state.
-(d) It will fail, because the MPC judges attempt liability based on the circumstances as the defendant believed them to be, not as they were. <!-- correct -->
-(e) It will fail, because drug offenses operate as strict liability public welfare crimes, meaning his subjective belief about the powder is irrelevant.
+(a) No, because the safe was located in a communal, unlocked basement, meaning he lacked exclusive spatial control over the area.
+(b) Yes, because the key on his nightstand establishes his awareness of the drugs and his power and intent to exercise control over them. <!-- correct -->
+(c) No, because he was not physically holding the drugs at the time of his arrest, and constructive possession requires immediate proximity.
+(d) Yes, because as the leader of the organization, he is strictly liable for any narcotics found within his apartment building.
+(e) No, because the safe was unmarked, preventing the prosecution from proving beyond a reasonable doubt that he knew what was inside it.
 
-**Answer:** (d)
+**Answer:** (b)
 
-**Explanation:** The correct answer is (d) because the Model Penal Code largely abolished the impossibility defense. Under MPC § 5.01(1)(a), a defendant is guilty of attempt if they purposely engage in conduct that would constitute the crime "if the attendant circumstances were as he believes them to be." Since Marcus believed the powder was cocaine, his attempt liability is judged against that belief. Option (a) fails because while pure legal impossibility (e.g., the law doesn't exist) survives, this scenario is a classic "factual" or "hybrid" impossibility which the MPC explicitly eliminated. Option (b) fails because acquiring and storing what he believed to be cocaine for distribution is clearly a substantial step corroborative of criminal purpose. Option (c) fails because attempted distribution is not a structurally inchoate offense like burglary, and that reasoning does not address the impossibility doctrine. Option (e) fails because attempted drug distribution is not a strict liability offense; it requires specific intent.
+**Explanation:** (b) is correct. Constructive possession requires proof that the defendant had awareness of the contraband and the power and intent to exercise dominion and control over it. Holding the sole key to a locked safe, combined with his leadership of the drug ring and the ledger, firmly establishes this control. (a) is incorrect because control over the container (via the key) establishes constructive possession even if the container is located in a communal area. (c) is incorrect because constructive possession was designed precisely to reach defendants who are not physically holding the contraband. (d) is incorrect because constructive possession requires proven awareness and control, not strict liability based on status. (e) is incorrect because circumstantial evidence (the ledger, his role) sufficiently proves his knowledge of the safe's contents.
 
-**Tags:** chapters: [17], topics: [attempt, impossibility-mpc], difficulty: easy, cognitive: application
+**Tags:** chapters: [15], topics: [constructive-possession, awareness, control], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 17, Impossibility MPC; Lady Eldon's Lace.
+**Grounding:** Chapter 15: Drugs and Guns > Refinements > Constructive Possession
 
-<!-- audit: SHOULD FIX
-check 1: pass
-check 2: pass
-check 3: pass
-check 4: Missing mens rea fact. The stem never states Marcus's subjective belief about the powder. If Marcus knew it was baking soda and was running a "rip-off" scheme, he would lack the specific intent required for attempted distribution of a controlled substance. The explanation assumes "Since Marcus believed the powder was cocaine...", but this must be explicitly stated in the stem to preclude a "lack of mens rea" challenge.
+<!-- audit: MUST FIX
+check 1: fail (the correct answer cannot be deduced because the facts are missing from the stem)
+check 2: pass (N/A due to missing facts)
+check 3: pass (the explanation accurately recites the constructive possession standard of awareness plus power/intent to control)
+check 4: fail (The stem is missing the entire fact pattern. It omits the key on the nightstand, the ledger, Marcus's role as a leader of the organization, and the details about the safe being locked or unmarked, which are all relied upon by the options and explanation.)
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: In the first sentence, add ", which he believed to be cocaine," after "based on the baking soda".
+Recommended fix: Insert the missing facts into the stem before the question (e.g., "Police raid an apartment building where Marcus leads a drug organization. In Marcus's bedroom, they find a drug ledger and a single key on his nightstand. The key unlocks an unmarked safe located in the building's communal basement, which contains 500 grams of cocaine.").
 -->

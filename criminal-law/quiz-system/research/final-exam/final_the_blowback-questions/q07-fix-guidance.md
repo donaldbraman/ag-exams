@@ -4,79 +4,69 @@ The QA pipeline flagged this question. Rewrite `q07.md` addressing each numbered
 
 ## Issue 1 — audit
 
-<!-- audit: MUST FIX -->
+**Q7.** Assume Dom is charged with attempted hijacking for his actions at the loading dock. How would his conduct be evaluated under the traditional common law proximity test compared to the MPC substantial step test?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
-
-Error: Model returned empty or blocked response.
-
-## Issue 2 — edge-case
-
-**Q7.** Assume Dom is charged with attempted hijacking. Which of the following accurately describes his liability under the common law physical proximity test versus the MPC substantial step test?
-
-(a) Guilty under both tests, because approaching the truck with a loaded gun manifests a clear and unequivocal intent to commit the target crime.
-(b) Not guilty under both tests, because he completely abandoned the criminal plan without ever making physical contact with the targeted commercial vehicle.
-(c) Guilty under the physical proximity test for reaching the location, but not guilty under the MPC because he lacked a necessary substantial step.
-(d) Not guilty under physical proximity for failing to commence the final act, but guilty under the MPC because approaching corroborated his criminal purpose. <!-- correct -->
-(e) Guilty under the physical proximity test because the target was in sight, but not guilty under the MPC because his conduct remained legally equivocal.
+(a) He is guilty under both tests, because approaching the truck with a loaded weapon demonstrates a clear and undeniable intention to commit the target crime.
+(b) He is not guilty under either test, because he never physically touched the truck and thus failed to initiate the actual perpetration of the hijacking.
+(c) He is guilty under the proximity test because he was physically near the truck, but not guilty under the substantial step test because he failed to complete it.
+(d) He is likely not guilty under the proximity test because steps remained, but would satisfy the actus reus under the substantial step test because approaching strongly corroborates criminal purpose. <!-- correct -->
+(e) He is guilty under the proximity test because his intent was fully formed, but not guilty under the substantial step test because he voluntarily abandoned the criminal plan.
 
 **Answer:** (d)
 
-**Explanation:** The common law physical proximity test requires the defendant to be dangerously close to completing the final act, which Dom had not yet reached. The MPC substantial step test, however, only requires an act strongly corroborative of the actor's criminal purpose, which Dom satisfied by arriving with a loaded gun. Option (a) fails because the physical proximity test requires closer proximity to the final execution of the crime. Option (b) fails because abandoning the plan does not retroactively erase liability for the attempt already committed under the MPC. Option (c) reverses the outcomes of the two doctrinal tests. Option (e) fails because bringing a loaded gun to the target location is highly corroborative, not legally equivocal, under the MPC.
+**Explanation:** The common law proximity test requires the defendant to come dangerously close to success, often requiring them to begin the final physical act. The MPC substantial step test only requires an act that strongly corroborates the actor's criminal purpose, pushing liability much earlier in the timeline. (d) is correct because Dom still had to reach the truck, break in, and hijack it (likely failing proximity), but arriving at the scene armed strongly corroborates his intent (satisfying substantial step). (a) fails because the proximity test requires more than clear intention; it requires physical proximity to completion. (b) fails because the MPC does not require touching the target object. (c) fails because it reverses the strictness of the tests; the proximity test is harder to satisfy. (e) fails because abandonment is a separate affirmative defense evaluated only after the prima facie actus reus is satisfied.
 
-**Tags:** chapters: [17], topics: [attempt, actus reus, physical proximity test, substantial step], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [17], topics: [attempt, actus reus, proximity test, substantial step], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 17: actus-reus-proximity-test / actus-reus-substantial-step
+**Grounding:** Chapter 17: actus-reus-proximity-test, actus-reus-substantial-step
 
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: The explanation contains a severe misstatement of law regarding the MPC. The explanation states: "Option (b) fails because abandoning the plan does not retroactively erase liability for the attempt already committed under the MPC." This describes the Common Law rule, not the MPC. Under MPC § 5.01(4), a voluntary and complete renunciation *is* an affirmative defense that relieves liability. 
-3. Cross-Question Spoilers: Because Q9 is specifically designated to test "abandonment-mpc", Q7's legally inaccurate explanation regarding MPC abandonment will thoroughly confuse students and spoil Q9.
-Recommended fix: Change the explanation for Option (b) to read: "Option (b) fails because under the MPC, the affirmative defense of abandonment must be voluntary. Dom's abandonment was involuntary because he was spooked by the police, so his attempt liability remains intact."
+<!-- audit: SHOULD FIX
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: fail. The stem lacks the facts necessary to answer the question, referring only generally to "his actions at the loading dock." The student is forced to infer the facts (Dom arrived armed, approached the truck but didn't touch it, had steps remaining) from the answer choices and explanation.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Recommended fix: Integrate the missing facts directly into the stem. For example: "Assume Dom arrived at the loading dock armed with a weapon and approached the target truck, but was apprehended before he could reach the vehicle or attempt to break in. He is charged with attempted hijacking. How would..."
 -->
 
-## Issue 3 — argpass-opus
+## Issue 2 — argpass-sonnet
 
-## Close-call standard
+**Q7.** Assume Dom is charged with attempted hijacking for his actions at the loading dock. How would his conduct be evaluated under the traditional common law proximity test compared to the MPC substantial step test?
 
-A distractor passes only if it contains an explicit, identifiable false legal claim. Implicit omissions do not suffice. Lock falsifiable propositions with absolute words (always, categorically, automatically, regardless, every jurisdiction, solely because).
-
-## The Question
-
-### Stem 2: Attempted Hijacking and Felony Murder
-
-We have new details on the truck hijacking discussed at the initial meeting. Evaluate attempt liability for Dom, felony murder for the whole crew, and the overarching conspiracy.
-
-**Q7.** Assume Dom is charged with attempted hijacking. Which of the following accurately describes his liability under the common law physical proximity test versus the MPC substantial step test?
-
-(a) Guilty under both tests, because approaching the truck with a loaded gun manifests a clear and unequivocal intent to commit the target crime.
-(b) Not guilty under both tests, because he completely abandoned the criminal plan without ever making physical contact with the targeted commercial vehicle.
-(c) Guilty under the physical proximity test for reaching the location, but not guilty under the MPC because he lacked a necessary substantial step.
-(d) Not guilty under physical proximity for failing to commence the final act, but guilty under the MPC because approaching corroborated his criminal purpose. <!-- correct -->
-(e) Guilty under the physical proximity test because the target was in sight, but not guilty under the MPC because his conduct remained legally equivocal.
+(a) He is guilty under both tests, because approaching the truck with a loaded weapon demonstrates a clear and undeniable intention to commit the target crime.
+(b) He is not guilty under either test, because he never physically touched the truck and thus failed to initiate the actual perpetration of the hijacking.
+(c) He is guilty under the proximity test because he was physically near the truck, but not guilty under the substantial step test because he failed to complete it.
+(d) He is likely not guilty under the proximity test because steps remained, but would satisfy the actus reus under the substantial step test because approaching strongly corroborates criminal purpose. <!-- correct -->
+(e) He is guilty under the proximity test because his intent was fully formed, but not guilty under the substantial step test because he voluntarily abandoned the criminal plan.
 
 **Answer:** (d)
 
-**Explanation:** The common law physical proximity test requires the defendant to be dangerously close to completing the final act, which Dom had not yet reached. The MPC substantial step test, however, only requires an act strongly corroborative of the actor's criminal purpose, which Dom satisfied by arriving with a loaded gun. Option (a) fails because the physical proximity test requires closer proximity to the final execution of the crime. Option (b) fails because abandoning the plan does not retroactively erase liability for the attempt already committed under the MPC. Option (c) reverses the outcomes of the two doctrinal tests. Option (e) fails because bringing a loaded gun to the target location is highly corroborative, not legally equivocal, under the MPC.
+**Explanation:** The common law proximity test requires the defendant to come dangerously close to success, often requiring them to begin the final physical act. The MPC substantial step test only requires an act that strongly corroborates the actor's criminal purpose, pushing liability much earlier in the timeline. (d) is correct because Dom still had to reach the truck, break in, and hijack it (likely failing proximity), but arriving at the scene armed strongly corroborates his intent (satisfying substantial step). (a) fails because the proximity test requires more than clear intention; it requires physical proximity to completion. (b) fails because the MPC does not require touching the target object. (c) fails because it reverses the strictness of the tests; the proximity test is harder to satisfy. (e) fails because abandonment is a separate affirmative defense evaluated only after the prima facie actus reus is satisfied.
 
-**Tags:** chapters: [17], topics: [attempt, actus reus, physical proximity test, substantial step], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [17], topics: [attempt, actus reus, proximity test, substantial step], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 17: actus-reus-proximity-test / actus-reus-substantial-step
+**Grounding:** Chapter 17: actus-reus-proximity-test, actus-reus-substantial-step
 
-<!-- argument-pass: MUST FIX
-(a) Argument-for: A student could argue that approaching the target with a loaded weapon crosses the threshold of mere preparation into attempt under any standard. The physical proximity test requires the defendant to be close to the crime's completion, and being at the truck with a loaded gun constitutes being physically proximate to the hijacking. Furthermore, under the MPC, this act is strongly corroborative of criminal purpose, satisfying the substantial step requirement.
-(b) Argument-for: A student could argue that Dom's complete abandonment of the plan acts as a valid defense. Under the common law, since he never made physical contact or commenced the final execution, he didn't satisfy the physical proximity test. Under the MPC, although he took a substantial step, his complete abandonment of the plan constitutes a valid affirmative defense (renunciation), rendering him not guilty under both standards.
-(c) Argument-for: A student could argue that simply reaching the location is the defining element of the physical proximity test, as he has placed himself at the scene of the target crime. Conversely, they might argue that under the MPC, merely arriving at the scene without further action (like drawing the weapon) does not amount to a substantial step, leaving his actions as mere preparation and making him not guilty under the MPC.
-(d) Argument-for: This is the keyed answer. The student recognizes that the common law physical proximity test is strictly construed, requiring the actor to be dangerously close to the final act, which Dom had not commenced. In contrast, the MPC's substantial step test only requires an act strongly corroborative of his criminal purpose. Arriving at the target with a loaded weapon easily meets this lower threshold.
-(e) Argument-for: A student could argue that having the target in sight is sufficient for physical proximity, as the defendant is within striking distance. However, under the MPC, they might argue that the conduct remained "legally equivocal" because he had not yet done anything specifically pointing to hijacking (as opposed to just walking while armed). Thus, they would conclude he failed to meet the required actus reus under the MPC.
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student could argue that arriving at the exact location of the target while armed goes beyond mere preparation and enters the zone of "dangerous proximity." They could reason that because the acts so vividly "demonstrate a clear and undeniable intention," this satisfies both the MPC (which focuses on strongly corroborating intent) and a looser interpretation of the common law proximity test, rendering him guilty under both.
+(b) Argument-for: A student could argue that under strict traditional common law, an attempt requires beginning the "actual perpetration" of the crime, which for hijacking necessitates physical contact with the vehicle. Extending this rigid threshold, they might erroneously believe that the MPC's "substantial step" also strictly requires physically engaging the target object to distinguish an attempt from mere preparation.
+(c) Argument-for: A student might take the "proximity test" literally to mean spatial nearness, arguing that being physically near the truck satisfies the common law standard. Conversely, they could interpret the MPC's "substantial step" as requiring a completed, highly significant overt act (like breaking the window), concluding that failing to complete that step absolves him under the MPC.
+(d) Argument-for: A student would defend this as the textbook divergence between the two tests. The common law proximity test requires the actor to be "dangerously close" to success; because Dom still had to reach, breach, and hijack the truck, too many steps remained. However, the MPC pushes liability significantly backward; arriving armed at the scene strongly corroborates his criminal purpose, perfectly satisfying the substantial step actus reus.
+(e) Argument-for: A student could argue that once intent is fully formed and the defendant arrives at the scene, the proximity test is technically satisfied in their understanding of common law. Additionally, they might assume facts not explicitly ruled out—that since the crime didn't happen, Dom must have voluntarily abandoned the attempt—thereby providing an affirmative defense under the MPC (MPC § 5.01(4)).
 
-Head-to-head: Option (d) correctly identifies the contrast between the common law "physical proximity" test (which Dom fails by not being dangerously close to the final act) and the MPC "substantial step" test (which Dom satisfies). However, Option (b) presents a critical legal error in its explanation. The explanation claims that "abandoning the plan does not retroactively erase liability for the attempt already committed under the MPC." This is categorically false: MPC § 5.01(4) explicitly provides an affirmative defense of voluntary and complete renunciation that does indeed erase attempt liability. Because (b) could be legally correct under the MPC (if abandonment was voluntary) and common law (due to lack of proximity), the distractor is arguably as strong as the key, and its explanation misstates black-letter MPC law.
+Head-to-head: Option (d) emerges as the clearly correct answer because it accurately applies the established divergence between the common law (dangerous proximity to completion) and the MPC (conduct corroborating intent). The distractors rely on misstatements of legal standards. However, the distractors frame their false rationales using the simple conjunction "because," which could be interpreted by a test-taker as just "one relevant reason" rather than a categorical legal rule. To meet the strictest close-call standard, these false rationales should be locked with absolute terms to eliminate any argumentative wiggle room.
 
 Falsifiable claim per distractor:
-- (a): "Guilty under both tests, because approaching... manifests a clear and unequivocal intent" — wrong because "unequivocal intent" satisfies the equivocality (res ipsa loquitur) test, not the physical proximity test, which requires being dangerously close to completion.
-- (b): "Not guilty under both tests, because he completely abandoned..." — wrong because it lacks an explicit, locked false legal claim. Furthermore, its explanation contains a direct misstatement of law (claiming the MPC does not recognize an abandonment/renunciation defense).
-- (c): "not guilty under the MPC because he lacked a necessary substantial step" — wrong because approaching a target with a loaded weapon is explicitly recognized as a substantial step under MPC § 5.01(2).
-- (e): "not guilty under the MPC because his conduct remained legally equivocal" — wrong because the MPC expressly rejects the equivocality test in favor of the substantial step test.
+- (a): "because approaching the truck with a loaded weapon demonstrates a clear and undeniable intention" — wrong because clear intention alone never automatically satisfies the common law proximity test without dangerous physical closeness to completion.
+- (b): "because he never physically touched the truck" — wrong because the MPC does not categorically require physical contact with the target object to constitute a substantial step.
+- (c): "not guilty under the substantial step test because he failed to complete it" — wrong because the MPC substantial step test explicitly does not require completing the target offense or the step itself.
+- (e): "He is guilty under the proximity test because his intent was fully formed" — wrong because fully formed intent never satisfies the common law actus reus without an act dangerously close to success.
 
-Recommended fix: Rewrite Option (b) to include a strictly falsifiable claim, such as: "(b) Not guilty under both tests, solely because voluntary abandonment automatically erases attempt liability in every common-law jurisdiction." Then, correct the explanation to reflect that the common law generally does not recognize the abandonment defense once the actus reus line is crossed, rather than falsely claiming the MPC does not recognize it.
+Recommended fix: Insert absolute modifiers into the distractors to lock their false legal premises. 
+- (a) Change "because" to "solely because".
+- (b) Change "because he never physically touched" to "because both tests categorically require physically touching".
+- (c) Change "failed to complete it" to "failed to complete the final act."
+- (e) Change "because his intent was fully formed" to "solely because his intent was fully formed".
 -->

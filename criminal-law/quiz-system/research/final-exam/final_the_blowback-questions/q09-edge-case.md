@@ -1,8 +1,22 @@
-```
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The question applies the "vendor" exception (mere knowledge + flat fee = no purpose) to negate specific intent. However, this doctrine (from cases like *Peoni* or *Lauria*) applies to providers of ordinary, legitimate goods or services. Leo is actively serving as a getaway driver waiting at the scene of an armed robbery. Courts overwhelmingly hold that acting as a getaway driver constitutes direct participation with no legitimate commercial use, inherently satisfying the specific intent/purpose standard. Concluding Leo lacked purpose simply because he charged a flat fee is doctrinally flawed.
+**Q9.** Leo is charged as an accomplice to Dom's attempted hijacking. Leo argues that he should be acquitted because he merely wanted to collect the $500 taxi fare, not steal electronics. 
+
+(a) Guilty everywhere, because providing a getaway car with explicit knowledge of the crime legally establishes the required purpose.
+(b) Acquitted in a purpose jurisdiction if the jury determines he only intended to earn the fare, not facilitate the crime. <!-- correct -->
+(c) Guilty everywhere, because his physical presence at the scene satisfies the actus reus, rendering his subjective mental state irrelevant.
+(d) Acquitted everywhere, because his explicit refusal to participate in the planning stages legally negates his complicity in the crime.
+(e) Guilty everywhere, because accepting the flat fee makes him a co-conspirator strictly liable for the principal's substantive offenses.
+
+**Answer:** (b)
+
+**Explanation:** Accomplice liability traditionally requires that the defendant act with the *purpose* to promote or facilitate the target offense. If Leo only intended to provide a ride for a flat fee and was indifferent to the hijacking's success, he lacks the required purpose. Thus, (b) is correct. (a) is wrong because mere knowledge does not automatically establish purpose in traditional jurisdictions. (c) is wrong because accomplice liability requires a culpable mental state; actus reus alone is insufficient. (d) is wrong because planning is not strictly required if a defendant ultimately assists with the required mental state. (e) is wrong because receiving a flat fee does not automatically establish a conspiratorial agreement to commit the substantive offense.
+
+**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 18 (accomplice-purpose-vs-knowledge)
+
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: This question concludes Leo is NOT an accomplice to the attempted hijacking. If Leo is not guilty of the underlying felony, he is categorically immune from felony murder. This completely breaks Q13, which evaluates Leo's felony murder liability for Wendy's death as a "major participant" under SB 1437. He cannot be a major participant in a felony he is legally deemed not to have committed.
-Recommended fix: Since Leo must be the getaway driver for the subsequent police chase and Q13/Q14 to work, he MUST be guilty of the underlying felony. Rewrite an option to be the correct "Yes" answer, explaining that Leo's active participation as a getaway driver at the scene goes beyond mere knowledge and demonstrates a purpose to facilitate the crime, satisfying specific intent.
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
 -->
-```

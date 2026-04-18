@@ -1,17 +1,17 @@
-**Q8.** Assume that, whether or not his act was premeditated, Silas asserts self-defense to the homicide charge, arguing that he only fired because Dexter lunged at him with a deadly machete. Will Silas succeed with a self-defense claim?
+**Q8.** Silas is charged with the murder of Dexter. He claims he acted in self-defense because Dexter lunged at him with a machete. Will Silas's self-defense claim succeed?
 
-(a) Yes, because Silas subjectively feared for his life and his use of a firearm was proportional to the threat of a raised machete.
-(b) Yes, because the Castle Doctrine extends to any location where a defendant is physically present and facing an imminent, unprovoked lethal threat.
-(c) No, because Silas was the initial aggressor who provoked the deadly conflict by kicking open the door to the stash house while armed. <!-- correct -->
-(d) No, because Silas had a categorical duty to retreat from the stash house before resorting to deadly force, even in a Stand Your Ground jurisdiction.
-(e) No, because the law of imperfect self-defense completely precludes any mitigation or justification when the confrontation involves illegal narcotics trafficking.
+(a) Yes, because Dexter's use of a machete constituted a threat of imminent deadly force, legally justifying Silas's use of a firearm.
+(b) No, because Silas was the initial aggressor in an armed robbery, which categorically bars him from claiming self-defense against the victim's lawful resistance. <!-- correct -->
+(c) Yes, because Silas did not brandish the firearm until Dexter lunged at him, meaning Dexter was the first to threaten deadly force.
+(d) No, because Silas had a duty to retreat by running out the door before using deadly force, regardless of whether he was the initial aggressor.
+(e) Yes, because Dexter's role as a guard in an illegal drug operation strips him of the right to use deadly force in defense of property.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** The correct answer is (c) because a defendant cannot claim self-defense if they were the initial aggressor who unlawfully provoked the threat. By kicking open the door to a stash house to commit an armed robbery, Silas initiated the deadly conflict, forfeiting his right to claim self-defense against the guard's lawful resistance. Option (a) fails because although Silas faced an imminent threat and used proportional force, his status as the initial aggressor acts as an absolute bar to justification. Option (b) fails because the Castle Doctrine applies to a defender in their *own* home, not to a home invader breaking into someone else's premises. Option (d) fails because the duty to retreat is irrelevant here; the initial aggressor bar defeats the claim regardless of retreat doctrines. Option (e) fails because imperfect self-defense (which mitigates murder to manslaughter) is barred by the initial aggressor rule, not by a categorical exception for narcotics trafficking.
+**Explanation:** (b) is correct. A defendant who is the initial aggressor—especially one committing a violent felony like armed robbery—cannot claim self-defense against the victim's lawful use of defensive force unless the aggressor completely withdraws and communicates that withdrawal. (a) is incorrect because the initial aggressor bar supersedes the general rule justifying deadly force against deadly threats. (c) is incorrect because initiating the robbery makes Silas the aggressor, even if his weapon was concealed initially. (d) is incorrect because the initial aggressor bar is the primary disqualifier here; duty to retreat only applies to those who otherwise have the right to self-defense. (e) is incorrect because the legality of Dexter's drug operation does not grant Silas a license to rob him or strip Dexter of basic self-defense rights.
 
-**Tags:** chapters: [22], topics: [self-defense, initial-aggressor-bar], difficulty: medium, cognitive: application
+**Tags:** chapters: [22], topics: [self-defense, initial-aggressor, felony-murder], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22, Initial Aggressor Bar.
+**Grounding:** Chapter 22: Self-Defense > Refinements > Initial Aggressor Bar
 
-<!-- grounding: GROUNDED — Initial Aggressor Bar, Ch 22, Refinement `initial-aggressor-bar`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — initial aggressor bar, Ch 22, Refinement `initial-aggressor-bar`. Rule paraphrased accurately. -->
