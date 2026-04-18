@@ -66,11 +66,35 @@ def randomize_exam_options(questions_text: str) -> str:
         # Splice the new options back into the text block
         start_opt = opt_matches[0].start()
         end_opt = opt_matches[-1].end()
-        new_opt_text = "\n".join([f"({l}) {new_options[l]}" for l in letters])
-        new_block = block_text[:start_opt] + new_opt_text + block_text[end_opt:]
         
-        # Update the **Answer:** key
-        new_block = re.sub(r'\*\*Answer:\*\*\s*\([a-e]\)', f'**Answer:** ({target_ans})', new_block)
+        # Build old -> new letter mapping for updating explanations
+        old_to_new = {}
+        for old_let in letters:
+            old_text = options[old_let]
+            for new_let in letters:
+                if new_options[new_let] == old_text:
+                    old_to_new[old_let] = new_let
+                    break
+        
+        tail = block_text[end_opt:]
+        
+        # Single-pass letter swap for the tail (Answer and Explanation)
+        def tail_replacer(match):
+            prefix = match.group(1)
+            let = match.group(2)
+            if let in old_to_new:
+                return f"{prefix}({old_to_new[let]})"
+            return match.group(0)
+            
+        # Safely match (a)-(e) without touching things like 18 U.S.C. 924(c)
+        tail = re.sub(r'(^|[\s*>`\'"])\(([a-e])\)(?=[\s.,:;?!*\'"]|$)', tail_replacer, tail)
+        
+        new_opt_text = "\n".join([f"({l}) {new_options[l]}" for l in letters])
+        
+        # Update the **Answer:** key explicitly as a fallback
+        tail = re.sub(r'\*\*Answer:\*\*\s*\([a-e]\)', f'**Answer:** ({target_ans})', tail)
+        
+        new_block = block_text[:start_opt] + new_opt_text + tail
         blocks[original_i] = new_block
         
     return "\n\n---\n\n".join(blocks)
