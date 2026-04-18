@@ -4,29 +4,29 @@ The QA pipeline flagged this question. Rewrite `q07.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q7.** Assume the jurisdiction has adopted NPC reform mirroring California's SB 1437. How does this impact Cole's accomplice liability for Vic's murder?
+**Q7.** Assume instead that Cole is prosecuted in California under the reformed standards established by SB 1437. How does the reformed law affect Cole's liability for Vic's murder?
 
-(a) Guilty, because SB 1437 specifically retains full accomplice liability for murder when the underlying intended crime is an inherently dangerous felony like armed robbery.
-(b) Guilty, because acting as a lookout at an armed robbery categorically establishes the defendant as a major participant acting with reckless indifference to human life.
-(c) Not guilty, because SB 1437 eliminates all accomplice liability for murder unless the defendant was the actual killer or directly handed the weapon to the shooter.
-(d) Not guilty, because he lacked personal malice and his role as a surprised exterior lookout does not constitute major participation with reckless indifference to life. <!-- correct -->
-(e) Not guilty, because the reformed statute strictly requires the prosecution to prove that the accomplice shared the principal's exact specific personal motive for the killing.
+(a) Cole is guilty of murder because SB 1437 retains the traditional Natural and Probable Consequences doctrine for all violent felonies.
+(b) Cole is guilty of murder because acting as a lookout automatically satisfies the requirement for personal malice aforethought.
+(c) Cole is not guilty of murder because SB 1437 eliminated murder liability based solely on participation in a target crime without proof of personal malice or major participation. <!-- correct -->
+(d) Cole is not guilty of murder because SB 1437 established a categorical exemption for any accomplice who is not physically present in the room where the death occurs.
+(e) Cole is not guilty of murder because SB 1437 requires the prosecution to prove that the accomplice actually fired the fatal shot to establish the required malice.
 
-**Answer:** (d)
+**Answer:** (c)
 
-**Explanation:** California's SB 1437 eliminated murder liability under the natural and probable consequences doctrine. After the reform, an accomplice can only be convicted of murder if they personally acted with malice aforethought or were a "major participant" who acted with "reckless indifference to human life." Cole's role as an exterior lookout who was surprised by the gun and lacked personal malice does not meet this heightened standard, making (d) correct. Option (a) is wrong because SB 1437 specifically eliminated imputed malice based merely on participation in a dangerous felony. Option (b) is wrong because acting as a simple lookout does not categorically establish major participation or reckless indifference. Option (c) is wrong because the reform does not completely eliminate accomplice liability; the major participant route remains valid. Option (e) is wrong because the prosecution must prove personal malice or reckless indifference, not the exact same motive.
+**Explanation:** California's SB 1437 abolished the Natural and Probable Consequences doctrine for murder. Under the reform, malice cannot be imputed solely based on participation in a target crime; the accomplice must personally harbor malice, or be a major participant in a felony who acts with reckless indifference to human life. (a) is wrong because SB 1437 abolished NPC for murder. (b) is wrong because being a lookout does not automatically prove personal malice. (d) is wrong because physical presence in the specific room is not the test; a major participant outside could still theoretically be liable. (e) is wrong because accomplices can still be convicted of murder if they are major participants acting with reckless indifference, even if they do not pull the trigger.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, npc-reform-sb1437], difficulty: advanced, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice, npc, sb1437], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 - NPC Reform Requiring Personal Malice (SB 1437)
+**Grounding:** Chapter 18 (Accomplice Liability), npc-reform-sb1437
 
 <!-- audit: MUST FIX
-check 1: fail (cannot evaluate without the missing facts)
-check 2: fail (cannot evaluate without the missing facts)
-check 3: pass (explanation accurately describes SB 1437 doctrine and its requirements for major participation / reckless indifference)
-check 4: fail (The question completely lacks a fact pattern. "Cole" and "Vic" are introduced out of nowhere, and the facts that Cole was an exterior lookout who was "surprised" by the gun are only revealed in the answer choices/explanation.)
-check 5: pass (The question explicitly stipulates the relevant jurisdictional rule: reform mirroring CA SB 1437.)
-check 6: pass (No excluded topics; scenario appears to be a standard armed robbery/murder.)
-check 7: pass (Doctrine is covered under `npc-reform-sb1437` in Chapter 18.)
-Recommended fix: Provide the missing factual scenario in the stem (or ensure this question is properly attached to a macro-pattern) detailing Cole and Vic's identities, the robbery, and Cole's lack of knowledge regarding the weapon.
+check 1: pass (the legal rule stated in (c) accurately reflects SB 1437, though its conclusion regarding Cole is unverifiable without facts)
+check 2: pass
+check 3: pass
+check 4: FAIL. The stem ("Assume instead that Cole...") clearly relies on a missing, orphaned fact pattern. We don't know who Cole or Vic are, what Cole actually did, or whether Cole's actions might inadvertently meet the "major participant / reckless indifference" standard (which would make the "Cole is not guilty" conclusion in (c) factually incorrect). Option (b) implies Cole was a lookout, but we have no facts to confirm this.
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Provide the missing fact pattern in the stem (e.g., "Cole agreed to act as an unarmed lookout while his friend robbed a convenience store. During the robbery, the friend unexpectedly shot and killed Vic. Cole had no idea his friend was armed. Cole is prosecuted in California...").
 -->

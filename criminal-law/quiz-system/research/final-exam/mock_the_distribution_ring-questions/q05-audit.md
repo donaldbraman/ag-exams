@@ -1,26 +1,26 @@
-**Q5.** Cole is charged as an accomplice to armed robbery. Under the federal standard established in *Rosemond*, does Cole have the requisite mens rea to be convicted of the armed element of the robbery?
+**Q5.** Cole is charged as an accomplice to armed robbery in a federal jurisdiction applying the *Rosemond* standard. Cole argues he lacked the necessary mens rea because he only agreed to an unarmed robbery. Is Cole guilty as an accomplice to armed robbery?
 
-(a) Yes, because his decision to take up his post as a lookout after Damon racked the slide demonstrates his knowing acceptance of the armed robbery plan.
-(b) Yes, because as a participant in a planned robbery, he is strictly liable for any weapons brought by his co-felons regardless of his prior knowledge.
-(c) No, because he verbally protested Damon's use of the gun, which legally negated his purpose to facilitate the aggravated, armed nature of the robbery.
-(d) No, because learning of the firearm immediately before exiting the vehicle likely deprived him of a meaningful opportunity to safely walk away from the crime. <!-- correct -->
-(e) No, because the predicate crime of robbery does not require specific intent, meaning accomplice liability cannot attach to the aggravating armed element of the charge.
+(a) Yes, because he acquired knowledge of the firearm before committing the crime and chose to continue his participation despite having a meaningful opportunity to walk away. <!-- correct -->
+(b) Yes, because under the strict liability standard for accomplices, any assistance rendered to an armed principal automatically transfers the weapon enhancement to the accomplice.
+(c) No, because he vocally objected when he saw the gun, which constitutes an effective withdrawal from the armed portion of the offense.
+(d) No, because the *Rosemond* standard requires that the accomplice participate in acquiring or supplying the firearm used in the offense.
+(e) No, because his advance knowledge of the firearm was acquired only moments before exiting the car, which does not constitute advance knowledge during the planning phase.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** Under *Rosemond*, accomplice liability for an armed offense requires the defendant to have advance knowledge of the full scope of the crime (including the gun) at a time when they have a "meaningful opportunity to walk away." Cole learned of the gun just as they were exiting the car at the target location, which typically fails the temporal requirement because withdrawing at that point is not reasonably safe or practical. Thus, (d) is correct. Option (a) is wrong because participating after discovering the gun mid-crime does not retroactively satisfy the advance knowledge requirement. Option (b) is wrong because accomplice liability for an armed element is not strict liability; it requires prior knowledge. Option (c) is wrong because a verbal protest does not negate liability if the temporal requirement was actually met. Option (e) is wrong because accomplice liability can attach to aggravating elements if the requisite intent and knowledge exist.
+**Explanation:** Under *Rosemond*, accomplice liability for an armed offense requires advance knowledge of the firearm at a time when the accomplice has a meaningful opportunity to walk away. Cole learned of the gun before exiting the car to take his lookout position. By proceeding with the crime instead of leaving, he satisfied the temporal advance knowledge requirement. (b) is wrong because accomplice liability requires specific mens rea, not strict liability. (c) is wrong because verbal objection without actual withdrawal is insufficient if the defendant continues to aid the crime. (d) is wrong because *Rosemond* requires knowledge, not physical provision of the weapon. (e) is wrong because "advance" means before participation is complete such that he can no longer walk away, not during remote planning.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, mr-temporal-advance-knowledge], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice, mens_rea, rosemond], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 - *Rosemond v. United States* (Advance Knowledge and Meaningful Opportunity to Withdraw)
+**Grounding:** Chapter 18 (Accomplice Liability), mr-temporal-advance-knowledge
 
 <!-- audit: MUST FIX
-<check 1>: pass (Assuming the facts hidden in the explanation, (d) correctly states the Rosemond standard for advance knowledge).
-<check 2>: MUST FIX (Because there are no facts in the stem, a student would have to blindly guess which option contains the "true" facts of the hypothetical).
-<check 3>: pass (The explanation accurately describes the doctrine).
-<check 4>: MUST FIX (The stem provides ZERO facts. It merely states the charge and asks a legal question. The critical facts—that Cole was in a car, that Damon racked a slide, and that Cole learned of the gun right before exiting—are completely missing from the stem and improperly buried in the options and explanation).
-<check 5>: pass (Stipulates the federal standard under Rosemond).
-<check 6>: pass
-<check 7>: pass (mr-temporal-advance-knowledge is covered in Chapter 18).
-Recommended fix: Add a factual narrative to the stem. For example: "Cole agreed to act as the lookout for Damon in a store robbery. Just as Damon parked the car at the target location and they were opening their doors to exit the vehicle, Damon unexpectedly pulled out a handgun and racked the slide. Surprised but feeling it was too late to safely abandon the plan, Cole followed Damon out of the car and took up his lookout post."
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: MUST FIX. The stem completely lacks the facts required to answer the question. It never mentions Cole acting as a lookout, being in a car, or the timeline of when he discovered the gun. These critical facts only appear retroactively in the answer choices and explanation, making the question impossible to answer based on the stem alone.
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Add the missing factual scenario to the stem. For example: "Cole agrees to act as a lookout for a robbery. Just as they park the car at the target location, the principal pulls out a gun. Cole vocally objects, but proceeds to exit the car and take his lookout position anyway. Cole is charged..."
 -->

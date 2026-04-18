@@ -4,68 +4,104 @@ The QA pipeline flagged this question. Rewrite `q03.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q3.** Assume that Ben's conduct crossed the threshold for attempt. Does his decision to drive away provide a valid defense of abandonment?
+**Q3.** Assume that Ben's conduct constituted a substantial step toward attempted distribution. Under the Model Penal Code, can Ben successfully assert the affirmative defense of voluntary abandonment?
 
-(a) Valid under the MPC because his act of driving away and deleting the app constituted a complete and voluntary renunciation of criminal purpose.
-(b) Invalid under the MPC because his withdrawal was motivated by his mother's text about police swarming, which legally disqualifies it as a voluntary renunciation. <!-- correct -->
-(c) Valid under the common law because he physically retreated from the drop location before coming dangerously close to completing the actual distribution crime.
-(d) Invalid under the common law because traditional attempt doctrine recognizes abandonment only if the defendant affirmatively alerts law enforcement to stop the crime.
-(e) Valid under both tests because leaving the scene without delivering the drugs extinguishes any inchoate liability that may have begun to attach beforehand.
+(a) Yes, because he completely abandoned the effort and successfully prevented the crime from occurring by taking the drugs back home.
+(b) Yes, because his decision to leave was motivated by a text from his mother, which constitutes an external moral intervention rather than an internal loss of nerve.
+(c) No, because abandonment is not recognized as an affirmative defense once a substantial step has been taken under the MPC.
+(d) No, because his renunciation was motivated by the text warning of police presence, making his withdrawal involuntary under the MPC's fear-of-detection disqualifier. <!-- correct -->
+(e) No, because he retained the drugs in his car rather than destroying them or turning them over to the police, meaning his abandonment was not complete.
 
-**Answer:** (b)
+**Answer:** (d)
 
-**Explanation:** Under MPC § 5.01(4), abandonment is an affirmative defense only if the renunciation of criminal purpose is complete and voluntary. Renunciation is strictly involuntary if it is motivated by a circumstance that increases the probability of detection or apprehension. Because Ben fled due to his mother's warning about police, his renunciation was involuntary. Thus, (b) is correct and (a) is wrong. Option (c) is wrong because the common law generally does not recognize abandonment at all once the attempt threshold is crossed; liability attaches permanently. Option (d) is wrong because the common law does not recognize the defense even if the police are alerted. Option (e) is wrong because it ignores the MPC's voluntariness requirement and incorrectly assumes common law recognizes the defense.
+**Explanation:** Under the MPC, abandonment is an affirmative defense to attempt, but it must be completely voluntary. Renunciation is not voluntary if it is motivated by an increased risk of detection or apprehension. Because Ben abandoned the attempt upon receiving a text that police were swarming, his withdrawal is legally involuntary. (a) and (b) are wrong because they ignore the fear-of-detection disqualifier triggered by the mother's warning. (c) is wrong because the MPC recognizes the abandonment defense even after a substantial step is taken, altering the traditional common law rule. (e) is wrong because while completeness is required, the primary doctrinal failure here is the voluntariness prong due to the police warning.
 
-**Tags:** chapters: [17], topics: [attempt, abandonment-mpc, abandonment-common-law], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, abandonment, renunciation], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17 - Liability Limit 1: Abandonment / Renunciation (MPC § 5.01(4) fear of detection disqualifier)
+**Grounding:** Chapter 17 (Attempts), abandonment-mpc
 
 <!-- audit: MUST FIX
 check 1: pass
 check 2: pass
 check 3: pass
-check 4: The stem completely lacks the factual scenario (Ben's mother's text, police swarming, deleting the app, drug distribution drop location) that the options and explanation rely upon. A student cannot accurately answer the question without facts explaining *why* Ben abandoned the attempt.
+check 4: MUST FIX. The question stem is completely missing the underlying fact pattern. It asks about Ben, a text from his mother, police presence, and retaining drugs, but none of these facts are established in the prompt. 
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Integrate the missing facts into the stem. (e.g., "Ben drove to a drug drop location, crossing the threshold for attempt. However, after receiving a text from his mother warning him that police were swarming the area, he deleted his messaging app and drove away. Does his decision to drive away provide a valid defense of abandonment?")
+Recommended fix: Integrate the missing facts into the stem so the question can function as a standalone item (e.g., "Ben took a substantial step toward distributing drugs, but drove home with the drugs after receiving a text from his mother warning him of police in the area. Under the Model Penal Code...").
 -->
 
 ## Issue 2 — argpass-sonnet
 
-**Q3.** Assume that Ben's conduct crossed the threshold for attempt. Does his decision to drive away provide a valid defense of abandonment?
+**Q3.** Assume that Ben's conduct constituted a substantial step toward attempted distribution. Under the Model Penal Code, can Ben successfully assert the affirmative defense of voluntary abandonment?
 
-(a) Valid under the MPC because his act of driving away and deleting the app constituted a complete and voluntary renunciation of criminal purpose.
-(b) Invalid under the MPC because his withdrawal was motivated by his mother's text about police swarming, which legally disqualifies it as a voluntary renunciation. <!-- correct -->
-(c) Valid under the common law because he physically retreated from the drop location before coming dangerously close to completing the actual distribution crime.
-(d) Invalid under the common law because traditional attempt doctrine recognizes abandonment only if the defendant affirmatively alerts law enforcement to stop the crime.
-(e) Valid under both tests because leaving the scene without delivering the drugs extinguishes any inchoate liability that may have begun to attach beforehand.
+(a) Yes, because he completely abandoned the effort and successfully prevented the crime from occurring by taking the drugs back home.
+(b) Yes, because his decision to leave was motivated by a text from his mother, which constitutes an external moral intervention rather than an internal loss of nerve.
+(c) No, because abandonment is not recognized as an affirmative defense once a substantial step has been taken under the MPC.
+(d) No, because his renunciation was motivated by the text warning of police presence, making his withdrawal involuntary under the MPC's fear-of-detection disqualifier. <!-- correct -->
+(e) No, because he retained the drugs in his car rather than destroying them or turning them over to the police, meaning his abandonment was not complete.
 
-**Answer:** (b)
+**Answer:** (d)
 
-**Explanation:** Under MPC § 5.01(4), abandonment is an affirmative defense only if the renunciation of criminal purpose is complete and voluntary. Renunciation is strictly involuntary if it is motivated by a circumstance that increases the probability of detection or apprehension. Because Ben fled due to his mother's warning about police, his renunciation was involuntary. Thus, (b) is correct and (a) is wrong. Option (c) is wrong because the common law generally does not recognize abandonment at all once the attempt threshold is crossed; liability attaches permanently. Option (d) is wrong because the common law does not recognize the defense even if the police are alerted. Option (e) is wrong because it ignores the MPC's voluntariness requirement and incorrectly assumes common law recognizes the defense.
+**Explanation:** Under the MPC, abandonment is an affirmative defense to attempt, but it must be completely voluntary. Renunciation is not voluntary if it is motivated by an increased risk of detection or apprehension. Because Ben abandoned the attempt upon receiving a text that police were swarming, his withdrawal is legally involuntary. (a) and (b) are wrong because they ignore the fear-of-detection disqualifier triggered by the mother's warning. (c) is wrong because the MPC recognizes the abandonment defense even after a substantial step is taken, altering the traditional common law rule. (e) is wrong because while completeness is required, the primary doctrinal failure here is the voluntariness prong due to the police warning.
 
-**Tags:** chapters: [17], topics: [attempt, abandonment-mpc, abandonment-common-law], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, abandonment, renunciation], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17 - Liability Limit 1: Abandonment / Renunciation (MPC § 5.01(4) fear of detection disqualifier)
+**Grounding:** Chapter 17 (Attempts), abandonment-mpc
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under the MPC, abandonment is a recognized affirmative defense. A student might argue that driving away and deleting the app represents a complete and permanent change of heart regarding the criminal enterprise. If the mother's text was interpreted merely as a general warning rather than an immediate threat, the student could argue that Ben's departure originated from a voluntary internal decision, making the defense valid under the MPC.
-(b) Argument-for: This option flawlessly applies MPC § 5.01(4). The MPC's abandonment defense requires the renunciation to be complete and voluntary. The statute explicitly specifies that a renunciation is legally involuntary if it is motivated by circumstances that increase the probability of detection or apprehension. Because Ben fled specifically due to a text about police swarming the area, his withdrawal is involuntary, invalidating the defense.
-(c) Argument-for: A student might vaguely recall the common law's "dangerous proximity" test and confuse the threshold of attempt with the abandonment defense. They could argue that physically retreating is a recognized way to "undo" the attempt as long as the substantive crime hasn't occurred, viewing the retreat as proof that the defendant did not ultimately intend to finalize the crime.
-(d) Argument-for: A student might confuse the doctrine of abandonment in attempt with the withdrawal defense in conspiracy or accomplice liability, where the common law often requires the defendant to affirmatively thwart the crime (e.g., by notifying law enforcement). The student could incorrectly extrapolate this requirement to attempt, concluding the defense fails solely because Ben didn't call the police.
-(e) Argument-for: A student could believe that inchoate crimes universally allow a "free walk-away" period before the target offense is completed. By leaving the scene and not delivering the drugs, Ben prevented the substantive harm. The student might assume that criminal law fundamentally rewards desistance to encourage people to stop crimes before they happen, making abandonment universally valid.
+(a) Argument-for: A student could argue that the MPC emphasizes the prevention of the target offense as the primary goal of the abandonment defense. Since Ben "successfully prevented the crime from occurring by taking the drugs back home," he has met the basic actus reus requirements of renunciation under MPC § 5.01(4). By physically reversing his substantial step, he neutralized the threat, making "Yes" appear to be the correct outcome based purely on his success in stopping the crime.
+(b) Argument-for: A student could argue that voluntary abandonment requires a change of heart rather than a response to immediate physical law enforcement pressure. Because a text from his mother is an external communication from a family member—not a direct confrontation by police—it functions to trigger a genuine internal realization. Under this view, familial persuasion constitutes a legally valid "voluntary" motivation, distinguishing it from the fear of impending arrest.
+(c) Argument-for: A student could argue that criminal liability attaches firmly once a substantial step is completed, rendering later actions irrelevant. Under this strict interpretation, attempt is a fully completed offense the moment the substantial step occurs, making abandonment impossible. This option directly appeals to students who confuse the traditional common law rule (where abandonment is generally not a defense after the actus reus is satisfied) with the MPC.
+(d) Argument-for: The MPC explicitly defines the limits of "voluntary" renunciation in § 5.01(4). A renunciation is legally involuntary if it is motivated in whole or in part by circumstances that increase the probability of detection or apprehension. Because Ben's withdrawal was prompted by a text warning of police presence, his decision was based on the fear of being caught rather than a genuine change of heart. Therefore, he categorically fails the voluntariness requirement and cannot assert the affirmative defense.
+(e) Argument-for: A student could argue that the MPC requires renunciation to be a "complete" abandonment of the criminal purpose. By retaining the drugs in his car instead of destroying them, Ben merely postponed his criminal intent or altered his immediate plan, which fails the completeness prong. Under this reasoning, the physical retention of contraband serves as definitive objective evidence that the abandonment was only temporary and thus legally incomplete.
 
-Head-to-head: 
-Option (b) is the clear, indisputable key because it accurately applies the MPC's specific statutory disqualifier for voluntariness (fear of apprehension). Option (a) fails because it asserts the renunciation was voluntary despite the explicit police warning. Option (d) fails because it invents a fake common law exception (that alerting police validates attempt abandonment). Option (e) fails because it falsely claims abandonment is valid under both tests, ignoring both the common law's general rejection of the defense and the MPC's strict voluntariness requirement. However, Option (c) contains a structural flaw: its rationale ("before coming dangerously close") directly fights the prompt's instruction to "Assume that Ben's conduct crossed the threshold for attempt." Distractors should test false legal propositions, not contradict assumed facts. 
+Head-to-head: Option (d) is clearly the strongest and legally correct answer because it directly applies the MPC's specific statutory carve-out regarding involuntary renunciation (fear of detection). Option (c) contains an explicit, easily falsifiable legal claim about the MPC. However, Options (a), (b), and (e) currently fail the close-call standard because they rely on implicit omissions or plausible factual inferences rather than containing explicitly false legal claims locked by absolute words. For instance, (e) suggests retaining drugs means the abandonment wasn't complete—which is a plausible factual inference for a jury rather than a definitively false categorical rule. To ensure these distractors are demonstrably false, they must be tightened with absolute language.
 
 Falsifiable claim per distractor:
-- (a): "constituted a complete and voluntary renunciation" — wrong because under MPC § 5.01(4), fear of police detection legally precludes the renunciation from being voluntary.
-- (c): "Valid under the common law" and "before coming dangerously close" — wrong because common law categorically rejects the defense once attempt begins, and the rationale directly contradicts the prompt's explicit assumption that the attempt threshold was already crossed.
-- (d): "recognizes abandonment only if the defendant affirmatively alerts law enforcement" — wrong because traditional common law generally does not recognize the abandonment defense for attempt at all once the threshold is crossed, regardless of whether police are alerted.
-- (e): "Valid under both tests" — wrong because it is invalid under the MPC (due to involuntariness) and invalid under the common law (which categorically rejects attempt abandonment).
+- (a): "because he completely abandoned the effort" — wrong conclusion ("Yes"), but legally fails only via an implicit omission of the voluntariness requirement, rather than an explicitly false categorical claim.
+- (b): "which constitutes an external moral intervention" — wrong because the text was about police presence, but lacks absolute legal phrasing locking it as a false rule of law.
+- (c): "abandonment is not recognized as an affirmative defense once a substantial step has been taken under the MPC" — wrong because MPC § 5.01(4) explicitly creates this defense precisely for attempts where a substantial step has occurred.
+- (e): "meaning his abandonment was not complete" — wrong because retaining drugs does not automatically equate to incomplete abandonment of the specific crime of distribution (he could keep them for personal consumption), but it lacks an absolute trigger.
 
-Recommended fix: Revise (c) so it relies on a false legal rule rather than fighting the prompt's assumed facts, and introduce absolute words to other distractors to firmly lock their falsifiability. 
-Change (c) to: "Valid under the common law, which categorically allows abandonment so long as the defendant physically retreats before completing the target offense."
-Change (e) to: "Valid under both tests because leaving the scene without delivering the drugs automatically extinguishes any inchoate liability that attached beforehand."
+Recommended fix: Add absolute words to (a), (b), and (e) to lock in explicitly false legal claims. 
+Change (a) to: "Yes, because preventing the crime categorically satisfies the defense regardless of his underlying motive."
+Change (b) to: "Yes, because a warning from a family member is automatically classified as a voluntary moral intervention rather than an involuntary fear of detection."
+Change (e) to: "No, because retaining contraband automatically renders the abandonment legally incomplete solely because he possessed the drugs."
+-->
+
+## Issue 3 — argpass-opus
+
+**Q3.** Assume that Ben's conduct constituted a substantial step toward attempted distribution. Under the Model Penal Code, can Ben successfully assert the affirmative defense of voluntary abandonment?
+
+(a) Yes, because he completely abandoned the effort and successfully prevented the crime from occurring by taking the drugs back home.
+(b) Yes, because his decision to leave was motivated by a text from his mother, which constitutes an external moral intervention rather than an internal loss of nerve.
+(c) No, because abandonment is not recognized as an affirmative defense once a substantial step has been taken under the MPC.
+(d) No, because his renunciation was motivated by the text warning of police presence, making his withdrawal involuntary under the MPC's fear-of-detection disqualifier. <!-- correct -->
+(e) No, because he retained the drugs in his car rather than destroying them or turning them over to the police, meaning his abandonment was not complete.
+
+**Answer:** (d)
+
+**Explanation:** Under the MPC, abandonment is an affirmative defense to attempt, but it must be completely voluntary. Renunciation is not voluntary if it is motivated by an increased risk of detection or apprehension. Because Ben abandoned the attempt upon receiving a text that police were swarming, his withdrawal is legally involuntary. (a) and (b) are wrong because they ignore the fear-of-detection disqualifier triggered by the mother's warning. (c) is wrong because the MPC recognizes the abandonment defense even after a substantial step is taken, altering the traditional common law rule. (e) is wrong because while completeness is required, the primary doctrinal failure here is the voluntariness prong due to the police warning.
+
+**Tags:** chapters: [17], topics: [attempt, abandonment, renunciation], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 17 (Attempts), abandonment-mpc
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student could argue that under MPC § 5.01(4), abandonment is an affirmative defense if the actor successfully prevents the commission of the target crime. Ben physically removed the drugs from the scene, completely preventing the substantive crime of distribution from occurring. If a student believes that factual prevention of the target offense is the sole dispositive element of the defense, they would logically conclude that Ben’s successful prevention makes the defense available.
+(b) Argument-for: A student could argue that voluntariness under the MPC involves an internal change of heart, which can be validly prompted by a loved one. Because the text came from his mother—a classic figure of moral authority—a student might categorize this as a "moral intervention." Under this interpretation, the mother's text breaks the purely logistical calculations of the crime, fulfilling the MPC requirement that the renunciation be a genuine change of heart rather than a mere tactical retreat.
+(c) Argument-for: A student could argue based on the traditional common law rule, which held that once a defendant crosses the line into a criminal attempt, the crime is complete and cannot be legally undone. A student might mistakenly believe the MPC codified this strict "no-going-back" rule to deter individuals from coming dangerously close to committing crimes. Thus, the argument posits that Ben's substantial step rigidly locks in his attempt liability, precluding any affirmative defense of abandonment.
+(d) Argument-for: Under MPC § 5.01(4), the affirmative defense of renunciation requires that the abandonment be both complete and voluntary. The MPC expressly defines "voluntary" to exclude renunciations motivated in whole or in part by circumstances that increase the probability of detection or apprehension. Because Ben's withdrawal was directly motivated by his mother's text warning him of police swarming, his fear of detection legally negates the voluntariness of the abandonment. Therefore, he cannot successfully assert the defense, making this the correct choice.
+(e) Argument-for: A student could argue that the MPC requires renunciation to be "complete," meaning a permanent abandonment of the criminal purpose. By retaining the drugs in his car instead of destroying them or surrendering them to the police, Ben manifested an intent to hold onto the contraband, leaving open the possibility of a future distribution attempt. Under this reasoning, failing to completely divest oneself of the criminal means categorically renders the abandonment legally incomplete.
+
+Head-to-head: (d) correctly applies the MPC rule that fear of detection disqualifies an abandonment defense on voluntariness grounds. (c) contains a glaring and explicit legal error, falsely claiming the MPC does not recognize abandonment after a substantial step. (b) falsely categorizes a warning about police as an "external moral intervention," explicitly misclassifying the legal trigger under the MPC. (e) asserts a false legal rule that failing to destroy/surrender drugs automatically means an abandonment of attempted distribution is legally incomplete (mere possession does not preclude complete abandonment of a specific distribution attempt). However, (a) relies primarily on an implicit omission: it states a "Yes" conclusion by citing true facts (he prevented the crime) while simply ignoring the voluntariness disqualifier. To strictly meet the "close-call" standard, (a) must explicitly assert a false legal claim.
+
+Falsifiable claim per distractor:
+- (a): "Yes, because he completely abandoned the effort and successfully prevented the crime from occurring" — wrong conclusion, but technically relies on an implicit omission of the voluntariness requirement rather than stating a categorical legal falsehood.
+- (b): "constitutes an external moral intervention" — wrong because a warning of police presence legally triggers the fear-of-detection disqualifier under the MPC, not a valid moral change of heart.
+- (c): "abandonment is not recognized as an affirmative defense once a substantial step has been taken under the MPC" — wrong because MPC § 5.01(4) explicitly recognizes abandonment precisely after a substantial step has occurred.
+- (e): "meaning his abandonment was not complete" — wrong because the MPC does not categorically require the destruction or surrender of contraband to render an abandonment "complete" regarding a specific attempt.
+
+Recommended fix: Modify (a) to include an explicitly false, absolute legal rule. Change (a) to: "Yes, because successfully preventing the substantive crime from occurring categorically satisfies the requirements for the abandonment defense under the MPC, regardless of his underlying motivation."
 -->

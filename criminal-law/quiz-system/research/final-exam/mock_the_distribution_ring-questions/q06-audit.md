@@ -1,26 +1,26 @@
-**Q6.** Assume a jurisdiction applies the traditional natural and probable consequences (NPC) doctrine. Is Cole guilty of murder as an accomplice for Vic's death?
+**Q6.** Assume that Cole is prosecuted in a jurisdiction that applies the traditional Natural and Probable Consequences (NPC) doctrine. Is Cole guilty of Vic's murder as an accomplice?
 
-(a) Guilty, because the NPC doctrine broadly applies strict liability to all accomplices for any and all collateral crimes committed by their co-conspirators during the event.
-(b) Guilty, because a fatal shooting is a highly foreseeable outcome of an agreed-upon plan to conduct an armed robbery of a rival drug stash house. <!-- correct -->
-(c) Not guilty, because Damon's purely personal motive for the killing means the murder was not committed in direct furtherance of the agreed-upon robbery.
-(d) Not guilty, because Cole explicitly stated his understanding that they were only supposed to scare the rivals, which legally negates his specific intent to kill.
-(e) Not guilty, because the traditional NPC doctrine requires the prosecution to definitively prove that the accomplice personally shared the principal's malice aforethought.
+(a) Yes, because any death that occurs during a felony is categorically a natural and probable consequence of that felony.
+(b) Yes, because a shooting is a reasonably foreseeable result of an armed robbery, regardless of Damon's personal retaliatory motive. <!-- correct -->
+(c) No, because Damon's personal motive to avenge his girlfriend makes the shooting an independent, unforeseeable intervening act.
+(d) No, because Cole was standing outside as a lookout and did not personally encourage or assist the act of shooting Vic.
+(e) No, because the traditional NPC doctrine requires the accomplice to share the specific intent to kill the victim.
 
 **Answer:** (b)
 
-**Explanation:** Under the traditional NPC doctrine, an accomplice is liable for any collateral crime that is a natural and probable consequence of the agreed-upon criminal activity. Because a fatal shooting is a highly foreseeable consequence of sending armed individuals to confront rival dealers at a stash house, Cole can be held liable for murder regardless of his personal intent. Thus, (b) is correct. Option (a) is wrong because NPC requires foreseeability; it is not blanket strict liability for absolutely all acts. Option (c) is wrong because under NPC, foreseeability of the *harm* (a shooting) controls, even if the principal's exact internal motive for pulling the trigger was personal. Option (d) is wrong because NPC explicitly extends liability beyond the accomplice's specific intent. Option (e) is wrong because traditional NPC imputes malice based on the foreseeability of the act; it does not require proof of personal malice aforethought.
+**Explanation:** Under the traditional Natural and Probable Consequences doctrine, an accomplice to a target crime is liable for any other crime committed by the principal that was a reasonably foreseeable consequence of the target crime. A shooting during an armed robbery is generally foreseeable, even if the principal's specific trigger for firing was a personal vendetta. (a) is wrong because NPC requires foreseeability based on specific facts, not a categorical rule for all felonies. (c) is wrong because the principal's personal motive does not defeat the objective foreseeability of violence during an armed robbery. (d) is wrong because an accomplice need not assist the secondary crime, only the target crime. (e) is wrong because NPC specifically substitutes foreseeability for shared intent.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, npc-traditional-rule], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice, npc], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 - Natural and Probable Consequences Doctrine (Traditional Rule)
+**Grounding:** Chapter 18 (Accomplice Liability), npc-traditional-rule
 
 <!-- audit: MUST FIX
-check 1: pass (assuming the facts implied by the answer choices and explanation)
-check 2: pass
-check 3: pass
-check 4: The stem is completely missing the factual scenario. It asks about Cole, Vic, and Damon, but provides zero facts about who they are or what happened. Students cannot answer the question without the fact pattern.
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Add the missing fact pattern to the question stem (e.g., detailing Cole and Damon's agreement to rob the stash house, Cole's statement about only scaring them, and Damon's shooting of Vic).
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: MUST FIX. The question lacks a fact pattern. The stem refers to Cole and Vic, and the options refer to Damon, an armed robbery, a lookout role, and a personal retaliatory motive involving a girlfriend. None of these facts are actually provided in the stem, meaning the question appears to have been improperly detached from a multi-question scenario.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Recommended fix: Integrate the missing fact pattern directly into the question stem (e.g., "Cole agreed to act as a lookout while Damon committed an armed robbery. During the robbery, Damon shot and killed Vic, prompted by a personal motive to avenge his girlfriend. Assume that Cole is prosecuted in a jurisdiction...").
 -->

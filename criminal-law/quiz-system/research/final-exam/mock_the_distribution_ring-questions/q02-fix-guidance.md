@@ -4,127 +4,29 @@ The QA pipeline flagged this question. Rewrite `q02.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q2.** Ben is charged with attempted distribution of a controlled substance. How would his liability be assessed under the MPC's "substantial step" test compared to the traditional common law "dangerous proximity" test?
+**Q2.** Assume that it is established that Ben formed the requisite intent to distribute the stimulants. Under the Model Penal Code's substantial step test versus the traditional common law dangerous proximity test, has Ben committed the actus reus of attempted distribution when he parks at the drop location?
 
-(a) Guilty under both tests because driving to the location and parking within 50 feet of the target establishes an act that is unequivocally criminal in nature.
-(b) Guilty under the MPC because driving to the drop location strongly corroborates his criminal purpose, but not guilty under the proximity test because he had not approached the buyer. <!-- correct -->
-(c) Guilty under the proximity test because he was within 50 feet of the target, but not guilty under the MPC because his driving was not a substantial step.
-(d) Not guilty under either test because he never removed the drugs from the passenger seat or made any physical contact with the intended recipient.
-(e) Not guilty under the MPC because his actions were mere preparation, but guilty under the proximity test because he had arrived at the physical scene of the crime.
+(a) Ben satisfied the actus reus under the substantial step test because driving to the designated drop location corroborates his criminal purpose, but he likely failed the dangerous proximity test because he never exited the car or approached the buyer. <!-- correct -->
+(b) Ben satisfied the actus reus under the dangerous proximity test because parking 50 feet away is dangerously near completion, but failed the substantial step test because he did not cross the physical threshold of the car.
+(c) Ben satisfied the actus reus under both tests because driving to a planned crime scene is universally recognized as the commencement of the consummated offense across all jurisdictions.
+(d) Ben failed the actus reus under both tests because he never saw the buyer, meaning the crime could not logically be completed under either the MPC or the common law.
+(e) Ben satisfied the actus reus under the substantial step test because he accepted the drugs from Artie, which immediately completed the attempt, rendering his subsequent drive irrelevant.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** The MPC substantial step test draws the line of attempt early, requiring an act that is strongly corroborative of criminal purpose (such as traveling to the planned scene). Ben satisfies this. The traditional dangerous proximity test draws the line much later, requiring the defendant to come dangerously close to completion. Because Ben remained in his car and never approached the buyer, a proximity jurisdiction would likely classify this as mere preparation. Thus, (b) is correct. Option (a) misapplies the proximity test, which requires more than just parking nearby. Options (c) and (e) completely invert the strictness of the two tests. Option (d) misapplies the MPC, which explicitly counts arriving at the planned scene as a substantial step even without physical contact.
+**Explanation:** The MPC substantial step test requires conduct strongly corroborative of criminal purpose, explicitly listing traveling to the contemplated scene as sufficient. The traditional dangerous proximity test requires the defendant to come dangerously near completion, which often fails if the target has not yet been located or approached. (a) correctly applies both tests. (b) reverses the thresholds, as dangerous proximity is harder to satisfy than substantial step. (c) is wrong because the proximity test routinely excludes mere arrival at a general location if the buyer is absent. (d) is wrong because the MPC test draws the liability line much earlier and does not require encountering the buyer. (e) is wrong because mere acceptance of the drugs is preparatory; driving to the scene is the substantial step.
 
-**Tags:** chapters: [17], topics: [attempt, actus-reus-substantial-step, actus-reus-proximity-test], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, actus_reus, substantial_step], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17 - Actus Reus (Dangerous Proximity Test vs. MPC Substantial Step Test)
+**Grounding:** Chapter 17 (Attempts), actus-reus-substantial-step and actus-reus-proximity-test
 
 <!-- audit: MUST FIX
-Check 1: pass (conditional on facts being added)
-Check 2: pass
-Check 3: pass
-Check 4: MUST FIX - The stem completely lacks a fact pattern. It introduces Ben and the charge, but provides zero facts about his conduct. The necessary facts to answer the question (driving to the location, having drugs on the passenger seat, parking 50 feet away, not exiting the vehicle) are improperly scattered across the options and explanation.
-Check 5: pass
-Check 6: pass
-Check 7: pass
-Recommended fix: Insert the missing facts into the stem: "Ben intended to sell controlled substances to a buyer. He placed the drugs on his passenger seat, drove to the agreed-upon drop location, and parked his car 50 feet away from the buyer, but was arrested before he could exit the vehicle or make contact. Ben is charged with attempted distribution..."
--->
-
-## Issue 2 — edge-case
-
-**Q2.** Ben is charged with attempted distribution of a controlled substance. How would his liability be assessed under the MPC's "substantial step" test compared to the traditional common law "dangerous proximity" test?
-
-(a) Guilty under both tests because driving to the location and parking within 50 feet of the target establishes an act that is unequivocally criminal in nature.
-(b) Guilty under the MPC because driving to the drop location strongly corroborates his criminal purpose, but not guilty under the proximity test because he had not approached the buyer. <!-- correct -->
-(c) Guilty under the proximity test because he was within 50 feet of the target, but not guilty under the MPC because his driving was not a substantial step.
-(d) Not guilty under either test because he never removed the drugs from the passenger seat or made any physical contact with the intended recipient.
-(e) Not guilty under the MPC because his actions were mere preparation, but guilty under the proximity test because he had arrived at the physical scene of the crime.
-
-**Answer:** (b)
-
-**Explanation:** The MPC substantial step test draws the line of attempt early, requiring an act that is strongly corroborative of criminal purpose (such as traveling to the planned scene). Ben satisfies this. The traditional dangerous proximity test draws the line much later, requiring the defendant to come dangerously close to completion. Because Ben remained in his car and never approached the buyer, a proximity jurisdiction would likely classify this as mere preparation. Thus, (b) is correct. Option (a) misapplies the proximity test, which requires more than just parking nearby. Options (c) and (e) completely invert the strictness of the two tests. Option (d) misapplies the MPC, which explicitly counts arriving at the planned scene as a substantial step even without physical contact.
-
-**Tags:** chapters: [17], topics: [attempt, actus-reus-substantial-step, actus-reus-proximity-test], difficulty: intermediate, cognitive: application
-
-**Grounding:** Chapter 17 - Actus Reus (Dangerous Proximity Test vs. MPC Substantial Step Test)
-
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: The use of "Guilty" vs. "Not guilty" in the options forces the evaluation of all elements and defenses (such as abandonment and impossibility), rather than isolating the actus reus tests this question is designed to assess.
-3. Cross-Question Spoilers: Stating definitively that Ben is "Guilty under the MPC" in Q2 acts as a massive spoiler for Q3 and Q4. It tells the student that Ben's abandonment defense (tested in Q3) and impossibility defense (tested in Q4) must legally fail under the MPC, effectively giving away the answers to those subsequent questions.
-Recommended fix: Change the prompt and options to focus strictly on the actus reus. E.g., Change "Guilty" / "Not guilty" to "Satisfies the actus reus" / "Fails the actus reus". (e.g., "(b) Satisfies the actus reus under the MPC because... but fails under the proximity test because...")
--->
-
-## Issue 3 — argpass-sonnet
-
-**Q2.** Ben is charged with attempted distribution of a controlled substance. How would his liability be assessed under the MPC's "substantial step" test compared to the traditional common law "dangerous proximity" test?
-
-(a) Guilty under both tests because driving to the location and parking within 50 feet of the target establishes an act that is unequivocally criminal in nature.
-(b) Guilty under the MPC because driving to the drop location strongly corroborates his criminal purpose, but not guilty under the proximity test because he had not approached the buyer. <!-- correct -->
-(c) Guilty under the proximity test because he was within 50 feet of the target, but not guilty under the MPC because his driving was not a substantial step.
-(d) Not guilty under either test because he never removed the drugs from the passenger seat or made any physical contact with the intended recipient.
-(e) Not guilty under the MPC because his actions were mere preparation, but guilty under the proximity test because he had arrived at the physical scene of the crime.
-
-**Answer:** (b)
-
-**Explanation:** The MPC substantial step test draws the line of attempt early, requiring an act that is strongly corroborative of criminal purpose (such as traveling to the planned scene). Ben satisfies this. The traditional dangerous proximity test draws the line much later, requiring the defendant to come dangerously close to completion. Because Ben remained in his car and never approached the buyer, a proximity jurisdiction would likely classify this as mere preparation. Thus, (b) is correct. Option (a) misapplies the proximity test, which requires more than just parking nearby. Options (c) and (e) completely invert the strictness of the two tests. Option (d) misapplies the MPC, which explicitly counts arriving at the planned scene as a substantial step even without physical contact.
-
-**Tags:** chapters: [17], topics: [attempt, actus-reus-substantial-step, actus-reus-proximity-test], difficulty: intermediate, cognitive: application
-
-**Grounding:** Chapter 17 - Actus Reus (Dangerous Proximity Test vs. MPC Substantial Step Test)
-
-<!-- argument-pass: MUST FIX
-(a) Argument-for: A student might argue that being parked 50 feet away is close enough to establish "dangerous proximity" to the drug deal, and that driving to the location easily satisfies the MPC's substantial step test. The phrase "unequivocally criminal" might be seen by a confused student as synonymous with a substantial step or dangerous proximity.
-(b) Argument-for: This is the intended answer. The MPC substantial step test explicitly lists arriving at the contemplated scene of the crime as strongly corroborative of criminal purpose. The traditional dangerous proximity test requires the defendant to be much closer to completion (e.g., interacting with the buyer), so remaining in the car would likely be mere preparation.
-(c) Argument-for: A student could argue that physical proximity (being within 50 feet) literally satisfies the "dangerous proximity" test, whereas merely driving might not be considered a "substantial step" if the student misinterprets the MPC as requiring an act more directly related to the distribution itself rather than mere travel.
-(d) Argument-for: A student could argue that without removing the drugs or making physical contact, the defendant's actions are mere preparation under any attempt test. Under this view, neither the MPC nor the proximity test would be satisfied because the actus reus is insufficiently developed.
-(e) Argument-for: A student could argue that arriving at the physical scene fulfills the spatial requirement of the "dangerous proximity" test, while failing the MPC's test because parking without leaving the car might be viewed as mere preparation rather than an act that strongly corroborates intent.
-
-Head-to-head:
-The fatal flaw in this question is that the entire fact pattern is missing from the question stem. The stem introduces "Ben" and asks how his liability would be assessed, but never actually describes what he did (driving, parking within 50 feet, leaving drugs on the passenger seat, not approaching the buyer). Students are forced to reverse-engineer the facts from the answer choices, which is bad pedagogy and invalidates the question's structure. Assuming the facts were present, (b) is the correct application of the law, while the distractors rely on false statements of how the tests apply to these facts. (a) incorrectly claims the proximity test is met and conflates it with the unequivocality test. (c) and (e) falsely invert the strictness of the tests. (d) falsely implies the MPC requires physical contact. Because of the wholly missing facts, this is a MUST FIX.
-
-Falsifiable claim per distractor:
-- (a): "driving to the location and parking within 50 feet of the target establishes an act that is unequivocally criminal in nature" — wrong because it evaluates the scenario using the common law "unequivocality test" instead of the dangerous proximity test asked about in the prompt, and falsely asserts proximity is automatically met by driving.
-- (c): "not guilty under the MPC because his driving was not a substantial step" — wrong because under MPC § 5.01, driving to the contemplated scene of the crime categorically qualifies as a substantial step if it strongly corroborates criminal purpose.
-- (d): "Not guilty under either test because he never removed the drugs from the passenger seat or made any physical contact" — wrong because it makes the falsifiable legal claim that the MPC requires physical contact or manipulation of the contraband to establish a substantial step.
-- (e): "Not guilty under the MPC because his actions were mere preparation, but guilty under the proximity test" — wrong because it completely inverses the strictness of the two tests; no jurisdiction would find dangerous proximity satisfied while finding the exact same facts legally insufficient for a substantial step.
-
-Recommended fix: Insert the missing fact pattern into the question stem: "Ben intended to distribute a controlled substance. He drove to the agreed drop location, parked his car within 50 feet of the buyer, and left the drugs on his passenger seat. He never exited the car or approached the buyer before being arrested. How would his liability..."
--->
-
-## Issue 4 — argpass-opus
-
-**Q2.** Ben is charged with attempted distribution of a controlled substance. How would his liability be assessed under the MPC's "substantial step" test compared to the traditional common law "dangerous proximity" test?
-
-(a) Guilty under both tests because driving to the location and parking within 50 feet of the target establishes an act that is unequivocally criminal in nature.
-(b) Guilty under the MPC because driving to the drop location strongly corroborates his criminal purpose, but not guilty under the proximity test because he had not approached the buyer. <!-- correct -->
-(c) Guilty under the proximity test because he was within 50 feet of the target, but not guilty under the MPC because his driving was not a substantial step.
-(d) Not guilty under either test because he never removed the drugs from the passenger seat or made any physical contact with the intended recipient.
-(e) Not guilty under the MPC because his actions were mere preparation, but guilty under the proximity test because he had arrived at the physical scene of the crime.
-
-**Answer:** (b)
-
-**Explanation:** The MPC substantial step test draws the line of attempt early, requiring an act that is strongly corroborative of criminal purpose (such as traveling to the planned scene). Ben satisfies this. The traditional dangerous proximity test draws the line much later, requiring the defendant to come dangerously close to completion. Because Ben remained in his car and never approached the buyer, a proximity jurisdiction would likely classify this as mere preparation. Thus, (b) is correct. Option (a) misapplies the proximity test, which requires more than just parking nearby. Options (c) and (e) completely invert the strictness of the two tests. Option (d) misapplies the MPC, which explicitly counts arriving at the planned scene as a substantial step even without physical contact.
-
-**Tags:** chapters: [17], topics: [attempt, actus-reus-substantial-step, actus-reus-proximity-test], difficulty: intermediate, cognitive: application
-
-**Grounding:** Chapter 17 - Actus Reus (Dangerous Proximity Test vs. MPC Substantial Step Test)
-
-<!-- argument-pass: MUST FIX
-(a) Argument-for: A student could argue that parking 50 feet from the target places Ben geographically close enough to satisfy the "dangerous proximity" test's spatial requirement. Furthermore, taking the drugs to the location firmly satisfies the MPC's substantial step test, making him guilty under both traditional and modern standards.
-(b) Argument-for: This relies correctly on the core doctrinal distinction between the tests. The MPC pushes attempt liability earlier—expressly noting that "going to the place contemplated" can be a substantial step. The common law dangerous proximity test (e.g., *Rizzo*) requires the actor to be extremely close to consummation, which Ben fails by remaining in his car without approaching the buyer.
-(c) Argument-for: One could argue that 50 feet is spatially close enough to definitively satisfy "dangerous proximity." Conversely, one might argue that under a strict reading of the MPC, simply driving and parking without making contact with the buyer remains mere preparation, making him not guilty under the MPC.
-(d) Argument-for: A student could argue that sitting in a parked car is an entirely equivocal act. Without removing the drugs or making contact, the conduct does not strongly corroborate a criminal purpose (MPC) and is nowhere near consummation (common law), rendering him entirely in the preparation phase under both tests.
-(e) Argument-for: Similar to (c), one might argue that physical arrival explicitly satisfies the physical proximity test because he is at the scene. Concurrently, one could mistakenly argue the MPC demands an overt act beyond mere arrival to elevate the conduct past preparation.
-
-Head-to-head: The keyed answer (b) accurately reflects the doctrinal distinction between the early-liability MPC (substantial step) and the late-liability common law (dangerous proximity). However, there is a catastrophic flaw in the question design: the question stem contains *no fact pattern*. The student must reverse-engineer the facts (Ben drove, parked 50 feet away, had drugs on the passenger seat, didn't make contact) entirely from reading the answer choices. This makes evaluating the application impossible without guessing which facts are legally "true." Doctrinally, the distractors correctly contain falsifiable legal claims, but the missing facts force a MUST FIX verdict.
-
-Falsifiable claim per distractor:
-- (a): "establishes an act that is unequivocally criminal in nature" — wrong because driving and parking is not unequivocally criminal on its face, and this improperly conflates the "unequivocality" (res ipsa loquitur) test with the "dangerous proximity" test asked about in the prompt.
-- (c): "not guilty under the MPC because his driving was not a substantial step" — wrong because under MPC § 5.01(2), going to the place contemplated for the commission of the crime categorically can satisfy the substantial step test if strongly corroborative. 
-- (d): "because he never removed the drugs from the passenger seat or made any physical contact" — wrong because the MPC does not categorically require physical handling of the contraband or contact with the recipient to establish a substantial step.
-- (e): "Not guilty under the MPC because his actions were mere preparation" — wrong because the MPC specifically recognizes "going to the place" as crossing the threshold from preparation to a substantial step.
-
-Recommended fix: Add the actual fact pattern to the question stem. Change the stem to: "Ben plans to sell controlled substances. He drives to the agreed-upon drop location with the drugs on his passenger seat and parks 50 feet away, but he does not exit the car or approach the buyer before being arrested. How would his liability be assessed under the MPC's 'substantial step' test compared to the traditional common law 'dangerous proximity' test?"
+check 1: pass (Assuming the missing background facts, option (a) accurately differentiates the doctrinal thresholds of the two tests).
+check 2: pass (Option (e) offers a plausible alternative timing for the substantial step, but fails to address the dangerous proximity test requested in the prompt, making (a) definitively better).
+check 3: SHOULD FIX. The explanation claims the MPC "explicitly list[s] traveling to the contemplated scene as sufficient." The MPC does not explicitly list "traveling"; it lists "reconnoitering the place" and "possession of materials... at or near the place" (MPC 5.01(2)(c) and (f)). The explanation's paraphrase should be tightened to match the statute.
+check 4: MUST FIX. The stem completely lacks the foundational facts needed to answer the question. It refers to "the stimulants" and "the drop location," while the options introduce new facts like "the buyer," "Artie," and "parking 50 feet away." If this is a standalone question, it is unanswerable without the accompanying narrative.
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Integrate the missing narrative facts directly into the stem (e.g., "Ben accepted stimulants from Artie, drove to a designated drop location, and parked his car 50 feet away, but never exited the vehicle or saw the buyer. Assume that it is established..."). Additionally, revise the explanation to cite "possession of materials at or near the place" or "reconnoitering" rather than mere "traveling."
 -->

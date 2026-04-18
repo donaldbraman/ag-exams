@@ -1,22 +1,22 @@
-**Q2.** Ben is charged with attempted distribution of a controlled substance. How would his liability be assessed under the MPC's "substantial step" test compared to the traditional common law "dangerous proximity" test?
+**Q2.** Assume that it is established that Ben formed the requisite intent to distribute the stimulants. Under the Model Penal Code's substantial step test versus the traditional common law dangerous proximity test, has Ben committed the actus reus of attempted distribution when he parks at the drop location?
 
-(a) Guilty under both tests because driving to the location and parking within 50 feet of the target establishes an act that is unequivocally criminal in nature.
-(b) Guilty under the MPC because driving to the drop location strongly corroborates his criminal purpose, but not guilty under the proximity test because he had not approached the buyer. <!-- correct -->
-(c) Guilty under the proximity test because he was within 50 feet of the target, but not guilty under the MPC because his driving was not a substantial step.
-(d) Not guilty under either test because he never removed the drugs from the passenger seat or made any physical contact with the intended recipient.
-(e) Not guilty under the MPC because his actions were mere preparation, but guilty under the proximity test because he had arrived at the physical scene of the crime.
+(a) Ben satisfied the actus reus under the substantial step test because driving to the designated drop location corroborates his criminal purpose, but he likely failed the dangerous proximity test because he never exited the car or approached the buyer. <!-- correct -->
+(b) Ben satisfied the actus reus under the dangerous proximity test because parking 50 feet away is dangerously near completion, but failed the substantial step test because he did not cross the physical threshold of the car.
+(c) Ben satisfied the actus reus under both tests because driving to a planned crime scene is universally recognized as the commencement of the consummated offense across all jurisdictions.
+(d) Ben failed the actus reus under both tests because he never saw the buyer, meaning the crime could not logically be completed under either the MPC or the common law.
+(e) Ben satisfied the actus reus under the substantial step test because he accepted the drugs from Artie, which immediately completed the attempt, rendering his subsequent drive irrelevant.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** The MPC substantial step test draws the line of attempt early, requiring an act that is strongly corroborative of criminal purpose (such as traveling to the planned scene). Ben satisfies this. The traditional dangerous proximity test draws the line much later, requiring the defendant to come dangerously close to completion. Because Ben remained in his car and never approached the buyer, a proximity jurisdiction would likely classify this as mere preparation. Thus, (b) is correct. Option (a) misapplies the proximity test, which requires more than just parking nearby. Options (c) and (e) completely invert the strictness of the two tests. Option (d) misapplies the MPC, which explicitly counts arriving at the planned scene as a substantial step even without physical contact.
+**Explanation:** The MPC substantial step test requires conduct strongly corroborative of criminal purpose, explicitly listing traveling to the contemplated scene as sufficient. The traditional dangerous proximity test requires the defendant to come dangerously near completion, which often fails if the target has not yet been located or approached. (a) correctly applies both tests. (b) reverses the thresholds, as dangerous proximity is harder to satisfy than substantial step. (c) is wrong because the proximity test routinely excludes mere arrival at a general location if the buyer is absent. (d) is wrong because the MPC test draws the liability line much earlier and does not require encountering the buyer. (e) is wrong because mere acceptance of the drugs is preparatory; driving to the scene is the substantial step.
 
-**Tags:** chapters: [17], topics: [attempt, actus-reus-substantial-step, actus-reus-proximity-test], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, actus_reus, substantial_step], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17 - Actus Reus (Dangerous Proximity Test vs. MPC Substantial Step Test)
+**Grounding:** Chapter 17 (Attempts), actus-reus-substantial-step and actus-reus-proximity-test
 
-<!-- edge-case-audit: MUST FIX
+<!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: The use of "Guilty" vs. "Not guilty" in the options forces the evaluation of all elements and defenses (such as abandonment and impossibility), rather than isolating the actus reus tests this question is designed to assess.
-3. Cross-Question Spoilers: Stating definitively that Ben is "Guilty under the MPC" in Q2 acts as a massive spoiler for Q3 and Q4. It tells the student that Ben's abandonment defense (tested in Q3) and impossibility defense (tested in Q4) must legally fail under the MPC, effectively giving away the answers to those subsequent questions.
-Recommended fix: Change the prompt and options to focus strictly on the actus reus. E.g., Change "Guilty" / "Not guilty" to "Satisfies the actus reus" / "Fails the actus reus". (e.g., "(b) Satisfies the actus reus under the MPC because... but fails under the proximity test because...")
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
 -->

@@ -4,29 +4,29 @@ The QA pipeline flagged this question. Rewrite `q01.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q1.** Assume that Damon is charged with conspiracy. Does Damon's response to Artie's proposal provide sufficient evidence of an agreement under the minimal inference standard established in *Alvarez*?
+**Q1.** Based on Damon's response to Artie's initial proposal, how would a court in a federal jurisdiction applying the *Alvarez* rule ("a nod and a smile") evaluate whether Damon formed a conspiratorial agreement?
 
-(a) Yes, because Damon's nonverbal gesture of tapping his waistband, combined with the surrounding circumstances of Artie's solicitation, allows a jury to reasonably infer his assent to the venture. <!-- correct -->
-(b) Yes, because Damon's mere presence at the meeting where Artie proposed the criminal enterprise automatically creates a binding legal presumption of his conspiratorial agreement.
-(c) No, because conspiracy formation strictly requires explicit, bilateral verbal communication among the parties to prove assent to the proposed criminal objective.
-(d) No, because tapping a concealed weapon is merely preparatory conduct and does not satisfy the overt act requirement needed to trigger conspiracy liability.
-(e) No, because the gesture was inherently ambiguous and courts require clear, direct documentary or audio evidence to establish the mutual understanding of a conspiracy.
+(a) Damon formed a conspiratorial agreement because his physical gesture, combined with the surrounding circumstances, provides sufficient circumstantial evidence from which a jury can infer mutual understanding. <!-- correct -->
+(b) Damon did not form a conspiratorial agreement because tapping a waistband is too ambiguous, and the law requires an explicit verbal commitment to participate.
+(c) Damon formed a conspiratorial agreement because his presence at a meeting where crimes are discussed creates a mandatory legal presumption of knowing adherence.
+(d) Damon did not form a conspiratorial agreement because the *Alvarez* rule requires a reciprocal physical gesture from the person proposing the crime to establish bilateral agreement.
+(e) Damon formed a conspiratorial agreement because Artie's offer constituted a unilateral conspiracy which Damon accepted by his mere presence.
 
 **Answer:** (a)
 
-**Explanation:** Under the *Alvarez* standard, a jury can infer conspiratorial agreement from minimal coordinated conduct (such as a "nod and a smile") when viewed in the totality of the circumstances. Damon's smile and tap of his waistband in response to Artie's call for "bodies" is sufficient to infer knowing agreement, making (a) correct. Option (b) is incorrect because mere presence is insufficient to establish an agreement. Option (c) is wrong because no explicit verbal agreement is required. Option (d) is wrong because tapping the weapon is evidence of the agreement itself, not the overt act, and overt acts need not be substantial anyway. Option (e) is incorrect because circumstantial evidence and inferences are entirely sufficient; direct evidence is not required.
+**Explanation:** Under the *Alvarez* minimal inference rule, courts allow juries to infer a conspiratorial agreement from minimal conduct—such as a nod, a smile, or tapping a weapon—when combined with surrounding circumstances. Conspirators rarely announce agreements explicitly; coordinated conduct suffices. (b) is wrong because explicit verbal agreement is not required. (c) is wrong because mere presence does not create a mandatory legal presumption of agreement; the prosecution must still prove intent. (d) is wrong because the rule does not require reciprocal physical gestures from the offeror. (e) is wrong because "unilateral conspiracy" refers to scenarios where only one party has genuine intent (like dealing with an undercover officer), not to acceptance by mere presence.
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement-inference, alvarez-minimal-inference], difficulty: advanced, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, agreement_inference], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 19 - *United States v. Alvarez* (minimal inference of agreement from a nod and a smile)
+**Grounding:** Chapter 19 (Conspiracy), alvarez-minimal-inference
 
 <!-- audit: MUST FIX
-check 1: pass (Doctrinally, the marked answer correctly applies the Alvarez standard).
-check 2: pass (The distractors represent common doctrinal misunderstandings, such as requiring explicit verbal agreement or treating mere presence as legally binding).
-check 3: fails (The explanation references specific facts—such as a "smile" and Artie's call for "bodies"—that appear nowhere in the question stem).
-check 4: fails (The stem completely lacks a factual scenario. It asks about "Damon's response to Artie's proposal" without ever stating who these people are, what Artie proposed, or how Damon responded. It appears to have been orphaned from a broader fact pattern).
-check 5: pass (The stem explicitly specifies the standard: Alvarez).
-check 6: pass (No excluded-topic bleed).
-check 7: pass (Alvarez minimal inference is explicitly mapped in Ch 19 Refinement tags).
-Recommended fix: Provide the missing fact pattern in the stem. Describe Artie proposing a criminal venture (e.g., calling for "bodies") and Damon's specific response (e.g., smiling and tapping his waistband where a weapon is concealed).
+check 1: pass (assuming the missing facts describe the gesture)
+check 2: pass
+check 3: pass
+check 4: The stem is completely missing the fact pattern. It refers to "Damon's response to Artie's initial proposal" but provides no facts describing who these people are or what happened (e.g., Damon tapping his waistband).
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Add the missing factual scenario to the question stem describing Artie's proposal and Damon's physical response.
 -->

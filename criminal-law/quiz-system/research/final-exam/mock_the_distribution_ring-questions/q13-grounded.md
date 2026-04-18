@@ -1,17 +1,17 @@
-**Q13.** Assume Artie is charged as an accessory after the fact for wiring Damon $1,000 and telling him to "Stay low" after learning of the murder. Which statement best analyzes this charge?
+**Q13.** Based on Artie wiring Damon $1,000 to "stay low" after learning of Vic's murder, what distinct criminal liability might Artie face independent of the conspiracy?
 
-(a) Valid, because assisting a principal in evading capture or detection after a crime has been completed constitutes the distinct lesser offense of accessory after the fact. <!-- correct -->
-(b) Valid, because providing financial compensation for a completed murder retroactively establishes Artie as a principal in the first degree to the underlying homicide offense.
-(c) Invalid, because Artie's initial role in planning the stash house robbery automatically merges any subsequent assistance into the primary pre-crime conspiracy charge.
-(d) Invalid, because the payment of $1,000 is considered a trivial amount and does not legally meet the substantial material assistance threshold required for the offense.
-(e) Invalid, because an accessory after the fact charge requires strict proof that the defendant provided physical sanctuary or actively misled law enforcement investigators.
+(a) Artie is liable as a principal to murder because providing financial support elevates a defendant to principal status.
+(b) Artie is liable as an accessory after the fact because providing financial aid to help a principal evade capture after the crime is complete is a distinct, lesser-graded offense. <!-- correct -->
+(c) Artie is liable for attempted bribery because wiring money to a fugitive is legally classified as an attempt to bribe a witness.
+(d) Artie is not liable for any distinct post-crime offense because the money was sent through a wire transfer rather than handed over in physical cash.
+(e) Artie is not liable for any distinct post-crime offense because the equal-punishment rule merges all post-crime assistance into the original conspiracy charge.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Accessory after the fact is a separate, lower-grade offense that criminalizes providing assistance to someone after a crime is complete to help them escape detection or punishment. Artie's instruction to "stay low" accompanied by $1,000 in funding directly facilitated Damon's evasion of authorities. Thus, (a) is correct. Option (b) is wrong because post-crime assistance does not retroactively create principal liability; the historical grading distinction survives precisely for this reason. Option (c) is wrong because accessory after the fact is a separate post-crime offense that does not merge into the pre-crime conspiracy. Option (d) is wrong because any act of material assistance designed to help the perpetrator evade justice is sufficient; there is no specific monetary threshold required. Option (e) is wrong because providing financial resources to facilitate a fugitive's flight easily qualifies as assistance; physical sanctuary or direct deception of police is not strictly required.
+**Explanation:** Accessory after the fact is a separate, lesser offense that criminalizes providing aid to a felon after the crime is complete to help them evade capture or punishment. Artie's act of wiring money and telling Damon to "stay low" satisfies these elements. (a) is wrong because post-crime assistance does not retroactively elevate a defendant to a principal in the underlying crime. (c) is wrong because providing evasion assistance is not classified as bribery. (d) is wrong because the electronic method of the financial transfer is irrelevant to the provision of aid. (e) is wrong because accessory after the fact is a distinct crime targeting post-crime obstruction, which does not merge into the underlying conspiracy or accomplice liability.
 
-**Tags:** chapters: [18], topics: [accomplice-liability, gp-accessory-after-fact], difficulty: foundational, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice, accessory_after_fact], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 18 - Accessory After the Fact as Separate Offense
+**Grounding:** Chapter 18 (Accomplice Liability), gp-accessory-after-fact
 
-<!-- grounding: GROUNDED — Accessory After the Fact, Ch 18, Refinement `gp-accessory-after-fact`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Accessory after the fact, Ch 18, Refinement `gp-accessory-after-fact`. Rule paraphrased accurately. -->

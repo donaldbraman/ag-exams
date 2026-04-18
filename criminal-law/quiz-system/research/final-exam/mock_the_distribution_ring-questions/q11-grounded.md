@@ -1,17 +1,17 @@
-**Q11.** Damon is charged with felony murder based on Vic's death, with attempted robbery as the predicate felony. Which statement best describes his liability?
+**Q11.** Damon is charged with first-degree felony murder based on the attempted robbery of the stash house. Damon's defense argues that because he abandoned the robbery upon seeing Vic and shot him out of personal animus, the felony murder rule does not apply. How will a court likely rule?
 
-(a) Guilty of felony murder, because the death occurred during an attempted robbery, and the independent purpose of the robbery prevents the predicate from merging into the homicide. <!-- correct -->
-(b) Guilty of felony murder, but his overall sentence must be reduced by one grade because the predicate offense of robbery was only attempted rather than successfully completed.
-(c) Not guilty of felony murder, because he did not actively search for drugs or demand money, meaning the actus reus requirement for attempted robbery was never satisfied.
-(d) Not guilty of felony murder, because his underlying personal motive for the shooting legally severs the causal connection between the attempted robbery and the resulting death.
-(e) Not guilty of felony murder, because under the merger doctrine, the assaultive act of shooting the victim completely absorbs the attempted robbery, barring the felony murder charge.
+(a) Damon is guilty of felony murder because the murder occurred during the *res gestae* of the attempted robbery, and an unintended death during an attempted predicate felony is graded upward as first-degree murder. <!-- correct -->
+(b) Damon is not guilty of felony murder because he did not take any drugs or demand money, meaning the underlying felony was never completed.
+(c) Damon is not guilty of felony murder under the merger doctrine, because his independent personal purpose to assault Vic means the assault merges with the homicide.
+(d) Damon is guilty of felony murder, but only in the second degree, because the underlying predicate crime was merely an attempt rather than a completed felony.
+(e) Damon is not guilty of felony murder because the felony murder rule only applies when the killing is caused strictly to facilitate the predicate felony, not for personal reasons.
 
 **Answer:** (a)
 
-**Explanation:** Felony murder attaches first-degree murder liability to a death caused during an attempt to commit a predicate felony. Furthermore, under the merger doctrine, a predicate felony must have an independent felonious purpose from the assault that caused death; robbery satisfies this because its purpose is to steal, not just to injure. Therefore, the attempted robbery does not merge and serves as a valid predicate. Thus, (a) is correct. Option (b) is wrong because the felony murder rule elevates the punishment to murder; attempt grading reductions do not apply when a death triggers felony murder. Option (c) is wrong because kicking in the door of the target location is clearly an overt act/substantial step for attempted robbery. Option (d) is wrong because temporal and spatial overlap (the res gestae) satisfy felony murder; the personal motive does not break the chain. Option (e) is wrong because robbery has an independent purpose (property acquisition) and does not merge into the homicide.
+**Explanation:** Under the felony murder rule, a death caused during the attempt to perpetrate a predicate felony (such as robbery) triggers first-degree murder liability. The killing occurred as part of the continuous transaction (res gestae) of the attempted robbery. The fact that the robbery was incomplete or that Damon had a secondary personal motive does not defeat the charge. (b) is wrong because an *attempted* predicate felony still triggers felony murder. (c) is wrong because the predicate is robbery, which has an independent felonious purpose from the killing itself, so it does not merge. (d) is wrong because deaths resulting from attempted predicate felonies are still graded as first-degree murder. (e) is wrong because strict causal facilitation is not required so long as the killing is part of the res gestae.
 
-**Tags:** chapters: [14, 17], topics: [felony-murder, attempt, grading-felony-murder-attempt, merger-independent-purpose], difficulty: advanced, cognitive: application
+**Tags:** chapters: [14, 17], topics: [felony_murder, attempt, grading], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 17 - Felony Murder and Attempted Predicate Felonies; Chapter 14 - Merger Doctrine
+**Grounding:** Chapter 17 (Attempts), grading-felony-murder-attempt
 
-<!-- grounding: GROUNDED — Merger Doctrine (Independent Purpose) and Felony Murder Attempt Grading, Ch 14 & Ch 17, Refinements `merger-independent-purpose` and `grading-felony-murder-attempt`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — grading-felony-murder-attempt, Ch 17, Refinement `grading-felony-murder-attempt`. Rule paraphrased accurately. -->

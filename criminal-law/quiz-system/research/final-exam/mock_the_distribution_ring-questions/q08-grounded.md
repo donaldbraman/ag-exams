@@ -1,17 +1,17 @@
-**Q8.** Assume a traditional federal jurisdiction applying the *Pinkerton* doctrine. Is Artie guilty of Vic's murder?
+**Q8.** Assume it is established that Artie and Damon were members of an ongoing conspiracy to clear out the stash house. Under the *Pinkerton* doctrine, is Artie liable for Damon's murder of Vic?
 
-(a) Guilty, because a fatal shooting is a highly foreseeable consequence of a conspiracy to violently rob a rival drug stash house, making Artie vicariously liable.
-(b) Guilty, because as the absolute organizer and ringleader of the criminal enterprise, Artie bears strict liability for any offenses committed by his co-conspirators.
-(c) Not guilty, because Damon's purely personal motive means the murder was an independent act that was not committed in furtherance of the conspiracy's objectives. <!-- correct -->
-(d) Not guilty, because Artie was not physically present at the scene of the crime and did not explicitly authorize his subordinates to use lethal force.
-(e) Not guilty, because Pinkerton liability only applies to the specific target offenses that were explicitly agreed upon during the original formation of the conspiracy.
+(a) Yes, because the murder was committed by a coconspirator in furtherance of the ongoing conspiracy and was reasonably foreseeable. <!-- correct -->
+(b) Yes, because Artie was the ringleader, which imposes strict liability for any criminal act committed by any subordinate regardless of foreseeability.
+(c) No, because Artie explicitly instructed Damon and Cole to only "scare them off," meaning the murder was outside the scope of the agreement.
+(d) No, because Damon shot Vic for personal retaliatory reasons, completely severing the act from the furtherance of the conspiracy.
+(e) No, because Artie was not present at the stash house and did not supply the weapon used in the shooting.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Under the *Pinkerton* doctrine, a conspirator is vicariously liable for the substantive offenses of co-conspirators only if those crimes are reasonably foreseeable AND committed "in furtherance of the conspiracy." Because Damon ignored the drugs and shot Vic purely for a personal grievance ("That's for my girlfriend!"), the murder was an independent frolic rather than an act furthering the conspiracy's goal of acquiring product and taking corners. Thus, (c) is correct. Option (a) is wrong because foreseeability alone is insufficient; the act must also be in furtherance of the conspiracy. Option (b) is wrong because *Pinkerton* does not impose strict liability for all acts, only those meeting the two-pronged test. Option (d) is wrong because physical presence and explicit authorization are not required for *Pinkerton* liability. Option (e) is wrong because *Pinkerton* specifically extends liability to collateral crimes beyond the original target offenses.
+**Explanation:** Under the *Pinkerton* doctrine, a conspirator is vicariously liable for the substantive offenses committed by coconspirators that are reasonably foreseeable and in furtherance of the conspiracy. Shooting a rival dealer at the targeted stash house furthers the conspiracy's goal of taking over the corner, and violence is foreseeable when armed men rob a stash house. (b) is wrong because *Pinkerton* requires foreseeability and furtherance, not strict liability for ringleaders. (c) is wrong because *Pinkerton* extends liability to foreseeable acts beyond explicit instructions. (d) is wrong because mixed motives (personal retaliation while clearing a rival stash house) do not sever the furtherance of the conspiracy. (e) is wrong because presence and supplying the weapon are not required under *Pinkerton*.
 
-**Tags:** chapters: [19], topics: [conspiracy, pinkerton-doctrine], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, pinkerton], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - *Pinkerton* Vicarious Liability (Requirement that act be in furtherance of the conspiracy)
+**Grounding:** Chapter 19 (Conspiracy), pinkerton-doctrine
 
 <!-- grounding: GROUNDED — Pinkerton doctrine, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->

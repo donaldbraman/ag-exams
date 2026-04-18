@@ -1,22 +1,22 @@
-**Q10.** Did Cole successfully withdraw from the conspiracy when he ran away after hearing the gunshot?
+**Q10.** Assume that a broader conspiracy to monopolize East Side drug corners remains ongoing after the stash house shooting. Has Cole effectively withdrawn from the conspiracy by fleeing the scene and destroying his burner phone?
 
-(a) Yes, because throwing away his burner phone and fleeing the scene constituted a complete and voluntary renunciation of his ongoing criminal purpose.
-(b) Yes, because immediately abandoning his post as a lookout physically and legally severed his connection to the ongoing criminal enterprise.
-(c) No, because he failed to take any affirmative steps to communicate his withdrawal to his co-conspirators or to properly disclose the scheme to law enforcement. <!-- correct -->
-(d) No, because successfully withdrawing from a criminal conspiracy is legally impossible once any overt act has been committed by any member of the group.
-(e) No, because the law strictly requires a withdrawing conspirator to physically prevent the completion of the target offense in order to fully escape liability.
+(a) Yes, because throwing away the burner phone completely severed his ability to communicate with the conspiracy, fulfilling the requirement of a complete abandonment.
+(b) Yes, because fleeing the scene of a crime is a legally recognized non-verbal communication of withdrawal to coconspirators and effectively terminates ongoing liability.
+(c) No, because withdrawal requires taking affirmative steps to disavow the conspiracy's objectives and communicating those steps to coconspirators or law enforcement. <!-- correct -->
+(d) No, because a defendant can never withdraw from a conspiracy once an overt act has been committed by any member of the group.
+(e) No, because Cole must physically arrest the other conspirators or successfully thwart the ongoing criminal enterprise to establish withdrawal.
 
 **Answer:** (c)
 
-**Explanation:** Withdrawal from a conspiracy is demanding. To effectively withdraw and terminate liability for future acts of the conspiracy, a defendant must not only cease participation but also take affirmative steps to disavow the conspiracy, which requires communicating the withdrawal to co-conspirators or disclosing the scheme to law enforcement. Cole merely ran away and threw out his phone; he did neither. Thus, (c) is correct. Option (a) is wrong because destroying a phone in private does not communicate withdrawal to anyone. Option (b) is wrong because merely abandoning a post or getting "cold feet" is insufficient without communication. Option (d) is wrong because withdrawal is absolutely possible after an overt act (though it only cuts off liability for future crimes, not the conspiracy itself). Option (e) is wrong because while the MPC attempt abandonment defense requires preventing the crime, conspiracy withdrawal only requires communication or disclosure to law enforcement.
+**Explanation:** Withdrawal from a conspiracy is highly demanding. It requires the defendant to take affirmative steps to disavow or defeat the conspiracy's objectives and to communicate that withdrawal to the coconspirators or to law enforcement. Fleeing the scene and silently cutting off contact by destroying a phone is insufficient to terminate ongoing liability. (a) and (b) are wrong because silent abandonment without communication to coconspirators or police is legally ineffective. (d) is wrong because a defendant can withdraw after an overt act to stop liability for future substantive crimes, though they remain liable for the conspiracy itself. (e) is wrong because while thwarting the crime is one method, communicating withdrawal to coconspirators is also sufficient to stop *Pinkerton* liability.
 
-**Tags:** chapters: [19], topics: [conspiracy, withdrawal-requirements], difficulty: foundational, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, withdrawal], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - Withdrawal (Requirement of communication to coconspirators or law enforcement)
+**Grounding:** Chapter 19 (Conspiracy), withdrawal-requirements
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+Recommended fix: None. The rule for withdrawal correctly captures the common law requirement of affirmative communication to co-conspirators or law enforcement, avoiding any unintended ambiguity.
 -->

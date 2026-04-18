@@ -2,38 +2,68 @@
 
 The QA pipeline flagged this question. Rewrite `q12.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — argpass-opus
+## Issue 1 — audit
 
-**Q12.** Damon argues that Vic's death should be mitigated to voluntary manslaughter because Vic's insult to Damon's girlfriend a year ago provoked him. Under traditional common law provocation and the MPC's Extreme Emotional Disturbance (EED) standard, how will this argument fare?
+**Q12.** Damon seeks to mitigate his murder charge to manslaughter, arguing he acted in the heat of passion or under an Extreme Emotional Disturbance (EED) upon recognizing the man who insulted his girlfriend a year prior. How does the time lapse affect his claim?
 
-(a) It will succeed under both doctrines, because Damon's physical reaction of flushing red demonstrates an authentic and uncontrollable emotional response at the time of the shooting.
-(b) It will succeed under the MPC because the passage of time is totally irrelevant, but fail under the common law because an insult does not constitute adequate provocation.
-(c) It will fail under both doctrines, because the passage of an entire year between the insult and the shooting definitively establishes that Damon was acting with calculated premeditation.
-(d) It will fail under the common law due to objective "cooling time," but could succeed under the MPC if a jury finds a reasonable explanation for his disturbance. <!-- correct -->
-(e) It will fail under the MPC because the doctrine strictly requires an immediate triggering event, but could succeed under the common law's subjective cooling time evaluation.
+(a) Damon's claim will succeed under both common law and the MPC, because the sudden visual trigger of seeing Vic "rekindled" his passion, restarting the clock for both doctrines.
+(b) Damon's claim fails under the traditional common law because the one-year gap constitutes adequate cooling time, but he might succeed under the MPC, which evaluates emotional disturbance without requiring sudden provocation. <!-- correct -->
+(c) Damon's claim will fail under both doctrines because an insult to a girlfriend is categorically excluded as a valid provocation under any legal framework evaluating homicide.
+(d) Damon's claim will succeed under the common law because the jury determines cooling time, but fail under the MPC because the MPC strictly requires an objective threat of physical violence.
+(e) Damon's claim will fail under the MPC because the EED defense requires the defendant to be factually innocent of the circumstances that triggered the profound emotional disturbance.
 
-**Answer:** (d)
+**Answer:** (b)
 
-**Explanation:** Traditional common law provocation requires the defendant to act before a reasonable "cooling time" has passed; a year-long delay absolutely bars the defense. Additionally, the common law limits provocation to specific categories (and words alone are generally insufficient). The MPC's Extreme Emotional Disturbance (EED) defense, however, abandons the strict cooling time requirement and categorical limits, allowing a jury to consider "smoldering" disturbances over long periods if there is a reasonable explanation or excuse for the disturbance. Thus, (d) is correct. Option (a) is wrong because the common law strictly bars the defense due to cooling time and inadequate provocation. Option (b) is wrong because it incorrectly states that time is completely irrelevant under the MPC; it remains a factor in reasonableness, though not an absolute bar. Option (c) is wrong because the MPC explicitly allows for delayed reactions. Option (e) is wrong because it completely inverts the two standards; the MPC abandoned the immediate trigger requirement, while the common law retains strict cooling time.
+**Explanation:** Under traditional common law, heat of passion requires a sudden provocation with no adequate "cooling time." A one-year gap between the insult and the killing provides adequate cooling time as a matter of law, barring the defense. The MPC's Extreme Emotional Disturbance (EED) standard, however, abandons rigid categories and strict cooling time, allowing a jury to determine if there was a reasonable explanation for the disturbance from the defendant's viewpoint. (a) is wrong because the common law treats a one-year gap as fatal cooling time rather than allowing a sudden visual trigger to "rekindle" it. (c) is wrong because the MPC's EED framework does not categorically exclude such triggers. (d) is wrong because common law judges often rule on cooling time as a matter of law, and the MPC does not require an objective physical threat. (e) is wrong because EED has no factual innocence requirement for the trigger.
 
-**Tags:** chapters: [12], topics: [homicide, cooling-time-drowota, eed-standard-elements], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [12], topics: [homicide, provocation, eed], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 12 - Cooling Time and EED Standards
+**Grounding:** Chapter 12 (Intentional Homicide), cooling-time-drowota and eed-standard-elements
+
+<!-- audit: MUST FIX
+<check 1>: MUST FIX. Option (b) states the claim fails under traditional common law *because* of the one-year cooling time. However, under the strict traditional CL rules taught in this chapter (`words-alone-girouard`, `historical-categories-honor`), an "insult to a girlfriend" is categorically insufficient provocation to begin with. Thus, the cooling-time rationale in the correct answer is technically moot and doctrinally vulnerable to challenge by a well-prepared student.
+<check 2>: pass
+<check 3>: MUST FIX. The explanation ignores the categorical inadequacy of the provocation under traditional CL ("words alone" / non-spousal relationship) and treats cooling time as the sole barrier.
+<check 4>: pass
+<check 5>: pass
+<check 6>: pass
+<check 7>: pass
+Recommended fix: Change the triggering event in the stem to a categorically adequate common-law provocation (e.g., "recognizing the man who severely battered him a year prior") so that cooling time becomes the true, isolated dispositive issue under the common law. Update option (c) slightly to match the new facts (e.g., "because a prior battery is categorically excluded...").
+-->
+
+## Issue 2 — argpass-opus
+
+**Q12.** Damon seeks to mitigate his murder charge to manslaughter, arguing he acted in the heat of passion or under an Extreme Emotional Disturbance (EED) upon recognizing the man who insulted his girlfriend a year prior. How does the time lapse affect his claim?
+
+(a) Damon's claim will succeed under both common law and the MPC, because the sudden visual trigger of seeing Vic "rekindled" his passion, restarting the clock for both doctrines.
+(b) Damon's claim fails under the traditional common law because the one-year gap constitutes adequate cooling time, but he might succeed under the MPC, which evaluates emotional disturbance without requiring sudden provocation. <!-- correct -->
+(c) Damon's claim will fail under both doctrines because an insult to a girlfriend is categorically excluded as a valid provocation under any legal framework evaluating homicide.
+(d) Damon's claim will succeed under the common law because the jury determines cooling time, but fail under the MPC because the MPC strictly requires an objective threat of physical violence.
+(e) Damon's claim will fail under the MPC because the EED defense requires the defendant to be factually innocent of the circumstances that triggered the profound emotional disturbance.
+
+**Answer:** (b)
+
+**Explanation:** Under traditional common law, heat of passion requires a sudden provocation with no adequate "cooling time." A one-year gap between the insult and the killing provides adequate cooling time as a matter of law, barring the defense. The MPC's Extreme Emotional Disturbance (EED) standard, however, abandons rigid categories and strict cooling time, allowing a jury to determine if there was a reasonable explanation for the disturbance from the defendant's viewpoint. (a) is wrong because the common law treats a one-year gap as fatal cooling time rather than allowing a sudden visual trigger to "rekindle" it. (c) is wrong because the MPC's EED framework does not categorically exclude such triggers. (d) is wrong because common law judges often rule on cooling time as a matter of law, and the MPC does not require an objective physical threat. (e) is wrong because EED has no factual innocence requirement for the trigger.
+
+**Tags:** chapters: [12], topics: [homicide, provocation, eed], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 12 (Intentional Homicide), cooling-time-drowota and eed-standard-elements
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student might choose this option if they believe that any genuine, uncontrollable emotional reaction at the time of the killing is sufficient for mitigation across jurisdictions. They could argue that if Damon exhibited physical signs of rage, this proves subjective loss of control, satisfying both the common law heat of passion and the MPC's EED standard. The argument assumes that the subjective authenticity of the emotion overrides any objective temporal limits or categorical exclusions on "words alone."
-(b) Argument-for: A student could defend this option by correctly noting the common law's categorical rule that words alone (an insult) do not constitute adequate provocation. They would further argue that because the MPC was drafted specifically to abolish strict common law limits like the "cooling off" period, the passage of time is now completely outside the legal calculus. This argument rests on taking the MPC's rejection of strict cooling time to the absolute extreme of total irrelevance.
-(c) Argument-for: A student might argue that even under the lenient MPC standard, an entire year between a verbal insult and a fatal shooting stretches the concept of mitigation beyond any plausible breaking point. They could reason that a 365-day delay allows for infinite reflection, which as a matter of law negates a sudden loss of control or a reasonable EED, and conclusively demonstrates premeditation. Therefore, both doctrines would categorically reject the mitigation argument.
-(d) Argument-for: This is the correct answer. A student would argue that the common law requires the killing to occur before a reasonable "cooling time" has elapsed, meaning a year-long delay is an absolute bar. Furthermore, the common law generally does not recognize insults as adequate provocation. Under the MPC's EED standard, however, strict objective limitations are abandoned in favor of a broader inquiry, meaning Damon could potentially succeed if a jury finds his year-long "smoldering" disturbance had a reasonable explanation or excuse.
-(e) Argument-for: A student might incorrectly remember the distinctions between the two standards and argue that the MPC was meant to be the stricter, more objective standard that requires an immediate trigger to avoid rewarding premeditated revenge. Conversely, they might argue that the common law focuses purely on the subjective state of the defendant, so if Damon subjectively never "cooled off," the defense could still apply. This argument relies on wholly inverting the actual legal doctrines.
+(a) Argument-for: A student could argue that some jurisdictions recognize a "rekindling" doctrine where encountering the provocateur re-ignites passion. Under this theory, the sudden visual trigger serves as a fresh provocation, making the prior time lapse irrelevant. Because the MPC also permits EED for sudden triggers, one could argue the claim is viable under both frameworks.
+(b) Argument-for: Under traditional common law, "cooling time" is often a strict legal barrier; a one-year gap is objectively sufficient time for a reasonable person's passions to cool, legally barring mitigation. Conversely, the Model Penal Code's EED standard explicitly abandons strict "sudden provocation" and "cooling time" requirements, focusing instead on whether the defendant's emotional state has a reasonable explanation from their perspective. Thus, the claim is barred by common law but viable under the MPC.
+(c) Argument-for: Historically, common law limited adequate provocation to specific rigid categories, and an insult to a girlfriend falls outside these bounds. A student could argue that even under the more flexible MPC, a year-old insult to a non-spouse is so trivial that it is categorically excluded from serving as a reasonable explanation for extreme emotional disturbance under any framework.
+(d) Argument-for: A student could argue that under some common law interpretations, the adequacy of cooling time is strictly a question of fact for the jury rather than a matter of law, allowing Damon's claim to proceed. In contrast, they might mistakenly believe the MPC was drafted to restrict EED to severe trauma, arguing it strictly requires an objective threat of physical violence to prevent frivolous claims based on mere insults.
+(e) Argument-for: Under the MPC's EED standard, the emotional disturbance is evaluated from the viewpoint of a person in the defendant's situation. A student could argue that this inherently requires the defendant to be an innocent victim of the circumstances that caused the trauma, meaning Damon's claim would fail if he lacked factual innocence regarding the triggering encounter.
 
-Head-to-head: Option (d) correctly identifies that the common law relies on an objective cooling time (barring the defense) while the MPC allows for delayed, "smoldering" EED if reasonably explained. The distractors are effectively falsifiable through their use of absolute language: (b) claims time is "totally irrelevant" under the MPC, (c) claims a year "definitively establishes" calculated premeditation, and (e) claims the MPC "strictly requires" an immediate trigger. However, option (a) introduces a stray fact ("flushing red") not present in the prompt. While the legal claim in (a) is undeniably false, the hallucinated fact is distracting and reveals a minor drafting oversight.
+Head-to-head:
+Option (b) is clearly the correct answer because it accurately applies the traditional common law's rigid cooling time rule (which bars the claim as a matter of law) alongside the MPC's subjective-objective EED standard (which lacks a strict cooling time limit). Distractor (c) is strong but fails because the MPC does not categorically exclude insults. Distractor (d) contains a completely fabricated MPC requirement (objective physical violence). Distractor (e) invents a "factual innocence" requirement. Distractor (a) is the most tempting alternative because of the real "rekindling" concept, but falsely claims the visual trigger will succeed and restart the clock for both doctrines. However, (a) lacks an explicit absolute locking word in its rationale, which would guarantee adherence to the drafting standard.
 
 Falsifiable claim per distractor:
-- (a): "It will succeed under both doctrines" — wrong because the common law strictly bars the defense due to cooling time and inadequate provocation (words alone).
-- (b): "because the passage of time is totally irrelevant" — wrong because while the MPC removes the strict cooling time bar, the passage of time remains highly relevant to a jury's determination of reasonableness under EED.
-- (c): "definitively establishes that Damon was acting with calculated premeditation" — wrong because the MPC's EED standard specifically permits juries to find a valid "smoldering" EED despite significant delays.
-- (e): "strictly requires an immediate triggering event" — wrong because the MPC expressly abandoned the common law's requirement for a sudden or immediate triggering event.
+- (a): "will succeed under both... restarting the clock for both doctrines" — wrong because traditional common law treats a one-year gap as fatal cooling time as a matter of law and does not universally apply rekindling.
+- (c): "categorically excluded as a valid provocation under any legal framework" — wrong because the MPC does not categorically exclude insults; a jury may evaluate them.
+- (d): "strictly requires an objective threat of physical violence" — wrong because the MPC's EED standard broadly covers non-physical triggers like words or discoveries.
+- (e): "requires the defendant to be factually innocent of the circumstances" — wrong because the MPC EED formulation contains no factual innocence requirement.
 
-Recommended fix: Remove the "flushing red" reference in (a) to keep the focus strictly on the legal doctrine, e.g., "(a) It will succeed under both doctrines, because Damon's genuine emotional rage at the time of the shooting overrides any objective time limits."
+Recommended fix: In (a), change "restarting the clock for both doctrines" to "automatically restarting the clock for both doctrines" to provide a stronger absolute lock on the false legal proposition.
 -->

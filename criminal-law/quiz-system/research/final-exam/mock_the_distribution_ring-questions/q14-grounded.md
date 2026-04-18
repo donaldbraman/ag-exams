@@ -1,17 +1,17 @@
-**Q14.** Artie is charged with possession of the 5 kilograms of fentanyl found in the locked safe under his couch. Does the state have sufficient evidence to establish constructive possession?
+**Q14.** Artie is charged with possession of the fentanyl found in the locked safe. Under the doctrine of constructive possession, how will a court likely analyze Artie's liability?
 
-(a) Yes, because his legal ownership of the apartment creates an irrebuttable legal presumption that he possesses all items and containers located anywhere within the premises.
-(b) Yes, because he knew the drugs were in the safe and he maintained the power to control their presence by allowing Damon to store it in his apartment. <!-- correct -->
-(c) No, because he did not know the combination to the safe, meaning he permanently lacked the ability to exercise exclusive physical dominion over the hidden narcotics.
-(d) No, because constructive possession strictly requires the defendant to be the actual legal owner of the contraband, and Artie merely allowed Damon to store it there.
-(e) No, because the drugs were concealed inside a locked container rather than being in plain view, negating the legally required element of immediate accessibility and control.
+(a) Artie is not guilty because he did not know the combination to the safe, meaning he lacked the necessary exclusive physical control over the drugs.
+(b) Artie is not guilty because the safe explicitly belonged to Damon, establishing that Damon retained exclusive constructive possession over the container regardless of where it was located.
+(c) Artie is guilty because he was physically sitting on the couch above the safe, establishing actual physical possession of the drugs.
+(d) Artie is guilty of constructive possession because he had knowledge of the drugs and the power and intent to exercise dominion or control over the area where they were kept, even without the combination. <!-- correct -->
+(e) Artie is guilty under the snapshot rule, which strictly prohibits a defendant from denying possession if they are in the same room as a locked container.
 
-**Answer:** (b)
+**Answer:** (d)
 
-**Explanation:** Constructive possession requires proof that the defendant had both awareness of the contraband and the power and intent to exercise control over it. Even though Artie did not know the safe's combination, he knew the fentanyl was inside and exercised control over its presence by allowing it to be stored under his couch in his own apartment. Thus, (b) is correct. Option (a) is wrong because ownership of the premises creates an inference, not an irrebuttable presumption, of possession. Option (c) is wrong because exclusive physical access or knowledge of a lock's combination is not required; controlling the container's location in one's home is sufficient to establish power over it. Option (d) is wrong because legal ownership of the contraband is irrelevant to possession; holding it for a third party still constitutes possession. Option (e) is wrong because immediate accessibility or plain view is not required for constructive possession if awareness and control are otherwise established.
+**Explanation:** Constructive possession requires knowledge of the contraband and the power and intent to exercise dominion or control over it or the area where it is located. Even though Artie could not open the safe, it was in his apartment, under his couch, and he knowingly permitted it to be stored there, establishing sufficient dominion over the premises and the container. (a) is wrong because inability to open the container does not defeat constructive possession if the defendant controls the container's location. (b) is wrong because possession can be joint; Damon's ownership does not negate Artie's constructive possession. (c) is wrong because proximity to a container establishes constructive, not actual, physical possession. (e) is wrong because the snapshot rule relates to momentary physical holding, not constructive possession of locked containers.
 
-**Tags:** chapters: [15], topics: [possession, cp-awareness-control], difficulty: intermediate, cognitive: application
+**Tags:** chapters: [15], topics: [possession, constructive_possession], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15 - Constructive Possession (Awareness and Control)
+**Grounding:** Chapter 15 (Drugs and Guns), cp-awareness-control
 
-<!-- grounding: GROUNDED — Constructive Possession, Ch 15, Refinement `cp-awareness-control`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — constructive possession, Ch 15, Refinement `cp-awareness-control`. Rule paraphrased accurately. -->
