@@ -1,14 +1,14 @@
 **Q1.** Assume Deacon is charged with first-degree murder for Vance's death in a jurisdiction following the Pennsylvania "no-time-too-short" rule. Is the premeditation element satisfied?
 
-(a) No, because the Model Penal Code rejects the premeditation framework for homicide offenses entirely.
+(a) No, because the lethal response was the immediate offspring of a rash and impetuous temper.
 (b) Yes, because retrieving the poison vial inherently demonstrates prolonged and careful advance planning.
-(c) Yes, because a conscious decision to kill can be formed in the brief instant before striking. <!-- correct -->
-(d) No, because the rapid sequence of events precluded any meaningful reflection on his actions.
-(e) No, because the lethal response was the immediate offspring of a rash and impetuous temper.
+(c) No, because the Model Penal Code rejects the premeditation framework for homicide offenses entirely.
+(d) Yes, because a conscious decision to kill can be formed in the brief instant before striking. <!-- correct -->
+(e) No, because the rapid sequence of events precluded any meaningful reflection on his actions.
 
-**Answer:** (c)
+**Answer:** (d)
 
-**Explanation:** Under the Pennsylvania rule (as seen in *Commonwealth v. Carroll*), premeditation requires no minimum length of time; any conscious decision to kill, no matter how brief, satisfies the element. Option (b) is wrong because the PA rule explicitly eliminates the need for "prolonged" planning. Option (e) wrongly applies the original qualification from *Drum* that the PA Supreme Court subsequently dropped in *Carroll*. Option (a) correctly states the MPC rule, but the stem explicitly specifies a PA-rule jurisdiction. Option (d) is the defense argument or dissent view, but it fails under the PA standard where an instant suffices.
+**Explanation:** Under the Pennsylvania rule (as seen in *Commonwealth v. Carroll*), premeditation requires no minimum length of time; any conscious decision to kill, no matter how brief, satisfies the element. Option (b) is wrong because the PA rule explicitly eliminates the need for "prolonged" planning. Option (a) wrongly applies the original qualification from *Drum* that the PA Supreme Court subsequently dropped in *Carroll*. Option (c) correctly states the MPC rule, but the stem explicitly specifies a PA-rule jurisdiction. Option (e) is the defense argument or dissent view, but it fails under the PA standard where an instant suffices.
 
 **Tags:** chapters: [12], topics: [intentional homicide, premeditation, Pennsylvania rule], difficulty: easy, cognitive: application
 
@@ -19,14 +19,14 @@
 **Q2.** Assume that, regardless of premeditation, Deacon seeks a voluntary manslaughter instruction under the traditional common law categories of adequate provocation. Based on the diner encounter, will the court likely grant the instruction?
 
 (a) Not mitigated to manslaughter, because an objectively unreasonable amount of time elapsed between the provocation and the retaliation.
-(b) Not mitigated to manslaughter, because insulting gestures and opprobrious words alone can never constitute legally adequate provocation.
-(c) Not mitigated to manslaughter, because his immediate retrieval of the poison demonstrates prior malice rather than a sudden heat of passion.
-(d) Mitigated to manslaughter, because Vance spitting directly in his face qualifies under the traditional assault and battery category. <!-- correct -->
-(e) Mitigated to manslaughter, because the combination of a physical insult and opprobrious words satisfies the extreme emotional disturbance test.
+(b) Not mitigated to manslaughter, because his immediate retrieval of the poison demonstrates prior malice rather than a sudden heat of passion.
+(c) Mitigated to manslaughter, because Vance spitting directly in his face qualifies under the traditional assault and battery category. <!-- correct -->
+(d) Mitigated to manslaughter, because the combination of a physical insult and opprobrious words satisfies the extreme emotional disturbance test.
+(e) Not mitigated to manslaughter, because insulting gestures and opprobrious words alone can never constitute legally adequate provocation.
 
-**Answer:** (d)
+**Answer:** (c)
 
-**Explanation:** Under the traditional common law, adequate provocation is limited to narrow historical categories, one of which is assault and battery. Being spat directly in the face (Fact 2) constitutes an offensive touching (battery), satisfying the categorical requirement. Option (e) incorrectly applies the MPC's "extreme emotional disturbance" standard instead of the requested common law standard. Option (b) relies on the correct rule from *Girouard* (words alone are inadequate), but misapplies it to these facts, as Vance did not merely use words; he spat in Deacon's face. Option (a) is factually incorrect because Deacon retaliated "immediately" (Fact 3), leaving no cooling time. Option (c) is doctrinally incorrect because immediate retaliation is precisely what heat of passion mitigates.
+**Explanation:** Under the traditional common law, adequate provocation is limited to narrow historical categories, one of which is assault and battery. Being spat directly in the face (Fact 2) constitutes an offensive touching (battery), satisfying the categorical requirement. Option (d) incorrectly applies the MPC's "extreme emotional disturbance" standard instead of the requested common law standard. Option (e) relies on the correct rule from *Girouard* (words alone are inadequate), but misapplies it to these facts, as Vance did not merely use words; he spat in Deacon's face. Option (a) is factually incorrect because Deacon retaliated "immediately" (Fact 3), leaving no cooling time. Option (b) is doctrinally incorrect because immediate retaliation is precisely what heat of passion mitigates.
 
 **Tags:** chapters: [12], topics: [voluntary manslaughter, adequate provocation, common law], difficulty: medium, cognitive: application
 
@@ -36,15 +36,15 @@
 
 **Q3.** Assume Deacon is charged with depraved heart murder in Maryland for Chloe's fatal overdose. Under the *Beckwitt* standard for determining the threshold of extreme indifference, what must the prosecution prove regarding Deacon's mental state and conduct?
 
-(a) That his decision to double the drug concentration was a gross deviation from the standard of care a reasonable person would observe.
-(b) That his decision to double the drug concentration demonstrated a conscious disregard of a substantial and unjustifiable risk.
-(c) That his decision to double the drug concentration constituted an underlying felony that was inherently dangerous in the abstract.
-(d) That his decision to double the drug concentration was made with the specific intent to cause Chloe's death for street reputation.
-(e) That his decision to double the drug concentration was reasonably likely, if not certain, to cause a fatal overdose. <!-- correct -->
+(a) That his decision to double the drug concentration demonstrated a conscious disregard of a substantial and unjustifiable risk.
+(b) That his decision to double the drug concentration was reasonably likely, if not certain, to cause a fatal overdose. <!-- correct -->
+(c) That his decision to double the drug concentration was made with the specific intent to cause Chloe's death for street reputation.
+(d) That his decision to double the drug concentration was a gross deviation from the standard of care a reasonable person would observe.
+(e) That his decision to double the drug concentration constituted an underlying felony that was inherently dangerous in the abstract.
 
-**Answer:** (e)
+**Answer:** (b)
 
-**Explanation:** The *Beckwitt* standard clarifies the line between manslaughter and depraved heart murder in Maryland, requiring that the defendant's conduct be "reasonably likely, if not certain, to cause death." Option (e) applies this exact standard. Option (b) defines standard recklessness (the floor for involuntary manslaughter), which *Beckwitt* holds is insufficient for depraved heart murder. Option (d) describes the *mens rea* for first-degree intentional murder, which is not required for depraved heart murder. Option (a) defines gross negligence (the standard for involuntary manslaughter in non-MPC states). Option (c) states the abstract-elements test for felony murder, not the extreme indifference standard.
+**Explanation:** The *Beckwitt* standard clarifies the line between manslaughter and depraved heart murder in Maryland, requiring that the defendant's conduct be "reasonably likely, if not certain, to cause death." Option (b) applies this exact standard. Option (a) defines standard recklessness (the floor for involuntary manslaughter), which *Beckwitt* holds is insufficient for depraved heart murder. Option (c) describes the *mens rea* for first-degree intentional murder, which is not required for depraved heart murder. Option (d) defines gross negligence (the standard for involuntary manslaughter in non-MPC states). Option (e) states the abstract-elements test for felony murder, not the extreme indifference standard.
 
 **Tags:** chapters: [13], topics: [depraved heart murder, extreme indifference, Beckwitt], difficulty: medium, cognitive: recall
 
@@ -54,15 +54,15 @@
 
 **Q4.** Assume Sloane is charged with manslaughter under the Model Penal Code for Chloe's death. How does Sloane's statement to Deacon affect her liability?
 
-(a) Not guilty of manslaughter, because the Model Penal Code requires that the defendant act purposely or knowingly to be convicted.
-(b) Not guilty of manslaughter, because Deacon's subsequent order to distribute the drugs was an independent intervening cause of the death.
-(c) Not guilty of manslaughter, because her actions as a subordinate employee legally shield her from liability for the ultimate distribution.
-(d) Guilty of manslaughter, because she failed to exercise the ordinary caution that a reasonable chemist would observe in formulating drugs.
-(e) Guilty of manslaughter, because her explicit warning proves she consciously disregarded a substantial and unjustifiable risk of death. <!-- correct -->
+(a) Guilty of manslaughter, because she failed to exercise the ordinary caution that a reasonable chemist would observe in formulating drugs.
+(b) Guilty of manslaughter, because her explicit warning proves she consciously disregarded a substantial and unjustifiable risk of death. <!-- correct -->
+(c) Not guilty of manslaughter, because Deacon's subsequent order to distribute the drugs was an independent intervening cause of the death.
+(d) Not guilty of manslaughter, because the Model Penal Code requires that the defendant act purposely or knowingly to be convicted.
+(e) Not guilty of manslaughter, because her actions as a subordinate employee legally shield her from liability for the ultimate distribution.
 
-**Answer:** (e)
+**Answer:** (b)
 
-**Explanation:** Under the MPC, manslaughter requires recklessness, defined as a conscious disregard of a substantial and unjustifiable risk. Sloane's statement ("highly likely to cause fatal overdoses") is direct evidence of her subjective awareness of the exact risk she chose to disregard by subsequently packaging the drugs. Option (d) incorrectly applies an ordinary negligence standard, which the MPC rejects for criminal liability. Option (b) is incorrect because Deacon's order is concurrent, not an independent intervening cause that breaks the chain of her liability. Option (a) is wrong because MPC manslaughter only requires recklessness, not purpose or knowledge. Option (c) invents a "subordinate employee" shield that does not exist in homicide doctrine.
+**Explanation:** Under the MPC, manslaughter requires recklessness, defined as a conscious disregard of a substantial and unjustifiable risk. Sloane's statement ("highly likely to cause fatal overdoses") is direct evidence of her subjective awareness of the exact risk she chose to disregard by subsequently packaging the drugs. Option (a) incorrectly applies an ordinary negligence standard, which the MPC rejects for criminal liability. Option (c) is incorrect because Deacon's order is concurrent, not an independent intervening cause that breaks the chain of her liability. Option (d) is wrong because MPC manslaughter only requires recklessness, not purpose or knowledge. Option (e) invents a "subordinate employee" shield that does not exist in homicide doctrine.
 
 **Tags:** chapters: [13], topics: [involuntary manslaughter, MPC recklessness, subjective awareness], difficulty: easy, cognitive: application
 
@@ -72,15 +72,15 @@
 
 **Q5.** Assume Trey is charged with felony murder for Omar's death, using "Felony Evasion" as the predicate. The jurisdiction applies California's abstract-elements test to determine if a felony is inherently dangerous. Based strictly on the statutory definition provided in the facts, does the predicate qualify?
 
-(a) It does not qualify as a predicate, because the prosecution cannot prove Trey possessed the specific intent to kill the pedestrian.
-(b) It does not qualify as a predicate, because the crime of evasion merges with the homicide under the independent-purpose doctrine limit.
-(c) It does not qualify as a predicate, because the evasion statute can theoretically be violated safely by fleeing at very low speeds. <!-- correct -->
-(d) It qualifies as a predicate, because vehicular flight from the police inherently carries a high probability of a fatal crash in all cases.
-(e) It qualifies as a predicate, because Trey actually drove 80 mph through a residential area, which is highly dangerous to human life.
+(a) It does not qualify as a predicate, because the crime of evasion merges with the homicide under the independent-purpose doctrine limit.
+(b) It qualifies as a predicate, because Trey actually drove 80 mph through a residential area, which is highly dangerous to human life.
+(c) It qualifies as a predicate, because vehicular flight from the police inherently carries a high probability of a fatal crash in all cases.
+(d) It does not qualify as a predicate, because the prosecution cannot prove Trey possessed the specific intent to kill the pedestrian.
+(e) It does not qualify as a predicate, because the evasion statute can theoretically be violated safely by fleeing at very low speeds. <!-- correct -->
 
-**Answer:** (c)
+**Answer:** (e)
 
-**Explanation:** Under California's abstract-elements test, a court looks strictly at the elements of the statute, not the defendant's actual conduct. If the felony can theoretically be committed in a way that does not endanger human life (e.g., fleeing a police vehicle slowly in an empty field), it is not "inherently dangerous" and cannot serve as a predicate. Option (e) incorrectly applies the "facts-as-committed" test used in other jurisdictions. Option (d) makes an inaccurate categorical claim that ignores the requirement that the crime be dangerous in the abstract in all possible applications. Option (b) is wrong because evasion has an independent felonious purpose (escape) and thus does not merge. Option (a) is wrong because felony murder substitutes the felony's mens rea for the homicide's mens rea.
+**Explanation:** Under California's abstract-elements test, a court looks strictly at the elements of the statute, not the defendant's actual conduct. If the felony can theoretically be committed in a way that does not endanger human life (e.g., fleeing a police vehicle slowly in an empty field), it is not "inherently dangerous" and cannot serve as a predicate. Option (b) incorrectly applies the "facts-as-committed" test used in other jurisdictions. Option (c) makes an inaccurate categorical claim that ignores the requirement that the crime be dangerous in the abstract in all possible applications. Option (a) is wrong because evasion has an independent felonious purpose (escape) and thus does not merge. Option (d) is wrong because felony murder substitutes the felony's mens rea for the homicide's mens rea.
 
 **Tags:** chapters: [14], topics: [felony murder, inherently dangerous, abstract-elements test], difficulty: hard, cognitive: application
 
@@ -90,15 +90,15 @@
 
 **Q6.** Assume Deacon is charged with felony murder for Omar's death under an accomplice theory. The jurisdiction strictly follows the *Tison* standard for accomplice felony murder (as adapted for state non-capital cases like California's SB 1437). Is Deacon guilty of Omar's murder?
 
-(a) Not guilty, because he was absent from the scene and his peripheral involvement lacked a reckless indifference to human life. <!-- correct -->
-(b) Not guilty, because the agency theory of felony murder completely shields any accomplices who are not physically present at the scene.
-(c) Not guilty, because the *Tison* standard requires the defendant to personally inflict the fatal injury to support a murder conviction.
-(d) Guilty, because Omar's death was a reasonably foreseeable consequence of the planned storage unit burglary and vehicular escape.
+(a) Not guilty, because the agency theory of felony murder completely shields any accomplices who are not physically present at the scene.
+(b) Not guilty, because he was absent from the scene and his peripheral involvement lacked a reckless indifference to human life. <!-- correct -->
+(c) Guilty, because Omar's death was a reasonably foreseeable consequence of the planned storage unit burglary and vehicular escape.
+(d) Not guilty, because the *Tison* standard requires the defendant to personally inflict the fatal injury to support a murder conviction.
 (e) Guilty, because providing the crowbar for the planned burglary makes him a principal in the underlying predicate felony offense.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Under the *Tison* standard (and reforms like California's SB 1437), an accomplice who is not the actual killer must be a "major participant" in the underlying felony and act with "reckless indifference to human life." Deacon provided a crowbar but no weapons and stayed home (Fact 7); under cases like *Brown* and *Emanuel*, this peripheral involvement without lethal weapons falls short of the reckless indifference and major participant requirements. Option (e) ignores the specific *Tison* limitations that now restrict liability for mere principals. Option (d) states the standard proximate-cause test, not the *Tison* test. Option (b) misstates agency theory, which applies when a non-felon (like a police officer) kills, not when a co-felon kills. Option (c) incorrectly claims *Tison* abolishes accomplice liability entirely, which it does not.
+**Explanation:** Under the *Tison* standard (and reforms like California's SB 1437), an accomplice who is not the actual killer must be a "major participant" in the underlying felony and act with "reckless indifference to human life." Deacon provided a crowbar but no weapons and stayed home (Fact 7); under cases like *Brown* and *Emanuel*, this peripheral involvement without lethal weapons falls short of the reckless indifference and major participant requirements. Option (e) ignores the specific *Tison* limitations that now restrict liability for mere principals. Option (c) states the standard proximate-cause test, not the *Tison* test. Option (a) misstates agency theory, which applies when a non-felon (like a police officer) kills, not when a co-felon kills. Option (d) incorrectly claims *Tison* abolishes accomplice liability entirely, which it does not.
 
 **Tags:** chapters: [14], topics: [felony murder, accomplice liability, Tison, major participant], difficulty: hard, cognitive: application
 
@@ -106,17 +106,17 @@
 
 ---
 
-**Q7.** Assume Trey is charged with misdemeanor manslaughter based specifically on driving with a suspended license when he struck Omar. The jurisdiction applies the proximate-cause limitation. Is Trey guilty under this specific theory?
+**Q7.** Under the common law, assume Trey is charged with misdemeanor manslaughter based specifically on driving with a suspended license when he struck Omar. The jurisdiction applies the proximate-cause limitation. Is Trey guilty under this specific theory?
 
 (a) Not guilty, because the specific unlawful aspect of lacking a valid license did not causally produce the fatal vehicular collision. <!-- correct -->
-(b) Guilty, because the lack of a valid driver's license constructively supplies the necessary malice to establish criminal homicide.
-(c) Not guilty, because the Model Penal Code rejects the misdemeanor manslaughter doctrine entirely in favor of proving actual recklessness.
-(d) Not guilty, because driving with a suspended license is merely a malum prohibitum regulatory offense rather than a malum in se crime.
-(e) Guilty, because striking Omar occurred continuously during the exact same timeframe that Trey was unlawfully driving without his license.
+(b) Guilty, because striking Omar occurred continuously during the exact same timeframe that Trey was unlawfully driving without his license.
+(c) Guilty, because the lack of a valid driver's license constructively supplies the necessary malice to establish criminal homicide.
+(d) Not guilty, because the Model Penal Code rejects the misdemeanor manslaughter doctrine entirely in favor of proving actual recklessness.
+(e) Not guilty, because driving with a suspended license is merely a malum prohibitum regulatory offense rather than a malum in se crime.
 
 **Answer:** (a)
 
-**Explanation:** The proximate-cause limitation to misdemeanor manslaughter requires that the specific *unlawful aspect* of the conduct be causally connected to the death. Lacking a valid piece of plastic (the license suspension) does not inherently cause a crash; the dangerous manner of driving (80 mph) causes the crash, but the predicate asked about was strictly the suspended license. Option (b) incorrectly states the strict liability structure without applying the proximate-cause limitation requested by the stem. Option (e) applies a mere "but for" or temporal coincidence test, which the proximate-cause limitation explicitly rejects. Option (d) relies on the malum in se limitation, which is a different doctrine than proximate cause. Option (c) correctly states the MPC rule, but the stem specifies a jurisdiction utilizing the traditional rule's proximate-cause limit.
+**Explanation:** The proximate-cause limitation to misdemeanor manslaughter requires that the specific *unlawful aspect* of the conduct be causally connected to the death. Lacking a valid piece of plastic (the license suspension) does not inherently cause a crash; the dangerous manner of driving (80 mph) causes the crash, but the predicate asked about was strictly the suspended license. Option (c) incorrectly states the strict liability structure without applying the proximate-cause limitation requested by the stem. Option (b) applies a mere "but for" or temporal coincidence test, which the proximate-cause limitation explicitly rejects. Option (e) relies on the malum in se limitation, which is a different doctrine than proximate cause. Option (d) correctly states the MPC rule, but the stem specifies a jurisdiction utilizing the traditional rule's proximate-cause limit.
 
 **Tags:** chapters: [14], topics: [misdemeanor manslaughter, proximate cause], difficulty: medium, cognitive: application
 
@@ -130,15 +130,15 @@
 
 **Q8.** Assume Sloane is charged with conspiracy to distribute fentanyl. Assume she establishes she viewed herself as merely a chemist providing a neutral service. Under the *Lauria* standard for inferring purpose, does her compensation structure establish the requisite intent?
 
-(a) No, because chemical formulation is considered a legally neutral service that cannot support an inference of specific criminal purpose.
-(b) No, because receiving a percentage of overall profits is legally indistinguishable from charging a flat, standardized fee for her labor.
-(c) Yes, because taking a 20% cut of the profits inherently demonstrates a direct financial stake in the illicit venture's ongoing success. <!-- correct -->
-(d) No, because she merely worked in the laboratory and did not directly sell the packaged fentanyl to Chloe or any other street buyers.
-(e) Yes, because any individual who supplies materials for illegal goods is held strictly liable for the network's subsequent distribution.
+(a) Yes, because any individual who supplies materials for illegal goods is held strictly liable for the network's subsequent distribution.
+(b) No, because she merely worked in the laboratory and did not directly sell the packaged fentanyl to Chloe or any other street buyers.
+(c) No, because receiving a percentage of overall profits is legally indistinguishable from charging a flat, standardized fee for her labor.
+(d) No, because chemical formulation is considered a legally neutral service that cannot support an inference of specific criminal purpose.
+(e) Yes, because taking a 20% cut of the profits inherently demonstrates a direct financial stake in the illicit venture's ongoing success. <!-- correct -->
 
-**Answer:** (c)
+**Answer:** (e)
 
-**Explanation:** In *People v. Lauria*, the court held that a provider of goods or services can be inferred to have the required purpose to participate in a conspiracy if they have a "stake in the venture." Receiving a percentage of profits (Fact 11) is the classic example of a stake in the venture, as the provider's financial reward is tied directly to the success of the illegal enterprise. Option (e) is incorrect because conspiracy requires specific intent (purpose), not strict liability. Option (d) is incorrect because conspiracy liability does not require the defendant to personally execute the target offense. Option (b) is factually and legally incorrect; *Lauria* explicitly distinguishes between flat fees and percentage cuts. Option (a) is incorrect because *Lauria* permits the inference of purpose even for neutral services if the "stake in the venture" test is met.
+**Explanation:** In *People v. Lauria*, the court held that a provider of goods or services can be inferred to have the required purpose to participate in a conspiracy if they have a "stake in the venture." Receiving a percentage of profits (Fact 11) is the classic example of a stake in the venture, as the provider's financial reward is tied directly to the success of the illegal enterprise. Option (a) is incorrect because conspiracy requires specific intent (purpose), not strict liability. Option (b) is incorrect because conspiracy liability does not require the defendant to personally execute the target offense. Option (c) is factually and legally incorrect; *Lauria* explicitly distinguishes between flat fees and percentage cuts. Option (d) is incorrect because *Lauria* permits the inference of purpose even for neutral services if the "stake in the venture" test is met.
 
 **Tags:** chapters: [19], topics: [conspiracy, mens rea, Lauria, stake in venture], difficulty: easy, cognitive: application
 
@@ -148,15 +148,15 @@
 
 **Q9.** Assume the jurisdiction has explicitly rejected the *Pinkerton* doctrine and relies exclusively on traditional accomplice liability. Is Sloane guilty as an accomplice to manslaughter for Chloe's death?
 
-(a) Guilty, because she intentionally aided the drug distribution while possessing the required recklessness regarding the fatal overdose risk. <!-- correct -->
-(b) Not guilty, because the jurisdiction requires that an accomplice be physically present at the scene when the target offense is completed.
-(c) Guilty, because any foreseeable crime committed by a fellow network member automatically establishes standard accomplice liability.
-(d) Not guilty, because the prosecution must prove she acted with the specific intent to cause Chloe's death to secure an accomplice conviction.
-(e) Not guilty, because without the *Pinkerton* doctrine, a defendant is categorically immune from crimes committed by other network members.
+(a) Guilty, because any foreseeable crime committed by a fellow network member automatically establishes standard accomplice liability.
+(b) Not guilty, because the prosecution must prove she acted with the specific intent to cause Chloe's death to secure an accomplice conviction.
+(c) Guilty, because she intentionally aided the drug distribution while possessing the required recklessness regarding the fatal overdose risk. <!-- correct -->
+(d) Not guilty, because without the *Pinkerton* doctrine, a defendant is categorically immune from crimes committed by other network members.
+(e) Not guilty, because the jurisdiction requires that an accomplice be physically present at the scene when the target offense is completed.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** Traditional accomplice liability requires the defendant to possess the mens rea for the underlying conduct (purpose to aid the distribution) and the mens rea for the resulting crime (recklessness as to the manslaughter). Sloane possessed both when she intentionally formulated and packaged the drugs while subjectively aware of the severe overdose risk (Fact 5). Option (c) incorrectly conflates standard accomplice liability with the *Pinkerton* foreseeability rule. Option (e) is false because standard accomplice liability remains a fully viable path for holding defendants liable for others' acts. Option (d) is incorrect because one can be an accomplice to unintentional homicide by possessing the requisite recklessness; specific intent to kill is not required. Option (b) is false; physical presence is not an element of accomplice liability.
+**Explanation:** Traditional accomplice liability requires the defendant to possess the mens rea for the underlying conduct (purpose to aid the distribution) and the mens rea for the resulting crime (recklessness as to the manslaughter). Sloane possessed both when she intentionally formulated and packaged the drugs while subjectively aware of the severe overdose risk (Fact 5). Option (a) incorrectly conflates standard accomplice liability with the *Pinkerton* foreseeability rule. Option (d) is false because standard accomplice liability remains a fully viable path for holding defendants liable for others' acts. Option (b) is incorrect because one can be an accomplice to unintentional homicide by possessing the requisite recklessness; specific intent to kill is not required. Option (e) is false; physical presence is not an element of accomplice liability.
 
 **Tags:** chapters: [18, 19], topics: [accomplice liability, mens rea, Pinkerton comparison], difficulty: medium, cognitive: analysis
 
@@ -166,15 +166,15 @@
 
 **Q10.** Assume the jurisdiction robustly applies the *Pinkerton* doctrine. The prosecution charges Sloane with the murder of Vance. Is she liable under the doctrine?
 
-(a) Guilty, because killing a business rival automatically advances any drug distribution conspiracy as an absolute matter of law.
-(b) Guilty, because the *Pinkerton* doctrine imposes absolute strict liability for any criminal offense committed by a fellow co-conspirator.
-(c) Not guilty, because Sloane's strictly defined role as a chemist legally insulates her from violent crimes committed by the organization.
-(d) Not guilty, because the spontaneous poisoning over a personal insult was fundamentally outside the scope of the distribution conspiracy. <!-- correct -->
-(e) Not guilty, because the jurisdiction's application of the *Pinkerton* doctrine requires Sloane to have been physically present at the diner.
+(a) Not guilty, because the jurisdiction's application of the *Pinkerton* doctrine requires Sloane to have been physically present at the diner.
+(b) Not guilty, because Sloane's strictly defined role as a chemist legally insulates her from violent crimes committed by the organization.
+(c) Not guilty, because the spontaneous poisoning over a personal insult was fundamentally outside the scope of the distribution conspiracy. <!-- correct -->
+(d) Guilty, because killing a business rival automatically advances any drug distribution conspiracy as an absolute matter of law.
+(e) Guilty, because the *Pinkerton* doctrine imposes absolute strict liability for any criminal offense committed by a fellow co-conspirator.
 
-**Answer:** (d)
+**Answer:** (c)
 
-**Explanation:** The *Pinkerton* doctrine holds co-conspirators liable for substantive offenses committed by partners only if those offenses are both reasonably foreseeable AND committed in furtherance of (within the scope of) the conspiracy. Deacon's poisoning of Vance was an immediate, spontaneous reaction to being spat on in a diner (Facts 2 and 3). Such a spontaneous personal retaliation is outside the scope of the agreement to distribute fentanyl. Option (a) treats scope as an irrebuttable legal absolute, which is false; the facts matter. Option (b) ignores the scope and foreseeability limits entirely. Option (e) erroneously adds a physical presence requirement to *Pinkerton*. Option (c) is incorrect because a defendant's specific role does not shield them if the act is otherwise within the conspiracy's scope.
+**Explanation:** The *Pinkerton* doctrine holds co-conspirators liable for substantive offenses committed by partners only if those offenses are both reasonably foreseeable AND committed in furtherance of (within the scope of) the conspiracy. Deacon's poisoning of Vance was an immediate, spontaneous reaction to being spat on in a diner (Facts 2 and 3). Such a spontaneous personal retaliation is outside the scope of the agreement to distribute fentanyl. Option (d) treats scope as an irrebuttable legal absolute, which is false; the facts matter. Option (e) ignores the scope and foreseeability limits entirely. Option (a) erroneously adds a physical presence requirement to *Pinkerton*. Option (b) is incorrect because a defendant's specific role does not shield them if the act is otherwise within the conspiracy's scope.
 
 **Tags:** chapters: [19], topics: [conspiracy, Pinkerton, scope of conspiracy], difficulty: hard, cognitive: analysis
 
@@ -184,15 +184,15 @@
 
 **Q11.** Assume Trey is charged with possession of the 50 baggies of fentanyl found in the van's center console. Assume the jury believes Trey's statement that he only drove the van and was genuinely unaware the baggies were inside. Is he guilty of constructive possession?
 
-(a) Not guilty, because a defendant can only legally possess narcotic substances if they personally purchased them using their own financial funds.
-(b) Not guilty, because constructive possession requires the prosecution to prove both the power to control the item and awareness of its presence. <!-- correct -->
-(c) Not guilty, because the drugs were located in the vehicle's center console rather than physically secured inside the defendant's own pockets.
+(a) Not guilty, because constructive possession requires the prosecution to prove both the power to control the item and awareness of its presence. <!-- correct -->
+(b) Not guilty, because the drugs were located in the vehicle's center console rather than physically secured inside the defendant's own pockets.
+(c) Guilty, because driving the van toward the storage unit constitutes a substantial step toward the intended distribution of the fentanyl.
 (d) Guilty, because his physical operation of the van creates an absolute legal presumption of possession regarding the console's contents.
-(e) Guilty, because driving the van toward the storage unit constitutes a substantial step toward the intended distribution of the fentanyl.
+(e) Not guilty, because a defendant can only legally possess narcotic substances if they personally purchased them using their own financial funds.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** Constructive possession requires proof that the defendant had both the power/intent to control the contraband AND awareness of its presence. If Trey genuinely did not know the drugs were in the console (Fact 10), he lacked the requisite awareness, defeating the charge. Option (d) is incorrect because there is no irrebuttable absolute presumption; the prosecution must prove awareness. Option (e) analyzes attempt liability (substantial step), not the elements of possession. Option (c) incorrectly implies that actual physical possession is required, whereas constructive possession specifically exists to cover items in one's domain of control (like a console). Option (a) incorrectly ties possession to ownership or financial purchase, which is not required.
+**Explanation:** Constructive possession requires proof that the defendant had both the power/intent to control the contraband AND awareness of its presence. If Trey genuinely did not know the drugs were in the console (Fact 10), he lacked the requisite awareness, defeating the charge. Option (d) is incorrect because there is no irrebuttable absolute presumption; the prosecution must prove awareness. Option (c) analyzes attempt liability (substantial step), not the elements of possession. Option (b) incorrectly implies that actual physical possession is required, whereas constructive possession specifically exists to cover items in one's domain of control (like a console). Option (e) incorrectly ties possession to ownership or financial purchase, which is not required.
 
 **Tags:** chapters: [15], topics: [constructive possession, awareness, control], difficulty: easy, cognitive: application
 
@@ -202,15 +202,15 @@
 
 **Q12.** Assume Trey is charged with attempted burglary of Vance's storage unit. He walked toward the fence in a ski mask with a crowbar but was stopped by security before reaching it. How would his liability differ between a traditional common law jurisdiction and a Model Penal Code jurisdiction?
 
-(a) Guilty under both frameworks, because wearing a ski mask decisively proves his specific intent to commit the underlying burglary offense.
-(b) Not guilty under common law proximity tests, but guilty under the MPC because walking toward the fence in a mask was a substantial step. <!-- correct -->
-(c) Not guilty under both frameworks, because he was apprehended before he could successfully pry open the door of the commercial storage unit.
-(d) Guilty under common law proximity tests, but not guilty under the MPC because he lacked a substantial step toward the crime's commission.
-(e) Not guilty under common law proximity tests, but guilty under the MPC because the MPC is designed to punish mere preparatory thoughts.
+(a) Not guilty under both frameworks, because he was apprehended before he could successfully pry open the door of the commercial storage unit.
+(b) Guilty under common law proximity tests, but not guilty under the MPC because he lacked a substantial step toward the crime's commission.
+(c) Not guilty under common law proximity tests, but guilty under the MPC because the MPC is designed to punish mere preparatory thoughts.
+(d) Not guilty under common law proximity tests, but guilty under the MPC because walking toward the fence in a mask was a substantial step. <!-- correct -->
+(e) Guilty under both frameworks, because wearing a ski mask decisively proves his specific intent to commit the underlying burglary offense.
 
-**Answer:** (b)
+**Answer:** (d)
 
-**Explanation:** The common law requires the defendant to be dangerously close to completing the crime (the proximity tests). Trey was parked down the block and hadn't even reached the outer perimeter fence, which likely fails the strict physical proximity requirements. The MPC, however, shifts the focus from what remains to be done to what has already been done, requiring only a "substantial step" that strongly corroborates criminal purpose. Approaching a target with a mask and crowbar easily satisfies the MPC. Option (a) analyzes mens rea but ignores the actus reus requirement. Option (c) ignores attempt liability entirely by demanding actual completion. Option (d) reverses the outcomes of the two standards. Option (e) misstates the MPC rule, which still requires an act (a substantial step) and explicitly does not punish mere preparation.
+**Explanation:** The common law requires the defendant to be dangerously close to completing the crime (the proximity tests). Trey was parked down the block and hadn't even reached the outer perimeter fence, which likely fails the strict physical proximity requirements. The MPC, however, shifts the focus from what remains to be done to what has already been done, requiring only a "substantial step" that strongly corroborates criminal purpose. Approaching a target with a mask and crowbar easily satisfies the MPC. Option (e) analyzes mens rea but ignores the actus reus requirement. Option (a) ignores attempt liability entirely by demanding actual completion. Option (b) reverses the outcomes of the two standards. Option (c) misstates the MPC rule, which still requires an act (a substantial step) and explicitly does not punish mere preparation.
 
 **Tags:** chapters: [17], topics: [attempt, actus reus, common law proximity, MPC substantial step], difficulty: medium, cognitive: application
 
@@ -220,15 +220,15 @@
 
 **Q13.** Assume federal prosecutors charge Deacon's network under RICO. They must prove the network constitutes an "enterprise" under the *Boyle* requirements. Does the network qualify?
 
-(a) It does not qualify as an enterprise, because federal law requires a legally incorporated business entity or legitimate commercial front.
-(b) It qualifies as an enterprise, because the network had a defined operational hierarchy, distinct individual roles, and continuous operations. <!-- correct -->
-(c) It does not qualify as an enterprise, because the network's exclusive organizational purpose was illegal drug distribution rather than lawful acts.
-(d) It qualifies as an enterprise, because any group of two or more individuals committing a single isolated crime satisfies the structural element.
-(e) It does not qualify as an enterprise, because establishing liability requires a rimmed wheel structure where every member knows the others.
+(a) It qualifies as an enterprise, because the network had a defined operational hierarchy, distinct individual roles, and continuous operations. <!-- correct -->
+(b) It does not qualify as an enterprise, because the network's exclusive organizational purpose was illegal drug distribution rather than lawful acts.
+(c) It does not qualify as an enterprise, because federal law requires a legally incorporated business entity or legitimate commercial front.
+(d) It does not qualify as an enterprise, because establishing liability requires a rimmed wheel structure where every member knows the others.
+(e) It qualifies as an enterprise, because any group of two or more individuals committing a single isolated crime satisfies the structural element.
 
-**Answer:** (b)
+**Answer:** (a)
 
-**Explanation:** In *Boyle v. United States*, the Supreme Court held that an association-in-fact enterprise must have a structure with at least three features: a purpose, relationships among those associated with the enterprise, and longevity sufficient to permit these associates to pursue the enterprise's purpose. Deacon's network (Fact 1), with its defined hierarchy, distinct roles, and two years of operations, easily meets these structural requirements. Option (d) is incorrect because *Boyle* explicitly requires structure and continuity beyond a single isolated crime. Options (a) and (c) are incorrect because *United States v. Turkette* established that wholly illegitimate criminal organizations can be RICO enterprises. Option (e) conflates the structural requirements of a RICO enterprise with the specific "rimmed wheel" analysis of traditional conspiracy doctrine.
+**Explanation:** In *Boyle v. United States*, the Supreme Court held that an association-in-fact enterprise must have a structure with at least three features: a purpose, relationships among those associated with the enterprise, and longevity sufficient to permit these associates to pursue the enterprise's purpose. Deacon's network (Fact 1), with its defined hierarchy, distinct roles, and two years of operations, easily meets these structural requirements. Option (e) is incorrect because *Boyle* explicitly requires structure and continuity beyond a single isolated crime. Options (c) and (b) are incorrect because *United States v. Turkette* established that wholly illegitimate criminal organizations can be RICO enterprises. Option (d) conflates the structural requirements of a RICO enterprise with the specific "rimmed wheel" analysis of traditional conspiracy doctrine.
 
 **Tags:** chapters: [20], topics: [RICO, enterprise, Boyle requirements], difficulty: medium, cognitive: application
 

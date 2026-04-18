@@ -1,4 +1,4 @@
-**Q7.** Is Dante guilty of felony murder for the death of Vargas?
+**Q7.** Under the traditional common law, is Dante guilty of felony murder for the death of Vargas?
 
 (a) Guilty, because the homicide occurred during the perpetration of an inherently dangerous drug manufacturing felony in which Dante was a willing participant. <!-- correct -->
 (b) Guilty, because the modern felony murder rule operates as a strict liability offense that explicitly ignores whether the underlying crime was inherently dangerous.

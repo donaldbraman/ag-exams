@@ -1,4 +1,4 @@
-**Q8.** Have Leo, Artie, Silas, and Dante legally satisfied the prima facie elements of criminal conspiracy?
+**Q8.** In a majority jurisdiction, have Leo, Artie, Silas, and Dante legally satisfied the prima facie elements of criminal conspiracy?
 
 (a) Yes, because they formed a mutual agreement to commit a crime and the pooling of money and warehouse rental constituted overt acts in furtherance. <!-- correct -->
 (b) Yes, because the agreement to manufacture Schedule II narcotics is a strict liability conspiracy that does not require any overt act to be prosecutable.

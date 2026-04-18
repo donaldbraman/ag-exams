@@ -4,7 +4,7 @@ The QA pipeline flagged this question. Rewrite `q07.md` addressing each numbered
 
 ## Issue 1 — grounding
 
-**Q7.** Assume the jurisdiction explicitly enumerates illicit drug manufacturing as a predicate offense for felony murder. Is Dante guilty of felony murder for the death of Vargas?
+**Q7.** Assume the jurisdiction explicitly enumerates illicit drug manufacturing as a predicate offense for felony murder. Under the traditional common law, is Dante guilty of felony murder for the death of Vargas?
 
 (a) Guilty, because Vargas's death occurred during the ongoing commission of the manufacturing felony and Silas fired the shots strictly to protect the illicit operation. <!-- correct -->
 (b) Guilty, because Silas's recognized status as a formal co-conspirator automatically satisfies the malice aforethought element required for all degrees of criminal homicide charges.
@@ -24,7 +24,7 @@ The QA pipeline flagged this question. Rewrite `q07.md` addressing each numbered
 
 ## Issue 2 — audit
 
-**Q7.** Assume the jurisdiction explicitly enumerates illicit drug manufacturing as a predicate offense for felony murder. Is Dante guilty of felony murder for the death of Vargas?
+**Q7.** Assume the jurisdiction explicitly enumerates illicit drug manufacturing as a predicate offense for felony murder. Under the traditional common law, is Dante guilty of felony murder for the death of Vargas?
 
 (a) Guilty, because Vargas's death occurred during the ongoing commission of the manufacturing felony and Silas fired the shots strictly to protect the illicit operation. <!-- correct -->
 (b) Guilty, because Silas's recognized status as a formal co-conspirator automatically satisfies the malice aforethought element required for all degrees of criminal homicide charges.
@@ -54,7 +54,7 @@ Recommended fix: Insert the missing fact pattern into the stem before the questi
 
 ## Issue 3 — edge-case
 
-**Q7.** Assume the jurisdiction explicitly enumerates illicit drug manufacturing as a predicate offense for felony murder. Is Dante guilty of felony murder for the death of Vargas?
+**Q7.** Assume the jurisdiction explicitly enumerates illicit drug manufacturing as a predicate offense for felony murder. Under the traditional common law, is Dante guilty of felony murder for the death of Vargas?
 
 (a) Guilty, because Vargas's death occurred during the ongoing commission of the manufacturing felony and Silas fired the shots strictly to protect the illicit operation. <!-- correct -->
 (b) Guilty, because Silas's recognized status as a formal co-conspirator automatically satisfies the malice aforethought element required for all degrees of criminal homicide charges.
@@ -79,7 +79,7 @@ Recommended fix: Revise Option (a) to remove the conflicting subjective intent m
 
 ## Issue 4 — argpass-sonnet
 
-**Q7.** Assume the jurisdiction explicitly enumerates illicit drug manufacturing as a predicate offense for felony murder. Is Dante guilty of felony murder for the death of Vargas?
+**Q7.** Assume the jurisdiction explicitly enumerates illicit drug manufacturing as a predicate offense for felony murder. Under the traditional common law, is Dante guilty of felony murder for the death of Vargas?
 
 (a) Guilty, because Vargas's death occurred during the ongoing commission of the manufacturing felony and Silas fired the shots strictly to protect the illicit operation. <!-- correct -->
 (b) Guilty, because Silas's recognized status as a formal co-conspirator automatically satisfies the malice aforethought element required for all degrees of criminal homicide charges.
@@ -115,7 +115,7 @@ Recommended fix: Edit (c) to include a categorically false legal claim. For exam
 
 ## Issue 5 — argpass-opus
 
-**Q7.** Assume the jurisdiction explicitly enumerates illicit drug manufacturing as a predicate offense for felony murder. Is Dante guilty of felony murder for the death of Vargas?
+**Q7.** Assume the jurisdiction explicitly enumerates illicit drug manufacturing as a predicate offense for felony murder. Under the traditional common law, is Dante guilty of felony murder for the death of Vargas?
 
 (a) Guilty, because Vargas's death occurred during the ongoing commission of the manufacturing felony and Silas fired the shots strictly to protect the illicit operation.
 (b) Guilty, because Silas's recognized status as a formal co-conspirator automatically satisfies the malice aforethought element required for all degrees of criminal homicide charges.

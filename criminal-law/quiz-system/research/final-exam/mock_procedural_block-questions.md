@@ -196,7 +196,7 @@
 
 ---
 
-**Q12.** Silas and Thorne are charged with conspiracy to obstruct justice based on their encrypted texts agreeing to use cartel funds. Is the explicit agreement sufficient to satisfy the core element of conspiracy?
+**Q12.** Under federal law, Silas and Thorne are charged with conspiracy to obstruct justice based on their encrypted texts agreeing to use cartel funds. Is the explicit agreement sufficient to satisfy the core element of conspiracy?
 
 (a) Yes, because an explicit verbal or written agreement to commit an unlawful act automatically satisfies the overt act requirement in all modern jurisdictions.
 (b) Yes, because the explicit bilateral agreement to illegally obstruct the legal proceedings directly constitutes the required meeting of the minds for criminal conspiracy. <!-- correct -->

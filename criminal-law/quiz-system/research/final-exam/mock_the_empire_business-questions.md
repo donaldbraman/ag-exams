@@ -34,7 +34,7 @@
 
 ---
 
-**Q3.** Assume Thorne is additionally charged as an accomplice to Vance's substantive drug distribution. Thorne argues he cannot be convicted as an accomplice because he lacked the "purpose" to promote the crime, merely routing the crates while harboring personal disdain for the operation. How should the court rule on this defense?
+**Q3.** Under the Model Penal Code, assume Thorne is additionally charged as an accomplice to Vance's substantive drug distribution. Thorne argues he cannot be convicted as an accomplice because he lacked the "purpose" to promote the crime, merely routing the crates while harboring personal disdain for the operation. How should the court rule on this defense?
 
 (a) Thorne is not guilty as an accomplice, because mere knowledge of the principal's criminal actions never establishes accomplice liability under any legal standard.
 (b) Thorne is not guilty as an accomplice, because his personal disdain for the drug trade proves his objective was exclusively to earn lawful compensation.
@@ -70,7 +70,7 @@
 
 ---
 
-**Q5.** Assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. If Locke establishes he genuinely and reasonably believed the crates contained black-market oxycodone, is his sentencing argument valid?
+**Q5.** Under federal law, assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. If Locke establishes he genuinely and reasonably believed the crates contained black-market oxycodone, is his sentencing argument valid?
 
 (a) Yes, because the mistake of fact doctrine allows defendants to be sentenced solely for the lesser crime they subjectively intended to commit.
 (b) Yes, because imposing a mandatory minimum based on the hidden presence of fentanyl violates the constitutional presumption against strict liability.
@@ -128,7 +128,7 @@ Local PD just forwarded us a homicide file that intersects with our Apex investi
 
 ---
 
-**Q8.** Assume the prosecution pursues a depraved heart (extreme indifference) murder charge against Locke for the clerk's death. If the jury believes Locke only fired to scare the hijackers and did not subjectively intend to kill the clerk, is his legal argument correct?
+**Q8.** Under the common law, assume the prosecution pursues a depraved heart murder charge against Locke for the clerk's death. If the jury believes Locke only fired to scare the hijackers and did not subjectively intend to kill the clerk, is his legal argument correct?
 
 (a) Yes, because depraved heart murder strictly requires the prosecution to prove the defendant acted with the conscious purpose of killing a specific human being.
 (b) Yes, because firing a weapon strictly to scare attackers is a legally recognized mitigating circumstance that automatically reduces any resulting death to manslaughter.

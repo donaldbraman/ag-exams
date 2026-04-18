@@ -1,4 +1,4 @@
-**Q3.** Assume that, regardless of your answer to the previous question, Benny acted with the required purpose to aid Artie. How does the classification of Artie's affirmative defense legally impact Benny's derivative liability?
+**Q3.** Under traditional doctrine, assume that, regardless of your answer to the previous question, Benny acted with the required purpose to aid Artie. How does the classification of Artie's affirmative defense legally impact Benny's derivative liability?
 
 (a) If Artie succeeds on a necessity defense, Benny is shielded from liability, but if Artie succeeds only on a duress defense, Benny remains fully liable. <!-- correct -->
 (b) If Artie succeeds on either necessity or duress, Benny is completely shielded because both doctrines operate to fully negate the underlying actus reus.

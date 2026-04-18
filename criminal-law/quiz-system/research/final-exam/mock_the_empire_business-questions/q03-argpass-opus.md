@@ -1,4 +1,4 @@
-**Q3.** Assume Thorne is additionally charged as an accomplice to Vance's substantive drug distribution. Thorne argues he cannot be convicted as an accomplice because he lacked the "purpose" to promote the crime, merely routing the crates while harboring personal disdain for the operation. How should the court rule on this defense?
+**Q3.** Under the Model Penal Code, assume Thorne is additionally charged as an accomplice to Vance's substantive drug distribution. Thorne argues he cannot be convicted as an accomplice because he lacked the "purpose" to promote the crime, merely routing the crates while harboring personal disdain for the operation. How should the court rule on this defense?
 
 (a) Thorne is not guilty as an accomplice, because mere knowledge of the principal's criminal actions never establishes accomplice liability under any legal standard.
 (b) Thorne is not guilty as an accomplice, because his personal disdain for the drug trade proves his objective was exclusively to earn lawful compensation.
@@ -29,5 +29,5 @@ Falsifiable claim per distractor:
 - (c): "automatically strictly liable as a co-principal" — wrong because accomplice liability requires specific mens rea (purpose or knowledge) and is never a strict liability offense.
 - (e): "always equates mere physical presence at a facility with the purpose" — wrong because the common law explicitly dictates that mere presence is never enough to establish accomplice liability.
 
-Recommended fix: MUST FIX. Add the 20% premium fact to the question stem so the correct answer is supported. Change stem to: "Assume Thorne is additionally charged as an accomplice to Vance's substantive drug distribution. Thorne routed the crates for a twenty percent salary premium, but argues he cannot be convicted because he lacked the 'purpose' to promote the crime, harboring personal disdain for the operation."
+Recommended fix: MUST FIX. Add the 20% premium fact to the question stem so the correct answer is supported. Change stem to: "Under the Model Penal Code, assume Thorne is additionally charged as an accomplice to Vance's substantive drug distribution. Thorne routed the crates for a twenty percent salary premium, but argues he cannot be convicted because he lacked the 'purpose' to promote the crime, harboring personal disdain for the operation."
 -->

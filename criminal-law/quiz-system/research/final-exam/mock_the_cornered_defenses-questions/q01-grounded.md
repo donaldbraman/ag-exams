@@ -1,4 +1,4 @@
-**Q1.** Which affirmative defense or defenses may Artie validly raise for the theft of the nitrogen tanker?
+**Q1.** Under the Model Penal Code, which affirmative defense or defenses may Artie validly raise for the theft of the nitrogen tanker?
 
 (a) Both necessity, because the theft avoided a greater catastrophic harm, and duress, because he faced an imminent threat of death. <!-- correct -->
 (b) Duress only, because the coercion came from a human actor rather than natural circumstances, precluding the necessity defense entirely.

@@ -106,7 +106,7 @@
 
 ---
 
-**Q7.** Assume Trey is charged with misdemeanor manslaughter based specifically on driving with a suspended license when he struck Omar. The jurisdiction applies the proximate-cause limitation. Is Trey guilty under this specific theory?
+**Q7.** Under the common law, assume Trey is charged with misdemeanor manslaughter based specifically on driving with a suspended license when he struck Omar. The jurisdiction applies the proximate-cause limitation. Is Trey guilty under this specific theory?
 
 (a) Guilty, because the lack of a valid driver's license constructively supplies the necessary malice to establish criminal homicide.
 (b) Guilty, because striking Omar occurred continuously during the exact same timeframe that Trey was unlawfully driving without his license.

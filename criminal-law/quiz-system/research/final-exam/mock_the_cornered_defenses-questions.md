@@ -1,4 +1,4 @@
-**Q1.** Which affirmative defense or defenses may Artie validly raise for the theft of the nitrogen tanker?
+**Q1.** Under the Model Penal Code, which affirmative defense or defenses may Artie validly raise for the theft of the nitrogen tanker?
 
 (a) Both necessity, because the theft avoided a greater catastrophic harm, and duress, because he faced an imminent threat of death. <!-- correct -->
 (b) Duress only, because the coercion came from a human actor rather than natural circumstances, precluding the necessity defense entirely.
@@ -34,7 +34,7 @@
 
 ---
 
-**Q3.** Assume that, regardless of your answer to the previous question, Benny acted with the required purpose to aid Artie. How does the classification of Artie's affirmative defense legally impact Benny's derivative liability?
+**Q3.** Under traditional doctrine, assume that, regardless of your answer to the previous question, Benny acted with the required purpose to aid Artie. How does the classification of Artie's affirmative defense legally impact Benny's derivative liability?
 
 (a) If Artie succeeds on a necessity defense, Benny is shielded from liability, but if Artie succeeds only on a duress defense, Benny remains fully liable. <!-- correct -->
 (b) If Artie succeeds on either necessity or duress, Benny is completely shielded because both doctrines operate to fully negate the underlying actus reus.
@@ -106,7 +106,7 @@
 
 ---
 
-**Q7.** Is Dante guilty of felony murder for the death of Vargas?
+**Q7.** Under the traditional common law, is Dante guilty of felony murder for the death of Vargas?
 
 (a) Guilty, because the homicide occurred during the perpetration of an inherently dangerous drug manufacturing felony in which Dante was a willing participant. <!-- correct -->
 (b) Guilty, because the modern felony murder rule operates as a strict liability offense that explicitly ignores whether the underlying crime was inherently dangerous.
@@ -124,7 +124,7 @@
 
 ---
 
-**Q8.** Have Leo, Artie, Silas, and Dante legally satisfied the prima facie elements of criminal conspiracy?
+**Q8.** In a majority jurisdiction, have Leo, Artie, Silas, and Dante legally satisfied the prima facie elements of criminal conspiracy?
 
 (a) Yes, because they formed a mutual agreement to commit a crime and the pooling of money and warehouse rental constituted overt acts in furtherance. <!-- correct -->
 (b) Yes, because the agreement to manufacture Schedule II narcotics is a strict liability conspiracy that does not require any overt act to be prosecutable.
