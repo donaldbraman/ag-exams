@@ -1,22 +1,17 @@
-**Q14.** Assume Dominic appeals his conviction, arguing the judge's final instruction on jury nullification violated his trial rights. How should the appellate court rule?
+**Q14.** The defense objects to the Trial Judge's final instruction that jurors who acquit contrary to the evidence "will be subject to contempt proceedings." Is the judge's instruction permissible?
 
-(a) Uphold the conviction, because trial courts have an affirmative constitutional duty to actively inform juries that nullification is entirely illegal and strictly prohibited.
-(b) Uphold the conviction, because the instruction correctly and neutrally stated that juries have absolutely no legal right to nullify contrary to the presented evidence.
-(c) Vacate the conviction, because criminal defendants have a fundamental constitutional right to an instruction affirmatively informing the jury of its factual nullification power.
-(d) Vacate the conviction, because while courts may inform juries they have no right to nullify, explicitly threatening them with contempt crosses into impermissible coercion. <!-- correct -->
-(e) Vacate the conviction, because any judicial mention whatsoever of nullification during final instructions constitutes structural error requiring automatic appellate reversal.
+(a) Yes, because courts possess a legal duty to actively forestall jury nullification through strong admonitions and strict instructions demanding adherence to the written law.
+(b) Yes, because juries only possess the factual power to nullify, not a legal right, allowing judges to impose contempt sanctions to prevent lawless trial verdicts.
+(c) No, because while judges can instruct juries to follow the law, they cannot instruct them that they may be punished for exercising their unreviewable power to acquit. <!-- correct -->
+(d) No, because the Sixth Amendment expressly guarantees criminal defendants the right to have juries proactively informed of their historic power to nullify unjust state prosecutions.
+(e) No, because any instruction that explicitly mentions the concept of nullification, even negatively, impermissibly alerts the jury to its availability as a practical option.
 
-**Answer:** (d)
+**Answer:** (c)
 
-**Explanation:** The correct answer is (d). Under *United States v. Kleinman*, courts may issue anti-nullification instructions informing the jury that they must follow the law and have no legal right to acquit contrary to the evidence. However, instructing jurors that they will "be subject to contempt proceedings" (Fact 11) crosses the line from permissible guidance into impermissible coercion by threatening the jury's independence with punitive consequences.
+**Explanation:** (c) is correct. Under *United States v. Kleinman*, courts may give anti-nullification instructions and tell jurors they must follow the law, but instructing them that they could be punished for acquitting crosses the line into coercion, as the jury's power to acquit is unreviewable and unpunishable. (a) is wrong because the duty to forestall nullification does not permit coercive threats of punishment. (b) is wrong because jurors cannot be punished for their verdicts. (d) is wrong because defendants have no constitutional right to a nullification instruction. (e) is wrong because negative instructions about substituting judgment are generally permissible, only the threat of punishment is barred.
 
-(a) is incorrect because courts have the authority, but not an affirmative constitutional *duty*, to issue anti-nullification instructions.
-(b) is incorrect because the instruction did not stop at stating the law; it explicitly threatened jurors with contempt, rendering it coercive.
-(c) is incorrect because courts consistently hold that defendants have no legal right to demand an instruction informing the jury of their unreviewable power to nullify.
-(e) is incorrect because appropriate anti-nullification instructions (without threats of punishment) are permissible and do not constitute error.
+**Tags:** chapters: [4], topics: [jury-nullification, anti-nullification-instructions], difficulty: medium, cognitive: application
 
-**Tags:** chapters: [4], topics: [anti-nullification-instruction-limits], difficulty: medium, cognitive: application
+**Grounding:** Chapter 4 - Kleinman holding on the line between permissible and coercive anti-nullification instructions.
 
-**Grounding:** Chapter 4 - The Jury and Nullification > Anti-nullification instruction limits
-
-<!-- grounding: GROUNDED — anti-nullification instruction limits, Ch 4, Refinement `anti-nullification-instruction-limits`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — anti-nullification instructions, Ch 4, Refinement `anti-nullification-instruction-limits`. Rule paraphrased accurately. -->

@@ -1,0 +1,33 @@
+**Q11.** Dom is charged with felony murder for Wendy's death. In a jurisdiction following the proximate cause theory of felony murder (*Smith v. State*), is Dom guilty?
+
+(a) Yes, because Dom was the initial aggressor in the chain of events and is thus strictly liable for any deaths that subsequently occur.
+(b) Yes, because a fatal crash by pursuing police officers is a reasonably foreseeable consequence of fleeing a felony scene at high speeds. <!-- correct -->
+(c) No, because the police cruiser, rather than Dom or his co-felon Leo, was the direct physical agent that unfortunately struck and killed Wendy.
+(d) No, because Dom had legally abandoned the underlying felony at the loading dock before the high-speed vehicular evasion had even begun.
+(e) No, because Dom's specific intent to commit the truck hijacking cannot legally transfer to an entirely unintentional vehicular homicide involving a pedestrian.
+
+**Answer:** (b)
+
+**Explanation:** Under the proximate cause theory of felony murder (*Smith v. State*), a felon is liable for any death that is a highly foreseeable consequence of the felony or the subsequent flight. A fatal collision involving a pursuing police cruiser during a high-speed getaway is considered a foreseeable result of the underlying crime. Option (a) is wrong because felony murder relies on proximate causation, not merely being the initial aggressor. Option (c) relies on the alternative agency theory of felony murder, which this jurisdiction does not follow. Option (d) is wrong because the immediate flight from a felony scene is legally considered part of the continuous transaction (res gestae). Option (e) is wrong because the felony murder rule explicitly substitutes the intent to commit the felony for the intent to kill.
+
+**Tags:** chapters: [14], topics: [felony murder, proximate cause, third-party killings], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 14: smith-proximate-cause-police / *Smith v. State*
+
+<!-- argument-pass: MUST FIX
+(a) Argument-for: A student could argue that felony murder originated as a strict liability doctrine for inherently dangerous felonies. Since Dom initiated the sequence of events as the "initial aggressor," causation is factually established. If one interprets the proximate cause theory broadly as holding felons liable for downstream effects of their felonious hazard, (a) appears to correctly assign liability based on his role in triggering the deadly chain of events.
+(b) Argument-for: A student could argue that the proximate cause theory holds felons liable for deaths caused by third parties, provided the death is reasonably foreseeable. Fleeing a felony at high speeds inherently invites a high-speed police pursuit. Since crashes during such pursuits are highly foreseeable, Dom is legally responsible for the fatal crash that killed Wendy, making (b) the precise application of *Smith v. State*.
+(c) Argument-for: A student could argue that intervening acts by third parties sever the causal chain. If the police cruiser was the "direct physical agent," an independent duty of care applies to the officer's driving. Therefore, the officer's direct physical agency acts as a superseding cause, breaking proximate causation and shielding Dom from liability for an unintentional death directly inflicted by law enforcement.
+(d) Argument-for: A student could argue that felony murder requires the death to occur within the *res gestae* of the underlying felony. If Dom "legally abandoned" the truck hijacking at the loading dock, the felony was entirely terminated. Consequently, the subsequent vehicular evasion was an independent, non-felonious act, severing the required temporal and causal nexus between the felony and Wendy's death.
+(e) Argument-for: A student could argue that criminal liability generally requires concurrence of the specific mental state and the actus reus. Dom's specific intent was limited to the property crime of hijacking. Because a pedestrian's vehicular death is drastically different from the targeted harm of a hijacking, traditional doctrines of transferred intent cannot bridge this gap, meaning Dom lacks the requisite malice for murder.
+
+Head-to-head: Option (b) correctly states the legal standard for the proximate cause theory of felony murder, acknowledging that foreseeable third-party actions during flight maintain the causal chain. However, the question suffers from a fatal structural flaw: the fact pattern is entirely missing from the prompt. It forces the student to reverse-engineer the facts (truck hijacking, loading dock, police pursuit, Wendy being hit by a cruiser) directly from the answer choices. Furthermore, distractors (a), (c), and (e) rely on explicitly false legal rules for this jurisdiction, while (d) attempts to mischaracterize the legal boundary of *res gestae* but reads like a factual assertion ("had legally abandoned"). The missing fact pattern makes the question fundamentally unanswerable without guessing what actually happened.
+
+Falsifiable claim per distractor:
+- (a): "is thus strictly liable for any deaths that subsequently occur" — wrong because proximate cause theory does not impose categorical strict liability for *any* subsequent death; it explicitly requires the death to be reasonably foreseeable.
+- (c): "because the police cruiser... was the direct physical agent" — wrong as a legal standard in this prompt, because the proximate cause theory explicitly permits felony murder liability even when a third party is the direct physical agent.
+- (d): "had legally abandoned the underlying felony at the loading dock before the high-speed vehicular evasion" — wrong because under the *res gestae* doctrine, immediate flight from a felony scene is categorically part of the continuous transaction, meaning the legal bounds of the felony cannot be "abandoned" to exclude the flight itself.
+- (e): "cannot legally transfer to an entirely unintentional vehicular homicide" — wrong because the felony murder rule operates to categorically substitute the intent to commit the underlying felony for malice aforethought, overriding standard transferred intent limitations.
+
+Recommended fix: Add the missing fact pattern to the question stem. For example: "Dom and Leo commit a truck hijacking at a loading dock. Fleeing the scene at high speeds, they are pursued by police. During the chase, a pursuing police cruiser loses control and fatally strikes a pedestrian, Wendy. Dom is charged..."
+-->

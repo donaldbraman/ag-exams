@@ -1,0 +1,33 @@
+**Q10.** Assume Dom is convicted of the attempted hijacking and Carmine is convicted of the overarching conspiracy. Under the *Pinkerton* doctrine, is Carmine also guilty of the attempted hijacking?
+
+(a) Yes, because Carmine was a major participant in the underlying conspiracy and acted with a reckless indifference to human life throughout the operation.
+(b) Yes, because the attempted hijacking was in furtherance of the ongoing conspiracy and was a reasonably foreseeable consequence of the initial agreement. <!-- correct -->
+(c) No, because Carmine was not physically present at the loading dock and did not personally assist Dom in executing the attempted hijacking.
+(d) No, because Dom's voluntary abandonment of the crime legally severed the causal chain between the conspiracy and the subsequent attempted hijacking.
+(e) No, because the Pinkerton doctrine of vicarious liability applies exclusively to completed substantive offenses, not to inchoate crimes like an attempted hijacking.
+
+**Answer:** (b)
+
+**Explanation:** Under the *Pinkerton* doctrine, a conspirator is vicariously liable for any substantive offenses committed by co-conspirators that are reasonably foreseeable and in furtherance of the conspiracy. Dom's attempted hijacking was the exact crime planned, making it inherently foreseeable to Carmine. Option (a) applies the *Tison* standard for felony murder accomplice liability, not the *Pinkerton* rule. Option (c) is wrong because *Pinkerton* creates vicarious liability specifically for co-conspirators who are absent from the scene. Option (d) is wrong because Dom committed the legal elements of attempt before he abandoned it, making the attempt a completed substantive offense. Option (e) is wrong because *Pinkerton* liability extends to all foreseeable substantive offenses, including criminal attempts.
+
+**Tags:** chapters: [19], topics: [conspiracy, pinkerton doctrine, vicarious liability], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 19: pinkerton-liability / *Pinkerton v. United States*
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student might choose this option by conflating major Supreme Court vicarious liability standards. Because Carmine is the overarching conspirator, his status as a "major participant" who acts with "reckless indifference" mirrors the *Tison v. Arizona* standard for high-level accomplices. A student could argue that satisfying this high Eighth Amendment culpability standard inherently satisfies any lesser standard for vicarious liability, effectively justifying a *Pinkerton* conviction by demonstrating extreme culpability and involvement in the scheme.
+(b) Argument-for: This option flawlessly recites the black-letter law of the *Pinkerton* doctrine. A co-conspirator is vicariously liable for the substantive crimes of other conspirators if those crimes are committed in furtherance of the conspiracy and are reasonably foreseeable. Because the attempt was in furtherance of the overarching conspiracy and foreseeable to a co-conspirator like Carmine, vicarious liability firmly attaches here.
+(c) Argument-for: A student could defend this option by relying on traditional limitations of accomplice liability. Under standard aiding and abetting principles, a defendant typically must provide actual assistance or encouragement. Because Carmine was not physically present and did not personally assist, a student might argue that the prosecution cannot bridge the gap to hold him liable for the specific substantive attempt, treating *Pinkerton* as requiring some minimum threshold of physical or actual complicity in the target offense itself.
+(d) Argument-for: If Dom voluntarily abandoned the crime, a student could argue this affirmative act constitutes an independent, superseding event. Under proximate cause principles, an unforeseeable intervening act can sever the causal chain of liability. The argument posits that while Carmine agreed to a completed hijacking, Dom's independent abandonment placed the resulting "attempt" outside the agreed-upon scope of the conspiracy, thus shielding Carmine from liability for the modified outcome.
+(e) Argument-for: This option presents a highly plausible doctrinal limitation on vicarious liability. Because both conspiracy and attempt are inchoate crimes, a student could logically argue that *Pinkerton* does not permit "double inchoate" liability—that is, applying a vicarious liability doctrine based on one inchoate crime (conspiracy) to punish another inchoate crime (attempt). Under this theory, *Pinkerton* is strictly reserved for fully consummated, completed substantive offenses where actual harm has occurred.
+
+Head-to-head: Option (b) is the clear, unambiguous winner because it perfectly states the traditional *Pinkerton* elements (in furtherance + reasonably foreseeable). Option (a) is definitively incorrect because it uses the *Tison* felony-murder standard, which is legally distinct from *Pinkerton*. Option (c) fails because the very purpose of *Pinkerton* is to bypass the traditional accomplice requirement of personal assistance or presence. Option (d) contradicts the premise of the prompt (Dom was already convicted of attempt, meaning his abandonment failed as a defense to the attempt itself) and falsely claims this severs the conspiracy chain. Option (e) relies on the falsifiable claim that *Pinkerton* applies "exclusively" to completed crimes, completely misstating the law, as a criminal attempt is considered a distinct substantive offense for which *Pinkerton* liability absolutely applies. 
+
+Falsifiable claim per distractor:
+- (a): "because Carmine was a major participant... and acted with a reckless indifference" — wrong because this recites the *Tison* standard for the death penalty in felony murder cases, which is not the legal test for *Pinkerton* liability.
+- (c): "because Carmine was not physically present... and did not personally assist" — wrong because *Pinkerton* liability categorically does not require physical presence or personal assistance to attach.
+- (d): "Dom's voluntary abandonment... legally severed the causal chain" — wrong because the prompt stipulates Dom was convicted of the attempt, meaning his abandonment was legally insufficient to negate the attempt; thus it cannot sever *Pinkerton* liability for that legally established attempt.
+- (e): "applies exclusively to completed substantive offenses, not to inchoate crimes" — wrong because the absolute word "exclusively" creates a false legal rule; an attempt is a substantive offense for the purposes of *Pinkerton* liability, and co-conspirators are routinely convicted of attempted crimes under *Pinkerton*.
+
+Recommended fix: none
+-->

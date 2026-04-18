@@ -1,23 +1,18 @@
-**Q1.** Assume the prosecution charges Dominic and Leo with conspiracy to distribute narcotics. Will this charge succeed?
+**Q1.** Does the agreement between Dominic and Leo support a conspiracy charge against Dominic?
 
-(a) Not guilty, because "locking down a market" is too vague to constitute a legally cognizable unlawful objective under conspiracy law.
-(b) Not guilty, because Leo unilaterally recruited the street crew without Dominic's express knowledge or prior explicit authorization.
-(c) Guilty of conspiracy, because their exchange of mutual commitments to control the market satisfies the bilateral agreement requirement. <!-- correct -->
-(d) Guilty of conspiracy, because Dominic is strictly liable for any planning offenses committed by his organizational subordinates.
-(e) Not guilty, because the agreement lacked an explicit overt act toward the distribution of narcotics at the exact time of the conversation.
+(a) Guilty of conspiracy because Dominic's instruction and Leo's assent formed a bilateral agreement to control the market, and Leo's hiring of Marcus constitutes an overt act. <!-- correct -->
+(b) Guilty of conspiracy because Dominic's generalized desire to lock down the market represents an implicit agreement with all members of the Waterfront Syndicate.
+(c) Not guilty of conspiracy because Dominic did not personally hire Marcus or commit any other overt act in furtherance of the narcotics distribution plan.
+(d) Not guilty of conspiracy because Dominic's instruction merely solicited a crime, and conspiracy requires a formalized oral contract or written agreement between the parties.
+(e) Not guilty of conspiracy because the agreement only referenced locking down the pill market, which is insufficiently specific to support a federal narcotics conspiracy.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** The correct answer is (c). Conspiracy requires an agreement between two or more people to commit an unlawful act. Dominic's statement of the goal ("lock down the East End pill market") and Leo's commitment to action ("I'll recruit the street crew today") demonstrate a clear meeting of the minds and bilateral agreement to distribute narcotics (Facts 1 and 2). 
+**Explanation:** (a) is correct. Conspiracy requires an agreement and an overt act. Dominic and Leo formed a bilateral agreement when Dominic declared the goal ("lock down the East End pill market") and Leo assented by offering to recruit the crew. Leo's act of hiring Marcus satisfies the minimal overt act requirement. (b) is wrong because Dominic and Leo formed a specific bilateral agreement; a generalized implicit agreement is not the basis for liability here. (c) is wrong because the overt act can be committed by any co-conspirator; Dominic need not commit it personally. (d) is wrong because informal verbal agreements easily satisfy the conspiracy requirement. (e) is wrong because referencing the "pill market" in context is sufficiently specific for an illicit drug distribution agreement.
 
-(a) is incorrect because the context of the Syndicate clearly indicates that locking down a pill market is an agreement to distribute narcotics.
-(b) is incorrect because Leo's agreement with Dominic formed the conspiracy; the specific details of recruiting do not negate their mutual commitment.
-(d) is incorrect because Pinkerton liability applies to substantive offenses committed during a conspiracy, not the formation of the agreement itself.
-(e) is incorrect because an overt act (which Leo later committed by hiring Marcus) does not need to occur at the exact moment the verbal agreement is formed.
+**Tags:** chapters: [19], topics: [conspiracy, agreement, overt-act], difficulty: medium, cognitive: application
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement-inference, bilateral-unilateral], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 19 - Conspiracy > Intent to agree & Bilateral requirement
+**Grounding:** Chapter 19 - bilateral agreement and minimal overt act requirements
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

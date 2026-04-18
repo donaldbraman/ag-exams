@@ -1,4 +1,4 @@
-## Scenario: Waterfront Syndicate
+# Scenario: Waterfront Syndicate
 
 ### Facts
 

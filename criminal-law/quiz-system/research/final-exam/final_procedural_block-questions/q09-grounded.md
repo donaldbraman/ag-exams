@@ -1,22 +1,17 @@
-**Q9.** Assume Marcus pursues an Equal Protection selective prosecution claim and requests discovery on uncharged white drivers. How will the court rule?
+**Q9.** Marcus files a motion for discovery regarding uncharged white drivers, noting that 90% of drivers stopped under Operation Sweep are Black. Will the court grant his discovery motion?
 
-(a) Grant the request, because demonstrating that 90% of stopped drivers are Black establishes a clear prima facie case of systemic discriminatory intent.
-(b) Grant the request, because discovery is universally required whenever a defendant alleges structural bias in a municipal law enforcement operation like Operation Sweep.
-(c) Deny the request, because Marcus failed to produce credible evidence of similarly situated white drivers who were not stopped or charged by the police. <!-- correct -->
-(d) Deny the request, because selective prosecution claims can only be brought against federal prosecutors, not against local police officers conducting traffic stops.
-(e) Deny the request, because the Equal Protection Clause does not legally apply to discretionary law enforcement initiatives designed to secure local public safety.
+(a) Yes, because the statistical disparity of ninety percent is sufficient to raise a reasonable inference of systemic discriminatory intent by the local police department.
+(b) Yes, because discovery is legally required whenever a defendant makes a prima facie showing that a law enforcement program has a significantly racially disparate impact.
+(c) No, because Marcus must first provide credible evidence that similarly situated white drivers could have been stopped but were not, which requires the discovery he seeks. <!-- correct -->
+(d) No, because selective prosecution claims can only be raised as an affirmative defense at a full trial, not as a basis for pre-trial discovery motions.
+(e) No, because the prosecution maintains absolute immunity from all discovery requests regarding their internal charging policies, investigative practices, and discretionary enforcement decisions.
 
 **Answer:** (c)
 
-**Explanation:** The correct answer is (c). Under *United States v. Armstrong*, to obtain discovery for a selective prosecution or selective enforcement claim, a defendant must first produce "credible evidence" showing that similarly situated individuals of a different race could have been prosecuted or stopped but were not. Statistical evidence about who *was* stopped (Fact 5) is insufficient without evidence of the uncharged comparison group.
+**Explanation:** (c) is correct. Under *United States v. Armstrong*, to obtain discovery for a selective prosecution claim, a defendant must produce credible evidence that similarly situated individuals of a different race could have been prosecuted but were not. This creates a Catch-22, as statistical evidence alone is insufficient. (a) is wrong because aggregate statistics do not satisfy the *Armstrong* standard for individual intent. (b) is wrong because disparate impact alone never triggers discovery for selective prosecution. (d) is wrong because selective prosecution claims are typically litigated pre-trial. (e) is wrong because prosecutors do not have absolute immunity from discovery; they are simply protected by a very high evidentiary threshold.
 
-(a) is incorrect because the Supreme Court explicitly rejected aggregate statistical disparities as a basis for discovery in *Armstrong*.
-(b) is incorrect because there is a strong presumption of regularity in law enforcement, and discovery is heavily restricted by the *Armstrong* catch-22 standard.
-(d) is incorrect because Equal Protection constraints and the *Armstrong* standard apply to selective enforcement by police as well as selective prosecution by prosecutors.
-(e) is incorrect because the Equal Protection Clause absolutely prohibits racially discriminatory enforcement of the law, even in discretionary initiatives.
+**Tags:** chapters: [6], topics: [selective-prosecution, Armstrong, discovery-catch22], difficulty: hard, cognitive: analysis
 
-**Tags:** chapters: [6], topics: [selective-prosecution-standard, armstrong-discovery-catch22], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 6 - Prosecutors > Armstrong discovery Catch-22
+**Grounding:** Chapter 6 - Armstrong's Catch-22 requires showing similarly situated unprosecuted individuals before granting discovery.
 
 <!-- grounding: GROUNDED — Armstrong discovery Catch-22, Ch 6, Refinement `armstrong-discovery-catch22`. Rule paraphrased accurately. -->

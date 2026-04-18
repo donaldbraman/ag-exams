@@ -1,22 +1,17 @@
-**Q2.** Assume that, whether or not Leo is convicted, Chloe is charged with drug possession and as an accomplice to Leo's drug distribution. Which of the following describes her liability?
+**Q2.** Is Chloe guilty of drug distribution as an accomplice?
 
-(a) Guilty of both offenses, because holding the key establishes possession and simple knowledge of the crime establishes accomplice liability.
-(b) Guilty of possession but not accomplice liability, because she lacked the purpose to facilitate the distribution despite her control over the stash. <!-- correct -->
-(c) Guilty of accomplice liability but not possession, because she did not personally sell the drugs but actively knew of the criminal enterprise.
-(d) Not guilty of either offense, because she was merely present at the location and did not actively participate in the illicit narcotics trade.
-(e) Guilty of both offenses, because under the natural and probable consequences doctrine, simple possession automatically leads to distribution liability.
+(a) Guilty of drug distribution because her knowledge that the drugs were sold to pay her rent satisfies the purposeful mental state required for accomplice liability.
+(b) Guilty of drug distribution because holding the only key to the stash house provided substantial assistance to Leo, which automatically creates strict accomplice liability.
+(c) Not guilty of drug distribution because she lacked the purpose to promote or facilitate the offense, possessing only knowledge that the distribution was occurring. <!-- correct -->
+(d) Not guilty of drug distribution because she did not maintain exclusive dominion and control over the drugs, which is required to establish constructive possession.
+(e) Not guilty of drug distribution because she did not directly participate in the actual physical sale of the narcotics to end users in the East End market.
 
-**Answer:** (b)
+**Answer:** (c)
 
-**Explanation:** The correct answer is (b). Constructive possession requires the power and intent to exercise control over an item, which Chloe has by holding the only key to the stash house. However, accomplice liability requires that the defendant act with the *purpose* of promoting or facilitating the crime. Chloe explicitly stated she "didn't care if he succeeded or failed" (Fact 3), demonstrating mere knowledge rather than the required purpose (as established in *Peoni* and *Lauria*).
+**Explanation:** (c) is correct. Accomplice liability requires that the defendant act with the purpose to promote or facilitate the underlying offense. Chloe explicitly stated she only knew about the drugs and didn't care if the crime succeeded or failed as long as rent was paid. Mere knowledge is insufficient for accomplice liability. (a) is wrong because knowledge alone does not equal purpose. (b) is wrong because substantial assistance must still be accompanied by the required purposeful mental state. (d) is wrong because it conflates the requirements of accomplice liability with constructive possession, which is a different doctrine. (e) is wrong because an accomplice need not directly participate in the actus reus of the principal's crime.
 
-(a) is incorrect because mere knowledge of the principal's criminal intent is insufficient for accomplice liability; true purpose is required.
-(c) is incorrect because her control of the key establishes constructive possession, while her lack of purpose defeats accomplice liability.
-(d) is incorrect because holding the sole key establishes constructive possession, making her more than merely present.
-(e) is incorrect because the natural and probable consequences doctrine applies to the scope of liability for a crime one has *already* purposefully aided, rather than bootstrapping simple possession into accomplice liability for distribution.
+**Tags:** chapters: [15, 18], topics: [accomplice-liability, purpose-vs-knowledge, constructive-possession], difficulty: medium, cognitive: application
 
-**Tags:** chapters: [15, 18], topics: [accomplice-liability, mens-rea-purpose, constructive-possession], difficulty: medium, cognitive: application
+**Grounding:** Chapter 18 - accomplice liability requires purpose, not mere knowledge (Peoni/Lauria framework).
 
-**Grounding:** Chapter 18 - Accomplice Liability > Mens rea (purpose); Chapter 15 - Drugs and Guns > Constructive Possession
-
-<!-- grounding: GROUNDED — Accomplice Liability Mens Rea (Purpose) and Constructive Possession, Ch 18 and Ch 15, Refinements `mr-purpose-not-knowledge` and `cp-elements`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Accomplice liability mens rea, Ch 18, Refinement `mr-purpose-not-knowledge`. Rule paraphrased accurately. -->

@@ -1,23 +1,18 @@
-**Q4.** Assume that, whether or not Leo asserts self-defense, the prosecution charges Dominic with the murder of the rival distributor. Is Dominic guilty?
+**Q4.** Assume that, whether or not Leo's self-defense claim succeeds, it is established that Leo committed murder. Is Dominic guilty of this murder?
 
-(a) Not guilty, because Dominic did not personally participate in, explicitly order, or have specific advanced knowledge of the territorial dispute.
-(b) Not guilty, because the murder was an independent, intervening act by Leo that broke the legal chain of causation from the initial drug conspiracy.
-(c) Guilty, because under the strict liability framework of enterprise law, any violence committed by a gang member is automatically imputed to the leader.
-(d) Guilty, because the murder of a rival distributor was a reasonably foreseeable consequence of the drug conspiracy and committed in furtherance of it. <!-- correct -->
-(e) Guilty, because Dominic is held absolutely liable for any homicides that occur within the established geographic territory of the Waterfront Syndicate.
+(a) Guilty of murder because under the Pinkerton doctrine, Dominic is vicariously liable for any reasonably foreseeable crime committed by a co-conspirator in furtherance of the conspiracy. <!-- correct -->
+(b) Guilty of murder because Dominic acted as an accomplice by directing Leo to recruit the street crew, which provided substantial assistance to the robbery and shooting.
+(c) Not guilty of murder because Dominic did not possess the specific intent to commit robbery or murder, which is an absolute requirement for all vicarious liability.
+(d) Not guilty of murder because the fatal shooting of a rival distributor was an independent act by Leo that completely exceeded the agreed scope of the conspiracy.
+(e) Not guilty of murder because the Pinkerton doctrine requires that Dominic be physically present at the scene of the crime to be held liable for co-conspirator actions.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** The correct answer is (d). Under the *Pinkerton* doctrine, a co-conspirator is liable for the substantive offenses committed by other co-conspirators if those offenses were committed in furtherance of the conspiracy and were reasonably foreseeable consequences of the agreement. A fatal territorial dispute with a rival is highly foreseeable in an armed narcotics distribution conspiracy (Facts 1, 2, 4).
-
-(a) is incorrect because *Pinkerton* liability specifically dispenses with the requirement that the defendant personally participate in or explicitly order the substantive offense.
-(b) is incorrect because acts by co-conspirators in furtherance of the conspiracy do not sever the chain of liability; they are the very mechanism of *Pinkerton* liability.
-(c) is incorrect because liability is grounded in conspiracy doctrine (*Pinkerton*), not a general "enterprise strict liability" rule for gangs.
-(e) is incorrect because geographic location alone does not create liability; the crime must be in furtherance of the conspiracy and reasonably foreseeable.
+**Explanation:** (a) is correct. Under the Pinkerton doctrine, a conspirator is liable for all substantive offenses committed by co-conspirators that are in furtherance of the conspiracy and reasonably foreseeable. A violent territorial dispute and robbery are foreseeable consequences of a conspiracy to illegally distribute narcotics and "lock down" a drug market. (b) is wrong because accomplice liability requires a purpose to facilitate the specific crime committed, whereas Pinkerton is broader. (c) is wrong because Pinkerton liability does not require specific intent for the substantive offense, only for the underlying conspiracy. (d) is wrong because violence against rivals to secure territory is highly foreseeable in furtherance of a drug conspiracy. (e) is wrong because physical presence is not required under Pinkerton.
 
 **Tags:** chapters: [19], topics: [Pinkerton-liability, conspiracy], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - Conspiracy > Pinkerton Doctrine
+**Grounding:** Chapter 19 - Pinkerton liability for foreseeable acts in furtherance of conspiracy.
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

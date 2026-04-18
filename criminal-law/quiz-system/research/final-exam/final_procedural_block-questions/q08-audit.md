@@ -1,31 +1,26 @@
-**Q8.** Assume Marcus files a motion to suppress the drugs, arguing the lane violation stop was an unconstitutional pretext motivated by racial profiling. How will the court rule?
+**Q8.** Marcus argues that the police stopped him for a minor lane violation merely as a pretext to search for drugs under "Operation Sweep." Is the traffic stop constitutional under the Fourth Amendment?
 
-(a) Grant the motion, because the objective evidence clearly demonstrates the police were using a minor traffic infraction to conduct an unconstitutional drug sweep.
-(b) Grant the motion, because the statistical evidence of severe racial disparities invalidates the standard presumption of regularity for the municipal traffic stop.
-(c) Deny the motion, because under the Fourth Amendment, an officer's subjective investigative motives are completely irrelevant if objective probable cause existed. <!-- correct -->
-(d) Deny the motion, because the subsequent discovery of fentanyl inside the vehicle retroactively justifies the officers' initial pretextual traffic stop decision.
-(e) Deny the motion, because traffic violations operate as strict public welfare offenses that completely bypass traditional Fourth Amendment warrant requirements.
+(a) Yes, because as long as the police had objective probable cause for the lane violation, their subjective motivation for initiating the stop is legally irrelevant. <!-- correct -->
+(b) Yes, because the systemic high volume of traffic stops during Operation Sweep justifies the low yield of contraband under a comprehensive public safety cost-benefit analysis.
+(c) No, because using a minor traffic violation as a pretext to search for narcotics violates the Fourth Amendment's explicit prohibition on unreasonable searches and seizures.
+(d) No, because Operation Sweep functions as an arbitrary law enforcement program that allows officers to routinely bypass the strict warrant requirement for targeted drug searches.
+(e) No, because statistical evidence showing that ninety percent of stopped drivers are Black automatically invalidates the stop under the Fourth Amendment's equal protection framework.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** The correct answer is (c). Under *Whren v. United States*, a traffic stop is constitutional under the Fourth Amendment as long as the officers had objective probable cause to believe a traffic violation occurred. The Supreme Court held that the officers' subjective motivations (such as using the stop as a pretext to look for drugs) do not invalidate the stop under the Fourth Amendment. 
+**Explanation:** (a) is correct. Under *Whren v. United States*, a traffic stop is constitutional under the Fourth Amendment if officers have objective probable cause for a traffic violation, regardless of their actual subjective motivation for the stop. (b) is wrong because the constitutionality under *Whren* relies on individualized probable cause, not a systemic cost-benefit analysis. (c) is wrong because *Whren* explicitly permits pretextual stops. (d) is wrong because the traffic violation provides the valid legal basis for the stop, not an exception to the warrant requirement. (e) is wrong because racial discrimination claims must be brought under the Equal Protection Clause, not the Fourth Amendment.
 
-(a) is incorrect because *Whren* explicitly permits using minor traffic infractions as pretexts for drug investigations.
-(b) is incorrect because statistical evidence of racial disparities raises an Equal Protection issue, but it does not invalidate the Fourth Amendment reasonableness of the specific stop.
-(d) is incorrect because Fourth Amendment analysis depends on the justification at the inception of the stop, not retroactive justification from subsequently discovered evidence.
-(e) is incorrect because traffic stops still require Fourth Amendment justification (probable cause or reasonable suspicion), even if they do not require warrants.
+**Tags:** chapters: [6], topics: [Whren, pretextual-stops, volume-engine], difficulty: medium, cognitive: application
 
-**Tags:** chapters: [6], topics: [Whren-pretext-constitutional, volume-engine-low-yield], difficulty: easy, cognitive: application
+**Grounding:** Chapter 6 - Whren makes subjective intent irrelevant if objective probable cause exists.
 
-**Grounding:** Chapter 6 - Prosecutors > Whren pretext constitutional
-
-<!-- audit: MUST FIX
-<check 1>: pass
-<check 2>: pass
-<check 3>: pass
-<check 4>: MUST FIX. The prompt is an orphaned follow-on question missing its fact pattern. It references "Marcus", "the drugs", and "the lane violation stop" without ever establishing these facts in the stem. A student would have to assume the missing scenario.
-<check 5>: pass
-<check 6>: pass
-<check 7>: pass
-Recommended fix: Add a self-contained fact pattern to the stem. For example: "Officers observe Marcus commit a minor lane violation. Motivated by racial profiling, they use the violation as a pretext to pull him over. During the lawful course of the stop, officers discover fentanyl in his vehicle. Marcus files a motion to suppress the drugs, arguing the initial traffic stop was an unconstitutional pretext. How will the court rule?"
+<!-- audit: CLEAN
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: pass
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: n/a
 -->

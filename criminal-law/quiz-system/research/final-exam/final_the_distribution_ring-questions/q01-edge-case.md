@@ -1,0 +1,22 @@
+**Q1.** The prosecution charges Marcus and Darius with conspiracy to distribute narcotics. They argue that the mandatory weekly meetings to discuss operations and logistics establish the required agreement. Marcus's defense moves for a directed verdict, arguing there is no direct evidence or explicit verbal agreement to distribute drugs. How should the court rule?
+
+(a) Deny the motion, because an explicit verbal agreement is not required when coordinated conduct strongly implies a mutual understanding to operate a criminal enterprise. <!-- correct -->
+(b) Deny the motion, because mere attendance at weekly meetings is sufficient to establish Pinkerton vicarious liability for the group's actions regardless of any agreement.
+(c) Grant the motion, because traditional conspiracy doctrine requires direct evidence of a bilateral agreement to distribute narcotics.
+(d) Grant the motion, because the prosecution must prove that Marcus and Darius specifically intended to commit an overt act in furtherance of the distribution.
+(e) Grant the motion, because participating in organizational meetings establishes only knowledge of the enterprise, not the specific purpose required for a conspiracy.
+
+**Answer:** (a)
+
+**Explanation:** The correct answer is (a) because conspiratorial agreements are rarely proven with direct evidence; courts regularly infer agreement from coordinated conduct that lacks a plausible innocent explanation. Here, mandatory weekly operations meetings for a drug distribution network satisfy this standard. Option (b) fails because Pinkerton is a doctrine of vicarious liability for substantive crimes, not a substitute for proving the underlying conspiratorial agreement. Option (c) fails because direct evidence is virtually never required; circumstantial evidence suffices. Option (d) fails because while an overt act is often required, the specific intent attaches to the target offense, not the overt act itself. Option (e) fails because organizing mandatory logistical meetings for a crew goes beyond mere knowledge and demonstrates a shared purpose to further the enterprise.
+
+**Tags:** chapters: [19], topics: [conspiracy, agreement-inference], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 19, Agreement Inference; Dan Markel case study.
+
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
+-->

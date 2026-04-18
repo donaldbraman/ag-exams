@@ -1,39 +1,33 @@
-**Q7.** Assume Marcus asserts a duress defense to the distribution charge, citing Leo's threat to "put a bullet in your head" tomorrow. Will this defense succeed?
+**Q7.** Assume Marcus is charged with conspiracy to distribute narcotics. Can he successfully claim the defense of duress based on Leo's threat?
 
-(a) Yes, because a threat of death or serious bodily injury from a known syndicate enforcer creates a reasonable fear of harm that excuses the criminal conduct.
-(b) Yes, because the severe threat overbore his free will and he lacked any realistic safe avenue to report the syndicate to municipal law enforcement.
-(c) No, because duress is never a legally valid defense to narcotics distribution offenses, as they are designated as inherently dangerous to the general public.
-(d) No, because Leo's threat to track down and harm Marcus the following day fails to satisfy the doctrinal requirement of a present and imminent threat. <!-- correct -->
-(e) No, because Marcus voluntarily joined the criminal syndicate, which means he entirely forfeits his right to raise a duress defense for any future violent threats.
+(a) Yes, because Leo's threat to track him down and put a bullet in his head created a reasonable and paralyzing fear of severe bodily injury.
+(b) Yes, because the violent threat effectively destroyed Marcus's free will, rendering his initial agreement to distribute the narcotics completely involuntary under the criminal law.
+(c) No, because Leo's threat to harm Marcus "tomorrow" lacked the required imminence, providing Marcus a reasonable opportunity to safely escape or seek police protection. <!-- correct -->
+(d) No, because the defense of duress is categorically unavailable for any drug trafficking offenses, continuing criminal enterprises, or organized violent syndicate activities.
+(e) No, because Marcus voluntarily joined the Waterfront Syndicate, permanently foreclosing the duress defense for any subsequent violent threats from his fellow active co-conspirators.
 
-**Answer:** (d)
+**Answer:** (c)
 
-**Explanation:** The correct answer is (d). At common law, duress requires a present, imminent, and impending threat of death or serious bodily injury. A threat of future harm—even a severe threat like "tomorrow"—fails the imminence requirement because it theoretically leaves the defendant time to escape or seek help from law enforcement (Fact 6).
+**Explanation:** (c) is correct. Duress requires a threat of present, imminent, and impending death or serious bodily injury. Leo's threat to harm Marcus "tomorrow" explicitly lacks imminence and leaves Marcus a reasonable opportunity to escape or notify law enforcement. (a) is wrong because fear alone is legally insufficient without imminence. (b) is wrong because duress is an excuse defense, not a negation of the voluntary act requirement. (d) is wrong because duress is generally available for drug offenses, unlike murder. (e) is wrong because while joining a criminal enterprise can limit duress claims if the threats are a foreseeable result of joining, the core failure here is the explicit lack of an imminent threat.
 
-(a) is incorrect because while the threat is severe, it lacks the strictly required temporal element of imminence.
-(b) is incorrect because the law objectively presumes that a non-imminent threat provides an avenue for escape or police intervention, regardless of the defendant's subjective belief about safety.
-(c) is incorrect because duress is generally available for all crimes except intentional murder; it is not categorically barred for drug distribution.
-(e) is incorrect because while voluntarily joining a criminal enterprise can defeat a duress claim, the failure of the imminence element is the primary and direct doctrinal bar to the defense here.
+**Tags:** chapters: [21], topics: [duress, imminence, proximity], difficulty: medium, cognitive: application
 
-**Tags:** chapters: [21], topics: [duress, duress-imminence-proximity], difficulty: easy, cognitive: application
+**Grounding:** Chapter 21 - duress requires imminent threat and no opportunity to escape.
 
-**Grounding:** Chapter 21 - Necessity and Duress > Duress imminence/proximity
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student could argue this is correct under modern penal theory, such as the Model Penal Code. The MPC relaxes the strict common-law "imminence" requirement in favor of evaluating whether a person of reasonable firmness in the actor's situation would have been unable to resist the threat. A credible threat to "put a bullet in his head," even if promised for "tomorrow," could undoubtedly induce a paralyzing fear that overbears a reasonable person's firmness, making the defense viable.
+(b) Argument-for: A student might rely on the historical justification for the duress defense, which is frequently described in case law as a condition that "overbears the defendant's will." If a threat is so severe that it destroys free will, one could logically deduce that it vitiates the voluntariness of the actus reus itself. Therefore, the agreement to distribute narcotics was not a voluntary act but rather the product of an irresistible external force.
+(c) Argument-for: This relies on the classic, majority common-law rule for duress. Duress strictly requires that the threat of death or serious bodily harm be present, imminent, and impending. Because Leo's threat was to occur "tomorrow," Marcus possessed a reasonable window of opportunity to flee the jurisdiction, seek police protection, or otherwise escape the coercive pressure, thus legally disqualifying him from the defense.
+(d) Argument-for: A student could argue that drug trafficking via a criminal enterprise falls under public policy exceptions to the duress defense. Just as murder is categorically excluded from the defense at common law, some jurisdictions heavily restrict affirmative defenses for strict-liability offenses or serious gang-related continuing criminal enterprises, meaning a trafficker cannot excuse their organized drug distributions by pointing fingers at co-conspirators.
+(e) Argument-for: Under the Model Penal Code and many state statutes, the defense of duress is unavailable if the actor recklessly placed himself in a situation in which it was probable he would be subjected to coercion. By voluntarily joining the "Waterfront Syndicate," a violent criminal enterprise, Marcus assumed the risk of violent internal discipline. Therefore, he forfeited his right to invoke duress against threats from his syndicate associates.
 
-<!-- argument-pass: CLEAN
-(a) Argument-for: Under the Model Penal Code, the strict common-law imminence requirement is sometimes relaxed in favor of a "person of reasonable firmness" standard. A student could argue that an ordinary person would yield to a death threat from a known syndicate enforcer, even if the harm is scheduled for "tomorrow," thus making "reasonable fear" the operative standard to excuse the conduct.
-(b) Argument-for: A student could argue that the core of duress is whether the defendant's free will was overborne and whether they lacked a legal alternative. If Marcus subjectively and objectively lacked any realistic safe avenue to report to the police (e.g., due to corruption or the syndicate's reach), the future nature of the threat ("tomorrow") becomes functionally imminent, justifying a successful defense.
-(c) Argument-for: A student could argue that public policy and criminal doctrine categorically bar the duress defense for inherently dangerous felonies. By analogizing narcotics distribution to the common-law rule that duress cannot excuse intentional murder, a student might conclude that major drug offenses are similarly excluded.
-(d) Argument-for: At common law, a successful duress defense requires a present, imminent, and impending threat of death or serious bodily injury. A threat to inflict harm "tomorrow" is universally classified as a future threat, which fails the imminence requirement because it affords the defendant time to seek help or escape.
-(e) Argument-for: Under both the common law and the MPC, a defendant who recklessly or voluntarily places himself in a situation where duress is probable loses the defense. A student could argue that Marcus's voluntary membership in the syndicate triggers this forfeiture rule, serving as the actual doctrinal bar to him raising duress.
-
-Head-to-head: 
-Option (d) relies on the classic common-law imminence rule, correctly identifying that "tomorrow" constitutes a non-imminent future threat. Options (a) and (b) arrive at the wrong legal conclusion ("Yes") because common law strictly requires imminence, and even under the MPC, Marcus's voluntary syndicate membership would bar the defense. Option (c) invents a categorical bar that does not exist; duress is generally only barred for intentional homicide, not narcotics distribution. Option (e) is a very strong distractor because voluntary participation in a criminal enterprise does defeat a duress claim. However, (e) overstates the law by claiming Marcus "entirely forfeits" the defense for "any future violent threats"—a legally false absolute, as the forfeiture applies only to threats probable from the situation he placed himself in, not completely unrelated violent threats (e.g., an unrelated mugging). 
+Head-to-head: Option (c) relies on the straightforward common-law requirement of imminence, which is factually supported by the "tomorrow" timeline. However, (e) provides a very strong alternative rationale for arriving at "No": the reckless placement/voluntary association exception to duress. While (e) includes absolute language ("permanently foreclosing", "any subsequent"), the underlying doctrine is highly relevant and risks a double-key scenario. Meanwhile, (a) relies on an implicit omission (failing to mention imminence) rather than stating an explicitly false legal rule, making it fail the close-call falsifiability standard. A student could legitimately argue that under the MPC, (a)'s reasoning holds water.
 
 Falsifiable claim per distractor:
-- (a): "Yes, because a threat of death... creates a reasonable fear of harm that excuses the criminal conduct." — wrong because reasonable fear of future harm does not legally excuse criminal conduct at common law; strict imminence is required.
-- (b): "Yes, because the severe threat overbore his free will" — wrong because even a severe threat that overbears free will does not validly excuse the conduct if the threat is not legally imminent.
-- (c): "duress is never a legally valid defense to narcotics distribution offenses" — wrong because there is no such categorical bar; the primary absolute exception is intentional murder.
-- (e): "entirely forfeits his right to raise a duress defense for any future violent threats" — wrong because the forfeiture rule is not absolute for "any" future threat; it applies only to threats foreseeable or probable from his syndicate involvement.
+- (a): "created a reasonable and paralyzing fear of severe bodily injury." — wrong under common law, but LACKS an absolute lock. It relies on the implicit omission of the imminence requirement rather than an explicitly false claim.
+- (b): "rendering his initial agreement... completely involuntary under the criminal law." — wrong because duress is an excuse defense that concedes the elements of the crime (including a voluntary actus reus) but asserts the actor is not morally culpable.
+- (d): "defense of duress is categorically unavailable for any drug trafficking offenses..." — wrong because the common-law categorical exception is generally limited to intentional murder, not drug offenses.
+- (e): "permanently foreclosing the duress defense for any subsequent violent threats..." — wrong because while voluntary association limits the defense for foreseeable coercion, it does not "permanently" foreclose it for "any" threat regardless of scope or foreseeability.
 
-Recommended fix: none
+Recommended fix: In (a), add an absolute falsifier to explicitly reject the missing element: "(a) Yes, because Leo's threat created a paralyzing fear of severe bodily injury, which categorically establishes duress regardless of imminence." 
 -->

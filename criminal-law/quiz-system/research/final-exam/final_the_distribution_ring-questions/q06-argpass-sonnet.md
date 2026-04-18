@@ -1,0 +1,34 @@
+**Q6.** Assume Trey is charged with the murder of Dexter. In a traditional common law jurisdiction, Trey would likely be convicted under the natural and probable consequences (NPC) doctrine. If the case is instead tried in a jurisdiction that has adopted the California SB 1437 reforms, is Trey guilty of Dexter's murder?
+
+(a) Yes, because Trey's act of driving the getaway vehicle establishes him as a major participant who acted with reckless indifference to human life.
+(b) Yes, because the NPC doctrine still permits imputing malice to any accomplice who actively assists in a predicate felony that results in a death.
+(c) No, because SB 1437 requires proof of an explicit, written conspiratorial agreement to kill before an accomplice can be convicted of murder.
+(d) No, because SB 1437 eliminated murder liability under the NPC doctrine, and Trey lacked both personal malice and major participation with reckless indifference. <!-- correct -->
+(e) No, because under SB 1437, getaway drivers are categorically immune from any derivative homicide liability regardless of their specific mental state or knowledge.
+
+**Answer:** (d)
+
+**Explanation:** The correct answer is (d) because SB 1437 eliminated murder liability under the natural and probable consequences doctrine. To convict an accomplice of murder post-reform, the prosecution must prove either personal malice aforethought or that the defendant was a major participant in the underlying felony who acted with reckless indifference to human life. Trey, who believed this was only an intimidation/theft and stayed in the alley, meets neither standard. Option (a) fails because remaining outside in a car unaware of the weapon or intent does not constitute major participation with reckless indifference to human life. Option (b) fails because SB 1437 expressly forbade imputing malice based solely on participation in a predicate crime. Option (c) fails because an explicit written agreement is never required; personal malice or reckless indifference suffices. Option (e) fails because SB 1437 provides no categorical immunity for getaway drivers; they can still be convicted if they personally possess malice or reckless indifference.
+
+**Tags:** chapters: [18], topics: [accomplice-liability, npc-traditional-rule, npc-reform-sb1437], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 18, NPC Reform SB 1437; People v. Gentile.
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: Under felony murder principles, the getaway driver is often critical to the success of the crime. A student could argue that driving the getaway vehicle inherently elevates the risk to the public and police during the escape, meaning the driver inherently operates as a major participant acting with reckless indifference to human life under the *Banks* and *Clark* factors. Therefore, Trey could still be found guilty under the revised felony murder rules of SB 1437.
+(b) Argument-for: A student might believe that while SB 1437 altered the felony murder rule and restricted some forms of accomplice liability, the natural and probable consequences (NPC) doctrine was merely modified rather than abolished. They could argue that if an accomplice "actively assists" in the predicate felony, the law still allows malice to be imputed based on the foreseeability of death, making Trey guilty.
+(c) Argument-for: SB 1437 places a heavy burden on the prosecution to prove actual, personal malice for accomplices who are not major participants. A student might conflate this elevated evidentiary standard with a requirement for overt documentary evidence, reasoning that an "explicit, written conspiratorial agreement to kill" is the only way to satisfy the new, stricter intent requirement and avoid mere guilt by association.
+(d) Argument-for: SB 1437 expressly eliminated murder liability based on the natural and probable consequences doctrine. To be guilty of derivative murder post-reform, the defendant must be the actual killer, intend to kill, or be a major participant acting with reckless indifference to human life. Based on the facts that Trey was merely a getaway driver lacking personal malice or reckless indifference, he is not guilty, correctly applying the current California standard (*People v. Gentile*).
+(e) Argument-for: Knowing that SB 1437 was enacted specifically to protect minor participants from harsh murder convictions, a student might overextend the statute's intent. They could argue the reform created a bright-line rule granting "categorical immunity" to getaway drivers to prevent overzealous prosecutions, completely shielding them regardless of their specific mental state or knowledge during the crime.
+
+Head-to-head: 
+Option (d) is the legally and factually correct answer, as it accurately states that SB 1437 eliminated NPC murder liability and applies the correct modern standard for major participation/reckless indifference. Distractors (b), (c), and (e) are excellent because they each contain explicitly falsifiable legal claims (imputing malice under NPC, requiring a written agreement, and conferring categorical immunity). Option (a) argues Trey is guilty by stating his act of driving establishes him as a major participant. While factually false under the implied facts (applying the *Banks/Clark* factors), it lacks a rigid absolute phrasing ("automatically establishes") to guarantee it functions as an explicit false legal rule independent of fact-pattern interpretation, making it slightly vulnerable as a distractor.
+
+Falsifiable claim per distractor:
+- (a): "Trey's act of driving the getaway vehicle establishes him as a major participant" — wrong because driving a getaway vehicle does not definitively establish major participation and reckless indifference as a matter of law without further aggravating factors.
+- (b): "the NPC doctrine still permits imputing malice" — wrong because SB 1437 explicitly abolished imputing malice under the NPC doctrine for murder.
+- (c): "requires proof of an explicit, written conspiratorial agreement" — wrong because personal malice or intent to kill can be proven through circumstances and actions, never strictly requiring a written agreement.
+- (e): "getaway drivers are categorically immune... regardless of their specific mental state" — wrong because a getaway driver possessing personal malice or acting as a major participant with reckless indifference can still be convicted.
+
+Recommended fix: Edit (a) to include an absolute modifier to lock the legal claim: "Yes, because the act of driving a getaway vehicle automatically establishes an accomplice as a major participant who acted with reckless indifference to human life."
+-->

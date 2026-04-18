@@ -1,0 +1,22 @@
+**Q6.** Assume Trey is charged with the murder of Dexter. In a traditional common law jurisdiction, Trey would likely be convicted under the natural and probable consequences (NPC) doctrine. If the case is instead tried in a jurisdiction that has adopted the California SB 1437 reforms, is Trey guilty of Dexter's murder?
+
+(a) Yes, because Trey's act of driving the getaway vehicle establishes him as a major participant who acted with reckless indifference to human life.
+(b) Yes, because the NPC doctrine still permits imputing malice to any accomplice who actively assists in a predicate felony that results in a death.
+(c) No, because SB 1437 requires proof of an explicit, written conspiratorial agreement to kill before an accomplice can be convicted of murder.
+(d) No, because SB 1437 eliminated murder liability under the NPC doctrine, and Trey lacked both personal malice and major participation with reckless indifference. <!-- correct -->
+(e) No, because under SB 1437, getaway drivers are categorically immune from any derivative homicide liability regardless of their specific mental state or knowledge.
+
+**Answer:** (d)
+
+**Explanation:** The correct answer is (d) because SB 1437 eliminated murder liability under the natural and probable consequences doctrine. To convict an accomplice of murder post-reform, the prosecution must prove either personal malice aforethought or that the defendant was a major participant in the underlying felony who acted with reckless indifference to human life. Trey, who believed this was only an intimidation/theft and stayed in the alley, meets neither standard. Option (a) fails because remaining outside in a car unaware of the weapon or intent does not constitute major participation with reckless indifference to human life. Option (b) fails because SB 1437 expressly forbade imputing malice based solely on participation in a predicate crime. Option (c) fails because an explicit written agreement is never required; personal malice or reckless indifference suffices. Option (e) fails because SB 1437 provides no categorical immunity for getaway drivers; they can still be convicted if they personally possess malice or reckless indifference.
+
+**Tags:** chapters: [18], topics: [accomplice-liability, npc-traditional-rule, npc-reform-sb1437], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 18, NPC Reform SB 1437; People v. Gentile.
+
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass 
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
+-->

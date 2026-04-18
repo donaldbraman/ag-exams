@@ -1,0 +1,34 @@
+**Q11.** Dom is charged with felony murder for Wendy's death. In a jurisdiction following the proximate cause theory of felony murder (*Smith v. State*), is Dom guilty?
+
+(a) Yes, because Dom was the initial aggressor in the chain of events and is thus strictly liable for any deaths that subsequently occur.
+(b) Yes, because a fatal crash by pursuing police officers is a reasonably foreseeable consequence of fleeing a felony scene at high speeds. <!-- correct -->
+(c) No, because the police cruiser, rather than Dom or his co-felon Leo, was the direct physical agent that unfortunately struck and killed Wendy.
+(d) No, because Dom had legally abandoned the underlying felony at the loading dock before the high-speed vehicular evasion had even begun.
+(e) No, because Dom's specific intent to commit the truck hijacking cannot legally transfer to an entirely unintentional vehicular homicide involving a pedestrian.
+
+**Answer:** (b)
+
+**Explanation:** Under the proximate cause theory of felony murder (*Smith v. State*), a felon is liable for any death that is a highly foreseeable consequence of the felony or the subsequent flight. A fatal collision involving a pursuing police cruiser during a high-speed getaway is considered a foreseeable result of the underlying crime. Option (a) is wrong because felony murder relies on proximate causation, not merely being the initial aggressor. Option (c) relies on the alternative agency theory of felony murder, which this jurisdiction does not follow. Option (d) is wrong because the immediate flight from a felony scene is legally considered part of the continuous transaction (res gestae). Option (e) is wrong because the felony murder rule explicitly substitutes the intent to commit the felony for the intent to kill.
+
+**Tags:** chapters: [14], topics: [felony murder, proximate cause, third-party killings], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 14: smith-proximate-cause-police / *Smith v. State*
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could argue that felony murder operates as a strict liability offense for any death resulting from the felony's chain of events. Since Dom hijacked the truck, he set the causal chain in motion as the "initial aggressor." In tort and criminal law, "but-for" causation combined with wrongful initiation can sometimes yield broad liability. Thus, (a) captures the idea that his initial bad act automatically tethers him to the subsequent fatality.
+(b) Argument-for: Under the proximate cause theory, a felon is responsible for deaths caused by third parties, provided the deaths are reasonably foreseeable. High-speed flight naturally invites police pursuit, which inherently carries a high risk of fatal collisions. Because Wendy's death was a highly foreseeable consequence of Dom fleeing the felony scene, Dom's actions proximately caused the death. Therefore, (b) accurately applies the jurisdiction's chosen legal standard.
+(c) Argument-for: A student might defend (c) by focusing on the direct physical agency of the police cruiser. Even in proximate cause jurisdictions, a student might argue that the intervening act of a police officer driving the striking vehicle acts as a superseding cause. If the officer's driving was the "direct physical agent," one could mistakenly deduce that it breaks the causal chain. This makes (c) an attractive choice for someone conflating the agency theory with proximate causation limitations.
+(d) Argument-for: A student could argue that criminal liability for felony murder ends once the felony is abandoned. If Dom dropped the hijacked goods or attempted to surrender at the loading dock before fleeing, he might have legally abandoned the enterprise. If the felony was abandoned, the subsequent high-speed evasion would be a separate, non-felonious act. Thus, (d) logically concludes that there is no felony murder if the underlying felony had already terminated.
+(e) Argument-for: The felony murder rule relies on transferred intent, where the intent to commit the felony substitutes for the mens rea of homicide. A student could argue that this legal fiction has limits and cannot transfer to a completely disconnected, unintentional vehicular death caused by a third party. They might reason that specific intent for hijacking is too conceptually distant from a vehicular pedestrian strike. Therefore, (e) provides a plausible, though incorrect, boundary to the transferred intent doctrine.
+
+Head-to-head: 
+Option (b) is the clear winner because it correctly articulates the proximate cause theory of felony murder, which holds felons liable for foreseeable deaths caused by third parties during the res gestae. Option (a) incorrectly replaces proximate cause's foreseeability requirement with strict liability. Option (c) wrongly imports the agency theory's requirement that the felon or co-felon be the direct physical agent, treating it as an absolute bar to liability. Option (d) offers a false legal conclusion that flight constitutes legal abandonment of the felony, ignoring the continuous transaction doctrine. Option (e) falsely claims that the specific intent of a felony cannot transfer to an unintentional vehicular homicide, directly contradicting the fundamental mechanism of the felony murder rule. All distractors contain explicit, identifiable legal errors and fail against the strength of the keyed answer.
+
+Falsifiable claim per distractor:
+- (a): "is thus strictly liable for any deaths that subsequently occur" — wrong because the proximate cause theory limits liability to foreseeable deaths, not strictly any death.
+- (c): "No, because the police cruiser... was the direct physical agent" — wrong because the proximate cause theory explicitly permits liability when a third party (like a police officer) is the direct physical agent, provided the result was foreseeable.
+- (d): "had legally abandoned the underlying felony... before the high-speed vehicular evasion had even begun" — wrong because under the res gestae doctrine, immediate flight from the scene is legally part of the continuous transaction of the felony, precluding abandonment at that stage.
+- (e): "cannot legally transfer to an entirely unintentional vehicular homicide" — wrong because the felony murder doctrine categorically transfers the intent of the underlying felony to the resulting death, even if unintentional.
+
+Recommended fix: None strictly required as the options contain distinct, falsifiable legal premises. However, to fully enforce the "absolute words" standard, consider adding "categorically requires" to (c) (e.g., "No, because felony murder categorically requires the defendant or co-felon to be the direct physical agent...") and "regardless of foreseeability" to (a).
+-->

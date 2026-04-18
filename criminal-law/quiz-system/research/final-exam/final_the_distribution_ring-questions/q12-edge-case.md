@@ -1,0 +1,22 @@
+**Q12.** The prosecution decides to charge Marcus under the Racketeer Influenced and Corrupt Organizations Act (RICO), alleging the "Court Kings" constitute a criminal enterprise. Marcus argues the group lacks the formal structure necessary to qualify as a RICO enterprise. Applying the Supreme Court's *Boyle* test, does the group qualify?
+
+(a) Yes, because the group possesses a purpose, relationships among those associated with it, and sufficient longevity to permit them to pursue that purpose. <!-- correct -->
+(b) Yes, because any group that commits two or more predicate acts within a ten-year period automatically qualifies as an enterprise under the statute.
+(c) No, because the group lacks an established hierarchy, bylaws, and a formal chain of command required to differentiate it from a standard conspiracy.
+(d) No, because the enterprise must have an economic goal that extends beyond merely committing criminal predicate acts for the immediate benefit of its members.
+(e) No, because a RICO enterprise must be a legally recognized corporate entity that the defendants have infiltrated and corrupted from the inside.
+
+**Answer:** (a)
+
+**Explanation:** The correct answer is (a) because in *Boyle v. United States*, the Supreme Court established a very broad, three-part test for an association-in-fact enterprise: (1) a shared purpose, (2) relationships among those associated with the enterprise, and (3) longevity sufficient to permit them to pursue the enterprise's purpose. The Court Kings' weekly meetings and coordinated drug and violence operations easily satisfy this. Option (b) fails because committing predicate acts establishes the "pattern of racketeering activity," not the existence of the "enterprise" itself, which is a separate element. Option (c) fails because *Boyle* explicitly held that an association-in-fact enterprise does *not* require formal structure, hierarchy, or bylaws. Option (d) fails because while the enterprise must have a purpose, it does not require an overarching economic goal completely detached from the criminal acts. Option (e) fails because RICO covers both legitimate corporate enterprises and illegitimate "association-in-fact" street gangs.
+
+**Tags:** chapters: [20], topics: [RICO, enterprise, boyle-three-part], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 20, Boyle Three-Part Test; Boyle v. United States.
+
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
+-->

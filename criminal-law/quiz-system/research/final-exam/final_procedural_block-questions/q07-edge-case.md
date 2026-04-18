@@ -1,23 +1,18 @@
-**Q7.** Assume Marcus asserts a duress defense to the distribution charge, citing Leo's threat to "put a bullet in your head" tomorrow. Will this defense succeed?
+**Q7.** Assume Marcus is charged with conspiracy to distribute narcotics. Can he successfully claim the defense of duress based on Leo's threat?
 
-(a) Yes, because a threat of death or serious bodily injury from a known syndicate enforcer creates a reasonable fear of harm that excuses the criminal conduct.
-(b) Yes, because the severe threat overbore his free will and he lacked any realistic safe avenue to report the syndicate to municipal law enforcement.
-(c) No, because duress is never a legally valid defense to narcotics distribution offenses, as they are designated as inherently dangerous to the general public.
-(d) No, because Leo's threat to track down and harm Marcus the following day fails to satisfy the doctrinal requirement of a present and imminent threat. <!-- correct -->
-(e) No, because Marcus voluntarily joined the criminal syndicate, which means he entirely forfeits his right to raise a duress defense for any future violent threats.
+(a) Yes, because Leo's threat to track him down and put a bullet in his head created a reasonable and paralyzing fear of severe bodily injury.
+(b) Yes, because the violent threat effectively destroyed Marcus's free will, rendering his initial agreement to distribute the narcotics completely involuntary under the criminal law.
+(c) No, because Leo's threat to harm Marcus "tomorrow" lacked the required imminence, providing Marcus a reasonable opportunity to safely escape or seek police protection. <!-- correct -->
+(d) No, because the defense of duress is categorically unavailable for any drug trafficking offenses, continuing criminal enterprises, or organized violent syndicate activities.
+(e) No, because Marcus voluntarily joined the Waterfront Syndicate, permanently foreclosing the duress defense for any subsequent violent threats from his fellow active co-conspirators.
 
-**Answer:** (d)
+**Answer:** (c)
 
-**Explanation:** The correct answer is (d). At common law, duress requires a present, imminent, and impending threat of death or serious bodily injury. A threat of future harm—even a severe threat like "tomorrow"—fails the imminence requirement because it theoretically leaves the defendant time to escape or seek help from law enforcement (Fact 6).
+**Explanation:** (c) is correct. Duress requires a threat of present, imminent, and impending death or serious bodily injury. Leo's threat to harm Marcus "tomorrow" explicitly lacks imminence and leaves Marcus a reasonable opportunity to escape or notify law enforcement. (a) is wrong because fear alone is legally insufficient without imminence. (b) is wrong because duress is an excuse defense, not a negation of the voluntary act requirement. (d) is wrong because duress is generally available for drug offenses, unlike murder. (e) is wrong because while joining a criminal enterprise can limit duress claims if the threats are a foreseeable result of joining, the core failure here is the explicit lack of an imminent threat.
 
-(a) is incorrect because while the threat is severe, it lacks the strictly required temporal element of imminence.
-(b) is incorrect because the law objectively presumes that a non-imminent threat provides an avenue for escape or police intervention, regardless of the defendant's subjective belief about safety.
-(c) is incorrect because duress is generally available for all crimes except intentional murder; it is not categorically barred for drug distribution.
-(e) is incorrect because while voluntarily joining a criminal enterprise can defeat a duress claim, the failure of the imminence element is the primary and direct doctrinal bar to the defense here.
+**Tags:** chapters: [21], topics: [duress, imminence, proximity], difficulty: medium, cognitive: application
 
-**Tags:** chapters: [21], topics: [duress, duress-imminence-proximity], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 21 - Necessity and Duress > Duress imminence/proximity
+**Grounding:** Chapter 21 - duress requires imminent threat and no opportunity to escape.
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

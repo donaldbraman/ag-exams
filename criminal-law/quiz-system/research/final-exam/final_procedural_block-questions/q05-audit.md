@@ -1,31 +1,26 @@
-**Q5.** Assume Marcus is charged with attempted distribution of narcotics based on his interception during Operation Sweep. Is he guilty?
+**Q5.** Is Marcus guilty of attempted distribution of narcotics for his intercepted delivery?
 
-(a) Not guilty, because he had not yet arrived at the delivery location, meaning he remained safely within the legal zone of mere preparation.
-(b) Not guilty, because the police intervention made the completion of the crime impossible, establishing a valid and complete factual impossibility defense.
-(c) Guilty, because driving to the delivery location constitutes a substantial step that is strongly corroborative of his underlying criminal purpose. <!-- correct -->
-(d) Guilty, because agreeing to the delivery under threat from Leo automatically satisfies the affirmative actus reus requirement for criminal attempt.
-(e) Guilty, because his possession of the drugs in the vehicle completed the target offense, merging the attempt into the final completed criminal act.
+(a) Guilty of attempt because agreeing to distribute and driving to the delivery location constitutes a substantial step strongly corroborative of his specific criminal purpose. <!-- correct -->
+(b) Guilty of attempt because his actions satisfied the dangerous proximity test by placing him physically close enough to complete the final illicit drug transaction.
+(c) Not guilty of attempt because driving to the location is merely preparatory conduct and does not satisfy the unequivocally criminal test for modern attempt liability.
+(d) Not guilty of attempt because he had not yet arrived at the delivery location, leaving a meaningful opportunity for him to voluntarily abandon his criminal purpose.
+(e) Not guilty of attempt because the police intervention made the completion of the delivery factually impossible, which serves as a complete defense to attempt charges.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** The correct answer is (c). Under the Model Penal Code and majority modern approaches, the actus reus for attempt requires a "substantial step" in a course of conduct planned to culminate in the commission of the crime, and the step must be strongly corroborative of the actor's criminal purpose. Marcus possessing the stash and driving en route to the delivery clearly satisfies this standard (Fact 5).
+**Explanation:** (a) is correct. Under the MPC's substantial step test, taking concrete action toward completion—like possessing the materials and driving toward the delivery site—that strongly corroborates criminal purpose is sufficient for attempt liability. (b) is wrong because the dangerous proximity test requires being much closer to the actual completion of the act, a threshold he had likely not yet reached. (c) is wrong because driving with the drugs is more than mere preparation under the modern substantial step standard. (d) is wrong because the theoretical possibility of future abandonment does not negate a substantial step that has already been taken. (e) is wrong because factual impossibility (police intervention preventing completion) is not a defense to attempt.
 
-(a) is incorrect because the substantial step test reaches further back in time than common-law proximity tests, criminalizing conduct well before the defendant arrives at the final location.
-(b) is incorrect because factual impossibility (the police intercepting him before he could succeed) is not a valid defense to attempt.
-(d) is incorrect because an agreement alone constitutes conspiracy, but attempt requires an overt act that amounts to a substantial step toward commission.
-(e) is incorrect because while possession was completed, the target offense of *distribution* was not completed, meaning attempt is the correct charge.
+**Tags:** chapters: [17], topics: [attempt, substantial-step, impossibility], difficulty: medium, cognitive: application
 
-**Tags:** chapters: [17], topics: [attempt, actus-reus-substantial-step], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 17 - Attempts > Actus reus (substantial step)
+**Grounding:** Chapter 17 - actus reus substantial step test.
 
 <!-- audit: MUST FIX
-check 1: Fails. The marked answer concludes Marcus is "Guilty" based on the MPC substantial step test. However, if the jurisdiction uses a common law proximity test, he might not be guilty. Additionally, option (d) mentions Marcus acting "under threat from Leo," which introduces a potential duress defense (Ch 21); if duress applies, Marcus would be not guilty. 
-check 2: Fails. Without a stipulated jurisdiction, a prepared student could argue for (a) using common law "dangerous proximity" or "physical proximity" tests, under which driving to a location is often deemed mere preparation.
-check 3: Fails. The explanation relies on "Fact 5," confirming that this question was separated from a larger, missing fact pattern. 
-check 4: Fails completely. The stem introduces "Marcus," "Operation Sweep," and "Fact 5," and option (d) introduces a "threat from Leo," but none of these facts are provided in the question stem. The student cannot answer this without the missing fact pattern.
-check 5: Fails. The attempt actus reus split (MPC substantial step vs. common law proximity) is not resolved by the stem, leaving the question hopelessly ambiguous.
+check 1: fails; the doctrine admits jurisdictional variation (MPC vs. common law), and the stem fails to stipulate the MPC to make (a) the definitively correct answer.
+check 2: fails; a well-prepared student could argue that under a common law jurisdiction (e.g., using dangerous proximity), driving to a location is mere preparation, making a non-marked option legally defensible.
+check 3: pass
+check 4: fails; the stem is entirely missing its fact pattern. It refers to "Marcus" and "his intercepted delivery" but contains no facts about his conduct, intent, or the police intervention for the student to analyze.
+check 5: fails; the question hinges on the split between the MPC's substantial step test and common law tests, but does not cleanly resolve which to apply.
 check 6: pass
 check 7: pass
-Recommended fix: Provide the self-contained facts within the stem (what Marcus did, the fact that he was stopped by police en route, the drugs in the car, etc.). Second, explicitly stipulate the jurisdiction (e.g., "Under the Model Penal Code...") so students know to apply the substantial step test rather than common law proximity. Third, either resolve the "threat from Leo" to preclude a duress defense or remove it.
+Recommended fix: Insert the missing macro fact pattern into the stem, and explicitly add "Under the Model Penal Code..." to the question text to justify locking in the substantial step standard.
 -->

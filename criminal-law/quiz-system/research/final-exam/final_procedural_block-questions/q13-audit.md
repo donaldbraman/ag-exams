@@ -1,31 +1,5 @@
-**Q13.** Assume the prosecution objects to Defense Attorney Rossi's peremptory strikes of Black jurors. How must the trial judge respond under the Batson framework?
+<!-- audit: MUST FIX -->
 
-(a) Deny the objection, because peremptory challenges utilized by defense attorneys are completely exempt from equal protection scrutiny to strongly protect the client's rights.
-(b) Deny the objection, because removing jurors based on perceived anti-corporate bias is a legally conclusive justification that permanently ends the judicial inquiry.
-(c) Sustain the objection immediately, because striking six out of seven eligible Black jurors constitutes per se unconstitutional racial discrimination by the defense.
-(d) Evaluate the strikes for pretext, because Batson strictly constrains defense attorneys and Rossi has offered a facially race-neutral explanation that must be verified. <!-- correct -->
-(e) Evaluate the strikes for pretext, but absolutely require the prosecution to prove that Rossi harbored conscious racial animus during the initial jury selection process.
+**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
 
-**Answer:** (d)
-
-**Explanation:** The correct answer is (d). Under *Georgia v. McCollum*, the *Batson* framework applies to defense attorneys just as it does to prosecutors. The three-step framework requires: (1) a prima facie case, (2) a race-neutral explanation, and (3) a judicial determination of pretext. Rossi's explanation regarding "corporate business backgrounds" satisfies step two because it is facially race-neutral, meaning the judge must proceed to step three to evaluate if the explanation is a pretext for discrimination (Fact 10).
-
-(a) is incorrect because *McCollum* explicitly extended Equal Protection constraints to peremptory strikes exercised by criminal defense attorneys.
-(b) is incorrect because offering a race-neutral reason is merely step two; it does not end the inquiry, as the judge must still determine if the stated reason is pretextual.
-(c) is incorrect because even severe statistical disparities do not create a per se violation; the attorney must be given the opportunity to provide a race-neutral explanation.
-(e) is incorrect because the trial judge evaluates the totality of the circumstances to determine purposeful discrimination; it does not require an explicit admission of conscious racial animus.
-
-**Tags:** chapters: [4], topics: [Batson-framework], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 4 - The Jury and Nullification > Batson framework
-
-<!-- audit: MUST FIX
-check 1: pass (conditional on facts being present)
-check 2: pass (distractors are well-calibrated once facts are added)
-check 3: pass (explanation correctly applies the three-step framework)
-check 4: MUST FIX. The stem completely lacks the facts necessary to answer the question. It omits the facts referenced in the options and explanation (that Rossi struck 6 out of 7 Black jurors, and that he offered "corporate business backgrounds" as his race-neutral explanation). The explanation explicitly references "(Fact 10)", indicating this question was severed from a larger macro fact-pattern and cannot be answered as a standalone.
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Add the missing facts to the stem. For example: "During jury selection, Defense Attorney Rossi strikes six out of seven eligible Black jurors. When the prosecution objects under Batson, Rossi explains that he struck them because of their 'corporate business backgrounds.' How must the trial judge respond..."
--->
+Error: Model returned empty or blocked response.

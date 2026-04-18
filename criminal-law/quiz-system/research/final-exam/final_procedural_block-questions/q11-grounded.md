@@ -1,22 +1,17 @@
-**Q11.** Assume Senator Sterling is charged with federal bribery for accepting the $25,000 and contacting the zoning official. Is he guilty of bribery?
+**Q11.** Assume Senator Sterling is charged with federal bribery for accepting the $25,000 cash and expediting the permit. Is Sterling guilty of bribery?
 
-(a) Yes, because receiving significant money from a known criminal syndicate creates an irrebuttable legal presumption of corrupt legislative intent under federal law.
-(b) Yes, because a campaign donation combined with informal lobbying assistance constitutes a formal official act under the strict federal corruption statute.
-(c) No, because the payment was a post-act gratuity rather than a pre-act quid pro quo, and making an informal phone call does not constitute a formal official act. <!-- correct -->
-(d) No, because his zoning vote was a core legislative function protected by absolute immunity, shielding him from any criminal corruption charges whatsoever.
-(e) No, because the $25,000 was explicitly characterized as a token of appreciation, which officially triggers the safe harbor provision for routine political contributions.
+(a) Guilty, because expediting the permit after receiving a campaign donation constitutes an official act explicitly linked to a corrupt quid pro quo agreement.
+(b) Guilty, because accepting cash to reward a past legislative vote automatically establishes the corrupt intent necessary to secure a federal bribery conviction.
+(c) Not guilty, because the cash was a post-vote gratuity rather than a pre-act bribe, and informally expediting a permit is not a formal official act. <!-- correct -->
+(d) Not guilty, because the Supreme Court has completely struck down the federal honest services fraud statute as unconstitutionally vague in its entirety.
+(e) Not guilty, because campaign donations and post-vote tokens of appreciation are protected political speech and cannot serve as the basis for a bribery charge.
 
 **Answer:** (c)
 
-**Explanation:** The correct answer is (c). Federal bribery law has been strictly narrowed. First, under *Snyder*, a payment received *after* the vote as a "token of appreciation" is a gratuity, not a bribe, because bribery requires a pre-act quid pro quo agreement. Second, under *McDonnell*, making phone calls or informally expediting matters does not constitute a formal "official act" within the meaning of the federal corruption statutes (Fact 8).
+**Explanation:** (c) is correct. Under *Snyder v. United States*, a payment given *after* an official act as a token of appreciation is a gratuity, not a bribe, and is not covered by federal bribery statutes. Furthermore, under *McDonnell v. United States*, informally expediting a permit or arranging meetings does not constitute a formal "official act." (a) is wrong because expediting a permit is not an official act under *McDonnell*. (b) is wrong because rewarding a past vote makes it a gratuity, which is distinct from federal bribery. (d) is wrong because the statute was only narrowed to bribes and kickbacks, not completely struck down. (e) is wrong because while campaign donations are protected, true bribes are not.
 
-(a) is incorrect because the source of the funds (a syndicate) does not alter the doctrinal distinction between a bribe and a gratuity under federal law.
-(b) is incorrect because *McDonnell* explicitly held that informal lobbying, arranging meetings, or making phone calls falls outside the definition of an "official act."
-(d) is incorrect because legislative immunity does not shield a senator from bribery charges based on corruptly selling their vote.
-(e) is incorrect because characterizing cash as a "token of appreciation" does not create a safe harbor; rather, the timing indicates it is a gratuity, which falls outside the bribery statute under *Snyder*.
+**Tags:** chapters: [5], topics: [bribery, gratuity, official-acts], difficulty: hard, cognitive: analysis
 
-**Tags:** chapters: [5], topics: [corruption-bribe-vs-gratuity, corruption-official-acts-narrowing], difficulty: hard, cognitive: application
+**Grounding:** Chapter 5 - Snyder distinction between bribe and gratuity; McDonnell narrowing of "official act."
 
-**Grounding:** Chapter 5 - Legislatures and Courts > Corruption bribe vs gratuity & Official acts narrowing
-
-<!-- GROUNDING-FAIL: Federal bribery / bribe vs. gratuity (Snyder) / official acts (McDonnell) is not in any chapter map. The closest taught doctrines are: Legality, Vagueness, Lenity, Equal protection, and Desuetude (Ch 5). Correct answer must rely on one of those instead. -->
+<!-- GROUNDING-FAIL: federal bribery / gratuity distinction (Snyder) and "official act" narrowing (McDonnell) is not in any chapter map. The closest taught doctrines are: Vagueness, Legality, and Lenity (from Ch 5 core elements). Correct answer must rely on one of those instead. -->

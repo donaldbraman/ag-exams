@@ -1,0 +1,34 @@
+**Q9.** Assume that Silas is convicted of Dexter's murder. The prosecution also charges Marcus as an accomplice to the homicide, based on Marcus handing Silas the loaded weapon and ordering him to "eliminate" anyone inside. Marcus argues he cannot be an accomplice because his actions did not directly cause Dexter's death. Is Marcus's argument valid?
+
+(a) Yes, because accomplice liability requires proof of but-for causation, meaning the death would not have occurred without Marcus's specific weapon.
+(b) Yes, because under the *Pinkerton* doctrine, Marcus can only be liable for the predicate robbery, not the resulting foreseeable homicide.
+(c) No, because accomplice actus reus has a low threshold; any attempted or actual assistance that facilitates the crime is sufficient, without requiring but-for causation. <!-- correct -->
+(d) No, because the natural and probable consequences doctrine mandates that gang leaders are strictly liable for any violent act committed by their subordinates.
+(e) No, because Marcus's absence from the stash house constitutes an omission, which fulfills the actus reus requirement for a breach of a custodial duty.
+
+**Answer:** (c)
+
+**Explanation:** The correct answer is (c) because the actus reus for accomplice liability is exceptionally low. There is no but-for causation requirement; any act that aids, counsels, or encourages the principal—such as providing the weapon and giving instructions—satisfies the threshold, even if the principal could have succeeded without the help. Option (a) fails because accomplice doctrine explicitly rejects the strict but-for causation requirement used in basic homicide doctrine. Option (b) fails because *Pinkerton* is a conspiracy doctrine, not a limitation on accomplice liability; in fact, *Pinkerton* would *expand* liability to foreseeable crimes. Option (d) fails because the natural and probable consequences doctrine is based on foreseeability of extended crimes, but here Marcus explicitly intended and commanded the homicide itself, making him a direct accomplice. Option (e) fails because providing a gun and an order is an affirmative act, not an omission.
+
+**Tags:** chapters: [18], topics: [accomplice-liability, ar-low-threshold], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 18, Actus Reus - Low Threshold; State v. Tally.
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student might argue that criminal law fundamentally requires causation to establish liability for a result crime like homicide. Under this theory, an accomplice must be a but-for cause of the crime to be held fully liable for the resulting death. Because Silas could theoretically have killed Dexter using a different weapon or method, Marcus's specific assistance might not be a but-for cause. Therefore, this option posits that the lack of strict but-for causation destroys Marcus's accomplice liability.
+(b) Argument-for: A student might recall the *Pinkerton* doctrine but misunderstand its application, believing it limits rather than expands liability. They might argue that *Pinkerton* restricts a co-conspirator's liability solely to the planned predicate offense (such as a robbery), shielding them from liability for any subsequent, escalating crimes like homicide. This would lead to the conclusion that Marcus cannot be charged with the resulting homicide because *Pinkerton* caps his exposure.
+(c) Argument-for: This is the correct legal standard. The actus reus threshold for accomplice liability is deliberately low, requiring only that the accomplice provided some aid, counsel, or encouragement to the principal. The law expressly rejects a but-for causation requirement for accomplices (as seen in cases like *State v. Tally*). Marcus’s affirmative acts of providing a loaded weapon and ordering Silas to kill clearly satisfy this minimal threshold.
+(d) Argument-for: A student might recognize that Marcus is acting as a leader or commander and try to apply the natural and probable consequences doctrine. They might erroneously conclude that this doctrine functions as a strict liability standard for "gang leaders," automatically making them legally responsible for any violent act a subordinate commits. This interpretation argues that Marcus's liability is cemented by strict liability rather than his specific intent and direct aiding and abetting.
+(e) Argument-for: A student might focus on the fact that Marcus was not physically present when Silas killed Dexter, classifying this absence as a legal omission. If they assume Marcus had some sort of custodial duty over the premises, they might argue his failure to intervene breached this duty. This leads to the conclusion that Marcus's liability is fundamentally based on an omission rather than his prior affirmative acts of arming and directing Silas.
+
+Head-to-head:
+Option (c) accurately states the law: accomplice liability does not require but-for causation; any assistance or encouragement is sufficient. Option (a) is factually and legally falsifiable because it explicitly claims accomplice liability "requires proof of but-for causation," which is a well-known legal falsehood. Option (b) presents a categorically false legal claim by asserting that *Pinkerton* limits liability strictly to a predicate offense and excludes foreseeable homicides, completely reversing the actual doctrine. Option (d) fails by falsely claiming the natural and probable consequences doctrine mandates "strict liability" for gang leaders, ignoring the foreseeability requirement and misstating the legal standard. Option (e) is falsifiable because it characterizes the affirmative act of handing a loaded weapon and issuing an order to kill as an "omission," which is factually and legally inaccurate.
+
+Falsifiable claim per distractor:
+- (a): "accomplice liability requires proof of but-for causation" — wrong because the doctrine explicitly rejects but-for causation; any assistance or encouragement is sufficient.
+- (b): "under the Pinkerton doctrine, Marcus can only be liable for the predicate robbery, not the resulting foreseeable homicide" — wrong because Pinkerton explicitly expands liability to include foreseeable substantive crimes committed in furtherance of the conspiracy.
+- (d): "mandates that gang leaders are strictly liable for any violent act committed by their subordinates" — wrong because the natural and probable consequences doctrine relies on the foreseeability of the extended crime, not a strict liability standard for gang leaders.
+- (e): "Marcus's absence from the stash house constitutes an omission, which fulfills the actus reus" — wrong because Marcus committed a clear affirmative act (providing a weapon and an order), and mere absence after an affirmative act does not reclassify the aid as an omission.
+
+Recommended fix: none
+-->

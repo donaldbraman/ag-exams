@@ -1,235 +1,267 @@
-**Q1.** Can Dominic be convicted of a substantive RICO violation and RICO conspiracy based on the Waterfront Syndicate's operations?
+**Q1.** Does the agreement between Dominic and Leo support a conspiracy charge against Dominic?
 
-(a) Yes, because the syndicate functions as a continuing unit with an ongoing organizational structure, and Dominic agreed to participate in its racketeering activities. <!-- correct -->
-(b) No, because the syndicate lacks an official legal, corporate, or publicly recognized business structure required to establish a valid enterprise.
-(c) Yes, because any group of individuals committing two or more predicate acts automatically creates an enterprise and a conspiracy by operation of law.
-(d) No, because the enterprise's activities are exclusively criminal, whereas a RICO conviction requires the enterprise to maintain a legitimate commercial front.
-(e) Yes, because Dominic's explicit claim to the title of "boss" establishes the hierarchy necessary for an enterprise and strictly bypasses the agreement requirement.
-
-**Answer:** (a)
-
-**Explanation:** Under the Supreme Court's *Boyle* standard, a RICO enterprise must have a purpose, relationships, and longevity sufficient to function as a continuing unit, but it does not require formal legal or corporate structure. Dominic's oversight of the organized syndicate and agreement to conduct its affairs through a pattern of racketeering satisfies both substantive RICO and conspiracy requirements. (b) fails because a formal or legal structure is not required for an "associated-in-fact" enterprise. (c) describes a pattern of racketeering, but incorrectly states this automatically creates an enterprise. (d) is wrong because entirely illicit enterprises fall squarely within RICO's scope. (e) is wrong because a title does not bypass the fundamental requirement of an agreement for conspiracy.
-
-**Tags:** chapters: [20], topics: [RICO-enterprise, RICO-conspiracy], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 20 (RICO and Enterprise Liability) - Boyle v. United States
-
----
-
-**Q2.** Assume that, independent of any other charges, Dominic and Leo are indicted for conspiracy to distribute narcotics. Did they form a valid criminal agreement?
-
-(a) Guilty of conspiracy, because their exchange of words demonstrates a mutual understanding and intent to achieve an unlawful objective. <!-- correct -->
-(b) Not guilty of conspiracy, because the goal to "lock down a market" is too vague to satisfy the specific intent requirement.
-(c) Guilty of conspiracy, because Dominic's command as boss alone is sufficient to create liability under the unilateral agreement rule.
-(d) Not guilty of conspiracy, because Leo merely offered to recruit a crew rather than explicitly agreeing to distribute the narcotics.
-(e) Guilty of conspiracy, because their shared membership in the organized crime syndicate establishes a standing agreement for all crimes.
+(a) Guilty of conspiracy because Dominic's instruction and Leo's assent formed a bilateral agreement to control the market, and Leo's hiring of Marcus constitutes an overt act. <!-- correct -->
+(b) Guilty of conspiracy because Dominic's generalized desire to lock down the market represents an implicit agreement with all members of the Waterfront Syndicate.
+(c) Not guilty of conspiracy because Dominic did not personally hire Marcus or commit any other overt act in furtherance of the narcotics distribution plan.
+(d) Not guilty of conspiracy because Dominic's instruction merely solicited a crime, and conspiracy requires a formalized oral contract or written agreement between the parties.
+(e) Not guilty of conspiracy because the agreement only referenced locking down the pill market, which is insufficiently specific to support a federal narcotics conspiracy.
 
 **Answer:** (a)
 
-**Explanation:** Conspiracy requires a mutual agreement to commit a crime. An agreement does not need to be formal or express; it can be inferred from an exchange of words showing a mutual understanding to pursue an unlawful objective. Here, Dominic's statement about locking down the pill market and Leo's immediate offer to recruit the street crew establishes a bilateral agreement. (b) fails because locking down a drug market via a street crew is sufficiently specific to constitute a criminal objective. (c) fails because this is a classic bilateral agreement; the unilateral rule is unnecessary here. (d) fails because recruiting a crew is an overt act manifesting his acceptance of the agreement to distribute. (e) fails because membership alone does not constitute an agreement to commit specific future offenses.
+**Explanation:** (a) is correct. Conspiracy requires an agreement and an overt act. Dominic and Leo formed a bilateral agreement when Dominic declared the goal ("lock down the East End pill market") and Leo assented by offering to recruit the crew. Leo's act of hiring Marcus satisfies the minimal overt act requirement. (b) is wrong because Dominic and Leo formed a specific bilateral agreement; a generalized implicit agreement is not the basis for liability here. (c) is wrong because the overt act can be committed by any co-conspirator; Dominic need not commit it personally. (d) is wrong because informal verbal agreements easily satisfy the conspiracy requirement. (e) is wrong because referencing the "pill market" in context is sufficiently specific for an illicit drug distribution agreement.
 
-**Tags:** chapters: [19], topics: [conspiracy-agreement], difficulty: easy, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy, agreement, overt-act], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 (Conspiracy) - The Agreement Element
+**Grounding:** Chapter 19 - bilateral agreement and minimal overt act requirements
 
 ---
 
-**Q3.** Assume that, whether or not the conspiracy was valid, Leo fatally shot the rival dealer. Is Dominic liable for the rival's death under the *Pinkerton* doctrine?
+**Q2.** Is Chloe guilty of drug distribution as an accomplice?
 
-(a) Liable, because the fatal shooting was a reasonably foreseeable consequence of the conspiracy to aggressively lock down the pill market. <!-- correct -->
-(b) Not liable, because Dominic did not personally authorize, attend, or directly participate in the armed robbery at the nightclub.
-(c) Liable, because the *Pinkerton* doctrine holds co-conspirators strictly liable for any and all crimes committed by syndicate members.
-(d) Not liable, because the gun discharged accidentally after the rival lunged, which legally breaks the chain of reasonable foreseeability.
-(e) Liable, because Dominic's recognized status as the syndicate boss creates automatic vicarious liability for his subordinates' acts.
+(a) Guilty of drug distribution because her knowledge that the drugs were sold to pay her rent satisfies the purposeful mental state required for accomplice liability.
+(b) Guilty of drug distribution because holding the only key to the stash house provided substantial assistance to Leo, which automatically creates strict accomplice liability.
+(c) Not guilty of drug distribution because she lacked the purpose to promote or facilitate the offense, possessing only knowledge that the distribution was occurring. <!-- correct -->
+(d) Not guilty of drug distribution because she did not maintain exclusive dominion and control over the drugs, which is required to establish constructive possession.
+(e) Not guilty of drug distribution because she did not directly participate in the actual physical sale of the narcotics to end users in the East End market.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct. Accomplice liability requires that the defendant act with the purpose to promote or facilitate the underlying offense. Chloe explicitly stated she only knew about the drugs and didn't care if the crime succeeded or failed as long as rent was paid. Mere knowledge is insufficient for accomplice liability. (a) is wrong because knowledge alone does not equal purpose. (b) is wrong because substantial assistance must still be accompanied by the required purposeful mental state. (d) is wrong because it conflates the requirements of accomplice liability with constructive possession, which is a different doctrine. (e) is wrong because an accomplice need not directly participate in the actus reus of the principal's crime.
+
+**Tags:** chapters: [15, 18], topics: [accomplice-liability, purpose-vs-knowledge, constructive-possession], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 18 - accomplice liability requires purpose, not mere knowledge (Peoni/Lauria framework).
+
+---
+
+**Q3.** Assume Leo is charged with murder for the fatal shooting. Leo claims self-defense. How will his self-defense claim be evaluated?
+
+(a) Leo can successfully claim self-defense because he only fired his weapon after the rival drew a gun, creating an objectively reasonable fear of imminent death.
+(b) Leo can successfully claim self-defense because his initial action of demanding the stash was merely a threat to property, which does not forfeit self-defense rights.
+(c) Leo's self-defense claim fails, but the imperfect self-defense doctrine will mitigate his charge to manslaughter because he honestly believed deadly force was absolutely necessary.
+(d) Leo's self-defense claim fails because he was the initial aggressor, and he is strictly liable for murder because the death occurred during an attempted robbery. <!-- correct -->
+(e) Leo's self-defense claim fails, but he cannot be convicted of felony murder because the prosecution must independently prove he acted with malice aforethought during the robbery.
+
+**Answer:** (d)
+
+**Explanation:** (d) is correct. Leo loses the right to claim self-defense because he was the initial aggressor who provoked the deadly encounter by drawing his gun and attempting a robbery. Furthermore, because the death occurred during the commission of an inherently dangerous felony (robbery), the felony-murder rule applies, making him strictly liable for murder without the need to prove malice aforethought. (a) is wrong because his status as the initial aggressor bars the defense. (b) is wrong because drawing a gun constitutes a threat of deadly force, making him the initial aggressor. (c) is wrong because imperfect self-defense requires that the defendant not be the initial aggressor. (e) is wrong because the felony-murder rule substitutes the intent to commit the underlying felony for malice aforethought.
+
+**Tags:** chapters: [14, 22], topics: [felony-murder, initial-aggressor-bar, self-defense], difficulty: medium, cognitive: analysis
+
+**Grounding:** Chapter 22 - initial aggressor bar; Chapter 14 - strict liability substitution of felony murder.
+
+---
+
+**Q4.** Assume that, whether or not Leo's self-defense claim succeeds, it is established that Leo committed murder. Is Dominic guilty of this murder?
+
+(a) Guilty of murder because under the Pinkerton doctrine, Dominic is vicariously liable for any reasonably foreseeable crime committed by a co-conspirator in furtherance of the conspiracy. <!-- correct -->
+(b) Guilty of murder because Dominic acted as an accomplice by directing Leo to recruit the street crew, which provided substantial assistance to the robbery and shooting.
+(c) Not guilty of murder because Dominic did not possess the specific intent to commit robbery or murder, which is an absolute requirement for all vicarious liability.
+(d) Not guilty of murder because the fatal shooting of a rival distributor was an independent act by Leo that completely exceeded the agreed scope of the conspiracy.
+(e) Not guilty of murder because the Pinkerton doctrine requires that Dominic be physically present at the scene of the crime to be held liable for co-conspirator actions.
 
 **Answer:** (a)
 
-**Explanation:** Under the *Pinkerton* doctrine, a conspirator is liable for the substantive offenses committed by a co-conspirator if those offenses were in furtherance of the conspiracy and were reasonably foreseeable consequences of it. An armed confrontation leading to death is highly foreseeable when conspirators agree to aggressively take over a rival drug market. (b) fails because *Pinkerton* explicitly dispenses with the need for personal participation or specific authorization. (c) fails because *Pinkerton* requires foreseeability and furtherance, not strict liability for any crime. (d) fails because an accidental discharge during a foreseeable armed robbery does not break the chain of proximate causation or foreseeability. (e) fails because status alone does not create vicarious liability; the act must still be in furtherance of the specific conspiracy.
+**Explanation:** (a) is correct. Under the Pinkerton doctrine, a conspirator is liable for all substantive offenses committed by co-conspirators that are in furtherance of the conspiracy and reasonably foreseeable. A violent territorial dispute and robbery are foreseeable consequences of a conspiracy to illegally distribute narcotics and "lock down" a drug market. (b) is wrong because accomplice liability requires a purpose to facilitate the specific crime committed, whereas Pinkerton is broader. (c) is wrong because Pinkerton liability does not require specific intent for the substantive offense, only for the underlying conspiracy. (d) is wrong because violence against rivals to secure territory is highly foreseeable in furtherance of a drug conspiracy. (e) is wrong because physical presence is not required under Pinkerton.
 
-**Tags:** chapters: [19], topics: [Pinkerton-liability], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [Pinkerton-liability, conspiracy], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 (Conspiracy) - Pinkerton Doctrine
+**Grounding:** Chapter 19 - Pinkerton liability for foreseeable acts in furtherance of conspiracy.
 
 ---
 
-**Q4.** Prior to the police swapping the drugs, did Marcus and Chloe legally possess the narcotics stored in the gym locker?
+**Q5.** Is Marcus guilty of attempted distribution of narcotics for his intercepted delivery?
 
-(a) Marcus had constructive possession because he maintained power and intent to control the drugs, but Chloe did not because she lacked knowledge that the items were narcotics. <!-- correct -->
-(b) Both Marcus and Chloe had constructive possession because they shared the combination code and therefore had equal joint access to the locker.
-(c) Neither individual had constructive possession because the drugs were stored in a public gym facility where management maintained ultimate physical access.
-(d) Chloe had exclusive constructive possession because she was given the code to retrieve the bag, legally terminating Marcus's control over the specific items.
-(e) Marcus had constructive possession because he was the original owner, but Chloe's liability is limited to conspiracy because she had not yet opened the locker.
+(a) Guilty of attempt because agreeing to distribute and driving to the delivery location constitutes a substantial step strongly corroborative of his specific criminal purpose. <!-- correct -->
+(b) Guilty of attempt because his actions satisfied the dangerous proximity test by placing him physically close enough to complete the final illicit drug transaction.
+(c) Not guilty of attempt because driving to the location is merely preparatory conduct and does not satisfy the unequivocally criminal test for modern attempt liability.
+(d) Not guilty of attempt because he had not yet arrived at the delivery location, leaving a meaningful opportunity for him to voluntarily abandon his criminal purpose.
+(e) Not guilty of attempt because the police intervention made the completion of the delivery factually impossible, which serves as a complete defense to attempt charges.
 
 **Answer:** (a)
 
-**Explanation:** Constructive possession requires both the power and intent to exercise control over an item, as well as knowledge of the item's illicit character. Marcus maintained joint access and control by keeping his gear in the locker. Chloe had access but lacked the requisite mens rea because she honestly believed the bag contained cash, not narcotics. Therefore, she did not possess narcotics. (b) fails because joint physical access is insufficient without knowledge of the contraband's character. (c) fails because storing items in a public facility does not defeat constructive possession if the defendant maintains the combination code. (d) fails because code sharing creates joint, not exclusive, control. (e) fails because Chloe is not liable for conspiracy to possess narcotics without intent to possess narcotics.
+**Explanation:** (a) is correct. Under the MPC's substantial step test, taking concrete action toward completion—like possessing the materials and driving toward the delivery site—that strongly corroborates criminal purpose is sufficient for attempt liability. (b) is wrong because the dangerous proximity test requires being much closer to the actual completion of the act, a threshold he had likely not yet reached. (c) is wrong because driving with the drugs is more than mere preparation under the modern substantial step standard. (d) is wrong because the theoretical possibility of future abandonment does not negate a substantial step that has already been taken. (e) is wrong because factual impossibility (police intervention preventing completion) is not a defense to attempt.
 
-**Tags:** chapters: [15, 10], topics: [constructive-possession, mistake-of-fact], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [17], topics: [attempt, substantial-step, impossibility], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15 (Drugs and Guns) - Constructive Possession; Chapter 10 (Mistake of Fact)
+**Grounding:** Chapter 17 - actus reus substantial step test.
 
 ---
 
-**Q5.** Assume that Chloe is charged with attempted possession of narcotics after police intercepted her at the gym doors. Which of the following best assesses her liability?
+**Q6.** Assume that, whether or not Marcus is guilty of attempt, he genuinely believed the baggies contained counterfeit Adderall (a misdemeanor) rather than fentanyl (a severe felony). How does this affect his liability for the severe felony charge?
 
-(a) Guilty of attempt, because the doctrine of factual impossibility does not excuse her from taking substantial steps to retrieve the gym bag.
-(b) Not guilty of attempt, because her honest belief that the bag contained stolen cash negates the specific intent required for narcotics possession. <!-- correct -->
-(c) Guilty of attempt, because walking through the gym doors constitutes a substantial step that is strongly corroborative of a criminal purpose.
-(d) Not guilty of attempt, because the police had already removed the narcotics, making the completion of the target offense legally impossible.
-(e) Guilty of attempt, because her intent to retrieve what she believed was illicit stolen cash automatically transfers to the actual narcotics.
+(a) He is not guilty of the severe felony because his genuine mistake of fact negates the specific intent inherently required for the fentanyl distribution charge.
+(b) He is not guilty of the severe felony because the prosecution must definitively prove he knew the specific identity of the controlled substance he was distributing.
+(c) He is guilty of the severe felony because the doctrine of transferred intent automatically applies the underlying mens rea from the misdemeanor to the severe felony.
+(d) He is guilty of the severe felony because drug distribution statutes generally only require knowledge that the substance is illicit, not knowledge of its specific type. <!-- correct -->
+(e) He is guilty of the severe felony because mistake of fact is only a defense when the defendant's belief, if true, would render their conduct entirely lawful.
+
+**Answer:** (d)
+
+**Explanation:** (d) is correct. Drug distribution statutes typically operate with mens rea asymmetry: the defendant must know they possess an illicit substance, but strict liability applies to the specific type and quantity of the drug. Because Marcus knew he possessed an illicit substance (counterfeit Adderall), he is strictly liable for the fact that it was actually fentanyl. (a) is wrong because specific intent as to the exact drug type is not required. (b) is wrong for the same reason. (c) is wrong because transferred intent applies to different victims, not different drug types. (e) is wrong because the "legal wrong" doctrine has largely been replaced by statutory interpretation that assigns strict liability to the drug type element, rather than a blanket rule about lawful conduct.
+
+**Tags:** chapters: [10, 15], topics: [mistake-of-fact, mens-rea-fentanyl-asymmetry, strict-liability], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 15 - mens rea fentanyl asymmetry and strict liability for drug type/quantity.
+
+---
+
+**Q7.** Assume Marcus is charged with conspiracy to distribute narcotics. Can he successfully claim the defense of duress based on Leo's threat?
+
+(a) Yes, because Leo's threat to track him down and put a bullet in his head created a reasonable and paralyzing fear of severe bodily injury.
+(b) Yes, because the violent threat effectively destroyed Marcus's free will, rendering his initial agreement to distribute the narcotics completely involuntary under the criminal law.
+(c) No, because Leo's threat to harm Marcus "tomorrow" lacked the required imminence, providing Marcus a reasonable opportunity to safely escape or seek police protection. <!-- correct -->
+(d) No, because the defense of duress is categorically unavailable for any drug trafficking offenses, continuing criminal enterprises, or organized violent syndicate activities.
+(e) No, because Marcus voluntarily joined the Waterfront Syndicate, permanently foreclosing the duress defense for any subsequent violent threats from his fellow active co-conspirators.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct. Duress requires a threat of present, imminent, and impending death or serious bodily injury. Leo's threat to harm Marcus "tomorrow" explicitly lacks imminence and leaves Marcus a reasonable opportunity to escape or notify law enforcement. (a) is wrong because fear alone is legally insufficient without imminence. (b) is wrong because duress is an excuse defense, not a negation of the voluntary act requirement. (d) is wrong because duress is generally available for drug offenses, unlike murder. (e) is wrong because while joining a criminal enterprise can limit duress claims if the threats are a foreseeable result of joining, the core failure here is the explicit lack of an imminent threat.
+
+**Tags:** chapters: [21], topics: [duress, imminence, proximity], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 21 - duress requires imminent threat and no opportunity to escape.
+
+---
+
+**Q8.** Marcus argues that the police stopped him for a minor lane violation merely as a pretext to search for drugs under "Operation Sweep." Is the traffic stop constitutional under the Fourth Amendment?
+
+(a) Yes, because as long as the police had objective probable cause for the lane violation, their subjective motivation for initiating the stop is legally irrelevant. <!-- correct -->
+(b) Yes, because the systemic high volume of traffic stops during Operation Sweep justifies the low yield of contraband under a comprehensive public safety cost-benefit analysis.
+(c) No, because using a minor traffic violation as a pretext to search for narcotics violates the Fourth Amendment's explicit prohibition on unreasonable searches and seizures.
+(d) No, because Operation Sweep functions as an arbitrary law enforcement program that allows officers to routinely bypass the strict warrant requirement for targeted drug searches.
+(e) No, because statistical evidence showing that ninety percent of stopped drivers are Black automatically invalidates the stop under the Fourth Amendment's equal protection framework.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct. Under *Whren v. United States*, a traffic stop is constitutional under the Fourth Amendment if officers have objective probable cause for a traffic violation, regardless of their actual subjective motivation for the stop. (b) is wrong because the constitutionality under *Whren* relies on individualized probable cause, not a systemic cost-benefit analysis. (c) is wrong because *Whren* explicitly permits pretextual stops. (d) is wrong because the traffic violation provides the valid legal basis for the stop, not an exception to the warrant requirement. (e) is wrong because racial discrimination claims must be brought under the Equal Protection Clause, not the Fourth Amendment.
+
+**Tags:** chapters: [6], topics: [Whren, pretextual-stops, volume-engine], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 6 - Whren makes subjective intent irrelevant if objective probable cause exists.
+
+---
+
+**Q9.** Marcus files a motion for discovery regarding uncharged white drivers, noting that 90% of drivers stopped under Operation Sweep are Black. Will the court grant his discovery motion?
+
+(a) Yes, because the statistical disparity of ninety percent is sufficient to raise a reasonable inference of systemic discriminatory intent by the local police department.
+(b) Yes, because discovery is legally required whenever a defendant makes a prima facie showing that a law enforcement program has a significantly racially disparate impact.
+(c) No, because Marcus must first provide credible evidence that similarly situated white drivers could have been stopped but were not, which requires the discovery he seeks. <!-- correct -->
+(d) No, because selective prosecution claims can only be raised as an affirmative defense at a full trial, not as a basis for pre-trial discovery motions.
+(e) No, because the prosecution maintains absolute immunity from all discovery requests regarding their internal charging policies, investigative practices, and discretionary enforcement decisions.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct. Under *United States v. Armstrong*, to obtain discovery for a selective prosecution claim, a defendant must produce credible evidence that similarly situated individuals of a different race could have been prosecuted but were not. This creates a Catch-22, as statistical evidence alone is insufficient. (a) is wrong because aggregate statistics do not satisfy the *Armstrong* standard for individual intent. (b) is wrong because disparate impact alone never triggers discovery for selective prosecution. (d) is wrong because selective prosecution claims are typically litigated pre-trial. (e) is wrong because prosecutors do not have absolute immunity from discovery; they are simply protected by a very high evidentiary threshold.
+
+**Tags:** chapters: [6], topics: [selective-prosecution, Armstrong, discovery-catch22], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 6 - Armstrong's Catch-22 requires showing similarly situated unprosecuted individuals before granting discovery.
+
+---
+
+**Q10.** Marcus challenges AUSA Vance's threat to add a mandatory-minimum weapons enhancement if Marcus refuses the plea deal, arguing this constitutes unconstitutional vindictiveness. Will Marcus's challenge succeed?
+
+(a) Yes, because threatening to drastically increase a defendant's sentence solely for exercising the right to a jury trial violates the constitutional guarantee of substantive due process.
+(b) Yes, because using a mandatory-minimum enhancement to coerce a plea deal impermissibly transfers structural sentencing power from the judiciary directly to the federal prosecutor.
+(c) No, because the threat occurs during pre-trial plea negotiations and the prosecutor already possesses sufficient probable cause to support the additional weapons enhancement charge. <!-- correct -->
+(d) No, because a prosecutor's charging discretion is completely unreviewable by courts, even if the additional severe charges are filed maliciously or without objective probable cause.
+(e) No, because the trial penalty is an expected element of the criminal justice system that courts have consistently deemed a necessary and unassailable administrative convenience.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct. Under *Bordenkircher v. Hayes*, a prosecutor does not violate due process by threatening to seek a harsher charge during pre-trial plea negotiations if the defendant refuses a plea offer, provided there is probable cause for the threatened charge. (a) is wrong because *Bordenkircher* expressly permits this "trial penalty" dynamic. (b) is wrong because while mandatory minimums do functionally transfer power to prosecutors, courts have upheld this structure as constitutional. (d) is wrong because charging decisions without probable cause or based on malicious factors like race would be unconstitutional. (e) is wrong because the legal justification is "mutuality of advantage" in bargaining, not mere administrative convenience.
+
+**Tags:** chapters: [6], topics: [plea-bargaining, trial-penalty, mandatory-minimums], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 6 - Bordenkircher holds pre-trial threats of harsher charges are constitutional if supported by probable cause.
+
+---
+
+**Q11.** Assume Senator Sterling is charged with federal bribery for accepting the $25,000 cash and expediting the permit. Is Sterling guilty of bribery?
+
+(a) Guilty, because expediting the permit after receiving a campaign donation constitutes an official act explicitly linked to a corrupt quid pro quo agreement.
+(b) Guilty, because accepting cash to reward a past legislative vote automatically establishes the corrupt intent necessary to secure a federal bribery conviction.
+(c) Not guilty, because the cash was a post-vote gratuity rather than a pre-act bribe, and informally expediting a permit is not a formal official act. <!-- correct -->
+(d) Not guilty, because the Supreme Court has completely struck down the federal honest services fraud statute as unconstitutionally vague in its entirety.
+(e) Not guilty, because campaign donations and post-vote tokens of appreciation are protected political speech and cannot serve as the basis for a bribery charge.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct. Under *Snyder v. United States*, a payment given *after* an official act as a token of appreciation is a gratuity, not a bribe, and is not covered by federal bribery statutes. Furthermore, under *McDonnell v. United States*, informally expediting a permit or arranging meetings does not constitute a formal "official act." (a) is wrong because expediting a permit is not an official act under *McDonnell*. (b) is wrong because rewarding a past vote makes it a gratuity, which is distinct from federal bribery. (d) is wrong because the statute was only narrowed to bribes and kickbacks, not completely struck down. (e) is wrong because while campaign donations are protected, true bribes are not.
+
+**Tags:** chapters: [5], topics: [bribery, gratuity, official-acts], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 5 - Snyder distinction between bribe and gratuity; McDonnell narrowing of "official act."
+
+---
+
+**Q12.** At their joint federal trial, Dominic and Sterling challenge the RICO indictment. Does the Waterfront Syndicate qualify as a RICO enterprise, and do the alleged actions constitute a pattern of racketeering?
+
+(a) Yes, because the Syndicate operates as a structured association-in-fact, and the loansharking and corruption are related predicate acts posing a threat of continued criminal activity. <!-- correct -->
+(b) Yes, because any organization that generates illicit revenue automatically qualifies as an enterprise, regardless of its internal organizational structure or operational continuity over time.
+(c) No, because the Waterfront Syndicate is a purely illegitimate organization, and the RICO statute explicitly only applies to the criminal infiltration of legitimate business enterprises.
+(d) No, because Sterling's zoning actions and the Syndicate's loansharking are entirely distinct types of crimes that cannot legally form a single cohesive pattern of racketeering.
+(e) No, because the RICO statute strictly requires that all predicate acts be committed by the exact same individual, whereas here they were committed separately.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct. A RICO enterprise includes an illegitimate "association-in-fact" with structure, purpose, and longevity. The predicate acts (loansharking, bribery) are related because they serve the enterprise's purpose, and they possess continuity. (b) is wrong because an enterprise requires an ascertainable structure beyond just committing crimes (the "rim"). (c) is wrong because RICO explicitly applies to wholly illegitimate enterprises as well as legitimate ones. (d) is wrong because predicate acts can be different types of crimes as long as they are related to the enterprise. (e) is wrong because predicate acts can be committed by different members of the overarching enterprise.
+
+**Tags:** chapters: [20], topics: [RICO, enterprise, predicate-acts], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 20 - association-in-fact enterprise requirements and relatedness of predicate acts.
+
+---
+
+**Q13.** During voir dire, defense attorney Silvia Rossi uses peremptory challenges to strike six of seven Black jurors, claiming they "appeared hostile to corporate business backgrounds." How will the court evaluate a *Batson* challenge?
+
+(a) The strikes are permissible because the framework applies exclusively to prosecutors, allowing defense attorneys absolute and unreviewable discretion in utilizing their peremptory challenges during jury selection.
+(b) The strikes are permissible because Rossi's stated reason about corporate backgrounds is facially race-neutral, successfully and conclusively satisfying the second step of the evaluation framework.
+(c) The strikes are impermissible if the trial judge determines at step three that Rossi's proffered race-neutral explanation is actually a pretext for intentional racial discrimination. <!-- correct -->
+(d) The strikes are impermissible because removing over eighty percent of the Black jurors in the pool automatically constitutes a per se violation of the Equal Protection Clause.
+(e) The strikes are impermissible because a generalized hostility to corporate backgrounds is not a legally valid reason to strike a juror for cause in a trial.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct. Under the *Batson* three-step framework, after a prima facie case is made (step one) and a facially race-neutral reason is offered (step two), the trial judge must determine whether the opposing party has proven purposeful discrimination (step three). (a) is wrong because *Batson* was extended to defense attorneys in *Georgia v. McCollum*. (b) is wrong because providing a race-neutral reason at step two does not end the inquiry; the judge must still evaluate pretext at step three. (d) is wrong because statistical disparity alone is not a per se violation; intent must be found. (e) is wrong because peremptory challenges do not require "for cause" justification.
+
+**Tags:** chapters: [4], topics: [Batson-framework, jury-selection, equal-protection], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 4 - Batson 3-step framework and extension to defense attorneys.
+
+---
+
+**Q14.** The defense objects to the Trial Judge's final instruction that jurors who acquit contrary to the evidence "will be subject to contempt proceedings." Is the judge's instruction permissible?
+
+(a) Yes, because courts possess a legal duty to actively forestall jury nullification through strong admonitions and strict instructions demanding adherence to the written law.
+(b) Yes, because juries only possess the factual power to nullify, not a legal right, allowing judges to impose contempt sanctions to prevent lawless trial verdicts.
+(c) No, because while judges can instruct juries to follow the law, they cannot instruct them that they may be punished for exercising their unreviewable power to acquit. <!-- correct -->
+(d) No, because the Sixth Amendment expressly guarantees criminal defendants the right to have juries proactively informed of their historic power to nullify unjust state prosecutions.
+(e) No, because any instruction that explicitly mentions the concept of nullification, even negatively, impermissibly alerts the jury to its availability as a practical option.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct. Under *United States v. Kleinman*, courts may give anti-nullification instructions and tell jurors they must follow the law, but instructing them that they could be punished for acquitting crosses the line into coercion, as the jury's power to acquit is unreviewable and unpunishable. (a) is wrong because the duty to forestall nullification does not permit coercive threats of punishment. (b) is wrong because jurors cannot be punished for their verdicts. (d) is wrong because defendants have no constitutional right to a nullification instruction. (e) is wrong because negative instructions about substituting judgment are generally permissible, only the threat of punishment is barred.
+
+**Tags:** chapters: [4], topics: [jury-nullification, anti-nullification-instructions], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 4 - Kleinman holding on the line between permissible and coercive anti-nullification instructions.
+
+---
+
+**Q15.** At sentencing, community advocates argue that Marcus's 13-year sentence fails Bentham's utilitarian conditions and lacks pro-social demands. Under the chapter's theories of punishment, why might the community prefer restorative mediation and drug treatment?
+
+(a) Because under Kant's categorical imperative, restorative mediation ensures that Marcus is treated as an end in himself rather than merely as a means to deter others.
+(b) Because under Bentham's conditions, incarceration is inefficacious given that the drug market immediately replaces sellers, and passive prison time requires no active accountability or repair. <!-- correct -->
+(c) Because under the expressive theory of condemnation, restorative justice sends a significantly stronger signal of societal outrage than the imposition of a severe prison sentence.
+(d) Because Bentham argued that all forms of state punishment are inherently immoral, making community-based restorative mediation the only ethically permissible response to criminal behavior.
+(e) Because passive incarceration has been empirically proven to completely eliminate recidivism, but the community wishes to focus solely on achieving financial compensation for crime victims.
 
 **Answer:** (b)
 
-**Explanation:** Attempt is a specific intent crime requiring the defendant to act with the purpose of committing the target offense. Because Chloe honestly believed the bag contained stolen cash, she lacked the specific intent to possess narcotics. Her mistake of fact negates the mens rea for the attempted offense. (a) fails because while factual impossibility is not a defense, it only applies if the defendant actually possessed the requisite specific intent. (c) fails because the actus reus of a substantial step cannot cure the lack of specific mens rea. (d) improperly relies on legal impossibility for what is actually a factual swap. (e) fails because the doctrine of transferred intent does not transfer mens rea across entirely different statutory offenses.
+**Explanation:** (b) is correct. Bentham argues punishment is unjustified if it is "inefficacious" (e.g., locking up one seller doesn't deter the market). Furthermore, accountability theory distinguishes "passive" punishment (prison) from "active" accountability (drug treatment, making amends), aligning with community demands for pro-social requirements rather than mere suffering. (a) is wrong because Kant's retributivism demands punishment regardless of utility, not restorative mediation. (c) is wrong because expressive theory usually associates punishment severity with the degree of condemnation, not restorative justice. (d) is wrong because Bentham supports punishment when it produces net utility, not considering it inherently immoral in all cases. (e) is wrong because incarceration has not been empirically proven to completely eliminate recidivism.
 
-**Tags:** chapters: [17, 10], topics: [attempt, mistake-of-fact], difficulty: medium, cognitive: application
+**Tags:** chapters: [2], topics: [deterrence-limits, accountability-theory, passive-vs-active], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 17 (Attempts) - Mens Rea; Chapter 10 (Mistake of Fact)
-
----
-
-**Q6.** Assume the jurisdiction applies the traditional common law "purpose" requirement for accomplice liability, but also recognizes the Natural and Probable Consequences (NPC) doctrine. Is the bartender guilty as an accomplice to Leo's armed robbery?
-
-(a) Guilty, because he purposefully facilitated the physical assault, and Leo's escalation to an armed robbery was a natural and probable consequence of that turf assault. <!-- correct -->
-(b) Not guilty, because he lacked specific knowledge of the gun and therefore did not act with the direct purpose to facilitate an armed robbery.
-(c) Guilty, because knowing Leo would commit a violent assault satisfies the knowledge threshold, which automatically extends accomplice liability to all subsequent crimes.
-(d) Not guilty, because the natural and probable consequences doctrine applies only to formal co-conspirators and cannot extend the liability of a mere accomplice.
-(e) Guilty, because turning off the security cameras constitutes affirmative assistance that makes him strictly liable for any and all crimes Leo subsequently commits.
-
-**Answer:** (a)
-
-**Explanation:** Under the traditional rule, an accomplice must have the specific purpose to facilitate the target crime. However, under the Natural and Probable Consequences (NPC) doctrine, an accomplice who purposefully facilitates one crime (the assault) is also liable for any reasonably foreseeable crime committed by the principal (the armed robbery). An armed robbery is a highly foreseeable consequence of a syndicate-sanctioned turf assault. (b) fails because the NPC doctrine explicitly bridges the gap where direct purpose for the escalated crime is absent. (c) fails because base accomplice liability requires purpose to facilitate the initial crime, not mere knowledge. (d) fails because NPC applies to accomplices as well as conspirators. (e) fails because NPC requires reasonable foreseeability, not strict liability for any crime.
-
-**Tags:** chapters: [18], topics: [accomplice-mens-rea, natural-and-probable-consequences], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 18 (Accomplice Liability) - Natural and Probable Consequences
-
----
-
-**Q7.** Is Bruno liable as an accomplice to the robbery based on his failure to intervene?
-
-(a) Guilty, because his intentional failure to act breached a specific contractual duty to intervene, satisfying the actus reus for accomplice liability. <!-- correct -->
-(b) Not guilty, because accomplice liability rigidly requires an affirmative physical act of assistance or direct verbal encouragement to the principal.
-(c) Guilty, because his mere presence at the scene as head of security implicitly encouraged Leo to confidently commit the violent offense.
-(d) Not guilty, because a private employment contract cannot establish a binding legal duty of care for the purposes of criminal liability.
-(e) Guilty, because anyone who witnesses a violent felony and deliberately fails to intervene becomes legally liable as a criminal accomplice.
-
-**Answer:** (a)
-
-**Explanation:** An omission constitutes an actus reus for accomplice liability when the defendant has a legal duty to act and intentionally fails to do so to facilitate the crime. Bruno had a formal contractual duty to intervene, and he intentionally watched without acting, thereby protecting Leo's endeavor. (b) fails because an omission can substitute for an affirmative act when a legal duty exists. (c) fails because mere presence is insufficient without a duty to act or intent to encourage. (d) fails because employment contracts routinely establish legal duties to act under the *Jones* categories. (e) fails because bystanders without a legal duty have no general obligation to intervene.
-
-**Tags:** chapters: [18, 9], topics: [accomplice-liability, omission, duty-to-act], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 18 (Accomplice Liability) - Actus Reus; Chapter 9 (Omissions) - Contractual Duty
-
----
-
-**Q8.** Which of the following is the most accurate assessment of Leo's liability for the rival's death?
-
-(a) He is guilty of felony murder, and his act of initiating an armed robbery makes him the initial aggressor, completely barring any claim of self-defense. <!-- correct -->
-(b) He is guilty of extreme-recklessness homicide, but he can successfully claim self-defense because the rival escalated the encounter by lunging with a lethal weapon.
-(c) He is not guilty of felony murder because the gun discharged accidentally, meaning the death was not caused in furtherance of the underlying robbery.
-(d) He is guilty of felony murder, but the initial-aggressor bar does not apply because he was stumbling backward, satisfying the duty to retreat.
-(e) He is not guilty of extreme-recklessness homicide because the sudden and unexpected lunge by the rival legally breaks the chain of proximate causation.
-
-**Answer:** (a)
-
-**Explanation:** Felony murder applies to any death—even an accidental one—caused in the perpetration of a dangerous felony like robbery. Furthermore, by initiating an armed robbery, Leo became the initial aggressor. The initial aggressor rule completely bars a self-defense claim unless the aggressor effectively withdraws from the encounter, which Leo did not do. (b) fails because the victim's defensive lunge does not restore the initial aggressor's right to self-defense. (c) fails because felony murder explicitly covers accidental deaths during the commission of the felony. (d) fails because stumbling backward during an active armed robbery does not constitute legal withdrawal or retreat. (e) fails because a victim resisting a robbery is highly foreseeable and does not break proximate causation.
-
-**Tags:** chapters: [14, 22], topics: [felony-murder, initial-aggressor-bar], difficulty: medium, cognitive: analysis
-
-**Grounding:** Chapter 14 (Felony Murder); Chapter 22 (Self-Defense) - Initial Aggressor Bar
-
-### Stem 2: Procedural and Appellate Review
-
-The case has moved to the pre-trial and trial phases under AUSA Vance. Review Vance's procedural tactics with Marcus, Senator Sterling's corruption charge, and the trial court's jury rulings to anticipate the defense's appellate arguments.
-
----
-
-**Q9.** Under the rules governing pretextual stops and selective prosecution, how will the court rule on Marcus's discovery motion?
-
-(a) Deny the motion, because under *Armstrong*, aggregate statistical disparities are insufficient for discovery without evidence of a specific, similarly situated white driver who was not stopped. <!-- correct -->
-(b) Grant the motion, because the extreme statistical disparity in Operation Sweep establishes a prima facie case of discriminatory effect and intent under the Equal Protection Clause.
-(c) Deny the motion, because the *Whren* doctrine dictates that the subjective racial motivations of the police are entirely irrelevant to both Fourth Amendment and Equal Protection claims.
-(d) Grant the motion, because the remarkably low 1% contraband yield demonstrates that the police operation objectively lacked probable cause for the underlying pretextual traffic stops.
-(e) Deny the motion, because discovery for selective prosecution is categorically barred once a defendant has been formally indicted, regardless of the statistical evidence presented to the court.
-
-**Answer:** (a)
-
-**Explanation:** Under *United States v. Armstrong*, a defendant seeking discovery on a selective prosecution claim must produce "some evidence" that similarly situated individuals of a different race could have been prosecuted but were not. Aggregate statistical data is insufficient to cross this threshold. (b) fails because *McCleskey* and *Armstrong* require proof of specific intent and effect in the individual case, not just systemic statistics. (c) fails because while *Whren* makes subjective intent irrelevant for Fourth Amendment purposes, it explicitly preserves Equal Protection challenges for racial bias. (d) fails because a 1% yield is a policy critique, not a legal negation of the objective probable cause that justifies the initial traffic stop. (e) fails because discovery can absolutely be sought post-indictment.
-
-**Tags:** chapters: [6, 3], topics: [selective-prosecution, Armstrong-discovery, pretextual-stops], difficulty: hard, cognitive: application
-
-**Grounding:** Chapter 6 (Prosecutors) - Selective Prosecution Standard; Armstrong Discovery
-
----
-
-**Q10.** Is AUSA Vance's threat to charge Marcus under a harsher overlapping statute constitutionally permissible during plea negotiations?
-
-(a) Yes, because prosecutors have unreviewable discretion to choose among overlapping statutes and may threaten harsher charges to induce a guilty plea. <!-- correct -->
-(b) No, because threatening a harsher charge solely to penalize a defendant for exercising the constitutional right to a trial violates due process rules against vindictiveness.
-(c) Yes, but only if Vance can affirmatively prove that Marcus's conduct satisfies distinct additional elements not present in the lesser overlapping charge.
-(d) No, because the 10-year mandatory minimum constitutes an excessive trial penalty that coerces an involuntary and unconstitutional guilty plea.
-(e) Yes, because federal plea negotiations are entirely exempt from constitutional scrutiny regardless of the prosecutor's specific tactics, motivations, or coercive threats.
-
-**Answer:** (a)
-
-**Explanation:** Under *Bordenkircher v. Hayes*, prosecutors may constitutionally threaten harsher charges to induce a guilty plea, provided there is probable cause to support the threatened charge. Furthermore, under *Batchelder*, prosecutors have unreviewable discretion to choose among overlapping statutes with different penalties. (b) fails because the Supreme Court has held that pre-trial threats during plea negotiations do not constitute unconstitutional vindictiveness. (c) fails because *Batchelder* applies even when two overlapping statutes cover the exact same conduct without differing elements. (d) fails because the threat of a mandatory minimum does not legally render a plea involuntary or coerced. (e) fails because plea negotiations are still subject to some baseline constitutional scrutiny (e.g., the requirement of probable cause for the charge).
-
-**Tags:** chapters: [6], topics: [plea-bargaining, Batchelder-overlapping-statutes, trial-penalty], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 6 (Prosecutors) - Bordenkircher and Batchelder doctrines
-
----
-
-**Q11.** Under federal anti-corruption law, is Senator Sterling guilty of accepting a bribe?
-
-(a) Not guilty of bribery, because the payment was received after the official act as a reward rather than agreed upon beforehand to influence the act. <!-- correct -->
-(b) Guilty of bribery, because the substantial $25,000 payment was directly connected to his official capacity and duties as a state senator.
-(c) Not guilty of bribery, because municipal zoning changes are legislative functions rather than formal "official acts" under the federal bribery statute.
-(d) Guilty of bribery, because accepting any substantial financial gift from a known criminal syndicate is per se corrupt under federal anti-corruption law.
-(e) Not guilty of bribery, because Dominic did not explicitly specify which specific zoning vote the token of appreciation was intended to financially reward.
-
-**Answer:** (a)
-
-**Explanation:** In *Snyder v. United States*, the Supreme Court held that the federal bribery statute (§ 666) criminalizes pre-act bribes intended to influence an official action, but does not criminalize post-act gratuities given merely as a reward or token of appreciation without a prior agreement. (b) fails because it conflates a non-criminal gratuity with a criminal bribe. (c) fails because legislative zoning votes are classic formal "official acts," unlike the informal meetings in *McDonnell*. (d) fails because there is no per se bribery rule based solely on the donor's criminal status. (e) fails because the failure to specify the exact vote is not the distinguishing factor; the timing and lack of a prior quid pro quo make it a gratuity.
-
-**Tags:** chapters: [5], topics: [corruption, bribe-vs-gratuity], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 5 (Legislatures and Courts) - Snyder v. United States (Bribe vs. Gratuity)
-
----
-
-**Q12.** Does the *Batson* framework apply to defense attorney Rossi's peremptory strikes of Black jurors?
-
-(a) Yes, because the Equal Protection Clause prohibits defense attorneys, not just prosecutors, from executing race-based peremptory strikes during voir dire. <!-- correct -->
-(b) No, because the *Batson* framework applies exclusively to state actors and prosecutors, leaving defense attorneys constitutionally free to strike jurors for any reason.
-(c) Yes, but the strikes will be automatically upheld because hostility to corporate business is a per se valid, race-neutral justification under the third step of *Batson*.
-(d) No, because Rossi struck only six of the seven Black jurors, failing to establish the complete pattern of systemic exclusion required for a constitutional challenge.
-(e) Yes, because any peremptory strike executed by a defense attorney requires a showing of compelling cause to ensure a fair and impartial jury selection process.
-
-**Answer:** (a)
-
-**Explanation:** In *Georgia v. McCollum*, the Supreme Court extended *Batson* to defense attorneys, holding that the Equal Protection Clause protects jurors from race-based exclusion regardless of which side executes the strike. (b) is the primary trap, as students often assume *Batson* only restricts the government. (c) fails because step three of *Batson* requires the trial judge to evaluate whether the facially neutral reason is actually pretextual; it is never "automatically upheld." (d) fails because striking six out of seven Black jurors is more than sufficient to establish a prima facie case of discrimination. (e) fails because peremptory strikes do not generally require cause unless a successful *Batson* challenge shifts the burden.
-
-**Tags:** chapters: [4], topics: [Batson-framework], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 4 (The Jury and Nullification) - Batson framework
-
----
-
-**Q13.** Is the trial judge's final instruction regarding jury nullification constitutionally permissible?
-
-(a) No, because threatening jurors with contempt proceedings for nullification improperly coerces the jury and violates their unreviewable power to acquit. <!-- correct -->
-(b) Yes, because courts have an affirmative duty to forestall nullification and may use the direct threat of punishment to ensure jurors strictly follow the law.
-(c) No, because criminal defendants have a recognized constitutional right to a jury instruction affirmatively informing the jury of their inherent power to nullify.
-(d) Yes, because nullification is entirely illegal and jurors who intentionally ignore the evidence forfeit their double jeopardy protections upon returning an acquittal verdict.
-(e) No, because trial judges are strictly forbidden from even mentioning the concept of nullification during final jury instructions under any circumstances.
-
-**Answer:** (a)
-
-**Explanation:** Under *United States v. Kleinman*, trial judges may instruct juries that they must follow the law and have no right to nullify. However, instructions cross the line into unconstitutional coercion when they threaten jurors with punishment (such as contempt) or state that nullification is legally impossible. (b) fails because the duty to forestall nullification does not permit punitive threats. (c) fails because *Dougherty* established that defendants have no constitutional right to an affirmative pro-nullification instruction. (d) fails because an acquittal achieved through nullification is unreviewable and double jeopardy permanently attaches. (e) fails because judges are permitted to mention nullification for the purpose of instructing juries not to engage in it, provided they do not threaten punishment.
-
-**Tags:** chapters: [4], topics: [anti-nullification-instruction-limits], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 4 (The Jury and Nullification) - United States v. Kleinman
+**Grounding:** Chapter 2 - Bentham's four limits on utility and Sered/Braman on active accountability vs. passive punishment.

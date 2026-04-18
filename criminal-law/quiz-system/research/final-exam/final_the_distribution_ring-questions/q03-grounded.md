@@ -1,0 +1,17 @@
+**Q3.** Assume Darius is prosecuted in a Model Penal Code (MPC) jurisdiction. He is convicted of attempted murder. At sentencing, Darius argues that because the murder was incomplete, he should categorically face a lower sentencing range than if he had successfully killed Vance. How should the court rule on his sentencing argument?
+
+(a) Reject the argument, because the MPC punishes attempts at the same grade as the completed offense, reflecting the view that his culpability is identical. <!-- correct -->
+(b) Reject the argument, because attempted murder is a structurally inchoate offense that always carries a mandatory life sentence under the categorical approach.
+(c) Accept the argument, because the MPC mandates a one-grade reduction for all attempts to reflect the lesser social harm caused by the incomplete act.
+(d) Accept the argument, because the MPC applies the dangerous proximity test, which inherently grades uncompleted acts lower than fully consummated target offenses.
+(e) Accept the argument, because the felony-murder rule cannot be triggered by an attempt, requiring the court to impose a reduced sentence for the failure.
+
+**Answer:** (a)
+
+**Explanation:** The correct answer is (a) because MPC § 5.05 grades attempts at the same level as the completed offense (with exceptions for capital crimes), focusing on the actor's culpable mental state and antisocial disposition rather than the lucky outcome of a failed crime. Option (b) fails because attempted murder is not a structurally inchoate offense (like burglary); it is a general attempt. Option (c) fails because it describes the traditional common law grading reduction rule, which the MPC explicitly rejected. Option (d) fails because the MPC uses the substantial step test, not the dangerous proximity test, and test choice doesn't dictate grading. Option (e) fails because while true that felony-murder isn't triggered without a death, this has nothing to do with how the attempt itself is graded under the MPC.
+
+**Tags:** chapters: [17], topics: [attempt, grading-mpc-equal, grading-general-reduction], difficulty: easy, cognitive: recall
+
+**Grounding:** Chapter 17, Grading MPC Equal; MPC § 5.05.
+
+<!-- grounding: GROUNDED — MPC equal grading for attempts, Ch 17, Refinement `grading-mpc-equal`. Rule paraphrased accurately. -->

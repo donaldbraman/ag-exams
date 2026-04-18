@@ -1,27 +1,22 @@
-**Q5.** Assume Marcus is charged with attempted distribution of narcotics based on his interception during Operation Sweep. Is he guilty?
+**Q5.** Is Marcus guilty of attempted distribution of narcotics for his intercepted delivery?
 
-(a) Not guilty, because he had not yet arrived at the delivery location, meaning he remained safely within the legal zone of mere preparation.
-(b) Not guilty, because the police intervention made the completion of the crime impossible, establishing a valid and complete factual impossibility defense.
-(c) Guilty, because driving to the delivery location constitutes a substantial step that is strongly corroborative of his underlying criminal purpose. <!-- correct -->
-(d) Guilty, because agreeing to the delivery under threat from Leo automatically satisfies the affirmative actus reus requirement for criminal attempt.
-(e) Guilty, because his possession of the drugs in the vehicle completed the target offense, merging the attempt into the final completed criminal act.
+(a) Guilty of attempt because agreeing to distribute and driving to the delivery location constitutes a substantial step strongly corroborative of his specific criminal purpose. <!-- correct -->
+(b) Guilty of attempt because his actions satisfied the dangerous proximity test by placing him physically close enough to complete the final illicit drug transaction.
+(c) Not guilty of attempt because driving to the location is merely preparatory conduct and does not satisfy the unequivocally criminal test for modern attempt liability.
+(d) Not guilty of attempt because he had not yet arrived at the delivery location, leaving a meaningful opportunity for him to voluntarily abandon his criminal purpose.
+(e) Not guilty of attempt because the police intervention made the completion of the delivery factually impossible, which serves as a complete defense to attempt charges.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** The correct answer is (c). Under the Model Penal Code and majority modern approaches, the actus reus for attempt requires a "substantial step" in a course of conduct planned to culminate in the commission of the crime, and the step must be strongly corroborative of the actor's criminal purpose. Marcus possessing the stash and driving en route to the delivery clearly satisfies this standard (Fact 5).
+**Explanation:** (a) is correct. Under the MPC's substantial step test, taking concrete action toward completion—like possessing the materials and driving toward the delivery site—that strongly corroborates criminal purpose is sufficient for attempt liability. (b) is wrong because the dangerous proximity test requires being much closer to the actual completion of the act, a threshold he had likely not yet reached. (c) is wrong because driving with the drugs is more than mere preparation under the modern substantial step standard. (d) is wrong because the theoretical possibility of future abandonment does not negate a substantial step that has already been taken. (e) is wrong because factual impossibility (police intervention preventing completion) is not a defense to attempt.
 
-(a) is incorrect because the substantial step test reaches further back in time than common-law proximity tests, criminalizing conduct well before the defendant arrives at the final location.
-(b) is incorrect because factual impossibility (the police intercepting him before he could succeed) is not a valid defense to attempt.
-(d) is incorrect because an agreement alone constitutes conspiracy, but attempt requires an overt act that amounts to a substantial step toward commission.
-(e) is incorrect because while possession was completed, the target offense of *distribution* was not completed, meaning attempt is the correct charge.
+**Tags:** chapters: [17], topics: [attempt, substantial-step, impossibility], difficulty: medium, cognitive: application
 
-**Tags:** chapters: [17], topics: [attempt, actus-reus-substantial-step], difficulty: easy, cognitive: application
+**Grounding:** Chapter 17 - actus reus substantial step test.
 
-**Grounding:** Chapter 17 - Attempts > Actus reus (substantial step)
-
-<!-- edge-case-audit: SHOULD FIX
+<!-- edge-case-audit: MUST FIX
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: The blanket question "Is he guilty?" forces an evaluation of Marcus's potential duress and mistake-of-fact defenses (Fact 6), which could alter the ultimate conclusion of guilt. 
-3. Cross-Question Spoilers: Q6 and Q7 explicitly test Marcus's mens rea/mistake-of-fact and duress defenses. Asking "Is he guilty?" in Q5 steps on those questions by implicitly requiring students to resolve those defenses here to confidently select "Guilty."
-Recommended fix: Add a clarifying assumption to the stem, such as: "Assuming Marcus had the requisite mens rea and lacks any affirmative defenses, is he guilty?" or ask directly about the element: "Did Marcus's conduct satisfy the actus reus requirement for attempt?"
+2. Cross-Doctrine Clashes: Attempt requires specific intent. Because Marcus believed he was distributing counterfeit Adderall (a stimulant/misdemeanor) rather than fentanyl (a narcotic/severe felony), this mistake of fact may negate the specific intent required for "attempted distribution of narcotics." 
+3. Cross-Question Spoilers: Q6 explicitly tests Marcus's mistake of fact, and Q7 tests his duress defense. Asking if he is outright "Guilty" in Q5 forces students to ignore these pending defenses, which creates a direct conflict with the facts established for Q6 and Q7 (a student could validly argue he is "Not guilty" under these other doctrines).
+Recommended fix: Modify the call of the question to bracket mens rea and defenses: "Assuming Marcus possessed the requisite mens rea and lacked any affirmative defenses, do his actions satisfy the actus reus for attempt?" Change the option lead-ins from "Guilty / Not guilty" to "Yes, because... / No, because...".
 -->

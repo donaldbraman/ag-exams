@@ -1,31 +1,26 @@
-**Q1.** Assume the prosecution charges Dominic and Leo with conspiracy to distribute narcotics. Will this charge succeed?
+**Q1.** Does the agreement between Dominic and Leo support a conspiracy charge against Dominic?
 
-(a) Not guilty, because "locking down a market" is too vague to constitute a legally cognizable unlawful objective under conspiracy law.
-(b) Not guilty, because Leo unilaterally recruited the street crew without Dominic's express knowledge or prior explicit authorization.
-(c) Guilty of conspiracy, because their exchange of mutual commitments to control the market satisfies the bilateral agreement requirement. <!-- correct -->
-(d) Guilty of conspiracy, because Dominic is strictly liable for any planning offenses committed by his organizational subordinates.
-(e) Not guilty, because the agreement lacked an explicit overt act toward the distribution of narcotics at the exact time of the conversation.
+(a) Guilty of conspiracy because Dominic's instruction and Leo's assent formed a bilateral agreement to control the market, and Leo's hiring of Marcus constitutes an overt act. <!-- correct -->
+(b) Guilty of conspiracy because Dominic's generalized desire to lock down the market represents an implicit agreement with all members of the Waterfront Syndicate.
+(c) Not guilty of conspiracy because Dominic did not personally hire Marcus or commit any other overt act in furtherance of the narcotics distribution plan.
+(d) Not guilty of conspiracy because Dominic's instruction merely solicited a crime, and conspiracy requires a formalized oral contract or written agreement between the parties.
+(e) Not guilty of conspiracy because the agreement only referenced locking down the pill market, which is insufficiently specific to support a federal narcotics conspiracy.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** The correct answer is (c). Conspiracy requires an agreement between two or more people to commit an unlawful act. Dominic's statement of the goal ("lock down the East End pill market") and Leo's commitment to action ("I'll recruit the street crew today") demonstrate a clear meeting of the minds and bilateral agreement to distribute narcotics (Facts 1 and 2). 
+**Explanation:** (a) is correct. Conspiracy requires an agreement and an overt act. Dominic and Leo formed a bilateral agreement when Dominic declared the goal ("lock down the East End pill market") and Leo assented by offering to recruit the crew. Leo's act of hiring Marcus satisfies the minimal overt act requirement. (b) is wrong because Dominic and Leo formed a specific bilateral agreement; a generalized implicit agreement is not the basis for liability here. (c) is wrong because the overt act can be committed by any co-conspirator; Dominic need not commit it personally. (d) is wrong because informal verbal agreements easily satisfy the conspiracy requirement. (e) is wrong because referencing the "pill market" in context is sufficiently specific for an illicit drug distribution agreement.
 
-(a) is incorrect because the context of the Syndicate clearly indicates that locking down a pill market is an agreement to distribute narcotics.
-(b) is incorrect because Leo's agreement with Dominic formed the conspiracy; the specific details of recruiting do not negate their mutual commitment.
-(d) is incorrect because Pinkerton liability applies to substantive offenses committed during a conspiracy, not the formation of the agreement itself.
-(e) is incorrect because an overt act (which Leo later committed by hiring Marcus) does not need to occur at the exact moment the verbal agreement is formed.
+**Tags:** chapters: [19], topics: [conspiracy, agreement, overt-act], difficulty: medium, cognitive: application
 
-**Tags:** chapters: [19], topics: [conspiracy, agreement-inference, bilateral-unilateral], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 19 - Conspiracy > Intent to agree & Bilateral requirement
+**Grounding:** Chapter 19 - bilateral agreement and minimal overt act requirements
 
 <!-- audit: MUST FIX
-Check 1: pass (conditional on missing facts)
-Check 2: pass
-Check 3: pass
-Check 4: fails. The question is entirely missing its fact pattern. The stem asks if a charge will succeed but provides zero facts about Dominic and Leo's conduct. The explanation relies on "Facts 1 and 2" (Dominic's statement, Leo's response, and hiring Marcus), which are nowhere in the prompt.
-Check 5: pass
-Check 6: pass
-Check 7: pass
-Recommended fix: Integrate the missing scenario facts directly into the question stem (e.g., "Dominic tells Leo, 'We need to lock down the East End pill market.' Leo replies, 'I'll recruit the street crew today,' and later hires Marcus...").
+check 1: pass (The substantive application of bilateral agreement and minimal overt act rules is accurate under standard casebook doctrine, though the explanation's blanket statement that "Conspiracy requires an overt act" ignores common law and MPC major-felony exceptions.)
+check 2: pass (Assuming the missing facts support the explanation, the distractors are doctrinally flawed and would not attract a well-prepared student.)
+check 3: pass (The explanation consistently maps to the options and the standard rules for bilateral agreement and overt acts.)
+check 4: MUST FIX (The entire fact pattern is missing! The stem only contains the call of the question ("Does the agreement between Dominic and Leo..."), requiring the reader to reverse-engineer the facts about Dominic, Leo, Marcus, and the pill market from the answer choices and explanation.)
+check 5: SHOULD FIX (No jurisdiction is stipulated. Because option (e) references "a federal narcotics conspiracy," a highly prepared student might recall that under *United States v. Shabani*, a federal drug conspiracy (21 U.S.C. § 846) actually does NOT require an overt act, contradicting the premise of the explanation.)
+check 6: pass (No excluded topic bleed.)
+check 7: pass (Doctrines match the Chapter 19 map tags `bilateral-unilateral` and `overt-act-minimal`.)
+Recommended fix: Insert the missing fact pattern before the call of the question. To prevent a credible challenge based on *Shabani*, specify a jurisdiction or general conspiracy statute that strictly requires an overt act, rather than leaving the door open to a federal drug conspiracy interpretation.
 -->

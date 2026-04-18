@@ -1,0 +1,8 @@
+```
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The question applies the "vendor" exception (mere knowledge + flat fee = no purpose) to negate specific intent. However, this doctrine (from cases like *Peoni* or *Lauria*) applies to providers of ordinary, legitimate goods or services. Leo is actively serving as a getaway driver waiting at the scene of an armed robbery. Courts overwhelmingly hold that acting as a getaway driver constitutes direct participation with no legitimate commercial use, inherently satisfying the specific intent/purpose standard. Concluding Leo lacked purpose simply because he charged a flat fee is doctrinally flawed.
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: This question concludes Leo is NOT an accomplice to the attempted hijacking. If Leo is not guilty of the underlying felony, he is categorically immune from felony murder. This completely breaks Q13, which evaluates Leo's felony murder liability for Wendy's death as a "major participant" under SB 1437. He cannot be a major participant in a felony he is legally deemed not to have committed.
+Recommended fix: Since Leo must be the getaway driver for the subsequent police chase and Q13/Q14 to work, he MUST be guilty of the underlying felony. Rewrite an option to be the correct "Yes" answer, explaining that Leo's active participation as a getaway driver at the scene goes beyond mere knowledge and demonstrates a purpose to facilitate the crime, satisfying specific intent.
+-->
+```

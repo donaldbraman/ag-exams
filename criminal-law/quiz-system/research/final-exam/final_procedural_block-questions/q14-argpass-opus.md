@@ -1,39 +1,33 @@
-**Q14.** Assume Dominic appeals his conviction, arguing the judge's final instruction on jury nullification violated his trial rights. How should the appellate court rule?
+**Q14.** The defense objects to the Trial Judge's final instruction that jurors who acquit contrary to the evidence "will be subject to contempt proceedings." Is the judge's instruction permissible?
 
-(a) Uphold the conviction, because trial courts have an affirmative constitutional duty to actively inform juries that nullification is entirely illegal and strictly prohibited.
-(b) Uphold the conviction, because the instruction correctly and neutrally stated that juries have absolutely no legal right to nullify contrary to the presented evidence.
-(c) Vacate the conviction, because criminal defendants have a fundamental constitutional right to an instruction affirmatively informing the jury of its factual nullification power.
-(d) Vacate the conviction, because while courts may inform juries they have no right to nullify, explicitly threatening them with contempt crosses into impermissible coercion. <!-- correct -->
-(e) Vacate the conviction, because any judicial mention whatsoever of nullification during final instructions constitutes structural error requiring automatic appellate reversal.
+(a) Yes, because courts possess a legal duty to actively forestall jury nullification through strong admonitions and strict instructions demanding adherence to the written law.
+(b) Yes, because juries only possess the factual power to nullify, not a legal right, allowing judges to impose contempt sanctions to prevent lawless trial verdicts.
+(c) No, because while judges can instruct juries to follow the law, they cannot instruct them that they may be punished for exercising their unreviewable power to acquit. <!-- correct -->
+(d) No, because the Sixth Amendment expressly guarantees criminal defendants the right to have juries proactively informed of their historic power to nullify unjust state prosecutions.
+(e) No, because any instruction that explicitly mentions the concept of nullification, even negatively, impermissibly alerts the jury to its availability as a practical option.
 
-**Answer:** (d)
+**Answer:** (c)
 
-**Explanation:** The correct answer is (d). Under *United States v. Kleinman*, courts may issue anti-nullification instructions informing the jury that they must follow the law and have no legal right to acquit contrary to the evidence. However, instructing jurors that they will "be subject to contempt proceedings" (Fact 11) crosses the line from permissible guidance into impermissible coercion by threatening the jury's independence with punitive consequences.
+**Explanation:** (c) is correct. Under *United States v. Kleinman*, courts may give anti-nullification instructions and tell jurors they must follow the law, but instructing them that they could be punished for acquitting crosses the line into coercion, as the jury's power to acquit is unreviewable and unpunishable. (a) is wrong because the duty to forestall nullification does not permit coercive threats of punishment. (b) is wrong because jurors cannot be punished for their verdicts. (d) is wrong because defendants have no constitutional right to a nullification instruction. (e) is wrong because negative instructions about substituting judgment are generally permissible, only the threat of punishment is barred.
 
-(a) is incorrect because courts have the authority, but not an affirmative constitutional *duty*, to issue anti-nullification instructions.
-(b) is incorrect because the instruction did not stop at stating the law; it explicitly threatened jurors with contempt, rendering it coercive.
-(c) is incorrect because courts consistently hold that defendants have no legal right to demand an instruction informing the jury of their unreviewable power to nullify.
-(e) is incorrect because appropriate anti-nullification instructions (without threats of punishment) are permissible and do not constitute error.
+**Tags:** chapters: [4], topics: [jury-nullification, anti-nullification-instructions], difficulty: medium, cognitive: application
 
-**Tags:** chapters: [4], topics: [anti-nullification-instruction-limits], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 4 - The Jury and Nullification > Anti-nullification instruction limits
+**Grounding:** Chapter 4 - Kleinman holding on the line between permissible and coercive anti-nullification instructions.
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student might recall that juries must apply the law as instructed by the judge (*Sparf v. United States*). Building on this, the student could logically conclude that to protect the integrity of the legal system, trial courts must possess an "affirmative constitutional duty" to expressly forbid nullification in every case, making this option seem legally sound.
-(b) Argument-for: A student might focus exclusively on the core doctrine that juries have absolutely no *legal right* to nullify. If they gloss over the coercive threat of contempt in the fact pattern, they could conclude the judge's instruction was merely a strong, legally accurate, and "neutral" statement regarding the rigid boundaries of the jury's power.
-(c) Argument-for: A student could argue that because juries possess the unreviewable de facto power to nullify—secured by the Double Jeopardy Clause and general verdict rules—defendants must logically have a corresponding "fundamental constitutional right" to ensure the jury is made fully aware of this inherent power to judge both law and fact.
-(d) Argument-for: This is the correct answer. Under cases like *United States v. Kleinman*, trial courts are legally permitted to instruct a jury that they have no right to nullify, but they are forbidden from using language that coerces the jury. Explicitly threatening the jury with contempt proceedings inherently coerces jurors by promising punitive consequences, thereby violating the defendant's right to an independent jury verdict.
-(e) Argument-for: A student could believe that the jury's nullification power is so deeply embedded in the Sixth Amendment that any interference by the trial judge is strictly forbidden. They might reasonably argue that "any judicial mention whatsoever" of nullification prejudices the jury's deliberative secrecy and independence, thereby constituting structural error that warrants automatic reversal.
+(a) Argument-for: A student might reason that since nullification violates the juror's oath, judges possess broad authority to prevent it. Because courts have a recognized duty to forestall nullification (e.g., *United States v. Thomas*), a student could interpret the judge's threat of contempt as a permissible "strong admonition" and strict instruction designed to demand adherence to the law.
+(b) Argument-for: A student could argue that since nullification is merely a de facto factual power rather than a recognized de jure legal right (*Sparf v. United States*), any verdict contrary to the evidence is lawless. From this, the student might incorrectly deduce that a judge's inherent contempt powers can be wielded against jurors to punish such lawlessness.
+(c) Argument-for: This is the legally correct answer. Relying on *Bushell's Case* and *United States v. Kleinman*, a student would recognize that while trial judges can firmly instruct juries to follow the law, they cross the line into impermissible coercion when they threaten jurors with punishment for their unreviewable verdicts.
+(d) Argument-for: A student might recall the historic role of the jury as a bulwark against government oppression. Believing this history is enshrined in the Constitution, the student could mistakenly conclude that the Sixth Amendment expressly guarantees a defendant the right to affirmatively notify the jury of its power to nullify.
+(e) Argument-for: A student might recognize that defendants are not entitled to nullification instructions because they encourage lawlessness. Extending this logic, the student could argue for a categorical ban on *any* explicit mention of nullification by the judge—even a negative one—because it inadvertently alerts the jury to its practical power to acquit against the evidence.
 
-Head-to-head:
-The keyed answer (d) perfectly resolves the scenario by correctly distinguishing between permissible anti-nullification guidance and impermissible coercion. Distractors (a), (c), and (e) are highly effective because they contain beautifully locked, easily falsifiable legal claims ("affirmative constitutional duty," "fundamental constitutional right," "any judicial mention whatsoever... structural error"). However, distractor (b) relies primarily on a factual mischaracterization ("neutrally stated") rather than asserting a false *legal* premise. Under the strict close-call standard, distractors must contain an explicit, identifiable false legal claim rather than merely misstating the facts of the prompt.
+Head-to-head: (c) is the definitively correct application of the *Kleinman* standard. Distractors (b), (d), and (e) all contain explicit, falsifiable legal claims that are factually wrong under black-letter law. Distractor (a), however, relies on a true legal premise (courts have a duty to forestall nullification through strong admonitions) and only fails because the "Yes" conclusion incorrectly encompasses contempt threats. To satisfy the prompt's strict standard requiring an explicit, identifiable false legal claim within the rationale itself, (a) should be locked with an absolute assertion that directly validates the threat of sanctions.
 
 Falsifiable claim per distractor:
-- (a): "trial courts have an affirmative constitutional duty" — wrong because courts have discretion, not a mandatory constitutional obligation, to issue anti-nullification instructions.
-- (b): "correctly and neutrally stated" — wrong primarily on the facts (the instruction included a threat of contempt), though it implicitly assumes a contempt threat can legally be a "neutral" statement of law.
-- (c): "criminal defendants have a fundamental constitutional right to an instruction" — wrong because federal and state case law universally denies defendants the right to demand a pro-nullification instruction.
-- (e): "any judicial mention whatsoever... constitutes structural error requiring automatic appellate reversal" — wrong because courts are widely permitted to give neutral anti-nullification instructions without triggering structural error.
+- (a): "Yes, because courts possess a legal duty to actively forestall jury nullification through strong admonitions..." — wrong because, while the premise is true, the conclusion implicitly categorizes contempt threats as permissible "strong admonitions," violating the rule that jurors cannot be punished for their verdicts. (Needs explicit strengthening).
+- (b): "allowing judges to impose contempt sanctions to prevent lawless trial verdicts." — wrong because *Bushell's Case* established centuries ago that jurors cannot be sanctioned for their acquittals.
+- (d): "the Sixth Amendment expressly guarantees criminal defendants the right to have juries proactively informed..." — wrong because defendants possess no constitutional right to have the jury instructed on nullification.
+- (e): "any instruction that explicitly mentions the concept of nullification... impermissibly alerts the jury..." — wrong because courts routinely issue permissible anti-nullification instructions that explicitly reference and forbid the practice.
 
-Recommended fix: Revise (b) to feature a purely false legal claim locked with absolute language. For example: "Uphold the conviction, because trial judges are categorically permitted to explicitly threaten jurors with contempt to prevent the lawless act of nullification."
+Recommended fix: Change (a) to explicitly assert a false legal claim: "(a) Yes, because courts possess a categorical legal duty to actively forestall jury nullification through any means necessary, including threats of legal sanctions, to demand adherence to the written law."
 -->

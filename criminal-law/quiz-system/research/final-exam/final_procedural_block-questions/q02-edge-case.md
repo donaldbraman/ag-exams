@@ -1,27 +1,22 @@
-**Q2.** Assume that, whether or not Leo is convicted, Chloe is charged with drug possession and as an accomplice to Leo's drug distribution. Which of the following describes her liability?
+**Q2.** Is Chloe guilty of drug distribution as an accomplice?
 
-(a) Guilty of both offenses, because holding the key establishes possession and simple knowledge of the crime establishes accomplice liability.
-(b) Guilty of possession but not accomplice liability, because she lacked the purpose to facilitate the distribution despite her control over the stash. <!-- correct -->
-(c) Guilty of accomplice liability but not possession, because she did not personally sell the drugs but actively knew of the criminal enterprise.
-(d) Not guilty of either offense, because she was merely present at the location and did not actively participate in the illicit narcotics trade.
-(e) Guilty of both offenses, because under the natural and probable consequences doctrine, simple possession automatically leads to distribution liability.
+(a) Guilty of drug distribution because her knowledge that the drugs were sold to pay her rent satisfies the purposeful mental state required for accomplice liability.
+(b) Guilty of drug distribution because holding the only key to the stash house provided substantial assistance to Leo, which automatically creates strict accomplice liability.
+(c) Not guilty of drug distribution because she lacked the purpose to promote or facilitate the offense, possessing only knowledge that the distribution was occurring. <!-- correct -->
+(d) Not guilty of drug distribution because she did not maintain exclusive dominion and control over the drugs, which is required to establish constructive possession.
+(e) Not guilty of drug distribution because she did not directly participate in the actual physical sale of the narcotics to end users in the East End market.
 
-**Answer:** (b)
+**Answer:** (c)
 
-**Explanation:** The correct answer is (b). Constructive possession requires the power and intent to exercise control over an item, which Chloe has by holding the only key to the stash house. However, accomplice liability requires that the defendant act with the *purpose* of promoting or facilitating the crime. Chloe explicitly stated she "didn't care if he succeeded or failed" (Fact 3), demonstrating mere knowledge rather than the required purpose (as established in *Peoni* and *Lauria*).
+**Explanation:** (c) is correct. Accomplice liability requires that the defendant act with the purpose to promote or facilitate the underlying offense. Chloe explicitly stated she only knew about the drugs and didn't care if the crime succeeded or failed as long as rent was paid. Mere knowledge is insufficient for accomplice liability. (a) is wrong because knowledge alone does not equal purpose. (b) is wrong because substantial assistance must still be accompanied by the required purposeful mental state. (d) is wrong because it conflates the requirements of accomplice liability with constructive possession, which is a different doctrine. (e) is wrong because an accomplice need not directly participate in the actus reus of the principal's crime.
 
-(a) is incorrect because mere knowledge of the principal's criminal intent is insufficient for accomplice liability; true purpose is required.
-(c) is incorrect because her control of the key establishes constructive possession, while her lack of purpose defeats accomplice liability.
-(d) is incorrect because holding the sole key establishes constructive possession, making her more than merely present.
-(e) is incorrect because the natural and probable consequences doctrine applies to the scope of liability for a crime one has *already* purposefully aided, rather than bootstrapping simple possession into accomplice liability for distribution.
+**Tags:** chapters: [15, 18], topics: [accomplice-liability, purpose-vs-knowledge, constructive-possession], difficulty: medium, cognitive: application
 
-**Tags:** chapters: [15, 18], topics: [accomplice-liability, mens-rea-purpose, constructive-possession], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 18 - Accomplice Liability > Mens rea (purpose); Chapter 15 - Drugs and Guns > Constructive Possession
+**Grounding:** Chapter 18 - accomplice liability requires purpose, not mere knowledge (Peoni/Lauria framework).
 
 <!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The phrase "selling them to pay my rent" gives Chloe a direct financial stake in the drug distribution venture. Under *People v. Lauria*, a "stake in the venture" allows a fact-finder to infer the required *purpose* from mere knowledge. Because her rent depends on his illicit sales, her statement that she "didn't care if he succeeded" is a logical and legal contradiction. Furthermore, controlling "the only key" to a dedicated "stash house" provides a service with no legitimate legal use—another classic *Lauria* exception that elevates knowledge to purpose. This strongly suggests she *does* have the requisite purpose for accomplice liability, undermining the intended answer (b) and making a strong case for (a).
-2. Cross-Doctrine Clashes: Constructive possession requires both the *power* and the *intent* to exercise dominion and control over the contraband. The explanation erroneously assumes that holding the key (power over the premises) automatically satisfies the *intent* to control the specific contraband inside. 
-3. Cross-Question Spoilers: Pass
-Recommended fix: To cleanly establish possession without triggering accomplice liability for distribution, change her role. Make her a roommate who occasionally uses drugs from the open stash for personal consumption (establishing her intent to control/constructive possession of the stash), but ensure she pays her own flat share of the rent from a lawful job so she has no financial stake in his distribution success.
+1. Fact Pattern Booby Traps: The facts state Chloe held the "only key to Leo's stash house" and he sold drugs to "pay my rent." Under the *Lauria* framework, purpose to facilitate a crime can be inferred from mere knowledge if there is a "stake in the venture" (her rent is actively paid by his success) or if the service has "no legitimate use" (holding the key to a dedicated drug stash house). This severely undermines (c), as a jury could arguably find she *did* have purpose as a matter of law. Additionally, because she held the "only key," she technically *did* have exclusive dominion, making the premise of distractor (d) factually false.
+2. Cross-Doctrine Clashes: By holding the "only key," Chloe exercises exclusive constructive possession of the narcotics. She could thus be liable as a principal for possession with intent to distribute, which tangles and conflicts with the question's premise that she is merely being evaluated as a passive accomplice.
+3. Cross-Question Spoilers: Pass.
+Recommended fix: If the global facts can be modified, change Fact 3 to: "Chloe rented an apartment to Leo at a standard market rate. She stated: 'I knew he was selling drugs out of the apartment to make rent, but I didn't care as long as he paid his flat fee.'" This removes the constructive possession "only key" issue and defeats the *Lauria* exceptions. If facts are locked, alter the question/answers to test her liability for constructive possession (which she likely has) rather than making her lack of accomplice purpose definitively correct.
 -->
