@@ -377,6 +377,33 @@ HARD EXCLUSIONS:
 - No accomplice-liability deep dive.\
 """
 
+_MOCK_PROCEDURAL_BLOCK_BRIEF = """\
+Single-stem scenario: The Fixer's Procedural Block.
+
+Inspiration: Better Call Saul / Breaking Bad (inspired-by only — not a direct plot lift).
+Budget: 6-8 questions, single-doctrine-per-question bias.
+
+FRAME: Following the fallout of a massive narcotics ring (referencing the Chemistry Professor), the cartel's top lieutenant is facing trial. The organization's slick, morally bankrupt "criminal" lawyer is tasked with orchestrating a massive campaign of institutional corruption to keep the lieutenant out of prison.
+
+CHARACTERS:
+- The Fixer (Defense Attorney): A corrupt but brilliant attorney orchestrating the institutional manipulation.
+- The Prosecutor (DA): An ambitious District Attorney making aggressive charging decisions.
+- The Judge: A jaded trial judge susceptible to subtle blackmail or influence from the cartel.
+- The Legislator: A corrupt state senator on the cartel's payroll.
+- The Governor: A state executive willing to commute sentences or issue pardons for a massive cash bribe.
+
+SUGGESTED PLOT DIRECTION:
+The narrative should explore the boundaries of institutional law by featuring a mix of acts:
+1. Some acts should clearly cross the legal line into outright corruption (e.g., explicit bribery, extortion).
+2. Other acts should be shielded by the specific legal immunities, discretionary powers, or laws protecting the decisions made by persons in each of their respective institutions.
+Let the characters interact organically to test these boundaries.
+
+DOCTRINAL TARGETS (test across these Qs):
+- Ch 4 Juries (voir dire, Batson challenges, jury nullification, right to a jury trial)
+- Ch 5 Legislatures (statutory interpretation, ex post facto laws, executive pardon power limits)
+- Ch 6 Prosecutors (prosecutorial discretion, charging decisions, vindictive prosecution, plea bargaining bounds)
+"""
+
 SCENARIO_MAP: dict[str, ScenarioBrief] = {
     "psilocybin": ScenarioBrief(
         name="psilocybin",
@@ -488,8 +515,8 @@ SCENARIO_MAP: dict[str, ScenarioBrief] = {
         defenses=[],
         chapters=[4, 5, 6],
         estimated_questions=(6, 8),
-        stem_count=0,
-        brief_text=_load_brief("mock", "05-procedural-block"),
+        stem_count=1,
+        brief_text=_MOCK_PROCEDURAL_BLOCK_BRIEF,
         statutes="",
     ),
     "mock_defense_layer": ScenarioBrief(
