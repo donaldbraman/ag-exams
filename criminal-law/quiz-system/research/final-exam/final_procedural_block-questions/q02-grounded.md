@@ -1,17 +1,17 @@
-**Q2.** Is it established that Dominic and Leo formed a criminal conspiracy?
+**Q2.** Assume that, independent of any other charges, Dominic and Leo are indicted for conspiracy to distribute narcotics. Did they form a valid criminal agreement?
 
-(a) Yes, because their exchange demonstrates an intent to agree and a shared purpose to commit the target offense of narcotics distribution. <!-- correct -->
-(b) Yes, because under Pinkerton, Dominic is automatically strictly liable for any statement Leo makes about future criminal activity.
-(c) No, because Dominic did not explicitly specify the exact criminal means Leo should use to lock down the market.
-(d) No, because their conversation constitutes mere preparation rather than a substantial step toward the commission of a crime.
-(e) No, because the common law requires a formalized, written agreement to overcome the presumption of innocent association between individuals.
+(a) Guilty of conspiracy, because their exchange of words demonstrates a mutual understanding and intent to achieve an unlawful objective. <!-- correct -->
+(b) Not guilty of conspiracy, because the goal to "lock down a market" is too vague to satisfy the specific intent requirement.
+(c) Guilty of conspiracy, because Dominic's command as boss alone is sufficient to create liability under the unilateral agreement rule.
+(d) Not guilty of conspiracy, because Leo merely offered to recruit a crew rather than explicitly agreeing to distribute the narcotics.
+(e) Guilty of conspiracy, because their shared membership in the organized crime syndicate establishes a standing agreement for all crimes.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because Dominic's directive to "lock down the East End pill market" and Leo's response to "recruit the street crew today" demonstrate a mutual intent to agree and a shared purpose to commit the target offense of narcotics distribution, satisfying bilateral conspiracy requirements. (b) is incorrect because *Pinkerton* creates liability for substantive crimes committed in furtherance of a conspiracy, but does not impose strict liability for a co-conspirator's mere statements. (c) is incorrect because a conspiracy agreement need not specify the exact means or methods to be used. (d) is incorrect because while attempt requires a substantial step, conspiracy merely requires an agreement and (in some jurisdictions) an overt act, which recruitment satisfies. (e) is incorrect because a conspiracy agreement can be informal, tacit, and inferred from conduct or verbal exchanges.
+**Explanation:** Conspiracy requires a mutual agreement to commit a crime. An agreement does not need to be formal or express; it can be inferred from an exchange of words showing a mutual understanding to pursue an unlawful objective. Here, Dominic's statement about locking down the pill market and Leo's immediate offer to recruit the street crew establishes a bilateral agreement. (b) fails because locking down a drug market via a street crew is sufficiently specific to constitute a criminal objective. (c) fails because this is a classic bilateral agreement; the unilateral rule is unnecessary here. (d) fails because recruiting a crew is an overt act manifesting his acceptance of the agreement to distribute. (e) fails because membership alone does not constitute an agreement to commit specific future offenses.
 
-**Tags:** chapters: [19], topics: [conspiracy-agreement, intent-to-agree], difficulty: easy, cognitive: application
+**Tags:** chapters: [19], topics: [conspiracy-agreement], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 19 - Conspiracy (Agreement inference, bilateral requirements)
+**Grounding:** Chapter 19 (Conspiracy) - The Agreement Element
 
-<!-- grounding: GROUNDED — Conspiracy Agreement, Ch 19, Refinement `agreement-inference`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Inference of Agreement, Ch 19, Refinement `agreement-inference`. Rule paraphrased accurately. -->

@@ -1,17 +1,17 @@
-**Q4.** Assume Marcus is charged with possession of narcotics based on his use of the gym locker prior to police intervention. Which of the following is correct regarding constructive possession?
+**Q4.** Prior to the police swapping the drugs, did Marcus and Chloe legally possess the narcotics stored in the gym locker?
 
-(a) Marcus had constructive possession because he maintained the power and intention to exercise dominion and control over the narcotics despite giving Chloe the combination. <!-- correct -->
-(b) Marcus lacked constructive possession because sharing the combination code with Chloe legally transferred exclusive dominion and control of the locker to her.
-(c) Marcus lacked constructive possession because the presence of his daily gym equipment negated his specific intent to possess the contraband hidden inside.
-(d) Marcus had actual possession rather than constructive possession because anyone who pays for a gym locker is strictly liable for its entire contents.
-(e) Marcus lacked constructive possession because he was not physically present at the gym to exercise immediate, direct control over the drugs at all times.
+(a) Marcus had constructive possession because he maintained power and intent to control the drugs, but Chloe did not because she lacked knowledge that the items were narcotics. <!-- correct -->
+(b) Both Marcus and Chloe had constructive possession because they shared the combination code and therefore had equal joint access to the locker.
+(c) Neither individual had constructive possession because the drugs were stored in a public gym facility where management maintained ultimate physical access.
+(d) Chloe had exclusive constructive possession because she was given the code to retrieve the bag, legally terminating Marcus's control over the specific items.
+(e) Marcus had constructive possession because he was the original owner, but Chloe's liability is limited to conspiracy because she had not yet opened the locker.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because constructive possession requires the power and intention to exercise dominion and control over an item. By keeping his daily gym equipment in the locker, Marcus ensured he retained joint access and control, satisfying the standard even though Chloe also had the combination. (b) is incorrect because possession can be legally joint; sharing access does not automatically transfer exclusive control. (c) is incorrect because Marcus's intent to maintain control via his gym equipment preserves his constructive possession regardless of his specific instructions to Chloe. (d) is incorrect because possession requires knowing control, not strict liability based solely on paying for a container. (e) is incorrect because the entire doctrine of constructive possession exists specifically to establish possession when the defendant is not physically present to exercise immediate actual control.
+**Explanation:** Constructive possession requires both the power and intent to exercise control over an item, as well as knowledge of the item's illicit character. Marcus maintained joint access and control by keeping his gear in the locker. Chloe had access but lacked the requisite mens rea because she honestly believed the bag contained cash, not narcotics. Therefore, she did not possess narcotics. (b) fails because joint physical access is insufficient without knowledge of the contraband's character. (c) fails because storing items in a public facility does not defeat constructive possession if the defendant maintains the combination code. (d) fails because code sharing creates joint, not exclusive, control. (e) fails because Chloe is not liable for conspiracy to possess narcotics without intent to possess narcotics.
 
-**Tags:** chapters: [15], topics: [constructive-possession, dominion-and-control], difficulty: easy, cognitive: application
+**Tags:** chapters: [15, 10], topics: [constructive-possession, mistake-of-fact], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 15 - Drugs and Guns (Constructive possession requirements)
+**Grounding:** Chapter 15 (Drugs and Guns) - Constructive Possession; Chapter 10 (Mistake of Fact)
 
-<!-- grounding: GROUNDED — Constructive Possession, Ch 15, Refinement `cp-elements` and `cp-exclusive-control`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Constructive Possession & Mistake of Fact, Ch 15 & Ch 10, Refinement `cp-awareness-control` and `mof-mental-state-negation`. Rule paraphrased accurately. -->

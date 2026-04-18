@@ -1,17 +1,17 @@
-**Q5.** Assume Chloe is charged with attempted possession of narcotics for retrieving the bag of fake powder. Which of the following is correct?
+**Q5.** Assume that Chloe is charged with attempted possession of narcotics after police intercepted her at the gym doors. Which of the following best assesses her liability?
 
-(a) Not guilty because her honest belief that the bag contained stolen cash negates the specific intent required for an attempted narcotics possession conviction. <!-- correct -->
-(b) Guilty because her arrival at the gym to retrieve the bag constitutes a substantial step that automatically satisfies the mens rea for attempt.
-(c) Guilty because factual impossibility is never a valid defense to an attempt charge, meaning her mistake about the powder is legally irrelevant.
-(d) Not guilty because her arrest before opening the locker means her actions constituted mere preparation rather than a substantial step toward the offense.
-(e) Guilty because she is held strictly liable for whatever the bag originally contained before the police replaced the narcotics two days prior.
+(a) Guilty of attempt, because the doctrine of factual impossibility does not excuse her from taking substantial steps to retrieve the gym bag.
+(b) Not guilty of attempt, because her honest belief that the bag contained stolen cash negates the specific intent required for narcotics possession. <!-- correct -->
+(c) Guilty of attempt, because walking through the gym doors constitutes a substantial step that is strongly corroborative of a criminal purpose.
+(d) Not guilty of attempt, because the police had already removed the narcotics, making the completion of the target offense legally impossible.
+(e) Guilty of attempt, because her intent to retrieve what she believed was illicit stolen cash automatically transfers to the actual narcotics.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct because attempt requires the specific intent (purpose) to commit the target offense. Under the mistake of fact doctrine, Chloe's honest belief that the bag contained stolen cash negates the mens rea required for attempted narcotics possession, as she did not intend to possess drugs. (b) is incorrect because although arriving at the gym is a substantial step, she still lacks the required specific intent for the drug offense. (c) is incorrect because while factual impossibility (the bag containing fake powder) is not a defense, her subjective lack of intent to possess narcotics is a valid defense. (d) is incorrect because walking through the front doors to retrieve the target item typically crosses the line from preparation to a substantial step. (e) is incorrect because attempt is a specific intent crime that never imposes strict liability based on prior contents.
+**Explanation:** Attempt is a specific intent crime requiring the defendant to act with the purpose of committing the target offense. Because Chloe honestly believed the bag contained stolen cash, she lacked the specific intent to possess narcotics. Her mistake of fact negates the mens rea for the attempted offense. (a) fails because while factual impossibility is not a defense, it only applies if the defendant actually possessed the requisite specific intent. (c) fails because the actus reus of a substantial step cannot cure the lack of specific mens rea. (d) improperly relies on legal impossibility for what is actually a factual swap. (e) fails because the doctrine of transferred intent does not transfer mens rea across entirely different statutory offenses.
 
-**Tags:** chapters: [10, 17], topics: [attempt-mens-rea, mistake-of-fact, impossibility], difficulty: hard, cognitive: application
+**Tags:** chapters: [17, 10], topics: [attempt, mistake-of-fact], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 17 - Attempts (Mens rea specific intent); Chapter 10 - Mistake of Fact
+**Grounding:** Chapter 17 (Attempts) - Mens Rea; Chapter 10 (Mistake of Fact)
 
-<!-- grounding: GROUNDED — Attempt Mens Rea & Mistake of Fact, Ch 17 & 10, Refinement `mens-rea-specific-intent` and `mof-mental-state-negation`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Attempt Mens Rea and Mistake of Fact, Ch 17 & 10, Refinement `mens-rea-specific-intent` and `mof-mental-state-negation`. Rule paraphrased accurately. -->

@@ -1,22 +1,22 @@
-**Q10.** Evaluate AUSA Vance's threat to charge Marcus under an overlapping statute with a 10-year mandatory minimum if he refuses the plea deal.
+**Q10.** Is AUSA Vance's threat to charge Marcus under a harsher overlapping statute constitutionally permissible during plea negotiations?
 
-(a) Constitutional, because Batchelder allows prosecutors to choose among overlapping statutes, and Bordenkircher permits threatening harsher applicable charges to secure a guilty plea during negotiations. <!-- correct -->
-(b) Unconstitutional, because threatening a 10-year mandatory minimum for refusing a 3-year plea deal constitutes illegal vindictive prosecution that punishes the defendant's trial right.
-(c) Unconstitutional, because Batchelder strictly requires prosecutors to charge the specific statute carrying the lesser penalty whenever two criminal statutes cover the exact same conduct.
-(d) Constitutional, because prosecutors possess absolute civil and criminal immunity from any form of judicial review regarding their coercive plea bargaining tactics and charging decisions.
-(e) Unconstitutional, because the trial penalty violates the defendant's Sixth Amendment right to a jury trial by making the systemic cost of going to trial prohibitively high.
+(a) Yes, because prosecutors have unreviewable discretion to choose among overlapping statutes and may threaten harsher charges to induce a guilty plea. <!-- correct -->
+(b) No, because threatening a harsher charge solely to penalize a defendant for exercising the constitutional right to a trial violates due process rules against vindictiveness.
+(c) Yes, but only if Vance can affirmatively prove that Marcus's conduct satisfies distinct additional elements not present in the lesser overlapping charge.
+(d) No, because the 10-year mandatory minimum constitutes an excessive trial penalty that coerces an involuntary and unconstitutional guilty plea.
+(e) Yes, because federal plea negotiations are entirely exempt from constitutional scrutiny regardless of the prosecutor's specific tactics, motivations, or coercive threats.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because *United States v. Batchelder* holds that prosecutors have unreviewable discretion to choose among overlapping statutes with different penalties, and *Bordenkircher v. Hayes* permits prosecutors to constitutionally threaten harsher applicable charges to secure a guilty plea. (b) is incorrect because *Bordenkircher* specifically exempts pre-trial plea negotiation threats from the vindictive prosecution doctrine, provided probable cause exists for the threatened charge. (c) is incorrect because *Batchelder* explicitly rejected the argument that prosecutors must charge the lesser-penalty statute when two statutes overlap. (d) is incorrect because prosecutorial discretion, while broad, is not protected by "absolute immunity" from judicial review in the context of unconstitutional coercion, though this specific tactic is permitted. (e) is incorrect because the Supreme Court has consistently upheld the constitutionality of the "trial penalty" inherent in the plea-bargaining system.
+**Explanation:** Under *Bordenkircher v. Hayes*, prosecutors may constitutionally threaten harsher charges to induce a guilty plea, provided there is probable cause to support the threatened charge. Furthermore, under *Batchelder*, prosecutors have unreviewable discretion to choose among overlapping statutes with different penalties. (b) fails because the Supreme Court has held that pre-trial threats during plea negotiations do not constitute unconstitutional vindictiveness. (c) fails because *Batchelder* applies even when two overlapping statutes cover the exact same conduct without differing elements. (d) fails because the threat of a mandatory minimum does not legally render a plea involuntary or coerced. (e) fails because plea negotiations are still subject to some baseline constitutional scrutiny (e.g., the requirement of probable cause for the charge).
 
-**Tags:** chapters: [6], topics: [plea-bargaining-trial-penalty, Batchelder-overlapping-statutes], difficulty: medium, cognitive: application
+**Tags:** chapters: [6], topics: [plea-bargaining, Batchelder-overlapping-statutes, trial-penalty], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 6 - Prosecutors (Batchelder doctrine, Bordenkircher trial penalty)
+**Grounding:** Chapter 6 (Prosecutors) - Bordenkircher and Batchelder doctrines
 
-<!-- edge-case-audit: CLEAN
+<!-- edge-case-audit: SHOULD FIX
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
+2. Cross-Doctrine Clashes: The presence of the selective prosecution issue in Fact 12/13 (Marcus being Black and targeted by Operation Sweep) might technically make Vance's discretion *reviewable* under Equal Protection constraints. Calling the discretion "unreviewable" in choice (a) and the explanation might lead an astute student to reject (a) because they know from *Armstrong* that such discretion is reviewable for discriminatory intent.
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+Recommended fix: Change "unreviewable discretion" to "broad discretion" in Option (a) and the Explanation to avoid a technical falsehood.
 -->

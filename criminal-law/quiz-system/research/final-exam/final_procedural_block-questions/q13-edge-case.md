@@ -1,18 +1,18 @@
-**Q13.** Evaluate the trial judge's final instructions regarding jury nullification.
+**Q13.** Is the trial judge's final instruction regarding jury nullification constitutionally permissible?
 
-(a) Erroneous, because while courts may instruct jurors to simply follow the law, explicitly threatening them with contempt proceedings crosses the line into unconstitutional juror coercion. <!-- correct -->
-(b) Permissible, because juries possess no constitutional right to nullify, granting trial courts the absolute authority to use any measure necessary to guarantee strict legal compliance.
-(c) Erroneous, because criminal defendants possess a firmly recognized Sixth Amendment right to a jury instruction explicitly informing the jury of its inherent power to nullify.
-(d) Permissible, because the Double Jeopardy Clause guarantees that the jury's acquittal power remains entirely unchecked, rendering any of the trial judge's verbal threats harmless error.
-(e) Erroneous, because federal judges are strictly constitutionally prohibited from ever mentioning the controversial concept of nullification during their final jury instructions in any criminal proceeding.
+(a) No, because threatening jurors with contempt proceedings for nullification improperly coerces the jury and violates their unreviewable power to acquit. <!-- correct -->
+(b) Yes, because courts have an affirmative duty to forestall nullification and may use the direct threat of punishment to ensure jurors strictly follow the law.
+(c) No, because criminal defendants have a recognized constitutional right to a jury instruction affirmatively informing the jury of their inherent power to nullify.
+(d) Yes, because nullification is entirely illegal and jurors who intentionally ignore the evidence forfeit their double jeopardy protections upon returning an acquittal verdict.
+(e) No, because trial judges are strictly forbidden from even mentioning the concept of nullification during final jury instructions under any circumstances.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because *United States v. Kleinman* holds that while a judge may permissibly instruct a jury to follow the law and discourage nullification, explicitly stating that nullification is invalid or threatening jurors with punitive consequences (like contempt) constitutes unconstitutional coercion. (b) is incorrect because the trial court's authority to discourage nullification is limited and cannot extend to coercive threats of punishment against the jurors. (c) is incorrect because courts have consistently held that while juries possess the *power* to nullify, defendants have no constitutional *right* to a jury instruction informing them of it. (d) is incorrect because the unreviewable nature of an acquittal does not cure the constitutional error of coercing a jury during deliberations. (e) is incorrect because judges are allowed to mention and actively discourage nullification, provided their instructions do not cross into coercive threats.
+**Explanation:** Under *United States v. Kleinman*, trial judges may instruct juries that they must follow the law and have no right to nullify. However, instructions cross the line into unconstitutional coercion when they threaten jurors with punishment (such as contempt) or state that nullification is legally impossible. (b) fails because the duty to forestall nullification does not permit punitive threats. (c) fails because *Dougherty* established that defendants have no constitutional right to an affirmative pro-nullification instruction. (d) fails because an acquittal achieved through nullification is unreviewable and double jeopardy permanently attaches. (e) fails because judges are permitted to mention nullification for the purpose of instructing juries not to engage in it, provided they do not threaten punishment.
 
-**Tags:** chapters: [4], topics: [anti-nullification-instruction-limits, jury-nullification], difficulty: easy, cognitive: application
+**Tags:** chapters: [4], topics: [anti-nullification-instruction-limits], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 4 - The Jury (United States v. Kleinman)
+**Grounding:** Chapter 4 (The Jury and Nullification) - United States v. Kleinman
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

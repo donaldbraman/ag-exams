@@ -1,18 +1,18 @@
-**Q11.** Under federal anti-corruption principles distinguishing bribes from gratuities, evaluate Senator Sterling's acceptance of the $25,000 token of appreciation.
+**Q11.** Under federal anti-corruption law, is Senator Sterling guilty of accepting a bribe?
 
-(a) Sterling accepted a gratuity rather than a bribe, because the payment was received after the official act as a reward and lacked a prior agreement.
-(b) Sterling accepted a bribe because any payment of substantial monetary value linked to an official's legislative voting record automatically satisfies the requirement for bribery.
-(c) Sterling committed honest services fraud because accepting post-action appreciation inherently deprives the public of their intangible right to fair and impartial governmental representation.
-(d) Sterling accepted a bribe because the token of appreciation was paid by a known criminal syndicate leader rather than a legitimate community business organization.
-(e) Sterling is completely immune from federal scrutiny because local municipal zoning changes do not possess a sufficient nexus to strongly affect interstate commerce operations.
+(a) Not guilty of bribery, because the payment was received after the official act as a reward rather than agreed upon beforehand to influence the act. <!-- correct -->
+(b) Guilty of bribery, because the substantial $25,000 payment was directly connected to his official capacity and duties as a state senator.
+(c) Not guilty of bribery, because municipal zoning changes are legislative functions rather than formal "official acts" under the federal bribery statute.
+(d) Guilty of bribery, because accepting any substantial financial gift from a known criminal syndicate is per se corrupt under federal anti-corruption law.
+(e) Not guilty of bribery, because Dominic did not explicitly specify which specific zoning vote the token of appreciation was intended to financially reward.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because under *Snyder v. United States* and federal anti-corruption principles, a payment made after an official act as a reward, without a prior agreement to influence the official decision, constitutes a gratuity rather than a bribe. (b) is incorrect because bribery requires a *quid pro quo*—a payment made or agreed to before the act with the specific intent to influence it. (c) is incorrect because *Skilling* limits honest services fraud exclusively to bribery and kickback schemes, expressly excluding post-action gratuities and general conflicts of interest. (d) is incorrect because the identity or criminal nature of the payer does not transform the legal classification of the payment from a gratuity into a bribe. (e) is incorrect because the jurisdictional requirement of interstate commerce is easily met and does not grant blanket immunity for municipal zoning corruption.
+**Explanation:** In *Snyder v. United States*, the Supreme Court held that the federal bribery statute (§ 666) criminalizes pre-act bribes intended to influence an official action, but does not criminalize post-act gratuities given merely as a reward or token of appreciation without a prior agreement. (b) fails because it conflates a non-criminal gratuity with a criminal bribe. (c) fails because legislative zoning votes are classic formal "official acts," unlike the informal meetings in *McDonnell*. (d) fails because there is no per se bribery rule based solely on the donor's criminal status. (e) fails because the failure to specify the exact vote is not the distinguishing factor; the timing and lack of a prior quid pro quo make it a gratuity.
 
-**Tags:** chapters: [5], topics: [corruption-bribe-vs-gratuity, honest-services-fraud], difficulty: medium, cognitive: application
+**Tags:** chapters: [5], topics: [corruption, bribe-vs-gratuity], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 5 - Legislatures and Courts (Snyder v. United States, bribe vs gratuity distinction)
+**Grounding:** Chapter 5 (Legislatures and Courts) - Snyder v. United States (Bribe vs. Gratuity)
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

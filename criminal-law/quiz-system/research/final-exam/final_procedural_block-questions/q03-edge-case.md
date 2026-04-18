@@ -1,22 +1,22 @@
-**Q3.** Is Dominic liable for the rival's death under the Pinkerton doctrine?
+**Q3.** Assume that, whether or not the conspiracy was valid, Leo fatally shot the rival dealer. Is Dominic liable for the rival's death under the *Pinkerton* doctrine?
 
-(a) Guilty under Pinkerton because the robbery and resulting death were reasonably foreseeable substantive crimes committed in furtherance of the conspiracy to take over the pill market. <!-- correct -->
-(b) Guilty under Pinkerton because the doctrine imposes strict liability on all gang leaders for any violent act committed by a member of their criminal enterprise.
-(c) Not guilty under Pinkerton because Dominic did not specifically agree to, or have advance knowledge of, the precise details of the armed robbery and shooting.
-(d) Not guilty under Pinkerton because Leo's accidental discharge of the firearm constituted an independent intervening cause that broke the necessary chain of legal causation.
-(e) Not guilty under Pinkerton because the murder of a rival dealer does not qualify as a statutorily enumerated predicate offense under the narcotics distribution conspiracy.
+(a) Liable, because the fatal shooting was a reasonably foreseeable consequence of the conspiracy to aggressively lock down the pill market. <!-- correct -->
+(b) Not liable, because Dominic did not personally authorize, attend, or directly participate in the armed robbery at the nightclub.
+(c) Liable, because the *Pinkerton* doctrine holds co-conspirators strictly liable for any and all crimes committed by syndicate members.
+(d) Not liable, because the gun discharged accidentally after the rival lunged, which legally breaks the chain of reasonable foreseeability.
+(e) Liable, because Dominic's recognized status as the syndicate boss creates automatic vicarious liability for his subordinates' acts.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because under the *Pinkerton* doctrine, a conspirator is liable for the foreseeable substantive crimes committed by co-conspirators in furtherance of the conspiracy. An armed robbery and fatal shooting to eliminate a rival are reasonably foreseeable consequences of a plan to aggressively "lock down" a drug market. (b) is incorrect because *Pinkerton* requires foreseeability and action in furtherance of the conspiracy, not pure strict liability. (c) is incorrect because *Pinkerton* does not require advance knowledge or specific agreement regarding the exact substantive offense committed by the co-conspirator. (d) is incorrect because an accidental discharge during a foreseeable armed robbery is an expected risk, not an independent intervening cause. (e) is incorrect because *Pinkerton* liability extends to any foreseeable crime in furtherance of the conspiracy, not just the statutorily enumerated predicate offenses of the original agreement.
+**Explanation:** Under the *Pinkerton* doctrine, a conspirator is liable for the substantive offenses committed by a co-conspirator if those offenses were in furtherance of the conspiracy and were reasonably foreseeable consequences of it. An armed confrontation leading to death is highly foreseeable when conspirators agree to aggressively take over a rival drug market. (b) fails because *Pinkerton* explicitly dispenses with the need for personal participation or specific authorization. (c) fails because *Pinkerton* requires foreseeability and furtherance, not strict liability for any crime. (d) fails because an accidental discharge during a foreseeable armed robbery does not break the chain of proximate causation or foreseeability. (e) fails because status alone does not create vicarious liability; the act must still be in furtherance of the specific conspiracy.
 
-**Tags:** chapters: [19], topics: [Pinkerton-liability, reasonably-foreseeable], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [Pinkerton-liability], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 - Conspiracy (Pinkerton doctrine)
+**Grounding:** Chapter 19 (Conspiracy) - Pinkerton Doctrine
 
-<!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The prompt's use of "whether or not the conspiracy was valid" inadvertently destroys the foundation of Pinkerton liability. If a student assumes the conspiracy is *invalid* (as the prompt allows them to do), Pinkerton cannot apply by definition, making option (a) legally incorrect. 
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+Recommended fix: Change the opening sentence to explicitly establish the prerequisite: "Assume that Dominic and Leo formed a valid conspiracy to lock down the pill market, and that Leo fatally shot the rival dealer."
 -->

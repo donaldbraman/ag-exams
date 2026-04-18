@@ -1,26 +1,26 @@
-**Q6.** Assume the bartender is charged as an accomplice to Leo's initial assault on the rival. Which of the following is correct?
+**Q6.** Assume the jurisdiction applies the traditional common law "purpose" requirement for accomplice liability, but also recognizes the Natural and Probable Consequences (NPC) doctrine. Is the bartender guilty as an accomplice to Leo's armed robbery?
 
-(a) Guilty as an accomplice to assault because turning off the security cameras provided material assistance with the purpose of facilitating the planned attack. <!-- correct -->
-(b) Not guilty as an accomplice to assault because the bartender did not physically participate in the actual violence against the rival pill dealer.
-(c) Not guilty as an accomplice to assault because the bartender possessed only knowledge of Leo's plan, not the specific intent to assist it.
-(d) Guilty as an accomplice to armed robbery because turning off the cameras imposes strict liability for any escalated crime Leo subsequently chose to commit.
-(e) Not guilty as an accomplice to assault because the bartender was completely unaware that Leo was secretly carrying a loaded gun into the club.
+(a) Guilty, because he purposefully facilitated the physical assault, and Leo's escalation to an armed robbery was a natural and probable consequence of that turf assault. <!-- correct -->
+(b) Not guilty, because he lacked specific knowledge of the gun and therefore did not act with the direct purpose to facilitate an armed robbery.
+(c) Guilty, because knowing Leo would commit a violent assault satisfies the knowledge threshold, which automatically extends accomplice liability to all subsequent crimes.
+(d) Not guilty, because the natural and probable consequences doctrine applies only to formal co-conspirators and cannot extend the liability of a mere accomplice.
+(e) Guilty, because turning off the security cameras constitutes affirmative assistance that makes him strictly liable for any and all crimes Leo subsequently commits.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because the bartender provided material assistance (turning off the cameras) with the specific purpose of facilitating Leo's assault on the rival to protect syndicate turf. This purposeful facilitation meets the highest mens rea standard for accomplice liability. (b) is incorrect because accomplice liability explicitly covers individuals who aid or abet the crime without physically participating in the *actus reus* of the offense. (c) is incorrect because the bartender did not merely have knowledge; turning off the cameras to help Leo "avoid detection" demonstrates a purpose to aid. (d) is incorrect because an accomplice is only liable for the target crime and its natural and probable consequences, not strictly liable for any unforeseeable escalated crime. (e) is incorrect because the bartender does not need to know about the gun to be guilty as an accomplice to the intended assault.
+**Explanation:** Under the traditional rule, an accomplice must have the specific purpose to facilitate the target crime. However, under the Natural and Probable Consequences (NPC) doctrine, an accomplice who purposefully facilitates one crime (the assault) is also liable for any reasonably foreseeable crime committed by the principal (the armed robbery). An armed robbery is a highly foreseeable consequence of a syndicate-sanctioned turf assault. (b) fails because the NPC doctrine explicitly bridges the gap where direct purpose for the escalated crime is absent. (c) fails because base accomplice liability requires purpose to facilitate the initial crime, not mere knowledge. (d) fails because NPC applies to accomplices as well as conspirators. (e) fails because NPC requires reasonable foreseeability, not strict liability for any crime.
 
-**Tags:** chapters: [18], topics: [accomplice-purpose-vs-knowledge, actus-reus-assistance], difficulty: medium, cognitive: application
+**Tags:** chapters: [18], topics: [accomplice-mens-rea, natural-and-probable-consequences], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 18 - Accomplice Liability (Mens rea purpose vs knowledge)
+**Grounding:** Chapter 18 (Accomplice Liability) - Natural and Probable Consequences
 
-<!-- audit: CLEAN
-<check 1>: pass
-<check 2>: pass
-<check 3>: pass
-<check 4>: pass (Assumes standard parent fact pattern provides the premise that the bartender turned off the cameras to help Leo avoid detection.)
-<check 5>: pass (Option D's rejection of strict liability for escalated crimes holds true universally, whether the jurisdiction follows the traditional NPC doctrine or MPC/reform approaches.)
-<check 6>: pass
-<check 7>: pass
-Recommended fix: None.
+<!-- audit: MUST FIX
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: MUST FIX - The fact pattern is completely missing from the question stem. The options and explanation reference specific facts ("the bartender," "Leo," a "syndicate-sanctioned turf assault," and "turning off the security cameras") that are never presented to the student.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Recommended fix: Insert the missing scenario into the question stem before the call of the question. The scenario must detail Leo's planned assault, the bartender's purposeful role in turning off the security cameras to facilitate that assault, and Leo's subsequent escalation to armed robbery.
 -->

@@ -1,26 +1,26 @@
-**Q11.** Under federal anti-corruption principles distinguishing bribes from gratuities, evaluate Senator Sterling's acceptance of the $25,000 token of appreciation.
+**Q11.** Under federal anti-corruption law, is Senator Sterling guilty of accepting a bribe?
 
-(a) Sterling accepted a gratuity rather than a bribe, because the payment was received after the official act as a reward and lacked a prior agreement. <!-- correct -->
-(b) Sterling accepted a bribe because any payment of substantial monetary value linked to an official's legislative voting record automatically satisfies the requirement for bribery.
-(c) Sterling committed honest services fraud because accepting post-action appreciation inherently deprives the public of their intangible right to fair and impartial governmental representation.
-(d) Sterling accepted a bribe because the token of appreciation was paid by a known criminal syndicate leader rather than a legitimate community business organization.
-(e) Sterling is completely immune from federal scrutiny because local municipal zoning changes do not possess a sufficient nexus to strongly affect interstate commerce operations.
+(a) Not guilty of bribery, because the payment was received after the official act as a reward rather than agreed upon beforehand to influence the act. <!-- correct -->
+(b) Guilty of bribery, because the substantial $25,000 payment was directly connected to his official capacity and duties as a state senator.
+(c) Not guilty of bribery, because municipal zoning changes are legislative functions rather than formal "official acts" under the federal bribery statute.
+(d) Guilty of bribery, because accepting any substantial financial gift from a known criminal syndicate is per se corrupt under federal anti-corruption law.
+(e) Not guilty of bribery, because Dominic did not explicitly specify which specific zoning vote the token of appreciation was intended to financially reward.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because under *Snyder v. United States* and federal anti-corruption principles, a payment made after an official act as a reward, without a prior agreement to influence the official decision, constitutes a gratuity rather than a bribe. (b) is incorrect because bribery requires a *quid pro quo*—a payment made or agreed to before the act with the specific intent to influence it. (c) is incorrect because *Skilling* limits honest services fraud exclusively to bribery and kickback schemes, expressly excluding post-action gratuities and general conflicts of interest. (d) is incorrect because the identity or criminal nature of the payer does not transform the legal classification of the payment from a gratuity into a bribe. (e) is incorrect because the jurisdictional requirement of interstate commerce is easily met and does not grant blanket immunity for municipal zoning corruption.
+**Explanation:** In *Snyder v. United States*, the Supreme Court held that the federal bribery statute (§ 666) criminalizes pre-act bribes intended to influence an official action, but does not criminalize post-act gratuities given merely as a reward or token of appreciation without a prior agreement. (b) fails because it conflates a non-criminal gratuity with a criminal bribe. (c) fails because legislative zoning votes are classic formal "official acts," unlike the informal meetings in *McDonnell*. (d) fails because there is no per se bribery rule based solely on the donor's criminal status. (e) fails because the failure to specify the exact vote is not the distinguishing factor; the timing and lack of a prior quid pro quo make it a gratuity.
 
-**Tags:** chapters: [5], topics: [corruption-bribe-vs-gratuity, honest-services-fraud], difficulty: medium, cognitive: application
+**Tags:** chapters: [5], topics: [corruption, bribe-vs-gratuity], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 5 - Legislatures and Courts (Snyder v. United States, bribe vs gratuity distinction)
+**Grounding:** Chapter 5 (Legislatures and Courts) - Snyder v. United States (Bribe vs. Gratuity)
 
 <!-- audit: MUST FIX
-Check 1: pass (the legal statement in (a) accurately reflects the definitional distinction between a bribe and a gratuity under recent SCOTUS jurisprudence).
-Check 2: pass (impossible to properly evaluate distractors without the missing facts).
-Check 3: pass (the explanation accurately reflects the unmapped doctrines).
-Check 4: Missing facts. The stem lacks the entire foundational fact pattern. It references "Senator Sterling's acceptance of the $25,000 token" and option (e) mentions "municipal zoning changes" without ever describing the Senator, the payment, the timing, the payer, or the lack of a prior agreement. 
-Check 5: Jurisdictional ambiguity. The question does not specify if Sterling is a state or federal official. This is a critical distinction because *Snyder v. United States* held that 18 U.S.C. § 666 does not criminalize gratuities for state/local officials, while 18 U.S.C. § 201 still criminalizes gratuities for federal officials.
-Check 6: pass
-Check 7: Coverage mismatch. A grep of the meta-map confirms that bribery, gratuities, honest services fraud, *Snyder v. United States*, and *Skilling* are completely absent from Chapter 5 and all other mapped chapters. This topic is outside the taught curriculum.
-Recommended fix: Delete this question. It tests material that is not in the chapter maps and relies on a missing fact pattern.
+check 1: pass (the legal rule accurately reflects *Snyder v. United States*, assuming the missing facts align)
+check 2: Cannot evaluate distractors because there is no fact pattern provided.
+check 3: pass (the explanation correctly paraphrases the *Snyder* holding)
+check 4: MUST FIX - The question entirely lacks a fact pattern. It asks about Senator Sterling, Dominic, a $25,000 payment, and a zoning vote without providing any background facts in a stem.
+check 5: pass
+check 6: pass
+check 7: MUST FIX - Coverage mismatch. *Snyder v. United States*, 18 U.S.C. § 666, and the bribe-vs-gratuity distinction do not appear anywhere in the meta-map. Chapter 5's core elements are limited to legality, vagueness, lenity, equal protection, and desuetude.
+Recommended fix: Delete the question because it tests out-of-scope material not found in the chapter maps. If the material was somehow taught and the map is incomplete, a full fact pattern detailing the transaction between Dominic and Senator Sterling must be added to the stem.
 -->

@@ -1,17 +1,17 @@
-**Q1.** Is Dominic guilty of a substantive RICO violation or RICO conspiracy based on his oversight of the Waterfront Syndicate?
+**Q1.** Can Dominic be convicted of a substantive RICO violation and RICO conspiracy based on the Waterfront Syndicate's operations?
 
-(a) Guilty of a substantive RICO violation because the Waterfront Syndicate qualifies as an enterprise and his oversight constitutes conducting its affairs through a pattern of racketeering activity. <!-- correct -->
-(b) Not guilty of a substantive RICO violation because the syndicate lacks a legitimate business existence separate and apart from the pattern of racketeering activity itself.
-(c) Guilty of RICO conspiracy only, because the syndicate's members did not explicitly sign a formalized agreement to commit two specific predicate acts in advance.
-(d) Not guilty of any RICO offense because the enterprise is merely an illicit street association without a formal corporate, legal, or financial command structure.
-(e) Guilty of a substantive RICO violation because the statute imposes strict liability on any leader of a criminal gang for all crimes committed by its members.
+(a) Yes, because the syndicate functions as a continuing unit with an ongoing organizational structure, and Dominic agreed to participate in its racketeering activities. <!-- correct -->
+(b) No, because the syndicate lacks an official legal, corporate, or publicly recognized business structure required to establish a valid enterprise.
+(c) Yes, because any group of individuals committing two or more predicate acts automatically creates an enterprise and a conspiracy by operation of law.
+(d) No, because the enterprise's activities are exclusively criminal, whereas a RICO conviction requires the enterprise to maintain a legitimate commercial front.
+(e) Yes, because Dominic's explicit claim to the title of "boss" establishes the hierarchy necessary for an enterprise and strictly bypasses the agreement requirement.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because the Waterfront Syndicate functions as an ongoing structured association (an association-in-fact enterprise under *Boyle*), and Dominic oversees it through a pattern of related, continuous predicate acts (loansharking, extortion, narcotics). This satisfies the core elements of substantive RICO. (b) is incorrect because an enterprise need not have a legitimate business existence separate from its illicit activities. (c) is incorrect because substantive RICO liability is established, and *Salinas* holds RICO conspiracy does not require personal agreement to commit two predicate acts. (d) is incorrect because illicit associations-in-fact without formal corporate structures qualify as RICO enterprises. (e) is incorrect because RICO requires the defendant to actively conduct or participate in the enterprise's affairs, not strict liability for subordinates' crimes.
+**Explanation:** Under the Supreme Court's *Boyle* standard, a RICO enterprise must have a purpose, relationships, and longevity sufficient to function as a continuing unit, but it does not require formal legal or corporate structure. Dominic's oversight of the organized syndicate and agreement to conduct its affairs through a pattern of racketeering satisfies both substantive RICO and conspiracy requirements. (b) fails because a formal or legal structure is not required for an "associated-in-fact" enterprise. (c) describes a pattern of racketeering, but incorrectly states this automatically creates an enterprise. (d) is wrong because entirely illicit enterprises fall squarely within RICO's scope. (e) is wrong because a title does not bypass the fundamental requirement of an agreement for conspiracy.
 
 **Tags:** chapters: [20], topics: [RICO-enterprise, RICO-conspiracy], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 20 - RICO and Enterprise Liability (Boyle v. United States, Salinas v. United States)
+**Grounding:** Chapter 20 (RICO and Enterprise Liability) - Boyle v. United States
 
-<!-- grounding: GROUNDED — RICO Enterprise (Boyle) and RICO Conspiracy (Salinas), Ch 20, Refinements `boyle-three-part` and `salinas-no-personal-acts`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Boyle associated-in-fact enterprise standard, Ch 20, Refinement `boyle-three-part`. Rule paraphrased accurately. -->

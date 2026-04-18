@@ -1,18 +1,18 @@
-**Q12.** Evaluate defense attorney Rossi's use of peremptory challenges under the Batson framework.
+**Q12.** Does the *Batson* framework apply to defense attorney Rossi's peremptory strikes of Black jurors?
 
-(a) Subject to a Batson challenge, because the prohibition on race-based strikes applies equally to defense attorneys, and the court must determine if the reason is pretextual. <!-- correct -->
-(b) Insulated from judicial review, because the Batson framework applies exclusively to prosecutorial strikes, protecting the criminal defendant's absolute constitutional right to aggressively shape the jury.
-(c) Automatically invalid at step one, because striking six out of seven members of a protected class constitutes per se unconstitutional discrimination requiring no further analysis.
-(d) Automatically valid at step two, because asserting a juror is "hostile to corporate business" serves as a legally irrebuttable race-neutral explanation that definitively ends the inquiry.
-(e) Subject to a Batson challenge, but only if the prosecution can successfully prove that Rossi possesses a documented historical pattern of striking minority jurors in previous cases.
+(a) Yes, because the Equal Protection Clause prohibits defense attorneys, not just prosecutors, from executing race-based peremptory strikes during voir dire. <!-- correct -->
+(b) No, because the *Batson* framework applies exclusively to state actors and prosecutors, leaving defense attorneys constitutionally free to strike jurors for any reason.
+(c) Yes, but the strikes will be automatically upheld because hostility to corporate business is a per se valid, race-neutral justification under the third step of *Batson*.
+(d) No, because Rossi struck only six of the seven Black jurors, failing to establish the complete pattern of systemic exclusion required for a constitutional challenge.
+(e) Yes, because any peremptory strike executed by a defense attorney requires a showing of compelling cause to ensure a fair and impartial jury selection process.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because *Georgia v. McCollum* extended the *Batson* framework to defense attorneys. The trial court must proceed to step three to determine whether the facially race-neutral reason ("hostile to corporate business") is actually a pretext for racial discrimination. (b) is incorrect because the Equal Protection Clause protects the jurors' right not to be excluded based on race, which restricts defense attorneys as well as prosecutors. (c) is incorrect because statistical disparities at step one only establish a *prima facie* case requiring an explanation; they do not render the strikes per se unconstitutional. (d) is incorrect because a facially neutral reason at step two does not end the inquiry; the judge must still evaluate its genuineness at step three. (e) is incorrect because a *Batson* challenge does not require proof of a historical pattern; it can be established based entirely on the strikes in the current case.
+**Explanation:** In *Georgia v. McCollum*, the Supreme Court extended *Batson* to defense attorneys, holding that the Equal Protection Clause protects jurors from race-based exclusion regardless of which side executes the strike. (b) is the primary trap, as students often assume *Batson* only restricts the government. (c) fails because step three of *Batson* requires the trial judge to evaluate whether the facially neutral reason is actually pretextual; it is never "automatically upheld." (d) fails because striking six out of seven Black jurors is more than sufficient to establish a prima facie case of discrimination. (e) fails because peremptory strikes do not generally require cause unless a successful *Batson* challenge shifts the burden.
 
-**Tags:** chapters: [4], topics: [Batson-framework, equal-protection], difficulty: medium, cognitive: application
+**Tags:** chapters: [4], topics: [Batson-framework], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 4 - The Jury (Batson framework, McCollum extension to defense attorneys)
+**Grounding:** Chapter 4 (The Jury and Nullification) - Batson framework
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

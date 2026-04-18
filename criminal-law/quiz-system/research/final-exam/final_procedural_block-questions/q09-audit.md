@@ -1,30 +1,26 @@
-### Stem 2: Procedural Tactics and Pre-Trial Motions
+**Q9.** Under the rules governing pretextual stops and selective prosecution, how will the court rule on Marcus's discovery motion?
 
-The case has moved to the pre-trial and trial phases under AUSA Vance. Review Vance's procedural tactics with Marcus, Senator Sterling's corruption charge, and the trial court's jury rulings to anticipate the defense's appellate arguments.
-
-**Q9.** Evaluate Marcus's pre-trial motion for discovery regarding selective prosecution based on the Operation Sweep statistics.
-
-(a) Denied, because under Armstrong, aggregate statistical disparities cannot compel discovery without identifying a specific similarly situated individual of another race who was not prosecuted. <!-- correct -->
-(b) Granted, because under Whren, pretextual traffic stops violate the Fourth Amendment whenever empirical statistical evidence demonstrates a severe racially disparate impact on minority drivers.
-(c) Denied, because discovery on selective prosecution claims is categorically barred in all federal courts to rigidly protect the executive branch's absolute prosecutorial discretion.
-(d) Granted, because the incredibly low 1% contraband yield rate establishes that the police officers entirely lacked probable cause to initiate the pretextual traffic stops.
-(e) Denied, because selective prosecution claims involving pretextual stops can only be raised as an affirmative defense at trial, not during a pre-trial discovery motion.
+(a) Deny the motion, because under *Armstrong*, aggregate statistical disparities are insufficient for discovery without evidence of a specific, similarly situated white driver who was not stopped. <!-- correct -->
+(b) Grant the motion, because the extreme statistical disparity in Operation Sweep establishes a prima facie case of discriminatory effect and intent under the Equal Protection Clause.
+(c) Deny the motion, because the *Whren* doctrine dictates that the subjective racial motivations of the police are entirely irrelevant to both Fourth Amendment and Equal Protection claims.
+(d) Grant the motion, because the remarkably low 1% contraband yield demonstrates that the police operation objectively lacked probable cause for the underlying pretextual traffic stops.
+(e) Deny the motion, because discovery for selective prosecution is categorically barred once a defendant has been formally indicted, regardless of the statistical evidence presented to the court.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because under *United States v. Armstrong*, defendants seeking discovery on selective prosecution claims cannot rely solely on aggregate statistical disparities; they must provide "credible evidence" identifying specific similarly situated individuals of another race who were not prosecuted. (b) is incorrect because *Whren* holds that pretextual stops are valid under the Fourth Amendment if supported by objective probable cause, channeling racial bias claims exclusively to the demanding Equal Protection standard. (c) is incorrect because discovery is allowed if the demanding *Armstrong* threshold is met, not categorically barred. (d) is incorrect because a low aggregate yield rate does not retroactively invalidate the objective probable cause for individual, specific traffic infractions. (e) is incorrect because selective prosecution claims are typically raised and resolved via pre-trial motions, not as affirmative defenses presented to the jury.
+**Explanation:** Under *United States v. Armstrong*, a defendant seeking discovery on a selective prosecution claim must produce "some evidence" that similarly situated individuals of a different race could have been prosecuted but were not. Aggregate statistical data is insufficient to cross this threshold. (b) fails because *McCleskey* and *Armstrong* require proof of specific intent and effect in the individual case, not just systemic statistics. (c) fails because while *Whren* makes subjective intent irrelevant for Fourth Amendment purposes, it explicitly preserves Equal Protection challenges for racial bias. (d) fails because a 1% yield is a policy critique, not a legal negation of the objective probable cause that justifies the initial traffic stop. (e) fails because discovery can absolutely be sought post-indictment.
 
-**Tags:** chapters: [6], topics: [selective-prosecution, Armstrong-discovery-standard, pretextual-stops], difficulty: hard, cognitive: application
+**Tags:** chapters: [6, 3], topics: [selective-prosecution, Armstrong-discovery, pretextual-stops], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 6 - Prosecutors (Armstrong discovery catch-22, Whren pretextual stops)
+**Grounding:** Chapter 6 (Prosecutors) - Selective Prosecution Standard; Armstrong Discovery
 
-<!-- audit: CLEAN
-check 1: pass (Option (a) accurately states the strict Armstrong requirement that statistical disparities alone are insufficient for discovery in selective prosecution claims)
-check 2: pass (no defensible distractors; distractors reliably misstate Whren, Fourth Amendment PC requirements, and procedural rules like 12(b) pretrial motions)
-check 3: pass (the explanation directly tracks the legal rules from Armstrong and Whren)
-check 4: pass (although it references a broader shared fact pattern, the question provides enough internal constraint by specifying the motion is "based on the Operation Sweep statistics" alone, perfectly triggering the Armstrong failure condition)
-check 5: pass (federal jurisdiction is explicit with "AUSA")
-check 6: pass (no excluded topics)
-check 7: pass (matches chapter 6 refinement tags: armstrong-discovery-catch22, whren-pretext-constitutional)
-Recommended fix: none
+<!-- audit: MUST FIX
+check 1: pass (The legal rule stated in (a) accurately reflects *Armstrong*, though it cannot be properly applied without the missing facts).
+check 2: pass (Assuming a standard fact pattern where Marcus only provided aggregate stats, the distractors rely on clear doctrinal misstatements of *Whren* and *Armstrong*).
+check 3: pass (The explanation correctly applies the doctrines mapped to Chapter 6).
+check 4: FAIL (The entire fact pattern is missing. The question jumps straight into the call ("how will the court rule on Marcus's discovery motion?"), but provides no facts describing Marcus, "Operation Sweep," the 1% yield, or the specific evidence Marcus attached to his motion. Without facts, students cannot confirm that Marcus failed to provide a similarly situated comparator).
+check 5: pass
+check 6: pass
+check 7: pass (Topics are squarely within Chapter 6's mapped Refinements: `armstrong-discovery-catch22`, `selective-prosecution-standard`, `whren-equal-protection-gap`, and `volume-engine-low-yield`).
+Recommended fix: Insert the missing fact pattern before the call of the question. The facts must describe Marcus's arrest via a pretextual traffic stop during "Operation Sweep," mention the 1% contraband yield, and explicitly state that Marcus's selective prosecution discovery motion relies *solely* on aggregate statistical disparities regarding race, without identifying any specific white driver who committed a similar traffic violation but was not stopped.
 -->

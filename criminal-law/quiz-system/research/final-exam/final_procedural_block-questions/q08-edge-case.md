@@ -1,22 +1,25 @@
-**Q8.** Evaluate Leo's liability for the rival's death under felony murder and self-defense principles.
+**Q8.** Which of the following is the most accurate assessment of Leo's liability for the rival's death?
 
-(a) Guilty of felony murder because the accidental discharge occurred during an inherently dangerous robbery, and his status as initial aggressor defeats any self-defense claim. <!-- correct -->
-(b) Not guilty of felony murder because the rival's act of lunging with a knife was an independent intervening cause that broke the chain of causation.
-(c) Not guilty of criminal homicide because the fatal shooting was a purely accidental discharge that occurred while Leo was actively stumbling backward in retreat.
-(d) Guilty of extreme-recklessness homicide, but not felony murder, because a felony murder conviction requires the defendant to possess a specific intent to kill.
-(e) Not guilty of criminal homicide because Leo successfully regained his legal right to self-defense by stumbling backward away from the rival's lethal knife attack.
+(a) He is guilty of felony murder, and his act of initiating an armed robbery makes him the initial aggressor, completely barring any claim of self-defense. <!-- correct -->
+(b) He is guilty of extreme-recklessness homicide, but he can successfully claim self-defense because the rival escalated the encounter by lunging with a lethal weapon.
+(c) He is not guilty of felony murder because the gun discharged accidentally, meaning the death was not caused in furtherance of the underlying robbery.
+(d) He is guilty of felony murder, but the initial-aggressor bar does not apply because he was stumbling backward, satisfying the duty to retreat.
+(e) He is not guilty of extreme-recklessness homicide because the sudden and unexpected lunge by the rival legally breaks the chain of proximate causation.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because felony murder applies when a death occurs during the commission of an inherently dangerous felony like robbery, even if accidental. Furthermore, Leo's status as the initial aggressor (initiating an armed robbery) bars him from claiming self-defense when the victim lawfully or unlawfully responds with force. (b) is incorrect because a victim resisting an armed robbery with defensive force is a highly foreseeable response, not an independent intervening cause. (c) is incorrect because the accidental nature of the discharge is irrelevant under the strict liability framework of the felony murder rule. (d) is incorrect because felony murder substitutes the intent to commit the underlying felony for the specific intent to kill. (e) is incorrect because merely stumbling backward from a victim's defensive strike does not constitute a clear, communicated withdrawal sufficient to regain the right to self-defense.
+**Explanation:** Felony murder applies to any death—even an accidental one—caused in the perpetration of a dangerous felony like robbery. Furthermore, by initiating an armed robbery, Leo became the initial aggressor. The initial aggressor rule completely bars a self-defense claim unless the aggressor effectively withdraws from the encounter, which Leo did not do. (b) fails because the victim's defensive lunge does not restore the initial aggressor's right to self-defense. (c) fails because felony murder explicitly covers accidental deaths during the commission of the felony. (d) fails because stumbling backward during an active armed robbery does not constitute legal withdrawal or retreat. (e) fails because a victim resisting a robbery is highly foreseeable and does not break proximate causation.
 
-**Tags:** chapters: [14, 22], topics: [felony-murder, initial-aggressor-bar, self-defense], difficulty: hard, cognitive: application
+**Tags:** chapters: [14, 22], topics: [felony-murder, initial-aggressor-bar], difficulty: medium, cognitive: analysis
 
-**Grounding:** Chapter 14 - Felony Murder; Chapter 22 - Self-Defense (Initial Aggressor bar)
+**Grounding:** Chapter 14 (Felony Murder); Chapter 22 (Self-Defense) - Initial Aggressor Bar
+
+### Stem 2: Procedural and Appellate Review
+
+The case has moved to the pre-trial and trial phases under AUSA Vance. Review Vance's procedural tactics with Marcus, Senator Sterling's corruption charge, and the trial court's jury rulings to anticipate the defense's appellate arguments.
 
 <!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass (even if the discharge was an involuntary reflex from stumbling, the felony murder rule encompasses accidental/involuntary fatal acts committed during the res gestae of a qualifying voluntary felony like armed robbery).
-3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+1. Fact Pattern Booby Traps: pass (Accidental discharge does not negate felony murder because the underlying felony and wielding of the weapon were voluntary acts; self-defense is also correctly framed as being barred due to his status as the initial deadly aggressor).
+2. Cross-Doctrine Clashes: pass (No merger issues with robbery and felony murder; proximate cause remains intact despite the victim's defensive response).
+3. Cross-Question Spoilers: pass (The result smoothly aligns with Q3 testing Pinkerton liability for the co-conspirator).
 -->
