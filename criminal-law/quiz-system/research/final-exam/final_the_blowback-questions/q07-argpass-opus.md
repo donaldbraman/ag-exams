@@ -1,0 +1,33 @@
+**Q7.** Assume that Frankie the mechanic is charged as an accomplice to the hijacking. Under the *Lauria* standard for suppliers of goods, what is the most likely result?
+
+(a) Guilty as an accomplice, because charging triple the usual rental rate gives him a financial stake in the venture, permitting an inference of his purpose to facilitate the crime. <!-- correct -->
+(b) Not guilty as an accomplice, because his explicit statement that he did not care what Dom did proves he lacked the necessary mental state to support the criminal venture.
+(c) Guilty as an accomplice, because providing the getaway car constitutes an overt act in furtherance of the hijacking, which automatically creates strict liability for the offense.
+(d) Not guilty as an accomplice, because renting out vehicles is a legal business activity, which shields him from liability for the subsequent unlawful actions of his customers.
+(e) Guilty as an accomplice, because his mere subjective awareness that the car would be used for a hijacking is categorically sufficient to satisfy the specific intent requirement.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because under *People v. Lauria*, a supplier's knowledge of illicit use can support an inference of purpose if the provider acquires a "stake in the venture"—such as by charging an inflated rate for the service. (b) is wrong because his verbal disclaimer of interest is overridden by his financial gouging, which legally establishes the required purposive stake. (c) is wrong because accomplice liability requires specific intent (purpose) regarding the underlying offense, not strict liability based on a mere overt act. (d) is wrong because operating a legal business provides no shield when the proprietor purposefully facilitates a serious felony for specialized profit. (e) is wrong because *Lauria* specifically holds that mere knowledge of illicit use by a merchant is generally *insufficient* for accomplice liability; the elevated pricing is the crucial fact that elevates knowledge to purpose.
+
+**Tags:** chapters: [18], topics: [accomplice-liability, purpose, mens-rea], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 18: Accomplice Liability — lauria-knowledge-vs-purpose and lauria-three-inferences
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: Under *People v. Lauria*, a supplier's intent to facilitate a crime can be inferred if they acquire a financial "stake in the venture." By charging triple the usual rental rate, Frankie demonstrates that his provision of the getaway car is motivated by sharing in the illicit profits, elevating his mental state from mere knowledge to purpose. Therefore, he is guilty as an accomplice.
+(b) Argument-for: Accomplice liability requires the specific intent or purpose to facilitate the underlying crime. Frankie's explicit statement that he "did not care what Dom did" directly negates a purposive mental state, showing mere indifference rather than a desire for the crime to succeed. Since purpose cannot be established when the defendant explicitly disclaims interest in the outcome, he lacks the requisite mens rea.
+(c) Argument-for: The actus reus for accomplice liability requires rendering aid or encouragement to the principal. Providing a getaway car is a direct overt act in furtherance of the hijacking. Because he provided substantial material assistance to a known criminal endeavor, this overt act automatically creates strict liability for the resulting offense, regardless of specific intent.
+(d) Argument-for: *Lauria* establishes that merchants providing lawful goods or services in the ordinary course of business are generally not liable for their customers' crimes based on mere knowledge. Renting out vehicles is a standard, legal business activity. Protecting commerce requires that proprietors are shielded from criminal liability for the subsequent unlawful actions of their customers absent direct participation in the offense itself.
+(e) Argument-for: While *Lauria* generally requires purpose rather than mere knowledge for suppliers of lawful goods, it notes an exception for exceptionally serious crimes like a violent hijacking. Under this doctrine, providing goods with knowledge that they will be used for a grave felony is categorically sufficient to satisfy the mens rea requirement, without needing an independent financial stake.
+
+Head-to-head: Option (a) is the strongest legally grounded answer, correctly applying the *Lauria* "stake in the venture" inference drawn from inflated pricing. Distractor (c) contains the blatantly false claim that providing a car "automatically creates strict liability." Distractor (e) falsely claims that subjective awareness is "categorically sufficient" to satisfy specific intent. Distractor (d) claims that a legal business activity "shields him from liability," which implies a false absolute immunity. Distractor (b) asserts that an explicit statement "proves he lacked the necessary mental state." While (b) is wrong because a self-serving statement does not conclusively override objective evidence of a financial stake, it lacks an absolute trigger word to strictly lock the falsifiable proposition per the prompt's close-call standard. Thus, a minor fix to (b) is recommended to ensure it fails on a clear legal rule rather than factual weighing.
+
+Falsifiable claim per distractor:
+- (b): "proves he lacked the necessary mental state" — wrong because a verbal disclaimer does not conclusively prove lack of mens rea as a matter of law when contradicted by objective evidence of a financial stake.
+- (c): "automatically creates strict liability" — wrong because accomplice liability requires specific intent (mens rea) and is never a strict liability offense based solely on an overt act.
+- (d): "shields him from liability" — wrong because operating a legal business offers no absolute shield against accomplice liability if the requisite mens rea and actus reus are present.
+- (e): "is categorically sufficient to satisfy the specific intent requirement" — wrong because even under the *Lauria* serious-felony dictum, knowledge does not categorically satisfy specific intent; rather, it allows a jury to infer intent in some circumstances.
+
+Recommended fix: In (b), change "proves he lacked" to "conclusively proves he lacked". In (d), change "which shields him" to "which categorically shields him".
+-->

@@ -1,0 +1,33 @@
+**Q12.** Assume Silas satisfies the imminence requirement, and his threat perception must be evaluated for reasonableness. How will the court evaluate his belief that an assassination attempt was underway?
+
+(a) His belief is evaluated under a purely subjective standard, meaning he is fully justified so long as he genuinely believed Trey was rapidly drawing a deadly weapon.
+(b) His belief is evaluated by asking whether an average citizen with no gang involvement or prior knowledge of Trey would have believed lethal defensive force was necessary.
+(c) His belief is automatically deemed unreasonable as a strict matter of law because Trey was completely unarmed and was only reaching for a ringing cellular phone.
+(d) His belief is evaluated by asking whether a reasonable person in Silas's specific situation, possessing his knowledge of Syndicate tactics, would have believed deadly force was necessary. <!-- correct -->
+(e) His belief is automatically deemed reasonable by the court because Trey was a known criminal hitman actively pacing outside Silas's residence during an ongoing violent gang war.
+
+**Answer:** (d)
+
+**Explanation:** (d) is correct. The objective reasonableness standard requires evaluating the threat from the perspective of a reasonable person in the defendant's specific situation, incorporating their relevant prior knowledge, experiences, and awareness of the attacker's identity. (a) is wrong because self-defense requires an objective element; a purely subjective, idiosyncratic belief is insufficient for perfect self-defense. (b) is wrong because the standard incorporates the defendant's specific circumstantial knowledge (the gang war and hitman's identity), not an uninformed average citizen. (c) is wrong because reasonableness is judged based on the facts as they reasonably appeared to the defendant at the time, not in hindsight. (e) is wrong because reasonableness is a question for the jury based on all circumstances, not an automatic judicial presumption.
+
+**Tags:** chapters: [22], topics: [self-defense, objective-reasonableness-standard], difficulty: medium, cognitive: analysis
+
+**Grounding:** Chapter 22; objective standard incorporating the defendant's specific situation and prior knowledge
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under the Model Penal Code § 3.04, the justification of self-defense relies on whether the actor "believes that such force is immediately necessary," which is fundamentally a subjective standard. A student could argue that if the jurisdiction follows a strict MPC approach, Silas's genuine belief is sufficient to establish the defense. Evaluating his subjective perception accurately reflects the split-second nature of defensive decisions, meaning a genuine, albeit mistaken, belief fully justifies the action.
+(b) Argument-for: The objective component of self-defense requires the standard of an "ordinary, reasonable person." A student could argue that incorporating gang involvement and criminal background into the "reasonable person" construct improperly lowers the standard of care for criminals. By evaluating the threat through the eyes of an average, law-abiding citizen with no prior gang knowledge, the court ensures that subjective criminal paranoia does not excuse deadly force.
+(c) Argument-for: Deadly force requires a proportionate response to an objectively deadly threat. Because Trey was entirely unarmed and merely answering a cell phone, a student could argue that no deadly threat actually existed. Courts can resolve issues as a strict matter of law when the facts are indisputable; here, shooting an unarmed man reaching for a phone is so objectively disproportionate that the belief is automatically deemed legally unreasonable.
+(d) Argument-for: The prevailing common law standard for self-defense evaluates the defendant's belief under a hybrid objective-subjective test: what a reasonable person would believe in the defendant's specific situation. This doctrine mandates that the jury adopt the physical circumstances and prior relevant knowledge of the defendant. Therefore, Silas's knowledge of Syndicate tactics and Trey's identity are essential contextual facts used to evaluate the objective reasonableness of his belief.
+(e) Argument-for: In extreme circumstances, such as facing a known hitman during an active gang war, the threat level is exceptionally high. A student could argue that these undisputed facts trigger an automatic presumption of reasonableness, much like statutory presumptions found in the Castle Doctrine. Given the active hostility and Trey's lethal reputation, the court could rule that any person in Silas's shoes would be automatically legally reasonable in assuming an assassination attempt.
+
+Head-to-head: Option (d) correctly articulates the established common law standard: reasonableness is judged from the perspective of a reasonable person in the defendant's specific situation, incorporating prior knowledge. Option (a) incorrectly claims the standard is "purely subjective" for full justification; even jurisdictions with subjective elements do not offer perfect self-defense for wildly unreasonable beliefs. Option (b) explicitly and incorrectly strips the standard of the defendant's relevant prior knowledge. Options (c) and (e) wrongly assert that the belief is "automatically" deemed unreasonable or reasonable as a matter of law. Because all distractors contain absolute, explicit errors of doctrine, the question distinguishes between the distractors and the key cleanly.
+
+Falsifiable claim per distractor:
+- (a): "purely subjective standard, meaning he is fully justified" — wrong because perfect self-defense requires an objective standard of reasonableness (and under the MPC, an unreasonable subjective belief denies full justification for crimes of recklessness/negligence).
+- (b): "average citizen with no gang involvement or prior knowledge of Trey" — wrong because the reasonable person standard legally must incorporate the defendant's relevant prior knowledge and physical circumstances.
+- (c): "automatically deemed unreasonable as a strict matter of law because Trey was completely unarmed" — wrong because reasonableness evaluates the facts as they appeared to the defendant at the time, not ex post facto based on hindsight.
+- (e): "automatically deemed reasonable by the court" — wrong because the reasonableness of a mistaken belief in self-defense is a question of fact for the jury based on the totality of circumstances, not an automatic presumption.
+
+Recommended fix: none
+-->

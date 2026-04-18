@@ -1,0 +1,33 @@
+**Q9.** The prosecution seeks to charge Avon under RICO. Does Barksdale Logistics satisfy the "enterprise" element?
+
+(a) Yes, because it is a legally registered corporate entity, which inherently satisfies the definition of an enterprise under the RICO statute. <!-- correct -->
+(b) Yes, but only if the prosecution can definitively prove the corporation was formed exclusively for an illicit drug distribution purpose.
+(c) No, because a legitimate commercial warehousing corporation cannot simultaneously serve as a criminal enterprise under the federal racketeering activity laws.
+(d) No, because the enterprise must be an informal association-in-fact distinct from any legally recognized entity like a registered logistics corporation.
+(e) Yes, because the existence of a continuous pattern of racketeering activity automatically establishes the structural enterprise requirement for a conviction.
+
+**Answer:** (a)
+
+**Explanation:** Under RICO, an "enterprise" includes any individual, partnership, corporation, association, or other legal entity. Barksdale Logistics is a legally registered commercial warehousing corporation (Fact 1), which squarely satisfies the definition of an enterprise. (b) is wrong because a legitimate corporation can be used as an enterprise to conduct racketeering activity; it need not be formed exclusively for illegal purposes. (c) is wrong because the Supreme Court has explicitly held that legitimate businesses can serve as RICO enterprises. (d) is wrong because while an enterprise can be an association-in-fact, it can also be a formal legal entity like a corporation. (e) is wrong because the enterprise is an element distinct from the pattern of racketeering activity, though the evidence may overlap.
+
+**Tags:** chapters: [20], topics: [rico, enterprise liability, corporate enterprise], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 20, RICO Enterprise (a legal entity like a corporation satisfies the enterprise element)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student would select this option by relying on the plain text of 18 U.S.C. § 1961(4). The RICO statute explicitly defines an "enterprise" to include "any individual, partnership, corporation, association, or other legal entity." Since Barksdale Logistics is a legally registered corporate entity, it automatically falls within this statutorily enumerated list, making its corporate status inherently sufficient to satisfy the "enterprise" definitional element.
+(b) Argument-for: A student might choose this option if they misapply the purpose of the RICO statute regarding illicit organizations. They could reasonably argue that a corporation only transforms into a RICO enterprise if it is an alter-ego for the criminal syndicate. Under this theory, unless the entity was exclusively formed to carry out the drug distribution, it remains a mere legitimate business suffering from rogue employees rather than an actionable RICO enterprise.
+(c) Argument-for: A student could defend this by conflating the racketeering activity with the structural entity itself. They might argue that a legitimate, functioning commercial warehousing corporation is fundamentally distinct from a criminal enterprise, as its primary operations are lawful. Under this view, the actual RICO "enterprise" would have to be an illicit subset of individuals operating within the corporation, meaning the legitimate corporation itself cannot simultaneously be deemed the criminal enterprise.
+(d) Argument-for: A student would advocate for this option by relying heavily on the landmark cases like *Boyle v. United States* or *United States v. Turkette*, which famously dealt with "association-in-fact" enterprises. They might conclude that in the context of street gangs and drug rings, the enterprise must be the informal network of co-conspirators. Therefore, they would argue the formal logistics corporation is merely a tool or front, while the actual actionable enterprise must be the distinct association-in-fact.
+(e) Argument-for: A student could justify this answer by leaning on language from *Turkette* noting that proof used to establish a pattern of racketeering activity may sometimes "coalesce" with proof of the enterprise. They would argue that in a highly integrated drug operation, demonstrating a continuous pattern of racketeering (like ongoing drug sales) inevitably proves the structure of the organization. Thus, the existence of the continuous pattern automatically satisfies the structural enterprise requirement.
+
+Head-to-head: Option (a) correctly applies the black-letter text of 18 U.S.C. § 1961(4), which expressly lists a "corporation" as an enterprise. All four distractors use absolute, falsifiable language that directly contradicts established Supreme Court precedent on RICO. Distractor (b) wrongly limits corporate enterprises to those formed "exclusively" for illicit purposes. Distractor (c) claims a legitimate corporation "cannot" serve as a criminal enterprise, outright defying the statutory definition. Distractor (d) makes a fatal absolute claim that the enterprise "must be an informal association-in-fact," ignoring the statutory inclusion of legal entities. Distractor (e) claims a pattern of racketeering "automatically establishes" the enterprise, which clearly violates the *Turkette* requirement that the enterprise is an entity "separate and apart" from the pattern of activity.
+
+Falsifiable claim per distractor:
+- (b): "only if... the corporation was formed exclusively for an illicit drug distribution purpose" — wrong because legal entities formed for legitimate purposes but later used to conduct racketeering activity fully qualify as RICO enterprises.
+- (c): "cannot simultaneously serve as a criminal enterprise" — wrong because 18 U.S.C. § 1961(4) explicitly lists legal entities such as corporations, meaning legitimate commercial businesses can serve as the enterprise through which affairs are conducted.
+- (d): "must be an informal association-in-fact distinct from any legally recognized entity" — wrong because the statute expressly includes recognized legal entities (partnerships, corporations) as alternative forms of enterprises.
+- (e): "automatically establishes the structural enterprise requirement" — wrong because *United States v. Turkette* explicitly holds that the "enterprise" is a separate element that must be proven distinct from the "pattern of racketeering activity."
+
+Recommended fix: none
+-->

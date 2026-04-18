@@ -1,0 +1,10 @@
+<!-- audit: MUST FIX
+check 1: finding (Fails) — The marked answer (c) and its explanation misstate the holding of *Staples*. *Staples* did not hold that a severe penalty categorically overcomes the public welfare offense (PWO) exception for inherently dangerous items. In fact, *Staples* explicitly distinguished *Freed* (which involved hand grenades and the *exact same 10-year penalty*), noting that highly dangerous/noxious items like grenades or "hazardous chemicals" (citing *International Minerals*) still qualify as PWOs despite severe penalties. The severe penalty in *Staples* mandated mens rea *because* firearms have a "long tradition of entirely lawful, innocent ownership." 
+check 2: finding (Fails) — A highly prepared student who knows *Freed* and *International Minerals* will realize that hazardous chemicals are classic PWO items that *retain* their PWO status despite severe penalties. Because they will recognize the reasoning in (c) ("the severe felony penalty presumes a mens rea requirement [overcoming the dangerous items rule]") is legally incorrect for *this specific item*, they will be forced to hunt for a 'best worse' answer, potentially arguing that none of the options correctly state the law. (Under PWO doctrine, he'd still have to know the item was a hazardous chemical, but the reasoning in (c) is doctrinally false).
+check 3: finding (Fails) — The explanation incorrectly states "The severe penalty overcomes the public welfare offense exception" for dangerous items like hazardous chemicals. It only overcomes it for traditionally innocent items.
+check 4: pass
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Change the regulated item in the stem from "hazardous chemicals" to an item with a long tradition of innocent ownership (e.g., "possessing an unregistered, modified semi-automatic firearm" or "storing large quantities of common agricultural fertilizer"). This will perfectly align the scenario with the *Staples* holding and make (c)'s reasoning completely correct.
+-->

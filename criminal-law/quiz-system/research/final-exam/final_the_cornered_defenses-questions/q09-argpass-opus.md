@@ -1,0 +1,33 @@
+**Q9.** Assume Marcus is established as the possessor of the fentanyl. Can he be convicted of possession with intent to distribute?
+
+(a) Guilty, because the massive quantity of 2 kilograms and the division into 100 baggies permit a jury to infer an intent to sell rather than personal use. <!-- correct -->
+(b) Not guilty, because the prosecution cannot legally prove intent to distribute without direct evidence of an actual financial transaction, a ledger, or an undercover sting operation.
+(c) Guilty, because possessing any detectable amount of fentanyl automatically constitutes distribution under modern strict liability public welfare statutes governing highly dangerous synthetic chemical substances.
+(d) Not guilty, because the packaged drugs were found locked away rather than on his physical person, which legally negates an active present intent to immediately distribute.
+(e) Guilty, because fentanyl is a closely regulated narcotic and the law strictly presumes that any individual possessing a Schedule I substance intends to distribute it.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct. Intent to distribute can be inferred circumstantially from the massive quantity of drugs (2 kilograms) and their specific packaging (100 baggies), which strongly suggest commercial sale rather than personal consumption. (b) is wrong because circumstantial evidence of quantity and packaging is legally sufficient to prove intent without a direct transaction. (c) is wrong because possession with intent to distribute requires specific intent (mens rea); it is not a strict liability offense. (d) is wrong because constructive possession of packaged narcotics is sufficient; they do not need to be on the physical person. (e) is wrong because while Schedule I classification reflects high danger, the law requires proof of specific intent to distribute, not a strict presumption based on the schedule alone.
+
+**Tags:** chapters: [15], topics: [possession-with-intent-to-distribute], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 15; inferring intent to distribute from quantity and packaging
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: This option correctly states the well-established legal principle that specific intent to distribute a controlled substance can be inferred circumstantially. A massive quantity, such as 2 kilograms, is vastly inconsistent with personal use. Furthermore, the division of the drugs into 100 baggies acts as classic circumstantial evidence of packaging for retail sale. Therefore, a jury is legally permitted to infer the requisite mens rea from these objective facts alone.
+(b) Argument-for: A student could argue that specific intent requires definitive proof to avoid unconstitutional presumptions under *In re Winship*. Without an actual financial transaction, ledger, or sting, any conclusion about intent relies on mere speculation rather than proof beyond a reasonable doubt. Thus, finding Marcus guilty based solely on the physical state of the drugs improperly lowers the prosecution's burden of proof. This aligns with the argument that possession alone, no matter the quantity, should not automatically equate to intent to distribute without concrete evidence of a commercial enterprise.
+(c) Argument-for: A student might argue that modern legislative trends treat highly lethal substances like fentanyl differently, imposing strict liability for their distribution under public welfare offense doctrines. Because even a minuscule amount of fentanyl is deadly, the law could logically categorize its possession as a strict liability distribution offense to protect public health. The catastrophic risks of the substance justify removing the specific mens rea requirement, effectively treating possession of such synthetic chemicals as *per se* distribution.
+(d) Argument-for: This option relies on a narrow interpretation of intent to distribute, arguing that the drugs being locked away rather than carried physically implies a lack of present, active intent to distribute them immediately. A student could contend that while constructive possession is established, the fact that the drugs are locked up negates the immediacy of the distribution intent. Therefore, without evidence that Marcus was preparing to move the drugs, the locked state of the drugs legally precludes a finding of active present intent to distribute.
+(e) Argument-for: A student could defend this option by relying on the regulatory framework of the Controlled Substances Act, arguing that Schedule I substances have no accepted medical use and are highly dangerous. Consequently, a student might infer that the law structurally presumes any possession of a Schedule I substance is for an illicit, non-personal purpose like distribution. This statutory categorization could be misconstrued as creating a strict legal presumption of intent to distribute based merely on the schedule classification of the narcotic.
+
+Head-to-head: Option (a) is unequivocally correct under standard criminal doctrine, as specific intent to distribute may be inferred from circumstantial factors like quantity and packaging. Each distractor relies on a clearly falsifiable absolute claim. Option (b) incorrectly mandates direct evidence, option (c) incorrectly creates a strict liability standard for distribution, option (d) falsely invents an immediate-physical-presence requirement to sustain intent, and option (e) invents a strict statutory presumption of intent based on drug scheduling. Because every distractor includes an explicit, legally false proposition locked with absolute phrasing, the question passes the close-call standard.
+
+Falsifiable claim per distractor:
+- (b): "prosecution cannot legally prove intent to distribute without direct evidence" — wrong because circumstantial evidence (like quantity and packaging) is overwhelmingly accepted as legally sufficient to prove intent to distribute.
+- (c): "automatically constitutes distribution under modern strict liability" — wrong because possession with intent to distribute is a specific intent crime, not a strict liability public welfare offense.
+- (d): "legally negates an active present intent to immediately distribute" — wrong because intent to distribute does not require the drugs to be on the physical person, nor does the intent need to be "immediate."
+- (e): "the law strictly presumes that any individual possessing a Schedule I substance intends to distribute it" — wrong because there is no such strict presumption; specific intent must still be proven beyond a reasonable doubt regardless of the schedule.
+
+Recommended fix: none
+-->

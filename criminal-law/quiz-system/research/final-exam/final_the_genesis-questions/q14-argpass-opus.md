@@ -1,0 +1,33 @@
+**Q14.** The Courier is charged with attempted possession of cocaine with intent to distribute under the Model Penal Code. Did his actions prior to arrest satisfy the actus reus for attempt?
+
+(a) Yes, because driving to the location and walking toward the warehouse with an empty duffel bag constitutes a strongly corroborative substantial step. <!-- correct -->
+(b) Yes, because his mere verbal agreement with Avon to pick up the packaged drugs fully satisfies the attempt actus reus requirement.
+(c) No, because he was arrested on an unrelated traffic warrant, making it legally impossible for him to actually commit the target crime.
+(d) No, because he had not yet entered the commercial warehouse, meaning he had not taken a substantial step toward the actual possession.
+(e) No, because carrying an empty duffel bag down a public street is entirely innocent conduct that cannot corroborate a specific criminal intent.
+
+**Answer:** (a)
+
+**Explanation:** The Model Penal Code's attempt actus reus requires a "substantial step" that is strongly corroborative of the actor's criminal purpose. Driving to the neighborhood and walking toward the stash house with an empty duffel bag after receiving a text to pick up 5 kilos of cocaine clearly constitutes a substantial step corroborating his intent to possess the drugs. (b) is wrong because mere agreement is conspiracy, but attempt requires an act beyond mere preparation. (c) is wrong because an unrelated arrest prevents the completed crime but does not create factual or legal impossibility for the attempt. (d) is wrong because the MPC does not require the defendant to reach the absolute final stage of the crime to take a substantial step. (e) is wrong because while a duffel bag is innocent in the abstract, the context of the text message makes it strongly corroborative of criminal purpose.
+
+**Tags:** chapters: [17], topics: [attempt, substantial step, mpc], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 17, MPC Attempt (a substantial step strongly corroborative of the actor's criminal purpose)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under MPC § 5.01(1)(c), the actus reus for attempt requires a "substantial step" in a course of conduct planned to culminate in the commission of the crime. Section 5.01(2) specifically provides that acts such as "possession of materials to be employed in the commission of the crime" and approaching the scene of the crime can constitute substantial steps if they are "strongly corroborative of the actor's criminal purpose." Driving to the stash house and approaching it with an empty duffel bag designed to carry the drugs clearly satisfies this standard, making this option correct.
+(b) Argument-for: A verbal agreement to pick up packaged drugs is an affirmative act that demonstrates a firm commitment to the crime. A student could argue that under a broad interpretation of the "substantial step" standard, the agreement itself goes beyond mere thought and objectively sets the criminal enterprise into motion. Therefore, the agreement fully satisfies the attempt actus reus requirement by strongly corroborating the intent to possess the drugs.
+(c) Argument-for: Impossibility is a traditional defense to attempt liability. A student could argue that because an intervening police action (the unrelated traffic warrant) completely thwarted the Courier's ability to access the drugs, it became legally impossible for him to commit the target crime of possession. If completing the crime is rendered impossible by intervening legal authorities, attempt liability is defeated.
+(d) Argument-for: The substantial step standard requires conduct that is strongly corroborative of a criminal purpose, distinguishing it from mere preparation. A student could argue that merely walking toward a commercial warehouse is too equivocal and remote to cross this threshold. Until the Courier actually enters the warehouse and approaches the contraband, his actions remain in the preparatory phase, meaning no substantial step has occurred.
+(e) Argument-for: Under the MPC, a substantial step must strongly corroborate the actor's criminal purpose. Carrying an empty duffel bag on a public street is exceedingly common and inherently equivocal behavior. A student could argue that because this conduct is completely innocent on its face, it lacks the objective evidentiary weight required to corroborate a specific criminal intent to possess and distribute cocaine.
+
+Head-to-head: Option (a) correctly applies the MPC "substantial step" test, as approaching a location with materials to be used in the crime strongly corroborates the criminal purpose. Option (b) confuses the actus reus of conspiracy (agreement) with attempt, falsely claiming that mere agreement fully satisfies the attempt actus reus. Option (c) wrongly characterizes a factual impediment (an arrest) as "legal impossibility." Option (d) falsely asserts that failing to enter the warehouse means no substantial step was taken, contradicting the MPC's explicit allowance for approaching the scene to suffice. Option (e) falsely claims that facially innocent conduct "cannot" corroborate criminal intent, whereas the MPC expressly allows such conduct to do so when viewed in context. All distractors contain clear, falsifiable legal errors.
+
+Falsifiable claim per distractor:
+- (b): "mere verbal agreement ... fully satisfies the attempt actus reus requirement" — wrong because under the MPC, mere agreement forms the actus reus for conspiracy; attempt generally requires an overt act (a substantial step) beyond the mere agreement itself.
+- (c): "making it legally impossible" — wrong because an intervening arrest on an unrelated warrant constitutes an extrinsic condition thwarting the crime (factual impossibility), not legal impossibility (where the intended acts do not constitute a crime).
+- (d): "meaning he had not taken a substantial step" — wrong because it wrongly implies as a rule that physical entry into the target location is legally required to cross the threshold into a substantial step, which contradicts MPC § 5.01(2).
+- (e): "entirely innocent conduct that cannot corroborate a specific criminal intent" — wrong because the MPC expressly permits facially innocent acts (like possessing a duffel bag or walking down a street) to constitute a substantial step if they strongly corroborate the criminal purpose in light of the surrounding circumstances.
+
+Recommended fix: none
+-->

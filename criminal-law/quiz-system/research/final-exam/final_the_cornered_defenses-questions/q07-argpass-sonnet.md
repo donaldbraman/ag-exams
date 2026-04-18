@@ -1,0 +1,33 @@
+**Q7.** Assume Leo establishes that his schizophrenic hallucination caused him to believe he was commanded by God to smite a demon. How will this affect his liability under the M'Naghten standard?
+
+(a) Guilty, because he was aware he was physically discharging a firearm, which strictly satisfies the requirement that he knew the nature and quality of his act.
+(b) Not guilty, because his delusion that God specifically commanded him to smite a demon prevented him from knowing his act was morally or legally wrong. <!-- correct -->
+(c) Guilty, because he still possessed the physical ability to voluntarily control his bodily movements and conform his conduct to the law when he pulled the trigger.
+(d) Not guilty, because any defendant suffering from a severe schizophrenic hallucination is automatically deemed legally insane regardless of their cognitive understanding of the criminal act.
+(e) Guilty, because the wrongness prong solely excuses defendants who cannot physically comprehend the fatal biological results of their violent conduct toward another human being.
+
+**Answer:** (b)
+
+**Explanation:** (b) is correct. Under the M'Naghten standard's wrongness prong, a delusion that God commanded the killing prevents the defendant from appreciating that the act was morally or legally wrong, satisfying the test. (a) is wrong because knowing the physical nature of the act (shooting a gun) addresses the first prong, but the defense can still succeed under the second (wrongness) prong. (c) is wrong because the irresistible impulse test covers volitional control; M'Naghten focuses strictly on cognitive capacity. (d) is wrong because a severe diagnosis alone is never enough; the disease must specifically cause the required cognitive incapacity. (e) is wrong because the wrongness prong explicitly excuses defendants who comprehend the physical results but fail to grasp the moral or legal wrongfulness.
+
+**Tags:** chapters: [23], topics: [insanity, mnaghten-wrongness], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 23; M'Naghten standard cognitive wrongness prong
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student might argue that the M'Naghten standard primarily concerns whether the defendant was detached from physical reality. Since Leo perfectly understood the physical nature of his act (discharging a firearm), he possessed cognitive awareness of his conduct. The student could conclude that satisfying this first prong (knowing the nature and quality of the act) establishes his cognitive baseline, rendering him legally culpable despite his bizarre motive.
+(b) Argument-for: The M'Naghten standard operates disjunctively, excusing a defendant who does not know the nature and quality of the act OR does not know that the act is wrong. A severe delusion that God commanded the act (the "deific decree" doctrine) specifically destroys the defendant's ability to appreciate the moral or legal wrongfulness of the action. Therefore, Leo satisfies the wrongness prong and is not guilty by reason of insanity.
+(c) Argument-for: A student might mistakenly apply the Model Penal Code or Irresistible Impulse test, which incorporates volitional elements like the ability to "conform his conduct to the law." Assuming that criminal liability always requires a voluntary act and that M'Naghten might loosely encompass all mental capacities, a student could argue that Leo's sheer physical ability to voluntarily pull the trigger overrides his cognitive delusions.
+(d) Argument-for: A student might confuse the presence of a severe mental defect (a "disease of the mind") with the ultimate legal conclusion of insanity. Given that schizophrenia is a well-documented and severe psychiatric illness, the student might believe that experiencing an active hallucination automatically renders a defendant legally insane, regardless of their specific cognitive understanding of the act.
+(e) Argument-for: A student might narrowly misconstrue the "wrongness" prong as requiring a purely physical or biological misunderstanding of the victim's status. They could argue that because Leo recognized he was harming a biological entity (a "demon" occupying a human space or resulting in a fatality), his comprehension of the physical results prevents him from claiming he didn't know the act was "wrong."
+
+Head-to-head: Option (b) is the clear correct answer because it accurately applies the M'Naghten wrongness prong (often analyzed under the deific decree exception). Distractors (d) and (e) are strong because they contain explicitly false legal claims firmly locked by absolute words ("automatically... regardless of," "solely excuses"). However, distractors (a) and (c) present legal conclusions based on implicit omissions rather than absolutely locked false claims. Option (a) incorrectly implies that defeating the first prong mandates guilt but lacks an absolute word to categorically exclude the second prong. Option (c) asserts a legally false premise (that volitional control dictates M'Naghten outcomes) but also lacks an absolute lock.
+
+Falsifiable claim per distractor:
+- (a): "Guilty, because he was aware he was physically discharging a firearm..." — wrong because it relies on an implicit omission; under M'Naghten's disjunctive test, knowing the nature and quality of the act does not mandate guilt since the defendant may still lack knowledge that the act was wrong. 
+- (c): "Guilty, because he still possessed the physical ability to voluntarily control his bodily movements and conform his conduct to the law..." — wrong because M'Naghten is a strictly cognitive test, meaning volitional control is entirely irrelevant, but the option currently lacks an absolute word.
+- (d): "automatically deemed legally insane regardless of their cognitive understanding" — explicitly wrong because M'Naghten requires a precise cognitive defect, not merely a severe psychiatric diagnosis.
+- (e): "solely excuses defendants who cannot physically comprehend the fatal biological results" — explicitly wrong because the wrongness prong encompasses moral and legal wrongfulness, not just biological or physical comprehension.
+
+Recommended fix: Add absolute words to lock the false claims in (a) and (c). Change (a) to: "Guilty, solely because he was aware he was physically discharging a firearm, which strictly satisfies the requirement that he knew the nature and quality of his act." Change (c) to: "Guilty, because possessing the physical ability to voluntarily conform conduct to the law automatically defeats a M'Naghten defense."
+-->

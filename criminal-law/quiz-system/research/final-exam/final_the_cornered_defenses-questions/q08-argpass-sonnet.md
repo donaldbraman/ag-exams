@@ -1,0 +1,33 @@
+**Q8.** Assume Marcus and Leo are charged with possession of the fentanyl found in the lockbox. Who has constructive possession of the drugs?
+
+(a) Both had constructive possession because the box was in plain view in the passenger cabin, making them jointly liable for any contraband within reaching distance.
+(b) Neither had constructive possession because the drugs were secured inside a locked container, preventing either man from exercising immediate physical dominion over the actual narcotics.
+(c) Only Leo had constructive possession because the box was clearly visible to him in the passenger seat, establishing his requisite subjective awareness of the contraband.
+(d) Both had constructive possession because they were criminal associates in the vehicle, making them strictly liable for all illicit items discovered during a police search.
+(e) Marcus had constructive possession because possessing the sole key gave him the power to control the box, while Leo lacked constructive possession without such control. <!-- correct -->
+
+**Answer:** (e)
+
+**Explanation:** (e) is correct. Constructive possession requires both the power and the intent to exercise dominion and control over the contraband. Marcus's possession of the sole key gave him power over the locked box, while Leo's mere proximity and visual awareness without the key did not. (a) is wrong because plain view is insufficient without the actual power to access and control the locked contents. (b) is wrong because physical possession of the key confers constructive possession of the contents. (c) is wrong because visual awareness (intent) must be coupled with the power to exercise dominion, which Leo lacked. (d) is wrong because criminal association in a vehicle does not create strict liability for locked containers possessed by another person.
+
+**Tags:** chapters: [15], topics: [constructive-possession, drugs], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 15; constructive possession requiring power and intent to exercise dominion and control
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under cases like *Maryland v. Pringle*, passengers in a vehicle can sometimes be held jointly liable for contraband found within the passenger compartment. A student could argue that because the lockbox was in plain view and within reaching distance in the shared space of the cabin, an inference of shared dominion and control arises. This visual proximity and physical access arguably make them jointly responsible for the items within the vehicle.
+(b) Argument-for: A student could argue that constructive possession requires a tangible ability to exercise dominion and control over the drugs themselves. Since the drugs were secured inside a locked box and neither man had the actual drugs in his hands, neither possessed immediate physical dominion. Therefore, without direct physical access to the actual narcotics, constructive possession is defeated.
+(c) Argument-for: A student might argue that constructive possession requires subjective awareness of the contraband, which can be inferred from direct line of sight. Because the box was clearly visible to Leo in the passenger seat, a student could conclude this visual proximity establishes his intent and awareness. Consequently, Leo uniquely possessed the requisite mental state to establish possession.
+(d) Argument-for: Relying on theories of joint criminal enterprise or Pinkerton liability, a student could argue that criminal associates in a vehicle share responsibility for each other's contraband. Since both were criminal associates, the student might conclude this status automatically imputes possession of all illicit items found during the search to both individuals, regardless of who held the key.
+(e) Argument-for: Constructive possession requires both the intent and the power to exercise dominion and control over the contraband. A student would recognize that Marcus’s possession of the sole key gave him the exclusive actual power to access and control the locked box’s contents. Because Leo lacked the key or means to open the box, he lacked the requisite power, making Marcus the sole constructive possessor.
+
+Head-to-head: Option (e) correctly applies the doctrinal requirements of constructive possession by matching the power to control the contraband with possession of the sole key. Option (a) relies on the explicitly false claim that plain view of a locked box automatically makes individuals jointly liable for its hidden contents. Option (b) makes the false legal assertion that a lack of immediate physical dominion precludes constructive possession, contradicting the very definition of the doctrine. Option (c) relies on the false premise that simply seeing a locked box establishes subjective awareness of the hidden contraband inside it. Option (d) incorrectly applies a "strict liability" standard to criminal associates for all items found in a vehicle. The correct answer is clearly superior, and all distractors contain explicit, falsifiable legal errors.
+
+Falsifiable claim per distractor:
+- (a): "making them jointly liable for any contraband within reaching distance" — wrong because proximity and plain view of a locked box do not categorically establish joint liability for the contraband secured inside.
+- (b): "preventing either man from exercising immediate physical dominion over the actual narcotics [meaning neither had constructive possession]" — wrong because constructive possession specifically covers scenarios where immediate physical dominion is lacking, provided power and intent to control exist.
+- (c): "establishing his requisite subjective awareness of the contraband" — wrong because mere visual awareness of an opaque locked box does not automatically establish subjective awareness of the illicit contents inside.
+- (d): "making them strictly liable for all illicit items discovered during a police search" — wrong because criminal association in a vehicle does not create categorical strict liability for all illicit items possessed by another person.
+
+Recommended fix: None. The distractors contain sufficiently explicit, identifiable false legal claims. For pure bulletproofing, "making them jointly liable" in (a) could be edited to "automatically making them jointly liable" to further lock the falsifiable proposition, but the current text is already legally falsifiable.
+-->

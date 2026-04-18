@@ -1,0 +1,33 @@
+**Q11.** Assume Silas is prosecuted for shooting Trey and claims self-defense. Does Silas satisfy the imminence requirement?
+
+(a) He fails the requirement because Trey was not actually drawing a weapon, meaning Silas faced no true immediate physical danger when he fired the fatal shot.
+(b) He satisfies the requirement because Trey's sudden reach into his jacket after pacing outside constituted an immediate, present threat, rather than a speculative future harm. <!-- correct -->
+(c) He satisfies the requirement because the ongoing violent gang warfare meant that Silas was under a continuous and omnipresent threat of death at all times.
+(d) He fails the requirement because he had ample time to safely retreat inside his heavily fortified house instead of waiting on the porch to observe Trey.
+(e) He satisfies the requirement because any threat from a known gang hitman is legally presumed to be imminent regardless of the hitman's specific physical hand movements.
+
+**Answer:** (b)
+
+**Explanation:** (b) is correct. Imminence requires a present, immediate threat of harm. Trey's sudden motion to reach inside his jacket, combined with his identity and pacing, constituted an immediate threat requiring split-second action, satisfying the requirement. (a) is wrong because a defendant does not have to wait until a weapon is actually drawn if the attacker's motion reasonably indicates an immediate lethal strike. (c) is wrong because a generalized, continuous threat from gang warfare does not satisfy the strict temporal requirement of imminence. (d) is wrong because the imminence of the threat is judged at the moment of the sudden reach, when retreat was no longer safely possible. (e) is wrong because the law requires specific facts demonstrating an immediate threat; identity alone does not create a legal presumption of imminence.
+
+**Tags:** chapters: [22], topics: [self-defense, imminence-requirement], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 22; imminence standard requiring an immediate threat
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: To establish self-defense, the threat must be objectively imminent, not merely feared or suspected. If Trey was not actually drawing a weapon, the threat remains speculative and inchoate. The law of self-defense requires an overt act that demonstrates an actual, pressing danger of death or serious bodily harm. By firing before a weapon was drawn, Silas acted preemptively. Therefore, Silas fails the imminence requirement because there was no true immediate physical danger at the exact moment he fired.
+(b) Argument-for: Imminence requires that the defendant face an immediate threat of harm that must be instantly met. When a person with known hostile intent (pacing outside) suddenly reaches into their jacket, the totality of the circumstances creates a reasonable belief of an impending lethal strike. The law does not require the defender to wait until a gun is visibly pointed at them, as that would render self-defense illusory and fatal. Thus, the sudden motion constitutes a present threat, satisfying the imminence standard.
+(c) Argument-for: In cases involving ongoing, extreme violence, courts sometimes view imminence contextually. Under doctrines akin to the "battered woman syndrome" line of cases, a continuous and omnipresent threat can alter the temporal assessment of imminence. If Silas is trapped in an active gang war, the danger is ever-present, making any encounter with a rival a deadly threat. Thus, the ongoing warfare itself fulfills the requirement by creating a constant, inescapable peril.
+(d) Argument-for: The imminence requirement is fundamentally tied to the necessity of using force. If a defendant has a safe avenue of retreat before the threat materializes into an unavoidable strike, the threat is not legally "imminent" because harm can still be avoided without defensive violence. Silas had ample time to retreat inside his heavily fortified house while merely observing Trey. By choosing to stay on the porch, Silas negated necessity, meaning the threat was not imminent at the time he had the opportunity to retreat safely.
+(e) Argument-for: The law of self-defense incorporates the defendant's reasonable perceptions based on the victim's known reputation and prior acts. A known gang hitman inherently carries an escalated level of lethal risk. The objective reasonableness of the threat is heightened to the point where an encounter with such an assassin constitutes an imminent threat by default. Therefore, specific hand movements are secondary; the known status as a hitman legally satisfies the imminence requirement.
+
+Head-to-head: Option (b) accurately states the doctrine of imminence: an overt act (reaching into the jacket) that creates a reasonable belief of an immediate threat satisfies the standard. Option (a) fails because it asserts the victim must be "actually drawing a weapon" to constitute an immediate danger; this violates the doctrine of apparent necessity, which allows a defender to act on a reasonable belief of an imminent strike before a weapon clears a holster or jacket. Option (c) is legally false because traditional self-defense strictly rejects "continuous and omnipresent" threats as a substitute for split-second imminence. Option (d) incorrectly conflates the duty to retreat (a sub-element of necessity) with imminence (the temporal proximity of the attack), and evaluates retreat prior to the threat actually materializing. Option (e) invents a fictitious "legal presumption" of imminence based solely on a person's identity as a hitman, bypassing the requirement for an overt physical act.
+
+Falsifiable claim per distractor:
+- (a): "meaning Silas faced no true immediate physical danger" — wrong because self-defense permits action based on the reasonable appearance of immediate danger (e.g., reaching into a jacket for a suspected weapon), even if a weapon is not "actually" being drawn.
+- (c): "the ongoing violent gang warfare meant that Silas was under a continuous and omnipresent threat" — wrong because a continuous or generalized threat specifically fails the strict temporal requirement of imminence.
+- (d): "fails the requirement because he had ample time to safely retreat" — wrong because the duty to retreat is doctrinally distinct from the temporal imminence of the threat itself.
+- (e): "any threat from a known gang hitman is legally presumed to be imminent regardless of the hitman's specific physical hand movements" — wrong because there is no categorical legal presumption of imminence based on a victim's reputation; an overt act is always required.
+
+Recommended fix: none
+-->

@@ -1,0 +1,34 @@
+**Q8.** Assume Dom is charged with attempted robbery. Under both the MPC "substantial step" test and the common law "dangerous proximity" test, what is the proper analysis of his actus reus?
+
+(a) Guilty of attempt under both tests, because aiming the shotgun is a substantial step corroborating his intent and comes dangerously close to completing the crime. <!-- correct -->
+(b) Guilty under the substantial step test but not the proximity test, because he had not yet demanded the keys from the driver or entered the targeted vehicle.
+(c) Guilty under the proximity test but not the substantial step test, because aiming a weapon is a purely preparatory act that does not strongly corroborate a criminal purpose.
+(d) Not guilty under either test, because he abandoned the plan prior to any physical interaction with the driver, meaning his actions remained in the zone of mere preparation.
+(e) Guilty of attempt under both tests, because his payment of triple the rental rate for the getaway car finalized his specific intent to commit the target offense.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because aiming a loaded shotgun at the victim's door is an advanced physical act that satisfies both the MPC's "substantial step strongly corroborative of the actor's criminal purpose" and the stricter common law requirement of coming "dangerously close" to success. (b) is wrong because aiming a weapon directly at an approaching victim easily crosses the dangerous proximity line; physical contact or verbal demands are not required. (c) is wrong because aiming a shotgun is universally recognized as highly corroborative of intent, fully satisfying the MPC's substantial step test. (d) is wrong because the actus reus threshold was crossed the moment he aimed the weapon; subsequent abandonment is a separate affirmative defense, not a negation of the initial actus reus. (e) is wrong because renting the car was merely a preparatory act that would fail the dangerous proximity test, making the actual ambush the critical moment.
+
+**Tags:** chapters: [17], topics: [attempt, actus-reus, substantial-step], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 17: Attempts — actus-reus-substantial-step and actus-reus-proximity-modern
+
+<!-- argument-pass: MUST FIX
+(a) Argument-for: Option (a) is correct because aiming a shotgun at the target is the quintessential example of an act crossing the threshold from preparation to attempt. Under the MPC, lying in wait with a weapon strongly corroborates criminal intent. Under the common law, pointing a gun at a target leaves virtually no intervening steps before completion, satisfying the strict "dangerous proximity" test. 
+(b) Argument-for: A student could defend option (b) by pointing out how notoriously strict the common law dangerous proximity test is. Some old common law cases required the actor to essentially perform the last proximate act before completion; without a verbal demand for the keys or physical entry into the vehicle, a student could argue Dom had not yet reached the precipice of the crime, rendering him guilty under the broader MPC test but not under the common law.
+(c) Argument-for: A student could argue for (c) by misconstruing the nature of corroboration under the MPC. They might contend that aiming a weapon, without a verbalized demand, is equivocal as to the specific intent of *robbery* (as opposed to assault or murder), meaning it fails to "strongly corroborate" the specific criminal purpose required for attempted robbery. Under this flawed view, the immediacy of the gun satisfies common law proximity, but fails the MPC's corroboration standard.
+(d) Argument-for: Option (d) can be defended by arguing that lacking physical interaction, Dom's acts never objectively progressed past preparation. Furthermore, because he abandoned the plan, a student could argue this sequence proves his actions never reached the requisite threshold of finality and commitment to trigger actus reus liability under either test.
+(e) Argument-for: Option (e) focuses on the subjective finality of preparation. A student could argue that overpaying for a getaway car locked in Dom's criminal plan, thereby serving as an irrevocable step. Under this view, this definitive financial commitment unequivocally demonstrates specific intent, fully satisfying the requirements of both the substantial step and proximity tests before the physical confrontation even begins.
+
+Head-to-head: 
+Option (a) correctly applies both the MPC and common law attempt standards to the most advanced act (aiming the gun). However, there is a massive, fatal flaw with this question: the question stem entirely omits the fact pattern. A student reading the stem ("Assume Dom is charged with attempted robbery.") has absolutely no idea that Dom rented a car, waited by a vehicle, aimed a shotgun at a driver, or later abandoned the plan. The student is forced to reverse-engineer the facts from the answer choices. If we assume the facts were present, the distractors all rely on clear legal falsehoods (e.g., that aiming a weapon is "purely preparatory" under the MPC).
+
+Falsifiable claim per distractor:
+- (b): "because he had not yet demanded the keys... or entered the targeted vehicle" — Falsely claims that dangerous proximity categorically requires physical entry or a verbal demand, ignoring that aiming a loaded gun at the victim already crosses the proximity line.
+- (c): "aiming a weapon is a purely preparatory act that does not strongly corroborate a criminal purpose" — Explicitly false as a matter of law; MPC § 5.01(2) specifically lists possession/aiming of materials to be used in the crime at the target as a substantial step.
+- (d): "meaning his actions remained in the zone of mere preparation" — Falsely claims as a matter of law that abandoning a plan after aiming a gun retroactively reclassifies the initial act as mere preparation.
+- (e): "Guilty of attempt under both tests, because his payment... finalized his specific intent" — Falsely claims that finalizing specific intent via renting a car satisfies the actus reus of the common law dangerous proximity test (which categorically treats securing a vehicle as mere preparation).
+
+Recommended fix: The question is fundamentally unanswerable because the fact pattern is missing. Insert the factual scenario into the question stem: "Dom decided to rob a rideshare driver. He paid triple the rental rate for a getaway car, waited in a parking garage, and aimed a loaded shotgun at the driver's door as the driver approached. Before the driver noticed or Dom made any demands, Dom got cold feet, lowered the gun, and walked away. Assume Dom is charged with attempted robbery. Under both the MPC 'substantial step' test and..."
+-->

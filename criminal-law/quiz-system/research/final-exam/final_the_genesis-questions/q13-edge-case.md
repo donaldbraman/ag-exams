@@ -1,0 +1,22 @@
+**Q13.** Assume that, whether or not the jurisdiction recognizes *Pinkerton* liability, the prosecution must prove Avon's liability for the chemical storage solely under an accomplice liability theory. Under the majority common law approach, is Avon liable as an accomplice to the chemical storage offense?
+
+(a) Yes, because Avon's statement to just get it done demonstrates his specific purpose to facilitate whatever illegal methods Marlowe ultimately chose.
+(b) Yes, because Avon's mere knowledge that Marlowe would stockpile hazardous chemicals is legally sufficient to establish criminal accomplice liability here.
+(c) No, because Avon did not personally supply the hazardous chemicals himself or physically assist in their unauthorized storage at the warehouse.
+(d) No, because while Avon knew Marlowe would stockpile chemicals, his indifference demonstrates he lacked the specific purpose to facilitate that offense. <!-- correct -->
+(e) No, because a person legally cannot be charged as an accomplice to a regulatory offense that is entirely silent on mental state.
+
+**Answer:** (d)
+
+**Explanation:** The majority common law approach to accomplice liability requires that the defendant act with the specific purpose of facilitating the underlying offense. While Avon knew Marlowe might stockpile chemicals, his statement "I don't care how you process it" (Fact 2) demonstrates indifference rather than a conscious object or purpose to facilitate the unauthorized storage of hazardous chemicals. (a) is wrong because "just get it done" shows a purpose for the drug operation, but indifference toward the specific chemical storage crime. (b) is wrong because mere knowledge is generally insufficient for accomplice liability; purpose is required. (c) is wrong because physical assistance is not strictly required if words of encouragement are given with the requisite purpose. (e) is wrong because one can be an accomplice to a regulatory offense if they act with the purpose to facilitate it.
+
+**Tags:** chapters: [18], topics: [accomplice liability, purpose vs knowledge], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 18, Accomplice Liability Mens Rea (the majority rule requires the specific purpose to facilitate the underlying crime, not mere knowledge)
+
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The scenario uses the crime boss (Avon) to test "mere knowledge" vs. "purpose." However, because Avon is the mastermind who explicitly commanded the enterprise, stands to profit from it (a "stake in the venture"), and ordered the operation to be "completely off the books," courts would likely find he *did* have the specific purpose to facilitate the permit-less chemical storage as a necessary and approved means to his drug empire. Classifying a syndicate boss's explicit authorization of a necessary illegal step as mere "indifference" misapplies the doctrine, making (d) legally flawed and (a) highly defensible. 
+2. Cross-Doctrine Clashes: Avon's explicit command to "keep it completely off the books" (Fact 2) provides direct evidence of specific purpose regarding the "without a federal permit" element of the chemical storage statute. He literally ordered the permit-less aspect of the crime.
+3. Cross-Question Spoilers: pass
+Recommended fix: To cleanly test the "knowledge vs. purpose" distinction for accomplice liability, test a third-party merchant (e.g., the chemical supplier) instead of the syndicate boss. A merchant who sells the Acetone-FX knowing Marlowe's illicit plans, but merely wanting to make a standard retail sale, perfectly illustrates "mere knowledge" without a stake in the venture or specific purpose.
+-->

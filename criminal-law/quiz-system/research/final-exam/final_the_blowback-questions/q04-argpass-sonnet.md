@@ -1,0 +1,33 @@
+**Q4.** Assume that Benny is prosecuted in Maryland for the death of the jogger. Under the Maryland standard for depraved-heart murder, what is the most likely outcome?
+
+(a) Guilty of depraved-heart murder, because his conscious disregard of a substantial and unjustifiable risk establishes the extreme indifference to human life required by the standard.
+(b) Not guilty of depraved-heart murder, because the Maryland standard requires conduct that is reasonably likely, if not certain, to cause death, a threshold his recklessness does not meet. <!-- correct -->
+(c) Guilty of depraved-heart murder, because leaving lethal chemicals adjacent to a popular jogging trail creates a gross deviation from the standard of care a reasonable person would exercise.
+(d) Not guilty of depraved-heart murder, because he did not use a deadly weapon and the victim's death was caused by an environmental hazard rather than an affirmative physical act.
+(e) Guilty of depraved-heart murder, because his statement proves he possessed a depraved and malignant heart, completely substituting for any objective measurement of the risk.
+
+**Answer:** (b)
+
+**Explanation:** (b) is correct because Maryland's specific standard (*Beckwitt v. State*) sets an exceptionally high ceiling for depraved-heart murder, requiring the conduct to be "reasonably likely, if not certain, to cause death." While highly reckless, leaving chemicals where rain might wash them away does not reach this near-certainty threshold. (a) is wrong because it articulates the MPC's "extreme indifference" standard rather than Maryland's specific "likely if not certain" formulation. (c) is wrong because gross deviation describes the threshold for involuntary manslaughter, not the elevated ceiling for depraved-heart murder. (d) is wrong because depraved-heart murder does not strictly require the use of a traditional deadly weapon or direct physical violence. (e) is wrong because the standard requires an objective assessment of the physical risk created by the conduct, not merely an evaluation of the defendant's moral character or subjective malice.
+
+**Tags:** chapters: [13], topics: [depraved-heart-murder, unintentional-homicide], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 13: Unintentional Homicide — likely-if-not-certain-standard: Maryland's "Likely, If Not Certain, to Cause Death" — Manslaughter/Murder Line
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could defend this option by relying on the widely accepted Model Penal Code definition of depraved-heart murder, which elevates manslaughter to murder when committed with extreme indifference to the value of human life. The argument would assert that Maryland broadly incorporates this modern "conscious disregard of a substantial and unjustifiable risk" framework, making Benny categorically guilty based on his highly reckless omissions.
+(b) Argument-for: As the keyed answer, this relies directly on Maryland's uniquely stringent standard for depraved-heart murder, as established in cases like *Beckwitt v. State*. The argument correctly identifies that Maryland requires the underlying conduct to be "reasonably likely, if not certain, to cause death," an elevated near-certainty threshold that Benny's reckless handling of environmental hazards does not reach.
+(c) Argument-for: A student might argue that leaving lethal chemicals near a heavily trafficked area is such an egregious act that it automatically meets the threshold for depraved-heart murder. By describing this as a "gross deviation from the standard of care," the argument deliberately invokes the terminology of gross negligence, asserting it is sufficient to prove the malice required for second-degree depraved-heart murder.
+(d) Argument-for: This option could be defended by arguing that depraved-heart murder historically involves direct, violent acts that pose an immediate physical threat to others, such as shooting a gun into an occupied room. A student might assert that Maryland law categorically precludes passive environmental hazards or non-weapon-based reckless acts from satisfying the actus reus for depraved-heart murder.
+(e) Argument-for: A student could rely on the historical common-law origins of depraved-heart murder, which heavily emphasized the defendant's subjective moral turpitude. The argument posits that explicit evidence of Benny's malicious mindset wholly satisfies the mens rea requirement, rendering any objective risk calculation legally moot and automatically resulting in guilt.
+
+Head-to-head: Option (b) correctly applies Maryland's specifically elevated "likely, if not certain" standard to the facts. Option (a) is structurally sound under the MPC but is factually false regarding Maryland law, which demands a higher threshold than mere conscious disregard of a substantial risk. Option (c) relies on a falsifiable legal error by offering "gross deviation" (the standard for involuntary manslaughter) as the threshold for murder. Option (d) explicitly relies on the false legal rule that depraved-heart murder strictly demands a deadly weapon or affirmative physical violence. Option (e) incorporates a falsifiable error by explicitly claiming a subjective showing "completely substitutes" for the objective risk element of the offense. All distractors rest on clear, falsifiable legal mistakes.
+
+Falsifiable claim per distractor:
+- (a): "his conscious disregard of a substantial and unjustifiable risk establishes the extreme indifference to human life required by the standard" — wrong because Maryland's standard requires the objective risk to be "reasonably likely, if not certain" to cause death, an inherently higher bar than conscious disregard of a substantial risk.
+- (c): "creates a gross deviation from the standard of care a reasonable person would exercise" — wrong because this language exclusively defines the lower mens rea of gross negligence for involuntary manslaughter, not the extreme recklessness required for depraved-heart murder.
+- (d): "because he did not use a deadly weapon and the victim's death was caused by an environmental hazard rather than an affirmative physical act" — wrong because depraved-heart murder does not categorically require a deadly weapon or a direct physical blow; egregious omissions or environmental hazards can suffice if the risk threshold is met.
+- (e): "completely substituting for any objective measurement of the risk" — wrong because depraved-heart murder categorically requires an objective assessment of the physical risk to human life, regardless of how subjectively malicious the defendant's internal mindset might be.
+
+Recommended fix: none
+-->

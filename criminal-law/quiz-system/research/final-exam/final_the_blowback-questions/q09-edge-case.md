@@ -1,0 +1,22 @@
+**Q9.** Assume that, regardless of whether his acts constituted an attempt, Dom raises the affirmative defense of voluntary abandonment. What is the most likely outcome?
+
+(a) Entitled to the defense, because his explicit declaration that the hit was off successfully communicated his withdrawal to his co-conspirator before the crime was completed.
+(b) Not entitled to the defense, because his decision to abort the plan was motivated by the appearance of the police cruiser, rendering his abandonment legally involuntary. <!-- correct -->
+(c) Entitled to the defense, because dropping the shotgun and fleeing the scene safely neutralized his prior substantial step and prevented the commission of the hijacking.
+(d) Not entitled to the defense, because the defense of voluntary abandonment is categorically unavailable for violent felonies involving the use of a deadly weapon.
+(e) Entitled to the defense, because the police cruiser was responding to an unrelated traffic stop, meaning the subjective threat of immediate apprehension was factually illusory.
+
+**Answer:** (b)
+
+**Explanation:** (b) is correct because under the MPC and prevailing law, the abandonment defense requires genuine, uncoerced renunciation of criminal purpose. Abandonment motivated by unexpected resistance or fear of immediate apprehension (like a police siren) is legally involuntary and fails to qualify. (a) is wrong because communicating withdrawal is relevant to conspiracy liability but does not cure an abandonment that was prompted by police presence. (c) is wrong because mere neutralization is insufficient if the motive for stopping was external pressure rather than internal moral renunciation. (d) is wrong because the defense is not categorically barred for violent felonies; the nature of the crime does not preclude the defense if the renunciation is truly voluntary. (e) is wrong because the legal test focuses on the defendant's subjective motivation; since Dom abandoned *because* he perceived the siren as a threat, his abandonment was involuntary regardless of the cruiser's actual objective.
+
+**Tags:** chapters: [17], topics: [attempt, voluntary-abandonment], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 17: Attempts — abandonment-mpc
+
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
+-->

@@ -1,0 +1,33 @@
+**Q8.** Assume that, whether or not the termite rot severed the causal chain, it is established for this question that Marlowe is the proximate cause of Greggs's death. Under the Model Penal Code, how should Marlowe's liability for the homicide be graded based on his mental state regarding the risk of fire?
+
+(a) Murder, because fleeing a chemical fire without calling for help shows a conscious object to cause the death of first responders.
+(b) Manslaughter, because relying on the invoice despite seeing the hazard symbols establishes a conscious disregard of a substantial fire risk.
+(c) Negligent homicide, because by assuming the invoice was accurate, he failed to perceive a substantial risk of which he should be aware. <!-- correct -->
+(d) Murder, because storing chemicals without a permit inherently manifests an extreme indifference to the value of human life under the MPC.
+(e) No criminal homicide, because relying on a trusted supplier's invoice is objectively reasonable as a matter of law in this context.
+
+**Answer:** (c)
+
+**Explanation:** Under the MPC, recklessness requires consciously disregarding a substantial and unjustifiable risk, while negligence involves failing to perceive a risk of which one should be aware. Marlowe noticed the hazard symbols but "consciously assumed" his supplier's invoice ("water-based solvent") was accurate. Because he genuinely (even if unreasonably) believed the invoice, he failed to perceive the risk of fire. This constitutes negligence. (a) is wrong because fleeing a fire shows self-preservation, not a conscious purpose to kill responders. (b) is wrong because assuming the invoice was accurate means he did not consciously disregard the fire risk; he mistakenly thought there was no risk. (d) is wrong because his reliance on the invoice negates the extreme indifference required for murder. (e) is wrong because ignoring red hazard symbols on a chemical drum is objectively unreasonable.
+
+**Tags:** chapters: [13], topics: [unintentional homicide, homicide grading, negligence, mpc mental states], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 13 & Chapter 10, MPC Culpability Defaults (failing to perceive a substantial risk when assuming the invoice was accurate constitutes negligence)
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: Under MPC 210.2, murder requires purposeful or knowing conduct. A student could argue that by abandoning a deadly chemical fire without calling 911, Marlowe created a mortal trap with the practical certainty (or conscious object) that arriving first responders would be killed. Fleeing without warning converts the omission into a purposeful or knowing act of homicide.
+(b) Argument-for: Under MPC 2.02(2)(c), recklessness requires the conscious disregard of a substantial risk. A student might argue that because Marlowe actually saw the hazard symbols on the drum, he subjectively perceived the danger. Choosing to rely on an invoice instead of investigating the explicit warning signs constitutes a conscious disregard of that known risk, justifying a manslaughter charge.
+(c) Argument-for: Under MPC 2.02(2)(d), negligence requires a failure to perceive a substantial and unjustifiable risk, involving a gross deviation from the standard of care. Because Marlowe genuinely assumed the invoice ("water-based solvent") was accurate, he lacked subjective awareness of the fire risk. However, ignoring explicit hazard symbols is a gross deviation, correctly making him liable for negligent homicide.
+(d) Argument-for: MPC 210.2(1)(b) elevates recklessness to murder when committed with extreme indifference to the value of human life. A student could argue that illicitly storing dangerous chemicals without a mandatory safety permit inherently manifests this extreme indifference. Bypassing critical safety regulations creates such a profound community risk that any resulting death automatically qualifies as murder.
+(e) Argument-for: MPC 2.02 requires a gross deviation from the standard of care for both negligence and recklessness. A student could assert that in commercial settings, operators are entitled to trust their supplier's paperwork. If an invoice specifies a harmless "water-based solvent," relying on that professional documentation is objectively reasonable as a matter of law, completely negating criminal culpability.
+
+Head-to-head: Option (c) perfectly aligns with the MPC distinction between negligence and recklessness; Marlowe's genuine reliance on the invoice means he failed to perceive the risk (negligence) rather than consciously disregarded it (recklessness). Option (a) fails because fleeing a fire is evidence of panic or self-preservation, not an automatic legal indicator of a conscious object to kill first responders. Option (b) legally contradicts itself; if Marlowe genuinely "relied" on the invoice, he subjectively believed the chemicals were safe, which precludes the subjective awareness required to "consciously disregard" the risk. Option (d) presents a false legal absolute by asserting that a regulatory violation (lacking a permit) inherently manifests extreme indifference to human life. Option (e) incorrectly elevates a factual defense (relying on paperwork over visual warnings) to an absolute defense "as a matter of law." Options (a) and (b) should be strengthened with absolute words to ensure they are explicitly falsifiable statements of law rather than arguably weak factual inferences.
+
+Falsifiable claim per distractor:
+- (a): "shows a conscious object to cause the death of first responders" — wrong because fleeing a fire does not categorically or legally establish a specific intent (conscious object) to kill arriving responders.
+- (b): "establishes a conscious disregard of a substantial fire risk" — wrong because the premise (relying on the invoice) means he mistakenly thought there was no risk, precluding the subjective awareness required to establish conscious disregard.
+- (d): "inherently manifests an extreme indifference" — wrong because a lack of a regulatory permit does not per se satisfy the extreme indifference standard for depraved-heart murder.
+- (e): "is objectively reasonable as a matter of law" — wrong because ignoring explicit warning symbols in favor of an invoice is a factual question of gross deviation, not a protection granted as a matter of law.
+
+Recommended fix: In (a), change "shows a conscious object" to "categorically establishes a conscious object". In (b), change "establishes a conscious disregard" to "categorically establishes a conscious disregard".
+-->

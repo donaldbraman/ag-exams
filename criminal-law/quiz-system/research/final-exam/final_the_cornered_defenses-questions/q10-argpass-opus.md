@@ -1,0 +1,33 @@
+**Q10.** Assume Vance's conspiracy with Marcus is established. Under the Pinkerton doctrine, what is Vance's liability for the substantive crimes committed at the warehouse?
+
+(a) Vance is guilty of both the arson and the homicide because Pinkerton imposes absolute strict liability on all co-conspirators for any acts committed by any party.
+(b) Vance is not guilty of either substantive offense because he was not physically present at the warehouse and did not personally participate in the required actus reus.
+(c) Vance is guilty of the arson, but may avoid liability for the homicide if a jury finds Leo's hallucinatory shooting was an unforeseeable departure from the plan. <!-- correct -->
+(d) Vance is guilty of the arson but categorically shielded from the homicide because his official status as a police commander protects him from derivative criminal homicide liability.
+(e) Vance is not guilty of either offense because his coercive threat to Marcus constituted extreme duress, which legally severs the conspiratorial agreement and any resulting derivative liability.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct. Under Pinkerton, a conspirator is liable for the reasonably foreseeable substantive offenses committed by co-conspirators in furtherance of the conspiracy. Whether Leo's hallucinatory homicide was a foreseeable consequence of the arson is a question of fact for the jury. (a) is wrong because Pinkerton liability is limited by the requirement that the substantive crime be reasonably foreseeable. (b) is wrong because physical presence is not required; the conspiratorial agreement extends liability to co-conspirators' acts. (d) is wrong because an officer's official status provides no immunity when actively participating in an illegal conspiracy. (e) is wrong because Vance was the one making the threat; he cannot claim his own coercive threat severs his liability for the resulting acts.
+
+**Tags:** chapters: [19], topics: [conspiracy, pinkerton-liability], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 19; Pinkerton doctrine establishing liability for reasonably foreseeable acts of co-conspirators
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could argue that *Pinkerton* liability operates functionally as strict enterprise liability for co-conspirators. Under this view, by entering the conspiracy, Vance took on the risk of all resulting crimes, meaning he is automatically guilty of whatever occurred at the warehouse. The argument relies on an overly broad interpretation of the doctrine where the specific foreseeability of the act is superseded by the collective criminal endeavor.
+(b) Argument-for: A student might rely on the foundational criminal law principle that substantive liability generally requires a personal *actus reus*. If a student applies general accomplice liability principles and ignores or misunderstands the specific substitutionary mechanism of *Pinkerton*, they could argue that physical presence or actual assistance is required. Under this view, mere agreement without physical participation at the scene is insufficient to convict Vance of the completed offenses.
+(c) Argument-for: This option accurately tracks the core limitations of the *Pinkerton* doctrine. A co-conspirator is liable only for the substantive crimes of his partners that are committed in furtherance of the agreement and are reasonably foreseeable. While arson was likely the object of the conspiracy, a "hallucinatory shooting" introduces an independent, bizarre intervening variable. Whether this shooting was foreseeable is a quintessential question of fact for the jury, making this a perfectly reasoned application of the rule.
+(d) Argument-for: A student might argue that public authority defenses or official immunity doctrines extend to shield police commanders from derivative liability for unforeseeable homicides. If Vance was acting under color of law, one could theorize that his official status categorically precludes derivative homicide liability for the rogue acts of informants or subordinates. This defends the idea that policy exemptions protect officers from vicarious liability for unauthorized killings.
+(e) Argument-for: A student could assert that a valid conspiracy requires a bilateral "meeting of the minds." If Vance coerced Marcus under extreme duress, Marcus's agreement could be viewed as legally void, meaning no true conspiracy was ever formed under traditional common law bilateral principles. Without a valid mutual conspiracy, the student could argue that Vance cannot be subjected to *Pinkerton* derivative liability, thereby severing his guilt for the substantive offenses.
+
+Head-to-head: Option (c) is clearly the best and most legally accurate, properly identifying the "reasonably foreseeable" limitation of *Pinkerton* as a jury question. The distractors all fail because they contain explicit, absolute misstatements of law. Option (a) overstates *Pinkerton* by explicitly claiming it imposes "absolute strict liability" for acts by "any party." Option (b) establishes a false absolute requirement by stating Vance is not guilty "because he was not physically present," directly contradicting the premise of *Pinkerton*. Option (d) invents a non-existent absolute legal shield ("categorically shielded... because his official status"). Option (e) relies on the objectively false legal premise that a defendant's *own* coercive threat can serve as a shield to "legally sever" their derivative liability.
+
+Falsifiable claim per distractor:
+- (a): "imposes absolute strict liability... for any acts committed by any party" — wrong because *Pinkerton* requires acts to be committed by a co-conspirator, in furtherance of the conspiracy, and to be reasonably foreseeable.
+- (b): "because he was not physically present at the warehouse and did not personally participate in the required actus reus" — wrong because *Pinkerton* explicitly dispenses with the requirement for physical presence or personal commission of the actus reus.
+- (d): "categorically shielded from the homicide because his official status... protects him" — wrong because no legal doctrine grants police officers categorical immunity from derivative liability for crimes committed in furtherance of an illegal conspiracy they joined.
+- (e): "his coercive threat to Marcus constituted extreme duress, which legally severs the conspiratorial agreement and any resulting derivative liability" — wrong because a defendant cannot invoke their own coercive conduct as a defense to invalidate the conspiracy and escape derivative liability (and under Model Penal Code unilateral conspiracy principles, Vance's own intent is sufficient).
+
+Recommended fix: none
+-->

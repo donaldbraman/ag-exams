@@ -1,0 +1,17 @@
+**Q6.** Assume Marlowe is charged with a homicide offense for Greggs's death. Does Marlowe have a legal duty to act that satisfies the actus reus requirement for his omission (fleeing without calling 911)?
+
+(a) Yes, because he had a formal contractual duty to protect Wallace and Greggs as the logistics manager of the warehouse.
+(b) Yes, because by ordering the mixing that sparked the fire, he created the peril, giving rise to a legal duty. <!-- correct -->
+(c) No, because he did not personally knock over the vat, rendering him a mere bystander with no obligation to act.
+(d) No, because the criminal law never imposes a duty to rescue a stranger without a recognized special status relationship existing.
+(e) Yes, because all bystanders have an affirmative statutory duty to call emergency services when witnessing a severe chemical structure fire.
+
+**Answer:** (b)
+
+**Explanation:** While there is generally no duty to rescue a stranger, the common law recognizes an exception when a person creates the peril. Marlowe ordered the mixing of the volatile chemicals that sparked the severe fire (Facts 4 and 5), thereby creating the peril. This imposes a legal duty on him to act, such as by calling 911. (a) is wrong because logistics managers do not have an inherent contractual duty to protect first responders. (c) is wrong because ordering the mixing makes him responsible for creating the dangerous situation, even if he didn't personally knock over the vat. (d) is wrong because the creation of peril is a recognized exception to the no-duty-to-rescue rule. (e) is wrong because there is no general statutory duty for all bystanders to call 911 absent a specific Good Samaritan statute.
+
+**Tags:** chapters: [9], topics: [omissions, duty to act, creation of peril], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 9, Jones v. United States (creation of peril imposes a legal duty to act/rescue)
+
+<!-- grounding: GROUNDED — creation of peril, Ch 9, Refinement `creation-of-peril-category`. Rule paraphrased accurately. -->

@@ -1,0 +1,33 @@
+**Q5.** Avon is charged as a responsible corporate officer for the municipal safety certificate violation. Which of the following is true regarding his liability under the *Park* doctrine?
+
+(a) He is not liable because he explicitly delegated warehouse operations to Marlowe and possessed no personal knowledge of the lapse.
+(b) He is liable only if the prosecution proves he intentionally directed Marlowe to ignore the municipal safety code certificate requirement.
+(c) He is liable if he stood in a responsible relation and failed to exercise foresight and vigilance to prevent the violation. <!-- correct -->
+(d) He is not liable because the Park doctrine applies exclusively to federal Food, Drug, and Cosmetic Act violations, not local codes.
+(e) He is liable because any corporate CEO is strictly liable for all crimes committed by any employee on corporate property.
+
+**Answer:** (c)
+
+**Explanation:** The *Park* doctrine holds that a corporate officer can be criminally liable for a strict-liability public welfare offense if they stand in a "responsible relation" to the violation and fail to exercise the "highest standard of foresight and vigilance" to prevent it. Avon, as CEO, has the authority to prevent the lapse. (a) is wrong because delegation does not shield a responsible corporate officer from liability under *Park*. (b) is wrong because the doctrine imposes strict liability without requiring intentional direction. (d) is wrong because the *Park* doctrine has been extended by analogy to other regulatory contexts beyond the FDCA. (e) is wrong because the doctrine requires the officer to stand in a responsible relation to the specific violation, not absolute liability for any employee crime anywhere.
+
+**Tags:** chapters: [11], topics: [public welfare offenses, park doctrine, responsible corporate officer], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 11, United States v. Park (imposing highest standard of foresight and vigilance on responsible corporate officers)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could argue that the *Park* doctrine requires an officer to have the actual power and capacity to prevent the violation. If an officer explicitly delegates operations and lacks personal knowledge of a lapse, they might assert the officer no longer holds a "responsible relation" to the conduct. Relying on an objective impossibility defense, a student could claim this lack of knowledge and delegation completely shields Avon from liability, as he had no opportunity to correct a problem he did not know existed.
+(b) Argument-for: A student could argue that imposing strict liability without mens rea is highly disfavored in modern criminal law, particularly outside of national health crises. For a municipal safety certificate violation, due process might demand proof of a guilty mind. Thus, the student might contend that courts curtail the *Park* doctrine in local contexts, requiring the prosecution to prove the officer intentionally directed the violation before imposing criminal sanctions.
+(c) Argument-for: This option precisely reflects the Supreme Court's holding in *United States v. Park*. The doctrine imposes strict liability on corporate officers who have a "responsible relation" to a public welfare violation. The standard of care required is the "highest standard of foresight and vigilance" to prevent or correct the violation. Therefore, this statement perfectly matches the established legal standard for the responsible corporate officer doctrine.
+(d) Argument-for: A student could argue that the *Park* doctrine is a specific creature of statutory interpretation rooted explicitly in the federal Food, Drug, and Cosmetic Act (FDCA), building on the precedent of *United States v. Dotterweich*. Since municipal safety codes are local ordinances without the FDCA's unique legislative history and congressional intent regarding interstate commerce, a student might reason that *Park* cannot operate independently of the FDCA. Consequently, they would conclude it applies exclusively to federal FDCA violations.
+(e) Argument-for: A student might misinterpret the *Park* doctrine as establishing absolute vicarious liability for the highest corporate officers. Because a CEO theoretically has ultimate authority over all corporate property and employees, a student could argue that the CEO inherently holds a "responsible relation" to everything that occurs on company grounds. Thus, they might conclude that the *Park* doctrine makes any CEO strictly liable for absolutely all crimes committed by employees on corporate premises.
+
+Head-to-head: Option (c) is the legally accurate distillation of the *Park* doctrine, explicitly outlining the "responsible relation" and "foresight and vigilance" standards. Option (a) fails because the *Park* decision explicitly rejected the argument that delegation and lack of personal knowledge automatically immunize an executive. Option (b) fails because the core feature of the *Park* doctrine is the imposition of strict liability, rendering the claim that the prosecution must prove intentional direction fundamentally false. Option (d) fails because the responsible corporate officer doctrine has been widely extended by courts to other strict-liability public welfare statutes (like the Clean Water Act), making the word "exclusively" fatal. Option (e) fails because the doctrine only applies to strict-liability public welfare offenses, not absolute vicarious liability for "all crimes" (e.g., an employee committing a battery on corporate property).
+
+Falsifiable claim per distractor:
+- (a): "He is not liable because he explicitly delegated warehouse operations to Marlowe and possessed no personal knowledge" — wrong because *Park* specifically ruled that an executive can be held liable despite delegating duties and lacking personal knowledge.
+- (b): "He is liable only if the prosecution proves he intentionally directed Marlowe to ignore" — wrong because the doctrine permits strict liability and does not require intentional direction or conventional mens rea.
+- (d): "the Park doctrine applies exclusively to federal Food, Drug, and Cosmetic Act violations" — wrong because the doctrine has been extended to other regulatory frameworks, such as environmental laws.
+- (e): "any corporate CEO is strictly liable for all crimes committed by any employee" — wrong because the doctrine is strictly limited to public welfare offenses and does not apply to "all crimes."
+
+Recommended fix: none
+-->

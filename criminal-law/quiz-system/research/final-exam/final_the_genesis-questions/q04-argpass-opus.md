@@ -1,0 +1,34 @@
+**Q4.** The city charges Barksdale Logistics with violating the municipal warehouse ordinance. Does this ordinance qualify as a strict liability public welfare offense under the *Morissette* factors?
+
+(a) Yes, because the ordinance regulates commercial activity for public safety, involves a capacity to prevent harm, and carries a minor fine. <!-- correct -->
+(b) Yes, because any municipal ordinance that intentionally omits a mens rea term is automatically treated as a strict liability offense.
+(c) No, because operating a warehouse is not inherently dangerous enough to put a commercial owner on notice of strict regulation.
+(d) No, because a five-hundred-dollar fine is a severe penalty that constitutionally requires proof of a culpable mental state for conviction.
+(e) No, because the ordinance lacks a capacity-to-prevent element, making strict liability inappropriate for a corporate logistics manager like Marlowe.
+
+**Answer:** (a)
+
+**Explanation:** The municipal warehouse ordinance satisfies the *Morissette* factors for a public welfare offense: it regulates commercial activity for public safety, involves items/activities where the defendant has the capacity to prevent harm, and imposes a minor penalty ($500 fine) without severe stigma. Therefore, strict liability applies. (b) is wrong because silent statutes often require mens rea under the *Morissette* presumption unless the public welfare factors are met. (c) is wrong because running a commercial warehouse is a regulated commercial activity that puts the owner on notice. (d) is wrong because a $500 fine is a minor penalty, unlike the 10-year felony in *Staples*. (e) is wrong because corporate officers in charge of facilities are uniquely positioned to prevent regulatory harm.
+
+**Tags:** chapters: [11], topics: [public welfare offenses, strict liability, morissette factors], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 11, Morissette v. United States (four factors for public welfare offenses: regulatory purpose, dangerous items, capacity to prevent, minor penalties)
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: Option (a) accurately applies the *Morissette* criteria for public welfare offenses to the facts. The Supreme Court has established that strict liability is permissible for regulatory offenses that govern commercial activities for public safety, impose minor penalties, and target actors with the capacity to prevent the harm. A municipal warehouse ordinance carrying a $500 fine perfectly aligns with these factors, justifying a strict liability classification.
+(b) Argument-for: A student could defend (b) by appealing to textualist principles of statutory interpretation. If a municipality intentionally omits a mens rea requirement, rather than doing so accidentally against a common-law backdrop, courts typically honor that legislative choice. Therefore, the student would argue that an intentional omission automatically overcomes any common-law presumptions and strictly mandates a strict liability standard.
+(c) Argument-for: A student could defend (c) using the *Staples* limitation on the public welfare doctrine, which requires the regulated activity to put the owner on notice of strict regulation. The student might argue that, unlike hazardous waste or hand grenades, operating a general commercial warehouse is commonplace and not inherently dangerous. Thus, under the *Staples* framework, the public welfare exception cannot apply because a standard warehouse does not inherently signal strict regulation.
+(d) Argument-for: A student could defend (d) by arguing that any significant monetary fine elevates the offense beyond a mere public welfare violation. While *Morissette* allows strict liability for "minor penalties," a student might classify a $500 fine as a severe economic sanction that carries substantial stigma. Consequently, they would argue this severity constitutionally mandates proof of a culpable mental state to satisfy due process.
+(e) Argument-for: A student could defend (e) by citing the *Park* and *Dotterweich* cases, which emphasize that a responsible corporate officer must have the capacity to prevent the violation. The student might argue that for a strict liability conviction to be valid, the statute itself must explicitly contain a textual "capacity-to-prevent element." Without this built-in statutory safeguard, they could claim strict liability is categorically inappropriate for corporate managers.
+
+Head-to-head:
+Option (a) correctly synthesizes the *Morissette* factors and logically applies them to uphold the strict liability nature of the ordinance. Option (b) is incorrect because an intentional omission of mens rea does not "automatically" establish strict liability if constitutional constraints regarding penalty severity apply. Option (c) is a tricky distractor relying on the *Staples* notice standard, but it lacks an absolute, falsifiable legal claim, making it a highly subjective application of law to fact rather than a categorically false legal statement. Option (d) incorrectly asserts a $500 fine is a constitutionally severe penalty, contradicting established jurisprudence that treats such fines as minor. Option (e) fails because the capacity to prevent harm is a factual inquiry applied to the defendant's position (*Park* doctrine), not a required textual element of the ordinance itself. Because (c) lacks a definitively falsifiable absolute proposition, the question should be revised to ensure the distractor is cleanly objectively wrong.
+
+Falsifiable claim per distractor:
+- (b): "automatically treated as a strict liability offense" — wrong because courts do not automatically impose strict liability based solely on intentional omission; they still evaluate the *Morissette* factors and constitutional limits.
+- (c): "not inherently dangerous enough to put a commercial owner on notice" — wrong as a matter of application (courts regularly apply public welfare strict liability to pervasive commercial activities like warehouses without them being "inherently dangerous" like grenades), but it lacks an absolute falsifiable marker.
+- (d): "constitutionally requires proof of a culpable mental state" — wrong because a $500 fine is categorically recognized under *Morissette* as a minor penalty that does not constitutionally bar a strict liability public welfare offense.
+- (e): "the ordinance lacks a capacity-to-prevent element, making strict liability inappropriate" — wrong because the capacity to prevent harm is a factual inquiry about the defendant's role, not a mandatory statutory element that must be written into the ordinance text.
+
+Recommended fix: Change (c) to include a locked, falsifiable claim. For example: "(c) No, because the strict liability public welfare exception applies exclusively to inherently dangerous items like explosives or hazardous chemicals."
+-->

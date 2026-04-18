@@ -1,0 +1,33 @@
+**Q6.** Assume Leo is evaluated for an insanity defense. Will his dual diagnosis bar him from raising the defense?
+
+(a) Leo is barred from asserting the insanity defense because the law requires the qualifying mental disease to be the absolute sole cause of the criminal conduct.
+(b) Leo is barred from asserting the insanity defense because statutes categorically exclude any defendant diagnosed with antisocial personality disorder from ever raising the insanity defense.
+(c) Leo may raise the insanity defense because his qualifying schizophrenia caused the delusion that led to the shooting, even if his non-qualifying personality disorder also contributed. <!-- correct -->
+(d) Leo may raise the insanity defense because antisocial personality disorder independently qualifies as a legal mental disease when it results in violent homicidal criminal conduct.
+(e) Leo is barred from asserting the insanity defense because the presence of any non-qualifying personality disorder legally severs the causal link to the qualifying schizophrenia.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct. In jurisdictions with the personality disorder exclusion, if a defendant has both a qualifying mental disease (schizophrenia) and a non-qualifying disorder (ASPD), the insanity defense remains available so long as the qualifying disease caused the incapacity. (a) is wrong because the law does not require the qualifying disease to be the "sole cause" of the conduct. (b) is wrong because the statute excludes conditions that are "solely" a personality disorder; it does not bar defendants with co-occurring qualifying diseases. (d) is wrong because ASPD is explicitly excluded from qualifying as a mental disease in almost all jurisdictions. (e) is wrong because a co-occurring non-qualifying disorder does not legally sever the causal link to the qualifying disease.
+
+**Tags:** chapters: [23], topics: [insanity, co-occurring-causation, personality-disorder-exclusion], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 23; State v. Meiser regarding co-occurring qualifying and non-qualifying mental conditions
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could argue that if multiple causes exist, the defendant fails to prove that the "mental disease or defect" caused the requisite lack of substantial capacity. In criminal law causation, an intervening or concurrent independent cause can muddy the waters. If the insanity defense is a narrow excuse applicable only when a legal defect causes the act, requiring it to be the "absolute sole cause" theoretically ensures the defense is not exploited by individuals whose conduct is equally driven by non-qualifying bad character traits.
+(b) Argument-for: The Model Penal Code and many jurisdictions specifically include a paragraph stating that "mental disease or defect" does not include an abnormality manifested only by repeated criminal or otherwise antisocial conduct. A student could misread this "psychopath exclusion" as a categorical personal bar. Under this interpretation, a diagnosis of ASPD statutorily precludes the defendant from the defense altogether to prevent dangerous sociopaths from using any other mental health claim as a backdoor to escape punishment.
+(c) Argument-for: This correctly applies the dual-diagnosis/co-occurring conditions doctrine (e.g., *State v. Meiser*). When a defendant suffers from both a qualifying condition (schizophrenia) and a non-qualifying condition (ASPD), the insanity defense remains available. The presence of the non-qualifying disorder does not negate the defense, provided the qualifying disease is the actual cause of the legally relevant cognitive or volitional incapacity that led to the crime.
+(d) Argument-for: A student might argue that under broader, historically medicalized formulations of the insanity defense, any recognized psychiatric disorder in the DSM could potentially count as a mental disease. If ASPD manifests in uncontrollable, violent homicidal conduct, one might theorize that it satisfies the threshold by demonstrating a profound lack of control. Therefore, a student might deduce that severe ASPD independently qualifies as a legal defect when the resulting actions are extreme enough.
+(e) Argument-for: A student could contend that the presence of a non-qualifying disorder like ASPD acts as an independent, superseding cause in the legal causation chain. Because ASPD inherently involves voluntary antisocial behavior and a disregard for rules, its presence logically severs the causal link from the schizophrenia to the crime. This renders the criminal act a product of the non-qualifying personality disorder rather than the qualifying mental disease, barring the defense.
+
+Head-to-head: Option (c) is clearly the correct legal standard for co-occurring mental conditions, recognizing that a qualifying disease's causal role is not negated merely by the presence of a non-qualifying personality disorder. Every distractor utilizes strong, absolute language to assert a legally falsifiable claim. (a) fabricates an "absolute sole cause" requirement for the qualifying disease. (b) falsely transforms a condition-specific exclusion into a categorical personal bar against "any defendant diagnosed" with ASPD. (d) contradicts the nearly universal statutory psychopathy exclusion by claiming ASPD "independently qualifies" as a mental disease. (e) invents a doctrine of superseding causation where a personality disorder "legally severs the causal link." All distractors are objectively false on explicit, locked legal grounds. 
+
+Falsifiable claim per distractor:
+- (a): "requires the qualifying mental disease to be the absolute sole cause" — wrong because the law only requires the qualifying disease to be a but-for or substantial cause of the legal incapacity, not the absolute sole cause.
+- (b): "categorically exclude any defendant diagnosed with antisocial personality disorder from ever raising" — wrong because statutes exclude ASPD as the *basis* for the defense, but do not categorically bar defendants who have ASPD alongside a qualifying disease from raising it.
+- (d): "antisocial personality disorder independently qualifies as a legal mental disease" — wrong because the MPC and the vast majority of jurisdictions explicitly exclude abnormalities manifested solely by repeated criminal or antisocial conduct.
+- (e): "legally severs the causal link" — wrong because a co-occurring non-qualifying disorder is a concurrent factor, not a superseding legal event that automatically severs causation as a matter of law.
+
+Recommended fix: none
+-->

@@ -1,0 +1,33 @@
+**Q3.** Marlowe is charged under the federal statute for storing hazardous chemicals without a permit. The statute is silent on mental state, but carries a maximum penalty of 10 years in prison. Under the *Morissette* presumption and *Staples*, what must the prosecution prove regarding Marlowe's mental state?
+
+(a) Nothing, because the federal statute's total silence on mental state conclusively indicates it is a strict liability regulatory offense.
+(b) Nothing, because hazardous chemicals are dangerous items that automatically put Marlowe on direct notice of federal criminal regulation.
+(c) The prosecution must prove he knew the chemicals were hazardous, because the severe felony penalty presumes a mens rea requirement. <!-- correct -->
+(d) The prosecution must prove he acted purposefully to violate the permit requirement, as silence defaults to the highest culpability.
+(e) The prosecution must prove he acted with gross negligence regarding the storage of the chemicals under the federal common law.
+
+**Answer:** (c)
+
+**Explanation:** Under *Staples*, while dangerous items like hazardous chemicals might ordinarily put a person on notice of regulation (defeating a mens rea requirement), statutes that impose severe felony penalties (like 10 years in prison) are presumed to require a culpable mental state. The severe penalty overcomes the public welfare offense exception. Thus, the prosecution must prove he knew the chemicals were hazardous. (a) is wrong because the *Morissette* presumption reads mens rea into silent statutes to avoid strict liability for serious crimes. (b) is wrong because the 10-year penalty makes this an outlier where the dangerous-item heuristic fails. (d) is wrong because the presumption requires knowledge of the facts that make the conduct illegal, not the specific purpose to violate the law. (e) is wrong because federal courts typically read in knowledge or recklessness, not gross negligence, for silent statutes.
+
+**Tags:** chapters: [11, 10], topics: [public welfare offenses, morissette presumption, staples, dangerous items], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 11, Staples v. United States (holding that despite dangerous items, severe felony penalties presume a mens rea requirement)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could rely on the public welfare offense doctrine established in cases like *Balint* and *Dotterweich*. Hazardous chemicals pose a severe risk to public health and safety, making their regulation a classic public welfare issue. Under this doctrine, a statute's total silence on mental state often allows courts to impose strict liability to protect the public. Thus, a student might argue the silence conclusively indicates strict liability.
+(b) Argument-for: The student might draw an analogy to *United States v. Freed*, arguing that hazardous chemicals, like hand grenades, are highly dangerous items. Anyone possessing them should be on notice that they are subject to strict regulation. Therefore, dealing with such dangerous items automatically puts Marlowe on direct notice of federal criminal regulation, negating the need for the prosecution to prove any specific mental state.
+(c) Argument-for: Under *Staples v. United States*, while dangerous items might normally justify a public welfare strict liability standard, a severe felony penalty (such as 10 years in prison) strongly presumes a mens rea requirement. The *Morissette* presumption reads mens rea into silent statutes to avoid strictly punishing otherwise innocent conduct with harsh sentences. Therefore, the prosecution must at least prove Marlowe knew the facts that made his conduct illegal—namely, that the chemicals were hazardous.
+(d) Argument-for: A student could argue that when a statute carrying a severe 10-year penalty is completely silent on mental state, the rule of lenity dictates that courts must aggressively protect the defendant. To prevent unjust convictions, the silence must be interpreted to require the highest culpability level. Therefore, the prosecution should be forced to prove Marlowe acted purposefully to violate the permit requirement.
+(e) Argument-for: A student might reason that strict liability is too harsh for a 10-year felony, but requiring actual knowledge is too high a bar for a regulatory permit offense. Therefore, the student might conclude that a gross negligence standard strikes the right balance. They could argue that federal courts, applying common law gap-filling principles, require proof of gross negligence regarding the chemical storage to justify a felony conviction.
+
+Head-to-head: Option (c) accurately reflects the holding in *Staples*, which dictates that despite the dangerousness of an item, a harsh felony penalty (10 years) overcomes the public welfare exception and triggers the *Morissette* presumption of mens rea (knowledge). Option (a) fails because legislative silence does not "conclusively indicate" strict liability; in fact, *Morissette* presumes the opposite for severe penalties. Option (b) fails because *Staples* explicitly rejected the idea that dangerousness "automatically" creates strict liability when severe felony penalties are attached. Option (d) contains an explicit legal error, as silence defaults to knowledge of the facts, not the "highest culpability" or specific purpose. Option (e) fails because courts read in knowledge for silent statutes under *Staples*, not gross negligence, and there is no "federal common law" of crimes that establishes such a default. All distractors feature explicitly locked false claims.
+
+Falsifiable claim per distractor:
+- (a): "conclusively indicates it is a strict liability regulatory offense" — wrong because *Morissette* and *Staples* establish a presumption against strict liability for severe felonies, despite statutory silence.
+- (b): "automatically put Marlowe on direct notice" — wrong because *Staples* holds that the dangerous-item heuristic does not automatically negate mens rea when a severe felony penalty is involved.
+- (d): "defaults to the highest culpability" — wrong because the default mens rea for silent statutes is knowledge of the facts (or general intent), not purpose/the highest culpability.
+- (e): "gross negligence ... under the federal common law" — wrong because courts read in knowledge (not gross negligence) under *Staples*, and there is no federal common law of crimes that defaults to gross negligence here.
+
+Recommended fix: none
+-->

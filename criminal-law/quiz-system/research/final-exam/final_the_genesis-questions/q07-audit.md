@@ -1,0 +1,25 @@
+**Q7.** Assume the jurisdiction applies the common law felony murder rule. Whether or not Marlowe owed a duty to act, if he argues that he cannot be convicted of felony murder for Greggs's death, what is his strongest doctrinal defense?
+
+(a) The underlying federal chemical storage felony is a strict liability regulatory offense that legally cannot serve as a proper predicate.
+(b) The termite-rot collapse was an independent, unforeseeable intervening cause that severed the proximate causation required for felony murder liability. <!-- correct -->
+(c) Inspector Greggs's tragic death was caused by an agency outside the conspiracy, barring the application of the felony murder rule.
+(d) He did not specifically intend for the ceiling to collapse, which negates the mens rea required for a homicide conviction.
+(e) The merger doctrine prohibits using any property-related felony as a predicate for felony murder under the strict elements test approach.
+
+**Answer:** (b)
+
+**Explanation:** Felony murder requires that the underlying felony be the proximate cause of the victim's death. As established, the ceiling beam collapsed entirely due to preexisting termite rot, not the fire (Fact 6). This makes the collapse an unforeseeable, independent intervening cause that severs the proximate causal chain, which shields Marlowe from felony murder liability for the death. (a) is wrong because even if the federal statute were strict liability, some jurisdictions allow regulatory felonies as predicates if they are inherently dangerous. (c) is wrong because the agency rule applies to killings committed by non-felons, not structural collapses. (d) is wrong because felony murder is a strict liability substitution for the homicide mens rea; intent for the death is not required. (e) is wrong because the merger doctrine applies to assaultive felonies, not property or regulatory felonies.
+
+**Tags:** chapters: [14], topics: [felony murder, proximate cause limit], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 14, Felony Murder Causation (the independent intervening cause of the termite rot severs proximate causation, which is still required for felony murder)
+
+<!-- audit: CLEAN
+Check 1: pass (an independent, unforeseeable intervening cause severs proximate causation, which is universally required for felony murder liability)
+Check 2: pass (distractors use real concepts like the agency rule and merger doctrine but apply them to the wrong factual hooks—e.g., acts of nature vs. human actors, property vs. assaultive felonies)
+Check 3: pass (the explanation correctly tracks the causation and felony murder doctrines from the Ch 8 and Ch 14 maps)
+Check 4: pass (assumes the referenced facts like "Fact 6", the termite rot, and the fire are provided in a shared macro fact pattern preceding the question)
+Check 5: pass (the proximate cause defense defeats liability regardless of jurisdictional splits on FM limits like the agency vs. proximate cause theories)
+Check 6: pass (no excluded-topic bleed)
+Check 7: pass (causation/intervening causes and felony murder limits are fully covered in the chapter maps)
+-->
