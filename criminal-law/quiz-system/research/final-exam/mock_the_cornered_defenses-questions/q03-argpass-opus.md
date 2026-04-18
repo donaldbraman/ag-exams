@@ -1,0 +1,33 @@
+**Q3.** Assume that, regardless of your answer to the previous question, Benny acted with the required purpose to aid Artie. How does the classification of Artie's affirmative defense legally impact Benny's derivative liability?
+
+(a) If Artie succeeds on a necessity defense, Benny is shielded from liability, but if Artie succeeds only on a duress defense, Benny remains fully liable. <!-- correct -->
+(b) If Artie succeeds on either necessity or duress, Benny is completely shielded because both doctrines operate to fully negate the underlying actus reus.
+(c) If Artie succeeds on a duress defense, Benny is shielded from liability because the duress excuse automatically transfers to any accomplice at the scene.
+(d) Benny's liability is evaluated independently, meaning Artie's successful assertion of any affirmative defense has absolutely no legal bearing on Benny's criminal guilt.
+(e) Benny remains fully liable in all circumstances because derivative accomplice liability irrevocably attaches the moment the principal commits the prohibited physical act.
+
+**Answer:** (a)
+
+**Explanation:** Option (a) is correct due to the fundamental distinction between justifications and excuses. Necessity is a justification, meaning the act is deemed legally right, shielding any accomplice who assists. Duress is an excuse, meaning the act is wrongful but the actor is not blamed; excuses are personal and do not transfer to uncoerced accomplices like Benny. Option (b) fails because neither defense negates the actus reus, and duress does not shield an accomplice. Option (c) fails because excuses like duress are strictly personal to the coerced actor. Option (d) fails because derivative liability structurally ties the accomplice's guilt to the wrongfulness of the principal's act; a justified act cannot support accomplice liability. Option (e) fails because it ignores the entire doctrine of justification, which legally nullifies the wrongfulness of the principal's physical act.
+
+**Tags:** chapters: [18, 21], topics: [justification vs excuse, accomplice liability, derivative liability], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 21 - Necessity and Duress: Justification vs. Excuse (Foundational Framework).
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under the fundamental common law distinction between justifications and excuses, a justification (necessity) renders the underlying act legally permissible. Since the act is not legally wrongful, there is no crime from which an accomplice can derive liability, thus shielding Benny. Conversely, an excuse (duress) concedes the act is wrongful but relieves the principal of culpability due to a personal disability or coercion. Because the act remains wrongful, an uncoerced accomplice like Benny remains fully liable.
+(b) Argument-for: A student might argue that both necessity and duress involve overwhelming external pressure (whether natural or human) that destroys the actor's volition. If volition is destroyed, the principal's physical movements are no longer considered a voluntary act, negating the actus reus entirely. Without a foundational actus reus, there is no crime at all, meaning any accomplice is completely shielded regardless of which defense is raised.
+(c) Argument-for: A student could argue that derivative liability structurally ties the accomplice to the principal's ultimate legal fate for the specific transaction. If the principal successfully asserts a duress defense, the law excuses the commission of the crime. Because the accomplice's liability is entirely parasitic on the principal's guilt, the excuse automatically transfers to any accomplice participating in the same scene.
+(d) Argument-for: A student might rely on modern statutory trends, such as the Model Penal Code, which allow an accomplice to be convicted even if the principal is acquitted or has a defense. Under this modern independent-evaluation approach, the accomplice's liability is severed from the principal's procedural or substantive outcomes. Therefore, Artie's assertion of any affirmative defense has absolutely no legal bearing on Benny's independently established guilt.
+(e) Argument-for: A student could argue that accomplice liability is based strictly on the accomplice providing assistance with the requisite mens rea at the time the prohibited act occurs. Once the principal commits the physical elements of the offense, the derivative link is sealed. Any subsequent affirmative defense raised by the principal acts only as a personal procedural shield and cannot undo the fact that the prohibited act occurred, meaning liability irrevocably attaches.
+
+Head-to-head: Option (a) accurately applies the classic justification/excuse dichotomy, correctly noting that justifications (necessity) shield accomplices while excuses (duress) do not. Option (b) makes a clear legal error by claiming these defenses negate the actus reus (they are affirmative defenses that admit the actus reus but avoid conviction). Option (c) relies on the false premise that excuses transfer to accomplices. Option (d) incorrectly states that "any affirmative defense" has "absolutely no legal bearing"—while true for excuses, it is fundamentally false for justifications, which negate the wrongfulness of the offense itself. Option (e) falsely asserts that liability irrevocably attaches upon the physical act, completely ignoring the legal effect of justification defenses. All distractors are cleanly falsifiable due to their absolute phrasing.
+
+Falsifiable claim per distractor:
+- (b): "both doctrines operate to fully negate the underlying actus reus" — wrong because necessity and duress are affirmative defenses that concede the actus reus (a voluntary physical act) occurred, but provide exculpatory reasons for it.
+- (c): "the duress excuse automatically transfers to any accomplice at the scene" — wrong because excuse defenses are inherently personal to the individual experiencing the coercion or disability and do not transfer.
+- (d): "any affirmative defense has absolutely no legal bearing on Benny's criminal guilt" — wrong because a justification defense directly impacts accomplice liability by establishing that the underlying act was legally permissible, leaving no wrongful act to aid.
+- (e): "accomplice liability irrevocably attaches the moment the principal commits the prohibited physical act" — wrong because if the physical act is later found to be justified (e.g., self-defense, necessity), no derivative liability can attach.
+
+Recommended fix: none
+-->

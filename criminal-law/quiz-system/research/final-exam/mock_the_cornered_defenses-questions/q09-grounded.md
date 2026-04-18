@@ -1,0 +1,17 @@
+**Q9.** Based on the police seizure at the warehouse, is Dante legally guilty of constructively possessing the finished drugs stored inside the reinforced steel safe?
+
+(a) Guilty, because his exclusive retention of the only key to the safe demonstrates the requisite power and intent to exercise dominion and control over the drugs. <!-- correct -->
+(b) Guilty, because his initial financial contribution to the drug manufacturing operation automatically establishes actual physical possession of all resulting contraband.
+(c) Not guilty, because Dante was not physically present at the industrial warehouse at the precise moment the police seized the contraband from the safe.
+(d) Not guilty, because the drugs were stored in a collective facility, legally preventing any single absent individual from establishing constructive possession.
+(e) Not guilty, because the police interrupted the manufacturing operation before Dante could physically distribute the finished product to any downstream buyers.
+
+**Answer:** (a)
+
+**Explanation:** Option (a) is correct because constructive possession requires the power and intent to exercise dominion and control over an item. Dante's possession of the sole key to the safe establishes his exclusive power and control over the drugs inside, satisfying the doctrine. Option (b) fails because financial contribution to an operation does not establish "actual" physical possession, which requires immediate physical custody of the item. Option (c) fails because constructive possession was developed specifically to capture defendants who maintain control over contraband without being physically present. Option (d) fails because while a collective facility can complicate possession, Dante's exclusive control of the locked safe overcomes any ambiguity regarding collective access. Option (e) fails because the crime of possession is complete the moment control is established; intent or opportunity to distribute the drugs is legally irrelevant to a simple possession charge.
+
+**Tags:** chapters: [15], topics: [constructive possession, dominion and control, exclusive control], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 15 - Drugs and Guns: Constructive Possession (Awareness and Control).
+
+<!-- grounding: GROUNDED — Constructive Possession (Exclusive Control), Ch 15, Refinement `cp-exclusive-control`. Rule paraphrased accurately. -->

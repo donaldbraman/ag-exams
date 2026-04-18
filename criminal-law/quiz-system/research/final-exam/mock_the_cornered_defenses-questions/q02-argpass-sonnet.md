@@ -1,0 +1,33 @@
+**Q2.** Under the traditional common law standard for derivative liability, is Benny guilty as an accomplice to Artie's theft of the tanker?
+
+(a) Not guilty, because Benny acted with mere knowledge that the theft would occur, lacking the purpose to facilitate the underlying offense. <!-- correct -->
+(b) Not guilty, because Benny did not physically participate in the actual taking and driving of the nitrogen tanker from the lot.
+(c) Guilty, because providing specialized hotwiring tools to commit a crime automatically satisfies the strict mental state for derivative accomplice liability.
+(d) Guilty, because Benny was present at the scene and his failure to intervene constituted an omission that aided the criminal act.
+(e) Guilty, because Benny knew the tools would be used to commit a crime, which is sufficient for liability under the traditional rule.
+
+**Answer:** (a)
+
+**Explanation:** Option (a) is correct because traditional accomplice liability requires the dual mens rea of intent to assist and purpose that the underlying crime succeed. Benny explicitly disclaimed any interest in the lab's success ("I don't care about your lab") and acted solely out of a desire to survive, showing knowledge but lacking the requisite purpose. Option (b) fails because physical participation in the core actus reus is not required; tossing the tools is sufficient physical aid. Option (c) fails because merely providing specialized tools does not automatically prove purpose; the mental state must still be established. Option (d) fails because Benny did not commit an omission—he affirmatively provided tools. Option (e) fails because the traditional rule explicitly requires purpose, not mere knowledge, to establish accomplice liability.
+
+**Tags:** chapters: [18], topics: [accomplice liability, purpose vs knowledge, actus reus], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 18 - Accomplice Liability: Mens rea (purpose not knowledge); Gladstone rule.
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: Option (a) accurately states the traditional common law standard for accomplice liability, governed by the *Gladstone* rule. To be liable as an accomplice, a defendant must act with the intent to assist the principal and the specific purpose to promote or facilitate the successful completion of the underlying crime. Benny expressly disclaimed any interest in the enterprise ("I don't care about your lab") and acted merely to survive, demonstrating knowledge but negating the requisite purpose. Therefore, he cannot be held derivatively liable.
+(b) Argument-for: A student could defend this option by reasoning that accomplice liability requires an actus reus that forms a proximate or direct part of the crime's execution. Because Benny did not physically drive the tanker or execute the caption and asportation, his provision of tools could be viewed as mere preparation or too attenuated from the actual taking to constitute the requisite physical participation for liability.
+(c) Argument-for: A student might argue that while purpose is generally required, providing highly specialized tools with no legitimate use in that context intrinsically elevates mere knowledge to purpose. Analogizing to *Lauria*, providing specialized instrumentalities for severe crimes can conclusively establish the requisite mental state, meaning Benny's provision of hotwiring tools automatically renders him guilty under the strict standard for accomplice mens rea.
+(d) Argument-for: A student could argue that Benny is guilty based on an omission theory of liability. By remaining at the scene, possessing specialized tools, and doing nothing to stop Artie's ongoing crime, Benny's inaction constituted a legally culpable omission. A student might conclude that this failure to intervene, coupled with his physical presence, provided tacit encouragement that aided the criminal act.
+(e) Argument-for: A student could assert that under certain interpretations of the traditional rule, the mens rea for accomplice liability is satisfied by mere knowledge that one's actions are assisting a crime. Because Benny definitively knew his hotwiring tools would be used to steal the tanker, this knowledge fulfills the mental state requirement for derivative liability, making him guilty.
+
+Head-to-head: Option (a) correctly applies the specific purpose requirement of common law accomplice liability. Option (b) attempts to require physical participation in the core actus reus, which is legally false (aiding by providing tools is sufficient). Option (c) wrongly claims that providing specialized tools "automatically" satisfies the strict mental state, bypassing the necessity of a factual determination of purpose. Option (d) asserts that a failure to intervene constitutes an omission aiding the act, but mere failure to intervene without a predefined legal duty is not a legally culpable omission. Option (e) explicitly misstates the traditional rule by asserting that knowledge alone is "sufficient for liability." While all distractors contain substantive errors, (b) and (d) lack absolute words to strictly lock their falsifiability under a rigorous close-call standard.
+
+Falsifiable claim per distractor:
+- (b): "because Benny did not physically participate in the actual taking" — wrong because physical participation in the core actus reus is not a requirement for accomplice liability; affirmatively providing instrumentalities is legally sufficient assistance.
+- (c): "automatically satisfies the strict mental state" — wrong because providing tools may serve as evidentiary inference of purpose but does not "automatically" establish the mens rea as a matter of law.
+- (d): "his failure to intervene constituted an omission that aided" — wrong because a failure to intervene without an established legal duty to act categorically cannot constitute a culpable omission for accomplice liability.
+- (e): "which is sufficient for liability under the traditional rule" — wrong because the traditional common law (*Gladstone*) rule explicitly requires the specific purpose to facilitate the crime, not mere knowledge.
+
+Recommended fix: Add absolute words to (b) and (d) to strictly lock their falsifiability. Change (b) to: "Not guilty, solely because derivative liability categorically requires physical participation in the actual taking and driving of the tanker." Change (d) to: "Guilty, because Benny was present at the scene and his failure to intervene automatically constituted a legally culpable omission."
+-->

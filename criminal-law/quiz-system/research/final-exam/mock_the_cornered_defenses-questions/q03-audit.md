@@ -1,0 +1,26 @@
+**Q3.** Assume that, regardless of your answer to the previous question, Benny acted with the required purpose to aid Artie. How does the classification of Artie's affirmative defense legally impact Benny's derivative liability?
+
+(a) If Artie succeeds on a necessity defense, Benny is shielded from liability, but if Artie succeeds only on a duress defense, Benny remains fully liable. <!-- correct -->
+(b) If Artie succeeds on either necessity or duress, Benny is completely shielded because both doctrines operate to fully negate the underlying actus reus.
+(c) If Artie succeeds on a duress defense, Benny is shielded from liability because the duress excuse automatically transfers to any accomplice at the scene.
+(d) Benny's liability is evaluated independently, meaning Artie's successful assertion of any affirmative defense has absolutely no legal bearing on Benny's criminal guilt.
+(e) Benny remains fully liable in all circumstances because derivative accomplice liability irrevocably attaches the moment the principal commits the prohibited physical act.
+
+**Answer:** (a)
+
+**Explanation:** Option (a) is correct due to the fundamental distinction between justifications and excuses. Necessity is a justification, meaning the act is deemed legally right, shielding any accomplice who assists. Duress is an excuse, meaning the act is wrongful but the actor is not blamed; excuses are personal and do not transfer to uncoerced accomplices like Benny. Option (b) fails because neither defense negates the actus reus, and duress does not shield an accomplice. Option (c) fails because excuses like duress are strictly personal to the coerced actor. Option (d) fails because derivative liability structurally ties the accomplice's guilt to the wrongfulness of the principal's act; a justified act cannot support accomplice liability. Option (e) fails because it ignores the entire doctrine of justification, which legally nullifies the wrongfulness of the principal's physical act.
+
+**Tags:** chapters: [18, 21], topics: [justification vs excuse, accomplice liability, derivative liability], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 21 - Necessity and Duress: Justification vs. Excuse (Foundational Framework).
+
+<!-- audit: CLEAN
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: pass
+check 5: pass
+check 6: pass
+check 7: pass
+check 8: pass
+-->

@@ -1,0 +1,11 @@
+<!-- audit: MUST FIX
+<check 1>: fail. The explanation misstates the MPC fault-calibration rule for duress. Under MPC 2.09(2), if an actor *recklessly* places themselves in a situation where it is probable they will be subjected to duress, the defense is categorically unavailable for ALL crimes. Only *negligent* placement is calibrated to the mens rea of the charged offense. 
+<check 2>: fail. Without a jurisdiction specified, Option (b) is highly defensible. Under traditional common law, necessity is strictly limited to natural emergencies, and coercion by human threats must be handled exclusively through duress. Option (e) is also defensible if joining the drug ring constituted recklessly exposing himself to duress.
+<check 3>: fail. The explanation conflates the two different prior-fault rules. For necessity (MPC 3.02), the fault is "bringing about the situation" (the reactor malfunction). For duress (MPC 2.09), the fault is "placing himself in a situation" to be coerced (joining the illegal drug operation). The explanation analyzes the reactor malfunction to dismiss Option (e), but ignores that Artie's voluntary participation in a drug ring might constitute recklessly exposing himself to duress, which would bar the duress defense entirely.
+<check 4>: fail. The fact pattern is completely missing from the prompt. The text jumps straight to the call of the question ("Which affirmative defense..."). 
+<check 5>: fail. The explanation relies entirely on Model Penal Code doctrine to resolve both the human-threat overlap and fault calibration, but the call of the question does not stipulate the MPC. 
+<check 6>: pass
+<check 7>: pass
+<check 8>: pass
+Recommended fix: 1) Add the missing fact pattern. 2) Specify "Under the Model Penal Code" in the stem. 3) Correct the explanation for Option (e) to accurately reflect MPC 2.09(2) (that reckless exposure to duress categorically bars the defense) and clarify in the facts why Artie's participation in the drug operation did not recklessly expose him to the probability of being coerced.
+-->

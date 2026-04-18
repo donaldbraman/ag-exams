@@ -1,0 +1,34 @@
+**Q10.** Assume Dante raises a standard self-defense claim for shooting Hector. Under traditional doctrine, does the imminence requirement permit Dante's preemptive use of deadly force?
+
+(a) No, because Hector's stated threat was conditioned on the future arrival of his crew, and his relaxed posture did not present an objectively immediate threat. <!-- correct -->
+(b) No, because the defensive use of deadly force is categorically prohibited unless the aggressor has already inflicted a severe physical injury on the defendant.
+(c) Yes, because Dante subjectively believed that Hector was drawing a weapon, which completely satisfies the imminence requirement regardless of the objective facts.
+(d) Yes, because Hector's known status as a violent gang enforcer automatically converts any verbal threat he makes into an imminent threat of deadly force.
+(e) Yes, because the continuous threat doctrine allows a defendant to strike preemptively whenever a rival gang member unlawfully enters their private residence.
+
+**Answer:** (a)
+
+**Explanation:** Option (a) is correct because traditional self-defense requires an objectively reasonable belief of an imminent threat of harm. Hector explicitly stated the execution would happen when his crew arrived in five minutes, and he sat with his hands behind his head. Objectively, the threat was future, not immediate. Option (b) fails because self-defense does not require the defendant to wait until they are physically struck or injured before acting. Option (c) fails because a purely subjective belief is insufficient; traditional self-defense requires the fear to be objectively reasonable under the circumstances. Option (d) fails because an aggressor's status or reputation, while relevant to reasonableness, does not automatically bypass the temporal requirement of an imminent physical threat. Option (e) fails because there is no "continuous threat" doctrine granting blanket preemptive rights against gang members in one's home.
+
+**Tags:** chapters: [22], topics: [self-defense, imminence, objective reasonableness], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 22 - Self-Defense: Imminence Requirement; Objective Reasonableness Standard.
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under traditional self-defense doctrine, deadly force is only justified when the threat of unlawful harm is imminent. Imminence requires the threat to be immediate, not conditional or set to occur in the future. Hector's threat was explicitly delayed until his crew arrived, and his relaxed posture belied any immediate physical danger. Therefore, Dante's preemptive strike is legally unjustified under an objective standard.
+(b) Argument-for: A student could argue that the law places an extremely high premium on human life, heavily restricting the use of deadly force. To ensure that lethal defense is truly necessary, one might mistakenly believe the law requires absolute proof of the aggressor's lethal intent. Under this flawed assumption, the student could conclude that deadly force is categorically prohibited unless the aggressor has already inflicted severe physical injury, thus proving their violent intent.
+(c) Argument-for: A student could focus on Dante's subjective state of mind, emphasizing that he genuinely believed Hector was reaching for a weapon. In criminal law, mens rea is central, and imperfect self-defense relies on a defendant's honest but unreasonable beliefs. Thus, a student might mistakenly extrapolate that a purely subjective belief of an immediate threat completely satisfies the traditional self-defense imminence requirement, regardless of the objective reality.
+(d) Argument-for: A student might argue that reasonableness must be viewed in the context of the parties involved. Hector's known status as a violent gang enforcer makes his verbal threats inherently more credible and dangerous than those of an ordinary person. Consequently, a student could wrongly conclude that this violent reputation automatically converts any verbal threat into an imminent threat of deadly force, bypassing the need for an overt physical act.
+(e) Argument-for: A student could draw parallels to the Castle Doctrine, which often relaxes the duty to retreat or presumes a reasonable fear of imminent peril against home intruders. Given Hector's status as a rival gang member inside Dante's residence, the psychological stress and ambient danger are exceptionally high. A student might thereby invent or mistakenly apply a "continuous threat doctrine" that permits a preemptive strike whenever such an intruder is present.
+
+Head-to-head: 
+Option (a) correctly applies the objective standard of traditional self-defense, noting that a conditional threat and a relaxed posture defeat the imminence requirement. The four distractors, however, are cleanly falsifiable due to their use of absolute language and legally incorrect rules. Option (b) mistakenly asserts that actual severe injury is a strict prerequisite. Option (c) wrongly dispenses with the objective reasonableness requirement. Option (d) erroneously claims reputation alone automatically satisfies the temporal element of imminence. Option (e) relies on a fabricated "continuous threat doctrine" that grants blanket preemptive rights. Because the keyed answer is accurate and all distractors contain explicit, easily identifiable false legal claims locked with absolute modifiers, this question is structurally sound and highly defensible.
+
+Falsifiable claim per distractor:
+- (b): "categorically prohibited unless the aggressor has already inflicted a severe physical injury" — wrong because self-defense is inherently preventative; the doctrine explicitly permits force before an injury occurs, provided the threat is imminent.
+- (c): "completely satisfies the imminence requirement regardless of the objective facts" — wrong because traditional self-defense requires the defendant's belief in an imminent threat to be objectively reasonable, not purely subjective.
+- (d): "automatically converts any verbal threat he makes into an imminent threat" — wrong because while prior knowledge of an aggressor's violent status informs objective reasonableness, it does not automatically bypass the strict temporal requirement of an imminent physical threat.
+- (e): "continuous threat doctrine allows a defendant to strike preemptively whenever a rival gang member unlawfully enters" — wrong because no such blanket doctrine exists; even within a home (under the Castle Doctrine), the defendant must still face an imminent threat rather than an ongoing, generalized danger.
+
+Recommended fix: none
+-->
