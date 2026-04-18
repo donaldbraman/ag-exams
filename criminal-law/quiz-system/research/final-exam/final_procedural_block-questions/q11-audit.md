@@ -1,0 +1,26 @@
+**Q11.** Under federal anti-corruption principles distinguishing bribes from gratuities, evaluate Senator Sterling's acceptance of the $25,000 token of appreciation.
+
+(a) Sterling accepted a gratuity rather than a bribe, because the payment was received after the official act as a reward and lacked a prior agreement. <!-- correct -->
+(b) Sterling accepted a bribe because any payment of substantial monetary value linked to an official's legislative voting record automatically satisfies the requirement for bribery.
+(c) Sterling committed honest services fraud because accepting post-action appreciation inherently deprives the public of their intangible right to fair and impartial governmental representation.
+(d) Sterling accepted a bribe because the token of appreciation was paid by a known criminal syndicate leader rather than a legitimate community business organization.
+(e) Sterling is completely immune from federal scrutiny because local municipal zoning changes do not possess a sufficient nexus to strongly affect interstate commerce operations.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because under *Snyder v. United States* and federal anti-corruption principles, a payment made after an official act as a reward, without a prior agreement to influence the official decision, constitutes a gratuity rather than a bribe. (b) is incorrect because bribery requires a *quid pro quo*—a payment made or agreed to before the act with the specific intent to influence it. (c) is incorrect because *Skilling* limits honest services fraud exclusively to bribery and kickback schemes, expressly excluding post-action gratuities and general conflicts of interest. (d) is incorrect because the identity or criminal nature of the payer does not transform the legal classification of the payment from a gratuity into a bribe. (e) is incorrect because the jurisdictional requirement of interstate commerce is easily met and does not grant blanket immunity for municipal zoning corruption.
+
+**Tags:** chapters: [5], topics: [corruption-bribe-vs-gratuity, honest-services-fraud], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 5 - Legislatures and Courts (Snyder v. United States, bribe vs gratuity distinction)
+
+<!-- audit: MUST FIX
+Check 1: pass (the legal statement in (a) accurately reflects the definitional distinction between a bribe and a gratuity under recent SCOTUS jurisprudence).
+Check 2: pass (impossible to properly evaluate distractors without the missing facts).
+Check 3: pass (the explanation accurately reflects the unmapped doctrines).
+Check 4: Missing facts. The stem lacks the entire foundational fact pattern. It references "Senator Sterling's acceptance of the $25,000 token" and option (e) mentions "municipal zoning changes" without ever describing the Senator, the payment, the timing, the payer, or the lack of a prior agreement. 
+Check 5: Jurisdictional ambiguity. The question does not specify if Sterling is a state or federal official. This is a critical distinction because *Snyder v. United States* held that 18 U.S.C. § 666 does not criminalize gratuities for state/local officials, while 18 U.S.C. § 201 still criminalizes gratuities for federal officials.
+Check 6: pass
+Check 7: Coverage mismatch. A grep of the meta-map confirms that bribery, gratuities, honest services fraud, *Snyder v. United States*, and *Skilling* are completely absent from Chapter 5 and all other mapped chapters. This topic is outside the taught curriculum.
+Recommended fix: Delete this question. It tests material that is not in the chapter maps and relies on a missing fact pattern.
+-->

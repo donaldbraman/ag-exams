@@ -1,0 +1,33 @@
+**Q4.** Assume Marcus is charged with possession of narcotics based on his use of the gym locker prior to police intervention. Which of the following is correct regarding constructive possession?
+
+(a) Marcus had constructive possession because he maintained the power and intention to exercise dominion and control over the narcotics despite giving Chloe the combination. <!-- correct -->
+(b) Marcus lacked constructive possession because sharing the combination code with Chloe legally transferred exclusive dominion and control of the locker to her.
+(c) Marcus lacked constructive possession because the presence of his daily gym equipment negated his specific intent to possess the contraband hidden inside.
+(d) Marcus had actual possession rather than constructive possession because anyone who pays for a gym locker is strictly liable for its entire contents.
+(e) Marcus lacked constructive possession because he was not physically present at the gym to exercise immediate, direct control over the drugs at all times.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because constructive possession requires the power and intention to exercise dominion and control over an item. By keeping his daily gym equipment in the locker, Marcus ensured he retained joint access and control, satisfying the standard even though Chloe also had the combination. (b) is incorrect because possession can be legally joint; sharing access does not automatically transfer exclusive control. (c) is incorrect because Marcus's intent to maintain control via his gym equipment preserves his constructive possession regardless of his specific instructions to Chloe. (d) is incorrect because possession requires knowing control, not strict liability based solely on paying for a container. (e) is incorrect because the entire doctrine of constructive possession exists specifically to establish possession when the defendant is not physically present to exercise immediate actual control.
+
+**Tags:** chapters: [15], topics: [constructive-possession, dominion-and-control], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 15 - Drugs and Guns (Constructive possession requirements)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Constructive possession is established when an individual has the power and intent to exercise dominion and control over an object, even if not in actual physical custody. By using the gym locker and retaining the ability to access it, Marcus satisfies the requirement for dominion and control. The fact that he gave Chloe the combination merely establishes joint constructive possession, which is a legally recognized concept. Therefore, (a) accurately reflects the legal standard.
+(b) Argument-for: A student could argue that by relinquishing the combination code to Chloe, Marcus legally transferred exclusive dominion and control over the locker's illicit contents to her. If Chloe was the primary user of the narcotics or the one who handled them, Marcus's mere ownership of the locker might be insufficient to prove his continued power over the drugs. Under this view, handing over the access mechanism effectively terminates his constructive possession in favor of hers.
+(c) Argument-for: To prove constructive possession, the prosecution must show the defendant's specific intent to possess the contraband. A student might argue that Marcus's primary use of the locker for mundane, lawful purposes—storing daily gym equipment—serves as evidence negating any specific intent to exercise control over hidden narcotics. Thus, his intent was directed at his gym gear, logically defeating the mens rea required for constructive possession of the drugs.
+(d) Argument-for: Actual possession is sometimes defined by absolute control over a specific, enclosed space. A student could assert that because Marcus paid for the gym locker, he assumed strict liability for its entire contents under a premises-liability theory of possession. In this interpretation, his contractual authority over the locker elevates his status to actual possession rather than constructive possession, making him absolutely responsible for anything found inside.
+(e) Argument-for: A student might contend that constructive possession still requires some temporal or geographic proximity to exercise meaningful control. Because Marcus was not physically present at the gym at the time of police intervention, he completely lacked the ability to exercise immediate, direct control over the drugs. Therefore, without being on the premises to actualize his dominion, he lacked constructive possession at the critical moment.
+
+Head-to-head: Option (a) cleanly articulates the standard for constructive possession, which encompasses the power and intention to exercise dominion and control, even when shared (joint possession). Option (b) fails because it asserts a legally false claim that sharing a combination code automatically transfers *exclusive* control; it merely creates joint control. Option (c) fails because it relies on a non sequitur—keeping legitimate items in a locker does not legally negate the intent to possess illicit items in the same locker. Option (d) fails because it asserts a false strict liability standard for rented containers, wholly contradicting the mens rea requirement of criminal possession. Option (e) fails because it undermines the entire premise of constructive possession, a doctrine designed explicitly for scenarios where the defendant lacks immediate physical presence.
+
+Falsifiable claim per distractor:
+- (b): "sharing the combination code with Chloe legally transferred exclusive dominion and control" — wrong because sharing access establishes joint possession rather than categorically transferring exclusive control.
+- (c): "the presence of his daily gym equipment negated his specific intent" — wrong because possessing lawful items alongside contraband does not automatically negate the intent to possess the contraband.
+- (d): "anyone who pays for a gym locker is strictly liable for its entire contents" — wrong because criminal possession of narcotics requires knowing dominion and control, not strict liability based solely on renting a space.
+- (e): "because he was not physically present at the gym to exercise immediate, direct control over the drugs at all times" — wrong because the doctrine of constructive possession specifically exists to establish possession when a person is not physically present to exercise immediate control.
+
+Recommended fix: none
+-->

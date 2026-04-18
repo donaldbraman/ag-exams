@@ -1,0 +1,7 @@
+{
+  "title": "Antigravity Execution Rules for ag-exams",
+  "summary": "Specific instructions on how the agent (Antigravity) should execute pipeline commands in the ag-exams repository. Emphasizes running long commands (like Temporal workflows) asynchronously in the background using run_command with a short wait time to conserve context and prevent blocking.",
+  "references": [
+    "user_instruction"
+  ]
+}

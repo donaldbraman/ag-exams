@@ -37,7 +37,7 @@ def _compute_cache_key(prompt: str, system: str, model: str) -> str:
 async def dispatch_gemini(
     prompt: str,
     system_instruction: str = "",
-    model: str = "gemini-3-flash-preview",
+    model: str = "gemini-3-pro-preview",
     use_diskcache: bool = False,
     response_mime_type: str = "text/plain",
 ) -> str:

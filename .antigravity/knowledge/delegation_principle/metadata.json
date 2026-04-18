@@ -1,0 +1,7 @@
+{
+  "title": "The Delegation Principle (Antigravity Operations)",
+  "summary": "Core operational philosophy for Antigravity: Be the Orchestrator, not the Worker. Do not perform computationally heavy or context-intensive tasks directly. Delegate heavy lifting to background scripts running in the hidden scratch directory.",
+  "references": [
+    "user_instruction"
+  ]
+}

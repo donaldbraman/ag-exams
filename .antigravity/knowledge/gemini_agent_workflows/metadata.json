@@ -1,0 +1,8 @@
+{
+  "title": "Composable Gemini Agent Workflows",
+  "summary": "Core architectural principles for designing and orchestrating Gemini-powered agents. Focuses on small, single-domain agents orchestrated by Temporal workflows. Key practices include splitting static/dynamic context to maximize Context Caching, passing structured JSON handoffs, and deterministic error-feedbacks (e.g., fix loops). Used as the fundamental design philosophy for the ag-exams pipeline.",
+  "references": [
+    "cross-repo/.claude/guides/composable-agentic-workflows.md",
+    "ag-exams/docs/guides/gemini-agent-workflows.md"
+  ]
+}

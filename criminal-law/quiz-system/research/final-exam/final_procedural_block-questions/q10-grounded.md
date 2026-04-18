@@ -1,0 +1,17 @@
+**Q10.** Evaluate AUSA Vance's threat to charge Marcus under an overlapping statute with a 10-year mandatory minimum if he refuses the plea deal.
+
+(a) Constitutional, because Batchelder allows prosecutors to choose among overlapping statutes, and Bordenkircher permits threatening harsher applicable charges to secure a guilty plea during negotiations. <!-- correct -->
+(b) Unconstitutional, because threatening a 10-year mandatory minimum for refusing a 3-year plea deal constitutes illegal vindictive prosecution that punishes the defendant's trial right.
+(c) Unconstitutional, because Batchelder strictly requires prosecutors to charge the specific statute carrying the lesser penalty whenever two criminal statutes cover the exact same conduct.
+(d) Constitutional, because prosecutors possess absolute civil and criminal immunity from any form of judicial review regarding their coercive plea bargaining tactics and charging decisions.
+(e) Unconstitutional, because the trial penalty violates the defendant's Sixth Amendment right to a jury trial by making the systemic cost of going to trial prohibitively high.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because *United States v. Batchelder* holds that prosecutors have unreviewable discretion to choose among overlapping statutes with different penalties, and *Bordenkircher v. Hayes* permits prosecutors to constitutionally threaten harsher applicable charges to secure a guilty plea. (b) is incorrect because *Bordenkircher* specifically exempts pre-trial plea negotiation threats from the vindictive prosecution doctrine, provided probable cause exists for the threatened charge. (c) is incorrect because *Batchelder* explicitly rejected the argument that prosecutors must charge the lesser-penalty statute when two statutes overlap. (d) is incorrect because prosecutorial discretion, while broad, is not protected by "absolute immunity" from judicial review in the context of unconstitutional coercion, though this specific tactic is permitted. (e) is incorrect because the Supreme Court has consistently upheld the constitutionality of the "trial penalty" inherent in the plea-bargaining system.
+
+**Tags:** chapters: [6], topics: [plea-bargaining-trial-penalty, Batchelder-overlapping-statutes], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 6 - Prosecutors (Batchelder doctrine, Bordenkircher trial penalty)
+
+<!-- grounding: GROUNDED — Batchelder and Trial Penalty, Ch 6, Refinements `batchelder-overlapping-statutes`, `plea-bargaining-trial-penalty`. Rule paraphrased accurately. -->

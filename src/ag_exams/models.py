@@ -400,24 +400,28 @@ Single-stem scenario: The Distribution Ring
 Inspiration: Breaking Bad (inspired-by only — not a direct plot lift).
 Budget: 15 questions, single-doctrine-per-question bias.
 
-FRAME: The professor's former student takes over street-level distribution, recruiting three corner boys. The group forms a loose agreement to expand their territory. One boy attempts to sell to an undercover cop but abandons the effort. Another boy aids a rival gang in a robbery.
+FRAME: The professor's former student takes over street-level distribution, recruiting three corner boys. The group forms an agreement to expand their territory. One boy attempts to sell to an undercover cop but abandons the effort. Another boy acts as a lookout during a stash house robbery where the principal unexpectedly commits a homicide.
 
 CHARACTERS:
 - The Ex-Student: the ringleader of the street distribution.
 - Corner Boy 1: attempts a sale to a cop but gets cold feet.
-- Corner Boy 2: aids a rival gang.
-- Corner Boy 3: the lookout.
+- Corner Boy 2: acts as a lookout for a robbery that escalates into murder.
+- Corner Boy 3: co-conspirator.
 
 SUGGESTED PLOT DIRECTION:
-Test the boundaries of inchoate crimes. Focus on the agreement to expand (Conspiracy), the abandoned sale (Attempt / Abandonment), and the assistance to the rival gang (Accomplice Liability).
+Test the boundaries of inchoate crimes. Focus on the agreement to expand (Conspiracy), the abandoned sale (Attempt / Abandonment), and the lookout's liability for the unexpected homicide. You MUST force a comparative analysis of the lookout's liability under both the traditional "natural and probable consequences" doctrine AND the modern MPC/reform approach that rejects it (e.g., SB 1437). Likewise, test liability for a co-conspirator's acts under both Pinkerton doctrine and the MPC's rejection of it.
 
 DOCTRINAL TARGETS:
 - Ch 17 Attempts (substantial step, abandonment, impossibility)
-- Ch 18 Accomplice Liability (mens rea, actus reus, natural and probable consequences)
-- Ch 19 Conspiracy (agreement, overt act, withdrawal, Pinkerton liability)
+- Ch 18 Accomplice Liability (mens rea, actus reus, natural and probable consequences vs. MPC reform)
+- Ch 19 Conspiracy (agreement, overt act, withdrawal, Pinkerton vs. MPC rejection)
 
 HARD EXCLUSIONS:
 - No RICO or enterprise analysis.
+- No domestic violence or intimate-partner-violence content.
+- No rape or sexual-assault content.
+- No minors as customers or victims.
+- No direct plot lifts from the inspiration source.
 """
 
 _MOCK_THE_EMPIRE_BUSINESS_BRIEF = """\
@@ -426,20 +430,20 @@ Single-stem scenario: The Empire Business
 Inspiration: Breaking Bad / Better Call Saul (inspired-by only — not a direct plot lift).
 Budget: 15 questions, single-doctrine-per-question bias.
 
-FRAME: A massive, sophisticated logistics executive uses a chain of commercial businesses to distribute the product across state lines. The executive employs armed guards who mix guns with the drug trade. The operation operates as a highly structured enterprise.
+FRAME: A massive, sophisticated logistics executive uses a chain of commercial businesses to distribute the product across state lines. The executive employs armed guards who mix guns with the drug trade. The operation operates as a highly structured enterprise. A lower-level enforcer is charged under § 922(g) (felon in possession) after a raid; there is factual ambiguity regarding whether the enforcer *knew* his prior conviction was a qualifying felony (testing *Rehaif*).
 
 CHARACTERS:
 - The Executive: calculating logistics mastermind.
-- The Enforcer: uses firearms in furtherance of the trade.
+- The Enforcer: uses firearms; prior ambiguous felony record.
 - The Front Manager: manages the legitimate business masking the operation.
 
 SUGGESTED PLOT DIRECTION:
-Focus on the sheer scale of the operation to test enterprise liability and federal drug/gun enhancements. The interaction between drug distribution (PWID) and firearm possession (924c) should be a focal point, alongside the structure of the RICO enterprise.
+Focus on enterprise liability and federal enhancements. The interaction between drug distribution (PWID) and firearm possession (924c) should be a focal point, alongside the structure of the RICO enterprise. Crucially, test the modern mens rea of status elements (*Rehaif*) by forcing students to connect mistake-of-law principles to the substantive § 922(g) gun offense.
 
 DOCTRINAL TARGETS:
-- Ch 15 Drugs and Guns (constructive possession, PWID, 924c enhancements)
+- Ch 10 Mens Rea of Status Elements (mistake of law, *Rehaif*)
+- Ch 15 Drugs and Guns (constructive possession, PWID, 924c enhancements, 922g felon-in-possession)
 - Ch 20 RICO and Enterprise Liability (pattern of racketeering, enterprise structure)
-
 
 HARD EXCLUSIONS:
 - No domestic violence or intimate-partner-violence content.
@@ -483,21 +487,20 @@ Single-stem scenario: The Cornered Defenses
 Inspiration: Breaking Bad / Better Call Saul (inspired-by only — not a direct plot lift).
 Budget: 15 questions, single-doctrine-per-question bias.
 
-FRAME: Characters in the criminal underworld are backed into corners. A low-level cook is kidnapped and forced to synthesize drugs under threat of death. During a police raid, a traumatized bodyguard suffers a psychotic break. A dealer shoots a rival claiming a preemptive strike against an imminent threat.
+FRAME: Characters in the criminal underworld are backed into corners. A low-level cook is violently coerced by a cartel lieutenant into destroying a massive shipment of volatile precursor chemicals to prevent them from detonating and destroying a city block. The cook's actions support both a Necessity (justification) and a Duress (excuse) defense. Later, a traumatized bodyguard suffers a psychotic break during a raid, and a dealer shoots a rival claiming self-defense.
 
 CHARACTERS:
-- The Kidnapped Cook: forced to work under duress.
+- The Coerced Cook: forced to destroy property to prevent greater harm.
 - The Traumatized Bodyguard: suffers a break from reality.
 - The Cornered Dealer: uses deadly force in alleged self-defense.
 
 SUGGESTED PLOT DIRECTION:
-Focus heavily on affirmative defenses. Test the limits of justification and excuse, particularly the imminence requirement in self-defense, the stringent standards for duress, and the cognitive/volitional prongs of the insanity defense.
+Focus heavily on affirmative defenses. You MUST force a rigorous analysis of the theory behind defenses by having students identify why the cook's actions could be pled as Necessity (a justified act that was right) versus Duress (an excused act lacking responsibility), and how the legal consequences for an accomplice would differ depending on which theory prevails. Also test the imminence requirement in self-defense, and the cognitive/volitional prongs of the insanity defense.
 
 DOCTRINAL TARGETS:
-- Ch 21 Necessity and Duress
+- Ch 21 Necessity (Justification) and Duress (Excuse)
 - Ch 22 Self-Defense (imminence, duty to retreat, imperfect self-defense)
 - Ch 23 The Insanity Defense (M'Naghten, MPC, irresistible impulse)
-
 
 HARD EXCLUSIONS:
 - No domestic violence or intimate-partner-violence content.
@@ -512,26 +515,22 @@ Single-stem scenario: The Fixer's Procedural Block.
 Inspiration: Better Call Saul / Breaking Bad (inspired-by only — not a direct plot lift).
 Budget: 15 questions, single-doctrine-per-question bias.
 
-FRAME: Following the fallout of a massive narcotics ring (referencing the Chemistry Professor), the cartel's top lieutenant is facing trial. The organization's slick, morally bankrupt "criminal" lawyer is tasked with orchestrating a massive campaign of institutional corruption to keep the lieutenant out of prison.
+FRAME: Following the fallout of a massive narcotics ring, the cartel's top lieutenant is facing trial. The organization's slick, morally bankrupt "criminal" lawyer is tasked with orchestrating a campaign of institutional corruption. The District Attorney aggressively overcharges minority defendants to force plea deals, and data reveals a starkly disparate racial impact in the DA's charging policies. 
 
 CHARACTERS:
 - The Fixer (Defense Attorney): A corrupt but brilliant attorney orchestrating the institutional manipulation.
-- The Prosecutor (DA): An ambitious District Attorney making aggressive charging decisions.
-- The Judge: A jaded trial judge susceptible to subtle blackmail or influence from the cartel.
+- The Prosecutor (DA): An ambitious District Attorney making aggressive, racially disparate charging decisions.
+- The Judge: A jaded trial judge susceptible to subtle blackmail.
 - The Legislator: A corrupt state senator on the cartel's payroll.
-- The Governor: A state executive willing to commute sentences or issue pardons for a massive cash bribe.
 
 SUGGESTED PLOT DIRECTION:
-The narrative should explore the boundaries of institutional law by featuring a mix of acts:
-1. Some acts should clearly cross the legal line into outright corruption (e.g., explicit bribery, extortion).
-2. Other acts should be shielded by the specific legal immunities, discretionary powers, or laws protecting the decisions made by persons in each of their respective institutions.
-Let the characters interact organically to test these boundaries.
+Explore the boundaries of institutional law integrated with foundational theory. Provide data on the DA policy's disparate racial impact (tying to Ferguson-era racial disparities). Require students to critique the charging decision using both the legal standard for selective prosecution (Ch 6) AND the theoretical frameworks of punishment and motivated cognition (Ch 2 & 3). Also test jury tampering, prosecutorial immunity, and legislative corruption.
 
-DOCTRINAL TARGETS (test across these Qs):
+DOCTRINAL TARGETS:
+- Ch 2 & 3 Foundational Theory (punishment theories, motivated cognition, racial disparities)
 - Ch 4 Juries (voir dire, Batson challenges, jury nullification, right to a jury trial)
 - Ch 5 Legislatures (statutory interpretation, ex post facto laws, executive pardon power limits)
-- Ch 6 Prosecutors (prosecutorial discretion, charging decisions, vindictive prosecution, plea bargaining bounds)
-
+- Ch 6 Prosecutors (prosecutorial discretion, selective prosecution, vindictive prosecution, plea bargaining bounds)
 
 HARD EXCLUSIONS:
 - No domestic violence or intimate-partner-violence content.
@@ -576,20 +575,20 @@ Single-stem scenario: The Distribution Ring (The Pit)
 Inspiration: The Wire (inspired-by only — not a direct plot lift).
 Budget: 15 questions, single-doctrine-per-question bias.
 
-FRAME: A crew of street-level dealers runs a sophisticated hand-to-hand distribution network in a courtyard. They form an agreement to defend their turf from a rival crew. One dealer attempts a drive-by shooting but misses entirely. Another acts as a lookout during a stash house robbery.
+FRAME: A crew of street-level dealers runs a sophisticated hand-to-hand distribution network in a courtyard. They form an agreement to defend their turf from a rival crew. One dealer attempts a drive-by shooting but misses entirely. Another acts as a lookout during a stash house robbery where the principal unexpectedly commits a homicide.
 
 CHARACTERS:
 - The Crew Chief: organizes the turf defense.
 - The Shooter: attempts the drive-by.
-- The Lookout: aids the stash house robbery.
+- The Lookout: aids the stash house robbery that escalates into murder.
 
 SUGGESTED PLOT DIRECTION:
-Test the boundaries of inchoate crimes. Focus on the agreement to defend the turf (Conspiracy), the missed drive-by (Attempt / Impossibility), and the lookout's liability for the robbery (Accomplice Liability).
+Test the boundaries of inchoate crimes. Focus on the agreement to defend the turf (Conspiracy), the missed drive-by (Attempt / Impossibility), and the lookout's liability for the unexpected homicide. You MUST force a comparative analysis of the lookout's liability under both the traditional "natural and probable consequences" doctrine AND the modern MPC/reform approach that rejects it (e.g., SB 1437). Likewise, test liability for a co-conspirator's acts under both Pinkerton doctrine and the MPC's rejection of it.
 
 DOCTRINAL TARGETS:
 - Ch 17 Attempts (substantial step, abandonment, impossibility)
-- Ch 18 Accomplice Liability (mens rea, actus reus, natural and probable consequences)
-- Ch 19 Conspiracy (agreement, overt act, withdrawal, Pinkerton liability)
+- Ch 18 Accomplice Liability (mens rea, actus reus, natural and probable consequences vs. MPC reform)
+- Ch 19 Conspiracy (agreement, overt act, withdrawal, Pinkerton vs. MPC rejection)
 
 HARD EXCLUSIONS:
 - No domestic violence or intimate-partner-violence content.
@@ -604,18 +603,19 @@ Single-stem scenario: The Empire Business (The DiMeo Family Waste Management)
 Inspiration: The Sopranos (inspired-by only — not a direct plot lift).
 Budget: 15 questions, single-doctrine-per-question bias.
 
-FRAME: A powerful organized crime family uses a waste management business as a front for their illicit activities. The family engages in a pattern of racketeering, including extortion and large-scale interstate drug distribution. The family employs "made men" who carry unregistered firearms while protecting the operations.
+FRAME: A powerful organized crime family uses a waste management business as a front for their illicit activities. The family engages in a pattern of racketeering, including extortion and large-scale interstate drug distribution. The family employs "made men" who carry unregistered firearms. A capo is charged under § 922(g) (felon in possession) after a federal wiretap; there is factual ambiguity regarding whether the capo *knew* his prior conviction qualified as a felony (testing *Rehaif*).
 
 CHARACTERS:
 - The Boss: the head of the crime family.
-- The Capo: manages the street-level crews and extortion.
+- The Capo: manages the street-level crews; prior ambiguous felony record.
 - The Front Manager: runs the legitimate waste management business.
 
 SUGGESTED PLOT DIRECTION:
-Focus on enterprise liability and federal enhancements. The interaction between massive drug distribution/extortion and firearm possession (924c) should be a focal point, alongside the structure and predicates of the RICO enterprise.
+Focus on enterprise liability and federal enhancements. The interaction between massive drug distribution/extortion and firearm possession (924c) should be a focal point, alongside the structure and predicates of the RICO enterprise. Crucially, test the modern mens rea of status elements (*Rehaif*) by forcing students to connect mistake-of-law principles to the substantive § 922(g) gun offense.
 
 DOCTRINAL TARGETS:
-- Ch 15 Drugs and Guns (constructive possession, PWID, 924c enhancements)
+- Ch 10 Mens Rea of Status Elements (mistake of law, *Rehaif*)
+- Ch 15 Drugs and Guns (constructive possession, PWID, 924c enhancements, 922g felon-in-possession)
 - Ch 20 RICO and Enterprise Liability (pattern of racketeering, enterprise structure)
 
 HARD EXCLUSIONS:
@@ -659,20 +659,21 @@ Single-stem scenario: The Procedural Block (The Made Man's Trial)
 Inspiration: The Sopranos (inspired-by only — not a direct plot lift).
 Budget: 15 questions, single-doctrine-per-question bias.
 
-FRAME: A high-ranking "made man" in the crime family is finally facing a federal racketeering trial. The family's corrupt attorney orchestrates a campaign to intimidate the jury. An ambitious prosecutor pushes for aggressive plea deals from underlings. A corrupt local politician attempts to influence the judge's evidentiary rulings to protect the family.
+FRAME: A high-ranking "made man" in the crime family is finally facing a federal racketeering trial. An ambitious prosecutor pushes for aggressive plea deals and deploys a charging strategy that statistically targets minority neighborhoods at ten times the rate of others. A corrupt local politician attempts to influence the judge's evidentiary rulings to protect the family.
 
 CHARACTERS:
-- The Prosecutor: aggressive charging and plea bargaining.
+- The Prosecutor: aggressive charging with starkly disparate racial impacts.
 - The Defense Attorney: attempts to taint the jury pool.
 - The Politician: exerts corrupt legislative or executive influence.
 
 SUGGESTED PLOT DIRECTION:
-Explore the boundaries of institutional law. Some acts are shielded by prosecutorial/legislative immunity, while others cross the line into corruption or violate constitutional rights (e.g., Batson challenges, vindictive prosecution, jury tampering).
+Explore the boundaries of institutional law integrated with foundational theory. Provide data on the prosecutor policy's disparate racial impact (tying to Ferguson-era racial disparities). Require students to critique the charging decision using both the legal standard for selective prosecution (Ch 6) AND the theoretical frameworks of punishment and motivated cognition (Ch 2 & 3). Also test jury tampering, Batson challenges, and legislative corruption.
 
 DOCTRINAL TARGETS:
+- Ch 2 & 3 Foundational Theory (punishment theories, motivated cognition, racial disparities)
 - Ch 4 Juries (voir dire, Batson challenges, jury nullification, right to a jury trial)
 - Ch 5 Legislatures (statutory interpretation, ex post facto laws, executive pardon power limits)
-- Ch 6 Prosecutors (prosecutorial discretion, charging decisions, vindictive prosecution, plea bargaining bounds)
+- Ch 6 Prosecutors (prosecutorial discretion, selective prosecution, vindictive prosecution, plea bargaining bounds)
 
 HARD EXCLUSIONS:
 - No domestic violence or intimate-partner-violence content.
@@ -687,18 +688,18 @@ Single-stem scenario: The Cornered Defenses (The Cornered Enforcer)
 Inspiration: The Wire (inspired-by only — not a direct plot lift).
 Budget: 15 questions, single-doctrine-per-question bias.
 
-FRAME: The pressure of a massive federal investigation causes the criminal organization to fracture. A low-level courier is forced at gunpoint to transport a final shipment (Duress). An isolated enforcer, suffering from extreme paranoia and delusions, fires on an undercover officer (Insanity). A rival claims self-defense after preemptively shooting a hitman who was stalking him.
+FRAME: The pressure of a massive federal investigation causes the criminal organization to fracture. An isolated enforcer is violently coerced by a corrupt cop into destroying a warehouse of evidence to prevent a larger bloodbath in the streets. The enforcer's actions support both a Necessity (justification) and a Duress (excuse) defense. Later, a rival claims self-defense after preemptively shooting a hitman, and an addicted associate suffers a psychotic break.
 
 CHARACTERS:
-- The Courier: forced to transport drugs.
-- The Paranoid Enforcer: suffers a psychological break.
+- The Coerced Enforcer: forced to destroy property to prevent greater harm.
+- The Addicted Associate: suffers a psychological break.
 - The Target: preemptively shoots a stalker.
 
 SUGGESTED PLOT DIRECTION:
-Focus on affirmative defenses. Test the imminence requirement in self-defense, the stringent standards for duress, and the cognitive/volitional prongs of the insanity defense.
+Focus heavily on affirmative defenses. You MUST force a rigorous analysis of the theory behind defenses by having students identify why the enforcer's actions could be pled as Necessity (a justified act that was right) versus Duress (an excused act lacking responsibility), and how the legal consequences for an accomplice would differ depending on which theory prevails. Also test the imminence requirement in self-defense, and the cognitive/volitional prongs of the insanity defense.
 
 DOCTRINAL TARGETS:
-- Ch 21 Necessity and Duress
+- Ch 21 Necessity (Justification) and Duress (Excuse)
 - Ch 22 Self-Defense (imminence, duty to retreat, imperfect self-defense)
 - Ch 23 The Insanity Defense (M'Naghten, MPC, irresistible impulse)
 
@@ -831,7 +832,7 @@ SCENARIO_MAP: dict[str, ScenarioBrief] = {
         substantive_base="Drugs, Guns, and RICO",
         inchoate_layers=["rico", "rico-conspiracy"],
         defenses=[],
-        chapters=[15, 20],
+        chapters=[15, 20, 10],
         estimated_questions=(10, 15),
         stem_count=1,
         brief_text=_MOCK_THE_EMPIRE_BUSINESS_BRIEF,
@@ -855,7 +856,7 @@ SCENARIO_MAP: dict[str, ScenarioBrief] = {
         substantive_base="Institutional law",
         inchoate_layers=[],
         defenses=[],
-        chapters=[4, 5, 6],
+        chapters=[4, 5, 6, 2, 3],
         estimated_questions=(10, 15),
         stem_count=1,
         brief_text=_MOCK_PROCEDURAL_BLOCK_BRIEF,
@@ -903,7 +904,7 @@ SCENARIO_MAP: dict[str, ScenarioBrief] = {
         substantive_base="Drugs, Guns, and RICO",
         inchoate_layers=["rico", "rico-conspiracy"],
         defenses=[],
-        chapters=[15, 20],
+        chapters=[15, 20, 10],
         estimated_questions=(10, 15),
         stem_count=1,
         brief_text=_FINAL_THE_EMPIRE_BUSINESS_BRIEF,
@@ -927,7 +928,7 @@ SCENARIO_MAP: dict[str, ScenarioBrief] = {
         substantive_base="Institutional law",
         inchoate_layers=[],
         defenses=[],
-        chapters=[4, 5, 6],
+        chapters=[4, 5, 6, 2, 3],
         estimated_questions=(10, 15),
         stem_count=1,
         brief_text=_FINAL_PROCEDURAL_BLOCK_BRIEF,

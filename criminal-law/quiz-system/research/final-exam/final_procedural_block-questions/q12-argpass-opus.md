@@ -1,0 +1,33 @@
+**Q12.** Evaluate defense attorney Rossi's use of peremptory challenges under the Batson framework.
+
+(a) Subject to a Batson challenge, because the prohibition on race-based strikes applies equally to defense attorneys, and the court must determine if the reason is pretextual. <!-- correct -->
+(b) Insulated from judicial review, because the Batson framework applies exclusively to prosecutorial strikes, protecting the criminal defendant's absolute constitutional right to aggressively shape the jury.
+(c) Automatically invalid at step one, because striking six out of seven members of a protected class constitutes per se unconstitutional discrimination requiring no further analysis.
+(d) Automatically valid at step two, because asserting a juror is "hostile to corporate business" serves as a legally irrebuttable race-neutral explanation that definitively ends the inquiry.
+(e) Subject to a Batson challenge, but only if the prosecution can successfully prove that Rossi possesses a documented historical pattern of striking minority jurors in previous cases.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because *Georgia v. McCollum* extended the *Batson* framework to defense attorneys. The trial court must proceed to step three to determine whether the facially race-neutral reason ("hostile to corporate business") is actually a pretext for racial discrimination. (b) is incorrect because the Equal Protection Clause protects the jurors' right not to be excluded based on race, which restricts defense attorneys as well as prosecutors. (c) is incorrect because statistical disparities at step one only establish a *prima facie* case requiring an explanation; they do not render the strikes per se unconstitutional. (d) is incorrect because a facially neutral reason at step two does not end the inquiry; the judge must still evaluate its genuineness at step three. (e) is incorrect because a *Batson* challenge does not require proof of a historical pattern; it can be established based entirely on the strikes in the current case.
+
+**Tags:** chapters: [4], topics: [Batson-framework, equal-protection], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 4 - The Jury (Batson framework, McCollum extension to defense attorneys)
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Option (a) accurately reflects the Supreme Court's jurisprudence extending the *Batson* framework to criminal defense attorneys under *Georgia v. McCollum*. It correctly outlines the procedural posture: once a *Batson* challenge is raised and a race-neutral reason is offered, the court is constitutionally obligated to proceed to step three to assess pretext. This aligns perfectly with the equal protection rights of prospective jurors.
+(b) Argument-for: A student might choose (b) by relying on the text of the Sixth Amendment and the adversarial nature of criminal trials. They could argue that a criminal defendant has a paramount, absolute right to an impartial jury and to shape that jury aggressively, meaning state action constraints cannot restrict defense counsel's use of peremptories without violating the right to counsel. Furthermore, the student might mistakenly believe that because defense attorneys are not state actors, Equal Protection principles do not apply to their in-court strategic choices.
+(c) Argument-for: Option (c) could be defended by analogizing to strict liability or per se rules in equal protection jurisprudence when statistical disparities are overwhelming. A student might reason that striking 85% of a protected class is mathematically so stark that it bypasses the need for the burden-shifting framework entirely. Under this theory, such statistical evidence serves as irrebuttable proof of discriminatory intent at step one, rendering further analysis moot.
+(d) Argument-for: A student could justify (d) by misapplying the standard set in *Purkett v. Elem*, which held that a race-neutral reason need not be persuasive or plausible at step two. Because "hostile to corporate business" has no inherent racial meaning, the student might conclude that offering it absolutely satisfies the defense's burden. Thus, they might believe this automatically ends the constitutional inquiry and guarantees the strike's validity.
+(e) Argument-for: Option (e) might appeal to a student recalling the pre-*Batson* era governed by *Swain v. Alabama*. They could argue that because defense attorneys are not traditional state actors, any attempt by the prosecution to challenge their strikes requires meeting a higher standard. Therefore, they might conclude the prosecution must meet the old *Swain* burden of proving a systematic, historical pattern of discrimination across multiple cases.
+
+Head-to-head: Option (a) easily prevails as the correct application of the *Batson* burden-shifting framework and the *McCollum* extension. The distractors are exceptionally well-crafted because they lock themselves into cleanly falsifiable legal absolutes. Option (b) fails by claiming *Batson* is "exclusively" for prosecutorial strikes. Option (c) fails by asserting a high statistical disparity at step one is "per se unconstitutional." Option (d) incorrectly states that a step-two reason "definitively ends the inquiry," completely erasing step three. Option (e) wrongly revives the *Swain* requirement of a "documented historical pattern." 
+
+Falsifiable claim per distractor:
+- (b): "Batson framework applies exclusively to prosecutorial strikes" — wrong because *Georgia v. McCollum* extended *Batson* to defense attorneys.
+- (c): "constitutes per se unconstitutional discrimination requiring no further analysis" — wrong because statistical disparities at step one merely establish a prima facie case; steps two and three are still required.
+- (d): "legally irrebuttable race-neutral explanation that definitively ends the inquiry" — wrong because step two only satisfies the burden of production; the court must still evaluate pretext at step three.
+- (e): "only if the prosecution can successfully prove that Rossi possesses a documented historical pattern" — wrong because *Batson* explicitly rejected the *Swain* requirement for demonstrating a historical pattern of strikes across multiple cases.
+
+Recommended fix: None for the options, as they are cleanly locked. (Note: The question stem appears to be missing a brief fact pattern establishing "Rossi," the "six out of seven" strikes, and the "hostile to corporate business" rationale that the distractors refer to; the author may want to add one sentence to the stem to provide this context).
+-->

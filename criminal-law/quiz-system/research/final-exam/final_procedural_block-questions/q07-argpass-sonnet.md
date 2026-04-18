@@ -1,0 +1,33 @@
+**Q7.** Assume Bruno is charged as an accomplice by omission to the armed robbery. Which of the following is correct?
+
+(a) Guilty as an accomplice by omission because he breached a specific contractual duty to intervene with the intent to permit the robbery to occur. <!-- correct -->
+(b) Not guilty as an accomplice because criminal liability cannot be based on a failure to act, regardless of any explicit contractual duty to intervene.
+(c) Not guilty as an accomplice because an employment contract only creates civil liability, which is insufficient to establish a legal duty in criminal law.
+(d) Guilty as an accomplice by omission because any bystander who witnesses a violent felony has a general legal duty to intervene under common law.
+(e) Not guilty as an accomplice because Leo was completely unaware that Bruno was watching, thereby negating any actual facilitation of the underlying robbery offense.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because an omission satisfies the *actus reus* for accomplice liability when the defendant has a legal duty to act and fails to do so with the intent to facilitate the crime. Bruno had a specific contractual duty to intervene, and he intentionally withheld action to permit the robbery. (b) is incorrect because criminal liability can be based on an omission when a distinct legal duty exists. (c) is incorrect because a formal contractual duty to protect or intervene is one of the recognized categories that creates a legal duty in criminal law. (d) is incorrect because common law does not impose a general duty to intervene on mere bystanders absent a special relationship or contract. (e) is incorrect because a duty-bound omission that intentionally permits a crime to succeed facilitates the offense, regardless of the principal's awareness.
+
+**Tags:** chapters: [9, 18], topics: [accomplice-by-omission, contractual-duty, omission-actus-reus], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 9 - Omissions (Contractual duty); Chapter 18 - Accomplice Liability
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under established criminal law principles, an omission can satisfy the actus reus for accomplice liability if the defendant has a legal duty to act. A specific contractual obligation (such as an employment contract as a security guard) is one of the classically recognized categories creating such a duty (along with special relationships, statutory mandates, and creation of peril). By breaching this duty with the specific intent to permit the robbery to occur, Bruno satisfies both the actus reus and the mens rea required for accomplice liability. Therefore, he is properly guilty as an accomplice by omission.
+(b) Argument-for: A student could argue that accomplice liability strictly requires an affirmative act of aiding, abetting, or encouraging to prevent overbroad application of guilt. This option asserts that a failure to act can never form the basis of criminal liability, regardless of any explicit contractual duty, appealing to the general common law aversion to punishing omissions and pushing the idea that actus reus must always be an affirmative act.
+(c) Argument-for: A student might argue that the intersection of contract law and criminal law is strictly divided, such that a mere employment contract cannot serve as the foundation for a criminal conviction. They could reason that while Bruno might be fired or sued civilly for breach of contract, the criminal law requires a more fundamental, publicly imposed duty. This option explicitly asserts that an employment contract only creates civil liability and is categorically insufficient for criminal law.
+(d) Argument-for: A student could rely on the moral intuition that individuals should stop severely violent crimes. They might confuse the general lack of a duty to rescue with an imagined common law exception for witnessing inherently dangerous violent felonies. This argues that any bystander witnessing a violent felony is uniquely burdened with a general legal duty to intervene, making Bruno liable simply because of the severe nature of the crime witnessed.
+(e) Argument-for: A student might argue that accomplice liability inherently requires the principal to be encouraged or actually assisted by the accomplice's presence. If the principal (Leo) is completely unaware of the omission, the student could argue that Bruno's failure to act did not alter Leo's behavior or provide psychological support. This option asserts that the principal's lack of awareness logically negates any actual facilitation of the offense, destroying the actus reus of aiding.
+
+Head-to-head: Option (a) correctly applies the legal standard for accomplice liability by omission, requiring both a legal duty (contractual) and the intent to facilitate the crime. Option (b) fails because it asserts an explicitly false categorical rule that omissions can never form the basis of criminal liability regardless of contract. Option (c) is false because contractual duties are canonically recognized sources of legal duties in criminal law (e.g., *Jones v. United States*). Option (d) presents a clearly false statement of common law, which firmly rejects a general bystander duty to intervene even during violent felonies. Option (e) is falsifiable because a principal's awareness is not strictly required for actual facilitation; a duty-bound omission (e.g., intentionally failing to sound an alarm) objectively aids the commission of the offense regardless of the principal's knowledge. All distractors contain explicit, falsifiable legal errors.
+
+Falsifiable claim per distractor:
+- (b): "criminal liability cannot be based on a failure to act, regardless of any explicit contractual duty to intervene." — wrong because omissions can serve as the basis for criminal liability when a legal duty, such as a contractual duty, exists.
+- (c): "an employment contract only creates civil liability, which is insufficient to establish a legal duty in criminal law." — wrong because contract is a universally recognized category for establishing a legal duty to act under criminal law.
+- (d): "any bystander who witnesses a violent felony has a general legal duty to intervene under common law." — wrong because the common law imposes no such general duty on bystanders, regardless of the severity of the felony witnessed.
+- (e): "Leo was completely unaware that Bruno was watching, thereby negating any actual facilitation" — wrong because actual facilitation (e.g., ensuring an alarm is not triggered) can objectively occur without the principal's awareness of the accomplice's support.
+
+Recommended fix: none
+-->

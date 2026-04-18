@@ -1,0 +1,22 @@
+**Q11.** Under federal anti-corruption principles distinguishing bribes from gratuities, evaluate Senator Sterling's acceptance of the $25,000 token of appreciation.
+
+(a) Sterling accepted a gratuity rather than a bribe, because the payment was received after the official act as a reward and lacked a prior agreement.
+(b) Sterling accepted a bribe because any payment of substantial monetary value linked to an official's legislative voting record automatically satisfies the requirement for bribery.
+(c) Sterling committed honest services fraud because accepting post-action appreciation inherently deprives the public of their intangible right to fair and impartial governmental representation.
+(d) Sterling accepted a bribe because the token of appreciation was paid by a known criminal syndicate leader rather than a legitimate community business organization.
+(e) Sterling is completely immune from federal scrutiny because local municipal zoning changes do not possess a sufficient nexus to strongly affect interstate commerce operations.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because under *Snyder v. United States* and federal anti-corruption principles, a payment made after an official act as a reward, without a prior agreement to influence the official decision, constitutes a gratuity rather than a bribe. (b) is incorrect because bribery requires a *quid pro quo*—a payment made or agreed to before the act with the specific intent to influence it. (c) is incorrect because *Skilling* limits honest services fraud exclusively to bribery and kickback schemes, expressly excluding post-action gratuities and general conflicts of interest. (d) is incorrect because the identity or criminal nature of the payer does not transform the legal classification of the payment from a gratuity into a bribe. (e) is incorrect because the jurisdictional requirement of interstate commerce is easily met and does not grant blanket immunity for municipal zoning corruption.
+
+**Tags:** chapters: [5], topics: [corruption-bribe-vs-gratuity, honest-services-fraud], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 5 - Legislatures and Courts (Snyder v. United States, bribe vs gratuity distinction)
+
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
+-->
