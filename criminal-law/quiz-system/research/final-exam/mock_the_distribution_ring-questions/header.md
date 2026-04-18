@@ -1,4 +1,6 @@
-# Scenario: East Side Takeover
+# Scenario: East Side Stash House
+
+### Facts
 
 1. Artie, seeking to expand his distribution ring, summons Ben, Cole, and Damon. He says, "I have the product. I need bodies to clear out the East Side stash house and take over their corners. Anyone who helps gets a cut."
 2. Damon smiles and taps a bulge in his waistband.
@@ -10,3 +12,7 @@
 8. Hearing the gunshot, Cole drops his lookout post, runs back to his own apartment, and throws his burner phone in the trash. He does not contact law enforcement or Damon.
 9. Damon texts Artie: "Vic was there. I killed him. Didn't get any product." Artie replies: "Whatever. Stay low," and wires Damon $1,000.
 10. Later that week, police raid Artie's apartment. They find Artie sitting on the couch. Under the couch is a locked safe containing 5 kilograms of fentanyl. The safe belongs to Damon; Artie knows the drugs are inside and allows Damon to store it there, but Artie does not know the combination and cannot open the safe himself.
+
+### Stem 1: Grand Jury Assessment
+
+"We've got four suspects in custody regarding the East Side stash house shooting and a related drug sting. I need you to evaluate the inchoate and vicarious liability exposure for each of them before we convene the grand jury. Review the investigative file and draft an analysis of the doctrines at play."
