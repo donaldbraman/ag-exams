@@ -1,20 +1,19 @@
 #!/usr/bin/env python3
+import argparse
 import json
 import os
 import re
 
-SCENARIOS = [
-    "final_the_genesis",
-    "final_the_blowback",
-    "final_the_distribution_ring",
-    "final_hamsterdam",
-    "final_the_empire_business",
-    "final_procedural_block"
+BASE_SCENARIOS = [
+    "the_genesis",
+    "the_blowback",
+    "the_distribution_ring",
+    "the_cornered_defenses",
+    "the_empire_business",
+    "procedural_block"
 ]
 
 BASE_DIR = "criminal-law/quiz-system/research/final-exam"
-OUTPUT_FILE = os.path.join(BASE_DIR, "master_exam.md")
-STUDENT_OUTPUT_FILE = os.path.join(BASE_DIR, "student_final_exam.md")
 
 def format_options(text: str) -> str:
     """Format (a) options to alphabetical list items `a.` and make them loose."""
@@ -25,7 +24,15 @@ def format_options(text: str) -> str:
     return text
 
 def main():
-    print(f"Assembling {OUTPUT_FILE}...")
+    parser = argparse.ArgumentParser(description="Assemble exam from scenarios.")
+    parser.add_argument("--prefix", choices=["mock", "final"], default="mock", help="The prefix type of the exam to assemble (mock or final).")
+    args = parser.parse_args()
+    
+    scenarios = [f"{args.prefix}_{s}" for s in BASE_SCENARIOS]
+    output_file = os.path.join(BASE_DIR, f"{args.prefix}_master_exam.md")
+    student_output_file = os.path.join(BASE_DIR, f"{args.prefix}_student_exam.md")
+
+    print(f"Assembling {output_file}...")
     
     global_q_num = 1
     answer_key = []
@@ -50,10 +57,10 @@ def main():
     ]
     student_md_lines = list(md_lines)
     
-    for idx, scenario_name in enumerate(SCENARIOS, start=1):
+    for idx, scenario_name in enumerate(scenarios, start=1):
         # Format the title, stripping 'Mock'
         # mock_the_genesis -> The Genesis
-        base_title = scenario_name.replace("mock_", "").replace("_", " ").title()
+        base_title = scenario_name.replace(f"{args.prefix}_", "").replace("_", " ").title()
         # Fix words like 'The' if needed, though .title() works fine here for 'The Genesis'
         title = f"# Scenario {idx}: {base_title}"
         md_lines.append(title)
@@ -180,10 +187,10 @@ def main():
     formatted_text = format_options(full_text)
     student_formatted_text = format_options(student_full_text)
     
-    with open(OUTPUT_FILE, "w") as f:
+    with open(output_file, "w") as f:
         f.write(formatted_text)
         
-    with open(STUDENT_OUTPUT_FILE, "w") as f:
+    with open(student_output_file, "w") as f:
         f.write(student_formatted_text)
         
     print(f"Assembly complete! Run `quarto render` to build the PDFs.")
