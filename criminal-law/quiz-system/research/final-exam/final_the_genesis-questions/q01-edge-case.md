@@ -1,0 +1,22 @@
+**Q1.** Assume that Wallace is charged with recklessly causing the fire. He argues that he cannot be convicted because knocking the vat over during a seizure was not a voluntary act. How should a court rule on this defense?
+
+(a) The defense succeeds, because unconscious bodily movements caused by a medical condition are never treated as voluntary acts under the traditional common law rule.
+(b) The defense succeeds, because the Eighth Amendment prohibits punishing an individual for actions that are unavoidable symptoms of a recognized medical status.
+(c) The defense fails, because his earlier voluntary act of choosing to mix the chemicals despite knowing it would trigger a seizure created the foreseeable risk. <!-- correct -->
+(d) The defense fails, because the state may always presume that an employee acting in a commercial capacity possesses the capacity for conscious self-governance.
+(e) The defense fails, because under the *Martin* principle, a defendant who voluntarily accepts employment is strictly liable for any resulting workplace hazards.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct. Under the time-framing principle (e.g., *Decina*), a defendant who makes a voluntary choice that foreseeably creates the risk of involuntary conduct (mixing chemicals knowing it triggers seizures) is liable; the later unconsciousness does not break the chain. (a) is wrong because time-framing attaches liability to the earlier voluntary act. (b) is wrong because the Eighth Amendment prohibits punishing pure status, but Wallace is being punished for his voluntary conduct. (d) is wrong because voluntariness is an empirical element, not a presumption of commercial self-governance. (e) is wrong because the *Martin* principle applies when police involuntarily manufacture the actus reus, not to general workplace hazards.
+
+**Tags:** chapters: [7], topics: [voluntary act, time-framing, unconsciousness], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 7: Actus Reus — The Voluntary Act Requirement; time-framing-seizure-driving
+
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
+-->

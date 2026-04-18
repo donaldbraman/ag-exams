@@ -1,0 +1,17 @@
+**Q8.** Following the investigation, Avon is charged with Inspector Greggs's death under the *Pinkerton* doctrine. Avon argues he never visited the warehouse and had no idea a fire would occur. Is Avon liable for the death under *Pinkerton*?
+
+(a) Yes, because corporate executives are strictly liable for any fatal accidents occurring on company property under the specialized responsible corporate officer doctrine framework.
+(b) Yes, because the death occurred in furtherance of the drug manufacturing conspiracy and a fatal accident was a reasonably foreseeable consequence of that criminal enterprise. <!-- correct -->
+(c) No, because the *Pinkerton* doctrine explicitly requires the prosecution to prove that the co-conspirator was physically present at the scene of the substantive offense.
+(d) No, because Avon explicitly delegated day-to-day management and safety monitoring to Marlowe, legally withdrawing from that specific aspect of the ongoing conspiracy.
+(e) No, because an accomplice must possess the specific purpose to commit the target crime, and there is no evidence Avon intended for Greggs to die.
+
+**Answer:** (b)
+
+**Explanation:** (b) is correct. Under the *Pinkerton* doctrine, a conspirator is liable for the substantive offenses committed by a co-conspirator in furtherance of the conspiracy, provided the offense was a reasonably foreseeable consequence of the agreement. A fatal accident during illicit drug manufacturing is highly foreseeable. (a) is wrong because the responsible corporate officer doctrine (*Park*) applies to regulatory strict liability, not to homicide offenses. (c) is wrong because *Pinkerton* liability specifically allows conviction of co-conspirators who were not physically present at the scene. (d) is wrong because effective withdrawal requires an affirmative act communicating abandonment to co-conspirators or the police, not merely delegating management duties. (e) is wrong because *Pinkerton* extends liability based on foreseeability, unlike accomplice liability which requires a shared purpose for the target offense.
+
+**Tags:** chapters: [19], topics: [conspiracy, Pinkerton liability, foreseeability], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 19: Conspiracy; pinkerton-doctrine
+
+<!-- grounding: GROUNDED — Pinkerton liability, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. (Also correctly grounds distractors utilizing Ch 19 `withdrawal-requirements`, Ch 11 `park-doctrine-foresight-vigilance`, and Ch 18 `mr-purpose-not-knowledge`). -->

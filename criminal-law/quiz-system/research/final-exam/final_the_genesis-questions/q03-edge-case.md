@@ -1,0 +1,22 @@
+**Q3.** Assume that Marlowe is charged with manslaughter for Inspector Greggs's death. Marlowe argues he is not the proximate cause of the death because Inspector Greggs voluntarily ran into the burning building. How will a court likely assess proximate cause?
+
+(a) Marlowe is the proximate cause, because an inspector's attempt to rescue individuals from a massive fire is a reasonably foreseeable dependent intervening cause. <!-- correct -->
+(b) Marlowe is the proximate cause, because the MPC establishes that any but-for cause of a death universally satisfies the proximate cause element for manslaughter.
+(c) Marlowe is not the proximate cause, because Greggs's voluntary decision to enter the burning building was an independent intervening act that broke the chain.
+(d) Marlowe is not the proximate cause, because a collapsing roof beam is considered an act of nature that legally supersedes any initial human negligence.
+(e) Marlowe is not the proximate cause, because the specific manner of Greggs's death was not explicitly intended by Marlowe when he operated the warehouse.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct. Under the rescue doctrine (*Arzon*), it is highly foreseeable that an inspector or first responder will attempt to rescue individuals from a massive fire, making their intervention a dependent intervening cause that does not sever proximate cause. (b) is wrong because legal cause is an independent normative filter beyond mere factual but-for causation. (c) is wrong because foreseeable rescues are treated as dependent, not independent, intervening acts. (d) is wrong because a collapsing roof is a direct physical consequence of the fire, not an unforeseeable act of nature. (e) is wrong because proximate cause requires only that the general type of harm be foreseeable, not that the specific manner of death was explicitly intended.
+
+**Tags:** chapters: [8], topics: [proximate causation, dependent intervening cause, foreseeability], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 8: Causation; sufficiently-direct-cause-standard
+
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
+-->

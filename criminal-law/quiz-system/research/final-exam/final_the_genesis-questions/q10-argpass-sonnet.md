@@ -1,0 +1,33 @@
+**Q10.** Avon is indicted under RICO for conducting a pattern of racketeering activity. The indictment names "Barksdale Logistics Corp." as the enterprise. Avon moves to dismiss the RICO charges, arguing that a legitimate corporate entity cannot constitute a criminal enterprise. How should the court rule?
+
+(a) Dismiss the charges, because the RICO statute was designed exclusively to target informal, unwritten associations-in-fact rather than formally registered, legitimate corporate entities.
+(b) Dismiss the charges, because a corporation cannot serve as a criminal enterprise unless it was originally incorporated for the specific purpose of committing financial crimes.
+(c) Uphold the charges, because RICO expressly provides that any legally registered corporate entity can seamlessly serve as the enterprise through which illicit affairs are conducted. <!-- correct -->
+(d) Uphold the charges, because the federal "hub-and-spoke" doctrine dictates that any corporate business with a regional manager automatically qualifies as a targeted criminal enterprise.
+(e) Uphold the charges, because the *Salinas* rule states that corporate executives are absolutely strictly liable for the racketeering acts committed by their subordinate regional employees.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct. RICO broadly defines an "enterprise" to include any individual, partnership, corporation, association, or other legal entity. A legitimate, registered corporation perfectly satisfies this statutory requirement. (a) is wrong because RICO was explicitly designed to infiltrate and dismantle criminal activity operating through both formal legitimate businesses and informal associations-in-fact. (b) is wrong because a legitimate business can be co-opted and serve as a RICO enterprise even if it was legally incorporated for lawful purposes. (d) is wrong because the "hub-and-spoke" doctrine relates to the structure of conspiracy agreements (*Kotteakos*), not the statutory definition of a RICO enterprise. (e) is wrong because the *Salinas* rule states that a conspirator need not personally commit predicate acts, not that executives are strictly liable for all employee racketeering.
+
+**Tags:** chapters: [20], topics: [RICO, enterprise liability, corporate enterprise], difficulty: easy, cognitive: recall
+
+**Grounding:** Chapter 20: RICO and Enterprise Liability; corporate-enterprise
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: A student could argue that RICO was enacted to target organized crime families that operate entirely outside the law, rather than formal, state-registered corporations. Since corporations are already heavily regulated by state corporate law, the student might assume the statute was intended exclusively to target informal, unwritten associations-in-fact like mafia syndicates. Thus, an indictment naming a legitimate corporation as the enterprise would warrant dismissal.
+(b) Argument-for: A student might reason that to cleanly separate legitimate business operations from racketeering, a corporation itself cannot be the enterprise unless it is a complete sham entity. Under this view, unless the corporation was originally incorporated for the specific purpose of committing crimes, it cannot serve as the criminal enterprise. This logic appeals to a desire to prevent every company with a rogue employee from being labeled a RICO enterprise.
+(c) Argument-for: A student would rely on the explicit statutory text of RICO, 18 U.S.C. § 1961(4), which defines "enterprise" to include any "corporation." Furthermore, in *United States v. Turkette*, the Supreme Court clarified that RICO targets both legitimate and illegitimate enterprises. Therefore, a legally registered corporate entity can seamlessly serve as the enterprise through which a pattern of racketeering is conducted, making the motion to dismiss legally baseless.
+(d) Argument-for: A student might recall the "hub-and-spoke" conspiracy model from *Kotteakos* and conflate it with the structural requirements of a RICO enterprise. They could argue that a corporate business with a regional manager naturally forms a hub-and-spoke hierarchy, meaning it automatically qualifies as a targeted criminal enterprise under federal law. This structural feature would therefore justify upholding the charges.
+(e) Argument-for: A student might invoke *Salinas v. United States*, which held that a RICO conspirator does not need to personally commit the predicate acts. The student could incorrectly extrapolate this holding to mean that corporate executives are strictly liable for the racketeering acts committed by subordinate regional employees. Under this absolute liability theory, the corporate enterprise indictment would be upheld.
+
+Head-to-head: Option (c) is the correct answer because it accurately reflects the statutory definition of a RICO enterprise, which expressly includes corporations. The distractors are comprehensively locked with false absolute claims. Option (a) incorrectly claims RICO "exclusively" targets unwritten associations. Option (b) invents a requirement that the corporation be "originally incorporated for the specific purpose" of crimes. Option (d) misapplies the hub-and-spoke doctrine, claiming a regional manager "automatically qualifies" a business as an enterprise. Option (e) misstates the *Salinas* rule, falsely asserting that executives are "absolutely strictly liable." Each distractor easily fails the close-call standard by offering clear, falsifiable errors.
+
+Falsifiable claim per distractor:
+- (a): "designed exclusively to target informal, unwritten associations-in-fact" — wrong because 18 U.S.C. § 1961(4) explicitly includes any "corporation" and *Turkette* confirmed RICO targets legitimate entities as well.
+- (b): "unless it was originally incorporated for the specific purpose of committing financial crimes" — wrong because legitimate businesses incorporated for entirely lawful purposes can later be infiltrated or utilized as a RICO enterprise.
+- (d): "any corporate business with a regional manager automatically qualifies" — wrong because having a regional manager does not satisfy the enterprise requirement automatically; the hub-and-spoke doctrine concerns conspiracy structures, not the statutory definition of an enterprise.
+- (e): "corporate executives are absolutely strictly liable" — wrong because *Salinas* merely held that a RICO conspirator need not personally commit two predicate acts, not that executives bear strict liability for all subordinate racketeering.
+
+Recommended fix: none
+-->
