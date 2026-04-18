@@ -1,0 +1,33 @@
+**Q1.** The DA intends to charge Alex and Blake under RICO, alleging that "The Vault" constitutes a racketeering enterprise. The defense argues that their two-person operation lacks the formal structure required for an enterprise. How should the court rule?
+
+(a) Enterprise, because their ongoing association and mutual coordination of weekly deliveries satisfies the legal requirement for an association in fact. <!-- correct -->
+(b) Not an enterprise, because an association of only two people cannot legally constitute a continuing unit for purposes of a racketeering enterprise.
+(c) Not an enterprise, because their informal drug distribution ring lacks the formalized hierarchy and command structure required by the RICO statute.
+(d) Enterprise, because the statutory definition is automatically satisfied whenever two or more individuals commit predicate acts of drug distribution.
+(e) Not an enterprise, because moving fentanyl on a weekly basis fails to establish the necessary impact on interstate commerce required by law.
+
+**Answer:** (a)
+
+**Explanation:** An enterprise under RICO does not require a formal business structure, hierarchy, or legal entity. Under *Boyle*, an "association in fact" requires only a purpose, relationships among those associated, and sufficient longevity to pursue that purpose. The Vault's weekly operations over two years easily meet this standard. (b) is wrong because an enterprise can consist of just two people. (c) is wrong because the Supreme Court explicitly rejected the requirement of a formalized hierarchy or command structure in *Boyle*. (d) is wrong because an enterprise must have an existence separate from the pattern of racketeering activity itself, though the evidence may overlap. (e) is wrong because weekly narcotics distribution inherently affects interstate commerce.
+
+**Tags:** chapters: [20], topics: [rico-enterprise], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 20 (RICO and Enterprise Liability) - *Boyle v. United States* three-part test for an association-in-fact enterprise.
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under *Boyle v. United States*, an "association-in-fact" enterprise requires only a shared purpose, relationships among the associates, and sufficient longevity to permit them to pursue the enterprise's purpose. Alex and Blake's ongoing association and mutual coordination demonstrate a continuing unit with a shared purpose of drug distribution. Because no formal business structure or legal entity is needed, the court should correctly rule that their operation satisfies the enterprise element.
+(b) Argument-for: A student might argue that RICO's definition of enterprise targets organized crime syndicates, which inherently require a collective entity distinct from a mere partnership of two individuals. If two individuals acting together automatically formed an enterprise, the distinction between a simple conspiracy and a RICO enterprise would collapse. Therefore, a student could conclude that a two-person operation lacks the minimum numerosity to constitute a "continuing unit" under RICO.
+(c) Argument-for: A student could rely on the textual and historical context of RICO, which was designed to combat the Mafia and similarly structured syndicates. To distinguish a RICO enterprise from a run-of-the-mill conspiracy, an organization must possess some ascertainable structure, such as a chain of command or division of labor. Because "The Vault" is an informal ring lacking any formalized hierarchy, a student could reasonably argue it fails to meet the statutory threshold.
+(d) Argument-for: Following *United States v. Turkette*, the evidence used to prove the enterprise and the pattern of racketeering activity often coalesce. Because Alex and Blake are mutually committing predicate acts of drug distribution, their concerted activity itself forms the enterprise. A student could argue that whenever individuals join together to commit continuous predicate offenses, the enterprise element is automatically satisfied by the commission of those acts.
+(e) Argument-for: RICO requires that the enterprise be engaged in, or its activities affect, interstate or foreign commerce. A student could argue that merely moving fentanyl locally on a weekly basis, without explicit facts showing the drugs or the actors crossed state lines, represents purely intrastate activity. Therefore, without a proven nexus to interstate commerce, the operation categorically fails to establish the jurisdictional hook required for a federal RICO prosecution.
+
+Head-to-head: Option (a) correctly applies the *Boyle* test, identifying that informal coordination is sufficient for an association-in-fact enterprise. Option (b) fails because it asserts a legally false numerosity threshold; two people can form an enterprise. Option (c) fails because it introduces an explicit requirement (formalized hierarchy) that the Supreme Court expressly rejected in *Boyle*. Option (d) fails because it conflates the enterprise with the pattern of racketeering activity, falsely claiming the former is "automatically satisfied" by the latter, violating *Turkette*'s holding that they are separate elements. Option (e) fails because federal law firmly establishes that local drug trafficking satisfies the interstate commerce element, making the claim that it "fails to establish" the impact legally false. All distractors contain perfectly falsifiable absolute claims.
+
+Falsifiable claim per distractor:
+- (b): "cannot legally constitute a continuing unit" — wrong because an association of two people is legally sufficient to form a RICO enterprise.
+- (c): "formalized hierarchy and command structure required by the RICO statute" — wrong because *Boyle v. United States* explicitly held that an association-in-fact enterprise does not require a formalized hierarchy or command structure.
+- (d): "automatically satisfied whenever two or more individuals commit predicate acts" — wrong because the enterprise is an entity separate and apart from the pattern of activity, and committing predicate acts together does not automatically create an enterprise in law.
+- (e): "fails to establish the necessary impact on interstate commerce required by law" — wrong because the distribution of illicit drugs like fentanyl categorically satisfies the de minimis interstate commerce nexus required by federal law.
+
+Recommended fix: none
+-->

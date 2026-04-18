@@ -1,0 +1,33 @@
+**Q8.** Assume Blake asserts self-defense to the intentional homicide charge. He argues his use of deadly force was justified because Chris shouted a death threat and reached into his jacket. The prosecution counters that Chris was actually unarmed. How does the objective reasonableness standard apply?
+
+(a) Justified in using deadly force, because a reasonable person facing a verbal death threat and a sudden reach into a jacket would perceive an imminent threat of deadly harm. <!-- correct -->
+(b) Not justified in using deadly force, because the objective standard requires the victim to actually possess a weapon before the defendant's belief can be deemed reasonable.
+(c) Justified in using deadly force, because a purely subjective standard applies, meaning Blake's personal fear of Chris automatically validates his decision to shoot.
+(d) Not justified in using deadly force, because an unarmed victim is legally incapable of presenting an imminent threat of death or serious bodily injury.
+(e) Justified in using deadly force, because the initial aggressor doctrine permits the victim of a physical shove to immediately respond with proportional deadly physical force.
+
+**Answer:** (a)
+
+**Explanation:** Self-defense requires a reasonable belief that deadly force is necessary to prevent imminent death or serious bodily injury. The objective standard assesses what a reasonable person in the defendant's situation would perceive. An attacker screaming a death threat while aggressively reaching into a jacket provides objectively reasonable grounds to fear an imminent shooting, even if the attacker turns out to be unarmed. (b) is wrong because reasonableness does not demand retrospective perfection; a reasonable mistake of fact is permitted. (c) is wrong because self-defense requires an objective element of reasonableness, not merely subjective fear (*Goetz*). (d) is wrong because an unarmed person can still present an apparent deadly threat (e.g., reaching for a simulated weapon) that justifies defense. (e) is wrong because responding to a non-deadly shove with a firearm is a disproportionate use of force.
+
+**Tags:** chapters: [22], topics: [objective-reasonableness-standard], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 22 (Self-Defense) - Objective reasonableness standard and apparent necessity.
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: Under the doctrine of apparent necessity, a defendant may use deadly force if a reasonable person in their shoes would perceive an imminent threat of death or serious bodily harm, even if the threat turns out to be illusory. A shouted death threat coupled with a sudden reach into a jacket creates an objectively reasonable belief that the person is drawing a concealed firearm. Therefore, Blake's use of deadly force is legally justified despite Chris being unarmed.
+(b) Argument-for: A student could argue that the "objective" part of the objective reasonableness standard demands actual, factual necessity rather than merely subjective perception. If the victim is unarmed, there is objectively no deadly threat present in reality. Thus, the use of deadly force against an unarmed person is objectively unreasonable, making this option technically correct under a strict interpretation of objective facts.
+(c) Argument-for: A student might argue this is correct under jurisdictions adopting a subjective approach to self-defense. If Blake genuinely feared for his life, his subjective belief validates his actions and negates the intentional homicide charge. Thus, the mere presence of actual personal fear is legally sufficient to justify the shooting regardless of what a hypothetical reasonable person would think.
+(d) Argument-for: A student could contend that as a matter of law, a bare-handed, unarmed individual cannot inflict death or serious bodily injury in a standard altercation. Without an actual weapon, the threshold for facing "deadly force" cannot be met by the aggressor. Consequently, an unarmed victim is categorically incapable of presenting the required level of threat to justify a deadly response.
+(e) Argument-for: If one infers that the altercation involved a physical confrontation prior to the threat, the initial aggressor doctrine comes into play. A student could argue that a shove escalates the encounter, thereby granting the defendant the right to respond with force. The phrase "proportional deadly physical force" would be seen as legally justifying the response to the aggressor's initial escalation and subsequent threat.
+
+Head-to-head: Option (a) correctly states the legal reality of the objective reasonableness standard and apparent necessity: a reasonable mistake of fact does not void self-defense. The distractors fail due to explicitly false categorical legal claims. Option (b) mistakenly asserts that actual possession of a weapon is legally required for reasonableness, negating the doctrine of apparent necessity. Option (c) wrongly claims a "purely subjective standard" "automatically validates" the decision, ignoring the objective component of common law (and the MPC's carve-outs for reckless/negligent beliefs). Option (d) presents a false absolute by stating an unarmed victim is "legally incapable" of presenting a deadly threat. Option (e) relies on a factual hallucination (a shove) and pairs it with the legally contradictory phrase "proportional deadly physical force" in response to a non-deadly shove.
+
+Falsifiable claim per distractor:
+- (b): "requires the victim to actually possess a weapon" — wrong because self-defense allows for a reasonable mistake of fact (apparent necessity) even if the victim is unarmed.
+- (c): "a purely subjective standard applies, meaning Blake's personal fear of Chris automatically validates" — wrong because self-defense generally requires an objectively reasonable belief, and even subjective jurisdictions do not automatically validate actions if the belief is reckless or negligent.
+- (d): "an unarmed victim is legally incapable of presenting an imminent threat" — wrong because an unarmed person can present an apparent deadly threat (e.g., reaching into a jacket) or an actual deadly threat (e.g., severe size disparity or martial arts training).
+- (e): "permits the victim of a physical shove to immediately respond with proportional deadly physical force" — wrong because a shove is non-deadly force, making deadly force inherently disproportionate, and it assumes facts not in the prompt.
+
+Recommended fix: none
+-->

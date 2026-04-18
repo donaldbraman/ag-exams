@@ -1,0 +1,37 @@
+**Q7.** Assume that, instead of intentional murder, Blake is charged with felony murder predicated on the underlying felony of drug distribution. Blake argues the felony-murder charge is barred by the merger doctrine. How should the court rule?
+
+(a) The charge is not barred, because the felony of distributing narcotics has an independent collateral purpose distinct from causing physical injury to the victim. <!-- correct -->
+(b) The charge is barred, because the confrontation immediately preceding the shooting was an assaultive act that legally merges with the resulting homicide.
+(c) The charge is not barred, because the merger doctrine only applies to strict liability offenses and cannot be invoked when an intentional felony is charged.
+(d) The charge is barred, because drug distribution is a non-violent property offense that lacks the inherent dangerousness required to support a felony murder charge.
+(e) The charge is not barred, because any underlying felony committed with a deadly weapon automatically escapes the merger doctrine's legal limitations.
+
+**Answer:** (a)
+
+**Explanation:** The merger doctrine (or independent felony rule) prevents the application of felony murder when the underlying felony is assaultive in nature and integral to the homicide (e.g., aggravated assault). However, if the felony has an independent collateral purpose—such as robbery, rape, or drug distribution—it does not merge and can serve as a valid predicate for felony murder. (b) is wrong because the predicate felony is the drug distribution, not the immediate assaultive confrontation. (c) is wrong because the merger doctrine regularly applies to intentional assaultive felonies. (d) is wrong because drug distribution is widely recognized as inherently dangerous and serves as a valid predicate for felony murder in many jurisdictions. (e) is wrong because using a deadly weapon during an assault does not prevent the assault from merging with the homicide.
+
+**Tags:** chapters: [14], topics: [merger-independent-purpose], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 14 (Felony Murder and Misdemeanor Manslaughter) - The merger doctrine and independent collateral purpose exception.
+
+<!-- argument-pass: CLEAN
+(a) Argument-for: The merger doctrine, as established in cases like *People v. Ireland*, prevents the prosecution from using a felony that is "integral to" the homicide to support a felony murder charge. However, the "independent collateral purpose" test creates an exception: if the underlying felony is committed with an objective other than the assault itself, it does not merge. Drug distribution has the independent purpose of exchanging illicit substances for value, which is distinct from the intent to inflict physical injury. Therefore, the distribution charge remains a valid predicate for felony murder because it is not an assault-based crime that merges into the death.
+
+(b) Argument-for: A court following a broad interpretation of the merger doctrine might look at the "integral part" of the transaction rather than the abstract elements of the crime. If the fatal shooting was the immediate result of an assaultive confrontation that occurred during the drug deal, the "assaultive" nature of the defendant's conduct is what caused the death. Under this view, when the underlying felony and the homicide are part of one continuous, violent transaction, the underlying act merges into the homicide. Thus, the court would bar the felony murder charge to prevent the "bootstrapping" of a homicide into murder using an act that was essentially a lethal assault.
+
+(c) Argument-for: One could argue that the merger doctrine is a narrow tool designed solely to prevent the felony murder rule from effectively eliminating the requirement of malice in cases of unintentional homicide caused by regulatory or strict liability violations. If the predicate felony is an intentional crime—like drug distribution, which requires the specific intent to distribute—the concerns regarding the "merger" of unintentional acts are not present. Under this theory, any intentional felony with a distinct mens rea would be exempt from the merger doctrine, which would apply exclusively to non-intentional or strict liability offenses.
+
+(d) Argument-for: The felony murder rule generally requires that the predicate felony be "inherently dangerous to human life." In jurisdictions that categorize drug distribution as an economic or regulatory crime rather than a violent one, the felony cannot serve as a predicate for murder. If the court views drug distribution as a non-violent property-adjacent offense, it lacks the necessary element of inherent danger to support the charge. In this sense, the charge is "barred" because the nature of the felony fails the threshold test required to apply the felony murder rule in the first place.
+
+(e) Argument-for: Some legal frameworks suggest that the use of a deadly weapon during the commission of a felony fundamentally changes the nature of the crime, elevating it to a level of dangerousness that justifies the application of the felony murder rule regardless of merger concerns. By introducing a weapon, the defendant creates a "new" risk of death that is independent of the underlying felony's elements. Thus, a court might hold that any felony involving a deadly weapon automatically bypasses the merger doctrine's limitations because the weapon itself provides the necessary evidence of a dangerous, independent purpose.
+
+Head-to-head: (a) is the strongest answer because it accurately applies the "independent collateral purpose" test, which is the standard mechanism for overcoming a merger challenge in drug-related felony murders. (b) is plausible in a "transactional" jurisdiction, but the prompt specifies the predicate is the distribution, not the assault. (c), (d), and (e) all rely on absolute legal claims that are factually or doctrinally incorrect. (c) incorrectly limits merger to strict liability, whereas it primarily applies to intentional assaults. (d) incorrectly labels drug distribution a "property offense" and claims it is "non-violent," whereas many jurisdictions classify it as inherently dangerous. (e) creates an "automatic" rule for deadly weapons that does not exist in merger doctrine; in fact, the use of a weapon often solidifies the "assaultive" nature of a crime, making merger more likely, not less.
+
+Falsifiable claim per distractor:
+- (b): "legally merges with the resulting homicide" — wrong because drug distribution is a non-assaultive felony with an independent collateral purpose, which precludes merger under the *Ireland* standard.
+- (c): "merger doctrine only applies to strict liability offenses" — wrong because the doctrine was specifically developed for, and is most commonly applied to, intentional assaultive felonies like aggravated assault.
+- (d): "drug distribution is a non-violent property offense" — wrong because drug distribution is typically classified as a crime against public health and safety, and in felony-murder contexts, it is frequently adjudicated as an inherently dangerous felony.
+- (e): "automatically escapes the merger doctrine's legal limitations" — wrong because there is no rule that the use of a deadly weapon "automatically" bypasses merger; in many cases, use of a weapon is what makes a underlying felony (like assault) merge with the homicide.
+
+Recommended fix: none
+-->
