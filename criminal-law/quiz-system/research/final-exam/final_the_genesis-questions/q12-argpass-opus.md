@@ -1,4 +1,4 @@
-**Q12.** Police charge Avon with possession of the drugs found in the wall safe in his personal office. Avon claims he hasn't opened the safe in months. Under the doctrine of constructive possession, will this charge likely succeed?
+**Q12.** Police charge Avon with possession of the drugs found in the wall safe in his personal office. Assume it is established as fact that Avon hasn't opened the safe in months. Under the doctrine of constructive possession, will this charge likely succeed?
 
 (a) Yes, because constructive possession automatically applies to all illegal items found anywhere within a corporate headquarters.
 (b) Yes, because his exclusive control over the safe's code gives him the power and intention to exercise control over its contents. <!-- correct -->

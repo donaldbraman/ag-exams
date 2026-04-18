@@ -1,4 +1,4 @@
-**Q1.** Wallace is charged with starting the chemical fire. He argues that he did not perform a voluntary act because his body was involuntarily convulsing during a seizure when he knocked the vat over. Under the time-framing doctrine, how should the court rule?
+**Q1.** Wallace is charged with starting the chemical fire. If he proves his body was involuntarily convulsing during a seizure when he knocked the vat over, how should the court rule under the time-framing doctrine?
 
 (a) The voluntary act requirement is satisfied because Wallace's prior conscious choice to mix the chemicals despite the doctor's specific warning foreseeably created the danger. <!-- correct -->
 (b) The voluntary act requirement is not satisfied because the specific bodily movement of knocking over the vat was not the product of his conscious effort.

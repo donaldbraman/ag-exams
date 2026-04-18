@@ -222,7 +222,7 @@ e. Not guilty of attempt because attempt liability requires the actual productio
 
 ---
 
-**Q11.** Assume Benny is charged with the unpermitted ether storage violation committed by Albert. Benny argues he had no knowledge of how much ether Albert was storing and never visited the lab. Which is the most likely legal conclusion regarding Benny's liability?
+**Q11.** Assume Benny is charged with the unpermitted ether storage violation committed by Albert. If Benny proves he had no knowledge of how much ether Albert was storing and never visited the lab, which is the most likely legal conclusion regarding Benny's liability?
 
 a. Not guilty under Pinkerton because Benny's role was strictly limited to downstream street distribution rather than upstream chemical procurement.
 b. Guilty under Pinkerton because strict liability public welfare offenses are the only crimes that automatically extend to all unindicted co-conspirators.
@@ -254,7 +254,7 @@ e. Not guilty of constructive possession because the state cannot prove Benny ha
 
 ---
 
-**Q13.** Assume Benny asserts a self-defense claim for shooting Slash. The jurisdiction enforces a duty to retreat before using deadly force if a safe retreat is available. Benny argues Slash threatened him with a machete. Which is the most likely legal conclusion?
+**Q13.** Assume Benny asserts a self-defense claim for shooting Slash. The jurisdiction enforces a duty to retreat before using deadly force if a safe retreat is available. If Benny successfully proves Slash threatened him with a machete, which is the most likely legal conclusion?
 
 a. Invalid defense because a handgun constitutes disproportionate and excessive force when defending against a bladed weapon like a machete.
 b. Invalid defense because Benny failed to utilize the open ground-floor window, violating his statutory duty to retreat before employing lethal force. <!-- correct -->
@@ -614,7 +614,7 @@ e. Deny the motion, because Vance, as the sole mastermind of the drug routing, f
 
 ---
 
-**Q32.** Assume Apex Freight constitutes a valid enterprise. The government charges Thorne with conspiracy to distribute narcotics. Thorne argues he lacked the intent to agree to a criminal scheme because his subjective motivation was simply paying off his mortgage, and he genuinely despised the drug trade. Is Thorne's argument likely to succeed?
+**Q32.** Assume Apex Freight constitutes a valid enterprise. The government charges Thorne with conspiracy to distribute narcotics. If Thorne successfully establishes his subjective motivation was simply paying off his mortgage and he genuinely despised the drug trade, is his argument likely to succeed?
 
 a. No, because his receipt of a twenty percent salary bump demonstrates a financial stake in the venture, allowing the jury to infer his intent to agree. <!-- correct -->
 b. Yes, because his genuine personal hatred of the drug trade definitively negates the specific intent required to form a criminal conspiratorial agreement.
@@ -662,7 +662,7 @@ e. Conviction, because relying on a state probation officer's statement is funda
 
 ---
 
-**Q35.** Assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. Locke argues he should only be sentenced based on oxycodone, since he genuinely and reasonably believed the crates contained black-market oxycodone. Is his sentencing argument valid?
+**Q35.** Assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. If Locke proves he genuinely and reasonably believed the crates contained black-market oxycodone, is his sentencing argument valid?
 
 a. Yes, because the mistake of fact doctrine allows defendants to be sentenced solely for the lesser crime they subjectively intended to commit.
 b. No, because knowledge of the substance's general nature as a controlled drug is sufficient, and the weight-based minimum applies strictly to the actual substance. <!-- correct -->
@@ -714,7 +714,7 @@ e. No, because the initial aggressor rule completely bars any defendant particip
 
 ---
 
-**Q38.** Assume the prosecution pursues a depraved heart (extreme indifference) murder charge against Locke for the clerk's death. Locke argues that because he only fired to scare the hijackers and did not subjectively intend to kill the clerk, he cannot be convicted of murder. Is Locke's legal argument correct?
+**Q38.** Assume the prosecution pursues a depraved heart (extreme indifference) murder charge against Locke for the clerk's death. If the jury believes Locke only fired to scare the hijackers and did not subjectively intend to kill the clerk, is his legal argument correct?
 
 a. No, because the transferred intent doctrine perfectly transfers his intent to scare the hijackers into the specific intent to premeditate the clerk's murder.
 b. No, because the felony murder rule automatically converts any accidental death occurring during a commercial delivery route into first-degree intentional murder.
@@ -782,7 +782,7 @@ e. He is guilty under the MPC but not the Common Law, because his acts strongly 
 
 ---
 
-**Q42.** Assume the jurisdiction applies the MPC. Locke argues that even if his actions constituted a substantial step toward robbing the safe, he is entitled to the affirmative defense of abandonment because he texted his crew "I'm out" and threw his ski mask away before the robbery occurred. Will Locke's abandonment defense succeed?
+**Q42.** Assume the jurisdiction applies the MPC. If Locke proves he texted his crew "I'm out" and threw his ski mask away before the robbery occurred, will his affirmative defense of abandonment succeed?
 
 a. Yes, because the MPC requires courts to dismiss any attempt charge if the defendant physically destroys the criminal instrumentalities before the police arrive.
 b. No, because the abandonment defense is strictly unavailable for any crime involving an organized conspiracy or the participation of multiple co-defendants.
@@ -949,7 +949,7 @@ e. Not guilty, because the Model Penal Code rejects the misdemeanor manslaughter
 
 "Now that we've mapped the homicides, we need to secure the underlying drug, conspiracy, and attempt charges. We have financial evidence linking Sloane to the operation, and drug evidence from Trey's arrest. Analyze the conspiracy and accomplice liability for Sloane, attempt liability for Trey, and whether we can charge the whole network under RICO."
 
-**Q50.** Assume Sloane is charged with conspiracy to distribute fentanyl. She claims she was merely a chemist providing a neutral service, not a conspirator. Under the *Lauria* standard for inferring purpose, does her compensation structure establish the requisite intent?
+**Q50.** Assume Sloane is charged with conspiracy to distribute fentanyl. Assume she proves she subjectively viewed herself as merely a chemist providing a neutral service. Under the *Lauria* standard for inferring purpose, does her compensation structure establish the requisite intent?
 
 a. Yes, because taking a 20% cut of the profits inherently demonstrates a direct financial stake in the illicit venture's ongoing success. <!-- correct -->
 b. No, because receiving a percentage of overall profits is legally indistinguishable from charging a flat, standardized fee for her labor.

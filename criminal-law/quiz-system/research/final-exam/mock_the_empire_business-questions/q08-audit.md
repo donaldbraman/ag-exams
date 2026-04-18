@@ -1,4 +1,4 @@
-**Q8.** Assume the prosecution pursues a depraved heart (extreme indifference) murder charge against Locke for the clerk's death. Locke argues that because he only fired to scare the hijackers and did not subjectively intend to kill the clerk, he cannot be convicted of murder. Is Locke's legal argument correct?
+**Q8.** Assume the prosecution pursues a depraved heart (extreme indifference) murder charge against Locke for the clerk's death. If the jury believes Locke only fired to scare the hijackers and did not subjectively intend to kill the clerk, is his legal argument correct?
 
 (a) Yes, because depraved heart murder strictly requires the prosecution to prove the defendant acted with the conscious purpose of killing a specific human being.
 (b) Yes, because firing a weapon strictly to scare attackers is a legally recognized mitigating circumstance that automatically reduces any resulting death to manslaughter.

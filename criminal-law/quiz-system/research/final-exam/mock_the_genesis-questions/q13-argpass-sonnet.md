@@ -1,4 +1,4 @@
-**Q13.** Assume Benny asserts a self-defense claim for shooting Slash. The jurisdiction enforces a duty to retreat before using deadly force if a safe retreat is available. Benny argues Slash threatened him with a machete. Which is the most likely legal conclusion?
+**Q13.** Assume Benny asserts a self-defense claim for shooting Slash. The jurisdiction enforces a duty to retreat before using deadly force if a safe retreat is available. If Benny successfully proves Slash threatened him with a machete, which is the most likely legal conclusion?
 
 (a) Valid defense because the Castle Doctrine universally abolishes the duty to retreat for anyone physically inside a residential structure regardless of ownership.
 (b) Valid defense because Slash's threat to chop off Benny's head created a subjective fear of imminent death, which automatically overrides retreat requirements.

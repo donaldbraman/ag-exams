@@ -16,7 +16,7 @@
 
 ---
 
-**Q2.** Assume Apex Freight constitutes a valid enterprise. The government charges Thorne with conspiracy to distribute narcotics. Thorne argues he lacked the intent to agree to a criminal scheme because his subjective motivation was simply paying off his mortgage, and he genuinely despised the drug trade. Is Thorne's argument likely to succeed?
+**Q2.** Assume Apex Freight constitutes a valid enterprise. The government charges Thorne with conspiracy to distribute narcotics. If Thorne successfully establishes his subjective motivation was simply paying off his mortgage and he genuinely despised the drug trade, is his argument likely to succeed?
 
 (a) Yes, because his genuine personal hatred of the drug trade definitively negates the specific intent required to form a criminal conspiratorial agreement.
 (b) Yes, because paying off a legal mortgage is a lawful motive, which overrides his secondary knowledge of Vance's illicit narcotics distribution.
@@ -70,7 +70,7 @@
 
 ---
 
-**Q5.** Assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. Locke argues he should only be sentenced based on oxycodone, since he genuinely and reasonably believed the crates contained black-market oxycodone. Is his sentencing argument valid?
+**Q5.** Assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. If Locke proves he genuinely and reasonably believed the crates contained black-market oxycodone, is his sentencing argument valid?
 
 (a) Yes, because the mistake of fact doctrine allows defendants to be sentenced solely for the lesser crime they subjectively intended to commit.
 (b) Yes, because imposing a mandatory minimum based on the hidden presence of fentanyl violates the constitutional presumption against strict liability.
@@ -128,7 +128,7 @@ Local PD just forwarded us a homicide file that intersects with our Apex investi
 
 ---
 
-**Q8.** Assume the prosecution pursues a depraved heart (extreme indifference) murder charge against Locke for the clerk's death. Locke argues that because he only fired to scare the hijackers and did not subjectively intend to kill the clerk, he cannot be convicted of murder. Is Locke's legal argument correct?
+**Q8.** Assume the prosecution pursues a depraved heart (extreme indifference) murder charge against Locke for the clerk's death. If the jury believes Locke only fired to scare the hijackers and did not subjectively intend to kill the clerk, is his legal argument correct?
 
 (a) Yes, because depraved heart murder strictly requires the prosecution to prove the defendant acted with the conscious purpose of killing a specific human being.
 (b) Yes, because firing a weapon strictly to scare attackers is a legally recognized mitigating circumstance that automatically reduces any resulting death to manslaughter.
@@ -204,7 +204,7 @@ We executed a search warrant on the Apex warehouse last night. We found Locke's 
 
 ---
 
-**Q12.** Assume the jurisdiction applies the MPC. Locke argues that even if his actions constituted a substantial step toward robbing the safe, he is entitled to the affirmative defense of abandonment because he texted his crew "I'm out" and threw his ski mask away before the robbery occurred. Will Locke's abandonment defense succeed?
+**Q12.** Assume the jurisdiction applies the MPC. If Locke proves he texted his crew "I'm out" and threw his ski mask away before the robbery occurred, will his affirmative defense of abandonment succeed?
 
 (a) Yes, because texting "I'm out" and discarding his mask definitively proves he permanently and completely renounced his criminal purpose without external pressure.
 (b) Yes, because the MPC requires courts to dismiss any attempt charge if the defendant physically destroys the criminal instrumentalities before the police arrive.

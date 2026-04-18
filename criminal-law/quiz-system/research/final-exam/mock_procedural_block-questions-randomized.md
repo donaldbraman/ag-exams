@@ -214,7 +214,7 @@
 
 ---
 
-**Q13.** Senator Vance is investigated under federal anti-corruption statutes for accepting the $20,000 cash payment. Vance claims the money was merely a campaign contribution given as a "gratuity" for his general support of criminal justice reform. Under the federal framework articulated in *Snyder v. United States*, does this transaction constitute a bribe rather than a gratuity?
+**Q13.** Senator Vance is investigated under federal anti-corruption statutes for accepting the $20,000 cash payment. If Vance proves the money was given purely as a "gratuity" for his general support of criminal justice reform after the fact, under the federal framework articulated in *Snyder v. United States*, does this transaction constitute a bribe rather than a gratuity?
 
 (a) No, because a gratuity is defined as any payment over $10,000, while bribes only apply to smaller, less visible financial transactions.
 (b) No, because federal corruption statutes solely regulate state and local executive officials, making state senators inherently immune from prosecution.

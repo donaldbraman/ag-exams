@@ -178,7 +178,7 @@
 
 ---
 
-**Q11.** Assume Benny is charged with the unpermitted ether storage violation committed by Albert. Benny argues he had no knowledge of how much ether Albert was storing and never visited the lab. Which is the most likely legal conclusion regarding Benny's liability?
+**Q11.** Assume Benny is charged with the unpermitted ether storage violation committed by Albert. If Benny proves he had no knowledge of how much ether Albert was storing and never visited the lab, which is the most likely legal conclusion regarding Benny's liability?
 
 (a) Not guilty under Pinkerton because Benny's role was strictly limited to downstream street distribution rather than upstream chemical procurement.
 (b) Guilty under Pinkerton because strict liability public welfare offenses are the only crimes that automatically extend to all unindicted co-conspirators.
@@ -214,7 +214,7 @@
 
 ---
 
-**Q13.** Assume Benny asserts a self-defense claim for shooting Slash. The jurisdiction enforces a duty to retreat before using deadly force if a safe retreat is available. Benny argues Slash threatened him with a machete. Which is the most likely legal conclusion?
+**Q13.** Assume Benny asserts a self-defense claim for shooting Slash. The jurisdiction enforces a duty to retreat before using deadly force if a safe retreat is available. If Benny successfully proves Slash threatened him with a machete, which is the most likely legal conclusion?
 
 (a) Invalid defense because a handgun constitutes disproportionate and excessive force when defending against a bladed weapon like a machete.
 (b) Invalid defense because Benny failed to utilize the open ground-floor window, violating his statutory duty to retreat before employing lethal force. <!-- correct -->

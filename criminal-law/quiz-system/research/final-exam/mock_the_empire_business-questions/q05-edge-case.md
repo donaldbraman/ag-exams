@@ -1,4 +1,4 @@
-**Q5.** Assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. Locke argues he should only be sentenced based on oxycodone, since he genuinely and reasonably believed the crates contained black-market oxycodone. Is his sentencing argument valid?
+**Q5.** Assume Locke is charged with possession with intent to distribute 400 grams of fentanyl, which carries a severe weight-based mandatory minimum sentence. If Locke proves he genuinely and reasonably believed the crates contained black-market oxycodone, is his sentencing argument valid?
 
 (a) Yes, because the mistake of fact doctrine allows defendants to be sentenced solely for the lesser crime they subjectively intended to commit.
 (b) Yes, because imposing a mandatory minimum based on the hidden presence of fentanyl violates the constitutional presumption against strict liability.

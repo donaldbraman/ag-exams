@@ -1,4 +1,4 @@
-**Q2.** Assume Apex Freight constitutes a valid enterprise. The government charges Thorne with conspiracy to distribute narcotics. Thorne argues he lacked the intent to agree to a criminal scheme because his subjective motivation was simply paying off his mortgage, and he genuinely despised the drug trade. Is Thorne's argument likely to succeed?
+**Q2.** Assume Apex Freight constitutes a valid enterprise. The government charges Thorne with conspiracy to distribute narcotics. If Thorne successfully establishes his subjective motivation was simply paying off his mortgage and he genuinely despised the drug trade, is his argument likely to succeed?
 
 (a) Yes, because his genuine personal hatred of the drug trade definitively negates the specific intent required to form a criminal conspiratorial agreement.
 (b) Yes, because paying off a legal mortgage is a lawful motive, which overrides his secondary knowledge of Vance's illicit narcotics distribution.

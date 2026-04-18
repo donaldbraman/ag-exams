@@ -1,4 +1,4 @@
-**Q1.** Wallace is charged with starting the chemical fire. He argues that he did not perform a voluntary act because his body was involuntarily convulsing during a seizure when he knocked the vat over. Under the time-framing doctrine, how should the court rule?
+**Q1.** Wallace is charged with starting the chemical fire. If he proves his body was involuntarily convulsing during a seizure when he knocked the vat over, how should the court rule under the time-framing doctrine?
 
 (a) The voluntary act requirement is satisfied because Wallace's prior conscious choice to mix the chemicals despite the doctor's specific warning foreseeably created the danger. <!-- correct -->
 (b) The voluntary act requirement is not satisfied because the specific bodily movement of knocking over the vat was not the product of his conscious effort.
@@ -124,7 +124,7 @@
 
 ---
 
-**Q8.** Avon is charged under the state's public welfare statute as a "responsible corporate officer" for the unregistered chemical storage. He argues he had no direct involvement in the warehouse operations and was unaware Marlowe stored chemicals there. Under the *Park* doctrine, is Avon guilty?
+**Q8.** Avon is charged under the state's public welfare statute as a "responsible corporate officer" for the unregistered chemical storage. If Avon establishes he had no direct involvement in the warehouse operations and was completely unaware Marlowe stored chemicals there, is he guilty under the *Park* doctrine?
 
 (a) Yes, because as CEO, Avon is strictly liable for any crime committed by a corporate employee, regardless of his authority over the specific activity.
 (b) Yes, because as CEO, Avon stood in a responsible relation to the violation and had the authority to implement systems to prevent it. <!-- correct -->
@@ -196,7 +196,7 @@
 
 ---
 
-**Q12.** Police charge Avon with possession of the drugs found in the wall safe in his personal office. Avon claims he hasn't opened the safe in months. Under the doctrine of constructive possession, will this charge likely succeed?
+**Q12.** Police charge Avon with possession of the drugs found in the wall safe in his personal office. Assume it is established as fact that Avon hasn't opened the safe in months. Under the doctrine of constructive possession, will this charge likely succeed?
 
 (a) Yes, because constructive possession automatically applies to all illegal items found anywhere within a corporate headquarters.
 (b) Yes, because his exclusive control over the safe's code gives him the power and intention to exercise control over its contents. <!-- correct -->

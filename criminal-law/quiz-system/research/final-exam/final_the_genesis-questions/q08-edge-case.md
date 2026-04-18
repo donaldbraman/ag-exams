@@ -1,4 +1,4 @@
-**Q8.** Avon is charged under the state's public welfare statute as a "responsible corporate officer" for the unregistered chemical storage. He argues he had no direct involvement in the warehouse operations and was unaware Marlowe stored chemicals there. Under the *Park* doctrine, is Avon guilty?
+**Q8.** Avon is charged under the state's public welfare statute as a "responsible corporate officer" for the unregistered chemical storage. If Avon establishes he had no direct involvement in the warehouse operations and was completely unaware Marlowe stored chemicals there, is he guilty under the *Park* doctrine?
 
 (a) Yes, because as CEO, Avon is strictly liable for any crime committed by a corporate employee, regardless of his authority over the specific activity.
 (b) Yes, because as CEO, Avon stood in a responsible relation to the violation and had the authority to implement systems to prevent it. <!-- correct -->
