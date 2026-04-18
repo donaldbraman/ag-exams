@@ -362,6 +362,11 @@ Do NOT wrap the entire output in JSON or Markdown code blocks. Just emit the raw
 
 **Count discipline**: produce one `---FILE: qNN.md---` block per stub in the scenario package. If the package lists 10 stubs, emit 10 question blocks and STOP.
 
+## Pedagogical Rules
+
+1. **Distractor Falsifiability:** Ensure every distractor contains an explicit, falsifiable legal error. Implicit omissions are not sufficient to make a distractor wrong.
+2. **Jurisdictional Rote Memorization (BANNED):** Do not require students to memorize which states or jurisdictions apply which specific doctrines (e.g., do not ask "What is the rule in California?"). Instead, explicitly provide the relevant jurisdictional rules or doctrines directly within the question stem (e.g., "Under the California approach (which recognizes X) versus the New York approach (which rejects X)"), and test the student's ability to logically apply those provided rules to the fact pattern.
+
 ## Per-Question Format Rules (applies to the `content` string)
 
 Each question's `content` string must contain exactly:
