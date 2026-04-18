@@ -4,28 +4,29 @@ The QA pipeline flagged this question. Rewrite `q11.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q11.** Assume Leo raises the insanity defense for shooting the watchman. Will Leo's psychotic break satisfy the first prong of the traditional M'Naghten test?
+**Q11.** Evaluate Leo's insanity defense under the traditional M'Naghten "nature and quality" prong.
 
-(a) Leo satisfies the first M'Naghten prong because his severe psychotic delusion prevented him from understanding the physical nature and quality of his act against a human being. <!-- correct -->
-(b) Leo satisfies the first M'Naghten prong because he subjectively lacked the substantial capacity to conform his conduct to the strict requirements of the criminal law.
-(c) Leo fails the first M'Naghten prong because he physically knew he was pulling the trigger of a firearm, which automatically defeats any cognitive incapacity claim.
-(d) Leo fails the first M'Naghten prong because his actions were partially motivated by an antisocial personality disorder, which completely forecloses the use of the insanity defense.
-(e) Leo fails the first M'Naghten prong because the standard only excuses defendants who are entirely incapable of forming the specific mens rea for the charged offense.
+(a) The defense succeeds because Leo lacked the substantial capacity to conform his physical conduct to the specific, objective requirements of the criminal law.
+(b) The defense fails because Leo still possessed the physical capacity to draw a weapon, correctly aim it, and intentionally pull the trigger to cause harm.
+(c) The defense succeeds because Leo's documented diagnosis of Antisocial Personality Disorder inherently satisfies the requirement for an actionable and severe mental defect.
+(d) The defense fails because the M'Naghten test exclusively asks whether the defendant fully knew the criminal act was either morally or legally wrong.
+(e) The defense succeeds because Leo's belief that he was shooting a non-human monster means he did not understand the physical nature and quality of his act. <!-- correct -->
 
-**Answer:** (a)
+**Answer:** (e)
 
-**Explanation:** (a) is correct. The first prong of the traditional M'Naghten test requires the defendant to prove that, due to mental disease, they did not know the "nature and quality" of their act. This evaluates profound cognitive impairment. Because Leo genuinely believed he was shooting a literal, non-human monster from hell, he lacked an understanding of the physical nature of his act (that he was killing a human being), satisfying the standard. (b) is wrong because "substantial capacity to conform conduct" defines the volitional prong of the Model Penal Code test, not the cognitive M'Naghten test. (c) is wrong because knowing the mechanical action of pulling a trigger is insufficient; the defendant must understand the nature of the target and the act's true consequences. (d) is wrong because the co-occurrence of APD does not automatically defeat the defense if the psychotic delusion actually caused the cognitive failure. (e) is wrong because insanity operates as an affirmative defense even when the basic mens rea (intent to shoot) is present.
+**Explanation:** The first prong of the traditional *M'Naghten* test asks whether, due to a mental disease or defect, the defendant did not know the nature and quality of their act. Because Leo genuinely believed he was shooting a "literal, non-human monster from hell" and was completely unaware he was interacting with a human being, he suffered from a cognitive breakdown regarding the physical reality of what he was doing, satisfying this prong. (a) is incorrect because it cites the MPC "conform conduct" volitional prong, not the cognitive *M'Naghten* test. (b) is incorrect because mechanical motor capacity is not the equivalent of cognitive understanding of the act's nature. (c) is incorrect because APD is statutorily excluded as a qualifying mental disease under nearly all insanity frameworks. (d) is incorrect because *M'Naghten* contains two disjunctive prongs: nature/quality *or* wrongness. Leo satisfies the first, so he does not need to rely on the second.
 
-**Tags:** chapters: [23], topics: [insanity, M'Naghten test, nature and quality], difficulty: medium, cognitive: application
-**Grounding:** Chapter 23, M'Naghten's Case
+**Tags:** chapters: [23], topics: [insanity, M'Naghten, cognitive capacity], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 23 - mnaghten-nature-quality
 
 <!-- audit: MUST FIX
-check 1: pass (Assuming the missing facts, (a) perfectly captures the nature and quality prong).
-check 2: pass (The distractors correctly test the boundaries of APD exclusions and the MPC volitional test, none of which are defensible as the correct answer).
-check 3: pass (The explanation correctly applies the doctrines and distinguishes the MPC from M'Naghten).
-check 4: MUST FIX (The question completely lacks the necessary fact pattern. The stem mentions "shooting the watchman", but the explanation relies on critical facts that are nowhere in the prompt: that Leo believed he was shooting a "literal, non-human monster from hell" and that his actions were "partially motivated by an antisocial personality disorder" as tested in D. Students cannot evaluate his cognitive state without these facts).
-check 5: pass (Explicitly specifies the traditional M'Naghten test).
-check 6: pass (No excluded topics; standard homicide context).
-check 7: pass (M'Naghten nature and quality, MPC tests, and APD co-occurrence are all explicitly taught in Ch 23).
-Recommended fix: Integrate the missing facts directly into the stem. Example: "Leo, who has a documented antisocial personality disorder, suffers a severe psychotic break. He shoots a security watchman because his delusion makes him genuinely believe the watchman is a literal, non-human monster from hell. Will Leo's psychotic break satisfy the first prong of the traditional M'Naghten test?"
+<check 1>: pass (assuming the facts in the explanation were present, option E correctly applies the M'Naghten "nature and quality" cognitive prong to those facts).
+<check 2>: pass (the distractors are doctrinally well-crafted tests of competing insanity standards, assuming the missing facts).
+<check 3>: pass (the explanation accurately distinguishes the cognitive M'Naghten test from the MPC volitional test).
+<check 4>: FAILURE. The stem completely lacks a fact pattern. It asks the student to evaluate "Leo's insanity defense" but provides zero facts about who Leo is, what he did, his diagnosis, or his delusions. A student cannot answer this question without guessing the facts backwards from the options.
+<check 5>: pass (specifies the "traditional M'Naghten" test).
+<check 6>: pass
+<check 7>: pass (M'Naghten and APD exclusion are covered in Chapter 23).
+Recommended fix: Add a fact pattern to the stem. For example: "Leo, who has a documented diagnosis of Antisocial Personality Disorder and suffers from severe delusions, shot a bystander. At the time of the shooting, Leo genuinely believed the bystander was a 'literal, non-human monster from hell.' Evaluate Leo's insanity defense..."
 -->

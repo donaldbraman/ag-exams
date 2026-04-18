@@ -1,16 +1,17 @@
-**Q12.** Assume that the jurisdiction strictly excludes Antisocial Personality Disorder (APD) from qualifying as a mental disease. Does Leo's APD diagnosis legally defeat his insanity defense?
+**Q12.** Assume the jurisdiction applies the Model Penal Code standard for insanity and excludes conditions manifested solely by antisocial conduct. The prosecution argues that because Leo's Antisocial Personality Disorder (APD) contributed to the violence alongside his schizophrenia, his insanity defense must fail as a matter of law. Based on the co-occurring causation doctrine, is the prosecution correct?
 
-(a) The defense may succeed because a qualifying mental disease like schizophrenia can support the defense if it caused the incapacity, even if a non-qualifying personality disorder contributed. <!-- correct -->
-(b) The defense may succeed because any clinical diagnosis of a personality disorder automatically meets the statutory definition of a qualifying mental disease under the modern approach.
-(c) The defense will fail because the presence of antisocial personality disorder legally taints the diagnosis, requiring the defendant to prove it played absolutely no causal role.
-(d) The defense will fail because the Model Penal Code categorically explicitly requires the qualifying mental disease to be the absolute sole cause of the criminal conduct.
-(e) The defense will fail because a co-occurring diagnosis forces the burden of proof back onto the prosecution to disprove the insanity claim beyond a reasonable doubt.
+(a) Yes, because when a non-qualifying personality disorder plays any contributing role in the criminal conduct, the entire insanity defense is automatically tainted and fails.
+(b) Yes, because the statutory exclusion for personality disorders requires the defendant to prove that the qualifying mental disease was the exclusive cause of the conduct.
+(c) No, because the defense remains viable as long as the qualifying mental disease (schizophrenia) caused the requisite incapacity, even if the APD also contributed. <!-- correct -->
+(d) No, because Antisocial Personality Disorder is universally recognized by the Model Penal Code as a qualifying mental disease that independently supports the defense.
+(e) Yes, because the presence of APD indicates that Leo's behavior was manifested solely by repeated criminal conduct, triggering the categorical statutory bar.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct. As demonstrated in cases like *State v. Meiser*, statutes commonly exclude conditions manifested solely by antisocial conduct (like APD). However, when a defendant has co-occurring diagnoses, the defense remains legally viable so long as a qualifying disease (like severe schizophrenia) actually caused the requisite legal incapacity. The presence of a contributing personality disorder does not legally bar the defense. (b) is wrong because most state statutes and the MPC explicitly exclude personality disorders standing alone from the definition of a qualifying mental disease. (c) is wrong because courts reject the "taint" theory; the non-qualifying disorder does not have to be entirely excluded from the causal chain if the qualifying disease was an operative cause. (d) is wrong because neither the MPC nor general doctrine imposes an absolute "sole cause" requirement on the qualifying mental disease. (e) is wrong because a co-occurring diagnosis has no bearing on the jurisdictional allocation of the burden of proof.
+**Explanation:** (c) is correct. Under the co-occurring causation doctrine (*State v. Meiser*), the statutory exclusion for personality disorders applies only to the threshold definition of a qualifying mental disease. As long as a qualifying disease (schizophrenia) caused the requisite legal incapacity, the defense is viable even if a non-qualifying condition (APD) also contributed. The statute does not impose a "sole cause" requirement. (a) is incorrect because the presence of a personality disorder does not legally taint the entire defense. (b) is incorrect because courts have expressly rejected interpreting the statutory exclusion as requiring exclusive causation. (d) is incorrect because Antisocial Personality Disorder is explicitly excluded by the MPC as a condition manifested solely by repeated criminal conduct. (e) is incorrect because Leo's schizophrenia provides an independent, qualifying basis for the defense.
 
-**Tags:** chapters: [23], topics: [insanity, co-occurring causation, personality disorder], difficulty: hard, cognitive: application
-**Grounding:** Chapter 23, State v. Meiser
+**Tags:** chapters: [23], topics: [insanity, co-occurring causation, personality disorder exclusion], difficulty: hard, cognitive: application
 
-<!-- grounding: GROUNDED — Co-occurring causation / Personality disorder exclusion, Ch 23, Refinement `co-occurring-causation`. Rule paraphrased accurately. -->
+**Grounding:** Chapter 23, State v. Meiser and the co-occurring causation doctrine.
+
+<!-- grounding: GROUNDED — co-occurring causation, Ch 23, Refinement `co-occurring-causation`. Rule paraphrased accurately. -->

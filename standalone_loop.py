@@ -47,8 +47,8 @@ async def loop_question(sem, q_name, original_q_text, scenario_text, initial_rea
     return q_name, current_q_text, False
 
 async def main():
-    qa_path = "qa_results.md"
-    quiz_path = "quiz-5-fixed-v3.md"
+    qa_path = "qa_results_final.md"
+    quiz_path = "quiz-5-fixed-final.md"
     out_path = "quiz-5-fixed-final.md"
     
     qa_text = Path(qa_path).read_text(encoding="utf-8")

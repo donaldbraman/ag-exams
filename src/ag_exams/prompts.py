@@ -880,7 +880,7 @@ the chapter map's formulation of the doctrine? Flag misparaphrases.
 without requiring assumptions beyond the stem?
 5. **Jurisdictional clarity.** If the doctrine splits across jurisdictions \
 (e.g., merger, FM limiting doctrines), does the stem or stub resolve the \
-split cleanly?
+split cleanly? **PEDAGOGICAL PRINCIPLE:** The question MUST NOT require students to memorize which states apply which doctrines. Instead, the relevant jurisdictional rules must be explicitly provided in the stem, testing the student's ability to apply those rules to the facts. Flag any question that relies on rote memorization of state names as MUST FIX.
 6. **Excluded-topic bleed.** Does any part of the Q touch DV, sexual assault, \
 or other topics the map should not exercise?
 7. **Coverage mismatch.** Is the correct answer's doctrine actually in some \

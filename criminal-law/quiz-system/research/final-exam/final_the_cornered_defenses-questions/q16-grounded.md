@@ -1,16 +1,17 @@
-**Q16.** Assume Trey is charged with possession with intent to distribute the fentanyl found in his vehicle. Will the prosecution be able to establish the required elements of possession and intent?
+**Q16.** Assume Trey survives and is charged with possession of fentanyl with intent to distribute. The fentanyl was found in a hidden compartment in Trey's car, which was parked twenty feet away from where he was shot. The keys to the car were in Trey's pocket. How would a court evaluate the possession and intent elements?
 
-(a) Trey is guilty of possession with intent to distribute because his exclusive control of the keys establishes constructive possession, and the packaging and ledger support a distribution inference. <!-- correct -->
-(b) Trey is guilty of possession with intent to distribute because being parked within twenty feet of a vehicle containing drugs establishes actual physical possession under federal law.
-(c) Trey is not guilty of possession because the drugs were hidden in a secret compartment, which categorically defeats the awareness requirement necessary for constructive possession liability.
-(d) Trey is not guilty of intent to distribute because 50 grams of fentanyl is legally presumed to be strictly for personal use unless a controlled buy is completed.
-(e) Trey is not guilty of either charge because the police failed to secure a full confession explicitly detailing his specific intended distribution network prior to making the arrest.
+(a) Trey cannot be convicted of possession because he was twenty feet away from the vehicle, defeating the strict physical proximity requirement for establishing actual possession.
+(b) Trey possesses the drugs constructively because holding the keys demonstrates control of the vehicle, and the packaging and ledger allow an inference of intent to distribute. <!-- correct -->
+(c) Trey cannot be convicted of intent to distribute because the presence of a drug ledger is inadmissible character evidence that cannot be used to infer future sales.
+(d) Trey possesses the drugs constructively, but the intent to distribute cannot be inferred unless the prosecution proves Trey engaged in a physical hand-to-hand transaction that day.
+(e) Trey cannot be convicted of either charge because the drugs were located in a hidden compartment, legally establishing a presumption that he was unaware of their presence.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct. Constructive possession requires awareness of the contraband and the ability to exercise dominion and control over it. Holding the car keys establishes Trey's control over the vehicle and its hidden compartment. The massive lethal quantity (50 grams of fentanyl), the 25 individual baggies, and the drug ledger provide overwhelmingly sufficient circumstantial evidence for a jury to infer an intent to distribute. (b) is wrong because mere proximity to drugs does not establish actual physical possession; actual possession requires direct physical control on the person. (c) is wrong because the requirement of awareness can be inferred circumstantially (through control of the keys and the ledger) despite the compartment being hidden. (d) is wrong because there is no legal presumption that 50 grams of fentanyl—an extraordinarily large and lethal amount—is strictly for personal use. (e) is wrong because intent to distribute is routinely and legally proven through circumstantial packaging and quantity evidence, never requiring a confession.
+**Explanation:** (b) is correct. Constructive possession requires the power and intent to exercise control over an item; holding the keys to the vehicle containing the hidden compartment firmly establishes this control. Furthermore, possessing 50 grams of fentanyl packaged in 25 individual baggies, alongside a detailed drug ledger, provides strong circumstantial evidence to infer an intent to distribute rather than personal use. (a) is incorrect because physical proximity is not required for constructive possession if control is established. (c) is incorrect because a drug ledger is highly relevant circumstantial evidence of the specific intent to distribute, not inadmissible character evidence. (d) is incorrect because intent to distribute can be inferred from quantity, packaging, and paraphernalia without proof of a completed transaction. (e) is incorrect because a hidden compartment in the defendant's own vehicle does not legally presume a lack of knowledge.
 
-**Tags:** chapters: [15], topics: [constructive possession, PWID inferences], difficulty: easy, cognitive: application
-**Grounding:** Chapter 15, Constructive Possession and Quantity Inferences
+**Tags:** chapters: [15], topics: [constructive possession, intent to distribute], difficulty: easy, cognitive: application
 
-<!-- grounding: GROUNDED — constructive possession and intent to distribute inferences, Ch 15, Refinements `cp-awareness-control`, `cp-exclusive-control`, and `qty-pwid`. Rule paraphrased accurately. -->
+**Grounding:** Chapter 15, elements of constructive possession and PWID quantity inferences.
+
+<!-- grounding: GROUNDED — Constructive possession and PWID inferences, Ch 15, Refinement `cp-awareness-control`, `qty-pwid`. Rule paraphrased accurately. -->

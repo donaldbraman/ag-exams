@@ -1,16 +1,17 @@
-**Q9.** Assume that, whether or not Marcus abandoned the attempt, the prosecution seeks to hold him derivatively liable for Leo shooting the watchman. Is Marcus guilty of homicide under the *Pinkerton* doctrine?
+**Q9.** Assume Marcus is charged with the watchman's murder under the *Pinkerton* doctrine. Marcus argues he cannot be liable because he did not pull the trigger, the shooting was not part of their arson plan, and Leo's psychotic break was entirely unpredictable. Under the traditional *Pinkerton* standard, is Marcus liable for the murder?
 
-(a) Not guilty, because a homicide driven entirely by a sudden, severe psychotic hallucination is a completely unforeseeable departure from the scope of the arson conspiracy. <!-- correct -->
-(b) Not guilty, because Pinkerton liability strictly requires the prosecution to prove that the defendant explicitly commanded the co-conspirator to commit the collateral offense.
-(c) Guilty, because any felony offense committed by a co-conspirator during the active lifespan of the agreement is automatically imputed to all participating members.
-(d) Guilty, because Leo's decision to discharge a firearm directly satisfies the overt act requirement necessary to complete the underlying conspiracy to commit arson.
-(e) Guilty, because the Model Penal Code framework universally applies Pinkerton liability for any collateral crimes committed by associates acting within a criminal enterprise.
+(a) Yes, because the murder of a watchman investigating the conspirators' preparation for the arson was a reasonably foreseeable consequence of the conspiracy. <!-- correct -->
+(b) Yes, because the traditional *Pinkerton* doctrine imposes strict liability on all conspirators for any crime committed by a partner, regardless of foreseeability.
+(c) No, because Leo's psychotic break rendered the shooting highly unforeseeable, severing the necessary nexus between the conspiracy and the substantive offense.
+(d) No, because the explicit terms of their agreement were strictly limited to committing property damage and did not encompass the use of lethal violence.
+(e) No, because Marcus abandoned the conspiracy by running away from the car immediately after the gunshot, terminating his liability for the homicide.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. Under the *Pinkerton* doctrine, a conspirator is derivatively liable for the substantive crimes of co-conspirators only if those crimes are reasonably foreseeable and committed in furtherance of the conspiracy. While shooting a guard to protect an arson plot might sometimes be foreseeable, a homicide driven entirely by a severe psychotic break involving a hallucinated "monster from hell" represents a highly extraordinary, unforeseeable departure from the scope of the agreement. (b) is wrong because *Pinkerton* liability specifically exists to hold conspirators liable for uncommanded collateral offenses. (c) is wrong because *Pinkerton* does not impose automatic strict liability; the collateral act must still be reasonably foreseeable. (d) is wrong because an unforeseeable hallucination-driven murder is an independent act, not a legal overt act designed to further the arson. (e) is wrong because the Model Penal Code explicitly rejected the *Pinkerton* doctrine's expansion of derivative liability.
+**Explanation:** (a) is correct. Under the *Pinkerton* doctrine, a conspirator is liable for the substantive offenses committed by a co-conspirator if those crimes are in furtherance of the conspiracy and are a reasonably foreseeable consequence of the agreement. A watchman interrupting the loading of accelerant and being killed to protect the conspiracy is a legally foreseeable consequence of an arson plot. (b) is incorrect because *Pinkerton* is not a strict liability standard; it requires foreseeability and furtherance of the conspiracy. (c) is incorrect because the foreseeability standard applies to the commission of the offense itself, not the specific psychological mechanism of the co-conspirator. (d) is incorrect because *Pinkerton* liability routinely extends beyond the explicit terms of the agreement to include foreseeable collateral crimes. (e) is incorrect because *Pinkerton* liability relies on the conspiratorial agreement at the time of the offense, and fleeing after the murder does not retroactively withdraw Marcus from the crime.
 
-**Tags:** chapters: [19], topics: [Pinkerton liability, foreseeability], difficulty: hard, cognitive: analysis
-**Grounding:** Chapter 19, Pinkerton v. United States
+**Tags:** chapters: [19], topics: [Pinkerton liability, reasonably foreseeable], difficulty: hard, cognitive: application
 
-<!-- grounding: GROUNDED — Pinkerton liability, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->
+**Grounding:** Chapter 19, Pinkerton v. United States foreseeability standard for substantive crimes.
+
+<!-- grounding: GROUNDED — Pinkerton doctrine, Ch 19, Refinement `pinkerton-doctrine`. Rule paraphrased accurately. -->

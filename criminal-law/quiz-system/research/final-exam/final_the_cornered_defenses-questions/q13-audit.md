@@ -1,25 +1,26 @@
-**Q13.** Assume Silas is charged with attempted murder for shooting Trey and raises a self-defense claim. How would a jury evaluate the objective reasonableness of Silas's belief that deadly force was necessary?
+**Q13.** Assume Silas is charged with aggravated assault for shooting Trey. Silas asserts self-defense, arguing he honestly believed Trey was reaching for a weapon. Witnesses confirm Trey was actually reaching for his phone. Under the traditional objective reasonableness standard, how will Silas's belief be evaluated?
 
-(a) A jury could find Silas's belief unreasonable because an objective person in his situation might not assume a mere reach into a jacket constitutes an imminent lethal threat. <!-- correct -->
-(b) A jury must find Silas's belief reasonable because his prior public vow to eliminate Syndicate members legally justifies an immediate preemptive strike against any perceived enemy.
-(c) A jury must find Silas's belief reasonable because Trey was a known syndicate hitman, which automatically satisfies the objective standard for deadly force without further factual inquiry.
-(d) A jury could find Silas's belief unreasonable because the common law strictly requires the victim to actually visibly brandish a deadly weapon before self-defense can be legitimately claimed.
-(e) A jury could find Silas's belief unreasonable because self-defense doctrine strictly requires the perceived threat to involve multiple attackers coordinating a maneuver rather than a single individual.
+(a) Silas's belief will be deemed reasonable as long as he genuinely and honestly held it in the moment, regardless of whether a typical person would have perceived a threat.
+(b) Silas's belief will be evaluated based on whether a reasonable person in Silas's specific situation, possessing Silas's knowledge of the Syndicate's violent history, would have believed deadly force was necessary. <!-- correct -->
+(c) Silas's belief will be deemed unreasonable as a matter of law because Trey was unarmed, and self-defense strictly requires the victim to actually possess a deadly weapon.
+(d) Silas's belief will be evaluated solely from the perspective of an idealized, detached observer with no prior knowledge of the Bayside Syndicate or the previous day's events.
+(e) Silas's belief will be deemed reasonable only if he can prove by clear and convincing evidence that Trey had previously threatened him with a firearm.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** (a) is correct. Self-defense requires an objectively reasonable belief in an imminent threat of death or serious bodily harm. The jury incorporates the situational context (Trey's status as a hitman), but ultimately must decide if a reasonable person with an unobstructed escape route would conclude that a rapid walk and a reach into a jacket necessitated immediate lethal force. The jury could reasonably find Silas's assumption unreasonable. (b) is wrong because a public vow to kill does not legally create a continuous threat justifying a preemptive strike; in fact, it undermines his claim by suggesting he was an aggressor. (c) is wrong because while the victim's reputation informs the reasonableness inquiry, it never automatically or absolutely satisfies the standard. (d) is wrong because the law permits lethal force based on a reasonable perception of a deadly weapon, not strict actual possession or brandishing. (e) is wrong because self-defense applies equally against single attackers and imposes no multiple-assailant requirement.
+**Explanation:** (b) is correct. The objective reasonableness standard requires evaluating whether a reasonable person in the defendant's specific situation would have believed deadly force was necessary. This incorporates the defendant's relevant prior experiences and specific knowledge of the attacker, such as Silas's awareness of the Syndicate's violent history and Trey's role as a hitman. (a) is incorrect because an honest belief alone only satisfies the subjective component; the belief must also be objectively reasonable. (c) is incorrect because self-defense permits acting on a reasonable mistake of fact, even if the victim is actually unarmed. (d) is incorrect because the law does not use an idealized, detached observer; it places the reasonable person in the defendant's shoes. (e) is incorrect because previous specific threats with a firearm are not a strict prerequisite for finding a belief reasonable.
 
-**Tags:** chapters: [22], topics: [self-defense, objective reasonableness], difficulty: medium, cognitive: application
-**Grounding:** Chapter 22, Objective Reasonableness Standard
+**Tags:** chapters: [22], topics: [self-defense, objective reasonableness, situational incorporation], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 22, People v. Goetz and situational incorporation into the objective standard.
 
 <!-- audit: MUST FIX
 check 1: pass
 check 2: pass
-check 3: fail - The explanation introduces facts ("an unobstructed escape route," "a rapid walk") that appear nowhere in the stem or the correct answer text.
-check 4: fail - The stem is completely missing the underlying fact pattern. It relies on facts (Trey being a hitman, Silas's public vow, reaching into a jacket) that are only revealed in the answer choices or the explanation. This question appears to have been detached from a master fact pattern.
+check 3: pass
+check 4: MUST FIX. The stem completely lacks the factual context needed to make sense of the options. It mentions nothing about the "Syndicate's violent history," "the previous day's events," or "Trey's role as a hitman" that appear in the correct answer (b), distractor (d), and the explanation. A well-prepared student might eliminate (b) assuming it's a trick because it relies on facts not present in the prompt.
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: Integrate the missing facts into the stem. For example: "Silas previously made a public vow to eliminate Syndicate members. Later, Silas encounters Trey, a known Syndicate hitman, walking rapidly toward him. Silas has an unobstructed escape route, but when Trey reaches into his jacket, Silas shoots him. Assume Silas is charged with attempted murder..."
+Recommended fix: Add the missing factual background to the stem (e.g., "Assume Silas had a prior run-in with Trey, a known hitman for the Bayside Syndicate..."), or generalize the options and explanation to remove specific references to these unstated facts.
 -->

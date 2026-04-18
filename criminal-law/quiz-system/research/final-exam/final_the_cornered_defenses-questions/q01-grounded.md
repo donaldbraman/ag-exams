@@ -1,16 +1,17 @@
-**Q1.** Is the Bayside Syndicate a valid RICO enterprise under the *Boyle* three-part test?
+**Q1.** Assume that prosecutors charge Vance with substantive RICO, alleging the Bayside Syndicate is an "enterprise." Under the *Boyle* three-part test, which of the following is the most accurate conclusion regarding the Syndicate's status as an enterprise?
 
-(a) A valid enterprise exists because the Syndicate demonstrates a shared purpose, relationships among its associates, and sufficient longevity to pursue its goals. <!-- correct -->
-(b) A valid enterprise exists because any agreement to commit multiple predicate offenses automatically satisfies the structural requirements of a RICO organization.
-(c) A valid enterprise does not exist because the Syndicate lacks an ascertainable structure that is completely distinct from the underlying pattern of racketeering activity.
-(d) A valid enterprise does not exist because the inclusion of a law enforcement officer prevents the group from functioning as an associated-in-fact criminal enterprise.
-(e) A valid enterprise does not exist because the prosecution must prove the organization has a formal, corporate-like hierarchy with explicit written rules and bylaws.
+(a) The Syndicate qualifies as an enterprise because it exhibits a shared purpose, relationships among its members, and longevity sufficient to pursue its purpose. <!-- correct -->
+(b) The Syndicate fails to qualify as an enterprise because the *Boyle* test requires proof of an ascertainable structure distinct from the pattern of racketeering activity itself.
+(c) The Syndicate qualifies as an enterprise only if the prosecution proves that Vance personally directed the core narcotics distribution activities rather than acting as a protector.
+(d) The Syndicate fails to qualify as an enterprise because the Supreme Court requires that an association-in-fact have a formal hierarchy and documented chain of command.
+(e) The Syndicate qualifies as an enterprise because any ongoing association of two or more individuals automatically satisfies the statutory definition without further structural proof.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. Under the *Boyle* test, an associated-in-fact enterprise requires (1) a shared purpose, (2) relationships among those associated with the enterprise, and (3) longevity sufficient to permit these associates to pursue the enterprise's purpose. The Bayside Syndicate clearly meets all three criteria. (b) is wrong because *Boyle* clarifies that an enterprise is a separate element from the pattern of racketeering activity, requiring its own structural showing beyond mere agreement. (c) is wrong because *Boyle* explicitly rejected the requirement that the enterprise's structure must be completely distinct from the racketeering activity itself. (d) is wrong because the inclusion of a corrupt public official does not legally nullify an organization's status as a criminal enterprise. (e) is wrong because *Boyle* definitively held that an enterprise does not need a formal, corporate-like hierarchical structure.
+**Explanation:** (a) is correct. Under the *Boyle* three-part test, an association-in-fact enterprise requires a shared purpose, relationships among its members, and sufficient longevity to pursue that purpose. The Syndicate's shared goal of profiting from narcotics and structured roles satisfy these elements. (b) is incorrect because *Boyle* explicitly rejected the requirement of an ascertainable structure distinct from the racketeering activity. (c) is incorrect because an enterprise does not require the defendant to personally direct core activities. (d) is incorrect because formal hierarchy and documented chains of command are explicitly not required under *Boyle*. (e) is incorrect because mere ongoing association without purpose and longevity is legally insufficient.
 
 **Tags:** chapters: [20], topics: [RICO enterprise, Boyle test], difficulty: medium, cognitive: application
-**Grounding:** Chapter 20, Boyle v. United States
+
+**Grounding:** Chapter 20, Boyle v. United States three-part enterprise test.
 
 <!-- grounding: GROUNDED — Boyle three-part test, Ch 20, Refinement `boyle-three-part`. Rule paraphrased accurately. -->

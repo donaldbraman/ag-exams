@@ -4,28 +4,29 @@ The QA pipeline flagged this question. Rewrite `q16.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q16.** Assume Trey is charged with possession with intent to distribute the fentanyl found in his vehicle. Will the prosecution be able to establish the required elements of possession and intent?
+**Q16.** Based on the fentanyl found in Trey's vehicle, can Trey be charged with Possession With Intent to Distribute (PWID)?
 
-(a) Trey is guilty of possession with intent to distribute because his exclusive control of the keys establishes constructive possession, and the packaging and ledger support a distribution inference. <!-- correct -->
-(b) Trey is guilty of possession with intent to distribute because being parked within twenty feet of a vehicle containing drugs establishes actual physical possession under federal law.
-(c) Trey is not guilty of possession because the drugs were hidden in a secret compartment, which categorically defeats the awareness requirement necessary for constructive possession liability.
-(d) Trey is not guilty of intent to distribute because 50 grams of fentanyl is legally presumed to be strictly for personal use unless a controlled buy is completed.
-(e) Trey is not guilty of either charge because the police failed to secure a full confession explicitly detailing his specific intended distribution network prior to making the arrest.
+(a) Yes, because the mere physical presence of fifty grams of fentanyl automatically triggers a strict and mandatory federal presumption of criminal intent to distribute.
+(b) No, because he was parked twenty feet away from the vehicle, legally defeating the strictly required element of immediate physical control over the illegal drugs.
+(c) Yes, because the car keys in his pocket establish constructive possession, and the distinct baggies and drug ledger support a strong inference of intent to distribute. <!-- correct -->
+(d) No, because constructive possession cannot be established for specific items locked inside a hidden compartment unless the targeted defendant is actively driving the car.
+(e) Yes, because his widely known status as the syndicate's hitman legally excuses the prosecution from affirmatively proving his personal knowledge of the vehicle's hidden compartment.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct. Constructive possession requires awareness of the contraband and the ability to exercise dominion and control over it. Holding the car keys establishes Trey's control over the vehicle and its hidden compartment. The massive lethal quantity (50 grams of fentanyl), the 25 individual baggies, and the drug ledger provide overwhelmingly sufficient circumstantial evidence for a jury to infer an intent to distribute. (b) is wrong because mere proximity to drugs does not establish actual physical possession; actual possession requires direct physical control on the person. (c) is wrong because the requirement of awareness can be inferred circumstantially (through control of the keys and the ledger) despite the compartment being hidden. (d) is wrong because there is no legal presumption that 50 grams of fentanyl—an extraordinarily large and lethal amount—is strictly for personal use. (e) is wrong because intent to distribute is routinely and legally proven through circumstantial packaging and quantity evidence, never requiring a confession.
+**Explanation:** Possession can be actual or constructive. Trey had constructive possession of the fentanyl because the car keys in his pocket provided him with the power and intent to control the vehicle and its contents, even from twenty feet away. Furthermore, intent to distribute is routinely inferred from circumstantial evidence such as large quantities, individual packaging (25 tiny baggies), and the presence of a drug ledger. (a) is incorrect because while quantity creates an inference for the jury, it does not trigger an automatic mandatory legal presumption. (b) is incorrect because constructive possession specifically exists to criminalize control over contraband even when the defendant lacks immediate, actual physical custody. (d) is incorrect because constructive possession relies on the right and ability to access the space (via the keys), not active operation of the vehicle. (e) is incorrect because status or reputation never excuses the prosecution from proving the elements of the offense, including *mens rea* regarding knowledge of the drugs.
 
-**Tags:** chapters: [15], topics: [constructive possession, PWID inferences], difficulty: easy, cognitive: application
-**Grounding:** Chapter 15, Constructive Possession and Quantity Inferences
+**Tags:** chapters: [15], topics: [constructive possession, PWID inferences], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 15 - cp-awareness-control, qty-pwid
 
 <!-- audit: MUST FIX
-Check 1: pass
-Check 2: pass
-Check 3: pass
-Check 4: fail. The stem completely lacks the factual predicate needed to evaluate the answers. It mentions "the fentanyl found in his vehicle," but omits all the specific facts relied upon by the correct answer and explanation: Trey's exclusive control of the keys, the 50 grams of fentanyl, the 25 individual baggies, the drug ledger, and the secret compartment. This indicates the question was orphaned from a larger macro fact pattern.
-Check 5: pass
-Check 6: pass
-Check 7: pass
-Recommended fix: Integrate the missing facts directly into the stem so the question can function as a standalone item. For example: "Assume Trey is found alone in his vehicle with the keys in his pocket. Police search a secret compartment in the vehicle and find 50 grams of fentanyl divided into 25 individual baggies, along with a drug ledger. Trey is charged with possession with intent to distribute..."
+check 1: Correct-answer accuracy fails. Option C states that "car keys in his pocket establish constructive possession." Under `cp-awareness-control`, constructive possession requires both the power to control AND awareness/knowledge of the contraband. Keys alone establish power, but do not automatically establish awareness of drugs inside a *hidden compartment*. A well-prepared student would challenge C as doctrinally incomplete.
+check 2: pass
+check 3: Explanation consistency fails. The explanation claims the keys "provided him with the power and intent to control." Keys provide physical access (power), but do not inherently establish intent or knowledge of hidden contents.
+check 4: The stem lacks the standalone facts required to answer the question, heavily relying on a master scenario that is assumed but omitted here (e.g., the hidden compartment, ledger, and 20-foot distance only emerge in the options).
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Revise Option C to include the knowledge element (e.g., "Yes, because his exclusive control of the vehicle and the keys establish constructive possession..."). Update the explanation to clarify that constructive possession requires both power to control (via keys) AND knowledge of the hidden drugs (which would be inferred from exclusive control or other scenario facts).
 -->

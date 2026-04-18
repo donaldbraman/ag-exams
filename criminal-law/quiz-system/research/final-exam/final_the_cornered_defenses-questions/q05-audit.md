@@ -1,5 +1,26 @@
-<!-- audit: MUST FIX -->
+**Q5.** Marcus raises a duress defense to the attempted arson charge, arguing he was coerced by Vance's threat to his family. The prosecution argues the threat was not imminent because the tactical raid was scheduled for midnight, several hours away, and Marcus could have called the police. How does the corrupt authorities doctrine impact Marcus's defense?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) The defense fails because the common law strictly requires the threatened harm to be occurring at the exact moment of the crime, regardless of any documented police corruption.
+(b) The defense likely survives because Vance's status as a corrupt police commander could allow a jury to find that Marcus reasonably believed reporting the threat was not a viable legal alternative. <!-- correct -->
+(c) The defense fails because duress is categorically unavailable whenever the defendant has several hours of delay before the threatened harm is scheduled to materialize.
+(d) The defense likely survives because the modern approach to duress categorically eliminates the imminence requirement whenever the threatened harm involves a close family member.
+(e) The defense fails because Vance's midnight threat was directed primarily at Marcus's family rather than Marcus himself, defeating the strict target scope requirement under the common law.
 
-Error: Model returned empty or blocked response.
+**Answer:** (b)
+
+**Explanation:** (b) is correct. The corrupt authorities exception (*United States v. Contento-Pachon*) allows a duress claim to survive the "no reasonable legal alternative" requirement when the defendant reasonably believes that seeking police protection would be futile or dangerous. Because Vance is a police commander, Marcus's failure to report the threat does not automatically defeat the defense. (a) is incorrect because modern courts often relax the strict physical proximity test for imminence in continuous threat scenarios. (c) is incorrect because a delay of several hours does not categorically defeat imminence if legal alternatives are reasonably perceived as foreclosed. (d) is incorrect because the modern approach makes imminence a factor in reasonableness, rather than categorically eliminating it. (e) is incorrect because traditional common law explicitly extends duress to threats against close relatives.
+
+**Tags:** chapters: [21], topics: [duress, corrupt authorities exception], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 21, United States v. Contento-Pachon and the corrupt authorities exception to reasonable legal alternatives.
+
+<!-- audit: MUST FIX
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: MUST FIX. The stem lacks sufficient facts to support the correct answer. The stem never states that Vance is a police commander or affiliated with law enforcement; it only mentions "Vance's threat" and a "tactical raid." A prepared student would rightly eliminate (b) for assuming facts not in evidence. The explanation explicitly relies on this missing fact ("Because Vance is a police commander...").
+check 5: pass
+check 6: pass
+check 7: pass
+Recommended fix: Update the first sentence of the stem to explicitly identify Vance's role: "...arguing he was coerced by a threat to his family from Vance, a corrupt police commander."
+-->

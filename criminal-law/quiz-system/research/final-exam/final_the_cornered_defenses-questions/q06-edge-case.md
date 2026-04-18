@@ -1,21 +1,22 @@
-**Q6.** Dexter claims he only had mere knowledge of Marcus's plan and lacked the purpose necessary for accomplice liability. Under the *Lauria* standard, is Dexter's mental state sufficient for accomplice liability?
+**Q6.** Assume that Dexter is prosecuted as an accomplice to the arson. The prosecution proves that Dexter knew exactly what Marcus planned to do with the accelerant but had no personal stake in the crime, simply charging triple the price to profit. Under the traditional standard for accomplice liability, is Dexter guilty?
 
-(a) Guilty of being an accomplice, because charging a substantially inflated premium price allows a jury to infer that Dexter had the purpose to facilitate the arson. <!-- correct -->
-(b) Guilty of being an accomplice, because mere knowledge of a buyer's criminal intent is always legally sufficient to establish accomplice liability for any felony offense.
-(c) Not guilty of being an accomplice, because providing an ordinary commercial product can never establish the requisite actus reus for derivative criminal liability.
-(d) Not guilty of being an accomplice, because he lacked a direct personal interest in whether Silas's warehouse actually burned down to the ground.
-(e) Not guilty of being an accomplice, because the mental state for accomplice liability strictly requires the defendant to actively participate in the target offense.
+(a) Yes, because by charging an exorbitant premium based on the illicit use of the goods, Dexter demonstrated a stake in the venture that allows an inference of purpose to facilitate the arson. <!-- correct -->
+(b) Yes, because a merchant who provides goods with mere knowledge that they will be used in a crime automatically satisfies the mens rea for accomplice liability.
+(c) No, because Dexter lacked the specific purpose to see the warehouse burn, as his sole motivation was to financially profit from the transaction rather than to destroy property.
+(d) No, because the sale of commercial-grade accelerant is a legal transaction, which categorically insulates the merchant from derivative liability regardless of pricing.
+(e) Yes, because the felony-murder rule extends to the foreseeable consequences of selling dangerous materials to known members of a criminal syndicate.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. Under *People v. Lauria*, mere knowledge of a buyer's criminal intent is generally insufficient for accomplice liability when providing lawful goods. However, the prosecution may infer the specific purpose to facilitate the crime if the supplier has a "stake in the venture." *Lauria* explicitly lists charging an inflated premium price as one of the primary ways to demonstrate this stake, thereby upgrading mere knowledge to purpose. (b) is wrong because mere knowledge is generally insufficient to establish accomplice liability for most non-severe felonies without a stake in the venture. (c) is wrong because selling ordinary commercial products readily constitutes the actus reus of aiding if accompanied by the requisite purpose. (d) is wrong because a financial stake (triple the price) substitutes for a direct personal interest in the substantive outcome of the target crime. (e) is wrong because physical participation in the target offense is not required; material facilitation with the requisite intent suffices.
+**Explanation:** (a) is correct. Under *People v. Lauria*, providing goods with mere knowledge of their illegal use is generally insufficient for accomplice liability, which requires the specific purpose to facilitate the crime. However, charging an exorbitant premium based on the illicit nature of the goods allows a jury to infer that the merchant has taken a stake in the venture, satisfying the purpose requirement. (b) is incorrect because mere knowledge does not automatically satisfy the traditional purpose standard. (c) is incorrect because the inflated price provides the evidentiary basis to infer the requisite purpose, defeating the claim of mere knowledge. (d) is incorrect because selling legal goods can constitute the actus reus for accomplice liability if accompanied by the required purpose. (e) is incorrect because the felony-murder rule applies to homicides, not to establishing baseline accomplice liability for property crimes.
 
-**Tags:** chapters: [18, 19], topics: [accomplice liability, purpose vs knowledge, Lauria inference], difficulty: hard, cognitive: analysis
-**Grounding:** Chapter 18 & 19, People v. Lauria
+**Tags:** chapters: [18], topics: [accomplice liability, purpose vs knowledge], difficulty: hard, cognitive: application
+
+**Grounding:** Chapter 18, United States v. Peoni and People v. Lauria inference of purpose from inflated pricing.
 
 <!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The prompt asks if his mental state is "sufficient," but the options definitively declare him "Guilty of being an accomplice." This is a booby trap. Because the arson was never completed (it was only attempted) and the principal (Marcus) has complex defenses like duress and voluntary abandonment, a sharp student will realize Dexter cannot definitively be declared "Guilty" of accomplice liability to arson here, leading them to eliminate the correct answer on a technicality. 
-2. Cross-Doctrine Clashes: The rules of derivative liability for an uncompleted crime clash with the definitive "Guilty" statement in the options. Mens rea is only one element; possessing the required mental state does not automatically equal "Guilty."
-3. Cross-Question Spoilers: pass
-Recommended fix: Change the options to start with "Yes, because..." and "No, because..." instead of "Guilty..." and "Not guilty...". This perfectly matches the Yes/No format of the question stem ("is Dexter's mental state sufficient...") and isolates the mens rea issue without falsely declaring ultimate guilt.
+1. Fact Pattern Booby Traps: The fact pattern clearly establishes that the arson was never completed (Marcus ran away in Fact 9). Because derivative liability requires the target offense to actually occur, Dexter cannot be convicted as an accomplice to a completed arson. This creates a trap where "Yes" is technically incorrect under the facts.
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: Q7 and Q8 focus entirely on Marcus's uncompleted attempt and abandonment. Because those questions lock in the fact that the arson never happened, Q6's framing of Dexter being prosecuted for "the arson" crashes into the established timeline. 
+Recommended fix: Change the opening sentence to isolate the hypothetical: "Assume for the purposes of this question that Marcus successfully burned the warehouse, and Dexter is prosecuted as an accomplice to the arson."
 -->

@@ -75,15 +75,33 @@ async def dispatch_gemini(
         safety_settings=safety_settings,
     )
 
-    response = await client.aio.models.generate_content(
-        model=model,
-        contents=prompt,
-        config=config,
-    )
+    try:
+        response = await client.aio.models.generate_content(
+            model=model,
+            contents=prompt,
+            config=config,
+        )
+    except Exception as e:
+        logger.error(f"HTTP/API Exception in generate_content: {type(e).__name__}: {str(e)}")
+        raise
     
-    result = response.text
+    try:
+        result = response.text
+    except ValueError as e:
+        finish_reason = "UNKNOWN"
+        if response.candidates:
+            finish_reason = getattr(response.candidates[0], "finish_reason", "UNKNOWN")
+        err_msg = f"Text extraction failed ({e}). Finish Reason: {finish_reason}. Raw prompt preview: {prompt[:100]}..."
+        logger.error(err_msg)
+        raise ValueError(err_msg)
+
     if not result:
-        raise ValueError("Model returned empty or blocked response.")
+        finish_reason = "UNKNOWN"
+        if response.candidates:
+            finish_reason = getattr(response.candidates[0], "finish_reason", "UNKNOWN")
+        err_msg = f"Empty string returned. Finish Reason: {finish_reason}. Raw prompt preview: {prompt[:100]}..."
+        logger.error(err_msg)
+        raise ValueError(err_msg)
 
     import time
     try:

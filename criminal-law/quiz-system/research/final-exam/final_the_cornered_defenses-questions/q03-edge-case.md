@@ -1,36 +1,22 @@
-```
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The correct answer (a) concludes Marcus is "Guilty" based on the reasoning that "duress operates as an affirmative excuse." This is a legal paradox: an affirmative excuse relieves a defendant of criminal liability, leading to a "Not Guilty" verdict. A knowledgeable student will correctly recognize that an excuse acquits, and will therefore cross out (a) because the rationale directly contradicts a finding of guilt. 
-2. Cross-Doctrine Clashes: Pass.
-3. Cross-Question Spoilers: Q5 explicitly tests whether Marcus actually satisfies the requirements for the duress excuse (imminence/corrupt authorities). Forcing a global "Guilty / Not guilty" verdict here in Q3 based on duress overlaps with and spoils the ultimate conclusion of Q5. 
+**Q3.** Assume that Marcus and Leo are charged with conspiracy to commit arson. Marcus argues that because his agreement with Leo was entirely the result of Vance's extreme coercion, he lacked the requisite intent to form a valid conspiracy. How should a court evaluate the formation of the agreement?
 
-Recommended fix: Change the call of the question to evaluate the legal mechanics of the argument rather than the ultimate verdict. 
-- Change the call to: "Is Marcus correct that the coercion legally negates his intent to agree?"
-- Change the option lead-ins from "Guilty" / "Not guilty" to "No" / "Yes" (e.g., *(a) No, because duress operates as an affirmative excuse rather than legally negating the specific intent...*).
--->
-```
-
-**Q3.** Marcus argues that because Vance forced him to commit the arson at gunpoint, he lacked the legal intent to form a conspiracy. Is Marcus guilty of entering into a conspiracy with Leo to commit arson?
-
-(a) Guilty, because duress operates as an affirmative excuse rather than legally negating the specific intent to agree and the purpose to commit the offense. <!-- correct -->
-(b) Guilty, because the overarching enterprise liability automatically imputes the agreement to all syndicate members regardless of their individual intent.
-(c) Not guilty, because Vance's coercive threat legally negates Marcus's specific intent to enter into an agreement and commit the target offense.
-(d) Not guilty, because Leo's severe mental illness renders him legally incapable of agreeing, which defeats conspiracy formation in a bilateral jurisdiction.
-(e) Not guilty, because the presence of a law enforcement officer initiating the threat establishes entrapment as a matter of law.
+(a) A valid conspiracy was formed because Marcus explicitly agreed with Leo to commit the arson and shared the purpose to burn the warehouse, regardless of Vance's underlying coercion. <!-- correct -->
+(b) A valid conspiracy was not formed because Marcus's agreement was the product of coercion, which negates the specific intent required for conspiracy formation as a matter of law.
+(c) A valid conspiracy was formed because Leo, as a co-conspirator, possessed the requisite intent, which imputes the necessary mens rea to Marcus under the unilateral approach.
+(d) A valid conspiracy was not formed because the agreement was primarily directed by Vance, meaning Marcus and Leo were mere instrumentalities rather than independent conspirators.
+(e) A valid conspiracy was formed because the overt act of loading the accelerant into the car retroactively cures any defect in the initial mental state regarding the agreement.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. As the Supreme Court affirmed in *Dixon v. United States*, duress does not negate the mens rea required for a crime; it acts as an affirmative defense (an excuse) that forgives the conduct. Marcus still formed the specific intent to agree with Leo and the purpose to commit the arson, fully satisfying the conspiracy formation elements. (b) is wrong because enterprise liability does not automatically eliminate the prosecution's burden to prove specific intent for distinct substantive conspiracy charges. (c) is wrong because duress, while mitigating moral culpability, does not legally erase or negate the psychological existence of the intent to agree. (d) is wrong because even if Leo lacked capacity, Marcus's intent would still render him liable in a unilateral conspiracy jurisdiction, and Leo's subsequent break does not retroactively erase their prior explicit agreement. (e) is wrong because entrapment requires government inducement of an unwary innocent, not extortion by a corrupt officer pursuing an independent criminal agenda.
+**Explanation:** (a) is correct. Conspiracy requires the intent to agree and the purpose to commit the target offense. While Marcus was coerced by Vance, duress is an excuse that shields a defendant from punishment; it does not negate the intentional mens rea to form the agreement. Marcus explicitly agreed to commit the arson. (b) is incorrect because duress does not negate the specific intent required for conspiracy as a matter of law. (c) is incorrect because the unilateral approach applies when one party feigns agreement, whereas Marcus genuinely agreed. (d) is incorrect because being directed by a third party does not prevent the formation of an agreement between two actual co-conspirators. (e) is incorrect because an overt act cannot retroactively cure a missing mental state.
 
-**Tags:** chapters: [19, 21], topics: [conspiracy agreement, duress, mens rea], difficulty: hard, cognitive: analysis
-**Grounding:** Chapter 21, Dixon v. United States; Chapter 19, Conspiracy Agreement
+**Tags:** chapters: [19], topics: [conspiracy formation, intent to agree], difficulty: medium, cognitive: application
 
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The correct answer (a) concludes Marcus is "Guilty" based on the reasoning that "duress operates as an affirmative excuse." This is a legal paradox: an affirmative excuse relieves a defendant of criminal liability, leading to a "Not Guilty" verdict. A knowledgeable student will correctly recognize that an excuse acquits, and will therefore cross out (a) because the rationale directly contradicts a finding of guilt. 
-2. Cross-Doctrine Clashes: Pass.
-3. Cross-Question Spoilers: Q5 explicitly tests whether Marcus actually satisfies the requirements for the duress excuse (imminence/corrupt authorities). Forcing a global "Guilty / Not guilty" verdict here in Q3 based on duress overlaps with and spoils the ultimate conclusion of Q5. 
+**Grounding:** Chapter 19, conspiracy agreement requirement and Dixon v. United States (duress excuses but does not negate mens rea).
 
-Recommended fix: Change the call of the question to evaluate the legal mechanics of the argument rather than the ultimate verdict. 
-- Change the call to: "Is Marcus correct that the coercion legally negates his intent to agree?"
-- Change the option lead-ins from "Guilty" / "Not guilty" to "No" / "Yes" (e.g., *(a) No, because duress operates as an affirmative excuse rather than legally negating the specific intent...*).
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
 -->

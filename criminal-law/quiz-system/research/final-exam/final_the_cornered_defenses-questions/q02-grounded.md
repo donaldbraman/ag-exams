@@ -1,16 +1,17 @@
-**Q2.** Assume a valid enterprise exists. Under the *Salinas* rule, can Commander Vance be convicted of a RICO conspiracy if he did not personally commit or explicitly agree to personally commit any predicate acts of racketeering?
+**Q2.** Assume that Vance is charged with RICO conspiracy under 18 U.S.C. § 1962(d). Vance argues that he cannot be convicted because he merely ordered others to act and did not personally commit or agree to personally commit any predicate acts of racketeering. Under the *Salinas* rule, is Vance's argument correct?
 
-(a) Yes, because Vance agreed to the overall objective of the enterprise and knew that others would commit the requisite predicate offenses. <!-- correct -->
-(b) Yes, because a RICO conspiracy conviction requires only that the defendant received a financial benefit from the enterprise's illegal activities.
-(c) No, because a RICO conspiracy conviction strictly requires the defendant to personally commit at least two predicate acts of racketeering.
-(d) No, because Vance must have explicitly agreed to personally commit at least two predicate acts to satisfy the RICO conspiracy statute.
-(e) No, because a public official cannot be charged with RICO conspiracy unless they formally direct the enterprise's daily operations.
+(a) Yes, because a RICO conspiracy conviction requires proof that the defendant personally committed at least two predicate acts of racketeering in furtherance of the enterprise.
+(b) Yes, because a RICO conspiracy conviction requires proof that the defendant explicitly agreed to personally commit at least two predicate acts of racketeering.
+(c) No, because a RICO conspiracy conviction merely requires the defendant to agree that some member of the enterprise will commit the required predicate acts. <!-- correct -->
+(d) No, because a RICO conspiracy conviction requires only that the defendant received a financial benefit from the enterprise's overarching pattern of racketeering.
+(e) Yes, because Vance's role as a police commander providing protection falls entirely outside the statutory definition of directing the enterprise's racketeering activities.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** (a) is correct. In *Salinas v. United States*, the Supreme Court held that a defendant can be convicted of RICO conspiracy even if they do not personally commit or agree to personally commit any predicate acts, provided they adopt the goal of furthering the enterprise and know that others will commit the required predicate offenses. (b) is wrong because mere financial benefit without an agreement to further the enterprise's objectives is insufficient to establish conspiracy liability. (c) and (d) are wrong because they state the exact legal requirements that the *Salinas* Court explicitly rejected; there is no personal commission or personal agreement-to-commit requirement for the predicate acts themselves. (e) is wrong because no special legal exemption shields public officials from RICO liability simply because they occupy a protective role rather than a managerial one.
+**Explanation:** (c) is correct. In *Salinas v. United States*, the Supreme Court held that a RICO conspiracy conviction does not require the defendant to agree to personally commit two predicate acts; it is sufficient that the defendant agrees that some member of the enterprise will commit them. Vance's agreement to provide protection while others commit the predicates is sufficient. (a) and (b) are incorrect because *Salinas* explicitly rejected the personal commission and personal agreement requirements. (d) is incorrect because merely receiving a financial benefit without an agreement regarding the predicate acts is insufficient for conspiracy liability. (e) is incorrect because a corrupt police protector facilitating the enterprise clearly falls within the scope of conspiracy liability.
 
 **Tags:** chapters: [20], topics: [RICO conspiracy, Salinas rule], difficulty: medium, cognitive: application
-**Grounding:** Chapter 20, Salinas v. United States
 
-<!-- grounding: GROUNDED — Salinas rule, Ch 20, Refinement `salinas-no-personal-acts`. Rule paraphrased accurately. -->
+**Grounding:** Chapter 20, Salinas v. United States rejection of personal commission requirement.
+
+<!-- grounding: GROUNDED — Salinas rule (RICO conspiracy), Ch 20, Refinement `salinas-no-personal-acts`. Rule paraphrased accurately. -->

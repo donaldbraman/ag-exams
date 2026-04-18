@@ -1,21 +1,22 @@
-**Q8.** Assume that, whether or not Marcus satisfies the elements of attempted arson, he raises the defense of voluntary abandonment because he ran away after hearing the police sirens. Will the defense succeed?
+**Q8.** Assume that, whether or not Marcus committed a substantial step, he raises the defense of voluntary abandonment because he ran away after hearing the police sirens. Under the Model Penal Code, will his abandonment defense succeed?
 
-(a) The defense fails because abandoning a crime due to the fear of immediate police apprehension is motivated by unexpected resistance, not a genuine change of heart.
-(b) The defense fails because the doctrine of voluntary abandonment is completely unrecognized in any jurisdiction that has adopted the Model Penal Code framework.
-(c) The defense succeeds because Marcus subjectively believed that continuing the crime was impossible once he heard the sirens approaching the immediate area.
-(d) The defense succeeds because running away fully physically prevented the completion of the target offense before any substantial harm could actually occur.
-(e) The defense succeeds because Marcus completely severed his ties with the conspiracy prior to arriving at the target location and deploying the accelerants.
+(a) Yes, because Marcus completely ceased his participation in the criminal enterprise before the accelerant was ever transported to the target location or ignited.
+(b) Yes, because running away from the scene demonstrates a complete and permanent renunciation of the criminal purpose required by the Model Penal Code.
+(c) No, because the defense of voluntary abandonment is categorically unavailable for any crime involving the attempted destruction of commercial property.
+(d) No, because Marcus's abandonment was prompted by the fear of immediate apprehension from the police sirens, rather than a genuine change of heart. <!-- correct -->
+(e) Yes, because the police sirens were from an unrelated traffic stop, meaning Marcus's decision to flee was legally uncoerced by actual law enforcement intervention.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** (a) is correct. The defense of voluntary abandonment (or renunciation) requires a complete and voluntary renunciation of criminal purpose, representing a genuine change of heart. The defense is statutorily defeated if the abandonment is motivated in whole or in part by circumstances that increase the probability of detection or apprehension—such as hearing police sirens. (b) is wrong because the MPC explicitly recognizes and codified the voluntary abandonment defense. (c) is wrong because if the abandonment is motivated by a perceived impossibility or heightened risk of arrest, it is legally defined as involuntary. (d) is wrong because the defense evaluates the psychological voluntariness of the withdrawal, not merely whether the defendant physically succeeded in preventing the target harm. (e) is wrong because severing ties due to the immediate threat of police capture does not qualify as the legally voluntary, internally motivated change of heart required by the doctrine.
+**Explanation:** (d) is correct. Under the Model Penal Code, the defense of voluntary abandonment requires a complete and voluntary renunciation of the criminal purpose. An abandonment is not legally voluntary if it is motivated by unexpected resistance or circumstances that increase the probability of apprehension, such as hearing police sirens. (a) is incorrect because ceasing participation must be genuinely voluntary, not prompted by fear of imminent capture. (b) is incorrect because fleeing out of panic from sirens does not demonstrate a genuine internal change of heart. (c) is incorrect because voluntary abandonment is generally available for all attempt charges if the strict requirements are met. (e) is incorrect because the objective fact that the sirens were unrelated does not alter Marcus's subjective motivation for fleeing to avoid perceived apprehension.
 
-**Tags:** chapters: [17], topics: [voluntary abandonment], difficulty: medium, cognitive: application
-**Grounding:** Chapter 17, Voluntary Abandonment Doctrine
+**Tags:** chapters: [17], topics: [attempt, voluntary abandonment], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 17, Model Penal Code requirement that abandonment not be motivated by fear of imminent apprehension.
 
 <!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass. The fact that the sirens were from an "unrelated" traffic stop might look like a booby trap, but under the doctrine, it is the actor's *subjective* motivation (fear of apprehension triggered by the sound) that defeats the "genuine change of heart" requirement.
-2. Cross-Doctrine Clashes: pass. Marcus is also operating under duress (which would be his primary defense to the underlying conduct), but the call of the question explicitly restricts the inquiry to the viability of his voluntary abandonment defense.
-3. Cross-Question Spoilers: pass. Q5 addresses duress separately; no answers spoil or interact problematically with this targeted abandonment analysis.
-Recommended fix: None.
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
 -->
