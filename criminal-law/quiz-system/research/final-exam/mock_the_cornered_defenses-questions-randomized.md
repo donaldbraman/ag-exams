@@ -4,15 +4,15 @@ Counsel, the ADA just handed us a massive indictment for the warehouse incident.
 
 **Q1.** Theft in this jurisdiction is defined as "purposely depriving another of their movable property." Assuming Artie was negligent with respect to creating the risk of an explosion, under the Model Penal Code, which affirmative defense or defenses may he validly raise for the theft of the nitrogen tanker?
 
-(a) Necessity only, because duress is categorically unavailable as an excuse for any crime involving the theft of hazardous materials.
-(b) Both necessity, because the theft avoided a greater catastrophic harm, and duress, because he faced an imminent threat of death. <!-- correct -->
+(a) Neither, because his initial voluntary participation in the illegal drug operation automatically forecloses both affirmative defenses regardless of threat.
+(b) Neither, because he had a reasonable legal alternative to contact law enforcement rather than intentionally stealing the commercial nitrogen.
 (c) Duress only, because the coercion came from a human actor rather than natural circumstances, precluding the necessity defense entirely.
-(d) Neither, because his initial voluntary participation in the illegal drug operation automatically forecloses both affirmative defenses regardless of threat.
-(e) Neither, because he had a reasonable legal alternative to contact law enforcement rather than intentionally stealing the commercial nitrogen.
+(d) Both necessity, because the theft avoided a greater catastrophic harm, and duress, because he faced an imminent threat of death. <!-- correct -->
+(e) Necessity only, because duress is categorically unavailable as an excuse for any crime involving the theft of hazardous materials.
 
-**Answer:** (b)
+**Answer:** (d)
 
-**Explanation:** Option (b) is correct because Artie's actions satisfy the elements of both defenses: he stole the tanker to prevent a catastrophic neighborhood explosion (necessity/lesser evils) and did so under an immediate, deadly threat from Leo (duress). Option (c) fails because modern necessity doctrine generally permits the defense even when the threat originates from a human actor. Option (a) is incorrect because there is no categorical limit barring duress for theft offenses; the bar traditionally applies only to intentional homicide. Option (e) fails because waiting for police during a twelve-minute countdown with a gun to his head was not a genuine, reasonable alternative. Option (d) fails because under the MPC fault-calibration rule, prior fault only bars the defense if the fault level matches the mens rea of the charged crime, and Artie did not purposely or recklessly cause the reactor's mechanical malfunction.
+**Explanation:** Option (d) is correct because Artie's actions satisfy the elements of both defenses: he stole the tanker to prevent a catastrophic neighborhood explosion (necessity/lesser evils) and did so under an immediate, deadly threat from Leo (duress). Option (c) fails because modern necessity doctrine generally permits the defense even when the threat originates from a human actor. Option (e) is incorrect because there is no categorical limit barring duress for theft offenses; the bar traditionally applies only to intentional homicide. Option (b) fails because waiting for police during a twelve-minute countdown with a gun to his head was not a genuine, reasonable alternative. Option (a) fails because under the MPC fault-calibration rule, prior fault only bars the defense if the fault level matches the mens rea of the charged crime, and Artie did not purposely or recklessly cause the reactor's mechanical malfunction.
 
 **Tags:** chapters: [21], topics: [necessity, duress, choice of evils, imminence, fault calibration], difficulty: medium, cognitive: application
 
@@ -23,14 +23,14 @@ Counsel, the ADA just handed us a massive indictment for the warehouse incident.
 **Q2.** Under the traditional common law standard for derivative liability, is Benny guilty as an accomplice to Artie's theft of the tanker?
 
 (a) Guilty, because Benny was present at the scene and his failure to intervene constituted an omission that aided the criminal act.
-(b) Not guilty, because Benny did not physically participate in the actual taking and driving of the nitrogen tanker from the lot.
-(c) Guilty, because Benny knew the tools would be used to commit a crime, which is sufficient for liability under the traditional rule.
+(b) Guilty, because Benny knew the tools would be used to commit a crime, which is sufficient for liability under the traditional rule.
+(c) Not guilty, because Benny did not physically participate in the actual taking and driving of the nitrogen tanker from the lot.
 (d) Not guilty, because Benny acted with mere knowledge that the theft would occur, lacking the purpose to facilitate the underlying offense. <!-- correct -->
 (e) Guilty, because providing specialized hotwiring tools to commit a crime automatically satisfies the strict mental state for derivative accomplice liability.
 
 **Answer:** (d)
 
-**Explanation:** Option (d) is correct because traditional accomplice liability requires the dual mens rea of intent to assist and purpose that the underlying crime succeed. Benny explicitly disclaimed any interest in the lab's success ("I don't care about your lab") and acted solely out of a desire to survive, showing knowledge but lacking the requisite purpose. Option (b) fails because physical participation in the core actus reus is not required; tossing the tools is sufficient physical aid. Option (e) fails because merely providing specialized tools does not automatically prove purpose; the mental state must still be established. Option (a) fails because Benny did not commit an omission—he affirmatively provided tools. Option (c) fails because the traditional rule explicitly requires purpose, not mere knowledge, to establish accomplice liability.
+**Explanation:** Option (d) is correct because traditional accomplice liability requires the dual mens rea of intent to assist and purpose that the underlying crime succeed. Benny explicitly disclaimed any interest in the lab's success ("I don't care about your lab") and acted solely out of a desire to survive, showing knowledge but lacking the requisite purpose. Option (c) fails because physical participation in the core actus reus is not required; tossing the tools is sufficient physical aid. Option (e) fails because merely providing specialized tools does not automatically prove purpose; the mental state must still be established. Option (a) fails because Benny did not commit an omission—he affirmatively provided tools. Option (b) fails because the traditional rule explicitly requires purpose, not mere knowledge, to establish accomplice liability.
 
 **Tags:** chapters: [18], topics: [accomplice liability, purpose vs knowledge, actus reus], difficulty: medium, cognitive: application
 
@@ -41,14 +41,14 @@ Counsel, the ADA just handed us a massive indictment for the warehouse incident.
 **Q3.** Assume that, regardless of your answer to the previous question, Benny acted with the required purpose to aid Artie. Under traditional common law doctrine, how does the classification of Artie's affirmative defense legally impact Benny's derivative liability?
 
 (a) If Artie succeeds on a duress defense, Benny is shielded from liability because the duress excuse automatically transfers to any accomplice at the scene.
-(b) If Artie succeeds on a necessity defense, Benny is shielded from liability, but if Artie succeeds only on a duress defense, Benny remains fully liable. <!-- correct -->
-(c) Benny remains fully liable in all circumstances because derivative accomplice liability irrevocably attaches the moment the principal commits the prohibited physical act.
-(d) Benny's liability is evaluated independently, meaning Artie's successful assertion of any affirmative defense has absolutely no legal bearing on Benny's criminal guilt.
-(e) If Artie succeeds on either necessity or duress, Benny is completely shielded because both doctrines operate to fully negate the underlying actus reus.
+(b) Benny remains fully liable in all circumstances because derivative accomplice liability irrevocably attaches the moment the principal commits the prohibited physical act.
+(c) Benny's liability is evaluated independently, meaning Artie's successful assertion of any affirmative defense has absolutely no legal bearing on Benny's criminal guilt.
+(d) If Artie succeeds on either necessity or duress, Benny is completely shielded because both doctrines operate to fully negate the underlying actus reus.
+(e) If Artie succeeds on a necessity defense, Benny is shielded from liability, but if Artie succeeds only on a duress defense, Benny remains fully liable. <!-- correct -->
 
-**Answer:** (b)
+**Answer:** (e)
 
-**Explanation:** Option (b) is correct due to the fundamental distinction between justifications and excuses. Necessity is a justification, meaning the act is deemed legally right, shielding any accomplice who assists. Duress is an excuse, meaning the act is wrongful but the actor is not blamed; excuses are personal and do not transfer to uncoerced accomplices like Benny. Option (e) fails because neither defense negates the actus reus, and duress does not shield an accomplice. Option (a) fails because excuses like duress are strictly personal to the coerced actor. Option (d) fails because derivative liability structurally ties the accomplice's guilt to the wrongfulness of the principal's act; a justified act cannot support accomplice liability. Option (c) fails because it ignores the entire doctrine of justification, which legally nullifies the wrongfulness of the principal's physical act.
+**Explanation:** Option (e) is correct due to the fundamental distinction between justifications and excuses. Necessity is a justification, meaning the act is deemed legally right, shielding any accomplice who assists. Duress is an excuse, meaning the act is wrongful but the actor is not blamed; excuses are personal and do not transfer to uncoerced accomplices like Benny. Option (d) fails because neither defense negates the actus reus, and duress does not shield an accomplice. Option (a) fails because excuses like duress are strictly personal to the coerced actor. Option (c) fails because derivative liability structurally ties the accomplice's guilt to the wrongfulness of the principal's act; a justified act cannot support accomplice liability. Option (b) fails because it ignores the entire doctrine of justification, which legally nullifies the wrongfulness of the principal's physical act.
 
 **Tags:** chapters: [18, 21], topics: [justification vs excuse, accomplice liability, derivative liability], difficulty: hard, cognitive: analysis
 
@@ -59,14 +59,14 @@ Counsel, the ADA just handed us a massive indictment for the warehouse incident.
 **Q4.** Under the M'Naghten and Model Penal Code (MPC) insanity tests, is Silas legally entitled to an acquittal for the shooting of Vargas?
 
 (a) Acquitted under both tests, because his delusion prevented him from understanding the nature of his act and appreciating its moral wrongfulness. <!-- correct -->
-(b) Acquitted under the MPC only, because the M'Naghten rule requires a total inability to control one's actions, which Silas clearly maintained.
-(c) Acquitted under M'Naghten only, because the MPC test strictly requires proof of an irresistible impulse, which is absent from Silas's deliberate shooting.
+(b) Convicted under both tests, because his statement about protecting the castle proves he understood the mechanical nature of firing a lethal weapon.
+(c) Acquitted under the MPC only, because the M'Naghten rule requires a total inability to control one's actions, which Silas clearly maintained.
 (d) Convicted under both tests, because his voluntary participation in a criminal conspiracy legally precludes the use of the insanity defense for foreseeable crimes.
-(e) Convicted under both tests, because his statement about protecting the castle proves he understood the mechanical nature of firing a lethal weapon.
+(e) Acquitted under M'Naghten only, because the MPC test strictly requires proof of an irresistible impulse, which is absent from Silas's deliberate shooting.
 
 **Answer:** (a)
 
-**Explanation:** Option (a) is correct because Silas believed he was shooting a "monster made of smoke" and a "fire-demon." Under M'Naghten, this cognitive deficit means he did not know the nature and quality of his act (killing a human) nor that it was wrong. The MPC encompasses this severe cognitive impairment by asking if he lacked substantial capacity to appreciate the criminality/wrongfulness of his conduct. Option (c) fails because the MPC includes a cognitive prong (appreciate criminality/wrongfulness) in addition to its volitional prong; it does not strictly require an irresistible impulse. Option (b) fails because M'Naghten is entirely a cognitive test (knowing right from wrong) and does not require volitional inability to control actions. Option (d) fails because there is no blanket rule barring the insanity defense for crimes committed during a conspiracy. Option (e) fails because understanding the mechanics of a firearm does not equate to understanding the nature and quality of the act (killing a human being).
+**Explanation:** Option (a) is correct because Silas believed he was shooting a "monster made of smoke" and a "fire-demon." Under M'Naghten, this cognitive deficit means he did not know the nature and quality of his act (killing a human) nor that it was wrong. The MPC encompasses this severe cognitive impairment by asking if he lacked substantial capacity to appreciate the criminality/wrongfulness of his conduct. Option (e) fails because the MPC includes a cognitive prong (appreciate criminality/wrongfulness) in addition to its volitional prong; it does not strictly require an irresistible impulse. Option (c) fails because M'Naghten is entirely a cognitive test (knowing right from wrong) and does not require volitional inability to control actions. Option (d) fails because there is no blanket rule barring the insanity defense for crimes committed during a conspiracy. Option (b) fails because understanding the mechanics of a firearm does not equate to understanding the nature and quality of the act (killing a human being).
 
 **Tags:** chapters: [23], topics: [insanity, M'Naghten, MPC, cognitive prong], difficulty: medium, cognitive: application
 
@@ -76,15 +76,15 @@ Counsel, the ADA just handed us a massive indictment for the warehouse incident.
 
 **Q5.** Assume that Silas is prosecuted in a jurisdiction that has abolished the affirmative defense of insanity (the mens rea model). Is Silas guilty of the specific intent crime of intentional murder for killing Vargas?
 
-(a) Not guilty, because the federal constitution requires all jurisdictions to acquit defendants who cannot appreciate the moral wrongfulness of their criminal conduct.
-(b) Guilty, because the abolition of the insanity defense strictly prohibits any consideration of psychiatric evidence by the jury during a criminal trial.
-(c) Guilty, because his deliberate aiming and firing of the weapon demonstrates sufficient voluntary action to satisfy all necessary elements of the charged crime.
-(d) Not guilty, because his delusion that he was shooting a fire-demon prevented him from forming the specific intent to kill a human being. <!-- correct -->
+(a) Guilty, because his deliberate aiming and firing of the weapon demonstrates sufficient voluntary action to satisfy all necessary elements of the charged crime.
+(b) Not guilty, because his delusion that he was shooting a fire-demon prevented him from forming the specific intent to kill a human being. <!-- correct -->
+(c) Not guilty, because the federal constitution requires all jurisdictions to acquit defendants who cannot appreciate the moral wrongfulness of their criminal conduct.
+(d) Guilty, because the abolition of the insanity defense strictly prohibits any consideration of psychiatric evidence by the jury during a criminal trial.
 (e) Guilty, because he intended to destroy the entity before him, which automatically transfers to the human victim under the doctrine of transferred intent.
 
-**Answer:** (d)
+**Answer:** (b)
 
-**Explanation:** Option (d) is correct because in states that have abolished the insanity defense (e.g., Kansas, Idaho), psychiatric evidence remains admissible if it directly negates the specific statutory mens rea. Because Silas genuinely believed he was shooting a smoke monster, he lacked the specific intent to kill a human being, requiring acquittal of intentional murder. Option (a) fails because the Supreme Court ruled in Kahler v. Kansas that the Constitution does not require a moral capacity insanity test. Option (b) fails because abolition jurisdictions still allow psychiatric evidence to negate mens rea elements. Option (c) fails because voluntary action (actus reus) is separate from specific intent (mens rea), and the crime requires both. Option (e) fails because transferred intent applies when a defendant intends to kill one human and hits another; it cannot manufacture the initial mens rea to kill a human from the intent to destroy a hallucinated monster.
+**Explanation:** Option (b) is correct because in states that have abolished the insanity defense (e.g., Kansas, Idaho), psychiatric evidence remains admissible if it directly negates the specific statutory mens rea. Because Silas genuinely believed he was shooting a smoke monster, he lacked the specific intent to kill a human being, requiring acquittal of intentional murder. Option (c) fails because the Supreme Court ruled in Kahler v. Kansas that the Constitution does not require a moral capacity insanity test. Option (d) fails because abolition jurisdictions still allow psychiatric evidence to negate mens rea elements. Option (a) fails because voluntary action (actus reus) is separate from specific intent (mens rea), and the crime requires both. Option (e) fails because transferred intent applies when a defendant intends to kill one human and hits another; it cannot manufacture the initial mens rea to kill a human from the intent to destroy a hallucinated monster.
 
 **Tags:** chapters: [23], topics: [insanity, mens rea model, abolition, specific intent, Kahler], difficulty: hard, cognitive: analysis
 
@@ -94,15 +94,15 @@ Counsel, the ADA just handed us a massive indictment for the warehouse incident.
 
 **Q6.** Is Dante legally liable for the murder of Vargas under the Pinkerton doctrine?
 
-(a) Not liable, because Pinkerton liability only applies to the specific target offense initially agreed upon, which was drug manufacturing rather than intentional homicide.
+(a) Liable, because Silas's act of shooting a rival to protect the drug shipment was a foreseeable consequence in furtherance of the ongoing conspiracy. <!-- correct -->
 (b) Not liable, because Dante was not physically present at the warehouse when the shooting occurred, which severs the necessary chain of proximate causation.
-(c) Liable, because Silas's act of shooting a rival to protect the drug shipment was a foreseeable consequence in furtherance of the ongoing conspiracy. <!-- correct -->
-(d) Not liable, because Silas's act was the result of a psychotic delusion rather than a rationally planned act designed to further the conspiracy.
-(e) Liable, because the Pinkerton doctrine holds all conspirators strictly liable for any crime committed by a co-conspirator, regardless of its factual foreseeability.
+(c) Not liable, because Silas's act was the result of a psychotic delusion rather than a rationally planned act designed to further the conspiracy.
+(d) Liable, because the Pinkerton doctrine holds all conspirators strictly liable for any crime committed by a co-conspirator, regardless of its factual foreseeability.
+(e) Not liable, because Pinkerton liability only applies to the specific target offense initially agreed upon, which was drug manufacturing rather than intentional homicide.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** Option (c) is correct because under Pinkerton, a co-conspirator is liable for the substantive offenses committed by other conspirators if those offenses are both in furtherance of the conspiracy and reasonably foreseeable. Silas, acting as the perimeter guard for a major armed drug operation, shot a rival trying to hijack the shipment—an act squarely in furtherance of the conspiracy and highly foreseeable in the drug trade. Option (e) fails because Pinkerton is not strict liability; it explicitly requires the collateral crime to be reasonably foreseeable. Option (b) fails because Pinkerton liability routinely applies to absent co-conspirators. Option (d) fails because even though Silas was delusional, he fired the weapon explicitly to "protect the castle," fulfilling his conspiratorial role in furtherance of the enterprise. Option (a) fails because Pinkerton specifically exists to capture collateral offenses that fall outside the initial target agreement.
+**Explanation:** Option (a) is correct because under Pinkerton, a co-conspirator is liable for the substantive offenses committed by other conspirators if those offenses are both in furtherance of the conspiracy and reasonably foreseeable. Silas, acting as the perimeter guard for a major armed drug operation, shot a rival trying to hijack the shipment—an act squarely in furtherance of the conspiracy and highly foreseeable in the drug trade. Option (d) fails because Pinkerton is not strict liability; it explicitly requires the collateral crime to be reasonably foreseeable. Option (b) fails because Pinkerton liability routinely applies to absent co-conspirators. Option (c) fails because even though Silas was delusional, he fired the weapon explicitly to "protect the castle," fulfilling his conspiratorial role in furtherance of the enterprise. Option (e) fails because Pinkerton specifically exists to capture collateral offenses that fall outside the initial target agreement.
 
 **Tags:** chapters: [19], topics: [conspiracy, Pinkerton liability, foreseeability, in furtherance], difficulty: medium, cognitive: application
 
@@ -113,14 +113,14 @@ Counsel, the ADA just handed us a massive indictment for the warehouse incident.
 **Q7.** Under the traditional common law, assume the jurisdiction explicitly enumerates illicit drug manufacturing as a predicate offense in its first-degree murder statute. Is Dante guilty of felony murder for the death of Vargas?
 
 (a) Not guilty, because the modern agency approach to felony murder categorically bars derivative liability whenever the fatal blow is struck by a co-felon.
-(b) Not guilty, because Silas's severe mental illness acts as an independent intervening cause that legally breaks the necessary chain of proximate causation.
-(c) Guilty, because the homicide occurred during the perpetration of an enumerated drug manufacturing felony in which Dante was a willing participant. <!-- correct -->
-(d) Not guilty, because Dante completely lacked the specific intent to kill Vargas, which is a mandatory prerequisite for any valid murder conviction.
-(e) Guilty, because the modern felony murder rule operates as a strict liability offense that explicitly ignores whether the underlying crime was inherently dangerous.
+(b) Guilty, because the homicide occurred during the perpetration of an enumerated drug manufacturing felony in which Dante was a willing participant. <!-- correct -->
+(c) Not guilty, because Silas's severe mental illness acts as an independent intervening cause that legally breaks the necessary chain of proximate causation.
+(d) Guilty, because the modern felony murder rule operates as a strict liability offense that explicitly ignores whether the underlying crime was inherently dangerous.
+(e) Not guilty, because Dante completely lacked the specific intent to kill Vargas, which is a mandatory prerequisite for any valid murder conviction.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** Option (c) is correct because felony murder applies when a death occurs during the perpetration of a statutorily enumerated predicate felony (in this case, illicit drug manufacturing). As a co-felon in that operation, Dante is liable for the resulting death caused by his co-felon Silas, regardless of his absence. Option (e) fails because most jurisdictions still require the underlying predicate felony to be inherently dangerous or statutorily enumerated. Option (d) fails because the core function of the felony murder rule is to substitute the intent to commit the felony for the intent to kill (malice). Option (b) fails because a co-felon performing his assigned role (guarding the drugs) is a dependent, foreseeable act, not an independent intervening cause that breaks proximate causation. Option (a) fails because the agency approach bars liability when the fatal blow is struck by a non-felon (like police or a victim), but explicitly allows liability when the blow is struck by a co-felon.
+**Explanation:** Option (b) is correct because felony murder applies when a death occurs during the perpetration of a statutorily enumerated predicate felony (in this case, illicit drug manufacturing). As a co-felon in that operation, Dante is liable for the resulting death caused by his co-felon Silas, regardless of his absence. Option (d) fails because most jurisdictions still require the underlying predicate felony to be inherently dangerous or statutorily enumerated. Option (e) fails because the core function of the felony murder rule is to substitute the intent to commit the felony for the intent to kill (malice). Option (c) fails because a co-felon performing his assigned role (guarding the drugs) is a dependent, foreseeable act, not an independent intervening cause that breaks proximate causation. Option (a) fails because the agency approach bars liability when the fatal blow is struck by a non-felon (like police or a victim), but explicitly allows liability when the blow is struck by a co-felon.
 
 **Tags:** chapters: [14], topics: [felony murder, inherently dangerous, co-felon liability, agency approach], difficulty: medium, cognitive: analysis
 
@@ -130,15 +130,15 @@ Counsel, the ADA just handed us a massive indictment for the warehouse incident.
 
 **Q8.** In a jurisdiction that strictly enforces the bilateral requirement for agreement to a conspiracy, have Leo, Artie, Silas, and Dante legally satisfied the prima facie elements of criminal conspiracy?
 
-(a) Yes, because the agreement to manufacture Schedule II narcotics is a strict liability conspiracy that does not require any overt act to be prosecutable.
-(b) No, because Silas's severe schizophrenia rendered him legally incapable of forming the specific intent to agree, voiding the bilateral agreement for all parties.
-(c) No, because the active presence of an undercover agent is strictly required to establish a legally valid conspiracy prosecution under the traditional Wharton Rule.
-(d) No, because the criminal operation had not yet produced any finished synthetic opioids, meaning the agreement remained exclusively in the unpunishable preparatory stage.
-(e) Yes, because they formed a mutual agreement to commit a crime and the pooling of money and warehouse rental constituted overt acts in furtherance. <!-- correct -->
+(a) No, because Silas's severe schizophrenia rendered him legally incapable of forming the specific intent to agree, voiding the bilateral agreement for all parties.
+(b) No, because the active presence of an undercover agent is strictly required to establish a legally valid conspiracy prosecution under the traditional Wharton Rule.
+(c) Yes, because they formed a mutual agreement to commit a crime and the pooling of money and warehouse rental constituted overt acts in furtherance. <!-- correct -->
+(d) Yes, because the agreement to manufacture Schedule II narcotics is a strict liability conspiracy that does not require any overt act to be prosecutable.
+(e) No, because the criminal operation had not yet produced any finished synthetic opioids, meaning the agreement remained exclusively in the unpunishable preparatory stage.
 
-**Answer:** (e)
+**Answer:** (c)
 
-**Explanation:** Option (e) is correct because a conspiracy requires an agreement to commit a crime and, in most modern jurisdictions, an overt act in furtherance of that agreement. The explicit meeting and agreement, combined with pooling money, renting the warehouse, and buying equipment, easily satisfy these elements. Option (a) fails because modern conspiracy statutes almost universally require an overt act for standard non-drug conspiracies, and often for drug conspiracies as well, rather than being "strict liability." Option (d) fails because conspiracy punishes the agreement and initial steps; success or completion of the target offense is completely unnecessary. Option (b) fails because even if Silas lacked capacity, modern jurisdictions follow the MPC's unilateral approach, and even under bilateral rules, the remaining three members validly formed an agreement. Option (c) fails because Wharton's Rule applies to crimes that logically require two people to commit (like dueling or adultery), not to the requirement of an undercover agent.
+**Explanation:** Option (c) is correct because a conspiracy requires an agreement to commit a crime and, in most modern jurisdictions, an overt act in furtherance of that agreement. The explicit meeting and agreement, combined with pooling money, renting the warehouse, and buying equipment, easily satisfy these elements. Option (d) fails because modern conspiracy statutes almost universally require an overt act for standard non-drug conspiracies, and often for drug conspiracies as well, rather than being "strict liability." Option (e) fails because conspiracy punishes the agreement and initial steps; success or completion of the target offense is completely unnecessary. Option (a) fails because even if Silas lacked capacity, modern jurisdictions follow the MPC's unilateral approach, and even under bilateral rules, the remaining three members validly formed an agreement. Option (b) fails because Wharton's Rule applies to crimes that logically require two people to commit (like dueling or adultery), not to the requirement of an undercover agent.
 
 **Tags:** chapters: [19], topics: [conspiracy, agreement, overt act, Wharton's rule], difficulty: easy, cognitive: application
 
@@ -153,14 +153,14 @@ Dante was arrested at his apartment after shooting Hector. He's claiming absolut
 **Q9.** Based on the police seizure at the warehouse, is Dante legally guilty of constructively possessing the finished drugs stored inside the reinforced steel safe?
 
 (a) Guilty, because his exclusive retention of the only key to the safe demonstrates the requisite power and intent to exercise dominion and control over the drugs. <!-- correct -->
-(b) Not guilty, because Dante was not physically present at the industrial warehouse at the precise moment the police seized the contraband from the safe.
-(c) Not guilty, because the police interrupted the manufacturing operation before Dante could physically distribute the finished product to any downstream buyers.
-(d) Guilty, because his initial financial contribution to the drug manufacturing operation automatically establishes actual physical possession of all resulting contraband.
-(e) Not guilty, because the drugs were stored in a collective facility, legally preventing any single absent individual from establishing constructive possession.
+(b) Not guilty, because the drugs were stored in a collective facility, legally preventing any single absent individual from establishing constructive possession.
+(c) Guilty, because his initial financial contribution to the drug manufacturing operation automatically establishes actual physical possession of all resulting contraband.
+(d) Not guilty, because the police interrupted the manufacturing operation before Dante could physically distribute the finished product to any downstream buyers.
+(e) Not guilty, because Dante was not physically present at the industrial warehouse at the precise moment the police seized the contraband from the safe.
 
 **Answer:** (a)
 
-**Explanation:** Option (a) is correct because constructive possession requires the power and intent to exercise dominion and control over an item. Dante's possession of the sole key to the safe establishes his exclusive power and control over the drugs inside, satisfying the doctrine. Option (d) fails because financial contribution to an operation does not establish "actual" physical possession, which requires immediate physical custody of the item. Option (b) fails because constructive possession was developed specifically to capture defendants who maintain control over contraband without being physically present. Option (e) fails because while a collective facility can complicate possession, Dante's exclusive control of the locked safe overcomes any ambiguity regarding collective access. Option (c) fails because the crime of possession is complete the moment control is established; intent or opportunity to distribute the drugs is legally irrelevant to a simple possession charge.
+**Explanation:** Option (a) is correct because constructive possession requires the power and intent to exercise dominion and control over an item. Dante's possession of the sole key to the safe establishes his exclusive power and control over the drugs inside, satisfying the doctrine. Option (c) fails because financial contribution to an operation does not establish "actual" physical possession, which requires immediate physical custody of the item. Option (e) fails because constructive possession was developed specifically to capture defendants who maintain control over contraband without being physically present. Option (b) fails because while a collective facility can complicate possession, Dante's exclusive control of the locked safe overcomes any ambiguity regarding collective access. Option (d) fails because the crime of possession is complete the moment control is established; intent or opportunity to distribute the drugs is legally irrelevant to a simple possession charge.
 
 **Tags:** chapters: [15], topics: [constructive possession, dominion and control, exclusive control], difficulty: medium, cognitive: application
 
@@ -170,15 +170,15 @@ Dante was arrested at his apartment after shooting Hector. He's claiming absolut
 
 **Q10.** Assume Dante raises a standard self-defense claim for shooting Hector. Under traditional doctrine, does the imminence requirement permit Dante's preemptive use of deadly force?
 
-(a) No, because the defensive use of deadly force is categorically prohibited unless the aggressor has already inflicted a severe physical injury on the defendant.
-(b) Yes, because Hector's known status as a violent gang enforcer automatically converts any verbal threat he makes into an imminent threat of deadly force.
-(c) Yes, because the continuous threat doctrine allows a defendant to strike preemptively whenever a rival gang member unlawfully enters their private residence.
-(d) Yes, because Dante subjectively believed that Hector was drawing a weapon, which completely satisfies the imminence requirement regardless of the objective facts.
-(e) No, because Hector's stated threat was conditioned on the future arrival of his crew, and his relaxed posture did not present an objectively immediate threat. <!-- correct -->
+(a) Yes, because Dante subjectively believed that Hector was drawing a weapon, which completely satisfies the imminence requirement regardless of the objective facts.
+(b) No, because Hector's stated threat was conditioned on the future arrival of his crew, and his relaxed posture did not present an objectively immediate threat. <!-- correct -->
+(c) Yes, because Hector's known status as a violent gang enforcer automatically converts any verbal threat he makes into an imminent threat of deadly force.
+(d) No, because the defensive use of deadly force is categorically prohibited unless the aggressor has already inflicted a severe physical injury on the defendant.
+(e) Yes, because the continuous threat doctrine allows a defendant to strike preemptively whenever a rival gang member unlawfully enters their private residence.
 
-**Answer:** (e)
+**Answer:** (b)
 
-**Explanation:** Option (e) is correct because traditional self-defense requires an objectively reasonable belief of an imminent threat of harm. Hector explicitly stated the execution would happen when his crew arrived in five minutes, and he sat with his hands behind his head. Objectively, the threat was future, not immediate. Option (a) fails because self-defense does not require the defendant to wait until they are physically struck or injured before acting. Option (d) fails because a purely subjective belief is insufficient; traditional self-defense requires the fear to be objectively reasonable under the circumstances. Option (b) fails because an aggressor's status or reputation, while relevant to reasonableness, does not automatically bypass the temporal requirement of an imminent physical threat. Option (c) fails because there is no "continuous threat" doctrine granting blanket preemptive rights against gang members in one's home.
+**Explanation:** Option (b) is correct because traditional self-defense requires an objectively reasonable belief of an imminent threat of harm. Hector explicitly stated the execution would happen when his crew arrived in five minutes, and he sat with his hands behind his head. Objectively, the threat was future, not immediate. Option (d) fails because self-defense does not require the defendant to wait until they are physically struck or injured before acting. Option (a) fails because a purely subjective belief is insufficient; traditional self-defense requires the fear to be objectively reasonable under the circumstances. Option (c) fails because an aggressor's status or reputation, while relevant to reasonableness, does not automatically bypass the temporal requirement of an imminent physical threat. Option (e) fails because there is no "continuous threat" doctrine granting blanket preemptive rights against gang members in one's home.
 
 **Tags:** chapters: [22], topics: [self-defense, imminence, objective reasonableness], difficulty: medium, cognitive: application
 
@@ -188,15 +188,15 @@ Dante was arrested at his apartment after shooting Hector. He's claiming absolut
 
 **Q11.** Assuming Dante lived in a jurisdiction that strictly enforces a general duty to retreat before using deadly force, how does the location of the confrontation legally affect this duty?
 
-(a) Dante had a duty to retreat, because the Castle Doctrine is strictly invalidated when the intruder is seated and unarmed at the exact moment of the shooting.
-(b) Dante had no duty to retreat, because the Castle Doctrine universally exempts individuals from the duty to retreat when attacked inside their own home. <!-- correct -->
-(c) Dante had a duty to retreat, because the fire-escape window provided a visually confirmed and unobstructed avenue to secure complete personal safety.
-(d) Dante had no duty to retreat, because the duty to retreat applies only to non-deadly force and is legally irrelevant when a firearm is introduced.
-(e) Dante had a duty to retreat, because his active participation in a criminal enterprise automatically strips him of all self-defense rights inside his dwelling.
+(a) Dante had no duty to retreat, because the duty to retreat applies only to non-deadly force and is legally irrelevant when a firearm is introduced.
+(b) Dante had a duty to retreat, because his active participation in a criminal enterprise automatically strips him of all self-defense rights inside his dwelling.
+(c) Dante had a duty to retreat, because the Castle Doctrine is strictly invalidated when the intruder is seated and unarmed at the exact moment of the shooting.
+(d) Dante had a duty to retreat, because the fire-escape window provided a visually confirmed and unobstructed avenue to secure complete personal safety.
+(e) Dante had no duty to retreat, because the Castle Doctrine universally exempts individuals from the duty to retreat when attacked inside their own home. <!-- correct -->
 
-**Answer:** (b)
+**Answer:** (e)
 
-**Explanation:** Option (b) is correct because the Castle Doctrine is a universally recognized exception to the duty to retreat. Even in strict retreat jurisdictions, a person is not required to flee from an intruder inside their own home before resorting to self-defense. Option (c) fails because the existence of a safe avenue of retreat (the fire escape) is exactly what the Castle Doctrine overrides when the defendant is home. Option (d) fails because the duty to retreat applies specifically to the use of deadly force; there is generally no duty to retreat before using non-deadly force. Option (a) fails because the Castle Doctrine's application depends on the location (the home) and the presence of a threat, not on the specific posture of the intruder. Option (e) fails because while some statutory Stand Your Ground laws contain criminal activity exceptions, traditional Castle Doctrine inside the home does not automatically vanish simply because the resident is a criminal.
+**Explanation:** Option (e) is correct because the Castle Doctrine is a universally recognized exception to the duty to retreat. Even in strict retreat jurisdictions, a person is not required to flee from an intruder inside their own home before resorting to self-defense. Option (d) fails because the existence of a safe avenue of retreat (the fire escape) is exactly what the Castle Doctrine overrides when the defendant is home. Option (a) fails because the duty to retreat applies specifically to the use of deadly force; there is generally no duty to retreat before using non-deadly force. Option (c) fails because the Castle Doctrine's application depends on the location (the home) and the presence of a threat, not on the specific posture of the intruder. Option (b) fails because while some statutory Stand Your Ground laws contain criminal activity exceptions, traditional Castle Doctrine inside the home does not automatically vanish simply because the resident is a criminal.
 
 **Tags:** chapters: [22], topics: [self-defense, duty to retreat, castle doctrine], difficulty: easy, cognitive: application
 
@@ -206,15 +206,15 @@ Dante was arrested at his apartment after shooting Hector. He's claiming absolut
 
 **Q12.** Assume that Dante is prosecuted in a jurisdiction that fully recognizes the doctrine of imperfect self-defense. How would Dante's subjective panic affect his criminal liability for shooting Hector?
 
-(a) It would mitigate a murder charge to voluntary manslaughter because his genuine, albeit unreasonable, fear of death negates the malice aforethought required for murder. <!-- correct -->
+(a) It would elevate the burden of proof, requiring the prosecution to prove beyond a reasonable doubt that Dante's subjective fear was completely fabricated.
 (b) It would result in a complete acquittal because the doctrine fully excuses defendants who act out of genuine panic, provided they are in their own home.
-(c) It would have no effect on his liability because imperfect self-defense only applies when the defendant was the initial aggressor who later attempted to withdraw.
-(d) It would elevate the burden of proof, requiring the prosecution to prove beyond a reasonable doubt that Dante's subjective fear was completely fabricated.
-(e) It would mitigate the charge to involuntary manslaughter because his failure to accurately assess the threat constituted gross criminal negligence.
+(c) It would mitigate a murder charge to voluntary manslaughter because his genuine, albeit unreasonable, fear of death negates the malice aforethought required for murder. <!-- correct -->
+(d) It would mitigate the charge to involuntary manslaughter because his failure to accurately assess the threat constituted gross criminal negligence.
+(e) It would have no effect on his liability because imperfect self-defense only applies when the defendant was the initial aggressor who later attempted to withdraw.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** Option (a) is correct because imperfect self-defense applies when a defendant honestly but unreasonably believes deadly force is necessary. This genuine belief negates the malice aforethought required for murder, reducing the offense to voluntary manslaughter. Option (b) fails because imperfect self-defense is a partial defense that mitigates the charge; it does not yield a complete acquittal. Option (e) fails because imperfect self-defense mitigates intentional killings to voluntary manslaughter, not to the unintentional crime of involuntary manslaughter. Option (c) fails because it confuses imperfect self-defense with the initial aggressor revival rule; imperfect self-defense applies based on the defendant's flawed subjective perception, not their status as an initial aggressor. Option (d) fails because raising the defense does not require the prosecution to prove the fear was fabricated; it merely shifts the jury's analysis to evaluating whether the genuine belief mitigated malice.
+**Explanation:** Option (c) is correct because imperfect self-defense applies when a defendant honestly but unreasonably believes deadly force is necessary. This genuine belief negates the malice aforethought required for murder, reducing the offense to voluntary manslaughter. Option (b) fails because imperfect self-defense is a partial defense that mitigates the charge; it does not yield a complete acquittal. Option (d) fails because imperfect self-defense mitigates intentional killings to voluntary manslaughter, not to the unintentional crime of involuntary manslaughter. Option (e) fails because it confuses imperfect self-defense with the initial aggressor revival rule; imperfect self-defense applies based on the defendant's flawed subjective perception, not their status as an initial aggressor. Option (a) fails because raising the defense does not require the prosecution to prove the fear was fabricated; it merely shifts the jury's analysis to evaluating whether the genuine belief mitigated malice.
 
 **Tags:** chapters: [22], topics: [imperfect self-defense, voluntary manslaughter, malice, subjective belief], difficulty: medium, cognitive: application
 

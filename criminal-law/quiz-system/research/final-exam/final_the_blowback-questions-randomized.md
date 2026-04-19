@@ -1,249 +1,195 @@
-**Q1.** Assume Carmine is charged with first-degree premeditated murder in a majority jurisdiction following the Pennsylvania rule. He argues the killing was a spontaneous reaction to Paulie reaching for his jacket, not a premeditated act. How should the court rule on the premeditation element?
+**Q1.** Are Nora, Oscar, and Penelope guilty of conspiracy to manufacture and distribute methamphetamine?
 
-(a) Satisfied, because the split-second conscious decision to shoot is legally sufficient for premeditation. <!-- correct -->
-(b) Satisfied, because luring someone to a private location creates an irrebuttable presumption of malice.
-(c) Unsatisfied, because the sudden insult provoked an automatic reflex rather than a deliberate, willful act.
-(d) Unsatisfied, because he did not possess the specific intent to kill when he first arranged the meeting.
-(e) Unsatisfied, because the law requires at least some meaningful duration of time to reflect on the killing.
+(a) Yes, because Nora's demand for a 40% share of the profits establishes her stake in the venture, satisfying the purpose requirement even if she deliberately avoided knowing the operational details. <!-- correct -->
+(b) No, because a conspiracy requires all parties to agree on the specific means and methods of the underlying offense, which Nora explicitly refused to do.
+(c) No, because an agreement to provide funding and receive a return on investment creates a mere commercial relationship rather than the shared criminal purpose required for conspiracy.
+(d) No, because Nora explicitly stated she did not want to know how the chemicals were sourced or moved, negating the required meeting of the minds for a bilateral agreement.
+(e) Yes, because Oscar and Penelope took substantial steps toward manufacturing, which automatically imputes an agreement to any financial backer regardless of the backer's actual intent.
 
 **Answer:** (a)
 
-**Explanation:** Under the Pennsylvania rule (*Commonwealth v. Carroll*), "no time is too short" to form premeditation; the instantaneous, conscious decision to kill fully satisfies the element. Thus, (a) is correct. (d) is wrong because premeditation does not need to be formed far in advance. (e) is wrong because it describes a minority approach that requires actual temporal reflection, which the Pennsylvania rule explicitly rejects. (b) is wrong because while luring is evidence, it does not create an irrebuttable presumption, and Carmine lacked intent at that point anyway. (c) is wrong because under the *Carroll* standard, even rapid, impulsive intentional killings qualify as premeditated as long as the decision was conscious.
+**Explanation:** (a) is correct because under the standard for conspiracy, having a financial stake in the venture (such as a 40% cut of the profits) establishes the specific purpose to promote the illegal agreement, even if the funder deliberately avoids operational details. (e) is wrong because substantial steps by others do not automatically impute the agreement to a backer without proof of intent. (d) is wrong because avoiding logistical knowledge does not negate the core agreement to fund and profit from the enterprise. (c) is wrong because a return on investment tied directly to the illegal proceeds demonstrates a shared criminal purpose, not a mere commercial relationship. (b) is wrong because co-conspirators do not need to agree on every specific means or method to form a valid conspiracy.
 
-**Tags:** chapters: [12], topics: [intentional homicide, premeditation, pennsylvania rule], difficulty: easy, cognitive: application
+**Tags:** chapters: [10], topics: [conspiracy, agreement, stake-in-the-venture], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 12 (no-time-too-short, *Commonwealth v. Carroll*)
-
----
-
-**Q2.** Assume that, instead of premeditation, Carmine claims he acted in the heat of passion. Will a defense of common law voluntary manslaughter succeed based on Paulie's mocking words and admission of betrayal?
-
-(a) No, because he lured Paulie to the boat, proving that sufficient cooling time had already fully elapsed.
-(b) Yes, because admitting to being a federal informant satisfies the historical sudden discovery of betrayal category.
-(c) No, because words alone, no matter how opprobrious, cannot constitute adequate provocation at common law. <!-- correct -->
-(d) No, because his decision to shoot the victim was a completely disproportionate response to the insult.
-(e) Yes, because a reasonable person would be enraged by a subordinate's verbal defiance and betrayal.
-
-**Answer:** (c)
-
-**Explanation:** Under the categorical approach to common law voluntary manslaughter (*Girouard v. State*), words alone—no matter how insulting or inflammatory—can never constitute adequate provocation. Thus, (c) is correct. (e) is wrong because the common law relies on strict categories, not a generalized reasonable person standard for verbal insults. (b) is wrong because the historical category is specifically limited to the sudden discovery of spousal adultery, not general betrayal. (d) is wrong because the doctrine evaluates the adequacy of the provocation, not just proportionality. (a) is wrong because cooling time measures the interval between the provocation (which happened on the boat) and the killing, so luring him beforehand is irrelevant to cooling time.
-
-**Tags:** chapters: [12], topics: [voluntary manslaughter, common law provocation, words alone], difficulty: foundational, cognitive: application
-
-**Grounding:** Chapter 12 (words-alone-girouard)
+**Grounding:** General Criminal Law Doctrine (People v. Lauria; Stake in the Venture)
 
 ---
 
-**Q3.** Assume Carmine operates in a jurisdiction that recognizes the imperfect self-defense doctrine. What is his homicide liability for shooting Paulie?
+**Q2.** Assume for this question that Penelope is guilty of the supply depot theft. Is Nora guilty of the theft as an accomplice?
 
-(a) Acquittal, because the law evaluates self-defense subjectively and defers to the defendant's honest assessment of danger.
-(b) Second-degree murder, because he initiated the confrontation on the boat, making him the initial aggressor.
-(c) Involuntary manslaughter, because firing a weapon based on a misperception of a cigar constitutes criminal negligence.
-(d) Voluntary manslaughter, because his genuine but unreasonable belief in the need for force negates his malice. <!-- correct -->
-(e) Murder, because his belief was unreasonable, rendering the traditional self-defense justification entirely unavailable to him.
+(a) Yes, because Nora possessed general knowledge that the syndicate would need to source chemicals and equipment, making any related crimes natural and probable consequences.
+(b) No, because accomplice liability applies only to those who are physically present at the scene or who provide instrumentalities directly used in the commission of the crime.
+(c) No, because Nora's financial contribution was completed before the theft occurred, meaning she could not have contemporaneously assisted or encouraged Penelope's actions.
+(d) No, because accomplice liability requires the specific purpose to facilitate the target offense, and Nora explicitly distanced herself from how the syndicate would source its equipment. <!-- correct -->
+(e) Yes, because providing the initial $100,000 funding was a "but-for" cause of Penelope's ability to rent a getaway vehicle and target the regional supply depot.
 
 **Answer:** (d)
 
-**Explanation:** Imperfect self-defense applies when a defendant genuinely but unreasonably believes they face an imminent threat of death or serious bodily harm. This honest belief negates the malice element of murder, mitigating the offense to voluntary manslaughter. Thus, (d) is correct. (e) is wrong because while the unreasonableness defeats *perfect* self-defense, imperfect self-defense specifically steps in to prevent a murder conviction. (a) is wrong because full acquittal requires the belief to be objectively reasonable. (c) is wrong because intentional killings based on unreasonable beliefs are treated as voluntary, not involuntary, manslaughter under this doctrine. (b) is wrong because merely initiating a confrontation (without deadly force) does not automatically strip imperfect self-defense, and the core doctrine precisely addresses the subjective belief.
+**Explanation:** (d) is correct because accomplice liability generally requires the specific purpose to promote or facilitate the target offense. Nora expressly distanced herself from the sourcing operations, indicating she lacked the purpose to facilitate the specific crime of theft, even though she funded the broader conspiracy. (e) is wrong because "but-for" factual causation is not the mens rea standard for accomplice liability. (a) is wrong because general knowledge that equipment must be sourced is insufficient; purpose is required. (c) is wrong because providing prior funding can constitute sufficient assistance if done with the requisite purpose. (b) is wrong because physical presence and the direct provision of instrumentalities are not strictly required for accomplice liability.
 
-**Tags:** chapters: [22, 12], topics: [imperfect self-defense, voluntary manslaughter], difficulty: easy, cognitive: application
+**Tags:** chapters: [11], topics: [accomplice-liability, purpose-mens-rea], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 22 (imperfect-self-defense)
-
----
-
-**Q4.** Assume Benny is charged with unintentional homicide under the Model Penal Code (MPC) for Victor's death. What is Benny's highest level of homicide liability?
-
-(a) No crime, because the unexpected cessation of the rain was an unforeseeable intervening cause that breaks causation.
-(b) Negligent homicide, because his reliance on the rain to dilute the chemicals made his mistake merely unreasonable.
-(c) Strict liability homicide, because the environmental dumping of toxic waste constitutes a felony public welfare offense.
-(d) Manslaughter, because he consciously disregarded a substantial and unjustifiable risk that the toxic cloud would cause death. <!-- correct -->
-(e) Murder, because handling lethal chemicals in a residential area automatically demonstrates extreme indifference to human life.
-
-**Answer:** (d)
-
-**Explanation:** Under the MPC, manslaughter requires recklessness—a conscious disregard of a substantial and unjustifiable risk. Benny read the label and acknowledged the risk of a toxic cloud, but dismissed it due to the rain. This constitutes conscious disregard, making (d) correct. (b) is wrong because negligent homicide requires that the defendant *should have been* aware but was not; Benny actually perceived the risk. (e) is wrong because while his conduct was reckless, environmental dumping does not *automatically* establish the extreme indifference required for MPC murder without a jury determination. (c) is wrong because the MPC strictly rejects strict liability for homicide. (a) is wrong because rain stopping is highly foreseeable and does not break the causal chain.
-
-**Tags:** chapters: [13], topics: [unintentional homicide, MPC recklessness, negligence], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 13 (mpc-manslaughter-negligent-homicide-split)
+**Grounding:** General Criminal Law Doctrine (Accomplice Liability; Specific Purpose Requirement)
 
 ---
 
-**Q5.** Assume Benny is charged with depraved heart murder in a jurisdiction applying Maryland's *Beckwitt* standard. Is the charge appropriate based on the facts?
+**Q3.** Assume Oscar was entirely focused on the warehouse and did not know about Penelope's plan to steal from the depot. Under the *Pinkerton* doctrine, is Oscar liable for Penelope's theft?
 
-(a) Yes, because the reasonable person would have known weather is unpredictable, making the victim's death entirely foreseeable.
-(b) No, because depraved heart murder strictly requires that the defendant direct their dangerous conduct at a specific victim.
-(c) Yes, because any violation of environmental safety warning labels automatically constitutes a depraved indifference to human life.
-(d) No, because his conduct, while reckless, was not reasonably likely or certain to cause death given the rain. <!-- correct -->
-(e) Yes, because his acknowledgment of the risk to his friend proves he acted with the specific intent to kill.
-
-**Answer:** (d)
-
-**Explanation:** Under *Beckwitt*, depraved heart murder requires conduct that is "reasonably likely, if not certain, to cause death." While Benny was grossly reckless, the pouring rain and lack of people in the area meant his conduct was not *certain or highly likely* to kill, keeping it below the murder threshold. Thus, (d) is correct. (c) is wrong because regulatory violations do not automatically elevate manslaughter to murder. (e) is wrong because depraved heart murder is unintentional; acknowledging risk does not prove specific intent to kill. (b) is wrong because depraved heart murder frequently applies to generalized risks directed at the public, not just specific victims. (a) is wrong because mere foreseeability establishes negligence or recklessness (manslaughter), not the extreme likelihood required for murder.
-
-**Tags:** chapters: [13], topics: [depraved heart murder, extreme indifference], difficulty: hard, cognitive: application
-
-**Grounding:** Chapter 13 (likely-if-not-certain-standard, *Beckwitt v. State*)
-
----
-
-**Q6.** The prosecution charges Benny with conspiracy based on the meeting where the hijacking was proposed. Benny argues he never explicitly agreed to the plan. How should the court rule on the agreement element?
-
-(a) Acquitted, because conspiracy doctrine strictly requires an explicit verbal or written agreement to satisfy the actus reus.
-(b) Guilty, because mere presence at a syndicate meeting creates strict liability for any criminal plots discussed there.
-(c) Guilty, because his silent nod constitutes an affirmative act from which an agreement can be legally inferred. <!-- correct -->
-(d) Acquitted, because the hijacking was abandoned before completion, meaning the conspiratorial agreement never ripened into an offense.
-(e) Acquitted, because his subsequent complete lack of participation in the detailed planning completely nullifies the initial agreement.
-
-**Answer:** (c)
-
-**Explanation:** Conspiracy requires an agreement, but courts allow the agreement to be inferred from conduct. A silent nod in response to a pitch is an affirmative expression of assent that satisfies the act of agreement. Thus, (c) is correct. (a) is wrong because explicit verbal or written contracts are not required; tacit agreements suffice. (e) is wrong because the crime of conspiracy is complete upon the agreement (and overt act, if required); subsequent failure to plan does not retroactively negate the formation of the agreement. (b) is wrong because mere presence without affirmative participation or agreement is insufficient for liability. (d) is wrong because conspiracy is an inchoate offense that is punishable even if the target crime is never completed or attempted.
-
-**Tags:** chapters: [19], topics: [conspiracy, agreement inference], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 19 (agreement-inference)
-
----
-
-**Q7.** The jurisdiction is evaluating Dom's conduct at the loading dock. How does Dom fare under the common law "proximity" test versus the MPC "substantial step" test for the actus reus of attempt?
-
-(a) Both tests evaluate his subjective intent identically, making the actus reus outcome functionally identical under either common framework.
-(b) He is more likely guilty under proximity because he was physically near, but acquitted under the MPC's purpose test.
-(c) He is more likely guilty under the MPC, but might be acquitted under proximity for not being close enough. <!-- correct -->
-(d) Neither test results in guilt because he never actually touched the truck or initiated the ultimate hijacking act.
-(e) Both tests result in guilt because approaching the target vehicle clearly satisfies the actus reus requirement everywhere.
-
-**Answer:** (c)
-
-**Explanation:** The MPC's "substantial step" test draws the line of liability much earlier than the common law, requiring only an act strongly corroborative of criminal purpose (like arriving at the scene). The traditional proximity test requires the defendant to be dangerously close to completing the crime. Thus, (c) is correct. Dom's arrival at the dock easily satisfies the MPC, but because he didn't draw his weapon or touch the truck, he might fail the proximity test. (e) is wrong because proximity courts frequently acquit defendants who merely arrive at the scene. (d) is wrong because the MPC definitely encompasses arriving at the scene with a weapon. (b) is wrong because it inverses the strictness of the tests. (a) is wrong because the tests impose radically different actus reus thresholds despite evaluating identical subjective intent.
-
-**Tags:** chapters: [17], topics: [attempt, actus reus, proximity test, substantial step], difficulty: medium, cognitive: analysis
-
-**Grounding:** Chapter 17 (actus-reus-proximity-test, actus-reus-substantial-step)
-
----
-
-**Q8.** Assume Dom's actions at the dock satisfied the actus reus for attempt. Will he successfully assert the defense of abandonment under the Model Penal Code?
-
-(a) No, because the MPC firmly rejects the abandonment defense for any attempt that has crossed the substantial step.
-(b) No, because a renunciation motivated by the sudden fear of imminent police apprehension is not legally voluntary. <!-- correct -->
-(c) Yes, because his rapid decision to abandon the plan constitutes a complete repudiation of his criminal lifestyle.
-(d) Yes, because he completely withdrew from the scene before causing any property damage or physical harm to anyone.
-(e) Yes, because he had not yet committed the last proximate act required to complete the underlying target offense.
-
-**Answer:** (b)
-
-**Explanation:** The MPC recognizes the defense of abandonment (renunciation), but strictly requires that the abandonment be complete and voluntary. Renunciation is legally involuntary if it is motivated by circumstances increasing the probability of detection or apprehension (such as seeing a police cruiser). Thus, (b) is correct. (d) is wrong because avoiding harm does not make the withdrawal voluntary if motivated by police presence. (c) is wrong because fleeing cops is not a repudiation of criminal purpose, but a tactical retreat. (a) is wrong because the MPC *does* recognize the abandonment defense, specifically to incentivize backing out after a substantial step. (e) is wrong because the last proximate act is an outdated common law attempt standard, not the MPC standard for abandonment.
-
-**Tags:** chapters: [17], topics: [attempt, abandonment, MPC], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 17 (abandonment-mpc)
-
----
-
-**Q9.** Leo is charged as an accomplice to Dom's attempted hijacking. Leo argues that he should be acquitted because he merely wanted to collect the $500 taxi fare, not steal electronics. 
-
-(a) Guilty everywhere, because providing a getaway car with explicit knowledge of the crime legally establishes the required purpose.
-(b) Acquitted in a purpose jurisdiction if the jury determines he only intended to earn the fare, not facilitate the crime. <!-- correct -->
-(c) Acquitted everywhere, because his explicit refusal to participate in the planning stages legally negates his complicity in the crime.
-(d) Guilty everywhere, because accepting the flat fee makes him a co-conspirator strictly liable for the principal's substantive offenses.
-(e) Guilty everywhere, because his physical presence at the scene satisfies the actus reus, rendering his subjective mental state irrelevant.
-
-**Answer:** (b)
-
-**Explanation:** Accomplice liability traditionally requires that the defendant act with the *purpose* to promote or facilitate the target offense. If Leo only intended to provide a ride for a flat fee and was indifferent to the hijacking's success, he lacks the required purpose. Thus, (b) is correct. (a) is wrong because mere knowledge does not automatically establish purpose in traditional jurisdictions. (e) is wrong because accomplice liability requires a culpable mental state; actus reus alone is insufficient. (c) is wrong because planning is not strictly required if a defendant ultimately assists with the required mental state. (d) is wrong because receiving a flat fee does not automatically establish a conspiratorial agreement to commit the substantive offense.
-
-**Tags:** chapters: [18], topics: [accomplice liability, mens rea, purpose vs knowledge], difficulty: hard, cognitive: analysis
-
-**Grounding:** Chapter 18 (accomplice-purpose-vs-knowledge)
-
----
-
-**Q10.** Assume a conspiracy was successfully formed at the initial syndicate meeting. Is Carmine guilty of Dom's attempted hijacking under the *Pinkerton* doctrine?
-
-(a) No, because Dom abandoned the attempt, severing the conspiratorial liability for any substantive acts committed before the withdrawal.
-(b) No, because Carmine was not physically present at the loading dock and did not personally commit the ultimate act.
-(c) Yes, because the Pinkerton doctrine completely replaced traditional accomplice liability, making any agreement sufficient for the target offense.
-(d) Yes, because Carmine's recognized status as Capo makes him strictly liable for all crimes committed by his subordinates.
-(e) Yes, because Dom's attempt was committed in furtherance of the ongoing conspiracy and was a reasonably foreseeable consequence. <!-- correct -->
+(a) No, because Oscar lacked the specific intent to deprive the supply depot of its equipment, which is a required element for the substantive target offense of theft.
+(b) No, because Oscar did not provide any assistance, encouragement, or funding specifically directed toward the supply depot theft, thereby negating the accomplice actus reus.
+(c) No, because the *Pinkerton* doctrine only extends liability to inherently dangerous felonies, and stealing commercial equipment does not pose a direct threat to human life.
+(d) Yes, because any member of a conspiracy is strictly liable for all criminal offenses committed by any co-conspirator, regardless of whether the offenses advance the conspiratorial goals.
+(e) Yes, because the theft of processing equipment was a reasonably foreseeable consequence of the methamphetamine-manufacturing conspiracy and was committed in furtherance of it. <!-- correct -->
 
 **Answer:** (e)
 
-**Explanation:** Under the *Pinkerton* doctrine, a conspirator is liable for any substantive offenses committed by co-conspirators that are in furtherance of the conspiracy and reasonably foreseeable as a necessary or natural consequence of the unlawful agreement. Dom's attempt to hijack the exact truck discussed easily qualifies. Thus, (e) is correct. (b) is wrong because *Pinkerton* liability explicitly extends to absent co-conspirators. (d) is wrong because *Pinkerton* relies on the scope of the agreement and foreseeability, not merely organizational rank. (a) is wrong because Dom's abandonment of the full crime does not erase the attempt he already committed in furtherance of the conspiracy. (c) is wrong because *Pinkerton* is an alternative theory of liability; it supplements rather than replaces accomplice liability.
+**Explanation:** (e) is correct because under the *Pinkerton* doctrine, a conspirator is liable for the substantive offenses committed by co-conspirators if those crimes are reasonably foreseeable and committed in furtherance of the conspiracy. Stealing processing equipment is a highly foreseeable means of advancing a methamphetamine-manufacturing scheme. (d) is wrong because *Pinkerton* liability is not absolute; it requires the substantive crime to be foreseeable and in furtherance of the shared goal. (b) is wrong because *Pinkerton* operates independently of traditional accomplice liability and does not require specific assistance for the target offense. (a) is wrong because the doctrine imputes the co-conspirator's specific intent to the defendant. (c) is wrong because *Pinkerton* applies to any foreseeable substantive offense, not just inherently dangerous felonies.
 
-**Tags:** chapters: [19], topics: [conspiracy, Pinkerton liability], difficulty: easy, cognitive: application
+**Tags:** chapters: [10, 11], topics: [conspiracy, pinkerton-liability], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 19 (pinkerton-liability)
+**Grounding:** General Criminal Law Doctrine (Pinkerton v. United States; Foreseeability)
 
 ---
 
-**Q11.** Assume the jurisdiction applies the proximate cause theory of felony murder (as in *Smith v. State*). Is Dom guilty of felony murder for Wendy's death?
+**Q4.** Assume the jurisdiction applies California's abstract elements test for the inherently dangerous felony limitation. Can Penelope's grand theft serve as a predicate for felony murder?
 
-(a) Yes, because the agency theory of felony murder strictly holds fleeing felons liable for all deaths at the scene.
-(b) Yes, because a fatal vehicle crash during a high-speed police evasion is a reasonably foreseeable consequence of the felony. <!-- correct -->
-(c) Yes, because Dom's command to speed away constituted an expression of actual malice directed specifically toward surrounding pedestrians.
-(d) No, because the victim was an innocent bystander rather than an active participant in the underlying targeted criminal offense.
-(e) No, because a pursuing police officer, rather than a participating co-felon, actually drove the vehicle that struck the pedestrian.
+(a) No, because the merger doctrine prevents grand theft from serving as a predicate since the taking of the equipment lacks an independent felonious purpose from the homicide itself.
+(b) No, because grand theft can be committed in ways that do not pose a direct danger to human life, meaning it is not inherently dangerous when examining its statutory elements. <!-- correct -->
+(c) No, because the theft of the equipment was complete the moment Penelope placed the boxes in the trunk, severing the causal chain before the fatal traffic collision occurred.
+(d) Yes, because grand theft of commercial equipment over a certain statutory value is universally recognized as a malum in se offense that automatically qualifies as a predicate.
+(e) Yes, because the theft was committed by fleeing at high speeds through a residential neighborhood, making it concretely dangerous under the specific circumstances of its commission.
 
 **Answer:** (b)
 
-**Explanation:** Under the proximate cause theory of felony murder, a felon is liable for any death that is a foreseeable consequence of the felony, even if the fatal blow/crash was directly caused by a third party (like a police officer). High-speed chases are highly foreseeable results of armed felonies. Thus, (b) is correct. (e) is wrong because the proximate cause theory specifically includes third-party killings, unlike the agency theory. (a) is wrong because it conflates theories; the *agency* theory would actually shield Dom since a non-agent (the cop) caused the death. (d) is wrong because felony murder applies equally (if not more so) to the deaths of innocent bystanders. (c) is wrong because felony murder substitutes the felony for malice; proof of actual malice toward the victim is not required.
+**Explanation:** (b) is correct because California's abstract elements test evaluates whether the felony, by its statutory definition, can possibly be committed without endangering human life. Because grand theft can be committed non-violently (e.g., embezzlement), it is not inherently dangerous in the abstract. (e) is wrong because examining the specific circumstances (high-speed flight) is the "facts-as-committed" test, which California rejects. (d) is wrong because grand theft is not universally recognized as an enumerated predicate and often fails the dangerousness limitation. (a) is wrong because theft has an independent felonious purpose (taking property) and does not merge with the homicide. (c) is wrong because flight from the scene is considered part of the continuous transaction (res gestae) of the felony.
 
-**Tags:** chapters: [14], topics: [felony murder, proximate cause theory, third party killing], difficulty: medium, cognitive: application
+**Tags:** chapters: [14], topics: [felony-murder, inherently-dangerous-felony], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 14 (smith-proximate-cause-police)
+**Grounding:** Chapter 14 (People v. Phillips; Abstract Elements Test)
 
 ---
 
-**Q12.** Assume Leo is prosecuted for Wendy's death under California's reformed accomplice felony murder framework (SB 1437). How will the new framework evaluate his liability?
+**Q5.** Assume the jurisdiction has adopted California's SB 1437 standard. Is Penelope guilty of felony murder for Wendy's death?
 
-(a) Acquitted, because the recent legislative reform completely abolished the felony murder doctrine for all participants regardless of their role.
-(b) Guilty, because the new framework preserves the traditional proximate cause theory for all accomplices involved in the underlying felony.
-(c) Acquitted, because he was subjectively unaware that the pursuing police cruiser would lose control and strike an innocent pedestrian.
-(d) Guilty, because driving the primary getaway vehicle constitutes an implied intent to kill as a matter of law everywhere.
-(e) Acquitted, unless the jury specifically finds he was a major participant who acted with reckless indifference to human life. <!-- correct -->
+(a) Yes, because she directly caused the death by instructing Quinn to flee, establishing the actual malice necessary for first-degree murder regardless of the underlying predicate felony.
+(b) No, because the actual killer was Quinn, and SB 1437 strictly limits felony murder liability to the individual whose physical actions directly cause the victim's fatal injuries.
+(c) No, because she expressly instructed Quinn before the crime that there would be "no weapons, no violence," completely negating any inference of subjective intent to kill.
+(d) Yes, because she participated in the underlying crime and her instruction to "Drive! Go, go, go!" demonstrates reckless indifference to human life during the high-speed flight. <!-- correct -->
+(e) No, because the California SB 1437 reform categorically requires an accomplice to have a specific intent to kill whenever the victim is an innocent bystander rather than a police officer.
+
+**Answer:** (d)
+
+**Explanation:** (d) is correct because under SB 1437, an accomplice who does not kill can be liable for felony murder if they were a "major participant" who acted with "reckless indifference to human life." Penelope's presence, sourcing of equipment, and explicit instruction to flee recklessly in a residential zone satisfy both elements. (a) is wrong because Penelope did not act with actual malice or personally kill the victim. (c) is wrong because her initial instruction to avoid violence is overridden by her subsequent command to drive recklessly, which demonstrates the requisite indifference. (b) is wrong because SB 1437 explicitly retains liability for non-killers who meet the major participant and reckless indifference standards. (e) is wrong because SB 1437 does not categorically require a specific intent to kill when a bystander dies; reckless indifference suffices.
+
+**Tags:** chapters: [14], topics: [felony-murder, accomplice-liability, major-participant], difficulty: hard, cognitive: analysis
+
+**Grounding:** Chapter 14 (Tison v. Arizona; California SB 1437; Reckless Indifference)
+
+---
+
+**Q6.** Assume the jurisdiction applies the traditional misdemeanor manslaughter rule with a proximate cause limitation. Is Quinn guilty of involuntary manslaughter for Wendy's death?
+
+(a) Yes, because speeding in a residential zone is an unlawful act that proximately caused Wendy's death, thereby substituting for the mental state typically required for manslaughter. <!-- correct -->
+(b) No, because traffic infractions are malum prohibitum offenses that can never serve as predicates for misdemeanor manslaughter without independent proof of actual malice.
+(c) No, because the proximate cause of the death was Wendy stepping into the crosswalk while Quinn was fleeing, which constitutes an independent superseding intervening act.
+(d) No, because the traditional misdemeanor manslaughter rule requires the underlying offense to be a violent felony, not merely a regulatory violation of the local traffic code.
+(e) Yes, because Quinn's subjective awareness that he was driving 85 mph in a 25 mph zone establishes the extreme indifference to human life required for depraved heart murder.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because the traditional misdemeanor manslaughter rule allows a conviction when an unlawful act (like a traffic misdemeanor) proximately causes death. Speeding and running a red light are unlawful acts directly connected to the fatal collision. (e) is wrong because Quinn's conduct is being evaluated for involuntary manslaughter under the constructive rule, not depraved heart murder. (b) is wrong because malum prohibitum traffic offenses can serve as predicates if the unlawful aspect itself directly causes the danger and resulting death. (c) is wrong because a pedestrian using a crosswalk is a highly foreseeable event, not an independent superseding cause that severs liability. (d) is wrong because the rule specifically applies to non-felony offenses, not violent felonies.
+
+**Tags:** chapters: [14], topics: [misdemeanor-manslaughter, proximate-cause-limitation], difficulty: easy, cognitive: application
+
+**Grounding:** Chapter 14 (Commonwealth v. Williams; Proximate Cause Limitation)
+
+---
+
+**Q7.** Assume Oscar is charged with depraved heart murder for Victor's death. Under the Model Penal Code standard, does his conduct demonstrate extreme indifference to human life?
+
+(a) Yes, if the jury determines that his conscious disregard of the explosion risk, despite his belief about the rain, was so egregious that it manifested extreme indifference to human life. <!-- correct -->
+(b) No, because his subjective belief that the rain would dilute the chemicals conclusively negates the conscious awareness of risk required to establish any level of criminal recklessness.
+(c) No, because depraved heart murder requires proof that the defendant specifically intended to cause grievous bodily harm, and Oscar's goal was simply to cut operational costs.
+(d) Yes, because dumping 500 gallons of volatile chemicals into a public drain is an objectively dangerous act that automatically satisfies the implied malice standard as a matter of law.
+(e) No, because the actual ignition source was a flickering streetlamp two hours later, which serves as a superseding cause that severs the chain of proximate causation for the homicide.
+
+**Answer:** (a)
+
+**Explanation:** (a) is correct because the Model Penal Code delegates the determination of whether recklessness manifests "extreme indifference to the value of human life" directly to the jury. The jury must weigh Oscar's conscious disregard of the explosion risk against his belief about the rain. (d) is wrong because the MPC specifically avoids declaring any conduct automatically sufficient as a matter of law, leaving the moral evaluation to the factfinder. (b) is wrong because an unreasonable belief that the rain would dilute the chemicals does not automatically negate conscious awareness of the underlying risk. (e) is wrong because ignition by a streetlamp is a highly foreseeable consequence of flammable fumes, not a superseding cause. (c) is wrong because depraved heart murder requires extreme recklessness, not specific intent to cause harm.
+
+**Tags:** chapters: [13], topics: [unintentional-homicide, depraved-heart-murder, extreme-indifference], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 13 (Model Penal Code Section 210.2(1)(b); Depraved Heart Murder)
+
+---
+
+**Q8.** Assume the jurisdiction follows the constructive recklessness standard from *Commonwealth v. Welansky*. How does Oscar's belief that the rain would dilute the chemicals affect his liability?
+
+(a) It is legally irrelevant to manslaughter liability, because *Welansky* holds that an intentional act resulting in death automatically qualifies as involuntary manslaughter.
+(b) It fully insulates him from a manslaughter conviction, because genuine subjective ignorance of a risk defeats the mens rea of recklessness regardless of how unreasonable the belief is.
+(c) It reduces his potential liability to simple negligence, because his failure to consult the city sewer maps constitutes an ordinary deviation from standard commercial care.
+(d) It elevates his liability to intentional murder, because proceeding with the dumping despite knowing about the flammable fumes constitutes the functional equivalent of premeditation.
+(e) It does not protect him, because if an ordinary person knowing the solvent emitted flammable fumes would perceive the grave danger, Oscar is treated as acting recklessly. <!-- correct -->
 
 **Answer:** (e)
 
-**Explanation:** Under California SB 1437 (incorporating the *Tison* standard), an accomplice who is not the actual killer cannot be convicted of felony murder unless they aided with the intent to kill OR were a "major participant" in the underlying felony who acted with "reckless indifference to human life." Thus, (e) is correct. (b) is wrong because SB 1437 specifically restricted the broad proximate cause rules for non-killer accomplices. (d) is wrong because driving a getaway car does not establish intent to kill as a matter of law. (a) is wrong because SB 1437 did not completely abolish felony murder; it restricted it for non-killers. (c) is wrong because reckless indifference requires conscious disregard of extreme risks generally, not subjective awareness of the exact causal mechanism of the crash.
+**Explanation:** (e) is correct because *Welansky* establishes a "constructive" standard for recklessness. Even if Oscar subjectively believed the rain would make the chemicals safe, he is liable if a reasonable person who knew the solvent emitted flammable fumes would have perceived the grave danger. (b) is wrong because constructive recklessness explicitly overrides genuine subjective ignorance if a reasonable person would have recognized the risk. (c) is wrong because constructive awareness of a grave danger satisfies the higher standard of wanton or reckless conduct, not merely ordinary negligence. (a) is wrong because *Welansky* still requires the conduct to be wantonly or recklessly dangerous, not merely intentional. (d) is wrong because constructive recklessness establishes involuntary manslaughter, not intentional or premeditated murder.
 
-**Tags:** chapters: [14], topics: [felony murder, accomplice liability, major participant, SB 1437], difficulty: medium, cognitive: application
+**Tags:** chapters: [13], topics: [unintentional-homicide, involuntary-manslaughter, constructive-recklessness], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 14 (sb-1437-major-participant, *Tison v. Arizona*)
-
----
-
-**Q13.** Both Dom and Leo are charged with possessing the fentanyl found in the vehicle. Based on the doctrinal requirements of constructive possession, who can be convicted?
-
-(a) Both, because constructive possession can be joint if both had awareness of the drugs and the power to control them. <!-- correct -->
-(b) Neither, because the drugs were securely hidden inside the center console, completely precluding actual physical possession by either occupant.
-(c) Neither, because the prosecution cannot definitively prove which occupant originally purchased the vacuum-sealed narcotics found in the vehicle.
-(d) Only Leo, because his status as the registered owner of the vehicle establishes an irrebuttable presumption of exclusive possession.
-(e) Only Dom, because his fingerprints on the latch prove he exercised exclusive physical control over the drugs inside it.
-
-**Answer:** (a)
-
-**Explanation:** Constructive possession requires knowledge of the item's presence and the intent and ability to exercise control over it. It can be held jointly by multiple people. Leo owns the car containing the console, and Dom's bag was touching it and his prints were on the latch, providing evidence that both had awareness and control. Thus, (a) is correct. (d) is wrong because car ownership permits an inference of control but not an irrebuttable presumption of exclusive possession. (e) is wrong because Dom's control does not legally exclude the car's owner from also having constructive possession. (b) is wrong because constructive possession specifically exists to cover items not in actual physical possession. (c) is wrong because possession relies on current control, not original purchase history.
-
-**Tags:** chapters: [15], topics: [drugs, constructive possession, joint possession], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 15 (cp-awareness-control)
+**Grounding:** Chapter 13 (Commonwealth v. Welansky; Objective Standard for Recklessness)
 
 ---
 
-**Q14.** The prosecution charges Possession with Intent to Distribute (PWID) rather than simple possession. Can the intent element be established on these facts?
+**Q9.** Are Oscar and Penelope in constructive possession of the 20 kilograms of methamphetamine?
 
-(a) Yes, because a full kilogram of fentanyl vastly exceeds normal personal use, permitting a legal inference of distribution intent. <!-- correct -->
-(b) No, because proving an intent to distribute strictly requires direct physical evidence such as packaging materials, scales, or ledgers.
-(c) No, because the vacuum seal indicates the drugs were in bulk storage, preventing any inference of readiness for distribution.
-(d) Yes, because simple fentanyl possession is fundamentally a strict liability offense requiring absolutely no proof of specific intent.
-(e) Yes, because any detectable amount of a Schedule I narcotic carries a mandatory legal presumption of intent to distribute.
+(a) Neither is in constructive possession, because the presence of multiple people with access to the living room destroys the exclusivity required to establish criminal dominion and control.
+(b) Both are in constructive possession, because Oscar had power over the premises as the lessee and Penelope's personal items on the table indicate her power and intent to control the drugs. <!-- correct -->
+(c) Only Oscar is in constructive possession, because his name is the sole name on the stash house lease, granting him exclusive legal authority over the premises.
+(d) Only Penelope is in constructive possession, because she was physically present in the adjacent bedroom while Oscar was entirely absent from the property during the raid.
+(e) Neither is in constructive possession, because neither individual was in direct physical contact with the methamphetamine at the exact moment the police investigators entered the house.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Intent to distribute can be legally inferred from the quantity of the drugs alone if the amount is inconsistent with personal use. A full kilogram of fentanyl is a massive, commercial-level quantity that overwhelmingly implies distribution intent. Thus, (a) is correct. (b) is wrong because while scales and ledgers are helpful evidence, they are not strictly required when the quantity alone permits the inference. (e) is wrong because there is no mandatory presumption of distribution for *any* amount; it depends on the quantity. (c) is wrong because bulk packaging is entirely consistent with distribution, not just personal storage. (d) is wrong because PWID is a specific intent crime, not a strict liability offense; the intent must be proven, even if by inference.
+**Explanation:** (b) is correct because constructive possession requires the power and intent to exercise dominion and control over the contraband. Oscar's lease and ledgers establish his control, while Penelope's personal items placed directly next to the drugs establish hers. Joint constructive possession is legally permissible. (c) is wrong because an exclusive lease does not prevent another occupant from simultaneously exercising constructive possession. (d) is wrong because physical presence at the time of the raid is not required; Oscar's power to control the premises suffices. (e) is wrong because constructive possession inherently covers situations where the defendants lack direct physical contact. (a) is wrong because exclusivity is not required; multiple individuals can jointly possess the same contraband.
 
-**Tags:** chapters: [15], topics: [drugs, PWID, quantity inference], difficulty: foundational, cognitive: application
+**Tags:** chapters: [11], topics: [constructive-possession, dominion-and-control], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 15 (qty-pwid)
+**Grounding:** General Criminal Law Doctrine (Constructive Possession; Joint Control)
+
+---
+
+**Q10.** Under the traditional common law rule applied in *Girouard*, can Nora's charge be reduced from murder to voluntary manslaughter?
+
+(a) Yes, because discovering that a trusted associate has been wearing a federal wire for six months would cause any reasonable person to temporarily lose their self-control.
+(b) No, because the doctrine of transferred intent prevents Nora from claiming adequate provocation when she deliberately brings a loaded weapon to a meeting under false pretenses.
+(c) No, because the traditional common law categorical approach dictates that insulting words or revelations alone, unaccompanied by physical assault, are never adequate provocation. <!-- correct -->
+(d) Yes, because Rachel's verbal insults and betrayal provoked an actual, subjective heat of passion in Nora, as evidenced by her trembling hands and flushed face.
+(e) No, because sufficient cooling time elapsed between the initial six-month betrayal and Nora's decision to draw her pistol, thereby defeating the suddenness requirement.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct because under the traditional common law categorical approach (*Girouard*), insulting words, informational revelations, or verbal abuse—no matter how opprobrious—can never constitute legally adequate provocation to mitigate murder to manslaughter. (a) is wrong because the traditional rule relies on fixed categories (e.g., discovering adultery, mutual combat) rather than a generalized reasonable person evaluation of words. (d) is wrong because actual, subjective heat of passion is necessary but not sufficient; the provocation must also fit a legally adequate category. (e) is wrong because the defense fails on the adequate provocation element immediately, rendering the cooling time analysis moot. (b) is wrong because the doctrine of transferred intent applies to harming the wrong victim, which is irrelevant to the provocation analysis.
+
+**Tags:** chapters: [12], topics: [intentional-homicide, voluntary-manslaughter, adequate-provocation], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 12 (Girouard v. State; Common Law Categorical Approach)
+
+---
+
+**Q11.** Assume the jurisdiction has adopted the Model Penal Code's Extreme Emotional Disturbance (EED) defense. How would Nora's response to Rachel's revelation be evaluated?
+
+(a) The defense would be automatically granted because the MPC explicitly lists betrayal by a criminal informant as a recognized categorical trigger for extreme emotional disturbance.
+(b) The jury would apply a purely subjective standard, reducing the charge to manslaughter if Nora genuinely felt enraged, regardless of whether her reaction was objectively reasonable.
+(c) The jury would assess whether she acted under an extreme emotional disturbance for which there is a reasonable explanation, judged from the viewpoint of a person in her situation. <!-- correct -->
+(d) The judge would dismiss the defense prior to trial because the MPC requires that the emotional disturbance build over a long period of time rather than arising instantly.
+(e) The defense would be categorically barred because Nora's underlying involvement in a methamphetamine syndicate precludes her from claiming a reasonable explanation or excuse.
+
+**Answer:** (c)
+
+**Explanation:** (c) is correct because the MPC's Extreme Emotional Disturbance (EED) standard requires a hybrid subjective-objective inquiry. The jury evaluates whether the defendant acted under extreme emotional disturbance for which there is a "reasonable explanation or excuse," judged from the viewpoint of a person in the actor's situation. (a) is wrong because the MPC completely abolishes categorical triggers in favor of the flexible hybrid standard. (e) is wrong because the MPC does not categorically exclude criminals from asserting the defense, though the jury considers their situation. (d) is wrong because EED does not require the disturbance to build over time; it explicitly abandons the common law's suddenness requirement. (b) is wrong because the standard is not purely subjective; it requires a "reasonable explanation or excuse."
+
+**Tags:** chapters: [12], topics: [intentional-homicide, extreme-emotional-disturbance, mpc], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 12 (Model Penal Code Section 210.3(1)(b); Extreme Emotional Disturbance)

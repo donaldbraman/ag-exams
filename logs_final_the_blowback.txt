@@ -1,58 +1,15 @@
-Caught MALFORMED_FUNCTION_CALL on empty string. Retrying 1/3...
-temporalio.exceptions.ApplicationError: SecretNotFoundError: Secret 'google-api-key' not found in env:GOOGLE_API_KEY
-
-The above exception was the direct cause of the following exception:
-
-temporalio.exceptions.ActivityError: Activity task failed
-
-The above exception was the direct cause of the following exception:
-
-temporalio.exceptions.ChildWorkflowError: Child Workflow execution failed
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "<frozen runpy>", line 198, in _run_module_as_main
-  File "<frozen runpy>", line 88, in _run_code
-  File "/Users/dbraman/Documents/GitHub/ag-exams/src/ag_exams/__main__.py", line 5, in <module>
-    main()
-    ~~~~^^
-  File "/Users/dbraman/Documents/GitHub/ag-exams/src/ag_exams/cli.py", line 227, in main
-    asyncio.run(start_exam(config))
-    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
-  File "/Users/dbraman/.local/share/uv/python/cpython-3.13.5-macos-aarch64-none/lib/python3.13/asyncio/runners.py", line 195, in run
-    return runner.run(main)
-           ~~~~~~~~~~^^^^^^
-  File "/Users/dbraman/.local/share/uv/python/cpython-3.13.5-macos-aarch64-none/lib/python3.13/asyncio/runners.py", line 118, in run
-    return self._loop.run_until_complete(task)
-           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
-  File "/Users/dbraman/.local/share/uv/python/cpython-3.13.5-macos-aarch64-none/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
-    return future.result()
-           ~~~~~~~~~~~~~^^
-  File "/Users/dbraman/Documents/GitHub/ag-exams/src/ag_exams/cli.py", line 49, in start_exam
-    result = await client.execute_workflow(
-             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...<6 lines>...
-    )
-    ^
-  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/client.py", line 810, in execute_workflow
-    return await (
-           ^^^^^^^
-    ...<30 lines>...
-    ).result()
-    ^^^^^^^^^^
-  File "/Users/dbraman/Documents/GitHub/ag-exams/.venv/lib/python3.13/site-packages/temporalio/client.py", line 3015, in result
-    raise WorkflowFailureError(
-    ...<3 lines>...
-    )
-temporalio.client.WorkflowFailureError: Workflow execution failed
+no progress on iteration 2 (11 >= 9); escalating ({'attempt': 1, 'namespace': 'default', 'run_id': '019da2de-ddc9-7a6f-9160-6ec39203126a', 'task_queue': 'exam-pipeline', 'workflow_id': 'build-scenario-final_the_blowback-019da2de-dd96-7497-b555-7926ec54640e', 'workflow_type': 'BuildScenarioWorkflow'})
+Pre-fetching credentials to prevent concurrent gRPC crashes...
 Starting ephemeral Temporal worker...
-Executing workflow: exam-final_the_blowback-1776546320
+Executing workflow: exam-final_the_blowback-1776554007
   Scenarios: ['final_the_blowback']
   Dry run: False
   Output: criminal-law/quiz-system/research/final-exam
 
 Note: If the workflow pauses for human review, run in another terminal:
-  uv run python -m ag_exams.cli approve exam-final_the_blowback-1776546320
+  uv run python -m ag_exams.cli approve exam-final_the_blowback-1776554007
 
+Workflow exam-final_the_blowback-1776554007 completed successfully.
+Result: ExamResult(exam_file='criminal-law/quiz-system/research/final-exam/exam-final.md', total_questions=11, scenarios_completed=['final_the_blowback'], coverage_report={'abandonment-renunciation': {'covered': 0, 'questions': 0, 'weight': 4}, 'accomplice-purpose-vs-knowledge': {'covered': 1, 'questions': 1, 'weight': 7}, 'attempt-proximity': {'covered': 0, 'questions': 0, 'weight': 6}, 'attempt-substantial-step': {'covered': 0, 'questions': 0, 'weight': 6}, 'causation': {'covered': 0, 'questions': 0, 'weight': 5}, 'conspiracy-agreement': {'covered': 1, 'questions': 1, 'weight': 8}, 'conspiracy-scope-kotteakos': {'covered': 0, 'questions': 0, 'weight': 5}, 'conspiracy-withdrawal': {'covered': 0, 'questions': 0, 'weight': 5}, 'constructive-possession': {'covered': 1, 'questions': 1, 'weight': 5}, 'duress': {'covered': 0, 'questions': 0, 'weight': 5}, 'felony-murder': {'covered': 0, 'questions': 0, 'weight': 6}, 'homicide-grading': {'covered': 0, 'questions': 0, 'weight': 7}, 'mens-rea-hierarchy': {'covered': 0, 'questions': 0, 'weight': 6}, 'mistake-of-fact': {'covered': 0, 'questions': 0, 'weight': 5}, 'mistake-of-law': {'covered': 0, 'questions': 0, 'weight': 4}, 'motivated-cognition': {'covered': 0, 'questions': 0, 'weight': 3}, 'necessity': {'covered': 0, 'questions': 0, 'weight': 4}, 'omission-liability': {'covered': 0, 'questions': 0, 'weight': 4}, 'pinkerton-liability': {'covered': 1, 'questions': 1, 'weight': 7}, 'possession-distribution': {'covered': 0, 'questions': 0, 'weight': 8}, 'procedural-justice': {'covered': 0, 'questions': 0, 'weight': 3}, 'prosecutorial-discretion': {'covered': 0, 'questions': 0, 'weight': 3}, 'provocation-ehr': {'covered': 0, 'questions': 0, 'weight': 5}, 'public-welfare-offense': {'covered': 0, 'questions': 0, 'weight': 4}, 'punishment-theory': {'covered': 0, 'questions': 0, 'weight': 3}, 'rico-conspiracy': {'covered': 0, 'questions': 0, 'weight': 5}, 'rico-enterprise': {'covered': 0, 'questions': 0, 'weight': 6}, 'self-defense': {'covered': 0, 'questions': 0, 'weight': 6}, 'statutory-interpretation': {'covered': 0, 'questions': 0, 'weight': 4}, 'strict-liability': {'covered': 0, 'questions': 0, 'weight': 4}, 'voluntary-act': {'covered': 0, 'questions': 0, 'weight': 3}}, gaps=['possession-distribution', 'homicide-grading', 'rico-enterprise', 'attempt-proximity', 'attempt-substantial-step', 'felony-murder', 'self-defense', 'mens-rea-hierarchy', 'rico-conspiracy', 'duress', 'mistake-of-fact', 'provocation-ehr', 'causation', 'conspiracy-withdrawal', 'conspiracy-scope-kotteakos', 'necessity', 'mistake-of-law', 'strict-liability', 'public-welfare-offense', 'omission-liability', 'statutory-interpretation', 'abandonment-renunciation', 'voluntary-act', 'prosecutorial-discretion', 'punishment-theory', 'procedural-justice', 'motivated-cognition'])
+Metrics report written to /Users/dbraman/Documents/GitHub/criminal-law/quiz-system/research/final-exam/exam-final_the_blowback-1776554007-metrics.md
 Tearing down ephemeral worker...

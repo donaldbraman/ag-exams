@@ -4,15 +4,15 @@ Our narcotics unit has been tracking a new distribution ring. We ran a sting ope
 
 **Q1.** Is there sufficient evidence of a conspiratorial agreement between Artie, Ben, Cole, and Damon?
 
-(a) Yes, because conspiracy is a strict liability offense where receiving any funds originating from a criminal enterprise automatically establishes membership regardless of the recipient's intent.
-(b) No, because Ben, Cole, and Damon did not explicitly discuss specific details or individual roles among themselves, leaving the precise terms of the criminal enterprise undefined and incomplete.
-(c) No, because an agreement to merely "take over the corners" is too generalized and vague to constitute the specific intent to commit a target offense required for a conspiracy conviction.
+(a) No, because an agreement to merely "take over the corners" is too generalized and vague to constitute the specific intent to commit a target offense required for a conspiracy conviction.
+(b) No, because under the bilateral approach to conspiracy, the prosecution must prove a formal verbal or written contract between all parties before liability can attach to the group.
+(c) No, because Ben, Cole, and Damon did not explicitly discuss specific details or individual roles among themselves, leaving the precise terms of the criminal enterprise undefined and incomplete.
 (d) Yes, because a silent nod and acceptance of cash in response to an explicit proposal of coordinated criminal activity is sufficient to infer an agreement under the totality of circumstances. <!-- correct -->
-(e) No, because under the bilateral approach to conspiracy, the prosecution must prove a formal verbal or written contract between all parties before liability can attach to the group.
+(e) Yes, because conspiracy is a strict liability offense where receiving any funds originating from a criminal enterprise automatically establishes membership regardless of the recipient's intent.
 
 **Answer:** (d)
 
-**Explanation:** The correct answer is (d) because an agreement can be inferred from coordinated conduct and acceptance of a role, even without explicit verbal discussion of details. (b) is wrong because explicit negotiation of specific details is not legally required to form a conspiracy. (e) is wrong because courts routinely infer agreement from conduct; a formal contract is never required. (a) is wrong because conspiracy is a specific intent crime, not a strict liability offense. (c) is wrong because agreeing to "take over the corners" in context clearly contemplates the specific intent to commit narcotics distribution.
+**Explanation:** The correct answer is (d) because an agreement can be inferred from coordinated conduct and acceptance of a role, even without explicit verbal discussion of details. (c) is wrong because explicit negotiation of specific details is not legally required to form a conspiracy. (b) is wrong because courts routinely infer agreement from conduct; a formal contract is never required. (e) is wrong because conspiracy is a specific intent crime, not a strict liability offense. (a) is wrong because agreeing to "take over the corners" in context clearly contemplates the specific intent to commit narcotics distribution.
 
 **Tags:** chapters: [19], topics: [conspiracy, agreement-inference], difficulty: medium, cognitive: application
 
@@ -23,14 +23,14 @@ Our narcotics unit has been tracking a new distribution ring. We ran a sting ope
 **Q2.** Assume the jurisdiction applies the Model Penal Code's "substantial step" test. Has Ben committed the actus reus for attempted distribution of stimulants before turning around?
 
 (a) No, because by remaining half a mile away from the sting location, Ben had not yet come dangerously close to completing the actual physical transfer of the stimulants to the undercover buyer.
-(b) No, because the fact that Ben voluntarily turned his car around before arriving proves that his earlier driving was merely preparatory and lacked the necessary firmness of criminal intent.
-(c) Yes, because the moment Ben accepted the assignment from Artie and received the cash advance, the inchoate crime of attempted distribution was fully completed under the proximity standard.
-(d) Yes, because under the substantial step test, the defendant's mental state is the only relevant element, making the physical proximity to the target location entirely legally irrelevant.
-(e) Yes, because driving toward the designated meeting point while possessing the stimulants is an act strongly corroborative of his criminal purpose to complete the planned distribution. <!-- correct -->
+(b) Yes, because driving toward the designated meeting point while possessing the stimulants is an act strongly corroborative of his criminal purpose to complete the planned distribution. <!-- correct -->
+(c) Yes, because under the substantial step test, the defendant's mental state is the only relevant element, making the physical proximity to the target location entirely legally irrelevant.
+(d) Yes, because the moment Ben accepted the assignment from Artie and received the cash advance, the inchoate crime of attempted distribution was fully completed under the proximity standard.
+(e) No, because the fact that Ben voluntarily turned his car around before arriving proves that his earlier driving was merely preparatory and lacked the necessary firmness of criminal intent.
 
-**Answer:** (e)
+**Answer:** (b)
 
-**Explanation:** The correct answer is (e) because under the MPC, driving toward the target location with the necessary materials is a substantial step that is strongly corroborative of criminal purpose. (a) is wrong because "dangerously close" is the common law proximity test, not the MPC's substantial step test. (c) is wrong because merely accepting an assignment and a cash advance is likely mere preparation; the driving crossed the threshold. (b) is wrong because abandoning the effort later does not mean the prior physical acts lacked firmness at the moment they were committed. (d) is wrong because the MPC still requires an actus reus (a substantial step); mental state alone is never sufficient.
+**Explanation:** The correct answer is (b) because under the MPC, driving toward the target location with the necessary materials is a substantial step that is strongly corroborative of criminal purpose. (a) is wrong because "dangerously close" is the common law proximity test, not the MPC's substantial step test. (d) is wrong because merely accepting an assignment and a cash advance is likely mere preparation; the driving crossed the threshold. (e) is wrong because abandoning the effort later does not mean the prior physical acts lacked firmness at the moment they were committed. (c) is wrong because the MPC still requires an actus reus (a substantial step); mental state alone is never sufficient.
 
 **Tags:** chapters: [17], topics: [attempt, actus-reus-gray-zone], difficulty: medium, cognitive: application
 
@@ -80,15 +80,15 @@ While the sting was unfolding, the rest of the ring hit the East Side stash hous
 
 **Q5.** Assume Cole is charged with aiding and abetting an armed robbery in a federal court applying the *Rosemond* standard. Did Cole possess the requisite mens rea to be liable for the *armed* nature of the robbery?
 
-(a) Yes, because Cole gained knowledge that Damon was armed while they were still outside the stash house, providing him with a meaningful opportunity to walk away before the crime commenced. <!-- correct -->
-(b) No, because Cole immediately expressed genuine surprise upon seeing the loaded weapon, which legally demonstrates that the firearm was entirely outside the scope of his original agreement.
-(c) Yes, because under the federal complicity standard, a lookout who discovers a weapon at any point during the ongoing commission of the offense is deemed to have intended its use retroactively.
-(d) Yes, because any accomplice who voluntarily participates in a drug-related stash house robbery is strictly liable for any firearms carried by coconspirators regardless of any advance knowledge.
-(e) No, because Damon explicitly assured Cole that the handgun was merely "just for show," negating any finding that Cole intended for the firearm to be actively used during the robbery.
+(a) Yes, because under the federal complicity standard, a lookout who discovers a weapon at any point during the ongoing commission of the offense is deemed to have intended its use retroactively.
+(b) No, because Damon explicitly assured Cole that the handgun was merely "just for show," negating any finding that Cole intended for the firearm to be actively used during the robbery.
+(c) Yes, because Cole gained knowledge that Damon was armed while they were still outside the stash house, providing him with a meaningful opportunity to walk away before the crime commenced. <!-- correct -->
+(d) No, because Cole immediately expressed genuine surprise upon seeing the loaded weapon, which legally demonstrates that the firearm was entirely outside the scope of his original agreement.
+(e) Yes, because any accomplice who voluntarily participates in a drug-related stash house robbery is strictly liable for any firearms carried by coconspirators regardless of any advance knowledge.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** The correct answer is (a) because under *Rosemond*, an accomplice must have advance knowledge of the weapon at a time when they still have a meaningful opportunity to withdraw, which Cole did when outside the house. (b) is wrong because his initial surprise does not negate the fact that he saw the weapon, comprehended its presence, and chose to participate anyway. (d) is wrong because there is no strict liability for accomplices regarding coconspirators' weapons under the federal standard. (e) is wrong because knowing the gun will be used for intimidation ("just for show") still constitutes knowledge of its use to facilitate the crime. (c) is wrong because *Rosemond* explicitly rejects imposing retroactive intent for knowledge acquired mid-crime when withdrawal is no longer possible.
+**Explanation:** The correct answer is (c) because under *Rosemond*, an accomplice must have advance knowledge of the weapon at a time when they still have a meaningful opportunity to withdraw, which Cole did when outside the house. (d) is wrong because his initial surprise does not negate the fact that he saw the weapon, comprehended its presence, and chose to participate anyway. (e) is wrong because there is no strict liability for accomplices regarding coconspirators' weapons under the federal standard. (b) is wrong because knowing the gun will be used for intimidation ("just for show") still constitutes knowledge of its use to facilitate the crime. (a) is wrong because *Rosemond* explicitly rejects imposing retroactive intent for knowledge acquired mid-crime when withdrawal is no longer possible.
 
 **Tags:** chapters: [18], topics: [accomplice-liability, mr-temporal-advance-knowledge], difficulty: medium, cognitive: application
 
@@ -101,12 +101,12 @@ While the sting was unfolding, the rest of the ring hit the East Side stash hous
 (a) Yes, because an accomplice must harbor personal animus or ideological support for the crime, which is structurally absent when the sole motivation is securing a financial payout.
 (b) Yes, because Cole's primary desire was simply to keep the cash advance rather than to ensure the actual success of the robbery, meaning he lacked the necessary purposive mental state.
 (c) No, because modern accomplice liability only requires the defendant to possess mere knowledge that their physical presence will assist a crime, making subjective purpose legally irrelevant.
-(d) No, because under the traditional complicity standard, mere presence near the scene of a crime automatically satisfies the purpose requirement regardless of the defendant's internal motivations.
-(e) No, because by intentionally taking his assigned post as a lookout, Cole demonstrated that he associated himself with the criminal venture and sought to make it succeed. <!-- correct -->
+(d) No, because by intentionally taking his assigned post as a lookout, Cole demonstrated that he associated himself with the criminal venture and sought to make it succeed. <!-- correct -->
+(e) No, because under the traditional complicity standard, mere presence near the scene of a crime automatically satisfies the purpose requirement regardless of the defendant's internal motivations.
 
-**Answer:** (e)
+**Answer:** (d)
 
-**Explanation:** The correct answer is (e) because taking a stake in the venture (the cash) and performing the assigned physical role establishes the purpose to make the crime succeed. (a) is wrong because the law does not require personal animus or ideological support; a financial motive is a classic way to establish purposive intent. (c) is wrong because the traditional standard strictly requires purpose to promote or facilitate, not mere knowledge. (b) is wrong because desiring the cash advance demonstrates a financial stake in the venture, which legally satisfies the purpose requirement. (d) is wrong because mere presence without encouragement or actual assistance does not automatically satisfy the purpose requirement.
+**Explanation:** The correct answer is (d) because taking a stake in the venture (the cash) and performing the assigned physical role establishes the purpose to make the crime succeed. (a) is wrong because the law does not require personal animus or ideological support; a financial motive is a classic way to establish purposive intent. (c) is wrong because the traditional standard strictly requires purpose to promote or facilitate, not mere knowledge. (b) is wrong because desiring the cash advance demonstrates a financial stake in the venture, which legally satisfies the purpose requirement. (e) is wrong because mere presence without encouragement or actual assistance does not automatically satisfy the purpose requirement.
 
 **Tags:** chapters: [18], topics: [accomplice-liability, mr-purpose-not-knowledge], difficulty: medium, cognitive: application
 
@@ -116,15 +116,15 @@ While the sting was unfolding, the rest of the ring hit the East Side stash hous
 
 **Q7.** Assume the jurisdiction applies the traditional natural and probable consequences (NPC) doctrine. Can Cole be held liable for Vic's murder?
 
-(a) Yes, because under the traditional NPC doctrine, an accomplice to any felony is strictly liable for any death that occurs during the crime regardless of objective foreseeability.
-(b) Yes, because Cole's act of standing at the back door as a lookout directly and proximately caused Vic's death by preventing Vic from safely escaping the premises during the confrontation.
-(c) No, because Damon's sudden, rage-induced decision to shoot Vic over an insult constituted an unforeseeable independent intervening act that breaks the chain of accomplice liability.
-(d) Yes, because a fatal shooting is a foreseeable result of an armed stash house robbery, even if Cole only authorized a robbery and did not intend for anyone to be killed. <!-- correct -->
+(a) Yes, because a fatal shooting is a foreseeable result of an armed stash house robbery, even if Cole only authorized a robbery and did not intend for anyone to be killed. <!-- correct -->
+(b) Yes, because under the traditional NPC doctrine, an accomplice to any felony is strictly liable for any death that occurs during the crime regardless of objective foreseeability.
+(c) Yes, because Cole's act of standing at the back door as a lookout directly and proximately caused Vic's death by preventing Vic from safely escaping the premises during the confrontation.
+(d) No, because Damon's sudden, rage-induced decision to shoot Vic over an insult constituted an unforeseeable independent intervening act that breaks the chain of accomplice liability.
 (e) No, because Cole explicitly relied on Damon's assurance that the gun was "just for show," making the subsequent fatal shooting legally unforeseeable to a reasonable person in his position.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** The correct answer is (d) because under the traditional NPC doctrine, a fatal shooting is considered a natural and probable (foreseeable) consequence of committing an armed stash house robbery. (c) is wrong because a co-felon's sudden violence during a tense criminal confrontation is highly foreseeable, not an independent intervening cause. (a) is wrong because the NPC doctrine is fundamentally based on objective foreseeability, not absolute strict liability for any death. (e) is wrong because an accomplice cannot reasonably rely on a claim that a loaded gun brought to a violent robbery will never be fired. (b) is wrong because Cole's liability derives from the foreseeability of his co-felon's acts, not because his physical positioning at the back door directly caused the death.
+**Explanation:** The correct answer is (a) because under the traditional NPC doctrine, a fatal shooting is considered a natural and probable (foreseeable) consequence of committing an armed stash house robbery. (d) is wrong because a co-felon's sudden violence during a tense criminal confrontation is highly foreseeable, not an independent intervening cause. (b) is wrong because the NPC doctrine is fundamentally based on objective foreseeability, not absolute strict liability for any death. (e) is wrong because an accomplice cannot reasonably rely on a claim that a loaded gun brought to a violent robbery will never be fired. (c) is wrong because Cole's liability derives from the foreseeability of his co-felon's acts, not because his physical positioning at the back door directly caused the death.
 
 **Tags:** chapters: [18], topics: [accomplice-liability, npc-traditional-rule], difficulty: medium, cognitive: application
 
@@ -135,14 +135,14 @@ While the sting was unfolding, the rest of the ring hit the East Side stash hous
 **Q8.** Assume instead that the jurisdiction has enacted natural and probable consequences reform identical to California's SB 1437. Does this reform automatically bar Cole's liability for Vic's murder?
 
 (a) No, because the jury could still convict Cole if it finds he was a major participant in the underlying felony who acted with reckless indifference to human life. <!-- correct -->
-(b) Yes, because the reform categorically eliminates all forms of vicarious liability for homicide unless the prosecution can prove the accomplice personally pulled the trigger.
-(c) Yes, because Cole lacked the specific intent to kill Vic, and the reformed statute strictly prohibits imputing malice under any circumstances during a felony.
-(d) No, because SB 1437 only applies to unarmed accomplices, and Cole's knowledge of Damon's firearm immediately disqualifies him from asserting the statutory defense.
+(b) No, because SB 1437 only applies to unarmed accomplices, and Cole's knowledge of Damon's firearm immediately disqualifies him from asserting the statutory defense.
+(c) Yes, because the reform categorically eliminates all forms of vicarious liability for homicide unless the prosecution can prove the accomplice personally pulled the trigger.
+(d) Yes, because Cole lacked the specific intent to kill Vic, and the reformed statute strictly prohibits imputing malice under any circumstances during a felony.
 (e) No, because the reform merely shifts the burden of proof to the defendant to prove by a preponderance of evidence that the killing was entirely unforeseeable.
 
 **Answer:** (a)
 
-**Explanation:** The correct answer is (a) because SB 1437 retains liability for accomplices who are major participants acting with reckless indifference to human life. (b) is wrong because the reform does not require the accomplice to be the actual shooter if the major participant/reckless indifference threshold is met. (d) is wrong because the statute does not categorically exclude accomplices with knowledge of a weapon from its protections. (c) is wrong because malice can still be established and imputed through the major participant and reckless indifference pathway, even without specific intent to kill. (e) is wrong because the burden of proof remains firmly on the prosecution to establish the elements of the reformed statute.
+**Explanation:** The correct answer is (a) because SB 1437 retains liability for accomplices who are major participants acting with reckless indifference to human life. (c) is wrong because the reform does not require the accomplice to be the actual shooter if the major participant/reckless indifference threshold is met. (b) is wrong because the statute does not categorically exclude accomplices with knowledge of a weapon from its protections. (d) is wrong because malice can still be established and imputed through the major participant and reckless indifference pathway, even without specific intent to kill. (e) is wrong because the burden of proof remains firmly on the prosecution to establish the elements of the reformed statute.
 
 **Tags:** chapters: [18], topics: [accomplice-liability, npc-reform-sb1437], difficulty: hard, cognitive: application
 
@@ -152,15 +152,15 @@ While the sting was unfolding, the rest of the ring hit the East Side stash hous
 
 **Q9.** Assume the jurisdiction applies the traditional felony murder rule. Is Cole guilty of felony murder for Vic's death?
 
-(a) No, because Damon shot Vic out of personal rage over an insult, severing the causal nexus between the underlying stash house robbery and the resulting homicide.
-(b) No, because Cole was stationed outside as a lookout and did not personally commit any act of physical violence or directly encourage the fatal shooting.
-(c) Yes, because Vic's death was caused by a co-felon during the attempted perpetration of an inherently dangerous predicate felony in which Cole was an active accomplice. <!-- correct -->
-(d) Yes, because under the modern agency approach to felony murder, the primary target of any robbery is automatically presumed to have consented to the risk of death.
-(e) Yes, because the felony murder rule permits convictions based solely on a defendant's physical presence near the scene of a violent crime, regardless of their role.
+(a) Yes, because the felony murder rule permits convictions based solely on a defendant's physical presence near the scene of a violent crime, regardless of their role.
+(b) Yes, because Vic's death was caused by a co-felon during the attempted perpetration of an inherently dangerous predicate felony in which Cole was an active accomplice. <!-- correct -->
+(c) No, because Damon shot Vic out of personal rage over an insult, severing the causal nexus between the underlying stash house robbery and the resulting homicide.
+(d) No, because Cole was stationed outside as a lookout and did not personally commit any act of physical violence or directly encourage the fatal shooting.
+(e) Yes, because under the modern agency approach to felony murder, the primary target of any robbery is automatically presumed to have consented to the risk of death.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** The correct answer is (c) because felony murder applies when a death is caused during the immediate perpetration of an inherently dangerous felony by any co-felon, and Cole is an accomplice to that felony. (a) is wrong because the shooting occurred within the temporal and spatial res gestae of the robbery, keeping it within the causal nexus regardless of the specific emotional trigger. (e) is wrong because felony murder requires the defendant to be an actual participant or accomplice in the underlying felony, not merely physically present. (b) is wrong because an accomplice to the underlying felony is vicariously liable for the resulting felony murder regardless of whether they physically caused the death. (d) is wrong because the doctrine relies on statutory imputation of malice, not a presumed consent to the risk of death by victims.
+**Explanation:** The correct answer is (b) because felony murder applies when a death is caused during the immediate perpetration of an inherently dangerous felony by any co-felon, and Cole is an accomplice to that felony. (c) is wrong because the shooting occurred within the temporal and spatial res gestae of the robbery, keeping it within the causal nexus regardless of the specific emotional trigger. (a) is wrong because felony murder requires the defendant to be an actual participant or accomplice in the underlying felony, not merely physically present. (d) is wrong because an accomplice to the underlying felony is vicariously liable for the resulting felony murder regardless of whether they physically caused the death. (e) is wrong because the doctrine relies on statutory imputation of malice, not a presumed consent to the risk of death by victims.
 
 **Tags:** chapters: [14], topics: [felony-murder, accomplice-liability], difficulty: medium, cognitive: application
 

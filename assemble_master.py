@@ -125,9 +125,12 @@ def main():
                 
                 q_text = re.sub(r'\*\*Q\d+\.\*\*', replace_q_num, q_text)
                 
-                # Replace Stem headers with Scenario Continued
-                q_text = re.sub(r'^#+\s*Stem\s*\d+:\s*', f'### Scenario {idx} Continued: ', q_text, flags=re.MULTILINE)
+                # Replace Stem headers and frame as a narrative quote
+                def replace_stem(match):
+                    body = match.group(2).strip()
+                    return f"### Scenario {idx} Continued\n\n*Your supervising ADA pulls you aside and says: \"{body}\"*\n\n"
                 
+                q_text = re.sub(r'^#+\s*Stem\s*\d+:\s*([^\n]+)\n+(.*?)(?=\n\*\*Q)', replace_stem, q_text, flags=re.MULTILINE | re.DOTALL)                
                 # Remove Tags lines
                 q_text = re.sub(r'^\*\*Tags:\*\*.*(?:\n|$)', '', q_text, flags=re.MULTILINE)
                 

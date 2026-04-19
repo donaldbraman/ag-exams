@@ -1,267 +1,213 @@
-**Q1.** Is Pinnacle Waste Management a valid RICO enterprise under 18 U.S.C. § 1962(c)?
+**Q1.** Assume the government seeks to charge Jack under RICO using Empire Waste Management LLC as the enterprise. Can Empire Waste, a legitimate state-licensed corporation, serve as a RICO enterprise?
 
-(a) Yes, because a legitimate corporation can constitute a RICO enterprise when its formal business structure is repurposed to facilitate racketeering activity. <!-- correct -->
-(b) No, because a lawfully chartered corporation with legitimate operations cannot serve as an enterprise for racketeering purposes under federal law.
-(c) No, because the dispatch center and billing department were used for separate schemes, creating a hub-and-spoke structure without a rim.
-(d) Yes, because any business owned by a person who commits two or more racketeering acts automatically becomes an enterprise under the statute.
-(e) No, because an association-in-fact enterprise requires a criminal purpose distinct from the corporation's legal charter and legitimate business operations.
+(a) Yes, because any defendant who commits two or more predicate offenses within ten years automatically forms a RICO enterprise.
+(b) No, because Empire Waste is a legitimate, state-licensed corporation and therefore cannot constitute a criminal enterprise under RICO.
+(c) No, because the enterprise must be an association-in-fact with a formal hierarchy distinct from the underlying criminal acts.
+(d) Yes, because a legitimate corporation can serve as a RICO enterprise when its ordinary business structure is repurposed to conduct racketeering activity. <!-- correct -->
+(e) No, because an enterprise requires horizontal relationships among multiple distinct criminal schemes connected by a single rim.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** (a) is correct because under *Insys Therapeutics*, a legitimate corporation can constitute a RICO enterprise when its formal business structure (here, the dispatch and billing departments) is repurposed to conduct or facilitate racketeering activity. (d) is incorrect because an enterprise requires structural features (shared purpose, relationships, longevity) beyond merely being owned by a criminal. (b) is incorrect because RICO explicitly covers lawful entities corrupted for unlawful ends. (e) is incorrect because an association-in-fact enterprise need not have a purpose completely distinct from the corporation's charter if the structure itself is used for racketeering. (c) is incorrect because the dispatch and billing departments provided the "rim" connecting the operations, satisfying the enterprise structure requirement.
+**Explanation:** Under RICO doctrine, a legitimate corporation can itself constitute the enterprise when its ordinary business structure is repurposed to conduct racketeering activity. The lawfulness of the corporation's formal charter does not shield it from being classified as an enterprise (as seen in the *Insys Therapeutics* prosecution). (b) is wrong because lawful entities routinely serve as the enterprise if their structure is used for racketeering. (c) is wrong because the association-in-fact structural requirements apply to informal groups, not incorporated entities. (a) is wrong because it conflates the "pattern of racketeering" requirement (predicate offenses) with the distinct structural "enterprise" requirement. (e) is wrong because it applies the hub-and-spoke "rim" requirement from *Pinson*, which governs informal networks, not single unified corporate entities like Empire Waste.
 
-**Tags:** chapters: [20], topics: [corporate enterprise, RICO], difficulty: medium, cognitive: application
+**Tags:** chapters: [20], topics: [corporate RICO enterprise], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 20, Insys Therapeutics Prosecution
+**Grounding:** Chapter 20, Insys Therapeutics Prosecution note; corporate-enterprise refinement.
 
 ---
 
-**Q2.** Assume the government brings a RICO conspiracy charge based on the agreement to establish the narcotics operation. Can Carmine be convicted of RICO conspiracy under § 1962(d) for the agreement to establish the new syndicate?
+**Q2.** Assume that, whether or not Jack is liable under RICO, the prosecution seeks to charge Laura as an accomplice to Kevin's drug distribution. Under the traditional common law rule for accomplice liability, is Laura guilty?
 
-(a) Yes, because any conspiracy to commit a crime automatically satisfies the pattern of racketeering activity requirement under federal law.
-(b) No, because the new syndicate was a separate scheme that lacked a continuous relationship with the existing Pinnacle Waste enterprise.
-(c) No, because neither Carmine nor Dominic had yet committed a predicate act of racketeering in furtherance of the new syndicate.
-(d) No, because a RICO conspiracy requires the enterprise to actually exist at the time the unlawful agreement is made by the parties.
-(e) Yes, because an agreement to associate with and participate in a yet-to-be-formed enterprise constitutes a completed RICO conspiracy. <!-- correct -->
+(a) Guilty, because dispatching the Empire Waste trucks provided necessary physical assistance to the successful distribution of the narcotics.
+(b) Guilty, because by retaining her salary she financially benefited from the proceeds of the illicit drug distribution.
+(c) Not guilty, because her sole motive was to keep her lawful salary, meaning she lacked the purpose to facilitate the criminal venture. <!-- correct -->
+(d) Not guilty, because she did not personally handle or load the narcotics into the Empire Waste trucks on the route.
+(e) Guilty, because she had actual knowledge that she was facilitating drug distribution when she dispatched the trucks.
+
+**Answer:** (c)
+
+**Explanation:** Under the traditional *Peoni* rule, accomplice liability requires that the defendant act with the purpose of promoting or facilitating the crime. Merely providing routine services with knowledge of the crime, in order to keep a lawful pre-existing job, does not establish the required purpose or stake in the venture. (a) is wrong because providing physical assistance satisfies only the actus reus element; it ignores the required mens rea. (e) is wrong because under the common law majority rule, mere knowledge of the principal's criminal intent is insufficient without a shared purpose to see the venture succeed. (d) is wrong because physical handling of contraband is not required for accomplice liability if the defendant otherwise aids the crime with the requisite intent. (b) is wrong because receiving a standard lawful salary is not the equivalent of taking a financial stake in the success of the underlying criminal operation.
+
+**Tags:** chapters: [13, 15], topics: [accomplice liability, purpose vs. knowledge], difficulty: intermediate, cognitive: application
+
+**Grounding:** Chapter 13, United States v. Peoni; mens rea for accomplice liability.
+
+---
+
+**Q3.** Assume the prosecution alternatively charges Laura with constructive possession of the two kilograms of cocaine stored in the breakroom. Is Laura guilty of constructive possession?
+
+(a) Not guilty, because her statement "get it out of the breakroom" demonstrated her lack of intent to exercise dominion and control over the drugs. <!-- correct -->
+(b) Guilty, because her failure to report the narcotics to law enforcement constituted tacit approval of their continued presence.
+(c) Not guilty, because constructive possession requires physical contact with the contraband at least once before discovery by law enforcement.
+(d) Guilty, because she had actual knowledge that a distributable quantity of narcotics was stored in a shared employee space.
+(e) Guilty, because as the dispatcher of the facility, she had joint access to the breakroom where the duffel bag was stored.
+
+**Answer:** (a)
+
+**Explanation:** Constructive possession requires proof that the defendant knew of the contraband's presence and had both the power and the intent to exercise dominion and control over it. Laura's awareness of the drugs and her demand to remove them proved knowledge, but defeated any inference that she intended to exercise dominion and control, particularly since Kevin retained exclusive access via the lock combination. (d) is wrong because awareness of contraband in a shared space is necessary but not sufficient to prove dominion and control. (e) is wrong because shared access to the room does not establish control over a locked bag within the exclusive control of another co-occupant. (c) is wrong because constructive possession by definition does not require physical contact with the item. (b) is wrong because failure to report does not equate to the affirmative intent to control the item required for possession.
+
+**Tags:** chapters: [15], topics: [constructive possession, awareness vs. control], difficulty: foundational, cognitive: application
+
+**Grounding:** Chapter 15, State v. White; cp-awareness-control and cp-exclusive-control refinements.
+
+---
+
+**Q4.** Assume Kevin is charged under 18 U.S.C. § 924(c) for "using" a firearm during and in relation to a drug trafficking crime based on his October 1 exchange with the rival syndicate member. Is Kevin guilty of this offense?
+
+(a) Not guilty, because Justice Ginsburg's concurrence establishes that the definition of "use" only applies when a firearm is deployed as a weapon.
+(b) Guilty, because he actively employed the firearm as an item of barter and commerce during the transaction with the rival.
+(c) Guilty, because trading narcotics for a firearm inherently involves the firearm in a drug trafficking transaction under the statute.
+(d) Guilty, because possessing the firearm immediately after the transaction automatically constitutes carrying it during the underlying offense.
+(e) Not guilty, because under Watson, a person who receives a firearm in exchange for drugs does not "use" the firearm within the meaning of the statute. <!-- correct -->
 
 **Answer:** (e)
 
-**Explanation:** (e) is correct because under *United States v. Rich*, an agreement to associate with and participate in a yet-to-be-formed enterprise constitutes a completed RICO conspiracy under § 1962(d). (a) is incorrect because a RICO conspiracy specifically requires an agreement to further an endeavor that, if completed, would satisfy all RICO elements, not just any generic criminal conspiracy. (d) is incorrect because *Rich* explicitly held the enterprise need not exist at the time of the agreement. (c) is incorrect because under *Salinas*, a RICO conspirator need not personally commit predicate acts, only agree to further the endeavor. (b) is incorrect because the agreement to form a new enterprise is itself sufficient for a separate conspiracy charge.
+**Explanation:** Under *Watson v. United States*, a defendant who trades drugs to acquire a gun does not "use" a firearm under § 924(c); only the party tendering the gun uses it as currency. The receiving party is merely receiving consideration. (c) is wrong because it ignores the Supreme Court's specific limitation on the definition of "use" for the receiving party in a drug-for-gun trade. (b) is wrong because this describes the rule from *Smith v. United States* (trading a gun for drugs), which is the exact opposite of what Kevin did. (a) is wrong because Justice Ginsburg's "use as weapon only" reading was a concurrence and is not binding law; the *Smith* rule permitting use as currency remains intact. (d) is wrong because the question specifically asks about the "use" prong, and mere possession after the transaction does not retroactively constitute "using" it as currency during the trade.
+
+**Tags:** chapters: [15], topics: [924(c), use of a firearm], difficulty: intermediate, cognitive: application
+
+**Grounding:** Chapter 15, Watson v. United States; use-924c-trading-drugs-for-gun refinement.
+
+---
+
+**Q5.** Assume Kevin is charged under the federal felon-in-possession statute (18 U.S.C. § 922(g)(1)). Applying the Supreme Court's interpretation of the knowledge requirement for this offense, does Kevin possess the required mental state?
+
+(a) No, because he did not realize that trading drugs for a firearm was a federal offense under the gun control statutes.
+(b) Yes, because a defendant's reliance on private counsel's advice can never defeat the required mens rea for a strict liability status element.
+(c) Yes, because his prior conviction carried a maximum penalty of 18 months in prison, which is objectively a felony regardless of his belief.
+(d) No, because the government cannot prove he knew he belonged to the prohibited class of persons convicted of a felony. <!-- correct -->
+(e) Yes, because he knew he possessed the firearm and ignorance of the law regarding his prior conviction status is no excuse.
+
+**Answer:** (d)
+
+**Explanation:** Under *Rehaif v. United States*, the federal felon-in-possession statute requires the government to prove the defendant knew both that he possessed a firearm and that he belonged to the relevant prohibited class (a person convicted of a crime punishable by more than one year in prison). Because Kevin genuinely believed his attorney's email that his conviction was a misdemeanor, he lacked knowledge of his prohibited status. (e) is wrong because *Rehaif* explicitly extends the knowledge requirement to the status element, overcoming the general "ignorance of law" maxim. (c) is wrong because objective reality does not satisfy a subjective knowledge requirement. (a) is wrong because the required knowledge pertains to his felony status, not the legality of his actions with the firearm. (b) is wrong because the status element is not strict liability under *Rehaif*; it requires subjective knowledge.
+
+**Tags:** chapters: [10, 15], topics: [Rehaif, mens rea, status element], difficulty: intermediate, cognitive: application
+
+**Grounding:** Chapter 10, Rehaif v. United States; rehaif-status-element refinement.
+
+---
+
+**Q6.** Assume instead that Kevin is charged under a state "felon in possession" statute that strictly rejects the federal *Rehaif* rule and requires no mens rea regarding felony status. Kevin attempts to assert a mistake of law defense based on his attorney's email. Will this defense succeed?
+
+(a) Yes, because his mistake negated the general intent required to possess the firearm and transport it in interstate commerce.
+(b) No, because advice from private counsel does not qualify as an "official statement" under the mistake of law exception to criminal liability. <!-- correct -->
+(c) Yes, because a genuine belief that one's conduct is lawful is always a complete defense to a malum prohibitum regulatory offense.
+(d) No, because the attorney's email misstated collateral law rather than the penal law itself, which precludes any reliance defense.
+(e) Yes, because his attorney's email constitutes an official statement of the law upon which he reasonably relied to assess his legal status.
+
+**Answer:** (b)
+
+**Explanation:** The official-statement exception to the mistake of law doctrine requires reasonable reliance on an official interpretation from a court, administrative order, or public officer charged with interpreting the law. Advice from private counsel, no matter how reasonable or genuinely believed, does not qualify as an official statement. (e) is wrong because a private attorney is not an official government source. (a) is wrong because a mistake of law does not negate the general intent to perform the physical act of possessing the gun. (d) is wrong because while the prior conviction is collateral law, that distinction generally helps defendants (under the collateral law exception); here he fails specifically because of the source of the advice. (c) is wrong because the traditional rule is that ignorance of the law is no excuse, regardless of whether the crime is malum in se or malum prohibitum.
+
+**Tags:** chapters: [10], topics: [mistake of law, official statement, advice of counsel], difficulty: intermediate, cognitive: application
+
+**Grounding:** Chapter 10, mol-advice-of-counsel and mol-official-statement refinements.
+
+---
+
+**Q7.** Assume the government indicts Jack under § 1962(d) for RICO conspiracy based solely on the November 1 written agreement to launch "Tri-State Waste." Is Jack guilty of RICO conspiracy?
+
+(a) No, because an association-in-fact enterprise must have an established structure and longevity before a conspiracy can be formed to participate in it.
+(b) Yes, because an agreement to associate with and participate in a yet-to-be-formed racketeering enterprise constitutes a completed RICO conspiracy. <!-- correct -->
+(c) No, because no overt acts were committed in furtherance of the Tri-State Waste syndicate prior to the federal indictment being unsealed.
+(d) Yes, because he already operated Empire Waste and the new agreement immediately merged into the existing corporate enterprise structure.
+(e) Yes, because agreeing to any two predicate offenses automatically creates a RICO enterprise conspiracy without requiring proof of an overarching structure.
+
+**Answer:** (b)
+
+**Explanation:** Under *United States v. Rich*, an agreement to associate with and participate in a yet-to-be-formed racketeering enterprise can constitute a completed RICO conspiracy offense. The enterprise need not actually exist at the time of the agreement. (c) is wrong because, unlike general federal conspiracy, RICO conspiracy does not require an overt act; the agreement itself completes the crime. (d) is wrong because the facts explicitly state they are forming a "new syndicate," and guilt is based on agreeing to that new venture, not merging it. (a) is wrong because *Salinas* and *Rich* establish that conspiring to form a future enterprise is sufficient; it does not need to pre-exist the agreement. (e) is wrong because agreeing to commit crimes is not enough; the defendants must specifically agree to conduct or participate in an enterprise's affairs through a pattern of racketeering.
 
 **Tags:** chapters: [20], topics: [RICO conspiracy, future enterprise], difficulty: advanced, cognitive: application
 
-**Grounding:** Chapter 20, United States v. Rich
+**Grounding:** Chapter 20, United States v. Rich; rich-future-enterprise refinement.
 
 ---
 
-**Q3.** Assume Marcus is charged as an accomplice to drug trafficking for routing the trucks around the weigh stations. Is he guilty under the traditional common law standard?
+**Q9.** Assume the jurisdiction recognizes the *Pinkerton* doctrine. Is Jack liable for Kevin's substantive offense of carrying the 9mm firearm to the restaurant?
 
-(a) Yes, because he knew his actions would assist the drug trafficking operation and he voluntarily performed them for his employer.
-(b) No, because his regular salary was legitimate compensation that legally insulates him from liability for how the company's trucks were used.
-(c) No, because an accomplice must act with the purpose of promoting the offense, and Marcus explicitly disclaimed a stake in the venture. <!-- correct -->
-(d) Yes, because routing the trucks constituted a substantial step toward the commission of the drug offense and satisfied the actus reus.
-(e) No, because a person cannot be an accomplice unless they are physically present at the scene when the underlying offense occurs.
-
-**Answer:** (c)
-
-**Explanation:** (c) is correct because the common law requires an accomplice to act with the specific purpose of promoting or facilitating the underlying offense. Marcus explicitly disclaimed any stake in the venture and stated he only wanted his regular salary, demonstrating knowledge but lacking purpose. (a) is incorrect because mere knowledge of the criminal nature of the acts being assisted is generally insufficient for accomplice liability. (d) is incorrect because the substantial step test applies to attempt liability, not the mens rea requirement for accomplice liability. (b) is incorrect because receipt of a regular salary does not provide absolute legal immunity if the employee acts with the requisite criminal purpose. (e) is incorrect because an accomplice can be liable for aiding and abetting even if not physically present at the crime scene.
-
-**Tags:** chapters: [18], topics: [accomplice liability, mens rea], difficulty: foundational, cognitive: application
-
-**Grounding:** Chapter 18, mr-purpose-not-knowledge
-
----
-
-**Q4.** Assume that, whether or not Marcus is an accomplice, he raises a duress defense to his continued routing of the trucks following Carmine's threat. Will the defense succeed?
-
-(a) Yes, because Carmine's threat to put Marcus in a compactor was sufficiently severe to overcome the will of a person of reasonable firmness.
-(b) No, because Marcus voluntarily accepted the dispatcher job originally and therefore recklessly placed himself in the coercive criminal situation.
-(c) Yes, because Marcus was subjected to a continuous threat of physical harm that legally persisted throughout the entire four-month period.
-(d) No, because the threat was not imminent, as Marcus had four months and ample opportunity to contact authorities or escape. <!-- correct -->
-(e) No, because under the common law duress is never available as a defense to serious felony offenses like drug trafficking.
-
-**Answer:** (d)
-
-**Explanation:** (d) is correct because duress requires a threat of imminent death or serious bodily harm. A threat to track someone down in the future, coupled with a four-month period where Marcus continued the conduct without attempting to contact authorities or escape, destroys the imminence requirement. (a) is incorrect because severity alone is insufficient; the threat must also be imminent. (c) is incorrect because the subjective fear of future retribution does not legally constitute a continuous imminent threat under the duress doctrine. (e) is incorrect because duress is generally available for drug offenses; the common law prohibition applies strictly to intentional murder. (b) is incorrect because voluntarily accepting a lawful dispatching job does not constitute recklessly placing oneself in a situation where one will be subjected to duress.
-
-**Tags:** chapters: [21], topics: [duress, imminence], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 21, duress-imminence-proximity
-
----
-
-**Q5.** The investigation has uncovered Dominic's street-level activities, including a drug-for-guns trade. Is Dominic guilty of "using" a firearm during and in relation to a drug trafficking crime under 18 U.S.C. § 924(c) for the trade?
-
-(a) No, because Dominic never fired or brandished the unregistered rifles during the transaction with the narcotics supplier.
-(b) Yes, because acquiring firearms during a drug deal legally constitutes carrying them in relation to the underlying narcotics offense.
-(c) No, because Justice Ginsburg's use-as-a-weapon interpretation is the controlling legal standard under the current interpretation of the statute.
-(d) Yes, because he actively employed the firearms as an item of barter in commerce to facilitate the drug transaction.
-(e) No, because receiving a firearm as payment for drugs does not constitute using the firearm; only the party tenderering the gun uses it. <!-- correct -->
+(a) No, because Kevin did not actually brandish or fire the weapon during the attempted extortion before he dropped the crowbar and fled.
+(b) Yes, because Jack's physical absence from the scene automatically transfers liability to him as an accessory before the fact under the common law.
+(c) Yes, because under Pinkerton, a conspiracy leader is strictly liable for all crimes committed by subordinates at any time during the conspiracy.
+(d) No, because Jack did not explicitly agree that Kevin would bring a firearm to the restaurant when they planned the extortion.
+(e) Yes, because a co-conspirator is liable for reasonably foreseeable substantive offenses committed in furtherance of the conspiracy, and carrying a weapon to an extortion is foreseeable. <!-- correct -->
 
 **Answer:** (e)
 
-**Explanation:** (e) is correct because under *Watson v. United States*, a defendant who receives a firearm in exchange for drugs does not "use" the firearm within the meaning of § 924(c); only the party tendering the gun as currency "uses" it. (d) is incorrect because *Smith* (using a gun to buy drugs) does not apply symmetrically; Watson held a seller does not "use" a buyer's consideration. (b) is incorrect because acquiring a firearm and merely taking possession of it during a drug deal does not automatically satisfy the "carrying" prong in relation to the offense. (c) is incorrect because Justice Ginsburg's "use as a weapon" interpretation was in a concurrence and is not the controlling legal standard. (a) is incorrect because firing or brandishing is not strictly required if the gun is tendered as currency, but Dominic was the receiver, not the tenderer.
+**Explanation:** Under the *Pinkerton* doctrine, a conspirator is liable for the substantive offenses committed by a co-conspirator if those crimes are committed in furtherance of the conspiracy and are reasonably foreseeable as a necessary or natural consequence of the unlawful agreement. It is reasonably foreseeable that a subordinate would carry a weapon while executing a violent extortion scheme. (d) is wrong because *Pinkerton* does not require an explicit agreement to commit the specific substantive offense, only foreseeability. (c) is wrong because *Pinkerton* liability is not strict; it is limited by the foreseeability and "in furtherance" requirements. (a) is wrong because mere possession or carrying of the weapon can be a substantive offense, regardless of whether it is fired. (b) is wrong because *Pinkerton* liability is based on the conspiracy agreement, not common-law accessory categories.
 
-**Tags:** chapters: [15], topics: [use of firearm, § 924(c)], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [Pinkerton liability, conspiracy], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 15, Watson v. United States
-
----
-
-**Q6.** Assume Dominic is charged with possession of fentanyl. Can he successfully defend on the ground that he genuinely believed the substance was heroin?
-
-(a) No, because his belief that the substance was heroin demonstrates he acted with criminal negligence regarding the true nature of the drugs.
-(b) No, because federal drug possession offenses are strict liability crimes that require no proof of mens rea regarding the substance.
-(c) Yes, because the government must prove he had specific knowledge of the precise chemical identity of the substance he possessed.
-(d) No, because the government need only prove he knew the substance was a controlled substance, not its precise chemical identity. <!-- correct -->
-(e) Yes, because a mistake of fact defense is available whenever a defendant holds an honest but mistaken belief about a circumstance.
-
-**Answer:** (d)
-
-**Explanation:** (d) is correct because under *McFadden*, the government only needs to prove the defendant knew the substance had the general nature of a controlled substance, not its precise chemical identity. Dominic knew he possessed heroin (a controlled substance), satisfying the mens rea for whatever substance it actually was. (c) is incorrect because federal law expressly rejects requiring specific chemical knowledge. (e) is incorrect because mistake of fact only applies if it negates the required mental state, and knowing it was heroin satisfies the mental state for possessing a controlled substance. (b) is incorrect because federal drug possession is not a strict liability offense; it requires knowledge of the substance's general nature. (a) is incorrect because the standard is actual knowledge of its general nature, not negligence.
-
-**Tags:** chapters: [15, 10], topics: [drug possession, mens rea, fentanyl], difficulty: advanced, cognitive: application
-
-**Grounding:** Chapter 15, McFadden v. United States
+**Grounding:** Chapter 19 (implied Conspiracy doctrine), Pinkerton v. United States.
 
 ---
 
-**Q7.** Which of the following accurately describes the application of federal mandatory minimums to Dominic's possession of the 2 kilograms of fentanyl?
+**Q10.** Assume the jurisdiction applies the majority "agency rule" for felony murder. Is Jack liable for felony murder for the death of his co-felon Kevin?
 
-(a) The mandatory minimum enhancement is unconstitutional because it punishes defendants based on quantities without requiring any proof of culpable mental state.
-(b) The mandatory minimum applies only if the prosecution can prove that Dominic actually intended to distribute the specific two kilograms.
-(c) The quantity of drugs creates a permissive inference of distribution, but the jury retains discretion to ignore the mandatory minimum.
-(d) The mandatory minimum cannot be applied unless the government proves Dominic knew the specific substance was fentanyl rather than heroin.
-(e) The mandatory minimum is triggered by the drug weight alone, without requiring separate proof of his intent to distribute the drugs. <!-- correct -->
-
-**Answer:** (e)
-
-**Explanation:** (e) is correct because under 21 U.S.C. § 841(b), federal mandatory minimum sentences are triggered by drug weight alone, independent of the prosecution's proof regarding intent to distribute. (b) is incorrect because the weight enhancement is structurally distinct from the intent-to-distribute element. (d) is incorrect because the mandatory minimum floor depends purely on the objective grams of the actual substance possessed, not the defendant's knowledge of the specific substance type. (c) is incorrect because mandatory minimums strip sentencing discretion from judges and juries once the threshold facts are found. (a) is incorrect because mandatory minimums based on quantity have been consistently upheld as constitutional exercises of legislative power.
-
-**Tags:** chapters: [15], topics: [mandatory minimums, drug weight], difficulty: foundational, cognitive: application
-
-**Grounding:** Chapter 15, 21 U.S.C. § 841(b)
-
----
-
-**Q8.** Assume Dominic is charged with Victor's murder and claims self-defense. Will this defense succeed?
-
-(a) Yes, because Dominic only brandished the weapon initially and did not use deadly force until Victor violently escalated the encounter.
-(b) No, because Dominic was the initial aggressor who threatened deadly force, barring him from claiming self-defense without first withdrawing. <!-- correct -->
-(c) No, because Dominic had an absolute legal duty to retreat from the restaurant before returning fire against Victor's attack.
-(d) Yes, because Victor fired the first shot, giving Dominic a reasonable fear of imminent death or serious bodily harm.
-(e) No, because self-defense is categorically never available to a defendant who is engaged in the commission of any criminal offense.
-
-**Answer:** (b)
-
-**Explanation:** (b) is correct because under the initial aggressor bar, a person who initiates a confrontation with deadly force (brandishing an AR-15 during a robbery) forfeits the right to claim self-defense against responsive force unless they effectively withdraw. (d) is incorrect because Victor's responsive shot was a justified use of force against Dominic's initial threat of deadly force. (a) is incorrect because brandishing a firearm to compel a robbery constitutes a threat of deadly force, making Dominic the initial aggressor. (e) is incorrect because some jurisdictions allow a felon to regain the right to self-defense if the victim drastically escalates from non-deadly to deadly force, though that did not happen here. (c) is incorrect because the initial aggressor doctrine bars the defense entirely, regardless of retreat rules.
-
-**Tags:** chapters: [22], topics: [self-defense, initial aggressor], difficulty: foundational, cognitive: application
-
-**Grounding:** Chapter 22, initial aggressor bar
-
----
-
-**Q9.** Assume that, whether or not Dominic is guilty, the government charges Carmine under the Pinkerton doctrine for Victor's death. Can Carmine be convicted?
-
-(a) Yes, under the Pinkerton doctrine, because the fatal shooting was a reasonably foreseeable consequence of the armed extortion conspiracy. <!-- correct -->
-(b) Yes, because as the boss of the Pinnacle enterprise, Carmine is strictly liable for all crimes committed by his subordinates.
-(c) No, because Carmine was not physically present at the restaurant and did not specifically direct Dominic to kill the owner.
-(d) No, because Victor's decision to unexpectedly pull a concealed revolver was an unforeseeable intervening cause that breaks the chain of liability.
-(e) No, because homicide is an independent substantive crime that merges with the underlying extortion, preventing separate conspiracy liability.
+(a) No, because under the agency rule, the fatal act must be committed by a co-felon, not by the victim or a third party resisting the felony. <!-- correct -->
+(b) No, because the felony had already completely terminated the moment Kevin dropped the crowbar and attempted to flee from the scene.
+(c) Yes, because a boss in a criminal syndicate assumes strict liability for the deaths of any subordinates carrying out his explicit orders.
+(d) Yes, because Jack set in motion the chain of events that proximately caused Kevin's death during the commission of the underlying extortion felony.
+(e) Yes, because the extortion was an inherently dangerous felony that created a reasonably foreseeable risk of a lethal response from the target.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because under the *Pinkerton* doctrine, a co-conspirator is liable for the substantive offenses committed by another co-conspirator if those offenses were reasonably foreseeable and committed in furtherance of the conspiracy. An armed shootout is reasonably foreseeable during an organized extortion scheme. (b) is incorrect because *Pinkerton* requires the specific crime to be reasonably foreseeable, rejecting absolute strict liability for any subordinate's actions. (c) is incorrect because physical presence and specific direction are not required under conspiratorial liability. (e) is incorrect because homicide does not merge with conspiracy or extortion; it is a separate substantive offense. (d) is incorrect because an armed target resisting an extortion attempt is a highly foreseeable response, not an independent intervening cause.
+**Explanation:** The majority "agency rule" for felony murder limits liability to deaths caused by the felons themselves or their agents. If a victim or police officer fires the fatal shot, the felons are not liable for felony murder because the shooter is not their agent. (d) is wrong because it describes the minority "proximate cause" theory of felony murder, not the agency rule requested by the stem. (e) is wrong because foreseeability alone does not satisfy the agency rule's strict requirement regarding who fired the fatal shot. (b) is wrong because fleeing the scene is generally considered part of the *res gestae* of the felony, but Jack avoids liability due to the identity of the shooter, not the timing. (c) is wrong because felony murder requires a specific causal and agency connection, not general strict liability for syndicate bosses.
 
-**Tags:** chapters: [19], topics: [Pinkerton liability, conspiracy], difficulty: medium, cognitive: application
+**Tags:** chapters: [14], topics: [felony murder, agency rule, limits], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 19, Pinkerton doctrine
+**Grounding:** Chapter 14, felony murder agency limitation.
 
 ---
 
-**Q10.** Assume Dominic is charged with felony murder for Victor's death. Which of the following is accurate?
+**Q11.** Assume Matthew is charged with homicide for shooting Kevin. Can Matthew successfully assert self-defense?
 
-(a) He is guilty only if the prosecution proves he acted with a reckless disregard for human life when he returned fire.
-(b) He is guilty because the killing occurred during the commission of a dangerous felony, making his intent regarding the death irrelevant. <!-- correct -->
-(c) He is not guilty because under the agency theory of felony murder, a defendant is not legally liable for defensive killings.
-(d) He is not guilty because the felony murder rule only applies when an innocent bystander is killed, not the intended robbery victim.
-(e) He is not guilty because Victor's act of shooting first severed the proximate causal chain between the extortion and the death.
+(a) Yes, because as a business owner, Matthew had no duty to retreat from his own property before using deadly force to defend it.
+(b) No, because Kevin was sprinting away, meaning the threat of harm was no longer imminent when Matthew fired the fatal shot. <!-- correct -->
+(c) No, because Matthew was the initial aggressor by stepping out of the back door with a shotgun instead of calling law enforcement.
+(d) Yes, because Kevin's initial approach with a crowbar constituted an unprovoked threat of death or serious bodily harm to Matthew.
+(e) Yes, because Matthew honestly believed the cartel would continually bleed his business dry, creating an ongoing and inescapable threat to his life.
 
 **Answer:** (b)
 
-**Explanation:** (b) is correct because the felony murder rule imposes strict liability for any death that occurs during the commission or attempted commission of an enumerated inherently dangerous felony, such as extortion or robbery. (a) is incorrect because felony murder substitutes the intent to commit the underlying felony for the malice aforethought required for murder, requiring no separate mens rea as to the death. (e) is incorrect because a victim's attempt to defend themselves is a foreseeable consequence of an armed robbery and does not sever the causal chain. (d) is incorrect because the felony murder rule applies regardless of whether the victim is a bystander or the intended target of the underlying felony. (c) is incorrect because Dominic personally fired the fatal shot, meaning agency theory limitations on defensive killings by third parties do not apply.
+**Explanation:** Self-defense requires that the threat of death or serious bodily harm be imminent. When an attacker abandons their weapon and flees, the imminent threat dissipates, and the use of deadly force is no longer legally justified. (d) is wrong because while the initial threat may have been imminent, self-defense is evaluated at the exact moment the force is used, at which point Kevin was fleeing. (a) is wrong because "stand your ground" or castle doctrine rules only remove the duty to retreat; they do not eliminate the core requirement that the threat be imminent. (c) is wrong because Kevin was the initial aggressor by approaching masked with a crowbar; Matthew's defensive display of a weapon did not make him the initial aggressor. (e) is wrong because future, non-imminent threats cannot justify the present use of deadly force under traditional self-defense doctrine.
 
-**Tags:** chapters: [14], topics: [felony murder], difficulty: foundational, cognitive: application
+**Tags:** chapters: [12], topics: [self-defense, imminence, fleeing suspect], difficulty: foundational, cognitive: application
 
-**Grounding:** Chapter 14, felony murder rule
+**Grounding:** Chapter 12, self-defense imminence requirement.
 
 ---
 
-**Q11.** Assume Dominic argues that the underlying felony merges with the homicide, precluding a felony murder conviction. Will this argument succeed?
+**Q12.** Assume Matthew cannot claim self-defense and is convicted of homicide. Could Matthew successfully mitigate the charge to voluntary manslaughter under the common law "heat of passion" doctrine?
 
-(a) No, because extortion has an independent felonious purpose of acquiring property, so it does not merge with the resulting homicide. <!-- correct -->
-(b) No, because the merger doctrine only applies to misdemeanor manslaughter, and never to inherently dangerous felonies like armed extortion.
-(c) Yes, because the act of brandishing the unregistered rifle was an assaultive act that is not factually independent of the killing.
-(d) Yes, because the extortion culminated in a fatal shooting, meaning the two crimes are part of a single continuous criminal transaction.
-(e) No, because the Supreme Court categorically abolished the merger doctrine in all cases involving the use of an unregistered firearm.
+(a) Yes, because the terror of an armed extortion attempt is adequate provocation to cause a reasonable person to lose self-control and overreact. <!-- correct -->
+(b) No, because shooting a fleeing person in the back demonstrates cold calculation, which strictly precludes any heat of passion mitigation defense.
+(c) Yes, because any killing committed with an honest belief in the need for self-defense automatically mitigates murder to manslaughter in all jurisdictions.
+(d) No, because mere words, such as Matthew's statement about ending the cartel threat, are insufficient provocation as a matter of law.
+(e) Yes, because Matthew's trembling hands and flushed face provide objective proof that he lacked the necessary mens rea for a murder conviction.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct because the merger doctrine only precludes felony murder if the underlying felony is assaultive and lacks an independent felonious purpose (e.g., manslaughter). Extortion and robbery involve the independent purpose of acquiring property, so they do not merge. (d) is incorrect because continuous transaction analysis is what triggers felony murder; merger asks about the purpose of the underlying felony. (c) is incorrect because the overall felony of extortion contains an independent acquisitive purpose, even if the means used were assaultive. (b) is incorrect because the merger doctrine (the *Ireland* rule) specifically applies to inherently dangerous felonies like assault that would otherwise automatically trigger felony murder. (e) is incorrect because there is no Supreme Court ruling abolishing the merger doctrine based on firearm registration status.
+**Explanation:** Voluntary manslaughter under the heat of passion doctrine requires actual provocation that would cause a reasonable person to lose self-control and act out of intense emotion (anger, terror, or fear) before a cooling-off period has occurred. Being targeted for violent extortion and confronted by a masked, armed attacker qualifies as legally adequate provocation. (d) is wrong because the provocation was Kevin's armed approach, not Matthew's own words. (e) is wrong because heat of passion is an affirmative mitigation that reduces the grade of homicide, not a negation of the intent to kill (mens rea for murder). (b) is wrong because a person in the grip of intense terror or rage might still shoot a fleeing attacker; the doctrine specifically accommodates lethal overreactions triggered by adequate provocation. (c) is wrong because this describes "imperfect self-defense," which is a distinct doctrine from the provocation/heat of passion defense and is not universally adopted.
 
-**Tags:** chapters: [14], topics: [felony murder, merger doctrine], difficulty: medium, cognitive: application
+**Tags:** chapters: [14], topics: [voluntary manslaughter, heat of passion, adequate provocation], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 14, merger independent purpose
+**Grounding:** Chapter 14, common law voluntary manslaughter / adequate provocation.
 
 ---
 
-**Q12.** Dominic was arrested outside a rival's home after setting up a concealed firing position. Under the Model Penal Code's substantial step test, is Dominic guilty of attempted murder?
+**Q13.** Assume the prosecution charges Kevin with Possession with Intent to Distribute (PWID) and introduces no evidence other than his possession of the two-kilogram quantity of cocaine in the breakroom. Can the jury convict Kevin of PWID based solely on the quantity recovered?
 
-(a) No, because he had not yet pulled the trigger, meaning he had not completed the final act necessary for the offense.
-(b) No, because the FBI intervened before he could fire, rendering the completion of the crime factually and legally impossible.
-(c) Yes, because his actions of lying in wait and tracking Elias with a scoped rifle strongly corroborated his criminal purpose. <!-- correct -->
-(d) No, because the substantial step test requires the defendant to have entered the zone of perpetration by discharging a weapon.
-(e) Yes, because any preparatory act, no matter how remote, is sufficient for attempt if the defendant has a clear intent to kill.
+(a) No, because possession of narcotics is always a strict liability offense that does not permit logical inferences about future distribution intent.
+(b) Yes, because federal law provides that possessing any quantity over 500 grams creates a mandatory legal presumption of intent to distribute.
+(c) No, because while large quantities trigger weight-based mandatory minimum sentences, proving the specific intent to distribute typically requires additional circumstantial evidence. <!-- correct -->
+(d) Yes, because constructive possession of any bulk amount of a Schedule I or II narcotic automatically satisfies the distribution element of the statute.
+(e) No, because intent to distribute can only be proven through direct evidence of a completed sale or transfer to another person.
 
 **Answer:** (c)
 
-**Explanation:** (c) is correct because the Model Penal Code's substantial step test requires conduct that strongly corroborates the actor's criminal purpose. Lying in wait and possessing materials specifically designed for the unlawful end near the scene of the crime explicitly satisfy this standard under the MPC. (e) is incorrect because the MPC still requires a "substantial step," explicitly rejecting the notion that remote preparatory acts alone are sufficient. (a) is incorrect because attempt liability does not require the defendant to complete the final act of the offense. (b) is incorrect because factual impossibility or outside intervention does not negate attempt liability if the defendant took a substantial step. (d) is incorrect because the "zone of perpetration" is a concept from common law proximity tests, not the MPC.
+**Explanation:** Under the general rule for drug offenses, while statutory mandatory minimums are triggered by drug weight alone, elevating a simple possession charge to "possession with intent to distribute" typically requires additional circumstantial evidence of distribution intent (such as packaging materials, scales, or cash ledgers). Quantity alone is generally insufficient to independently prove the specific intent mens rea. (b) is wrong because federal weight thresholds trigger mandatory minimum sentences, not mandatory presumptions of intent. (a) is wrong because possession offenses are not strict liability; they require knowledge. (d) is wrong because constructive possession only establishes dominion and control over the substance, not the specific intent to distribute it. (e) is wrong because circumstantial evidence is routinely used to prove intent to distribute; a completed sale is not required.
 
-**Tags:** chapters: [17], topics: [attempt, substantial step], difficulty: foundational, cognitive: application
+**Tags:** chapters: [15], topics: [PWID, quantity proxy, mandatory minimums], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 17, MPC substantial step test
-
----
-
-**Q13.** Under the traditional common law "dangerous proximity" test, is Dominic guilty of attempted murder?
-
-(a) Yes, because he had engaged in the significant preparatory conduct necessary to indicate a clear criminal design to the observing agents.
-(b) Yes, because by aiming the rifle with his finger on the trigger, he was so near to the result that the danger of success was great. <!-- correct -->
-(c) No, because under the strict proximity test, a defendant must actually inflict some degree of physical harm before legal liability attaches.
-(d) No, because he could have still voluntarily abandoned his criminal plan at the very last fraction of a second before firing.
-(e) No, because the sudden FBI intervention constituted an independent intervening cause that prevented him from coming dangerously close to success.
-
-**Answer:** (b)
-
-**Explanation:** (b) is correct because the common law "dangerous proximity" test requires the defendant to be so near the result that the danger of success is great. Tracking a target through a scope with a finger on the trigger places the defendant mere fractions of a second from success, easily satisfying this stringent test. (a) is incorrect because "significant preparatory conduct" better describes the threshold under the MPC, not the demanding common law proximity test. (e) is incorrect because law enforcement intervention does not negate proximity if the defendant was already dangerously close to success. (c) is incorrect because attempt does not require actual physical harm; if harm occurred, the substantive crime might be completed. (d) is incorrect because the theoretical possibility of last-second abandonment does not defeat attempt liability once dangerous proximity is reached.
-
-**Tags:** chapters: [17], topics: [attempt, proximity test], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 17, common law dangerous proximity test
-
----
-
-**Q14.** Assume Dominic is charged with constructively possessing the 9mm handgun found during the search of his residence. Is he guilty?
-
-(a) Yes, because he explicitly admitted knowing the weapon was present in the shared master bedroom of his primary marital residence.
-(b) Yes, because spouses are presumed under the law to have joint constructive possession of all items located within the marital home.
-(c) No, because awareness of contraband is insufficient to establish constructive possession where the item is within a co-occupant's exclusive control. <!-- correct -->
-(d) No, because constructive possession requires the government to prove the defendant's fingerprints or DNA were recovered from the physical weapon.
-(e) No, because the Second Amendment categorically prohibits prosecuting convicted felons for firearms lawfully owned and securely stored by their spouses.
-
-**Answer:** (c)
-
-**Explanation:** (c) is correct because constructive possession requires both knowledge of the contraband's presence and the power and intent to exercise dominion and control over it. The gun was locked in a drawer containing only his wife's belongings, to which he had no key, defeating the dominion and control element (*State v. White*). (a) is incorrect because awareness alone is insufficient for constructive possession without dominion and control. (b) is incorrect because constructive possession requires an individualized showing of access and control, rejecting automatic presumptions for shared households. (d) is incorrect because physical evidence like fingerprints is not strictly required to prove constructive possession if circumstantial evidence of control exists. (e) is incorrect because the Second Amendment does not categorically immunize felons from constructive possession, though it may influence the analysis of shared spaces.
-
-**Tags:** chapters: [15], topics: [constructive possession, exclusive control], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 15, State of Louisiana v. White
-
----
-
-**Q15.** Assume the government prosecutes Dominic under § 922(g)(1) as a felon in possession. Which of the following describes the most significant legal hurdles to a conviction?
-
-(a) The government must prove Dominic's prior conviction involved violence, because the Supreme Court struck down the disarmament of all nonviolent felons.
-(b) The government faces no significant hurdles because mistake of law is never a defense and Heller expressly validated all felon-in-possession statutes.
-(c) The government faces a jurisdictional hurdle because the Commerce Clause prohibits federal prosecution for firearms possessed entirely within a private home.
-(d) The government must prove Dominic knew his prior conviction was a felony, and Dominic may challenge the constitutionality of disarming nonviolent offenders. <!-- correct -->
-(e) The government must prove Dominic intended to use the firearm for an unlawful purpose, because the Second Amendment protects peaceful possession.
-
-**Answer:** (d)
-
-**Explanation:** (d) is correct because under *Rehaif*, the government must prove the defendant knew he belonged to the prohibited class (that his conviction was a felony). Additionally, under post-*Bruen* and *Rahimi* jurisprudence, the constitutionality of disarming nonviolent felons (*Range*) remains an open and significant legal question. (e) is incorrect because § 922(g) criminalizes possession itself regardless of the intended use, and the Second Amendment does not protect all possession by prohibited persons. (a) is incorrect because the Supreme Court has not struck down the disarmament of all nonviolent felons; circuits are currently split on the issue. (b) is incorrect because *Rehaif* explicitly allows a mistake of law defense regarding the defendant's status, and *Heller*'s dicta did not resolve all as-applied challenges. (c) is incorrect because the firearm's past travel in interstate commerce satisfies the Commerce Clause requirement.
-
-**Tags:** chapters: [15, 10], topics: [felon in possession, mens rea, Second Amendment], difficulty: advanced, cognitive: analysis
-
-**Grounding:** Chapter 15, Rehaif v. United States and United States v. Rahimi
+**Grounding:** Chapter 15, qty-pwid and qty-mandatory-minimums refinements.

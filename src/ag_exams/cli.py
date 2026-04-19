@@ -20,7 +20,12 @@ async def start_exam(config: ExamConfig) -> str:
     import subprocess
     import time
     from pathlib import Path
+    import os
     
+    print("Pre-fetching credentials to prevent concurrent gRPC crashes...")
+    from auth_utils.secrets import get_secret
+    os.environ["GOOGLE_API_KEY"] = get_secret("google-api-key")
+
     print("Starting ephemeral Temporal worker...")
     worker_proc = subprocess.Popen(
         [sys.executable, "-m", "ag_exams.worker"],
