@@ -1,17 +1,17 @@
-**Q2.** Is Chloe guilty of drug distribution as an accomplice?
+**Q2.** Assume the prosecution attempts to charge Steve as an accomplice to Kevin's narcotics distribution network for drafting the evasive trucking routes. Under the standard legal framework for accomplice liability, what is the most likely result?
 
-(a) Guilty of drug distribution because her knowledge that the drugs were sold to pay her rent satisfies the purposeful mental state required for accomplice liability.
-(b) Guilty of drug distribution because holding the only key to the stash house provided substantial assistance to Leo, which automatically creates strict accomplice liability.
-(c) Not guilty of drug distribution because she lacked the purpose to promote or facilitate the offense, possessing only knowledge that the distribution was occurring. <!-- correct -->
-(d) Not guilty of drug distribution because she did not maintain exclusive dominion and control over the drugs, which is required to establish constructive possession.
-(e) Not guilty of drug distribution because she did not directly participate in the actual physical sale of the narcotics to end users in the East End market.
+(a) Steve is an accomplice, because he had knowledge of the criminal purpose and provided services that facilitated the ongoing distribution network.
+(b) Steve is not an accomplice, because providing standard professional services to maintain billable hours does not establish a true purpose to facilitate the crime. <!-- correct -->
+(c) Steve is an accomplice, because drafting evasive routes is inherently dangerous and therefore strict liability applies to his legal counseling.
+(d) Steve is not an accomplice, because an outside corporate counsel cannot be held liable for the physical distribution of narcotics by employees.
+(e) Steve is an accomplice, because his financial compensation from WasteCorp gives him an automatic legal stake in the underlying narcotics venture.
 
-**Answer:** (c)
+**Answer:** (b)
 
-**Explanation:** (c) is correct. Accomplice liability requires that the defendant act with the purpose to promote or facilitate the underlying offense. Chloe explicitly stated she only knew about the drugs and didn't care if the crime succeeded or failed as long as rent was paid. Mere knowledge is insufficient for accomplice liability. (a) is wrong because knowledge alone does not equal purpose. (b) is wrong because substantial assistance must still be accompanied by the required purposeful mental state. (d) is wrong because it conflates the requirements of accomplice liability with constructive possession, which is a different doctrine. (e) is wrong because an accomplice need not directly participate in the actus reus of the principal's crime.
+**Explanation:** Accomplice liability generally requires the defendant to act with the specific purpose of promoting or facilitating the underlying crime. Under the *Lauria* doctrine, providing standard professional services with mere knowledge of their illicit use does not establish purpose unless the provider has a stake in the venture, inflates their rates, or the crime is uniquely heinous. Steve acted strictly to maintain regular billable hours and had no personal stake in the narcotics profits. (a) is wrong because mere knowledge without a true purpose to facilitate the crime is typically insufficient. (c) is wrong because strict liability does not apply to legal counseling or accomplice liability. (d) is wrong because an outsider absolutely could be liable if they possessed the genuine purpose to facilitate the distribution. (e) is wrong because regular, standard compensation for professional services does not constitute a "stake in the venture" under *Lauria*.
 
-**Tags:** chapters: [15, 18], topics: [accomplice-liability, purpose-vs-knowledge, constructive-possession], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [accomplice liability, purpose vs knowledge, Lauria], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 18 - accomplice liability requires purpose, not mere knowledge (Peoni/Lauria framework).
+**Grounding:** Accomplice liability doctrine; United States v. Lauria.
 
-<!-- grounding: GROUNDED — Accomplice liability mens rea, Ch 18, Refinement `mr-purpose-not-knowledge`. Rule paraphrased accurately. -->
+<!-- GROUNDING-FAIL: Accomplice liability / Lauria doctrine is not in any chapter map (the meta-map and preloaded focus maps are missing from the prompt context). The closest taught doctrines are: N/A (corpus unavailable). Correct answer must rely on one of those instead. -->

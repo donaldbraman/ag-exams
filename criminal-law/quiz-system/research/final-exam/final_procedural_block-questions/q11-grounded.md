@@ -1,17 +1,17 @@
-**Q11.** Assume Senator Sterling is charged with federal bribery for accepting the $25,000 cash and expediting the permit. Is Sterling guilty of bribery?
+**Q11.** Assuming Luis is convicted of a homicide offense for the bystander's death, can Kevin be held vicariously liable for the homicide under the *Pinkerton* doctrine?
 
-(a) Guilty, because expediting the permit after receiving a campaign donation constitutes an official act explicitly linked to a corrupt quid pro quo agreement.
-(b) Guilty, because accepting cash to reward a past legislative vote automatically establishes the corrupt intent necessary to secure a federal bribery conviction.
-(c) Not guilty, because the cash was a post-vote gratuity rather than a pre-act bribe, and informally expediting a permit is not a formal official act. <!-- correct -->
-(d) Not guilty, because the Supreme Court has completely struck down the federal honest services fraud statute as unconstitutionally vague in its entirety.
-(e) Not guilty, because campaign donations and post-vote tokens of appreciation are protected political speech and cannot serve as the basis for a bribery charge.
+(a) Kevin is liable, because a shootout to protect the drug cargo is a reasonably foreseeable consequence of operating a high-value narcotics distribution network. <!-- correct -->
+(b) Kevin is not liable, because the agreement between Kevin and Luis was strictly limited to transporting the drugs without any explicit plans for violence.
+(c) Kevin is liable, because corporate owners bear strict vicarious liability for all torts and crimes committed by their drivers during designated operational hours.
+(d) Kevin is not liable, because the rival gang members initiated the gunfire, severing the causal chain between the conspiracy and the pedestrian's death.
+(e) Kevin is liable, because the Pinkerton doctrine eliminates the foreseeability requirement for any homicides that occur during the execution of a federal drug conspiracy.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct. Under *Snyder v. United States*, a payment given *after* an official act as a token of appreciation is a gratuity, not a bribe, and is not covered by federal bribery statutes. Furthermore, under *McDonnell v. United States*, informally expediting a permit or arranging meetings does not constitute a formal "official act." (a) is wrong because expediting a permit is not an official act under *McDonnell*. (b) is wrong because rewarding a past vote makes it a gratuity, which is distinct from federal bribery. (d) is wrong because the statute was only narrowed to bribes and kickbacks, not completely struck down. (e) is wrong because while campaign donations are protected, true bribes are not.
+**Explanation:** The *Pinkerton* doctrine holds conspirators liable for substantive offenses committed by co-conspirators if those offenses are foreseeable and in furtherance of the conspiracy. Given the well-known violent nature of the illicit drug trade, it is reasonably foreseeable that a driver transporting a massive shipment of cocaine might engage in a shootout to protect the cargo, making the resulting homicide a foreseeable consequence of the conspiracy. (b) is wrong because explicit plans for violence are not required; the violence need only be a reasonably foreseeable consequence of the underlying agreement. (c) is wrong because criminal vicarious liability stems from the conspiracy agreement itself, not standard civil corporate strict liability. (d) is wrong because the rival gang's initiation of the gunfire does not sever foreseeability in the highly volatile context of drug trafficking. (e) is wrong because *Pinkerton* strictly retains the foreseeability requirement for all substantive offenses.
 
-**Tags:** chapters: [5], topics: [bribery, gratuity, official-acts], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [18], topics: [Pinkerton liability, foreseeability, homicide], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 5 - Snyder distinction between bribe and gratuity; McDonnell narrowing of "official act."
+**Grounding:** Conspiracy doctrine; Pinkerton liability for violent acts.
 
-<!-- GROUNDING-FAIL: federal bribery / gratuity distinction (Snyder) and "official act" narrowing (McDonnell) is not in any chapter map. The closest taught doctrines are: Vagueness, Legality, and Lenity (from Ch 5 core elements). Correct answer must rely on one of those instead. -->
+<!-- GROUNDING-FAIL: Pinkerton liability is not in any chapter map. The closest taught doctrines are: none (chapter-map corpus and meta-map are missing from the prompt). Correct answer must rely on one of those instead. -->

@@ -1,22 +1,22 @@
-**Q12.** At their joint federal trial, Dominic and Sterling challenge the RICO indictment. Does the Waterfront Syndicate qualify as a RICO enterprise, and do the alleged actions constitute a pattern of racketeering?
+**Q12.** Evaluate Kevin's liability for attempted murder regarding Marco under the Model Penal Code's "substantial step" framework.
 
-(a) Yes, because the Syndicate operates as a structured association-in-fact, and the loansharking and corruption are related predicate acts posing a threat of continued criminal activity. <!-- correct -->
-(b) Yes, because any organization that generates illicit revenue automatically qualifies as an enterprise, regardless of its internal organizational structure or operational continuity over time.
-(c) No, because the Waterfront Syndicate is a purely illegitimate organization, and the RICO statute explicitly only applies to the criminal infiltration of legitimate business enterprises.
-(d) No, because Sterling's zoning actions and the Syndicate's loansharking are entirely distinct types of crimes that cannot legally form a single cohesive pattern of racketeering.
-(e) No, because the RICO statute strictly requires that all predicate acts be committed by the exact same individual, whereas here they were committed separately.
+(a) Kevin has committed a substantial step, because paying the hitman and providing the target's address strongly corroborates his firm criminal purpose to commit the murder. <!-- correct -->
+(b) Kevin has not committed a substantial step, because he merely engaged in preliminary preparations by hiring a third party instead of obtaining a weapon himself.
+(c) Kevin has committed a substantial step, because the common law always equates the mere verbal solicitation of a crime with the physical attempt to commit it.
+(d) Kevin has not committed a substantial step, because the hitman was arrested three blocks away before arriving at Marco's house or aiming a specific weapon.
+(e) Kevin has committed a substantial step, because any monetary exchange related to an employee automatically fulfills the required elements of an attempted corporate assassination.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. A RICO enterprise includes an illegitimate "association-in-fact" with structure, purpose, and longevity. The predicate acts (loansharking, bribery) are related because they serve the enterprise's purpose, and they possess continuity. (b) is wrong because an enterprise requires an ascertainable structure beyond just committing crimes (the "rim"). (c) is wrong because RICO explicitly applies to wholly illegitimate enterprises as well as legitimate ones. (d) is wrong because predicate acts can be different types of crimes as long as they are related to the enterprise. (e) is wrong because predicate acts can be committed by different members of the overarching enterprise.
+**Explanation:** Under the Model Penal Code's substantial step test, an attempt occurs when a defendant takes a substantial step that is strongly corroborative of their criminal purpose. Paying a hitman $10,000 and providing the victim's exact home address clearly moves far beyond mere preparation and concretely confirms Kevin's firm intent to see Marco murdered. (b) is wrong because hiring and paying a third-party assassin is universally recognized as satisfying the substantial step requirement under the MPC. (c) is wrong because the traditional common law often viewed mere solicitation as legally insufficient to constitute a full attempt. (d) is wrong because Kevin's liability is based on his own completed actions of hiring and financially compensating the hitman, which already firmly satisfy the MPC test regardless of the hitman's later arrest. (e) is wrong because there is no automatic legal assumption of attempt liability based solely on corporate employment status.
 
-**Tags:** chapters: [20], topics: [RICO, enterprise, predicate-acts], difficulty: medium, cognitive: application
+**Tags:** chapters: [17], topics: [attempt, substantial step, MPC], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 20 - association-in-fact enterprise requirements and relatedness of predicate acts.
+**Grounding:** Attempt doctrine; MPC substantial step framework.
 
-<!-- edge-case-audit: MUST FIX
+<!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
 2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: Q12 assumes Sterling's acts are valid RICO predicates (calling them "corruption" that poses a threat of continued activity in Option A). However, Q11 explicitly tests whether these exact facts fail under the bribe vs. gratuity distinction (Snyder) and official-acts narrowing (McDonnell). If the student correctly concludes in Q11 that the acts are mere gratuities or fall short of official acts, Q12's correct answer directly contradicts that conclusion, confusing the student and spoiling Q11.
-Recommended fix: Add a stipulative caveat to Q12's stem: "Assuming for the purposes of this question that the substantive bribery allegations are legally valid predicates, does the Waterfront Syndicate qualify..."
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
 -->

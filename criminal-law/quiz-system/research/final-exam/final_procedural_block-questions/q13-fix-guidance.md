@@ -4,34 +4,30 @@ The QA pipeline flagged this question. Rewrite `q13.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q13.** Assume the prosecution objects to Defense Attorney Rossi's peremptory strikes of Black jurors. How must the trial judge respond under the Batson framework?
+**Q13.** Assume for this question that Kevin's attempt liability is being evaluated under the traditional common law proximity tests rather than the MPC. How does his liability compare?
 
-(a) Deny the objection, because peremptory challenges utilized by defense attorneys are completely exempt from equal protection scrutiny to strongly protect the client's rights.
-(b) Deny the objection, because removing jurors based on perceived anti-corporate bias is a legally conclusive justification that permanently ends the judicial inquiry.
-(c) Sustain the objection immediately, because striking six out of seven eligible Black jurors constitutes per se unconstitutional racial discrimination by the defense.
-(d) Evaluate the strikes for pretext, because Batson strictly constrains defense attorneys and Rossi has offered a facially race-neutral explanation that must be verified. <!-- correct -->
-(e) Evaluate the strikes for pretext, but absolutely require the prosecution to prove that Rossi harbored conscious racial animus during the initial jury selection process.
+(a) Under proximity tests, Kevin is less likely to be guilty because the hitman was arrested three blocks away before coming dangerously close to actual completion of the murder. <!-- correct -->
+(b) Under proximity tests, Kevin is more likely to be guilty because providing the money and address physically bridged the gap between preparation and the ultimate killing.
+(c) Under proximity tests, Kevin's liability is identical to the MPC approach because both frameworks universally treat the exchange of payment as the definitive point of attempt.
+(d) Under proximity tests, Kevin is definitively guilty because the hitman possessed the necessary lethal weapon while physically occupying the target's residential neighborhood.
+(e) Under proximity tests, Kevin is completely exonerated because the common law strictly requires the victim to actually observe the perpetrator before an attempt is recognized.
 
-**Answer:** (d)
+**Answer:** (a)
 
-**Explanation:** The correct answer is (d). Under *Georgia v. McCollum*, the *Batson* framework applies to defense attorneys just as it does to prosecutors. The three-step framework requires: (1) a prima facie case, (2) a race-neutral explanation, and (3) a judicial determination of pretext. Rossi's explanation regarding "corporate business backgrounds" satisfies step two because it is facially race-neutral, meaning the judge must proceed to step three to evaluate if the explanation is a pretext for discrimination (Fact 10).
+**Explanation:** Common law proximity tests (like dangerous proximity) require the defendant's conduct to come very close to the actual completion of the crime. An arrest three blocks away is far less likely to satisfy this strict physical threshold compared to the MPC's broader substantial step standard, making (a) correct. (b) is incorrect because proximity tests heavily weigh the remaining physical distance and necessary steps, which were still significant. (c) is incorrect because the frameworks fundamentally differ; the common law requires near-completion, whereas the MPC focuses on corroborating criminal intent early on. (d) is incorrect because merely possessing a weapon in the neighborhood leaves too many steps uncompleted under strict dangerous proximity standards. (e) is incorrect because the common law does not literally require the victim to visually observe the perpetrator for an attempt to be recognized.
 
-(a) is incorrect because *McCollum* explicitly extended Equal Protection constraints to peremptory strikes exercised by criminal defense attorneys.
-(b) is incorrect because offering a race-neutral reason is merely step two; it does not end the inquiry, as the judge must still determine if the stated reason is pretextual.
-(c) is incorrect because even severe statistical disparities do not create a per se violation; the attorney must be given the opportunity to provide a race-neutral explanation.
-(e) is incorrect because the trial judge evaluates the totality of the circumstances to determine purposeful discrimination; it does not require an explicit admission of conscious racial animus.
+**Tags:** chapters: [12], topics: [attempt, proximity tests, common law], difficulty: hard, cognitive: analysis
 
-**Tags:** chapters: [4], topics: [Batson-framework], difficulty: medium, cognitive: application
-
-**Grounding:** Chapter 4 - The Jury and Nullification > Batson framework
+**Grounding:** Common law proximity tests require the actor to be physically close to committing the crime; an arrest blocks away makes liability much less likely than under the broader MPC substantial step test.
 
 <!-- audit: MUST FIX
-check 1: pass (conditional on facts being present)
-check 2: pass (distractors are well-calibrated once facts are added)
-check 3: pass (explanation correctly applies the three-step framework)
-check 4: MUST FIX. The stem completely lacks the facts necessary to answer the question. It omits the facts referenced in the options and explanation (that Rossi struck 6 out of 7 Black jurors, and that he offered "corporate business backgrounds" as his race-neutral explanation). The explanation explicitly references "(Fact 10)", indicating this question was severed from a larger macro fact-pattern and cannot be answered as a standalone.
-check 5: pass
-check 6: pass
-check 7: pass
-Recommended fix: Add the missing facts to the stem. For example: "During jury selection, Defense Attorney Rossi strikes six out of seven eligible Black jurors. When the prosecution objects under Batson, Rossi explains that he struck them because of their 'corporate business backgrounds.' How must the trial judge respond..."
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: The stem is completely missing the underlying fact pattern. It references "Kevin" but fails to state what he did, that he hired a hitman, or that the hitman was arrested three blocks away. Students cannot answer the question without the facts being established in the stem.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: Integrate a brief factual recap into the stem. For example: "Assume that Kevin hired a hitman, providing money and the target's address, but the hitman was arrested three blocks away from the target's home. If Kevin's attempt liability is evaluated under the traditional common law proximity tests rather than the MPC, how does his liability compare?"
 -->

@@ -1,26 +1,27 @@
-**Q8.** Marcus argues that the police stopped him for a minor lane violation merely as a pretext to search for drugs under "Operation Sweep." Is the traffic stop constitutional under the Fourth Amendment?
+**Q8.** When evaluating Luis's decision to return fire against the armed rival gang members, how does his ongoing participation in the narcotics conspiracy affect his ability to assert a general claim of self-defense?
 
-(a) Yes, because as long as the police had objective probable cause for the lane violation, their subjective motivation for initiating the stop is legally irrelevant. <!-- correct -->
-(b) Yes, because the systemic high volume of traffic stops during Operation Sweep justifies the low yield of contraband under a comprehensive public safety cost-benefit analysis.
-(c) No, because using a minor traffic violation as a pretext to search for narcotics violates the Fourth Amendment's explicit prohibition on unreasonable searches and seizures.
-(d) No, because Operation Sweep functions as an arbitrary law enforcement program that allows officers to routinely bypass the strict warrant requirement for targeted drug searches.
-(e) No, because statistical evidence showing that ninety percent of stopped drivers are Black automatically invalidates the stop under the Fourth Amendment's equal protection framework.
+(a) Luis may successfully assert self-defense, because he faced an imminent threat of unlawful deadly force from the gang members and was not the initial aggressor. <!-- correct -->
+(b) Luis may not assert self-defense, because individuals engaged in any form of illegal conduct automatically forfeit their legal right to defend themselves from unprovoked attacks.
+(c) Luis may successfully assert self-defense, because his primary motivation was to protect the valuable cocaine cargo from being stolen by the rival gang members.
+(d) Luis may not assert self-defense, because he failed to safely retreat from his commercial vehicle before deciding to return fire against the armed rivals.
+(e) Luis may successfully assert self-defense, because commercial drivers are granted specialized legal privileges to use deadly force to protect their assigned corporate freight.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. Under *Whren v. United States*, a traffic stop is constitutional under the Fourth Amendment if officers have objective probable cause for a traffic violation, regardless of their actual subjective motivation for the stop. (b) is wrong because the constitutionality under *Whren* relies on individualized probable cause, not a systemic cost-benefit analysis. (c) is wrong because *Whren* explicitly permits pretextual stops. (d) is wrong because the traffic violation provides the valid legal basis for the stop, not an exception to the warrant requirement. (e) is wrong because racial discrimination claims must be brought under the Equal Protection Clause, not the Fourth Amendment.
+**Explanation:** A valid claim of self-defense generally requires that the defendant was not the initial aggressor in the immediate encounter and faced an imminent threat of unlawful deadly force. Because the rival gang members unexpectedly ambushed Luis with firearms, he was not the initial aggressor and could lawfully use deadly force to protect his own life. (b) is wrong because participating in illegal conduct does not automatically strip a person of the right to self-defense against a completely unprovoked, deadly ambush. (c) is wrong because deadly force may never be legally utilized solely to protect property or cargo. (d) is wrong because there is generally no legal duty to safely retreat from a vehicle while actively taking incoming gunfire before returning fire. (e) is wrong because commercial drivers possess no specialized statutory or common law privileges to use deadly force for freight protection.
 
-**Tags:** chapters: [6], topics: [Whren, pretextual-stops, volume-engine], difficulty: medium, cognitive: application
+**Tags:** chapters: [14], topics: [self-defense, initial aggressor, deadly force], difficulty: hard, cognitive: analysis
 
-**Grounding:** Chapter 6 - Whren makes subjective intent irrelevant if objective probable cause exists.
+**Grounding:** Justification defenses; self-defense and the initial aggressor rule.
 
-<!-- audit: CLEAN
+<!-- audit: MUST FIX
 check 1: pass
 check 2: pass
 check 3: pass
-check 4: pass
+check 4: MUST FIX. The question stem is an "orphan" pulled from a multi-question fact pattern. It relies on unstated facts (Luis, rival gang members, commercial vehicle, cocaine cargo, unexpected ambush) that are not established anywhere in the prompt itself. 
 check 5: pass
 check 6: pass
 check 7: pass
-Recommended fix: n/a
+check 8: pass
+Recommended fix: Integrate the necessary facts directly into the question stem. For example: "Luis, while driving a commercial vehicle loaded with cocaine as part of a narcotics conspiracy, is suddenly ambushed and fired upon by armed rival gang members. Luis decides to return fire. How does his ongoing participation in the narcotics conspiracy affect his ability to assert a general claim of self-defense?"
 -->

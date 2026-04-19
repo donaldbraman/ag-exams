@@ -1,22 +1,22 @@
-**Q5.** Is Marcus guilty of attempted distribution of narcotics for his intercepted delivery?
+**Q5.** Assume the jurisdiction requires specific evidence of an intent to distribute narcotics beyond mere possession. How does the discovery of 5 kilograms of packaged cocaine affect the legal analysis for Kevin and Steve?
 
-(a) Guilty of attempt because agreeing to distribute and driving to the delivery location constitutes a substantial step strongly corroborative of his specific criminal purpose. <!-- correct -->
-(b) Guilty of attempt because his actions satisfied the dangerous proximity test by placing him physically close enough to complete the final illicit drug transaction.
-(c) Not guilty of attempt because driving to the location is merely preparatory conduct and does not satisfy the unequivocally criminal test for modern attempt liability.
-(d) Not guilty of attempt because he had not yet arrived at the delivery location, leaving a meaningful opportunity for him to voluntarily abandon his criminal purpose.
-(e) Not guilty of attempt because the police intervention made the completion of the delivery factually impossible, which serves as a complete defense to attempt charges.
+(a) The quantity supports an intent to distribute, because possessing five kilograms of packaged cocaine is far too large an amount for merely personal consumption. <!-- correct -->
+(b) The quantity cannot support an intent to distribute, because law enforcement must witness an actual sale or transfer before distribution intent can be legally inferred.
+(c) The quantity supports an intent to distribute, because any amount of a controlled substance found in a corporate office automatically triggers a distribution presumption.
+(d) The quantity cannot support an intent to distribute, because the cocaine was locked away, demonstrating an intent to store rather than actively sell the drugs.
+(e) The quantity supports an intent to distribute, because constructive possession of any Schedule I narcotic inherently includes the intent to distribute it to others.
 
 **Answer:** (a)
 
-**Explanation:** (a) is correct. Under the MPC's substantial step test, taking concrete action toward completion—like possessing the materials and driving toward the delivery site—that strongly corroborates criminal purpose is sufficient for attempt liability. (b) is wrong because the dangerous proximity test requires being much closer to the actual completion of the act, a threshold he had likely not yet reached. (c) is wrong because driving with the drugs is more than mere preparation under the modern substantial step standard. (d) is wrong because the theoretical possibility of future abandonment does not negate a substantial step that has already been taken. (e) is wrong because factual impossibility (police intervention preventing completion) is not a defense to attempt.
+**Explanation:** Intent to distribute can be legally inferred from circumstantial evidence, primarily by possessing a quantity of narcotics that is unreasonably large for personal consumption. Five kilograms of packaged cocaine far exceeds any plausible amount for individual use, creating a highly permissible inference of an intent to distribute. (b) is wrong because circumstantial evidence, such as bulk quantity and packaging, is legally sufficient to prove intent without directly witnessing an actual sale. (c) is wrong because there is no automatic geographic or corporate presumption triggered simply by finding drugs in an office building. (d) is wrong because storing a massive, packaged quantity in a locked cabinet is entirely consistent with staging it for ongoing distribution. (e) is wrong because mere possession of small or trace amounts of a Schedule I narcotic does not inherently prove an intent to distribute.
 
-**Tags:** chapters: [17], topics: [attempt, substantial-step, impossibility], difficulty: medium, cognitive: application
+**Tags:** chapters: [3], topics: [possession with intent to distribute, circumstantial evidence], difficulty: easy, cognitive: application
 
-**Grounding:** Chapter 17 - actus reus substantial step test.
+**Grounding:** Drug offenses; inferring intent to distribute from bulk quantity.
 
-<!-- edge-case-audit: MUST FIX
+<!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: Attempt requires specific intent. Because Marcus believed he was distributing counterfeit Adderall (a stimulant/misdemeanor) rather than fentanyl (a narcotic/severe felony), this mistake of fact may negate the specific intent required for "attempted distribution of narcotics." 
-3. Cross-Question Spoilers: Q6 explicitly tests Marcus's mistake of fact, and Q7 tests his duress defense. Asking if he is outright "Guilty" in Q5 forces students to ignore these pending defenses, which creates a direct conflict with the facts established for Q6 and Q7 (a student could validly argue he is "Not guilty" under these other doctrines).
-Recommended fix: Modify the call of the question to bracket mens rea and defenses: "Assuming Marcus possessed the requisite mens rea and lacked any affirmative defenses, do his actions satisfy the actus reus for attempt?" Change the option lead-ins from "Guilty / Not guilty" to "Yes, because... / No, because...".
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
 -->

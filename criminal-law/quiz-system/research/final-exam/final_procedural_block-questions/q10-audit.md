@@ -1,5 +1,27 @@
-<!-- audit: MUST FIX -->
+**Q10.** Assume that Luis's felony-murder charge fails. The prosecution instead charges him with depraved-heart murder for the death of the passing pedestrian bystander. Does Luis's conduct meet the standard for this charge?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) Luis is guilty of depraved-heart murder, because blindly returning fire on a street where passing pedestrians are present demonstrates an extreme indifference to human life. <!-- correct -->
+(b) Luis is not guilty of depraved-heart murder, because his specific intent was to shoot the rival gang members rather than the innocent passing pedestrian.
+(c) Luis is guilty of depraved-heart murder, because his status as an illegal drug courier automatically elevates any accidental killing to the highest degree of murder.
+(d) Luis is not guilty of depraved-heart murder, because the ambush provoked an intense emotional response that automatically mitigates the homicide to voluntary manslaughter.
+(e) Luis is guilty of depraved-heart murder, because any use of a firearm during a commercial trucking dispute is legally classified as an intentional premeditated killing.
 
-Error: Model returned empty or blocked response.
+**Answer:** (a)
+
+**Explanation:** Depraved-heart murder requires a killing caused by extreme recklessness that manifests a conscious disregard for human life. Blindly returning gunfire on a public street where pedestrians are present creates a massive, unjustified risk to human life that perfectly satisfies the threshold for extreme indifference and implied malice. (b) is wrong because depraved-heart murder does not require a specific intent to kill the victim; extreme recklessness is the only required mental state. (c) is wrong because a defendant's status as a drug courier does not automatically elevate an accidental killing without directly analyzing their specific reckless conduct. (d) is wrong because being ambushed by rival criminals does not automatically constitute legally adequate provocation to mitigate the killing of an innocent bystander to voluntary manslaughter. (e) is wrong because premeditated killing requires genuine advance planning and intent to kill, not merely a reckless, spontaneous reaction.
+
+**Tags:** chapters: [9], topics: [depraved-heart murder, extreme recklessness, homicide], difficulty: medium, cognitive: application
+
+**Grounding:** Homicide; implied malice and depraved-heart murder.
+
+<!-- audit: MUST FIX
+Check 1: pass
+Check 2: pass
+Check 3: pass
+Check 4: Fails. The stem is missing the master fact pattern. It refers to an "ambush," "drug courier," and "trucking dispute" that are not present in the text. This requires students to make assumptions outside the stem. Crucially, without the full facts of the ambush, we cannot assess if Luis had a valid self-defense claim; if he did, his return of fire might not constitute an "unjustified" risk, which would negate the depraved-heart murder charge under a transferred justification theory.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: Integrate the missing factual scenario into the stem. Additionally, ensure the facts explicitly render Luis's actions an "unjustified risk" (e.g., he was the initial aggressor, or the threat to his life had already passed) to eliminate self-defense as a justification for the risk posed to bystanders.
+-->

@@ -1,22 +1,22 @@
-**Q10.** Marcus challenges AUSA Vance's threat to add a mandatory-minimum weapons enhancement if Marcus refuses the plea deal, arguing this constitutes unconstitutional vindictiveness. Will Marcus's challenge succeed?
+**Q10.** Assume that Luis's felony-murder charge fails. The prosecution instead charges him with depraved-heart murder for the death of the passing pedestrian bystander. Does Luis's conduct meet the standard for this charge?
 
-(a) Yes, because threatening to drastically increase a defendant's sentence solely for exercising the right to a jury trial violates the constitutional guarantee of substantive due process.
-(b) Yes, because using a mandatory-minimum enhancement to coerce a plea deal impermissibly transfers structural sentencing power from the judiciary directly to the federal prosecutor.
-(c) No, because the threat occurs during pre-trial plea negotiations and the prosecutor already possesses sufficient probable cause to support the additional weapons enhancement charge. <!-- correct -->
-(d) No, because a prosecutor's charging discretion is completely unreviewable by courts, even if the additional severe charges are filed maliciously or without objective probable cause.
-(e) No, because the trial penalty is an expected element of the criminal justice system that courts have consistently deemed a necessary and unassailable administrative convenience.
+(a) Luis is guilty of depraved-heart murder, because blindly returning fire on a street where passing pedestrians are present demonstrates an extreme indifference to human life. <!-- correct -->
+(b) Luis is not guilty of depraved-heart murder, because his specific intent was to shoot the rival gang members rather than the innocent passing pedestrian.
+(c) Luis is guilty of depraved-heart murder, because his status as an illegal drug courier automatically elevates any accidental killing to the highest degree of murder.
+(d) Luis is not guilty of depraved-heart murder, because the ambush provoked an intense emotional response that automatically mitigates the homicide to voluntary manslaughter.
+(e) Luis is guilty of depraved-heart murder, because any use of a firearm during a commercial trucking dispute is legally classified as an intentional premeditated killing.
 
-**Answer:** (c)
+**Answer:** (a)
 
-**Explanation:** (c) is correct. Under *Bordenkircher v. Hayes*, a prosecutor does not violate due process by threatening to seek a harsher charge during pre-trial plea negotiations if the defendant refuses a plea offer, provided there is probable cause for the threatened charge. (a) is wrong because *Bordenkircher* expressly permits this "trial penalty" dynamic. (b) is wrong because while mandatory minimums do functionally transfer power to prosecutors, courts have upheld this structure as constitutional. (d) is wrong because charging decisions without probable cause or based on malicious factors like race would be unconstitutional. (e) is wrong because the legal justification is "mutuality of advantage" in bargaining, not mere administrative convenience.
+**Explanation:** Depraved-heart murder requires a killing caused by extreme recklessness that manifests a conscious disregard for human life. Blindly returning gunfire on a public street where pedestrians are present creates a massive, unjustified risk to human life that perfectly satisfies the threshold for extreme indifference and implied malice. (b) is wrong because depraved-heart murder does not require a specific intent to kill the victim; extreme recklessness is the only required mental state. (c) is wrong because a defendant's status as a drug courier does not automatically elevate an accidental killing without directly analyzing their specific reckless conduct. (d) is wrong because being ambushed by rival criminals does not automatically constitute legally adequate provocation to mitigate the killing of an innocent bystander to voluntary manslaughter. (e) is wrong because premeditated killing requires genuine advance planning and intent to kill, not merely a reckless, spontaneous reaction.
 
-**Tags:** chapters: [6], topics: [plea-bargaining, trial-penalty, mandatory-minimums], difficulty: medium, cognitive: application
+**Tags:** chapters: [9], topics: [depraved-heart murder, extreme recklessness, homicide], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 6 - Bordenkircher holds pre-trial threats of harsher charges are constitutional if supported by probable cause.
+**Grounding:** Homicide; implied malice and depraved-heart murder.
 
-<!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass
-2. Cross-Doctrine Clashes: pass
-3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The facts state Luis returned fire "to save his own life" during an active ambush. Acting to preserve one's life introduces the justification of self-defense, which generally negates the "unjustifiable risk" element required for recklessness and implied malice. Additionally, Option (a) and the explanation invent the fact that Luis fired "blindly," which is not in the scenario.
+2. Cross-Doctrine Clashes: Transferred justification (from self-defense) directly clashes with the finding of extreme indifference/implied malice regarding the bystander's death. 
+3. Cross-Question Spoilers: Q8 explicitly tests self-defense for this exact scenario. Students will be primed to evaluate Luis's actions as justified, which completely undermines Q10's forced conclusion that the risk was "unjustified."
+Recommended fix: Update the question stem to say: "Assume that Luis's felony-murder and self-defense claims fail." In Option (a) and the explanation, remove the word "blindly" and instead base the extreme recklessness on his choice to engage in a lethal shootout on a public street where pedestrians are present.
 -->

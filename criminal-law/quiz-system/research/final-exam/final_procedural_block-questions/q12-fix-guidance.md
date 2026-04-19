@@ -2,40 +2,52 @@
 
 The QA pipeline flagged this question. Rewrite `q12.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — audit
+## Issue 1 — grounding
 
-<!-- audit: MUST FIX -->
+**Q12.** Evaluating Kevin's actions regarding Marco, is Kevin guilty of attempted murder under the Model Penal Code's "substantial step" framework?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
-
-Error: Model returned empty or blocked response.
-
-## Issue 2 — edge-case
-
-**Q12.** Assume Dominic and Senator Sterling move to dismiss the joint RICO indictment, arguing their conduct does not constitute a RICO violation. Will this challenge succeed?
-
-(a) Yes, because Sterling's sporadic zoning assistance and the core loansharking operation lack the relatedness required to form a cohesive pattern of racketeering activity. <!-- correct -->
-(b) Yes, because a legitimate elected government official cannot legally be categorized as part of the exact same criminal enterprise as an organized syndicate boss.
-(c) No, because any two independent predicate offenses committed within a continuous ten-year period automatically satisfy the pattern of racketeering requirement.
-(d) No, because the Waterfront Syndicate qualifies as an enterprise and strict vicarious liability applies to all members for any predicate acts committed.
-(e) No, because political corruption and criminal extortion are specifically enumerated predicate acts that bypass the need to prove relatedness or continuity under the statute.
+(a) Kevin is guilty of attempted murder because hiring the hitman, providing the address, and the hitman's drive to the neighborhood collectively constitute a substantial step strongly corroborating the criminal purpose. <!-- correct -->
+(b) Kevin is guilty of attempted murder because the explicit exchange of monetary funds automatically transforms any preliminary criminal discussion into a fully completed attempt under the Model Penal Code.
+(c) Kevin is not guilty of attempted murder because the hitman's arrest for an entirely unrelated traffic warrant legally serves as a valid voluntary abandonment of the attempted assassination.
+(d) Kevin is not guilty of attempted murder because a criminal attempt cannot be legally charged unless the immediate perpetrator comes within physical striking distance of the intended victim.
+(e) Kevin is not guilty of attempted murder because he was not physically present in the vehicle with the hitman when the alleged substantial step toward completion was actually taken.
 
 **Answer:** (a)
 
-**Explanation:** The correct answer is (a). RICO requires proof that the defendant engaged in a "pattern of racketeering activity," which the Supreme Court interprets as requiring that the predicate acts be *related* to each other and amount to or pose a threat of continued criminal activity. An isolated instance of accepting a gratuity for a zoning vote lacks the structural nexus and relatedness to the Syndicate's core loansharking and extortion rackets (Facts 8, 9).
+**Explanation:** Under the Model Penal Code, attempt liability requires a substantial step that strongly corroborates the actor's criminal purpose. Kevin paying the hitman, providing the address, and the hitman's drive to the target's neighborhood collectively satisfy this requirement, making (a) correct. (b) is incorrect because merely exchanging funds is an act of preparation or solicitation that does not automatically constitute a fully completed attempt without further action. (c) is incorrect because an arrest by law enforcement is an involuntary interruption, which legally defeats any claim of voluntary abandonment. (d) is incorrect because the MPC substantial step test explicitly discarded the restrictive requirement that a perpetrator must reach physical striking distance. (e) is incorrect because a solicitor can be held liable for an attempt even if they are not physically present when the agent takes the substantial step.
 
-(b) is incorrect because government officials and legitimate entities frequently serve as or participate in RICO enterprises alongside organized crime figures.
-(c) is incorrect because while two predicates are the statutory minimum, the Supreme Court has clarified they must also be related and continuous; two completely independent acts do not form a pattern.
-(d) is incorrect because RICO is not a strict vicarious liability statute; each defendant must personally conduct or participate in the enterprise's affairs through their own pattern of racketeering activity.
-(e) is incorrect because the relatedness and continuity requirements apply to all predicate acts under RICO, regardless of whether they are enumerated.
+**Tags:** chapters: [12], topics: [attempt, substantial step, MPC], difficulty: medium, cognitive: application
 
-**Tags:** chapters: [20], topics: [RICO-enterprise, predicate-acts-relatedness], difficulty: hard, cognitive: analysis
+**Grounding:** Under Model Penal Code § 5.01, a substantial step toward the commission of a crime, such as hiring an agent who then drives to the target location, strongly corroborates the actor's criminal purpose and supports attempt liability.
 
-**Grounding:** Chapter 20 - RICO and Enterprise Liability > Predicate acts relatedness
+<!-- GROUNDING-FAIL: MPC "substantial step" framework is not in any chapter map. The closest taught doctrines are: None (meta-map artifact is missing). Correct answer must rely on one of those instead. -->
 
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The explanation for Answer A relies on Sterling's conduct being an "isolated instance," but Fact 8 explicitly establishes two separate instances of zoning/permitting favors in exchange for money over a period of months (the casino rezoning and the wellness center permit). 
-2. Cross-Doctrine Clashes: Under RICO jurisprudence, predicate acts are typically deemed "related" if they have the same purpose, participants, or simply advance the affairs of the same enterprise. Dismissing a joint RICO indictment definitively on the grounds that zoning bribery is too dissimilar from the enterprise's loansharking contradicts the principle that the enterprise itself can provide the required nexus for relatedness. A court is highly unlikely to grant a motion to dismiss on these grounds.
-3. Cross-Question Spoilers: Pass.
-Recommended fix: Change the call of the question to "What is Sterling's strongest argument for challenging the pattern requirement?" and change (a) to reflect a defense argument rather than a definitive "Yes, the motion will succeed." Alternatively, re-write the explanation and correct answer to "No, because predicate acts that benefit or are coordinated through the same enterprise generally satisfy the relatedness requirement."
+## Issue 2 — audit
+
+**Q12.** Evaluating Kevin's actions regarding Marco, is Kevin guilty of attempted murder under the Model Penal Code's "substantial step" framework?
+
+(a) Kevin is guilty of attempted murder because hiring the hitman, providing the address, and the hitman's drive to the neighborhood collectively constitute a substantial step strongly corroborating the criminal purpose. <!-- correct -->
+(b) Kevin is guilty of attempted murder because the explicit exchange of monetary funds automatically transforms any preliminary criminal discussion into a fully completed attempt under the Model Penal Code.
+(c) Kevin is not guilty of attempted murder because the hitman's arrest for an entirely unrelated traffic warrant legally serves as a valid voluntary abandonment of the attempted assassination.
+(d) Kevin is not guilty of attempted murder because a criminal attempt cannot be legally charged unless the immediate perpetrator comes within physical striking distance of the intended victim.
+(e) Kevin is not guilty of attempted murder because he was not physically present in the vehicle with the hitman when the alleged substantial step toward completion was actually taken.
+
+**Answer:** (a)
+
+**Explanation:** Under the Model Penal Code, attempt liability requires a substantial step that strongly corroborates the actor's criminal purpose. Kevin paying the hitman, providing the address, and the hitman's drive to the target's neighborhood collectively satisfy this requirement, making (a) correct. (b) is incorrect because merely exchanging funds is an act of preparation or solicitation that does not automatically constitute a fully completed attempt without further action. (c) is incorrect because an arrest by law enforcement is an involuntary interruption, which legally defeats any claim of voluntary abandonment. (d) is incorrect because the MPC substantial step test explicitly discarded the restrictive requirement that a perpetrator must reach physical striking distance. (e) is incorrect because a solicitor can be held liable for an attempt even if they are not physically present when the agent takes the substantial step.
+
+**Tags:** chapters: [12], topics: [attempt, substantial step, MPC], difficulty: medium, cognitive: application
+
+**Grounding:** Under Model Penal Code § 5.01, a substantial step toward the commission of a crime, such as hiring an agent who then drives to the target location, strongly corroborates the actor's criminal purpose and supports attempt liability.
+
+<!-- audit: MUST FIX
+Check 1: pass
+Check 2: pass
+Check 3: The explanation loosely and inaccurately states that Kevin's and the hitman's actions "collectively" constitute a substantial step. Under the MPC, attempt evaluates the actor's conduct individually. Kevin would be guilty either as an accomplice to the hitman's attempt (where the *hitman's* drive is the substantial step) or under MPC § 5.01(3) for conduct designed to aid. Merging multiple individuals' actions into a single "collective" substantial step is doctrinally imprecise.
+Check 4: The question stem completely lacks a fact pattern. It references "Kevin's actions regarding Marco" but fails to provide any operative facts, forcing students to reverse-engineer the events (hiring the hitman, the drive, the traffic warrant arrest) entirely from the answer options and explanation.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: Add a brief factual scenario to the stem describing Kevin's solicitation, payment, and the hitman's subsequent drive and arrest. Revise option (a) and the explanation to clarify that Kevin is liable as an accomplice to the hitman's attempt (or via MPC § 5.01(3)), rather than relying on a "collective" substantial step.
 -->

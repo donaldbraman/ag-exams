@@ -1,17 +1,17 @@
-**Q6.** Assume that, whether or not Marcus is guilty of attempt, he genuinely believed the baggies contained counterfeit Adderall (a misdemeanor) rather than fentanyl (a severe felony). How does this affect his liability for the severe felony charge?
+**Q6.** Assume the prosecution pursues a RICO conspiracy charge under § 1962(d) against all three men for their roles in WasteCorp's operations. Under the Supreme Court's interpretation of RICO conspiracy, which legal standard applies?
 
-(a) He is not guilty of the severe felony because his genuine mistake of fact negates the specific intent inherently required for the fentanyl distribution charge.
-(b) He is not guilty of the severe felony because the prosecution must definitively prove he knew the specific identity of the controlled substance he was distributing.
-(c) He is guilty of the severe felony because the doctrine of transferred intent automatically applies the underlying mens rea from the misdemeanor to the severe felony.
-(d) He is guilty of the severe felony because drug distribution statutes generally only require knowledge that the substance is illicit, not knowledge of its specific type. <!-- correct -->
-(e) He is guilty of the severe felony because mistake of fact is only a defense when the defendant's belief, if true, would render their conduct entirely lawful.
+(a) All three men are legally barred from a RICO conspiracy conviction unless the prosecution proves each man agreed to personally commit two predicate offenses.
+(b) A defendant like Luis can be guilty of a RICO conspiracy as long as he agreed to facilitate the enterprise, even if he did not agree to personally commit two predicate acts. <!-- correct -->
+(c) Only Kevin can be guilty of a RICO conspiracy, because the statute requires the defendant to be the primary director of the enterprise's illicit affairs.
+(d) A defendant like Steve is automatically guilty of a RICO conspiracy if he provides any lawful professional service to a known criminal enterprise leader.
+(e) All three men are exempt from a RICO conspiracy conviction because the enterprise was technically structured as a legitimately incorporated waste management business.
 
-**Answer:** (d)
+**Answer:** (b)
 
-**Explanation:** (d) is correct. Drug distribution statutes typically operate with mens rea asymmetry: the defendant must know they possess an illicit substance, but strict liability applies to the specific type and quantity of the drug. Because Marcus knew he possessed an illicit substance (counterfeit Adderall), he is strictly liable for the fact that it was actually fentanyl. (a) is wrong because specific intent as to the exact drug type is not required. (b) is wrong for the same reason. (c) is wrong because transferred intent applies to different victims, not different drug types. (e) is wrong because the "legal wrong" doctrine has largely been replaced by statutory interpretation that assigns strict liability to the drug type element, rather than a blanket rule about lawful conduct.
+**Explanation:** Under the Supreme Court's ruling in *Salinas v. United States*, a defendant can be convicted of a RICO conspiracy under § 1962(d) even if they do not agree to personally commit two predicate acts. They need only agree to facilitate the enterprise's broader pattern of racketeering activity. Therefore, a subordinate like Luis can be liable for the conspiracy without agreeing to commit two independent predicates. (a) is wrong because *Salinas* explicitly rejected the requirement that each conspirator must personally agree to commit two predicate offenses. (c) is wrong because lower-level members and facilitators can be guilty of a RICO conspiracy; liability is not limited to the primary director. (d) is wrong because providing lawful services does not automatically constitute an agreement to join the racketeering conspiracy. (e) is wrong because the use of a legitimate incorporated business does not exempt individuals from RICO liability.
 
-**Tags:** chapters: [10, 15], topics: [mistake-of-fact, mens-rea-fentanyl-asymmetry, strict-liability], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [11], topics: [RICO conspiracy, Salinas doctrine], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15 - mens rea fentanyl asymmetry and strict liability for drug type/quantity.
+**Grounding:** RICO conspiracy; Salinas v. United States.
 
-<!-- grounding: GROUNDED — mens rea fentanyl asymmetry, Ch 15, Refinement `mens-rea-fentanyl-asymmetry`. Rule paraphrased accurately. -->
+<!-- GROUNDING-FAIL: RICO conspiracy and Salinas v. United States are not in any chapter map. The closest taught doctrines are: conspiracy-agreement, pinkerton-liability, and conspiracy-mens-rea. Correct answer must rely on one of those instead. -->

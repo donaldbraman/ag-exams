@@ -4,93 +4,128 @@ The QA pipeline flagged this question. Rewrite `q03.md` addressing each numbered
 
 ## Issue 1 — audit
 
-<!-- audit: MUST FIX -->
+**Q3.** Assume for this question that Steve drafted the routes solely to maintain his legitimate legal billing. Is Steve guilty of conspiracy to distribute narcotics?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
-
-Error: Model returned empty or blocked response.
-
-## Issue 2 — argpass-sonnet
-
-**Q3.** Assume Leo is charged with the murder of the rival distributor and raises a self-defense claim because the rival drew a weapon. How should the court rule?
-
-(a) Not guilty, because Leo was legally permitted to defend his life once the rival distributor introduced deadly force into the encounter.
-(b) Guilty of manslaughter, because his subjective belief in the absolute need for self-defense mitigates the killing even if he initiated the encounter.
-(c) Guilty of murder, because he killed the rival during an attempted robbery and the initial aggressor bar completely precludes his self-defense claim. <!-- correct -->
-(d) Guilty of murder, because the initial use of a firearm in a territorial dispute creates an irrebuttable presumption of premeditation and deliberation.
-(e) Guilty of manslaughter, because the sudden escalation by the rival constitutes adequate provocation, successfully negating the required malice aforethought.
+(a) Guilty, because his affirmative act of drafting the evasive trucking routes legally constitutes an implied agreement to fully participate in the broader underlying narcotics distribution operation.
+(b) Guilty, because he possessed actual actual knowledge of Kevin's illicit distribution network when he explicitly agreed to provide the requested logistical trucking routes for the waste company.
+(c) Not guilty, because his internal motivation was solely to maintain his legitimate legal billing, meaning he entirely lacked the specific intent to further the actual criminal objective. <!-- correct -->
+(d) Not guilty, because a binding agreement to commit a criminal offense cannot be legally formed between a licensed attorney and a client under the strict doctrine of privilege.
+(e) Not guilty, because his drafted logistical routes did not legally constitute a substantial physical step toward the actual completion of the underlying substantive narcotics distribution criminal offense.
 
 **Answer:** (c)
 
-**Explanation:** The correct answer is (c). Self-defense is entirely unavailable to an initial aggressor who uses or threatens deadly force without first effectively withdrawing from the conflict. Furthermore, because Leo killed the rival while attempting an inherently dangerous felony (robbery—drawing a gun and demanding the stash), he is strictly liable for murder under the felony-murder rule (Fact 4).
+**Explanation:** A criminal conspiracy requires an intent to agree and a specific intent to achieve the object of the conspiracy. Steve's sole motivation was legitimate billable hours, indicating he lacked the specific intent to further the narcotics distribution, making (c) correct. (a) is incorrect because an implied agreement still requires the specific intent to promote the criminal objective. (b) is incorrect because mere knowledge of the criminal network is insufficient to establish conspiratorial intent. (d) is incorrect because the attorney-client privilege does not protect or preclude liability for agreements to commit future crimes. (e) is incorrect because conspiracy targets the agreement itself and does not require a substantial step toward the substantive offense.
 
-(a) is incorrect because the initial aggressor bar strips Leo of the right to claim self-defense, regardless of the rival's response.
-(b) is incorrect because imperfect self-defense is unavailable to a defendant who wrongfully initiated the deadly confrontation as the initial aggressor.
-(d) is incorrect because felony murder, not an irrebuttable presumption of premeditation, provides the malice aforethought, and constitutional rules generally forbid mandatory irrebuttable presumptions of mens rea elements.
-(e) is incorrect because the rival's lawful or foreseeable response to Leo's armed robbery attempt does not constitute legally adequate provocation to reduce murder to manslaughter.
+**Tags:** chapters: [14], topics: [conspiracy, agreement, intent to further], difficulty: medium, cognitive: application
 
-**Tags:** chapters: [14, 22], topics: [initial-aggressor-bar, felony-murder, homicide-grading], difficulty: medium, cognitive: application
+**Grounding:** Conspiracy requires both the intent to agree and the specific intent to further the criminal objective of the conspiracy, which is absent when a defendant acts solely for standard, legitimate commercial compensation without adopting the criminal goal.
 
-**Grounding:** Chapter 22 - Self-Defense > Initial aggressor bar; Chapter 14 - Felony Murder > Strict liability substitution
-
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that if the rival drew a weapon, it escalated the confrontation into a deadly one, reviving Leo's right to self-defense. Under this theory, once the rival presented an imminent threat of death, Leo was no longer bound by his initial aggression and was legally permitted to defend his life, warranting an acquittal.
-(b) Argument-for: This option appeals to the doctrine of imperfect self-defense. A student might argue that even if Leo was the initial aggressor, his genuine, subjective fear of the rival's drawn weapon negates the malice aforethought required for murder. Therefore, his honest but legally barred belief mitigates the killing to manslaughter.
-(c) Argument-for: This is the legally correct outcome. Leo's commission of an armed robbery triggers the felony-murder rule, which supplies malice. Furthermore, as an initial deadly aggressor, Leo completely forfeits his right to self-defense unless he effectively withdraws. Thus, the initial aggressor bar completely precludes his self-defense claim.
-(d) Argument-for: A student could assert that bringing a firearm to a territorial dispute demonstrates clear pre-planning. Therefore, the use of the firearm creates an irrebuttable presumption of premeditation and deliberation, meaning Leo is automatically guilty of first-degree murder regardless of the felony-murder rule.
-(e) Argument-for: This option invokes the heat of passion/provocation defense. A student might reason that being confronted suddenly by a drawn weapon is a terrifying event. This sudden escalation by the rival constitutes legally adequate provocation, successfully negating malice aforethought and reducing the charge to manslaughter.
-
-Head-to-head: Option (c) is legally sound, properly applying both the initial aggressor bar and felony murder. Option (a) relies heavily on a factual mischaracterization (claiming the rival "introduced" deadly force, when Leo did so by attempting an armed robbery) to justify a false legal premise. Option (b) fails because imperfect self-defense categorically does not mitigate murder when the defendant wrongfully initiated an armed robbery. Option (d) contains a clear constitutional error, as mandatory irrebuttable presumptions of mens rea elements violate Due Process (Sandstrom v. Montana). Option (e) is legally false because lawful self-defense by a victim against a felony categorically cannot constitute adequate provocation. While all distractors contain falsifiable claims, Option (a) should be tightened to present an explicit legal error locked with an absolute word, rather than relying on a factual misstatement.
-
-Falsifiable claim per distractor:
-- (a): "legally permitted to defend his life once the rival distributor introduced deadly force" — wrong factually (Leo introduced deadly force) and wrong legally because a victim's lawful defensive force does not revive an armed initial aggressor's right to self-defense.
-- (b): "mitigates the killing even if he initiated the encounter" — wrong because imperfect self-defense is categorically unavailable to one who initiates a deadly confrontation.
-- (d): "creates an irrebuttable presumption of premeditation and deliberation" — wrong because the Supreme Court explicitly prohibits mandatory irrebuttable presumptions regarding mens rea elements.
-- (e): "sudden escalation by the rival constitutes adequate provocation" — wrong because a victim's lawful resistance to a violent felony categorically fails to serve as adequate provocation for voluntary manslaughter.
-
-Recommended fix: Change (a) to lock in a definitive false legal claim rather than a factual error: "(a) Not guilty, because an initial aggressor categorically regains the right to self-defense if the victim responds to the initial threat by drawing a deadly weapon."
+<!-- audit: MUST FIX
+Check 1: Correct-answer accuracy fails. Option (c) and the explanation conflate motive with specific intent. Under standard conspiracy doctrine (*Lauria* / *Direct Sales*), a provider can possess the specific intent (purpose) to further a conspiracy even if their ultimate motivation is purely pecuniary (i.e., standard billing), just as a hitman possesses specific intent to kill despite being motivated solely by money. Because Steve drafted "evasive trucking routes" (a tailored service with no legitimate use, per option A), he objectively demonstrates a purpose to facilitate the crime, rendering option (c)'s premise legally flawed.
+Check 2: Finding: Option (b) contains a typo ("actual actual knowledge").
+Check 3: Explanation consistency fails. The explanation reinforces the flawed legal premise by stating Steve's "sole motivation was legitimate billable hours, indicating he lacked the specific intent." Ultimate motive does not negate mens rea.
+Check 4: pass
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: Change Steve's service from tailoring "evasive trucking routes" to providing a generic, dual-use service (e.g., "standard DOT regulatory compliance advice"). This correctly triggers the *Lauria* rule that generic commercial providers operating solely for standard compensation lack the specific intent to further a conspiracy. Revise (c) and the explanation to clarify that providing generic services for standard fees does not evidence a purpose to further the criminal objective. Finally, delete the duplicate "actual" in option (b).
 -->
 
-## Issue 3 — argpass-opus
+## Issue 2 — edge-case
 
-**Q3.** Assume Leo is charged with the murder of the rival distributor and raises a self-defense claim because the rival drew a weapon. How should the court rule?
+**Q3.** Assume for this question that Steve drafted the routes solely to maintain his legitimate legal billing. Is Steve guilty of conspiracy to distribute narcotics?
 
-(a) Not guilty, because Leo was legally permitted to defend his life once the rival distributor introduced deadly force into the encounter.
-(b) Guilty of manslaughter, because his subjective belief in the absolute need for self-defense mitigates the killing even if he initiated the encounter.
-(c) Guilty of murder, because he killed the rival during an attempted robbery and the initial aggressor bar completely precludes his self-defense claim. <!-- correct -->
-(d) Guilty of murder, because the initial use of a firearm in a territorial dispute creates an irrebuttable presumption of premeditation and deliberation.
-(e) Guilty of manslaughter, because the sudden escalation by the rival constitutes adequate provocation, successfully negating the required malice aforethought.
+(a) Guilty, because his affirmative act of drafting the evasive trucking routes legally constitutes an implied agreement to fully participate in the broader underlying narcotics distribution operation.
+(b) Guilty, because he possessed actual actual knowledge of Kevin's illicit distribution network when he explicitly agreed to provide the requested logistical trucking routes for the waste company.
+(c) Not guilty, because his internal motivation was solely to maintain his legitimate legal billing, meaning he entirely lacked the specific intent to further the actual criminal objective. <!-- correct -->
+(d) Not guilty, because a binding agreement to commit a criminal offense cannot be legally formed between a licensed attorney and a client under the strict doctrine of privilege.
+(e) Not guilty, because his drafted logistical routes did not legally constitute a substantial physical step toward the actual completion of the underlying substantive narcotics distribution criminal offense.
 
 **Answer:** (c)
 
-**Explanation:** The correct answer is (c). Self-defense is entirely unavailable to an initial aggressor who uses or threatens deadly force without first effectively withdrawing from the conflict. Furthermore, because Leo killed the rival while attempting an inherently dangerous felony (robbery—drawing a gun and demanding the stash), he is strictly liable for murder under the felony-murder rule (Fact 4).
+**Explanation:** A criminal conspiracy requires an intent to agree and a specific intent to achieve the object of the conspiracy. Steve's sole motivation was legitimate billable hours, indicating he lacked the specific intent to further the narcotics distribution, making (c) correct. (a) is incorrect because an implied agreement still requires the specific intent to promote the criminal objective. (b) is incorrect because mere knowledge of the criminal network is insufficient to establish conspiratorial intent. (d) is incorrect because the attorney-client privilege does not protect or preclude liability for agreements to commit future crimes. (e) is incorrect because conspiracy targets the agreement itself and does not require a substantial step toward the substantive offense.
 
-(a) is incorrect because the initial aggressor bar strips Leo of the right to claim self-defense, regardless of the rival's response.
-(b) is incorrect because imperfect self-defense is unavailable to a defendant who wrongfully initiated the deadly confrontation as the initial aggressor.
-(d) is incorrect because felony murder, not an irrebuttable presumption of premeditation, provides the malice aforethought, and constitutional rules generally forbid mandatory irrebuttable presumptions of mens rea elements.
-(e) is incorrect because the rival's lawful or foreseeable response to Leo's armed robbery attempt does not constitute legally adequate provocation to reduce murder to manslaughter.
+**Tags:** chapters: [14], topics: [conspiracy, agreement, intent to further], difficulty: medium, cognitive: application
 
-**Tags:** chapters: [14, 22], topics: [initial-aggressor-bar, felony-murder, homicide-grading], difficulty: medium, cognitive: application
+**Grounding:** Conspiracy requires both the intent to agree and the specific intent to further the criminal objective of the conspiracy, which is absent when a defendant acts solely for standard, legitimate commercial compensation without adopting the criminal goal.
 
-**Grounding:** Chapter 22 - Self-Defense > Initial aggressor bar; Chapter 14 - Felony Murder > Strict liability substitution
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: Under the *Lauria* doctrine, knowledge can sometimes be sufficient to infer intent to further a conspiracy if the underlying crime is a "serious felony" (which regional cocaine distribution certainly is), making the absolute legal conclusion in (c) highly debatable even with the forced assumption.
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: Stem 1 includes Fact 4, which establishes that Steve had 5 kilograms of cocaine locked in a private filing cabinet in his office. A student analyzing the full fact pattern would conclude Steve *is* guilty of the overall conspiracy based on his joint possession of the stash, regardless of his intent in drafting the routes. Thus, asking "Is Steve guilty of conspiracy to distribute narcotics?" globally renders (c) an incorrect outcome.
+Recommended fix: Rephrase the question to strictly isolate the conduct. E.g., "Based solely on his act of drafting the trucking routes, and assuming he did so strictly to maintain his legal billing, is Steve guilty..."
+-->
+
+## Issue 3 — argpass-sonnet
+
+**Q3.** Assume for this question that Steve drafted the routes solely to maintain his legitimate legal billing. Is Steve guilty of conspiracy to distribute narcotics?
+
+(a) Guilty, because his affirmative act of drafting the evasive trucking routes legally constitutes an implied agreement to fully participate in the broader underlying narcotics distribution operation.
+(b) Guilty, because he possessed actual actual knowledge of Kevin's illicit distribution network when he explicitly agreed to provide the requested logistical trucking routes for the waste company.
+(c) Not guilty, because his internal motivation was solely to maintain his legitimate legal billing, meaning he entirely lacked the specific intent to further the actual criminal objective. <!-- correct -->
+(d) Not guilty, because a binding agreement to commit a criminal offense cannot be legally formed between a licensed attorney and a client under the strict doctrine of privilege.
+(e) Not guilty, because his drafted logistical routes did not legally constitute a substantial physical step toward the actual completion of the underlying substantive narcotics distribution criminal offense.
+
+**Answer:** (c)
+
+**Explanation:** A criminal conspiracy requires an intent to agree and a specific intent to achieve the object of the conspiracy. Steve's sole motivation was legitimate billable hours, indicating he lacked the specific intent to further the narcotics distribution, making (c) correct. (a) is incorrect because an implied agreement still requires the specific intent to promote the criminal objective. (b) is incorrect because mere knowledge of the criminal network is insufficient to establish conspiratorial intent. (d) is incorrect because the attorney-client privilege does not protect or preclude liability for agreements to commit future crimes. (e) is incorrect because conspiracy targets the agreement itself and does not require a substantial step toward the substantive offense.
+
+**Tags:** chapters: [14], topics: [conspiracy, agreement, intent to further], difficulty: medium, cognitive: application
+
+**Grounding:** Conspiracy requires both the intent to agree and the specific intent to further the criminal objective of the conspiracy, which is absent when a defendant acts solely for standard, legitimate commercial compensation without adopting the criminal goal.
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: Leo's defense relies on the principle that the right to self-defense can be revived when a victim escalates an encounter to a deadly level. Even if Leo initiated the robbery, he might argue that the rival's drawing of a weapon constituted an immediate, disproportionate threat to his life. By this logic, the rival "introduced deadly force," granting Leo the legal permission to meet deadly force with deadly force. A student could argue that self-defense is justifiable the moment the rival exceeds proportional response, warranting an acquittal.
-(b) Argument-for: Imperfect self-defense applies when a defendant harbors an actual but unreasonable belief in the need for deadly self-defense, or when the defendant is at fault for the encounter but lacks malice. A student might argue that Leo's subjective fear for his life negates malice aforethought, dropping the charge to manslaughter. Because he actually believed his life was in danger when the rival drew a weapon, this subjective belief mitigates the killing, even if Leo was the initial aggressor who started the dispute.
-(c) Argument-for: This is the keyed answer. Leo is strictly liable for murder under the felony-murder rule because the killing occurred during the commission of an inherently dangerous felony (attempted armed robbery). Furthermore, the initial aggressor bar completely precludes a self-defense claim, whether perfect or imperfect, because Leo initiated the deadly encounter by drawing a gun. Without an effective withdrawal, he cannot claim self-defense against the victim's lawful right to resist the robbery.
-(d) Argument-for: The deadly weapon rule permits the inference of malice from the use of a deadly weapon. A student could extend this inference to argue that bringing a firearm to a territorial dispute automatically establishes the requisite premeditation and deliberation for first-degree murder. By initiating an armed confrontation, Leo demonstrated a preconceived plan to kill if necessary. Thus, the court must rule him guilty of murder based on an irrebuttable presumption stemming from the initial use of the firearm.
-(e) Argument-for: Provocation (heat of passion) can mitigate murder to manslaughter if a reasonable person would have been adequately provoked. A student could argue that being suddenly drawn upon by a rival creates a terrifying and highly provoking situation, causing Leo to act out of sudden fear or passion. This sudden escalation by the rival constitutes adequate provocation, legally negating the malice aforethought required for murder and reducing the conviction to manslaughter.
+(a) Argument-for: A student could argue that providing specialized evasive routes for a criminal enterprise constitutes concert of action. In conspiracy law, an agreement can be inferred from affirmative acts that assist the criminal objective. By taking the affirmative act to draft these routes, Steve's conduct might be viewed as legally constituting an implied agreement to participate in the broader narcotics operation.
+(b) Argument-for: A student might argue that knowingly providing services to an illicit network satisfies the mens rea for conspiracy. Since Steve possessed actual knowledge of the distribution network and explicitly agreed to provide the logistical routes, he knowingly facilitated the crime. Some might incorrectly believe this knowledge and explicit agreement to provide the requested service is legally sufficient to establish guilt.
+(c) Argument-for: This is the correct answer. The mens rea for conspiracy requires a specific intent or purpose to further the illegal objective of the agreement (e.g., *People v. Lauria*). The prompt explicitly stipulates that Steve's sole motivation was maintaining legitimate billing, establishing that he lacked the specific intent to promote or achieve the narcotics distribution.
+(d) Argument-for: A student might conflate attorney-client privilege with absolute criminal immunity. Under this flawed reasoning, because Steve was a licensed attorney performing a service for his client, the strict doctrine of privilege prevents their interactions from being legally construed as a binding agreement to commit a criminal offense.
+(e) Argument-for: A student could confuse the actus reus of attempt with that of conspiracy. Because attempt requires a "substantial step" toward the completion of the crime, a student might incorrectly apply this standard to conspiracy and conclude that merely drafting routes is an insufficient physical step, making him not guilty.
 
-Head-to-head: 
-Option (c) correctly synthesizes the initial aggressor doctrine and the felony-murder rule, rendering it the strongest argument. Distractor (d) is perfectly falsifiable because irrebuttable presumptions of mens rea are unconstitutional under *Sandstrom*. Distractor (b) successfully uses "even if" to state a broad, falsifiable claim that imperfect self-defense is always available to initial aggressors. However, distractors (a) and (e) lack absolute words to strictly lock their falsifiable legal claims, making them slightly vulnerable to edge-case counterarguments about non-deadly initiation or specific definitions of provocation. Adding absolute words would guarantee they fail the close-call standard.
+Head-to-head: (c) is the strongest and clearly correct answer, perfectly applying the specific intent rule for conspiracy (purpose to further the criminal objective) to the facts provided. Distractors (a), (d), and (e) contain explicit, falsifiable legal errors: (a) bypasses the mens rea requirement by claiming the act itself "legally constitutes" an agreement to fully participate; (d) invents an absolute attorney-client privilege shield against conspiracy; and (e) applies the attempt "substantial step" standard to conspiracy. However, distractor (b) asserts guilt based on actual knowledge without definitively locking the falsifiable premise that knowledge *alone* is always sufficient, and it contains a typo ("actual actual"). 
 
 Falsifiable claim per distractor:
-- (a): "legally permitted to defend his life once the rival distributor introduced deadly force" — wrong because an initial aggressor who provokes a conflict with deadly force (armed robbery) is categorically barred from claiming self-defense unless they effectively withdraw; furthermore, Leo introduced the deadly force first.
-- (b): "mitigates the killing even if he initiated the encounter" — wrong because imperfect self-defense is categorically unavailable to an initial aggressor who initiates the conflict with a deadly weapon or the intent to kill.
-- (d): "creates an irrebuttable presumption of premeditation and deliberation" — wrong because mandatory irrebuttable presumptions against criminal defendants regarding mens rea elements are unconstitutional.
-- (e): "sudden escalation by the rival constitutes adequate provocation" — wrong because a victim's lawful or foreseeable resistance to an armed robbery categorically cannot serve as legally adequate provocation.
+- (a): "legally constitutes an implied agreement to fully participate" — wrong because an affirmative act of providing a service does not legally constitute an agreement to participate in the broader conspiracy without the specific intent to further it.
+- (b): "because he possessed actual actual knowledge... when he explicitly agreed" — wrong because mere knowledge of illicit use by a provider of standard commercial services does not establish the requisite intent to further the conspiracy. (Lacks an absolute lock).
+- (d): "cannot be legally formed between a licensed attorney and a client under the strict doctrine of privilege" — wrong because the crime-fraud exception categorically allows attorneys and clients to form criminal conspiracies.
+- (e): "did not legally constitute a substantial physical step" — wrong because conspiracy does not require a "substantial physical step" (which is the standard for criminal attempt), but merely an agreement and, in some jurisdictions, an overt act.
 
-Recommended fix: Add absolute locking words to (a) and (e). 
-Change (a) to: "Not guilty, because a defendant is automatically permitted to defend his life once the victim introduces a deadly weapon into the encounter."
-Change (e) to: "Guilty of manslaughter, because a victim's defensive escalation categorically constitutes adequate provocation, successfully negating the required malice aforethought."
+Recommended fix: In (b), fix the "actual actual" typo and lock the falsifiable claim by changing it to: "Guilty, solely because he possessed actual knowledge of Kevin's illicit distribution network when he explicitly agreed to provide the requested logistical trucking routes..."
+-->
+
+## Issue 4 — argpass-opus
+
+**Q3.** Assume for this question that Steve drafted the routes solely to maintain his legitimate legal billing. Is Steve guilty of conspiracy to distribute narcotics?
+
+(a) Guilty, because his affirmative act of drafting the evasive trucking routes legally constitutes an implied agreement to fully participate in the broader underlying narcotics distribution operation.
+(b) Guilty, because he possessed actual actual knowledge of Kevin's illicit distribution network when he explicitly agreed to provide the requested logistical trucking routes for the waste company.
+(c) Not guilty, because his internal motivation was solely to maintain his legitimate legal billing, meaning he entirely lacked the specific intent to further the actual criminal objective. <!-- correct -->
+(d) Not guilty, because a binding agreement to commit a criminal offense cannot be legally formed between a licensed attorney and a client under the strict doctrine of privilege.
+(e) Not guilty, because his drafted logistical routes did not legally constitute a substantial physical step toward the actual completion of the underlying substantive narcotics distribution criminal offense.
+
+**Answer:** (c)
+
+**Explanation:** A criminal conspiracy requires an intent to agree and a specific intent to achieve the object of the conspiracy. Steve's sole motivation was legitimate billable hours, indicating he lacked the specific intent to further the narcotics distribution, making (c) correct. (a) is incorrect because an implied agreement still requires the specific intent to promote the criminal objective. (b) is incorrect because mere knowledge of the criminal network is insufficient to establish conspiratorial intent. (d) is incorrect because the attorney-client privilege does not protect or preclude liability for agreements to commit future crimes. (e) is incorrect because conspiracy targets the agreement itself and does not require a substantial step toward the substantive offense.
+
+**Tags:** chapters: [14], topics: [conspiracy, agreement, intent to further], difficulty: medium, cognitive: application
+
+**Grounding:** Conspiracy requires both the intent to agree and the specific intent to further the criminal objective of the conspiracy, which is absent when a defendant acts solely for standard, legitimate commercial compensation without adopting the criminal goal.
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student could argue that under the *actus reus* of conspiracy, an agreement can be implied from highly specialized conduct. Drafting evasive logistical routes tailored specifically for a drug operation goes beyond standard commercial services. They might conclude that providing such indispensable, unlawful assistance "legally constitutes" an implied agreement to participate, drawing on cases where extreme, specialized assistance implies intent.
+(b) Argument-for: A student could rely on the principle from cases like *Direct Sales* that providing critical services to a known criminal enterprise can establish liability. They would argue that because Steve had "actual knowledge" of the illicit network and explicitly agreed to provide the requested routes, this combination of actual knowledge and affirmative assistance satisfies the requirements for conspiracy guilt.
+(c) Argument-for: Conspiracy requires the specific intent to further the criminal objective (the *mens rea*). Because the prompt stipulates that Steve's *sole* motivation was legitimate legal billing, he lacked any "stake in the venture" and did not adopt the criminal objective as his own. Under classic doctrine (e.g., *United States v. Falcone*), without this specific intent to advance the crime, he is not guilty.
+(d) Argument-for: A student might mistakenly believe that attorney-client privilege and professional obligations create a legal immunity against conspiracy charges when an attorney is acting in a representational capacity. They could argue that the formal nature of legal representation means a criminal agreement "cannot be legally formed" between attorney and client under the strict doctrine of privilege.
+(e) Argument-for: A student could easily confuse the *actus reus* of conspiracy with that of attempt. Attempt requires a "substantial step" toward the completion of the offense. The student might argue that drafting routes on paper is merely preparatory and does not legally constitute a "substantial physical step," incorrectly applying the Model Penal Code attempt standard to negate conspiracy liability.
+
+Head-to-head:
+(c) is correctly keyed because it applies the specific intent rule for conspiracy: acting solely for legitimate commercial compensation without a stake in the venture negates the intent to further the criminal objective. (a) relies on an absolute, falsifiable claim that an affirmative act of providing assistance "legally constitutes" an implied agreement to fully participate, effectively bypassing the subjective specific intent requirement. (b) incorrectly implies that actual knowledge combined with providing services is sufficient for guilt, but it lacks the absolute locking language required to make it an explicit false legal claim (rather than an implicit omission of the specific intent requirement), and it contains a typo ("actual actual"). (d) relies on the completely false premise that an attorney and client "cannot legally form" a conspiracy, ignoring the crime-fraud exception. (e) features an explicit false claim by asserting that conspiracy requires a "substantial physical step," mixing up the attempt and conspiracy frameworks.
+
+Falsifiable claim per distractor:
+- (a): "legally constitutes an implied agreement to fully participate" — wrong because an affirmative act of assistance does not categorically or automatically constitute an agreement to participate without the specific intent to further the crime.
+- (b): "Guilty, because he possessed actual actual knowledge" — wrong because actual knowledge of an illicit network is not sufficient to establish conspiracy, but requires stronger absolute language to pass the close-call standard.
+- (d): "cannot be legally formed between a licensed attorney and a client" — wrong because the crime-fraud exception and general criminal law dictate that attorneys absolutely can be charged with conspiring with clients.
+- (e): "did not legally constitute a substantial physical step" — wrong because conspiracy requires an agreement and (in some jurisdictions) an overt act, but never requires a "substantial physical step" toward actual completion (which is the standard for attempt).
+
+Recommended fix: Fix the typo in (b) ("actual actual") and lock its falsifiable claim with absolute words. Change (b) to: "Guilty, because possessing actual knowledge of an illicit distribution network is legally sufficient to automatically establish conspiratorial intent whenever a defendant agrees to provide requested logistical services."
 -->

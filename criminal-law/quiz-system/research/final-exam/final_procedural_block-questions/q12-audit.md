@@ -1,5 +1,27 @@
-<!-- audit: MUST FIX -->
+**Q12.** Evaluate Kevin's liability for attempted murder regarding Marco under the Model Penal Code's "substantial step" framework.
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) Kevin has committed a substantial step, because paying the hitman and providing the target's address strongly corroborates his firm criminal purpose to commit the murder. <!-- correct -->
+(b) Kevin has not committed a substantial step, because he merely engaged in preliminary preparations by hiring a third party instead of obtaining a weapon himself.
+(c) Kevin has committed a substantial step, because the common law always equates the mere verbal solicitation of a crime with the physical attempt to commit it.
+(d) Kevin has not committed a substantial step, because the hitman was arrested three blocks away before arriving at Marco's house or aiming a specific weapon.
+(e) Kevin has committed a substantial step, because any monetary exchange related to an employee automatically fulfills the required elements of an attempted corporate assassination.
 
-Error: Model returned empty or blocked response.
+**Answer:** (a)
+
+**Explanation:** Under the Model Penal Code's substantial step test, an attempt occurs when a defendant takes a substantial step that is strongly corroborative of their criminal purpose. Paying a hitman $10,000 and providing the victim's exact home address clearly moves far beyond mere preparation and concretely confirms Kevin's firm intent to see Marco murdered. (b) is wrong because hiring and paying a third-party assassin is universally recognized as satisfying the substantial step requirement under the MPC. (c) is wrong because the traditional common law often viewed mere solicitation as legally insufficient to constitute a full attempt. (d) is wrong because Kevin's liability is based on his own completed actions of hiring and financially compensating the hitman, which already firmly satisfy the MPC test regardless of the hitman's later arrest. (e) is wrong because there is no automatic legal assumption of attempt liability based solely on corporate employment status.
+
+**Tags:** chapters: [17], topics: [attempt, substantial step, MPC], difficulty: medium, cognitive: application
+
+**Grounding:** Attempt doctrine; MPC substantial step framework.
+
+<!-- audit: MUST FIX
+Check 1: pass (Assuming the facts embedded in the options, paying a hitman and providing an address satisfies the MPC substantial step test).
+Check 2: pass (No defensible distractors assuming the implied facts).
+Check 3: pass (Explanation accurately reflects the MPC substantial step test).
+Check 4: fail (The stem completely lacks a fact pattern. It asks to evaluate Kevin's liability but provides no facts about what Kevin actually did prior to the options).
+Check 5: pass (Properly specifies the MPC framework).
+Check 6: pass (No excluded topics present).
+Check 7: pass (Attempt and substantial step are core topics).
+Check 8: pass (Options are roughly symmetrical in length and structure).
+Recommended fix: Add the missing fact pattern to the stem. For example: "Kevin wanted Marco dead. He paid a hitman $10,000 and provided Marco's home address. The hitman was arrested three blocks away from Marco's house before arriving or drawing a weapon. Evaluate Kevin's liability for attempted murder regarding Marco under the Model Penal Code's 'substantial step' framework."
+-->

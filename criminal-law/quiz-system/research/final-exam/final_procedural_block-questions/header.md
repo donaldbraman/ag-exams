@@ -1,20 +1,14 @@
-# Scenario: Waterfront Syndicate
+# Scenario: WasteCorp Operations
 
-### Facts
+**1.** Kevin operated "WasteCorp," a commercial waste management company. He systematically used its corporate structure, payroll, and fleet of trucks to run a regional cocaine distribution network.
+**2.** Kevin and Luis, a WasteCorp driver, explicitly agreed that Luis would transport packaged cocaine hidden inside his assigned waste drums during his routes.
+**3.** Steve, acting as outside corporate counsel, drafted the weekly trucking routes. Kevin told Steve, "Ensure these routes avoid all state weigh stations so my packages aren't searched." Steve drafted the routes exactly as requested, doing so strictly to maintain his lucrative billable hours, having no personal stake in the narcotics profits.
+**4.** Law enforcement raided WasteCorp headquarters. Agents found 5 kilograms of packaged cocaine inside a locked filing cabinet in Steve's private office. Kevin and Steve were the only two people who possessed keys to this cabinet. Neither man was present in the room during the raid.
+**5.** Three weeks later, while Luis was driving a WasteCorp truck loaded with cocaine, armed rival gang members ambushed him and opened fire on his truck. To save his own life and protect the cargo, Luis returned fire. He missed the rivals, but his stray bullet struck and killed a passing pedestrian bystander.
+**6.** Kevin, suspecting lower-level employee Marco was cooperating with law enforcement, paid a hitman $10,000, provided Marco's home address, and ordered the hitman to kill him. The hitman drove to Marco's neighborhood but was arrested for an outstanding traffic warrant three blocks from Marco's house before taking any further action.
 
-1. The investigation established that Dominic Vane oversees the "Waterfront Syndicate," a structured criminal association engaged in ongoing loansharking, extortion, and narcotics distribution.
-2. Wiretap surveillance recorded Dominic telling his lieutenant, Leo: "We need to lock down the East End pill market." Leo replied, "I'll recruit the street crew today." Leo subsequently hired Marcus to distribute the narcotics.
-3. Investigators interviewed Chloe, who held the only key to Leo's stash house. She stated: "I knew it was drugs, and I knew he was selling them to pay my rent, but I didn't care if he succeeded or failed as long as the rent got paid."
-4. During a territorial dispute over the East End, Leo approached a rival distributor. Before any struggle occurred, Leo drew his gun first and demanded the rival's stash. When the rival then drew his own weapon in response, Leo shot and killed him. Leo later claimed self-defense.
-5. Marcus was intercepted en route to his first delivery during "Operation Sweep," a police traffic initiative. Officers stopped Marcus for a minor lane violation to look for drugs, finding the stash. Marcus's defense showed that 90% of drivers stopped under Operation Sweep were Black, and filed for discovery on uncharged white drivers.
-6. During his interrogation, Marcus claimed he only agreed to distribute because Leo told him: "If this delivery isn't made by noon, I'll track you down tomorrow and put a bullet in your head." Marcus also claimed he genuinely believed the baggies contained counterfeit Adderall (a misdemeanor) rather than fentanyl (a severe felony).
-7. Pre-trial, AUSA Vance offered Marcus a 3-year plea deal, threatening that if Marcus refused and went to trial, Vance would add a mandatory-minimum weapons enhancement. Vance had probable cause for the enhancement.
-8. Investigations revealed Senator Thomas Sterling's involvement. Sterling voted to approve a commercial rezoning for Dominic's casino; three weeks later, Dominic handed Sterling $25,000 in cash "as a token of appreciation for the zoning win." Months later, after a campaign donation, Sterling formally contacted a city zoning official to expedite a "wellness center" permit for the Syndicate.
-9. Dominic and Senator Sterling face a joint federal trial for RICO violations. The indictment categorizes the Waterfront Syndicate as the enterprise, and the loansharking and Senator Sterling's zoning actions as predicate acts.
-10. During voir dire at Dominic's trial, defense attorney Silvia Rossi used peremptory challenges to strike six of the seven Black individuals in the jury pool. When challenged, Rossi stated on the record that the struck jurors "appeared hostile to corporate business backgrounds."
-11. In his final instructions to the jury, the trial judge stated: "You possess no legal right to nullify the law. If you acquit contrary to the evidence, you will violate your sworn oath and will be subject to contempt proceedings."
-12. At Marcus's sentencing hearing, community advocates argued his proposed 13-year prison sentence fails Bentham's utilitarian conditions and lacks pro-social demands, urging the judge to mandate restorative mediation and mandatory drug treatment instead of passive incarceration.
+### Stem 1: Financial and Logistical Liability
+"AUSA, review the results of the DEA raid on WasteCorp headquarters. Before we look at the recent violence, I need you to lock down the liability for the underlying enterprise, the shared stash we found, and the logistics drafted by their corporate counsel."
 
-### Stem 2: Trial and Sentencing
-
-The case has moved to trial and sentencing. Review the RICO structure for Dominic and the Senator, Rossi's jury selection tactics, the judge's instructions, and the community's pushback on Marcus's sentence.
+### Stem 2: Violent Escalation
+"The situation has escalated drastically. Luis got into a shootout trying to protect a shipment, and Kevin tried to take out our suspected informant, Marco. We need to evaluate the homicide charges for the dead pedestrian and figure out if Kevin's actions outside Marco's house legally cross the line into attempted murder."

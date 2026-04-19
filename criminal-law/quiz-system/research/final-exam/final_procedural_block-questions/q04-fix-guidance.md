@@ -4,50 +4,66 @@ The QA pipeline flagged this question. Rewrite `q04.md` addressing each numbered
 
 ## Issue 1 — audit
 
-<!-- audit: MUST FIX -->
+**Q4.** Evaluating the five kilograms of cocaine found inside the locked filing cabinet, which of the following best describes Kevin and Steve's liability under the doctrine of constructive possession?
 
-**Safety Block Triggered.** The previous version of this question was blocked by Gemini's safety filters as unsafe. Please rewrite the fact pattern to reduce the risk of unsafe content blocking.
+(a) Both Kevin and Steve constructively possessed the cocaine because they each held a key to the cabinet, demonstrating the shared power and intent to exercise control over it. <!-- correct -->
+(b) Only Steve constructively possessed the cocaine because the locked filing cabinet was physically located within the exclusive confines of his private, designated corporate legal office space.
+(c) Only Kevin constructively possessed the cocaine because he was the undisputed leader of the criminal enterprise and the ultimate financial owner of the illicit commercial narcotics inventory.
+(d) Neither man constructively possessed the cocaine because law enforcement executed the decisive headquarters raid when both specific individuals were completely physically absent from the private office room.
+(e) Neither man constructively possessed the cocaine because the doctrine strictly requires exclusive physical access, which is legally defeated whenever two or more individuals hold matching cabinet keys.
 
-Error: Model returned empty or blocked response.
+**Answer:** (a)
 
-## Issue 2 — argpass-sonnet
+**Explanation:** Constructive possession is established when an individual has both the power and intention to exercise control over an item, which can be held jointly. Both Kevin and Steve holding keys to the cabinet demonstrates this shared power and control, making (a) correct. (b) is incorrect because Steve's office location does not negate Kevin's joint constructive possession via his own key. (c) is incorrect because Kevin's leadership does not negate Steve's joint possession over a cabinet in his own office. (d) is incorrect because constructive possession explicitly accounts for situations where defendants are not physically present. (e) is incorrect because the doctrine fully recognizes joint constructive possession among multiple individuals.
 
-**Q4.** Assume that, whether or not Leo asserts self-defense, the prosecution charges Dominic with the murder of the rival distributor. Is Dominic guilty?
+**Tags:** chapters: [2, 10], topics: [actus reus, constructive possession, joint possession], difficulty: medium, cognitive: application
 
-(a) Not guilty, because Dominic did not personally participate in, explicitly order, or have specific advanced knowledge of the territorial dispute.
-(b) Not guilty, because the murder was an independent, intervening act by Leo that broke the legal chain of causation from the initial drug conspiracy.
-(c) Guilty, because under the strict liability framework of enterprise law, any violence committed by a gang member is automatically imputed to the leader.
-(d) Guilty, because the murder of a rival distributor was a reasonably foreseeable consequence of the drug conspiracy and committed in furtherance of it. <!-- correct -->
-(e) Guilty, because Dominic is held absolutely liable for any homicides that occur within the established geographic territory of the Waterfront Syndicate.
+**Grounding:** Constructive possession requires the power and intent to exercise control over an object; it can be established through keys to a locked container and may be held jointly by multiple parties.
 
-**Answer:** (d)
+<!-- audit: MUST FIX
+Check 1: Correct-answer accuracy fails. Option (a) incorrectly claims that holding a key demonstrates both power *and* intent to exercise control over the cocaine. A key establishes the *power* (access) to control the cabinet, but *intent* to control the contraband requires knowledge of its presence inside, which holding a key alone does not doctrinally establish. 
+Check 2: pass
+Check 3: pass
+Check 4: Fails. The stem/fact pattern is completely missing from the prompt. Without a fact pattern establishing that Kevin and Steve knew the cocaine was in the cabinet, there are insufficient facts to conclude they had the requisite intent for constructive possession.
+Check 5: pass
+Check 6: pass
+Check 7: pass
+Check 8: pass
+Recommended fix: Provide the missing fact pattern. Revise option (a) to read: "...because they each held a key to the cabinet and knew of its contents, demonstrating the shared power and intent to exercise control over it."
+-->
 
-**Explanation:** The correct answer is (d). Under the *Pinkerton* doctrine, a co-conspirator is liable for the substantive offenses committed by other co-conspirators if those offenses were committed in furtherance of the conspiracy and were reasonably foreseeable consequences of the agreement. A fatal territorial dispute with a rival is highly foreseeable in an armed narcotics distribution conspiracy (Facts 1, 2, 4).
+## Issue 2 — argpass-opus
 
-(a) is incorrect because *Pinkerton* liability specifically dispenses with the requirement that the defendant personally participate in or explicitly order the substantive offense.
-(b) is incorrect because acts by co-conspirators in furtherance of the conspiracy do not sever the chain of liability; they are the very mechanism of *Pinkerton* liability.
-(c) is incorrect because liability is grounded in conspiracy doctrine (*Pinkerton*), not a general "enterprise strict liability" rule for gangs.
-(e) is incorrect because geographic location alone does not create liability; the crime must be in furtherance of the conspiracy and reasonably foreseeable.
+**Q4.** Evaluating the five kilograms of cocaine found inside the locked filing cabinet, which of the following best describes Kevin and Steve's liability under the doctrine of constructive possession?
 
-**Tags:** chapters: [19], topics: [Pinkerton-liability, conspiracy], difficulty: medium, cognitive: application
+(a) Both Kevin and Steve constructively possessed the cocaine because they each held a key to the cabinet, demonstrating the shared power and intent to exercise control over it. <!-- correct -->
+(b) Only Steve constructively possessed the cocaine because the locked filing cabinet was physically located within the exclusive confines of his private, designated corporate legal office space.
+(c) Only Kevin constructively possessed the cocaine because he was the undisputed leader of the criminal enterprise and the ultimate financial owner of the illicit commercial narcotics inventory.
+(d) Neither man constructively possessed the cocaine because law enforcement executed the decisive headquarters raid when both specific individuals were completely physically absent from the private office room.
+(e) Neither man constructively possessed the cocaine because the doctrine strictly requires exclusive physical access, which is legally defeated whenever two or more individuals hold matching cabinet keys.
 
-**Grounding:** Chapter 19 - Conspiracy > Pinkerton Doctrine
+**Answer:** (a)
+
+**Explanation:** Constructive possession is established when an individual has both the power and intention to exercise control over an item, which can be held jointly. Both Kevin and Steve holding keys to the cabinet demonstrates this shared power and control, making (a) correct. (b) is incorrect because Steve's office location does not negate Kevin's joint constructive possession via his own key. (c) is incorrect because Kevin's leadership does not negate Steve's joint possession over a cabinet in his own office. (d) is incorrect because constructive possession explicitly accounts for situations where defendants are not physically present. (e) is incorrect because the doctrine fully recognizes joint constructive possession among multiple individuals.
+
+**Tags:** chapters: [2, 10], topics: [actus reus, constructive possession, joint possession], difficulty: medium, cognitive: application
+
+**Grounding:** Constructive possession requires the power and intent to exercise control over an object; it can be established through keys to a locked container and may be held jointly by multiple parties.
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student might rely on standard accomplice liability (aiding and abetting), which generally requires both a mens rea and an actus reus (assisting, counseling, or encouraging the crime). In jurisdictions that have rejected the *Pinkerton* doctrine, mere membership in a conspiracy is not enough to impose vicarious liability for substantive crimes. Since Dominic did not personally participate, order, or even have specific advanced knowledge of the murder, he lacks the elements for accomplice liability. Thus, one could argue he is not guilty under standard complicity theories.
-(b) Argument-for: Even under *Pinkerton* or general proximate cause theories, a defendant is not liable for acts that fall outside the scope of the agreement or are unforeseeable. A student could argue that Leo's act of committing murder represents a massive escalation beyond standard drug distribution. Such an independent, impulsive action by a co-conspirator might be viewed as an unforeseeable superseding cause. Therefore, this intervening act would break the legal chain of causation, shielding Dominic from liability.
-(c) Argument-for: A student might mistakenly believe that modern anti-gang legislation or enterprise theories operate on strict liability principles for the heads of criminal organizations. Under this view, a "kingpin" or gang leader who establishes a criminal enterprise is automatically held responsible for any violence perpetrated by their subordinates. Because Dominic is the leader of the Waterfront Syndicate, the law would strictly impute Leo's act of violence to him, creating a plausible-sounding rule of "enterprise strict liability."
-(d) Argument-for: This option directly applies the *Pinkerton* doctrine, which is the majority rule in federal and many state courts. Under *Pinkerton*, a conspirator is vicariously liable for the substantive offenses of his co-conspirators if those offenses are committed in furtherance of the conspiracy and are reasonably foreseeable. Because violence over territory is highly foreseeable in an armed drug distribution ring, and eliminating a rival furthers the conspiracy's goals, Dominic is guilty of the murder. This cleanly matches black-letter conspiracy law.
-(e) Argument-for: A student might conflate territorial control with a form of absolute legal responsibility, akin to a strict premises liability or a distorted felony-murder rule. If Dominic established the geographic territory of the Waterfront Syndicate and profits from it, one might reason that he bears absolute liability for any homicides that occur within that zone. This relies on the assumption that leaders possess an absolute duty to prevent death on their turf, making Dominic guilty merely because of where the murder occurred.
+(a) Argument-for: Under the doctrine of constructive possession, an individual need not have actual physical custody of an object to possess it; instead, they must have the power and intent to exercise dominion and control. Joint constructive possession allows multiple individuals to possess the same item simultaneously. Because both Kevin and Steve held keys to the filing cabinet, they both had the requisite power to access and control the cocaine. As the option stipulates their shared power and intent, this perfectly satisfies the elements of joint constructive possession, making them both liable.
+(b) Argument-for: Constructive possession is often tied to dominion and control over the premises where contraband is found. Because the filing cabinet was located strictly within Steve’s private, designated corporate legal office space, a student could argue that Steve alone had the ultimate authority over that space. If Kevin merely held a key but lacked dominion over the office itself, his power to control the cabinet might be viewed as legally subordinate to Steve's exclusive territorial control, rendering Steve the sole possessor.
+(c) Argument-for: Constructive possession inherently relies on the intent to exercise control, which is often dictated by ownership and hierarchical authority. A student could argue that as the undisputed leader of the criminal enterprise and ultimate financial owner of the cocaine, Kevin retained the exclusive ultimate authority to direct its disposition. In this view, Steve is merely a custodian or subordinate whose possession of a key does not equate to independent legal dominion and control, leaving Kevin as the sole constructive possessor.
+(d) Argument-for: Constructive possession requires a present nexus between the defendant and the contraband. A student might argue that because both men were physically absent from the private office during the raid, their ability to immediately exercise control was severed. Under a highly restrictive view of the actus reus of possession, the lack of proximity at the precise moment of police seizure could be interpreted as defeating their immediate power to control the narcotics, meaning neither possessed it.
+(e) Argument-for: A strict, traditional interpretation of possession focuses on exclusive physical control over an item. A student might argue that the very nature of multiple people holding matching keys destroys the concept of "exclusive" access. Under this logic, because the doctrine allegedly requires exclusive physical access to establish dominion, the existence of duplicate keys legally defeats the possession claim for any single individual, absolving both Kevin and Steve.
 
-Head-to-head:
-Option (d) is clearly the correct answer, as it accurately identifies the *Pinkerton* requirements of foreseeability and furtherance. Options (c) and (e) present explicit, cleanly locked false legal claims ("strict liability framework... automatically imputed" and "absolutely liable"). However, options (a) and (b) rely on implicit legal premises and lack absolute words. Option (a) concludes "Not guilty, because [absence of specific facts]" without explicitly asserting the false legal rule that *Pinkerton* liability requires those facts. Option (b) makes a conclusory statement that the act "broke the legal chain of causation," but lacks an absolute framing to ensure it is a universally false legal proposition rather than a highly arguable application of proximate cause. 
+Head-to-head: Option (a) correctly applies the settled legal rule that constructive possession can be held jointly and is established by the power (keys) and intent to exercise control. Option (e) is easily eliminated because it explicitly relies on a blatantly false legal premise ("strictly requires exclusive physical access"), which contradicts the core doctrine of joint possession. Options (b), (c), and (d) offer plausible factual reasons why only one or neither man might possess the drugs, but they fail to state explicitly false *legal* propositions locked with absolute terms; they rely on the word "because" to imply a false rule of exclusivity based on office location, ownership, or physical absence. To cleanly pass the close-call standard, (b), (c), and (d) should explicitly assert that these factors categorically or automatically defeat constructive possession as a matter of law.
 
 Falsifiable claim per distractor:
-- (a): "because Dominic did not personally participate in, explicitly order, or have specific advanced knowledge" — wrong because *Pinkerton* doctrine dispenses with these requirements, but the option fails to explicitly lock this as a categorical rule.
-- (b): "the murder was an independent, intervening act... that broke the legal chain of causation" — wrong because acts in furtherance of a conspiracy do not break causation under *Pinkerton*, but lacks absolute wording.
-- (c): "under the strict liability framework of enterprise law... automatically imputed" — wrong because there is no automatic strict liability framework for gang leaders; liability requires foreseeability and furtherance.
-- (e): "absolutely liable for any homicides that occur within the established geographic territory" — wrong because geographic location alone does not trigger absolute liability.
+- (b): "Only Steve constructively possessed the cocaine because the locked filing cabinet was physically located within the exclusive confines of his private... office space" — wrong because joint possession is not legally defeated by the container residing in one party's exclusive office, but the distractor lacks an absolute legal word to lock the false rule.
+- (c): "Only Kevin constructively possessed the cocaine because he was the undisputed leader..." — wrong because an underling with a key also has constructive possession, but it implies rather than explicitly states the false rule that only a financial owner can possess.
+- (d): "Neither man constructively possessed the cocaine because law enforcement executed the decisive headquarters raid when both... were completely physically absent" — wrong because constructive possession specifically applies when defendants are physically absent, though it lacks an absolute word asserting this as a strict legal requirement.
+- (e): "the doctrine strictly requires exclusive physical access, which is legally defeated whenever two or more individuals hold matching cabinet keys" — wrong because joint constructive possession is universally recognized; this option successfully locks a false legal claim with "strictly requires."
 
-Recommended fix: Add absolute wording to lock the false legal premises in (a) and (b). Change (a) to: "Not guilty, because a conspirator is never liable for substantive offenses unless they personally participate in, explicitly order, or have specific advanced knowledge of the crime." Change (b) to: "Not guilty, because a co-conspirator's independent act of murder categorically breaks the legal chain of causation from an initial drug conspiracy."
+Recommended fix: SHOULD FIX. Edit (b), (c), and (d) to explicitly state their false legal rules using absolute words. For example, edit (b) to: "Only Steve... because constructive possession categorically vests solely in the occupant of the premises"; edit (c) to: "Only Kevin... because constructive possession legally requires ultimate financial ownership"; and edit (d) to: "Neither man... because the doctrine automatically fails if the defendants are completely physically absent from the premises."
 -->

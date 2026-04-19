@@ -1,7 +1,22 @@
-<!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: The stipulation that Marcus believed it was "counterfeit Adderall (a misdemeanor)" strongly implies a look-alike fake drug containing no actual controlled substances (like caffeine or chalk). Under the Supreme Court's rule in *McFadden* and standard mens rea asymmetry for drug offenses, a defendant must know the substance is actually a *controlled substance*. If Marcus believed it was a non-controlled fake, he lacks the threshold mens rea for the severe felony entirely, making option (d) legally incorrect.
-2. Cross-Doctrine Clashes: The MPC's Lesser Legal Wrong doctrine (MPC § 2.04(2)) would normally reduce his conviction grade to the misdemeanor he thought he was committing. While option (d) and the explanation correctly rely on the fact that specific drug distribution statutes generally override this MPC default, declaring ultimate guilt without qualification invites unnecessary debate. 
-3. Cross-Question Spoilers: Q7 tests Marcus's duress claim based on Leo's threat to kill him. By using absolute declarations like "He is guilty..." in the Q6 options, the question forces students to cross-evaluate the duress claim from Q7 (which fails due to lack of imminence) just to feel safe selecting (d) in Q6. 
+**Q6.** Assume the prosecution pursues a RICO conspiracy charge under § 1962(d) against all three men for their roles in WasteCorp's operations. Under the Supreme Court's interpretation of RICO conspiracy, which legal standard applies?
 
-Recommended fix: Change the factual belief in the stem to a clear lesser controlled substance: "...genuinely believed the baggies contained a Schedule IV controlled substance (a minor offense) rather than fentanyl...". Additionally, isolate the doctrine by softening the option stems from "He is guilty of..." to "His mistake does not shield him from the severe felony charge because...". Finally, in option (d), change "substance is illicit" to "substance is a controlled substance" for precise doctrinal accuracy.
+(a) All three men are legally barred from a RICO conspiracy conviction unless the prosecution proves each man agreed to personally commit two predicate offenses.
+(b) A defendant like Luis can be guilty of a RICO conspiracy as long as he agreed to facilitate the enterprise, even if he did not agree to personally commit two predicate acts. <!-- correct -->
+(c) Only Kevin can be guilty of a RICO conspiracy, because the statute requires the defendant to be the primary director of the enterprise's illicit affairs.
+(d) A defendant like Steve is automatically guilty of a RICO conspiracy if he provides any lawful professional service to a known criminal enterprise leader.
+(e) All three men are exempt from a RICO conspiracy conviction because the enterprise was technically structured as a legitimately incorporated waste management business.
+
+**Answer:** (b)
+
+**Explanation:** Under the Supreme Court's ruling in *Salinas v. United States*, a defendant can be convicted of a RICO conspiracy under § 1962(d) even if they do not agree to personally commit two predicate acts. They need only agree to facilitate the enterprise's broader pattern of racketeering activity. Therefore, a subordinate like Luis can be liable for the conspiracy without agreeing to commit two independent predicates. (a) is wrong because *Salinas* explicitly rejected the requirement that each conspirator must personally agree to commit two predicate offenses. (c) is wrong because lower-level members and facilitators can be guilty of a RICO conspiracy; liability is not limited to the primary director. (d) is wrong because providing lawful services does not automatically constitute an agreement to join the racketeering conspiracy. (e) is wrong because the use of a legitimate incorporated business does not exempt individuals from RICO liability.
+
+**Tags:** chapters: [11], topics: [RICO conspiracy, Salinas doctrine], difficulty: medium, cognitive: application
+
+**Grounding:** RICO conspiracy; Salinas v. United States.
+
+<!-- edge-case-audit: CLEAN
+1. Fact Pattern Booby Traps: pass
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: pass
+Recommended fix: n/a
 -->
