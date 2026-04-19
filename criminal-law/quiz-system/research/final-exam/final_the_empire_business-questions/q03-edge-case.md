@@ -1,18 +1,18 @@
-**Q3.** Did Laura constructively possess the two kilograms of cocaine stored in the locked duffel bag in the breakroom?
+**Q3.** Assume the prosecution alternatively charges Laura with constructive possession of the two kilograms of cocaine stored in the breakroom. Is Laura guilty of constructive possession?
 
-(a) Possessed, because she had actual knowledge that the locked duffel bag contained cocaine and it was located in a shared employee breakroom.
-(b) Not possessed, because her explicit demand to remove the bag demonstrates she lacked the necessary intent to exercise dominion and control over it. <!-- correct -->
-(c) Possessed, because her failure to immediately report the contraband to law enforcement legally constituted an implicit adoption of Kevin's possession.
-(d) Not possessed, because a civilian employee cannot constructively possess illegal contraband when it is located inside a commercial workplace setting.
-(e) Possessed, because she engaged in an incriminating dialogue with a co-worker regarding the exact location and contents of the illicit materials.
+(a) Guilty, because she had actual knowledge that a distributable quantity of narcotics was stored in a shared employee space.
+(b) Not guilty, because her statement "get it out of the breakroom" demonstrated her lack of intent to exercise dominion and control over the drugs. <!-- correct -->
+(c) Guilty, because as the dispatcher of the facility, she had joint access to the breakroom where the duffel bag was stored.
+(d) Not guilty, because constructive possession requires physical contact with the contraband at least once before discovery by law enforcement.
+(e) Guilty, because her failure to report the narcotics to law enforcement constituted tacit approval of their continued presence.
 
 **Answer:** (b)
 
-**Explanation:** Constructive possession requires proof that the defendant both knew of the contraband's presence and had the power and intent to exercise dominion and control over it. Laura's demand that Kevin remove the bag shows she had no intent to control it, and her lack of the combination shows a lack of power. Option (a) fails because awareness of contraband in a shared space is insufficient without dominion and control. Option (c) fails because failure to report does not equate to exercising control. Option (d) fails because constructive possession applies perfectly well in commercial settings if the elements are met. Option (e) fails because while her statement proves awareness, it directly negates intent to control, rendering the statement insufficient to establish possession.
+**Explanation:** Constructive possession requires proof that the defendant knew of the contraband's presence and had both the power and the intent to exercise dominion and control over it. Laura's awareness of the drugs and her demand to remove them proved knowledge, but defeated any inference that she intended to exercise dominion and control, particularly since Kevin retained exclusive access via the lock combination. (a) is wrong because awareness of contraband in a shared space is necessary but not sufficient to prove dominion and control. (c) is wrong because shared access to the room does not establish control over a locked bag within the exclusive control of another co-occupant. (d) is wrong because constructive possession by definition does not require physical contact with the item. (e) is wrong because failure to report does not equate to the affirmative intent to control the item required for possession.
 
-**Tags:** chapters: [15], topics: [constructive possession, awareness vs dominion], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [constructive possession, awareness vs. control], difficulty: foundational, cognitive: application
 
-**Grounding:** Chapter 15 (State of Louisiana v. Gerald Manchip White)
+**Grounding:** Chapter 15, State v. White; cp-awareness-control and cp-exclusive-control refinements.
 
 <!-- edge-case-audit: CLEAN
 1. Fact Pattern Booby Traps: pass

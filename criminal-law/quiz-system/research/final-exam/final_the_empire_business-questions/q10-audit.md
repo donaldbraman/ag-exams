@@ -1,27 +1,27 @@
-**Q10.** Assume Kevin is charged with homicide and claims self-defense. Based on the facts provided, is this defense legally available to him?
+**Q10.** Assume the jurisdiction applies the majority "agency rule" for felony murder. Is Jack liable for felony murder for the death of his co-felon Kevin?
 
-(a) Available, because under the Model Penal Code, recklessly provoking a conflict does not automatically strip a defendant of the right to use deadly force. <!-- correct -->
-(b) Unavailable, because anyone who arrives at a business location with criminal intent immediately forfeits all legal rights to assert self-defense claims.
-(c) Available, because the victim's steadfast refusal to pay the required extortion money made the victim the initial aggressor as a matter of state law.
-(d) Unavailable, because the defendant was sitting in a running vehicle and therefore had an absolute legal duty to retreat safely before firing the weapon.
-(e) Available, because the defendant possessed a valid property interest in collecting the extortion debt which legally justified the use of deadly force.
+(a) Yes, because Jack set in motion the chain of events that proximately caused Kevin's death during the commission of the underlying extortion felony.
+(b) No, because under the agency rule, the fatal act must be committed by a co-felon, not by the victim or a third party resisting the felony. <!-- correct -->
+(c) Yes, because the extortion was an inherently dangerous felony that created a reasonably foreseeable risk of a lethal response from the target.
+(d) No, because the felony had already completely terminated the moment Kevin dropped the crowbar and attempted to flee from the scene.
+(e) Yes, because a boss in a criminal syndicate assumes strict liability for the deaths of any subordinates carrying out his explicit orders.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Under MPC § 3.04(2)(b)(i), a defendant loses the right to use deadly force in self-defense only if they provoked the use of force against themselves *with the purpose* of causing death or serious bodily injury. Kevin only "consciously disregarded the substantial... risk" (recklessness), so he did not forfeit the defense under the MPC, especially when Matthew suddenly escalated the encounter with a deadly weapon (the bat). Option (b) fails because criminal intent alone does not forfeit self-defense unless it manifests as an initial aggressive physical act. Option (c) fails because refusing to pay extortion is entirely lawful and does not make one an aggressor. Option (d) fails because a sudden attack with a baseball bat through a window often eliminates the ability to safely retreat. Option (e) fails because deadly force cannot be used merely to protect or collect property.
+**Explanation:** The majority "agency rule" for felony murder limits liability to deaths caused by the felons themselves or their agents. If a victim or police officer fires the fatal shot, the felons are not liable for felony murder because the shooter is not their agent. (a) is wrong because it describes the minority "proximate cause" theory of felony murder, not the agency rule requested by the stem. (c) is wrong because foreseeability alone does not satisfy the agency rule's strict requirement regarding who fired the fatal shot. (d) is wrong because fleeing the scene is generally considered part of the *res gestae* of the felony, but Jack avoids liability due to the identity of the shooter, not the timing. (e) is wrong because felony murder requires a specific causal and agency connection, not general strict liability for syndicate bosses.
 
-**Tags:** chapters: [8], topics: [self-defense, initial aggressor, provocation], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [14], topics: [felony murder, agency rule, limits], difficulty: intermediate, cognitive: application
 
-**Grounding:** General Justification Defenses (MPC 3.04 Provocation Exception)
+**Grounding:** Chapter 14, felony murder agency limitation.
 
 <!-- audit: MUST FIX
 Check 1: pass
 Check 2: pass
 Check 3: pass
-Check 4: Fails. The stem refers to "the facts provided" but contains no actual facts. It appears to be a dependent question detached from its fact pattern, as the options and explanation reference characters and events (Matthew, an extortion debt, a baseball bat, a running vehicle) that do not appear in the prompt.
+Check 4: The question completely lacks a fact pattern. The stem references Jack, Kevin, an extortion felony, and a crowbar, but none of these facts are provided in the text. A student cannot determine who committed the fatal act without the facts.
 Check 5: pass
 Check 6: pass
 Check 7: pass
 Check 8: pass
-Recommended fix: Integrate the missing fact pattern into the stem, detailing the extortion attempt, Kevin's reckless provocation, Matthew's attack with the baseball bat, and Kevin's position in the vehicle.
+Recommended fix: Add the missing fact pattern to the question stem, explicitly detailing the extortion attempt, Jack and Kevin's roles, and that a victim or third party fired the fatal shot that killed Kevin.
 -->

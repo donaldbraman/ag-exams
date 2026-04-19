@@ -1,17 +1,17 @@
-**Q12.** Assume Kevin is charged under a standard felony murder statute. Is he guilty of felony murder?
+**Q12.** Assume Matthew cannot claim self-defense and is convicted of homicide. Could Matthew successfully mitigate the charge to voluntary manslaughter under the common law "heat of passion" doctrine?
 
-(a) Guilty, because the fatal shooting occurred during the attempted commission of extortion, which qualifies as an inherently dangerous predicate felony. <!-- correct -->
-(b) Not guilty, because the felony murder doctrine only applies when the deceased victim is an innocent bystander rather than the target of the underlying felony.
-(c) Guilty, because any death that occurs while a criminal defendant is armed with a loaded firearm is strictly classified as felony murder under the common law.
-(d) Not guilty, because the defendant had not yet shattered the windows or obtained the money, meaning the predicate felony had not legally commenced.
-(e) Guilty, because the independent felony of illegal firearm possession merges with the homicide to create an automatic felony murder liability enhancement.
+(a) Yes, because the terror of an armed extortion attempt is adequate provocation to cause a reasonable person to lose self-control and overreact. <!-- correct -->
+(b) No, because mere words, such as Matthew's statement about ending the cartel threat, are insufficient provocation as a matter of law.
+(c) Yes, because Matthew's trembling hands and flushed face provide objective proof that he lacked the necessary mens rea for a murder conviction.
+(d) No, because shooting a fleeing person in the back demonstrates cold calculation, which strictly precludes any heat of passion mitigation defense.
+(e) Yes, because any killing committed with an honest belief in the need for self-defense automatically mitigates murder to manslaughter in all jurisdictions.
 
 **Answer:** (a)
 
-**Explanation:** The felony murder rule applies when a death occurs during the commission or attempted commission of an inherently dangerous felony. Extortion (and the violent attempt to enforce it) qualifies. Option (b) fails because felony murder applies regardless of whether the victim is a bystander or the intended target of the predicate felony. Option (c) fails because felony murder requires an underlying predicate felony, not merely being armed. Option (d) fails because an *attempt* to commit the predicate felony is legally sufficient to trigger the felony murder rule. Option (e) fails because possession of a firearm typically merges into the homicide or is not considered an independent inherently dangerous felony supporting the rule under the merger doctrine.
+**Explanation:** Voluntary manslaughter under the heat of passion doctrine requires actual provocation that would cause a reasonable person to lose self-control and act out of intense emotion (anger, terror, or fear) before a cooling-off period has occurred. Being targeted for violent extortion and confronted by a masked, armed attacker qualifies as legally adequate provocation. (b) is wrong because the provocation was Kevin's armed approach, not Matthew's own words. (c) is wrong because heat of passion is an affirmative mitigation that reduces the grade of homicide, not a negation of the intent to kill (mens rea for murder). (d) is wrong because a person in the grip of intense terror or rage might still shoot a fleeing attacker; the doctrine specifically accommodates lethal overreactions triggered by adequate provocation. (e) is wrong because this describes "imperfect self-defense," which is a distinct doctrine from the provocation/heat of passion defense and is not universally adopted.
 
-**Tags:** chapters: [5], topics: [felony murder, attempt as predicate], difficulty: easy, cognitive: application
+**Tags:** chapters: [14], topics: [voluntary manslaughter, heat of passion, adequate provocation], difficulty: intermediate, cognitive: application
 
-**Grounding:** General Homicide Doctrine (Felony Murder Predicates)
+**Grounding:** Chapter 14, common law voluntary manslaughter / adequate provocation.
 
-<!-- GROUNDING-FAIL: felony murder is not in any chapter map. The closest taught doctrines are: N/A (meta-map artifact missing). Correct answer must rely on one of those instead. -->
+<!-- grounding: GROUNDED — heat of passion / adequate provocation, Ch 14, Refinement `heat-of-passion`. Rule paraphrased accurately. -->

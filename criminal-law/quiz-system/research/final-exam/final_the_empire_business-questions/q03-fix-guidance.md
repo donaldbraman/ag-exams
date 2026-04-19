@@ -2,106 +2,126 @@
 
 The QA pipeline flagged this question. Rewrite `q03.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — audit
+## Issue 1 — grounding
 
-**Q3.** Did Laura constructively possess the two kilograms of cocaine stored in the locked duffel bag in the breakroom?
+**Q3.** The government charges Laura with constructive possession of the two kilograms of cocaine found in the breakroom duffel bag. Will this charge succeed?
 
-(a) Possessed, because she had actual knowledge that the locked duffel bag contained cocaine and it was located in a shared employee breakroom.
-(b) Not possessed, because her explicit demand to remove the bag demonstrates she lacked the necessary intent to exercise dominion and control over it. <!-- correct -->
-(c) Possessed, because her failure to immediately report the contraband to law enforcement legally constituted an implicit adoption of Kevin's possession.
-(d) Not possessed, because a civilian employee cannot constructively possess illegal contraband when it is located inside a commercial workplace setting.
-(e) Possessed, because she engaged in an incriminating dialogue with a co-worker regarding the exact location and contents of the illicit materials.
+(a) Yes, because her explicit verbal demand to Kevin to remove the bag conclusively establishes her awareness of the presence and illegal nature of the contraband.
+(b) No, because her explicit verbal demand to Kevin demonstrates that she legally abandoned any prior property interest she might have held in the illicit substance.
+(c) Yes, because as a salaried dispatcher sharing the breakroom, she possessed joint proximity to the contraband within a communal workspace environment.
+(d) No, because mere awareness of contraband in a shared space does not establish the requisite intent to exercise dominion and control over it. <!-- correct -->
+(e) Yes, because her failure to physically remove the bag or report it to authorities constitutes a silent ratification of Kevin's possession in the shared space.
 
-**Answer:** (b)
+**Answer:** (d)
 
-**Explanation:** Constructive possession requires proof that the defendant both knew of the contraband's presence and had the power and intent to exercise dominion and control over it. Laura's demand that Kevin remove the bag shows she had no intent to control it, and her lack of the combination shows a lack of power. Option (a) fails because awareness of contraband in a shared space is insufficient without dominion and control. Option (c) fails because failure to report does not equate to exercising control. Option (d) fails because constructive possession applies perfectly well in commercial settings if the elements are met. Option (e) fails because while her statement proves awareness, it directly negates intent to control, rendering the statement insufficient to establish possession.
+**Explanation:** The correct answer is (d). Constructive possession requires proof that the defendant both knew of the contraband and had the power and intent to exercise dominion and control over it. Laura's statement ("I know what's in that bag") proves awareness, but she had no access to the locked bag and explicitly disclaimed control, negating the dominion element. (a) is wrong because awareness of contraband is necessary but not sufficient; the government must also prove dominion and control (*White*). (b) is wrong because abandonment requires relinquishing prior control, which she never had to begin with. (c) is wrong because proximity to contraband in a shared space never satisfies the test for constructive possession (*Jenkins*). (e) is wrong because failure to report does not legally establish the intent to exercise dominion and control over someone else's locked property.
 
 **Tags:** chapters: [15], topics: [constructive possession, awareness vs dominion], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15 (State of Louisiana v. Gerald Manchip White)
+**Grounding:** Chapter 15, Constructive Possession (cp-awareness-control; State v. White)
+
+<!-- GROUNDING-FAIL: constructive possession is not in any chapter map. The closest taught doctrines are: none available (meta-map artifact missing). Correct answer must rely on one of those instead. -->
+
+## Issue 2 — audit
+
+**Q3.** The government charges Laura with constructive possession of the two kilograms of cocaine found in the breakroom duffel bag. Will this charge succeed?
+
+(a) Yes, because her explicit verbal demand to Kevin to remove the bag conclusively establishes her awareness of the presence and illegal nature of the contraband.
+(b) No, because her explicit verbal demand to Kevin demonstrates that she legally abandoned any prior property interest she might have held in the illicit substance.
+(c) Yes, because as a salaried dispatcher sharing the breakroom, she possessed joint proximity to the contraband within a communal workspace environment.
+(d) No, because mere awareness of contraband in a shared space does not establish the requisite intent to exercise dominion and control over it. <!-- correct -->
+(e) Yes, because her failure to physically remove the bag or report it to authorities constitutes a silent ratification of Kevin's possession in the shared space.
+
+**Answer:** (d)
+
+**Explanation:** The correct answer is (d). Constructive possession requires proof that the defendant both knew of the contraband and had the power and intent to exercise dominion and control over it. Laura's statement ("I know what's in that bag") proves awareness, but she had no access to the locked bag and explicitly disclaimed control, negating the dominion element. (a) is wrong because awareness of contraband is necessary but not sufficient; the government must also prove dominion and control (*White*). (b) is wrong because abandonment requires relinquishing prior control, which she never had to begin with. (c) is wrong because proximity to contraband in a shared space never satisfies the test for constructive possession (*Jenkins*). (e) is wrong because failure to report does not legally establish the intent to exercise dominion and control over someone else's locked property.
+
+**Tags:** chapters: [15], topics: [constructive possession, awareness vs dominion], difficulty: medium, cognitive: application
+
+**Grounding:** Chapter 15, Constructive Possession (cp-awareness-control; State v. White)
 
 <!-- audit: MUST FIX
-Check 1: pass (The legal rule for constructive possession in the explanation is accurate).
-Check 2: pass (Assuming the facts align with the explanation, the distractors rely on legally incorrect doctrines).
-Check 3: pass (The explanation correctly applies the dominion and control standard).
-Check 4: MUST FIX. The question stem is entirely missing the fact pattern. It references "Laura," "Kevin," a "locked duffel bag," "the breakroom," and an "explicit demand," but absolutely none of these facts are provided in the prompt. Students have nothing to read to answer the question.
-Check 5: pass (Constructive possession is standard doctrine; no specific jurisdictional split needs resolving here).
-Check 6: pass (No excluded-topic bleed).
-Check 7: pass (Constructive possession is standard Chapter 15 material).
-Check 8: pass (Options are symmetrical in length and structure).
-Recommended fix: Add the missing factual scenario detailing Laura and Kevin's interaction in the breakroom, Laura's lack of the bag's combination, and her explicit demand that he remove it, immediately before the question stub.
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: MUST FIX - The question stem is entirely missing the underlying fact pattern. It references Laura, a breakroom duffel bag, and two kilograms of cocaine, but the answer choices and explanation rely on numerous unstated facts (e.g., an explicit verbal demand to Kevin, her status as a dispatcher, a locked bag, etc.) that the student has no access to.
+check 5: pass
+check 6: pass
+check 7: pass
+check 8: pass
+Recommended fix: Incorporate the missing scenario facts directly into the question stem (e.g., "Laura, a salaried dispatcher, shares a breakroom with her co-worker Kevin. Kevin places a locked duffel bag...").
 -->
 
-## Issue 2 — argpass-sonnet
+## Issue 3 — argpass-sonnet
 
-**Q3.** Did Laura constructively possess the two kilograms of cocaine stored in the locked duffel bag in the breakroom?
+**Q3.** The government charges Laura with constructive possession of the two kilograms of cocaine found in the breakroom duffel bag. Will this charge succeed?
 
-(a) Possessed, because she had actual knowledge that the locked duffel bag contained cocaine and it was located in a shared employee breakroom.
-(b) Not possessed, because her explicit demand to remove the bag demonstrates she lacked the necessary intent to exercise dominion and control over it. <!-- correct -->
-(c) Possessed, because her failure to immediately report the contraband to law enforcement legally constituted an implicit adoption of Kevin's possession.
-(d) Not possessed, because a civilian employee cannot constructively possess illegal contraband when it is located inside a commercial workplace setting.
-(e) Possessed, because she engaged in an incriminating dialogue with a co-worker regarding the exact location and contents of the illicit materials.
+(a) Yes, because her explicit verbal demand to Kevin to remove the bag conclusively establishes her awareness of the presence and illegal nature of the contraband.
+(b) No, because her explicit verbal demand to Kevin demonstrates that she legally abandoned any prior property interest she might have held in the illicit substance.
+(c) Yes, because as a salaried dispatcher sharing the breakroom, she possessed joint proximity to the contraband within a communal workspace environment.
+(d) No, because mere awareness of contraband in a shared space does not establish the requisite intent to exercise dominion and control over it. <!-- correct -->
+(e) Yes, because her failure to physically remove the bag or report it to authorities constitutes a silent ratification of Kevin's possession in the shared space.
 
-**Answer:** (b)
+**Answer:** (d)
 
-**Explanation:** Constructive possession requires proof that the defendant both knew of the contraband's presence and had the power and intent to exercise dominion and control over it. Laura's demand that Kevin remove the bag shows she had no intent to control it, and her lack of the combination shows a lack of power. Option (a) fails because awareness of contraband in a shared space is insufficient without dominion and control. Option (c) fails because failure to report does not equate to exercising control. Option (d) fails because constructive possession applies perfectly well in commercial settings if the elements are met. Option (e) fails because while her statement proves awareness, it directly negates intent to control, rendering the statement insufficient to establish possession.
+**Explanation:** The correct answer is (d). Constructive possession requires proof that the defendant both knew of the contraband and had the power and intent to exercise dominion and control over it. Laura's statement ("I know what's in that bag") proves awareness, but she had no access to the locked bag and explicitly disclaimed control, negating the dominion element. (a) is wrong because awareness of contraband is necessary but not sufficient; the government must also prove dominion and control (*White*). (b) is wrong because abandonment requires relinquishing prior control, which she never had to begin with. (c) is wrong because proximity to contraband in a shared space never satisfies the test for constructive possession (*Jenkins*). (e) is wrong because failure to report does not legally establish the intent to exercise dominion and control over someone else's locked property.
 
 **Tags:** chapters: [15], topics: [constructive possession, awareness vs dominion], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15 (State of Louisiana v. Gerald Manchip White)
+**Grounding:** Chapter 15, Constructive Possession (cp-awareness-control; State v. White)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that actual knowledge combined with proximity in a jointly occupied space gives rise to a presumption of constructive possession. Under some interpretations, knowing contraband is in a shared area and failing to remove oneself establishes sufficient nexus to the illicit goods. Therefore, Laura's awareness and the bag's location in a space she had access to could be seen as satisfying the elements of possession.
-(b) Argument-for: Constructive possession requires both the power and the intent to exercise dominion and control over the contraband. The facts indicate Laura explicitly demanded that Kevin remove the bag, demonstrating her rejection of the item rather than an intent to control it. Mere knowledge of its presence without the requisite intent or capability (since it was locked and she lacked the combination) means she cannot be held to have constructively possessed it, making this clearly correct.
-(c) Argument-for: A student could contend that in certain legal contexts, failing to report known contraband constitutes an act of harboring or adopting possession. By knowing of the cocaine and choosing not to notify law enforcement, Laura arguably acquiesced to its presence on the premises. This "implicit adoption" could be misconstrued as exercising a form of dominion, fulfilling the requirements for constructive possession.
-(d) Argument-for: A student could argue that constructive possession doctrine is traditionally applied to residential settings, vehicles, or personal items, rather than commercial workplaces where employees lack general dominion over the premises. Because an ordinary civilian employee does not have authority over a shared commercial breakroom in the same way a homeowner does over a living room, they might mistakenly believe an employee categorically cannot form constructive possession over items left there.
-(e) Argument-for: Engaging in an "incriminating dialogue" about the location and contents of the bag demonstrates a high degree of specific knowledge. A student might argue that such detailed knowledge proves Laura was involved in the possession enterprise with Kevin. In drug cases, detailed discussions about the contraband are often used as circumstantial evidence of dominion and control, making this option a plausible trap.
+(a) Argument-for: A student could argue that Laura's demand to Kevin shows she exercised authority over the communal space, attempting to dictate what happens to the bag. Furthermore, her statement proves she met the mens rea requirement for knowing possession. Because she knew about the drugs and attempted to control their presence in her workspace, the "Yes" conclusion is arguably correct. A student might conflate this workspace authority with dominion over the item itself.
+(b) Argument-for: Abandonment is a valid defense when a person relinquishes rights over an item. A student might argue that even if Laura's joint access to the room created an initial inference of joint possession, her explicit demand severed that legal nexus. By ordering it removed, she legally "abandoned" any claim to the drugs. Therefore, the charge must fail, resulting in a correct "No" based on the abandonment doctrine.
+(c) Argument-for: In shared premises, joint control can sometimes create an inference of joint constructive possession. A student could argue that as a salaried dispatcher with shared dominion over the breakroom, Laura possesses joint proximity to the contraband. They might conclude that this communal workspace environment naturally extends possession to all occupants aware of the illicit substance. Thus, her mere presence and status in the shared space satisfies the elements.
+(d) Argument-for: The keyed answer correctly articulates the doctrine of constructive possession. Dominion and control require both the power and the intent to exercise control over the item. Mere proximity or awareness, particularly when the item is controlled by someone else and the defendant lacks access, is legally insufficient. Her explicit demand to remove the bag further demonstrates a lack of intent to exercise dominion over it.
+(e) Argument-for: Under certain complicity or omission theories, a student might argue that failing to report known contraband in a space one partially controls implies consent. By allowing the drugs to remain without calling authorities, Laura effectively permitted the possession within her sphere of influence. This failure to act could be viewed as a "silent ratification" of Kevin's possession. Consequently, a student could incorrectly deduce that this shared responsibility justifies a constructive possession charge.
 
-Head-to-head: Option (b) is the clear winner because it correctly applies the rule of constructive possession, explicitly noting that her demand to remove the bag negates the intent to exercise dominion and control. Options (c) and (d) are strong distractors because they contain explicitly false legal claims ("legally constituted an implicit adoption" and "cannot constructively possess"). However, Options (a) and (e) are weaker distractors under the close-call standard because they lack absolute phrasing. They simply state "Possessed, because [Fact]," relying on the *implicit omission* of the dominion/control requirement rather than an explicitly false, falsifiable legal rule.
+Head-to-head: Option (d) correctly zeroes in on the dual requirements of constructive possession—knowledge plus dominion and control—and accurately notes that mere awareness in a shared space is legally insufficient. Option (b) fails because legal abandonment requires relinquishing an existing interest, which Laura never had. Option (e) invents a legally false doctrine of "silent ratification." However, Options (a) and (c) are weaker distractors under the close-call standard because they rely on implicit omissions. They state facts (awareness and proximity) that are true but legally insufficient, without making an explicit false legal claim to justify the "Yes" conclusion.
 
 Falsifiable claim per distractor:
-- (a): "Possessed, because she had actual knowledge..." — wrong because knowledge without intent/power to control is insufficient. However, this FAILS the close-call standard because it lacks an absolute word (like "solely") to make the legal claim explicitly false rather than just incomplete.
-- (c): "legally constituted an implicit adoption" — wrong because there is no legal doctrine where failure to report automatically constitutes an adoption of possession.
-- (d): "cannot constructively possess... inside a commercial workplace setting" — wrong because constructive possession can occur in commercial settings.
-- (e): "Possessed, because she engaged in an incriminating dialogue..." — wrong because dialogue alone doesn't establish dominion. Like (a), this FAILS the close-call standard as it lacks an absolute word, relying on implied sufficiency.
+- (a): "conclusively establishes her awareness" — wrong because it relies on an implicit omission (ignoring the dominion/control requirement) to justify the "Yes," rather than stating an explicitly false legal rule.
+- (b): "legally abandoned any prior property interest" — wrong because she never had a property interest or control to legally abandon in the first place.
+- (c): "possessed joint proximity" — wrong because it relies on an implicit omission (treating proximity as legally sufficient for possession) rather than explicitly stating it is categorically sufficient.
+- (e): "constitutes a silent ratification" — wrong because "silent ratification" through failure to report is legally insufficient to establish the intent to exercise dominion and control over another's locked property.
 
-Recommended fix: Add absolute words to (a) and (e) to lock their false legal claims.
-Change (a) to: "Possessed, solely because she had actual knowledge that the locked duffel bag contained cocaine and it was located in a shared employee breakroom."
-Change (e) to: "Possessed, because engaging in an incriminating dialogue with a co-worker regarding illicit materials automatically establishes dominion and control."
+Recommended fix: To meet the close-call standard by locking false claims with absolute words, edit (a) to: "Yes, because her explicit verbal demand to Kevin automatically establishes the requisite dominion and control, regardless of physical access." Edit (c) to: "Yes, because her status as an employee sharing the breakroom categorically establishes joint constructive possession based solely on proximity."
 -->
 
-## Issue 3 — argpass-opus
+## Issue 4 — argpass-opus
 
-**Q3.** Did Laura constructively possess the two kilograms of cocaine stored in the locked duffel bag in the breakroom?
+**Q3.** The government charges Laura with constructive possession of the two kilograms of cocaine found in the breakroom duffel bag. Will this charge succeed?
 
-(a) Possessed, because she had actual knowledge that the locked duffel bag contained cocaine and it was located in a shared employee breakroom.
-(b) Not possessed, because her explicit demand to remove the bag demonstrates she lacked the necessary intent to exercise dominion and control over it. <!-- correct -->
-(c) Possessed, because her failure to immediately report the contraband to law enforcement legally constituted an implicit adoption of Kevin's possession.
-(d) Not possessed, because a civilian employee cannot constructively possess illegal contraband when it is located inside a commercial workplace setting.
-(e) Possessed, because she engaged in an incriminating dialogue with a co-worker regarding the exact location and contents of the illicit materials.
+(a) Yes, because her explicit verbal demand to Kevin to remove the bag conclusively establishes her awareness of the presence and illegal nature of the contraband.
+(b) No, because her explicit verbal demand to Kevin demonstrates that she legally abandoned any prior property interest she might have held in the illicit substance.
+(c) Yes, because as a salaried dispatcher sharing the breakroom, she possessed joint proximity to the contraband within a communal workspace environment.
+(d) No, because mere awareness of contraband in a shared space does not establish the requisite intent to exercise dominion and control over it. <!-- correct -->
+(e) Yes, because her failure to physically remove the bag or report it to authorities constitutes a silent ratification of Kevin's possession in the shared space.
 
-**Answer:** (b)
+**Answer:** (d)
 
-**Explanation:** Constructive possession requires proof that the defendant both knew of the contraband's presence and had the power and intent to exercise dominion and control over it. Laura's demand that Kevin remove the bag shows she had no intent to control it, and her lack of the combination shows a lack of power. Option (a) fails because awareness of contraband in a shared space is insufficient without dominion and control. Option (c) fails because failure to report does not equate to exercising control. Option (d) fails because constructive possession applies perfectly well in commercial settings if the elements are met. Option (e) fails because while her statement proves awareness, it directly negates intent to control, rendering the statement insufficient to establish possession.
+**Explanation:** The correct answer is (d). Constructive possession requires proof that the defendant both knew of the contraband and had the power and intent to exercise dominion and control over it. Laura's statement ("I know what's in that bag") proves awareness, but she had no access to the locked bag and explicitly disclaimed control, negating the dominion element. (a) is wrong because awareness of contraband is necessary but not sufficient; the government must also prove dominion and control (*White*). (b) is wrong because abandonment requires relinquishing prior control, which she never had to begin with. (c) is wrong because proximity to contraband in a shared space never satisfies the test for constructive possession (*Jenkins*). (e) is wrong because failure to report does not legally establish the intent to exercise dominion and control over someone else's locked property.
 
 **Tags:** chapters: [15], topics: [constructive possession, awareness vs dominion], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15 (State of Louisiana v. Gerald Manchip White)
+**Grounding:** Chapter 15, Constructive Possession (cp-awareness-control; State v. White)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that actual knowledge combined with the contraband being in a shared employee space (over which she has some level of workplace access) establishes constructive possession. In some jurisdictions, proximity and knowledge in a jointly accessible area might allow an inference of control. Therefore, option (a) correctly identifies her knowledge and the shared nature of the room as establishing the necessary elements of constructive possession.
-(b) Argument-for: Constructive possession requires not just knowledge, but the power and intent to exercise dominion and control over the contraband. The facts state Laura explicitly demanded Kevin remove the bag, which directly negates any intent to control the cocaine. Because she overtly rejected the contraband and lacked the ability to access it (locked bag), she did not have constructive possession, making this the correct application of the rule.
-(c) Argument-for: A student might argue that under the doctrine of omission or accomplice liability, failing to report known felonies or contraband in one's own domain can constitute legal adoption of the crime. Since she knew of the massive quantity of cocaine in her workplace and did nothing to alert authorities, her silence operated as tacit consent and an implicit adoption of Kevin's possession, establishing her own constructive possession.
-(d) Argument-for: A student could argue that constructive possession requires a level of exclusive or residential control (like a home or personal vehicle) that a low-level civilian employee simply does not possess over a commercial workplace breakroom. Because the breakroom is a commercial space controlled by the employer, an ordinary employee as a matter of law cannot exercise the requisite dominion and control to constructively possess items left there by others.
-(e) Argument-for: A student could argue that an incriminating dialogue regarding the exact location and contents of the illicit materials shows more than mere presence; it shows active engagement and intimate knowledge of the contraband operation. By discussing the illicit materials in detail, Laura demonstrated the kind of insider knowledge that courts often use to infer an intent and ability to exercise dominion and control over the drugs.
+(a) Argument-for: An advocate could argue that constructive possession hinges heavily on *mens rea* and knowing involvement with contraband. Laura’s explicit statement that she knows what is in the bag proves she possesses actual awareness of the illicit substance. Because she works in the immediate vicinity of the bag and acknowledges its contents, a jury could infer she is a knowing participant in its presence. Therefore, this conclusively establishes the awareness necessary to support a conviction under a broad interpretation of knowing possession.
+(b) Argument-for: An advocate could argue that avoiding a constructive possession charge requires an affirmative disavowal of the contraband. By explicitly demanding Kevin remove the bag, Laura performed a legally operative act of rejecting the item. This overt demand acts as a legal abandonment of any presumed or inadvertent property interest she might have acquired by virtue of sharing the breakroom. Consequently, her active refusal legally shields her from the charge.
+(c) Argument-for: An advocate could assert that the legal concept of joint constructive possession applies strongly in communal, shared workspaces. As a salaried dispatcher, Laura had regular, authorized access to the breakroom where the drugs were stored. This shared access grants her joint proximity and a degree of inherent control over the environment itself. Under premises liability and joint access theories, a trier of fact could conclude she possessed the requisite power over the space to satisfy the possession element.
+(d) Argument-for: This argument relies on the well-established doctrine that constructive possession requires both knowledge of the contraband and the power and intent to exercise dominion and control over it. Laura’s statement establishes her knowledge, but her lack of access to the locked bag negates her power to control it. Furthermore, her explicit demand that Kevin remove the bag firmly negates any intent to exercise dominion over it. Mere awareness of contraband in a shared space is legally insufficient, making this the demonstrably correct conclusion.
+(e) Argument-for: An advocate could argue that an employee who fails to report known contraband in their workplace implicitly accepts its presence. Since Laura is a salaried dispatcher sharing the breakroom, she arguably had a duty or the authority to govern items in her workspace. Her failure to physically remove the bag or contact the authorities amounts to a silent ratification of Kevin's illegal possession. This acquiescence in a shared domain could legally be construed as adopting constructive possession of the contraband.
 
-Head-to-head: Option (b) is the clear winner because it correctly applies the rule for constructive possession—requiring intent to exercise dominion and control—which Laura explicitly negated by demanding the bag's removal. Options (c) and (d) contain explicitly false legal claims: (c) invents an "implicit adoption" doctrine for failing to report, and (d) invents a categorical exception for "commercial workplace settings." However, options (a) and (e) simply present true facts (actual knowledge, shared breakroom, incriminating dialogue) and conclude they equal possession. They rely on implicit omissions of the dominion/control element rather than asserting an explicit, falsifiable legal claim locked by an absolute word.
+Head-to-head: Option (d) is definitively correct because it perfectly states the prevailing legal rule: constructive possession requires dominion and control, not just awareness. However, distractors (a) and (c) fail the strict "close-call standard" because they rely on implicit omissions. They correctly state that Laura had awareness and proximity, respectively, and then wrongly conclude "Yes" without explicitly stating a false legal rule (e.g., that awareness *alone* is sufficient). Option (b) fails because it asserts the abandonment of a property interest the prompt facts show she never possessed. Option (e) uses a fabricated legal standard ("silent ratification"). 
 
 Falsifiable claim per distractor:
-- (a): "Possessed, because she had actual knowledge..." — wrong because knowledge and proximity do not equal dominion and control, but relies on an implicit omission rather than an explicit false claim.
-- (c): "legally constituted an implicit adoption" — wrong because there is no legal doctrine where failure to report contraband constitutes an implicit adoption of possession.
-- (d): "cannot constructively possess illegal contraband when it is located inside a commercial workplace setting" — wrong because constructive possession absolutely can apply in commercial settings.
-- (e): "Possessed, because she engaged in an incriminating dialogue" — wrong because dialogue alone doesn't prove control, but like (a), relies on an implicit omission rather than an absolute, locked falsifiable claim.
+- (a): "conclusively establishes her awareness" — wrong because it relies on the implicit omission that establishing awareness is legally sufficient to secure a conviction, which it is not (fails the explicit false claim standard).
+- (b): "legally abandoned any prior property interest" — wrong because one cannot legally abandon a property interest in a locked bag they never owned or possessed to begin with.
+- (c): "she possessed joint proximity" — wrong because it relies on the implicit omission that joint proximity alone legally satisfies the standard for constructive possession (fails the explicit false claim standard).
+- (e): "constitutes a silent ratification of Kevin's possession" — wrong because criminal constructive possession requires affirmative intent to exercise dominion and control, not a "silent ratification" or failure to report.
 
-Recommended fix: Add absolute words to (a) and (e) to lock their falsifiable claims. For (a), edit to: "Possessed, solely because she had actual knowledge..." For (e), edit to: "Possessed, because engaging in an incriminating dialogue automatically establishes constructive possession."
+Recommended fix: Add absolute wording to (a) and (c) to lock in explicit false legal claims. 
+Change (a) to: "Yes, because her explicit verbal demand to Kevin conclusively establishes her awareness, which automatically satisfies the elements of constructive possession regardless of dominion."
+Change (c) to: "Yes, because joint proximity to contraband within a communal workspace categorically establishes constructive possession in every jurisdiction."
 -->

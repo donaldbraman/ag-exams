@@ -1,27 +1,27 @@
-**Q4.** Can Kevin be convicted of possession with intent to distribute based solely on the discovery of the locked duffel bag?
+**Q4.** Assume Kevin is charged under 18 U.S.C. § 924(c) for "using" a firearm during and in relation to a drug trafficking crime based on his October 1 exchange with the rival syndicate member. Is Kevin guilty of this offense?
 
-(a) Guilty, because the sheer quantity of two kilograms of cocaine allows a reasonable jury to infer that the defendant possessed an intent to distribute it. <!-- correct -->
-(b) Not guilty, because the government must prove an actual completed transaction occurred to satisfy the statutory elements of an intent to distribute.
-(c) Guilty, because storing any measurable amount of a controlled substance inside a commercial facility constitutes distribution per se under federal law.
-(d) Not guilty, because the narcotics were securely locked inside a duffel bag, physically preventing any immediate distribution to third-party buyers.
-(e) Guilty, because Kevin's formal status as a corporate route supervisor imposes strict liability for all illicit inventory found on the business premises.
+(a) Guilty, because trading narcotics for a firearm inherently involves the firearm in a drug trafficking transaction under the statute.
+(b) Not guilty, because under Watson, a person who receives a firearm in exchange for drugs does not "use" the firearm within the meaning of the statute. <!-- correct -->
+(c) Guilty, because he actively employed the firearm as an item of barter and commerce during the transaction with the rival.
+(d) Not guilty, because Justice Ginsburg's concurrence establishes that the definition of "use" only applies when a firearm is deployed as a weapon.
+(e) Guilty, because possessing the firearm immediately after the transaction automatically constitutes carrying it during the underlying offense.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** In most jurisdictions, possession of a quantity of narcotics far exceeding what a single person could consume (such as two kilograms of cocaine) is legally sufficient to allow a jury to infer an intent to distribute. Option (b) fails because the crime is *intent* to distribute, which can be proved circumstantially without an actual transaction. Option (c) fails because there is no such per se commercial facility rule; mere possession of user quantities in a business is simple possession. Option (d) fails because temporary physical barriers to immediate distribution (like a lock) do not negate the underlying intent to distribute the contents eventually. Option (e) fails because criminal possession requires specific elements, not strict liability based on a job title.
+**Explanation:** Under *Watson v. United States*, a defendant who trades drugs to acquire a gun does not "use" a firearm under § 924(c); only the party tendering the gun uses it as currency. The receiving party is merely receiving consideration. (a) is wrong because it ignores the Supreme Court's specific limitation on the definition of "use" for the receiving party in a drug-for-gun trade. (c) is wrong because this describes the rule from *Smith v. United States* (trading a gun for drugs), which is the exact opposite of what Kevin did. (d) is wrong because Justice Ginsburg's "use as weapon only" reading was a concurrence and is not binding law; the *Smith* rule permitting use as currency remains intact. (e) is wrong because the question specifically asks about the "use" prong, and mere possession after the transaction does not retroactively constitute "using" it as currency during the trade.
 
-**Tags:** chapters: [15], topics: [possession with intent to distribute, quantity proxy], difficulty: easy, cognitive: application
+**Tags:** chapters: [15], topics: [924(c), use of a firearm], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 15 (Quantity as Proxy for Distribution Intent)
+**Grounding:** Chapter 15, Watson v. United States; use-924c-trading-drugs-for-gun refinement.
 
-<!-- audit: MUST FIX
-Check 1: pass
-Check 2: pass
-Check 3: pass
-Check 4: The question entirely lacks a factual stem. It refers to "Kevin" and "the locked duffel bag" (and the answer choices reference "two kilograms of cocaine" and a "corporate route supervisor"), but provides no scenario establishing Kevin's actual or constructive possession of the bag or what was inside it.
-Check 5: pass
-Check 6: pass
-Check 7: pass
-Check 8: pass
-Recommended fix: Provide the missing fact pattern establishing Kevin's situation, his relationship to the bag, and the contents of the bag (or ensure this question is appropriately paired with the common fact pattern it references).
+<!-- audit: SHOULD FIX
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: fail. The stem refers to "his October 1 exchange" but omits the actual facts of what was exchanged for what. While it likely relies on a master fact pattern, the question should briefly recap the relevant facts to ensure it stands alone and minimizes cross-referencing.
+check 5: pass
+check 6: pass
+check 7: pass
+check 8: pass
+Recommended fix: Add a brief factual appositive to the stem: "...based on his October 1 exchange with the rival syndicate member, in which he received a firearm in exchange for narcotics."
 -->

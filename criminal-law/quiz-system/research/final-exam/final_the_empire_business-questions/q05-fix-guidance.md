@@ -4,66 +4,66 @@ The QA pipeline flagged this question. Rewrite `q05.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q5.** Did Kevin "use" a firearm during and in relation to a drug trafficking crime under 18 U.S.C. § 924(c) during the October 1 transaction?
+**Q5.** Assume that, whether or not Kevin "used" the firearm on October 1, he is charged with being a felon in possession of a firearm under 18 U.S.C. § 922(g). Kevin argues he cannot be convicted because he genuinely believed his attorney's email stating he was not a felon. Will this argument succeed?
 
-(a) Guilty, because offering and delivering narcotics to acquire a deadly weapon constitutes the active employment of the firearm in a drug transaction.
-(b) Not guilty, because under binding precedent, a defendant who merely receives a firearm as payment for drugs does not "use" that firearm. <!-- correct -->
-(c) Guilty, because the physical presence of the loaded handgun inherently facilitated the underlying transaction with the rival syndicate member.
-(d) Not guilty, because establishing liability requires the government to prove the defendant explicitly deployed or brandished the firearm as a weapon.
-(e) Guilty, because both participants in an illicit barter transaction equally utilize the exchanged items as currency under federal statutory definitions.
+(a) Yes, because a genuine reliance on private legal counsel categorically negates the general intent required to unlawfully possess a dangerous weapon in interstate commerce.
+(b) No, because the statute is silent on mental state, meaning the court must apply a strict liability standard to the defendant's prior felony conviction status.
+(c) Yes, because the government must prove that Kevin knew both that he possessed the firearm and that he belonged to the prohibited class of felons. <!-- correct -->
+(d) No, because ignorance of one's legal status is equivalent to ignorance of the law, which is traditionally barred as a defense in federal firearms prosecutions.
+(e) Yes, because his underlying state conviction was labeled "commercial fraud," meaning it lacked the requisite malum in se character to qualify under the federal statute.
 
-**Answer:** (b)
+**Answer:** (c)
 
-**Explanation:** Under Watson v. United States, a person who trades drugs to receive a gun does not "use" the firearm within the meaning of § 924(c). Only the party who tenders the gun as payment "uses" it. Option (a) fails because it incorrectly applies the Smith rule (which covers trading a gun for drugs) to the inverse scenario. Option (c) fails because while facilitation might support a "possession in furtherance" charge, the specific question asks whether he "used" the firearm, which Watson holds he did not. Option (d) fails because a gun can be "used" as currency (by the person giving it), so brandishing is not universally required. Option (e) fails because the Supreme Court expressly rejected this symmetry argument in Watson.
+**Explanation:** The correct answer is (c). Under *Rehaif v. United States*, the government must prove that the defendant knew both the conduct (possessing the firearm) and the attendant circumstance (belonging to the prohibited status class, i.e., being a felon). Because Kevin genuinely believed he was convicted of a misdemeanor, he lacked knowledge of his prohibited status. (a) is wrong because reliance on private counsel is not a categorical defense; the defense works here specifically because his mistake negates the knowledge element required by *Rehaif*. (b) is wrong because under the *Morissette* presumption, statutory silence does not mean strict liability; courts read in a mens rea requirement. (d) is wrong because knowing one's prohibited status is treated as a factual circumstance element under *Rehaif*, not an ignorance-of-the-law excuse. (e) is wrong because the federal statute defines a qualifying felony by its maximum potential sentence, not by whether it is malum in se.
 
-**Tags:** chapters: [15], topics: [18 U.S.C. § 924(c), use of a firearm], difficulty: hard, cognitive: application
+**Tags:** chapters: [10], topics: [Rehaif, mens rea of status elements, Morissette presumption], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 15 (Watson v. United States)
+**Grounding:** Chapter 10, Presumption Against Strict Liability (rehaif-status-element; Rehaif v. United States)
 
 <!-- audit: MUST FIX
-Check 1: pass
-Check 2: pass
-Check 3: pass
-Check 4: Missing fact pattern. The question references "Kevin" and "the October 1 transaction" but provides no facts. If this is meant to be a standalone question, it lacks the facts necessary to answer it.
-Check 5: pass
-Check 6: pass
-Check 7: pass
-Check 8: pass
-Recommended fix: Ensure this question is attached to a macro fact pattern detailing the October 1 transaction where Kevin trades drugs for a gun, or incorporate those facts directly into the question stem.
+check 1: pass
+check 2: finding: A prepared student could argue (d) is correct because if Kevin knew the facts of his conviction (e.g., that he was sentenced to more than a year in prison) but his attorney's email simply gave bad legal advice that it didn't count as a "felony," this might be treated as an invalid mistake of law rather than a negation of his factual status under *Rehaif*.
+check 3: finding: The explanation assumes a fact not in evidence, stating "Because Kevin genuinely believed he was convicted of a misdemeanor..." However, the prompt only says the email stated "he was not a felon."
+check 4: finding: The stem lacks the factual specificity needed to confidently choose (c) over (d). It does not clarify whether the attorney's email caused a mistake of fact (e.g., about the maximum sentence or classification of the prior conviction) or an invalid mistake of law.
+check 5: pass
+check 6: pass
+check 7: pass
+check 8: pass
+Recommended fix: Change the prompt's wording from "stating he was not a felon" to "stating his prior conviction was only a misdemeanor" so that the stem aligns with the explanation and cleanly triggers the *Rehaif* mistake-of-status-fact doctrine.
 -->
 
-## Issue 2 — argpass-opus
+## Issue 2 — argpass-sonnet
 
-**Q5.** Did Kevin "use" a firearm during and in relation to a drug trafficking crime under 18 U.S.C. § 924(c) during the October 1 transaction?
+**Q5.** Assume that, whether or not Kevin "used" the firearm on October 1, he is charged with being a felon in possession of a firearm under 18 U.S.C. § 922(g). Kevin argues he cannot be convicted because he genuinely believed his attorney's email stating he was not a felon. Will this argument succeed?
 
-(a) Guilty, because offering and delivering narcotics to acquire a deadly weapon constitutes the active employment of the firearm in a drug transaction.
-(b) Not guilty, because under binding precedent, a defendant who merely receives a firearm as payment for drugs does not "use" that firearm. <!-- correct -->
-(c) Guilty, because the physical presence of the loaded handgun inherently facilitated the underlying transaction with the rival syndicate member.
-(d) Not guilty, because establishing liability requires the government to prove the defendant explicitly deployed or brandished the firearm as a weapon.
-(e) Guilty, because both participants in an illicit barter transaction equally utilize the exchanged items as currency under federal statutory definitions.
+(a) Yes, because a genuine reliance on private legal counsel categorically negates the general intent required to unlawfully possess a dangerous weapon in interstate commerce.
+(b) No, because the statute is silent on mental state, meaning the court must apply a strict liability standard to the defendant's prior felony conviction status.
+(c) Yes, because the government must prove that Kevin knew both that he possessed the firearm and that he belonged to the prohibited class of felons. <!-- correct -->
+(d) No, because ignorance of one's legal status is equivalent to ignorance of the law, which is traditionally barred as a defense in federal firearms prosecutions.
+(e) Yes, because his underlying state conviction was labeled "commercial fraud," meaning it lacked the requisite malum in se character to qualify under the federal statute.
 
-**Answer:** (b)
+**Answer:** (c)
 
-**Explanation:** Under Watson v. United States, a person who trades drugs to receive a gun does not "use" the firearm within the meaning of § 924(c). Only the party who tenders the gun as payment "uses" it. Option (a) fails because it incorrectly applies the Smith rule (which covers trading a gun for drugs) to the inverse scenario. Option (c) fails because while facilitation might support a "possession in furtherance" charge, the specific question asks whether he "used" the firearm, which Watson holds he did not. Option (d) fails because a gun can be "used" as currency (by the person giving it), so brandishing is not universally required. Option (e) fails because the Supreme Court expressly rejected this symmetry argument in Watson.
+**Explanation:** The correct answer is (c). Under *Rehaif v. United States*, the government must prove that the defendant knew both the conduct (possessing the firearm) and the attendant circumstance (belonging to the prohibited status class, i.e., being a felon). Because Kevin genuinely believed he was convicted of a misdemeanor, he lacked knowledge of his prohibited status. (a) is wrong because reliance on private counsel is not a categorical defense; the defense works here specifically because his mistake negates the knowledge element required by *Rehaif*. (b) is wrong because under the *Morissette* presumption, statutory silence does not mean strict liability; courts read in a mens rea requirement. (d) is wrong because knowing one's prohibited status is treated as a factual circumstance element under *Rehaif*, not an ignorance-of-the-law excuse. (e) is wrong because the federal statute defines a qualifying felony by its maximum potential sentence, not by whether it is malum in se.
 
-**Tags:** chapters: [15], topics: [18 U.S.C. § 924(c), use of a firearm], difficulty: hard, cognitive: application
+**Tags:** chapters: [10], topics: [Rehaif, mens rea of status elements, Morissette presumption], difficulty: hard, cognitive: application
 
-**Grounding:** Chapter 15 (Watson v. United States)
+**Grounding:** Chapter 10, Presumption Against Strict Liability (rehaif-status-element; Rehaif v. United States)
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under *Smith v. United States*, the Supreme Court held that exchanging a firearm for drugs constitutes "use" of the firearm under § 924(c). A student might logically extend this "active employment" standard to the entirety of a barter transaction where a gun is the focal point. If trading a gun for drugs is active employment, offering drugs to acquire the gun could also be construed as actively employing the gun's value to effectuate the drug deal. Thus, the active pursuit and receipt of the weapon could plausibly be deemed "use."
-(b) Argument-for: This relies directly on the Supreme Court's decision in *Watson v. United States*, which addressed the inverse of *Smith*. The Court explicitly held that a person who trades drugs to receive a firearm does not "use" the firearm within the meaning of 18 U.S.C. § 924(c). "Use" requires active employment of the firearm by the defendant, and simply receiving it as payment or in a trade does not meet this statutory threshold. Therefore, Kevin is not guilty of "using" the firearm.
-(c) Argument-for: Section 924(c) penalizes the use of a firearm "during and in relation to" a drug trafficking crime. A student might focus on the "in relation to" requirement, which is satisfied if the firearm facilitated or had the potential to facilitate the offense. Since the handgun was the very item being procured, its physical presence inherently facilitated the entire transaction. By tying the transaction's success to the gun's presence, one could argue this facilitation satisfies the statute, resulting in a guilty verdict.
-(d) Argument-for: In *Bailey v. United States*, the Supreme Court narrowed the definition of "use" to require "active employment" of the firearm. A student could interpret "active employment" strictly to mean deploying or brandishing the firearm in its intended capacity as a weapon (e.g., pointing it, firing it, or displaying it to intimidate). Since Kevin only received it in a trade and did not brandish or deploy it as a threat, a student might incorrectly conclude that liability requires explicit use as a weapon.
-(e) Argument-for: In a barter transaction, both parties are exchanging items of value, effectively using their respective items to purchase the other. A student could argue that from an economic and statutory perspective, both the drugs and the gun function equally as currency in this illicit exchange. Therefore, just as the seller "uses" the gun to buy drugs, the buyer symmetrically "uses" the gun's value to price and complete the exchange, making Kevin equally guilty under federal definitions.
+(a) Argument-for: A student might argue that the advice of counsel defense is directly applicable here since Kevin relied on his lawyer's email. If he genuinely believed he was acting lawfully based on a professional's advice, this reliance would conceptually negate the culpability required for the offense. Furthermore, the option's reference to "general intent" might align with older, generalized understandings of weapons possession charges. The student could wrongly conclude that this specific reliance makes it impossible for the government to prove any criminal mind.
+(b) Argument-for: A student could observe that 18 U.S.C. § 922(g) lists the elements of the offense without explicitly attaching a mens rea to the status element in the text of that subsection. Following a strict textualist approach, if Congress omits a mental state for a specific attendant circumstance, it may intend strict liability for that element. Therefore, Kevin's mistaken belief would be irrelevant, and he would be strictly liable for being a felon in possession.
+(c) Argument-for: A student would recognize this as the direct holding of the Supreme Court in *Rehaif v. United States*. Under *Rehaif*, the "knowingly" mens rea found in the corresponding penalty provision applies to all material elements of the § 922(g) offense, including the defendant's status as a felon. Because Kevin genuinely believed he was not a felon due to his attorney's email, the government cannot prove he knew he belonged to the prohibited class, meaning his argument succeeds.
+(d) Argument-for: A student might rely on the age-old maxim *ignorantia juris non excusat* (ignorance of the law is no excuse). If a person is convicted of a crime, knowing the legal classification of that conviction (felony vs. misdemeanor) is arguably a pure question of law. Therefore, Kevin's mistake about his legal status as a felon is a mistake of law, which is traditionally barred as a defense, rendering his argument invalid.
+(e) Argument-for: A student might recall that federal criminal law sometimes distinguishes between *malum in se* (inherently wrong) and *malum prohibitum* (wrong because prohibited) offenses, particularly when assessing mens rea and statutory reach. They might argue that commercial fraud is a regulatory or *malum prohibitum* offense. The student could incorrectly infer that federal firearms prohibitions only target individuals with "dangerous" or inherently wicked felony convictions.
 
-Head-to-head: Option (b) correctly applies the precise holding of *Watson v. United States*, where receiving a gun for drugs does not constitute "use" under § 924(c). The distractors fall away because they directly contradict established Supreme Court precedent interpreting this statute. Option (a) directly contravenes *Watson* by claiming the exact conduct (trading drugs for a gun) constitutes active employment. Option (d) contradicts *Smith v. United States*, which held a gun can be "used" as currency, proving brandishing as a weapon is not universally required. Option (e) relies on a symmetrical barter theory explicitly rejected by the *Watson* Court. Option (c) is the weakest link structurally; it conflates the "in relation to/facilitation" standard with the "use" requirement (which, per *Bailey*, requires active employment, not mere physical presence), but it lacks the absolute locking language requested by the close-call standard to guarantee it states a universally falsifiable rule rather than an application error.
+Head-to-head: Option (c) correctly applies *Rehaif v. United States*, making it the undeniably correct answer. Option (a) relies on an advice-of-counsel theory but makes the false claim that it "categorically negates" general intent (reliance on counsel is not a categorical general-intent defense; rather, here the mistake specifically negates the "knowledge" requirement). Option (b) correctly notes statutory silence but falsely claims the court "must apply a strict liability standard," violating the *Morissette* presumption. Option (e) invents a requirement that the underlying felony must possess a "requisite malum in se character," which is structurally false under the statute. Option (d) presents a strong distractor based on mistake of law, but the claim that ignorance of legal status "is equivalent to ignorance of the law" was explicitly rejected in *Rehaif*. However, (d) uses "traditionally barred," which is arguably soft. A minor edit would ensure (d) is locked with an absolute word.
 
 Falsifiable claim per distractor:
-- (a): "offering and delivering narcotics to acquire a deadly weapon constitutes the active employment of the firearm" — wrong because *Watson* explicitly ruled that receiving a gun in exchange for drugs is not active employment or "use."
-- (c): "Guilty, because the physical presence of the loaded handgun inherently facilitated" — wrong because *Bailey* requires "active employment" for use; mere physical presence and passive facilitation do not suffice. (Lacks an absolute trigger word).
-- (d): "requires the government to prove the defendant explicitly deployed or brandished the firearm as a weapon." — wrong because *Smith* established that trading a firearm as currency constitutes "use," meaning brandishing as a weapon is not categorically required.
-- (e): "both participants in an illicit barter transaction equally utilize the exchanged items as currency under federal statutory definitions." — wrong because *Watson* explicitly rejected this symmetry argument.
+- (a): "categorically negates the general intent required" — wrong because reliance on counsel is not a categorical defense to general intent, and the statute actually requires knowledge, not general intent.
+- (b): "must apply a strict liability standard" — wrong because under the *Morissette* presumption, statutory silence regarding mens rea prompts courts to read in a mental state, rather than defaulting to strict liability.
+- (d): "ignorance of one's legal status is equivalent to ignorance of the law, which is traditionally barred" — wrong because *Rehaif* explicitly held that ignorance of felon status acts as a mistake of fact/attendant circumstance rather than an equivalent to ignorance of the law. 
+- (e): "lacked the requisite malum in se character" — wrong because 18 U.S.C. § 922(g) defines a felony solely by its potential sentence (exceeding one year), regardless of whether the crime is malum in se.
 
-Recommended fix: Update (c) to lock the error with an absolute word: "Guilty, because the mere physical presence of a loaded handgun automatically constitutes its 'use' whenever it inherently facilitates a drug transaction."
+Recommended fix: In (d), change "traditionally barred" to "categorically barred" to fully satisfy the close-call standard's requirement for absolute words.
 -->

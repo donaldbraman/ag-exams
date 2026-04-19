@@ -1,17 +1,17 @@
-**Q9.** Is Kevin guilty of attempted extortion for his actions on November 15?
+**Q9.** Assume the jurisdiction recognizes the *Pinkerton* doctrine. Is Jack liable for Kevin's substantive offense of carrying the 9mm firearm to the restaurant?
 
-(a) Guilty, because driving to the target location and grabbing the crowbar constituted a substantial step that strongly corroborated his criminal purpose. <!-- correct -->
-(b) Not guilty, because he had not yet put on the ski mask or exited the vehicle, leaving him entirely outside the zone of dangerous physical proximity.
-(c) Guilty, because his prior verbal agreement with Jack inherently satisfied the necessary actus reus requirement for an attempted extortion charge.
-(d) Not guilty, because the restaurant owner's unexpected intervention constituted an involuntary renunciation of the defendant's original criminal intent.
-(e) Guilty, because any preparatory act, no matter how temporally remote from the target offense, is legally sufficient to establish criminal attempt liability.
+(a) Yes, because a co-conspirator is liable for reasonably foreseeable substantive offenses committed in furtherance of the conspiracy, and carrying a weapon to an extortion is foreseeable. <!-- correct -->
+(b) No, because Jack did not explicitly agree that Kevin would bring a firearm to the restaurant when they planned the extortion.
+(c) Yes, because under Pinkerton, a conspiracy leader is strictly liable for all crimes committed by subordinates at any time during the conspiracy.
+(d) No, because Kevin did not actually brandish or fire the weapon during the attempted extortion before he dropped the crowbar and fled.
+(e) Yes, because Jack's physical absence from the scene automatically transfers liability to him as an accessory before the fact under the common law.
 
 **Answer:** (a)
 
-**Explanation:** Under the MPC, attempt requires a "substantial step" strongly corroborative of the actor's criminal purpose. Arriving at the scene and arming oneself with the tools necessary to commit the crime (the crowbar and mask) easily satisfies this requirement. Option (b) fails because modern attempt law does not require the defendant to reach the absolute last act or dangerous physical proximity before liability attaches. Option (c) fails because mere agreement constitutes conspiracy, not attempt, which requires further action. Option (d) fails because renunciation must be entirely voluntary to serve as a defense; being interrupted by the victim defeats the defense. Option (e) fails because remote preparatory acts are legally insufficient; the step must be substantial.
+**Explanation:** Under the *Pinkerton* doctrine, a conspirator is liable for the substantive offenses committed by a co-conspirator if those crimes are committed in furtherance of the conspiracy and are reasonably foreseeable as a necessary or natural consequence of the unlawful agreement. It is reasonably foreseeable that a subordinate would carry a weapon while executing a violent extortion scheme. (b) is wrong because *Pinkerton* does not require an explicit agreement to commit the specific substantive offense, only foreseeability. (c) is wrong because *Pinkerton* liability is not strict; it is limited by the foreseeability and "in furtherance" requirements. (d) is wrong because mere possession or carrying of the weapon can be a substantive offense, regardless of whether it is fired. (e) is wrong because *Pinkerton* liability is based on the conspiracy agreement, not common-law accessory categories.
 
-**Tags:** chapters: [6], topics: [attempt, substantial step], difficulty: medium, cognitive: application
+**Tags:** chapters: [19], topics: [Pinkerton liability, conspiracy], difficulty: intermediate, cognitive: application
 
-**Grounding:** General Attempt Doctrine (MPC Substantial Step)
+**Grounding:** Chapter 19 (implied Conspiracy doctrine), Pinkerton v. United States.
 
-<!-- grounding: GROUNDED — MPC Substantial Step, Ch 6, Refinement `attempt-substantial-step`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Pinkerton liability, Ch 19, Refinement `pinkerton-liability`. Rule paraphrased accurately. -->

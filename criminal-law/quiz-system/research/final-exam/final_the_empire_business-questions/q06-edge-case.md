@@ -1,22 +1,22 @@
-**Q6.** Can Kevin successfully defend against the felon-in-possession charge based on his attorney's 2018 email?
+**Q6.** Assume instead that Kevin is charged under a state "felon in possession" statute that strictly rejects the federal *Rehaif* rule and requires no mens rea regarding felony status. Kevin attempts to assert a mistake of law defense based on his attorney's email. Will this defense succeed?
 
-(a) Guilty, because a defendant's ignorance of the law is never a valid defense to a federal firearms charge under traditional strict liability doctrines.
-(b) Not guilty, because his genuine belief that he only had a misdemeanor conviction directly negates the required knowledge of his prohibited status. <!-- correct -->
-(c) Guilty, because the defense attorney's private email does not legally qualify as an official statement of the law to support a reliance defense.
-(d) Not guilty, because relying on the advice of private legal counsel automatically immunizes a criminal defendant from all federal felony liability.
-(e) Guilty, because the actual statutory penalty for his prior state offense strictly establishes his prohibited status regardless of his personal beliefs.
+(a) Yes, because his attorney's email constitutes an official statement of the law upon which he reasonably relied to assess his legal status.
+(b) No, because advice from private counsel does not qualify as an "official statement" under the mistake of law exception to criminal liability. <!-- correct -->
+(c) Yes, because his mistake negated the general intent required to possess the firearm and transport it in interstate commerce.
+(d) No, because the attorney's email misstated collateral law rather than the penal law itself, which precludes any reliance defense.
+(e) Yes, because a genuine belief that one's conduct is lawful is always a complete defense to a malum prohibitum regulatory offense.
 
 **Answer:** (b)
 
-**Explanation:** Under Rehaif v. United States, the government must prove the defendant knew he belonged to the relevant prohibited category (i.e., that he had a qualifying felony conviction). Kevin's genuine belief that his conviction was a misdemeanor negates this required mens rea. Option (a) fails because Rehaif explicitly displaced the traditional strict liability approach for the status element in this statute. Option (c) fails because Kevin does not need the affirmative "official statement" reliance defense; his mistake directly negates the statutory mens rea element. Option (d) fails because advice of counsel is not a blanket immunity doctrine. Option (e) fails because establishing the objective fact of the penalty is insufficient without proving the defendant's subjective knowledge of it.
+**Explanation:** The official-statement exception to the mistake of law doctrine requires reasonable reliance on an official interpretation from a court, administrative order, or public officer charged with interpreting the law. Advice from private counsel, no matter how reasonable or genuinely believed, does not qualify as an official statement. (a) is wrong because a private attorney is not an official government source. (c) is wrong because a mistake of law does not negate the general intent to perform the physical act of possessing the gun. (d) is wrong because while the prior conviction is collateral law, that distinction generally helps defendants (under the collateral law exception); here he fails specifically because of the source of the advice. (e) is wrong because the traditional rule is that ignorance of the law is no excuse, regardless of whether the crime is malum in se or malum prohibitum.
 
-**Tags:** chapters: [10, 15], topics: [Rehaif knowledge requirement, mistake of law, status element], difficulty: medium, cognitive: application
+**Tags:** chapters: [10], topics: [mistake of law, official statement, advice of counsel], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 10 (Rehaif v. United States)
+**Grounding:** Chapter 10, mol-advice-of-counsel and mol-official-statement refinements.
 
 <!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: Found. There are two statutory traps in the facts regarding 18 U.S.C. § 921(a)(20). First, Fact 8 sets the max penalty at 18 months, and Fact 9 labels it a "misdemeanor." Under § 921(a)(20)(B), state misdemeanors punishable by 2 years or less are expressly exempt from being federal qualifying offenses. An intermediate student who knows *Rehaif* requires knowledge of the penalty length (>1 year)—but who is unaware of this obscure 2-year misdemeanor exception—will assume Kevin's knowledge of the 18-month penalty satisfies the mens rea, leading them to wrongly reject (b). Second, the conviction is for "commercial fraud," which flirts dangerously with the § 921(a)(20)(A) exemption for offenses "relating to the regulation of business practices." Both create unintended legal ambiguities that derail a standard *Rehaif* analysis.
-2. Cross-Doctrine Clashes: pass.
-3. Cross-Question Spoilers: pass.
-Recommended fix: Change Fact 8's charge to "grand larceny" and its maximum penalty to "3 years." Change Fact 9's email to focus on the penalty length rather than the label: "The maximum penalty for this charge is 6 months. You are not a felon." Update Option (b) and the explanation to reflect that his genuine belief that the penalty was under a year negates the *Rehaif* knowledge requirement.
+1. Fact Pattern Booby Traps: Specifying a "state" felon-in-possession statute creates a fatal factual trap: under state law, a crime with an 18-month maximum penalty may legitimately be classified as a misdemeanor. If so, Kevin's attorney was actually correct, meaning Kevin is literally not a felon under state law and there is no "mistake" of law at all.
+2. Cross-Doctrine Clashes: pass
+3. Cross-Question Spoilers: The prompt explicitly defines the federal *Rehaif* rule ("strictly rejects the federal Rehaif rule and requires no mens rea regarding felony status"), directly spoiling Q5 which tests the student's knowledge of the *Rehaif* rule's mens rea requirement. 
+Recommended fix: Change the prompt's first sentence to: "Assume for this question that Congress amends the federal 'felon in possession' statute to explicitly require no mens rea regarding the defendant's prior conviction status. Kevin attempts..." This removes the spoiler for Q5 and keeps Kevin squarely in federal jurisdiction where Fact 8 safely confirms he is a felon.
 -->

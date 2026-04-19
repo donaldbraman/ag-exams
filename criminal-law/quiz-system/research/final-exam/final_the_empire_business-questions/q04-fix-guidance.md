@@ -2,88 +2,32 @@
 
 The QA pipeline flagged this question. Rewrite `q04.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — grounding
+## Issue 1 — audit
 
-**Q4.** Can Kevin be convicted of possession with intent to distribute based solely on the discovery of the locked duffel bag?
+**Q4.** Based on the October 1 transaction, the government charges Kevin with "using" a firearm during and in relation to a drug trafficking crime under 18 U.S.C. § 924(c). Is Kevin guilty of this specific charge?
 
-(a) Guilty, because the sheer quantity of two kilograms of cocaine allows a reasonable jury to infer that the defendant possessed an intent to distribute it. <!-- correct -->
-(b) Not guilty, because the government must prove an actual completed transaction occurred to satisfy the statutory elements of an intent to distribute.
-(c) Guilty, because storing any measurable amount of a controlled substance inside a commercial facility constitutes distribution per se under federal law.
-(d) Not guilty, because the narcotics were securely locked inside a duffel bag, physically preventing any immediate distribution to third-party buyers.
-(e) Guilty, because Kevin's formal status as a corporate route supervisor imposes strict liability for all illicit inventory found on the business premises.
+(a) Guilty, because firearms traded as currency in a narcotics transaction fall squarely within the Supreme Court's definition of active employment of a weapon.
+(b) Not guilty, because Kevin received the firearm as consideration for drugs, and a seller of drugs does not "use" the buyer's firearm under the statute. <!-- correct -->
+(c) Guilty, because Kevin's subsequent continuous possession of the loaded weapon after the trade satisfies the statutory requirement for carrying during a drug crime.
+(d) Not guilty, because the 9mm handgun was never actually brandished, fired, or explicitly threatened during the execution of the October 1 cocaine transaction.
+(e) Guilty, because both parties in a drugs-for-weapons barter exchange are deemed to have mutually "used" the firearm to facilitate the illegal commerce transaction.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** In most jurisdictions, possession of a quantity of narcotics far exceeding what a single person could consume (such as two kilograms of cocaine) is legally sufficient to allow a jury to infer an intent to distribute. Option (b) fails because the crime is *intent* to distribute, which can be proved circumstantially without an actual transaction. Option (c) fails because there is no such per se commercial facility rule; mere possession of user quantities in a business is simple possession. Option (d) fails because temporary physical barriers to immediate distribution (like a lock) do not negate the underlying intent to distribute the contents eventually. Option (e) fails because criminal possession requires specific elements, not strict liability based on a job title.
+**Explanation:** The correct answer is (b). Under *Watson v. United States*, a defendant who trades drugs to acquire a gun does not "use" the firearm under § 924(c); only the party tendering the gun uses it as currency. (a) is wrong because while *Smith* held that trading a gun for drugs constitutes "use," Kevin was on the receiving end, which *Watson* explicitly distinguishes. (c) is wrong because the question specifically asks if he is guilty of "using" the firearm based on the transaction, not a distinct carrying charge. (d) is wrong because brandishing or firing is not strictly required for "use" if the gun is employed as currency (by the person tendering it). (e) is wrong because *Watson* rejected this exact mutual-use symmetry, holding that a "seller does not 'use' a buyer's consideration."
 
-**Tags:** chapters: [15], topics: [possession with intent to distribute, quantity proxy], difficulty: easy, cognitive: application
+**Tags:** chapters: [15], topics: [Section 924(c), use of a firearm, Watson limitation], difficulty: medium, cognitive: application
 
-**Grounding:** Chapter 15 (Quantity as Proxy for Distribution Intent)
-
-<!-- GROUNDING-FAIL: possession with intent to distribute (quantity proxy) is not in any chapter map. The closest taught doctrines are: none (meta-map missing from prompt context). Correct answer must rely on one of those instead. -->
-
-## Issue 2 — audit
-
-**Q4.** Can Kevin be convicted of possession with intent to distribute based solely on the discovery of the locked duffel bag?
-
-(a) Guilty, because the sheer quantity of two kilograms of cocaine allows a reasonable jury to infer that the defendant possessed an intent to distribute it. <!-- correct -->
-(b) Not guilty, because the government must prove an actual completed transaction occurred to satisfy the statutory elements of an intent to distribute.
-(c) Guilty, because storing any measurable amount of a controlled substance inside a commercial facility constitutes distribution per se under federal law.
-(d) Not guilty, because the narcotics were securely locked inside a duffel bag, physically preventing any immediate distribution to third-party buyers.
-(e) Guilty, because Kevin's formal status as a corporate route supervisor imposes strict liability for all illicit inventory found on the business premises.
-
-**Answer:** (a)
-
-**Explanation:** In most jurisdictions, possession of a quantity of narcotics far exceeding what a single person could consume (such as two kilograms of cocaine) is legally sufficient to allow a jury to infer an intent to distribute. Option (b) fails because the crime is *intent* to distribute, which can be proved circumstantially without an actual transaction. Option (c) fails because there is no such per se commercial facility rule; mere possession of user quantities in a business is simple possession. Option (d) fails because temporary physical barriers to immediate distribution (like a lock) do not negate the underlying intent to distribute the contents eventually. Option (e) fails because criminal possession requires specific elements, not strict liability based on a job title.
-
-**Tags:** chapters: [15], topics: [possession with intent to distribute, quantity proxy], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 15 (Quantity as Proxy for Distribution Intent)
+**Grounding:** Chapter 15, "Using" a Firearm Under § 924(c) (use-924c-trading-drugs-for-gun; Watson v. United States)
 
 <!-- audit: MUST FIX
-Check 1: pass
+Check 1: pass (accurately reflects the holding in Watson v. United States)
 Check 2: pass
 Check 3: pass
-Check 4: The question entirely lacks a factual stem. It refers to "Kevin" and "the locked duffel bag" (and the answer choices reference "two kilograms of cocaine" and a "corporate route supervisor"), but provides no scenario establishing Kevin's actual or constructive possession of the bag or what was inside it.
+Check 4: Fail. The stem relies on facts external to the question ("the October 1 transaction"). Without the accompanying fact pattern, students have to blindly infer the scenario from the answer choices. 
 Check 5: pass
 Check 6: pass
 Check 7: pass
 Check 8: pass
-Recommended fix: Provide the missing fact pattern establishing Kevin's situation, his relationship to the bag, and the contents of the bag (or ensure this question is appropriately paired with the common fact pattern it references).
--->
-
-## Issue 3 — argpass-opus
-
-**Q4.** Can Kevin be convicted of possession with intent to distribute based solely on the discovery of the locked duffel bag?
-
-(a) Guilty, because the sheer quantity of two kilograms of cocaine allows a reasonable jury to infer that the defendant possessed an intent to distribute it. <!-- correct -->
-(b) Not guilty, because the government must prove an actual completed transaction occurred to satisfy the statutory elements of an intent to distribute.
-(c) Guilty, because storing any measurable amount of a controlled substance inside a commercial facility constitutes distribution per se under federal law.
-(d) Not guilty, because the narcotics were securely locked inside a duffel bag, physically preventing any immediate distribution to third-party buyers.
-(e) Guilty, because Kevin's formal status as a corporate route supervisor imposes strict liability for all illicit inventory found on the business premises.
-
-**Answer:** (a)
-
-**Explanation:** In most jurisdictions, possession of a quantity of narcotics far exceeding what a single person could consume (such as two kilograms of cocaine) is legally sufficient to allow a jury to infer an intent to distribute. Option (b) fails because the crime is *intent* to distribute, which can be proved circumstantially without an actual transaction. Option (c) fails because there is no such per se commercial facility rule; mere possession of user quantities in a business is simple possession. Option (d) fails because temporary physical barriers to immediate distribution (like a lock) do not negate the underlying intent to distribute the contents eventually. Option (e) fails because criminal possession requires specific elements, not strict liability based on a job title.
-
-**Tags:** chapters: [15], topics: [possession with intent to distribute, quantity proxy], difficulty: easy, cognitive: application
-
-**Grounding:** Chapter 15 (Quantity as Proxy for Distribution Intent)
-
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: Under established criminal law, a jury may reasonably infer an intent to distribute from the possession of an unreasonably large quantity of narcotics. Two kilograms of cocaine has a massive street value and vastly exceeds what an individual could realistically consume for personal use. Therefore, circumstantial evidence of this sheer quantity alone is legally sufficient to overcome a motion for a directed verdict and allow the jury to convict Kevin.
-(b) Argument-for: Criminalizing mere "intent" without an actus reus for the distribution borders on punishing a thought crime. To ensure possession with intent to distribute is distinguished from simple possession, one could argue that an actual completed transaction is the only constitutionally firm evidence of distribution intent. Without proving a transaction occurred, the prosecution relies on pure speculation, thus necessitating an acquittal.
-(c) Argument-for: Federal drug laws heavily penalize the use of commercial facilities for illicit drug activities, notably through "crack house" statutes. A student might assert that storing any measurable quantity of narcotics in a commercial facility inherently places those drugs into the stream of commerce. By this logic, the law treats such commercial storage as distribution per se, overriding the need to prove specific intent through quantity.
-(d) Argument-for: For intent to be actionable, the defendant must have the present ability to execute the intended crime. Because the narcotics were securely locked inside a duffel bag, Kevin was physically prevented from immediately distributing them to third-party buyers. A student could argue that this physical barrier renders the intent legally impossible or dormant, thus precluding a conviction for possession with intent to distribute.
-(e) Argument-for: The Responsible Corporate Officer doctrine (Park doctrine) allows for strict liability to be imposed on corporate officers for regulatory offenses occurring within their domain. Given Kevin's formal status as a corporate route supervisor, a student could argue that he holds a non-delegable duty to keep the premises drug-free. Thus, his job title alone imposes strict liability for the illicit inventory found, regardless of specific intent.
-
-Head-to-head: Option (a) cleanly applies universally accepted legal doctrine regarding quantity as a proxy for intent to distribute. Option (b) presents a falsifiable error by claiming the government "must prove an actual completed transaction" for an intent crime. Option (c) makes a definitively false legal claim by asserting a "per se" rule for commercial facilities. Option (e) relies on the explicitly false application of "strict liability" to a specific intent felony. Option (d), however, relies more on a factual observation about immediate capacity rather than a locked-in, absolute false legal doctrine. While (d) is conceptually wrong because intent does not require immediate distribution capacity, it lacks the absolute wording required to make it a strictly falsifiable legal claim rather than just a weak factual inference.
-
-Falsifiable claim per distractor:
-- (b): "the government must prove an actual completed transaction occurred" — wrong because possession with intent to distribute is an inchoate-style offense regarding the distribution; requiring a completed transaction collapses the crime into actual distribution.
-- (c): "constitutes distribution per se under federal law" — wrong because there is no such per se commercial facility rule; simple possession in a business remains simple possession without further proof of intent.
-- (d): "physically preventing any immediate distribution to third-party buyers" — wrong because the intent to distribute does not require the physical ability to complete an *immediate* transaction, though this distractor lacks an absolute legal lock.
-- (e): "imposes strict liability for all illicit inventory" — wrong because possession with intent to distribute is a specific intent crime, not a strict liability public welfare offense covered by the Park doctrine.
-
-Recommended fix: Edit (d) to lock the false legal claim with an absolute word. Change to: "Not guilty, because the narcotics were securely locked inside a duffel bag, which automatically negates the requisite intent to distribute."
+Recommended fix: Integrate the necessary facts into the stem so it functions as a standalone question. For example: "On October 1, Kevin sold cocaine to a buyer, and accepted a 9mm handgun as payment instead of cash. Based on this transaction, the government charges Kevin..."
 -->

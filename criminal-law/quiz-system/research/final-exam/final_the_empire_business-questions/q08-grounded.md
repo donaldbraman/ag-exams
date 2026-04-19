@@ -1,17 +1,17 @@
-**Q8.** Assume that, whether or not a RICO conspiracy exists, Jack and Kevin are charged with standard criminal conspiracy. Are they guilty of conspiracy to commit extortion based on the November 15 conversation?
+**Q8.** To hold Jack liable for Kevin's actions at the restaurant, the government must first prove Kevin committed an attempted crime. Did Kevin's actions outside the restaurant constitute an attempt to commit property damage?
 
-(a) Guilty, because Jack's explicit directive and Kevin's affirmative verbal commitment created a legally sufficient bilateral agreement to commit the crime. <!-- correct -->
-(b) Not guilty, because Jack's statement was a mere solicitation that did not legally mature into an actionable conspiracy without further documentation.
-(c) Guilty, because a corporate supervisor's command to a subordinate employee bypasses the traditional requirement to prove an actual meeting of the minds.
-(d) Not guilty, because the criminal conspiracy could not be fully formed until Kevin actually shattered the glass windows at the targeted restaurant.
-(e) Guilty, because Kevin's independent decision to carry a loaded firearm retroactively established a broader conspiracy to commit a violent homicide.
+(a) Yes under the proximity test, because by parking, masking up, and grabbing a crowbar 50 feet away, he came dangerously close to completing the crime.
+(b) No under the substantial step test, because dropping the crowbar and fleeing upon seeing Matthew constituted a valid, complete, and voluntary renunciation of criminal purpose.
+(c) Yes under the substantial step test, because arriving at the scene armed with the necessary tools strongly corroborated his criminal purpose to break the windows. <!-- correct -->
+(d) No under the proximity test, because Kevin had not yet swung the crowbar at the glass, meaning no actual harm was imminent to the building.
+(e) Yes under the substantial step test, but only because he was carrying a loaded 9mm handgun in his pocket while approaching the commercial premises.
 
-**Answer:** (a)
+**Answer:** (c)
 
-**Explanation:** A conspiracy is formed when two or more people agree to commit a criminal offense. Jack directed the extortion and Kevin explicitly agreed ("I'll take care of it tonight"), forming a bilateral agreement. Option (b) fails because Kevin's acceptance upgraded the interaction from a mere solicitation to a completed conspiracy. Option (c) fails because employment hierarchies do not bypass the requirement of a subjective agreement in criminal law. Option (d) fails because the crime of conspiracy is complete upon the agreement (and an overt act, such as driving to the location, which Kevin fulfilled). Option (e) fails because Kevin's independent escalation to homicide was not part of the scope of the original agreed-upon conspiracy to commit extortion.
+**Explanation:** The correct answer is (c). Under the MPC's substantial step test, arriving at the target scene with materials designed for the crime (the crowbar and ski mask) is a substantial step strongly corroborating the actor's criminal purpose. (a) is wrong because under the strict common law proximity test, courts often require the defendant to reach the very last act (like raising the crowbar); being 50 feet away in the parking lot might not satisfy proximity, making (c) the more undeniably correct application. (b) is wrong because Kevin fled only after seeing Matthew with a shotgun; renunciation must be voluntary, not motivated by a newly discovered threat of apprehension or resistance. (d) is wrong because the proximity test does not strictly require the very last physical motion (swinging the crowbar) in all instances, though it is closer than substantial step. (e) is wrong because the handgun is irrelevant to the substantial step for property damage; the crowbar and mask constitute the step.
 
-**Tags:** chapters: [7], topics: [conspiracy, agreement], difficulty: easy, cognitive: application
+**Tags:** chapters: [8], topics: [attempt, substantial step, proximity test], difficulty: medium, cognitive: application
 
-**Grounding:** General Conspiracy Doctrine (Bilateral Agreement)
+**Grounding:** General Doctrine - Attempt (Substantial Step strongly corroborative of criminal purpose)
 
-<!-- grounding: GROUNDED — General Conspiracy Doctrine (Bilateral Agreement), Ch 7, Refinement `conspiracy-agreement`. Rule paraphrased accurately. -->
+<!-- grounding: GROUNDED — Attempt (Substantial Step), Ch 8, Refinement `attempt-substantial-step`. Rule paraphrased accurately. -->

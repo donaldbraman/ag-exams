@@ -1,22 +1,22 @@
-**Q13.** Under the Pinkerton doctrine, is Jack liable for Kevin's attempted extortion and the resulting homicide?
+**Q13.** Assume the prosecution charges Kevin with Possession with Intent to Distribute (PWID) and introduces no evidence other than his possession of the two-kilogram quantity of cocaine in the breakroom. Can the jury convict Kevin of PWID based solely on the quantity recovered?
 
-(a) Guilty of both, because the attempted extortion and the resulting fatal shooting were reasonably foreseeable consequences in furtherance of the conspiracy. <!-- correct -->
-(b) Not guilty of either, because the employer was not physically present at the scene and did not explicitly authorize his subordinate to use deadly force.
-(c) Guilty of the attempt but not the homicide, because the felony murder rule strictly prohibits imputing homicide liability to absent co-conspirators.
-(d) Not guilty of either, because the subordinate's decision to carry a loaded firearm constituted a complete deviation from the agreed-upon criminal plan.
-(e) Guilty of the homicide but not the attempt, because the completed act of killing legally subsumes and extinguishes the underlying attempted property crimes.
+(a) No, because while large quantities trigger weight-based mandatory minimum sentences, proving the specific intent to distribute typically requires additional circumstantial evidence. <!-- correct -->
+(b) Yes, because federal law provides that possessing any quantity over 500 grams creates a mandatory legal presumption of intent to distribute.
+(c) No, because possession of narcotics is always a strict liability offense that does not permit logical inferences about future distribution intent.
+(d) Yes, because constructive possession of any bulk amount of a Schedule I or II narcotic automatically satisfies the distribution element of the statute.
+(e) No, because intent to distribute can only be proven through direct evidence of a completed sale or transfer to another person.
 
 **Answer:** (a)
 
-**Explanation:** Under Pinkerton liability, a conspirator is liable for any substantive offenses committed by co-conspirators that are in furtherance of the conspiracy and reasonably foreseeable. Jack directed Kevin to aggressively enforce the extortion debt; an attempt was the direct goal, and a violent, deadly confrontation was a reasonably foreseeable consequence of sending an enforcer to break windows. Option (b) fails because Pinkerton explicitly punishes absent conspirators. Option (c) fails because Pinkerton allows homicide liability to be imputed if foreseeable, as does the standard felony murder rule. Option (d) fails because an enforcer bringing a weapon to a violent property crime is highly foreseeable, not a complete deviation. Option (e) fails because underlying attempts do not automatically extinguish for absent conspirators in this manner.
+**Explanation:** Under the general rule for drug offenses, while statutory mandatory minimums are triggered by drug weight alone, elevating a simple possession charge to "possession with intent to distribute" typically requires additional circumstantial evidence of distribution intent (such as packaging materials, scales, or cash ledgers). Quantity alone is generally insufficient to independently prove the specific intent mens rea. (b) is wrong because federal weight thresholds trigger mandatory minimum sentences, not mandatory presumptions of intent. (c) is wrong because possession offenses are not strict liability; they require knowledge. (d) is wrong because constructive possession only establishes dominion and control over the substance, not the specific intent to distribute it. (e) is wrong because circumstantial evidence is routinely used to prove intent to distribute; a completed sale is not required.
 
-**Tags:** chapters: [7], topics: [Pinkerton liability, reasonable foreseeability], difficulty: medium, cognitive: application
+**Tags:** chapters: [15], topics: [PWID, quantity proxy, mandatory minimums], difficulty: intermediate, cognitive: application
 
-**Grounding:** General Conspiracy Doctrine (Pinkerton v. United States)
+**Grounding:** Chapter 15, qty-pwid and qty-mandatory-minimums refinements.
 
-<!-- edge-case-audit: CLEAN
-1. Fact Pattern Booby Traps: pass
+<!-- edge-case-audit: MUST FIX
+1. Fact Pattern Booby Traps: The specific quantity stated (2 kilograms of cocaine) acts as a doctrinal booby trap. While small or borderline quantities require additional circumstantial evidence to prove intent to distribute, courts universally hold that a uniquely massive quantity (like 2 kilos, which has a massive wholesale value and is completely inconsistent with personal use) *is* sufficient circumstantial evidence, standing alone, for a jury to permissibly infer intent to distribute. Because option (a) claims a jury cannot convict on a 2 kg quantity alone, it is doctrinally incorrect, leaving the question without a valid correct answer (since the "Yes" options rely on unconstitutional mandatory presumptions or "automatic" satisfaction).
 2. Cross-Doctrine Clashes: pass
 3. Cross-Question Spoilers: pass
-Recommended fix: n/a
+Recommended fix: If you want (a) to be the correct answer, alter the prompt to stipulate that Kevin only possessed a borderline/personal-use quantity (e.g., 5 to 10 grams). Alternatively, if keeping the 2 kg amount, change one of the "Yes" options to be the correct answer: "Yes, because a quantity of narcotics that vastly exceeds personal use amounts is sufficient circumstantial evidence for a jury to infer an intent to distribute."
 -->

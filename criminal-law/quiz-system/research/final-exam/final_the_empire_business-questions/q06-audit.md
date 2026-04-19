@@ -1,29 +1,26 @@
-## The Question
+**Q6.** Assume instead that Kevin is charged under a state "felon in possession" statute that strictly rejects the federal *Rehaif* rule and requires no mens rea regarding felony status. Kevin attempts to assert a mistake of law defense based on his attorney's email. Will this defense succeed?
 
-**Q6.** Can Kevin successfully defend against the felon-in-possession charge based on his attorney's 2018 email?
-
-(a) Guilty, because a defendant's ignorance of the law is never a valid defense to a federal firearms charge under traditional strict liability doctrines.
-(b) Not guilty, because his genuine belief that he only had a misdemeanor conviction directly negates the required knowledge of his prohibited status. <!-- correct -->
-(c) Guilty, because the defense attorney's private email does not legally qualify as an official statement of the law to support a reliance defense.
-(d) Not guilty, because relying on the advice of private legal counsel automatically immunizes a criminal defendant from all federal felony liability.
-(e) Guilty, because the actual statutory penalty for his prior state offense strictly establishes his prohibited status regardless of his personal beliefs.
+(a) Yes, because his attorney's email constitutes an official statement of the law upon which he reasonably relied to assess his legal status.
+(b) No, because advice from private counsel does not qualify as an "official statement" under the mistake of law exception to criminal liability. <!-- correct -->
+(c) Yes, because his mistake negated the general intent required to possess the firearm and transport it in interstate commerce.
+(d) No, because the attorney's email misstated collateral law rather than the penal law itself, which precludes any reliance defense.
+(e) Yes, because a genuine belief that one's conduct is lawful is always a complete defense to a malum prohibitum regulatory offense.
 
 **Answer:** (b)
 
-**Explanation:** Under Rehaif v. United States, the government must prove the defendant knew he belonged to the relevant prohibited category (i.e., that he had a qualifying felony conviction). Kevin's genuine belief that his conviction was a misdemeanor negates this required mens rea. Option (a) fails because Rehaif explicitly displaced the traditional strict liability approach for the status element in this statute. Option (c) fails because Kevin does not need the affirmative "official statement" reliance defense; his mistake directly negates the statutory mens rea element. Option (d) fails because advice of counsel is not a blanket immunity doctrine. Option (e) fails because establishing the objective fact of the penalty is insufficient without proving the defendant's subjective knowledge of it.
+**Explanation:** The official-statement exception to the mistake of law doctrine requires reasonable reliance on an official interpretation from a court, administrative order, or public officer charged with interpreting the law. Advice from private counsel, no matter how reasonable or genuinely believed, does not qualify as an official statement. (a) is wrong because a private attorney is not an official government source. (c) is wrong because a mistake of law does not negate the general intent to perform the physical act of possessing the gun. (d) is wrong because while the prior conviction is collateral law, that distinction generally helps defendants (under the collateral law exception); here he fails specifically because of the source of the advice. (e) is wrong because the traditional rule is that ignorance of the law is no excuse, regardless of whether the crime is malum in se or malum prohibitum.
 
-**Tags:** chapters: [10, 15], topics: [Rehaif knowledge requirement, mistake of law, status element], difficulty: medium, cognitive: application
+**Tags:** chapters: [10], topics: [mistake of law, official statement, advice of counsel], difficulty: intermediate, cognitive: application
 
-**Grounding:** Chapter 10 (Rehaif v. United States)
+**Grounding:** Chapter 10, mol-advice-of-counsel and mol-official-statement refinements.
 
-<!-- audit: MUST FIX
-check 1: pass (accurately applies Rehaif v. United States regarding knowledge of status)
-check 2: pass (distractors are well-designed conceptually, assuming facts exist)
-check 3: pass (explanation accurately states the Rehaif rule)
-check 4: fail (The entire fact pattern/stem is missing from the provided text. The question references "Kevin," "his attorney's 2018 email," and a "prior state offense," but no facts are provided to establish these elements.)
-check 5: pass (federal statute, clear jurisdiction)
+<!-- audit: CLEAN
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: pass
+check 5: pass
 check 6: pass
 check 7: pass
-check 8: pass (options are well-balanced and symmetrical in length)
-Recommended fix: Prepend the missing fact pattern to the question stub so students have the necessary context regarding Kevin, his conviction, and the attorney's email.
+check 8: pass
 -->

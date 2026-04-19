@@ -2,113 +2,130 @@
 
 The QA pipeline flagged this question. Rewrite `q12.md` addressing each numbered issue below. Do NOT delete this guidance file — the pipeline handles it.
 
-## Issue 1 — grounding
+## Issue 1 — audit
 
-**Q12.** Assume Kevin is charged under a standard felony murder statute. Is he guilty of felony murder?
+**Q12.** Assume Matthew's self-defense claim fails. He asks the court to reduce his murder charge to voluntary manslaughter based on the "heat of passion" doctrine. Will the court grant this reduction?
 
-(a) Guilty, because the fatal shooting occurred during the attempted commission of extortion, which qualifies as an inherently dangerous predicate felony. <!-- correct -->
-(b) Not guilty, because the felony murder doctrine only applies when the deceased victim is an innocent bystander rather than the target of the underlying felony.
-(c) Guilty, because any death that occurs while a criminal defendant is armed with a loaded firearm is strictly classified as felony murder under the common law.
-(d) Not guilty, because the defendant had not yet shattered the windows or obtained the money, meaning the predicate felony had not legally commenced.
-(e) Guilty, because the independent felony of illegal firearm possession merges with the homicide to create an automatic felony murder liability enhancement.
+(a) Yes, because enduring a prolonged extortion campaign by cartel members automatically constitutes adequate provocation as a matter of law in all modern criminal jurisdictions.
+(b) No, because Matthew had sufficient time to deliberate and arm himself with a shotgun, demonstrating premeditation that legally precludes any claim of sudden passion.
+(c) Yes, because seeing a masked attacker approach his business with a crowbar was a startling event that subjectively induced genuine terror and uncontrollable physiological trembling.
+(d) No, because mere property damage threats and past extortion demands do not satisfy the rigorous objective requirement of legally adequate provocation for sudden heat of passion. <!-- correct -->
+(e) Yes, because Matthew's exclamation before firing the weapon proves he was operating under an extreme emotional disturbance caused by the cartel's continuous financial bleeding.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** The felony murder rule applies when a death occurs during the commission or attempted commission of an inherently dangerous felony. Extortion (and the violent attempt to enforce it) qualifies. Option (b) fails because felony murder applies regardless of whether the victim is a bystander or the intended target of the predicate felony. Option (c) fails because felony murder requires an underlying predicate felony, not merely being armed. Option (d) fails because an *attempt* to commit the predicate felony is legally sufficient to trigger the felony murder rule. Option (e) fails because possession of a firearm typically merges into the homicide or is not considered an independent inherently dangerous felony supporting the rule under the merger doctrine.
+**Explanation:** The correct answer is (d). Voluntary manslaughter under the heat of passion doctrine requires legally adequate provocation (an objective standard). At common law, threats of property damage or past financial disputes (extortion) are not recognized as adequate provocation to mitigate murder, unlike extreme assault, mutual combat, or discovering adultery. (a) is wrong because courts do not recognize financial extortion as adequate provocation for lethal violence. (b) is wrong because a person can premeditate defense but still react in sudden passion, though the real failure here is the lack of legally adequate provocation. (c) is wrong because while he was subjectively terrified, heat of passion also requires the provocation to be objectively adequate to cause a reasonable person to lose control. (e) is wrong because extreme emotional disturbance is the MPC standard; the prompt specifically asks about the "heat of passion" doctrine, which requires a specific sudden provoking act.
 
-**Tags:** chapters: [5], topics: [felony murder, attempt as predicate], difficulty: easy, cognitive: application
+**Tags:** chapters: [9], topics: [voluntary manslaughter, heat of passion, adequate provocation], difficulty: medium, cognitive: application
 
-**Grounding:** General Homicide Doctrine (Felony Murder Predicates)
-
-<!-- GROUNDING-FAIL: felony murder is not in any chapter map. The closest taught doctrines are: N/A (meta-map artifact missing). Correct answer must rely on one of those instead. -->
-
-## Issue 2 — audit
-
-**Q12.** Assume Kevin is charged under a standard felony murder statute. Is he guilty of felony murder?
-
-(a) Guilty, because the fatal shooting occurred during the attempted commission of extortion, which qualifies as an inherently dangerous predicate felony. <!-- correct -->
-(b) Not guilty, because the felony murder doctrine only applies when the deceased victim is an innocent bystander rather than the target of the underlying felony.
-(c) Guilty, because any death that occurs while a criminal defendant is armed with a loaded firearm is strictly classified as felony murder under the common law.
-(d) Not guilty, because the defendant had not yet shattered the windows or obtained the money, meaning the predicate felony had not legally commenced.
-(e) Guilty, because the independent felony of illegal firearm possession merges with the homicide to create an automatic felony murder liability enhancement.
-
-**Answer:** (a)
-
-**Explanation:** The felony murder rule applies when a death occurs during the commission or attempted commission of an inherently dangerous felony. Extortion (and the violent attempt to enforce it) qualifies. Option (b) fails because felony murder applies regardless of whether the victim is a bystander or the intended target of the predicate felony. Option (c) fails because felony murder requires an underlying predicate felony, not merely being armed. Option (d) fails because an *attempt* to commit the predicate felony is legally sufficient to trigger the felony murder rule. Option (e) fails because possession of a firearm typically merges into the homicide or is not considered an independent inherently dangerous felony supporting the rule under the merger doctrine.
-
-**Tags:** chapters: [5], topics: [felony murder, attempt as predicate], difficulty: easy, cognitive: application
-
-**Grounding:** General Homicide Doctrine (Felony Murder Predicates)
+**Grounding:** General Doctrine - Homicide Grading (Heat of Passion / Adequate Provocation limits)
 
 <!-- audit: MUST FIX
-Check 1: Cannot evaluate; fact pattern is missing.
-Check 2: Cannot evaluate; fact pattern is missing.
-Check 3: pass
-Check 4: FAIL. The stem is completely missing the fact pattern. It refers to Kevin, extortion, shattered windows, and a fatal shooting, but none of these facts are provided in the prompt.
-Check 5: FAIL. "Standard felony murder statute" is jurisdictionally ambiguous. Extortion is not a traditional BARRK felony. Jurisdictions split on whether non-enumerated felonies qualify as inherently dangerous (and whether to evaluate them in the abstract or as committed).
-Check 6: pass
-Check 7: pass
-Check 8: pass
-Recommended fix: Add the missing fact pattern to the stem. Also, stipulate the jurisdiction's felony murder rules (e.g., explicitly stating that extortion is an enumerated predicate or providing the state's test for inherent danger) rather than relying on a vague "standard" statute.
+Check 1: Correct-answer accuracy: Option (d) asserts the correct answer by characterizing the scenario as "mere property damage threats." However, the implied facts (a masked attacker with a crowbar approaching) arguably constitute an imminent assault or violent felony. Under common law, assault is a recognized category of adequate provocation. A well-prepared student could argue (d) is factually and legally inaccurate because a masked man with a deadly weapon is much more than "mere property damage."
+Check 2: Defensible distractor: pass.
+Check 3: Explanation consistency: pass.
+Check 4: Sufficient facts: The overarching fact pattern is missing from the stem. Furthermore, the exact nature of the crowbar threat (was the masked man threatening Matthew physically, or just walking toward a window to smash it?) is critically ambiguous and determines whether this is an assault versus mere property damage.
+Check 5: Jurisdictional clarity: The question fails to stipulate the jurisdiction. The "heat of passion" doctrine splits between the traditional common law categorical approach (where judges gatekeep specific adequate provocations, excluding property damage) and the modern common law reasonable-person approach (where juries assess if the provocation would cause a reasonable person to lose control). Option (d) incorrectly assumes the strict categorical approach applies universally.
+Check 6: Excluded-topic bleed: pass.
+Check 7: Coverage mismatch: pass.
+Check 8: Length Parity: pass.
+Recommended fix: Provide the full fact pattern in the stem. Stipulate the jurisdiction (e.g., "Under the traditional common law categorical approach to heat of passion..."). Revise the facts or option (d) to cleanly avoid the "assault vs. property damage" ambiguity (for example, have the provocation be a threatening text message or purely financial ruin rather than a masked man with a crowbar). Finally, change "grant this reduction" to "instruct the jury on voluntary manslaughter," as judges do not unilaterally grant reductions in jury trials.
 -->
 
-## Issue 3 — edge-case
+## Issue 2 — edge-case
 
-**Q12.** Assume Kevin is charged under a standard felony murder statute. Is he guilty of felony murder?
+**Q12.** Assume Matthew's self-defense claim fails. He asks the court to reduce his murder charge to voluntary manslaughter based on the "heat of passion" doctrine. Will the court grant this reduction?
 
-(a) Guilty, because the fatal shooting occurred during the attempted commission of extortion, which qualifies as an inherently dangerous predicate felony. <!-- correct -->
-(b) Not guilty, because the felony murder doctrine only applies when the deceased victim is an innocent bystander rather than the target of the underlying felony.
-(c) Guilty, because any death that occurs while a criminal defendant is armed with a loaded firearm is strictly classified as felony murder under the common law.
-(d) Not guilty, because the defendant had not yet shattered the windows or obtained the money, meaning the predicate felony had not legally commenced.
-(e) Guilty, because the independent felony of illegal firearm possession merges with the homicide to create an automatic felony murder liability enhancement.
+(a) Yes, because enduring a prolonged extortion campaign by cartel members automatically constitutes adequate provocation as a matter of law in all modern criminal jurisdictions.
+(b) No, because Matthew had sufficient time to deliberate and arm himself with a shotgun, demonstrating premeditation that legally precludes any claim of sudden passion.
+(c) Yes, because seeing a masked attacker approach his business with a crowbar was a startling event that subjectively induced genuine terror and uncontrollable physiological trembling.
+(d) No, because mere property damage threats and past extortion demands do not satisfy the rigorous objective requirement of legally adequate provocation for sudden heat of passion. <!-- correct -->
+(e) Yes, because Matthew's exclamation before firing the weapon proves he was operating under an extreme emotional disturbance caused by the cartel's continuous financial bleeding.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** The felony murder rule applies when a death occurs during the commission or attempted commission of an inherently dangerous felony. Extortion (and the violent attempt to enforce it) qualifies. Option (b) fails because felony murder applies regardless of whether the victim is a bystander or the intended target of the predicate felony. Option (c) fails because felony murder requires an underlying predicate felony, not merely being armed. Option (d) fails because an *attempt* to commit the predicate felony is legally sufficient to trigger the felony murder rule. Option (e) fails because possession of a firearm typically merges into the homicide or is not considered an independent inherently dangerous felony supporting the rule under the merger doctrine.
+**Explanation:** The correct answer is (d). Voluntary manslaughter under the heat of passion doctrine requires legally adequate provocation (an objective standard). At common law, threats of property damage or past financial disputes (extortion) are not recognized as adequate provocation to mitigate murder, unlike extreme assault, mutual combat, or discovering adultery. (a) is wrong because courts do not recognize financial extortion as adequate provocation for lethal violence. (b) is wrong because a person can premeditate defense but still react in sudden passion, though the real failure here is the lack of legally adequate provocation. (c) is wrong because while he was subjectively terrified, heat of passion also requires the provocation to be objectively adequate to cause a reasonable person to lose control. (e) is wrong because extreme emotional disturbance is the MPC standard; the prompt specifically asks about the "heat of passion" doctrine, which requires a specific sudden provoking act.
 
-**Tags:** chapters: [5], topics: [felony murder, attempt as predicate], difficulty: easy, cognitive: application
+**Tags:** chapters: [9], topics: [voluntary manslaughter, heat of passion, adequate provocation], difficulty: medium, cognitive: application
 
-**Grounding:** General Homicide Doctrine (Felony Murder Predicates)
+**Grounding:** General Doctrine - Homicide Grading (Heat of Passion / Adequate Provocation limits)
 
 <!-- edge-case-audit: MUST FIX
-1. Fact Pattern Booby Traps: In jurisdictions that evaluate second-degree felony murder predicates "in the abstract" rather than "as committed" (a widely taught standard), extortion is NOT an inherently dangerous felony because it encompasses non-violent blackmail. Under that standard, option (a) is legally incorrect. 
-2. Cross-Doctrine Clashes: Self-Defense Justification. Because Matthew unexpectedly attacked Kevin's car with a bat before Kevin had initiated any visible threat or exited the vehicle, Kevin might have a valid self-defense justification. A legally justified homicide acts as a complete bar to felony murder, which option (a) ignores.
-3. Cross-Question Spoilers: By definitively marking Kevin as "Guilty" of felony murder, this question spoils Q10 (by implicitly ruling that his self-defense claim fails) and spoils Q11 (by pre-determining his homicide grading).
-Recommended fix: Reframe the question to test the predicate theory without confirming ultimate guilt, avoiding the Q10/Q11 spoilers. For example: "Assuming Kevin's self-defense claim fails, what is his strongest doctrinal argument against a felony murder charge?" [Answer: That extortion is not an inherently dangerous felony in the abstract].
+1. Fact Pattern Booby Traps: The intended answer (d) rests on the premise that the provocation was "mere property damage threats." However, under Fact 13, Matthew sees a masked man approaching his location with a crowbar. Objectively, this constitutes an apparent aggravated assault or attempted violent felony, which *is* recognized as legally adequate provocation at common law. Furthermore, shooting an attacker who has just turned to flee is the textbook application for heat of passion: self-defense fails because the imminent threat has ended, but the charge is mitigated because the defendant's blood is still boiling with no adequate cooling-off time. Thus, a court likely *would* grant the manslaughter instruction based on the apparent assault, making (d) factually and legally problematic.
+2. Cross-Doctrine Clashes: Pass.
+3. Cross-Question Spoilers: Pass.
+Recommended fix: If the goal is to strictly test that extortion/property damage doesn't equal adequate provocation, alter the facts so Matthew observes Kevin from a completely safe, distant position (e.g., watching a security camera while Kevin breaks an unoccupied car's window), posing no apparent physical threat. Alternatively, change the question's focus or correct answer to acknowledge that the masked approach constitutes an adequate provocation.
+-->
+
+## Issue 3 — argpass-sonnet
+
+**Q12.** Assume Matthew's self-defense claim fails. He asks the court to reduce his murder charge to voluntary manslaughter based on the "heat of passion" doctrine. Will the court grant this reduction?
+
+(a) Yes, because enduring a prolonged extortion campaign by cartel members automatically constitutes adequate provocation as a matter of law in all modern criminal jurisdictions.
+(b) No, because Matthew had sufficient time to deliberate and arm himself with a shotgun, demonstrating premeditation that legally precludes any claim of sudden passion.
+(c) Yes, because seeing a masked attacker approach his business with a crowbar was a startling event that subjectively induced genuine terror and uncontrollable physiological trembling.
+(d) No, because mere property damage threats and past extortion demands do not satisfy the rigorous objective requirement of legally adequate provocation for sudden heat of passion. <!-- correct -->
+(e) Yes, because Matthew's exclamation before firing the weapon proves he was operating under an extreme emotional disturbance caused by the cartel's continuous financial bleeding.
+
+**Answer:** (d)
+
+**Explanation:** The correct answer is (d). Voluntary manslaughter under the heat of passion doctrine requires legally adequate provocation (an objective standard). At common law, threats of property damage or past financial disputes (extortion) are not recognized as adequate provocation to mitigate murder, unlike extreme assault, mutual combat, or discovering adultery. (a) is wrong because courts do not recognize financial extortion as adequate provocation for lethal violence. (b) is wrong because a person can premeditate defense but still react in sudden passion, though the real failure here is the lack of legally adequate provocation. (c) is wrong because while he was subjectively terrified, heat of passion also requires the provocation to be objectively adequate to cause a reasonable person to lose control. (e) is wrong because extreme emotional disturbance is the MPC standard; the prompt specifically asks about the "heat of passion" doctrine, which requires a specific sudden provoking act.
+
+**Tags:** chapters: [9], topics: [voluntary manslaughter, heat of passion, adequate provocation], difficulty: medium, cognitive: application
+
+**Grounding:** General Doctrine - Homicide Grading (Heat of Passion / Adequate Provocation limits)
+
+<!-- argument-pass: SHOULD FIX
+(a) Argument-for: A student could argue that enduring a cartel's extortion campaign places a person in constant fear, which modern courts might recognize as an ongoing provocation. The phrasing "automatically constitutes adequate provocation" gives the student a bright-line rule to latch onto, mistakenly believing that severe continuous threats always suffice for mitigation.
+(b) Argument-for: A student could argue that the essence of "sudden heat of passion" is the absence of premeditation or a cooling-off period. Because Matthew had time to deliberate and arm himself with a shotgun, he arguably planned the encounter. The statement that this "legally precludes any claim" sounds like a solid, absolute application of the cooling-off doctrine.
+(c) Argument-for: A student could argue that seeing a masked attacker with a crowbar is undeniably a startling and severe event. Because the prompt mentions genuine terror and trembling, a student focused on the subjective element of heat of passion would choose this option, believing that actual subjective terror is the primary requirement for mitigation.
+(d) Argument-for: A student who knows the common-law requirements for heat of passion will recognize that it requires both subjective passion and objectively adequate provocation. The student will know that mere threats to property or extortion do not fit the traditional categories of legally adequate provocation (e.g., discovering adultery, mutual combat), making (d) the legally correct application of the objective standard.
+(e) Argument-for: A student could argue that prolonged financial extortion would cause severe mental trauma. By invoking "extreme emotional disturbance," the student might think this modern MPC terminology is interchangeable with the traditional "heat of passion" doctrine and accurately reflects Matthew's psychological state.
+
+Head-to-head:
+Option (d) is the strongest and correct answer because it accurately applies the objective standard for adequate provocation under traditional common law, correctly noting that property damage threats and past extortion do not suffice. Option (a) is thoroughly falsifiable with its explicit use of "automatically" and "all modern criminal jurisdictions." Option (b) is falsifiable because the absolute phrase "legally precludes any claim" creates an explicitly false legal rule. Option (c), however, states "Yes" based purely on subjective terror, relying on the implicit omission of the objective standard rather than stating an explicitly false legal rule. Option (e) similarly relies on applying the wrong doctrine (EED instead of heat of passion) but does not contain a rigorously locked false legal statement. Under the close-call standard, both (c) and (e) should be updated to include absolute, falsifiable legal propositions.
+
+Falsifiable claim per distractor:
+- (a): "automatically constitutes adequate provocation as a matter of law in all modern criminal jurisdictions" — wrong because financial extortion and threats are not categorically recognized as adequate provocation everywhere.
+- (b): "premeditation that legally precludes any claim of sudden passion" — wrong because premeditation does not categorically preclude a sudden passion claim if a distinct, adequate provocation occurs simultaneously or immediately prior to the killing.
+- (c): "Yes, because seeing a masked attacker... subjectively induced genuine terror" — wrong on the outcome (the court will not grant it), but lacks an explicit false legal claim, relying instead on the implicit omission of the objective reasonableness requirement.
+- (e): "proves he was operating under an extreme emotional disturbance" — wrong because EED is the MPC standard, but lacks an absolute falsifiable legal proposition regarding the heat of passion doctrine.
+
+Recommended fix: Edit (c) to: "Yes, because subjective terror induced by an attacker automatically satisfies the provocation requirement regardless of objective reasonableness." Edit (e) to: "Yes, because the extreme emotional disturbance standard categorically applies to all common-law heat of passion claims."
 -->
 
 ## Issue 4 — argpass-opus
 
-**Q12.** Assume Kevin is charged under a standard felony murder statute. Is he guilty of felony murder?
+**Q12.** Assume Matthew's self-defense claim fails. He asks the court to reduce his murder charge to voluntary manslaughter based on the "heat of passion" doctrine. Will the court grant this reduction?
 
-(a) Guilty, because the fatal shooting occurred during the attempted commission of extortion, which qualifies as an inherently dangerous predicate felony. <!-- correct -->
-(b) Not guilty, because the felony murder doctrine only applies when the deceased victim is an innocent bystander rather than the target of the underlying felony.
-(c) Guilty, because any death that occurs while a criminal defendant is armed with a loaded firearm is strictly classified as felony murder under the common law.
-(d) Not guilty, because the defendant had not yet shattered the windows or obtained the money, meaning the predicate felony had not legally commenced.
-(e) Guilty, because the independent felony of illegal firearm possession merges with the homicide to create an automatic felony murder liability enhancement.
+(a) Yes, because enduring a prolonged extortion campaign by cartel members automatically constitutes adequate provocation as a matter of law in all modern criminal jurisdictions.
+(b) No, because Matthew had sufficient time to deliberate and arm himself with a shotgun, demonstrating premeditation that legally precludes any claim of sudden passion.
+(c) Yes, because seeing a masked attacker approach his business with a crowbar was a startling event that subjectively induced genuine terror and uncontrollable physiological trembling.
+(d) No, because mere property damage threats and past extortion demands do not satisfy the rigorous objective requirement of legally adequate provocation for sudden heat of passion. <!-- correct -->
+(e) Yes, because Matthew's exclamation before firing the weapon proves he was operating under an extreme emotional disturbance caused by the cartel's continuous financial bleeding.
 
-**Answer:** (a)
+**Answer:** (d)
 
-**Explanation:** The felony murder rule applies when a death occurs during the commission or attempted commission of an inherently dangerous felony. Extortion (and the violent attempt to enforce it) qualifies. Option (b) fails because felony murder applies regardless of whether the victim is a bystander or the intended target of the predicate felony. Option (c) fails because felony murder requires an underlying predicate felony, not merely being armed. Option (d) fails because an *attempt* to commit the predicate felony is legally sufficient to trigger the felony murder rule. Option (e) fails because possession of a firearm typically merges into the homicide or is not considered an independent inherently dangerous felony supporting the rule under the merger doctrine.
+**Explanation:** The correct answer is (d). Voluntary manslaughter under the heat of passion doctrine requires legally adequate provocation (an objective standard). At common law, threats of property damage or past financial disputes (extortion) are not recognized as adequate provocation to mitigate murder, unlike extreme assault, mutual combat, or discovering adultery. (a) is wrong because courts do not recognize financial extortion as adequate provocation for lethal violence. (b) is wrong because a person can premeditate defense but still react in sudden passion, though the real failure here is the lack of legally adequate provocation. (c) is wrong because while he was subjectively terrified, heat of passion also requires the provocation to be objectively adequate to cause a reasonable person to lose control. (e) is wrong because extreme emotional disturbance is the MPC standard; the prompt specifically asks about the "heat of passion" doctrine, which requires a specific sudden provoking act.
 
-**Tags:** chapters: [5], topics: [felony murder, attempt as predicate], difficulty: easy, cognitive: application
+**Tags:** chapters: [9], topics: [voluntary manslaughter, heat of passion, adequate provocation], difficulty: medium, cognitive: application
 
-**Grounding:** General Homicide Doctrine (Felony Murder Predicates)
+**Grounding:** General Doctrine - Homicide Grading (Heat of Passion / Adequate Provocation limits)
 
-<!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue this is the classic application of felony murder. Extortion is broadly categorized as an inherently dangerous felony capable of supporting a felony murder conviction, particularly when committed violently. Even though the extortion was only "attempted," the felony murder doctrine explicitly attaches to deaths caused during an attempt to commit a qualifying predicate felony, meaning the doctrine was validly triggered.
-(b) Argument-for: A student could argue that felony murder is an equitable doctrine designed to protect innocent third parties from the dangerousness of felonious conduct. If the deceased was the specific target of the extortion itself, the student might reason that standard intentional homicide rules—rather than the sweeping strict liability of felony murder—should take precedence. Under this reasoning, targeting the victim removes them from the class of "bystanders" the rule intends to protect.
-(c) Argument-for: A student could assume that the "inherently dangerous" requirement of felony murder is satisfied simply by being armed with a loaded weapon. They might conflate the common-law felony murder rule with strict liability firearm enhancements, reasoning that any death caused by an armed defendant is categorically elevated to murder. Thus, the presence of the loaded weapon itself universally fulfills the felony murder requirement.
-(d) Argument-for: A student might argue that the core *res gestae* of the felony must actually begin for felony murder to attach. Because Kevin had not yet shattered the windows or obtained the money, the student could argue his actions remained in the unpunishable preparatory phase. If the act had not crossed the threshold from preparation to attempt, the predicate felony had not legally commenced, effectively precluding a felony murder charge.
-(e) Argument-for: A student might recall that weapons offenses frequently accompany homicides and reason that illegal firearm possession can serve as the predicate felony. They might mistakenly interpret the "merger doctrine" (which traditionally bars assaultive felonies from serving as predicates) as an additive mechanism that combines the possessory offense and the homicide. Consequently, they would conclude this merger functions to create an automatic strict liability enhancement under the felony murder rule.
+<!-- argument-pass: MUST FIX
+(a) Argument-for: A student could argue that enduring a prolonged extortion campaign by a cartel constitutes a continuing threat that modern jurisdictions universally recognize as adequate provocation, effectively mitigating murder to manslaughter.
+(b) Argument-for: A student might assert that the core of the "heat of passion" defense requires a sudden, unreflective reaction; thus, if Matthew had sufficient time to deliberate and arm himself, he experienced a "cooling off" period that categorically bars the mitigation.
+(c) Argument-for: A student could strongly argue that a masked attacker with a crowbar is objectively terrifying (potentially an extreme assault) and that Matthew's genuine physiological trembling satisfies the subjective prong, making the reduction to manslaughter legally correct.
+(d) Argument-for: A student would argue that the common law strictly requires objectively adequate provocation, and mere threats of property damage or past extortion demands categorically fail to meet this rigorous objective standard.
+(e) Argument-for: A student might argue that the MPC's "extreme emotional disturbance" standard encompasses cumulative stress like financial bleeding, and that this standard is interchangeable with the "heat of passion" doctrine in assessing mitigation.
 
-Head-to-head: Option (a) correctly grounds liability in the established rule that an *attempted* inherently dangerous felony can serve as a felony murder predicate. Option (b) is explicitly falsifiable because of its absolute claim that the doctrine "only applies" to innocent bystanders, which contradicts hornbook law applying it to intended victims of the underlying felony. Option (c) fails due to the categorically false legal claim that "any death" involving a firearm is "strictly classified" as felony murder without needing a recognized BARRK or inherently dangerous predicate. Option (e) includes a direct contradiction of black-letter law: it claims the merger doctrine creates an "automatic... enhancement," when in reality, if an offense merges, it is explicitly *barred* from serving as a felony murder predicate. Option (d) is the weakest distractor structurally; while it misapplies the law of attempt by concluding the predicate "had not legally commenced," it phrases this as a factual conclusion based on the uncompleted acts (shattering windows/obtaining money) rather than locking it with absolute phrasing, making the legal error slightly more implicit than the standard demands.
+Head-to-head: (d) correctly states and applies the common law "heat of passion" requirement for objectively adequate provocation, accurately classifying property threats as legally inadequate. (a) makes a demonstrably false universal claim about "all modern criminal jurisdictions." (b) uses the absolute phrase "legally precludes any claim," which is false because arming oneself does not automatically bar a subsequent, genuinely sudden reaction to a new provocation. (e) explicitly applies the wrong legal standard (EED) to a "heat of passion" prompt. However, (c) is highly problematic. First, under the close-call standard, it relies on an implicit omission (failing to mention the objective standard) rather than explicitly claiming subjective terror alone is legally sufficient. Second, a masked attacker approaching with a crowbar could objectively qualify as an extreme assault, potentially making the "Yes" conclusion in (c) factually and legally defensible as a double-key.
 
 Falsifiable claim per distractor:
-- (b): "only applies when the deceased victim is an innocent bystander" — wrong because felony murder applies uniformly regardless of whether the victim is a bystander or the intended target of the predicate felony.
-- (c): "any death that occurs while a criminal defendant is armed with a loaded firearm is strictly classified as felony murder" — wrong because common law felony murder strictly requires an underlying qualifying predicate felony, not mere weapon possession.
-- (d): "meaning the predicate felony had not legally commenced" — wrong because an attempt (a substantial step) legally commences the predicate for felony murder purposes even before completion acts occur, though this distractor lacks an absolute locking word.
-- (e): "merges with the homicide to create an automatic felony murder liability enhancement" — wrong because the merger doctrine explicitly precludes a merged felony from serving as a felony murder predicate, rather than generating an automatic enhancement.
+- (a): "automatically constitutes adequate provocation as a matter of law in all modern criminal jurisdictions" — wrong because many jurisdictions still rely on strict categories that exclude extortion.
+- (b): "legally precludes any claim of sudden passion" — wrong because arming oneself does not categorically foreclose a heat of passion claim if a subsequent adequate provocation occurs.
+- (c): LACKS A FALSIFIABLE CLAIM. "Yes, because seeing a masked attacker... subjectively induced genuine terror" merely states a factual cause for a "Yes" without explicitly asserting that subjective terror *alone* is legally sufficient, violating the close-call standard's rule against implicit omissions.
+- (e): "proves he was operating under an extreme emotional disturbance" — wrong because extreme emotional disturbance is the MPC standard, whereas the prompt explicitly tests the common law "heat of passion" doctrine.
 
-Recommended fix: Update (d) to lock the falsifiable proposition with an absolute word. Change to: "Not guilty, because an extortion predicate categorically does not legally commence until the defendant actually obtains the extorted property."
+Recommended fix: In (c), insert absolute language to lock the falsifiable error: "Yes, solely because he experienced subjective terror, which automatically overrides the need for the provocation to be objectively adequate."
 -->

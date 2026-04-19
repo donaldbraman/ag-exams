@@ -1,34 +1,37 @@
-**Q11.** Assume Kevin's self-defense claim is entirely rejected. How should the resulting homicide be graded?
+**Q11.** Assume Matthew is charged with homicide for shooting Kevin. Can Matthew successfully assert self-defense?
 
-(a) Murder, because intentionally shooting the victim at close range fully satisfies the purpose or knowledge mens rea requirement for the highest offense. <!-- correct -->
-(b) Involuntary manslaughter, because he only acted with criminal recklessness in creating the initial confrontation that eventually led to the victim's death.
-(c) Voluntary manslaughter, because the victim's refusal to pay a debt legally constitutes adequate provocation to establish a heat-of-passion defense.
-(d) Negligent homicide, because a reasonable person would not have anticipated that breaking restaurant windows would escalate into a deadly shootout.
-(e) First-degree murder, because the use of any firearm during a misdemeanor property crime automatically triggers the highest grade of criminal homicide.
+(a) Yes, because Kevin's initial approach with a crowbar constituted an unprovoked threat of death or serious bodily harm to Matthew.
+(b) No, because Kevin was sprinting away, meaning the threat of harm was no longer imminent when Matthew fired the fatal shot. <!-- correct -->
+(c) Yes, because as a business owner, Matthew had no duty to retreat from his own property before using deadly force to defend it.
+(d) No, because Matthew was the initial aggressor by stepping out of the back door with a shotgun instead of calling law enforcement.
+(e) Yes, because Matthew honestly believed the cartel would continually bleed his business dry, creating an ongoing and inescapable threat to his life.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Criminal homicide is graded as murder when it is committed purposefully or knowingly. Fact 13 states Kevin "immediately drew the 9mm handgun... and shot Matthew, killing him instantly." This intentional deployment of deadly force satisfies the mens rea for murder. Option (b) fails because while his arrival was reckless, the actual shooting was purposeful. Option (c) fails because mere words or refusal to pay illegal extortion is never legally adequate provocation for voluntary manslaughter. Option (d) fails because Kevin was subjectively aware of the deadly risk, taking him out of mere negligence, and the shooting itself was intentional. Option (e) fails because felony murder requires an inherently dangerous predicate felony, not a misdemeanor property crime, and there is no automatic highest-grade trigger for all property crimes.
+**Explanation:** Self-defense requires that the threat of death or serious bodily harm be imminent. When an attacker abandons their weapon and flees, the imminent threat dissipates, and the use of deadly force is no longer legally justified. (a) is wrong because while the initial threat may have been imminent, self-defense is evaluated at the exact moment the force is used, at which point Kevin was fleeing. (c) is wrong because "stand your ground" or castle doctrine rules only remove the duty to retreat; they do not eliminate the core requirement that the threat be imminent. (d) is wrong because Kevin was the initial aggressor by approaching masked with a crowbar; Matthew's defensive display of a weapon did not make him the initial aggressor. (e) is wrong because future, non-imminent threats cannot justify the present use of deadly force under traditional self-defense doctrine.
 
-**Tags:** chapters: [5], topics: [homicide grading, mens rea for murder], difficulty: medium, cognitive: application
+**Tags:** chapters: [12], topics: [self-defense, imminence, fleeing suspect], difficulty: foundational, cognitive: application
 
-**Grounding:** General Homicide Doctrine (Purpose/Knowledge Mens Rea)
+**Grounding:** Chapter 12, self-defense imminence requirement.
 
 <!-- argument-pass: SHOULD FIX
-(a) Argument-for: A student could argue that when Kevin fired the handgun at close range, he acted with the specific intent to kill. With self-defense entirely rejected, this purposeful or knowing deployment of deadly force perfectly meets the mens rea standard for murder, justifying this option.
-(b) Argument-for: A student might focus on Kevin's initial actions leading up to the shooting rather than the trigger-pull itself. If they mistakenly believe his reckless creation of the initial confrontation governs the entire sequence of events, they could argue the resulting death warrants a grade of involuntary manslaughter.
-(c) Argument-for: A student could argue that being denied a significant owed debt is a deeply frustrating event that could trigger extreme emotional disturbance. Under this theory, they might mistakenly believe the refusal to pay serves as legally adequate provocation, mitigating the murder charge to voluntary manslaughter.
-(d) Argument-for: A student might reason that Kevin's original offense was a simple property crime (breaking windows). If a reasonable person would not foresee this escalating into a fatal shootout, a student could incorrectly conclude that Kevin's lack of foresight makes his ultimate state of mind negligent, leading to negligent homicide.
-(e) Argument-for: A student could confuse the felony-murder rule with a broader strict-liability framework for any firearm use. They might mistakenly assume that any use of a deadly weapon during any underlying crime—even a misdemeanor—automatically elevates the resulting death to first-degree murder.
+(a) Argument-for: Under the continuing danger doctrine, an initial unprovoked threat of death or serious bodily harm can sometimes justify a defensive response. A student could argue that Kevin's initial approach with a crowbar demonstrated a clear lethal intent that did not instantaneously dissipate the moment he turned away. Thus, this initial threat serves as the operative justification for Matthew's use of deadly force.
+(b) Argument-for: The core requirement of self-defense is that the threat of death or serious bodily harm must be imminent at the exact moment force is used. The facts indicate that Kevin was sprinting away when Matthew fired the fatal shot. Because a fleeing person who has abandoned an attack no longer poses an imminent threat, the use of deadly force is no longer legally justified, making this the correct application of the imminence requirement.
+(c) Argument-for: Under the Castle Doctrine and "stand your ground" rules, individuals attacked on their own property are not required to retreat before using deadly force. A student could argue that Matthew's status as a business owner on his own property gave him an absolute right to use deadly force to repel an intruder. Therefore, the lack of a duty to retreat independently justifies his actions.
+(d) Argument-for: The initial aggressor doctrine strips the right of self-defense from the person who escalates a conflict. A student could argue that by stepping out of the back door with a shotgun instead of calling law enforcement, Matthew escalated a potentially non-deadly encounter into a deadly one. If viewed as the initial aggressor, he would be barred from claiming self-defense.
+(e) Argument-for: Under expanded subjective standards of self-defense (akin to battered spouse syndrome), an honest belief in an ongoing, inescapable threat can sometimes justify the use of force. If Matthew genuinely believed the cartel would continually threaten his life and business, a student could argue this subjective belief in an inescapable threat satisfies the requirement for self-defense.
 
-Head-to-head:
-Option (a) correctly applies homicide mens rea doctrine, as an intentional, unexcused shooting constitutes murder. Option (e) provides a perfectly locked, explicit legal falsehood regarding an automatic trigger for misdemeanor firearm use. Option (c) presents a clear legal falsehood, as mere refusal to pay a debt is never adequate provocation. However, options (b) and (d) rely primarily on factual mischaracterizations rather than explicit, locked legal claims; (b) incorrectly claims Kevin "only" acted with recklessness, ignoring the intentional shooting, while (d) focuses on whether a reasonable person would anticipate the escalation. Both lack the absolute, categorical legal propositions required by the close-call standard.
+Head-to-head: Option (b) correctly applies the imminence requirement to the facts, concluding that a fleeing suspect cannot be shot in self-defense. However, distractors (a), (c), and (e) rely heavily on implicit omissions rather than explicitly false legal statements to fail. They present factually true premises (e.g., Matthew had no duty to retreat, Kevin initially approached with a crowbar) and draw the wrong conclusion ("Yes") without explicitly stating *why* that premise overcomes the lack of imminence. To meet the strict close-call standard, the distractors should be locked with absolute words to create explicitly falsifiable legal claims.
 
 Falsifiable claim per distractor:
-- (b): "he only acted with criminal recklessness" — wrong factually and legally because the final act of shooting was intentional, but lacks a locked legal proposition.
-- (c): "legally constitutes adequate provocation" — wrong because refusal to pay a debt categorically fails to meet the legal standard for adequate provocation.
-- (d): "a reasonable person would not have anticipated" — wrong factually and legally irrelevant to the subsequent intentional shooting, but lacks a locked absolute legal claim.
-- (e): "automatically triggers the highest grade of criminal homicide" — wrong because there is no blanket rule elevating misdemeanor deaths to first-degree murder.
+- (a): "Yes, because Kevin's initial approach..." — wrong conclusion, but relies on the implicit omission that imminence is no longer present. Lacks a locked, falsifiable legal rule.
+- (c): "Yes, because as a business owner, Matthew had no duty to retreat..." — true premise but wrong conclusion. Fails to explicitly claim that property defense overrides imminence.
+- (d): "Matthew was the initial aggressor by stepping out of the back door with a shotgun instead of calling law enforcement." — legally false application of the initial aggressor rule, but lacks absolute locking words.
+- (e): "Yes, because Matthew honestly believed the cartel would continually bleed his business dry..." — wrong conclusion based on a non-imminent future threat, but lacks absolute words defining the legal rule.
 
-Recommended fix: Edit (b) and (d) to include absolute legal claims. For (b): "Involuntary manslaughter, because creating a reckless initial confrontation categorically limits subsequent homicide liability to recklessness regardless of how the conflict ends." For (d): "Negligent homicide, because unforeseen escalation from property damage legally restricts homicide grading to negligence regardless of subsequent intent."
+Recommended fix: Add absolute locking words to the distractors to make their legal claims explicitly false. 
+(a) Yes, because an initial unprovoked threat of serious bodily harm categorically suspends the imminence requirement for the duration of the encounter.
+(c) Yes, because under the Castle Doctrine, a business owner defending their property has the absolute right to use deadly force regardless of whether the threat remains imminent.
+(d) No, solely because failing to call law enforcement before displaying a firearm automatically makes a person the initial aggressor.
+(e) Yes, because an honest belief in an inescapable future threat legally satisfies the imminence requirement in every jurisdiction.
 -->

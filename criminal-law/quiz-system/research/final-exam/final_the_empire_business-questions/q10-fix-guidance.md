@@ -4,30 +4,30 @@ The QA pipeline flagged this question. Rewrite `q10.md` addressing each numbered
 
 ## Issue 1 — audit
 
-**Q10.** Assume Kevin is charged with homicide and claims self-defense. Based on the facts provided, is this defense legally available to him?
+**Q10.** The government considers charging Jack with felony murder for Kevin's death, arguing Kevin was killed during the attempted extortion. In a jurisdiction applying the strict "agency rule" limitation on felony murder, will Jack be convicted?
 
-(a) Available, because under the Model Penal Code, recklessly provoking a conflict does not automatically strip a defendant of the right to use deadly force. <!-- correct -->
-(b) Unavailable, because anyone who arrives at a business location with criminal intent immediately forfeits all legal rights to assert self-defense claims.
-(c) Available, because the victim's steadfast refusal to pay the required extortion money made the victim the initial aggressor as a matter of state law.
-(d) Unavailable, because the defendant was sitting in a running vehicle and therefore had an absolute legal duty to retreat safely before firing the weapon.
-(e) Available, because the defendant possessed a valid property interest in collecting the extortion debt which legally justified the use of deadly force.
+(a) Yes, because Kevin's death was a highly foreseeable consequence of sending him to violently extort an uncooperative business owner under the proximate cause theory.
+(b) No, because the fatal shot was fired by Matthew, the victim of the felony, who was not an agent or co-felon of the underlying conspiracy. <!-- correct -->
+(c) Yes, because Jack orchestrated the extortion attempt, making him the principal in the first degree for any fatalities resulting from the execution of the crime.
+(d) No, because Kevin's status as a co-felon automatically bars application of the felony murder rule regardless of who actually pulled the trigger during the crime.
+(e) Yes, because Matthew's lawful use of self-defense establishes the requisite malice aforethought needed to transfer homicidal intent back to Jack's original extortion command.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Under MPC § 3.04(2)(b)(i), a defendant loses the right to use deadly force in self-defense only if they provoked the use of force against themselves *with the purpose* of causing death or serious bodily injury. Kevin only "consciously disregarded the substantial... risk" (recklessness), so he did not forfeit the defense under the MPC, especially when Matthew suddenly escalated the encounter with a deadly weapon (the bat). Option (b) fails because criminal intent alone does not forfeit self-defense unless it manifests as an initial aggressive physical act. Option (c) fails because refusing to pay extortion is entirely lawful and does not make one an aggressor. Option (d) fails because a sudden attack with a baseball bat through a window often eliminates the ability to safely retreat. Option (e) fails because deadly force cannot be used merely to protect or collect property.
+**Explanation:** The correct answer is (b). Under the agency rule limitation, the felony murder doctrine applies only if the fatal act is committed by one of the felons or their agents. Because Matthew (the victim) fired the fatal shot, the killing was not committed by an agent of the felony, so Jack is not liable for felony murder. (a) is wrong because it applies the broader "proximate cause" theory, which the prompt explicitly rules out by specifying the jurisdiction applies the "strict agency rule." (c) is wrong because orchestrating the crime does not override the agency rule's requirement that the fatal act be committed by a co-felon. (d) is wrong because the agency rule focuses on the identity of the killer (must be a co-felon), not the identity of the victim. (e) is wrong because lawful self-defense by a victim does not generate malice to be transferred to the felons.
 
-**Tags:** chapters: [8], topics: [self-defense, initial aggressor, provocation], difficulty: hard, cognitive: analysis
+**Tags:** chapters: [9], topics: [felony murder, agency rule, proximate cause], difficulty: hard, cognitive: application
 
-**Grounding:** General Justification Defenses (MPC 3.04 Provocation Exception)
+**Grounding:** General Doctrine - Felony Murder (Agency Rule exception)
 
 <!-- audit: MUST FIX
 Check 1: pass
 Check 2: pass
 Check 3: pass
-Check 4: Fails. The stem refers to "the facts provided" but contains no actual facts. It appears to be a dependent question detached from its fact pattern, as the options and explanation reference characters and events (Matthew, an extortion debt, a baseball bat, a running vehicle) that do not appear in the prompt.
+Check 4: MUST FIX. The question stem is completely missing the underlying fact pattern. It references Jack, Kevin, Matthew, and an "attempted extortion" without ever stating what happened (e.g., that Matthew shot Kevin in self-defense during the extortion). This appears to be an orphaned question severed from a multi-part fact pattern.
 Check 5: pass
 Check 6: pass
 Check 7: pass
 Check 8: pass
-Recommended fix: Integrate the missing fact pattern into the stem, detailing the extortion attempt, Kevin's reckless provocation, Matthew's attack with the baseball bat, and Kevin's position in the vehicle.
+Recommended fix: Integrate the required facts into the stem. For example: "Jack sent his accomplice, Kevin, to violently extort Matthew, an uncooperative business owner. During the attempted extortion, Matthew fired a gun in self-defense, killing Kevin. The government considers charging Jack with felony murder for Kevin's death. In a jurisdiction applying the strict 'agency rule' limitation on felony murder, will Jack be convicted?"
 -->

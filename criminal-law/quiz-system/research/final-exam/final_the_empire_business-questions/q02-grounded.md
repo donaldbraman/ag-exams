@@ -1,17 +1,17 @@
-**Q2.** Under the prevailing Model Penal Code standard, is Laura guilty as an accomplice to Kevin's drug distribution?
+**Q2.** Assume that, whether or not Jack is liable under RICO, the prosecution seeks to charge Laura as an accomplice to Kevin's drug distribution. Under the traditional common law rule for accomplice liability, is Laura guilty?
 
-(a) Guilty, because she continued to dispatch the company trucks with full knowledge that Kevin was using them to transport wholesale quantities of drugs.
-(b) Not guilty, because her sole intent was to maintain her lawful corporate salary, meaning she lacked the specific purpose to facilitate the drug crimes. <!-- correct -->
-(c) Guilty, because dispatching the collection routes constituted a substantial step strongly corroborative of a shared criminal objective to distribute drugs.
-(d) Not guilty, because she did not physically load the brick-shaped packages into the vehicles or personally handle the contraband at any given time.
-(e) Guilty, because as a salaried managerial employee of the corporation, she is held strictly liable for the foreseeable criminal acts of her subordinates.
+(a) Guilty, because dispatching the Empire Waste trucks provided necessary physical assistance to the successful distribution of the narcotics.
+(b) Not guilty, because her sole motive was to keep her lawful salary, meaning she lacked the purpose to facilitate the criminal venture. <!-- correct -->
+(c) Guilty, because she had actual knowledge that she was facilitating drug distribution when she dispatched the trucks.
+(d) Not guilty, because she did not personally handle or load the narcotics into the Empire Waste trucks on the route.
+(e) Guilty, because by retaining her salary she financially benefited from the proceeds of the illicit drug distribution.
 
 **Answer:** (b)
 
-**Explanation:** The Model Penal Code and the majority of jurisdictions require an accomplice to act with the *purpose* of promoting or facilitating the commission of the offense. Mere knowledge that one's actions will aid the principal is insufficient if the actor's only goal is an independent lawful benefit (like keeping a salary). Option (a) is incorrect because it applies a pure knowledge standard, which the MPC rejects for substantive accomplice liability. Option (c) is incorrect because "substantial step" is the actus reus standard for attempt, not the mens rea standard for complicity. Option (d) fails because physical handling is never required for accomplice liability; aiding via dispatching would suffice if the mens rea were present. Option (e) fails because corporate employees are not strictly liable for the crimes of co-workers.
+**Explanation:** Under the traditional *Peoni* rule, accomplice liability requires that the defendant act with the purpose of promoting or facilitating the crime. Merely providing routine services with knowledge of the crime, in order to keep a lawful pre-existing job, does not establish the required purpose or stake in the venture. (a) is wrong because providing physical assistance satisfies only the actus reus element; it ignores the required mens rea. (c) is wrong because under the common law majority rule, mere knowledge of the principal's criminal intent is insufficient without a shared purpose to see the venture succeed. (d) is wrong because physical handling of contraband is not required for accomplice liability if the defendant otherwise aids the crime with the requisite intent. (e) is wrong because receiving a standard lawful salary is not the equivalent of taking a financial stake in the success of the underlying criminal operation.
 
-**Tags:** chapters: [4], topics: [accomplice liability, purpose vs knowledge], difficulty: medium, cognitive: application
+**Tags:** chapters: [13, 15], topics: [accomplice liability, purpose vs. knowledge], difficulty: intermediate, cognitive: application
 
-**Grounding:** General Accomplice Liability principles (Peoni/Rosemond purpose requirement)
+**Grounding:** Chapter 13, United States v. Peoni; mens rea for accomplice liability.
 
-<!-- GROUNDING-FAIL: General Accomplice Liability principles (Peoni/Rosemond purpose requirement) is not in any chapter map. The closest taught doctrines are: N/A (meta-map artifact missing). Correct answer must rely on one of those instead. -->
+<!-- grounding: GROUNDED — Accomplice Liability Mens Rea (Peoni), Ch 13, Refinement `accomplice-mens-rea-purpose`. Rule paraphrased accurately. -->

@@ -1,27 +1,27 @@
-**Q11.** Assume Kevin's self-defense claim is entirely rejected. How should the resulting homicide be graded?
+**Q11.** Assume Matthew is charged with homicide for shooting Kevin. Can Matthew successfully assert self-defense?
 
-(a) Murder, because intentionally shooting the victim at close range fully satisfies the purpose or knowledge mens rea requirement for the highest offense. <!-- correct -->
-(b) Involuntary manslaughter, because he only acted with criminal recklessness in creating the initial confrontation that eventually led to the victim's death.
-(c) Voluntary manslaughter, because the victim's refusal to pay a debt legally constitutes adequate provocation to establish a heat-of-passion defense.
-(d) Negligent homicide, because a reasonable person would not have anticipated that breaking restaurant windows would escalate into a deadly shootout.
-(e) First-degree murder, because the use of any firearm during a misdemeanor property crime automatically triggers the highest grade of criminal homicide.
+(a) Yes, because Kevin's initial approach with a crowbar constituted an unprovoked threat of death or serious bodily harm to Matthew.
+(b) No, because Kevin was sprinting away, meaning the threat of harm was no longer imminent when Matthew fired the fatal shot. <!-- correct -->
+(c) Yes, because as a business owner, Matthew had no duty to retreat from his own property before using deadly force to defend it.
+(d) No, because Matthew was the initial aggressor by stepping out of the back door with a shotgun instead of calling law enforcement.
+(e) Yes, because Matthew honestly believed the cartel would continually bleed his business dry, creating an ongoing and inescapable threat to his life.
 
-**Answer:** (a)
+**Answer:** (b)
 
-**Explanation:** Criminal homicide is graded as murder when it is committed purposefully or knowingly. Fact 13 states Kevin "immediately drew the 9mm handgun... and shot Matthew, killing him instantly." This intentional deployment of deadly force satisfies the mens rea for murder. Option (b) fails because while his arrival was reckless, the actual shooting was purposeful. Option (c) fails because mere words or refusal to pay illegal extortion is never legally adequate provocation for voluntary manslaughter. Option (d) fails because Kevin was subjectively aware of the deadly risk, taking him out of mere negligence, and the shooting itself was intentional. Option (e) fails because felony murder requires an inherently dangerous predicate felony, not a misdemeanor property crime, and there is no automatic highest-grade trigger for all property crimes.
+**Explanation:** Self-defense requires that the threat of death or serious bodily harm be imminent. When an attacker abandons their weapon and flees, the imminent threat dissipates, and the use of deadly force is no longer legally justified. (a) is wrong because while the initial threat may have been imminent, self-defense is evaluated at the exact moment the force is used, at which point Kevin was fleeing. (c) is wrong because "stand your ground" or castle doctrine rules only remove the duty to retreat; they do not eliminate the core requirement that the threat be imminent. (d) is wrong because Kevin was the initial aggressor by approaching masked with a crowbar; Matthew's defensive display of a weapon did not make him the initial aggressor. (e) is wrong because future, non-imminent threats cannot justify the present use of deadly force under traditional self-defense doctrine.
 
-**Tags:** chapters: [5], topics: [homicide grading, mens rea for murder], difficulty: medium, cognitive: application
+**Tags:** chapters: [12], topics: [self-defense, imminence, fleeing suspect], difficulty: foundational, cognitive: application
 
-**Grounding:** General Homicide Doctrine (Purpose/Knowledge Mens Rea)
+**Grounding:** Chapter 12, self-defense imminence requirement.
 
 <!-- audit: MUST FIX
-check 1: Fails. Option (a) incorrectly claims that "purpose or knowledge" satisfies the mens rea "for the highest offense." Under the traditional Pennsylvania grading model (used in most U.S. jurisdictions), first-degree murder is the highest offense and strictly requires premeditation and deliberation. Purpose or knowledge alone only guarantees second-degree (or baseline) murder. A prepared student could successfully appeal this.
-check 2: Pass. The distractors represent plausible but doctrinally flawed legal theories.
-check 3: Pass. The explanation correctly identifies that purpose/knowledge meets the mens rea for baseline murder, though it overlooks the "highest offense" jurisdictional discrepancy present in Option A.
-check 4: Pass. The question implicitly relies on a global fact pattern ("Fact 13"). Provided the global fact pattern contains these details, no outside assumptions are needed.
-check 5: Fails. The stem does not specify a jurisdiction (e.g., MPC vs. Common Law / PA Model). Because jurisdictions divide heavily on homicide grading (specifically whether premeditation/deliberation is required to elevate murder to the "highest" degree), including "highest offense" in the correct answer without specifying the jurisdictional rules introduces fatal ambiguity.
-check 6: Pass. No excluded topics present.
-check 7: Pass. Homicide grading correctly maps to Chapter 5.
-check 8: Pass. Excellent length parity; all options are between 20 and 23 words.
-Recommended fix: Remove the phrase "for the highest offense" from Option (a). Rewrite Option (a) to simply read: "Murder, because intentionally shooting the victim at close range fully satisfies the purpose or knowledge mens rea requirement for that offense."
+check 1: pass
+check 2: pass
+check 3: pass
+check 4: MUST FIX. The question stem entirely lacks a fact pattern. It asks about Matthew shooting Kevin and the options/explanation rely on specific facts (Kevin approaching with a crowbar, Kevin sprinting away, cartel threats, a shotgun), but none of these facts are provided in the prompt.
+check 5: pass
+check 6: pass
+check 7: pass
+check 8: pass
+Recommended fix: Provide the full fact pattern in the question stem so students have the necessary context to answer the question (or ensure the question is correctly linked to its shared fact pattern if this is part of a larger hypo).
 -->
