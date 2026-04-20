@@ -21,7 +21,7 @@ _cache = Cache(str(CACHE_DIR))
 
 def _get_client() -> genai.Client:
     """Return an authenticated Gemini client."""
-    api_key = get_secret("google-api-key")
+    api_key = get_secret("gemini-api-key")
     return genai.Client(api_key=api_key)
 
 def _compute_cache_key(prompt: str, system: str, model: str) -> str:

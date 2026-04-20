@@ -2,7 +2,7 @@ import sys
 from google import genai
 from auth_utils.secrets import get_secret
 
-api_key = get_secret("google-api-key")
+api_key = get_secret("gemini-api-key")
 client = genai.Client(api_key=api_key)
 
 try:

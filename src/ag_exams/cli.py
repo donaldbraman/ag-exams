@@ -24,7 +24,7 @@ async def start_exam(config: ExamConfig) -> str:
     
     print("Pre-fetching credentials to prevent concurrent gRPC crashes...")
     from auth_utils.secrets import get_secret
-    os.environ["GOOGLE_API_KEY"] = get_secret("google-api-key")
+    os.environ["GEMINI_API_KEY"] = get_secret("gemini-api-key")
 
     print("Starting ephemeral Temporal worker...")
     worker_proc = subprocess.Popen(
