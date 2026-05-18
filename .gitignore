@@ -42,3 +42,7 @@ share/python-wheels/
 
 /.quarto/
 **/*.quarto_ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
